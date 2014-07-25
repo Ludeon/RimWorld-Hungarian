@@ -1,7 +1,7 @@
 RimWorld-Hungarian
 ==================
 
-Officla Hungarian translation of RimWorld.
+Official Hungarian translation of RimWorld.
 
 See this page for license info:
 
