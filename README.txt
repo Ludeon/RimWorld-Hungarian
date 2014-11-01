@@ -26,7 +26,7 @@ U - ConceptDefs.xml
 T - Credits.xml
 T - Dates.xml
 U - Designators.xml
-U - DialogsVarious.xml
+S - DialogsVarious.xml
 T - DialogTrees.xml
 U - Enums.xml
 U - FloatMenu.xml
