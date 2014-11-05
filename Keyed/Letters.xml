@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <JumpToLocation>Helyszínhez ugrás</JumpToLocation>
+
+  <RelationsBrokenDown>A viszony {0}-val elromlott. Mostantól ellenségesek veled.</RelationsBrokenDown>
+  <RelationsWarmed>A viszony {0}-val megjavult. Mostantól nem ellenségesek veled.</RelationsWarmed>
+
+  <RelationsBrokenCapture>Mivel elfogtad {0}-t, így {1} mostantól az ellenséged.</RelationsBrokenCapture>
+
+  <ColonyGoodwill>Kolónia viszonya???</ColonyGoodwill>
+  <Neutral>Semlegesl</Neutral>
+
+  <ShortCircuitRain>Egy {0} rövidzárlatos lett az esőben és tüzet okozott.</ShortCircuitRain>
+  <AreaRevealed>Egy új terület lett felfedezve.</AreaRevealed>
+
+  <RoofCollapsed>Egy tető beomlott, mert túl messze volt minden támasztéktól.</RoofCollapsed>
+  <TheseThingsCrushed>Ezek a dolgok lettek összezúzva:</TheseThingsCrushed>
+  <NothingCrushed>Semmi sem lett összezúzva.</NothingCrushed>
+
+  <MentalBreakRampage>{0} fejében valami elpattant és őrjöngésbe kezdett.</MentalBreakRampage>
+  <MentalBreakDaze>{0} feladta és most kábultan sétálgat.</MentalBreakDaze>
+  <MentalBreakLeave>{0} feladta és elhagyja a kolóniát.</MentalBreakLeave>
+
+  <RecruitSuccess>{0} sikeresen besorozta??? {1}-t ({2} esély???).</RecruitSuccess>
+  <RecruitFail>{0} sikertelenül próbálta besorozni??? {1}-t ({2} esély???).</RecruitFail>
+
+  <Birthday>Ma van {0} születésnapja! {1} ma lett {2}.</Birthday>
+  <BirthdayWithInjuries>Ma van {0} születésnapja! {1} ma lett {2}.\n\nSajnos, {0} a korral a következő betegségek alakultak ki nála:\n{3}</BirthdayWithInjuries>
+
+  <NewDisease>{0} beteg lett ({1}). Győződj meg róla, hogy {0} megfelelő ellátást kap és annyi időt tölt ágyban, amennyit csak lehetséges, hogy gyorsan felépüljön.</NewDisease>
+  <NewPartDisease>{0} {1} fertőzést kapott. Győződj meg róla, hogy {0} megfelelő ellátást kap és annyi időt tölt ágyban, amennyit csak lehetséges, hogy gyorsan felépüljön.</NewPartDisease>
+
+</LanguageData>

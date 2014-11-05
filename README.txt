@@ -33,12 +33,12 @@ U - FloatMenu.xml
 U - Gameplay.xml
 U - GameplayCommands.xml
 U - Incidents.xml
-U - Letters.xml
+D - Letters.xml
 U - Menus_Main.xml
-U - Menus_Overview.xml
+D - Menus_Overview.xml
 U - Menu_Options.xml
 U - Messages.xml
-U - Misc.xml
+D - Misc.xml
 T - PlayInterface.xml
 D - Pronouns.xml
 T - Skills.xml

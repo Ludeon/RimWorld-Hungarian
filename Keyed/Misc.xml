@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Autosaving>Auto mentés</Autosaving>
+
+  <GameStartDialog>Sziréna és hasadó fém hangjára ébredtek hárman a krio-álom kapszuláitokban. Épphogy csak elértétek a mentőkabinjaitokat mielőtt a hajó széthullott.\n\nKicsivel később ezen az ismeretlen bolygón landoltatok.\n\nMiközben a szétszaggatott hajó darabjai hullanak rátok, elkezdtek terveket szőni a túlélésről.</GameStartDialog>
+
+  <Colony>Kolónia</Colony>
+
+  <ChangeLanguageFromMainMenu>Csak a főmenü beállításaiban tudsz nyelvet változtatni.</ChangeLanguageFromMainMenu>
+
+  <AndLower>és</AndLower>
+  <DisabledLower>letiltva</DisabledLower>
+
+  <CloseButton>Bezárás</CloseButton>
+
+  <VersionIndicator>Verzió {0}</VersionIndicator>
+  <DevelopmentBuildLower>fejlesztő kiadás</DevelopmentBuildLower>
+  <CompiledOn>Fordítás {0}</CompiledOn>
+
+	<MeatLabel>{0} hús</MeatLabel>
+  <MeatDesc>A {0} nyers húsa.</MeatDesc>
+
+  <LeatherLabel>{0} bőr</LeatherLabel>
+  <LeatherDesc>{0}-ból készült bőr.</LeatherDesc>
+
+  <CorpseLabel>{0} holtteste</CorpseLabel>
+	<CorpseDesc>A {0} halott teste.</CorpseDesc>
+  <DeadLabel>{0} (halott)</DeadLabel>
+
+	<BlueprintLabelExtra> (alaprajz)</BlueprintLabelExtra>
+  <FrameLabelExtra> (építés alatt)</FrameLabelExtra>
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <VariousLabel>(többféle)</VariousLabel>
+
+  <!-- History events -->
+  <ColonistDied>Gyarmatos meghalt</ColonistDied>
+
+</LanguageData>
