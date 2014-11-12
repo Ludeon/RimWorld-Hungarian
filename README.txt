@@ -11,6 +11,7 @@ http://ludeon.com/forums/index.php?topic=2933.0
 Translators:
 ---------------------
 - Jamesgt
+- SjoCi
 
 Known issues:
 ---------------------
