@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Cut -->
+  <rep>
+    <path>Cut.label</path>
+    <trans>vágás</trans>
+  </rep>
+  <rep>
+    <path>Cut.deathMessage</path>
+    <trans>{0}-t halálos vágást kapott.</trans>
+  </rep>
+  
+  <!-- Crush -->
+  <rep>
+    <path>Crush.label</path>
+    <trans>zúzás</trans>
+  </rep>
+  <rep>
+    <path>Crush.deathMessage</path>
+    <trans>{0}-t összezúzták.</trans>
+  </rep>
+  
+  <!-- Blunt -->
+  <rep>
+    <path>Blunt.label</path>
+    <trans>ütés</trans>
+  </rep>
+  <rep>
+    <path>Blunt.deathMessage</path>
+    <trans>{0}-t agyonverték.</trans>
+  </rep>
+  
+  <!-- Stab -->
+  <rep>
+    <path>Stab.label</path>
+    <trans>szúrás</trans>
+  </rep>
+  <rep>
+    <path>Stab.deathMessage</path>
+    <trans>{0}-t halálra szúrták.</trans>
+  </rep>
+  
+  <!-- Bullet -->
+  <rep>
+    <path>Bullet.label</path>
+    <trans>golyó</trans>
+  </rep>
+  <rep>
+    <path>Bullet.deathMessage</path>
+    <trans>{0}-t agyonlőtték.</trans>
+  </rep>
+  
+  <!-- Arrow -->
+  <rep>
+    <path>Arrow.label</path>
+    <trans>nyíl</trans>
+  </rep>
+  <rep>
+    <path>Arrow.deathMessage</path>
+    <trans>{0}-t lenyilazták.</trans>
+  </rep>
+  
+  <!-- Scratch -->
+  <rep>
+    <path>Scratch.label</path>
+    <trans>tépés</trans>
+  </rep>
+  <rep>
+    <path>Scratch.deathMessage</path>
+    <trans>{0}-t széttépték.</trans>
+  </rep>
+  
+  <!-- Bite -->
+  <rep>
+    <path>Bite.label</path>
+    <trans>harapás</trans>
+  </rep>
+  <rep>
+    <path>Bite.deathMessage</path>
+    <trans>{0}-t szétharapták.</trans>
+  </rep>
+  
+  <!-- Bomb -->
+  <rep>
+    <path>Bomb.label</path>
+    <trans>robbanószer</trans>
+  </rep>
+  <rep>
+    <path>Bomb.deathMessage</path>
+    <trans>{0}-t felrobbant.</trans>
+  </rep>
+  
+  <!-- Flame -->
+  <rep>
+    <path>Flame.label</path>
+    <trans>láng</trans>
+  </rep>
+  <rep>
+    <path>Flame.deathMessage</path>
+    <trans>{0}-t halálra égett.</trans>
+  </rep>
+  
+  <!-- SurgicalCut -->
+  <rep>
+    <path>SurgicalCut.label</path>
+    <trans>sebészi vágás</trans>
+  </rep>
+  <rep>
+    <path>SurgicalCut.deathMessage</path>
+    <trans>{0}-t operáció közben meghalt.</trans>
+  </rep>
+  
+  <!-- ************ -->
+  <!-- *** Stun *** -->
+  <!-- ************ -->
+  
+  <!-- Stun -->
+  <rep>
+    <path>Stun.label</path>
+    <trans>bénítás</trans>
+  </rep>
+  <rep>
+    <path>Stun.deathMessage</path>
+    <trans>{0}-t halálra bénult.</trans>
+  </rep>
+  
+  <!-- EMP -->
+  <rep>
+    <path>EMP.label</path>
+    <trans>EMP</trans>
+  </rep>
+  <rep>
+    <path>EMP.deathMessage</path>
+    <trans>{0} EMP általi halált halt.</trans>
+  </rep>
+  
+  <!-- *********************** -->
+  <!-- *** Global injuries *** -->
+  <!-- *********************** -->
+  
+  <!-- Bleeding -->
+  <rep>
+    <path>Bleeding.label</path>
+    <trans>vérzés</trans>
+  </rep>
+  <rep>
+    <path>Bleeding.deathMessage</path>
+    <trans>{0} elvérzett.</trans>
+  </rep>
+  
+  <!-- Suffocation -->
+  <rep>
+    <path>Suffocation.label</path>
+    <trans>fulladás</trans>
+  </rep>
+  <rep>
+    <path>Suffocation.deathMessage</path>
+    <trans>{0} megfulladt.</trans>
+  </rep>
+  
+  <!-- Starvation -->
+  <rep>
+    <path>Starvation.label</path>
+    <trans>éhezés</trans>
+  </rep>
+  <rep>
+    <path>Starvation.deathMessage</path>
+    <trans>{0} halálra éhezett.</trans>
+  </rep>
+  
+  <!-- **************************** -->
+  <!-- *** Healing local injury *** -->
+  <!-- **************************** -->
+  
+  <!-- HealLocalInjury -->
+  <rep>
+    <path>HealLocalInjury.label</path>
+    <trans>helyi sérülés gyógyítása</trans>
+  </rep>
+  
+  <!-- ***************************** -->
+  <!-- *** Healing global injury *** -->
+  <!-- ***************************** -->
+  
+  <!-- HealGlobalInjury -->
+  <rep>
+    <path>HealGlobalInjury.label</path>
+    <trans>globális sérülés gyógyítása</trans>
+  </rep>
+  
+  <!-- *************************** -->
+  <!-- *** Restoring body part *** -->
+  <!-- *************************** -->
+  
+  <!-- RestoringBodyPart -->
+  <rep>
+    <path>RestoringBodyPart.label</path>
+    <trans>testrész helyreállítása</trans>
+  </rep>
+  
+  <!-- ************ -->
+  <!-- *** misc *** -->
+  <!-- ************ -->
+  
+  <!-- Breakdown -->
+  <rep>
+    <path>Breakdown.label</path>
+    <trans>összeomlás</trans>
+  </rep>
+  
+  <!-- Mining -->
+  <rep>
+    <path>Mining.label</path>
+    <trans>bányászás</trans>
+  </rep>
+  
+  <!-- Rotting -->
+  <rep>
+    <path>Rotting.label</path>
+    <trans>rohadás</trans>
+  </rep>
+  
+  <!-- Extinguish -->
+  <rep>
+    <path>Extinguish.label</path>
+    <trans>eloltás</trans>
+  </rep>
+</LanguageData>
