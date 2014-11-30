@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>Sötét</Dark>
+  <Lit>Megvilágított</Lit>
+  <LitBrightly>Erősen megvilágított</LitBrightly>
+
+  <!-- food quality -->
+  <NoneQuality>Semmilyen</NoneQuality>
+  <PlantQuality>Növényi</PlantQuality>
+  <RawQuality>Nyers</RawQuality>
+  <MealAwfulQuality>Borzasztó</MealAwfulQuality>
+  <MealSimpleQuality>Egyszerű</MealSimpleQuality>
+  <MealFineQuality>Finom</MealFineQuality>
+  <MealLavishLavish>Bőséges</MealLavishLavish>
+
+  <!-- diet type -->
+  <NeverEats>Sosem eszik</NeverEats>
+  <Omnivorous>Mindenevő</Omnivorous>
+  <Herbivorous>Növényevő</Herbivorous>
+  <Carnivorous>Húsevő</Carnivorous>
+
+  <!-- history upload pref -->
+  <Unspecified>Nincs eldöntve</Unspecified>
+  <Always>Engedélyezve</Always>
+  <Never>Tiltva</Never>
+
+  <!-- Price types -->
+  <PriceTypeVeryCheap>nagyon olcsó</PriceTypeVeryCheap>
+  <PriceTypeCheap>olcsó</PriceTypeCheap>
+  <PriceTypeNormal>normális</PriceTypeNormal>
+  <PriceTypeExpensive>drága</PriceTypeExpensive>
+  <PriceTypeExorbitant>túlárazott</PriceTypeExorbitant>
+
+  <!-- stat category -->
+  <StatCategory_General>Általános</StatCategory_General>
+  <StatCategory_GeneralNonPawn>Általános</StatCategory_GeneralNonPawn>
+  <StatCategory_Armor>Páncél</StatCategory_Armor>
+  <StatCategory_PawnPrimary>Elsődleges</StatCategory_PawnPrimary>
+  <StatCategory_PawnWork>Munka</StatCategory_PawnWork>
+  <StatCategory_PawnCombat>Harc</StatCategory_PawnCombat>
+  <StatCategory_PawnSocial>Szociális</StatCategory_PawnSocial>
+  <StatCategory_PawnMisc>Egyéb</StatCategory_PawnMisc>
+  <StatCategory_Building>Építés</StatCategory_Building>
+
+  <EquippedStatOffsets>Módosító viselve</EquippedStatOffsets>
+  <StuffOfEquipmentStatModifiers>Módosító, ha az eszköz ebből készült</StuffOfEquipmentStatModifiers>
+
+</LanguageData>

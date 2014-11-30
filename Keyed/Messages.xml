@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <MessageSiegersAssaulting>A {0} ostromlók {1}-ből megrohamozzák a kolóniát.</MessageSiegersAssaulting>
+
+  <MessageRaidersBeginningAssault>{0} a {1}-ből megkezdik a rohamot.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} a {1}-ből észrevettek titeket és előbb kezdik meg a rohamot.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} a {1}-ből úgy döntöttek, hogy elrabolják akit tudnak és távoznak.</MessageRaidersKidnapping>
+
+  <MessageRaidersLeaving>{0} a {1}-ből távoznak.</MessageRaidersLeaving>
+  <MessageRaidersGivenUpLeaving>{0} a {1}-ből feladták és távoznak.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} a {1}-ből elégedettek a rombolással, amit tettek és távoznak.</MessageRaidersSatisfiedLeaving>
+
+  <MessageFightersFleeing>{0} a {1}-ből menekülnek.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>A barátságos {0} a {1}-ből távoznak.</MessageFriendlyFightersLeaving>
+
+  <MessageShipHasLeftCommsRange>{0} elhagyta a komm. tartományt.</MessageShipHasLeftCommsRange>
+
+  <MessageNeedBeaconToTradeWithShip>You need an orbital trade beacon to trade with a ship.</MessageNeedBeaconToTradeWithShip>
+
+  <MessageBillComplete>Bill complete: {0}.</MessageBillComplete>
+
+  <MessageFullyHealed>{0} is fully healed.</MessageFullyHealed>
+
+  <MessagePrisonerIsEscaping>Prisoner {0} is escaping.</MessagePrisonerIsEscaping>
+
+  <MessageRecruitSuccess>{0} sikeresen toborozta {1}-t ({2} esély).</MessageRecruitSuccess>
+  <MessageRecruitFail>{0} sikertel volt {1} toborzásában ({2} esély).</MessageRecruitFail>
+  <MessageRecruitFailBecauseLoyalty>{0} sikertelen volt {1} toborzásában (rab a hűségküszöb alatt).</MessageRecruitFailBecauseLoyalty>
+
+  <MessagePoorlyTreated>{1} ellátta {0}-t (rossz minőségben, {2} esély a jó minőségre).</MessagePoorlyTreated>
+  <MessageWellTreated>{1} ellátta {0}-t (jó minőségben, {2} esély a jó minőségre).</MessageWellTreated>
+
+  <MessageTraderCannotAfford>A kereskedő nem engedheti meg magának ezt a vásárlást.</MessageTraderCannotAfford>
+  <MessageColonyCannotAfford>A kolónia nem engedheti meg magának ezt a vásárlást.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Nincs elég ezüstöd a vásárláshoz.</MessageColonyNotEnoughSilver>
+  <MessageTraderNotEnoughSilver>A kereskedőnek nincs elég ezüstje.</MessageTraderNotEnoughSilver>
+
+  <MessageCriticalAlert>Kritikus riasztás: {0}</MessageCriticalAlert>
+
+  <MessageMustDesignateHarvestable>Eléggé kifejlett növények kell kijelölni.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>Eléggé kifejlett és fát adó fákat kell kijelölni.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Növényeket kell kijelölni.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Szállítható dolgoket kell kijelölni.</MessageMustDesignateHaulable>
+
+  <MessageNoMedicalBeds>Nincsennek elérhető orvosi ágyak.</MessageNoMedicalBeds>
+
+  <PawnDiedBecauseOf>{0} meghalt {1} miatt.</PawnDiedBecauseOf>
+
+  <MessageNoLongerDowned>{0} már képes járni.</MessageNoLongerDowned>
+
+</LanguageData>

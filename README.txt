@@ -26,19 +26,19 @@ U - Alerts.xml
 U - ConceptDefs.xml
 T - Credits.xml
 T - Dates.xml
-U - Designators.xml
+D - Designators.xml
 D - DialogsVarious.xml - ???
 T - DialogTrees.xml
-U - Enums.xml
-U - FloatMenu.xml
+D - Enums.xml
+D - FloatMenu.xml
 U - Gameplay.xml
 U - GameplayCommands.xml
 U - Incidents.xml
 D - Letters.xml
 U - Menus_Main.xml
 D - Menus_Overview.xml
-U - Menu_Options.xml
-U - Messages.xml
+D - Menu_Options.xml
+D - Messages.xml
 D - Misc.xml
 T - PlayInterface.xml
 D - Pronouns.xml

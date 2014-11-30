@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <CallOnRadio>{0} hívása</CallOnRadio>
+  <CannotUseSolarFlare>Nem használható (napkitörés)</CannotUseSolarFlare>
+  <CannotUseNoPower>Nem használható (nincs energia)</CannotUseNoPower>
+  <CannotUseNoPath>Nem használható (nem megközelíthető)</CannotUseNoPath>
+  <CannotUseReserved>Nem használható (fenntartott)</CannotUseReserved>
+  <CannotUseFull>Nem használható (tele van)</CannotUseFull>
+
+  <FireAt>{0} tüzet fogott</FireAt>
+
+  <OutOfRange>túl messze van</OutOfRange>
+  <CannotHitTarget>nem tudja megütni</CannotHitTarget>
+  <CannotFight>{0} nem tud harcolni</CannotFight>
+
+  <OrderManThing>{0} működtetése</OrderManThing>
+
+  <MeleeAttack>Támadd puszta kézzel {0}-t</MeleeAttack>
+  <MeleeAttackToDeath>Támadd puszta kézzel {0} míg meg nem hal</MeleeAttackToDeath>
+  <NoPath>nem megközelíthető</NoPath>
+
+  <ForbiddenLower>tiltott</ForbiddenLower>
+  <SociallyImproperLower>szociálisan képtelen</SociallyImproperLower>
+  <PrisonerRoomLower>börtönszoba</PrisonerRoomLower>
+  <BurningLower>ég</BurningLower>
+  <NoEmptyPlaceLower>nincs üres hely beállítva, ahol tárolhatnák</NoEmptyPlaceLower>
+  <AlreadyFilledLower>már eléggé meg van töltve</AlreadyFilledLower>
+  <MissingMaterials>alapanyag szükséges</MissingMaterials>
+
+  <CannotGoNoPath>Nem lehet ide eljutni (nem megközelíthető)</CannotGoNoPath>
+  <GoHere>Menj ide</GoHere>
+
+  <Arrest>Tartóztad le {0}-t</Arrest>
+  <CannotArrest>Nem tudja letartóztatni</CannotArrest>
+
+  <Capture>Fogd el {0}-t</Capture>
+  <CannotCapture>Nem tudja elfogni</CannotCapture>
+
+  <Rescue>Mentsd meg {0}-t</Rescue>
+  <CannotRescue>Nem tudja megmenteni</CannotRescue>
+
+  <NoPrisonerBed>Nincs zárt helyen lévő, rabnak szánt ágy.</NoPrisonerBed>
+  <NoNonPrisonerBed>Nincs használható, nem rabnak szánt ágy.</NoNonPrisonerBed>
+  <Reserved>Másnak van fenntartva.</Reserved>
+  <ReservedBy>Fenntartva {0}-nak.</ReservedBy>
+  <IsReservedBy>{0} fenntartva {1}-nak.</IsReservedBy>
+
+  <NoManipulationSkill>képtelen</NoManipulationSkill>
+
+  <Equip>Használd {0}-t</Equip>
+  <EquipWarningBrawler>(nem lesz boldog)</EquipWarningBrawler>
+  <CannotEquip>Nem tudja használni {0}-t</CannotEquip>
+
+  <Wear>Viseld {0}-t</Wear>
+  <CannotWear>Nem tudja viselni {0}-t</CannotWear>
+
+  <Strip>Vetköztesd le {0}-t</Strip>
+  <CannotStrip>Nem tudja levetköztetni {0}-t</CannotStrip>
+
+  <Deposit>Tedd a {0}-t ide: {1}</Deposit>
+  <CannotDeposit>Nem tudja {0}-t idetenni: {1}</CannotDeposit>
+
+  <Drop>Dobd el {0}-t</Drop>
+
+  <UseMedicalBed>Pihenj a teljes felgyógyulásig.</UseMedicalBed>
+  <NotInjured>Nem sérült meg.</NotInjured>
+  <SomeoneElseSleeping>Foglalt</SomeoneElseSleeping>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepPod>Szállj be a krióalvás kapszulába</EnterCryptosleepPod>
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Nem tudja {0} a {1}-t</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotGenericAlreadyAm>Már {0} a {1}-t</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeIsNotA>Nem tudja előre venni ({0} nem {1})</CannotPrioritizeIsNotA>
+
+  <CannotPrioritizeResearch>Nem tudja előre venni (a kutatás egy hosszú távú feladat)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Nem tudja előre venni ({0} tiltott)</CannotPrioritizeForbidden>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>Vedd előre a {0}-át a {1}-nak</PrioritizeGeneric>
+
+</LanguageData>

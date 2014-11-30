@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>Audió-videó</Audiovisuals>
+  <GameVolume>Játék hangerő</GameVolume>
+  <MusicVolume>Zene hangerő</MusicVolume>
+  <GraphicsQuality>Grafika minősége</GraphicsQuality>
+  <GraphicsQualityNormal>Normál</GraphicsQualityNormal>
+  <GraphicsQualityGreat>Kiemelkedő</GraphicsQualityGreat>
+
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Egérgörgetés a kép szélén</EdgeScreenScroll>
+  <CustomCursor>Egyedi kurzor</CustomCursor>
+  <ChooseLanguage>Válassz nyelvet</ChooseLanguage>
+  <AdaptiveTutor>Adaptív oktató</AdaptiveTutor>
+  <ResetAdaptiveTutor>Adaptív oktató visszaállítása</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Adaptív oktató visszaállítva. A kezdetektől oktatni fog.</AdaptiveTutorIsReset>
+  <RunInBackground>Futás háttérben</RunInBackground>
+  <DevelopmentMode>Fejlesztő mód</DevelopmentMode>
+  <LogDeepProfileData>Teljes profil adatok loggolása</LogDeepProfileData>
+  <OpenSaveGameDataFolder>Mentett állások mappájának megnyitása</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Vezetéknevek, amiket a játékban vagy a háttértörténetben látni akarsz:</NamesYouWantToSee>
+  <ChangeStoryteller>Válassz mesélőt</ChangeStoryteller>
+
+  <!-- Resolution -->
+  <Resolution>Felbontás</Resolution>
+  <Fullscreen>Teljes képernyő</Fullscreen>
+  <CurrentRes>Kiválasztva: {0}</CurrentRes>
+  <ChooseResolution>Válassz felbontást</ChooseResolution>
+
+  <!-- Privacy-->
+  <Privacy>Titoktartás</Privacy>
+  <UserName>Felhasználói név</UserName>
+  <ChooseHistoryUploadPref>Játékadatok feltöltési beállítása</ChooseHistoryUploadPref>
+  <CurrentHistoryUploadPref>Kiválasztva: {0}</CurrentHistoryUploadPref>
+  <AboutHistoryUpload>A felhasználók játékadatai segítik a fejlesztőket kiegyensúllyozni a játékot. Ha beleegyezzel, az adataid elküldésre kerülnek minden {0} játék naponta (és néhány egyéb ritka esetekben, mint a játék vége) a RimWorld szervernek, aztán ki lesznek elemezve. A feltöltött játékadatok a történelmi feljegyzések statisztikáiból állnak - semmilyen személyes adat nem kerül elküldésre, kivéve a felhasználó név, tehát teljesen névtelen.</AboutHistoryUpload>
+
+</LanguageData>
