@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>CameraDolly.helpTexts[0]</path>
+		<trans>Mozgasd a kamerát a KÖZÉPSŐ EGÉR GOMB lenyomása közben az egér csúsztatásával, vagy a WASD billentyűkkel.</trans>
+	</rep>
+	
+	<rep>
+		<path>Rescuing.helpTexts[0]</path>
+		<trans>Ahhoz, hogy megments egy sérült kolónia lakót, válasz ki egy egészséges lakót és jobb-klikkelj a sérültön.</trans>
+	</rep>
+	
+	<rep>
+		<path>Capturing.helpTexts[0]</path>
+		<trans>Egy ellenség magatehetetlen. El tudod fogni őket!</trans>
+	</rep>
+	
+	<rep>
+		<path>Capturing.helpTexts[1]</path>
+		<trans>Ahhoz, hogy elfogd válasz ki egy kolónia lakót, jobb-klikkelj a magatehetetlen ellenségen és válaszd az Elfogás-t.\n\nSzükséged lesz plusz egy ágyra ami fogdának van kijelölve.</trans>
+	</rep>
+	
+	<rep>
+		<path>Drafting.helpTexts[0]</path>
+		<trans>Ahhoz, hogy irányítsd a kolónia lakókat közvetlenül a harcban Toborozd őket úgy, hogy kiválasztod őket, majd megnyomod a TOBORZÁS gombot.</trans>
+	</rep>
+	
+	<rep>
+		<path>Drafting.helpTexts[1]</path>
+		<trans>Egy toborzott lakó csak is azt fogja csinálni amit mondasz neki és csak is harci feladatokat tud ellátni. Akiknél fegyver van azok lehetőség szerint használni is fogják.\n\nNe hagyd a kolónia lakókat toborozva - éhezni fognak és boldogtalanok lesznek.</trans>
+	</rep>
+	
+	<rep>
+		<path>Forbidding.helpTexts[0]</path>
+		<trans>A kolónia lakók nem fognak olyan dolgokhoz nyúlni amik TILTOTT-ak.\n\nVálaszd ki az élelmet és a fémet közel a földetérési területhez és nyomj F-et, hogy FELOLDOZZ-d a tiltást róluk.</trans>
+	</rep>
+	
+	<rep>
+		<path>BillsTab.helpTexts[0]</path>
+		<trans>Ahhoz, hogy a kolónia lakók dolgozzanak egy asztalnál, válaszd ki az asztalt és nyisd meg a Feladatok fület. Itt beállíthatod, hogy milyen ételt főzzenek, milyen dolgokat tákoljanak, milyen teremtményeket dolgozzanak fel.</trans>
+	</rep>
+	
+	<rep>
+		<path>GrowingFood.helpTexts[0]</path>
+		<trans>Ahhoz, hogy élelmet termesszenek el kell helyezned TERMŐ ZÓNÁK-at az Építkezés menüt használva.\n\nCsak is termőföldet lehet kijelölni erre.</trans>
+	</rep>
+	
+	<rep>
+		<path>BuildOrbitalTradeBeacon.helpTexts[0]</path>
+		<trans>Ahhoz, hogy tárgyakat, vagy ezüstöt küldj a bolygó körüli kereskedőknek, építened kell egy BOLYGÓ KÖRÜLI KERESKEDÉS JELZŐ-t a szabadban és tárgyakat kell tárolnod mellette.</trans>
+	</rep>
+	
+	<rep>
+		<path>ReadingAlerts.helpTexts[0]</path>
+		<trans>Ha bármikor úgy érzed, hogy nem tudod mit kéne csinálni, nézd meg a FIGYELMEZTETÉSEK-et a képernyő jobb oldalán.</trans>
+	</rep>
+	
+	<rep>
+		<path>CameraZoom.helpTexts[0]</path>
+		<trans>Közelíteni és távolítani az EGÉR GÖRGŐ-vel tudsz, vagy a T és G billentyűkkel.</trans>
+	</rep>
+	
+	<rep>
+		<path>PrisonerTab.helpTexts[0]</path>
+		<trans>Nézd meg egy rabnak a RAB adatlapját, hogy beállítsd a bánásmódját.\n\nSzükséged lesz egy kolónia lakóra kinek a munkája Börtön őr, hogy az foglalkozzon a rabokkal.</trans>
+	</rep>
+	
+	<rep>
+		<path>TimeControls.helpTexts[0]</path>
+		<trans>You can speed up, slow down, or stop time using the time controls in the bottom right.
+		Fel tudod gyorsítani, lelassítani, vagy megállítani az időt a képernyő jobb-alsó sarkában található idő vezérléssel.</trans>
+	</rep>
+	
+	<rep>
+		<path>OpeningComms.helpTexts[0]</path>
+		<trans>Ahhoz, hogy kommunikálj, válasz ki egy dolgozó kolónia lakót és jobb-klikkelj a távközlési panelen.</trans>
+	</rep>
+	
+	<rep>
+		<path>StorageTabCategories.helpTexts[0]</path>
+		<trans>A raktár adatlapon letudod nyitni a kategóriákat, hogy engedélyezz, vagy letilts bizonyos tárgyakat. Klikkelj a háromszögekre a kategóriák nevétől balra.</trans>
+	</rep>
+	
+	<rep>
+		<path>Mining.helpTexts[0]</path>
+		<trans>Kijelölheted, hogy hol bányászanak úgy, hogy megnyitod az ÉPÍTKEZÉS menüt és kiválasztod a PARANCSOK fület.\n\nNéhány bányászható blokk ACÉL-t, ARANY-at, PLACÉL-t és más hasznos ásványokat tartalmazhat.</trans>
+	</rep>
+	
+	<rep><!-- defName?!?!?!?!? -->
+		<path>WorkOverview.helpTexts[0]</path>
+		<trans>Minden kolónia lakónak beállíthatod a munkáját az ÁTTEKINTÉS-nél, a képernyő jobb-alsó sarkában.\n\nMindíg a legnagyobb prioritású munkát fogják csinálni defName amit találnak.</trans>
+	</rep>
+	
+	<rep>
+		<path>WorkOverview.helpTexts[1]</path>
+		<trans>A lakók nem fogják azokat a feladatokat megcsinálni amik nincsenek nekik beállítva.\n\nHa egy munka senkinek sincs beállítva, akkor senki se fogja megcsinálni.</trans>
+	</rep>
+	
+	<rep>
+		<path>EquippingWeapons.helpTexts[0]</path>
+		<trans>Ahhoz, hogy kolónia lakód felfegyverezze magát egy fegyverrel, válaszd ki a lakót és jobb-klikkelj a fegyveren.\n\nVannak fegyverek a kezdő helyhez közel.</trans>
+	</rep>
+	
+	<rep>
+		<path>SetGrowingZonePlant.helpTexts[0]</path>
+		<trans>Be tudod állítani, hogy milyen növényt termesszenek a termő zónában. Még fákat is növeszthetsz!\n\nCsak válaszd ki a termő zónát, nyisd meg a Termesztés fület és klikkelj az 'ültetés' gombra.</trans>
+	</rep>
+
+</LanguageData>
