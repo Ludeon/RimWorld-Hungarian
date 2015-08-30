@@ -12,6 +12,7 @@ Translators:
 ---------------------
 - Jamesgt
 - SjoCi
+- Moredoor
 
 Known issues:
 ---------------------
@@ -22,25 +23,40 @@ Status:
 
 Untranslated, Started, Done, Tested
 
-U - Alerts.xml
-U - ConceptDefs.xml
-T - Credits.xml
-T - Dates.xml
-D - Designators.xml
-D - DialogsVarious.xml - ???
-T - DialogTrees.xml
-D - Enums.xml
-D - FloatMenu.xml
-U - Gameplay.xml
-U - GameplayCommands.xml
-U - Incidents.xml
-D - Letters.xml
-U - Menus_Main.xml
-D - Menus_Overview.xml
-D - Menu_Options.xml
-D - Messages.xml
-D - Misc.xml
-T - PlayInterface.xml
-D - Pronouns.xml
-T - Skills.xml
-T - WorkTags.xml
+DefInjected:
+ BiomeDefs:
+   BiomesBase - D
+ BodyDeft: 
+   Bodies - D
+ BodyPartDefs:   
+   BodyParts - D
+ BodyPartGroupDeft: 
+   BodyPartGroup - D
+ ConceptDefs:
+   Concepts_SpecialModal - D
+   Concepts_Entry - D
+   Concepts_HighPrio - D
+   Concepts_LowPrio - D
+ DemageTypeDefs:
+   BaseDamageTypes - U
+ DesignationCategoryDefs
+   DesignationCategories - D
+
+
+Keyed
+ Credits - D
+ Dates - D
+ Designators - S
+ DialogsVarious - D
+ DialogTrees - D
+ Enums - D
+ FloatMenu - D
+ Letters - D
+ Menu_Options - D
+ Menus_Overview - D
+ Messages - D
+ Misc - D
+ PlayInterface - D
+ Pronouns - D
+ Skills - D
+ WorkTags - D
