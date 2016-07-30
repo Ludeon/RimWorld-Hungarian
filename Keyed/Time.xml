@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <LetterDay>n</LetterDay>
+  <LetterHour>ó</LetterHour>
+  <LetterMinute>p</LetterMinute>
+  <LetterSecond>mp</LetterSecond>
+  
+  <DaysLower>nap</DaysLower>
+  <SecondsLower>másodperc</SecondsLower>
+
+  <SeasonSpring>tavasz</SeasonSpring>
+  <SeasonSummer>nyár</SeasonSummer>
+  <SeasonFall>ősz</SeasonFall>
+  <SeasonWinter>tél</SeasonWinter>
+
+  <Born>Született: {0}</Born>
+  <AgeChronological>Naptári életkor: {0} év, {1} évszak, {2} nap</AgeChronological>
+  <AgeBiological>Biológiai életkor: {0} év, {1} évszak, {2} nap</AgeBiological>
+
+  <!-- Date periods -->
+	<Period1Year>1 év</Period1Year>
+  <PeriodYears>{0} év</PeriodYears>
+  <Period1Season>1 évszak</Period1Season>
+  <PeriodSeasons>{0} évszak</PeriodSeasons>
+  <Period1Day>1 nap</Period1Day>
+  <PeriodDays>{0} nap</PeriodDays>
+  <Period1Hour>1 óra</Period1Hour>
+  <PeriodHours>{0} óra</PeriodHours>
+
+  <!-- Misc -->
+  <Started>Elkezdődött</Started>
+  <Lasted>Véget ért</Lasted>
+  <OccurredTimeAgo>{0} ideje történt</OccurredTimeAgo>
+  
+</LanguageData>

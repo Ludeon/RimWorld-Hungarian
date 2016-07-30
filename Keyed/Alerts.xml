@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ClickToJumpToProblem>Kattints ide a problémára ugráshoz</ClickToJumpToProblem>
+
+  
+  
+  <NeedSawmill>Nincs fűrészmalom</NeedSawmill>
+  <NeedSawmillDesc>You need some kind of sawmill to chop logs into more versatile wood planks.\n\nBuild a HAND SAWMILL or an ELECTRIC SAWMILL.</NeedSawmillDesc>
+
+  <PoorMood>Rossz hangulat</PoorMood>
+  <PoorMoodDesc>These colonists are in a poor mood and may have a soft mental break at any time:\n\n{0}</PoorMoodDesc>
+  <TerribleMood>Szörnyű hangulat</TerribleMood>
+  <TerribleMoodDesc>These colonists are critically stressed and may have a hard - and potentially violent - mental break at any moment:\n\n{0}</TerribleMoodDesc>
+  <LowMoodDescEnding>Check these colonists' Needs tab to see what's bothering them.</LowMoodDescEnding>
+  
+  <ColonistNeedsRescue>Gyarmatos mentésre vár</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Gyarmatosok mentésre várnak</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>  These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.</ColonistsNeedRescueDesc>
+
+  <BuildARoom>Építs szobát</BuildARoom>
+  <BuildARoomDesc>A room is composed of separate wall pieces with a door.\n\nUse the ARCHITECT menu at the bottom left of the screen to designate where you want things built. Once you designate something to be built, your colonists will do the work when they can.</BuildARoomDesc>
+
+  <NeedDefenses>Nincs védelem</NeedDefenses>
+  <NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, whether they're traps, sandbags, or turrets.</NeedDefensesDesc>
+
+  <NeedDoctor>Nincs orvos</NeedDoctor>
+  <NeedDoctorDesc>These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent.</NeedDoctorDesc>
+
+  <NeedMiner>Nincs bányász</NeedMiner>
+  <NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
+
+  <NeedWarden>Nincs börtönőr</NeedWarden>
+  <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
+
+  <LowFood>Kevés az étel</LowFood>
+  <LowFoodDesc>You only have {0} full bars worth of food in storage. This is dangerously low.\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
+
+  <LowMedicine>Kevés a gyógyszer</LowMedicine>
+  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
+  <NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
+  
+  <NeedColonistBeds>Kevés az ágy</NeedColonistBeds>
+  <NeedColonistBedsDesc>You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly.</NeedColonistBedsDesc>
+
+  <HunterLacksWeapon>Fegyvertelen vadász</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>A colonist is assigned as a hunter but has no weapon. They will not hunt until they are carrying a weapon.\n\nTo reduce injury, we recommend giving them a ranged weapon.</HunterLacksWeaponDesc>
+
+  <Starvation>Éhínség</Starvation>
+  <StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food.</StarvationDesc>
+
+  <StarvationAnimals>Éhező állat</StarvationAnimals>
+  <StarvationAnimalsDesc>These colony animals are starving:\n\n{0}\nGet them some food.</StarvationAnimalsDesc>
+
+  <Exhaustion>Kimerültség</Exhaustion>
+  <ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
+
+  <NeedFoodHopper>Nincs élelmiszeradagoló</NeedFoodHopper>
+  <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
+
+  <BuildingNeedsPower>Épület áram nélkül</BuildingNeedsPower>
+  <BuildingsNeedPower>Épületek áram nélkül</BuildingsNeedPower>
+  <BuildingsNeedPowerDesc>These power-using buildings are totally disconnected from all possible power sources:\n\n{0}\nConnect them to a power generator or battery.</BuildingsNeedPowerDesc>
+  <AndMore>and more</AndMore>
+
+  <NeedMealSource>Nem lehet ételt gyártani</NeedMealSource>
+  <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
+
+  <NeedHomeArea>Nincs lakókörlet</NeedHomeArea>
+  <NeedHomeAreaDesc>You need to define a HOME AREA where your colonists will clean, extinguish fires, and repair things.\n\nDefine a home area using the ZONES section of the ARCHITECT menu.</NeedHomeAreaDesc>
+
+  <NeedBatteries>Nincs akkumulátor</NeedBatteries>
+  <NeedBatteriesDesc>You only have solar generators and no batteries. This means you'll lose power every time the sun goes down.\n\nBuild a battery or two to get you through the night.</NeedBatteriesDesc>
+
+  <NoTradingCapacity>Nincs orbitális kereskedés</NoTradingCapacity>
+  <NoTradingCapacityDesc>You have no way of trading with passing ships.\n\nBuild a comms console.</NoTradingCapacityDesc>
+
+  <BrawlerHasRangedWeapon>Közelharcos lőfegyverrel</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy.</BrawlerHasRangedWeaponDesc>
+
+  <ShieldUserHasRangedWeapon>Pajzshasználó lőfegyverrel</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>One of your colonists has a personal shield and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them).</ShieldUserHasRangedWeaponDesc>
+
+  <NeedResearchProject>Nincs kutatásterv</NeedResearchProject>
+  <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
+  
+  <NeedDump>Nincs szemétdomb</NeedDump>
+  <NeedDumpDesc>You have marked {0} to be hauled, but the colonists have nowhere to take it.\n\nDesignate a stockpile and set its storage settings to accept {0}.</NeedDumpDesc>
+
+  <!-- Removed
+  <NeedGrave>Need grave</NeedGrave>
+  <NeedGraveDesc>There is a dead body laying on the ground and nowhere for your colonists to take it.\n\nBuild a grave or a dumping zone and set their storage settings.</NeedGraveDesc>
+  -->
+
+  <ColonistsIdle>{0} gyarmatos tétlen</ColonistsIdle>
+  <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
+
+  <!-- Removed
+  <HaltedConstructions>{0} constructions are missing materials</HaltedConstructions>
+  <HaltedConstructionsDesc>These kinds of constructions are missing materials:\n\n{0}\nYou should probably make required materials available for your colonists.</HaltedConstructionsDesc>
+  -->
+  
+  <ColonistNeedsTreatment>Gyarmatos ellátása szükséges</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
+
+  <AlertHypothermia>Kihűlés</AlertHypothermia>
+  <AlertHypothermiaDesc>These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated.</AlertHypothermiaDesc>
+  
+  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
+
+  <FireInHomeArea>TŰZ!</FireInHomeArea>
+  <FireInHomeAreaDesc>There is a fire in the home area.</FireInHomeAreaDesc>
+
+  <PawnsWithLifeThreateningDisease>Súlyos betegség</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical possible.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <BilliardsNeedsSpace>Billiárdnak több hely kell</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable.</BilliardsNeedsSpaceDesc>
+
+  <HunterHasShieldAndRangedWeapon>Vadász pajzssal és lőfegyverrel</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a personal shield which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
+  
+</LanguageData>

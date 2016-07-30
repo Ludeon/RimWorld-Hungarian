@@ -7,32 +7,8 @@
   <DateReadoutTip>Az érkezés óta eltelt napok: {0}\nEgy hónap {1} napból áll.</DateReadoutTip>
 
   <FullDate>{2}. {0} {1}.</FullDate>
-  <MonthFullDate>{0} {1}.</MonthFullDate>
-
-  <MonthFullJanuary>Január</MonthFullJanuary>
-  <MonthFullFebruary>Február</MonthFullFebruary>
-  <MonthFullMarch>Március</MonthFullMarch>
-  <MonthFullApril>Április</MonthFullApril>
-  <MonthFullMay>Május</MonthFullMay>
-  <MonthFullJune>Június</MonthFullJune>
-  <MonthFullJuly>Július</MonthFullJuly>
-  <MonthFullAugust>Augusztus</MonthFullAugust>
-  <MonthFullSeptember>Szeptember</MonthFullSeptember>
-  <MonthFullOctober>Október</MonthFullOctober>
-  <MonthFullNovember>November</MonthFullNovember>
-  <MonthFullDecember>December</MonthFullDecember>
-
-  <MonthShortJanuary>Jan</MonthShortJanuary>
-  <MonthShortFebruary>Feb</MonthShortFebruary>
-  <MonthShortMarch>Márc</MonthShortMarch>
-  <MonthShortApril>Ápr</MonthShortApril>
-  <MonthShortMay>Máj</MonthShortMay>
-  <MonthShortJune>Jún</MonthShortJune>
-  <MonthShortJuly>Júl</MonthShortJuly>
-  <MonthShortAugust>Aug</MonthShortAugust>
-  <MonthShortSeptember>Szept</MonthShortSeptember>
-  <MonthShortOctober>Okt</MonthShortOctober>
-  <MonthShortNovember>Nov</MonthShortNovember>
-  <MonthShortDecember>Dec</MonthShortDecember>
-
+	<DateReadout>{0} of {1}, {2}</DateReadout>
+  <SeasonFullDate>{0} of {1}</SeasonFullDate>
+  <WholeYear>Egész év</WholeYear>
+  
 </LanguageData>

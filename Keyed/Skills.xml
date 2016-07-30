@@ -1,14 +1,18 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Level>Szint</Level>
   <ProgressToNextLevel>A következő szintig</ProgressToNextLevel>
+  <Experience>Tapasztalat</Experience>
   <Passion>Hozzáállás</Passion>
   <PassionNone>Semmi (tanulás {0}x)</PassionNone>
   <PassionMinor>Érdeklődő (tanulás {0}x)</PassionMinor>
   <PassionMajor>Tehetséges (tanulás {0}x)</PassionMajor>
+  <LearnedMaxToday>Ma nem tanulhat többet ({0}/{1}, további tanulás szorzója {2})</LearnedMaxToday>
   <EffectsAtLevel>Hatása a szinten {0}</EffectsAtLevel>
   <SkillMax>MAX</SkillMax>
+
+
 
   <Skill0>Alkalmatlan</Skill0>
   <Skill1>Inkompetens</Skill1>
@@ -32,4 +36,8 @@
   <Skill19>Legendás</Skill19>
   <Skill20>Istenszerű</Skill20>
 
+
+  
+  
+  
 </LanguageData>

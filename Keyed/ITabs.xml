@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <TabBills>Megrendelések</TabBills>
+  <TabGrowing>Növekszik</TabGrowing>
+  <TabCharacter>Karakter</TabCharacter>
+  <TabTraining>Kiképez</TabTraining>
+  <TabPrisoner>Fogoly</TabPrisoner>
+  <TabGuest>Vendég</TabGuest>
+  <TabGear>Felszerelés</TabGear>
+  <TabNeeds>Szükséges</TabNeeds>
+  <TabStorage>Raktár</TabStorage>
+  <TabHealth>Egészség</TabHealth>
+  <TabRace>Faj</TabRace>
+  <TabBasics>Alapok</TabBasics>
+  <TabStats>Statisztikák</TabStats>
+  <TabRecords>Rekordok</TabRecords>
+  <TabArt>Művészet</TabArt>
+  <TabSocial>Szociális</TabSocial>
+
+  
+  <!-- Bills tab  -->
+  <AddBill>Megrendelés felvétele</AddBill>
+  <RecipeRequiresSkills>A {0} recepthez az alábbi képzettség szükséges. Nincs gyarmatosod ilyen képzettséggel, senki sem fogja legyártani.</RecipeRequiresSkills>
+  <MinimumSkill>Minimális képzettség</MinimumSkill>
+  <SuspendedCaps>FELFÜGGESZTVE</SuspendedCaps>
+  <BoundWorkerIs>Munkás: {0}</BoundWorkerIs>
+  <PlantVerb>Ültet</PlantVerb>
+
+
+  <!-- Guest/prisoner tab -->
+  <RecruitmentDifficulty>Toborzás nehézsége</RecruitmentDifficulty>
+  <GetsFood>Kapjon ételt</GetsFood>
+  <DoctorsCare>Orvosi ellátás</DoctorsCare>
+  <GetsMedicine>Kapjon gyógyszert</GetsMedicine>
+  <ShouldTryToRecruit>Toborzandó</ShouldTryToRecruit>
+  <PrisonerNoInteraction>Nincs érintkezés</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>Baráti társalgás</PrisonerFriendlyChat>
+  <PrisonerAttemptRecruit>Társalgás és toborzás</PrisonerAttemptRecruit>
+  <PrisonerRelease>Elengedni</PrisonerRelease>
+  <PrisonerExecution>Kivégezni</PrisonerExecution>
+
+
+  <!-- Medical - general -->
+  <MoveSpeed>Mozgási sebesség</MoveSpeed>
+  <Efficiency>Hatékonyság</Efficiency>
+  <MissingBodyPart>Eltűnt</MissingBodyPart>
+  <DestroyedBodyPart>Tönkrement</DestroyedBodyPart>
+  <ShatteredBodyPart>Törött</ShatteredBodyPart>
+  <RemovedBodyPart>Eltávolított</RemovedBodyPart>
+  <Healthy>Egészséges</Healthy>
+  <InPain>Fájdalmai vannak</InPain>
+  <PainLevel>Fájdalomszint</PainLevel>
+  <Dead>Halott</Dead>
+  <Unconscious>Eszméletlen</Unconscious>
+  <PainShock>Sokkos állapot</PainShock>
+  <Injured>Sebesült</Injured>
+  <NoInjuries>(nincs sérülése)</NoInjuries>
+  <WholeBody>Teljes test</WholeBody>
+  <DataProcessing>Adatfeldolgozás</DataProcessing>
+  <Communication>Kommunikáció</Communication>
+  <AffectsLower>befolyásolja</AffectsLower>
+  <BleedingRate>Vérzés mértéke</BleedingRate>
+  <HealthOverview>Áttekintés</HealthOverview>
+  <MedicalOperationsShort>Operációk ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Módosítások ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Orvosi operációk</MedicalOperations>
+  <Amputate>Amputálni</Amputate>
+  <Harvest>Begyűjteni</Harvest>
+  <RemoveOrgan>Eltávolítani</RemoveOrgan>
+  <MemoryLower>memória</MemoryLower>
+  <SocialInteractionsLower>szociális érintkezés</SocialInteractionsLower>
+  <HungerRate>Éhség mértéke</HungerRate>
+  <Tiredness>Fáradtság</Tiredness>
+  
+
+  <!-- Medical - Body and activities condition -->
+  <None>Semmi</None>
+  <VeryPoor>Nagyon rossz</VeryPoor>
+  <Poor>Rossz</Poor>
+  <Weakened>Legyengült</Weakened>
+  <GoodCondition>OK</GoodCondition>
+  <Enhanced>Javított</Enhanced>
+  <SeriouslyImpaired>Súlyosan fogyatékos</SeriouslyImpaired>
+  <Impaired>Fogyatékos</Impaired>
+  <SlightlyImpaired>Kissé fogyatékos</SlightlyImpaired>
+  <NoPain>Nincs</NoPain>
+  <LittlePain>Kis</LittlePain>
+  <MediumPain>Közepes</MediumPain>
+  <SeverePain>Súlyos</SeverePain>
+  <ExtremePain>Extrém</ExtremePain>
+
+
+  <!-- Training tab-->
+  <TrainableIntelligence>Képezhető intelligencia</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Intelligenciaszint {0} szükséges.</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} túl kevés a képzéshez.</CannotTrainTooSmall>
+
+  <TrainingNeedsPrerequisite>Előfeltétel szükséges: {0}</TrainingNeedsPrerequisite>
+  
+  <!-- Social tab -->
+  <NoRelationships>(nincs kapcsolata)</NoRelationships>
+  <Kidnapped>Elrabolva</Kidnapped>
+  <Slave>Rabszolga</Slave>
+  <FactionLeader>Frakcióvezér</FactionLeader>
+  <OpinionOf>{0} véleménye</OpinionOf>
+  <SomeonesOpinionOfMe>{0} véleménye rólam</SomeonesOpinionOfMe>
+  <IAmDead>Halott vagyok</IAmDead>
+  <IAmPsychopath>Pszichopata vagyok</IAmPsychopath>
+
+</LanguageData>
