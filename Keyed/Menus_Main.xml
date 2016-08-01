@@ -5,7 +5,7 @@
   <CreateWorld>Új világ</CreateWorld>
   <NewColony>Új kolónia</NewColony>
   <BackToGame>Vissza a játékba</BackToGame>
-  <ReviewScenario>Forgatókönyv</ReviewScenario>
+  <ReviewScenario>Forgatókönyv áttekintése</ReviewScenario>
   <Save>Mentés</Save>
   <LoadGame>Betöltés</LoadGame>
   <Options>Beállítások</Options>
@@ -25,139 +25,139 @@
   <BuySoundtrack>Zene megvásárlása</BuySoundtrack>
 
   <!--=========== Create/review world ================-->
-  <ReviewWorld>Review world</ReviewWorld>
-  <WorldGenerate>Generate</WorldGenerate>
-  <WorldSaveAndFinish>Save and finish</WorldSaveAndFinish>
-  <Reset>Reset</Reset>
-  <WorldSize>Size</WorldSize>
-  <WorldSeed>Seed</WorldSeed>
-  <RandomizeSeed>Randomize seed</RandomizeSeed>
+  <ReviewWorld>Világ áttekintése</ReviewWorld>
+  <WorldGenerate>Létrehoz</WorldGenerate>
+  <WorldSaveAndFinish>Mentés és kész</WorldSaveAndFinish>
+  <Reset>Újrakezd</Reset>
+  <WorldSize>Méret</WorldSize>
+  <WorldSeed>Alapkód</WorldSeed>
+  <RandomizeSeed>Véletlenszerű alapkód</RandomizeSeed>
 
   <!--=========== Select world ===================-->
-  <SelectWorld>Select world</SelectWorld>
-  <WorldChooseButton>Select</WorldChooseButton>
-  <NoWorldsFilesFound>No world files found. Create a world first.</NoWorldsFilesFound>
+  <SelectWorld>Világ kiválasztása</SelectWorld>
+  <WorldChooseButton>Kiválasztás</WorldChooseButton>
+  <NoWorldsFilesFound>Nincsen világ. Hozz létre egyet!</NoWorldsFilesFound>
   
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Version {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
-	<BuildUpToDate>This is the latest version.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+  <BuildNowAvailable>Verzió {0} elérhető. Látogass el a ludeon.com-ra több információért!</BuildNowAvailable>
+	<BuildUpToDate>Ez a legfrissebb verzió.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Hiba verzió lekérésekor: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Verzióinformáció betöltése...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
-  <GenerateWorld>Generate world</GenerateWorld>
+  <GenerateWorld>Világ létrehozása</GenerateWorld>
 
   <!--=========== Mods config ==========-->
-  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
-  <GetModsFromForum>Get mods from forum</GetModsFromForum>
-  <OpenModsDataFolder>Open mods data folder</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
-  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
-  <Unsubscribe>Unsubscribe</Unsubscribe>
-  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
-  <Author>Author</Author>
-  <WorkshopPage>Workshop page</WorkshopPage>
-  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
-  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
-  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
-  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
-  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
-  <Downloading>Downloading</Downloading>
-  <Source>Source</Source>
-  <ModTargetVersion>For version: {0}</ModTargetVersion>
-  <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
-  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <OpenSteamWorkshop>Steam Workshop megnyitása</OpenSteamWorkshop>
+  <GetModsFromForum>Keress modot a fórumon</GetModsFromForum>
+  <OpenModsDataFolder>Mod adat mappa megnyitása</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Biztosan kikapcsolod az alapmodot? A játék működésképtelen lesz, hacsak nincs másik mod, ami kiváltja minden funkcióját.\n\nNe feledd, más modok felülírhatják a alapmod "def"-jeit, ha ugyanazt a "defName"-et használják.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Biztos, hogy {0} minden tartalmát törölni akarod?</ConfirmDeleteMod>
+  <Unsubscribe>Leiratkozás</Unsubscribe>
+  <ConfirmUnsubscribe>Biztos, hogy le akarsz iratkozni {0}-ról?</ConfirmUnsubscribe>
+  <Author>Szerző</Author>
+  <WorkshopPage>Workshop oldal</WorkshopPage>
+  <UploadToSteamWorkshop>Feltöltés a Steam Workshopra</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Frissítés a Steam Workshopon</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Már megy a feltöltés.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Workshop benyújtás hiba.\n\nOk: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>{0} sikeresen feltöltve.</WorkshopUploadSucceeded>
+  <Downloading>Letöltés</Downloading>
+  <Source>Forrás</Source>
+  <ModTargetVersion>{0} verzióhoz</ModTargetVersion>
+  <ModNotMadeForThisVersion>Ez a mod a RimWorld más verziójához készült, nem fog megfelelően működni.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>A modnak szüksége van egy jól formázott verziószámra az About.xml-ben. Pl.: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
   
   <!--=========== Select scenario =============-->
-  <ChooseScenario>Choose scenario</ChooseScenario>
-  <ScenariosCustom>Custom</ScenariosCustom>
+  <ChooseScenario>Forgatókönyv választása</ChooseScenario>
+  <ScenariosCustom>Egyedi</ScenariosCustom>
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
-  <ScenarioEditor>Scenario editor</ScenarioEditor>
-  <Delete>Delete</Delete>
+  <ScenarioEditor>Forgatókönyv szerkesztő</ScenarioEditor>
+  <Delete>Törlés</Delete>
   
   <!--============ Scenario editor ===============-->
-  <Seed>seed</Seed>
-  <Load>Load</Load>
-  <EditMode>edit mode</EditMode>
-  <Summary>Summary</Summary>
-  <AddPart>Add part</AddPart>
-  <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
-  <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
-  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
-  <Incompatible>Incompatible</Incompatible>
-  <TooMany>Too many (max {0}): </TooMany>
-  <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+  <Seed>alapkód</Seed>
+  <Load>Betöltés</Load>
+  <EditMode>szerkesztő mód</EditMode>
+  <Summary>Összegzés</Summary>
+  <AddPart>Rész hozzáadása</AddPart>
+  <TextFieldsMustBeFilled>Minden szövegmező kitöltendő.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Biztos, hogy fel akarod tölteni a Steam Workshop-ba?\n\nEl kell fogadnod a Steam Workshop feltételeit. Megtalálható itt:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Nyilvánvaló, hogy csak saját munkát töltenél fel.\n\nEz a sajátod?</ConfirmContentAuthor>
+  <Incompatible>Nem kompatibilis</Incompatible>
+  <TooMany>Túl sok (max. {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Frissíthető a Workshop-on, mivel te vagy a szerző.</CanBeUpdatedOnWorkshop>
   
   <!--=========== Select storyteller ==========-->
-  <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
-  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony.</HowStorytellersWork>
-  <MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
-  <Difficulty>Difficulty</Difficulty>
+  <ChooseAIStoryteller>Válassz MI mesélőt</ChooseAIStoryteller>
+  <HowStorytellersWork>Az MI mesélő olyan eseményeket idéz elő mint fosztogatás, ellátmány érkezése, vagy állatok támadása. Rajta múlik kolóniád története.</HowStorytellersWork>
+  <MustChooseDifficulty>Kérlek válassz nehézségi fokot.</MustChooseDifficulty>
+  <Difficulty>Nehézség</Difficulty>
 
   <!--=========== Landing site select =========-->
-  <SelectLandingSite>Select landing site</SelectLandingSite>
-  <SelectRandomSite>Select random site</SelectRandomSite>
-  <SelectSite>Select site</SelectSite>
-  <MustSelectLandingSite>Please select a landing site.</MustSelectLandingSite>
-  <CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
-  <WorldRenderMode>Mode</WorldRenderMode>
-  <WorldRenderModeFull>Full</WorldRenderModeFull>
-  <WorldRenderModeTemperature>Temperature</WorldRenderModeTemperature>
-  <WorldRenderModeElevation>Elevation</WorldRenderModeElevation>
-  <WorldRenderModeFertility>Fertility</WorldRenderModeFertility>
-  <WorldRenderModeRainfall>Rainfall</WorldRenderModeRainfall>
-  <WorldRenderModeBiomes>Biomes</WorldRenderModeBiomes>
-  <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
-  <BaseAlreadyThere>{0} already have a base there.</BaseAlreadyThere>
-  <Biome>Biome</Biome>
+  <SelectLandingSite>Válassz landolási helyet</SelectLandingSite>
+  <SelectRandomSite>Véletlenszerű landolási hely</SelectRandomSite>
+  <SelectSite>Válassz helyszínt</SelectSite>
+  <MustSelectLandingSite>Kérlek válassz landolási helyet.</MustSelectLandingSite>
+  <CannotLandBiome>Ezen a életközösségen nem landolhatsz: {0}</CannotLandBiome>
+  <WorldRenderMode>Mód</WorldRenderMode>
+  <WorldRenderModeFull>Teljes</WorldRenderModeFull>
+  <WorldRenderModeTemperature>Hőmérséklet</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Magasság</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Termékenység</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Esőzés</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Életközösségek</WorldRenderModeBiomes>
+  <BiomeNotImplemented>Nincs életközösség</BiomeNotImplemented>
+  <BaseAlreadyThere>Itt már van bázisa: {0}.</BaseAlreadyThere>
+  <Biome>Életközösség</Biome>
   <Terrain>Terrain</Terrain>
-  <Elevation>Elevation</Elevation>
-  <Fertility>Fertility</Fertility>
-  <AvgTemp>Avg Temp</AvgTemp>
-  <AvgWinterTemp>Avg Temp (winter): {0}</AvgWinterTemp>
-  <AvgSummerTemp>Avg Temp (summer): {0}</AvgSummerTemp>
-  <Rainfall>Rainfall</Rainfall>
-  <HasCoast0>Northern coast</HasCoast0>
-  <HasCoast1>Eastern coast</HasCoast1>
-  <HasCoast2>Southern coast</HasCoast2>
-  <HasCoast3>Western coast</HasCoast3>
-  <FactionBase>Faction base</FactionBase>
-  <StoneTypesHere>Stone types</StoneTypesHere>
+  <Elevation>Magasság</Elevation>
+  <Fertility>Termékenység</Fertility>
+  <AvgTemp>Átlaghőmérséklet</AvgTemp>
+  <AvgWinterTemp>Átlaghőmérséklet (tél): {0}</AvgWinterTemp>
+  <AvgSummerTemp>Átlaghőmérséklet (nyár): {0}</AvgSummerTemp>
+  <Rainfall>Esőzés</Rainfall>
+  <HasCoast0>Északi part</HasCoast0>
+  <HasCoast1>Keleti part</HasCoast1>
+  <HasCoast2>Déli part</HasCoast2>
+  <HasCoast3>Nyugati part</HasCoast3>
+  <FactionBase>Frakció bázisa</FactionBase>
+  <StoneTypesHere>Sziklafajták</StoneTypesHere>
 
   <!--=========== Character chooser ==========-->
-  <CreateCharacters>Create characters</CreateCharacters>
-  <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
-  <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
-  <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
-  <Randomize>Randomize</Randomize>
-  <AgeIndicator>age {0}</AgeIndicator>
-  <Backstory>Backstory</Backstory>
-  <IncapableOf>Incapable of</IncapableOf>
-  <Traits>Traits</Traits>
-  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
-  <Skills>Skills</Skills>
-  <NoneLower>none</NoneLower>
-  <Adulthood>Adulthood</Adulthood>
-  <Childhood>Childhood</Childhood>
-  <Male>male</Male>
-  <Female>female</Female>
-  <Pain>Pain</Pain>
-  <Health>Health</Health>
-  <Relations>Relations</Relations>
+  <CreateCharacters>Karakterek létrehozása</CreateCharacters>
+  <FirstNameDesc>A karakter keresztneve.\n\nEz csak bizonyos menükben látszik.</FirstNameDesc>
+  <ShortIdentifierDesc>A karakter rövid azonosítója.\n\nEz mindig látszik. Lehet a kereszt-, vagy a vezetéknév, de akár külön becenév is.</ShortIdentifierDesc>
+  <LastNameDesc>A karakter vezetékneve.\n\nEz csak bizonyos menükben látszik.</LastNameDesc>
+  <Randomize>Véletlenszerű</Randomize>
+  <AgeIndicator>kor {0}</AgeIndicator>
+  <Backstory>Háttértörténet</Backstory>
+  <IncapableOf>Alkalmatlan rá</IncapableOf>
+  <Traits>Jellemvonás</Traits>
+  <PermanentMoodEffect>Állandó hangulatmódosító</PermanentMoodEffect>
+  <Skills>Képzettségek</Skills>
+  <NoneLower>nincs</NoneLower>
+  <Adulthood>Felnőttkor</Adulthood>
+  <Childhood>Gyerekkor</Childhood>
+  <Male>férfi</Male>
+  <Female>nő</Female>
+  <Pain>Fájdalom</Pain>
+  <Health>Egészség</Health>
+  <Relations>Kapcsolatok</Relations>
   
   <!--=========== Misc ==========-->
-  <Start>Start</Start>
-  <Advanced>Advanced</Advanced>
-  <Next>Next</Next>
-  <Back>Back</Back>
+  <Start>Kezdés</Start>
+  <Advanced>További</Advanced>
+  <Next>Következő</Next>
+  <Back>Vissza</Back>
   
-  <Gameplay>Gameplay</Gameplay>
+  <Gameplay>Játék</Gameplay>
 
-  <ConfirmQuit>Really quit? You'll lose unsaved progress.</ConfirmQuit>
+  <ConfirmQuit>Biztosan kilépsz? A nem mentett változások elvesznek.</ConfirmQuit>
   
-  <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
+  <EveryoneNeedsValidName>Mindenkinek kell egy megfelelő név.</EveryoneNeedsValidName>
 
-  <GeneratingWorld>Generating world</GeneratingWorld>
-  <GeneratingMap>Generating map</GeneratingMap>
+  <GeneratingWorld>Világ létrehozása</GeneratingWorld>
+  <GeneratingMap>Térkép létrehozása</GeneratingMap>
 
 </LanguageData>
