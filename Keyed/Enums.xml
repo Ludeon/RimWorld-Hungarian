@@ -19,118 +19,118 @@
   <PriceTypeExorbitant>túlárazott</PriceTypeExorbitant>
 
   <!-- Storage priority labels -->
-  <StoragePriorityUnstored>unstored</StoragePriorityUnstored>
-  <StoragePriorityLow>low</StoragePriorityLow>
-  <StoragePriorityNormal>normal</StoragePriorityNormal>
-  <StoragePriorityPreferred>preferred</StoragePriorityPreferred>
-  <StoragePriorityImportant>important</StoragePriorityImportant>
-  <StoragePriorityCritical>critical</StoragePriorityCritical>
+  <StoragePriorityUnstored>nem raktározott</StoragePriorityUnstored>
+  <StoragePriorityLow>alacsony</StoragePriorityLow>
+  <StoragePriorityNormal>normál</StoragePriorityNormal>
+  <StoragePriorityPreferred>előnyben részesített</StoragePriorityPreferred>
+  <StoragePriorityImportant>fontos</StoragePriorityImportant>
+  <StoragePriorityCritical>kritikus</StoragePriorityCritical>
 
   <!-- Food type flags -->
-  <FoodTypeFlags_VegetableOrFruit>vegetables</FoodTypeFlags_VegetableOrFruit>
-  <FoodTypeFlags_Meat>raw meat</FoodTypeFlags_Meat>
-  <FoodTypeFlags_Corpse>corpses</FoodTypeFlags_Corpse>
-  <FoodTypeFlags_Seeds>seeds</FoodTypeFlags_Seeds>
-  <FoodTypeFlags_AnimalProduct>animal products</FoodTypeFlags_AnimalProduct>
-  <FoodTypeFlags_Plant>live plants</FoodTypeFlags_Plant>
-  <FoodTypeFlags_Tree>live trees</FoodTypeFlags_Tree>
-  <FoodTypeFlags_Meal>meals</FoodTypeFlags_Meal>
-  <FoodTypeFlags_Processed>processed foods</FoodTypeFlags_Processed>
-  <FoodTypeFlags_Liquor>liquor</FoodTypeFlags_Liquor>
-  <FoodTypeFlags_Kibble>kibble</FoodTypeFlags_Kibble>
+  <FoodTypeFlags_VegetableOrFruit>zöldség</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>nyers hús</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>tetem</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seeds>mag</FoodTypeFlags_Seeds>
+  <FoodTypeFlags_AnimalProduct>állati eredetű</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>élő növény</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>élő fa</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>étel</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>feldolgozott étel</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Liquor>alkohol</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Kibble>darálék</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
-  <QualityCategory_Awful>awful</QualityCategory_Awful>
-  <QualityCategory_Shoddy>shoddy</QualityCategory_Shoddy>
-  <QualityCategory_Poor>poor</QualityCategory_Poor>
-  <QualityCategory_Normal>normal</QualityCategory_Normal>
-  <QualityCategory_Good>good</QualityCategory_Good>
-  <QualityCategory_Superior>superior</QualityCategory_Superior>
-  <QualityCategory_Excellent>excellent</QualityCategory_Excellent>
-  <QualityCategory_Masterwork>masterwork</QualityCategory_Masterwork>
-  <QualityCategory_Legendary>legendary</QualityCategory_Legendary>
-  <QualityCategoryShort_Awful>awfl</QualityCategoryShort_Awful>
-  <QualityCategoryShort_Shoddy>shod</QualityCategoryShort_Shoddy>
-  <QualityCategoryShort_Poor>poor</QualityCategoryShort_Poor>
+  <QualityCategory_Awful>szörnyű</QualityCategory_Awful>
+  <QualityCategory_Shoddy>vacak</QualityCategory_Shoddy>
+  <QualityCategory_Poor>silány</QualityCategory_Poor>
+  <QualityCategory_Normal>normál</QualityCategory_Normal>
+  <QualityCategory_Good>jó</QualityCategory_Good>
+  <QualityCategory_Superior>kiváló</QualityCategory_Superior>
+  <QualityCategory_Excellent>remek</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>mestermunka</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>legendás</QualityCategory_Legendary>
+  <QualityCategoryShort_Awful>ször</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Shoddy>vack</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Poor>sil</QualityCategoryShort_Poor>
   <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
-  <QualityCategoryShort_Good>good</QualityCategoryShort_Good>
-  <QualityCategoryShort_Superior>supr</QualityCategoryShort_Superior>
-  <QualityCategoryShort_Excellent>exc</QualityCategoryShort_Excellent>
-  <QualityCategoryShort_Masterwork>mast</QualityCategoryShort_Masterwork>
-  <QualityCategoryShort_Legendary>legd</QualityCategoryShort_Legendary>
+  <QualityCategoryShort_Good>jó</QualityCategoryShort_Good>
+  <QualityCategoryShort_Superior>kivl</QualityCategoryShort_Superior>
+  <QualityCategoryShort_Excellent>remk</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>mest</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>lege</QualityCategoryShort_Legendary>
   
   <!-- Hunger -->
-  <HungerLevel_Starving>Starving</HungerLevel_Starving>
-  <HungerLevel_UrgentlyHungry>Urgently hungry</HungerLevel_UrgentlyHungry>
-  <HungerLevel_Hungry>Hungry</HungerLevel_Hungry>
-  <HungerLevel_Fed>Fed</HungerLevel_Fed>
+  <HungerLevel_Starving>Éhezik</HungerLevel_Starving>
+  <HungerLevel_UrgentlyHungry>Nagyon éhes</HungerLevel_UrgentlyHungry>
+  <HungerLevel_Hungry>Éhes</HungerLevel_Hungry>
+  <HungerLevel_Fed>Jóllakott</HungerLevel_Fed>
 
   <!-- -Fatigue -->
-  <HungerLevel_Exhausted>Exhausted</HungerLevel_Exhausted>
-  <HungerLevel_VeryTired>Very tired</HungerLevel_VeryTired>
-  <HungerLevel_Tired>Tired</HungerLevel_Tired>
-  <HungerLevel_Rested>Rested</HungerLevel_Rested>
+  <HungerLevel_Exhausted>Kimerült</HungerLevel_Exhausted>
+  <HungerLevel_VeryTired>Nagyon fáradt</HungerLevel_VeryTired>
+  <HungerLevel_Tired>Fáradt</HungerLevel_Tired>
+  <HungerLevel_Rested>Kipihent</HungerLevel_Rested>
 
   <!-- Hilliness -->
-  <Hilliness_Flat>flat</Hilliness_Flat>
-  <Hilliness_SmallHills>small hills</Hilliness_SmallHills>
-  <Hilliness_LargeHills>large hills</Hilliness_LargeHills>
-  <Hilliness_Mountainous>mountainous</Hilliness_Mountainous>
+  <Hilliness_Flat>sík</Hilliness_Flat>
+  <Hilliness_SmallHills>kis dombok</Hilliness_SmallHills>
+  <Hilliness_LargeHills>nagy dombok</Hilliness_LargeHills>
+  <Hilliness_Mountainous>hegyek</Hilliness_Mountainous>
   
   <!-- Steam workshop interaction -->
-  <WorkshopInteractStage_CreatingItem>Creating</WorkshopInteractStage_CreatingItem>
-  <WorkshopInteractStage_SubmittingItem>Submitting</WorkshopInteractStage_SubmittingItem>
-  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Invalid</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Preparing config data</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Preparing content files</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Uploading content</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Uploading preview file</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
-  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+  <WorkshopInteractStage_CreatingItem>Készít</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_SubmittingItem>Benyújt</WorkshopInteractStage_SubmittingItem>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Érvénytelen</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Konfiguráció előkészítése</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Tartalom előkészítése</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Tartalom feltöltése</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Előnézet feltöltése</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Változtatások benyújtása</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
-  <ContentSource_LocalFolder>local folder</ContentSource_LocalFolder>
+  <ContentSource_LocalFolder>helyi mappa</ContentSource_LocalFolder>
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
   
   <!-- Trainable intelligence -->
-  <TrainableIntelligence_None>none</TrainableIntelligence_None>
-  <TrainableIntelligence_Simple>simple</TrainableIntelligence_Simple>
-  <TrainableIntelligence_Intermediate>intermediate</TrainableIntelligence_Intermediate>
-  <TrainableIntelligence_Advanced>advanced</TrainableIntelligence_Advanced>
+  <TrainableIntelligence_None>semmi</TrainableIntelligence_None>
+  <TrainableIntelligence_Simple>egyszerű</TrainableIntelligence_Simple>
+  <TrainableIntelligence_Intermediate>középszintű</TrainableIntelligence_Intermediate>
+  <TrainableIntelligence_Advanced>haladó</TrainableIntelligence_Advanced>
 
   <!-- Medical care category -->
-  <MedicalCareCategory_NoCare>No medical care</MedicalCareCategory_NoCare>
-  <MedicalCareCategory_NoMeds>Doctor care, but no medicine</MedicalCareCategory_NoMeds>
-  <MedicalCareCategory_HerbalOrWorse>Herbal medicine or worse</MedicalCareCategory_HerbalOrWorse>
-  <MedicalCareCategory_NormalOrWorse>Normal medicine or worse</MedicalCareCategory_NormalOrWorse>
-  <MedicalCareCategory_Best>Best quality medical care</MedicalCareCategory_Best>
+  <MedicalCareCategory_NoCare>Nincs orvosi ellátás</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>Orvos ápolja, de gyógyszert nem kap</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>Legfeljebb gyógynövényt kap</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Legfeljebb normál gyógyszert kap</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>Lehető legjobb ellátás</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
-  <HostilityResponseMode_Ignore>Ignore</HostilityResponseMode_Ignore>
-  <HostilityResponseMode_Attack>Attack</HostilityResponseMode_Attack>
-  <HostilityResponseMode_Flee>Flee</HostilityResponseMode_Flee>
+  <HostilityResponseMode_Ignore>Figyelmen kívül hagy</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>Támad</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>Menekül</HostilityResponseMode_Flee>
   
   <!-- HediffGrowthMode -->
-  <HediffGrowthMode_Growing>growing</HediffGrowthMode_Growing>
-  <HediffGrowthMode_Stable>stable</HediffGrowthMode_Stable>
-  <HediffGrowthMode_Remission>remission</HediffGrowthMode_Remission>
+  <HediffGrowthMode_Growing>növekszik</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>stagnál</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>sorvad</HediffGrowthMode_Remission>
 
   <!-- TechLevel -->
-  <TechLevel_Animal>animal</TechLevel_Animal>
-  <TechLevel_Neolithic>neolithic</TechLevel_Neolithic>
-  <TechLevel_Medieval>medieval</TechLevel_Medieval>
-  <TechLevel_Industrial>industrial</TechLevel_Industrial>
-  <TechLevel_Spacer>spacer</TechLevel_Spacer>
+  <TechLevel_Animal>állat</TechLevel_Animal>
+  <TechLevel_Neolithic>neolitikus</TechLevel_Neolithic>
+  <TechLevel_Medieval>középkori</TechLevel_Medieval>
+  <TechLevel_Industrial>ipari</TechLevel_Industrial>
+  <TechLevel_Spacer>űr</TechLevel_Spacer>
   <TechLevel_Ultra>ultra</TechLevel_Ultra>
-  <TechLevel_Transcendent>transcendent</TechLevel_Transcendent>
+  <TechLevel_Transcendent>felemelkedett</TechLevel_Transcendent>
 
   <!-- Player pawns arrive method -->
-  <PlayerPawnsArriveMethod_Standing>Standing</PlayerPawnsArriveMethod_Standing>
-  <PlayerPawnsArriveMethod_DropPods>Drop pods</PlayerPawnsArriveMethod_DropPods>
+  <PlayerPawnsArriveMethod_Standing>Állva</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>Mentőkabin</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
-  <PawnGenerationContext_All>all characters</PawnGenerationContext_All>
-  <PawnGenerationContext_PlayerStarter>player starting characters</PawnGenerationContext_PlayerStarter>
-  <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_All>minden karakter</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>a játékos karakterei</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>nem játékos karakterek</PawnGenerationContext_NonPlayer>
   
   <!-- Animal name display mode -->
   <ShowAnimalNames>Állatok nevének mutatása</ShowAnimalNames>

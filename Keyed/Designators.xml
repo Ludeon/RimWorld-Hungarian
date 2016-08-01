@@ -8,118 +8,118 @@
   <DesignatorCutPlantsDesc>Növények levágásra jelölése. A növény el lesz távolítva és minden esetleges élelem be lesz gyűjtve.</DesignatorCutPlantsDesc>
 
   <DesignatorDeconstruct>Lebontás</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>Deconstruct buildings and reclaim part of their resources.</DesignatorDeconstructDesc>
+  <DesignatorDeconstructDesc>Épületek lebontása és az építőanyag egy részének visszanyerése.</DesignatorDeconstructDesc>
 
-  <DesignatorUninstall>Uninstall</DesignatorUninstall>
-  <DesignatorUninstallDesc>Uninstall this so it can be moved, sold, or installed somewhere else.</DesignatorUninstallDesc>
+  <DesignatorUninstall>Eltávolítás</DesignatorUninstall>
+  <DesignatorUninstallDesc>Eltávolítás után a tárgy mozgatható, eladható, máshol felállítható.</DesignatorUninstallDesc>
 
-  <DesignatorHarvest>Harvest</DesignatorHarvest>
-  <DesignatorHarvestDesc>Marks plants to be harvested for their food or other products.</DesignatorHarvestDesc>
+  <DesignatorHarvest>Betakarít</DesignatorHarvest>
+  <DesignatorHarvestDesc>Megjelöli a növényt termésének betakarítására.</DesignatorHarvestDesc>
 
-  <DesignatorHarvestWood>Chop wood</DesignatorHarvestWood>
-  <DesignatorHarvestWoodDesc>Marks trees to be chopped down for wood.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWood>Kivágás</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Megjelöli a fákat kivágásra és feldolgozásra.</DesignatorHarvestWoodDesc>
 
-  <DesignatorHaulThings>Haul things</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable.</DesignatorHaulThingsDesc>
-  <MustHaulHaulables>Can only designate haulable non-automatic things (like rock chunks).</MustHaulHaulables>
+  <DesignatorHaulThings>Szállítás</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Kődarabok és egyéb tárgyak megjelölése rakodóhelyre való szállításra. Nem szükséges ételnél és tetemeknél, amik mindig szállíthatóak.</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>Csak nem alapértelmezetten szállítható tárgyakra állítható, pl. kődarabok.</MustHaulHaulables>
 
-  <DesignatorHunt>Hunt</DesignatorHunt>
-  <DesignatorHuntDesc>Mark animals to be hunted by your hunters.</DesignatorHuntDesc>
+  <DesignatorHunt>Vadászat</DesignatorHunt>
+  <DesignatorHuntDesc>Levadászandó állatok megjelölése.</DesignatorHuntDesc>
 
-  <DesignatorMine>Mine</DesignatorMine>
-  <DesignatorMineDesc>Designate areas of rock to be mined out.</DesignatorMineDesc>
+  <DesignatorMine>Bányászat</DesignatorMine>
+  <DesignatorMineDesc>Sziklás területek kijelölése bányászatra.</DesignatorMineDesc>
 
-  <DesignatorSmoothFloor>Smooth floor</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Designate rough stone terrain to be smoothed.</DesignatorSmoothFloorDesc>
+  <DesignatorSmoothFloor>Padló elegyengetése</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Göröngyös területek kijelölése egyengetésre.</DesignatorSmoothFloorDesc>
 
-  <DesignatorPlan>Plan</DesignatorPlan>
-  <DesignatorPlanDesc>Place planning designations. These don't do anything except help you plan future expansions.</DesignatorPlanDesc>
+  <DesignatorPlan>Terv</DesignatorPlan>
+  <DesignatorPlanDesc>Tervezést segítő jelölők elhelyezése. Ezek nem csinálnak semmit, csak segítik a jövőbeni terjeszkedés megtervezését.</DesignatorPlanDesc>
 
-  <DesignatorPlanRemove>Remove plans</DesignatorPlanRemove>
-  <DesignatorPlanRemoveDesc>Remove planning designations.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemove>Tervek eltávolítása</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Terjeszkedési tervek jelölőinek eltávolítása.</DesignatorPlanRemoveDesc>
 
-  <DesignatorAreaHomeExpand>Expand home area</DesignatorAreaHomeExpand>
-  <DesignatorAreaHomeExpandDesc>Colonists will repair buildings, clean floors, and extinguish fires only in the home area.</DesignatorAreaHomeExpandDesc>
-  <DesignatorAreaHomeClear>Clear home area</DesignatorAreaHomeClear>
-  <DesignatorAreaHomeClearDesc>Removes a home area. Colonists will no longer clean, repair, or extinguish fires here.</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeExpand>Lakókörzet kiterjesztése</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>Gyarmatosok csak ezen belül végeznek javításokat, takarítást, illetve tűzoltást.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>Lakókörzet törlése</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>Gyarmatosok itt többé nem végeznek javításokat, takarítást, illetve tűzoltást.</DesignatorAreaHomeClearDesc>
 
-  <DesignatorAreaBuildRoofExpand>Expand build roof area</DesignatorAreaBuildRoofExpand>
-  <DesignatorAreaBuildRoofExpandDesc>Colonists will build roofs in this area.</DesignatorAreaBuildRoofExpandDesc>
-  <DesignatorAreaBuildRoofClear>Clear build roof area</DesignatorAreaBuildRoofClear>
-  <DesignatorAreaBuildRoofClearDesc>Remove the area where colonists will build roofs. Existing roofs will remain, but colonists won't build more.</DesignatorAreaBuildRoofClearDesc>
+  <DesignatorAreaBuildRoofExpand>Fedett körzet kiterjesztése</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>A gyarmatosok csak a kijelölt körzeten belül építenek tetőt.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>Fedett körzet törlése</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>Befedésre kijelölt körzet törlése. A meglévő tetők megmaradnak, újak nem épülnek.</DesignatorAreaBuildRoofClearDesc>
 
-  <DesignatorAreaNoRoofExpand>Expand no roof area</DesignatorAreaNoRoofExpand>
-  <DesignatorAreaNoRoofExpandDesc>Colonists will remove roofs in this area (except overhead mountain, which cannot be removed).</DesignatorAreaNoRoofExpandDesc>
-  <DesignatorAreaNoRoofClear>Clear no roof area</DesignatorAreaNoRoofClear>
-  <DesignatorAreaNoRoofClearDesc>Removes no-roof area, so colonists will no longer remove roofs.</DesignatorAreaNoRoofClearDesc>
+  <DesignatorAreaNoRoofExpand>Fedetlen körzet kiterjesztése</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>A gyarmatosok eltávolítják a körzeten belüli tetőket (kivéve sziklabarlang).</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofClear>Fedetlen körzet törlése</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>A gyarmatosok többé nem távolítják el a tetőket innen.</DesignatorAreaNoRoofClearDesc>
 
-  <DesignatorAreaSnowClearExpand>Expand snow clear area</DesignatorAreaSnowClearExpand>
-  <DesignatorAreaSnowClearExpandDesc>Create a area which colonists will try to keep clear of snow.</DesignatorAreaSnowClearExpandDesc>
-  <DesignatorAreaSnowClearClear>Clear snow clear Area</DesignatorAreaSnowClearClear>
-  <DesignatorAreaSnowClearClearDesc>Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow.</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearExpand>Hómentesített körzet kiterjesztése</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>Ezen a körzeten belül a gyarmatosok ellapátolják a havat.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>Hómentesített körzet törlése</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>Ezen a körzeten belül a gyarmatosok többé nem lapátolják el a havat.</DesignatorAreaSnowClearClearDesc>
 
-  <DesignatorExpandAreaAllowed>Expand allowed area</DesignatorExpandAreaAllowed>
-  <DesignatorExpandAreaAllowedDesc>Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorExpandAreaAllowedDesc>
-  <DesignatorClearAreaAllowed>Clear allowed area</DesignatorClearAreaAllowed>
-  <DesignatorClearAreaAllowedDesc>Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorClearAreaAllowedDesc>
-  <ManageAreas>Manage areas...</ManageAreas>
+  <DesignatorExpandAreaAllowed>Engedélyezett körzet kiterjesztése</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>Ezeket a körzeteket hozzárendelheted a gyarmatosokhoz. Nem fognak munkát végezni vagy szükségleteket kielégíteni ezen a körzeten kívül.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>Engedélyezett körzet törlése</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>A gyarmatosok nem fognak munkát végezni vagy szükségleteket kielégíteni az engedélyezett körzeten kívül.</DesignatorClearAreaAllowedDesc>
+  <ManageAreas>Körzetek kezelése...</ManageAreas>
 
-  <DesignatorGrowingZoneDesc>Create a zone where your colonists will try to grow a certain kind of plant.</DesignatorGrowingZoneDesc>
+  <DesignatorGrowingZoneDesc>Jelölj ki egy zónát, ahol a gyarmatosok egy bizonyos növényt termesztenek.</DesignatorGrowingZoneDesc>
 
-  <DesignatorZoneCreateStorageResourcesDesc>Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>Jelölj ki raktárterületet, ahol a gyarmatosok a készleteket tárolják.\nMeglévő raktárterület kiterjesztésére is alkalmas.</DesignatorZoneCreateStorageResourcesDesc>
 
-  <DesignatorZoneCreateStorageDumpingDesc>Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageDumpingDesc>Jelölj ki raktárterületet, ahol a gyarmatosok a szemetet tárolják.\nMeglévő raktárterület kiterjesztésére is alkalmas.</DesignatorZoneCreateStorageDumpingDesc>
 
-  <DesignatorZoneDelete>Delete zones</DesignatorZoneDelete>
-  <DesignatorZoneDeleteDesc>Remove zones, like stockpile zones or growing zones.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDelete>Zóna törlése</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Raktár-, illetve farmterület törlése.</DesignatorZoneDeleteDesc>
   
-  <DesignatorClaim>Claim</DesignatorClaim>
-  <DesignatorClaimDesc>Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists.</DesignatorClaimDesc>
+  <DesignatorClaim>Foglal</DesignatorClaim>
+  <DesignatorClaimDesc>Meglévő építmények elfoglalása a kolónia számára. Ezek lehetnek ősi romok vagy elhagyott bázisok. Az elfoglalt építményeket a gyarmatosok karbantartják.</DesignatorClaimDesc>
 
-  <DesignatorRemoveFloor>Remove floor</DesignatorRemoveFloor>
-  <DesignatorRemoveFloorDesc>Remove floors to reveal the terrain underneath.</DesignatorRemoveFloorDesc>
+  <DesignatorRemoveFloor>Padló felszedése</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>A padló felszedése felfedi az alatta lévő talajt.</DesignatorRemoveFloorDesc>
 
-  <DesignatorStrip>Strip</DesignatorStrip>
-  <DesignatorStripDesc>Strip apparel from corpses and the wounded.</DesignatorStripDesc>
+  <DesignatorStrip>Levetkőztet</DesignatorStrip>
+  <DesignatorStripDesc>Ruházat eltávolítása tetemekről vagy sérültekről.</DesignatorStripDesc>
 
-  <DesignatorRearmTrap>Rearm trap</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Rearm a sprung trap so it can be triggered again.</DesignatorRearmTrapDesc>
+  <DesignatorRearmTrap>Csapda újraélesítése</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Élesítsd a csapdát újra, hogy foghasson még áldozatot.</DesignatorRearmTrapDesc>
 
-  <DesignatorOpen>Open</DesignatorOpen>
-  <DesignatorOpenDesc>Open full graves or containers.</DesignatorOpenDesc>
+  <DesignatorOpen>Kinyit</DesignatorOpen>
+  <DesignatorOpenDesc>Nem üres sírok és tárolók felnyitása.</DesignatorOpenDesc>
   
-  <DesignatorSlaughter>Slaughter</DesignatorSlaughter>
-  <DesignatorSlaughterDesc>Slaughter a tame animal.</DesignatorSlaughterDesc>
+  <DesignatorSlaughter>Leöl</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>Szelidített állat leölése.</DesignatorSlaughterDesc>
 
-  <DesignatorTame>Tame</DesignatorTame>
-  <DesignatorTameDesc>Tame a wild animal.</DesignatorTameDesc>
+  <DesignatorTame>Szelidít</DesignatorTame>
+  <DesignatorTameDesc>Vadállat megszelidítése.</DesignatorTameDesc>
 
 
   <!-- Failure messages -->
-  <UnchosenStuff>Unchosen material</UnchosenStuff>
-  <TooCloseToMapEdge>Too close to map edge.</TooCloseToMapEdge>
-  <OutOfBounds>Out of bounds.</OutOfBounds>
-  <CannotPlaceInUndiscovered>Cannot place in undiscovered areas.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>Interaction spot is blocked by {0}.</InteractionSpotBlocked>
-  <InteractionSpotOutOfBounds>Interaction spot is out of bounds.</InteractionSpotOutOfBounds>
-  <InteractionSpotWillBeBlocked>Interaction spot will be blocked by {0}.</InteractionSpotWillBeBlocked>
-  <WouldBlockInteractionSpot>{0} would block {1}'s interaction square.</WouldBlockInteractionSpot>
-  <TerrainIsAlready>The terrain here is already {0}.</TerrainIsAlready>
-  <TerrainBeingSmoothed>The terrain is already marked for smoothing.</TerrainBeingSmoothed>
-  <IdenticalThingExists>Identical thing already exists here.</IdenticalThingExists>
-  <IdenticalBlueprintExists>Identical blueprint already exists here.</IdenticalBlueprintExists>
-  <TerrainCannotSupport>The terrain here cannot support this.</TerrainCannotSupport>
-  <SpaceAlreadyOccupied>Space already occupied.</SpaceAlreadyOccupied>
-  <TerrainMustBeRemovable>Must target a removable floor.</TerrainMustBeRemovable>
+  <UnchosenStuff>Nem kiválasztott alapanyag.</UnchosenStuff>
+  <TooCloseToMapEdge>Túl közel van a térkép széléhez.</TooCloseToMapEdge>
+  <OutOfBounds>Tiltott terület.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Nem helyezhető fel nem fedezett területre.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Az interakció helyét {0} elzárja.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Az interakció helye tiltott terület.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Az interakció helyét {0} fogja elzárni.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} elzárná {1} interakciójának helyét.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>A talaj itt már {0}.</TerrainIsAlready>
+  <TerrainBeingSmoothed>A talaj itt már ki van jelölve egyengetésre.</TerrainBeingSmoothed>
+  <IdenticalThingExists>Ez már létezik itt.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Ugyanez a terv már ide lett helyezve.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Itt a talaj nem megfelelő erre.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Foglalt hely.</SpaceAlreadyOccupied>
+  <TerrainMustBeRemovable>Csak eltávolítható padlóval lehetséges.</TerrainMustBeRemovable>
   
   
   <!-- Mouse attachments -->
-  <ExpandOrCreateZone>Expand {0} or\nCreate new {1}</ExpandOrCreateZone>
-  <CreateNewZone>Create new {0}</CreateNewZone>
+  <ExpandOrCreateZone>Kiterjeszt {0} vagy\nÚj {1}</ExpandOrCreateZone>
+  <CreateNewZone>Új {0}</CreateNewZone>
   
   
   <!-- Desc helpers -->
-  <TransmitsPower>Transmits power</TransmitsPower>
+  <TransmitsPower>Vezeti az áramot</TransmitsPower>
 
 
 </LanguageData>

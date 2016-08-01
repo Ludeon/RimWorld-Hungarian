@@ -3,37 +3,37 @@
 
   <!-- ======================== Non-grouped ========================-->
   
-  <ScenPart_PlayerFaction>Your faction will be a {0}.</ScenPart_PlayerFaction>
+  <ScenPart_PlayerFaction>A frakciód {0} lesz.</ScenPart_PlayerFaction>
 
-  <ScenPart_StartWithPawns>Start with {0} people.</ScenPart_StartWithPawns>
-  <RandomPet>random pet</RandomPet>
+  <ScenPart_StartWithPawns>{0} emberrel kezdesz.</ScenPart_StartWithPawns>
+  <RandomPet>véletlenszerű állat</RandomPet>
 
-  <ScenPart_StartingResearchFinished>Start with research: {0}</ScenPart_StartingResearchFinished>
+  <ScenPart_StartingResearchFinished>Kezdeti kutatás: {0}</ScenPart_StartingResearchFinished>
   
-  <ScenPart_ArriveInDropPods>Arrive in drop pods.</ScenPart_ArriveInDropPods>
+  <ScenPart_ArriveInDropPods>Érkezés mentőkabinban.</ScenPart_ArriveInDropPods>
 
-  <ScenPart_StatFactor>The stat "{0}" will be universally multiplied by {1}.</ScenPart_StatFactor>
+  <ScenPart_StatFactor>A "{0}" tulajdonság be lesz szorozva ennyivel: {1}.</ScenPart_StatFactor>
 
 
   <!-- Pawn modifiers -->
-  <ScenPart_PawnsHaveHediff>{0} have a {1} chance to start with {2}.</ScenPart_PawnsHaveHediff>
-  <ConfigurableSeverity>severity: {0}</ConfigurableSeverity>
+  <ScenPart_PawnsHaveHediff>{0} {1} eséllyel kezd ezzel: {2}.</ScenPart_PawnsHaveHediff>
+  <ConfigurableSeverity>súlyosság: {0}</ConfigurableSeverity>
 
-  <ScenPart_PawnsHaveTrait>{0} have a {1} chance to start with trait: {2}</ScenPart_PawnsHaveTrait>
-  <ScenPart_OnPawnDeathExplode>Characters and creatures explode on death ({0}, radius {1}).</ScenPart_OnPawnDeathExplode>
+  <ScenPart_PawnsHaveTrait>{0} {1} eséllyel kezd a következő módosítóval: {2}</ScenPart_PawnsHaveTrait>
+  <ScenPart_OnPawnDeathExplode>Karakterek és lények robbanása halálkor ({0}, sugár {1}).</ScenPart_OnPawnDeathExplode>
 
   <!-- Pawn filters -->
-  <ScenPart_StartingPawnAgeMin>Your people will be at least {0} years old.</ScenPart_StartingPawnAgeMin>
-  <ScenPart_StartingPawnAgeMax>Your people will be at most {0} years old.</ScenPart_StartingPawnAgeMax>
-  <ScenPart_StartingPawnAgeRange>Your people will be between {0} and {1} years old.</ScenPart_StartingPawnAgeRange>
+  <ScenPart_StartingPawnAgeMin>Az embereid legalább {0} évesek.</ScenPart_StartingPawnAgeMin>
+  <ScenPart_StartingPawnAgeMax>Az embereid legfeljebb {0} évesek.</ScenPart_StartingPawnAgeMax>
+  <ScenPart_StartingPawnAgeRange>Az embereid kora {0} és {1} között.</ScenPart_StartingPawnAgeRange>
 
 
   <!-- ======================== Grouped ========================-->
 
-  <ScenPart_StartWith>Start with</ScenPart_StartWith>
-  <ScenPart_MapScatteredWith>Map is scattered with</ScenPart_MapScatteredWith>
-  <ScenPart_PermaMapCondition>Permanent map condition(s)</ScenPart_PermaMapCondition>
-  <ScenPart_DisableIncident>Incident(s) disabled</ScenPart_DisableIncident>
-  <ScenPart_DisallowBuilding>Can never build</ScenPart_DisallowBuilding>
+  <ScenPart_StartWith>Kezdeti létszám</ScenPart_StartWith>
+  <ScenPart_MapScatteredWith>A térképen elszórva:</ScenPart_MapScatteredWith>
+  <ScenPart_PermaMapCondition>Állandó térképtulajdonság(ok)</ScenPart_PermaMapCondition>
+  <ScenPart_DisableIncident>Incidens(ek) kikapcsolva</ScenPart_DisableIncident>
+  <ScenPart_DisallowBuilding>Nem építhető</ScenPart_DisallowBuilding>
 
 </LanguageData>
