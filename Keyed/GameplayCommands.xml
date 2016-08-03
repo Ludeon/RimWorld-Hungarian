@@ -1,141 +1,141 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CommandForbiddenDesc>Forbidden - colonists will not interact with this.</CommandForbiddenDesc>
-	<CommandNotForbiddenDesc>Not forbidden - colonists may interact with this.</CommandNotForbiddenDesc>
+	<CommandForbiddenDesc>Tiltott - a gyarmatosok békén hagyják.</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>Nem tiltott - a gyarmatosok foglalkozhatnak ezzel.</CommandNotForbiddenDesc>
 
   <!-- Power -->
-  <CommandTogglePowerLabel>Toggle power</CommandTogglePowerLabel>
-  <CommandTogglePowerDesc>Toggle power.</CommandTogglePowerDesc>
+  <CommandTogglePowerLabel>Áram ki/bekapcs</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Áram ki/bekapcs.</CommandTogglePowerDesc>
   
-  <CommandDesignateTogglePowerLabel>Designate toggle power</CommandDesignateTogglePowerLabel>
-  <CommandDesignateTogglePowerDesc>Designate this thing to have power toggled. A colonist will come soon to flick the switch.</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerLabel>Kijelölés áram ki/bekapcsra</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>Kijelölés áram ki/bekapcsra. Egy gyarmatos hamarosan átállítja a kapcsolót.</CommandDesignateTogglePowerDesc>
   
-  <CommandTryReconnectLabel>Reconnect</CommandTryReconnectLabel>
-  <CommandTryReconnectDesc>Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby.</CommandTryReconnectDesc>
+  <CommandTryReconnectLabel>Újracsatlakoztatás</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Megpróbálja hatósugáron belül egy másik, élő vezetékhez csatlakoztatni az eszközt. Ez jól jöhet, ha az már csatlakoztatva van egy olyan vezetékhez, ami nincs áram alatt.</CommandTryReconnectDesc>
 
-  <CommandGatherSpotToggleLabel>Gather spot</CommandGatherSpotToggleLabel>
-  <CommandGatherSpotToggleDescActive>Active - colonists will gather around this object.</CommandGatherSpotToggleDescActive>
-  <CommandGatherSpotToggleDescInactive>Inactive - colonists will not gather around this object.</CommandGatherSpotToggleDescInactive>
+  <CommandGatherSpotToggleLabel>Gyülekezési hely</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Aktív - a gyarmatosok köré gyűlnek.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Inaktív - a gyarmatosok nem gyűlnek köré.</CommandGatherSpotToggleDescInactive>
   
   
   <!-- Drafting -->
-  <CommandDraftLabel>Draft</CommandDraftLabel>
-  <CommandUndraftLabel>Undraft</CommandUndraftLabel>
-  <CommandToggleDraftDesc>Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest.</CommandToggleDraftDesc>
-  <IsIncapped>{0} is incapacitated.</IsIncapped>
+  <CommandDraftLabel>Besoroz</CommandDraftLabel>
+  <CommandUndraftLabel>Leszerel</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Katonaság kapcsoló.\n\nA besorozott emberek végrehajtják a parancsokat és harcolnak. Nem dolgoznak, nem esznek, nem pihennek.</CommandToggleDraftDesc>
+  <IsIncapped>{0} cselekvőképtelen.</IsIncapped>
 
-  <CommandClearPrioritizedWork>Clear prioritized work</CommandClearPrioritizedWork>
-  <CommandClearPrioritizedWorkDesc>Clear any prioritized work you assigned. The character will go back to their usual self-directed activities.</CommandClearPrioritizedWorkDesc>
+  <CommandClearPrioritizedWork>Előnyben részesített munka törlése</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWorkDesc>Minden előnyben részesített munka törlése. A gyarmatos visszatér a szokásos maga-irányította munkarendhez.</CommandClearPrioritizedWorkDesc>
   
-  <CommandCancelConstructionLabel>Cancel</CommandCancelConstructionLabel>
-  <CommandCancelConstructionDesc>Cancel this construction.</CommandCancelConstructionDesc>
+  <CommandCancelConstructionLabel>Visszavon</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Építkezés visszavonása.</CommandCancelConstructionDesc>
 
-  <CommandGetOutOfBedLabel>Get out of bed</CommandGetOutOfBedLabel>
-  <CommandGetOutOfBedDesc>Get out of current bed.</CommandGetOutOfBedDesc>
+  <CommandGetOutOfBedLabel>Felkelni</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Jelenlegi ágyból kiszállni.</CommandGetOutOfBedDesc>
 
-  <CommandBedSetOwnerLabel>Set owner</CommandBedSetOwnerLabel>
-  <CommandBedSetOwnerDesc>Assign this bed to be owned by a specific colonist.</CommandBedSetOwnerDesc>
-  <CommandGraveAssignColonistLabel>Assign colonist</CommandGraveAssignColonistLabel>
-  <CommandGraveAssignColonistDesc>Assign this grave to be owned by a specific colonist.</CommandGraveAssignColonistDesc>
-  <BuildingAssign>Assign</BuildingAssign>
-  <BuildingUnassign>Unassign</BuildingUnassign>
-  <CommandBedSetForPrisonersLabel>For prisoners</CommandBedSetForPrisonersLabel>
-  <CommandBedSetForPrisonersDesc>Whether beds in this room should be used by prisoners.</CommandBedSetForPrisonersDesc>
-  <CommandBedSetForPrisonersFailOutdoors>Cannot set outdoor beds to be for prisoners.</CommandBedSetForPrisonersFailOutdoors>
-  <CommandBedSetAsMedicalLabel>Medical</CommandBedSetAsMedicalLabel>
-  <CommandBedSetAsMedicalDesc>Whether this bed is for medical use.</CommandBedSetAsMedicalDesc>
-  <TurningOnPrisonerBedWarning>Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOnPrisonerBedWarning>
-  <TurningOffPrisonerBedWarning>Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOffPrisonerBedWarning>
-  <AreYouSure>Are you sure you want to do this?</AreYouSure>
+  <CommandBedSetOwnerLabel>Tulajdonos beállítása</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Hozzárendeli az adott ágyat egy bizonyos gyarmatoshoz.</CommandBedSetOwnerDesc>
+  <CommandGraveAssignColonistLabel>Gyarmatos hozzárendelése</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>Hozzárendeli az adott sírt egy bizonyos gyarmatoshoz.</CommandGraveAssignColonistDesc>
+  <BuildingAssign>Hozzárendel</BuildingAssign>
+  <BuildingUnassign>Hozzárendelést töröl</BuildingUnassign>
+  <CommandBedSetForPrisonersLabel>Foglyoknak</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>A szoba ágyainak kijelölése foglyok számára.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Csak beltéri ágyakat lehet kijelölni foglyoknak.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetAsMedicalLabel>Orvosi</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>Orvosi ellátáshoz jelöl ki ágyat.</CommandBedSetAsMedicalDesc>
+  <TurningOnPrisonerBedWarning>A fogda mód bekapcsolása az egész szobára hat, mivel foglyok és gyarmatosok nem alhatnak ugyanabban a szobában.\n\nEzek az emberek fogják elveszíteni ágyaikat:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>A fogda mód kikapcsolása az egész szobára hat, mivel foglyok és gyarmatosok nem alhatnak ugyanabban a szobában.\n\nEzek az emberek fogják elveszíteni ágyaikat:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Biztos vagy benne?</AreYouSure>
 
-  <CommandDetonateLabel>Detonate</CommandDetonateLabel>
-  <CommandDetonateDesc>Start the countdown to detonation.</CommandDetonateDesc>
+  <CommandDetonateLabel>Robbant</CommandDetonateLabel>
+  <CommandDetonateDesc>Visszaszámlálás indítása.</CommandDetonateDesc>
 
-  <CommandRenameZoneLabel>Rename</CommandRenameZoneLabel>
-  <CommandRenameZoneDesc>Rename this zone.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Átnevezés</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>Zóna átnevezése.</CommandRenameZoneDesc>
 
-  <CommandHideZoneLabel>Hide</CommandHideZoneLabel>
-  <CommandUnhideZoneLabel>Unhide</CommandUnhideZoneLabel>
-  <CommandHideZoneDesc>Hide/unhide this zone.</CommandHideZoneDesc>
+  <CommandHideZoneLabel>Elrejtés</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Felfedés</CommandUnhideZoneLabel>
+  <CommandHideZoneDesc>Elrejti/felfedi a zónát.</CommandHideZoneDesc>
 
-  <CommandDeleteZoneLabel>Delete</CommandDeleteZoneLabel>
-  <CommandDeleteZoneDesc>Delete this zone.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneLabel>Törlés</CommandDeleteZoneLabel>
+  <CommandDeleteZoneDesc>Zóna törlése.</CommandDeleteZoneDesc>
 
-  <CommandCopyZoneSettingsLabel>Copy settings</CommandCopyZoneSettingsLabel>
-  <CommandCopyZoneSettingsDesc>Copy this zone's settings to the clipboard so you can paste them onto another zone.</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsLabel>Beállítások másolása</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>A zóna beállításainak vágólapra másolása, más zónára való alkalmazás céljából.</CommandCopyZoneSettingsDesc>
 
-  <CommandPasteZoneSettingsLabel>Paste settings</CommandPasteZoneSettingsLabel>
-  <CommandPasteZoneSettingsDesc>Overwrite this zone's settings with those previously copied to the clipboard.</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsLabel>Beállítások beillesztése</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>Felülírja a zóna beállításait a vágólapon szereplőkkel.</CommandPasteZoneSettingsDesc>
 
-  <CommandAllowSow>Allow sowing</CommandAllowSow>
-  <CommandAllowSowDesc>When disabled, colonists will never sow plants in this zone. They will still harvest.</CommandAllowSowDesc>
+  <CommandAllowSow>Vetés engedélyezése</CommandAllowSow>
+  <CommandAllowSowDesc>Kikapcsolt állapotban a gyarmatosok nem vetnek többé ide. Betakarítani fognak.</CommandAllowSowDesc>
 
   <!-- Artillery -->
-  <CommandSetForceAttackTarget>Set forced target</CommandSetForceAttackTarget>
-  <CommandSetForceAttackTargetDesc>Sets a target that this turret must attack continuously as long as it can.</CommandSetForceAttackTargetDesc>
-  <CommandStopForceAttack>Stop forced attack</CommandStopForceAttack>
-  <CommandStopForceAttackDesc>Stops force-attacking and allows the turret to fire as it wishes.</CommandStopForceAttackDesc>
-  <CommandStopAttackFailNotForceAttacking>Not currently force-attacking.</CommandStopAttackFailNotForceAttacking>
-  <MessageTargetBeyondMaximumRange>Target beyond maximum range.</MessageTargetBeyondMaximumRange>
-  <MessageTargetBelowMinimumRange>Target below minimum range.</MessageTargetBelowMinimumRange>
+  <CommandSetForceAttackTarget>Kényszerített célpont</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Az ágyúnak ezt a célpontot kell lőnie, amíg csak lehetséges.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Zárótűz leállítása</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Az ágyú arra lő, akire gondolja.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Jelenleg nincs zárótűz mód aktiválva.</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>Célpont túl messze van.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Célpont túl közel van.</MessageTargetBelowMinimumRange>
   
   <!-- Ship computer core -->
-  <CommandShipLaunch>Launch ship</CommandShipLaunch>
-  <CommandShipLaunchDesc>Start the ship launch sequence with the current configuration.</CommandShipLaunchDesc>
-  <CommandShipLaunchReport>Show launch report</CommandShipLaunchReport>
-  <CommandShipLaunchReportDesc>Show a readiness report about the ship's launch capability.</CommandShipLaunchReportDesc>
+  <CommandShipLaunch>Úrhajó kilövése</CommandShipLaunch>
+  <CommandShipLaunchDesc>A kilövési procedúra megkezdése a jelenlegi konfigurációval.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Kilövési jelentés</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Jelentés az űrhajó kilövési készültségéről.</CommandShipLaunchReportDesc>
 
   <!-- Pod -->
-  <CommandPodEject>Eject sleeper</CommandPodEject>
-  <CommandPodEjectDesc>Wake up the cryptosleeper and eject them.</CommandPodEjectDesc>
-  <CommandPodEjectFailEmpty>Contains nobody.</CommandPodEjectFailEmpty>
+  <CommandPodEject>Hibernált felébresztése</CommandPodEject>
+  <CommandPodEjectDesc>Hibernált személy felébresztése és kiengedése.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Üres.</CommandPodEjectFailEmpty>
 
   <!-- Door -->
-  <CommandToggleDoorForbid>Passage forbidden</CommandToggleDoorForbid>
-  <CommandToggleDoorForbidDesc>When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door.</CommandToggleDoorForbidDesc>
-  <CommandToggleDoorHoldOpen>Hold open</CommandToggleDoorHoldOpen>
-  <CommandToggleDoorHoldOpenDesc>When active, your colonists will not close the door after passing through.</CommandToggleDoorHoldOpenDesc>
+  <CommandToggleDoorForbid>Tilos az áthaladás</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>Tiltott ajtón nem mennek át a baráti egységek. Ellenségek és állatok viselkedését ez nem befolyásolja.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>Nyitva tart</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>A gyarmatosok nem fogják maguk után becsukni ezt az ajtót.</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
-  <CommandResetTemp>Reset</CommandResetTemp>
-  <CommandResetTempDesc>Reset the target temperature to room temperature.</CommandResetTempDesc>
-  <CommandRaiseTempDesc>Raise the target temperature.</CommandRaiseTempDesc>
-  <CommandLowerTempDesc>Lower the target temperature.</CommandLowerTempDesc>
+  <CommandResetTemp>Alaphelyzetbe</CommandResetTemp>
+  <CommandResetTempDesc>Célhőmérsékletet szobahőmérsékletre állítani.</CommandResetTempDesc>
+  <CommandRaiseTempDesc>Célhőmérsékletet növelése.</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>Célhőmérsékletet csökkentése.</CommandLowerTempDesc>
 
   <!-- Install/reinstall -->
-  <CommandInstall>Install</CommandInstall>
-  <CommandInstallDesc>This item is currently packaged up for storage and transport. Use this command to install this item in a final location.</CommandInstallDesc>
-  <CommandReinstall>Reinstall at...</CommandReinstall>
-  <CommandReinstallDesc>Designate this item to be uninstalled and reinstalled somewhere else.</CommandReinstallDesc>
+  <CommandInstall>Telepít</CommandInstall>
+  <CommandInstallDesc>Ez a tárgy jelenleg be van csomagolva szállításhoz vagy raktározáshoz. Ezzel a paranccsal telepítheted végső helyére.</CommandInstallDesc>
+  <CommandReinstall>Áttelepít...</CommandReinstall>
+  <CommandReinstallDesc>Kijelöli a tárgyat leszerelésre majd áttelepítésre.</CommandReinstallDesc>
   
   <!-- Trade beacon -->
-  <CommandMakeBeaconStockpileDesc>Create a stockpile around this building exactly matching the shape of the beacon's launch radius.</CommandMakeBeaconStockpileDesc>
-  <CommandMakeBeaconStockpileLabel>Create stockpile</CommandMakeBeaconStockpileLabel>
+  <CommandMakeBeaconStockpileDesc>Létrehoz egy raktárterületet, ami pontosan fedi a jeladó indítási körzetét.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileLabel>Raktárterület létrehozása</CommandMakeBeaconStockpileLabel>
 
   <!-- Sun lamp -->
-  <CommandSunLampMakeGrowingZoneDesc>Create a growing zone around this building exactly matching the shape of the lamp's light radius.</CommandSunLampMakeGrowingZoneDesc>
-  <CommandSunLampMakeGrowingZoneLabel>Create growing zone</CommandSunLampMakeGrowingZoneLabel>
+  <CommandSunLampMakeGrowingZoneDesc>Létrehoz egy kertet, ami pontosan fedi a kvarclámpa hatósugarát.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>Kert létrehozása</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
-  <CommandAutoRearm>Auto Rearm</CommandAutoRearm>
-  <CommandAutoRearmDesc>If this is on, this trap will automatically be designated for rearming when it springs.</CommandAutoRearmDesc>
+  <CommandAutoRearm>Automatikus élesítés</CommandAutoRearm>
+  <CommandAutoRearmDesc>Bekapcsolt állapotban a csapda magától élesedik miután valaki beleesett.</CommandAutoRearmDesc>
   
   <!-- Animal control -->
-  <CommandReleaseAnimalsLabel>Release animals</CommandReleaseAnimalsLabel>
-  <CommandReleaseAnimalsDesc>While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master.</CommandReleaseAnimalsDesc>
+  <CommandReleaseAnimalsLabel>Állatok kiengedése</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>Bekapcsolt állapotban a befogott állatok távolabbi célpontokat is támadhatnak. Ha kikapcsolod, a gazdájukat védik.</CommandReleaseAnimalsDesc>
   
   <!-- Squad attack -->
-  <CommandSquadAttack>Attack</CommandSquadAttack>
-  <CommandSquadAttackDesc>Order selected colonists to attack designated target.</CommandSquadAttackDesc>
+  <CommandSquadAttack>Támad</CommandSquadAttack>
+  <CommandSquadAttackDesc>Utasítja a kijelölt gyarmatosokat, hogy támadják meg a kiválasztott célpontot.</CommandSquadAttackDesc>
   
   <!-- Hold fire -->
-  <CommandHoldFire>Hold fire</CommandHoldFire>
-  <CommandHoldFireDesc>End any ongoing attacks.</CommandHoldFireDesc>
+  <CommandHoldFire>Tüzet szűntess</CommandHoldFire>
+  <CommandHoldFireDesc>Minden folyamatban lévő támadás beszűntetése.</CommandHoldFireDesc>
   
   <!-- Select plant to grow -->
-  <CommandSelectPlantToGrowMulti>Select plant to grow</CommandSelectPlantToGrowMulti>
-  <CommandSelectPlantToGrow>Plant: {0}</CommandSelectPlantToGrow>
-  <CommandSelectPlantToGrowDesc>Determine which plant should be sown here.</CommandSelectPlantToGrowDesc>
+  <CommandSelectPlantToGrowMulti>Termeszteni kívánt növény</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrow>Növény: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrowDesc>Kijelöli milyen magvakat vessenek ide.</CommandSelectPlantToGrowDesc>
   
 </LanguageData>

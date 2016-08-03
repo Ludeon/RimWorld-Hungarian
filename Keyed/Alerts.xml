@@ -6,86 +6,86 @@
   
   
   <NeedSawmill>Nincs fűrészmalom</NeedSawmill>
-  <NeedSawmillDesc>You need some kind of sawmill to chop logs into more versatile wood planks.\n\nBuild a HAND SAWMILL or an ELECTRIC SAWMILL.</NeedSawmillDesc>
+  <NeedSawmillDesc>Fűrészmalomra van szükség, hogy a fából deszkákat készíts.\n\nÉpíts kézi vagy elektromos fűrészmalmot.</NeedSawmillDesc>
 
   <PoorMood>Rossz hangulat</PoorMood>
-  <PoorMoodDesc>These colonists are in a poor mood and may have a soft mental break at any time:\n\n{0}</PoorMoodDesc>
+  <PoorMoodDesc>A következő gyarmatosok rossz hangulatban vannak és bármikor szenvedhetnek kisebb összeomlást:\n\n{0}</PoorMoodDesc>
   <TerribleMood>Szörnyű hangulat</TerribleMood>
-  <TerribleMoodDesc>These colonists are critically stressed and may have a hard - and potentially violent - mental break at any moment:\n\n{0}</TerribleMoodDesc>
-  <LowMoodDescEnding>Check these colonists' Needs tab to see what's bothering them.</LowMoodDescEnding>
+  <TerribleMoodDesc>A következő gyarmatosok kritikus hangulatban vannak és könnyen szenvedhetnek komoly - akár erőszakos - idegösszeomlást:\n\n{0}</TerribleMoodDesc>
+  <LowMoodDescEnding>Ellenőrizd mi bántja őket a "Szükségletek" fül alatt.</LowMoodDescEnding>
   
   <ColonistNeedsRescue>Gyarmatos mentésre vár</ColonistNeedsRescue>
   <ColonistsNeedRescue>Gyarmatosok mentésre várnak</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>  These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>  A következő gyarmatosok cselekvőképtelenek:\n\n{0}\nKüldj értük valakit, aki kimenti és betegágyba teszi őket.\n\n(A mentéshez válassz ki egy másik gyarmatost és jobbkatt a sérültön majd "Mentés".</ColonistsNeedRescueDesc>
 
   <BuildARoom>Építs szobát</BuildARoom>
-  <BuildARoomDesc>A room is composed of separate wall pieces with a door.\n\nUse the ARCHITECT menu at the bottom left of the screen to designate where you want things built. Once you designate something to be built, your colonists will do the work when they can.</BuildARoomDesc>
+  <BuildARoomDesc>Egy szoba falakból és ajtóból áll.\n\nHasználd az ÉPÍTÉS menüt a bal alsó sarokban, ezzel kijelölheted hol mi épüljön. Ha megtörtént a kijelölés, a gyarmatosok elvégzik a munkát, amint tudják.</BuildARoomDesc>
 
   <NeedDefenses>Nincs védelem</NeedDefenses>
-  <NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, whether they're traps, sandbags, or turrets.</NeedDefensesDesc>
+  <NeedDefensesDesc>Egy ideje már itt vagy és valószínűleg felfedeztek. A fosztogatások lassan beindulnak.\n\nÁllíts fel védelmet, legyen az csapda, homokzsák vagy ágyú.</NeedDefensesDesc>
 
   <NeedDoctor>Nincs orvos</NeedDoctor>
-  <NeedDoctorDesc>These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent.</NeedDoctorDesc>
+  <NeedDoctorDesc>Orvosi ellátásra van szüksége néhány gyarmatosnak, de nincs egészséges embered erre a munkára beosztva.\n\n{0}\nOssz be valakit "Doktor" munkára. Ha nem kezelik őket, a sebesülések talán sosem gyógyulnak be.</NeedDoctorDesc>
 
   <NeedMiner>Nincs bányász</NeedMiner>
-  <NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
+  <NeedMinerDesc>Kijelöltél pár sziklát bányászatra, de nincs senki beosztva "Bányász" munkára.\n\nOssz be valaki erre a munkatípusra.</NeedMinerDesc>
 
   <NeedWarden>Nincs börtönőr</NeedWarden>
-  <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
+  <NeedWardenDesc>Van foglyod, de nincs senki beosztva "Börtönőr" munkára.\n\nOssz be valaki erre a munkatípusra.</NeedWardenDesc>
 
   <LowFood>Kevés az étel</LowFood>
-  <LowFoodDesc>You only have {0} full bars worth of food in storage. This is dangerously low.\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
+  <LowFoodDesc>Már csak {0} teljes értékű étel maradt a raktárban. Ez nagyon kevés.\n\nTermessz, vegyél, keress vagy ölj érte.</LowFoodDesc>
 
   <LowMedicine>Kevés a gyógyszer</LowMedicine>
-  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
-  <NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
+  <LowMedicineDesc>>Már csak {0} gyógyszer maradt a raktárban.\n\nVegyél még kereskedőktől belőle.</LowMedicineDesc>
+  <NoMedicineDesc>Már nincs gyógyszer a raktárban.\n\nVegyél még kereskedőktől belőle.</NoMedicineDesc>
   
   <NeedColonistBeds>Kevés az ágy</NeedColonistBeds>
-  <NeedColonistBedsDesc>You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>Több gyarmatosod van mint ágyad. Valakinek nem lesz hol aludnia.\n\nGyárts több ágyat vagy állíts át börtönágyat normál ággyá.\n\nHa nincs nyersanyagod, az alvóhely ingyen van és azonnal lerakható.</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>Fegyvertelen vadász</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>A colonist is assigned as a hunter but has no weapon. They will not hunt until they are carrying a weapon.\n\nTo reduce injury, we recommend giving them a ranged weapon.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>Egy gyarmatos vadásznak van beosztva, de nincs fegyvere. Fegyver nélkül nem fognak vadászni.\n\nSérülések elkerülése végett javasolt a távolsági fegyverek használata.</HunterLacksWeaponDesc>
 
   <Starvation>Éhínség</Starvation>
-  <StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food.</StarvationDesc>
+  <StarvationDesc>A következő gyarmatosok éheznek:\n\n{0}\nEtesd meg őket!</StarvationDesc>
 
   <StarvationAnimals>Éhező állat</StarvationAnimals>
-  <StarvationAnimalsDesc>These colony animals are starving:\n\n{0}\nGet them some food.</StarvationAnimalsDesc>
+  <StarvationAnimalsDesc>A következő állatok éheznek:\n\n{0}\nEtesd meg őket!</StarvationAnimalsDesc>
 
   <Exhaustion>Kimerültség</Exhaustion>
-  <ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
+  <ExhaustionDesc>A következő gyarmatosok kimerültek és pihenésre van szükségük:\n\n{0}\nHagyd pihenni őket! Szükségük lesz egy ágyra, amit használhatnak és ne legyenek besorozva.</ExhaustionDesc>
 
   <NeedFoodHopper>Nincs élelmiszeradagoló</NeedFoodHopper>
-  <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>A tápanyagellátód mellett nincs adagoló.\n\nAhhoz, hogy működjön, nyers ételt kell kapnia egy adagolóból.\n\nÉpíts mellé adagolót!</NeedFoodHopperDesc>
 
   <BuildingNeedsPower>Épület áram nélkül</BuildingNeedsPower>
   <BuildingsNeedPower>Épületek áram nélkül</BuildingsNeedPower>
-  <BuildingsNeedPowerDesc>These power-using buildings are totally disconnected from all possible power sources:\n\n{0}\nConnect them to a power generator or battery.</BuildingsNeedPowerDesc>
-  <AndMore>and more</AndMore>
+  <BuildingsNeedPowerDesc>A következő áramot igénylő épületek nincsenek feszültség alatt:\n\n{0}\nKösd össze őket egy generátorral vagy akkumulátorral!</BuildingsNeedPowerDesc>
+  <AndMore>és még</AndMore>
 
   <NeedMealSource>Nem lehet ételt gyártani</NeedMealSource>
-  <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>Nincs módja, hogy rendes fogásokat állíts elő nyers ételből.\n\nÉpíts tűzhelyet, tábortüzet vagy tápanyagellátót.\n\n(Ezek ne legyenek a börtönben, ott a gyarmatosok nem férnek hozzájuk.)</NeedMealSourceDesc>
 
   <NeedHomeArea>Nincs lakókörlet</NeedHomeArea>
-  <NeedHomeAreaDesc>You need to define a HOME AREA where your colonists will clean, extinguish fires, and repair things.\n\nDefine a home area using the ZONES section of the ARCHITECT menu.</NeedHomeAreaDesc>
+  <NeedHomeAreaDesc>Lakókörletet kell kijelölnöd, ahol a gyarmatosok takarítanak, tüzet oltanak, és javításokat végeznek.\n\nA kijelölést megteheted az ÉPÍTÉS menü ZÓNÁK szekciójában.</NeedHomeAreaDesc>
 
   <NeedBatteries>Nincs akkumulátor</NeedBatteries>
-  <NeedBatteriesDesc>You only have solar generators and no batteries. This means you'll lose power every time the sun goes down.\n\nBuild a battery or two to get you through the night.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>Csak napelemed van, de akkumulátorod nincs. Így nem lesz áramod, ha lemegy a nap.\n\nÉpíts pár akkumulátort, hogy átvészeld az éjjelt!</NeedBatteriesDesc>
 
   <NoTradingCapacity>Nincs orbitális kereskedés</NoTradingCapacity>
-  <NoTradingCapacityDesc>You have no way of trading with passing ships.\n\nBuild a comms console.</NoTradingCapacityDesc>
+  <NoTradingCapacityDesc>Nincs módod rá, hogy áthaladó űrhajókkal kereskedj.\n\nÉpíts kommunikációs konzolt!</NoTradingCapacityDesc>
 
   <BrawlerHasRangedWeapon>Közelharcos lőfegyverrel</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>Az egyik gyarmatosodnak "Közelharcos" jellemvonása van, de távolsági fegyvert hord. Ettől igen boldogtalan lesz.</BrawlerHasRangedWeaponDesc>
 
   <ShieldUserHasRangedWeapon>Pajzshasználó lőfegyverrel</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>One of your colonists has a personal shield and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>Az egyik gyarmatosodnak személyi pajzsa van, de távolsági fegyvert hord. Nem fog tudni tüzelni csak olyan célpontokra, amik érintik a pajzsot.</ShieldUserHasRangedWeaponDesc>
 
   <NeedResearchProject>Nincs kutatásterv</NeedResearchProject>
-  <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
+  <NeedResearchProjectDesc>Van kutatási felszerelésed, de nincs kutatásterved.\n\nNyisd meg a "Kutatás" menüt és válassz egyet.</NeedResearchProjectDesc>
   
-  <NeedDump>Nincs szemétdomb</NeedDump>
-  <NeedDumpDesc>You have marked {0} to be hauled, but the colonists have nowhere to take it.\n\nDesignate a stockpile and set its storage settings to accept {0}.</NeedDumpDesc>
+  <NeedDump>Nincs raktárterület</NeedDump>
+  <NeedDumpDesc>{0} meg lett jelölve, mint szállítandó, nincs hová vinni.\n\nJelölj ki egy raktárterületet, és állítsd be, hogy {0} engedélyezve legyen!.</NeedDumpDesc>
 
   <!-- Removed
   <NeedGrave>Need grave</NeedGrave>
@@ -93,7 +93,7 @@
   -->
 
   <ColonistsIdle>{0} gyarmatos tétlen</ColonistsIdle>
-  <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
+  <ColonistsIdleDesc>A következő gyarmatosok tétlenek:\n\n{0}\nKéne találnod nekik valami hasznos munkát.</ColonistsIdleDesc>
 
   <!-- Removed
   <HaltedConstructions>{0} constructions are missing materials</HaltedConstructions>
@@ -101,25 +101,25 @@
   -->
   
   <ColonistNeedsTreatment>Gyarmatos ellátása szükséges</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>Orvosi ellátásra van szüksége a következő gyarmatosnak. Ha nem kezelik őket, a sebesülések talán sosem gyógyulnak be.\n\n{0}\nKüldd őket betegágyba!\n\n(Először jelölj ki egy ágyat betegágynak, majd a sérültet kiválasztva jobbkatt az ágyon és páciens hozzárendelése.)</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>Kihűlés</AlertHypothermia>
-  <AlertHypothermiaDesc>These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated.</AlertHypothermiaDesc>
+  <AlertHypothermiaDesc>A következő gyarmatosokat fenyegeti kihűlés:\n\n{0}\nBizonyosodj meg róla, hogy a ruházatuk az évszaknak megfelelő és a szobáik fűtöttek.</AlertHypothermiaDesc>
   
-  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
-  <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperation>{0} páciens vár orvosi segítségre</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>A következő páciensek várnak operációra:\n\n{0}\nBizonyosodj meg róla, hogy a megfelelő eszközök és orvos rendelkezésre állnak!</PatientsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>TŰZ!</FireInHomeArea>
-  <FireInHomeAreaDesc>There is a fire in the home area.</FireInHomeAreaDesc>
+  <FireInHomeAreaDesc>Tűz a lakókörletben.</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>Súlyos betegség</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical possible.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>A következő emberek vannak a halálukon súlyos betegség miatt:\n\n{0}\nBizonyosodj meg róla, hogy a lehető legjobb ellátást kapják!</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>A következő emberek vannak a halálukon súlyos betegség miatt:\n\n{0}\nHa lehetséges, amputáld vagy cseréld a fertőzött végtagokat, hogy életben tartsd őket.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <BilliardsNeedsSpace>Billiárdnak több hely kell</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpaceDesc>Az egyik billiárdasztalod közvetlen közelében van valamilyen tárgynak.\n\nA billiárdasztalnak minden oldalon szabad hely kell, hogy játszani lehessen rajta.</BilliardsNeedsSpaceDesc>
 
-  <HunterHasShieldAndRangedWeapon>Vadász pajzssal és lőfegyverrel</HunterHasShieldAndRangedWeapon>
-  <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a personal shield which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeapon>Vadász pajzzsal és lőfegyverrel</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>Az egyik vadászodnak ugyan távolsági fegyvere, de személyi pajzsa is van, ami megakadályozza a távolsági célra tüzelést.\n\nNem fog tudni vadászni, amíg el nem távolítod a pajzsot.</HunterHasShieldAndRangedWeaponDesc>
   
 </LanguageData>

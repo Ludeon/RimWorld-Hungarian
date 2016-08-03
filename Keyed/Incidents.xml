@@ -1,119 +1,119 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <LetterLabelAnimalInsanitySingle>Mad animal</LetterLabelAnimalInsanitySingle>
-  <AnimalInsanitySingle>A local {0} has gone mad. It will attack everyone it sees.</AnimalInsanitySingle>
-  <LetterLabelAnimalInsanityMultiple>Mad animals!</LetterLabelAnimalInsanityMultiple>
-  <AnimalInsanityMultiple>Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0}s in the area have been driven insane.</AnimalInsanityMultiple>
+  <LetterLabelAnimalInsanitySingle>Megvadult állat</LetterLabelAnimalInsanitySingle>
+  <AnimalInsanitySingle>Egy helyi {0} megvadult. Akit meglát, megtámadja.</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanityMultiple>Megvadult állatok!</LetterLabelAnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Valamiféle pszichotikus hullám söpört végig a tájon. A gyarmatosok jól vannak, de...\n\nÚgy tűnik sok {0} megőrült a környéken.</AnimalInsanityMultiple>
 
-  <LetterLabelCropBlight>Blight</LetterLabelCropBlight>
-  <CropBlight>A mysterious blight has destroyed your crops.</CropBlight>
+  <LetterLabelCropBlight>Penész</LetterLabelCropBlight>
+  <CropBlight>Egy rejtélyes penészfajta elpusztította a növényeket.</CropBlight>
 
-  <LetterLabelMiracleHeal>Miracle</LetterLabelMiracleHeal>
-  <MiracleHeal>{0} has experienced a miraculous recovery!</MiracleHeal>
+  <LetterLabelMiracleHeal>Csoda</LetterLabelMiracleHeal>
+  <MiracleHeal>{0} csodálatos módon felépült!</MiracleHeal>
 
   <!-- Enemy raids -->
-  <EnemyRaidWalkIn>A group of {0} from {1} have arrived nearby.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>A group of {0} from {1} have arrived in drop pods nearby.</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>A group of {0} from {1} have dropped in right on top of you!</EnemyRaidCenterDrop>
-  <EnemyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</EnemyRaidLeaderPresent>
+  <EnemyRaidWalkIn>Egy csapat {1} {0} érkezett a közelbe.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>Egy csapat {1} {0} érkezett a közelbe mentőkabinokban.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>Egy csapat {1} {0} érkezett pontosan a kolóniára!</EnemyRaidCenterDrop>
+  <EnemyRaidLeaderPresent>Az egyik {0} a(z) {1} frakció vezetője.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
-  <FriendlyRaidWalkIn>A group of friendly {0} from {1} have arrived nearby.</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>A group of friendly {0} from {1} have dropped in from orbit nearby.</FriendlyRaidEdgeDrop>
-  <FriendlyRaidCenterDrop>A group of friendly {0} from {1} have dropped from orbit right on top of you!</FriendlyRaidCenterDrop>
-  <FriendlyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</FriendlyRaidLeaderPresent>
+  <FriendlyRaidWalkIn>Egy csapat {1} barátságos {0} érkezett a közelbe.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>Egy csapat {1} barátságos {0} érkezett a közelbe földkörüli pályáról.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>Egy csapat {1} barátságos {0} érkezett földkörüli pályáról pontosan a kolóniára!</FriendlyRaidCenterDrop>
+  <FriendlyRaidLeaderPresent>Az egyik {0} a(z) {1} frakció vezetője.</FriendlyRaidLeaderPresent>
 
-  <LetterLabelRefugeePodCrash>Escape pod</LetterLabelRefugeePodCrash>
-  <RefugeePodCrash>You've detected an escape pod crashing hard nearby.\n\nIf anyone survived the impact, they'll be badly wounded.</RefugeePodCrash>
+  <LetterLabelRefugeePodCrash>Mentőkabin</LetterLabelRefugeePodCrash>
+  <RefugeePodCrash>A közelben lezuhant egy mentőkabin.\n\nHa túl is élte valaki a zuhanást, az súlyosan meg lesz sérülve.</RefugeePodCrash>
 
-  <LetterLabelCargoPodCrash>Cargo pods</LetterLabelCargoPodCrash>
-  <CargoPodCrash>You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage.</CargoPodCrash>
+  <LetterLabelCargoPodCrash>Szállítmány</LetterLabelCargoPodCrash>
+  <CargoPodCrash>Egy szállítmány áru zuhant le a közelben.\n\nTalán lesz közte valami használható.</CargoPodCrash>
 
-  <AnElectricalConduit>an electrical conduit</AnElectricalConduit>
-  <ShortCircuit>A fault in {0} has caused a short circuit.\n\nAll {1} Wd of energy in the connected batteries has been discharged in an electrical explosion.</ShortCircuit>
-  <ShortCircuitWasLarge>This large amount of power has created an explosion of considerable size.</ShortCircuitWasLarge>
-  <ShortCircuitWasHuge>That really is a huge explosion. Wow.</ShortCircuitWasHuge>
+  <AnElectricalConduit>elektromos vezeték</AnElectricalConduit>
+  <ShortCircuit>{0} rövidzár alá került egy meghibásodás miatt.\n\nAz ehhez kötött összes akkumulátorban tárolt {1} W energia felszabadult egy robbanás formájában.</ShortCircuit>
+  <ShortCircuitWasLarge>A nagy mennyiségű energia tekintélyes robbanást okozott.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>Ez aztán a robbanás. Hűha!</ShortCircuitWasHuge>
 
-  <TraderArrival>A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.</TraderArrival>
+  <TraderArrival>Kereskedőhajó halad el a közelben.\n\n{0} néven ismertek. Besorolásuk: {1}.</TraderArrival>
 
   <SingleTravelerPassing>A {0} from {1} is passing by. HECAP is named {2}.</SingleTravelerPassing>
-  <GroupTravelersPassing>A group of travelers from {0} are passing by.</GroupTravelersPassing>
+  <GroupTravelersPassing>{0} utazók haladnak el a közelben.</GroupTravelersPassing>
 
-  <LetterLabelSingleVisitorArrives>Visitor</LetterLabelSingleVisitorArrives>
+  <LetterLabelSingleVisitorArrives>Látogató</LetterLabelSingleVisitorArrives>
   <SingleVisitorArrives>A {0} from {1} is visiting the colony.\n\nHECAP is named {2}.{3}{4}</SingleVisitorArrives>
   <SingleVisitorArrivesTraderInfo>\n\nHECAP seems to have a few items to trade.</SingleVisitorArrivesTraderInfo>
   <SingleVisitorArrivesLeaderInfo>\n\nHECAP is the leader of the faction.</SingleVisitorArrivesLeaderInfo>
-  <LetterLabelGroupVisitorsArrive>Visitors</LetterLabelGroupVisitorsArrive>
+  <LetterLabelGroupVisitorsArrive>Látogatók</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>A group from {0} are visiting the colony.{1}{2}</GroupVisitorsArrive>
-  <GroupVisitorsArriveTraderInfo>\n\nThey seem to have a few items to trade.</GroupVisitorsArriveTraderInfo>
-  <GroupVisitorsArriveLeaderInfo>\n\nOne of the visitors - {0}, is the leader of the faction.</GroupVisitorsArriveLeaderInfo>
+  <GroupVisitorsArriveTraderInfo>\n\nÚgy tűnik van náluk pár eladni való.</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveLeaderInfo>\n\nAz egyik látogató, {0}, a frakció vezetője.</GroupVisitorsArriveLeaderInfo>
   <VisitorsLeaving>Visitors from {0} are leaving.</VisitorsLeaving>
 
-  <LetterLabelWandererJoin>Wanderer joins</LetterLabelWandererJoin>
-  <WandererJoin>A {0} named NAME has arrived and is joining the colony. HECAP is a {1}.</WandererJoin>
+  <LetterLabelWandererJoin>Vándor csatlakozik</LetterLabelWandererJoin>
+  <WandererJoin>A NAME nevű {0} megérkezett és csatlakozik a kolóniához. HECAP is a {1}.</WandererJoin>
 
-  <LetterLabelManhunterPackArrived>Manhunter pack</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>A pack of man-hunting {0}s have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey can't pass doors, so if you stay behind walls you should be safe. They won't attack inactive turrets, so turn your turrets off if you want to save them.\n\nThey'll leave the area in a few days.</ManhunterPackArrived>
+  <LetterLabelManhunterPackArrived>Emberevő falka</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>Egy falka emberevő {0} jelent meg a környéken. A közelben kóborolva vadásznak emberhúsra.\n\nAjtókon nem jutnak át, falak között biztonságban vagy. Kikapcsolt ágyúkat nem támadnak meg, ha nem akarod megölni őket, állítsd le ezeket.\n\nPár napig lesznek a környéken.</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
-  <MessageAnimalInsanityPulse>The ancient structure has emitted a psychic pulse that has driven nearby animals mad.</MessageAnimalInsanityPulse>
-  <LetterShipPartDroveColonistInsane>The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane.</LetterShipPartDroveColonistInsane>
-  <AwokeDaysAgo>Awoke {0} days ago</AwokeDaysAgo>
-  <PsychicDroneLevel>Psychic drone level: {0}</PsychicDroneLevel>
-  <PsychicDroneLevelLow>Low</PsychicDroneLevelLow>
-  <PsychicDroneLevelMedium>Medium</PsychicDroneLevelMedium>
-  <PsychicDroneLevelHigh>High</PsychicDroneLevelHigh>
-  <PsychicDroneLevelExtreme>Extreme</PsychicDroneLevelExtreme>
-  <LetterLabelPsychicDroneLevelIncreased>Drone intensifies</LetterLabelPsychicDroneLevelIncreased>
-  <LetterPsychicDroneLevelIncreased>The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid.</LetterPsychicDroneLevelIncreased>
+  <MessageAnimalInsanityPulse>Egy ősi építmény pszichotikus hullámot bocsátott ki magából, amitől a közelben lévő állatok megvadultak.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>A lezuhant hajó egy darabja koncentrált pszichotikus hullámot bocsátott ki, ettől {0} megőrült.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>{0} napja ébren</AwokeDaysAgo>
+  <PsychicDroneLevel>Pszichotikus hullám szintje: {0}</PsychicDroneLevel>
+  <PsychicDroneLevelLow>Alacsony</PsychicDroneLevelLow>
+  <PsychicDroneLevelMedium>Közepes</PsychicDroneLevelMedium>
+  <PsychicDroneLevelHigh>Magas</PsychicDroneLevelHigh>
+  <PsychicDroneLevelExtreme>Extrém</PsychicDroneLevelExtreme>
+  <LetterLabelPsychicDroneLevelIncreased>Hullámok erősödnek</LetterLabelPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>A lezuhant hajó darabja erősebb hullámokat kezdett kibocsájtani. Minden ember zavartabb, ijedtebb, paranoidabb lett.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
-  <LetterLabelAgentRevealed>Agent</LetterLabelAgentRevealed>
-  <LetterAgentRevealed>{0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now.</LetterAgentRevealed>
+  <LetterLabelAgentRevealed>Ügynök</LetterLabelAgentRevealed>
+  <LetterAgentRevealed>Kiderült, hogy {0} az ellenséged {1} ügynöke.\n\nMegpróbál megszökni.</LetterAgentRevealed>
 
   <!-- Distant psychic drone -->
-  <LetterLabelPsychicDrone>Psychic drone</LetterLabelPsychicDrone>
-  <LetterIncidentPsychicDrone>Every colonist of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit worse.</LetterIncidentPsychicDrone>
+  <LetterLabelPsychicDrone>Pszichotikus hullám</LetterLabelPsychicDrone>
+  <LetterIncidentPsychicDrone>A {0} nemű gyarmatosok fájdalomtól rezzennek össze!\n\nValami gyűlöletgenerátor dolgozik a távolban. Erős pszichotikus hullámot bocsájt ki az egész régióra, olyan frekvencián, ami csak a {0} nemet érinti. Némelyek hangulata igencsak rosszabb lesz pár napig.</LetterIncidentPsychicDrone>
 
-  <LetterLabelPsychicSoothe>Psychic soothe</LetterLabelPsychicSoothe>
-  <LetterIncidentPsychicSoothe>Every colonist of the {0} gender smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit better.</LetterIncidentPsychicSoothe>
+  <LetterLabelPsychicSoothe>Pszichotikus nyugalom</LetterLabelPsychicSoothe>
+  <LetterIncidentPsychicSoothe>A {0} nemű gyarmatosok elégedetten mosolyognak!\n\nValami boldogsággenerátor dolgozik a távolban. Erős pszichotikus hullámot bocsájt ki az egész régióra, olyan frekvencián, ami csak a {0} nemet érinti. Némelyek hangulata igencsak jobb lesz pár napig.</LetterIncidentPsychicSoothe>
 
   <!-- Beavers -->
-  <LetterLabelBeaversArrived>Beavers!</LetterLabelBeaversArrived>
-  <BeaversArrived>A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last tree in the region.</BeaversArrived>
+  <LetterLabelBeaversArrived>Hódok!</LetterLabelBeaversArrived>
+  <BeaversArrived>Egy csapat éhes alfahód érkezett.\n\nPróbáld kiiktatni őket, mielőtt megesznek minden fát.</BeaversArrived>
   
   <!-- Refugee chased -->
-  <RefugeeChasedInitial>A {1} named {0} calls you from nearby. HECAP is being chased by {2} from {3}!\n\nHECAP begs for safety and offers to join your colony. Biologically, HE is {4} years old.\n\nBe warned - if you accept, you'll have to fight off the {2} on HIS tail.</RefugeeChasedInitial>
-  <RefugeeChasedInitial_Accept>Offer safety</RefugeeChasedInitial_Accept>
-  <RefugeeChasedInitial_Reject>Ignore the message</RefugeeChasedInitial_Reject>
-  <RefugeeChasedRejected>{0} screams in panic through the tinny speaker before you cut off the transmission.</RefugeeChasedRejected>
+  <RefugeeChasedInitial>Egy {0} nevű {1} hív a közelből. HECAP a neve és {2} üldözi a {3} frakcióból!\n\nHECAP menedékért könyörög és felajánlja, hogy csatlakozik hozzád. Biológiailag HE {4} éves.\n\nFigyelem - ha befogadod, el kell kergetned az üldözőit.</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>Befogad</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>Figyelmen kívül hagy</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>{0} pánikba esve üvölt a rádióból, ahogy megszakítod az adást.</RefugeeChasedRejected>
 
   <!-- Self-tame -->
-  <LetterLabelAnimalSelfTame>{0} self-tamed</LetterLabelAnimalSelfTame>
-  <LetterAnimalSelfTame>{0} has become tame.</LetterAnimalSelfTame>
-  <LetterAnimalSelfTameAndNameNumerical>{0} has become tame. It is now designated {1}.</LetterAnimalSelfTameAndNameNumerical>
-  <LetterAnimalSelfTameAndName>{0} has become tame. Colonists have decided to name it {1}.</LetterAnimalSelfTameAndName>
+  <LetterLabelAnimalSelfTame>{0} megszelídült</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>{0} megszelídült.</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>{0} megszelídült. Mostantól a száma {1}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>{0} megszelídült. A gyarmatosok mostantól {1} néven szólítják.</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
-  <LetterLabelFarmAnimalsWanderIn>{0}s join</LetterLabelFarmAnimalsWanderIn>
-  <LetterFarmAnimalsWanderIn>A group of {0}s, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony.</LetterFarmAnimalsWanderIn>
+  <LetterLabelFarmAnimalsWanderIn>{0} csatlakozik</LetterLabelFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>Egy csapat elhagyott vagy elveszett {0} kóborolt a környékre.\n\nÚgy tűnik megszokták az ember közelségét és csatlakoznak a kolóniához.</LetterFarmAnimalsWanderIn>
   
   <!-- Thrumbo passes -->
-  <LetterLabelThrumboPasses>Rare thrumbos</LetterLabelThrumboPasses>
-  <LetterThrumboPasses>A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days.</LetterThrumboPasses>
+  <LetterLabelThrumboPasses>Ritka thrumbo-k</LetterLabelThrumboPasses>
+  <LetterThrumboPasses>Egy kis csorda trumbo kóborol a környéken.\n\nBár békés természetűek, ezek a ritka állatok nagyon veszélyesek, ha szembeszállnak velük. Némely kereskedők sokat fizetnek a bőrükért és szarvukért.\n\nPár napig maradnak a környéken.</LetterThrumboPasses>
   
   <!-- Trader caravan -->
-  <LetterLabelTraderCaravanArrival>Trader from {0}</LetterLabelTraderCaravanArrival>
-  <LetterTraderCaravanArrival>A trade caravan from {0} is approaching.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction!</LetterTraderCaravanArrival>
+  <LetterLabelTraderCaravanArrival>{0} kereskedője</LetterLabelTraderCaravanArrival>
+  <LetterTraderCaravanArrival>{0} karavánja érkezik.\n\nPár napig maradnak a kolónia közelében. Megtámadhatod őket, de ez fel fogja bőszíteni a frakciójukat!</LetterTraderCaravanArrival>
   
   <!-- Building breaks down -->
-  <LetterLabelBuildingBrokenDown>Breakdown: {0}</LetterLabelBuildingBrokenDown>
-  <LetterBuildingBrokenDown>One of your machines ({0}) has broken down. It won't work until a colonist with the Repair work type goes and fixes it.</LetterBuildingBrokenDown>
+  <LetterLabelBuildingBrokenDown>Meghibásodás: {0}</LetterLabelBuildingBrokenDown>
+  <LetterBuildingBrokenDown>Az egyik {0} meghibásodott. Addig nem fog működni, amíg egy karbantartó gyarmatos meg nem javítja.</LetterBuildingBrokenDown>
   
   <!-- Ransom demand -->
-  <RansomDemand>{1} contacts you on radio. They are holding former colonist {0} for ransom.\n\nThey're willing to release HIM back to you in exchange for {2} silver.</RansomDemand>
-  <RansomDemand_Accept>Accept</RansomDemand_Accept>
-  <RansomDemand_Reject>Reject</RansomDemand_Reject>
+  <RansomDemand>{1} lépett veled kapcsolatba rádión. Korábbi gyarmatosod, {0}, a fogjuk.\n\nHIM szabadon lesz engedve, {2} ezüstért cserébe.</RansomDemand>
+  <RansomDemand_Accept>Elfogad</RansomDemand_Accept>
+  <RansomDemand_Reject>Elutasít</RansomDemand_Reject>
   
 </LanguageData>
