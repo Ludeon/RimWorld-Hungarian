@@ -13,6 +13,7 @@ Translators:
 - Jamesgt
 - SjoCi
 - Moredoor
+- pluhi
 
 Known issues:
 ---------------------
@@ -43,20 +44,4 @@ DefInjected:
    DesignationCategories - D
 
 
-Keyed
- Credits - D
- Dates - D
- Designators - S
- DialogsVarious - D
- DialogTrees - D
- Enums - D
- FloatMenu - D
- Letters - D
- Menu_Options - D
- Menus_Overview - D
- Messages - D
- Misc - D
- PlayInterface - D
- Pronouns - D
- Skills - D
- WorkTags - D
+Keyed - D
