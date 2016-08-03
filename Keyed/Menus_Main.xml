@@ -5,7 +5,7 @@
   <CreateWorld>Új világ</CreateWorld>
   <NewColony>Új kolónia</NewColony>
   <BackToGame>Vissza a játékba</BackToGame>
-  <ReviewScenario>Forgatókönyv áttekintése</ReviewScenario>
+  <ReviewScenario>Forgatókönyv</ReviewScenario>
   <Save>Mentés</Save>
   <LoadGame>Betöltés</LoadGame>
   <Options>Beállítások</Options>
@@ -69,7 +69,7 @@
   <MessageModNeedsWellFormattedTargetVersion>A modnak szüksége van egy jól formázott verziószámra az About.xml-ben. Pl.: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
   
   <!--=========== Select scenario =============-->
-  <ChooseScenario>Forgatókönyv választása</ChooseScenario>
+  <ChooseScenario>Forgatókönyv</ChooseScenario>
   <ScenariosCustom>Egyedi</ScenariosCustom>
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
   <ScenarioEditor>Forgatókönyv szerkesztő</ScenarioEditor>
@@ -135,7 +135,7 @@
   <IncapableOf>Alkalmatlan rá</IncapableOf>
   <Traits>Jellemvonás</Traits>
   <PermanentMoodEffect>Állandó hangulatmódosító</PermanentMoodEffect>
-  <Skills>Képzettségek</Skills>
+  <Skills>Készségek</Skills>
   <NoneLower>nincs</NoneLower>
   <Adulthood>Felnőttkor</Adulthood>
   <Childhood>Gyerekkor</Childhood>
@@ -147,7 +147,7 @@
   
   <!--=========== Misc ==========-->
   <Start>Kezdés</Start>
-  <Advanced>További</Advanced>
+  <Advanced>További...</Advanced>
   <Next>Következő</Next>
   <Back>Vissza</Back>
   

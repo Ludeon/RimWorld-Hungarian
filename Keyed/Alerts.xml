@@ -66,8 +66,8 @@
   <NeedMealSource>Nem lehet ételt gyártani</NeedMealSource>
   <NeedMealSourceDesc>Nincs módja, hogy rendes fogásokat állíts elő nyers ételből.\n\nÉpíts tűzhelyet, tábortüzet vagy tápanyagellátót.\n\n(Ezek ne legyenek a börtönben, ott a gyarmatosok nem férnek hozzájuk.)</NeedMealSourceDesc>
 
-  <NeedHomeArea>Nincs lakókörlet</NeedHomeArea>
-  <NeedHomeAreaDesc>Lakókörletet kell kijelölnöd, ahol a gyarmatosok takarítanak, tüzet oltanak, és javításokat végeznek.\n\nA kijelölést megteheted az ÉPÍTÉS menü ZÓNÁK szekciójában.</NeedHomeAreaDesc>
+  <NeedHomeArea>Nincs lakókörzet</NeedHomeArea>
+  <NeedHomeAreaDesc>Lakókörzetet kell kijelölnöd, ahol a gyarmatosok takarítanak, tüzet oltanak, és javításokat végeznek.\n\nA kijelölést megteheted az ÉPÍTÉS menü ZÓNÁK szekciójában.</NeedHomeAreaDesc>
 
   <NeedBatteries>Nincs akkumulátor</NeedBatteries>
   <NeedBatteriesDesc>Csak napelemed van, de akkumulátorod nincs. Így nem lesz áramod, ha lemegy a nap.\n\nÉpíts pár akkumulátort, hogy átvészeld az éjjelt!</NeedBatteriesDesc>
@@ -100,7 +100,7 @@
   <HaltedConstructionsDesc>These kinds of constructions are missing materials:\n\n{0}\nYou should probably make required materials available for your colonists.</HaltedConstructionsDesc>
   -->
   
-  <ColonistNeedsTreatment>Gyarmatos ellátása szükséges</ColonistNeedsTreatment>
+  <ColonistNeedsTreatment>Ellátás szükséges</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>Orvosi ellátásra van szüksége a következő gyarmatosnak. Ha nem kezelik őket, a sebesülések talán sosem gyógyulnak be.\n\n{0}\nKüldd őket betegágyba!\n\n(Először jelölj ki egy ágyat betegágynak, majd a sérültet kiválasztva jobbkatt az ágyon és páciens hozzárendelése.)</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>Kihűlés</AlertHypothermia>
@@ -110,7 +110,7 @@
   <PatientsAwaitingMedicalOperationDesc>A következő páciensek várnak operációra:\n\n{0}\nBizonyosodj meg róla, hogy a megfelelő eszközök és orvos rendelkezésre állnak!</PatientsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>TŰZ!</FireInHomeArea>
-  <FireInHomeAreaDesc>Tűz a lakókörletben.</FireInHomeAreaDesc>
+  <FireInHomeAreaDesc>Tűz a lakókörzetben.</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>Súlyos betegség</PawnsWithLifeThreateningDisease>
   <PawnsWithLifeThreateningDiseaseDesc>A következő emberek vannak a halálukon súlyos betegség miatt:\n\n{0}\nBizonyosodj meg róla, hogy a lehető legjobb ellátást kapják!</PawnsWithLifeThreateningDiseaseDesc>

@@ -8,10 +8,10 @@
   <CommandTogglePowerLabel>Áram ki/bekapcs</CommandTogglePowerLabel>
   <CommandTogglePowerDesc>Áram ki/bekapcs.</CommandTogglePowerDesc>
   
-  <CommandDesignateTogglePowerLabel>Kijelölés áram ki/bekapcsra</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerLabel>Áram ki/bekapcs</CommandDesignateTogglePowerLabel>
   <CommandDesignateTogglePowerDesc>Kijelölés áram ki/bekapcsra. Egy gyarmatos hamarosan átállítja a kapcsolót.</CommandDesignateTogglePowerDesc>
   
-  <CommandTryReconnectLabel>Újracsatlakoztatás</CommandTryReconnectLabel>
+  <CommandTryReconnectLabel>Újracsatlakozás</CommandTryReconnectLabel>
   <CommandTryReconnectDesc>Megpróbálja hatósugáron belül egy másik, élő vezetékhez csatlakoztatni az eszközt. Ez jól jöhet, ha az már csatlakoztatva van egy olyan vezetékhez, ami nincs áram alatt.</CommandTryReconnectDesc>
 
   <CommandGatherSpotToggleLabel>Gyülekezési hely</CommandGatherSpotToggleLabel>
@@ -40,11 +40,11 @@
   <CommandGraveAssignColonistDesc>Hozzárendeli az adott sírt egy bizonyos gyarmatoshoz.</CommandGraveAssignColonistDesc>
   <BuildingAssign>Hozzárendel</BuildingAssign>
   <BuildingUnassign>Hozzárendelést töröl</BuildingUnassign>
-  <CommandBedSetForPrisonersLabel>Foglyoknak</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersLabel>Fogolynak</CommandBedSetForPrisonersLabel>
   <CommandBedSetForPrisonersDesc>A szoba ágyainak kijelölése foglyok számára.</CommandBedSetForPrisonersDesc>
   <CommandBedSetForPrisonersFailOutdoors>Csak beltéri ágyakat lehet kijelölni foglyoknak.</CommandBedSetForPrisonersFailOutdoors>
-  <CommandBedSetAsMedicalLabel>Orvosi</CommandBedSetAsMedicalLabel>
-  <CommandBedSetAsMedicalDesc>Orvosi ellátáshoz jelöl ki ágyat.</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsMedicalLabel>Betegnek</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>Betegellátáshoz jelöl ki ágyat.</CommandBedSetAsMedicalDesc>
   <TurningOnPrisonerBedWarning>A fogda mód bekapcsolása az egész szobára hat, mivel foglyok és gyarmatosok nem alhatnak ugyanabban a szobában.\n\nEzek az emberek fogják elveszíteni ágyaikat:</TurningOnPrisonerBedWarning>
   <TurningOffPrisonerBedWarning>A fogda mód kikapcsolása az egész szobára hat, mivel foglyok és gyarmatosok nem alhatnak ugyanabban a szobában.\n\nEzek az emberek fogják elveszíteni ágyaikat:</TurningOffPrisonerBedWarning>
   <AreYouSure>Biztos vagy benne?</AreYouSure>
@@ -98,7 +98,7 @@
   <CommandToggleDoorHoldOpenDesc>A gyarmatosok nem fogják maguk után becsukni ezt az ajtót.</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
-  <CommandResetTemp>Alaphelyzetbe</CommandResetTemp>
+  <CommandResetTemp>Alaphelyzet</CommandResetTemp>
   <CommandResetTempDesc>Célhőmérsékletet szobahőmérsékletre állítani.</CommandResetTempDesc>
   <CommandRaiseTempDesc>Célhőmérsékletet növelése.</CommandRaiseTempDesc>
   <CommandLowerTempDesc>Célhőmérsékletet csökkentése.</CommandLowerTempDesc>
@@ -106,7 +106,7 @@
   <!-- Install/reinstall -->
   <CommandInstall>Telepít</CommandInstall>
   <CommandInstallDesc>Ez a tárgy jelenleg be van csomagolva szállításhoz vagy raktározáshoz. Ezzel a paranccsal telepítheted végső helyére.</CommandInstallDesc>
-  <CommandReinstall>Áttelepít...</CommandReinstall>
+  <CommandReinstall>Áttelepít</CommandReinstall>
   <CommandReinstallDesc>Kijelöli a tárgyat leszerelésre majd áttelepítésre.</CommandReinstallDesc>
   
   <!-- Trade beacon -->

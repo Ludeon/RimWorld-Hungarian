@@ -83,7 +83,7 @@
   <SnowClear>Hómentesített</SnowClear>
   <AreaDefaultLabel>Körzet: {0}</AreaDefaultLabel>
   <AreaAnimalDefaultLabel>Állatkörzet: {0}</AreaAnimalDefaultLabel>
-  <NoAreaAllowed>Nem korlátozott</NoAreaAllowed>
+  <NoAreaAllowed>Korlátozatlan</NoAreaAllowed>
   <NewArea>Új körzet</NewArea>
   <NewAreaAnimal>Új állatkörzet</NewAreaAnimal>
   <InvertArea>Invertálás</InvertArea>
@@ -234,7 +234,7 @@
   <!-- Zones -->
   <Zone>Körzet</Zone>
   <GrowingZone>Kert</GrowingZone>
-  <Stockpile>Raktárkörzet</Stockpile>
+  <Stockpile>Raktárterület</Stockpile>
   <DumpingStockpile>Szemétdomb</DumpingStockpile>
   <Priority>Prioritás</Priority>
   <ClearAll>Összes törlése</ClearAll>
@@ -249,13 +249,13 @@
   <Undiscovered>Felfedezetlen</Undiscovered>
   
   <!-- Buttons -->
-  <ZoneVisibilityToggleButton>Körzetek láthatósága.</ZoneVisibilityToggleButton>
-  <ShowBeautyToggleButton>Szépség kijelzése.\n\nMegjeleníti az adott hely szépségére vonatkozó információkat, mintha egy ember épp ott állna, ahová a kurzor mutat.</ShowBeautyToggleButton>
-  <ShowRoomStatsToggleButton>Szoba statisztikák kijelzése.\n\nMegjeleníti az adott szoba szépségére vonatkozó információkat.</ShowRoomStatsToggleButton>
-  <ShowColonistBarToggleButton>Gyarmatos állapotsáv.\n\nIkonok és alapstátusz minden gyarmatosról a kép tetején.</ShowColonistBarToggleButton>
-  <AutoHomeAreaToggleButton>Lakókörzet automatikus kiterjesztése új épületnél.</AutoHomeAreaToggleButton>
-  <CategorizedResourceReadoutToggleButton>Kategorizált alapanyag kiolvasás.</CategorizedResourceReadoutToggleButton>
-  <ShowAnimalNamesToggleButton>Elnevezett állatok nevének kijelzése.</ShowAnimalNamesToggleButton>
+  <ZoneVisibilityToggleButton>Zónák láthatósága</ZoneVisibilityToggleButton>
+  <ShowBeautyToggleButton>Szépség kijelzése\n\nMegjeleníti az adott hely szépségére vonatkozó információkat, mintha egy ember épp ott állna, ahová a kurzor mutat.</ShowBeautyToggleButton>
+  <ShowRoomStatsToggleButton>Szoba statisztikák kijelzése\n\nMegjeleníti az adott szoba szépségére vonatkozó információkat.</ShowRoomStatsToggleButton>
+  <ShowColonistBarToggleButton>Gyarmatos állapotsáv\n\nIkonok és alapstátusz minden gyarmatosról a kép tetején.</ShowColonistBarToggleButton>
+  <AutoHomeAreaToggleButton>Lakókörzet automatikus kiterjesztése új épületnél</AutoHomeAreaToggleButton>
+  <CategorizedResourceReadoutToggleButton>Kategorizált alapanyag lista</CategorizedResourceReadoutToggleButton>
+  <ShowAnimalNamesToggleButton>Elnevezett állatok nevének kijelzése</ShowAnimalNamesToggleButton>
   
   <!-- Fire -->
   <Fire>Tűz</Fire>

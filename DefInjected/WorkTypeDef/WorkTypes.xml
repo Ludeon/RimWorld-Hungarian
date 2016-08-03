@@ -1,131 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <Firefighter.labelShort>Feuerwehr</Firefighter.labelShort>
-  <Firefighter.pawnLabel>Feuerwehr</Firefighter.pawnLabel>
-  <Firefighter.gerundLabel>Feuerbekämpfung</Firefighter.gerundLabel>
-  <Firefighter.verb>löschen</Firefighter.verb>
-  <Firefighter.description>Löschen Feuer in der Kolonie.</Firefighter.description>
+  <Firefighter.labelShort>Tűzoltó</Firefighter.labelShort>
+  <Firefighter.pawnLabel>Tűzoltó</Firefighter.pawnLabel>
+  <Firefighter.gerundLabel>tűzoltás</Firefighter.gerundLabel>
+  <Firefighter.verb>olt</Firefighter.verb>
+  <Firefighter.description>Eloltja a kolónia tüzeit.</Firefighter.description>
 
-  <PatientEmergency.labelShort>Patient</PatientEmergency.labelShort>
-  <PatientEmergency.pawnLabel>Patient</PatientEmergency.pawnLabel>
-  <PatientEmergency.gerundLabel>Patient</PatientEmergency.gerundLabel>
-  <PatientEmergency.verb>wird Patient</PatientEmergency.verb>
-  <PatientEmergency.description>Bei akuten und lebensbedrohlichen Krankheiten gehen Patienten ins nächste Krankenbett um sich medizinisch versorgen zu lassen.</PatientEmergency.description>
+  <PatientEmergency.labelShort>Páciens</PatientEmergency.labelShort>
+  <PatientEmergency.pawnLabel>Páciens</PatientEmergency.pawnLabel>
+  <PatientEmergency.gerundLabel>lábadozás</PatientEmergency.gerundLabel>
+  <PatientEmergency.verb>lábadozik</PatientEmergency.verb>
+  <PatientEmergency.description>Sérülések és életveszélyes betegség esetén felkeresi a legközelebbi szabad betegágyat, hogy ellátást kaphasson.</PatientEmergency.description>
 
-  <Doctor.labelShort>Arzt</Doctor.labelShort>
-  <Doctor.pawnLabel>Arzt</Doctor.pawnLabel>
-  <Doctor.gerundLabel>Krankenpflege</Doctor.gerundLabel>
-  <Doctor.verb>verarzten</Doctor.verb>
-  <Doctor.description>Behandeln, verpflegen und verarzten Patienten. Ärzte kümmern sich sowohl um Kolonisten als auch um Gefangenen.</Doctor.description>
+  <Doctor.labelShort>Orvos</Doctor.labelShort>
+  <Doctor.pawnLabel>Orvos</Doctor.pawnLabel>
+  <Doctor.gerundLabel>ellátás</Doctor.gerundLabel>
+  <Doctor.verb>ellát</Doctor.verb>
+  <Doctor.description>Ellátja, ápolja a pácienst. Az orvos éppúgy gondoskodik a beteg gyarmatosról, mint a foglyokról.</Doctor.description>
 
-  <PatientBedRest.labelShort>Bettruhe</PatientBedRest.labelShort>
-  <PatientBedRest.pawnLabel>Bettlägriger</PatientBedRest.pawnLabel>
-  <PatientBedRest.gerundLabel>Bettruhe</PatientBedRest.gerundLabel>
-  <PatientBedRest.verb>ruht</PatientBedRest.verb>
-  <PatientBedRest.description>Erholen sich von nicht lebensbedrohlichen Krankheiten in Krankenbetten aus.</PatientBedRest.description>
+  <PatientBedRest.labelShort>Pihenés</PatientBedRest.labelShort>
+  <PatientBedRest.pawnLabel>Pihen</PatientBedRest.pawnLabel>
+  <PatientBedRest.gerundLabel>pihenés</PatientBedRest.gerundLabel>
+  <PatientBedRest.verb>pihen</PatientBedRest.verb>
+  <PatientBedRest.description>Nem életveszélyes betegségek kiheverésére felkeres egy ágyat.</PatientBedRest.description>
 
-  <Flicker.labelShort>Schalter</Flicker.labelShort>
-  <Flicker.pawnLabel>Schalter</Flicker.pawnLabel>
-  <Flicker.gerundLabel>Umschalten</Flicker.gerundLabel>
-  <Flicker.verb>umschalten</Flicker.verb>
-  <Flicker.description>Betätigen Schaltmechanismen. Kolonisten mit diesem Beruf gehen zu einem markierten Objekt (z. B. Geschützturm) und aktivieren oder deaktivieren dessen Stromversorgung.</Flicker.description>
+  <Flicker.labelShort>Átkapcsolás</Flicker.labelShort>
+  <Flicker.pawnLabel>Átkapcsolás</Flicker.pawnLabel>
+  <Flicker.gerundLabel>átkapcsolás</Flicker.gerundLabel>
+  <Flicker.verb>átkapcsol</Flicker.verb>
+  <Flicker.description>Az erre beosztott gyarmatos átállítja az eszköz (pl. ágyú) áramellátó kapcsolóját.</Flicker.description>
 
-  <Warden.labelShort>Aufseher</Warden.labelShort>
-  <Warden.pawnLabel>Aufseher</Warden.pawnLabel>
-  <Warden.gerundLabel>Gefängnisaufsicht</Warden.gerundLabel>
-  <Warden.verb>beaufsichtigen</Warden.verb>
-  <Warden.description>Verwalten, verpflegen, überzeugen und rekrutieren Gefangene.</Warden.description>
+  <Warden.labelShort>Felügyelő</Warden.labelShort>
+  <Warden.pawnLabel>Felügyelő</Warden.pawnLabel>
+  <Warden.gerundLabel>őrködés</Warden.gerundLabel>
+  <Warden.verb>őrködik</Warden.verb>
+  <Warden.description>Ellátja, eteti a rabot. Beszélget vele és besorozza.</Warden.description>
 
-  <Handling.labelShort>Tierpfleger</Handling.labelShort>
-  <Handling.pawnLabel>Tierpfleger</Handling.pawnLabel>
-  <Handling.gerundLabel>Tierpflege</Handling.gerundLabel>
-  <Handling.verb>pflegen</Handling.verb>
-  <Handling.description>Zähmen markierte Wildtiere oder versorgen, töten oder extrahieren die Ressourcen von Nutztieren.</Handling.description>
+  <Handling.labelShort>Állattartó</Handling.labelShort>
+  <Handling.pawnLabel>Állattartó</Handling.pawnLabel>
+  <Handling.gerundLabel>állattartás</Handling.gerundLabel>
+  <Handling.verb>gondoskodik</Handling.verb>
+  <Handling.description>Állatokat szelídít, idomít, levág illetve begyűjti egyéb javaikat.</Handling.description>
 
-  <Cooking.labelShort>Koch</Cooking.labelShort>
-  <Cooking.pawnLabel>Koch</Cooking.pawnLabel>
-  <Cooking.gerundLabel>Kochen</Cooking.gerundLabel>
-  <Cooking.verb>zubereiten</Cooking.verb>
-  <Cooking.description>Bereiten Mahlzeiten zu und gewinnen Fleisch aus toten Tieren.</Cooking.description>
+  <Cooking.labelShort>Szakács</Cooking.labelShort>
+  <Cooking.pawnLabel>Szakács</Cooking.pawnLabel>
+  <Cooking.gerundLabel>főzés</Cooking.gerundLabel>
+  <Cooking.verb>főz</Cooking.verb>
+  <Cooking.description>Ételeket készít és feldolgozza a leölt állatokat.</Cooking.description>
 
-  <Hunting.labelShort>Jäger</Hunting.labelShort>
-  <Hunting.pawnLabel>Jäger</Hunting.pawnLabel>
-  <Hunting.gerundLabel>Jagen</Hunting.gerundLabel>
-  <Hunting.verb>jagen</Hunting.verb>
-  <Hunting.description>Töten markierte Tiere und bringen sie zum Lager.</Hunting.description>
+  <Hunting.labelShort>Vadász</Hunting.labelShort>
+  <Hunting.pawnLabel>Vadász</Hunting.pawnLabel>
+  <Hunting.gerundLabel>vadászó</Hunting.gerundLabel>
+  <Hunting.verb>elejt</Hunting.verb>
+  <Hunting.description>A kijelölt állatokat elejti és a raktárba viszi.</Hunting.description>
 
-  <Construction.labelShort>Bauarbeiter</Construction.labelShort>
-  <Construction.pawnLabel>Bauarbeiter</Construction.pawnLabel>
-  <Construction.gerundLabel>Bauhandwerk</Construction.gerundLabel>
-  <Construction.verb>bauen</Construction.verb>
-  <Construction.description>Bauen von dir geplante Dinge auf.</Construction.description>
+  <Construction.labelShort>Építész</Construction.labelShort>
+  <Construction.pawnLabel>Építész</Construction.pawnLabel>
+  <Construction.gerundLabel>építés</Construction.gerundLabel>
+  <Construction.verb>épít</Construction.verb>
+  <Construction.description>Megépíti a kijelölt dolgokat.</Construction.description>
 
-  <Repair.labelShort>Mechaniker</Repair.labelShort>
-  <Repair.pawnLabel>Mechaniker</Repair.pawnLabel>
-  <Repair.gerundLabel>Instandhaltung</Repair.gerundLabel>
-  <Repair.verb>reparieren</Repair.verb>
-  <Repair.description>Reparieren beschädigte oder defekte Gebäude und Ausrüstung.</Repair.description>
+  <Repair.labelShort>Karbantartó</Repair.labelShort>
+  <Repair.pawnLabel>Karbantartó</Repair.pawnLabel>
+  <Repair.gerundLabel>javítás</Repair.gerundLabel>
+  <Repair.verb>javít</Repair.verb>
+  <Repair.description>Megjavítja a serült és tönkrement dolgokat.</Repair.description>
 
-  <Growing.labelShort>Landwirt</Growing.labelShort>
-  <Growing.pawnLabel>Landwirt</Growing.pawnLabel>
-  <Growing.gerundLabel>Landwirtschaft</Growing.gerundLabel>
-  <Growing.verb>anbauen</Growing.verb>
-  <Growing.description>Besäen Felder und ernten Nutzpflanzen.</Growing.description>
+  <Growing.labelShort>Földműves</Growing.labelShort>
+  <Growing.pawnLabel>Földműves</Growing.pawnLabel>
+  <Growing.gerundLabel>termesztés</Growing.gerundLabel>
+  <Growing.verb>termeszt</Growing.verb>
+  <Growing.description>Elülteti a magokat és learatja a termést.</Growing.description>
 
-  <Mining.labelShort>Bergarbeiter</Mining.labelShort>
-  <Mining.pawnLabel>Bergarbeiter</Mining.pawnLabel>
-  <Mining.gerundLabel>Bergbau</Mining.gerundLabel>
-  <Mining.verb>abbauen</Mining.verb>
-  <Mining.description>Bauen Gestein von markierten Stellen ab.</Mining.description>
+  <Mining.labelShort>Bányász</Mining.labelShort>
+  <Mining.pawnLabel>Bányász</Mining.pawnLabel>
+  <Mining.gerundLabel>fejtés</Mining.gerundLabel>
+  <Mining.verb>fejt</Mining.verb>
+  <Mining.description>Kibányássza a megjelölt sziklákat.</Mining.description>
 
-  <PlantCutting.labelShort>Forstwirt</PlantCutting.labelShort>
-  <PlantCutting.pawnLabel>Forstwirt</PlantCutting.pawnLabel>
-  <PlantCutting.gerundLabel>Forstwirtschaft</PlantCutting.gerundLabel>
-  <PlantCutting.verb>beforsten</PlantCutting.verb>
-  <PlantCutting.description>Entfernen oder ernten Pflanzen von markierten Stellen.</PlantCutting.description>
+  <PlantCutting.labelShort>Erdész</PlantCutting.labelShort>
+  <PlantCutting.pawnLabel>Erdész</PlantCutting.pawnLabel>
+  <PlantCutting.gerundLabel>kivágás</PlantCutting.gerundLabel>
+  <PlantCutting.verb>kivág</PlantCutting.verb>
+  <PlantCutting.description>A kijelölt növényeket vágja ki vagy takarítja be.</PlantCutting.description>
 
-  <Smithing.labelShort>Schmied</Smithing.labelShort>
-  <Smithing.pawnLabel>Schmied</Smithing.pawnLabel>
-  <Smithing.gerundLabel>Schmiedekunst</Smithing.gerundLabel>
-  <Smithing.verb>schmieden</Smithing.verb>
-  <Smithing.description>Erstellen Waffen und Werkzeuge aus Rohmaterialien.</Smithing.description>
+  <Smithing.labelShort>Kovács</Smithing.labelShort>
+  <Smithing.pawnLabel>Kovács</Smithing.pawnLabel>
+  <Smithing.gerundLabel>kovácsolás</Smithing.gerundLabel>
+  <Smithing.verb>kovácsol</Smithing.verb>
+  <Smithing.description>Fegyvereket és eszközöket állít elő nyersanyagból.</Smithing.description>
 
-  <Tailoring.labelShort>Schneider</Tailoring.labelShort>
-  <Tailoring.pawnLabel>Schneider</Tailoring.pawnLabel>
-  <Tailoring.gerundLabel>Schneiderhandwerk</Tailoring.gerundLabel>
-  <Tailoring.verb>nähen</Tailoring.verb>
-  <Tailoring.description>Erstellen Kleidung aus Rohmaterialien.</Tailoring.description>
+  <Tailoring.labelShort>Szabó</Tailoring.labelShort>
+  <Tailoring.pawnLabel>Szabó</Tailoring.pawnLabel>
+  <Tailoring.gerundLabel>varrás</Tailoring.gerundLabel>
+  <Tailoring.verb>varr</Tailoring.verb>
+  <Tailoring.description>Ruházatot készít nyersanyagból.</Tailoring.description>
 
-  <Art.labelShort>Künstler</Art.labelShort>
-  <Art.pawnLabel>Künstler</Art.pawnLabel>
-  <Art.gerundLabel>Kunsthandwerk</Art.gerundLabel>
-  <Art.verb>bildhauen</Art.verb>
-  <Art.description>Erschaffen Kunstwerke aus Rohmaterialien.</Art.description>
+  <Art.labelShort>Művész</Art.labelShort>
+  <Art.pawnLabel>Művész</Art.pawnLabel>
+  <Art.gerundLabel>alkotás</Art.gerundLabel>
+  <Art.verb>alkot</Art.verb>
+  <Art.description>Műtárgyat készít nyersanyagból.</Art.description>
 
-  <Crafting.labelShort>Handwerker</Crafting.labelShort>
-  <Crafting.pawnLabel>Handwerker</Crafting.pawnLabel>
-  <Crafting.gerundLabel>Handwerk</Crafting.gerundLabel>
-  <Crafting.verb>herstellen</Crafting.verb>
-  <Crafting.description>Führen einfache Arbeiten an Werkbänken durch. Darunter fällt das Verarbeiten von Steinen, Schmelzen und ähnliches.</Crafting.description>
+  <Crafting.labelShort>Iparos</Crafting.labelShort>
+  <Crafting.pawnLabel>Iparos</Crafting.pawnLabel>
+  <Crafting.gerundLabel>előállítás</Crafting.gerundLabel>
+  <Crafting.verb>előállít</Crafting.verb>
+  <Crafting.description>Egyszerűbb munkákat végez a munkaállomásokon. Kövek feldolgozása, olvasztás meg ilyesmi.</Crafting.description>
 
-  <Hauling.labelShort>Träger</Hauling.labelShort>
-  <Hauling.pawnLabel>Träger</Hauling.pawnLabel>
-  <Hauling.gerundLabel>Transport</Hauling.gerundLabel>
-  <Hauling.verb>transportieren</Hauling.verb>
-  <Hauling.description>Tragen Dinge dorthin, wo sie hingehören.</Hauling.description>
+  <Hauling.labelShort>Rakodó</Hauling.labelShort>
+  <Hauling.pawnLabel>Rakodó</Hauling.pawnLabel>
+  <Hauling.gerundLabel>rakodás</Hauling.gerundLabel>
+  <Hauling.verb>cipel</Hauling.verb>
+  <Hauling.description>Odaviszi a dolgokat, ahová valók.</Hauling.description>
 
-  <Cleaning.labelShort>Reiniger</Cleaning.labelShort>
-  <Cleaning.pawnLabel>Reiniger</Cleaning.pawnLabel>
-  <Cleaning.gerundLabel>Reinigung</Cleaning.gerundLabel>
-  <Cleaning.verb>reinigen</Cleaning.verb>
-  <Cleaning.description>Schnee räumen, Müll entfernen und den Boden putzen innerhalb des Heimatgebietes. Sie machen auf diese Weise das Leben in der Kolonie lebenswerter.</Cleaning.description>
+  <Cleaning.labelShort>Takarító</Cleaning.labelShort>
+  <Cleaning.pawnLabel>Takarító</Cleaning.pawnLabel>
+  <Cleaning.gerundLabel>takarítás</Cleaning.gerundLabel>
+  <Cleaning.verb>takarít</Cleaning.verb>
+  <Cleaning.description>Ellapátolja a havat és tisztán tartja a padlót.</Cleaning.description>
 
-  <Research.labelShort>Forscher</Research.labelShort>
-  <Research.pawnLabel>Forscher</Research.pawnLabel>
-  <Research.gerundLabel>Forschung</Research.gerundLabel>
-  <Research.verb>forschen</Research.verb>
-  <Research.description>Verrichtet Forschungsarbeiten.</Research.description>
+  <Research.labelShort>Kutató</Research.labelShort>
+  <Research.pawnLabel>Kutató</Research.pawnLabel>
+  <Research.gerundLabel>kutatás</Research.gerundLabel>
+  <Research.verb>kutat</Research.verb>
+  <Research.description>Kutatási munkát végez.</Research.description>
 
 
 

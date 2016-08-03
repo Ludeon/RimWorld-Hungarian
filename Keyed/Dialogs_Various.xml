@@ -37,7 +37,7 @@
   <SaveGameButton>Mentés</SaveGameButton>
   <LoadGameButton>Betöltés</LoadGameButton>
   <OverwriteButton>Felülír</OverwriteButton>
-  <ConfirmDelete>tényleg töröljük a {0}-t?</ConfirmDelete>
+  <ConfirmDelete>tényleg töröljük? {0}</ConfirmDelete>
   <DeleteThisSavegame>Mentés törlése.</DeleteThisSavegame>
   <SavedAs>Elmentve, mint {0}.</SavedAs>
   <NeedAName>Adj egy nevet.</NeedAName>
@@ -114,12 +114,12 @@
   <CurrentlyHave>Jelenleg birtokolt</CurrentlyHave>
   <CountingProducts>Darabszám</CountingProducts>
   <Infinite>Végtelen</Infinite>
-  <AllowedSkillRange>Megengedett képzettségszint: {0}</AllowedSkillRange>
+  <AllowedSkillRange>Megengedett készségszint: {0}</AllowedSkillRange>
   
   <RecipeCannotHaveTargetCount>(Ennek a receptnek nem lehet célösszege, mert megjósolhatatlan, hogy mennyi készül belőle.)</RecipeCannotHaveTargetCount>
   <WorkAmount>Elvégzett munka</WorkAmount>
   <MinimumSkills>Minimum készség:</MinimumSkills>
-  <BillRequires>Szükséges: {0} {1}</BillRequires>
+  <BillRequires>Szükséges: {0}db {1}</BillRequires>
   <BillRequiresNutrition>Szükséges tápanyag: {0}</BillRequiresNutrition>
   <BillRequiresMayVary>Megj.: kis helyet foglaló hozzávalókból, mint pl. az arany, 20x annyi kell.</BillRequiresMayVary>
   <ThisIsSmallVolume>Ez egy kis térfogatú hozzávaló. Ez azt jelenti, hogy minden "egység" csak 1/20-a a normál térfogatú hozzávalóknak. Így ezekből hússzor annyi szükséges az adott recepthez.</ThisIsSmallVolume>
@@ -147,7 +147,7 @@
   <GrowingTime>Növekedési idő</GrowingTime>
   <GrowingTimeDesc>A növények nem egész nap és csak fényben nőnek. Ez a szám mutatja meg mennyi tenyészidő szükséges a teljes kifejlődésig. Általában ennek kb. kétszerese szükséges, ha az eltelt időt nézzük. Az alacsony hőmérséklet is lassítja a növekedést.</GrowingTimeDesc>
   <Days>nap</Days>
-  <MinGrowingSkillToSow>Minimális kertész képzettség a vetéshez</MinGrowingSkillToSow>
+  <MinGrowingSkillToSow>Minimális kertész készség a vetéshez</MinGrowingSkillToSow>
   <FertilityRequirement>Termékenységi követelmény</FertilityRequirement>
   <SoilFertilitySensitivityGrowthRate>Talaj termékenységi érzékenység (növekedési ráta)</SoilFertilitySensitivityGrowthRate>
   <SoilFertilitySensitivityPlantChance>Talaj termékenységi érzékenység (kikelési esély)</SoilFertilitySensitivityPlantChance>
@@ -167,7 +167,7 @@
   <BodyPartEfficiency>Testrész hatékonyság</BodyPartEfficiency>
   <MoodChange>Hangulat változás</MoodChange>
   <Wildness>Vadság</Wildness>
-  <WildnessExplanation>A vadabb állatokat nehezebb megszelídíteni, képezni és tartani.</WildnessExplanation>
+  <WildnessExplanation>A vadabb állatokat nehezebb megszelídíteni, idomítani és tartani.</WildnessExplanation>
   <AnimalFilthRate>Koszolás mértéke</AnimalFilthRate>
   <AnimalFilthRateExplanation>Az állatok koszt hagynak maguk után épített padlón. Ez az átlagos mennyiségű termelt kosz {0} cellánként, amit az állat bejár.\n\nNagyobb és nem "házi kedvenc" típusú állatok jobban koszolnak.</AnimalFilthRateExplanation>
   <TimeRecordsCategory>Idő</TimeRecordsCategory>
@@ -216,6 +216,6 @@
   <NoOutfitSelected>Nincs felszerelés kiválasztva</NoOutfitSelected>
   
   <!-- Growing -->
-  <NoGrowerCanPlant>A {0} vetéséhez szükséges Kert képzettség szintje: {1}.\n\nEgyik munkaképes emberednek sincs ilyenje, ezért ez a mag nem lesz elvetve.</NoGrowerCanPlant>
+  <NoGrowerCanPlant>A {0} vetéséhez szükséges Kert készség szintje: {1}.\n\nEgyik munkaképes emberednek sincs ilyenje, ezért ez a mag nem lesz elvetve.</NoGrowerCanPlant>
 
 </LanguageData>
