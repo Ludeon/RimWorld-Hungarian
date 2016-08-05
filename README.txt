@@ -15,33 +15,12 @@ Translators:
 - Moredoor
 - pluhi
 
-Known issues:
----------------------
-Unity renders some characters odd in-game, but it is readable.
 
 Status:
 ---------------------
 
-Untranslated, Started, Done, Tested
-
 DefInjected:
- BiomeDefs:
-   BiomesBase - D
- BodyDeft: 
-   Bodies - D
- BodyPartDefs:   
-   BodyParts - D
- BodyPartGroupDeft: 
-   BodyPartGroup - D
- ConceptDefs:
-   Concepts_SpecialModal - D
-   Concepts_Entry - D
-   Concepts_HighPrio - D
-   Concepts_LowPrio - D
- DemageTypeDefs:
-   BaseDamageTypes - U
- DesignationCategoryDefs
-   DesignationCategories - D
+Old defs converted to new format and merged with German defs. Rest of the defs added from German translation.
 
-
-Keyed - D
+Keyed:
+Done, generated texts need testing.
