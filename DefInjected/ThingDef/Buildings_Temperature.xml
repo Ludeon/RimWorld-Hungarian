@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <Campfire.label>Lagerfeuer</Campfire.label>
-  <Campfire.description>Für das Zubereiten von Nahrung und Erzeugen von Wärme. Es brennt nach ein paar Tagen aus. Wie bei allen Wärmequellen muss es in einem geschlossenen Raum aufgestellt werden.</Campfire.description>
+  <Campfire.label>tábortűz</Campfire.label>
+  <Campfire.description>Ételek készítéséhez és meleg előállításához. Pár nap alatt kialszik. Mint minden hőforrást, ezt is zárt térbe kell helyezni, hogy effektív legyen.</Campfire.description>
 
-  <Heater.label>Heizung</Heater.label>
-  <Heater.description>Ein elektrisch betriebenes Gerät, das elektrische Energie in Wärme umwandelt. Es kann sich automatisch ein und ausschalten, um eine eingestellte Temperatur zu halten.</Heater.description>
+  <Heater.label>radiátor</Heater.label>
+  <Heater.description>Elektromos eszköz, ami elektromos energiából állít elő meleget. Magától kapcsol ki/be, hogy tartsa a megadott hőmérsékletet.</Heater.description>
 
-  <Cooler.label>Kühlung</Cooler.label>
-  <Cooler.description>Ein elektrisch betriebenes Gerät, das in eine Wand integriert werden muss. Es erzeugt einerseits Kälte, aber generiert auf der anderen Seite recht viel Wärme. Die Kühlung kann benutzt werden, um im Sommer einen Raum zu kühlen, oder auch um einen Kühlraum zu betreiben.</Cooler.description>
+  <Cooler.label>légkondi</Cooler.label>
+  <Cooler.description>Elektromos eszköz, amit falba kell építeni. Egyik oldalán hideget, a másikon meleget állít elő. Szobák hűtésére a nyári melegben vagy fagyasztó létrehozására is használható.</Cooler.description>
 
-  <Vent.label>Ventilator</Vent.label>
-  <Vent.description>Ein einfacher Ventilator zum Ausgleichen der Temperatur zwischen zwei Räumen, ohne dabei eine Öffnung zum Durchgehen zu schaffen.</Vent.description>
+  <Vent.label>ventilátor</Vent.label>
+  <Vent.description>Egyszerű ventilátor, ami anélkül egyenlíti ki a hőmérsékletet két helyiség között, hogy azok átjárhatóak lennének.</Vent.description>
 
 </LanguageData>

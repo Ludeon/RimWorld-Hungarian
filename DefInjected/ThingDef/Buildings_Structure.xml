@@ -3,15 +3,15 @@
 
   <!-- Doors -->
 
-  <Door.label>Tür</Door.label>
-  <Door.description>Trennt Räume. Muss von Hand geöffnet und geschlossen werden, wodurch die Kolonisten verlangsamt werden.</Door.description>
+  <Door.label>ajtó</Door.label>
+  <Door.description>Szobákat köt össze. Kézzel kell nyitni/zárni, ez lelassítja a gyarmatosokat.</Door.description>
 
-  <Autodoor.label>Autotür</Autodoor.label>
-  <Autodoor.description>Trennt Räume. Stromgebundene Variante. Kolonisten können passieren, ohne verlangsamt zu werden.</Autodoor.description>
+  <Autodoor.label>automata ajtó</Autodoor.label>
+  <Autodoor.description>Szobákat köt össze. Árammal működő változat. Lelassulás nélkül lehet áthaladni rajta.</Autodoor.description>
 
   <!-- Walls -->
 
-  <Wall.label>Wand</Wall.label>
-  <Wall.description>Eine unpassierbare Wand, die ein Dach tragen kann.</Wall.description>
+  <Wall.label>fal</Wall.label>
+  <Wall.description>Stabil fal, ami képes megtartani a tetőt.</Wall.description>
 
 </LanguageData>
