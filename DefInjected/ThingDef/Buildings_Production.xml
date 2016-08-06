@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <CraftingSpot.label>Arbeitsplatz</CraftingSpot.label>
+  <CraftingSpot.label>munkahely</CraftingSpot.label>
   <CraftingSpot.description>Ein Platz an dem man einfache Dinge wie Klingen und Bögen herstellen kann.</CraftingSpot.description>
   
   <!-- ========================= Work tables ==========================-->
 
-  <TableSculpting.label>Bildhauer Tisch</TableSculpting.label>
+  <TableSculpting.label>szobrászasztal</TableSculpting.label>
   <TableSculpting.description>Ein Arbeitsplatz für Künstler, ermöglicht die Fertigung von Skulpturen.</TableSculpting.description>
   
-  <TableButcher.label>Schlachttisch</TableButcher.label>
+  <TableButcher.label>hastok</TableButcher.label>
   <TableButcher.description>Ein schwerer Tisch, auf dem Tierleichen zu rohem Fleisch verarbeitet werden.</TableButcher.description>
 
-  <HandTailoringBench.label>Schneider Tisch</HandTailoringBench.label>
+  <HandTailoringBench.label>varróasztal</HandTailoringBench.label>
   <HandTailoringBench.description>Ein Tisch zum manuellen Herstellen von Kleidungsstücken. Arbeitet mit 40% der Geschwindigkeit einer elektrischen Nähmaschine.</HandTailoringBench.description>
 
-  <ElectricTailoringBench.label>Nähmaschine (elektr)</ElectricTailoringBench.label>
+  <ElectricTailoringBench.label>varrógép</ElectricTailoringBench.label>
   <ElectricTailoringBench.description>Ein Tisch mit elektrischer Nähmaschine zum schnellen Herstellen von Kleidungsstücken. Kann auch ohne Strom mit 40% der normalen Geschwindigkeit betrieben werden.</ElectricTailoringBench.description>
 
-  <FueledSmithy.label>Schmiede (Feuer)</FueledSmithy.label>
+  <FueledSmithy.label>kovácstűzhely (fatüzelés)</FueledSmithy.label>
   <FueledSmithy.description>Eine einfache mit Holz befeuerte Schmiede zur Herstellung von Werkzeugen und nicht-mechanischen Waffen.</FueledSmithy.description>
 
-  <ElectricSmithy.label>Schmiede (elektr)</ElectricSmithy.label>
+  <ElectricSmithy.label>kovácstűzhely (elektromos)</ElectricSmithy.label>
   <ElectricSmithy.description>Eine elektrisch betriebene Schmiede zur Herstellung von Werkzeugen und nicht-mechanischen Waffen.</ElectricSmithy.description>
 
-  <TableMachining.label>Mechanik Werkbank</TableMachining.label>
+  <TableMachining.label>műszerészasztal</TableMachining.label>
   <TableMachining.description>Ein Arbeitsplatz, an dem mechanische Maschinen wie Waffen oder Mechanoiden gebaut und zerlegt werden können.</TableMachining.description>
 
-  <ElectricStove.label>Herd (elektr)</ElectricStove.label>
+  <ElectricStove.label>tűzhely (elektromos)</ElectricStove.label>
   <ElectricStove.description>Ein elektrischer Herd mit Arbeitsplatte für die Zubereitung von Mahlzeiten.</ElectricStove.description>
 
-  <FueledStove.label>Herd (Feuer)</FueledStove.label>
+  <FueledStove.label>tűzhely (fatüzelés)</FueledStove.label>
   <FueledStove.description>Ein einfacher mit Holz befeuerter Herd mit Arbeitsplatte für die Zubereitung von Mahlzeiten.</FueledStove.description>
 
-  <TableStonecutter.label>Steinmetz Tisch</TableStonecutter.label>
+  <TableStonecutter.label>kőfaragóasztal</TableStonecutter.label>
   <TableStonecutter.description>Ein Tisch, auf dem man Geröll zu nutzbarem Baumaterial verarbeiten kann.</TableStonecutter.description>
 
-  <Brewery.label>Brauerei</Brewery.label>
+  <Brewery.label>sörfőzde</Brewery.label>
   <Brewery.description>Ein Arbeitsplatz mit allem, was zum Brauen benötigt wird.</Brewery.description>
 
-  <ElectricSmelter.label>Schmelzofen (elektr)</ElectricSmelter.label>
+  <ElectricSmelter.label>kohó (elektromos)</ElectricSmelter.label>
   <ElectricSmelter.description>Extrahiert Metall aus Schlackebrocken und verschiedenen anderen metallenen Gegenständen. Benötigt sehr viel Strom.</ElectricSmelter.description>
 
-  <ComponentAssemblyBench.label>Bauteile Arbeitstisch</ComponentAssemblyBench.label>
+  <ComponentAssemblyBench.label>alkatrészösszeszerelő</ComponentAssemblyBench.label>
   <ComponentAssemblyBench.description>Ein Arbeitstisch mit speziellen Werkzeugen, an dem Bauteile aus einfacheren Materialien erstellt werden können.</ComponentAssemblyBench.description>
 
   <!-- ========== Non-standard work buildings ==============-->
   
-  <SimpleResearchBench.label>Einfacher Labortisch</SimpleResearchBench.label>
+  <SimpleResearchBench.label>egyszerű laborasztal</SimpleResearchBench.label>
   <SimpleResearchBench.description>Eine einfache Arbeitsplatte mit Schreibutensilien und einigen wissenschaftlichen low-tech Geräten. Forscher arbeiten hier, um neue Dinge zu entdecken.</SimpleResearchBench.description>
 
-  <HiTechResearchBench.label>High-Tech Labortisch</HiTechResearchBench.label>
+  <HiTechResearchBench.label>fejlett laborasztal</HiTechResearchBench.label>
   <HiTechResearchBench.description>Ein High-Tech Arbeitstisch mit Computern und elektronischer Untersuchungsausrüstung. Durch den Einsatz dieser High-Tech Werkzeuge wird die Forschung beschleunigt. Benötigt Strom.</HiTechResearchBench.description>
 
-  <ElectricCrematorium.label>Krematorium (elektr)</ElectricCrematorium.label>
+  <ElectricCrematorium.label>krematórium (elektromos)</ElectricCrematorium.label>
   <ElectricCrematorium.description>Verbrennt Leichen. Elektrisch betrieben.</ElectricCrematorium.description>
 
-  <HydroponicsBasin.label>Hydrokultur Becken</HydroponicsBasin.label>
+  <HydroponicsBasin.label>hidroponikus ágyás</HydroponicsBasin.label>
   <HydroponicsBasin.description>Dies ermöglicht den Agrarbetrieb auch innerhalb von Gebäuden. In Hydrokulturbecken kann man schnell ein wenig Nahrung anbauen. Das Becken benötigt Strom zum Arbeiten. Bei unterbrochener Stromversorgung werden die Pflanzen absterben.</HydroponicsBasin.description>
 
   <!--======================== Nutrient dispenser ==============================-->
   
-  <NutrientPasteDispenser.label>Nährstoff Spender</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.label>tápanyagpépesítő</NutrientPasteDispenser.label>
   <NutrientPasteDispenser.description>Synthetisiert Nähstoffpaste von organischen Rohstoffen. Er benötigt weniger Zutaten und weniger Zeit als andere Herstellungsarten - aber niemand mag Nährstoffpaste. Akzeptiert rohe Nahrung, aber kein Tierfutter wie z.B. Heu.</NutrientPasteDispenser.description>
 
-  <Hopper.label>Trichter</Hopper.label>
+  <Hopper.label>adagoló</Hopper.label>
   <Hopper.description>Lagert Rohstoffe für eine angeschlossene Maschine, wie z.B. dem Nährstoffspender.</Hopper.description>
 
   <!-- Work tables -->
