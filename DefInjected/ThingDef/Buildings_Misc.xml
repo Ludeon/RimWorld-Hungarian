@@ -2,48 +2,48 @@
 <LanguageData>
 
   <SunLamp.label>kvarclámpa</SunLamp.label>
-  <SunLamp.description>Beleuchtet eine Fläche so stark, dass Pflanzen wachsen können.</SunLamp.description>
+  <SunLamp.description>Növények termesztéséhez megfelelő erősséggel világítja meg a talajt.</SunLamp.description>
 
   <OrbitalTradeBeacon.label>orbitális jeladó</OrbitalTradeBeacon.label>
-  <OrbitalTradeBeacon.description>Für orbitalen Handel benötigt.\nDu kannst nur Waren verkaufen, welche sich in der Lagerzone eines Funkfeuers befinden. Kann auch Innen platziert werden.</OrbitalTradeBeacon.description>
+  <OrbitalTradeBeacon.description>Orbitális kereskedéshez szükséges. csak olyan árucikkeket lehet eladni, amik a jeladó közelében vannak. Beltérben is el lehet helyezni.</OrbitalTradeBeacon.description>
 
   <CommsConsole.label>kommunikációs konzol</CommsConsole.label>
-  <CommsConsole.description>Erlaubt den Funkkontakt mit fernen Händlern, wie auch mit anderen Fraktionen zum Handeln und zur Diplomatie.</CommsConsole.description>
+  <CommsConsole.description>Ezzel az eszközzel más frakciókkal és távoli kereskedőkkel lehet rádiókapcsolatot létesíteni árucsere és diplomácia ügyében.</CommsConsole.description>
   
   <!-- Facilities -->
 
   <MultiAnalyzer.label>multianalizátor</MultiAnalyzer.label>
-  <MultiAnalyzer.description>Erhöht die Forschungsgeschwindigkeit. Muss neben einem high-tech Forschungstisch platziert werden. Ein Forschungstisch kann nur einem Multi-Analysator zugeordnet werden.</MultiAnalyzer.description>
+  <MultiAnalyzer.description>Növeli a kutatás sebességét. Fejlett laborasztal mellé kell telepíteni. Egy multianalizátort csak egy laborasztallal lehet összekötni.</MultiAnalyzer.description>
 
   <VitalsMonitor.label>életfunkció monitor</VitalsMonitor.label>
-  <VitalsMonitor.description>Verbessert die Behandlungsqualität bei Patienten. Muss neben einem medizinischen Bett platziert werden. Ein medizinisches Bett kann nur mit einem Vitalmonitor verbunden werden.</VitalsMonitor.description>
+  <VitalsMonitor.description>Növeli a betegellátás minőségét. Betegágy mellé kell telepíteni. Egy életfunkció monitor csak egy betegággyal lehet összekötve.</VitalsMonitor.description>
 
   <ToolCabinet.label>szerszámszekrény</ToolCabinet.label>
-  <ToolCabinet.description>Erhöht die Arbeitsgeschwindigkeit. Muss neben einem Arbeitstisch platziert werden. Ein Arbeitstisch kann nur einem Werkzeugschrank zugeordnet werden.</ToolCabinet.description>
+  <ToolCabinet.description>Növeli az előállítás sebességét. Munkaasztal mellé kell telepíteni. Egy munkaasztal két szerszámszekrénnyel lehet összeköttetésben.</ToolCabinet.description>
 
   <FirefoamPopper.label>habbal oltó</FirefoamPopper.label>
-  <FirefoamPopper.description>Wenn der Werfer mit einem Feuer in Berührung kommt oder von Hand ausgelöst wird, versprüht der Werfer einen feuerlöschenden Schaum in einem kreisförmigen Bereich um sich selbst herum.</FirefoamPopper.description>
+  <FirefoamPopper.description>Tűzzel való érintkezésre vagy kézi aktiválásra habot locsol szét egy kör alakú területen maga körül.</FirefoamPopper.description>
 
   <MoisturePump.label>talajvízpumpa</MoisturePump.label>
-  <MoisturePump.description>Entzieht sehr langsam das Wasser aus dem umliegenden Gelände, womit Sümpfe und flache Gewässer trockengelegt werden können. Hat keine Auswirkung auf tiefem Wasser.</MoisturePump.description>
+  <MoisturePump.description>Nagyon lassan eltávolítja a nedvességet a talajból, mocsárból illetve sekély vízből száraz talajt készít. Mély vízre nincs hatással.</MoisturePump.description>
 
   <!-- =================================================== -->
 
   <Grave.label>sír</Grave.label>
-  <Grave.description>Lege die Toten in Gräber und gib ihnen eine gebührende Ruhestätte. Kolonisten besuchen Gräber für meditatives Vergnügen.</Grave.description>
+  <Grave.description>Helyezd a holtakat sírba, hogy megfelelő végső nyughelyet biztosít nekik. A gyarmatosok néha meglátogatják a foglalt sírhelyeket, meditatív elfoglaltságként.</Grave.description>
 
   <Sarcophagus.label>szarkofág</Sarcophagus.label>
-  <Sarcophagus.description>Eine verzierte letzte Ruhestätte für den verehrten Toten.</Sarcophagus.description>
+  <Sarcophagus.description>Díszes sírhely a köztiszteletben álló halottnak.</Sarcophagus.description>
 
   <!-- Cryptosleep casket -->
 
   <CryptosleepCasket.label>hibernáló</CryptosleepCasket.label>
-  <CryptosleepCasket.description>Eine selbstversorgende Kapsel, die darauf ausgelegt ist, die Insassen jahrzehntelang in einen künstlichen Winterschlaf zu versetzen.</CryptosleepCasket.description>
+  <CryptosleepCasket.description>Önfenntartó kapszula, ami egy személyt képes hosszú évekig hibernációban tartani.</CryptosleepCasket.description>
 
   <MarriageSpot.label>házasságkötőhely</MarriageSpot.label>
-  <MarriageSpot.description>Definiert einen Ort an dem Hochzeitszeremonien abgehalten werden. Zuschauer können von jeder Seite aus zuschauen.</MarriageSpot.description>
+  <MarriageSpot.description>Kijelöl egy helyet, ahol házassági ceremónia rendezhető. Nézők bármelyik oldalra állhatnak.</MarriageSpot.description>
 
   <PartySpot.label>bulihely</PartySpot.label>
-  <PartySpot.description>Definiert einen Ort an dem Parties abgehalten werden. Die Party findet um den Punkt herum statt.</PartySpot.description>
+  <PartySpot.description>Kijelöl egy helyet, ahol a bulik megrendezhetők. Az adott pont körül szabad területnek kell lennie.</PartySpot.description>
 
 </LanguageData>

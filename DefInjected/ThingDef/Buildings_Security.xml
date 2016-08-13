@@ -2,27 +2,27 @@
 <LanguageData>
 
   <Sandbags.label>homokzsák</Sandbags.label>
-  <Sandbags.description>Gibt Deckung bei Beschuss.</Sandbags.description>
+  <Sandbags.description>Fedezék lövések ellen.</Sandbags.description>
 
   <TurretGun.label>robotágyú</TurretGun.label>
-  <TurretGun.description>Eine improvisierte Selbstschussanlage, die automatisch auf Gegner in der Nähe schießt. Hinweis: Beschädigung kann zur Explosion führen. Die zusammengebastelte Steuerungs-KI ist nicht sonderlich intelligent und kann auch nicht direkt kontrolliert werden, also pass auf Eigenbeschuss (Friendly Fire) auf.</TurretGun.description>
+  <TurretGun.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</TurretGun.description>
 
   <Turret_MortarBomb.label>tarack (robbanó)</Turret_MortarBomb.label>
-  <Turret_MortarBomb.description>Ein Mörser, der Explosivgeschosse verschießt. Muss von einem Kolonisten bemannt werden. Hinweis: Beschädigung kann zur Explosion führen.</Turret_MortarBomb.description>
+  <Turret_MortarBomb.description>Tarack, mely robbanó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarBomb.description>
 
   <Turret_MortarIncendiary.label>tarack (gyújtó)</Turret_MortarIncendiary.label>
-  <Turret_MortarIncendiary.description>Ein Mörser, der Brandgeschosse verschießt. Muss von einem Kolonisten bemannt werden. Hinweis: Beschädigung kann zur Explosion führen.</Turret_MortarIncendiary.description>
+  <Turret_MortarIncendiary.description>Tarack, mely gyújtó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarIncendiary.description>
 
   <Turret_MortarEMP.label>tarack (EMP)</Turret_MortarEMP.label>
-  <Turret_MortarEMP.description>Ein Mörser, der EMP Granaten verschießt. Muss von einem Kolonisten bemannt werden. Hinweis: Beschädigung kann zur Explosion führen.</Turret_MortarEMP.description>
+  <Turret_MortarEMP.description>Tarack, mely EMP töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarEMP.description>
 
   <TrapDeadfall.label>sújtócsapda</TrapDeadfall.label>
-  <TrapDeadfall.description>Ein frei hängendes, mit Stacheln versehendes Gewicht, das durch einen empfindlichen Auslöser gesichert ist. Wenn das Opfer den Auslöser berührt, wird das Gewicht gelöst und fällt auf den Kopf oder Körper des Opfers.</TrapDeadfall.description>
+  <TrapDeadfall.description>Felfüggesztett tüskés súly, melyet botlózsinór old ki. Ha valaki belép, a súly a fejére vagy a mellkasára esik.</TrapDeadfall.description>
 
   <TrapIEDBomb.label>improv. robbanószer</TrapIEDBomb.label>
-  <TrapIEDBomb.description>Ein Artilleriegeschoss mit einem selbstgebauten Auslöser. Wenn jemand den Auslöser betätigt explodiert das Geschoss. Der selbstgebaute Trigger hat eine zufällige Verzögerung, die es flinken Gegnern evtl. erlaubt zu entkommen.</TrapIEDBomb.description>
+  <TrapIEDBomb.description>Ágyúlövedék házi készítésű elsütőszerkezettel, aminek véletlenszerű késleltetése van. Ez fürgébb ellenség számára lehetővé teheti a robbanás elkerülését.</TrapIEDBomb.description>
 
   <TrapIEDIncendiary.label>improv. gyújtóbomba</TrapIEDIncendiary.label>
-  <TrapIEDIncendiary.description>Ein Explosivstoff wurde mit einer Brandbeschleunigerpaste vermischt und mit einem chemischen Auslöser verbunden. Wenn jemand den Auslöser betätigt, zündet das Gemisch und versprengt brennenden Treibstoff. Da es nicht notwendig ist etwas Hochexplosives zu zünden, ist der chemische Auslöser einfacher und zuverlässiger als manch anderer.</TrapIEDIncendiary.description>
+  <TrapIEDIncendiary.description>Robbanószer gyújtópasztával keverve, kémiai elsütőszerkezettel, ami egyszerű és megbízható.</TrapIEDIncendiary.description>
 
 </LanguageData>
