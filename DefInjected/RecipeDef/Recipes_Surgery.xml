@@ -3,29 +3,29 @@
 
   <!-- removing body parts -->
 
-  <RemoveBodyPart.label>Entferne Körperteil</RemoveBodyPart.label>
-  <RemoveBodyPart.description>Entferne ein Körperteil.</RemoveBodyPart.description>
-  <RemoveBodyPart.jobString>Entfernt Körperteil.</RemoveBodyPart.jobString>
+  <RemoveBodyPart.label>testrész eltávolítás</RemoveBodyPart.label>
+  <RemoveBodyPart.description>Testrész eltávolítása.</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>Testrészt távolít el.</RemoveBodyPart.jobString>
 
-  <RemoveMechanoidBodyPart.label>Entferne mechanisches Teil</RemoveMechanoidBodyPart.label>
-  <RemoveMechanoidBodyPart.description>Entferne ein Teil eines Mechanoiden.</RemoveMechanoidBodyPart.description>
-  <RemoveMechanoidBodyPart.jobString>Entfernt mechanisches Teil.</RemoveMechanoidBodyPart.jobString>
+  <RemoveMechanoidBodyPart.label>mechanoid testrész eltávolítás</RemoveMechanoidBodyPart.label>
+  <RemoveMechanoidBodyPart.description>Mechanoid testrészének eltávolítása.</RemoveMechanoidBodyPart.description>
+  <RemoveMechanoidBodyPart.jobString>Mechanoid testrészt távolít el.</RemoveMechanoidBodyPart.jobString>
 
   <!-- Euthanization -->
 
-  <Euthanize.label>Einschläfern</Euthanize.label>
-  <Euthanize.description>Gib aktive Sterbehilfe.</Euthanize.description>
-  <Euthanize.jobString>Schläfert ein.</Euthanize.jobString>
+  <Euthanize.label>eutanázia</Euthanize.label>
+  <Euthanize.description>Eutanázia végrehajtása.</Euthanize.description>
+  <Euthanize.jobString>Eutanáziát hajt végre.</Euthanize.jobString>
 
-  <ShutDownMechanoid.label>Abschalten</ShutDownMechanoid.label>
-  <ShutDownMechanoid.description>Schalte Mechanoid ab.</ShutDownMechanoid.description>
-  <ShutDownMechanoid.jobString>Schaltet ab.</ShutDownMechanoid.jobString>
+  <ShutDownMechanoid.label>lekapcsolás</ShutDownMechanoid.label>
+  <ShutDownMechanoid.description>Mechanoid lekapcsolása.</ShutDownMechanoid.description>
+  <ShutDownMechanoid.jobString>Lekapcsol.</ShutDownMechanoid.jobString>
 
   <!-- removing hediffs (e.g. diseases) -->
 
-  <ExciseCarcinoma.label>Entferne Geschwür</ExciseCarcinoma.label>
-  <ExciseCarcinoma.description>Entferne das Krebsgeschwür.</ExciseCarcinoma.description>
-  <ExciseCarcinoma.jobString>Entfernt Geschwür.</ExciseCarcinoma.jobString>
-  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} hat das Geschwür von {1} erfolgreich entfernt.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  <ExciseCarcinoma.label>daganat eltávolítás</ExciseCarcinoma.label>
+  <ExciseCarcinoma.description>Rákos daganat eltávolítása.</ExciseCarcinoma.description>
+  <ExciseCarcinoma.jobString>Daganatot távolít el.</ExciseCarcinoma.jobString>
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} sikeresen eltávolította {1} daganatát.</ExciseCarcinoma.successfullyRemovedHediffMessage>
 
 </LanguageData>

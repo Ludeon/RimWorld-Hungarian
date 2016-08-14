@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <MakeStoneBlocks.label>Steinblöcke herstellen</MakeStoneBlocks.label>
-  <MakeStoneBlocks.description>Verarbeite Felsbrocken zu nutzbaren Steinblöcken.</MakeStoneBlocks.description>
-  <MakeStoneBlocks.jobString>Verarbeitet Felsbrocken.</MakeStoneBlocks.jobString>
+  <MakeStoneBlocks.label>kőtömb faragás</MakeStoneBlocks.label>
+  <MakeStoneBlocks.description>Kődarabok tömbbé alakítása.</MakeStoneBlocks.description>
+  <MakeStoneBlocks.jobString>Kőtömböt farag.</MakeStoneBlocks.jobString>
 
-  <ExtractMetalFromSlag.label>Schlacke einschmelzen</ExtractMetalFromSlag.label>
-  <ExtractMetalFromSlag.description>Benutze Wärme und starke Elektromagnete, um nützliches Metall aus Schlackebrocken zu extrahieren.</ExtractMetalFromSlag.description>
-  <ExtractMetalFromSlag.jobString>Verarbeitet Schlackebrocken zu Metall.</ExtractMetalFromSlag.jobString>
+  <ExtractMetalFromSlag.label>salak olvasztás</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.description>Kivonja a fémet a salakból egy erős elektromágnessel fűtött kohóban.</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.jobString>Salakból fémet von ki.</ExtractMetalFromSlag.jobString>
 
-  <SmeltWeapon.label>Waffe einschmelzen</SmeltWeapon.label>
-  <SmeltWeapon.description>Benutzt Wärme und starke Elektromagnete, um Waffen in Metall einzuschmelzen.</SmeltWeapon.description>
-  <SmeltWeapon.jobString>Verarbeitet Waffe zu Metall.</SmeltWeapon.jobString>
+  <SmeltWeapon.label>fegyver beolvasztás</SmeltWeapon.label>
+  <SmeltWeapon.description>Kivonja a fémet a fegyverből egy erős elektromágnessel fűtött kohóban.</SmeltWeapon.description>
+  <SmeltWeapon.jobString>Fegyvert olvaszt.</SmeltWeapon.jobString>
 
-  <MakeArtilleryShell.label>Artilleriegeschoss herstellen</MakeArtilleryShell.label>
-  <MakeArtilleryShell.description>Produziere ein Geschoss für die Artillerie.</MakeArtilleryShell.description>
-  <MakeArtilleryShell.jobString>Produziert Artilleriegeschoss.</MakeArtilleryShell.jobString>
+  <MakeArtilleryShell.label>ágyúlövedék gyártás</MakeArtilleryShell.label>
+  <MakeArtilleryShell.description>Lövedék készítése tarackok számára.</MakeArtilleryShell.description>
+  <MakeArtilleryShell.jobString>Ágyúlövedéket gyárt.</MakeArtilleryShell.jobString>
 
-  <MakeComponent.label>Produziere Bauteil</MakeComponent.label>
-  <MakeComponent.description>Produziere ein Bauteil.</MakeComponent.description>
-  <MakeComponent.jobString>Produziert Bauteil.</MakeComponent.jobString>
+  <MakeComponent.label>alkatrész gyártás</MakeComponent.label>
+  <MakeComponent.description>Alkatrész legyártása.</MakeComponent.description>
+  <MakeComponent.jobString>Alkatrészt gyárt.</MakeComponent.jobString>
 
 </LanguageData>
