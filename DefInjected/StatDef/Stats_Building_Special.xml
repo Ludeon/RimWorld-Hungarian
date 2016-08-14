@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <DoorOpenSpeed.label>Türöffnungsgeschwindigkeit</DoorOpenSpeed.label>
-  <DoorOpenSpeed.description>Wie schnell sich die Tür öffnet.</DoorOpenSpeed.description>
+  <DoorOpenSpeed.label>ajtónyitás sebesség</DoorOpenSpeed.label>
+  <DoorOpenSpeed.description>Milyen gyorsan nyílnak az ajtók.</DoorOpenSpeed.description>
 
-  <BedRestEffectiveness.label>Ausruheffizienz</BedRestEffectiveness.label>
-  <BedRestEffectiveness.description>Wie effektiv das Ausruhen in diesem Bett ist.</BedRestEffectiveness.description>
+  <BedRestEffectiveness.label>pihenési hatékonyság</BedRestEffectiveness.label>
+  <BedRestEffectiveness.description>Mennyire hatékonyan piheni ki magát itt az ember.</BedRestEffectiveness.description>
 
-  <TrapMeleeDamage.label>Nahkampfschaden (Falle)</TrapMeleeDamage.label>
-  <TrapMeleeDamage.description>Wie viel Schaden eine Falle normalerweise verursacht. Der tatsächliche Schaden kann etwas abweichen.</TrapMeleeDamage.description>
+  <TrapMeleeDamage.label>sebzés (csapda)</TrapMeleeDamage.label>
+  <TrapMeleeDamage.description>Tipikusan ennyi sebzést okoz ez a csapda. A valós sebzés ettől eltérhet.</TrapMeleeDamage.description>
 
-  <TrapSpringChance.label>Auslösungschance (Falle)</TrapSpringChance.label>
-  <TrapSpringChance.description>Wie hoch die Chance ist, dass die Falle von einer unachtsamen Kreatur ausgelöst wird.</TrapSpringChance.description>
+  <TrapSpringChance.label>kioldási esély (csapda)</TrapSpringChance.label>
+  <TrapSpringChance.description>Ekkora eséllyel oldják ki ezt a csapdát, ha belelépnek.</TrapSpringChance.description>
 
-  <ResearchSpeedFactor.label>Forschungsgeschwindigkeit</ResearchSpeedFactor.label>
-  <ResearchSpeedFactor.description>Die Forschungsgeschwindigkeit wird mit diesem Wert multipliziert.</ResearchSpeedFactor.description>
-  <ResearchSpeedFactor.parts.1.customLabel>Raum-Sauberkeit.</ResearchSpeedFactor.parts.1.customLabel>
+  <ResearchSpeedFactor.label>kutatási sebesség szorzó</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.description>Adott projekt kutatási sebességét befolyásolja ez az érték.</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.parts.1.customLabel>szoba tisztasága</ResearchSpeedFactor.parts.1.customLabel>
 
-  <MedicalTreatmentQualityFactor.label>Behandlungsqualität</MedicalTreatmentQualityFactor.label>
-  <MedicalTreatmentQualityFactor.description>Die Behandlungsqualität wird mit diesem Wert multipliziert.</MedicalTreatmentQualityFactor.description>
+  <MedicalTreatmentQualityFactor.label>ellátás minőség szorzó</MedicalTreatmentQualityFactor.label>
+  <MedicalTreatmentQualityFactor.description>Az ellátás minőségét befolyásolja.</MedicalTreatmentQualityFactor.description>
 
-  <ImmunityGainSpeedFactor.label>Immunisierungsgeschwindigkeit</ImmunityGainSpeedFactor.label>
-  <ImmunityGainSpeedFactor.description>Die Immunisierungsgeschwindigkeit wird mit diesem Wert multipliziert.</ImmunityGainSpeedFactor.description>
+  <ImmunityGainSpeedFactor.label>immunitás elérés szorzó</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.description>A betegek immunitásának kifejlődését befolyásolja.</ImmunityGainSpeedFactor.description>
 
-  <WorkTableWorkSpeedFactor.label>Arbeitsgeschwindigkeit</WorkTableWorkSpeedFactor.label>
-  <WorkTableWorkSpeedFactor.description>Die Arbeitsgeschwindigkeit wird mit diesem Wert multipliziert.</WorkTableWorkSpeedFactor.description>
+  <WorkTableWorkSpeedFactor.label>munkatempó szorzó</WorkTableWorkSpeedFactor.label>
+  <WorkTableWorkSpeedFactor.description>A munka sebességét befolyásolja.</WorkTableWorkSpeedFactor.description>
 
-  <EntertainmentStrengthFactor.label>Unterhaltungswertfaktor</EntertainmentStrengthFactor.label>
-  <EntertainmentStrengthFactor.description>Wie effektiv dieser Gegenstand die Leute unterhält und ihre Stimmung verbessert.</EntertainmentStrengthFactor.description>
+  <EntertainmentStrengthFactor.label>szórakoztatási szorzó</EntertainmentStrengthFactor.label>
+  <EntertainmentStrengthFactor.description>Mennyire hatékonyan javítja az emberek hangulatát.</EntertainmentStrengthFactor.description>
 
 </LanguageData>

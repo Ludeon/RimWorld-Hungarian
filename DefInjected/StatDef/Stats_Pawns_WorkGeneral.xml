@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <WorkSpeedGlobal.label>Arbeitsgeschwindigkeit</WorkSpeedGlobal.label>
-  <WorkSpeedGlobal.description>Wie schnell das Individuum arbeiten kann.</WorkSpeedGlobal.description>
+  <WorkSpeedGlobal.label>munkatempó</WorkSpeedGlobal.label>
+  <WorkSpeedGlobal.description>A személy munkatempójának szorzója.</WorkSpeedGlobal.description>
 
-  <MiningSpeed.label>Abbaugeschwindigkeit</MiningSpeed.label>
-  <MiningSpeed.description>Wie schnell das Individuum Gesteine abbauen kann.</MiningSpeed.description>
+  <MiningSpeed.label>fejtés sebesség</MiningSpeed.label>
+  <MiningSpeed.description>Milyen gyorsan képes a személy sziklát bányászni.</MiningSpeed.description>
 
-  <SmoothingSpeed.label>Glättungsgeschwindigkeit</SmoothingSpeed.label>
-  <SmoothingSpeed.description>Wie schnell das Individuum Böden glätten kann.</SmoothingSpeed.description>
+  <SmoothingSpeed.label>elegyengetési sebesség</SmoothingSpeed.label>
+  <SmoothingSpeed.description>Milyen gyorsan képes a személy felületeket elegyengetni.</SmoothingSpeed.description>
 
-  <ResearchSpeed.label>Forschungsgeschwindigkeit</ResearchSpeed.label>
-  <ResearchSpeed.description>Wie schnell das Individuum forschen kann.</ResearchSpeed.description>
+  <ResearchSpeed.label>kutatási sebesség</ResearchSpeed.label>
+  <ResearchSpeed.description>Milyen gyorsan képes a személy kutatást végezni.</ResearchSpeed.description>
 
-  <ConstructionSpeed.label>Aufbaugeschwindigkeit</ConstructionSpeed.label>
-  <ConstructionSpeed.description>Wie schnell das Individuum etwas aufbauen kann.</ConstructionSpeed.description>
+  <ConstructionSpeed.label>építési sebesség</ConstructionSpeed.label>
+  <ConstructionSpeed.description>Milyen gyorsan képes a személy épületet felhúzni és javítani.</ConstructionSpeed.description>
 
-  <PlantWorkSpeed.label>Anbaugeschwindigkeit</PlantWorkSpeed.label>
-  <PlantWorkSpeed.description>Wie schnell das Individuum Pflanzen säen und ernten kann.</PlantWorkSpeed.description>
+  <PlantWorkSpeed.label>földművelési sebesség</PlantWorkSpeed.label>
+  <PlantWorkSpeed.description>Milyen gyorsan képes a személy vetni, aratni.</PlantWorkSpeed.description>
 
-  <HarvestFailChance.label>Ernteverlust-Chance</HarvestFailChance.label>
-  <HarvestFailChance.description>Wie häufig das Individuum die Ernte versehentlich und unwiderruflich zerstört.</HarvestFailChance.description>
+  <HarvestFailChance.label>sikertelen aratás esélye</HarvestFailChance.label>
+  <HarvestFailChance.description>Milyen gyakran történik meg, hogy betakarítás helyett kárba vész a termés.</HarvestFailChance.description>
 
-  <ConstructFailChance.label>Konstruktionsversagen-Chance</ConstructFailChance.label>
-  <ConstructFailChance.description>Die Wahrscheinlichkeit des Kolonisten beim konstruieren eines Gebäudes zu versagen. Er wird dabei trotzdem Zeit und etwas Material verbrauchen.</ConstructFailChance.description>
+  <ConstructFailChance.label>sikertelen építés esélye</ConstructFailChance.label>
+  <ConstructFailChance.description>Annak az esélye, hogy a személy elrontja az építést, elpazarolva az időt és alapanyagokat.</ConstructFailChance.description>
 
-  <FixBrokenDownBuildingFailChance.label>Reperaturversagen-Chance</FixBrokenDownBuildingFailChance.label>
-  <FixBrokenDownBuildingFailChance.description>Die Wahrscheinlichkeit des Kolonisten bei der Reparatur eines beschädigten Gebäudes zu versagen.</FixBrokenDownBuildingFailChance.description>
+  <FixBrokenDownBuildingFailChance.label>sikertelen javítás esélye</FixBrokenDownBuildingFailChance.label>
+  <FixBrokenDownBuildingFailChance.description>Annak az esélye, hogy a személy elrontja az épület javítását.</FixBrokenDownBuildingFailChance.description>
 
 </LanguageData>

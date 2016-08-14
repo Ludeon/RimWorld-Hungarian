@@ -6,9 +6,9 @@
   <ClockYear>Év</ClockYear>
   <DateReadoutTip>Az érkezés óta eltelt napok: {0}\nEgy hónap {1} napból áll.</DateReadoutTip>
 
-  <FullDate>{2}. {0} {1}.</FullDate>
-	<DateReadout>{0}, {1}, {2}</DateReadout>
-  <SeasonFullDate>{0}, {1}</SeasonFullDate>
+  <FullDate>{2}. {1} {0}. hét</FullDate>
+	<DateReadout>{1} {0}. hét, {2}</DateReadout>
+  <SeasonFullDate>{1} {0}. hét</SeasonFullDate>
   <WholeYear>Egész év</WholeYear>
   
 </LanguageData>

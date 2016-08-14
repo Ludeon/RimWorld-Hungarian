@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <MoveSpeed.label>Laufgeschwindigkeit</MoveSpeed.label>
-  <MoveSpeed.description>Wie schnell sich dieses Individuum durch die Welt bewegt. In Zellen pro Sekunde.</MoveSpeed.description>
+  <MoveSpeed.label>mozgási sebesség</MoveSpeed.label>
+  <MoveSpeed.description>A személy mozgási sebessége cella per másodpercben.</MoveSpeed.description>
 
-  <MentalBreakThreshold.label>Zusammenbruchschwelle</MentalBreakThreshold.label>
-  <MentalBreakThreshold.description>Sobald die Stimmung des Individuums diesen Wert unterschreitet, besteht die Gefahr eines Nervenzusammenbruchs.</MentalBreakThreshold.description>
+  <MentalBreakThreshold.label>idegösszeomlás küszöb</MentalBreakThreshold.label>
+  <MentalBreakThreshold.description>Ha személy hangulata ez alá az érték alá esik, bármikor összeomolhat.</MentalBreakThreshold.description>
 
-  <PsychicSensitivity.label>Psychische Sensibilität</PsychicSensitivity.label>
-  <PsychicSensitivity.description>Multiplikator auf die Wirkung von psychischen Phänomenen, die dieses Individuum beeinflussen.</PsychicSensitivity.description>
+  <PsychicSensitivity.label>pszichotikus érzékenység</PsychicSensitivity.label>
+  <PsychicSensitivity.description>Pszichotikus jelenségek befolyása erre a személyre.</PsychicSensitivity.description>
 
-  <ToxicSensitivity.label>Vergiftungs Sensibilität</ToxicSensitivity.label>
-  <ToxicSensitivity.description>Multiplikator auf die Wirkung von vergiftenden Phänomenen, die dieses Individuum beeinflussen.</ToxicSensitivity.description>
+  <ToxicSensitivity.label>méreg érzékenység</ToxicSensitivity.label>
+  <ToxicSensitivity.description>Mérgező jelenségek befolyása erre a személyre.</ToxicSensitivity.description>
 
-  <GlobalLearningFactor.label>Globale Lerneffizienz</GlobalLearningFactor.label>
-  <GlobalLearningFactor.description>Wie schnell das Individuum etwas lernen kann.</GlobalLearningFactor.description>
+  <GlobalLearningFactor.label>tanulási képesség</GlobalLearningFactor.label>
+  <GlobalLearningFactor.description>Milyen gyorsan képes a személy valamit megtanulni.</GlobalLearningFactor.description>
 
-  <EatingSpeed.label>Essgeschwindigkeit</EatingSpeed.label>
-  <EatingSpeed.description>Wie schnell das Individuum essen kann.</EatingSpeed.description>
+  <EatingSpeed.label>fogyasztási sebesség</EatingSpeed.label>
+  <EatingSpeed.description>Milyen gyorsan képes a személy enni.</EatingSpeed.description>
 
-  <ComfyTemperatureMin.label>Niedrigste Wohlfühltemperatur</ComfyTemperatureMin.label>
-  <ComfyTemperatureMin.description>Temperaturen unterhalb dieses Wertes machen das Individuum unglücklich. Sobald die Temperatur des Individuums diesen Wert signifikant unterschreitet, besteht die Gefahr, dass es entweder eine Unterkühlung oder Erfrierung erleidet oder dass es stirbt.</ComfyTemperatureMin.description>
+  <ComfyTemperatureMin.label>min. optimális hőmérséklet</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.description>E hőmérséklet alatt a személy rosszul érzi magát. Szignifikánsan a hőmérséklet alatt hipotermia alakul ki, majd fagyás, ami halálhoz vezet.</ComfyTemperatureMin.description>
 
-  <ComfyTemperatureMax.label>Höchste Wohlfühltemperatur</ComfyTemperatureMax.label>
-  <ComfyTemperatureMax.description>Temperaturen oberhalb dieses Wertes machen das Individuum unglücklich. Sobald die Temperatur des Individuums diesen Wert signifikant überschreitet, besteht die Gefahr, dass es entweder einen Hitzschlag erleidet oder dass es stirbt.</ComfyTemperatureMax.description>
+  <ComfyTemperatureMax.label>max. optimális hőmérséklet</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.description>E hőmérséklet felett a személy rosszul érzi magát. Szignifikánsan a hőmérséklet felett hőguta alakul ki, ami halálhoz vezet.</ComfyTemperatureMax.description>
 
-  <ImmunityGainSpeed.label>Immunisierungsgeschwindigkeit</ImmunityGainSpeed.label>
-  <ImmunityGainSpeed.description>Wie schnell das Individuum immun gegen eine Krankheit wird. Wenn der Immunisierungsprozess zu lange dauert, wird es an den Folgen der Krankheit sterben.</ImmunityGainSpeed.description>
+  <ImmunityGainSpeed.label>immunitás elérési sebesség</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.description>Az a sebesség, amivel a személy immunitást ér el bizonyos betegségre. Ha ez túl alacsony az alany belehal a betegségbe mielőtt immunissá válna.</ImmunityGainSpeed.description>
 
-  <CarryingCapacity.label>Transportkapazität</CarryingCapacity.label>
-  <CarryingCapacity.description>Wie viel dieses Individuum maximal in seinen Händen, seinem Mund usw. tragen kann.</CarryingCapacity.description>
+  <CarryingCapacity.label>teherhordó kapacitás</CarryingCapacity.label>
+  <CarryingCapacity.description>Maximálisan ennyit képes ez a személy szállítani.</CarryingCapacity.description>
 
-  <MeatAmount.label>Fleischmenge</MeatAmount.label>
-  <MeatAmount.description>Die Fleischmenge, die man erhält, wenn man dieses Individuum schlachtet.</MeatAmount.description>
+  <MeatAmount.label>hús mennyiség</MeatAmount.label>
+  <MeatAmount.description>A hús mennyisége, ami eme teremtmény lemészárlásával nyerhető.</MeatAmount.description>
 
-  <LeatherAmount.label>Ledermenge</LeatherAmount.label>
-  <LeatherAmount.description>Die Ledermenge, die man erhält, wenn man dieses Individuum schlachtet.</LeatherAmount.description>
+  <LeatherAmount.label>bőr mennyiség</LeatherAmount.label>
+  <LeatherAmount.description>A bőr mennyisége, ami eme teremtmény lemészárlásával nyerhető.</LeatherAmount.description>
 
-  <MinimumHandlingSkill.label>Tierpflege-Mindestwert</MinimumHandlingSkill.label>
-  <MinimumHandlingSkill.description>Das Inviduum kann ein Tier weder zähmen, trainieren noch befehligen, wenn seine Tierpflegefähigkeit unter diesem Wert liegt.</MinimumHandlingSkill.description>
+  <MinimumHandlingSkill.label>min. gondozás készség</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.description>Ennél kisebb gondozás készséggel ez a teremtmény nem szelídíthető vagy idomítható.</MinimumHandlingSkill.description>
 
 </LanguageData>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <RecruitPrisonerChance.label>Gefangenenrekrutierungschance</RecruitPrisonerChance.label>
-  <RecruitPrisonerChance.description>Wie hoch die Chance ist, um einen Gefangenen erfolgreich rekrutieren zu können.</RecruitPrisonerChance.description>
+  <RecruitPrisonerChance.label>toborzási esély</RecruitPrisonerChance.label>
+  <RecruitPrisonerChance.description>Alap esély egy fogoly toborzására.</RecruitPrisonerChance.description>
 
-  <TameAnimalChance.label>Tierzähmungschance</TameAnimalChance.label>
-  <TameAnimalChance.description>Wie hoch die Chance ist, um ein Tier erfolgreich zähmen zu können.</TameAnimalChance.description>
+  <TameAnimalChance.label>szelídítési esély</TameAnimalChance.label>
+  <TameAnimalChance.description>Alap esély egy állat megszelídítésére.</TameAnimalChance.description>
 
-  <TrainAnimalChance.label>Tiertrainingschance</TrainAnimalChance.label>
-  <TrainAnimalChance.description>Wie hoch die Chance ist, um ein Tier erfolgreich trainieren zu können. Kann je nach Tier abweichen.</TrainAnimalChance.description>
+  <TrainAnimalChance.label>idomítási esély</TrainAnimalChance.label>
+  <TrainAnimalChance.description>Alap esély egy állat sikeres idomítására. Állat fajtánként változhat.</TrainAnimalChance.description>
 
-  <SocialImpact.label>Überzeugungskraft</SocialImpact.label>
-  <SocialImpact.description>Wie viel Auswirkung soziale Interaktionen auf andere haben werden.</SocialImpact.description>
+  <SocialImpact.label>befolyásolás</SocialImpact.label>
+  <SocialImpact.description>Szociális interakciónál mennyire van hatással a másik félre.</SocialImpact.description>
 
-  <GiftImpact.label>Diplomatiegeschick</GiftImpact.label>
-  <GiftImpact.description>Wie viel Auswirkung ein Geschenk auf andere Fraktionen haben wird.</GiftImpact.description>
+  <GiftImpact.label>külpolitika</GiftImpact.label>
+  <GiftImpact.description>Ha ez a személy egy másik frakciónak ajándékot ad, ez a szorzó befolyásolja a kapcsolat alakulását.</GiftImpact.description>
 
-  <TradePriceImprovement.label>Handelspreisverbesserung</TradePriceImprovement.label>
-  <TradePriceImprovement.description>Um wie viel die Kauf- und Verkaufspreise beim Handeln angepasst werden.</TradePriceImprovement.description>
+  <TradePriceImprovement.label>alkusz</TradePriceImprovement.label>
+  <TradePriceImprovement.description>Az eladási és a vételi árak is ennek a százaléknak megfelelően változnak, ha ez a személy alkuszik.</TradePriceImprovement.description>
 
 </LanguageData>

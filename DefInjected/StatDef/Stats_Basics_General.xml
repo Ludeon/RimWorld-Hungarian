@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <MaxHitPoints.label>Max. Haltbarkeit</MaxHitPoints.label>
-  <MaxHitPoints.description>Die maximale Haltbarkeit eines Objekts. Dieser Wert gibt an, wieviel Schaden es verkraftet kann, bevor es zerstört wird.</MaxHitPoints.description>
+  <MaxHitPoints.label>max. tartósság</MaxHitPoints.label>
+  <MaxHitPoints.description>Ez adja meg, hogy a tárgy mennyi sebzést képes elnyelni mielőtt tönkre megy.</MaxHitPoints.description>
 
-  <MarketValue.label>Marktwert</MarketValue.label>
-  <MarketValue.description>Der Marktwert eines Objekts. Der tatsächliche Handelspreis wird durch Beziehungsstatus und Verhandlungsgeschick beeinflusst.</MarketValue.description>
+  <MarketValue.label>érték</MarketValue.label>
+  <MarketValue.description>A tárgy piaci értéke. A valós kereskedelmi ár ennek a kapcsolati státusz és az alkusz készség által módosított értéke.</MarketValue.description>
 
-  <SellPriceFactor.label>Verkaufswertmultiplikator</SellPriceFactor.label>
-  <SellPriceFactor.description>Ein Multiplikator des Preises, zu dem du Objekte verkaufen kannst.</SellPriceFactor.description>
+  <SellPriceFactor.label>eladási szorzó</SellPriceFactor.label>
+  <SellPriceFactor.description>Árszorzó, mely megadja hogy mennyiért tudod eladni a tárgyat.</SellPriceFactor.description>
 
-  <Flammability.label>Brennbarkeit</Flammability.label>
-  <Flammability.description>Wie schnell das Objekt Feuer fängt und verbrennt.</Flammability.description>
+  <Flammability.label>gyúlékonyság</Flammability.label>
+  <Flammability.description>Milyen könnyen fog tüzet a tárgy és mennyire erősen ég.</Flammability.description>
 
-  <WorkToMake.label>Arbeitsschritte</WorkToMake.label>
-  <WorkToMake.description>Die maximalen Arbeitsschritte zum Herstellen dieses Objekts, sofern alle Materialien und Werkzeuge vorhanden sind.</WorkToMake.description>
+  <WorkToMake.label>munkamennyiség</WorkToMake.label>
+  <WorkToMake.description>Mennyi munka szükséges az előállításhoz, ha az összes alapanyag és szerszám adott.</WorkToMake.description>
 
-  <DeteriorationRate.label>Verfallsrate</DeteriorationRate.label>
-  <DeteriorationRate.description>Wie schnell dieses Objekt im Freien, besonders bei Regen, seine Haltbarkeit verliert.</DeteriorationRate.description>
+  <DeteriorationRate.label>állagromlás</DeteriorationRate.label>
+  <DeteriorationRate.description>Annak mértéke, hogy milyen gyorsan romlik a tárgy állaga, ha a szabad ég alatt hagyják (különösen esőben).</DeteriorationRate.description>
 
-  <Beauty.label>Attraktivität</Beauty.label>
-  <Beauty.description>Wie sehr man es genießt, dieses Objekt um sich zu haben oder zu bestaunen.</Beauty.description>
+  <Beauty.label>szépség</Beauty.label>
+  <Beauty.description>Mennyire élvezetes a tárgy körül lenni és ránézni.</Beauty.description>
 
-  <Cleanliness.label>Sauberkeit</Cleanliness.label>
-  <Cleanliness.description>Wie sauber ein Objekt ist.</Cleanliness.description>
+  <Cleanliness.label>tisztaság</Cleanliness.label>
+  <Cleanliness.description>Mennyire tiszta a tárgy.</Cleanliness.description>
 
-  <Comfort.label>Komfort</Comfort.label>
-  <Comfort.description>Wie bequem es ist, auf diesem Objekt zu liegen oder zu sitzen.</Comfort.description>
+  <Comfort.label>kényelem</Comfort.label>
+  <Comfort.description>Mennyire kényelmes ráülni vagy feküdni rajta.</Comfort.description>
 
 </LanguageData>
