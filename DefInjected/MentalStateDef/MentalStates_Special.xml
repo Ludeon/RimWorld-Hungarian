@@ -3,26 +3,26 @@
 
   <!-- Special mental states -->
 
-  <WanderConfused.label>Verwirrtes Umherwandern</WanderConfused.label>
-  <WanderConfused.beginLetterLabel>Verwirrung</WanderConfused.beginLetterLabel>
-  <WanderConfused.beginLetter>{0} hatte einen Zusammenbruch und geht verwirrt umher.</WanderConfused.beginLetter>
-  <WanderConfused.recoveryMessage>{0} ist nicht mehr verwirrt.</WanderConfused.recoveryMessage>
-  <WanderConfused.inspectLine>Zustand: Geht verwirrt umher</WanderConfused.inspectLine>
+  <WanderConfused.label>zavarodott ténfergés</WanderConfused.label>
+  <WanderConfused.beginLetterLabel>Zavarodottság</WanderConfused.beginLetterLabel>
+  <WanderConfused.beginLetter>{0} összeomlott és zavarodottan járkál.</WanderConfused.beginLetter>
+  <WanderConfused.recoveryMessage>{0} zavarodottsága elmúlt.</WanderConfused.recoveryMessage>
+  <WanderConfused.inspectLine>Állapot: zavarodott járkálás</WanderConfused.inspectLine>
 
-  <PanicFlee.label>Panisches Flüchten</PanicFlee.label>
-  <PanicFlee.beginLetterLabel>Flucht</PanicFlee.beginLetterLabel>
-  <PanicFlee.beginLetter>{0} flieht panisch.</PanicFlee.beginLetter>
-  <PanicFlee.recoveryMessage>{0} flieht nicht länger.</PanicFlee.recoveryMessage>
-  <PanicFlee.inspectLine>Zustand: Flieht panisch</PanicFlee.inspectLine>
+  <PanicFlee.label>eszeveszett menekülés</PanicFlee.label>
+  <PanicFlee.beginLetterLabel>Menekülés</PanicFlee.beginLetterLabel>
+  <PanicFlee.beginLetter>{0} eszeveszetten menekül.</PanicFlee.beginLetter>
+  <PanicFlee.recoveryMessage>{0} már nem menekül.</PanicFlee.recoveryMessage>
+  <PanicFlee.inspectLine>Állapot: eszeveszett menekülés</PanicFlee.inspectLine>
 
-  <Manhunter.label>Menschen Jagd</Manhunter.label>
-  <Manhunter.beginLetterLabel>Menschenjagd</Manhunter.beginLetterLabel>
-  <Manhunter.beginLetter>{0} wurde ein Menschenjäger.</Manhunter.beginLetter>
-  <Manhunter.recoveryMessage>Die Blutlust von {0} ist vergangen.</Manhunter.recoveryMessage>
-  <Manhunter.inspectLine>Wütend: Menschenjäger</Manhunter.inspectLine>
+  <Manhunter.label>emberevő</Manhunter.label>
+  <Manhunter.beginLetterLabel>Emberevő</Manhunter.beginLetterLabel>
+  <Manhunter.beginLetter>{0} emberevő lett.</Manhunter.beginLetter>
+  <Manhunter.recoveryMessage>{0} vérszomja elmúlt.</Manhunter.recoveryMessage>
+  <Manhunter.inspectLine>Őrület: emberevő</Manhunter.inspectLine>
 
-  <SocialFighting.label>Schlägerei</SocialFighting.label>
-  <SocialFighting.recoveryMessage>{0} und {1} prügeln sich nicht länger.</SocialFighting.recoveryMessage>
-  <SocialFighting.inspectLine>Zustand: Schläger</SocialFighting.inspectLine>
+  <SocialFighting.label>verekedés</SocialFighting.label>
+  <SocialFighting.recoveryMessage>{0} és {1} már nem verekszik.</SocialFighting.recoveryMessage>
+  <SocialFighting.inspectLine>Állapot: verekedés</SocialFighting.inspectLine>
 
 </LanguageData>

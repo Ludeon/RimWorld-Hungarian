@@ -3,57 +3,57 @@
 
   <!-- Mental breaks: extreme -->
 
-  <Berserk.label>Rasend vor Wut</Berserk.label>
-  <Berserk.beginLetterLabel>Rasend vor Wut</Berserk.beginLetterLabel>
-  <Berserk.beginLetter>{0} ist rasend vor Wut!</Berserk.beginLetter>
-  <Berserk.recoveryMessage>{0} hat sich wieder beruhigt.</Berserk.recoveryMessage>
-  <Berserk.inspectLine>Zustand: Rasend vor Wut</Berserk.inspectLine>
+  <Berserk.label>őrjöngés</Berserk.label>
+  <Berserk.beginLetterLabel>Őrjöngés</Berserk.beginLetterLabel>
+  <Berserk.beginLetter>{0} őrjöng!</Berserk.beginLetter>
+  <Berserk.recoveryMessage>{0} lenyugodott.</Berserk.recoveryMessage>
+  <Berserk.inspectLine>Állapot: őrjöngés</Berserk.inspectLine>
 
-  <FireStartingSpree.label>Feuerteufel</FireStartingSpree.label>
-  <FireStartingSpree.beginLetterLabel>Feuerteufel</FireStartingSpree.beginLetterLabel>
-  <FireStartingSpree.beginLetter>{0} will alles niederbrennen.</FireStartingSpree.beginLetter>
-  <FireStartingSpree.recoveryMessage>{0} hat sich wieder beruhigt.</FireStartingSpree.recoveryMessage>
-  <FireStartingSpree.inspectLine>Zustand: Feuerteufel</FireStartingSpree.inspectLine>
+  <FireStartingSpree.label>gyújtogatás</FireStartingSpree.label>
+  <FireStartingSpree.beginLetterLabel>Gyújtogatás</FireStartingSpree.beginLetterLabel>
+  <FireStartingSpree.beginLetter>{0} mindent meggyújt.</FireStartingSpree.beginLetter>
+  <FireStartingSpree.recoveryMessage>{0} lenyugodott.</FireStartingSpree.recoveryMessage>
+  <FireStartingSpree.inspectLine>Állapot: gyújtogatás</FireStartingSpree.inspectLine>
 
-  <GiveUpExit.label>Gibt auf und geht</GiveUpExit.label>
-  <GiveUpExit.beginLetterLabel>Gibt auf</GiveUpExit.beginLetterLabel>
-  <GiveUpExit.beginLetter>{0} verläßt die Kolonie.</GiveUpExit.beginLetter>
-  <GiveUpExit.recoveryMessage>{0} hat es sich noch einmal überlegt und bleibt doch.</GiveUpExit.recoveryMessage>
-  <GiveUpExit.inspectLine>Zustand: Hat aufgegeben und geht</GiveUpExit.inspectLine>
+  <GiveUpExit.label>lelépés</GiveUpExit.label>
+  <GiveUpExit.beginLetterLabel>Lelépés</GiveUpExit.beginLetterLabel>
+  <GiveUpExit.beginLetter>{0} elhagyja a kolóniát.</GiveUpExit.beginLetter>
+  <GiveUpExit.recoveryMessage>{0} meggondolta magát és marad.</GiveUpExit.recoveryMessage>
+  <GiveUpExit.inspectLine>Állapot: lelépés</GiveUpExit.inspectLine>
 
   <!-- Mental breaks: serious -->
 
-  <BingingAlcohol.label>Besäufnis</BingingAlcohol.label>
-  <BingingAlcohol.beginLetterLabel>Besäufnis</BingingAlcohol.beginLetterLabel>
-  <BingingAlcohol.beginLetter>{0} betrinkt sich.</BingingAlcohol.beginLetter>
-  <BingingAlcohol.recoveryMessage>{0} hat aufgehört sich zu betrinken.</BingingAlcohol.recoveryMessage>
-  <BingingAlcohol.inspectLine>Zustand: Betrinkt sich</BingingAlcohol.inspectLine>
+  <BingingAlcohol.label>piálás</BingingAlcohol.label>
+  <BingingAlcohol.beginLetterLabel>Piálás</BingingAlcohol.beginLetterLabel>
+  <BingingAlcohol.beginLetter>{0} leissza magát.</BingingAlcohol.beginLetter>
+  <BingingAlcohol.recoveryMessage>{0} abbahagyta a piálást.</BingingAlcohol.recoveryMessage>
+  <BingingAlcohol.inspectLine>Állapot: piálás</BingingAlcohol.inspectLine>
 
-  <WanderPsychotic.label>Verwirrtes Umherwandern</WanderPsychotic.label>
-  <WanderPsychotic.beginLetterLabel>Verwirrung</WanderPsychotic.beginLetterLabel>
-  <WanderPsychotic.beginLetter>{0} hatte einen Zusammenbruch und geht verwirrt umher.</WanderPsychotic.beginLetter>
-  <WanderPsychotic.recoveryMessage>{0} ist nicht mehr verwirrt.</WanderPsychotic.recoveryMessage>
-  <WanderPsychotic.inspectLine>Zustand: Geht verwirrt umher</WanderPsychotic.inspectLine>
+  <WanderPsychotic.label>pszichotikus ténfergés</WanderPsychotic.label>
+  <WanderPsychotic.beginLetterLabel>Zavarodottság</WanderPsychotic.beginLetterLabel>
+  <WanderPsychotic.beginLetter>{0} összeomlott és zavarodottan járkál.</WanderPsychotic.beginLetter>
+  <WanderPsychotic.recoveryMessage>{0} zavarodottsága elmúlt.</WanderPsychotic.recoveryMessage>
+  <WanderPsychotic.inspectLine>Állapot: zavarodott járkálás</WanderPsychotic.inspectLine>
 
   <!-- Mental breaks: minor -->
 
-  <BingingFood.label>Fressattacke</BingingFood.label>
-  <BingingFood.beginLetterLabel>Fressattacke</BingingFood.beginLetterLabel>
-  <BingingFood.beginLetter>{0} frisst sich durch unsere Vorräte.</BingingFood.beginLetter>
-  <BingingFood.recoveryMessage>{0} hat aufgehört sich wie ein Schwein vollzustopfen.</BingingFood.recoveryMessage>
-  <BingingFood.inspectLine>Zustand: Fressattacke</BingingFood.inspectLine>
+  <BingingFood.label>zabálás</BingingFood.label>
+  <BingingFood.beginLetterLabel>Zabálás</BingingFood.beginLetterLabel>
+  <BingingFood.beginLetter>{0} bezabálja a készleteket.</BingingFood.beginLetter>
+  <BingingFood.recoveryMessage>{0} már nem habzsol.</BingingFood.recoveryMessage>
+  <BingingFood.inspectLine>Állapot: zabálás</BingingFood.inspectLine>
   
-  <WanderSad.label>Trauriger Wanderer</WanderSad.label>
-  <WanderSad.beginLetterLabel>Trauer</WanderSad.beginLetterLabel>
-  <WanderSad.beginLetter>{0} läuft traurig umher.</WanderSad.beginLetter>
-  <WanderSad.recoveryMessage>{0} hat sich wieder gefangen.</WanderSad.recoveryMessage>
-  <WanderSad.inspectLine>Zustand: Geht traurig umher</WanderSad.inspectLine>
+  <WanderSad.label>szomorú ténfergés</WanderSad.label>
+  <WanderSad.beginLetterLabel>Szomorúság</WanderSad.beginLetterLabel>
+  <WanderSad.beginLetter>{0} szomorúan járkál.</WanderSad.beginLetter>
+  <WanderSad.recoveryMessage>{0} jobb kedvre derült.</WanderSad.recoveryMessage>
+  <WanderSad.inspectLine>Állapot: szomorú ténfergés</WanderSad.inspectLine>
   
-  <WanderOwnRoom.label>Im Zimmer eingeschlossen</WanderOwnRoom.label>
-  <WanderOwnRoom.beginLetterLabel>Im Zimmer eingeschlossen</WanderOwnRoom.beginLetterLabel>
-  <WanderOwnRoom.beginLetter>{0} hat sich in HISem Zimmer eingeschlossen.</WanderOwnRoom.beginLetter>
-  <WanderOwnRoom.recoveryMessage>{0} versteckt sich nicht länger in HISem Zimmer.</WanderOwnRoom.recoveryMessage>
-  <WanderOwnRoom.inspectLine>Zustand: Im Zimmer eingeschlossen</WanderOwnRoom.inspectLine>
+  <WanderOwnRoom.label>szobában ténfergés</WanderOwnRoom.label>
+  <WanderOwnRoom.beginLetterLabel>Bezárkózás</WanderOwnRoom.beginLetterLabel>
+  <WanderOwnRoom.beginLetter>{0} bezárkózott a szobájába.</WanderOwnRoom.beginLetter>
+  <WanderOwnRoom.recoveryMessage>{0} már nem bujkál a szobájában.</WanderOwnRoom.recoveryMessage>
+  <WanderOwnRoom.inspectLine>Állapot: szobában ténfergés</WanderOwnRoom.inspectLine>
 
 
 

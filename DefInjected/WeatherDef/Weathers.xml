@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <Clear.label>Klar</Clear.label>
-  <Clear.description>Ein wolkenfreier Himmel. Keine Einschränkungen oder Vorteile.</Clear.description>
+  <Clear.label>tiszta</Clear.label>
+  <Clear.description>Tiszta égbolt. Se pozitív se negatív hatás.</Clear.description>
 
-  <Fog.label>Nebel</Fog.label>
-  <Fog.description>Nebel reduziert die Treffsicherheit von Fernkampfwaffen.</Fog.description>
+  <Fog.label>köd</Fog.label>
+  <Fog.description>A köd csökkenti a távolsági fegyverek pontosságát.</Fog.description>
 
-  <Rain.label>Regen</Rain.label>
-  <Rain.description>Regen reduziert die Treffsicherheit von Fernkampfwaffen, reduziert die Laufgeschwindigkeiten und löscht Feuer.</Rain.description>
+  <Rain.label>eső</Rain.label>
+  <Rain.description>Az eső csökkenti a távolsági fegyverek pontosságát, kioltja a tüzet és lelassítja az embereket.</Rain.description>
 
-  <DryThunderstorm.label>Trockenes Gewitter</DryThunderstorm.label>
-  <DryThunderstorm.description>Trockene Gewitter können gefährlich sein, da die Blitze Feuer entfachen, es aber keinen Regen gibt, der sie gleich wieder löschen könnte.</DryThunderstorm.description>
+  <DryThunderstorm.label>száraz zivatar</DryThunderstorm.label>
+  <DryThunderstorm.description>A száraz zivatarok veszélyesek mert a villámok tüzeket gyújthatnak és nincs eső, ami kioltaná őket.</DryThunderstorm.description>
 
-  <RainyThunderstorm.label>Regnerisches Gewitter</RainyThunderstorm.label>
-  <RainyThunderstorm.description>Die Blitze entfachen Feuer, aber der Regen löscht sie auch wieder. Der Regen reduziert die Treffsicherheit und Laufgeschwindigkeit.</RainyThunderstorm.description>
+  <RainyThunderstorm.label>zivatar</RainyThunderstorm.label>
+  <RainyThunderstorm.description>A villámok tüzeket gyújthatnak, de az eső kioltja őket. Ezen felül csökkenti a távolsági fegyverek pontosságát és lelassítja az embereket. </RainyThunderstorm.description>
 
-  <FoggyRain.label>Nebliger Regen</FoggyRain.label>
-  <FoggyRain.description>Reduziert die Treffsicherheit und Laufgeschwindigkeit.</FoggyRain.description>
+  <FoggyRain.label>ködös eső</FoggyRain.label>
+  <FoggyRain.description>Csökkenti a távolsági fegyverek pontosságát és lelassítja az embereket.</FoggyRain.description>
 
-  <SnowHard.label>Starker Schneefall</SnowHard.label>
-  <SnowHard.description>Schnee reduziert die Treffsicherheit von Fernkampfwaffen, die Laufgeschwindigkeit und löscht Feuer.</SnowHard.description>
+  <SnowHard.label>erős havazás</SnowHard.label>
+  <SnowHard.description>A hó csökkenti a távolsági fegyverek pontosságát, kioltja a tüzet és lelassítja az embereket.</SnowHard.description>
 
-  <SnowGentle.label>Leichter Schneefall</SnowGentle.label>
-  <SnowGentle.description>Schnee reduziert die Treffsicherheit von Fernkampfwaffen, die Laufgeschwindigkeit und löscht Feuer.</SnowGentle.description>
+  <SnowGentle.label>enyhe havazás</SnowGentle.label>
+  <SnowGentle.description>A hó csökkenti a távolsági fegyverek pontosságát, kioltja a tüzet és lelassítja az embereket.</SnowGentle.description>
 
 </LanguageData>

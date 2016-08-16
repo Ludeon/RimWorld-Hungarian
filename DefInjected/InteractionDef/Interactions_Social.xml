@@ -3,18 +3,18 @@
 
   <!-- Random social interactions -->
 
-  <Chitchat.label>Plaudern</Chitchat.label>
-  <Chitchat.logRulesInitiator.rulesStrings.0>logentry->Plauderte nett mit [other_nameShortIndef].</Chitchat.logRulesInitiator.rulesStrings.0>
+  <Chitchat.label>csevegés</Chitchat.label>
+  <Chitchat.logRulesInitiator.rulesStrings.0>logentry->Kedélyesen csevegett vele:[other_nameShortIndef].</Chitchat.logRulesInitiator.rulesStrings.0>
 
-  <DeepTalk.label>Tiefgründiges Gespräch</DeepTalk.label>
-  <DeepTalk.logRulesInitiator.rulesStrings.0>logentry->Hatte ein tiefgründiges Gespräch mit [other_nameShortIndef].</DeepTalk.logRulesInitiator.rulesStrings.0>
+  <DeepTalk.label>komoly beszélgetés</DeepTalk.label>
+  <DeepTalk.logRulesInitiator.rulesStrings.0>logentry->Komolyan elbeszélgetett vele:[other_nameShortIndef].</DeepTalk.logRulesInitiator.rulesStrings.0>
 
-  <Slight.label>Herablassung</Slight.label>
-  <Slight.logRulesInitiator.rulesStrings.0>logentry->Hat [other_nameShortIndef] gekränkt.</Slight.logRulesInitiator.rulesStrings.0>
-  <Slight.logRulesRecipient.rulesStrings.0>logentry->Wurde von [other_nameShortIndef] gekränkt.</Slight.logRulesRecipient.rulesStrings.0>
+  <Slight.label>bántás</Slight.label>
+  <Slight.logRulesInitiator.rulesStrings.0>logentry->Megbántotta őt:[other_nameShortIndef].</Slight.logRulesInitiator.rulesStrings.0>
+  <Slight.logRulesRecipient.rulesStrings.0>logentry->Megbántódott miatta:[other_nameShortIndef].</Slight.logRulesRecipient.rulesStrings.0>
 
-  <Insult.label>Beleidigung</Insult.label>
-  <Insult.logRulesInitiator.rulesStrings.0>logentry->Hat [other_nameShortIndef] beleidigt.</Insult.logRulesInitiator.rulesStrings.0>
-  <Insult.logRulesRecipient.rulesStrings.0>logentry->Wurde von [other_nameShortIndef] beleidigt.</Insult.logRulesRecipient.rulesStrings.0>
+  <Insult.label>sértés</Insult.label>
+  <Insult.logRulesInitiator.rulesStrings.0>logentry->Megsértette őt:[other_nameShortIndef].</Insult.logRulesInitiator.rulesStrings.0>
+  <Insult.logRulesRecipient.rulesStrings.0>logentry->Megsértődött miatta:[other_nameShortIndef].</Insult.logRulesRecipient.rulesStrings.0>
 
 </LanguageData>

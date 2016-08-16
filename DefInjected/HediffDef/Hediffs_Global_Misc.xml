@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <BloodLoss.label>Blutverlust</BloodLoss.label>
-  <BloodLoss.stages.0.label>trivial</BloodLoss.stages.0.label>
-  <BloodLoss.stages.1.label>leicht</BloodLoss.stages.1.label>
-  <BloodLoss.stages.2.label>mittel</BloodLoss.stages.2.label>
-  <BloodLoss.stages.3.label>schwer</BloodLoss.stages.3.label>
-  <BloodLoss.stages.4.label>extrem</BloodLoss.stages.4.label>
+  <BloodLoss.label>vérveszteség</BloodLoss.label>
+  <BloodLoss.stages.0.label>csekély</BloodLoss.stages.0.label>
+  <BloodLoss.stages.1.label>enyhe</BloodLoss.stages.1.label>
+  <BloodLoss.stages.2.label>közepes</BloodLoss.stages.2.label>
+  <BloodLoss.stages.3.label>erős</BloodLoss.stages.3.label>
+  <BloodLoss.stages.4.label>súlyos</BloodLoss.stages.4.label>
 
-  <Anesthetic.label>Betäubung</Anesthetic.label>
+  <Anesthetic.label>érzéketlenség</Anesthetic.label>
 
-  <Concussion.label>Gehirnerschütterung</Concussion.label>
+  <Concussion.label>agyrázkódás</Concussion.label>
 
-  <CryptosleepSickness.label>Kryoschlafkrankheit</CryptosleepSickness.label>
+  <CryptosleepSickness.label>hibernáció utóhatás</CryptosleepSickness.label>
 
-  <PsychicShock.label>Psychischer Schock</PsychicShock.label>
+  <PsychicShock.label>pszichotikus sokk</PsychicShock.label>
 
-  <FoodPoisoning.label>Lebensmittelvergiftung</FoodPoisoning.label>
+  <FoodPoisoning.label>ételmérgezés</FoodPoisoning.label>
 
-  <ToxicBuildup.label>Vergiftung</ToxicBuildup.label>
-  <ToxicBuildup.stages.0.label>erste versteckte Anzeichen</ToxicBuildup.stages.0.label>
-  <ToxicBuildup.stages.1.label>erste Anzeichen</ToxicBuildup.stages.1.label>
-  <ToxicBuildup.stages.2.label>leicht</ToxicBuildup.stages.2.label>
-  <ToxicBuildup.stages.3.label>mittel</ToxicBuildup.stages.3.label>
-  <ToxicBuildup.stages.4.label>stark</ToxicBuildup.stages.4.label>
-  <ToxicBuildup.stages.5.label>extrem</ToxicBuildup.stages.5.label>
+  <ToxicBuildup.label>mérgezés</ToxicBuildup.label>
+  <ToxicBuildup.stages.0.label>első rejtett eset</ToxicBuildup.stages.0.label>
+  <ToxicBuildup.stages.1.label>első eset</ToxicBuildup.stages.1.label>
+  <ToxicBuildup.stages.2.label>enyhe</ToxicBuildup.stages.2.label>
+  <ToxicBuildup.stages.3.label>közepes</ToxicBuildup.stages.3.label>
+  <ToxicBuildup.stages.4.label>erős</ToxicBuildup.stages.4.label>
+  <ToxicBuildup.stages.5.label>súlyos</ToxicBuildup.stages.5.label>
 
-  <Pregnant.label>Schwanger</Pregnant.label>
-  <Pregnant.comps.0.discoverLetterLabel>{0} schwanger</Pregnant.comps.0.discoverLetterLabel>
-  <Pregnant.comps.0.discoverLetterText>{0} ist schwanger!</Pregnant.comps.0.discoverLetterText>
-  <Pregnant.stages.0.label>Erstes Trimester-versteckt</Pregnant.stages.0.label>
-  <Pregnant.stages.1.label>Zweites Trimester</Pregnant.stages.1.label>
-  <Pregnant.stages.2.label>Drittes Trimester</Pregnant.stages.2.label>
+  <Pregnant.label>terhesség</Pregnant.label>
+  <Pregnant.comps.0.discoverLetterLabel>{0} terhes</Pregnant.comps.0.discoverLetterLabel>
+  <Pregnant.comps.0.discoverLetterText>{0} terhes!</Pregnant.comps.0.discoverLetterText>
+  <Pregnant.stages.0.label>első trimeszter rejtett</Pregnant.stages.0.label>
+  <Pregnant.stages.1.label>második trimeszter</Pregnant.stages.1.label>
+  <Pregnant.stages.2.label>harmadik trimeszter</Pregnant.stages.2.label>
 
-  <HeartAttack.label>Herzinfarkt</HeartAttack.label>
-  <HeartAttack.stages.0.label>schmerzhaft</HeartAttack.stages.0.label>
-  <HeartAttack.stages.1.label>schwächend</HeartAttack.stages.1.label>
-  <HeartAttack.stages.2.label>tödlich</HeartAttack.stages.2.label>
+  <HeartAttack.label>szívroham</HeartAttack.label>
+  <HeartAttack.stages.0.label>fájdalmas</HeartAttack.stages.0.label>
+  <HeartAttack.stages.1.label>legyengítő</HeartAttack.stages.1.label>
+  <HeartAttack.stages.2.label>halálos</HeartAttack.stages.2.label>
   
 </LanguageData>

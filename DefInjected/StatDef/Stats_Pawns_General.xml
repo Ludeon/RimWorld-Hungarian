@@ -20,10 +20,10 @@
   <EatingSpeed.description>Milyen gyorsan képes a személy enni.</EatingSpeed.description>
 
   <ComfyTemperatureMin.label>min. optimális hőmérséklet</ComfyTemperatureMin.label>
-  <ComfyTemperatureMin.description>E hőmérséklet alatt a személy rosszul érzi magát. Szignifikánsan a hőmérséklet alatt hipotermia alakul ki, majd fagyás, ami halálhoz vezet.</ComfyTemperatureMin.description>
+  <ComfyTemperatureMin.description>E hőmérséklet alatt a személy rosszul érzi magát. Szignifikánsan e hőmérséklet alatt hipotermia alakul ki, majd fagyás, ami halálhoz vezet.</ComfyTemperatureMin.description>
 
   <ComfyTemperatureMax.label>max. optimális hőmérséklet</ComfyTemperatureMax.label>
-  <ComfyTemperatureMax.description>E hőmérséklet felett a személy rosszul érzi magát. Szignifikánsan a hőmérséklet felett hőguta alakul ki, ami halálhoz vezet.</ComfyTemperatureMax.description>
+  <ComfyTemperatureMax.description>E hőmérséklet felett a személy rosszul érzi magát. Szignifikánsan e hőmérséklet felett hőguta alakul ki, ami halálhoz vezet.</ComfyTemperatureMax.description>
 
   <ImmunityGainSpeed.label>immunitás elérési sebesség</ImmunityGainSpeed.label>
   <ImmunityGainSpeed.description>Az a sebesség, amivel a személy immunitást ér el bizonyos betegségre. Ha ez túl alacsony az alany belehal a betegségbe mielőtt immunissá válna.</ImmunityGainSpeed.description>

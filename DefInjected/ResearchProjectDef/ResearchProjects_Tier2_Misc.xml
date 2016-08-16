@@ -4,55 +4,55 @@
   <!--================================ Tier 2: Basic electricity ====================================-->
   
 
-  <Batteries.label>Batterien</Batteries.label>
-  <Batteries.description>Schaltet die Batterien zum Speichern elektrischer Energie frei.</Batteries.description>
+  <Batteries.label>Akkumulátor</Batteries.label>
+  <Batteries.description>Lehetővé teszi akkumulátor építését, amivel elektromos energia tárolható.</Batteries.description>
 
-  <NutrientPaste.label>Nährstoffpasten</NutrientPaste.label>
-  <NutrientPaste.description>Schaltet den Nährstoffpastenspender frei, der es ermöglicht automatisiert essbares aus pflanzlichen Rohstoffen herzustellen.</NutrientPaste.description>
+  <NutrientPaste.label>Tápanyagpaszta</NutrientPaste.label>
+  <NutrientPaste.description>Lehetővé teszi tápanyag ellátó készítését, ami hatékonyan állít elő ehető ételt nyersanyagokból.</NutrientPaste.description>
   
-  <SolarPanels.label>Solarzellen</SolarPanels.label>
-  <SolarPanels.description>Schaltet die Solarzellen frei, mit denen Tagsüber elektrische Energie erzeugt werden kann.</SolarPanels.description>
+  <SolarPanels.label>Napelem</SolarPanels.label>
+  <SolarPanels.description>Lehetővé teszi napelem építését, amivel elektromos áram állítható elő.</SolarPanels.description>
   
-  <AirConditioning.label>Klimaanlagen</AirConditioning.label>
-  <AirConditioning.description>Schaltet die Klimaanlagen frei, mit denen die Wärme und Kälte reguliert werden kann.</AirConditioning.description>
+  <AirConditioning.label>Légkondícionálás</AirConditioning.label>
+  <AirConditioning.description>Lehetővé teszi légkondicionáló egység építését, amivel a szobák hűthetők vagy fagyasztó készíthető.</AirConditioning.description>
   
-  <Autodoors.label>Automatische Türen</Autodoors.label>
-  <Autodoors.description>Schaltet automatische Türen frei, die das Passieren ohne eine Verlangsamung ermöglichen.</Autodoors.description>
+  <Autodoors.label>Automata ajtó</Autodoors.label>
+  <Autodoors.description>Lehetővé teszi automata ajtó építését, ami nem lassítja le a gyarmatosok áthaladását.</Autodoors.description>
 
-  <Hydroponics.label>Hydrokulturen</Hydroponics.label>
-  <Hydroponics.description>Schaltet Hydrokulturbecken frei. Dies ermöglicht den Anbau von Pflanzen innerhalb von Gebäuden, unabhängig von äußeren Einflüssen.</Hydroponics.description>
+  <Hydroponics.label>Hidroponikus növénytermesztés</Hydroponics.label>
+  <Hydroponics.description>Lehetővé teszi hidroponikus farm építését, ami gyorsan termeszti a növényeket beltérben, attól függetlenül, hogy kint milyen a talaj vagy az időjárás.</Hydroponics.description>
   
-  <ElectricSmelting.label>Elektr. Schmelzofen</ElectricSmelting.label>
-  <ElectricSmelting.description>Schaltet den elektrischen Schmelzofen frei. Dieser ermöglichen durch die Verwendung von Wärme und starken Elektromagneten, selbst Schlackebrocken in wertvolles Baumaterial zu verwandeln.</ElectricSmelting.description>
+  <ElectricSmelting.label>Elektromos kohó</ElectricSmelting.label>
+  <ElectricSmelting.description>Lehetővé teszi elektromos kohó és kovácsműhely építését. Az elektromos kovácsműhelyben üzemanyag nélkül is dolgozhatsz. Az elektromos kohó erős elektromágnest használ, hogy kivonja az értékes fémet a salakból és más tárgyakból.</ElectricSmelting.description>
 
-  <ElectricCremation.label>Feuerbestattung</ElectricCremation.label>
-  <ElectricCremation.description>Schaltet das Krematorium frei. Hier können Leichen und Gegenstände verbrannt werden.</ElectricCremation.description>
+  <ElectricCremation.label>Elektromos krematórium</ElectricCremation.label>
+  <ElectricCremation.description>Lehetővé teszi krematórium építését, ahol elhamvasztható akár tetem vagy felesleges ruházat is.</ElectricCremation.description>
 
-  <ColoredLights.label>Farbige Beleuchtung</ColoredLights.label>
-  <ColoredLights.description>Schaltet farbige Lampen zur Dekoration frei.</ColoredLights.description>
+  <ColoredLights.label>Színes lámpa</ColoredLights.label>
+  <ColoredLights.description>Lehetővé teszi színes lámpa építését, ami remek dekoráció.</ColoredLights.description>
   
-  <Machining.label>Mechanik</Machining.label>
-  <Machining.description>Schaltet die Mechanikwerkbank frei. Hier können Schusswaffen und andere Maschinen hergestellt, sowie Mechanoiden in ihre Einzelteile zerlegt werden.</Machining.description>
+  <Machining.label>Műszerész</Machining.label>
+  <Machining.description>Lehetővé teszi műszerészasztal építését, ahol fegyverek és szerszámok készíthetők, illetve mechanoidok szerelhetők szét.</Machining.description>
 
-  <Mortars.label>Mörser</Mortars.label>
-  <Mortars.description>Schaltet den Mörser frei. Dieser ermöglicht den Beschuss weit entfernter Ziele.</Mortars.description>
+  <Mortars.label>Tarack</Mortars.label>
+  <Mortars.description>Lehetővé teszi tarack építését, amivel messzire juttathatsz lövedékeket, akár falakon túl is.</Mortars.description>
 
-  <IEDBomb.label>Improvisierter Sprengsatz</IEDBomb.label>
-  <IEDBomb.description>Schaltet den improvisierten Sprengsatz frei. Dieses ist eine selbstgebaute Falle aus Artilleriegeschossen.</IEDBomb.description>
+  <IEDBomb.label>Rögtönzött robbanószer</IEDBomb.label>
+  <IEDBomb.description>Lehetővé teszi rögtönzött robbanószerkezet (csapda) építését ágyúlövedékből.</IEDBomb.description>
 
-  <IEDIncendiary.label>Improvisierte Brandbombe</IEDIncendiary.label>
-  <IEDIncendiary.description>Schaltet den improvisierten Brandsatz frei. Dieses ist eine selbstgebaute Falle aus Artilleriegeschossen.</IEDIncendiary.description>
+  <IEDIncendiary.label>Rögtönzött gyújtóbomba</IEDIncendiary.label>
+  <IEDIncendiary.description>Lehetővé teszi rögtönzött gyújtóbomba (csapda) építését ágyúlövedékből.</IEDIncendiary.description>
 
-  <MicroelectronicsBasics.label>Grundlagen Mikroelektronik</MicroelectronicsBasics.label>
-  <MicroelectronicsBasics.description>Die Grundlagen um mit komplexer Elektronik zu arbeiten. Dieses schaltet den High-Tech Labortisch, die Funkanlage sowie weitere Forschungsprojekte, wie den Röhrenfernseher und die Kryoschlafkapseln frei.</MicroelectronicsBasics.description>
+  <MicroelectronicsBasics.label>Mikroelektronika</MicroelectronicsBasics.label>
+  <MicroelectronicsBasics.description>Az érzékeny és bonyolult elektronikai eszközökkel való munka alapjai. Ez engedélyezi a fejlett laborasztal és a kommunikációs konzol építését. Lehetővé tesz más kutatási projekteket is, mint pl. a képcsöves tévé vagy a hibernáló kapszula.</MicroelectronicsBasics.description>
 
   <!--=============================== Tier 2.5 Microelectronics ===================================-->
 
-  <TubeTelevision.label>Röhrenfernseher</TubeTelevision.label>
-  <TubeTelevision.description>Schaltet Röhrenfernseher frei.</TubeTelevision.description>
+  <TubeTelevision.label>Képcsöves tévé</TubeTelevision.label>
+  <TubeTelevision.description>Lehetővé teszi képcsöves tévék gyártását.</TubeTelevision.description>
 
-  <GunTurrets.label>Autom. Geschütze</GunTurrets.label>
-  <GunTurrets.description>Erlaubt die Produktion von automatischen Geschützen.</GunTurrets.description>
+  <GunTurrets.label>Robotágyú</GunTurrets.label>
+  <GunTurrets.description>Lehetővé teszi automata robotágyú gyártását.</GunTurrets.description>
 
   <!-- Cut misc -->
 
