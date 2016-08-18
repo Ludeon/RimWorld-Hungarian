@@ -84,7 +84,7 @@
   <BeaversArrived>Egy csapat éhes alfahód érkezett.\n\nPróbáld kiiktatni őket, mielőtt megesznek minden fát.</BeaversArrived>
   
   <!-- Refugee chased -->
-  <RefugeeChasedInitial>Egy {0} nevű {1} hív a közelből. A neve {2} és üldözik a {3} frakcióból!\n\nMenedékért könyörög és felajánlja, hogy csatlakozik hozzád. Biológiailag {4} éves.\n\nFigyelem - ha befogadod, el kell kergetned az üldözőit.</RefugeeChasedInitial>
+  <RefugeeChasedInitial>Egy {0} nevű {1} hív a közelből. {2} üldözik a {3} frakcióból!\n\nMenedékért könyörög és felajánlja, hogy csatlakozik hozzád. Biológiailag {4} éves.\n\nFigyelem - ha befogadod, el kell kergetned az üldözőit.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Befogad</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Figyelmen kívül hagy</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} pánikba esve üvölt a rádióból, ahogy megszakítod az adást.</RefugeeChasedRejected>
@@ -100,7 +100,7 @@
   <LetterFarmAnimalsWanderIn>Egy csapat elhagyott vagy elveszett {0} kóborolt a környékre.\n\nÚgy tűnik megszokták az ember közelségét és csatlakoznak a kolóniához.</LetterFarmAnimalsWanderIn>
   
   <!-- Thrumbo passes -->
-  <LetterLabelThrumboPasses>Ritka thrumbo-k</LetterLabelThrumboPasses>
+  <LetterLabelThrumboPasses>Ritka thrumbok</LetterLabelThrumboPasses>
   <LetterThrumboPasses>Egy kis csorda trumbo kóborol a környéken.\n\nBár békés természetűek, ezek a ritka állatok nagyon veszélyesek, ha szembeszállnak velük. Némely kereskedők sokat fizetnek a bőrükért és szarvukért.\n\nPár napig maradnak a környéken.</LetterThrumboPasses>
   
   <!-- Trader caravan -->
