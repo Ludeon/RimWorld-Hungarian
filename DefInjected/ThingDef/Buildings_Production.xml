@@ -6,7 +6,7 @@
   
   <!-- ========================= Work tables ==========================-->
 
-  <TableSculpting.label>szobrászasztal</TableSculpting.label>
+  <TableSculpting.label>szobrász asztal</TableSculpting.label>
   <TableSculpting.description>Munkaasztal művészi faragványok készítéséhez.</TableSculpting.description>
   
   <TableButcher.label>hastok</TableButcher.label>
@@ -24,7 +24,7 @@
   <ElectricSmithy.label>kovácstűzhely (elektromos)</ElectricSmithy.label>
   <ElectricSmithy.description>Elektromos fűtésű munkaállomás nem mechanikus szerszámok és fegyverek készítéséhez.</ElectricSmithy.description>
 
-  <TableMachining.label>műszerészasztal</TableMachining.label>
+  <TableMachining.label>műszerész asztal</TableMachining.label>
   <TableMachining.description>Munkaállomás gépek, fegyverek és mechanoid testek szét-, és összeszereléséhez.</TableMachining.description>
 
   <ElectricStove.label>tűzhely (elektromos)</ElectricStove.label>
@@ -33,7 +33,7 @@
   <FueledStove.label>tűzhely (fatüzelés)</FueledStove.label>
   <FueledStove.description>Fatüzelésű tűzhely és pult ételek készítéséhez.</FueledStove.description>
 
-  <TableStonecutter.label>kőfaragóasztal</TableStonecutter.label>
+  <TableStonecutter.label>kőfaragó asztal</TableStonecutter.label>
   <TableStonecutter.description>Asztal, amin nyers kövekből hasznos építőanyag készíthető.</TableStonecutter.description>
 
   <Brewery.label>sörfőzde</Brewery.label>
@@ -42,7 +42,7 @@
   <ElectricSmelter.label>kohó (elektromos)</ElectricSmelter.label>
   <ElectricSmelter.description>Kivonja a fémet a törmelékből és egyéb tárgyakból. Sok áramot fogyaszt.</ElectricSmelter.description>
 
-  <ComponentAssemblyBench.label>alkatrész-összeszerelő</ComponentAssemblyBench.label>
+  <ComponentAssemblyBench.label>alkatrész összeszerelő</ComponentAssemblyBench.label>
   <ComponentAssemblyBench.description>Munkaállomás fejlett eszközökkel, amikkel egyszerű anyagokból alkatrész készíthető.</ComponentAssemblyBench.description>
 
   <!-- ========== Non-standard work buildings ==============-->
@@ -61,11 +61,11 @@
 
   <!--======================== Nutrient dispenser ==============================-->
   
-  <NutrientPasteDispenser.label>tápanyag-pépesítő</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.label>tápanyag pépesítő</NutrientPasteDispenser.label>
   <NutrientPasteDispenser.description>Tápanyagpépet állít elő organikus anyagokból. Kevesebb hozzávalót és időt igényel bármelyik másik ételkészítési módszernél, de senki sem szereti a végeredményt. Nyers ételt bevesz, de erősebb rostú növényi részeket (pl. széna) nem.</NutrientPasteDispenser.description>
 
   <Hopper.label>adagoló</Hopper.label>
-  <Hopper.description>Alapanyagokat tárol és adagol más gépeknek, mint például a tápanyag-pépesítő.</Hopper.description>
+  <Hopper.description>Alapanyagokat tárol és adagol más gépeknek, mint például a tápanyag pépesítő.</Hopper.description>
 
   <!-- Work tables -->
   
