@@ -4,8 +4,8 @@
   <!-- ============= Firefighter ============= -->
   
   <FightFires.label>tüzet olt</FightFires.label>
-  <FightFires.verb>olt</FightFires.verb>
-  <FightFires.gerund>oltja</FightFires.gerund>
+  <FightFires.verb>oltani</FightFires.verb>
+  <FightFires.gerund>oltás</FightFires.gerund>
   
   <!-- ============= PatientEmergency ============= -->
   
@@ -16,288 +16,288 @@
   <!-- ============= Doctor ============= -->
   
   <DoctorTreatEmergency.label>sürgősségi ellátást ad</DoctorTreatEmergency.label>
-  <DoctorTreatEmergency.verb>ellát</DoctorTreatEmergency.verb>
-  <DoctorTreatEmergency.gerund>ellátja</DoctorTreatEmergency.gerund>
+  <DoctorTreatEmergency.verb>ellátni</DoctorTreatEmergency.verb>
+  <DoctorTreatEmergency.gerund>ellátás</DoctorTreatEmergency.gerund>
   
   <DoctorRescue.label>eszméletlen személyt betegágyba visz</DoctorRescue.label>
-  <DoctorRescue.verb>megment</DoctorRescue.verb>
-  <DoctorRescue.gerund>megmenti</DoctorRescue.gerund>
+  <DoctorRescue.verb>megmenteni</DoctorRescue.verb>
+  <DoctorRescue.gerund>megmentés</DoctorRescue.gerund>
   
   <DoBillsMedicalHumanOperation.label>beteget műt</DoBillsMedicalHumanOperation.label>
-  <DoBillsMedicalHumanOperation.verb>műt</DoBillsMedicalHumanOperation.verb>
-  <DoBillsMedicalHumanOperation.gerund>műti</DoBillsMedicalHumanOperation.gerund>
+  <DoBillsMedicalHumanOperation.verb>műteni</DoBillsMedicalHumanOperation.verb>
+  <DoBillsMedicalHumanOperation.gerund>műtés</DoBillsMedicalHumanOperation.gerund>
   
   <DoBillsMedicalAnimalOperation.label>állatot műt</DoBillsMedicalAnimalOperation.label>
-  <DoBillsMedicalAnimalOperation.verb>műt</DoBillsMedicalAnimalOperation.verb>
-  <DoBillsMedicalAnimalOperation.gerund>műti</DoBillsMedicalAnimalOperation.gerund>
+  <DoBillsMedicalAnimalOperation.verb>műteni</DoBillsMedicalAnimalOperation.verb>
+  <DoBillsMedicalAnimalOperation.gerund>műtés</DoBillsMedicalAnimalOperation.gerund>
 
   <DoctorTreat.label>ellátást ad</DoctorTreat.label>
-  <DoctorTreat.verb>ellát</DoctorTreat.verb>
-  <DoctorTreat.gerund>ellátja</DoctorTreat.gerund>
+  <DoctorTreat.verb>ellátni</DoctorTreat.verb>
+  <DoctorTreat.gerund>ellátás</DoctorTreat.gerund>
   
   <DoctorFeed.label>pácienst etet</DoctorFeed.label>
-  <DoctorFeed.verb>etet</DoctorFeed.verb>
-  <DoctorFeed.gerund>eteti</DoctorFeed.gerund>
+  <DoctorFeed.verb>etetni</DoctorFeed.verb>
+  <DoctorFeed.gerund>etetés</DoctorFeed.gerund>
   
   <TakeToBedToOperate.label>pácienst műtőbe visz</TakeToBedToOperate.label>
-  <TakeToBedToOperate.verb>műtőbe visz</TakeToBedToOperate.verb>
-  <TakeToBedToOperate.gerund>műtőbe viszi</TakeToBedToOperate.gerund>
+  <TakeToBedToOperate.verb>műtőbe vinni</TakeToBedToOperate.verb>
+  <TakeToBedToOperate.gerund>műtőbe vitel</TakeToBedToOperate.gerund>
   
   <VisitSickPawn.label>beteget meglátogat</VisitSickPawn.label>
-  <VisitSickPawn.verb>meglátogat</VisitSickPawn.verb>
-  <VisitSickPawn.gerund>meglátogatja</VisitSickPawn.gerund>
+  <VisitSickPawn.verb>meglátogatni</VisitSickPawn.verb>
+  <VisitSickPawn.gerund>meglátogatás</VisitSickPawn.gerund>
   
   <!-- ============= PatientBedRest ============= -->
   
   <PatientGoToBed.label>ágyban lábadozik</PatientGoToBed.label>
-  <PatientGoToBed.verb>lábadozik</PatientGoToBed.verb>
-  <PatientGoToBed.gerund>lábadozza</PatientGoToBed.gerund>
+  <PatientGoToBed.verb>lábadozni</PatientGoToBed.verb>
+  <PatientGoToBed.gerund>lábadozás</PatientGoToBed.gerund>
   
   <!-- ============= Flicker ============= -->
 
   <Flick.label>kapcsolót vált át</Flick.label>
-  <Flick.verb>átkapcsol</Flick.verb>
-  <Flick.gerund>átkapcsolja</Flick.gerund>
+  <Flick.verb>átkapcsolni</Flick.verb>
+  <Flick.gerund>átkapcsolás</Flick.gerund>
 
   <!-- ============= Warden ============= -->
 
   <DoExecution.label>kivégez</DoExecution.label>
-  <DoExecution.verb>kivégez</DoExecution.verb>
-  <DoExecution.gerund>kivégzi</DoExecution.gerund>
+  <DoExecution.verb>kivégezni</DoExecution.verb>
+  <DoExecution.gerund>kivégzés</DoExecution.gerund>
   
   <ReleasePrisoner.label>szabadon enged</ReleasePrisoner.label>
-  <ReleasePrisoner.verb>elenged</ReleasePrisoner.verb>
-  <ReleasePrisoner.gerund>elengedi</ReleasePrisoner.gerund>
+  <ReleasePrisoner.verb>elengedni</ReleasePrisoner.verb>
+  <ReleasePrisoner.gerund>elengedés</ReleasePrisoner.gerund>
   
   <TakePrisonerToBed.label>foglyot betegágyba visz</TakePrisonerToBed.label>
-  <TakePrisonerToBed.verb>megment</TakePrisonerToBed.verb>
-  <TakePrisonerToBed.gerund>megmenti</TakePrisonerToBed.gerund>
+  <TakePrisonerToBed.verb>megmenteni</TakePrisonerToBed.verb>
+  <TakePrisonerToBed.gerund>megmentés</TakePrisonerToBed.gerund>
   
   <FeedPrisoner.label>foglyot etet</FeedPrisoner.label>
-  <FeedPrisoner.verb>etet</FeedPrisoner.verb>
-  <FeedPrisoner.gerund>eteti</FeedPrisoner.gerund>
+  <FeedPrisoner.verb>etetni</FeedPrisoner.verb>
+  <FeedPrisoner.gerund>etetés</FeedPrisoner.gerund>
   
   <DeliverFoodToPrisoner.label>fogolynak ételt visz</DeliverFoodToPrisoner.label>
-  <DeliverFoodToPrisoner.verb>ételt visz</DeliverFoodToPrisoner.verb>
-  <DeliverFoodToPrisoner.gerund>ételt viszi</DeliverFoodToPrisoner.gerund>
+  <DeliverFoodToPrisoner.verb>ételt vinni</DeliverFoodToPrisoner.verb>
+  <DeliverFoodToPrisoner.gerund>étel vitel</DeliverFoodToPrisoner.gerund>
   
   <ChatWithPrisoner.label>fogollyal beszélget</ChatWithPrisoner.label>
-  <ChatWithPrisoner.verb>beszélget</ChatWithPrisoner.verb>
-  <ChatWithPrisoner.gerund>beszélget vele</ChatWithPrisoner.gerund>
+  <ChatWithPrisoner.verb>beszélgetni</ChatWithPrisoner.verb>
+  <ChatWithPrisoner.gerund>beszélgetés vele</ChatWithPrisoner.gerund>
 
   <!-- ============= Handling ============= -->
 
   <Slaughter.label>állatot öl le</Slaughter.label>
-  <Slaughter.verb>leöl</Slaughter.verb>
-  <Slaughter.gerund>leöli</Slaughter.gerund>
+  <Slaughter.verb>leölni</Slaughter.verb>
+  <Slaughter.gerund>leölés</Slaughter.gerund>
   
   <Milk.label>tejet fej</Milk.label>
-  <Milk.verb>fej</Milk.verb>
-  <Milk.gerund>feji</Milk.gerund>
+  <Milk.verb>fejni</Milk.verb>
+  <Milk.gerund>fejés</Milk.gerund>
   
   <Shear.label>állatot nyír</Shear.label>
-  <Shear.verb>nyír</Shear.verb>
-  <Shear.gerund>nyírja</Shear.gerund>
+  <Shear.verb>nyírni</Shear.verb>
+  <Shear.gerund>nyírjás</Shear.gerund>
   
   <Tame.label>állatot szelídít</Tame.label>
-  <Tame.verb>szelídít</Tame.verb>
-  <Tame.gerund>szelídíti</Tame.gerund>
+  <Tame.verb>szelídíteni</Tame.verb>
+  <Tame.gerund>szelídítés</Tame.gerund>
   
   <Train.label>állatot idomít</Train.label>
-  <Train.verb>idomít</Train.verb>
-  <Train.gerund>idomítja</Train.gerund>
+  <Train.verb>idomítani</Train.verb>
+  <Train.gerund>idomítás</Train.gerund>
   
   <!-- ============= Cooking ============= -->
 
   <DoBillsCook.label>tűzhelyen ételt főz</DoBillsCook.label>
-  <DoBillsCook.verb>főz</DoBillsCook.verb>
-  <DoBillsCook.gerund>főzi</DoBillsCook.gerund>
+  <DoBillsCook.verb>főzni</DoBillsCook.verb>
+  <DoBillsCook.gerund>főzés</DoBillsCook.gerund>
   
   <DoBillsCookCampfire.label>tábortűznél ételt főz</DoBillsCookCampfire.label>
-  <DoBillsCookCampfire.verb>főz</DoBillsCookCampfire.verb>
-  <DoBillsCookCampfire.gerund>főzi</DoBillsCookCampfire.gerund>
+  <DoBillsCookCampfire.verb>főzni</DoBillsCookCampfire.verb>
+  <DoBillsCookCampfire.gerund>főzés</DoBillsCookCampfire.gerund>
   
   <DoBillsBrew.label>sört főz</DoBillsBrew.label>
-  <DoBillsBrew.verb>főz</DoBillsBrew.verb>
-  <DoBillsBrew.gerund>főzi</DoBillsBrew.gerund>
+  <DoBillsBrew.verb>főzni</DoBillsBrew.verb>
+  <DoBillsBrew.gerund>főzés</DoBillsBrew.gerund>
   
   <DoBillsButcherFlesh.label>állatot öl le</DoBillsButcherFlesh.label>
-  <DoBillsButcherFlesh.verb>leöl</DoBillsButcherFlesh.verb>
-  <DoBillsButcherFlesh.gerund>leöli</DoBillsButcherFlesh.gerund>
+  <DoBillsButcherFlesh.verb>leölni</DoBillsButcherFlesh.verb>
+  <DoBillsButcherFlesh.gerund>leölés</DoBillsButcherFlesh.gerund>
   
   <CookFillHopper.label>adagolót tölt</CookFillHopper.label>
-  <CookFillHopper.verb>tölt</CookFillHopper.verb>
-  <CookFillHopper.gerund>tölti</CookFillHopper.gerund>
+  <CookFillHopper.verb>tölteni</CookFillHopper.verb>
+  <CookFillHopper.gerund>töltés</CookFillHopper.gerund>
   
   <!-- ============= Hunting ============= -->
   
   <HunterHunt.label>vadászik</HunterHunt.label>
-  <HunterHunt.verb>vadászik</HunterHunt.verb>
-  <HunterHunt.gerund>vadássza</HunterHunt.gerund>
+  <HunterHunt.verb>vadászni</HunterHunt.verb>
+  <HunterHunt.gerund>vadászat</HunterHunt.gerund>
   
   <!-- ============= Construction ============= -->
 
   <Deconstruct.label>épületet lebont</Deconstruct.label>
-  <Deconstruct.verb>lebont</Deconstruct.verb>
-  <Deconstruct.gerund>lebontja</Deconstruct.gerund>
+  <Deconstruct.verb>lebontani</Deconstruct.verb>
+  <Deconstruct.gerund>lebontás</Deconstruct.gerund>
   
   <Uninstall.label>épületet leszerel</Uninstall.label>
-  <Uninstall.verb>leszerel</Uninstall.verb>
-  <Uninstall.gerund>leszereli</Uninstall.gerund>
+  <Uninstall.verb>leszerelni</Uninstall.verb>
+  <Uninstall.gerund>leszerelés</Uninstall.gerund>
   
   <ConstructFinishFrames.label>alapot kiépít</ConstructFinishFrames.label>
-  <ConstructFinishFrames.verb>kiépít</ConstructFinishFrames.verb>
-  <ConstructFinishFrames.gerund>kiépíti</ConstructFinishFrames.gerund>
+  <ConstructFinishFrames.verb>kiépíteni</ConstructFinishFrames.verb>
+  <ConstructFinishFrames.gerund>kiépítés</ConstructFinishFrames.gerund>
   
   <ConstructDeliverResourcesToFrames.label>alaphoz anyagot visz</ConstructDeliverResourcesToFrames.label>
-  <ConstructDeliverResourcesToFrames.verb>visz</ConstructDeliverResourcesToFrames.verb>
-  <ConstructDeliverResourcesToFrames.gerund>viszi</ConstructDeliverResourcesToFrames.gerund>
+  <ConstructDeliverResourcesToFrames.verb>vinni</ConstructDeliverResourcesToFrames.verb>
+  <ConstructDeliverResourcesToFrames.gerund>vitel</ConstructDeliverResourcesToFrames.gerund>
   
   <ConstructDeliverResourcesToBlueprints.label>alaphoz anyagot visz</ConstructDeliverResourcesToBlueprints.label>
-  <ConstructDeliverResourcesToBlueprints.verb>visz</ConstructDeliverResourcesToBlueprints.verb>
-  <ConstructDeliverResourcesToBlueprints.gerund>viszi</ConstructDeliverResourcesToBlueprints.gerund>
+  <ConstructDeliverResourcesToBlueprints.verb>vinni</ConstructDeliverResourcesToBlueprints.verb>
+  <ConstructDeliverResourcesToBlueprints.gerund>vitel</ConstructDeliverResourcesToBlueprints.gerund>
   
   <BuildRoofs.label>tetőt ácsol</BuildRoofs.label>
-  <BuildRoofs.verb>ácsol</BuildRoofs.verb>
-  <BuildRoofs.gerund>ácsolja</BuildRoofs.gerund>
+  <BuildRoofs.verb>ácsolni</BuildRoofs.verb>
+  <BuildRoofs.gerund>ácsolás</BuildRoofs.gerund>
   
   <RemoveRoofs.label>tetőt bont</RemoveRoofs.label>
-  <RemoveRoofs.verb>bont</RemoveRoofs.verb>
-  <RemoveRoofs.gerund>bontja</RemoveRoofs.gerund>
+  <RemoveRoofs.verb>bontani</RemoveRoofs.verb>
+  <RemoveRoofs.gerund>bontás</RemoveRoofs.gerund>
   
   <ConstructRemoveFloors.label>padlót szed fel</ConstructRemoveFloors.label>
-  <ConstructRemoveFloors.verb>felszed</ConstructRemoveFloors.verb>
-  <ConstructRemoveFloors.gerund>felszedi</ConstructRemoveFloors.gerund>
+  <ConstructRemoveFloors.verb>felszedni</ConstructRemoveFloors.verb>
+  <ConstructRemoveFloors.gerund>felszedés</ConstructRemoveFloors.gerund>
   
   <ConstructSmoothFloors.label>padlót simít</ConstructSmoothFloors.label>
-  <ConstructSmoothFloors.verb>simít</ConstructSmoothFloors.verb>
-  <ConstructSmoothFloors.gerund>simítja</ConstructSmoothFloors.gerund>
+  <ConstructSmoothFloors.verb>simítani</ConstructSmoothFloors.verb>
+  <ConstructSmoothFloors.gerund>simítás</ConstructSmoothFloors.gerund>
   
   <!-- ============= Repair ============= -->
 
   <FixBrokenDownBuilding.label>épületet javít</FixBrokenDownBuilding.label>
-  <FixBrokenDownBuilding.verb>javít</FixBrokenDownBuilding.verb>
-  <FixBrokenDownBuilding.gerund>javítja</FixBrokenDownBuilding.gerund>
+  <FixBrokenDownBuilding.verb>javítani</FixBrokenDownBuilding.verb>
+  <FixBrokenDownBuilding.gerund>javítás</FixBrokenDownBuilding.gerund>
 
   <DoBillsMedicalMechanoidOperation.label>mechanoidot műt</DoBillsMedicalMechanoidOperation.label>
-  <DoBillsMedicalMechanoidOperation.verb>műt</DoBillsMedicalMechanoidOperation.verb>
-  <DoBillsMedicalMechanoidOperation.gerund>műti</DoBillsMedicalMechanoidOperation.gerund>
+  <DoBillsMedicalMechanoidOperation.verb>műteni</DoBillsMedicalMechanoidOperation.verb>
+  <DoBillsMedicalMechanoidOperation.gerund>műtés</DoBillsMedicalMechanoidOperation.gerund>
   
   <Repair.label>tárgyat javít</Repair.label>
-  <Repair.verb>javít</Repair.verb>
-  <Repair.gerund>javítja</Repair.gerund>
+  <Repair.verb>javítani</Repair.verb>
+  <Repair.gerund>javítás</Repair.gerund>
   
   <!-- ============= Growing ============= -->
 
   <GrowerHarvest.label>termést arat</GrowerHarvest.label>
-  <GrowerHarvest.verb>arat</GrowerHarvest.verb>
-  <GrowerHarvest.gerund>aratja</GrowerHarvest.gerund>
+  <GrowerHarvest.verb>aratni</GrowerHarvest.verb>
+  <GrowerHarvest.gerund>aratás</GrowerHarvest.gerund>
   
   <GrowerSow.label>magot vet</GrowerSow.label>
-  <GrowerSow.verb>vet</GrowerSow.verb>
-  <GrowerSow.gerund>veti</GrowerSow.gerund>
+  <GrowerSow.verb>vetni</GrowerSow.verb>
+  <GrowerSow.gerund>vetés</GrowerSow.gerund>
   
   <!-- ============= Mining ============= -->
 
   <Mine.label>bányászik</Mine.label>
-  <Mine.verb>bányászik</Mine.verb>
-  <Mine.gerund>bányássza</Mine.gerund>
+  <Mine.verb>bányászni</Mine.verb>
+  <Mine.gerund>bányászat</Mine.gerund>
   
   <!-- ============= PlantCutting ============= -->
   
   <PlantsCut.label>növényt vág</PlantsCut.label>
-  <PlantsCut.verb>vág</PlantsCut.verb>
-  <PlantsCut.gerund>vágja</PlantsCut.gerund>
+  <PlantsCut.verb>vágni</PlantsCut.verb>
+  <PlantsCut.gerund>vágás</PlantsCut.gerund>
   
   <!-- ============= Smithing ============= -->
   
   <DoBillsMakeWeapons.label>fegyvert gyárt</DoBillsMakeWeapons.label>
-  <DoBillsMakeWeapons.verb>gyárt</DoBillsMakeWeapons.verb>
-  <DoBillsMakeWeapons.gerund>gyártja</DoBillsMakeWeapons.gerund>
+  <DoBillsMakeWeapons.verb>gyártani</DoBillsMakeWeapons.verb>
+  <DoBillsMakeWeapons.gerund>gyártás</DoBillsMakeWeapons.gerund>
 
   <DoBillsMachiningTable.label>műszerészasztalnál gyárt</DoBillsMachiningTable.label>
-  <DoBillsMachiningTable.verb>gyárt</DoBillsMachiningTable.verb>
-  <DoBillsMachiningTable.gerund>gyártja</DoBillsMachiningTable.gerund>
+  <DoBillsMachiningTable.verb>gyártani</DoBillsMachiningTable.verb>
+  <DoBillsMachiningTable.gerund>gyártás</DoBillsMachiningTable.gerund>
   
   <DoBillsComponentAssemblyBench.label>alkatrészt gyárt</DoBillsComponentAssemblyBench.label>
-  <DoBillsComponentAssemblyBench.verb>gyárt</DoBillsComponentAssemblyBench.verb>
-  <DoBillsComponentAssemblyBench.gerund>gyártja</DoBillsComponentAssemblyBench.gerund>
+  <DoBillsComponentAssemblyBench.verb>gyártani</DoBillsComponentAssemblyBench.verb>
+  <DoBillsComponentAssemblyBench.gerund>gyártás</DoBillsComponentAssemblyBench.gerund>
   
   <!-- ============= Tailoring ============= -->
   
   <DoBillsMakeApparel.label>ruhát varr</DoBillsMakeApparel.label>
-  <DoBillsMakeApparel.verb>varr</DoBillsMakeApparel.verb>
-  <DoBillsMakeApparel.gerund>varrja</DoBillsMakeApparel.gerund>
+  <DoBillsMakeApparel.verb>varrni</DoBillsMakeApparel.verb>
+  <DoBillsMakeApparel.gerund>varrás</DoBillsMakeApparel.gerund>
   
   <!-- ============= Art ============= -->
   
   <DoBillsSculpt.label>műtárgyat készít</DoBillsSculpt.label>
-  <DoBillsSculpt.verb>készít</DoBillsSculpt.verb>
-  <DoBillsSculpt.gerund>készíti</DoBillsSculpt.gerund>
+  <DoBillsSculpt.verb>készíteni</DoBillsSculpt.verb>
+  <DoBillsSculpt.gerund>készítés</DoBillsSculpt.gerund>
   
   <!-- ============= Crafting ============= -->
   
   <DoBillsUseCraftingSpot.label>munkahelyen gyárt</DoBillsUseCraftingSpot.label>
-  <DoBillsUseCraftingSpot.verb>gyárt</DoBillsUseCraftingSpot.verb>
-  <DoBillsUseCraftingSpot.gerund>gyártja</DoBillsUseCraftingSpot.gerund>
+  <DoBillsUseCraftingSpot.verb>gyártani</DoBillsUseCraftingSpot.verb>
+  <DoBillsUseCraftingSpot.gerund>gyártás</DoBillsUseCraftingSpot.gerund>
 
   <DoBillsStonecut.label>követ farag</DoBillsStonecut.label>
-  <DoBillsStonecut.verb>farag</DoBillsStonecut.verb>
-  <DoBillsStonecut.gerund>faragja</DoBillsStonecut.gerund>
+  <DoBillsStonecut.verb>faragni</DoBillsStonecut.verb>
+  <DoBillsStonecut.gerund>faragás</DoBillsStonecut.gerund>
 
   <DoBillsSmelter.label>kohóban beolvaszt</DoBillsSmelter.label>
-  <DoBillsSmelter.verb>beolvaszt</DoBillsSmelter.verb>
-  <DoBillsSmelter.gerund>beolvasztja</DoBillsSmelter.gerund>
+  <DoBillsSmelter.verb>beolvasztani</DoBillsSmelter.verb>
+  <DoBillsSmelter.gerund>beolvasztás</DoBillsSmelter.gerund>
   
   <!-- ============= Hauling ============= -->
   
   <Refuel.label>feltölt</Refuel.label>
-  <Refuel.verb>feltölt</Refuel.verb>
-  <Refuel.gerund>feltölti</Refuel.gerund>
+  <Refuel.verb>feltölteni</Refuel.verb>
+  <Refuel.gerund>feltöltés</Refuel.gerund>
   
   <RearmTraps.label>csapdát újraélesít</RearmTraps.label>
-  <RearmTraps.verb>újraélesít</RearmTraps.verb>
-  <RearmTraps.gerund>újraélesíti</RearmTraps.gerund>
+  <RearmTraps.verb>újraélesíteni</RearmTraps.verb>
+  <RearmTraps.gerund>újraélesítés</RearmTraps.gerund>
   
   <Strip.label>levetkőztet</Strip.label>
-  <Strip.verb>levetkőztet</Strip.verb>
-  <Strip.gerund>levetkőzteti</Strip.gerund>
+  <Strip.verb>levetkőztetni</Strip.verb>
+  <Strip.gerund>levetkőztetés</Strip.gerund>
   
   <Open.label>tárolót kinyit</Open.label>
-  <Open.verb>kinyit</Open.verb>
-  <Open.gerund>kinyitja</Open.gerund>
+  <Open.verb>kinyitni</Open.verb>
+  <Open.gerund>kinyitás</Open.gerund>
   
   <DoBillsCremate.label>tetemet hamvaszt</DoBillsCremate.label>
-  <DoBillsCremate.verb>hamvaszt</DoBillsCremate.verb>
-  <DoBillsCremate.gerund>hamvasztja</DoBillsCremate.gerund>
+  <DoBillsCremate.verb>hamvasztani</DoBillsCremate.verb>
+  <DoBillsCremate.gerund>hamvasztás</DoBillsCremate.gerund>
   
   <BuryCorpses.label>tetemet eltemet</BuryCorpses.label>
-  <BuryCorpses.verb>eltemet</BuryCorpses.verb>
-  <BuryCorpses.gerund>eltemeti</BuryCorpses.gerund>
+  <BuryCorpses.verb>eltemetni</BuryCorpses.verb>
+  <BuryCorpses.gerund>eltemetés</BuryCorpses.gerund>
   
   <HaulCorpses.label>tetemet cipel</HaulCorpses.label>
-  <HaulCorpses.verb>cipel</HaulCorpses.verb>
-  <HaulCorpses.gerund>cipeli</HaulCorpses.gerund>
+  <HaulCorpses.verb>cipelni</HaulCorpses.verb>
+  <HaulCorpses.gerund>cipelés</HaulCorpses.gerund>
   
   <HaulGeneral.label>mindenfélét cipel</HaulGeneral.label>
-  <HaulGeneral.verb>cipel</HaulGeneral.verb>
-  <HaulGeneral.gerund>cipeli</HaulGeneral.gerund>
+  <HaulGeneral.verb>cipelni</HaulGeneral.verb>
+  <HaulGeneral.gerund>cipelés</HaulGeneral.gerund>
   
   <!-- ============= Cleaning ============= -->
   
   <CleanClearSnow.label>havat lapátol</CleanClearSnow.label>
-  <CleanClearSnow.verb>lapátol</CleanClearSnow.verb>
-  <CleanClearSnow.gerund>lapátolja</CleanClearSnow.gerund>
+  <CleanClearSnow.verb>lapátolni</CleanClearSnow.verb>
+  <CleanClearSnow.gerund>lapátolás</CleanClearSnow.gerund>
   
   <CleanFilth.label>padlót felmos</CleanFilth.label>
-  <CleanFilth.verb>felmos</CleanFilth.verb>
-  <CleanFilth.gerund>felmossa</CleanFilth.gerund>
+  <CleanFilth.verb>felmosni</CleanFilth.verb>
+  <CleanFilth.gerund>felmosás</CleanFilth.gerund>
   
   <!-- ============= Research ============= -->
   
   <Research.label>kutatást végez</Research.label>
-  <Research.verb>kutat</Research.verb>
-  <Research.gerund>kutatja</Research.gerund>
+  <Research.verb>kutatni</Research.verb>
+  <Research.gerund>kutatás</Research.gerund>
 
 
 </LanguageData>

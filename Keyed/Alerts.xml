@@ -44,7 +44,7 @@
   <NeedColonistBedsDesc>Több gyarmatosod van mint ágyad. Valakinek nem lesz hol aludnia.\n\nGyárts több ágyat vagy állíts át börtönágyat normál ággyá.\n\nHa nincs nyersanyagod, az alvóhely ingyen van és azonnal lerakható.</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>Fegyvertelen vadász</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>Egy gyarmatos vadásznak van beosztva, de nincs fegyvere. Fegyver nélkül nem fognak vadászni.\n\nSérülések elkerülése végett javasolt a távolsági fegyverek használata.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>Egy gyarmatos vadásznak van beosztva, de nincs fegyvere. Fegyver nélkül nem fog vadászni.\n\nSérülések elkerülése végett javasolt a távolsági fegyverek használata.</HunterLacksWeaponDesc>
 
   <Starvation>Éhínség</Starvation>
   <StarvationDesc>A következő gyarmatosok éheznek:\n\n{0}\nEtesd meg őket!</StarvationDesc>
@@ -107,7 +107,7 @@
   <AlertHypothermiaDesc>A következő gyarmatosokat fenyegeti kihűlés:\n\n{0}\nBizonyosodj meg róla, hogy a ruházatuk az évszaknak megfelelő és a szobáik fűtöttek.</AlertHypothermiaDesc>
   
   <PatientsAwaitingMedicalOperation>{0} páciens vár orvosi segítségre</PatientsAwaitingMedicalOperation>
-  <PatientsAwaitingMedicalOperationDesc>A következő páciensek várnak operációra:\n\n{0}\nBizonyosodj meg róla, hogy a megfelelő eszközök és orvos rendelkezésre állnak!</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperationDesc>A következő páciensek várnak műtétre:\n\n{0}\nBizonyosodj meg róla, hogy a megfelelő eszközök és orvos rendelkezésre állnak!</PatientsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>TŰZ!</FireInHomeArea>
   <FireInHomeAreaDesc>Tűz a lakókörzetben.</FireInHomeAreaDesc>

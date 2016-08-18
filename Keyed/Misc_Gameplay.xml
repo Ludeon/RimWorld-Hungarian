@@ -147,9 +147,9 @@
   <RecipeMakeJobString>Készít: {0}.</RecipeMakeJobString>
   
   <!-- Thoughts -->
-  <ThoughtExpiresIn>Feledésbe merül: {0}</ThoughtExpiresIn>
-  <ThoughtStartsExpiringIn>Elkezdi elfelejteni: {0}</ThoughtStartsExpiringIn>
-  <ThoughtFinishesExpiringIn>Teljesen elfelejti: {0}</ThoughtFinishesExpiringIn>
+  <ThoughtExpiresIn>Elmúlik: {0}</ThoughtExpiresIn>
+  <ThoughtStartsExpiringIn>Elkezd elmúlni: {0}</ThoughtStartsExpiringIn>
+  <ThoughtFinishesExpiringIn>Teljesen elmúlik: {0}</ThoughtFinishesExpiringIn>
   <MentalBreakThresholdExtreme>Extrém összeomlás küszöbe</MentalBreakThresholdExtreme>
   <MentalBreakThresholdMajor>Súlyos összeomlás küszöbe</MentalBreakThresholdMajor>
   <MentalBreakThresholdMinor>Enyhe összeomlás küszöbe</MentalBreakThresholdMinor>
@@ -166,7 +166,7 @@
   <Carrying>Cipeli</Carrying>
 
   <!-- Inspector general stuff -->
-  <SelectNextInSquareTip>Következő dolog ugyanazon a négyzeten.\n\nGyorsbillentyű: {0}\n\nÚjra kattintva ugyanarra a négyzetre ugyanezt eredményezi.</SelectNextInSquareTip>
+  <SelectNextInSquareTip>Következő dolog ugyanazon a callán.\n\nGyorsbillentyű: {0}\n\nÚjra kattintva ugyanarra a cellára ugyanezt eredményezi.</SelectNextInSquareTip>
   <DefInfoTip>Információ a tárgyról.</DefInfoTip>
   
   <!-- Hostility response -->
@@ -201,8 +201,8 @@
 	<RotStateDessicated>Kiszáradt</RotStateDessicated>
 	
   <!-- Shooting tooltip -->
-  <ShotBy>{0} meglőtte</ShotBy>
-  <CannotHit>Nem találja el a célt.</CannotHit>
+  <ShotBy>{0} lövése</ShotBy>
+  <CannotHit>Nem lőhet rá.</CannotHit>
 
   <!-- Rotting -->
   <CurrentlyFrozen>Fagyott (nem romlik)</CurrentlyFrozen>

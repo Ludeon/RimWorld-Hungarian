@@ -19,7 +19,7 @@
 
   <OrderManThing>{0} működtetése</OrderManThing>
   
-  <MeleeAttack>Támadd puszta kézzel {0}-t</MeleeAttack>
+  <MeleeAttack>Támadd puszta kézzel ezt: {0}</MeleeAttack>
   <MeleeAttackToDeath>Támadd puszta kézzel {0} míg meg nem hal</MeleeAttackToDeath>
   <NoPath>nem megközelíthető</NoPath>
 
@@ -28,7 +28,7 @@
 	<SociallyImproperLower>társadalmilag helytelen</SociallyImproperLower>
   <PrisonerRoomLower>börtönszoba</PrisonerRoomLower>
 	<BurningLower>ég</BurningLower>
-	<NoEmptyPlaceLower>nincs üres tárolóhelyiség</NoEmptyPlaceLower>
+	<NoEmptyPlaceLower>nincs engedélyezett üres hely</NoEmptyPlaceLower>
 	<AlreadyFilledLower>már eléggé tele van</AlreadyFilledLower>
 	<MissingMaterials>nincs elég alapanyag</MissingMaterials>
   <MissingSkill>túl alacsony készség</MissingSkill>
@@ -40,7 +40,7 @@
 	<NoComponentsToRepair>nincs elég alkatrész</NoComponentsToRepair>
 	<NoFuelToRefuel>{0} szükséges</NoFuelToRefuel>
 
-  <ConsumeThing>Elfogyaszt {0}</ConsumeThing>
+  <ConsumeThing>Elfogyaszt: {0}</ConsumeThing>
   <Teetotaler>antialkoholista</Teetotaler>
   
   <CannotGoNoPath>Nem lehet ide eljutni (nem megközelíthető)</CannotGoNoPath>
@@ -107,7 +107,7 @@
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
   <CannotMissingHealthActivities>Nem lehet előre venni (alkalmatlan rá: {0})</CannotMissingHealthActivities>
 
-  <CannotGenericAlreadyAm>Már {0} a {1}-t</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>Már ezt csinálja: {1} {0} </CannotGenericAlreadyAm>
 
   <CannotPrioritizeIsNotA>Nem tudja előre venni ({0} nem {1})</CannotPrioritizeIsNotA>
 
@@ -117,6 +117,6 @@
   <CannotPrioritizeForbiddenOutsideAllowedArea>Nem lehet előre venni ({0} tiltott területen van)</CannotPrioritizeForbiddenOutsideAllowedArea>
   
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-  <PrioritizeGeneric>Vedd előre a {0}-át a {1}-nak</PrioritizeGeneric>
+  <PrioritizeGeneric>Vedd előre: {1} {0}</PrioritizeGeneric>
   
 </LanguageData>
