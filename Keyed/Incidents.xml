@@ -13,16 +13,16 @@
   <MiracleHeal>{0} csodálatos módon felépült!</MiracleHeal>
 
   <!-- Enemy raids -->
-  <EnemyRaidWalkIn>Egy csapat {1} {0} érkezett a közelbe.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>Egy csapat {1} {0} érkezett a közelbe mentőkabinokban.</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>Egy csapat {1} {0} érkezett pontosan a kolóniára!</EnemyRaidCenterDrop>
-  <EnemyRaidLeaderPresent>Az egyik {0} a(z) {1} frakció vezetője.</EnemyRaidLeaderPresent>
+  <EnemyRaidWalkIn>{1} egy csoportja ({0}) érkezett a közelbe.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>{1} egy csoportja ({0}) érkezett a közelbe mentőkabinokban.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>{1} egy csoportja ({0}) érkezett pontosan a kolóniára!</EnemyRaidCenterDrop>
+  <EnemyRaidLeaderPresent>A {0} egyike a következő frakció vezetője: {1}.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
-  <FriendlyRaidWalkIn>Egy csapat {1} barátságos {0} érkezett a közelbe.</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>Egy csapat {1} barátságos {0} érkezett a közelbe földkörüli pályáról.</FriendlyRaidEdgeDrop>
-  <FriendlyRaidCenterDrop>Egy csapat {1} barátságos {0} érkezett földkörüli pályáról pontosan a kolóniára!</FriendlyRaidCenterDrop>
-  <FriendlyRaidLeaderPresent>Az egyik {0} a(z) {1} frakció vezetője.</FriendlyRaidLeaderPresent>
+  <FriendlyRaidWalkIn>{1} egy barátságos csoportja ({0}) érkezett a közelbe.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>{1} egy barátságos csoportja ({0}) érkezett a közelbe földkörüli pályáról.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>{1} egy barátságos csoportja ({0}) érkezett földkörüli pályáról pontosan a kolóniára!</FriendlyRaidCenterDrop>
+  <FriendlyRaidLeaderPresent>A {0} egyike a következő frakció vezetője: {1}.</FriendlyRaidLeaderPresent>
 
   <LetterLabelRefugeePodCrash>Mentőkabin</LetterLabelRefugeePodCrash>
   <RefugeePodCrash>A közelben lezuhant egy mentőkabin.\n\nHa túl is élte valaki a zuhanást, az súlyosan meg lesz sérülve.</RefugeePodCrash>
@@ -37,21 +37,21 @@
 
   <TraderArrival>Kereskedőhajó halad el a közelben.\n\n{0} néven ismertek. Besorolásuk: {1}.</TraderArrival>
 
-  <SingleTravelerPassing>A {0} from {1} is passing by. HECAP is named {2}.</SingleTravelerPassing>
-  <GroupTravelersPassing>{0} utazók haladnak el a közelben.</GroupTravelersPassing>
+  <SingleTravelerPassing>{1} egy tagja ({0}) halad el a közelben. A neve {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>Utazók haladnak el a közelben ({0}).</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>Látogató</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives>A {0} from {1} is visiting the colony.\n\nHECAP is named {2}.{3}{4}</SingleVisitorArrives>
-  <SingleVisitorArrivesTraderInfo>\n\nHECAP seems to have a few items to trade.</SingleVisitorArrivesTraderInfo>
-  <SingleVisitorArrivesLeaderInfo>\n\nHECAP is the leader of the faction.</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrives>{1} egy tagja látogat meg minket ({0}).\n\nA neve {2}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\nÚgy tűnik van pár eladó cucca.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\nŐ a frakciója vezetője.</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>Látogatók</LetterLabelGroupVisitorsArrive>
-  <GroupVisitorsArrive>A group from {0} are visiting the colony.{1}{2}</GroupVisitorsArrive>
+  <GroupVisitorsArrive>Egy csapat, ({0}), látogatja meg a kolóniát.{1}{2}</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nÚgy tűnik van náluk pár eladni való.</GroupVisitorsArriveTraderInfo>
   <GroupVisitorsArriveLeaderInfo>\n\nAz egyik látogató, {0}, a frakció vezetője.</GroupVisitorsArriveLeaderInfo>
-  <VisitorsLeaving>Visitors from {0} are leaving.</VisitorsLeaving>
+  <VisitorsLeaving>A {0} elmennek.</VisitorsLeaving>
 
   <LetterLabelWandererJoin>Vándor csatlakozik</LetterLabelWandererJoin>
-  <WandererJoin>A NAME nevű {0} megérkezett és csatlakozik a kolóniához. HECAP is a {1}.</WandererJoin>
+  <WandererJoin>A NAME nevű {0} megérkezett és csatlakozik a kolóniához. Mestersége: {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>Emberevő falka</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>Egy falka emberevő {0} jelent meg a környéken. A közelben kóborolva vadásznak emberhúsra.\n\nAjtókon nem jutnak át, falak között biztonságban vagy. Kikapcsolt ágyúkat nem támadnak meg, ha nem akarod megölni őket, állítsd le ezeket.\n\nPár napig lesznek a környéken.</ManhunterPackArrived>
@@ -84,7 +84,7 @@
   <BeaversArrived>Egy csapat éhes alfahód érkezett.\n\nPróbáld kiiktatni őket, mielőtt megesznek minden fát.</BeaversArrived>
   
   <!-- Refugee chased -->
-  <RefugeeChasedInitial>Egy {0} nevű {1} hív a közelből. HECAP a neve és {2} üldözi a {3} frakcióból!\n\nHECAP menedékért könyörög és felajánlja, hogy csatlakozik hozzád. Biológiailag HE {4} éves.\n\nFigyelem - ha befogadod, el kell kergetned az üldözőit.</RefugeeChasedInitial>
+  <RefugeeChasedInitial>Egy {0} nevű {1} hív a közelből. A neve {2} és üldözik a {3} frakcióból!\n\nMenedékért könyörög és felajánlja, hogy csatlakozik hozzád. Biológiailag {4} éves.\n\nFigyelem - ha befogadod, el kell kergetned az üldözőit.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Befogad</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Figyelmen kívül hagy</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} pánikba esve üvölt a rádióból, ahogy megszakítod az adást.</RefugeeChasedRejected>
@@ -112,7 +112,7 @@
   <LetterBuildingBrokenDown>Az egyik {0} meghibásodott. Addig nem fog működni, amíg egy karbantartó gyarmatos meg nem javítja.</LetterBuildingBrokenDown>
   
   <!-- Ransom demand -->
-  <RansomDemand>{1} lépett veled kapcsolatba rádión. Korábbi gyarmatosod, {0}, a fogjuk.\n\nHIM szabadon lesz engedve, {2} ezüstért cserébe.</RansomDemand>
+  <RansomDemand>{1} lépett veled kapcsolatba rádión. Korábbi gyarmatosod, {0}, a fogjuk.\n\nSzabadon lesz engedve, {2} ezüstért cserébe.</RansomDemand>
   <RansomDemand_Accept>Elfogad</RansomDemand_Accept>
   <RansomDemand_Reject>Elutasít</RansomDemand_Reject>
   

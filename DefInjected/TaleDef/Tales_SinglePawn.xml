@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <LandedInPod.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] leszáll egy mentőkapszulával</LandedInPod.rulePack.rulesStrings.0>
+  <LandedInPod.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] leszállása egy mentőkapszulával</LandedInPod.rulePack.rulesStrings.0>
   <LandedInPod.rulePack.rulesStrings.1>image->[pawn_nameFull] leszáll egy mentőkapszulával [circumstance_group]</LandedInPod.rulePack.rulesStrings.1>
   <LandedInPod.rulePack.rulesStrings.2>image->[pawn_nameFull] letesz egy mentőkapszulát [circumstance_group]</LandedInPod.rulePack.rulesStrings.2>
   <LandedInPod.rulePack.rulesStrings.3>image->[pawn_nameFull] becsapódik egy mentőkapszulával [circumstance_group]</LandedInPod.rulePack.rulesStrings.3>
@@ -24,54 +24,54 @@
   <LandedInPod.rulePack.rulesStrings.20>desc_sentence->Egy [outlander] néz csendben a távolból.</LandedInPod.rulePack.rulesStrings.20>
 
   
-  <Vomited.rulePack.rulesStrings.0>tale_noun->der Übelkeit von [pawn_nameShortDef]</Vomited.rulePack.rulesStrings.0>
-  <Vomited.rulePack.rulesStrings.1>image->[pawn_nameFull], wie [pawn_pronoun] sich [circumstance_group] auf den Boden übergibt</Vomited.rulePack.rulesStrings.1>
-  <Vomited.rulePack.rulesStrings.2>image->[pawn_nameFull], wie [pawn_pronoun] nach [pawn_posssessive]em Kotzanfall in getrocknetem Erbrochenem steht und angeekelt drein schaut</Vomited.rulePack.rulesStrings.2>
-  <Vomited.rulePack.rulesStrings.3>image->[pawn_nameFull], als [pawn_pronoun] sich [circumstance_group] übergibt und den Boden besudelt</Vomited.rulePack.rulesStrings.3>
-  <Vomited.rulePack.rulesStrings.4>image->[pawn_nameFull] auf [pawn_possessive]en Knien, während [pawn_pronoun] [circumstance_group] den Boden vollkotzt</Vomited.rulePack.rulesStrings.4>
-  <Vomited.rulePack.rulesStrings.5>circumstance_phrase->unter Schmerzen</Vomited.rulePack.rulesStrings.5>
-  <Vomited.rulePack.rulesStrings.6>circumstance_phrase->verschämt</Vomited.rulePack.rulesStrings.6>
-  <Vomited.rulePack.rulesStrings.7>circumstance_phrase->vor Zuschauern</Vomited.rulePack.rulesStrings.7>
-  <Vomited.rulePack.rulesStrings.8>desc_sentence->[pawn_pronoun] scheint nicht mitzubekommen, was um [pawn_objective] herum passiert.</Vomited.rulePack.rulesStrings.8>
-  <Vomited.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive] Gesicht scheint anzuschwellen.</Vomited.rulePack.rulesStrings.9>
-  <Vomited.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] ist fast bewusstlos, [pawn_possessive]e Zunge hängt sabbernd aus dem Mund.</Vomited.rulePack.rulesStrings.10>
-  <Vomited.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] zuckt heftig.</Vomited.rulePack.rulesStrings.11>
-  <Vomited.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] sieht beschämt aus.</Vomited.rulePack.rulesStrings.12>
-  <Vomited.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] scheint beinahe, trotz der Umstände, lachen zu wollen.</Vomited.rulePack.rulesStrings.13>
-  <Vomited.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] sieht fast ausgeleert aus, als wenn das intensive Erbrechen alles ausgezerrt hat.</Vomited.rulePack.rulesStrings.14>
-  <Vomited.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] wurde künstlerisch von einer Aura der Abscheulichkeit umgeben.</Vomited.rulePack.rulesStrings.15>
-  <Vomited.rulePack.rulesStrings.16>desc_sentence->Im Hintergrund frisst ein [animal] vom Erbrochenen.</Vomited.rulePack.rulesStrings.16>
+  <Vomited.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] hányása</Vomited.rulePack.rulesStrings.0>
+  <Vomited.rulePack.rulesStrings.1>image->[pawn_nameFull] a földre hány, [circumstance_group]</Vomited.rulePack.rulesStrings.1>
+  <Vomited.rulePack.rulesStrings.2>image->[pawn_nameFull] rászáradt hányással beborítva, undorodva néz, [circumstance_group]</Vomited.rulePack.rulesStrings.2>
+  <Vomited.rulePack.rulesStrings.3>image->[pawn_nameFull] összegörnyedve öklendezik a padlón, [circumstance_group] </Vomited.rulePack.rulesStrings.3>
+  <Vomited.rulePack.rulesStrings.4>image->[pawn_nameFull] térdelve hány, [circumstance_group]</Vomited.rulePack.rulesStrings.4>
+  <Vomited.rulePack.rulesStrings.5>circumstance_phrase->fájdalmak közepette</Vomited.rulePack.rulesStrings.5>
+  <Vomited.rulePack.rulesStrings.6>circumstance_phrase->szégyellve magát</Vomited.rulePack.rulesStrings.6>
+  <Vomited.rulePack.rulesStrings.7>circumstance_phrase->mások pedig nézik</Vomited.rulePack.rulesStrings.7>
+  <Vomited.rulePack.rulesStrings.8>desc_sentence->Nincs tudatában, hogy mi történik körülötte.</Vomited.rulePack.rulesStrings.8>
+  <Vomited.rulePack.rulesStrings.9>desc_sentence->Az arca kidodorodni látszik.</Vomited.rulePack.rulesStrings.9>
+  <Vomited.rulePack.rulesStrings.10>desc_sentence->Eszméletlennek tűnik, a nyelve kilóg a szájából.</Vomited.rulePack.rulesStrings.10>
+  <Vomited.rulePack.rulesStrings.11>desc_sentence->Erősen rázkódik.</Vomited.rulePack.rulesStrings.11>
+  <Vomited.rulePack.rulesStrings.12>desc_sentence->Szégyelli magát.</Vomited.rulePack.rulesStrings.12>
+  <Vomited.rulePack.rulesStrings.13>desc_sentence->Nevetni próbál, a körülménynek ellenére.</Vomited.rulePack.rulesStrings.13>
+  <Vomited.rulePack.rulesStrings.14>desc_sentence->Leersztett, mintha teljesen kiürült volna a hasa.</Vomited.rulePack.rulesStrings.14>
+  <Vomited.rulePack.rulesStrings.15>desc_sentence->Művészien elrendezett hányadék veszi körbe.</Vomited.rulePack.rulesStrings.15>
+  <Vomited.rulePack.rulesStrings.16>desc_sentence->Egy [animal] eszik a hányásból a háttérben.</Vomited.rulePack.rulesStrings.16>
 
   
-  <Drunk.rulePack.rulesStrings.0>tale_noun->dem Besäufnis von [pawn_nameShortDef]</Drunk.rulePack.rulesStrings.0>
-  <Drunk.rulePack.rulesStrings.1>image->[pawn_nameFull], wie [pawn_pronoun] [circumstance_group] betrunken in der Gegend umher taumelt</Drunk.rulePack.rulesStrings.1>
-  <Drunk.rulePack.rulesStrings.2>image->[pawn_nameFull], wie [pawn_pronoun] [pawn_possessive]en Kopf in den Nacken legt und [circumstance_group] den Alkohol nur so laufen lässt</Drunk.rulePack.rulesStrings.2>
-  <Drunk.rulePack.rulesStrings.3>image->[pawn_nameFull], wie [pawn_pronoun] [circumstance_group] alle Alkoholflaschen einsammelt</Drunk.rulePack.rulesStrings.3>
-  <Drunk.rulePack.rulesStrings.4>image->[pawn_nameFull], wie [pawn_pronoun] sich [circumstance_group] betrinkt</Drunk.rulePack.rulesStrings.4>
-  <Drunk.rulePack.rulesStrings.5>circumstance_phrase->unbekümmert von [pawn_possessive]er Umgebung</Drunk.rulePack.rulesStrings.5>
-  <Drunk.rulePack.rulesStrings.6>circumstance_phrase->in einem grüblerischem Starrsinn</Drunk.rulePack.rulesStrings.6>
-  <Drunk.rulePack.rulesStrings.7>circumstance_phrase->beim Hinterfragen [pawn_possessive]er eigenen Existenz</Drunk.rulePack.rulesStrings.7>
-  <Drunk.rulePack.rulesStrings.8>circumstance_phrase->mit Tränen in den Augen</Drunk.rulePack.rulesStrings.8>
-  <Drunk.rulePack.rulesStrings.9>circumstance_phrase->irrsinnig kichernd</Drunk.rulePack.rulesStrings.9>
-  <Drunk.rulePack.rulesStrings.10>circumstance_phrase->weinend</Drunk.rulePack.rulesStrings.10>
-  <Drunk.rulePack.rulesStrings.11>circumstance_phrase->erbärmlich aussehend</Drunk.rulePack.rulesStrings.11>
-  <Drunk.rulePack.rulesStrings.12>circumstance_phrase->während er die Leute um [pawn_objective] herum ärgerlich anschaut</Drunk.rulePack.rulesStrings.12>
-  <Drunk.rulePack.rulesStrings.13>circumstance_phrase->jemanden anzüglich angrinsend</Drunk.rulePack.rulesStrings.13>
-  <Drunk.rulePack.rulesStrings.14>circumstance_phrase->sich auszuziehen versuchend</Drunk.rulePack.rulesStrings.14>
-  <Drunk.rulePack.rulesStrings.15>circumstance_phrase->mit einem Finger im Mund</Drunk.rulePack.rulesStrings.15>
-  <Drunk.rulePack.rulesStrings.16>circumstance_phrase->den Brechreiz unterdrückend</Drunk.rulePack.rulesStrings.16>
-  <Drunk.rulePack.rulesStrings.17>circumstance_phrase->sorglos</Drunk.rulePack.rulesStrings.17>
-  <Drunk.rulePack.rulesStrings.18>circumstance_phrase->mit einem lüsternen Blick</Drunk.rulePack.rulesStrings.18>
-  <Drunk.rulePack.rulesStrings.19>circumstance_phrase->die vergangenen Fehler überdenkend</Drunk.rulePack.rulesStrings.19>
-  <Drunk.rulePack.rulesStrings.20>desc_sentence->[pawn_pronoun] scheint nicht mitzubekommen, was um [pawn_objective] herum passiert.</Drunk.rulePack.rulesStrings.20>
-  <Drunk.rulePack.rulesStrings.21>desc_sentence->[pawn_possessive] Gesicht scheint anzuschwellen.</Drunk.rulePack.rulesStrings.21>
-  <Drunk.rulePack.rulesStrings.22>desc_sentence->[pawn_pronoun] ist fast bewusstlos, [pawn_possessive]e Zunge hängt sabbernd aus dem Mund.</Drunk.rulePack.rulesStrings.22>
-  <Drunk.rulePack.rulesStrings.23>desc_sentence->[pawn_pronoun] scheint gleichzeitig glücklich und traurig zu sein.</Drunk.rulePack.rulesStrings.23>
-  <Drunk.rulePack.rulesStrings.24>desc_sentence->[pawn_possessive] Hemd ist voller Flecken vom Alkohol.</Drunk.rulePack.rulesStrings.24>
-  <Drunk.rulePack.rulesStrings.25>desc_sentence->Eine Spur weggeworfener Getränkeflaschen markiert [pawn_possessive]en Weg.</Drunk.rulePack.rulesStrings.25>
-  <Drunk.rulePack.rulesStrings.26>desc_sentence->Da ist eine weiße Substanz auf [pawn_possessive]er Hose.</Drunk.rulePack.rulesStrings.26>
-  <Drunk.rulePack.rulesStrings.27>desc_sentence->[pawn_pronoun] scheint einen Schuh verloren zu haben.</Drunk.rulePack.rulesStrings.27>
-  <Drunk.rulePack.rulesStrings.28>desc_sentence->[pawn_possessive] Haar ist komplett zerzaust.</Drunk.rulePack.rulesStrings.28>
+  <Drunk.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] részegsége</Drunk.rulePack.rulesStrings.0>
+  <Drunk.rulePack.rulesStrings.1>image->[pawn_nameFull] részegen dülöngél, [circumstance_group]</Drunk.rulePack.rulesStrings.1>
+  <Drunk.rulePack.rulesStrings.2>image->[pawn_nameFull] hátrahajtott fejjel vedeli a likőrt, [circumstance_group]</Drunk.rulePack.rulesStrings.2>
+  <Drunk.rulePack.rulesStrings.3>image->[pawn_nameFull] piásüvegeket gyűjtve, [circumstance_group]</Drunk.rulePack.rulesStrings.3>
+  <Drunk.rulePack.rulesStrings.4>image->[pawn_nameFull] keményen piál, [circumstance_group]</Drunk.rulePack.rulesStrings.4>
+  <Drunk.rulePack.rulesStrings.5>circumstance_phrase->magasról téve a környezetére</Drunk.rulePack.rulesStrings.5>
+  <Drunk.rulePack.rulesStrings.6>circumstance_phrase->szomorkás kábulatban</Drunk.rulePack.rulesStrings.6>
+  <Drunk.rulePack.rulesStrings.7>circumstance_phrase->saját létezését megkérdőjelezve</Drunk.rulePack.rulesStrings.7>
+  <Drunk.rulePack.rulesStrings.8>circumstance_phrase->önnyezve</Drunk.rulePack.rulesStrings.8>
+  <Drunk.rulePack.rulesStrings.9>circumstance_phrase->őrülten kuncogva</Drunk.rulePack.rulesStrings.9>
+  <Drunk.rulePack.rulesStrings.10>circumstance_phrase->sírdogálva</Drunk.rulePack.rulesStrings.10>
+  <Drunk.rulePack.rulesStrings.11>circumstance_phrase->szánalmasan festve</Drunk.rulePack.rulesStrings.11>
+  <Drunk.rulePack.rulesStrings.12>circumstance_phrase->mérgesen nézve a körülötte lévőkre</Drunk.rulePack.rulesStrings.12>
+  <Drunk.rulePack.rulesStrings.13>circumstance_phrase->valakit bámulva</Drunk.rulePack.rulesStrings.13>
+  <Drunk.rulePack.rulesStrings.14>circumstance_phrase->megpróbálva levetkőzni</Drunk.rulePack.rulesStrings.14>
+  <Drunk.rulePack.rulesStrings.15>circumstance_phrase->ujjával a szájában</Drunk.rulePack.rulesStrings.15>
+  <Drunk.rulePack.rulesStrings.16>circumstance_phrase->hányingert visszatartva</Drunk.rulePack.rulesStrings.16>
+  <Drunk.rulePack.rulesStrings.17>circumstance_phrase->nagy nemtörődömséggel</Drunk.rulePack.rulesStrings.17>
+  <Drunk.rulePack.rulesStrings.18>circumstance_phrase->vágyakozó nézéssel a szemében</Drunk.rulePack.rulesStrings.18>
+  <Drunk.rulePack.rulesStrings.19>circumstance_phrase->elkövetett hibáit latolgatva</Drunk.rulePack.rulesStrings.19>
+  <Drunk.rulePack.rulesStrings.20>desc_sentence->Nincs tudatában, hogy mi történik körülötte.</Drunk.rulePack.rulesStrings.20>
+  <Drunk.rulePack.rulesStrings.21>desc_sentence->Az arca kidodorodni látszik.</Drunk.rulePack.rulesStrings.21>
+  <Drunk.rulePack.rulesStrings.22>desc_sentence->Eszméletlennek tűnik, a nyelve kilóg a szájából.</Drunk.rulePack.rulesStrings.22>
+  <Drunk.rulePack.rulesStrings.23>desc_sentence->Egyszerre tűnik szomorúnak és boldognak.</Drunk.rulePack.rulesStrings.23>
+  <Drunk.rulePack.rulesStrings.24>desc_sentence->Elöl tiszta folt a ruhája.</Drunk.rulePack.rulesStrings.24>
+  <Drunk.rulePack.rulesStrings.25>desc_sentence->Eldobált piásüvegek sorát hagyja maga után.</Drunk.rulePack.rulesStrings.25>
+  <Drunk.rulePack.rulesStrings.26>desc_sentence->Valami fehér folt van a gatyáján.</Drunk.rulePack.rulesStrings.26>
+  <Drunk.rulePack.rulesStrings.27>desc_sentence->Úgy tűnik elhagyta egyik cipőjét</Drunk.rulePack.rulesStrings.27>
+  <Drunk.rulePack.rulesStrings.28>desc_sentence->A haja teljesen kócos.</Drunk.rulePack.rulesStrings.28>
 
   <WasOnFire.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef], wie [pawn_pronoun] Feuer fängt</WasOnFire.rulePack.rulesStrings.0>  
   <WasOnFire.rulePack.rulesStrings.1>image->[pawn_nameFull], wie [pawn_pronoun] verzweifelt versucht das Feuer auszuschlagen, dass sich an [pawn_possessive] Körper festgebissen hat [circumstance_group]</WasOnFire.rulePack.rulesStrings.1>

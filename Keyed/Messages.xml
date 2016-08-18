@@ -5,8 +5,8 @@
 
   <MessageRaidersBeginningAssault>{0} a {1}-ből megkezdik a rohamot.</MessageRaidersBeginningAssault>
   <MessageRaidersDetectedEarlyAssault>{0} a {1}-ből észrevettek titeket és előbb kezdik meg a rohamot.</MessageRaidersDetectedEarlyAssault>
-  <MessageRaidersKidnapping>{0} a {1}-ből úgy döntöttek, hogy elrabolják akit tudnak és távoznak.</MessageRaidersKidnapping>
-  <MessageRaidersStealing>{0} a {1}-ből úgy döntöttek, hogy ellopják amit tudnak és távoznak</MessageRaidersStealing>
+  <MessageRaidersKidnapping>{0} a {1}-ből úgy döntöttek, hogy elrabolják, akit tudnak és távoznak.</MessageRaidersKidnapping>
+  <MessageRaidersStealing>{0} a {1}-ből úgy döntöttek, hogy ellopják, amit tudnak és távoznak</MessageRaidersStealing>
 
   <MessageRaidersLeaving>{0} a {1}-ből távoznak.</MessageRaidersLeaving>
 	<MessageRaidersGivenUpLeaving>{0} a {1}-ből feladták és távoznak.</MessageRaidersGivenUpLeaving>
@@ -30,17 +30,17 @@
   
   <MessageFullyHealed>{0} teljesen felépült.</MessageFullyHealed>
 
-  <MessagePrisonerIsEscaping>Fogoly {0} szökésben.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>A következő fogoly szökésben: {0}.</MessagePrisonerIsEscaping>
 
   <MessageOutOfNearbyShellsFor>{0} nem talált szabad lövedéket {1} számára.</MessageOutOfNearbyShellsFor>
 
   <MessageAnimalsGoPsychoHunted>Figyelem: a {0} gyakran támad, ha bántják.</MessageAnimalsGoPsychoHunted>
-  <MessageAnimalManhuntsOnTameFailed>Figyelem: a {0} támadhat ha nem sikerül megszelídíteni ({1} esély).</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalManhuntsOnTameFailed>Figyelem: a {0} támadhat, ha nem sikerül megszelídíteni ({1} esély).</MessageAnimalManhuntsOnTameFailed>
   
   <LetterLabelMessageRecruitSuccess>Újonc</LetterLabelMessageRecruitSuccess>
-  <MessageRecruitSuccess>{0} sikeresen toborozta {1}-t ({2} esély).</MessageRecruitSuccess>
-  <MessageTameSuccess>{0} sikeresen megszelídítette {1}-t ({2} esély).</MessageTameSuccess>
-  <MessageTameAndNameSuccess>{0} sikeresen megszelídítette {1}-t ({2} esély) és elnevezte {3}-nak.</MessageTameAndNameSuccess>
+  <MessageRecruitSuccess>{0} sikeresen toborozta őt:{1} ({2} esély).</MessageRecruitSuccess>
+  <MessageTameSuccess>{0} sikeresen megszelídítette őt: {1} ({2} esély).</MessageTameSuccess>
+  <MessageTameAndNameSuccess>{0} sikeresen megszelídítette őt: {1} ({2} esély) és a {3} nevet adta neki.</MessageTameAndNameSuccess>
 
   <MessageColonyCannotAfford>A kolónia nem engedheti meg magának ezt a vásárlást.</MessageColonyCannotAfford>
   <MessageColonyNotEnoughSilver>Nincs elég ezüstöd a vásárláshoz.</MessageColonyNotEnoughSilver>
