@@ -21,10 +21,10 @@ Status:
 ---------------------
 
 DefInjected:
-Old defs converted to new format and merged with German defs. Rest of the defs added from German translation.
+Old defs converted to new format and merged with German defs. Rest of the defs added from German translation. All done except TaleDefs. These and RulePacks need overhaul and probably some simplification too. At the moment its generating gibberish.
 
 Keyed:
 Done, generated texts need testing.
 
 Strings:
-Considered done. Rulepack is really tricky, I expect a lot of generated gibberish. ColonyNames not translated yet.
+Considered done. ColonyNames not translated, maybe later.
