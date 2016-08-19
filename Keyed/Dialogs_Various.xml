@@ -5,6 +5,13 @@
   <GoBack>Vissza</GoBack>
   <OK>OK</OK>
   
+  
+  <!-- Game updated to new version -->
+  <GameUpdatedToNewVersionInitial>A RimWorld frissítve lett erről a verzióról: {0} erre a verzióra: {1}.\n\nLehetséges, hogy a régi modok és mentések többé nem működnek.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionNonSteam>Mivel ezen a verzión nincs másolásvédelem, két különböző helyre is feltelepítheted, így játszhatsz régi és új verzióval is párhuzamosan.</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionSteam>Ha régebbi verzióval akarsz tovább játszani, használhatod a Steam 'Beta' szolgáltatását.\n\n  1. A Steam fiókodban jobb klikk a 'RimWorld'-ön.\n  2. Klikk a Beállitásokra.\n  3. Klikk a 'Betas' fülre.\n  4. Válaszd ki a kívánt verziót.\n\nAz öregebb verziók egy idő után törölve lesznek - de nem kell attól tartani, hogy a játékodat félbevágjuk.\n\nFigyelem, ha a modkészítők frissítik a modjukat az új verzióra, azok valószínűleg nem fognak többé működni az öregebb verziókkal. Kapcsold ki az automatikus frissítést, ennek megakadályozására.</GameUpdatedToNewVersionSteam>
+  
+  
   <!-- Recovered from errors caused by mods -->
   <RecoveredFromErrorsDialogTitle>Korrupt vagy inkompatibilis mod okozta hiba</RecoveredFromErrorsDialogTitle>
   <RecoveredFromErrorsText>Úgy tűnik valamelyik aktív mod hibát okozott.\n\nÜtközik egy másik moddal, másik RimWorld verzióhoz lett írva vagy sérült .\n\nMinden mod ki lett kapcsolva, újra lehet őket aktiválni a Modok menüben.</RecoveredFromErrorsText>
@@ -17,6 +24,10 @@
   <ErrorWhileGeneratingMap>Hiba történt a térkép létrehozása közben. Ellenőrizze a hibanaplót!</ErrorWhileGeneratingMap>
   <ErrorWhileLoadingMapTitle>Hiba térkép betöltése közben</ErrorWhileLoadingMapTitle>
   <ErrorWhileLoadingMap>Hiba történt a térkép betöltése közben. Ellenőrizze a hibanaplót!</ErrorWhileLoadingMap>
+  
+  <!-- Unloaded mod with an assembly -->
+  <ModWithAssemblyWasUnloaded>A játék nem tudja teljesen törölni a deaktivált modok által megváltozott kódot.\n\nJavasolt a játékot újraindítani és a modokat tisztán betölteni.</ModWithAssemblyWasUnloaded>
+  
   
   <!-- Missing Steam -->
   <SteamClientMissing>Steam API indítása sikertelen. Lehetséges okok:\n\n-Steam nem fut.\n-Steam-en kívülről indítva steam_appid.txt nélkül.\n-Steam-étől eltérő jogosultságokkal indítva (pl. "rendszergazdaként").\n\nEgy újraindítás a legtöbb esetben segíthet.\n\nA játék eme verziójához Steam szükséges, ezért most kilép.</SteamClientMissing>

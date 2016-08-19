@@ -133,6 +133,7 @@
   <WeaponMissRadius>Pontatlanság mértéke</WeaponMissRadius>
 	<ShootReportShooterAbility>Lövész</ShootReportShooterAbility>
 	<ShootReportWeapon>Fegyver</ShootReportWeapon>
+																<RangeSlashEquipment>Reichweite/Ausrüstung</RangeSlashEquipment>
 	<Darkness>Sötétség</Darkness>
 	<TargetProne>Célpont fekszik</TargetProne>
 	<TargetSize>Célpont mérete</TargetSize>
@@ -256,6 +257,7 @@
   <AutoHomeAreaToggleButton>Lakókörzet automatikus kiterjesztése új épületnél</AutoHomeAreaToggleButton>
   <CategorizedResourceReadoutToggleButton>Kategorizált alapanyag lista</CategorizedResourceReadoutToggleButton>
   <ShowAnimalNamesToggleButton>Elnevezett állatok nevének kijelzése</ShowAnimalNamesToggleButton>
+  <ShowLearningHelperWhenEmptyToggleButton>Az oktató ki/bekapcsolása akkor is, ha nincs téma.\n\nA oktató automatikusan bekapcsol, ha van új téma. Ezzel a kapcsolóval eltűntetheted, ha épp nincs tanulnivaló.</ShowLearningHelperWhenEmptyToggleButton>
   
   <!-- Fire -->
   <Fire>Tűz</Fire>
@@ -368,5 +370,11 @@
   <!-- Maintainable -->
   <DueForMaintenance>Karbantartás szükséges.</DueForMaintenance>
   <DeterioratingDueToLackOfMaintenance>Karbantartás hiánya miatt elhasználódik.</DeterioratingDueToLackOfMaintenance>
+  
+    <!-- Learning helper -->
+  <LearningHelper>Oktató</LearningHelper>
+  <MarkLearned>Ismertnek jelölni</MarkLearned>
+  <AlreadyLearned>Már ismert</AlreadyLearned>
+  <Filter>Szűrő</Filter>	
   
 </LanguageData>
