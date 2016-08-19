@@ -17,14 +17,16 @@ Some text used from old translation created by:
 - SjoCi
 - Moredoor
 
+Also kudos to German translators. I used their DefInjected XMLs as base.
+
 Status:
 ---------------------
 
 DefInjected:
-Old defs converted to new format and merged with German defs. Rest of the defs added from German translation. All done except TaleDefs. These and RulePacks need overhaul and probably some simplification too. At the moment its generating gibberish.
+Old defs converted to new format and merged with German defs. Rest of the defs added from German translation. All done except TaleDefs. These and RulePacks need overhaul and probably some simplification too. At the moment it generates gibberish.
 
 Keyed:
 Done, generated texts need testing.
 
 Strings:
-Considered done. ColonyNames not translated, maybe later.
+Considered done. ColonyNames not translated, maybe later. Other strings could use some love too to avoid really stupid faction names for example.
