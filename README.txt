@@ -23,10 +23,10 @@ Status:
 ---------------------
 
 DefInjected:
-Old defs converted to new format and merged with German defs. Rest of the defs added from German translation. All done except TaleDefs. These and RulePacks need overhaul and probably some simplification too. At the moment it generates gibberish.
+Old defs converted to new format and merged with German defs. Rest of the defs added from German translation. All done.
 
 Keyed:
-Done, generated texts need testing.
+Done.
 
 Strings:
 Considered done. ColonyNames not translated, maybe later. Other strings could use some love too to avoid really stupid faction names for example.
