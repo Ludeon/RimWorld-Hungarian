@@ -4,45 +4,46 @@
   <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>art_description_root->[physical_description_root] [context_sentence]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>
   <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>circumstance_group->[circumstance_phrase]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>
   <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>desc_sentence_group->[desc_sentence] [style_group]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>context_sentence->ennek a(z) [depiction] erre utal:[tale_noun]. Ekkor történt: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>context_sentence->ennek a(z) [depiction] erről szól: [tale_noun]. Ekkor történt: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>context_sentence->ennek a(z) [depiction] ennek történetét meséli el: [tale_noun]. Ekkor történt: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>context_sentence->Ez a(z) [depiction] erre utal: [tale_noun]. Ekkor történt: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>context_sentence->Ez a(z) [depiction] erről szól: [tale_noun]. Ekkor történt: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>context_sentence->Ez a(z) [depiction] ennek történetét meséli el: [tale_noun]. Ekkor történt: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>
 
   <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>art_description_root->[physical_description_root]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>
   <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1>desc_sentence_group->[style_group]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1>
 
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.0>style_group->[artextra_clause], ahol [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.0>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.1>style_group->[artextra_clause], amíg [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.1>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.2>style_group->[artextra_clause], noha [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.2>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.0>style_group->[artextra_clause], és [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.0>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.1>style_group->[artextra_clause], amúgy [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.1>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.2>style_group->[artextra_clause], valamint [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.2>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.3>style_group->[artextra_clause], közben [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.3>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.4>artextra_clause->a képet körbeveszi [quantity_adjphrase] [animal]</ArtDescriptionUtility_Global.rulePack.rulesStrings.4>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.5>artextra_clause->ez egy [community] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.5>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.6>artextra_clause->ez egy [terrainfeature] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.6>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.7>artextra_clause->ez egy [animal] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.7>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.8>artextra_clause->a tárgy [terrainfeature] előtt van</ArtDescriptionUtility_Global.rulePack.rulesStrings.8>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.8>artextra_clause->a tárgy egy [terrainfeature] előtt van</ArtDescriptionUtility_Global.rulePack.rulesStrings.8>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.9>artextra_clause->a jelenet a [community] közepén játszódik</ArtDescriptionUtility_Global.rulePack.rulesStrings.9>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.10>artextra_clause->a jelenet a [community] szélén játszódik</ArtDescriptionUtility_Global.rulePack.rulesStrings.10>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.11>artextra_clause->[outlander] mosolygó arca figyel mindenkit</ArtDescriptionUtility_Global.rulePack.rulesStrings.11>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.12>artextra_clause->a jelenet a [community] közepén játszódik [terrainfeature] közelében</ArtDescriptionUtility_Global.rulePack.rulesStrings.12>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.13>artextra_clause->a kép alsó részét [terrainfeature] dominálja</ArtDescriptionUtility_Global.rulePack.rulesStrings.13>  <ArtDescriptionUtility_Global.rulePack.rulesStrings.14>artextra_clause->a kép több száz [animal] gondosan elrendezett csoportját ábrázolja</ArtDescriptionUtility_Global.rulePack.rulesStrings.14>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.12>artextra_clause->a jelenet a [community] közepén játszódik egy [terrainfeature] közelében</ArtDescriptionUtility_Global.rulePack.rulesStrings.12>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.13>artextra_clause->a kép alsó részét egy [terrainfeature] dominálja</ArtDescriptionUtility_Global.rulePack.rulesStrings.13>  
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.14>artextra_clause->a kép több száz [animal] gondosan elrendezett csoportját ábrázolja</ArtDescriptionUtility_Global.rulePack.rulesStrings.14>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.15>artextra_clause->egy [outlander] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.15>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.16>artextra_clause->egy [animal] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.16>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.17>artextra_clause->egy halott [animal] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.17>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.18>artextra_clause->személyes ábrázolása ennek: [concept] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.18>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.19>artextra_clause->egy [animal] [side_position] a következőt szimbolizálja: [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.19>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.20>artextra_clause->pár [quantity_adjphrase] [outlander] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.20>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.21>artextra_clause->ha hunyorogsz, a [composition] kezd úgy kinézni, mint egy [animal]</ArtDescriptionUtility_Global.rulePack.rulesStrings.21>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.21>artextra_clause->ha hunyorogsz, a [composition] kompozíció kezd úgy kinézni, mint egy [animal]</ArtDescriptionUtility_Global.rulePack.rulesStrings.21>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.22>style_clause->a kép a következőt próbálja kifejezni: [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.22>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.23>style_clause->a munkát áthatja a [concept] és [artstyle_adj] stílusban készült</ArtDescriptionUtility_Global.rulePack.rulesStrings.23>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.24>style_clause->a mű a következőt próbálja átadni: [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.24>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.25>style_clause->a mű [artstyle_adj] stílusban készült</ArtDescriptionUtility_Global.rulePack.rulesStrings.25>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.26>style_clause->a főmotívum [artstyle_adj] stílusa a háttér [artstyle_adj] stílusának feszül</ArtDescriptionUtility_Global.rulePack.rulesStrings.26>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.27>style_clause->a műnek [artstyle_adj] stílusa és [composition] struktúrája van</ArtDescriptionUtility_Global.rulePack.rulesStrings.27>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.28>style_clause->az általános kompozíció: [composition]</ArtDescriptionUtility_Global.rulePack.rulesStrings.28>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.28>style_clause->az általános kompozíció [composition]</ArtDescriptionUtility_Global.rulePack.rulesStrings.28>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.29>style_clause->a stílus [artstyle_adj] [artstyle_adj] elemekkel</ArtDescriptionUtility_Global.rulePack.rulesStrings.29>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.30>style_clause->a jelenetből hiányzik minden [concept] és [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.30>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.31>style_clause->a kép valahogy sikeresen kifejezi mind [concept] és [concept] elképzeléseket</ArtDescriptionUtility_Global.rulePack.rulesStrings.31>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.32>style_clause->a [composition] struktura majdnem ütközik [artstyle_adj] stílussal</ArtDescriptionUtility_Global.rulePack.rulesStrings.32>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.32>style_clause->a [composition] struktura majdnem ütközik a(z) [artstyle_adj] stílussal</ArtDescriptionUtility_Global.rulePack.rulesStrings.32>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.33>style_clause->a kép [color] és [color] tónusokkal operál</ArtDescriptionUtility_Global.rulePack.rulesStrings.33>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.34>style_clause->szinte minden forma [composition] jellegű</ArtDescriptionUtility_Global.rulePack.rulesStrings.34>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.35>depicts->ábrázolja</ArtDescriptionUtility_Global.rulePack.rulesStrings.35>
