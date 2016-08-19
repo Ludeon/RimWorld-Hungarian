@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ======================== Non-grouped ========================-->
+  
+  <ScenPart_PlayerFaction>A frakciód {0} lesz.</ScenPart_PlayerFaction>
+
+  <ScenPart_StartWithPawns>{0} emberrel kezdesz.</ScenPart_StartWithPawns>
+  <RandomPet>véletlenszerű állat</RandomPet>
+
+  <ScenPart_StartingResearchFinished>Induló kutatási szint: {0}</ScenPart_StartingResearchFinished>
+  
+  <ScenPart_ArriveInDropPods>Érkezés mentőkabinban.</ScenPart_ArriveInDropPods>
+
+  <ScenPart_StatFactor>A "{0}" tulajdonság be lesz szorozva ennyivel: {1}.</ScenPart_StatFactor>
+
+
+  <!-- Pawn modifiers -->
+  <ScenPart_PawnsHaveHediff>{0} {1} eséllyel kezd ezzel: {2}.</ScenPart_PawnsHaveHediff>
+  <ConfigurableSeverity>súlyosság: {0}</ConfigurableSeverity>
+
+  <ScenPart_PawnsHaveTrait>{0} {1} eséllyel kezd a következő módosítóval: {2}</ScenPart_PawnsHaveTrait>
+  <ScenPart_OnPawnDeathExplode>Karakterek és lények robbanása halálkor ({0}, sugár {1}).</ScenPart_OnPawnDeathExplode>
+
+  <!-- Pawn filters -->
+  <ScenPart_StartingPawnAgeMin>Az embereid legalább {0} évesek.</ScenPart_StartingPawnAgeMin>
+  <ScenPart_StartingPawnAgeMax>Az embereid legfeljebb {0} évesek.</ScenPart_StartingPawnAgeMax>
+  <ScenPart_StartingPawnAgeRange>Az embereid kora {0} és {1} között.</ScenPart_StartingPawnAgeRange>
+
+
+  <!-- ======================== Grouped ========================-->
+
+  <ScenPart_StartWith>Induló készlet</ScenPart_StartWith>
+  <ScenPart_MapScatteredWith>A térképen elszórva</ScenPart_MapScatteredWith>
+  <ScenPart_PermaMapCondition>Állandó térképtulajdonság(ok)</ScenPart_PermaMapCondition>
+  <ScenPart_DisableIncident>Incidens(ek) kikapcsolva</ScenPart_DisableIncident>
+  <ScenPart_DisallowBuilding>Nem építhető</ScenPart_DisallowBuilding>
+
+</LanguageData>

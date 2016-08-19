@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CommandForbiddenDesc>Tiltott - a gyarmatosok békén hagyják.</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>Nem tiltott - a gyarmatosok foglalkozhatnak ezzel.</CommandNotForbiddenDesc>
+
+  <!-- Power -->
+  <CommandTogglePowerLabel>Áram ki/bekapcs</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Áram ki/bekapcs.</CommandTogglePowerDesc>
+  
+  <CommandDesignateTogglePowerLabel>Áram ki/bekapcs</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>Kijelölés áram ki/bekapcsra. Egy gyarmatos hamarosan átállítja a kapcsolót.</CommandDesignateTogglePowerDesc>
+  
+  <CommandTryReconnectLabel>Újracsatlakozás</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Megpróbálja hatósugáron belül egy másik, élő vezetékhez csatlakoztatni az eszközt. Ez jól jöhet, ha az már csatlakoztatva van egy olyan vezetékhez, ami nincs áram alatt.</CommandTryReconnectDesc>
+
+  <CommandGatherSpotToggleLabel>Gyülekezési hely</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Aktív - a gyarmatosok köré gyűlnek.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Inaktív - a gyarmatosok nem gyűlnek köré.</CommandGatherSpotToggleDescInactive>
+  
+  
+  <!-- Drafting -->
+  <CommandDraftLabel>Besoroz</CommandDraftLabel>
+  <CommandUndraftLabel>Leszerel</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Katonaság kapcsoló.\n\nA besorozott emberek végrehajtják a parancsokat és harcolnak. Nem dolgoznak, nem esznek, nem pihennek.</CommandToggleDraftDesc>
+  <IsIncapped>{0} magatehetetlen.</IsIncapped>
+
+  <CommandClearPrioritizedWork>Előnyben részesített munka törlése</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWorkDesc>Minden előnyben részesített munka törlése. A gyarmatos visszatér a szokásos maga-irányította munkarendhez.</CommandClearPrioritizedWorkDesc>
+  
+  <CommandCancelConstructionLabel>Visszavon</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Építkezés visszavonása.</CommandCancelConstructionDesc>
+
+  <CommandGetOutOfBedLabel>Felkelni</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Jelenlegi ágyból kiszállni.</CommandGetOutOfBedDesc>
+
+  <CommandBedSetOwnerLabel>Tulajdonos beállítása</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Hozzárendeli az adott ágyat egy bizonyos gyarmatoshoz.</CommandBedSetOwnerDesc>
+  <CommandGraveAssignColonistLabel>Gyarmatos hozzárendelése</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>Hozzárendeli az adott sírt egy bizonyos gyarmatoshoz.</CommandGraveAssignColonistDesc>
+  <BuildingAssign>Hozzárendel</BuildingAssign>
+  <BuildingUnassign>Hozzárendelést töröl</BuildingUnassign>
+  <CommandBedSetForPrisonersLabel>Fogolynak</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>A szoba ágyainak kijelölése foglyok számára.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Csak beltéri ágyakat lehet kijelölni foglyoknak.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetAsMedicalLabel>Betegnek</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>Betegellátáshoz jelöl ki ágyat.</CommandBedSetAsMedicalDesc>
+  <TurningOnPrisonerBedWarning>A fogda mód bekapcsolása az egész szobára hat, mivel foglyok és gyarmatosok nem alhatnak ugyanabban a szobában.\n\nEzek az emberek fogják elveszíteni ágyaikat:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>A fogda mód kikapcsolása az egész szobára hat, mivel foglyok és gyarmatosok nem alhatnak ugyanabban a szobában.\n\nEzek az emberek fogják elveszíteni ágyaikat:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Biztos vagy benne?</AreYouSure>
+
+  <CommandDetonateLabel>Robbant</CommandDetonateLabel>
+  <CommandDetonateDesc>Visszaszámlálás indítása.</CommandDetonateDesc>
+
+  <CommandRenameZoneLabel>Átnevezés</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>Zóna átnevezése.</CommandRenameZoneDesc>
+
+  <CommandHideZoneLabel>Elrejtés</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Felfedés</CommandUnhideZoneLabel>
+  <CommandHideZoneDesc>Elrejti/felfedi a zónát.</CommandHideZoneDesc>
+
+  <CommandDeleteZoneLabel>Törlés</CommandDeleteZoneLabel>
+  <CommandDeleteZoneDesc>Zóna törlése.</CommandDeleteZoneDesc>
+
+  <CommandCopyZoneSettingsLabel>Beállítások másolása</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>A zóna beállításainak vágólapra másolása, más zónára való alkalmazás céljából.</CommandCopyZoneSettingsDesc>
+
+  <CommandPasteZoneSettingsLabel>Beállítások beillesztése</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>Felülírja a zóna beállításait a vágólapon szereplőkkel.</CommandPasteZoneSettingsDesc>
+
+  <CommandAllowSow>Vetés engedélyezése</CommandAllowSow>
+  <CommandAllowSowDesc>Kikapcsolt állapotban a gyarmatosok nem vetnek többé ide. Betakarítani fognak.</CommandAllowSowDesc>
+
+  <!-- Artillery -->
+  <CommandSetForceAttackTarget>Kényszerített célpont</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Az ágyúnak ezt a célpontot kell lőnie, amíg csak lehetséges.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Zárótűz leállítása</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Az ágyú arra lő, akire gondolja.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Jelenleg nincs zárótűz mód aktiválva.</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>Célpont túl messze van.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Célpont túl közel van.</MessageTargetBelowMinimumRange>
+  
+  <!-- Ship computer core -->
+  <CommandShipLaunch>Úrhajó kilövése</CommandShipLaunch>
+  <CommandShipLaunchDesc>A kilövési procedúra megkezdése a jelenlegi konfigurációval.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Kilövési jelentés</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Jelentés az űrhajó kilövési készültségéről.</CommandShipLaunchReportDesc>
+
+  <!-- Pod -->
+  <CommandPodEject>Hibernált felébresztése</CommandPodEject>
+  <CommandPodEjectDesc>Hibernált személy felébresztése és kiengedése.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Üres.</CommandPodEjectFailEmpty>
+
+  <!-- Door -->
+  <CommandToggleDoorForbid>Tilos az áthaladás</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>Tiltott ajtón nem mennek át a baráti egységek. Ellenségek és állatok viselkedését ez nem befolyásolja.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>Nyitva tart</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>A gyarmatosok nem fogják maguk után becsukni ezt az ajtót.</CommandToggleDoorHoldOpenDesc>
+
+  <!-- Temperature control -->
+  <CommandResetTemp>Alaphelyzet</CommandResetTemp>
+  <CommandResetTempDesc>Célhőmérsékletet szobahőmérsékletre állítani.</CommandResetTempDesc>
+  <CommandRaiseTempDesc>Célhőmérsékletet növelése.</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>Célhőmérsékletet csökkentése.</CommandLowerTempDesc>
+
+  <!-- Install/reinstall -->
+  <CommandInstall>Telepít</CommandInstall>
+  <CommandInstallDesc>Ez a tárgy jelenleg be van csomagolva szállításhoz vagy raktározáshoz. Ezzel a paranccsal telepítheted végső helyére.</CommandInstallDesc>
+  <CommandReinstall>Áttelepít</CommandReinstall>
+  <CommandReinstallDesc>Kijelöli a tárgyat leszerelésre majd áttelepítésre.</CommandReinstallDesc>
+  
+  <!-- Trade beacon -->
+  <CommandMakeBeaconStockpileDesc>Létrehoz egy raktárterületet, ami pontosan fedi a jeladó indítási körzetét.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileLabel>Raktárterület létrehozása</CommandMakeBeaconStockpileLabel>
+
+  <!-- Sun lamp -->
+  <CommandSunLampMakeGrowingZoneDesc>Létrehoz egy kertet, ami pontosan fedi a kvarclámpa hatósugarát.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>Kert létrehozása</CommandSunLampMakeGrowingZoneLabel>
+
+  <!-- Trap -->
+  <CommandAutoRearm>Automatikus élesítés</CommandAutoRearm>
+  <CommandAutoRearmDesc>Bekapcsolt állapotban a csapda magától élesedik miután valaki beleesett.</CommandAutoRearmDesc>
+  
+  <!-- Animal control -->
+  <CommandReleaseAnimalsLabel>Állatok kiengedése</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>Bekapcsolt állapotban a befogott állatok távolabbi célpontokat is támadhatnak. Ha kikapcsolod, a gazdájukat védik.</CommandReleaseAnimalsDesc>
+  
+  <!-- Squad attack -->
+  <CommandSquadAttack>Támad</CommandSquadAttack>
+  <CommandSquadAttackDesc>Utasítja a kijelölt gyarmatosokat, hogy támadják meg a kiválasztott célpontot.</CommandSquadAttackDesc>
+  
+  <!-- Hold fire -->
+  <CommandHoldFire>Tüzet szűntess</CommandHoldFire>
+  <CommandHoldFireDesc>Minden folyamatban lévő támadás beszűntetése.</CommandHoldFireDesc>
+  
+  <!-- Select plant to grow -->
+  <CommandSelectPlantToGrowMulti>Termeszteni kívánt növény</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrow>Növény: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrowDesc>Kijelöli milyen magvakat vessenek ide.</CommandSelectPlantToGrowDesc>
+  
+</LanguageData>

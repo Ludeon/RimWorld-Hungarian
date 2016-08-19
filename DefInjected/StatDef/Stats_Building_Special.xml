@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <DoorOpenSpeed.label>ajtónyitás sebesség</DoorOpenSpeed.label>
+  <DoorOpenSpeed.description>Milyen gyorsan nyílnak az ajtók.</DoorOpenSpeed.description>
+
+  <BedRestEffectiveness.label>pihenési hatékonyság</BedRestEffectiveness.label>
+  <BedRestEffectiveness.description>Mennyire hatékonyan piheni ki magát itt az ember.</BedRestEffectiveness.description>
+
+  <TrapMeleeDamage.label>sebzés (csapda)</TrapMeleeDamage.label>
+  <TrapMeleeDamage.description>Tipikusan ennyi sebzést okoz ez a csapda. A valós sebzés ettől eltérhet.</TrapMeleeDamage.description>
+
+  <TrapSpringChance.label>kioldási esély (csapda)</TrapSpringChance.label>
+  <TrapSpringChance.description>Ekkora eséllyel oldják ki ezt a csapdát, ha belelépnek.</TrapSpringChance.description>
+
+  <ResearchSpeedFactor.label>kutatási sebesség szorzó</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.description>Adott projekt kutatási sebességét befolyásolja ez az érték.</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.parts.1.customLabel>szoba tisztasága</ResearchSpeedFactor.parts.1.customLabel>
+
+  <MedicalTreatmentQualityFactor.label>ellátás minőség szorzó</MedicalTreatmentQualityFactor.label>
+  <MedicalTreatmentQualityFactor.description>Az ellátás minőségét befolyásolja.</MedicalTreatmentQualityFactor.description>
+
+  <ImmunityGainSpeedFactor.label>immunitás elérés szorzó</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.description>A betegek immunitásának kifejlődését befolyásolja.</ImmunityGainSpeedFactor.description>
+
+  <WorkTableWorkSpeedFactor.label>munkatempó szorzó</WorkTableWorkSpeedFactor.label>
+  <WorkTableWorkSpeedFactor.description>A munka sebességét befolyásolja.</WorkTableWorkSpeedFactor.description>
+
+  <EntertainmentStrengthFactor.label>szórakoztatási szorzó</EntertainmentStrengthFactor.label>
+  <EntertainmentStrengthFactor.description>Mennyire hatékonyan javítja az emberek hangulatát.</EntertainmentStrengthFactor.description>
+
+</LanguageData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ArmorRating_Blunt.label>védelem - zúzás</ArmorRating_Blunt.label>
+  <ArmorRating_Blunt.description>Védelem zúzó sebzés ellen, mint pl. bunkósbot, kőomlás, robbanások.</ArmorRating_Blunt.description>
+
+  <ArmorRating_Sharp.label>védelem - vágás</ArmorRating_Sharp.label>
+  <ArmorRating_Sharp.description>Védelem szúró, vágó sebzés ellen, mint pl. golyó, kés és állat harapás.</ArmorRating_Sharp.description>
+
+  <ArmorRating_Heat.label>védelem - hő</ArmorRating_Heat.label>
+  <ArmorRating_Heat.description>Védelem nagy hő ellen, pl. tűz.</ArmorRating_Heat.description>
+
+  <ArmorRating_Electric.label>védelem - elektromosság</ArmorRating_Electric.label>
+  <ArmorRating_Electric.description>Védelem áramütés és EMP gránát ellen.</ArmorRating_Electric.description>
+
+  <Insulation_Cold.label>szigetelés - hideg</Insulation_Cold.label>
+  <Insulation_Cold.description>Mennyivel tolja ki viselője  hőmérsékleti komfortzónáját negatív irányban.</Insulation_Cold.description>
+
+  <Insulation_Heat.label>szigetelés - meleg</Insulation_Heat.label>
+  <Insulation_Heat.description>Mennyivel tolja ki viselője  hőmérsékleti komfortzónáját pozitív irányban.</Insulation_Heat.description>
+
+  <PersonalShieldEnergyMax.label>max. pajzsenergia</PersonalShieldEnergyMax.label>
+  <PersonalShieldEnergyMax.description>Maximális energia, amire a személyi pajzs feltölthető. Több energia több sebzést nyel el.</PersonalShieldEnergyMax.description>
+
+  <PersonalShieldRechargeRate.label>pajzs újratöltődés</PersonalShieldRechargeRate.label>
+  <PersonalShieldRechargeRate.description>Sértetlen személyi pajzs újratöltési sebessége.</PersonalShieldRechargeRate.description>
+
+</LanguageData>

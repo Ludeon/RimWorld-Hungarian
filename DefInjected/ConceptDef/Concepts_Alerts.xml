@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Start-active concepts -->
+
+  <Forbidding.label>Interakció engedélyezése</Forbidding.label>
+  <Forbidding.helpTexts.0>A kolónia lakók nem fognak olyan dolgokhoz nyúlni amik TILTOTT-ak.\n\nVálaszd ki az élelmet és a fémet közel a földetérési területhez és nyomj F-et, hogy FELOLDOZ-d a tiltást róluk.</Forbidding.helpTexts.0>
+
+  <Stockpiles.label>Jelölj ki raktárterületet</Stockpiles.label>
+  <Stockpiles.helpTexts.0>A gyarmatosoknak kell egy hely, ahová pakolhatnak. Jelölj ki egy raktárterületet, ahová a tárgyakat szállíthatják.\n\nMegtalálod az ÉPÍTÉS menüben, ZÓNA alatt.</Stockpiles.helpTexts.0>
+
+  <GrowingFood.label>Jelölj ki kertet</GrowingFood.label>
+  <GrowingFood.helpTexts.0>Ahhoz, hogy élelmet termesszenek el kell helyezned egy KERT-et az ÉPÍTÉS menüt használva.\n\nCsak is termőföldet lehet kijelölni erre.</GrowingFood.helpTexts.0>
+
+  <!-- Timed concepts -->
+
+  <EquippingWeapons.label>Fegyverezz fel valakit</EquippingWeapons.label>
+  <EquippingWeapons.helpTexts.0>Ahhoz, hogy kolónia lakód felfegyverezze magát egy fegyverrel, válaszd ki a lakót és jobb-klikkelj a fegyveren.\n\nVannak fegyverek a kezdő helyhez közel.</EquippingWeapons.helpTexts.0>
+
+  <CameraZoom.label>Zoom</CameraZoom.label>
+  <CameraZoom.helpTexts.0>Közelíteni és távolítani az EGÉR GÖRGŐ-vel tudsz, vagy a T és G billentyűkkel.</CameraZoom.helpTexts.0>
+
+  <WorkTab.label>Prioritások</WorkTab.label>
+  <WorkTab.helpTexts.0>Minden kolónia lakónak beállíthatod a munkáját a BEOSZTÁS-nál, a képernyő bal-alsó sarkában.\n\nMindig a legnagyobb prioritású munkát fogják csinálni amit találnak.\n\nA lakók nem fogják azokat a feladatokat megcsinálni, amik nincsenek nekik beállítva.\n\nHa egy munka senkinek sincs beállítva, akkor senki se fogja megcsinálni.</WorkTab.helpTexts.0>
+
+  <TimeControls.label>Időkontroll</TimeControls.label>
+  <TimeControls.helpTexts.0>Fel tudod gyorsítani, lelassítani, vagy megállítani az időt a képernyő jobb-alsó sarkában található idővezérlővel</TimeControls.helpTexts.0>
+
+  <InfoCard.label>Infokártya</InfoCard.label>
+  <InfoCard.helpTexts.0>Az infokártya részletes adatokkal szolgál minden tárgyról, személyről vagy épületről.\n\nVálassz ki egy személyt és kattints az 'i'-re a felügyeleti panelen.</InfoCard.helpTexts.0>
+
+  <SpacePause.label>Szünet szóközzel</SpacePause.label>
+  <SpacePause.helpTexts.0>Üss SZÓKÖZ-t, hogy megállítsd, vagy elindítsd a játékot.\n\nHa a játék áll akkor is tudsz utasításokat osztani.\n\nNe feledd ez - ha a dolgok kaotikussá válnak, csak üss SZÓKÖZ-t!</SpacePause.helpTexts.0>
+
+  <StorageTab.label>Raktár fül</StorageTab.label>
+  <StorageTab.helpTexts.0>Be tudod állítani a gyűjtő helyeket és raktár épületeket, ha kiválasztod őket és megnyitod a RAKTÁR FÜL-et a bal-alsó sarokban lévő információs ablak fölött.</StorageTab.helpTexts.0>
+
+  <MedicalOperations.label>Orvosi műtétek</MedicalOperations.label>
+  <MedicalOperations.helpTexts.0>Ahhoz, hogy egy sebészeti beavatkozást megkezdjenek, mint például belső szervek kivételét, vagy protézis beillesztését, nyisd meg a kolónia lakó EGÉSZSÉG adatlapját, majd válts az MŰTÉTEK alfülre.</MedicalOperations.helpTexts.0>
+
+  <HomeArea.label>Lakókörzetek</HomeArea.label>
+  <HomeArea.helpTexts.0>A LAKÓKÖRZETEK alapján tudják a kolónia lakók, hogy hol kell takarítani és tüzet oltani.\n\nLAKÓKÖRZET-et meghatározhatsz az ÉPÍTÉS menüben a Zónák kategória alatt.</HomeArea.helpTexts.0>
+
+  <RightClickClearLetter.label>Jobb-klikk törlés</RightClickClearLetter.label>
+  <RightClickClearLetter.helpTexts.0>Gyorsan elnyomhatsz bejövő üzeneteket, ha jobb-klikkelsz rajtuk.</RightClickClearLetter.helpTexts.0>
+
+  <!-- Opportunity needer concepts -->
+
+  <BuildOrbitalTradeBeacon.label>Orbitális jeladó</BuildOrbitalTradeBeacon.label>
+  <BuildOrbitalTradeBeacon.helpTexts.0>Ahhoz, hogy tárgyakat, vagy ezüstöt küldj a bolygó körüli kereskedőknek, építened kell egy ORBITÁLIS JELADÓ-t a szabadban és tárgyakat kell tárolnod mellette.</BuildOrbitalTradeBeacon.helpTexts.0>
+
+  <SetGrowingZonePlant.label>Kert beállítása</SetGrowingZonePlant.label>
+  <SetGrowingZonePlant.helpTexts.0>Be tudod állítani, hogy milyen növényt termesszenek a termő zónában. Még fákat is növeszthetsz!\n\nCsak válaszd ki a termő zónát, nyisd meg a Termesztés fület és klikkelj az 'ültetés' gombra.</SetGrowingZonePlant.helpTexts.0>
+
+  <PrisonerTab.label>Fogoly fül</PrisonerTab.label>
+  <PrisonerTab.helpTexts.0>Nézd meg egy rabnak a FOGOLY adatlapját, hogy beállítsd a bánásmódját.\n\nSzükséged lesz egy kolónia lakóra kinek a munkája Börtön őr, hogy az foglalkozzon a rabokkal.</PrisonerTab.helpTexts.0>
+
+  <StoragePriority.label>Raktár prioritás</StoragePriority.label>
+  <StoragePriority.helpTexts.0>Megváltoztathatod a PRIORITÁS-ukat a raktáraknak. A kolónia lakók így fontosabb raktárokat töltenek fel hamarabb.</StoragePriority.helpTexts.0>
+
+  <HistoryTab.label>Napló</HistoryTab.label>
+  <HistoryTab.helpTexts.0>Kolóniád fejlődésének történetét nyomon követheted a NAPLÓ menüpontban a képernyő alján.</HistoryTab.helpTexts.0>
+
+</LanguageData>

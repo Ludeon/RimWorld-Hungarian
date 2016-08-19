@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MaxHitPoints.label>max. tartósság</MaxHitPoints.label>
+  <MaxHitPoints.description>Ez adja meg, hogy a tárgy mennyi sebzést képes elnyelni mielőtt tönkre megy.</MaxHitPoints.description>
+
+  <MarketValue.label>érték</MarketValue.label>
+  <MarketValue.description>A tárgy piaci értéke. A valós kereskedelmi ár ennek a kapcsolati státusz és az alkusz készség által módosított értéke.</MarketValue.description>
+
+  <SellPriceFactor.label>eladási szorzó</SellPriceFactor.label>
+  <SellPriceFactor.description>Árszorzó, mely megadja hogy mennyiért tudod eladni a tárgyat.</SellPriceFactor.description>
+
+  <Flammability.label>gyúlékonyság</Flammability.label>
+  <Flammability.description>Milyen könnyen fog tüzet a tárgy és mennyire erősen ég.</Flammability.description>
+
+  <WorkToMake.label>munkamennyiség</WorkToMake.label>
+  <WorkToMake.description>Mennyi munka szükséges az előállításhoz, ha az összes alapanyag és szerszám adott.</WorkToMake.description>
+
+  <DeteriorationRate.label>állagromlás</DeteriorationRate.label>
+  <DeteriorationRate.description>Annak mértéke, hogy milyen gyorsan romlik a tárgy állaga, ha a szabad ég alatt hagyják (különösen esőben).</DeteriorationRate.description>
+
+  <Beauty.label>szépség</Beauty.label>
+  <Beauty.description>Mennyire élvezetes a tárgy körül lenni és ránézni.</Beauty.description>
+
+  <Cleanliness.label>tisztaság</Cleanliness.label>
+  <Cleanliness.description>Mennyire tiszta a tárgy.</Cleanliness.description>
+
+  <Comfort.label>kényelem</Comfort.label>
+  <Comfort.description>Mennyire kényelmes ráülni vagy feküdni rajta.</Comfort.description>
+
+</LanguageData>

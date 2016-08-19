@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MoveSpeed.label>mozgási sebesség</MoveSpeed.label>
+  <MoveSpeed.description>A személy mozgási sebessége cella per másodpercben.</MoveSpeed.description>
+
+  <MentalBreakThreshold.label>idegösszeomlás küszöb</MentalBreakThreshold.label>
+  <MentalBreakThreshold.description>Ha személy hangulata ez alá az érték alá esik, bármikor összeomolhat.</MentalBreakThreshold.description>
+
+  <PsychicSensitivity.label>pszichotikus érzékenység</PsychicSensitivity.label>
+  <PsychicSensitivity.description>Pszichotikus jelenségek befolyása erre a személyre.</PsychicSensitivity.description>
+
+  <ToxicSensitivity.label>méreg érzékenység</ToxicSensitivity.label>
+  <ToxicSensitivity.description>Mérgező jelenségek befolyása erre a személyre.</ToxicSensitivity.description>
+
+  <GlobalLearningFactor.label>tanulási képesség</GlobalLearningFactor.label>
+  <GlobalLearningFactor.description>Milyen gyorsan képes a személy valamit megtanulni.</GlobalLearningFactor.description>
+
+  <EatingSpeed.label>fogyasztási sebesség</EatingSpeed.label>
+  <EatingSpeed.description>Milyen gyorsan képes a személy enni.</EatingSpeed.description>
+
+  <ComfyTemperatureMin.label>min. optimális hőmérséklet</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.description>E hőmérséklet alatt a személy rosszul érzi magát. Szignifikánsan e hőmérséklet alatt hipotermia alakul ki, majd fagyás, ami halálhoz vezet.</ComfyTemperatureMin.description>
+
+  <ComfyTemperatureMax.label>max. optimális hőmérséklet</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.description>E hőmérséklet felett a személy rosszul érzi magát. Szignifikánsan e hőmérséklet felett hőguta alakul ki, ami halálhoz vezet.</ComfyTemperatureMax.description>
+
+  <ImmunityGainSpeed.label>immunitás elérési sebesség</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.description>Az a sebesség, amivel a személy immunitást ér el bizonyos betegségre. Ha ez túl alacsony az alany belehal a betegségbe mielőtt immunissá válna.</ImmunityGainSpeed.description>
+
+  <CarryingCapacity.label>teherhordó kapacitás</CarryingCapacity.label>
+  <CarryingCapacity.description>Maximálisan ennyit képes ez a személy szállítani.</CarryingCapacity.description>
+
+  <MeatAmount.label>hús mennyiség</MeatAmount.label>
+  <MeatAmount.description>A hús mennyisége, ami eme teremtmény lemészárlásával nyerhető.</MeatAmount.description>
+
+  <LeatherAmount.label>bőr mennyiség</LeatherAmount.label>
+  <LeatherAmount.description>A bőr mennyisége, ami eme teremtmény lemészárlásával nyerhető.</LeatherAmount.description>
+
+  <MinimumHandlingSkill.label>min. gondozás készség</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.description>Ennél kisebb gondozás készséggel ez a teremtmény nem szelídíthető vagy idomítható.</MinimumHandlingSkill.description>
+
+</LanguageData>

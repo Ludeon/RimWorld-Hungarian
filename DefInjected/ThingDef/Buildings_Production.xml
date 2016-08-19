@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <CraftingSpot.label>munkahely</CraftingSpot.label>
+  <CraftingSpot.description>Egy hely egyszerű dolgok készítésére, mint például íjak, kések.</CraftingSpot.description>
+  
+  <!-- ========================= Work tables ==========================-->
+
+  <TableSculpting.label>szobrász asztal</TableSculpting.label>
+  <TableSculpting.description>Munkaasztal művészi faragványok készítéséhez.</TableSculpting.description>
+  
+  <TableButcher.label>hastok</TableButcher.label>
+  <TableButcher.description>Nehéz asztal állatok szétbontásához és húsuk feldolgozásához.</TableButcher.description>
+
+  <HandTailoringBench.label>varróasztal</HandTailoringBench.label>
+  <HandTailoringBench.description>Munkaasztal ruhák kézi varrásához. Az öltözékek a varrógéphez képest 60 százalékkal lassabban készülnek el.</HandTailoringBench.description>
+
+  <ElectricTailoringBench.label>varrógép</ElectricTailoringBench.label>
+  <ElectricTailoringBench.description>Munkaasztal varrógéppel, ruhák gyors készítéséhez. Áram nélkül is működik, de 60 százalékkal lassabban.</ElectricTailoringBench.description>
+
+  <FueledSmithy.label>kovácstűzhely (fatüzelés)</FueledSmithy.label>
+  <FueledSmithy.description>Egyszerű fatüzelésű munkaállomás nem mechanikus szerszámok és fegyverek készítéséhez.</FueledSmithy.description>
+
+  <ElectricSmithy.label>kovácstűzhely (elektromos)</ElectricSmithy.label>
+  <ElectricSmithy.description>Elektromos fűtésű munkaállomás nem mechanikus szerszámok és fegyverek készítéséhez.</ElectricSmithy.description>
+
+  <TableMachining.label>műszerész asztal</TableMachining.label>
+  <TableMachining.description>Munkaállomás gépek, fegyverek és mechanoid testek szét-, és összeszereléséhez.</TableMachining.description>
+
+  <ElectricStove.label>tűzhely (elektromos)</ElectricStove.label>
+  <ElectricStove.description>Elektromos tűzhely és pult ételek készítéséhez.</ElectricStove.description>
+
+  <FueledStove.label>tűzhely (fatüzelés)</FueledStove.label>
+  <FueledStove.description>Fatüzelésű tűzhely és pult ételek készítéséhez.</FueledStove.description>
+
+  <TableStonecutter.label>kőfaragó asztal</TableStonecutter.label>
+  <TableStonecutter.description>Asztal, amin nyers kövekből hasznos építőanyag készíthető.</TableStonecutter.description>
+
+  <Brewery.label>sörfőzde</Brewery.label>
+  <Brewery.description>Munkaállomás minden sörfőzéshez szükséges felszereléssel.</Brewery.description>
+
+  <ElectricSmelter.label>kohó (elektromos)</ElectricSmelter.label>
+  <ElectricSmelter.description>Kivonja a fémet a törmelékből és egyéb tárgyakból. Sok áramot fogyaszt.</ElectricSmelter.description>
+
+  <ComponentAssemblyBench.label>alkatrész összeszerelő</ComponentAssemblyBench.label>
+  <ComponentAssemblyBench.description>Munkaállomás fejlett eszközökkel, amikkel egyszerű anyagokból alkatrész készíthető.</ComponentAssemblyBench.description>
+
+  <!-- ========== Non-standard work buildings ==============-->
+  
+  <SimpleResearchBench.label>egyszerű laborasztal</SimpleResearchBench.label>
+  <SimpleResearchBench.description>Egyszerű munkaasztal íróeszközökkel és fejletlen tudományos felszereléssel. A kutatók itt fedeznek fel új dolgokat.</SimpleResearchBench.description>
+
+  <HiTechResearchBench.label>fejlett laborasztal</HiTechResearchBench.label>
+  <HiTechResearchBench.description>Fejlett munkaállomás számítógéppel és elektronikus mérőeszközökkel. A kutatást korszerű szerszámok gyorsítják. Működéséhez áram szükséges.</HiTechResearchBench.description>
+
+  <ElectricCrematorium.label>krematórium (elektromos)</ElectricCrematorium.label>
+  <ElectricCrematorium.description>Holttestek elhamvasztásához. Elektromos  fűtésű.</ElectricCrematorium.description>
+
+  <HydroponicsBasin.label>hidroponikus ágyás</HydroponicsBasin.label>
+  <HydroponicsBasin.description>Növények mesterséges tápanyag fürdőben való gyors termesztéséhez. Működéséhez áram szükséges. A növények elhalnak, ha az áramellátás megszűnik.</HydroponicsBasin.description>
+
+  <!--======================== Nutrient dispenser ==============================-->
+  
+  <NutrientPasteDispenser.label>tápanyag pépesítő</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.description>Tápanyagpépet állít elő organikus anyagokból. Kevesebb hozzávalót és időt igényel bármelyik másik ételkészítési módszernél, de senki sem szereti a végeredményt. Nyers ételt bevesz, de erősebb rostú növényi részeket (pl. széna) nem.</NutrientPasteDispenser.description>
+
+  <Hopper.label>adagoló</Hopper.label>
+  <Hopper.description>Alapanyagokat tárol és adagol más gépeknek, mint például a tápanyag pépesítő.</Hopper.description>
+
+  <!-- Work tables -->
+  
+  
+</LanguageData>

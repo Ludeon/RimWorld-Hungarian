@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BloodLoss.label>vérveszteség</BloodLoss.label>
+  <BloodLoss.stages.0.label>csekély</BloodLoss.stages.0.label>
+  <BloodLoss.stages.1.label>enyhe</BloodLoss.stages.1.label>
+  <BloodLoss.stages.2.label>közepes</BloodLoss.stages.2.label>
+  <BloodLoss.stages.3.label>erős</BloodLoss.stages.3.label>
+  <BloodLoss.stages.4.label>súlyos</BloodLoss.stages.4.label>
+
+  <Anesthetic.label>érzéketlenség</Anesthetic.label>
+
+  <Concussion.label>agyrázkódás</Concussion.label>
+
+  <CryptosleepSickness.label>hibernáció utóhatás</CryptosleepSickness.label>
+
+  <PsychicShock.label>pszichotikus sokk</PsychicShock.label>
+
+  <FoodPoisoning.label>ételmérgezés</FoodPoisoning.label>
+
+  <ToxicBuildup.label>mérgezés</ToxicBuildup.label>
+  <ToxicBuildup.stages.0.label>első rejtett eset</ToxicBuildup.stages.0.label>
+  <ToxicBuildup.stages.1.label>első eset</ToxicBuildup.stages.1.label>
+  <ToxicBuildup.stages.2.label>enyhe</ToxicBuildup.stages.2.label>
+  <ToxicBuildup.stages.3.label>közepes</ToxicBuildup.stages.3.label>
+  <ToxicBuildup.stages.4.label>erős</ToxicBuildup.stages.4.label>
+  <ToxicBuildup.stages.5.label>súlyos</ToxicBuildup.stages.5.label>
+
+  <Pregnant.label>terhesség</Pregnant.label>
+  <Pregnant.comps.0.discoverLetterLabel>{0} terhes</Pregnant.comps.0.discoverLetterLabel>
+  <Pregnant.comps.0.discoverLetterText>{0} terhes!</Pregnant.comps.0.discoverLetterText>
+  <Pregnant.stages.0.label>első trimeszter rejtett</Pregnant.stages.0.label>
+  <Pregnant.stages.1.label>második trimeszter</Pregnant.stages.1.label>
+  <Pregnant.stages.2.label>harmadik trimeszter</Pregnant.stages.2.label>
+
+  <HeartAttack.label>szívroham</HeartAttack.label>
+  <HeartAttack.stages.0.label>fájdalmas</HeartAttack.stages.0.label>
+  <HeartAttack.stages.1.label>legyengítő</HeartAttack.stages.1.label>
+  <HeartAttack.stages.2.label>halálos</HeartAttack.stages.2.label>
+  
+</LanguageData>

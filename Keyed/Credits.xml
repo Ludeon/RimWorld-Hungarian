@@ -1,20 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Names -->
-  <Credit_Ludomancer>Ludomancer</Credit_Ludomancer>
+  <MainPageCredit>Tynan Sylvester kolónia szimulátora</MainPageCredit>
+  
+  <Credits_Developers>Fejlesztők</Credits_Developers>
+  <Credit_DirectionVarious>Rendező, tervezés, programozás, művész</Credit_DirectionVarious>
   <Credit_MusicAndSound>Zene és hangeffektek</Credit_MusicAndSound>
-  <Credit_AdditionalProgramming>További programozás</Credit_AdditionalProgramming>
+  <Credit_Code>Programozás</Credit_Code>
   <Credit_GameArt>Játékbeli képek</Credit_GameArt>
   <Credit_MenuArt>Menü képek</Credit_MenuArt>
+  <Credit_AdditionalCode>További programozás</Credit_AdditionalCode>
+  
+  <Credit_SpecialThanks>Külön köszönet</Credit_SpecialThanks>
 
-  <Credits_TitleTesting>Teszt csapat</Credits_TitleTesting>
-  <Credit_Tester>Tesztelő</Credit_Tester>
+  <Credits_TitleCommunity>Közösségi önkéntesek</Credits_TitleCommunity>
+  <Credit_Tester>Tesztelők</Credit_Tester>
+  <Credit_ModDonation>Modderek</Credit_ModDonation>
+  <Credit_WritingDonation>Írók</Credit_WritingDonation>
+  <Credit_Moderator>Moderátorok</Credit_Moderator>
+  <Credit_WikiMaster>Wiki karbantartók</Credit_WikiMaster>
 
   <Credits_TitleLanguage>{0} nyelv</Credits_TitleLanguage>
   <Credit_Writer>Író</Credit_Writer>
   <Credit_Translator>Fordító</Credit_Translator>
   <Credit_OpenSourceLibraries>Nyílt forráskódú könyvtárak</Credit_OpenSourceLibraries>
   <Credit_NoiseGeneration>Zaj generálása</Credit_NoiseGeneration>
+
+  <ThanksForPlaying>Köszönjük, hogy játszottál!</ThanksForPlaying>
 
 </LanguageData>

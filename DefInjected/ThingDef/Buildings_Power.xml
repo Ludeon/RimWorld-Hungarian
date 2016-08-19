@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <PowerConduit.label>vezeték</PowerConduit.label>
+  <PowerConduit.description>Eljuttatja az áramot felhasználási helyéhez. Falak és egyéb tárgyak alatt átvezethető.</PowerConduit.description>
+
+  <PowerSwitch.label>kapcsoló</PowerSwitch.label>
+  <PowerSwitch.description>Ki/bekapcsolja az áramot.</PowerSwitch.description>
+
+  <FueledGenerator.label>mini hőerőmű</FueledGenerator.label>
+  <FueledGenerator.description>Fa elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</FueledGenerator.description>
+
+  <Battery.label>akkumulátor</Battery.label>
+  <Battery.description>Elektromos töltést tárol, ha felesleg termelődik, és leadja azt, ha hiány van. Vigyázat - a feltöltött akkumulátorok berobbanhatnak a nagy melegben vagy ha víz éri őket.</Battery.description>
+
+  <SolarGenerator.label>napelem</SolarGenerator.label>
+  <SolarGenerator.description>Napfény segítségével állít elő áramot. Sötétben hasztalan.</SolarGenerator.description>
+
+  <GeothermalGenerator.label>geotermikus generátor</GeothermalGenerator.label>
+  <GeothermalGenerator.description>Gejzírek segítségével állít elő áramot, mindenképp egy ilyenre kell telepíteni.</GeothermalGenerator.description>
+
+</LanguageData>

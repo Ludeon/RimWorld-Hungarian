@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Confirm>Jóváhagyás</Confirm>
+  <GoBack>Vissza</GoBack>
+  <OK>OK</OK>
+  
+  <!-- Recovered from errors caused by mods -->
+  <RecoveredFromErrorsDialogTitle>Korrupt vagy inkompatibilis mod okozta hiba</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>Úgy tűnik valamelyik aktív mod hibát okozott.\n\nÜtközik egy másik moddal, másik RimWorld verzióhoz lett írva vagy sérült .\n\nMinden mod ki lett kapcsolva, újra lehet őket aktiválni a Modok menüben.</RecoveredFromErrorsText>
+  
+  <!-- Errors during loading -->
+  <ErrorWhileLoadingAssetsTitle>Hiba eszközök betöltése közben</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>Hiba történt az eszközök betöltése közben. Ellenőrizze a hibanaplót!</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>A játék jelenleg egyedi modokkal fut - ezek problémát okozhatnak.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>Hiba térkép létrehozása közben</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>Hiba történt a térkép létrehozása közben. Ellenőrizze a hibanaplót!</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>Hiba térkép betöltése közben</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>Hiba történt a térkép betöltése közben. Ellenőrizze a hibanaplót!</ErrorWhileLoadingMap>
+  
+  <!-- Missing Steam -->
+  <SteamClientMissing>Steam API indítása sikertelen. Lehetséges okok:\n\n-Steam nem fut.\n-Steam-en kívülről indítva steam_appid.txt nélkül.\n-Steam-étől eltérő jogosultságokkal indítva (pl. "rendszergazdaként").\n\nEgy újraindítás a legtöbb esetben segíthet.\n\nA játék eme verziójához Steam szükséges, ezért most kilép.</SteamClientMissing>
+  
+  <!-- Long events -->
+  <InitializingInterface>Interfész inicializálása</InitializingInterface>
+  <UnloadingUnusedAssets>Nem használt eszközök törlése</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>Aktív modok betöltése</LoadingAllActiveMods>
+  <LoadingDefs>Def-ek betöltése</LoadingDefs>
+  <LoadingAssets>Eszközök betöltése</LoadingAssets>
+  <Initializing>Inicializálás</Initializing>
+  <LoadingWorld>Világ betöltése</LoadingWorld>
+  <LoadingMap>Térkép betöltése</LoadingMap>
+  <InitializingMap>Térkép inicializálása</InitializingMap>
+  <SpawningAllThings>Világ életre keltése</SpawningAllThings>
+  
+  <!-- Save/load -->
+  <SaveGameButton>Mentés</SaveGameButton>
+  <LoadGameButton>Betöltés</LoadGameButton>
+  <OverwriteButton>Felülír</OverwriteButton>
+  <ConfirmDelete>tényleg töröljük? {0}</ConfirmDelete>
+  <DeleteThisSavegame>Mentés törlése.</DeleteThisSavegame>
+  <SavedAs>Elmentve, mint {0}.</SavedAs>
+  <NeedAName>Adj egy nevet.</NeedAName>
+  <LoadingLongEvent>Töltés...</LoadingLongEvent>
+  <SavingLongEvent>Mentés...</SavingLongEvent>
+  <PermadeathModeSaveSuffix>(Valós halál)</PermadeathModeSaveSuffix>
+  <SaveIsFromDifferentGameVersion>Jelenlegi verzió: {0}, ám a mentés a következő verzióval lett készítve: {1}, ami teljesen más.\n\nValószínűleg nem fog működni.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>Jelenlegi verzió: {0}, ám a mentés a következő verzióval lett készítve: {1}, ami másik alverzió.\n\nElvileg működnie kéne.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>A mentés verziója megegyezik a játékéval, minden gond nélkül működnie kell.</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>A mentés formátuma ismeretlen és biztosan nem fog működni.</SaveIsUnknownFormat>
+  <ProblemSavingFile>Hiba a következő fájl mentése közben: {0}:\n\n{1}\n\nEllenőrizze a hibanaplót!.</ProblemSavingFile>
+  <LoadAnyway>Mindenképp betölt</LoadAnyway>
+  
+  <!-- Colony naming-->
+  <NameColonyMessage>Mindenki tudja, hogy nem akarsz sokáig maradni ezen a sziklán, de {0} azt javasolja, hogy azért adhatnátok a kolóniának egy nevet.\n\nHogy nevezzétek el?</NameColonyMessage>
+  <ColonyGainsName>A kolónia neve mostantól {0}.</ColonyGainsName>
+  <ColonyNameIsInvalid>Ez a kolónia név nem megfelelő.</ColonyNameIsInvalid>
+
+  <!-- Renaming -->
+  <NameIsInvalid>Érvénytelen név</NameIsInvalid>
+  <NameIsInUse>Foglalt név.</NameIsInUse>
+  <ZoneGainsName>A zóna neve mostantól {0}.</ZoneGainsName>
+  
+  <!-- Pawn naming -->
+  <PawnGainsName>Az embered beceneve mostantól {0}.</PawnGainsName>
+
+  <!-- Save game incompatible warning -->
+  <VersionMismatch>Verzióütközés</VersionMismatch>
+  <SaveGameIncompatibleWarningText>Verzió hiba: A térkép ezzel a játékverzióval volt elmentve {0}, most pedig a {1} verzió fut.\n\nEz betöltve valószínűleg bugokat és fagyást fog előidézni.</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>Verzió hiba: A világ ezzel a játékverzióval volt elmentve {0}, most pedig a {1} verzió fut.\n\nEz betöltve valószínűleg bugokat és fagyást fog előidézni. Új világ generálása javasolt.</WorldFileVersionMismatch>
+  <FileIncompatibleWarning>Verzió hiba: A fájl ezzel a játékverzióval volt elmentve {0}, most pedig a {1} verzió fut.\n\nEz betöltve valószínűleg bugokat és fagyást fog előidézni.</FileIncompatibleWarning>
+  <ModsMismatchWarningTitle>Modok nem egyeznek</ModsMismatchWarningTitle>
+  <ModsMismatchWarningText>Ezt a fájlt különböző aktív modkészlettel mentették el a jelenlegitől. Attól függően, hogy ezek a modok mit csinálnak, ez problémát okozhat.\n\nA fájlt ezekkel mentették el (ebben a sorrendben):\n\n{0}\n\nEzek aktívak most (ebben a sorrendben):\n\n{1}</ModsMismatchWarningText>
+
+  <!-- Resolution change dialog -->
+  <ConfirmResolutionChange>Megváltoztattad a felbontást. Megfelelő az új?\n\nAutomatikus visszaállítás {0}...</ConfirmResolutionChange>
+  <ResolutionKeep>Megtart</ResolutionKeep>
+  <ResolutionRevert>Visszaállítás</ResolutionRevert>
+
+  <!-- Research -->
+  <Research>Kutatás</Research>
+  <Researched>Felfedezve</Researched>
+  <Unresearched>Ismeretlen</Unresearched>
+  <Finished>Kész</Finished>
+  <InProgress>Folyamatban</InProgress>
+  <Locked>Zárva</Locked>
+  <ResearchMenuWithoutBench>Amíg nem építesz laborasztalt, addig az embereid nem lesznek képesek elkezdeni a kutatást.\n\nÁmbár addig is tudsz itt nézelődni és már most is választhatsz kutatási projektet.</ResearchMenuWithoutBench>
+  <ResearchPrerequisites>Kutatási előfeltételek</ResearchPrerequisites>
+  <RequiredResearchBench>Szükséges kutatólabor</RequiredResearchBench>
+  <RequiredResearchBenchFacilities>Szükséges kutatási felszerelés</RequiredResearchBenchFacilities>
+  
+  <!-- Advanced game start options -->
+  <MapTemperatureDangerWarning>FIGYELEM: Fagyott környezetbe érkezik. Nagyon nehéz, akár lehetetlen is lehet a túlélés. Ha nem akar extrém kihívást állítani maga elé, válasszon más leszállóhelyet vagy évszakot!</MapTemperatureDangerWarning>
+  <MapSizePerformanceWarning>FIGYELEM: A teljesítmény leromolhat nagyobb térkép méreteknél, hacsaknem a számítógéped kimondottan erős.\n\nHa gyenge géped van, válaszd a Kicsit.\n\nA Ludeonicrous méret nincs tesztelve és szinte teljesen biztosan nem lesz jól játszható.</MapSizePerformanceWarning>
+  <MapSize>Térkép méret</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} cella)</MapSizeDesc>
+  <MapSizeSmall>Kicsi</MapSizeSmall>
+  <MapSizeMedium>Közepes</MapSizeMedium>
+  <MapSizeLarge>Nagy</MapSizeLarge>
+  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+  <MapStartSeason>Kezdeti évszak:</MapStartSeason>
+  <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
+  <PermadeathMode>"Valós halál" mód</PermadeathMode>
+  <PermadeathModeInfo>"Valós halál" módban csak egy mentést lehet használni, azt is csak kilépéskor. Nem lehet állást visszatöltve rendbe hozni a hibákat, ha a kolónia kihal, ennyi volt.\n\nA RimWorld-öt ilyen játékmódra tervezték, minden drámai fordulatnak - legyen az tragikus vagy bíztató - maximális jelentősége van.</PermadeathModeInfo>
+
+  <!-- Bill config -->
+  <Suspended>Felfüggesztve</Suspended>
+  <NotSuspended>Nincs felfüggesztve</NotSuspended>
+  <SuspendedAllCaps>FELFÜGGESZTVE</SuspendedAllCaps>
+  <RepeatCount>Ismétlés: {0}</RepeatCount>
+  <Forever>Örökké</Forever>
+	<Details>Részletek</Details>
+  <IngredientSearchRadius>Hozzávalók keresési sugara</IngredientSearchRadius>
+  <CurrentlyHave>Jelenleg birtokolt</CurrentlyHave>
+  <CountingProducts>Darabszám</CountingProducts>
+  <Infinite>Végtelen</Infinite>
+  <AllowedSkillRange>Megengedett készségszint: {0}</AllowedSkillRange>
+  
+  <RecipeCannotHaveTargetCount>(Ennek a receptnek nem lehet célösszege, mert megjósolhatatlan, hogy mennyi készül belőle.)</RecipeCannotHaveTargetCount>
+  <WorkAmount>Elvégzett munka</WorkAmount>
+  <MinimumSkills>Minimum készség:</MinimumSkills>
+  <BillRequires>Szükséges: {0}db {1}</BillRequires>
+  <BillRequiresNutrition>Szükséges tápanyag: {0}</BillRequiresNutrition>
+  <BillRequiresMayVary>Megj.: kis helyet foglaló hozzávalókból, mint pl. az arany, 20x annyi kell.</BillRequiresMayVary>
+  <ThisIsSmallVolume>Ez egy kis térfogatú hozzávaló. Ez azt jelenti, hogy minden "egység" csak 1/20-a a normál térfogatú hozzávalóknak. Így ezekből hússzor annyi szükséges az adott recepthez.</ThisIsSmallVolume>
+  <UsableIngredients>felhasználható összetevők</UsableIngredients>
+  <DoXTimes>X darab készítése</DoXTimes>
+  <DoUntilYouHaveX>Gyártás X darabig</DoUntilYouHaveX>
+  <DoForever>Gyártás örökké</DoForever>
+  <BillRepeatTargetCountShort>{0}-ig</BillRepeatTargetCountShort>
+  <BillStoreMode_DropOnFloor>Kerüljön a földre</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>Kerüljön a legjobb raktárba</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>Kerüljön a legközelebbi raktárba</BillStoreMode_NearestStockpileAnyPriority>
+  
+  <!-- Info card -->
+  <Damage>Sebzés</Damage>
+  <Accuracy>Pontosság</Accuracy>
+  <BurstShotCount>Sorozatlövés száma</BurstShotCount>
+  <WarmupTime>Felkészülés</WarmupTime>
+  <MeleeWarmupTime>Közelharci bemelegedés</MeleeWarmupTime>
+  <CooldownTime>Szünet</CooldownTime>
+  <BurstShotFireRate>Tűzgyorsaság</BurstShotFireRate>
+  <Range>Távolság</Range>
+  <GrowsWild>Vadon terem</GrowsWild>
+  <Harvestable>Begyűjthető</Harvestable>
+  <LimitedLifespan>Korlátozott élettartam</LimitedLifespan>
+  <GrowingTime>Növekedési idő</GrowingTime>
+  <GrowingTimeDesc>A növények nem egész nap és csak fényben nőnek. Ez a szám mutatja meg mennyi tenyészidő szükséges a teljes kifejlődésig. Általában ennek kb. kétszerese szükséges, ha az eltelt időt nézzük. Az alacsony hőmérséklet is lassítja a növekedést.</GrowingTimeDesc>
+  <Days>nap</Days>
+  <MinGrowingSkillToSow>Minimális kertész készség a vetéshez</MinGrowingSkillToSow>
+  <FertilityRequirement>Termékenységi követelmény</FertilityRequirement>
+  <SoilFertilitySensitivityGrowthRate>Talaj termékenységi érzékenység (növekedési ráta)</SoilFertilitySensitivityGrowthRate>
+  <SoilFertilitySensitivityPlantChance>Talaj termékenységi érzékenység (kikelési esély)</SoilFertilitySensitivityPlantChance>
+  <LightRequirement>fény követelmény</LightRequirement>
+  <Attributes>Tulajdonságok</Attributes>
+  <LifeSpan>Élettartam</LifeSpan>
+  <Nutrition>Tápérték</Nutrition>
+  <Joy>Élvezeti érték</Joy>
+  <FoodQuality>Étel minősége</FoodQuality>
+  <WalkSpeedProperty>Mozgás sebessége</WalkSpeedProperty>
+  <MinFoodQuality>Min. étel minőség</MinFoodQuality>
+  <Diet>Étrend</Diet>
+  <RecruitDifficulty>Toborzási nehézség</RecruitDifficulty>
+  <MarketValue>Alapár</MarketValue>
+  <Covers>Fedezi</Covers>
+  <MedicineXpGainFactor>Tapasztalatszerzési faktor</MedicineXpGainFactor>
+  <BodyPartEfficiency>Testrész hatékonyság</BodyPartEfficiency>
+  <MoodChange>Hangulat változás</MoodChange>
+  <Wildness>Vadság</Wildness>
+  <WildnessExplanation>A vadabb állatokat nehezebb megszelídíteni, idomítani és tartani.</WildnessExplanation>
+  <AnimalFilthRate>Koszolás mértéke</AnimalFilthRate>
+  <AnimalFilthRateExplanation>Az állatok koszt hagynak maguk után épített padlón. Ez az átlagos mennyiségű termelt kosz {0} cellánként, amit az állat bejár.\n\nNagyobb és nem "házi kedvenc" típusú állatok jobban koszolnak.</AnimalFilthRateExplanation>
+  <TimeRecordsCategory>Idő</TimeRecordsCategory>
+  <MiscRecordsCategory>Egyéb</MiscRecordsCategory>
+
+  <!-- Trade -->
+  <PositiveBuysNegativeSells>Pozitív szám vételt jelent.\nNegatív szám eladást.</PositiveBuysNegativeSells>
+  <BuyPriceDesc>Ennyit fizetsz, hogy megvehesd.</BuyPriceDesc>
+  <SellPriceDesc>Ennyit kapsz, ha eladod.</SellPriceDesc>
+  <PriceTypeDesc>Ezért a termékért ez az ár {0}.</PriceTypeDesc>
+  <ColonyCount>Ennyi áll kereskedésre készen a kolóniának ebből a termékből.\n\nCsak akkor adhatsz el termékeket földkörüli kereskedőknek, ha azok nincsenek fedél alatt és Földkörüli Kereskedő Jeladó mellett vannak.</ColonyCount>
+  <TraderCount>Mennyi terméket árul a kereskedő.</TraderCount>
+  <AcceptButton>Elfogadás</AcceptButton>
+  <ResetButton>Visszaállítás</ResetButton>
+  <CancelButton>Mégse</CancelButton>
+  <YourTradeableSilver>A kereskedésre ennyi ezüst áll rendelkezésre: {0}</YourTradeableSilver>
+	<YourTradeableSilverTip>Csak azzal az ezüsttel kereskedhetsz, ami Földkörüli Kereskedő Jeladó mellet van és nincs tető alatt.</YourTradeableSilverTip>
+  <TraderHasNoMore>Nincs több a kereskedőnél.</TraderHasNoMore>
+  <ColonyHasNoMore>Nincs több eladó.</ColonyHasNoMore>
+  <TraderWillNotTrade>A kereskedő nem akarja megvenni ezt a terméket.</TraderWillNotTrade>
+  <NegotiatorTalkingImpaired>Az alkuszod, {0}, egészsége miatt nem tud rendesen beszélni.\n\nEz befolyásolja az árakat.\n\nHasználj egészségesebb alkuszt.</NegotiatorTalkingImpaired>
+  <ConfirmTraderShortFunds>A kereskedőnek nincs elég ezüstje ehhez az egyezséghez. Mindenképp megkötöd?</ConfirmTraderShortFunds>
+  <SortBy>Rendezés</SortBy>
+  
+  <!-- Comms -->
+  <SocialSkillIs>Szociális készség: {0}</SocialSkillIs>
+  
+  <!--Research-->
+  <ResearchFinished>Kutatás befejezve: {0}</ResearchFinished>
+  <ResearchScreen>Kutatási képernyő</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <HistoryUploadMessage>Szeretnéd feltölteni a játékod adatait a RimWorld szerverre, hogy ezzel segítsd a fejlesztőket, hogy kiegyensúlyozzák a játékot? Ha beleegyezel, az adatok feltöltésre kerülnek minden {0} naponta (és néhány más ritka esetben, mint a játék vége). Ezek a beállítások később is megváltoztathatóak a beállítások menüben.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Ha a történések anonim módon lesznek is elküldve, adhatod hozzá a nevedet is.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>A játék adatok feltöltésének engedélyezése</HistoryUploadYes>
+  <HistoryUploadNo>Ne legyen engedélyezve a játék adatainak feltöltése</HistoryUploadNo>
+  <HistoryUploadYesOnce>Feltöltés csak most</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Most ne töltsd fel, kérdezz rá később</HistoryUploadNoOnce>
+	
+  <!-- Outfit management -->
+  <Outfit>Felszerelés</Outfit>
+  <SelectOutfit>Felszerelés kiválasztása...</SelectOutfit>
+  <NewOutfit>Új felszerelés</NewOutfit>
+  <DeleteOutfit>Felszerelés törlése...</DeleteOutfit>
+  <OutfitInUse>A felszerelést {0} használja.</OutfitInUse>
+  <NoOutfitSelected>Nincs felszerelés kiválasztva</NoOutfitSelected>
+  
+  <!-- Growing -->
+  <NoGrowerCanPlant>A {0} vetéséhez szükséges Kert készség szintje: {1}.\n\nEgyik munkaképes emberednek sincs ilyenje, ezért ez a mag nem lesz elvetve.</NoGrowerCanPlant>
+
+</LanguageData>

@@ -2,33 +2,107 @@
 <LanguageData>
 
   <JumpToLocation>Helyszínhez ugrás</JumpToLocation>
+  
+  <LetterLabelFirstSummerWarning>Nyár</LetterLabelFirstSummerWarning>
+  <FirstSummerWarning>Elkezdődött a nyár! De a tél közeleg.\n\nA növények nem nőnek a téli hidegben. Raktározz el elegendő ételt, amíg teheted!.\n\nÉpíts hűtőházat, ami megakadályozza, hogy az étel megromoljon!\n\nÉs vegyél, lopj, vagy gyárts télikabátokat, különben megfagysz odakinn.</FirstSummerWarning>
 
-  <RelationsBrokenDown>A viszony {0}-val elromlott. Mostantól ellenségesek veled.</RelationsBrokenDown>
-  <RelationsWarmed>A viszony {0}-val megjavult. Mostantól nem ellenségesek veled.</RelationsWarmed>
+  <RelationsBrokenDown>A viszony {0} és közted elromlott. Mostantól ellenségesek veled.</RelationsBrokenDown>
+  <RelationsWarmed>A viszony {0} és közted megjavult. Mostantól nem ellenségesek veled.</RelationsWarmed>
 
-  <RelationsBrokenCapture>Mivel elfogtad {0}-t, így {1} mostantól az ellenséged.</RelationsBrokenCapture>
+  <RelationsBrokenCapture>Mivel elfogtad őt: {0}, így {1} mostantól az ellenséged.</RelationsBrokenCapture>
 
-  <ColonyGoodwill>Kolónia viszonya???</ColonyGoodwill>
-  <Neutral>Semlegesl</Neutral>
+  <ColonyGoodwill>Kolónia viszonya</ColonyGoodwill>
+  <Neutral>Semleges</Neutral>
 
   <ShortCircuitRain>Egy {0} rövidzárlatos lett az esőben és tüzet okozott.</ShortCircuitRain>
+
+  <LetterLabelAreaRevealed>Felfedezés</LetterLabelAreaRevealed>
   <AreaRevealed>Egy új terület lett felfedezve.</AreaRevealed>
+  <AreaRevealedWithMechanoids>Új terület lett felfedezve. Ősi, ellenséges mechanoidok találhatók itt.</AreaRevealedWithMechanoids>
 
   <RoofCollapsed>Egy tető beomlott, mert túl messze volt minden támasztéktól.</RoofCollapsed>
   <TheseThingsCrushed>Ezek a dolgok lettek összezúzva:</TheseThingsCrushed>
   <NothingCrushed>Semmi sem lett összezúzva.</NothingCrushed>
+  <LetterLabelRoofCollapsed>Beomlás</LetterLabelRoofCollapsed>
+  
+  <RecruitSuccess>{0} sikeresen toborozta őt: {1} ({2} esély).</RecruitSuccess>
+  <RecruitFail>{0} sikertelenül próbálta toborozni őt: {1} ({2} esély).</RecruitFail>
 
-  <MentalBreakRampage>{0} fejében valami elpattant és őrjöngésbe kezdett.</MentalBreakRampage>
-  <MentalBreakDaze>{0} feladta és most kábultan sétálgat.</MentalBreakDaze>
-  <MentalBreakLeave>{0} feladta és elhagyja a kolóniát.</MentalBreakLeave>
+  <LetterLabelBirthday>Születésnap</LetterLabelBirthday>
+  <BirthdayChronological>Ma van {0}  naptári születésnapja! Biológiailag {1} {3} éves.\n\nNaptárilag, {1} most lett {2}.\n\nVedd figyelembe, hogy hibernáció alatt biológiailag nem öregszik a gyarmatos, ezért a naptári és a biológiai kor külön van nyilvántartva.</BirthdayChronological>
+  <BirthdayBiologicalAgeInjuries>{0} biológiai kora {1} lett.\n\nSajnos {0} a következő betegségeket szedte össze a kora miatt:\n{2}</BirthdayBiologicalAgeInjuries>
 
-  <RecruitSuccess>{0} sikeresen besorozta??? {1}-t ({2} esély???).</RecruitSuccess>
-  <RecruitFail>{0} sikertelenül próbálta besorozni??? {1}-t ({2} esély???).</RecruitFail>
-
-  <Birthday>Ma van {0} születésnapja! {1} ma lett {2}.</Birthday>
-  <BirthdayWithInjuries>Ma van {0} születésnapja! {1} ma lett {2}.\n\nSajnos, {0} a korral a következő betegségek alakultak ki nála:\n{3}</BirthdayWithInjuries>
-
+  <LetterLabelNewDisease>Betegség</LetterLabelNewDisease>
   <NewDisease>{0} beteg lett ({1}). Győződj meg róla, hogy {0} megfelelő ellátást kap és annyi időt tölt ágyban, amennyit csak lehetséges, hogy gyorsan felépüljön.</NewDisease>
   <NewPartDisease>{0} {1} fertőzést kapott. Győződj meg róla, hogy {0} megfelelő ellátást kap és annyi időt tölt ágyban, amennyit csak lehetséges, hogy gyorsan felépüljön.</NewPartDisease>
+
+  <LetterLabelAncientShrineWarning>Ősveszély</LetterLabelAncientShrineWarning>
+  <AncientShrineWarning>Ahogy {0} közeledik az ősi falhoz, rossz előérzete támad. Nem biztos benne miért, de úgy érzi, ez a poros épület nagy veszélyt rejteget.</AncientShrineWarning>
+
+  <StruckMineable>A következőbe ütköztünk: {0}!</StruckMineable>
+
+  <LetterLabelAnimalManhunterRevenge>{0} bosszú</LetterLabelAnimalManhunterRevenge>
+  <AnimalManhunterFromDamage>Egy {0} támad, mert bántották!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>Egy {0} támad, mert megpróbálták megszelídíteni!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>Egy másik {0} a közelben szintén megvadult!</AnimalManhunterOthers>
+
+  <LetterFriendlyTrapSprungLabel>{0} csapdába esett</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{0} véletlenül csapdába esett és megsérült.</LetterFriendlyTrapSprung>
+
+  <LetterHealthComplications>{0} betegséget szedett össze: {1}\n\nEz a következő komplikációja: {2}.</LetterHealthComplications>
+  <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
+  
+  <LetterHediffFromRandomHediffGiver>{0} betegséget szedett össze: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
+  
+  <LetterLeadersDeathLabel>Vezér halála</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>A {0} frakció vezére, {1}, meghalt és {2} lépett a helyébe.</LetterLeadersDeath>
+  
+  <MentalBreakLetterLabel>Idegösszeomlás</MentalBreakLetterLabel>
+  <MentalBreakReason>Oka: {0}.</MentalBreakReason>
+  
+  <!-- Related pawns -->
+  <LetterLabelNoticedRelatedPawns>Rokonság</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>Az érkező csoportban ({0}) olyan személy van, aki rokona valamelyik gyarmatosodnak.\n\nNe feledd, hogy ettől függetlenül megtámadhatják egymást a frakciók rossz viszonya miatt.\n\nA személyek:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>Az érkező baráti csoportban ({0}) olyan személy van, aki rokona valamelyik gyarmatosodnak:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>Az érkező csoportban olyan személy van, aki rokona valamelyik gyarmatosodnak:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>Az űrkereskedő olyan személyt árul, aki rokona valamelyik gyarmatosodnak:</LetterRelatedPawnsTradeShip>
+  
+  <RelationshipAppendedLetterSuffix>(kapcsolat)</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterTextColonist>NAME kapcsolatban ({1}) áll az egyik gyarmatossal ({0}).</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>NAME kapcsolatban ({1}) áll az egyik fogollyal ({0}).</RelationshipAppendedLetterTextPrisoner>
+  
+  <!-- Attempt romance / propose interaction -->
+  <LetterLabelAffair>Viszony</LetterLabelAffair>
+  <LetterAffair>{0} és {1} bár házasok, {0} és {2} viszonyt kezdett.</LetterAffair>
+  <LetterLabelNewLovers>Új szerelmes pár</LetterLabelNewLovers>
+  <LetterNewLovers>{0} és {1} összejöttek és egy pár lettek.</LetterNewLovers>
+  <LetterNoLongerLovers>{0} és {1} szakítottak egymással.</LetterNoLongerLovers>
+  <LetterLabelBreakup>Szakítás</LetterLabelBreakup>
+  <LetterLabelAcceptedProposal>Igent mondott!</LetterLabelAcceptedProposal>
+  <LetterLabelRejectedProposal>Kikosarazva!</LetterLabelRejectedProposal>
+  <LetterAcceptedProposal>{1} elfogadta {0} házassági ajánlatát.\n\nValamikor a közeli jövőben megtartják a ceremóniát, ahová minden gyarmatost meghívnak. Helyezz el házasságkötő pontot, ha befolyásolni akarod az ünnepség helyét.</LetterAcceptedProposal>
+  <LetterRejectedProposal>{1} visszautasította {0} házassági ajánlatát. {0} le lesz lombozva ettől.</LetterRejectedProposal>
+  
+  <!-- Generalized letter labels -->
+  <LetterLabelRelationsChangeGood>Jókívánság</LetterLabelRelationsChangeGood>
+  <LetterLabelRelationsChangeBad>Rossz akarat</LetterLabelRelationsChangeBad>
+  <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
+  <LetterLabelMentalBreakdown>Idegösszeomlás</LetterLabelMentalBreakdown>
+  
+  <!-- Bonded animals -->
+  <LetterLabelBondedAnimalDied>Kötődő állat halála</LetterLabelBondedAnimalDied>
+  <LetterBondedAnimalDied>{0}, {1} állata kimúlt. Ez befolyásolja {1} hangulatát.</LetterBondedAnimalDied>
+  <LetterNamedBondedAnimalDied>{1} nevű {0}, {2} állata kimúlt. Ez befolyásolja {2} hangulatát.</LetterNamedBondedAnimalDied>
+  <LetterBondedAnimalDiedMulti>{0} kimúlt. Ez a következő emberek hangulatát befolyásolja:\n\n{1}</LetterBondedAnimalDiedMulti>
+  <LetterNamedBondedAnimalDiedMulti>{1} nevű {0} kimúlt. Ez a következő emberek hangulatát befolyásolja:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
+
+  <!-- Prison break -->
+  <LetterLabelPrisonBreak>Szökés</LetterLabelPrisonBreak>
+  <LetterPrisonBreak>Foglyok szökésben! Valahogy feltörték a zárat és megpróbálnak kijutni. Lehet, hogy fegyvert keresnek és harcolnak vagy megpróbálnak elmenekülni. A következő foglyokról van szó:\n\n{0}\n\nA foglyok nagyobb eséllyel próbálnak meg kitörni, ha boldogtalanok, többen vannak és egészségesek.</LetterPrisonBreak>
+  
+  <!-- Party -->
+  <LetterLabelNewParty>Buli!</LetterLabelNewParty>
+  <LetterNewParty>{0} bulit rendez! Aki elmegy élvezni fogja, hosszan tartó hangulatjavulást eredményezve.</LetterNewParty>
 
 </LanguageData>

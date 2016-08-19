@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Pure stuffs: Basics -->
+
+  <Silver.label>ezüst</Silver.label>
+  <Silver.description>Ez a fém leginkább valutaként használatos. Ezenkívül szép díszítéseket is lehet belőle készíteni.</Silver.description>
+  <Silver.stuffProps.stuffAdjective>ezüst</Silver.stuffProps.stuffAdjective>
+
+  <Gold.label>arany</Gold.label>
+  <Gold.description>A legcsábítóbb fém mind közül. Milliók haltak meg, miközben az emberiség arany utáni olthatatlan szomját próbálták csillapítani. Ez a puha fém amúgy nem túl hasznos, de feltűnően gyönyörű és nagyon ritka.</Gold.description>
+  <Gold.stuffProps.stuffAdjective>arany</Gold.stuffProps.stuffAdjective>
+
+  <Steel.label>acél</Steel.label>
+  <Steel.description>Vas és szén ötvözete, melyből épületek, szerszámok és fegyverek készülnek.</Steel.description>
+  <Steel.stuffProps.stuffAdjective>acél</Steel.stuffProps.stuffAdjective>
+
+  <Plasteel.label>plasztacél</Plasteel.label>
+  <Plasteel.description>Fejlett, rétegelt szerkezetű anyag, üvegszál és acél ötvözete. A plasztacél nagyon erős, egyedi molekuláris szerkezete miatt.</Plasteel.description>
+
+  <WoodLog.label>fa</WoodLog.label>
+  <WoodLog.description>Fás szárú növényekből kinyert építőanyag. Épületek, fegyverek vagy egyszerű művégtagok is készíthetők belőle. Egy egyszerű fadarab használható fegyverként is, ha baj van.</WoodLog.description>
+  <WoodLog.stuffProps.stuffAdjective>fa</WoodLog.stuffProps.stuffAdjective>
+
+  <Uranium.label>urán</Uranium.label>
+  <Uranium.description>Nagyon kemény, sűrű fém. Legjobban atomerőművek hajtóanyagaként ismert, de fizikai tulajdonságai miatt tökéletes szerszám, fegyver vagy páncélzat alapanyag.</Uranium.description>
+  <Uranium.stuffProps.stuffAdjective>urán</Uranium.stuffProps.stuffAdjective>
+
+  <Jade.label>jáde</Jade.label>
+  <Jade.description>Kemény, zöld színű kő. Szépsége és ritkasága miatt a jádét gyakran használják ékkőként és díszítésként. Keménysége és sűrűsége miatt jó alapanyaga lehet zúzó fegyvereknek.</Jade.description>
+  <Jade.stuffProps.stuffAdjective>jáde</Jade.stuffProps.stuffAdjective>
+
+  <!-- Pure stuffs: Fabric, leather, etc  -->
+
+  <Cloth.label>szövet</Cloth.label>
+  <Cloth.description>Organikus szálakból szőtt szövet.</Cloth.description>
+  <Cloth.stuffProps.stuffAdjective>szövet</Cloth.stuffProps.stuffAdjective>
+
+  <Synthread.label>synszövet</Synthread.label>
+  <Synthread.description>Űrutazásban használt szintetikus szövet, melyből hétköznapi ruhákat készítenek. Puha, könnyű, erős és jól szigetel.</Synthread.description>
+  <Synthread.stuffProps.stuffAdjective>synszövet</Synthread.stuffProps.stuffAdjective>
+
+  <DevilstrandCloth.label>ördögszövet</DevilstrandCloth.label>
+  <DevilstrandCloth.description>Ördögfonálgombából kinyert mikroszálból szőtt szövet. Nagyon ellenálló, de nem szigetel jobban, mint az egyszerű szövet.</DevilstrandCloth.description>
+  <DevilstrandCloth.stuffProps.stuffAdjective>Ördögszövet</DevilstrandCloth.stuffProps.stuffAdjective>
+
+  <Hyperweave.label>hiperszövet</Hyperweave.label>
+  <Hyperweave.description>Fejlett nanoszálakból szőtt szövet. Kissé nehéz, de szinte lehetetlen elszakítani. Készítésének titka csak a legfejlettebb világok kultúráiban ismert.</Hyperweave.description>
+  <Hyperweave.stuffProps.stuffAdjective>hiperszövet</Hyperweave.stuffProps.stuffAdjective>
+
+
+  <!--=====================================================================-->
+  <!--=============================== Wool ================================-->
+  <!--=====================================================================-->
+  
+  <MegatheriumWool.label>lajhár gyapjú</MegatheriumWool.label>
+  <MegatheriumWool.description>Bár kissé durva, a lajhár gyapjú hosszú szálai miatt nagyon erős. Nagyon meleg.</MegatheriumWool.description>
+  <MegatheriumWool.stuffProps.stuffAdjective>lajhár gyapjú</MegatheriumWool.stuffProps.stuffAdjective>
+  
+  <MuffaloWool.label>muffalo gyapjú</MuffaloWool.label>
+  <MuffaloWool.description>Puha, könnyű és nagyon jól szigetel. A gyapjúszövet képes melegen tartani a testet a leghidegebb körülmények között is.</MuffaloWool.description>
+  <MuffaloWool.stuffProps.stuffAdjective>muffalo gyapjú</MuffaloWool.stuffProps.stuffAdjective>
+
+  <CamelHair.label>teveszőr</CamelHair.label>
+  <CamelHair.description>Teveszőr ruházatot általában sivatagi utazók hordanak, hogy megvédje őket a melegtől. Remek szigetelést biztosít hőszabályzó tulajdonsága miatt.</CamelHair.description>
+  <CamelHair.stuffProps.stuffAdjective>teveszőr</CamelHair.stuffProps.stuffAdjective>
+
+  <AlpacaWool.label>alpaka gyapjú</AlpacaWool.label>
+  <AlpacaWool.description>Egy alpaka rendkívül puha gyapjúja. Nagyon meleg.</AlpacaWool.description>
+  <AlpacaWool.stuffProps.stuffAdjective>alpaka gyapjú</AlpacaWool.stuffProps.stuffAdjective>
+
+</LanguageData>

@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Autosaving>Auto mentés</Autosaving>
-
-  <GameStartDialog>Sziréna és hasadó fém hangjára ébredtek hárman a krio-álom kapszuláitokban. Épphogy csak elértétek a mentőkabinjaitokat mielőtt a hajó széthullott.\n\nKicsivel később ezen az ismeretlen bolygón landoltatok.\n\nMiközben a szétszaggatott hajó darabjai hullanak rátok, elkezdtek terveket szőni a túlélésről.</GameStartDialog>
+  <Autosaving>Automentés</Autosaving>
+  
+  <GameStartDialog>Recsegő fém és szirénák hangja ébreszt fel a hibernációból két társaddal együtt. Alig éritek el a mentőkabinokat mielőtt a hajó szétszakad.\n\nNem sokkal később ezen az ismeretlen peremvilágon landoltok.\n\nMiközben a szétszaggatott hajó darabjai hullanak rátok, elkezdtek terveket szőni a túlélésről.</GameStartDialog>
 
   <Colony>Kolónia</Colony>
-
+  
   <ChangeLanguageFromMainMenu>Csak a főmenü beállításaiban tudsz nyelvet változtatni.</ChangeLanguageFromMainMenu>
 
   <AndLower>és</AndLower>
@@ -14,10 +14,25 @@
 
   <CloseButton>Bezárás</CloseButton>
 
-  <VersionIndicator>Verzió {0}</VersionIndicator>
+  <VersionIndicator>Verzió: {0}</VersionIndicator>
   <DevelopmentBuildLower>fejlesztő kiadás</DevelopmentBuildLower>
-  <CompiledOn>Fordítás {0}</CompiledOn>
+  <CompiledOn>Kiadva: {0}</CompiledOn>
+  <LoggedIntoSteamAs>Bejelentkezve a Steambe mint {0}</LoggedIntoSteamAs>
 
+  <!-- General-use words -->
+  <Yes>Igen</Yes>
+  <No>Nem</No>
+  <min>min</min>
+  <max>max</max>
+  <chance>esély</chance>
+  <context>kontextus</context>
+  <multiplier>szorzó</multiplier>
+  <damage>sebzés</damage>
+  <radius>sugár</radius>
+  <durationDays>időtartam (nap)</durationDays>
+
+  <!-- Content generation-->
+  
 	<MeatLabel>{0} hús</MeatLabel>
   <MeatDesc>A {0} nyers húsa.</MeatDesc>
 
@@ -28,16 +43,29 @@
 	<CorpseDesc>A {0} halott teste.</CorpseDesc>
   <DeadLabel>{0} (halott)</DeadLabel>
 
-	<BlueprintLabelExtra> (alaprajz)</BlueprintLabelExtra>
+  <RoughStoneTerrainLabel>göröngyös {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Göröngyös, természetes {0} terep.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>Durván faragott {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Durván faragott {0} terep.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>sima {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Lesimított {0} terep.</SmoothStoneTerrainDesc>
+
+  <BlueprintLabelExtra> (tervrajz)</BlueprintLabelExtra>
   <FrameLabelExtra> (építés alatt)</FrameLabelExtra>
 
+
   <!-- For things made of stuff, e.g. "Stone bed" -->
-  <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
+  <SomeonesRoom>{0} {1}-ja</SomeonesRoom>
+  <CouplesRoom>{0} és {1} {2}</CouplesRoom>
+  
   <VariousLabel>(többféle)</VariousLabel>
 
   <!-- History events -->
   <ColonistDied>Gyarmatos meghalt</ColonistDied>
-
+  
+  
+  
 </LanguageData>

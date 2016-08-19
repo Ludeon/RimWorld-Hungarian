@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MapDollyUp.label>felfelé</MapDollyUp.label>
+  <MapDollyDown.label>lefelé</MapDollyDown.label>
+  <MapDollyLeft.label>balra</MapDollyLeft.label>
+  <MapDollyRight.label>jobbra</MapDollyRight.label>
+  <MapZoomIn.label>közelít</MapZoomIn.label>
+  <MapZoomOut.label>távolít</MapZoomOut.label>
+
+  <!-- Map play -->
+
+  <TakeScreenshot.label>Pillanatkép</TakeScreenshot.label>
+  <ToggleScreenshotMode.label>Pillanatkép mód váltása</ToggleScreenshotMode.label>
+  <SelectNextInCell.label>Következő tárgy a cellában</SelectNextInCell.label>
+  <TogglePause.label>Pillanat állj</TogglePause.label>
+  <TimeSpeedNormal.label>Sebesség: normál</TimeSpeedNormal.label>
+  <TimeSpeedFast.label>Sebesség: gyors</TimeSpeedFast.label>
+  <TimeSpeedSuperfast.label>Sebesség: nagyon gyors</TimeSpeedSuperfast.label>
+  <TimeSpeedUltrafast.label>Sebesség: ultra (debug)</TimeSpeedUltrafast.label>
+  <PreviousColonist.label>Előző gyarmatos</PreviousColonist.label>
+  <NextColonist.label>Következő gyarmatos</NextColonist.label>
+
+  <!-- Misc (re-used) -->
+
+  <Misc1.label>Egyéb 1</Misc1.label>
+  <Misc2.label>Egyéb 2</Misc2.label>
+  <Misc3.label>Egyéb 3</Misc3.label>
+  <Misc4.label>Egyéb 4</Misc4.label>
+  <Misc5.label>Egyéb 5</Misc5.label>
+  <Misc6.label>Egyéb 6</Misc6.label>
+  <Misc7.label>Egyéb 7</Misc7.label>
+  <Misc8.label>Egyéb 8</Misc8.label>
+  <Misc9.label>Egyéb 9</Misc9.label>
+  <Misc10.label>Egyéb 10</Misc10.label>
+  <Misc11.label>Egyéb 11</Misc11.label>
+  <Misc12.label>Egyéb 12</Misc12.label>
+
+  <!-- Selection special -->
+
+  <CommandTogglePower.label>Áram be/ki</CommandTogglePower.label>
+  <CommandItemForbid.label>Tiltott be/ki</CommandItemForbid.label>
+  <CommandColonistDraft.label>Besorozás be/ki</CommandColonistDraft.label>
+
+  <!-- Architect: Common -->
+
+  <DesignatorCancel.label>Visszavon</DesignatorCancel.label>
+  <DesignatorDeconstruct.label>Lebontás</DesignatorDeconstruct.label>
+  <DesignatorRotateLeft.label>Balra fordít</DesignatorRotateLeft.label>
+  <DesignatorRotateRight.label>Jobbra fordít</DesignatorRotateRight.label>
+
+  <!-- Debug -->
+
+  <ToggleLog.label>Logolás be/ki</ToggleLog.label>
+  <DebugTickOnce.label>Debug: egy tick</DebugTickOnce.label>
+
+</LanguageData>

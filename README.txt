@@ -10,53 +10,23 @@ http://ludeon.com/forums/index.php?topic=2933.0
 
 Translators:
 ---------------------
+- pluhi
+
+Some text used from old translation created by:
 - Jamesgt
 - SjoCi
 - Moredoor
 
-Known issues:
----------------------
-Unity renders some characters odd in-game, but it is readable.
+Also kudos to German translators. I used their DefInjected XMLs as base.
 
 Status:
 ---------------------
 
-Untranslated, Started, Done, Tested
-
 DefInjected:
- BiomeDefs:
-   BiomesBase - D
- BodyDeft: 
-   Bodies - D
- BodyPartDefs:   
-   BodyParts - D
- BodyPartGroupDeft: 
-   BodyPartGroup - D
- ConceptDefs:
-   Concepts_SpecialModal - D
-   Concepts_Entry - D
-   Concepts_HighPrio - D
-   Concepts_LowPrio - D
- DemageTypeDefs:
-   BaseDamageTypes - U
- DesignationCategoryDefs
-   DesignationCategories - D
+Old defs converted to new format and merged with German defs. Rest of the defs added from German translation. All done.
 
+Keyed:
+Done.
 
-Keyed
- Credits - D
- Dates - D
- Designators - S
- DialogsVarious - D
- DialogTrees - D
- Enums - D
- FloatMenu - D
- Letters - D
- Menu_Options - D
- Menus_Overview - D
- Messages - D
- Misc - D
- PlayInterface - D
- Pronouns - D
- Skills - D
- WorkTags - D
+Strings:
+Considered done. ColonyNames not translated, maybe later. Other strings could use some love too to avoid really stupid faction names for example.

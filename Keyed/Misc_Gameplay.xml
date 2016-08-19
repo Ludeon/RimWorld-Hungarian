@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Various -->
+  <WorkLeft>Hátralévő munka</WorkLeft>
+  <Contents>Tartalom</Contents>
+  <ContainedResources>Tartalmazott anyagok</ContainedResources>
+  <ForPrisonerUse>Fogoly számára</ForPrisonerUse>
+  <ForColonistUse>Gyarmatos számára</ForColonistUse>
+  <MedicalBed>Betegágy</MedicalBed>
+  <Owner>Tulajdonos</Owner>
+  <Owners>Tulajdonosok</Owners>
+  <AssignedColonist>Beosztott gyarmatos</AssignedColonist>
+  <Nobody>Senki</Nobody>
+  <Unowned>Gazdátlan</Unowned>
+  <DeadTime>Mióta halott: {0}</DeadTime>
+  <WalkSpeed>gyaloglási sebesség: {0}</WalkSpeed>
+  <FertShort>term.</FertShort>
+  <DyingLower>haldoklik</DyingLower>
+  <FilthOnFeet>Mocskos láb?:</FilthOnFeet>
+  <NotEnoughStoredLower>nincs elég raktáron</NotEnoughStoredLower>
+  <NothingLower>semmi</NothingLower>
+  <Adapted>Átalakított</Adapted>
+  <FreshMissingBodyPart>friss</FreshMissingBodyPart>
+  <UntreatedLower>kezeletlen</UntreatedLower>
+  <DevelopedImmunityLower>kialakult immunitás</DevelopedImmunityLower>
+  <InjuryRequiresTreatment>Kezelés szükséges</InjuryRequiresTreatment>
+  <NextTreatmentIn>Következő kezelés: {0}</NextTreatmentIn>
+  <MissingMedicalBillIngredient>nincs {0}</MissingMedicalBillIngredient>
+  <Immunity>Immunitás</Immunity>
+  <Race>Faj</Race>
+  <Description>Leírás</Description>
+  <Equipment>Felszerelés</Equipment>
+  <Apparel>Ruházat</Apparel>
+  <Inventory>Leltár</Inventory>
+  <ThingInfo>Információ</ThingInfo>
+  <DropThing>Eldob</DropThing>
+  <Rename>Átnevez</Rename>
+  <RenameColonist>Gyarmatost átnevez</RenameColonist>
+  <UnknownLower>ismeretlen</UnknownLower>
+  <On>Be</On>
+  <Off>Ki</Off>
+  <PowerSwitch_Power>Áram</PowerSwitch_Power>
+  <JoyTolerances>Élvezeti tolerancia</JoyTolerances>
+  <MilkFullness>Tejszint</MilkFullness>
+  <WoolGrowth>Gyapjúhozam</WoolGrowth>
+  <EggProgress>Keltetési stádium</EggProgress>
+  <Fertilized>Megtermékenyített</Fertilized>
+  <ProgressStoppedUntilFertilized>Megtermékenyítésig áll</ProgressStoppedUntilFertilized>
+  <SkillTooLow>{2} szintű {0} szükséges, jelenlegi: {1}</SkillTooLow>
+  <EggDamagedEmbryo>sérült embrió</EggDamagedEmbryo>
+  <CorpsePercentMissing>Hiányzó testrész</CorpsePercentMissing>
+  <HiveReproducesIn>Reprodukció ideje</HiveReproducesIn>
+  <BrokenDown>Elromlott</BrokenDown>
+  <BondBrackets>(kötődés)</BondBrackets>
+  <Fuel>Üzemanyag</Fuel>
+  <Enemies>ellenségek</Enemies>
+  <TimePassed>eltelt idő</TimePassed>
+  <CurrentRadius>jelenlegi sugár</CurrentRadius>
+  <RadiusExpandsIn>sugárnövekedés ideje</RadiusExpandsIn>
+  <Permanent>állandó</Permanent>
+  
+  <!--TextMotes-->
+  <Headshot>Fejlövés</Headshot>
+  <TreatQuality>ellátás minősége: {0}</TreatQuality>
+  <PoorResult>gyenge eredmény</PoorResult>
+  <GoodResult>jó eredmény</GoodResult>
+  <TextMote_TreatSuccess>Sikeres ellátás!\n{0} esély</TextMote_TreatSuccess>
+  <TextMote_TreatFailed>Sikertelen ellátás\n{0} esély</TextMote_TreatFailed>
+  <HarvestFailed>Betakarítás\nsikertelen</HarvestFailed>
+  <TextMote_RecruitFail>Toborzás sikertelen!\n{0} esély</TextMote_RecruitFail>
+  <TextMote_TameFail>Szelídítés sikertelen\n{0} esély</TextMote_TameFail>
+  <TextMote_TameSuccess>Megszelídítve!\n{0} esély</TextMote_TameSuccess>
+  <TextMote_TrainFail>Sikertelen betanítás: {0}\n{1} esély</TextMote_TrainFail>
+  <TextMote_TrainSuccess>Betanítva: {0}\n{1} esély</TextMote_TrainSuccess>
+  <TextMote_FixBrokenDownBuildingFail>Javítás\nsikertelen</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_ConstructionFail>Építés\nsikertelen</TextMote_ConstructionFail>
+
+  <!-- Areas -->
+  <Home>Lakó</Home>
+  <BuildRoof>Befedett</BuildRoof>
+  <NoRoof>Fedetlen</NoRoof>
+  <SnowClear>Hómentes</SnowClear>
+  <AreaDefaultLabel>Körzet: {0}</AreaDefaultLabel>
+  <AreaAnimalDefaultLabel>Állatkörzet: {0}</AreaAnimalDefaultLabel>
+  <NoAreaAllowed>Korlátozatlan</NoAreaAllowed>
+  <NewArea>Új körzet</NewArea>
+  <NewAreaAnimal>Új állatkörzet</NewAreaAnimal>
+  <InvertArea>Invertálás</InvertArea>
+  
+  <!-- Control -->
+  <CannotOrderNonControlled>Nem lehet parancsot adni nem irányított egységnek.</CannotOrderNonControlled>
+  <IsIncapableOfViolence>{0} nem képes erőszakra.</IsIncapableOfViolence>
+  <IsIncapableOfViolenceShort>nem képes erőszakra</IsIncapableOfViolenceShort>
+  <IsNotDrafted>{0} nincs besorozva.</IsNotDrafted>
+  
+  <!-- Snow -->
+  <SnowNone>Nincs hó</SnowNone>
+  <SnowDusting>Hó (por)</SnowDusting>
+  <SnowThin>Hó (kevés)</SnowThin>
+  <SnowMedium>Hó (közepes)</SnowMedium>
+  <SnowThick>Hó (mély)</SnowThick>
+  
+  <!-- Turrets -->
+  <GunInstalled>Telepítve</GunInstalled>
+  <MinimumRange>Minimum hatótáv</MinimumRange>
+  <CanFireIn>Tűzkész</CanFireIn>
+  <ShellLoaded>Betöltve</ShellLoaded>
+  <ShellNotLoaded>Nincs betöltve</ShellNotLoaded>
+  
+  <!-- Job reports -->
+	<ReportHaulingTo>{0} szállítása {1}-hez.</ReportHaulingTo>
+	<ReportHauling>{0} szállítása.</ReportHauling>
+  <ReportSleeping>alszik.</ReportSleeping>
+  <ReportResting>pihen.</ReportResting>
+  <WatchingSunrise>napkeltét nézi</WatchingSunrise>
+  <CloudWatching>felhőket nézi</CloudWatching>
+  <WatchingSunset>napnyugtát nézi</WatchingSunset>
+  <Stargazing>csillagokat nézi</Stargazing>
+  <WatchingEclipse>napfogyatkozást nézi</WatchingEclipse>
+  <UsingVerb>{0} használata {1}-en.</UsingVerb>
+  <AreaLower>körzet</AreaLower>
+  <ReportCowering>fedezi.</ReportCowering>
+  <ReportStanding>áll.</ReportStanding>
+  <ReportExtinguishingFire>tüzet olt.</ReportExtinguishingFire>
+  <ReportExtinguishingFireOn>{0} tüzét oltja.</ReportExtinguishingFireOn>
+  
+  <!-- Lord job reports -->
+  <LordReportAttendingMarriageCeremony>Esküvőn vesz részt</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingParty>Bulin vesz részt</LordReportAttendingParty>
+  
+	<!-- Shooting report -->
+  <WeaponMissRadius>Pontatlanság mértéke</WeaponMissRadius>
+	<ShootReportShooterAbility>Lövész</ShootReportShooterAbility>
+	<ShootReportWeapon>Fegyver</ShootReportWeapon>
+	<Darkness>Sötétség</Darkness>
+	<TargetProne>Célpont fekszik</TargetProne>
+	<TargetSize>Célpont mérete</TargetSize>
+	<Weather>Időjárás</Weather>
+	<ShootingCover>Fedezék</ShootingCover>
+	<CoverThingBlocksPercentOfShots>{0} kivédi {1}</CoverThingBlocksPercentOfShots>
+	<NoCoverLower>nincs fedezék</NoCoverLower>
+  <Execution>Kivégzés</Execution>
+	
+  <!-- Generated recipes -->
+  <RecipeMake>Készíts: {0}</RecipeMake>
+  <RecipeMakeJobString>Készít: {0}.</RecipeMakeJobString>
+  
+  <!-- Thoughts -->
+  <ThoughtExpiresIn>Elmúlik: {0}</ThoughtExpiresIn>
+  <ThoughtStartsExpiringIn>Elkezd elmúlni: {0}</ThoughtStartsExpiringIn>
+  <ThoughtFinishesExpiringIn>Teljesen elmúlik: {0}</ThoughtFinishesExpiringIn>
+  <MentalBreakThresholdExtreme>Extrém összeomlás küszöbe</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdMajor>Súlyos összeomlás küszöbe</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMinor>Enyhe összeomlás küszöbe</MentalBreakThresholdMinor>
+
+  <!-- Pawn info readout -->
+  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <PawnMainDescFactionedWrap>{0}, {1} tagja</PawnMainDescFactionedWrap>
+  <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
+  <Faction>Frakció</Faction>
+  <Equipped>Felszerelt</Equipped>
+  <EquippedNothing>semmi</EquippedNothing>
+  <Incapacitated>Magatehetetlen</Incapacitated>
+  <InRestraints>Mozgáskorlátozott (lelassítva)</InRestraints>
+  <Carrying>Cipeli</Carrying>
+
+  <!-- Inspector general stuff -->
+  <SelectNextInSquareTip>Következő dolog ugyanazon a callán.\n\nGyorsbillentyű: {0}\n\nÚjra kattintva ugyanarra a cellára ugyanezt eredményezi.</SelectNextInSquareTip>
+  <DefInfoTip>Információ a tárgyról.</DefInfoTip>
+  
+  <!-- Hostility response -->
+  <HostilityReponseTip>Nem besorozott gyarmatos viselkedése ellenség közelében.</HostilityReponseTip>
+  <HostilityResponseCurrentMode>Jelenlegi mód</HostilityResponseCurrentMode>
+  
+	<!-- like 'Blood of John' -->
+	<OfLower>ettől:</OfLower>
+
+	<!-- Power readout -->
+	<PowerNotConnected>Nincs áramellátása.</PowerNotConnected>
+  <PowerConnectedRateStored>Feles/tárolt: {0} W / {1} Wd</PowerConnectedRateStored>
+  <PowerNeeded>Szükséges energia</PowerNeeded>
+  <PowerOutput>Termelt energia</PowerOutput>
+  <PowerBatteryStored>Tárolt</PowerBatteryStored>
+  <PowerBatteryEfficiency>Hatékonyság</PowerBatteryEfficiency>
+
+  <!-- Temperature control -->
+  <TargetTemperature>Célhőmérséklet</TargetTemperature>
+  <PowerConsumptionMode>Jelenlegi áramfogyasztás</PowerConsumptionMode>
+  <PowerConsumptionHigh>magas</PowerConsumptionHigh>
+  <PowerConsumptionLow>alacsony</PowerConsumptionLow>
+  
+  <!-- Temperature readout -->
+  <Indoors>Benn</Indoors>
+  <IndoorsUnroofed>Fedetlen</IndoorsUnroofed>
+  <Outdoors>Kinn</Outdoors>
+  
+  <!--Rotting-->
+	<RotStateFresh>Friss</RotStateFresh>
+	<RotStateRotting>Rohadó</RotStateRotting>
+	<RotStateDessicated>Kiszáradt</RotStateDessicated>
+	
+  <!-- Shooting tooltip -->
+  <ShotBy>{0} lövése</ShotBy>
+  <CannotHit>Nem lőhet rá.</CannotHit>
+
+  <!-- Rotting -->
+  <CurrentlyFrozen>Fagyott (nem romlik)</CurrentlyFrozen>
+  <CurrentlyRefrigerated>Hűtött ({0} múlva megromlik)</CurrentlyRefrigerated>
+  <NotRefrigerated>Nem hűtött ({0} múlva megromlik)</NotRefrigerated>
+  <OverADecade>több mint egy évtized</OverADecade>
+  <LessThanADay>kevesebb mint egy nap</LessThanADay>
+  
+  <!-- Meal -->
+  <Ingredients>Hozzávalók</Ingredients>
+
+  <!-- Plants -->
+  <PercentGrowth>{0} kifejlett</PercentGrowth>
+  <GrowthRate>Növekedési sebesség</GrowthRate>
+  <FullyGrownIn>Kifejlett {0} múlva.</FullyGrownIn>
+  <PlantNeedsLightLevel>Szükséges fényszint</PlantNeedsLightLevel>
+  <PlantResting>Stagnál</PlantResting>
+  <OutOfIdealTemperatureRange>Nem ideális hőmérséklet. Hőmérséklet-növekedésszorzó: {0}%</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing>Nem ideális hőmérséklet. Nem nő.</OutOfIdealTemperatureRangeNotGrowing>
+  <ReadyToHarvest>Betakarításra kész.</ReadyToHarvest>
+  <Mature>Kifejlett.</Mature>
+  <SeedLabel>{0} mag</SeedLabel>
+  <OutdoorGrowingPeriod>Tenyészidőszak: {0}</OutdoorGrowingPeriod>
+  <NoGrowingPeriod>Soha</NoGrowingPeriod>
+  <GrowYearRound>Egész év</GrowYearRound>
+  <GrowSeasonHereNow>Elérkezett a tenyészidőszak.</GrowSeasonHereNow>
+  <CannotGrowTooCold>Nem nő - hideg évszak.</CannotGrowTooCold>
+
+  <!-- Zones -->
+  <Zone>Körzet</Zone>
+  <GrowingZone>Kert</GrowingZone>
+  <Stockpile>Raktárterület</Stockpile>
+  <DumpingStockpile>Szemétdomb</DumpingStockpile>
+  <Priority>Prioritás</Priority>
+  <ClearAll>Összes törlése</ClearAll>
+  <AllowAll>Összes engedélyezése</AllowAll>
+
+  <!-- ThingFilter -->
+	<HitPoints>{0} életerő pont</HitPoints>
+	<AnyQuality>bármilyen minőség</AnyQuality>
+	<OnlyQuality>kizárólag {0}</OnlyQuality>
+
+	<!-- Mouseover indicator -->
+  <Undiscovered>Felfedezetlen</Undiscovered>
+  
+  <!-- Buttons -->
+  <ZoneVisibilityToggleButton>Zónák láthatósága</ZoneVisibilityToggleButton>
+  <ShowBeautyToggleButton>Szépség kijelzése\n\nMegjeleníti az adott hely szépségére vonatkozó információkat, mintha egy ember épp ott állna, ahová a kurzor mutat.</ShowBeautyToggleButton>
+  <ShowRoomStatsToggleButton>Szoba statisztikák kijelzése\n\nMegjeleníti az adott szoba szépségére vonatkozó információkat.</ShowRoomStatsToggleButton>
+  <ShowColonistBarToggleButton>Gyarmatos állapotsáv\n\nIkonok és alapstátusz minden gyarmatosról a kép tetején.</ShowColonistBarToggleButton>
+  <AutoHomeAreaToggleButton>Lakókörzet automatikus kiterjesztése új épületnél</AutoHomeAreaToggleButton>
+  <CategorizedResourceReadoutToggleButton>Kategorizált alapanyag lista</CategorizedResourceReadoutToggleButton>
+  <ShowAnimalNamesToggleButton>Elnevezett állatok nevének kijelzése</ShowAnimalNamesToggleButton>
+  
+  <!-- Fire -->
+  <Fire>Tűz</Fire>
+  <FireOn>{0} ég</FireOn>
+  <Burning>Ég</Burning>
+  <FireSizeLower>Tűz nagysága: {0}</FireSizeLower>
+ 
+  <!-- Map conditions -->
+  <MapConditionsTip>Különleges körülmények, amik a térképet jelenleg befolyásolják.</MapConditionsTip>
+  <TimeLeft>hátralévő idő</TimeLeft>
+  <ImpactDate>kezdet dátuma</ImpactDate>
+
+  <!-- Building placement -->
+  <NoStuffsToBuildWith>Nincs alapanyagod hozzá, hogy ezt megépítsd.</NoStuffsToBuildWith>
+
+  <!-- Building placement restricters -->
+  <MustPlaceUnroofed>Tető alá nem tehető.</MustPlaceUnroofed>
+  <MustPlaceHeadOnShipBeam>A fejének csatlakoznia kell a hajó gerendájához?.</MustPlaceHeadOnShipBeam>
+  <MustPlaceNextToHopperAccepter>Valami olyan mellé kell helyezni, aminek adagolóra van szüksége.</MustPlaceNextToHopperAccepter>
+  <MustPlaceOnSteamGeyser>Közvetlenül gőzgejzírre kell helyezni.</MustPlaceOnSteamGeyser>
+  <MustPlaceCoolerWithFreeSpaces>A hűtött és a fűtött oldalnak is szabadnak kell lennie.</MustPlaceCoolerWithFreeSpaces>
+	<MustPlaceVentWithFreeSpaces>Mindkét oldalnak szabad levegőáramlásban kell lennie.</MustPlaceVentWithFreeSpaces>
+	<MustPlaceAdjacentStandable>Körben szabad helynek kell lennie.</MustPlaceAdjacentStandable>
+	
+	<!-- Wind Turbine -->
+  <WindTurbine_WindPathIsBlockedBy>Akadályozza:</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedByRoof>Tető akadályozza</WindTurbine_WindPathIsBlockedByRoof>
+
+  <!-- Cryptosleep casket -->
+  <CasketContains>Tartalom</CasketContains>
+  <CasketWarning>Figyelem!\n\nNAME az utolsó dolgozó gyarmatosod! Ha HIM beszáll a hibernálóba, lehet, hogy nem tudsz tovább játszani. Biztos, hogy folytatod?</CasketWarning>
+
+  <!-- Ship launch report -->
+  <ShipReportCannotLaunch>Kilövés nem lehetséges.</ShipReportCannotLaunch>
+  <ShipReportCanLaunch>Kilövésre kész.</ShipReportCanLaunch>
+  <ShipReportMissingPart>Kötelező alkatrész hiányzik</ShipReportMissingPart>
+  <ShipReportNoFullPods>Nincs foglalt hibernáló</ShipReportNoFullPods>
+
+  <!-- Neurotrainer -->
+  <NeurotrainerUsed>{0} {1} neuroképzőt használt, hogy szintet lépjen {2} -> {3}.</NeurotrainerUsed>
+  
+  <!-- Minification -->
+  <Installed>Telepített</Installed>
+  <NotInstalled>Nem telepített</NotInstalled>
+
+  <!-- Art -->
+  <Title>Cím</Title>
+  <Untitled>Nincs címe</Untitled>
+  
+  <!-- Unfinished thing -->
+  <UnfinishedItem>Befejezetlen {0}</UnfinishedItem>
+  <UnfinishedItemWithStuff>Befejezetlen {0} {1}</UnfinishedItemWithStuff>
+
+  <!-- Quality -->
+  <Quality>Minőség</Quality>
+  <QualityDescription>Egy tárgy minősége határozza meg milyen jól készítették el.</QualityDescription>
+  <QualityIs>Minőség: {0}</QualityIs>
+    
+  <!-- Mood descriptions -->
+  <Mood_MentalState>mentális állapot</Mood_MentalState>
+  <Mood_AboutToBreak>összeomlás határán</Mood_AboutToBreak>
+  <Mood_OnEdge>izgatott</Mood_OnEdge>
+  <Mood_Stressed>feszült</Mood_Stressed>
+  <Mood_Neutral>semleges</Mood_Neutral>
+	<Mood_Content>elégedett</Mood_Content>
+  <Mood_Happy>boldog</Mood_Happy>
+  
+  <!-- Game over -->
+  <GameOverEveryoneDead>Mindenki halott vagy eltávozott. Ennek a történetnek vége.\n\nTalán valaki más hasznosnak találja majd ezeket a romokat.</GameOverEveryoneDead>
+  <GameOverShipLaunched>Kilőtted az űrhajót! A következő gyarmatosok menekültek meg:\n\n{0}\nA következő gyarmatosok maradtak hátra:\n\n{1}\nAz MI megpróbálja biztonságos helyre irányítani a hajót. Lehet, hogy talál egy virágzó bolygót ebben a rendszerben. Az is lehet, hogy évszázados útra indul egy másik csillag felé. Dönthet úgy is, hogy egy aszteroida jege alatt pihen pár ezer évig, arra várva, hogy valaki új világot építsen itt.\n\nHa felébredsz, kiderül...</GameOverShipLaunched>
+  <GameOverPlanetkillerImpact>Fénysebességhez közeli tempóban csapódott be a bolygógyilkos fegyver, trillió hidrogénbomba energiáját felszabadítva. Bolygód megolvadó anyaga szétspriccelt a kozmoszban, mint egy meglőtt, vízzel teli lufi.\n\n{0} egy része most egy kis aszteroidaövet képez. A többi olvadt, rádióaktív pokol, melyen állandóan kilométer magas földrengéshullámok futnak végig.\n\nNem élted túl.</GameOverPlanetkillerImpact>
+  <GameOverKeepPlaying>Játék folytatása</GameOverKeepPlaying>
+  <GameOverMainMenu>Főmenü</GameOverMainMenu>
+  
+  <!-- Generic lifespan -->
+  <LifespanExpiry>Lejárat ideje:</LifespanExpiry>
+  
+  <!-- Traps -->
+  <TrapArmed>Élesített</TrapArmed>
+  <TrapNotArmed>Nem élesített</TrapNotArmed>
+  <TrapRearmingCost>Élesítés ára: {0}</TrapRearmingCost>
+  
+  <!-- Facilities -->
+  <InactiveFacility>inaktív</InactiveFacility>
+  
+  <!-- Hediffs growth modes -->
+  <DiseaseGrowthModeChanged_Growing>{0} növénye {1} növekszik.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Stable>{0} növénye {1} stagnál.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Remission>{0} növénye {1} hanyatlik.</DiseaseGrowthModeChanged_Remission>
+  
+  <!-- Marriage spot -->
+  <MarriageSpotUsable>Használható.</MarriageSpotUsable>
+  <MarriageSpotNotUsable>Nem használható: {0}.</MarriageSpotNotUsable>
+  <MarriageSpotNotStandable>elzárt</MarriageSpotNotStandable>
+  <MarriageSpotDangerous>túl veszélyes: {0}</MarriageSpotDangerous>
+  <MarriageSpotForbidden>tiltott: {0}</MarriageSpotForbidden>
+  <MarriageSpotReserved>foglalt</MarriageSpotReserved>
+  <MarriageSpotUnreachable>elérhetetlen: {0}</MarriageSpotUnreachable>
+  <MarriageSpotInPrisonCell>fogdában</MarriageSpotInPrisonCell>
+  <NotEnjoyableOutsideTemperature>kényelmetlen hőmérséklet</NotEnjoyableOutsideTemperature>
+  
+  <!-- Colonist bar -->
+  <ActivityIconMedicalRest>Lábadozik</ActivityIconMedicalRest>
+  <ActivityIconSleeping>Alszik</ActivityIconSleeping>
+  <ActivityIconFleeing>Menekül</ActivityIconFleeing>
+  <ActivityIconAttacking>Harcol</ActivityIconAttacking>
+  <ActivityIconIdle>Tétlen</ActivityIconIdle>
+  <ActivityIconBurning>Ég</ActivityIconBurning>
+
+  <!-- Maintainable -->
+  <DueForMaintenance>Karbantartás szükséges.</DueForMaintenance>
+  <DeterioratingDueToLackOfMaintenance>Karbantartás hiánya miatt elhasználódik.</DeterioratingDueToLackOfMaintenance>
+  
+</LanguageData>

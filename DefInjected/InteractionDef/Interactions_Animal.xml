@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AnimalChat.label>beszélés állattal</AnimalChat.label>
+  <AnimalChat.logRulesInitiator.rulesStrings.0>logentry->Megpróbál kötődést kialakítani vele:[other_nameShortIndef].</AnimalChat.logRulesInitiator.rulesStrings.0>
+  <AnimalChat.logRulesRecipient.rulesStrings.0>logentry->Reagál [other_nameShortIndef] közeledésére.</AnimalChat.logRulesRecipient.rulesStrings.0>
+
+  <TrainAttempt.label>idomítás</TrainAttempt.label>
+  <TrainAttempt.logRulesInitiator.rulesStrings.0>logentry->Idomítja őt:[other_nameShortIndef].</TrainAttempt.logRulesInitiator.rulesStrings.0>
+  <TrainAttempt.logRulesRecipient.rulesStrings.0>logentry->Idomítást kap tőle:[other_nameShortIndef].</TrainAttempt.logRulesRecipient.rulesStrings.0>
+
+  <TameAttempt.label>szelídítés</TameAttempt.label>
+  <TameAttempt.logRulesInitiator.rulesStrings.0>logentry->Megpróbálja megszelídíteni őt:[other_nameShortIndef].</TameAttempt.logRulesInitiator.rulesStrings.0>
+  <TameAttempt.logRulesRecipient.rulesStrings.0>logentry->Reagál [other_nameShortIndef] idomítási kísérletére.</TameAttempt.logRulesRecipient.rulesStrings.0>
+
+  <Nuzzle.label>dörgölőzés</Nuzzle.label>
+  <Nuzzle.logRulesInitiator.rulesStrings.0>logentry->Dörgölőzik hozzá:[other_nameShortIndef].</Nuzzle.logRulesInitiator.rulesStrings.0>
+  <Nuzzle.logRulesRecipient.rulesStrings.0>logentry->[other_nameShortIndef] dörgölőzik hozzá.</Nuzzle.logRulesRecipient.rulesStrings.0>
+
+</LanguageData>

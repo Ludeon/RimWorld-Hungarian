@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Work tab -->
+  <ManualPriorities>Kézi prioritások</ManualPriorities>
+  <HigherPriority>Magasabb prioritás</HigherPriority>
+  <LowerPriority>Alacsonyabb prioritás</LowerPriority>
+  <RelevantSkills>Releváns készségek: {0}\nA releváns készségek átlaga: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Kattints az ugráshoz:</ClickToJumpTo>
+  <CannotDoThisWork>{0} nem tudja elvégezni ezt a munkát.</CannotDoThisWork>
+  <NoneBrackets>(semmi)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>Ez a gyarmatos egészségi állapota miatt nem végezhet ilyen munkát.</IncapableOfWorkTypeBecauseOfCapacities>
+  <EmergencyWorkMarker>V</EmergencyWorkMarker>
+  
+  <!-- Outfits tab -->
+  <CurrentOutfit>Jelenlegi felszerelés</CurrentOutfit>
+  <ManageOutfits>Felszerelések kezelése</ManageOutfits>
+  <ClearForcedApparel>Kényszerített törlése</ClearForcedApparel>
+  <ApparelForcedLower>kényszerített</ApparelForcedLower>
+  <ForcedApparel>Kényszerített felszerelés</ForcedApparel>
+  <OutfitEdit>Szerkesztés...</OutfitEdit>
+  
+  <!-- Restrictions tab -->
+  <Copy>Másol</Copy>
+  <Paste>Beilleszt</Paste>
+  <AllowedArea>Megengedett körzet</AllowedArea>
+  
+  <!-- Animals tab -->
+  <Master>Gazda</Master>
+  <PregnantIconDesc>Vemhes ({0} / {1})</PregnantIconDesc>
+  
+  <!-- Factions tab -->
+  <Hostile>Ellenséges</Hostile>
+  <HostileTo>{0} ellensége</HostileTo>
+  <CurrentGoodwill>A jelenlegi viszony ezzel a törzzsel.</CurrentGoodwill>
+  
+  <!-- Statistics tab -->
+  <Playtime>Játékidő</Playtime>
+  <Storyteller>Mesélő</Storyteller>
+  <ColonyWealthTotal>Kolónia vagyona</ColonyWealthTotal>
+  <ColonyWealthItems>Kolónia vagyona (eszközök)</ColonyWealthItems>
+  <ColonyWealthBuildings>Kolónia vagyona (épületek)</ColonyWealthBuildings>
+  <NumThreatBigs>Komoly fenyegetések</NumThreatBigs>
+  <NumEnemyRaids>Ellenséges támadások</NumEnemyRaids>
+  <DamageTaken>Elszenvedett sebzés</DamageTaken>
+  <ColonistsKilled>Halott gyarmatosok</ColonistsKilled>
+  <ColonistsLaunched>Gyarmatosok az űrbe juttatva</ColonistsLaunched>
+
+  <!-- History tab -->
+  <SelectGraph>Grafikon választása</SelectGraph>
+  <Last30Days>Utolsó 30 nap</Last30Days>
+  <Last100Days>Utolsó 100 nap</Last100Days>
+  <Last300Days>Utolsó 300 nap</Last300Days>
+  <AllDays>Mind</AllDays>
+  <Day>Nap</Day>
+  <Value>Érték</Value>
+  <External>Külső</External>
+  
+  <!-- Research tab -->
+  <ProjectTechLevel>Kutatási terv tudományos szintje</ProjectTechLevel>
+  <YourTechLevel>a te tudományos szinted</YourTechLevel>
+  <ResearchCostMultiplier>Költségszorzó</ResearchCostMultiplier>
+  <ResearchCostComparison>A terv alapköltsége {0}-ról {1}-re változott a tudományos szinted miatt.</ResearchCostComparison>
+  
+</LanguageData>

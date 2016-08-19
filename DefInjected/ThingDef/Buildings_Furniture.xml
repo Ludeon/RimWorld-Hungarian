@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Beds -->
+
+  <SleepingSpot.label>fekhely</SleepingSpot.label>
+  <SleepingSpot.description>Alvásra kijelölt hely a padlón. Nem kényelmes.</SleepingSpot.description>
+
+  <Bed.label>ágy</Bed.label>
+  <Bed.description>Keretbe helyezett kényelmes matrac és lepedő.</Bed.description>
+
+  <DoubleBed.label>dupla ágy</DoubleBed.label>
+  <DoubleBed.description>Egyszerű dupla ágy, amin két ember is elfér.</DoubleBed.description>
+
+  <RoyalBed.label>királyi ágy</RoyalBed.label>
+  <RoyalBed.description>Pazar, arany berakásos kétszemélyes ágy előkelőségek számára. Nagyon kényelmes és gyönyörű.</RoyalBed.description>
+
+  <HospitalBed.label>betegágy</HospitalBed.label>
+  <HospitalBed.description>Ágy sebesültek kezeléséhez tervezve. Javítja a sikeres orvosi beavatkozás esélyét.</HospitalBed.description>
+
+  <!-- Animal beds -->
+
+  <AnimalSleepingSpot.label>fekhely (állat)</AnimalSleepingSpot.label>
+  <AnimalSleepingSpot.description>Alvásra kijelölt hely a padlón állatok számára.</AnimalSleepingSpot.description>
+
+  <AnimalSleepingBox.label>alvókosár (állat)</AnimalSleepingBox.label>
+  <AnimalSleepingBox.description> Puha alvókosár kisebb állatok számára, mint pl. csirkék, macskák és kisebb kutyák.</AnimalSleepingBox.description>
+
+  <AnimalBed.label>ágy (állat)</AnimalBed.label>
+  <AnimalBed.description>Puha ágy állatok számára. Bármilyen állatnak jó.</AnimalBed.description>
+
+  <!-- Basic domestic furniture -->
+
+  <Stool.label>zsámoly</Stool.label>
+  <Stool.description>Egyszerű ülőalkalmatosság.</Stool.description>
+
+  <DiningChair.label>szék</DiningChair.label>
+  <DiningChair.description>Kényelmes és jól kinéző szék.</DiningChair.description>
+
+  <Armchair.label>karosszék</Armchair.label>
+  <Armchair.description>Nagy, puha, kényelmes szék. Ideális pihenéshez.</Armchair.description>
+
+  <!-- Table base -->
+  <TableShort.label>asztal (kicsi)</TableShort.label>
+  <TableShort.description>Az emberek asztalról esznek, ha van mellettük szék.</TableShort.description>
+
+  <TableLong.label>asztal (nagy)</TableLong.label>
+  <TableLong.description>Az emberek asztalról esznek, ha van mellettük szék.</TableLong.description>
+
+  <PlantPot.label>virágcserép</PlantPot.label>
+  <PlantPot.description>Dekoratív virágok ültethetők ide, amik javítják az emberek hangulatát.</PlantPot.description>
+  
+  
+  <!-- Lighting -->
+
+  <TorchLamp.label>fáklya</TorchLamp.label>
+  <TorchLamp.description>Fa fáklya terek megvilágításához. Automatikusan újratölthető. Kevés hőt termel.</TorchLamp.description>
+
+  <StandingLamp.label>állólámpa</StandingLamp.label>
+  <StandingLamp.description>Állólámpa, mely megvilágítja környezetét.</StandingLamp.description>
+
+  <StandingLamp_Red.label>állólámpa (vörös)</StandingLamp_Red.label>
+  <StandingLamp_Red.description>Vörös fényű állólámpa, mely megvilágítja környezetét.</StandingLamp_Red.description>
+
+  <StandingLamp_Green.label>állólámpa (zöld)</StandingLamp_Green.label>
+  <StandingLamp_Green.description>Zöld fényű állólámpa, mely megvilágítja környezetét.</StandingLamp_Green.description>
+
+  <StandingLamp_Blue.label>állólámpa (kék)</StandingLamp_Blue.label>
+  <StandingLamp_Blue.description>Kék fényű állólámpa, mely megvilágítja környezetét.</StandingLamp_Blue.description>
+
+  <!-- Storage -->
+
+  <EquipmentRack.label>szekrény</EquipmentRack.label>
+  <EquipmentRack.description>Az ebben tárolt tárgyak állapota nem romlik még akkor sem, ha a szabadban áll.</EquipmentRack.description>
+
+</LanguageData>
