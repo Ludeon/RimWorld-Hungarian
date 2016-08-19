@@ -4,9 +4,9 @@
   <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>art_description_root->[physical_description_root] [context_sentence]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>
   <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>circumstance_group->[circumstance_phrase]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>
   <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>desc_sentence_group->[desc_sentence] [style_group]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>context_sentence->ez a [depiction] erre utal:[tale_noun]. ekkor: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>context_sentence->ez a [depiction] erről szól: [tale_noun] ekkor: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>context_sentence->ez a [depiction] ennek történetét meséli el: [tale_noun] ekkor: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>context_sentence->ennek a(z) [depiction] erre utal:[tale_noun]. Ekkor történt: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>context_sentence->ennek a(z) [depiction] erről szól: [tale_noun]. Ekkor történt: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>context_sentence->ennek a(z) [depiction] ennek történetét meséli el: [tale_noun]. Ekkor történt: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>
 
   <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>art_description_root->[physical_description_root]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>
   <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1>desc_sentence_group->[style_group]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1>
@@ -113,8 +113,8 @@
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.100>idle_verb_progressive->mutatkozik</ArtDescriptionUtility_Global.rulePack.rulesStrings.100>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.101>idle_verb_progressive->elmerül</ArtDescriptionUtility_Global.rulePack.rulesStrings.101>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.102>idle_verb_progressive->lebeg</ArtDescriptionUtility_Global.rulePack.rulesStrings.102>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.103>side_position->egyik oldalra</ArtDescriptionUtility_Global.rulePack.rulesStrings.103>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.104>side_position->a kép széle felé</ArtDescriptionUtility_Global.rulePack.rulesStrings.104>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.103>side_position->az egyik oldalon</ArtDescriptionUtility_Global.rulePack.rulesStrings.103>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.104>side_position->a kép szélén</ArtDescriptionUtility_Global.rulePack.rulesStrings.104>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.105>side_position->a háttérben</ArtDescriptionUtility_Global.rulePack.rulesStrings.105>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.106>side_position->a távolban</ArtDescriptionUtility_Global.rulePack.rulesStrings.106>
   <ArtDescriptionUtility_Global.rulePack.rulesStrings.107>side_position->a kép alsó részén</ArtDescriptionUtility_Global.rulePack.rulesStrings.107>
