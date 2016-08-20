@@ -173,7 +173,9 @@
   <Diet>Étrend</Diet>
   <RecruitDifficulty>Toborzási nehézség</RecruitDifficulty>
   <MarketValue>Alapár</MarketValue>
-  <Covers>Fedezi</Covers>
+  <Covers>Fedezékbe húzódik</Covers>
+  <CoverEffectiveness>Fedezék hatékonysága</CoverEffectiveness>
+  <CoverEffectivenessExplanation>Mennyire hatékonyan fogja fel a lövéseket az adott fedezék. Nagyobb szám több elkerült lövést jelent.</CoverEffectivenessExplanation>
   <MedicineXpGainFactor>Tapasztalatszerzési faktor</MedicineXpGainFactor>
   <BodyPartEfficiency>Testrész hatékonyság</BodyPartEfficiency>
   <MoodChange>Hangulat változás</MoodChange>
@@ -183,6 +185,7 @@
   <AnimalFilthRateExplanation>Az állatok koszt hagynak maguk után épített padlón. Ez az átlagos mennyiségű termelt kosz {0} cellánként, amit az állat bejár.\n\nNagyobb és nem "házi kedvenc" típusú állatok jobban koszolnak.</AnimalFilthRateExplanation>
   <TimeRecordsCategory>Idő</TimeRecordsCategory>
   <MiscRecordsCategory>Egyéb</MiscRecordsCategory>
+  <Addictiveness>Addiktívság</Addictiveness>
 
   <!-- Trade -->
   <PositiveBuysNegativeSells>Pozitív szám vételt jelent.\nNegatív szám eladást.</PositiveBuysNegativeSells>
@@ -194,6 +197,7 @@
   <AcceptButton>Elfogadás</AcceptButton>
   <ResetButton>Visszaállítás</ResetButton>
   <CancelButton>Mégse</CancelButton>
+  <CloseButton>Bezár</CloseButton>
   <YourTradeableSilver>A kereskedésre ennyi ezüst áll rendelkezésre: {0}</YourTradeableSilver>
 	<YourTradeableSilverTip>Csak azzal az ezüsttel kereskedhetsz, ami Földkörüli Kereskedő Jeladó mellet van és nincs tető alatt.</YourTradeableSilverTip>
   <TraderHasNoMore>Nincs több a kereskedőnél.</TraderHasNoMore>
@@ -226,6 +230,34 @@
   <OutfitInUse>A felszerelést {0} használja.</OutfitInUse>
   <NoOutfitSelected>Nincs felszerelés kiválasztva</NoOutfitSelected>
   
+  <!-- Drug policy management -->
+  
+  <DrugPolicy>Drogszabályok</DrugPolicy>
+  <SelectDrugPolicy>Szabály kiválasztása...</SelectDrugPolicy>
+  <NewDrugPolicy>Új szabály</NewDrugPolicy>
+  <DeleteDrugPolicy>Szabály törlése...</DeleteDrugPolicy>
+  <DrugPolicyInUse>A szabályt {0} használja.</DrugPolicyInUse>
+  <NoDrugs>Nincs drog</NoDrugs>
+  <OneDrinkPerDay>Napi egy ital</OneDrinkPerDay>
+  <NoDrugPolicySelected>Nincs szabály kiválasztva</NoDrugPolicySelected>
+  <AddDrug>Drog hozzáadása...</AddDrug>
+  <DrugColumnLabel>Drogok</DrugColumnLabel>
+  <FrequencyColumnLabel>Gyakoriság</FrequencyColumnLabel>
+  <MoodThresholdColumnLabel>Ha a hangulat rosszabb, mint</MoodThresholdColumnLabel>
+  <JoyThresholdColumnLabel>Ha az öröm kisebb, mint</JoyThresholdColumnLabel>
+  <TakeToInventoryColumnLabel>Többlet</TakeToInventoryColumnLabel>
+  <NoDrugsBrackets>(nincs drog)</NoDrugsBrackets>
+  <EveryDay>Minden nap</EveryDay>
+  <TimesPerDay>Naponta ennyiszer: {0}</TimesPerDay>
+  <EveryDays>{0} naponta</EveryDays>
+  <NoDrugUseRequirement>Bármi</NoDrugUseRequirement>
+  <DeleteDrugTooltip>Drog törlése.</DeleteDrugTooltip>
+  <DrugNameColumnDesc>A drog neve.</DrugNameColumnDesc>
+  <FrequencyColumnDesc>Milyen gyakran kéne szedje a gyarmatos a drogot.</FrequencyColumnDesc>
+  <MoodThresholdColumnDesc>A gyarmatos csak akkor szedje a drogot, ha a hangulata rosszabb, mint ez a szint.</MoodThresholdColumnDesc>
+  <JoyThresholdColumnDesc>A gyarmatos csak akkor szedje a drogot, ha az örömszintje rosszabb, mint ez a szint.</JoyThresholdColumnDesc>
+  <TakeToInventoryColumnDesc>Ennyivel többet vegyen fel, hogy ne kelljen állandóan a raktárhoz rohangálni.</TakeToInventoryColumnDesc>
+    
   <!-- Growing -->
   <NoGrowerCanPlant>A {0} vetéséhez szükséges Kert készség szintje: {1}.\n\nEgyik munkaképes emberednek sincs ilyenje, ezért ez a mag nem lesz elvetve.</NoGrowerCanPlant>
 

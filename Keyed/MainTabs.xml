@@ -18,8 +18,11 @@
   <ClearForcedApparel>Kényszerített törlése</ClearForcedApparel>
   <ApparelForcedLower>kényszerített</ApparelForcedLower>
   <ForcedApparel>Kényszerített felszerelés</ForcedApparel>
-  <OutfitEdit>Szerkesztés...</OutfitEdit>
-  
+  <AssignTabEdit>Szerkesztés...</AssignTabEdit>
+  <CurrentDrugPolicies>Aktuális drogszabály</CurrentDrugPolicies>
+  <ManageDrugPolicies>Drogszabály kezelése</ManageDrugPolicies>
+   
+   
   <!-- Restrictions tab -->
   <Copy>Másol</Copy>
   <Paste>Beilleszt</Paste>
@@ -46,6 +49,11 @@
   <ColonistsKilled>Halott gyarmatosok</ColonistsKilled>
   <ColonistsLaunched>Gyarmatosok az űrbe juttatva</ColonistsLaunched>
 
+  <!-- History tab - subtabs -->
+  
+  <Graph>Grafikon</Graph>
+  <Statistics>Statisztika</Statistics>
+  
   <!-- History tab -->
   <SelectGraph>Grafikon választása</SelectGraph>
   <Last30Days>Utolsó 30 nap</Last30Days>

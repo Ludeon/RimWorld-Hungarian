@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <CameraDolly.label>Kamera mozgatás</CameraDolly.label>
-  <CameraDolly.helpText>Mozgasd a kamerát a KÖZÉPSŐ EGÉR GOMB lenyomása közben az egér csúsztatásával, vagy a WASD billentyűkkel.</CameraDolly.helpText>
-  
   <Rescuing.label>Menteni</Rescuing.label>
   <Rescuing.helpText>Ahhoz, hogy megments egy sérült kolónia lakót, válasz ki egy egészséges lakót és jobb-klikkelj a sérültön.\n\nEhhez kell betegágy is.</Rescuing.helpText>
 
   <Capturing.label>Elfogás</Capturing.label>
   <Capturing.helpText>Ahhoz, hogy valakit elfogj, válassz ki egy kolónia lakót, jobb-klikkelj a magatehetetlen ellenségen és válaszd az Elfogás-t.\n\nSzükséged lesz plusz egy ágyra ami fogdának van kijelölve.</Capturing.helpText>
+
+  <PersonalShields.label>Személyi pajzs</PersonalShields.label>
+  <PersonalShields.helpText>A személyi pajzs megakadályozza a lövések ki-, és bejutását. Közelharcnál nincs hatása.\n\nHa ilyennel felszerelt ellenséggel harcolsz, vagy koncentráld a tüzet rá, vagy alkalmazz közelharcot.
+</PersonalShields.helpText>
 
   <InteractingWithTraders.label>Kereskedés</InteractingWithTraders.label>
   <InteractingWithTraders.helpText>A kérdőjellel megjelölt emberekkel kereskedhetsz.\n\nVálassz ki egy gyarmatost és jobb-klikkelj a kérdőjellel megjelölt látogatóra.</InteractingWithTraders.helpText>
@@ -16,43 +16,32 @@
   <Drafting.label>Sorozás</Drafting.label>
   <Drafting.helpText>Ahhoz, hogy irányítsd a kolónia lakókat közvetlenül a harcban Toborozd őket úgy, hogy kiválasztod őket, majd megnyomod a TOBORZÁS gombot. Egy toborzott lakó csak is azt fogja csinálni amit mondasz neki és csak is harci feladatokat tud ellátni. Akiknél fegyver van azok lehetőség szerint használni is fogják.\n\nNe hagyd a kolónia lakókat toborozva - éhezni fognak és boldogtalanok lesznek.</Drafting.helpText>
 
-  <AnimalsDontAttackDoors.label>Állat nem támad ajtót</AnimalsDontAttackDoors.label>
+ <BuildOrbitalTradeBeacon.label>Orbitális jeladó</BuildOrbitalTradeBeacon.label>
+  <BuildOrbitalTradeBeacon.helpText>Ahhoz, hogy tárgyakat, vagy ezüstöt küldj a bolygó körüli kereskedőknek, építened kell egy ORBITÁLIS JELADÓ-t a szabadban és tárgyakat kell tárolnod mellette.</BuildOrbitalTradeBeacon.helpText>
+
+<AnimalsDontAttackDoors.label>Állat nem támad ajtót</AnimalsDontAttackDoors.label>
   <AnimalsDontAttackDoors.helpText>Az emberevők ajtókon nem jutnak át, kikapcsolt ágyúkat nem támadnak meg.\n\nElmenekülhetsz előlük, ha zárt térbe mész, de lehet, hogy megvárnak.</AnimalsDontAttackDoors.helpText>
 
-  <BillsTab.label>Megrendelések</BillsTab.label>
+   <BillsTab.label>Megrendelések</BillsTab.label>
   <BillsTab.helpText>Ahhoz, hogy a kolónia lakók dolgozzanak egy asztalnál, válaszd ki az asztalt és nyisd meg a Megrendelés fület. Itt beállíthatod, hogy milyen ételt főzzenek, milyen dolgokat tákoljanak, milyen teremtményeket dolgozzanak fel.</BillsTab.helpText>
-
-  <TVForSickPeople.label>Tévé a betegnek</TVForSickPeople.label>
-  <TVForSickPeople.helpText>Az ágynak esett betegeket szórakoztathatod, ha tévét teszel a szobájukba.</TVForSickPeople.helpText>
-
-  <AnimalTaming.label>Állatszelídítés</AnimalTaming.label>
-  <AnimalTraining.helpText>A szelídített állatoknak különböző képességeket taníthatsz a IDOMÍT menüben.\n\nÁllatokat nem lehet állandóan idomítani. Rendszeres szünetekre van szükségük.</AnimalTraining.helpText>
-
-   <StorageTab.label>Raktár beállítás</StorageTab.label>
-   <StorageTab.helpText>A raktár adatlapon letudod nyitni a kategóriákat, hogy engedélyezz, vagy letilts bizonyos tárgyakat. Klikkelj a háromszögekre a kategóriák nevétől balra.</StorageTab.helpText>
-
-  <Mining.label>Bányászat</Mining.label>
-  <Mining.helpText>Kijelölheted, hogy hol bányásszanak úgy, hogy megnyitod az ÉPÍTÉS menüt és kiválasztod a PARANCSOK fület.\n\nNéhány bányászható blokk ACÉL-t, ARANY-at, PLACÉL-t és más hasznos ásványokat tartalmazhat.</Mining.helpText>
-
-  <HostilityResponse.label>Viselkedés ellenséggel</HostilityResponse.label>
-  <HostilityResponse.helpText>Megadhatod a gyarmatosok alapértelmezett viselkedését ellenséggel való találkozás esetére, (pl. megvadult állat).\n\nVálaszthatsz MENEKÜLÉST, TÁMADÁST és FIGYELMEN KIVÜL HAGYÁST a FELSZERELÉS menüben.</HostilityResponse.helpText>
 
   <OpeningComms.label>Komm. konzol</OpeningComms.label>
   <OpeningComms.helpText>Ahhoz, hogy kommunikálj, válasz ki egy dolgozó kolónia lakót és jobb-klikkelj a távközlési panelen.</OpeningComms.helpText>
 
-  <Deterioration.label>Állag romlás</Deterioration.label>
-  <Deterioration.helpText>A szabad ég alatt fekvő tárgyak állapota folyamatosan romlik.\n\nHa ezt szeretnéd megakadályozni, tárold őket tető alatt.</Deterioration.helpText>
-
-  <InspectRoomStats.label>Szoba statisztika</InspectRoomStats.label>
-  <InspectRoomStats.helpText>Egy szoba hatását, gazdagságát és szépségét is megnézheted, bekapcsolod a szoba statisztikák kijelzését a jobb alsó sarokban.</InspectRoomStats.helpText>
- <!--
-  <ClickingMessages.helpText>Az értesítésekre bal fentre kattintva a kamera a kérdéses helyre ugrik.</ClickingMessages.helpText> -->
-  
   <DrugAddiction.label>Drogfüggés</DrugAddiction.label>
   <DrugAddiction.helpText>A Szükség fülön ellenőrizheted, mennyire vágyik a gyarmatos a drogra.\n\nAmíg a szükségszintjük nulla, "elvonás" állapotba kerülnek, aminek negatív mellékhatásai lehetnek.\n\nElég hosszű elvonás után a függőség megszűnik és a drog vágy kijelző eltűnik</DrugAddiction.helpText>
   
   <DrugPolicies.label>Drogszabályok</DrugPolicies.label>
   <DrugPolicies.helpText>Megadhatod, hogy az emberek bizonyos drogokat csak bizonyos időben szedhessenek be.\n\nPéldául szedethetsz velük rendszeresen malária gyógyszert, vagy itathatsz velük napi egy sört.\n\nA Beosztások fülön, a Drogszabályok gombbal készíthetsz új szabályt, amit aztán hozzárendelhetsz embereidhez. A gyarmatosok ettől eltérően is szedhetnek drogot, ha megkívánják. Nem feltétlen hallgatnak rád.</DrugPolicies.helpText>
   
+   <TVForSickPeople.label>Tévé a betegnek</TVForSickPeople.label>
+  <TVForSickPeople.helpText>Az ágynak esett betegeket szórakoztathatod, ha tévét teszel a szobájukba.</TVForSickPeople.helpText>
+
+ <PrisonerTab.label>Fogoly fül</PrisonerTab.label>
+  <PrisonerTab.helpText>Nézd meg egy rabnak a FOGOLY adatlapját, hogy beállítsd a bánásmódját.\n\nSzükséged lesz egy kolónia lakóra kinek a munkája Börtön őr, hogy az foglalkozzon a rabokkal.</PrisonerTab.helpText>
+
+ <SetGrowingZonePlant.label>Kert beállítása</SetGrowingZonePlant.label>
+  <SetGrowingZonePlant.helpText>Be tudod állítani, hogy milyen növényt termesszenek a termő zónában. Még fákat is növeszthetsz!\n\nCsak válaszd ki a termő zónát, nyisd meg a Termesztés fület és klikkelj az 'ültetés' gombra.</SetGrowingZonePlant.helpText>
+
 
 </LanguageData>
