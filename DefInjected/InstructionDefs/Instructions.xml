@@ -22,7 +22,7 @@
 	<MakeStockpile.rejectInputMessage>Kérlek, a kijelölt helyen csináld a raktárterület!</MakeStockpile.rejectInputMessage>
 	<MakeStockpile.onMapInstruction>Ide tedd a raktárterületet\n(saroktól-sarokig húzd)</MakeStockpile.onMapInstruction>
 	
-	<EndStockpileDesignating.text>Kattints a jobb egérgombbal,  hogy befejezd a raktárterület kijelölést.</EndStockpileDesignating.text>
+	<EndStockpileDesignating.text>Kattints a jobb egérgombbal, hogy befejezd a raktárterület kijelölést.</EndStockpileDesignating.text>
 	
 	<UnforbidStartingResources.text>Ahhoz, hogy a gyarmatosok a raktárterületre hordják a dolgokat, fel kell oldanod őket a tiltás alól.\n\n1. Klikkelj a kezdőkészlet elemeire, hogy kiválaszd őket\n2. Nyomd meg a tiltás/feloldás parancsot a feloldáshoz\n\n(Pro tipp: duplaklikkel kiválaszthatod a képernyőn lévő összes ugyanolyan tárgyat.)</UnforbidStartingResources.text>
 	<UnforbidStartingResources.rejectInputMessage>Kérlek, oldd fel a kezdőkészlet elemeit!</UnforbidStartingResources.rejectInputMessage>
@@ -64,7 +64,7 @@
 	<EquipWeapons.rejectInputMessage>Kérlek, adj embereidnek fegyvert!.</EquipWeapons.rejectInputMessage>
 	<EquipWeapons.onMapInstruction>Ezt a fegyvert add oda!</EquipWeapons.onMapInstruction>
 	
-	<BuildFueledStove.text>Kiváló!\n\nSzükséged lesz egy tűzhelyre ételek készítéséhez.\n\nVálaszd a "Tűzhely (fatüzelés)" lehetőséget az "Építés" menüben,  és helyezd el a szobán belülre!</BuildFueledStove.text>
+	<BuildFueledStove.text>Kiváló!\n\nSzükséged lesz egy tűzhelyre ételek készítéséhez.\n\nVálaszd a "Tűzhely (fatüzelés)" lehetőséget az "Építés" menüben, és helyezd el a szobán belülre!</BuildFueledStove.text>
 	<BuildFueledStove.rejectInputMessage>Kérlek, helyezd a fatüzelésű tűzhelyet a szobán belülre!</BuildFueledStove.rejectInputMessage>
 	<BuildFueledStove.onMapInstruction>Ide építs egy fatüzelésű tűzhelyet!</BuildFueledStove.onMapInstruction>
 	
@@ -82,7 +82,7 @@
 	<OpenMainTabWork.text>Megadhatod, melyik gyarmatos milyen munkákat végezzen.\n\nNyisd meg a "Beosztás" fület a képernyő alján!</OpenMainTabWork.text>
 	<OpenMainTabWork.rejectInputMessage>Kérlek, nyisd meg a "Beosztás" fület!</OpenMainTabWork.rejectInputMessage>
 	
-	<ChangeWorkSettings.text>Az ablak tetején láthatod a különböző munkatípusokat. Az ablak baloldalán vannak a gyarmatosok.\n\nA négyzeteket bepipálva beállíthatod, hogy melyikük mit csináljon.\n\nVáltoztass a beállításokon most!\n\n(Pro tipp: a négyzet világossága  mutatja, hogy az adott ember milyen jó az adott munkában.)</ChangeWorkSettings.text>
+	<ChangeWorkSettings.text>Az ablak tetején láthatod a különböző munkatípusokat. Az ablak baloldalán vannak a gyarmatosok.\n\nA négyzeteket bepipálva beállíthatod, hogy melyikük mit csináljon.\n\nVáltoztass a beállításokon most!\n\n(Pro tipp: a négyzet világossága mutatja, hogy az adott ember milyen jó az adott munkában.)</ChangeWorkSettings.text>
 	<ChangeWorkSettings.rejectInputMessage>Kérlek, nyisd meg a "Beosztás" fület és változtass a beállításokon!</ChangeWorkSettings.rejectInputMessage>
 	
 	<BuildSimpleResearchBench.text>A fejlődéshez új technológiákat kell felfedezned.\n\nÉpíts egy "egyszerű laborasztal"-t a szobán belülre!</BuildSimpleResearchBench.text>

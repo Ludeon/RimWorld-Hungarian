@@ -14,7 +14,7 @@
   
   <ColonistNeedsRescue>Gyarmatos mentésre vár</ColonistNeedsRescue>
   <ColonistsNeedRescue>Gyarmatosok mentésre várnak</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>  A következő gyarmatosok cselekvőképtelenek:\n\n{0}\nKüldj értük valakit, aki kimenti és betegágyba teszi őket.\n\n(A mentéshez válassz ki egy másik gyarmatost és jobbkatt a sérültön majd "Mentés".</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>A következő gyarmatosok cselekvőképtelenek:\n\n{0}\nKüldj értük valakit, aki kimenti és betegágyba teszi őket.\n\n(A mentéshez válassz ki egy másik gyarmatost és jobbkatt a sérültön majd "Mentés".</ColonistsNeedRescueDesc>
 
  <!--  <BuildARoom>Építs szobát</BuildARoom>
   <BuildARoomDesc>Egy szoba falakból és ajtóból áll.\n\nHasználd az ÉPÍTÉS menüt a bal alsó sarokban, ezzel kijelölheted hol mi épüljön. Ha megtörtént a kijelölés, a gyarmatosok elvégzik a munkát, amint tudják.</BuildARoomDesc>
@@ -39,7 +39,7 @@
   <NoMedicineDesc>Már nincs gyógyszer a raktárban.\n\nVegyél még kereskedőktől belőle.</NoMedicineDesc>
   
   <NeedColonistBeds>Kevés az ágy</NeedColonistBeds>
-  <NeedColonistBedsDesc>Több gyarmatosod van mint ágyad. Valakinek nem lesz hol aludnia.\n\nGyárts több ágyat vagy állíts át börtönágyat normál ággyá.\n\nHa nincs nyersanyagod, az alvóhely ingyen van és azonnal lerakható.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>Több gyarmatosod van, mint ágyad. Valakinek nem lesz hol aludnia.\n\nGyárts több ágyat vagy állíts át börtönágyat normál ággyá.\n\nHa nincs nyersanyagod, az alvóhely ingyen van és azonnal lerakható.</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>Fegyvertelen vadász</HunterLacksWeapon>
   <HunterLacksWeaponDesc>Egy gyarmatos vadásznak van beosztva, de nincs fegyvere. Fegyver nélkül nem fog vadászni.\n\nSérülések elkerülése végett javasolt a távolsági fegyverek használata.</HunterLacksWeaponDesc>
@@ -129,5 +129,8 @@
   <NeedWarmClothesDesc1>Legalább {0} gyarmatosnak nincsen a hidegre megfelelő ruházata.</NeedWarmClothesDesc1>
   <NeedWarmClothesDesc1All>Egy gyarmatosnak sincsen a hidegre megfelelő ruházata.</NeedWarmClothesDesc1All>
   <NeedWarmClothesDesc2>A külső hőmérséklet eléri a {0} fokot.\n\nVarrhatsz meleg ruhát a munkaállomáson vagy vehetsz kereskedőtől is.</NeedWarmClothesDesc2>
+  
+  <AlertTatteredApparel>Rongyos ruházat</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>A következő gyarmatos(ok) rongyos ruhákat viselnek, és ettől rossz a kedvük:\n\n{0}\nAdj rá(juk) ruhát, ami nincs ennyire rossz állapotban!\n\nMagad is megvarrhatod őket, vagy megveheted egy kereskedőtől.</AlertTatteredApparelDesc>
   
 </LanguageData>

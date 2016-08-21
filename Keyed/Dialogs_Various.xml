@@ -9,7 +9,7 @@
   <!-- Game updated to new version -->
   <GameUpdatedToNewVersionInitial>A RimWorld frissítve lett erről a verzióról: {0} erre a verzióra: {1}.\n\nLehetséges, hogy a régi modok és mentések többé nem működnek.</GameUpdatedToNewVersionInitial>
   <GameUpdatedToNewVersionNonSteam>Mivel ezen a verzión nincs másolásvédelem, két különböző helyre is feltelepítheted, így játszhatsz régi és új verzióval is párhuzamosan.</GameUpdatedToNewVersionNonSteam>
-  <GameUpdatedToNewVersionSteam>Ha régebbi verzióval akarsz tovább játszani, használhatod a Steam 'Beta' szolgáltatását.\n\n  1. A Steam fiókodban jobb klikk a 'RimWorld'-ön.\n  2. Klikk a Beállitásokra.\n  3. Klikk a 'Betas' fülre.\n  4. Válaszd ki a kívánt verziót.\n\nAz öregebb verziók egy idő után törölve lesznek - de nem kell attól tartani, hogy a játékodat félbevágjuk.\n\nFigyelem, ha a modkészítők frissítik a modjukat az új verzióra, azok valószínűleg nem fognak többé működni az öregebb verziókkal. Kapcsold ki az automatikus frissítést, ennek megakadályozására.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionSteam>Ha régebbi verzióval akarsz tovább játszani, használhatod a Steam 'Beta' szolgáltatását.\n\n1. A Steam fiókodban jobb klikk a 'RimWorld'-ön.\n2. Klikk a Beállitásokra.\n3. Klikk a 'Betas' fülre.\n4. Válaszd ki a kívánt verziót.\n\nAz öregebb verziók egy idő után törölve lesznek - de nem kell attól tartani, hogy a játékodat félbevágjuk.\n\nFigyelem, ha a modkészítők frissítik a modjukat az új verzióra, azok valószínűleg nem fognak többé működni az öregebb verziókkal. Kapcsold ki az automatikus frissítést, ennek megakadályozására.</GameUpdatedToNewVersionSteam>
   
   
   <!-- Recovered from errors caused by mods -->
@@ -48,10 +48,10 @@
   <SaveGameButton>Mentés</SaveGameButton>
   <LoadGameButton>Betöltés</LoadGameButton>
   <OverwriteButton>Felülír</OverwriteButton>
-  <ConfirmDelete>tényleg töröljük? {0}</ConfirmDelete>
-  <DeleteThisSavegame>Mentés törlése.</DeleteThisSavegame>
-  <SavedAs>Elmentve, mint {0}.</SavedAs>
-  <NeedAName>Adj egy nevet.</NeedAName>
+  <ConfirmDelete>Tényleg töröljük? {0}</ConfirmDelete>
+  <DeleteThisSavegame>Mentés törlése</DeleteThisSavegame>
+  <SavedAs>Elmentve, mint {0}</SavedAs>
+  <NeedAName>Adj egy nevet</NeedAName>
   <LoadingLongEvent>Töltés...</LoadingLongEvent>
   <SavingLongEvent>Mentés...</SavingLongEvent>
   <PermadeathModeSaveSuffix>(Valós halál)</PermadeathModeSaveSuffix>
@@ -64,16 +64,16 @@
   
   <!-- Colony naming-->
   <NameColonyMessage>Mindenki tudja, hogy nem akarsz sokáig maradni ezen a sziklán, de {0} azt javasolja, hogy azért adhatnátok a kolóniának egy nevet.\n\nHogy nevezzétek el?</NameColonyMessage>
-  <ColonyGainsName>A kolónia neve mostantól {0}.</ColonyGainsName>
-  <ColonyNameIsInvalid>Ez a kolónia név nem megfelelő.</ColonyNameIsInvalid>
+  <ColonyGainsName>A kolónia neve mostantól {0}</ColonyGainsName>
+  <ColonyNameIsInvalid>Ez a kolónia név nem megfelelő</ColonyNameIsInvalid>
 
   <!-- Renaming -->
   <NameIsInvalid>Érvénytelen név</NameIsInvalid>
-  <NameIsInUse>Foglalt név.</NameIsInUse>
-  <ZoneGainsName>A zóna neve mostantól {0}.</ZoneGainsName>
+  <NameIsInUse>Foglalt név</NameIsInUse>
+  <ZoneGainsName>A zóna neve mostantól {0}</ZoneGainsName>
   
   <!-- Pawn naming -->
-  <PawnGainsName>Az embered beceneve mostantól {0}.</PawnGainsName>
+  <PawnGainsName>Az embered beceneve mostantól {0}</PawnGainsName>
 
   <!-- Save game incompatible warning -->
   <VersionMismatch>Verzióütközés</VersionMismatch>
@@ -134,7 +134,7 @@
   <BillRequiresNutrition>Szükséges tápanyag: {0}</BillRequiresNutrition>
   <BillRequiresMayVary>Megj.: kis helyet foglaló hozzávalókból, mint pl. az arany, 20x annyi kell.</BillRequiresMayVary>
   <ThisIsSmallVolume>Ez egy kis térfogatú hozzávaló. Ez azt jelenti, hogy minden "egység" csak 1/20-a a normál térfogatú hozzávalóknak. Így ezekből hússzor annyi szükséges az adott recepthez.</ThisIsSmallVolume>
-  <UsableIngredients>felhasználható összetevők</UsableIngredients>
+  <UsableIngredients>Felhasználható összetevők</UsableIngredients>
   <DoXTimes>X darab készítése</DoXTimes>
   <DoUntilYouHaveX>Gyártás X darabig</DoUntilYouHaveX>
   <DoForever>Gyártás örökké</DoForever>
@@ -162,7 +162,7 @@
   <FertilityRequirement>Termékenységi követelmény</FertilityRequirement>
   <SoilFertilitySensitivityGrowthRate>Talaj termékenységi érzékenység (növekedési ráta)</SoilFertilitySensitivityGrowthRate>
   <SoilFertilitySensitivityPlantChance>Talaj termékenységi érzékenység (kikelési esély)</SoilFertilitySensitivityPlantChance>
-  <LightRequirement>fény követelmény</LightRequirement>
+  <LightRequirement>Fény követelmény</LightRequirement>
   <Attributes>Tulajdonságok</Attributes>
   <LifeSpan>Élettartam</LifeSpan>
   <Nutrition>Tápérték</Nutrition>
@@ -188,21 +188,21 @@
   <Addictiveness>Addiktívság</Addictiveness>
 
   <!-- Trade -->
-  <PositiveBuysNegativeSells>Pozitív szám vételt jelent.\nNegatív szám eladást.</PositiveBuysNegativeSells>
+  <PositiveBuysNegativeSells>Pozitív szám vételt jelent\nNegatív szám eladást</PositiveBuysNegativeSells>
   <BuyPriceDesc>Ennyit fizetsz, hogy megvehesd.</BuyPriceDesc>
   <SellPriceDesc>Ennyit kapsz, ha eladod.</SellPriceDesc>
   <PriceTypeDesc>Ezért a termékért ez az ár {0}.</PriceTypeDesc>
   <ColonyCount>Ennyi áll kereskedésre készen a kolóniának ebből a termékből.\n\nCsak akkor adhatsz el termékeket földkörüli kereskedőknek, ha azok nincsenek fedél alatt és Földkörüli Kereskedő Jeladó mellett vannak.</ColonyCount>
-  <TraderCount>Mennyi terméket árul a kereskedő.</TraderCount>
+  <TraderCount>Mennyi terméket árul a kereskedő</TraderCount>
   <AcceptButton>Elfogadás</AcceptButton>
   <ResetButton>Visszaállítás</ResetButton>
   <CancelButton>Mégse</CancelButton>
   <CloseButton>Bezár</CloseButton>
   <YourTradeableSilver>A kereskedésre ennyi ezüst áll rendelkezésre: {0}</YourTradeableSilver>
 	<YourTradeableSilverTip>Csak azzal az ezüsttel kereskedhetsz, ami Földkörüli Kereskedő Jeladó mellet van és nincs tető alatt.</YourTradeableSilverTip>
-  <TraderHasNoMore>Nincs több a kereskedőnél.</TraderHasNoMore>
-  <ColonyHasNoMore>Nincs több eladó.</ColonyHasNoMore>
-  <TraderWillNotTrade>A kereskedő nem akarja megvenni ezt a terméket.</TraderWillNotTrade>
+  <TraderHasNoMore>Nincs több a kereskedőnél</TraderHasNoMore>
+  <ColonyHasNoMore>Nincs több eladó</ColonyHasNoMore>
+  <TraderWillNotTrade>Nem kell neki a termék</TraderWillNotTrade>
   <NegotiatorTalkingImpaired>Az alkuszod, {0}, egészsége miatt nem tud rendesen beszélni.\n\nEz befolyásolja az árakat.\n\nHasználj egészségesebb alkuszt.</NegotiatorTalkingImpaired>
   <ConfirmTraderShortFunds>A kereskedőnek nincs elég ezüstje ehhez az egyezséghez. Mindenképp megkötöd?</ConfirmTraderShortFunds>
   <SortBy>Rendezés</SortBy>
@@ -227,7 +227,7 @@
   <SelectOutfit>Felszerelés kiválasztása...</SelectOutfit>
   <NewOutfit>Új felszerelés</NewOutfit>
   <DeleteOutfit>Felszerelés törlése...</DeleteOutfit>
-  <OutfitInUse>A felszerelést {0} használja.</OutfitInUse>
+  <OutfitInUse>A felszerelést {0} használja</OutfitInUse>
   <NoOutfitSelected>Nincs felszerelés kiválasztva</NoOutfitSelected>
   
   <!-- Drug policy management -->
@@ -251,8 +251,8 @@
   <TimesPerDay>Naponta ennyiszer: {0}</TimesPerDay>
   <EveryDays>{0} naponta</EveryDays>
   <NoDrugUseRequirement>Bármi</NoDrugUseRequirement>
-  <DeleteDrugTooltip>Drog törlése.</DeleteDrugTooltip>
-  <DrugNameColumnDesc>A drog neve.</DrugNameColumnDesc>
+  <DeleteDrugTooltip>Drog törlése</DeleteDrugTooltip>
+  <DrugNameColumnDesc>A drog neve</DrugNameColumnDesc>
   <FrequencyColumnDesc>Milyen gyakran kéne szedje a gyarmatos a drogot.</FrequencyColumnDesc>
   <MoodThresholdColumnDesc>A gyarmatos csak akkor szedje a drogot, ha a hangulata rosszabb, mint ez a szint.</MoodThresholdColumnDesc>
   <JoyThresholdColumnDesc>A gyarmatos csak akkor szedje a drogot, ha az örömszintje rosszabb, mint ez a szint.</JoyThresholdColumnDesc>
