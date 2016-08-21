@@ -9,18 +9,18 @@
   <CannotUseReserved>Nem használható (fenntartott)</CannotUseReserved>
   <CannotUseFull>Nem használható (tele van)</CannotUseFull>
   
-  <FireAt>{0} tüzet fogott</FireAt>
+  <FireAt>Tüzelni erre: {0} </FireAt>
 
   <OutOfRange>túl messze van</OutOfRange>
-  <CannotHitTarget>nem tudja megütni</CannotHitTarget>
+  <CannotHitTarget>nem lehet eltalálni</CannotHitTarget>
   <IsIncapableOfViolenceLower>{0} nem képes erőszakra</IsIncapableOfViolenceLower>
   <IsNotDraftedLower>{0} nincs besorozva</IsNotDraftedLower>
   <CannotOrderNonControlledLower>nem adható parancs nem irányítható egységnek</CannotOrderNonControlledLower>
 
   <OrderManThing>{0} működtetése</OrderManThing>
   
-  <MeleeAttack>Támadd puszta kézzel ezt: {0}</MeleeAttack>
-  <MeleeAttackToDeath>Támadd puszta kézzel {0} míg meg nem hal</MeleeAttackToDeath>
+  <MeleeAttack>Támadd közelharcban ezt: {0}</MeleeAttack>
+  <MeleeAttackToDeath>Támadd közelharcban {0} míg meg nem hal</MeleeAttackToDeath>
   <NoPath>nem megközelíthető</NoPath>
 
 	<ForbiddenLower>tilos</ForbiddenLower>
@@ -33,7 +33,7 @@
 	<MissingMaterials>nincs elég alapanyag</MissingMaterials>
   <MissingSkill>túl alacsony készség</MissingSkill>
 	<NoEmptyGraveLower>nincs üres sírhely</NoEmptyGraveLower>
-  <AnimalInteractedTooRecently>Az állattal nemrég foglalkoztak</AnimalInteractedTooRecently>
+  <AnimalInteractedTooRecently>az állattal nemrég foglalkoztak</AnimalInteractedTooRecently>
   <NoUsableFood>nincs felhasználható étel</NoUsableFood>
   <NoFood>nincs étel</NoFood>
   <AnimalsSkillTooLow>gondozás készség túl alacsony</AnimalsSkillTooLow>
@@ -92,7 +92,7 @@
   
   <Drop>Dobd el ezt: {0}</Drop>
 
-  <UseMedicalBed>Pihenj a teljes felgyógyulásig.</UseMedicalBed>
+  <UseMedicalBed>Pihenj teljes felgyógyulásig</UseMedicalBed>
   <NotInjured>Nem sérült meg.</NotInjured>
   <SomeoneElseSleeping>Foglalt</SomeoneElseSleeping>
   
