@@ -5,6 +5,13 @@
   <GoBack>Vissza</GoBack>
   <OK>OK</OK>
   
+  
+  <!-- Game updated to new version -->
+  <GameUpdatedToNewVersionInitial>A RimWorld frissítve lett erről a verzióról: {0} erre a verzióra: {1}.\n\nLehetséges, hogy a régi modok és mentések többé nem működnek.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionNonSteam>Mivel ezen a verzión nincs másolásvédelem, két különböző helyre is feltelepítheted, így játszhatsz régi és új verzióval is párhuzamosan.</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionSteam>Ha régebbi verzióval akarsz tovább játszani, használhatod a Steam 'Beta' szolgáltatását.\n\n  1. A Steam fiókodban jobb klikk a 'RimWorld'-ön.\n  2. Klikk a Beállitásokra.\n  3. Klikk a 'Betas' fülre.\n  4. Válaszd ki a kívánt verziót.\n\nAz öregebb verziók egy idő után törölve lesznek - de nem kell attól tartani, hogy a játékodat félbevágjuk.\n\nFigyelem, ha a modkészítők frissítik a modjukat az új verzióra, azok valószínűleg nem fognak többé működni az öregebb verziókkal. Kapcsold ki az automatikus frissítést, ennek megakadályozására.</GameUpdatedToNewVersionSteam>
+  
+  
   <!-- Recovered from errors caused by mods -->
   <RecoveredFromErrorsDialogTitle>Korrupt vagy inkompatibilis mod okozta hiba</RecoveredFromErrorsDialogTitle>
   <RecoveredFromErrorsText>Úgy tűnik valamelyik aktív mod hibát okozott.\n\nÜtközik egy másik moddal, másik RimWorld verzióhoz lett írva vagy sérült .\n\nMinden mod ki lett kapcsolva, újra lehet őket aktiválni a Modok menüben.</RecoveredFromErrorsText>
@@ -17,6 +24,10 @@
   <ErrorWhileGeneratingMap>Hiba történt a térkép létrehozása közben. Ellenőrizze a hibanaplót!</ErrorWhileGeneratingMap>
   <ErrorWhileLoadingMapTitle>Hiba térkép betöltése közben</ErrorWhileLoadingMapTitle>
   <ErrorWhileLoadingMap>Hiba történt a térkép betöltése közben. Ellenőrizze a hibanaplót!</ErrorWhileLoadingMap>
+  
+  <!-- Unloaded mod with an assembly -->
+  <ModWithAssemblyWasUnloaded>A játék nem tudja teljesen törölni a deaktivált modok által megváltozott kódot.\n\nJavasolt a játékot újraindítani és a modokat tisztán betölteni.</ModWithAssemblyWasUnloaded>
+  
   
   <!-- Missing Steam -->
   <SteamClientMissing>Steam API indítása sikertelen. Lehetséges okok:\n\n-Steam nem fut.\n-Steam-en kívülről indítva steam_appid.txt nélkül.\n-Steam-étől eltérő jogosultságokkal indítva (pl. "rendszergazdaként").\n\nEgy újraindítás a legtöbb esetben segíthet.\n\nA játék eme verziójához Steam szükséges, ezért most kilép.</SteamClientMissing>
@@ -162,7 +173,9 @@
   <Diet>Étrend</Diet>
   <RecruitDifficulty>Toborzási nehézség</RecruitDifficulty>
   <MarketValue>Alapár</MarketValue>
-  <Covers>Fedezi</Covers>
+  <Covers>Fedezékbe húzódik</Covers>
+  <CoverEffectiveness>Fedezék hatékonysága</CoverEffectiveness>
+  <CoverEffectivenessExplanation>Mennyire hatékonyan fogja fel a lövéseket az adott fedezék. Nagyobb szám több elkerült lövést jelent.</CoverEffectivenessExplanation>
   <MedicineXpGainFactor>Tapasztalatszerzési faktor</MedicineXpGainFactor>
   <BodyPartEfficiency>Testrész hatékonyság</BodyPartEfficiency>
   <MoodChange>Hangulat változás</MoodChange>
@@ -172,6 +185,7 @@
   <AnimalFilthRateExplanation>Az állatok koszt hagynak maguk után épített padlón. Ez az átlagos mennyiségű termelt kosz {0} cellánként, amit az állat bejár.\n\nNagyobb és nem "házi kedvenc" típusú állatok jobban koszolnak.</AnimalFilthRateExplanation>
   <TimeRecordsCategory>Idő</TimeRecordsCategory>
   <MiscRecordsCategory>Egyéb</MiscRecordsCategory>
+  <Addictiveness>Addiktívság</Addictiveness>
 
   <!-- Trade -->
   <PositiveBuysNegativeSells>Pozitív szám vételt jelent.\nNegatív szám eladást.</PositiveBuysNegativeSells>
@@ -183,6 +197,7 @@
   <AcceptButton>Elfogadás</AcceptButton>
   <ResetButton>Visszaállítás</ResetButton>
   <CancelButton>Mégse</CancelButton>
+  <CloseButton>Bezár</CloseButton>
   <YourTradeableSilver>A kereskedésre ennyi ezüst áll rendelkezésre: {0}</YourTradeableSilver>
 	<YourTradeableSilverTip>Csak azzal az ezüsttel kereskedhetsz, ami Földkörüli Kereskedő Jeladó mellet van és nincs tető alatt.</YourTradeableSilverTip>
   <TraderHasNoMore>Nincs több a kereskedőnél.</TraderHasNoMore>
@@ -215,6 +230,34 @@
   <OutfitInUse>A felszerelést {0} használja.</OutfitInUse>
   <NoOutfitSelected>Nincs felszerelés kiválasztva</NoOutfitSelected>
   
+  <!-- Drug policy management -->
+  
+  <DrugPolicy>Drogszabályok</DrugPolicy>
+  <SelectDrugPolicy>Szabály kiválasztása...</SelectDrugPolicy>
+  <NewDrugPolicy>Új szabály</NewDrugPolicy>
+  <DeleteDrugPolicy>Szabály törlése...</DeleteDrugPolicy>
+  <DrugPolicyInUse>A szabályt {0} használja.</DrugPolicyInUse>
+  <NoDrugs>Nincs drog</NoDrugs>
+  <OneDrinkPerDay>Napi egy ital</OneDrinkPerDay>
+  <NoDrugPolicySelected>Nincs szabály kiválasztva</NoDrugPolicySelected>
+  <AddDrug>Drog hozzáadása...</AddDrug>
+  <DrugColumnLabel>Drogok</DrugColumnLabel>
+  <FrequencyColumnLabel>Gyakoriság</FrequencyColumnLabel>
+  <MoodThresholdColumnLabel>Ha a hangulat rosszabb, mint</MoodThresholdColumnLabel>
+  <JoyThresholdColumnLabel>Ha az öröm kisebb, mint</JoyThresholdColumnLabel>
+  <TakeToInventoryColumnLabel>Többlet</TakeToInventoryColumnLabel>
+  <NoDrugsBrackets>(nincs drog)</NoDrugsBrackets>
+  <EveryDay>Minden nap</EveryDay>
+  <TimesPerDay>Naponta ennyiszer: {0}</TimesPerDay>
+  <EveryDays>{0} naponta</EveryDays>
+  <NoDrugUseRequirement>Bármi</NoDrugUseRequirement>
+  <DeleteDrugTooltip>Drog törlése.</DeleteDrugTooltip>
+  <DrugNameColumnDesc>A drog neve.</DrugNameColumnDesc>
+  <FrequencyColumnDesc>Milyen gyakran kéne szedje a gyarmatos a drogot.</FrequencyColumnDesc>
+  <MoodThresholdColumnDesc>A gyarmatos csak akkor szedje a drogot, ha a hangulata rosszabb, mint ez a szint.</MoodThresholdColumnDesc>
+  <JoyThresholdColumnDesc>A gyarmatos csak akkor szedje a drogot, ha az örömszintje rosszabb, mint ez a szint.</JoyThresholdColumnDesc>
+  <TakeToInventoryColumnDesc>Ennyivel többet vegyen fel, hogy ne kelljen állandóan a raktárhoz rohangálni.</TakeToInventoryColumnDesc>
+    
   <!-- Growing -->
   <NoGrowerCanPlant>A {0} vetéséhez szükséges Kert készség szintje: {1}.\n\nEgyik munkaképes emberednek sincs ilyenje, ezért ez a mag nem lesz elvetve.</NoGrowerCanPlant>
 

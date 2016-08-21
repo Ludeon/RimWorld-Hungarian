@@ -104,5 +104,15 @@
   <!-- Party -->
   <LetterLabelNewParty>Buli!</LetterLabelNewParty>
   <LetterNewParty>{0} bulit rendez! Aki elmegy élvezni fogja, hosszan tartó hangulatjavulást eredményezve.</LetterNewParty>
+  
+  <!-- Newly addicted -->
+  
+  <LetterLabelNewlyAddicted>{0} függő lett</LetterLabelNewlyAddicted>
+  <LetterNewlyAddicted>{0} {1} függő lett.\n\nMostantól szüksége van erre: {1}. Ez mostantól a "Szükség" fülön is látható lesz. Automatikusan magához fogja venni a szert. Ha nem jut hozzá, elvonása lesz.</LetterNewlyAddicted>
+  
+  <!-- Drug binge -->
+  
+  <LetterLabelDrugBinge>{0} tivornyázik</LetterLabelDrugBinge>
+  <LetterDrugBinge>{0} ezt habzsolja: {1}.</LetterDrugBinge>
 
 </LanguageData>

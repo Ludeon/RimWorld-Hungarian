@@ -60,6 +60,14 @@
   <RadiusExpandsIn>sugárnövekedés ideje</RadiusExpandsIn>
   <Permanent>állandó</Permanent>
   
+    <!-- Fermentation barrel -->
+	
+  <ContainsWort>Tartalma {0} / {1} fűszer.</ContainsWort>
+  <ContainsBeer>Tartalma {0} / {1} sőr.</ContainsBeer>
+  <Fermented>Érlelt</Fermented>
+  <FermentationProgress>Állapot: {0} (kb. {1} múlva kész).</FermentationProgress>
+  <FermentationBarrelOutOfIdealTemperature>Nem ideális hőmérséklet. Érés szorzója: {0}</FermentationBarrelOutOfIdealTemperature>
+  
   <!--TextMotes-->
   <Headshot>Fejlövés</Headshot>
   <TreatQuality>ellátás minősége: {0}</TreatQuality>
@@ -133,6 +141,7 @@
   <WeaponMissRadius>Pontatlanság mértéke</WeaponMissRadius>
 	<ShootReportShooterAbility>Lövész</ShootReportShooterAbility>
 	<ShootReportWeapon>Fegyver</ShootReportWeapon>
+																<RangeSlashEquipment>Reichweite/Ausrüstung</RangeSlashEquipment>
 	<Darkness>Sötétség</Darkness>
 	<TargetProne>Célpont fekszik</TargetProne>
 	<TargetSize>Célpont mérete</TargetSize>
@@ -256,7 +265,9 @@
   <AutoHomeAreaToggleButton>Lakókörzet automatikus kiterjesztése új épületnél</AutoHomeAreaToggleButton>
   <CategorizedResourceReadoutToggleButton>Kategorizált alapanyag lista</CategorizedResourceReadoutToggleButton>
   <ShowAnimalNamesToggleButton>Elnevezett állatok nevének kijelzése</ShowAnimalNamesToggleButton>
-  
+  <ShowLearningHelperWhenEmptyToggleButton>Az oktató ki/bekapcsolása akkor is, ha nincs téma.\n\nA oktató automatikusan bekapcsol, ha van új téma. Ezzel a kapcsolóval eltűntetheted, ha épp nincs tanulnivaló.</ShowLearningHelperWhenEmptyToggleButton>
+   <ShowRoofOverlayToggleButton>Tetők láthatósága be/ki.</ShowRoofOverlayToggleButton>
+   
   <!-- Fire -->
   <Fire>Tűz</Fire>
   <FireOn>{0} ég</FireOn>
@@ -368,5 +379,15 @@
   <!-- Maintainable -->
   <DueForMaintenance>Karbantartás szükséges.</DueForMaintenance>
   <DeterioratingDueToLackOfMaintenance>Karbantartás hiánya miatt elhasználódik.</DeterioratingDueToLackOfMaintenance>
+  
+   <!-- Deep drill -->
+  <ProgressToNextLump>Folytatni a következő területen</ProgressToNextLump>
+  <ResourceBelow>Nyersanyag alattunk</ResourceBelow>
+  
+    <!-- Learning helper -->
+  <LearningHelper>Oktató</LearningHelper>
+  <MarkLearned>Ismertnek jelölni</MarkLearned>
+  <AlreadyLearned>Már ismert</AlreadyLearned>
+  <Filter>Szűrő</Filter>	
   
 </LanguageData>
