@@ -1,119 +1,119 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<CreateWorldParams.text>Wilkommen in RimWorld! Dieses Tutorial wird dir zeigen wie man spielt.\n\nAls erstes musst du eine Welt generieren.\n\nAuf dieser Seite kannst du die Eigenschaften der Welt ändern.\n\nDie Standardeinstellungen sind gut - klicke nun auf GENERIEREN!</CreateWorldParams.text>
+	<CreateWorldParams.text>Üdvözöllek! Ez az oktató mód megtanít a játék kezelésére.\n\nElső lépésként készíts egy világot, amiben játszol!\n\nEzen az oldalon a világ paramétereit állíthatod be.\n\nAz alapbeállítások megfelelőek, nyomd meg a "Létrehoz" gombot!</CreateWorldParams.text>
 	
-	<ChooseLandingSite.text>Hier wählst du deinen Landeplatz aus.\n\nEs gibt viele Biome, aber zuerst solltest du ein einfaches Biom wählen.\n\nWäe eine Landeplatz mit einem gemäßigten Wald und einer ebenen Landschaft.\n\nDanach klicke auf WEITER.</ChooseLandingSite.text>
-	<ChooseLandingSite.rejectInputMessage>Bitte wähle einen Landeplatz mit einem gemäßigten Wald und ebener Landschaft.</ChooseLandingSite.rejectInputMessage>
+	<ChooseLandingSite.text>Itt választod ki a földet érés helyét.\n\nSokféle életközösség létezik, kezdjük valami barátságosabbal.\n\nVálassz egy zónát mérsékelt erdővel és sík tereppel, majd nyomd meg a "Jóváhagyás" gombot.</ChooseLandingSite.text>
+	<ChooseLandingSite.rejectInputMessage>Kérlek, mérsékelt erdővel és sík tereppel rendelkező zónát válassz!</ChooseLandingSite.rejectInputMessage>
 	
-	<RandomizeCharacter.text>Jetzt generierst du die Charaktere!\n\nVersuche zufällige Charaktere zu generieren indem du auf die ZUFÄLLIG Schaltfläche drückst.</RandomizeCharacter.text>
-	<RandomizeCharacter.rejectInputMessage>Bitte klicke auf die ZUFÄLLIG Schaltfläche.</RandomizeCharacter.rejectInputMessage>
+	<RandomizeCharacter.text>Most létrehozzuk a karaktereidet!\n\nPróbálj meg véletlenszerűen létrehozni egyet a "Véletlenszerű" gombbal.</RandomizeCharacter.text>
+	<RandomizeCharacter.rejectInputMessage>Kérlek próbáld ki a "Véletlenszerű" gombot!</RandomizeCharacter.rejectInputMessage>
 
-	<AcceptStartingPawns.text>Super!\n\nDu kannst deine Charaktere so oft neu generieren wie du willst - aber versuche nicht den perfekten Charakter zu bekommen. Jeder hat seine Macken, aber gerade das macht die Geschichte doch noch interessanter.\n\nDu kannst deine Charaktere auch umbenennen, indem du auf ihre Namen klickst.\n\nKlicke auf START wenn du bereit bist.</AcceptStartingPawns.text>
+	<AcceptStartingPawns.text>Nagyszerű!\n\nTöbbször is próbálkozhatsz, de ne akarj tökéletes karaktert kapni! Mindenkinek vannak hibái, ez teszi a történetet érdekessé.\n\nÁt is nevezheted a karaktert a nevére kattintva.\n\nNyomd meg a kezdés gombot, ha kész vagy!</AcceptStartingPawns.text>
 	
-	<MapCameraDolly.text>Nun bist du auf der Welt gelandet.\n\nVersuche die Kamera zu bewegen.\n\nNutze hierzu {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} oder klicke und ziehe mit der mittleren Maustaste.\n\nVersuch es einmal!</MapCameraDolly.text>
+	<MapCameraDolly.text>Megérkeztünk a felszínre.\n\nPróbáld mozgatni a kamerát!\n\nHasználd a {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} billentyűkkel, vagy a középső egérgombot nyomva tartva húzd a kamerát!\n\nPróbáld ki!</MapCameraDolly.text>
 	
-	<MapCameraZoom.text>Super!\n\nDu kannst auch rein- und rauszoomen indem du das Mausrad benutzt oder auch mit den Tasten {Key:MapZoomIn} und {Key:MapZoomOut}.\n\nVersuch es!</MapCameraZoom.text>
+	<MapCameraZoom.text>Nagyszerű!\n\nKözelítheted és távolíthatod a kamerát az egérgörgővel vagy a {Key:MapZoomIn} és a {Key:MapZoomOut} billentyűvel.\n\nPróbáld ki!</MapCameraZoom.text>
 	
-	<Pause.text>Du kannst das Spiel pausieren.\n\nDas bedeutet, dass du dich nie beeilen musst. Du kannst immer pausieren und dir die Zeit nehmen die du brauchst.\n\nVersuche mit {Key:TogglePause} zu pausieren oder klicke auf das entsprechende Icon der Zeitkontrolle in der unteren rechten Ecke.</Pause.text>
+	<Pause.text>Az időt is megállíthatod.\n\nÍgy sosem kell kapkodnod, nyugodtan kiadhatod a parancsokat.\n\nPróbáld leállítani az időt a {Key:TogglePause} billentyűvel, vagy a jobb alsó sarokban lévő felületen.</Pause.text>
 	
-	<TimeControls.text>Du kannst das Spiel auch verschnellern\n\nVersuche die Geschwindigkeit mit den Tasten {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, und {Key:TimeSpeedSuperfast} zu ändern. Du kannst auch auf die Icons der Zeitkontrolle in der unteren rechten Ecke klicken.</TimeControls.text>
+	<TimeControls.text>Az idő fel is gyorsítható.\n\nPróbáld felgyorsítani az időt a {Key:TimeSpeedNormal}, {Key:TimeSpeedFast} és {Key:TimeSpeedSuperfast} billentyűkkel, vagy a jobb alsó sarokban lévő felületen.</TimeControls.text>
 	
-	<MakeStockpile.text>Super!\n\nNun, erstelle eine Lagerzone damit die Kolonisten wissen, wo sie die Gegenstände lagern sollen.\n\n1. Klicke auf ARCHITEKT.\n2. Klicke auf ZONE/GEBIET.\n3Wähle LAGERZONE.\n4Klicke und ziehe ein Rechteck so wie es auf der Karte angezeigt wird.</MakeStockpile.text>
-	<MakeStockpile.rejectInputMessage>Bitte erstelle eine Lagerzone an der angezeigten Stelle.</MakeStockpile.rejectInputMessage>
-	<MakeStockpile.onMapInstruction>Plaziere hier die Lagerzone\n(Von Ecke-zu-Ecke ziehen)</MakeStockpile.onMapInstruction>
+	<MakeStockpile.text>Nagyszerű!\n\nKészíts egy raktárterületet, hogy a gyarmatosoknak legyen hol tárolni a dolgaikat!\n\n1. Kattints az "Építés" gombra\n2. Válaszd az "Zóna/Körzet" kategóriát\n3. Válaszd ki a "Raktárterület" eszközt\n4. Fess be vele egy négyzet alakú területet, ahogy a térképen látod</MakeStockpile.text>
+	<MakeStockpile.rejectInputMessage>Kérlek, a kijelölt helyen csináld a raktárterület!</MakeStockpile.rejectInputMessage>
+	<MakeStockpile.onMapInstruction>Ide tedd a raktárterületet\n(saroktól-sarokig húzd)</MakeStockpile.onMapInstruction>
 	
-	<EndStockpileDesignating.text>Klicke mit der rechten Maustaste um den Erstellmodus zu beenden.</EndStockpileDesignating.text>
+	<EndStockpileDesignating.text>Kattints a jobb egérgombbal,  hogy befejezd a raktárterület kijelölést.</EndStockpileDesignating.text>
 	
-	<UnforbidStartingResources.text>Und jetzt, damit die Kolonisten die Gegenstände in die Lagerzone bringen, musst du sie erst einmal erlauben.\n\n1. Klicke auf die Gegenstände um sie auszuwählen.\n2. Klicke auf die VERBOTEN ein/aus Schaltfläche.\n\n(Profi-Tipp: Doppelklicke auf ein Gegestand um alle Gegenstände der gleiche Art in der Nähe auszuwählen.) </UnforbidStartingResources.text>
-	<UnforbidStartingResources.rejectInputMessage>Bitte erlaube deine Startgegenstände.</UnforbidStartingResources.rejectInputMessage>
-	<UnforbidStartingResources.onMapInstruction>Erlaube dies</UnforbidStartingResources.onMapInstruction>
+	<UnforbidStartingResources.text>Ahhoz, hogy a gyarmatosok a raktárterületre hordják a dolgokat, fel kell oldanod őket a tiltás alól.\n\n1. Klikkelj a kezdőkészlet elemeire, hogy kiválaszd őket\n2. Nyomd meg a tiltás/feloldás parancsot a feloldáshoz\n\n(Pro tipp: duplaklikkel kiválaszthatod a képernyőn lévő összes ugyanolyan tárgyat.)</UnforbidStartingResources.text>
+	<UnforbidStartingResources.rejectInputMessage>Kérlek, oldd fel a kezdőkészlet elemeit!</UnforbidStartingResources.rejectInputMessage>
+	<UnforbidStartingResources.onMapInstruction>Feloldandó</UnforbidStartingResources.onMapInstruction>
 	
-	<BuildRoomWalls.text>Fantastisch! Als nächstes bauen wir einen Raum!\n\n1. Klicke auf ARCHITEKT.\n2. Klicke auf STRUKTUR.\n3. Wähle WAND.\n4. Wähle HOLZ als Material.\n5. Baue eine Wand, so wie es auf der Karte angezeigt wird.</BuildRoomWalls.text>
-	<BuildRoomWalls.rejectInputMessage>Bitte baue die Wände entlang dem markierten Rechteck.</BuildRoomWalls.rejectInputMessage>
-	<BuildRoomWalls.onMapInstruction>Baue Wände</BuildRoomWalls.onMapInstruction>
+	<BuildRoomWalls.text>Király!\n\nMost építünk egy szobát!\n\n1. Nyomd meg az "Építés" gombot\n2. Válaszd az "Építmények" kategóriát\n3. Klikkelj a "Fal"-ra.\n4. A felhasznált anyag legyen "Fa"\n5. Húzz fel négy falat, ahogy a térképen látod</BuildRoomWalls.text>
+	<BuildRoomWalls.rejectInputMessage>Kérlek, a jelzett helyet jelöld ki a falak számára.</BuildRoomWalls.rejectInputMessage>
+	<BuildRoomWalls.onMapInstruction>Ide építs falat</BuildRoomWalls.onMapInstruction>
 	
-	<BuildRoomDoor.text>Nun musst du nur eine TÜR über eine der Wände platzieren.\n\nTÜR findest du direkt neben WAND im ARCHITEKT-Menü.</BuildRoomDoor.text>
-	<BuildRoomDoor.rejectInputMessage>Bitte baue ein Holztür über eine der Wände.</BuildRoomDoor.rejectInputMessage>
-	<BuildRoomDoor.onMapInstruction>Baue eine Tür über eine Wand</BuildRoomDoor.onMapInstruction>
+	<BuildRoomDoor.text>Most helyezz el egy ajtót valamelyik falban!\n\nAz "Ajtó" a "Fal" mellett található az "Építés" menüben.</BuildRoomDoor.text>
+	<BuildRoomDoor.rejectInputMessage>Kérlek, a falra helyezd az ajtót és fából legyen!</BuildRoomDoor.rejectInputMessage>
+	<BuildRoomDoor.onMapInstruction>Ide építs ajtót!</BuildRoomDoor.onMapInstruction>
 	
-	<BuildBeds.text>Deine Kolonisten bauen nun den Raum!\n\nJetzt benötigen sie einen Platz zum schlafen. Platziere dazu drei BETTEN in den Raum.\n\nDu findest die Betten in der Kategorie MÖBEL.</BuildBeds.text>
-	<BuildBeds.rejectInputMessage>Bitte platziere Holzbetten innerhalb des Raumes.</BuildBeds.rejectInputMessage>
-	<BuildBeds.onMapInstruction>Baue drei Betten innerhalb des Raums</BuildBeds.onMapInstruction>
+	<BuildBeds.text>Gyarmatosaid meg fogják építeni a szobát!\n\nMost szükségük van egy helyre, ahol alhatnak. Helyezz el három "Ágy"-at a szobán belül!\n\nMegtalálod a "Bútorzat" kategória alatt.</BuildBeds.text>
+	<BuildBeds.rejectInputMessage>Kérlek, a szobán belülre helyezd a faágyakat!</BuildBeds.rejectInputMessage>
+	<BuildBeds.onMapInstruction>Ide építs három ágyat!</BuildBeds.onMapInstruction>
 	
-	<BuildTorchLamp.text>Du brauchst außerdem noch Licht. Im Dunkeln können deine Kolonisten sonst gereizt werden.\n\nBaue eine FACKEL innerhalb des Raumes.</BuildTorchLamp.text>
-	<BuildTorchLamp.rejectInputMessage>Bitte platziere eine Fackel im Raum.</BuildTorchLamp.rejectInputMessage>
-	<BuildTorchLamp.onMapInstruction>Baue eine Fackel innerhalb des Raumes</BuildTorchLamp.onMapInstruction>
+	<BuildTorchLamp.text>A szobában fényforrásra is szükség van, különben embereid morcosak lesznek a sötétben.\n\nKerüljön egy "Fáklya" a szobába!</BuildTorchLamp.text>
+	<BuildTorchLamp.rejectInputMessage>Kérlek, a fáklyát a szobába helyezd!</BuildTorchLamp.rejectInputMessage>
+	<BuildTorchLamp.onMapInstruction>Ide építsd a fáklyát!</BuildTorchLamp.onMapInstruction>
 	
-	<BuildAnimalSleepingSpot.text>So, jetzt soll dein Haustier auch noch bei den Kolonisten schlafen. Baue einen SCHLAFPLATZ (TIER) innerhalb des Raumes.\n\nSchlafplätze sind keine wirklichen Objekte - Sie definieren nur einen Bereich am Boden, in dem man schlafen soll.</BuildAnimalSleepingSpot.text>
-	<BuildAnimalSleepingSpot.rejectInputMessage>Bitte platziere einen Schlafplatz für das Tier im Raum.</BuildAnimalSleepingSpot.rejectInputMessage>
-	<BuildAnimalSleepingSpot.onMapInstruction>Plaziere einen Schlafplatz (Tier)\ninnerhalb des Raumes</BuildAnimalSleepingSpot.onMapInstruction>
+	<BuildAnimalSleepingSpot.text>Háziállatod is veled fog aludni. A szobán belül helyezd el a következőt: "fekhely (állat)"!\n\nA fekhelyek nem valós tárgyak, egyszerű kijelölt helyek a földön, ahol aludni lehet.</BuildAnimalSleepingSpot.text>
+	<BuildAnimalSleepingSpot.rejectInputMessage>Kérlek, helyezd a fekhelyet a szobán belülre!</BuildAnimalSleepingSpot.rejectInputMessage>
+	<BuildAnimalSleepingSpot.onMapInstruction>Ide helyezd a fekhelyet!</BuildAnimalSleepingSpot.onMapInstruction>
 	
-	<BuildHorseshoesPin.text>Deine Kolonisten benötigen etwas um sich zu vergnügen oder sie werden mit der Zeit sehr depressiv.\n\nBaue draußen, in der nähe des Raumes einen HUFEISENSTAB.</BuildHorseshoesPin.text>
-	<BuildHorseshoesPin.rejectInputMessage>Bitte platziere draußen einen Hufeisenstab.</BuildHorseshoesPin.rejectInputMessage>
-	<BuildHorseshoesPin.onMapInstruction>Plaziere einen Hufeisenstab\naußerhalb des Raumes</BuildHorseshoesPin.onMapInstruction>
+	<BuildHorseshoesPin.text>A gyarmatosoknak örömforrásra van szükségük, különben egy idő után depressziósak lesznek.\n\nÉpíts "Patkó játék"-ot kívülre, de a szoba közelébe!</BuildHorseshoesPin.text>
+	<BuildHorseshoesPin.rejectInputMessage>Kérlek, építsd a játékot a szobán kívülre!</BuildHorseshoesPin.rejectInputMessage>
+	<BuildHorseshoesPin.onMapInstruction>A szobán kívülre építsd a játékot!</BuildHorseshoesPin.onMapInstruction>
 	
-	<MakeGrowingZone.text>Das Haus wird nun gebaut!\n\nDeine Kolonisten brauchen auch etwas Nahrung, also platziere eine ANBAUZONE wie auf der Karte gezeigt.\n\nHier werden deine Kolonisten Früchte anbauen.</MakeGrowingZone.text>
-	<MakeGrowingZone.rejectInputMessage>Bitte erstelle eine Anbauzone an der angezeigten Stelle.</MakeGrowingZone.rejectInputMessage>
-	<MakeGrowingZone.onMapInstruction>Platziere eine Anbauzone hier.\n(ziehe Ecke-zu-Ecke)</MakeGrowingZone.onMapInstruction>
+	<MakeGrowingZone.text>A ház készül!\n\nA gyarmatosoknak szüksége lesz valami ennivalóra. Helyezz el egy "Kert" zónát, ahogy a térképen látható!\n\nEmbereid ide fogják vetni a magokat.</MakeGrowingZone.text>
+	<MakeGrowingZone.rejectInputMessage>Kérlek, a kijelölt helyre helyezd a kertet!</MakeGrowingZone.rejectInputMessage>
+	<MakeGrowingZone.onMapInstruction>Itt jelöld ki a kertet\n(saroktól-sarokig húzd)</MakeGrowingZone.onMapInstruction>
 	
-	<SetToGrowRice.text>Du kannst entscheiden, was für Pflanzen deine Kolonisten in einer Anbauzone anbauen sollen.\n\n1. Klicke mit der rechten Maustaste um den Architekt-Modus zu beenden.\n2. Klicke auf deine Anbauzone um sie auszuwählen.\n3. Klicke die "Wähle Pflanze" Schaltfläche unten und ändere die Auswahl zu Reispflanze.</SetToGrowRice.text>
-	<SetToGrowRice.rejectInputMessage>Bitte ändere den Anbau in Reispflanze.</SetToGrowRice.rejectInputMessage>
-	<SetToGrowRice.onMapInstruction>Ändere den Anbau dieser Zone zu Reis</SetToGrowRice.onMapInstruction>
+	<SetToGrowRice.text>Megadhatod, hogy embereid mit termesszenek a kertben.\n\n1. Jobb egérgombbal lépj ki építés módból\n2. Klikkelj a kerten, hogy a kiválaszd\n3. Kattints a "növény fajtája" parancsra, és állítsd át rizsre</SetToGrowRice.text>
+	<SetToGrowRice.rejectInputMessage>Kérlek, állítsd át a termesztendő növény fajtáját!</SetToGrowRice.rejectInputMessage>
+	<SetToGrowRice.onMapInstruction>Jelöld ki a kertet rizstermesztésre!</SetToGrowRice.onMapInstruction>
 	
-	<EquipWeapons.text>Lasse deine Kolonisten die Waffen ausrüsten. Um dies zu tun:\n\n1. Wähle einen Kolonisten aus.\n2. Klicke mit der rechten Maustaste auf die Waffe deiner Wahl.\n3. Klicke auf 'Waffe ausrüsten'.\n\nMache dies nun mit jedem Kolonisten. </EquipWeapons.text>
-	<EquipWeapons.rejectInputMessage>Bitte rüste deine Kolonisten mit Waffen aus.</EquipWeapons.rejectInputMessage>
-	<EquipWeapons.onMapInstruction>Rüste dies aus</EquipWeapons.onMapInstruction>
+	<EquipWeapons.text>Szereld fel embereidet fegyverekkel! Ehhez:\n\n1. Válassz ki egy gyarmatost\n2. Jobb egérgombbal klikkelj a fegyverre, amit neki akarsz adni\n3. Válaszd a "Használd ezt:" lehetőséget\n\nTedd meg ezt minden embereddel. </EquipWeapons.text>
+	<EquipWeapons.rejectInputMessage>Kérlek, adj embereidnek fegyvert!.</EquipWeapons.rejectInputMessage>
+	<EquipWeapons.onMapInstruction>Ezt a fegyvert add oda!</EquipWeapons.onMapInstruction>
 	
-	<BuildFueledStove.text>Exzellent!\nDamit es auch etwas zu Essen gibt, musst du noch einen Herd bauen.\n\nBaue einen Herd (Feuer) in den Raum.</BuildFueledStove.text>
-	<BuildFueledStove.rejectInputMessage>Bitte platziere einen Herd (Feuer) in den Raum, den du vorhin gebaut hast.</BuildFueledStove.rejectInputMessage>
-	<BuildFueledStove.onMapInstruction>Baue einen Herd (Feuer) in den Raum</BuildFueledStove.onMapInstruction>
+	<BuildFueledStove.text>Kiváló!\n\nSzükséged lesz egy tűzhelyre ételek készítéséhez.\n\nVálaszd a "Tűzhely (fatüzelés)" lehetőséget az "Építés" menüben,  és helyezd el a szobán belülre!</BuildFueledStove.text>
+	<BuildFueledStove.rejectInputMessage>Kérlek, helyezd a fatüzelésű tűzhelyet a szobán belülre!</BuildFueledStove.rejectInputMessage>
+	<BuildFueledStove.onMapInstruction>Ide építs egy fatüzelésű tűzhelyet!</BuildFueledStove.onMapInstruction>
 	
-	<AddBillSimpleMeal.text>Du musst den Kolonisten sagen was sie kochen sollen.\n\nKochaufgaben werden direkt am Herd erteilt. Sobald eine Aufgabe erstellt wird, kümern die Kolonisten sich automatisch darum.\n\n1. Warte bis der Herd gebaut wurde.\n2. Klicke auf den Herd um ihn auszuwählen.\n3. Klicke auf AUFGABEN.\n4. Klicke auf AUFGABE HINZUFÜGEN.\n5. Wähle KOCHE EINFACHE MAHLZEIT aus.\n6. Klicke auf das + um die Anzahl auf 10 zu erhöhen.\n\nDu kannst jederzeit die Geschwindigkeit verändern wenn es dir zu lange dauert.</AddBillSimpleMeal.text>
-	<AddBillSimpleMeal.rejectInputMessage>Bitte füge die Aufgabe 'koche einfache Mahlzeit' dem Herd hinzu.</AddBillSimpleMeal.rejectInputMessage>
-	<AddBillSimpleMeal.onMapInstruction>Wähle das aus</AddBillSimpleMeal.onMapInstruction>
+	<AddBillSimpleMeal.text>Meg kell mondanod embereidnek, hogy mit főzzenek.\n\nA rendeléseket a tűzhelyen tudod leadni. Ha leadtad a rendelést, a gyarmatosok automatikusan elvégzik a munkát. \n\n1. Várd meg, míg elkészül a tűzhely\n2. Válaszd ki\n3. Nyisd meg a "Rendelés" felületet\n4. Klikkelj a "Megrendelés" gombra\n5. Válaszd az "Egyszerű étel készítése" lehetőséget\n6. A "+" gombbal növeld a mennyiséget tízre\n\nNe feledd, hogy felgyorsíthatod az idő múlását, ha lassan készülne a tűzhely.\n\nEzen felül megadhatod egyik emberednek, hogy a tűzhely építése legyen elsődleges feladata (Vedd előre:).</AddBillSimpleMeal.text>
+	<AddBillSimpleMeal.rejectInputMessage>Kérlek, rendelj meg tíz darab egyszerű ételt a tűzhelyen.</AddBillSimpleMeal.rejectInputMessage>
+	<AddBillSimpleMeal.onMapInstruction>Válaszd ki!</AddBillSimpleMeal.onMapInstruction>
 	
-	<MineSteel.text>Nun kochen deine Kolonisten etwas Essen. Lecker!\n\nAls nächstes musst du etwas Mineralien abbauen. Ich habe etwas Stahl in der nähe erstellt.\n\nWähle den ABBAUEN-Befehl und ziehe ihn über das Stahl um es abzubauen.</MineSteel.text>
-	<MineSteel.rejectInputMessage>Bitte verwende den 'ABBAUEN'-Befehl beim komprimierten Stahl.</MineSteel.rejectInputMessage>
-	<MineSteel.onMapInstruction>Wähle das alles\nzum abbauen aus</MineSteel.onMapInstruction>
+	<MineSteel.text>Most már van mit ennie embereidnek. Finom!\n\nItt az ideje bányászni! A bázis közelében van némi kibányászható acél.\n\nVálaszd ki a "Bányászat" parancsot és húzd az acél fölé, hogy kijelöld kitermelésre.</MineSteel.text>
+	<MineSteel.rejectInputMessage>Kérlek, használd a "Bányászat" parancsot a tömörített acélon!</MineSteel.rejectInputMessage>
+	<MineSteel.onMapInstruction>Ezeket válaszd ki\nkitermelésre!</MineSteel.onMapInstruction>
 	
-	<ChopTrees.text>Du brauchst außerdem etwas Holz. Wähle ein paar Bäume zum fällen aus.\n\nWähle mit 'HOLZ HACKEN' 10 Bäume aus.\n\n(Profi-Tipp: Du kannst eine Box über die Bäume ziehen um direkt mehrere auszuwählen.)</ChopTrees.text>
-	<ChopTrees.rejectInputMessage>Bitte ziehe 'HOLZ HACKEN' über 10 Bäume.</ChopTrees.rejectInputMessage>
+	<ChopTrees.text>Fára is szükséged lesz. Jelölj ki fákat kivágásra.\n\nVálaszd ki a "Fát vág" parancsot és jelölj ki 10 fát kitermelésre.\n\n(Pro tipp: húzással egyszerre többet is kijelölhetsz.)</ChopTrees.text>
+	<ChopTrees.rejectInputMessage>Kérlek húzd a "Fát vág" parancsot tíz fa fölé!</ChopTrees.rejectInputMessage>
 	
-	<OpenMainTabWork.text>Du kannst auswählen was für Arbeit die Kolonisten machen.\n\nÖffne den ARBEIT-Reiter am unteren Bildschirmrand.</OpenMainTabWork.text>
-	<OpenMainTabWork.rejectInputMessage>Bitte öffne den ARBEIT-Reiter.</OpenMainTabWork.rejectInputMessage>
+	<OpenMainTabWork.text>Megadhatod, melyik gyarmatos milyen munkákat végezzen.\n\nNyisd meg a "Beosztás" fület a képernyő alján!</OpenMainTabWork.text>
+	<OpenMainTabWork.rejectInputMessage>Kérlek, nyisd meg a "Beosztás" fület!</OpenMainTabWork.rejectInputMessage>
 	
-	<ChangeWorkSettings.text>Am oberen Rand des Fensters sind alle verschiedenen Arten von Arbeit. Am linken Rand sind deine Kolonisten.\n\nDu kannst befehlen, wer was macht indem du einen Haken setzt oder entfernst.\n\nVersuche die Einstellungen zu verändern.\n\n(Profi-Tipp: Je heller die Box ist, desto besser ist der Kolonist in der Arbeit.)</ChangeWorkSettings.text>
-	<ChangeWorkSettings.rejectInputMessage>Bitte öffne 'ARBEIT' und ändere ein paar Einstellungen.</ChangeWorkSettings.rejectInputMessage>
+	<ChangeWorkSettings.text>Az ablak tetején láthatod a különböző munkatípusokat. Az ablak baloldalán vannak a gyarmatosok.\n\nA négyzeteket bepipálva beállíthatod, hogy melyikük mit csináljon.\n\nVáltoztass a beállításokon most!\n\n(Pro tipp: a négyzet világossága  mutatja, hogy az adott ember milyen jó az adott munkában.)</ChangeWorkSettings.text>
+	<ChangeWorkSettings.rejectInputMessage>Kérlek, nyisd meg a "Beosztás" fület és változtass a beállításokon!</ChangeWorkSettings.rejectInputMessage>
 	
-	<BuildSimpleResearchBench.text>Um weiterzukommen musst du neue Technologien erforschen.\n\nBaue einen hölzernen EINFACHEN LABORTISCH innerhalb des Raumes.</BuildSimpleResearchBench.text>
-	<BuildSimpleResearchBench.rejectInputMessage>Bitte platziere einen einfachen Labortisch aus Holz in den Raum.</BuildSimpleResearchBench.rejectInputMessage>
-	<BuildSimpleResearchBench.onMapInstruction>Baue einen einfachen Labortisch\nin den Raum</BuildSimpleResearchBench.onMapInstruction>
+	<BuildSimpleResearchBench.text>A fejlődéshez új technológiákat kell felfedezned.\n\nÉpíts egy "egyszerű laborasztal"-t a szobán belülre!</BuildSimpleResearchBench.text>
+	<BuildSimpleResearchBench.rejectInputMessage>Kérlek, helyezd a fából készült laborasztalt a szobán belülre!</BuildSimpleResearchBench.rejectInputMessage>
+	<BuildSimpleResearchBench.onMapInstruction>Építs laborasztalt\a szobán belülre!</BuildSimpleResearchBench.onMapInstruction>
 	
-	<OpenMainTabResearch.text>Hervorragend! Als nächstes willst du auswählen, was erforscht werden soll.\n\nÖffne den FORSCHUNGS-Reiter.</OpenMainTabResearch.text>
-	<OpenMainTabResearch.rejectInputMessage>Bitte öffne den Reiter FORSCHUNG.</OpenMainTabResearch.rejectInputMessage>
+	<OpenMainTabResearch.text>Remek!\n\nMost ki kell választanod, hogy milyen témában akarsz kutatást végezni.\n\nNyisd meg a "Kutatás" fület!</OpenMainTabResearch.text>
+	<OpenMainTabResearch.rejectInputMessage>Kérlek, nyisd meg a "Kutatás" fület!</OpenMainTabResearch.rejectInputMessage>
 	
-	<SelectResearchProject.text>Nun wähle aus was immer du zuerst erforschen möchtest.\n\nDu musst eventuell warten bis der Labortisch gebaut wurde.\n\nWenn es zu lange dauert, weise mehr Kolonisten der Arbeit 'Bauarbeiter' zu.</SelectResearchProject.text>
-	<SelectResearchProject.rejectInputMessage>Bitte wähle ein Forschungsprojekt.</SelectResearchProject.rejectInputMessage>
+	<SelectResearchProject.text>Válaszd ki, mit kutassanak embereid először!\n\nMeg kell várnod, hogy a laborasztal elkészüljön.\n\nHa ezt túl sokáig tartana, ossz be több embert "Építész" munkára!</SelectResearchProject.text>
+	<SelectResearchProject.rejectInputMessage>Kérlek válassz kutatástervet!</SelectResearchProject.rejectInputMessage>
 	
-	<ExpandAreaHome.text>Als nächstes lernst du wie du das HEIMGEBIET erweiterst.\n\nKolonisten säubern die Böden und löschen Feuer in diesem Gebiet, Feuer und Dreck außerhalb wird ignoriert.\n\nDas Gebiet wird durch Sachen die du baust automatisch erweitert - aber du kannst es auch manuell erweitern.\n\nWähle HEIMGEBIET ERWEITERN und erweitere das Gebiet.</ExpandAreaHome.text>
-	<ExpandAreaHome.rejectInputMessage>Bitte erweitere das Gebiet ein bisschen, nur zur Übung.</ExpandAreaHome.rejectInputMessage>
+	<ExpandAreaHome.text>Most megtanulod, hogyan terjeszd ki a lakókörzetet.\n\nA gyarmatosok csak itt tisztítják a padlót és oltanak tüzet.\n\nA lakókörzet automatikusan megnő, ha új épületeket építesz, de kézzel is kiterjesztheted.\n\nVálaszd ki a "Lakókörzet kiterjesztése" eszközt és növeld meg a körzet méretét!</ExpandAreaHome.text>
+	<ExpandAreaHome.rejectInputMessage>Kérlek, növeld a lakókörzet méretét egy kicsit, csak gyakorlásképp!</ExpandAreaHome.rejectInputMessage>
 	
-	<ExpandAreaBuildRoof.text>Die 'DACH' Zone legst fest wo Kolonisten ein Dach bauen.\n\nDie Zone wird automatisch über geschlossene Räume erstellt.\n\nWähle 'DACH ERWEITERN' und lasse ein Vordach vor dem Eingang des Hauses bauen.</ExpandAreaBuildRoof.text>
-	<ExpandAreaBuildRoof.rejectInputMessage>Bitte erweitere die Dachzone ein bisschen, nur zur Übung.</ExpandAreaBuildRoof.rejectInputMessage>
+	<ExpandAreaBuildRoof.text>A fedett körzet határozza meg, hogy a gyarmatosok hol próbálnak meg tetőt építeni.\n\nAz új szobák automatikusan bekerülnek a fedett körzetbe.\n\nVálaszd ki a "Fedett körzet kiterjesztése" eszközt, és növeld meg a körzet méretét a ház előtt!</ExpandAreaBuildRoof.text>
+	<ExpandAreaBuildRoof.rejectInputMessage>Kérlek, növeld a fedett körzet méretét egy kicsit, csak gyakorlásképp!</ExpandAreaBuildRoof.rejectInputMessage>
 	
-	<BuildSandbags.text>Super! Nun hast du eine grundlegen Kolonie am laufen. Irgendwann werden dich jedoch Gegner angreifen. Es ist Zeit dich dafür vorzubereiten.\n\nWähle SANDSÄCKE aus und lass sie an der angezeigten Stelle bauen.</BuildSandbags.text>
-	<BuildSandbags.rejectInputMessage>Bitte platziere Sandsäcke an der vorgegebenen Stelle.</BuildSandbags.rejectInputMessage>
-	<BuildSandbags.onMapInstruction>Baue Sandsäcke hier</BuildSandbags.onMapInstruction>
+	<BuildSandbags.text>Kiváló!\n\nVan egy egyszerű, de már működő kolóniád. Előbb-utóbb ellenségek próbálnak majd kifosztani. Ideje felkészülni erre.\n\nVálaszd ki a "Homokzsák" épületet és helyezz el párat, ahogy a térkép mutatja! </BuildSandbags.text>
+	<BuildSandbags.rejectInputMessage>Kérlek, a kijelölt helyre helyezd a homokzsákokat!</BuildSandbags.rejectInputMessage>
+	<BuildSandbags.onMapInstruction>Ide tedd a homokzsákokat!</BuildSandbags.onMapInstruction>
 	
-	<FinishSandbags.text>Warte bis alles gebaut wurde.\n\nWeise eventuell mehr Kolonisten als Bauerarbeiter zu.\n\nDu kannst auch die Geschwindigkeit erhöhen.\n\nSobald alles fertig ist, sende ich einen Angreifer um deine Verteidigung zu testen!</FinishSandbags.text>
-	<FinishSandbags.rejectInputMessage>Bitte warte bis deine Kolonisten alles fertiggestellt haben.</FinishSandbags.rejectInputMessage>
+	<FinishSandbags.text>Várjunk egy kicsit, amíg minden elkészül.\n\nEsetleg ossz be több embert építésznek.\n\nNe feledd, hogy felgyorsíthatod az idő múlását.\n\nAmint minden elkészült, küldök egy támadót, hogy kipróbáljuk a védelmed.</FinishSandbags.text>
+	<FinishSandbags.rejectInputMessage>Kérlek várj, amíg minden elkészül!</FinishSandbags.rejectInputMessage>
 	
-	<DownRaider.text>Ich habe einen Angreifer gesendet!\n\n1. Pausiere das Spiel indem du auf {Key:TogglePause} drückst.\n2. Lese die rote Nachricht am unteren rechten Bildschirmrand.\n3. Lasse deine Kolonisten ihre WAFFEN ZIEHEN, wähle sie dazu aus und klicke auf 'WAFFE ZIEHEN'.\n4. Klicke mit der rechten Maustaste in den Sandsackkasten um sie dort hinzuschicken. Achte darau, dass sie die Sandsäcke berühren.\n5. Hebe die Pausierung auf.\n\nSobald sie in Deckung sind, warte auf den Angreifer, die Kolonisten schießen automatisch.</DownRaider.text>
-	<DownRaider.onMapInstruction>Schicke Kolonisten hier hin\nBerühre Sandsäcke für Deckung</DownRaider.onMapInstruction>
+	<DownRaider.text>Küldtem egy fosztogatót hogy megtámadjon!\n\n1. Állítsd le az időt a {Key:TogglePause} billentyűvel\n2. Olvasd el a vörös levelet a jobb alsó sarokban\n3. Sorozd be a gyarmatosokat a "Besoroz" paranccsal\n4. Küldd őket közvetlen a homokzsákok mellé, belülre\n5. Indítsd el az időt\n\nKözvetlenül a homokzsákok mellett kell állniuk, hogy fedezéket kapjanak. Ha fedezékbe vonultál, várj, hogy a támadó közelebb jöjjön. Embereid automatikusan lőni fogják.</DownRaider.text>
+	<DownRaider.onMapInstruction>Ide küldd az embereid\nKözvetlen a homokzsákok mellé</DownRaider.onMapInstruction>
 	
-	<UndraftAll.text>Erfolg! Nun stecke die Waffen wieder ein indem du denselben Befehl wie vorhin machst.\n\nSomit können die Kolonisten wieder ihren eigenen Weg gehen.</UndraftAll.text>
+	<UndraftAll.text>Sikerült! Szüntesd meg a besorozást ugyanazzal a paranccsal, amivel beállítottad! Így embereid visszatérhetnek napi rutinjukhoz.</UndraftAll.text>
 	
-	<ChooseStoryteller.text>Dies ist das Ende des Tutorials!\n\nEs gibt noch immer sehr viel zu lernen, wie zum Beispiel Gefangene, die Jagd, Tiere zähmen, und noch viel mehr. Aber die zumindest Grundlagen beherrschst du jetzt.\n\nIn diesem Tutorial wurden zufällige Ereignisse ausgeschaltet. Um ein echtes Spiel zu starten:\n\n1. Klicke auf MENÜ am unteren rechten Bildschirmrand.\n2. Wähle OPTIONEN. \n3. Klicke auf 'ändere Erzähler-KI'.\n4. Wähle einen Erzähler und eine Schwierigkeit die dir zusagen.\n\nViel Glück und hab Spaß!</ChooseStoryteller.text>
-	<ChooseStoryteller.rejectInputMessage>Bitte wechsle zu einem normalen Erzähler um das Tutorial zu beenden.</ChooseStoryteller.rejectInputMessage>
+	<ChooseStoryteller.text>Az oktatás véget ért!\n\nMég rengeteg dolog van, amit nem érintettünk, például foglyok, vadászat, kereskedelem, állatszelídítés, stb. Az alapokat átvettük.\n\nA véletlenszerű események ki voltak kapcsolva az oktatás alatt. Egy igazi játék kezdéséhez:\n\n1. Nyisd meg a "Menü"-t jobbra lent\n2. Válaszd a "Beállítások"-at\n3. Klikkelj a "Válassz mesélőt" gombra\n4. Válassz neked tetsző mesélőt és nehézségi szintet\n\nSok szerencsét és jó szórakozást!</ChooseStoryteller.text>
+	<ChooseStoryteller.rejectInputMessage>Kérlek, válassz mesélőt az oktatás befejezéséhez!</ChooseStoryteller.rejectInputMessage>
 	
 	</LanguageData>
