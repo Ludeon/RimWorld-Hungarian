@@ -203,6 +203,10 @@
   <Mine.verb>bányászni</Mine.verb>
   <Mine.gerund>bányászat</Mine.gerund>
   
+  <Drill.label>fúr</Drill.label>
+  <Drill.verb>fúrni</Drill.verb>
+  <Drill.gerund>fúrás</Drill.gerund>
+  
   <!-- ============= PlantCutting ============= -->
   
   <PlantsCut.label>növényt vág</PlantsCut.label>
@@ -249,6 +253,10 @@
   <DoBillsSmelter.verb>beolvasztani</DoBillsSmelter.verb>
   <DoBillsSmelter.gerund>beolvasztás</DoBillsSmelter.gerund>
   
+  <DoBillsProduceDrugs.label>drogot gyárt</DoBillsProduceDrugs.label>
+  <DoBillsProduceDrugs.verb>drogot gyártani</DoBillsProduceDrugs.verb>
+  <DoBillsProduceDrugs.gerund>drog gyártás</DoBillsProduceDrugs.gerund>
+  
   <!-- ============= Hauling ============= -->
   
   <Refuel.label>feltölt</Refuel.label>
@@ -282,6 +290,14 @@
   <HaulGeneral.label>mindenfélét cipel</HaulGeneral.label>
   <HaulGeneral.verb>cipelni</HaulGeneral.verb>
   <HaulGeneral.gerund>cipelés</HaulGeneral.gerund>
+  
+  <TakeBeerOutOfFermentingBarrel.label>sört csapol</TakeBeerOutOfFermentingBarrel.label>
+  <TakeBeerOutOfFermentingBarrel.verb>sört csapolni</TakeBeerOutOfFermentingBarrel.verb>
+  <TakeBeerOutOfFermentingBarrel.gerund>sör csapolás</TakeBeerOutOfFermentingBarrel.gerund>
+  
+  <FillFermentingBarrel.label>hordót tölt</FillFermentingBarrel.label>
+  <FillFermentingBarrel.verb>hordót tölteni</FillFermentingBarrel.verb>
+  <FillFermentingBarrel.gerund>hordó töltés</FillFermentingBarrel.gerund>
   
   <!-- ============= Cleaning ============= -->
   

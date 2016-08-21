@@ -2,8 +2,6 @@
 <LanguageData>
 
 	<ClickToJumpToProblem>Kattints ide a problémára ugráshoz</ClickToJumpToProblem>
-
-  
   
   <NeedSawmill>Nincs fűrészmalom</NeedSawmill>
   <NeedSawmillDesc>Fűrészmalomra van szükség, hogy a fából deszkákat készíts.\n\nÉpíts kézi vagy elektromos fűrészmalmot.</NeedSawmillDesc>
@@ -18,9 +16,9 @@
   <ColonistsNeedRescue>Gyarmatosok mentésre várnak</ColonistsNeedRescue>
   <ColonistsNeedRescueDesc>  A következő gyarmatosok cselekvőképtelenek:\n\n{0}\nKüldj értük valakit, aki kimenti és betegágyba teszi őket.\n\n(A mentéshez válassz ki egy másik gyarmatost és jobbkatt a sérültön majd "Mentés".</ColonistsNeedRescueDesc>
 
-  <BuildARoom>Építs szobát</BuildARoom>
+ <!--  <BuildARoom>Építs szobát</BuildARoom>
   <BuildARoomDesc>Egy szoba falakból és ajtóból áll.\n\nHasználd az ÉPÍTÉS menüt a bal alsó sarokban, ezzel kijelölheted hol mi épüljön. Ha megtörtént a kijelölés, a gyarmatosok elvégzik a munkát, amint tudják.</BuildARoomDesc>
-
+ -->
   <NeedDefenses>Nincs védelem</NeedDefenses>
   <NeedDefensesDesc>Egy ideje már itt vagy és valószínűleg felfedeztek. A fosztogatások lassan beindulnak.\n\nÁllíts fel védelmet, legyen az csapda, homokzsák vagy ágyú.</NeedDefensesDesc>
 
@@ -58,23 +56,23 @@
   <NeedFoodHopper>Nincs élelmiszeradagoló</NeedFoodHopper>
   <NeedFoodHopperDesc>Tápanyagpépesítőd mellett nincs adagoló.\n\nAhhoz, hogy működjön, nyers ételt kell kapnia egy adagolóból.\n\nÉpíts mellé adagolót!</NeedFoodHopperDesc>
 
-  <BuildingNeedsPower>Épület áram nélkül</BuildingNeedsPower>
+<!--   <BuildingNeedsPower>Épület áram nélkül</BuildingNeedsPower>
   <BuildingsNeedPower>Épületek áram nélkül</BuildingsNeedPower>
   <BuildingsNeedPowerDesc>A következő áramot igénylő épületek nincsenek feszültség alatt:\n\n{0}\nKösd össze őket egy generátorral vagy akkumulátorral!</BuildingsNeedPowerDesc>
   <AndMore>és még</AndMore>
-
+ -->
   <NeedMealSource>Nem lehet ételt gyártani</NeedMealSource>
   <NeedMealSourceDesc>Nincs módja, hogy rendes fogásokat állíts elő nyers ételből.\n\nÉpíts tűzhelyet, tábortüzet vagy tápanyagellátót.\n\n(Ezek ne legyenek a börtönben, ott a gyarmatosok nem férnek hozzájuk.)</NeedMealSourceDesc>
 
-  <NeedHomeArea>Nincs lakókörzet</NeedHomeArea>
+  <!-- <NeedHomeArea>Nincs lakókörzet</NeedHomeArea>
   <NeedHomeAreaDesc>Lakókörzetet kell kijelölnöd, ahol a gyarmatosok takarítanak, tüzet oltanak, és javításokat végeznek.\n\nA kijelölést megteheted az ÉPÍTÉS menü ZÓNÁK szekciójában.</NeedHomeAreaDesc>
-
+ -->
   <NeedBatteries>Nincs akkumulátor</NeedBatteries>
   <NeedBatteriesDesc>Csak napelemed van, de akkumulátorod nincs. Így nem lesz áramod, ha lemegy a nap.\n\nÉpíts pár akkumulátort, hogy átvészeld az éjjelt!</NeedBatteriesDesc>
-
+<!-- 
   <NoTradingCapacity>Nincs orbitális kereskedés</NoTradingCapacity>
   <NoTradingCapacityDesc>Nincs módod rá, hogy áthaladó űrhajókkal kereskedj.\n\nÉpíts kommunikációs konzolt!</NoTradingCapacityDesc>
-
+ -->
   <BrawlerHasRangedWeapon>Közelharcos lőfegyverrel</BrawlerHasRangedWeapon>
   <BrawlerHasRangedWeaponDesc>Az egyik gyarmatosodnak "Közelharcos" jellemvonása van, de távolsági fegyvert hord. Ettől igen boldogtalan lesz.</BrawlerHasRangedWeaponDesc>
 
@@ -84,9 +82,9 @@
   <NeedResearchProject>Nincs kutatásterv</NeedResearchProject>
   <NeedResearchProjectDesc>Van kutatási felszerelésed, de nincs kutatásterved.\n\nNyisd meg a "Kutatás" menüt és válassz egyet.</NeedResearchProjectDesc>
   
-  <NeedDump>Nincs raktárterület</NeedDump>
+ <!--  <NeedDump>Nincs raktárterület</NeedDump>
   <NeedDumpDesc>{0} meg lett jelölve, mint szállítandó, nincs hová vinni.\n\nJelölj ki egy raktárterületet, és állítsd be, hogy {0} engedélyezve legyen!.</NeedDumpDesc>
-
+ -->
   <!-- Removed
   <NeedGrave>Need grave</NeedGrave>
   <NeedGraveDesc>There is a dead body laying on the ground and nowhere for your colonists to take it.\n\nBuild a grave or a dumping zone and set their storage settings.</NeedGraveDesc>
@@ -121,5 +119,15 @@
 
   <HunterHasShieldAndRangedWeapon>Vadász pajzzsal és lőfegyverrel</HunterHasShieldAndRangedWeapon>
   <HunterHasShieldAndRangedWeaponDesc>Az egyik vadászodnak ugyan távolsági fegyvere, de személyi pajzsa is van, ami megakadályozza a távolsági célra tüzelést.\n\nNem fog tudni vadászni, amíg el nem távolítod a pajzsot.</HunterHasShieldAndRangedWeaponDesc>
+  
+  <NeedJoySource>nincs örömforrás</NeedJoySource>
+  <NeedJoySourceDesc>A gyarmatosoknak szüksége van kikapcsolódásra, de nincs rá semmi lehetőségük.\n\nÉpíts nekik patkó játékot, sakktáblát vagy más szórakoztató eszközt.</NeedJoySourceDesc>
+  
+  <NeedWarmClothes>Nincs meleg ruha</NeedWarmClothes>
+  <NeedWarmClothesDesc>Legalább {0} gyarmatosnak nincsen a hidegre megfelelő ruházata.</NeedWarmClothesDesc>
+  <NeedWarmClothesForAllDesc>Egy gyarmatosnak sincsen a hidegre megfelelő ruházata.</NeedWarmClothesForAllDesc>
+  <NeedWarmClothesDesc1>Legalább {0} gyarmatosnak nincsen a hidegre megfelelő ruházata.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Egy gyarmatosnak sincsen a hidegre megfelelő ruházata.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>A külső hőmérséklet eléri a {0} fokot.\n\nVarrhatsz meleg ruhát a munkaállomáson vagy vehetsz kereskedőtől is.</NeedWarmClothesDesc2>
   
 </LanguageData>

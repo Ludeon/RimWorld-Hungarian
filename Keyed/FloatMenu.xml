@@ -36,9 +36,11 @@
   <AnimalInteractedTooRecently>Az állattal nemrég foglalkoztak</AnimalInteractedTooRecently>
   <NoUsableFood>nincs felhasználható étel</NoUsableFood>
   <NoFood>nincs étel</NoFood>
-  <AnimalsSkillTooLow>Az állat készsége túl alacsony</AnimalsSkillTooLow>
+  <AnimalsSkillTooLow>gondozás készség túl alacsony</AnimalsSkillTooLow>
 	<NoComponentsToRepair>nincs elég alkatrész</NoComponentsToRepair>
 	<NoFuelToRefuel>{0} szükséges</NoFuelToRefuel>
+    <NoWort>nincs fűszer</NoWort>
+
 
   <ConsumeThing>Elfogyaszt: {0}</ConsumeThing>
   <Teetotaler>antialkoholista</Teetotaler>
@@ -109,7 +111,10 @@
 
   <CannotGenericAlreadyAm>Már ezt csinálja: {1} {0} </CannotGenericAlreadyAm>
 
-  <CannotPrioritizeIsNotA>Nem tudja előre venni ({0} nem {1})</CannotPrioritizeIsNotA>
+ <!-- <CannotPrioritizeIsNotA>Nem tudja előre venni ({0} nem {1})</CannotPrioritizeIsNotA>-->
+  <CannotPrioritizeWorkTypeDisabled>Nem tudja előre venni, nem képes rá: {0}</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeNotAssignedToWorkType>Nem tudja előre venni, nincs beosztva rá: {0}</CannotPrioritizeNotAssignedToWorkType>
+ 
 
   <CannotPrioritizeResearch>Nem tudja előre venni (a kutatás egy hosszú távú feladat)</CannotPrioritizeResearch>
 

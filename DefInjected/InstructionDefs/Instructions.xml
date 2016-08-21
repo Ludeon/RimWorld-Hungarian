@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<CreateWorldParams.text>Üdvözöllek! Ez az oktató mód megtanít a játék kezelésére.\n\nElső lépésként készíts egy világot, amiben játszol!\n\nEzen az oldalon a világ paramétereit állíthatod be.\n\nAz alapbeállítások megfelelőek, nyomd meg a "Létrehoz" gombot!</CreateWorldParams.text>
+	
+	<ChooseLandingSite.text>Itt választod ki a földet érés helyét.\n\nSokféle életközösség létezik, kezdjük valami barátságosabbal.\n\nVálassz egy zónát mérsékelt erdővel és sík tereppel, majd nyomd meg a "Jóváhagyás" gombot.</ChooseLandingSite.text>
+	<ChooseLandingSite.rejectInputMessage>Kérlek, mérsékelt erdővel és sík tereppel rendelkező zónát válassz!</ChooseLandingSite.rejectInputMessage>
+	
+	<RandomizeCharacter.text>Most létrehozzuk a karaktereidet!\n\nPróbálj meg véletlenszerűen létrehozni egyet a "Véletlenszerű" gombbal.</RandomizeCharacter.text>
+	<RandomizeCharacter.rejectInputMessage>Kérlek próbáld ki a "Véletlenszerű" gombot!</RandomizeCharacter.rejectInputMessage>
+
+	<AcceptStartingPawns.text>Nagyszerű!\n\nTöbbször is próbálkozhatsz, de ne akarj tökéletes karaktert kapni! Mindenkinek vannak hibái, ez teszi a történetet érdekessé.\n\nÁt is nevezheted a karaktert a nevére kattintva.\n\nNyomd meg a kezdés gombot, ha kész vagy!</AcceptStartingPawns.text>
+	
+	<MapCameraDolly.text>Megérkeztünk a felszínre.\n\nPróbáld mozgatni a kamerát!\n\nHasználd a {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} billentyűkkel, vagy a középső egérgombot nyomva tartva húzd a kamerát!\n\nPróbáld ki!</MapCameraDolly.text>
+	
+	<MapCameraZoom.text>Nagyszerű!\n\nKözelítheted és távolíthatod a kamerát az egérgörgővel vagy a {Key:MapZoomIn} és a {Key:MapZoomOut} billentyűvel.\n\nPróbáld ki!</MapCameraZoom.text>
+	
+	<Pause.text>Az időt is megállíthatod.\n\nÍgy sosem kell kapkodnod, nyugodtan kiadhatod a parancsokat.\n\nPróbáld leállítani az időt a {Key:TogglePause} billentyűvel, vagy a jobb alsó sarokban lévő felületen.</Pause.text>
+	
+	<TimeControls.text>Az idő fel is gyorsítható.\n\nPróbáld felgyorsítani az időt a {Key:TimeSpeedNormal}, {Key:TimeSpeedFast} és {Key:TimeSpeedSuperfast} billentyűkkel, vagy a jobb alsó sarokban lévő felületen.</TimeControls.text>
+	
+	<MakeStockpile.text>Nagyszerű!\n\nKészíts egy raktárterületet, hogy a gyarmatosoknak legyen hol tárolni a dolgaikat!\n\n1. Kattints az "Építés" gombra\n2. Válaszd az "Zóna/Körzet" kategóriát\n3. Válaszd ki a "Raktárterület" eszközt\n4. Fess be vele egy négyzet alakú területet, ahogy a térképen látod</MakeStockpile.text>
+	<MakeStockpile.rejectInputMessage>Kérlek, a kijelölt helyen csináld a raktárterület!</MakeStockpile.rejectInputMessage>
+	<MakeStockpile.onMapInstruction>Ide tedd a raktárterületet\n(saroktól-sarokig húzd)</MakeStockpile.onMapInstruction>
+	
+	<EndStockpileDesignating.text>Kattints a jobb egérgombbal,  hogy befejezd a raktárterület kijelölést.</EndStockpileDesignating.text>
+	
+	<UnforbidStartingResources.text>Ahhoz, hogy a gyarmatosok a raktárterületre hordják a dolgokat, fel kell oldanod őket a tiltás alól.\n\n1. Klikkelj a kezdőkészlet elemeire, hogy kiválaszd őket\n2. Nyomd meg a tiltás/feloldás parancsot a feloldáshoz\n\n(Pro tipp: duplaklikkel kiválaszthatod a képernyőn lévő összes ugyanolyan tárgyat.)</UnforbidStartingResources.text>
+	<UnforbidStartingResources.rejectInputMessage>Kérlek, oldd fel a kezdőkészlet elemeit!</UnforbidStartingResources.rejectInputMessage>
+	<UnforbidStartingResources.onMapInstruction>Feloldandó</UnforbidStartingResources.onMapInstruction>
+	
+	<BuildRoomWalls.text>Király!\n\nMost építünk egy szobát!\n\n1. Nyomd meg az "Építés" gombot\n2. Válaszd az "Építmények" kategóriát\n3. Klikkelj a "Fal"-ra.\n4. A felhasznált anyag legyen "Fa"\n5. Húzz fel négy falat, ahogy a térképen látod</BuildRoomWalls.text>
+	<BuildRoomWalls.rejectInputMessage>Kérlek, a jelzett helyet jelöld ki a falak számára.</BuildRoomWalls.rejectInputMessage>
+	<BuildRoomWalls.onMapInstruction>Ide építs falat</BuildRoomWalls.onMapInstruction>
+	
+	<BuildRoomDoor.text>Most helyezz el egy ajtót valamelyik falban!\n\nAz "Ajtó" a "Fal" mellett található az "Építés" menüben.</BuildRoomDoor.text>
+	<BuildRoomDoor.rejectInputMessage>Kérlek, a falra helyezd az ajtót és fából legyen!</BuildRoomDoor.rejectInputMessage>
+	<BuildRoomDoor.onMapInstruction>Ide építs ajtót!</BuildRoomDoor.onMapInstruction>
+	
+	<BuildBeds.text>Gyarmatosaid meg fogják építeni a szobát!\n\nMost szükségük van egy helyre, ahol alhatnak. Helyezz el három "Ágy"-at a szobán belül!\n\nMegtalálod a "Bútorzat" kategória alatt.</BuildBeds.text>
+	<BuildBeds.rejectInputMessage>Kérlek, a szobán belülre helyezd a faágyakat!</BuildBeds.rejectInputMessage>
+	<BuildBeds.onMapInstruction>Ide építs három ágyat!</BuildBeds.onMapInstruction>
+	
+	<BuildTorchLamp.text>A szobában fényforrásra is szükség van, különben embereid morcosak lesznek a sötétben.\n\nKerüljön egy "Fáklya" a szobába!</BuildTorchLamp.text>
+	<BuildTorchLamp.rejectInputMessage>Kérlek, a fáklyát a szobába helyezd!</BuildTorchLamp.rejectInputMessage>
+	<BuildTorchLamp.onMapInstruction>Ide építsd a fáklyát!</BuildTorchLamp.onMapInstruction>
+	
+	<BuildAnimalSleepingSpot.text>Háziállatod is veled fog aludni. A szobán belül helyezd el a következőt: "fekhely (állat)"!\n\nA fekhelyek nem valós tárgyak, egyszerű kijelölt helyek a földön, ahol aludni lehet.</BuildAnimalSleepingSpot.text>
+	<BuildAnimalSleepingSpot.rejectInputMessage>Kérlek, helyezd a fekhelyet a szobán belülre!</BuildAnimalSleepingSpot.rejectInputMessage>
+	<BuildAnimalSleepingSpot.onMapInstruction>Ide helyezd a fekhelyet!</BuildAnimalSleepingSpot.onMapInstruction>
+	
+	<BuildHorseshoesPin.text>A gyarmatosoknak örömforrásra van szükségük, különben egy idő után depressziósak lesznek.\n\nÉpíts "Patkó játék"-ot kívülre, de a szoba közelébe!</BuildHorseshoesPin.text>
+	<BuildHorseshoesPin.rejectInputMessage>Kérlek, építsd a játékot a szobán kívülre!</BuildHorseshoesPin.rejectInputMessage>
+	<BuildHorseshoesPin.onMapInstruction>A szobán kívülre építsd a játékot!</BuildHorseshoesPin.onMapInstruction>
+	
+	<MakeGrowingZone.text>A ház készül!\n\nA gyarmatosoknak szüksége lesz valami ennivalóra. Helyezz el egy "Kert" zónát, ahogy a térképen látható!\n\nEmbereid ide fogják vetni a magokat.</MakeGrowingZone.text>
+	<MakeGrowingZone.rejectInputMessage>Kérlek, a kijelölt helyre helyezd a kertet!</MakeGrowingZone.rejectInputMessage>
+	<MakeGrowingZone.onMapInstruction>Itt jelöld ki a kertet\n(saroktól-sarokig húzd)</MakeGrowingZone.onMapInstruction>
+	
+	<SetToGrowRice.text>Megadhatod, hogy embereid mit termesszenek a kertben.\n\n1. Jobb egérgombbal lépj ki építés módból\n2. Klikkelj a kerten, hogy a kiválaszd\n3. Kattints a "növény fajtája" parancsra, és állítsd át rizsre</SetToGrowRice.text>
+	<SetToGrowRice.rejectInputMessage>Kérlek, állítsd át a termesztendő növény fajtáját!</SetToGrowRice.rejectInputMessage>
+	<SetToGrowRice.onMapInstruction>Jelöld ki a kertet rizstermesztésre!</SetToGrowRice.onMapInstruction>
+	
+	<EquipWeapons.text>Szereld fel embereidet fegyverekkel! Ehhez:\n\n1. Válassz ki egy gyarmatost\n2. Jobb egérgombbal klikkelj a fegyverre, amit neki akarsz adni\n3. Válaszd a "Használd ezt:" lehetőséget\n\nTedd meg ezt minden embereddel. </EquipWeapons.text>
+	<EquipWeapons.rejectInputMessage>Kérlek, adj embereidnek fegyvert!.</EquipWeapons.rejectInputMessage>
+	<EquipWeapons.onMapInstruction>Ezt a fegyvert add oda!</EquipWeapons.onMapInstruction>
+	
+	<BuildFueledStove.text>Kiváló!\n\nSzükséged lesz egy tűzhelyre ételek készítéséhez.\n\nVálaszd a "Tűzhely (fatüzelés)" lehetőséget az "Építés" menüben,  és helyezd el a szobán belülre!</BuildFueledStove.text>
+	<BuildFueledStove.rejectInputMessage>Kérlek, helyezd a fatüzelésű tűzhelyet a szobán belülre!</BuildFueledStove.rejectInputMessage>
+	<BuildFueledStove.onMapInstruction>Ide építs egy fatüzelésű tűzhelyet!</BuildFueledStove.onMapInstruction>
+	
+	<AddBillSimpleMeal.text>Meg kell mondanod embereidnek, hogy mit főzzenek.\n\nA rendeléseket a tűzhelyen tudod leadni. Ha leadtad a rendelést, a gyarmatosok automatikusan elvégzik a munkát. \n\n1. Várd meg, míg elkészül a tűzhely\n2. Válaszd ki\n3. Nyisd meg a "Rendelés" felületet\n4. Klikkelj a "Megrendelés" gombra\n5. Válaszd az "Egyszerű étel készítése" lehetőséget\n6. A "+" gombbal növeld a mennyiséget tízre\n\nNe feledd, hogy felgyorsíthatod az idő múlását, ha lassan készülne a tűzhely.\n\nEzen felül megadhatod egyik emberednek, hogy a tűzhely építése legyen elsődleges feladata (Vedd előre:).</AddBillSimpleMeal.text>
+	<AddBillSimpleMeal.rejectInputMessage>Kérlek, rendelj meg tíz darab egyszerű ételt a tűzhelyen.</AddBillSimpleMeal.rejectInputMessage>
+	<AddBillSimpleMeal.onMapInstruction>Válaszd ki!</AddBillSimpleMeal.onMapInstruction>
+	
+	<MineSteel.text>Most már van mit ennie embereidnek. Finom!\n\nItt az ideje bányászni! A bázis közelében van némi kibányászható acél.\n\nVálaszd ki a "Bányászat" parancsot és húzd az acél fölé, hogy kijelöld kitermelésre.</MineSteel.text>
+	<MineSteel.rejectInputMessage>Kérlek, használd a "Bányászat" parancsot a tömörített acélon!</MineSteel.rejectInputMessage>
+	<MineSteel.onMapInstruction>Ezeket válaszd ki\nkitermelésre!</MineSteel.onMapInstruction>
+	
+	<ChopTrees.text>Fára is szükséged lesz. Jelölj ki fákat kivágásra.\n\nVálaszd ki a "Fát vág" parancsot és jelölj ki 10 fát kitermelésre.\n\n(Pro tipp: húzással egyszerre többet is kijelölhetsz.)</ChopTrees.text>
+	<ChopTrees.rejectInputMessage>Kérlek húzd a "Fát vág" parancsot tíz fa fölé!</ChopTrees.rejectInputMessage>
+	
+	<OpenMainTabWork.text>Megadhatod, melyik gyarmatos milyen munkákat végezzen.\n\nNyisd meg a "Beosztás" fület a képernyő alján!</OpenMainTabWork.text>
+	<OpenMainTabWork.rejectInputMessage>Kérlek, nyisd meg a "Beosztás" fület!</OpenMainTabWork.rejectInputMessage>
+	
+	<ChangeWorkSettings.text>Az ablak tetején láthatod a különböző munkatípusokat. Az ablak baloldalán vannak a gyarmatosok.\n\nA négyzeteket bepipálva beállíthatod, hogy melyikük mit csináljon.\n\nVáltoztass a beállításokon most!\n\n(Pro tipp: a négyzet világossága  mutatja, hogy az adott ember milyen jó az adott munkában.)</ChangeWorkSettings.text>
+	<ChangeWorkSettings.rejectInputMessage>Kérlek, nyisd meg a "Beosztás" fület és változtass a beállításokon!</ChangeWorkSettings.rejectInputMessage>
+	
+	<BuildSimpleResearchBench.text>A fejlődéshez új technológiákat kell felfedezned.\n\nÉpíts egy "egyszerű laborasztal"-t a szobán belülre!</BuildSimpleResearchBench.text>
+	<BuildSimpleResearchBench.rejectInputMessage>Kérlek, helyezd a fából készült laborasztalt a szobán belülre!</BuildSimpleResearchBench.rejectInputMessage>
+	<BuildSimpleResearchBench.onMapInstruction>Építs laborasztalt\a szobán belülre!</BuildSimpleResearchBench.onMapInstruction>
+	
+	<OpenMainTabResearch.text>Remek!\n\nMost ki kell választanod, hogy milyen témában akarsz kutatást végezni.\n\nNyisd meg a "Kutatás" fület!</OpenMainTabResearch.text>
+	<OpenMainTabResearch.rejectInputMessage>Kérlek, nyisd meg a "Kutatás" fület!</OpenMainTabResearch.rejectInputMessage>
+	
+	<SelectResearchProject.text>Válaszd ki, mit kutassanak embereid először!\n\nMeg kell várnod, hogy a laborasztal elkészüljön.\n\nHa ezt túl sokáig tartana, ossz be több embert "Építész" munkára!</SelectResearchProject.text>
+	<SelectResearchProject.rejectInputMessage>Kérlek válassz kutatástervet!</SelectResearchProject.rejectInputMessage>
+	
+	<ExpandAreaHome.text>Most megtanulod, hogyan terjeszd ki a lakókörzetet.\n\nA gyarmatosok csak itt tisztítják a padlót és oltanak tüzet.\n\nA lakókörzet automatikusan megnő, ha új épületeket építesz, de kézzel is kiterjesztheted.\n\nVálaszd ki a "Lakókörzet kiterjesztése" eszközt és növeld meg a körzet méretét!</ExpandAreaHome.text>
+	<ExpandAreaHome.rejectInputMessage>Kérlek, növeld a lakókörzet méretét egy kicsit, csak gyakorlásképp!</ExpandAreaHome.rejectInputMessage>
+	
+	<ExpandAreaBuildRoof.text>A fedett körzet határozza meg, hogy a gyarmatosok hol próbálnak meg tetőt építeni.\n\nAz új szobák automatikusan bekerülnek a fedett körzetbe.\n\nVálaszd ki a "Fedett körzet kiterjesztése" eszközt, és növeld meg a körzet méretét a ház előtt!</ExpandAreaBuildRoof.text>
+	<ExpandAreaBuildRoof.rejectInputMessage>Kérlek, növeld a fedett körzet méretét egy kicsit, csak gyakorlásképp!</ExpandAreaBuildRoof.rejectInputMessage>
+	
+	<BuildSandbags.text>Kiváló!\n\nVan egy egyszerű, de már működő kolóniád. Előbb-utóbb ellenségek próbálnak majd kifosztani. Ideje felkészülni erre.\n\nVálaszd ki a "Homokzsák" épületet és helyezz el párat, ahogy a térkép mutatja! </BuildSandbags.text>
+	<BuildSandbags.rejectInputMessage>Kérlek, a kijelölt helyre helyezd a homokzsákokat!</BuildSandbags.rejectInputMessage>
+	<BuildSandbags.onMapInstruction>Ide tedd a homokzsákokat!</BuildSandbags.onMapInstruction>
+	
+	<FinishSandbags.text>Várjunk egy kicsit, amíg minden elkészül.\n\nEsetleg ossz be több embert építésznek.\n\nNe feledd, hogy felgyorsíthatod az idő múlását.\n\nAmint minden elkészült, küldök egy támadót, hogy kipróbáljuk a védelmed.</FinishSandbags.text>
+	<FinishSandbags.rejectInputMessage>Kérlek várj, amíg minden elkészül!</FinishSandbags.rejectInputMessage>
+	
+	<DownRaider.text>Küldtem egy fosztogatót hogy megtámadjon!\n\n1. Állítsd le az időt a {Key:TogglePause} billentyűvel\n2. Olvasd el a vörös levelet a jobb alsó sarokban\n3. Sorozd be a gyarmatosokat a "Besoroz" paranccsal\n4. Küldd őket közvetlen a homokzsákok mellé, belülre\n5. Indítsd el az időt\n\nKözvetlenül a homokzsákok mellett kell állniuk, hogy fedezéket kapjanak. Ha fedezékbe vonultál, várj, hogy a támadó közelebb jöjjön. Embereid automatikusan lőni fogják.</DownRaider.text>
+	<DownRaider.onMapInstruction>Ide küldd az embereid\nKözvetlen a homokzsákok mellé</DownRaider.onMapInstruction>
+	
+	<UndraftAll.text>Sikerült! Szüntesd meg a besorozást ugyanazzal a paranccsal, amivel beállítottad! Így embereid visszatérhetnek napi rutinjukhoz.</UndraftAll.text>
+	
+	<ChooseStoryteller.text>Az oktatás véget ért!\n\nMég rengeteg dolog van, amit nem érintettünk, például foglyok, vadászat, kereskedelem, állatszelídítés, stb. Az alapokat átvettük.\n\nA véletlenszerű események ki voltak kapcsolva az oktatás alatt. Egy igazi játék kezdéséhez:\n\n1. Nyisd meg a "Menü"-t jobbra lent\n2. Válaszd a "Beállítások"-at\n3. Klikkelj a "Válassz mesélőt" gombra\n4. Válassz neked tetsző mesélőt és nehézségi szintet\n\nSok szerencsét és jó szórakozást!</ChooseStoryteller.text>
+	<ChooseStoryteller.rejectInputMessage>Kérlek, válassz mesélőt az oktatás befejezéséhez!</ChooseStoryteller.rejectInputMessage>
+	
+	</LanguageData>

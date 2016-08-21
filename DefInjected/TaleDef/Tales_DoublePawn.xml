@@ -214,6 +214,20 @@
 	<TrainedAnimal.rulePack.rulesStrings.27>desc_sentence->[animal_nameShortDef] tiszta pikkely.</TrainedAnimal.rulePack.rulesStrings.27>
 	<TrainedAnimal.rulePack.rulesStrings.28>desc_sentence->[human_nameShortDef] [quantity] karokkal van ábrázolva.</TrainedAnimal.rulePack.rulesStrings.28>
 	<TrainedAnimal.rulePack.rulesStrings.29>desc_sentence->[human_nameShortDef] mintha [animal_ShortDefinite] formáját venné fel.</TrainedAnimal.rulePack.rulesStrings.29>
-
+	
+	<TradedWith.label>kereskedett</TradedWith.label>
+	<TradedWith.rulePack.rulesStrings.0>tale_noun->egy üzlet létrejötte [seller_fullName] és [buyer_fullName] között</TradedWith.rulePack.rulesStrings.0>
+	<TradedWith.rulePack.rulesStrings.1>image->[buyer_nameFull] árut vesz tőle: [seller_nameFull], [circumstance_group]</TradedWith.rulePack.rulesStrings.1>
+	<TradedWith.rulePack.rulesStrings.2>image->[seller_nameFull] árut ad el neki: [buyer_nameFull], [circumstance_group]</TradedWith.rulePack.rulesStrings.2>
+	<TradedWith.rulePack.rulesStrings.3>circumstance_phrase->kapzsi szándékkal</TradedWith.rulePack.rulesStrings.3>
+	<TradedWith.rulePack.rulesStrings.4>circumstance_phrase->miközben [seller_nameShortDef] [buyer_shortNameDef] képébe vigyorog</TradedWith.rulePack.rulesStrings.4>
+	<TradedWith.rulePack.rulesStrings.5>desc_sentence->[buyer_nameShortDef] [seller_nameShortDef] áruját vizsgálja.</TradedWith.rulePack.rulesStrings.5>
+	<TradedWith.rulePack.rulesStrings.6>desc_sentence->[seller_nameShortDef] egy tárgyat szemlél.</TradedWith.rulePack.rulesStrings.6>
+	<TradedWith.rulePack.rulesStrings.7>desc_sentence->[seller_nameShortDef] alkudozni kezd.</TradedWith.rulePack.rulesStrings.7>
+	<TradedWith.rulePack.rulesStrings.8>desc_sentence->[buyer_nameShortDef] és [seller_nameShortDef] vitatkoznak.</TradedWith.rulePack.rulesStrings.8>
+	<TradedWith.rulePack.rulesStrings.9>desc_sentence->[seller_nameShortDef] és [buyer_nameShortDef] megegyeznek az árban.</TradedWith.rulePack.rulesStrings.9>
+	<TradedWith.rulePack.rulesStrings.10>desc_sentence->[buyer_nameShortDef] egy áruért fizet.</TradedWith.rulePack.rulesStrings.10>
+	<TradedWith.rulePack.rulesStrings.11>desc_sentence->[seller_nameShortDef] a pénzét számolja.</TradedWith.rulePack.rulesStrings.11>
+	<TradedWith.rulePack.rulesStrings.12>desc_sentence->[buyer_nameShortDef] magához veszi szerzeményeit.</TradedWith.rulePack.rulesStrings.12>
 
 </LanguageData>

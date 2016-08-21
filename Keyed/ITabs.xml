@@ -60,7 +60,7 @@
   <WholeBody>Teljes test</WholeBody>
   <DataProcessing>Adatfeldolgozás</DataProcessing>
   <Communication>Kommunikáció</Communication>
-  <AffectsLower>Kihatás</AffectsLower>
+  <Affects>Kihatás</Affects>
   <BleedingRate>Vérzés mértéke</BleedingRate>
   <HealthOverview>Áttekintés</HealthOverview>
   <MedicalOperationsShort>Műtétek ({0})</MedicalOperationsShort>
@@ -73,7 +73,8 @@
   <SocialInteractionsLower>szociális érintkezés</SocialInteractionsLower>
   <HungerRate>Éhség mértéke</HungerRate>
   <Tiredness>Fáradtság</Tiredness>
-  
+  <PainFactor>Fájdalom</PainFactor>
+  <PreventsInfection>Fertőzés megelőzése</PreventsInfection>
 
   <!-- Medical - Body and activities condition -->
   <None>Semmi</None>
@@ -108,5 +109,12 @@
   <SomeonesOpinionOfMe>{0} véleménye rólam</SomeonesOpinionOfMe>
   <IAmDead>Halott vagyok</IAmDead>
   <IAmPsychopath>Pszichopata vagyok</IAmPsychopath>
+  
+  <AverageArmor>Átlagos páncélzat</AverageArmor>
+  <ComfyTemperatureRange>Optimális hőmérséklet</ComfyTemperatureRange>
+  <ArmorBlunt>Ütés</ArmorBlunt>
+  <ArmorSharp>Vágás</ArmorSharp>
+  <ArmorHeat>Hő</ArmorHeat>
+  <ArmorElectric>Elektromos</ArmorElectric>
 
 </LanguageData>

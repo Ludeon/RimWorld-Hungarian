@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+<!-- 
   <SunLamp.label>kvarclámpa</SunLamp.label>
-  <SunLamp.description>Növények termesztéséhez megfelelő erősséggel világítja meg a talajt.</SunLamp.description>
+  <SunLamp.description>Növények termesztéséhez megfelelő erősséggel világítja meg a talajt.</SunLamp.description> -->
 
   <OrbitalTradeBeacon.label>orbitális jeladó</OrbitalTradeBeacon.label>
   <OrbitalTradeBeacon.description>Orbitális kereskedéshez szükséges. csak olyan árucikkeket lehet eladni, amik a jeladó közelében vannak. Beltérben is el lehet helyezni.</OrbitalTradeBeacon.description>
@@ -27,6 +27,9 @@
   <MoisturePump.label>talajvíz pumpa</MoisturePump.label>
   <MoisturePump.description>Nagyon lassan eltávolítja a nedvességet a talajból, mocsárból illetve sekély vízből száraz talajt készít. Mély vízre nincs hatással.</MoisturePump.description>
 
+  <GroundPenetratingScanner.label>talaj letapogató</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.description>Lefelé néző radar, szonárral kombinálva. Lehetővé teszi föld alatti ásványok detektálását, de azonosításukat nem. Rengeteg energiát igényel.</GroundPenetratingScanner.description>
+  
   <!-- =================================================== -->
 
   <Grave.label>sír</Grave.label>

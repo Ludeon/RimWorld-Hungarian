@@ -29,9 +29,9 @@
 
   <!-- Machine pistols -->
 
-  <Bullet_PDW.label>géppisztoly lőszer (kis)</Bullet_PDW.label>
-  <Gun_PDW.label>könnyű géppisztoly</Gun_PDW.label>
-  <Gun_PDW.description>A &quot;személyi védelmi fegyver&quot; egy könnyű géppisztoly. Rövid hatótáv, alacsony torkolati energia, nagy tűzsebesség jellemzi. Gyorsan előrántható.</Gun_PDW.description>
+  <Bullet_MachinePistol.label>géppisztoly lőszer (kis)</Bullet_MachinePistol.label>
+  <Gun_MachinePistol.label>könnyű géppisztoly</Gun_MachinePistol.label>
+  <Gun_MachinePistol.description>A &quot;személyi védelmi fegyver&quot; egy könnyű géppisztoly. Rövid hatótáv, alacsony torkolati energia, nagy tűzsebesség jellemzi. Gyorsan előrántható.</Gun_MachinePistol.description>
 
   <Bullet_HeavySMG.label>géppisztoly lőszer (nehéz)</Bullet_HeavySMG.label>
   <Gun_HeavySMG.label>nehéz géppisztoly</Gun_HeavySMG.label>
@@ -54,12 +54,6 @@
   <Bullet_ChargeRifle.label>energiatöltet</Bullet_ChargeRifle.label>
   <Gun_ChargeRifle.label>energiafegyver</Gun_ChargeRifle.label>
   <Gun_ChargeRifle.description>Töltött energiatöltetet kilövő fegyver.</Gun_ChargeRifle.description>
-
-  <!-- Improvised turret gun -->
-
-  <Bullet_TurretImprovised.label>robotágyú lőszer</Bullet_TurretImprovised.label>
-  <Gun_TurretImprovised.label>robotágyú</Gun_TurretImprovised.label>
-  <Gun_TurretImprovised.description> Egy egyszerű fegyver, amit egy forgatható platformra erősítettek.</Gun_TurretImprovised.description>
 
   <!-- Heavy weapons -->
 
