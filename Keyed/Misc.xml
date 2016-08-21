@@ -12,7 +12,7 @@
   <AndLower>és</AndLower>
   <DisabledLower>letiltva</DisabledLower>
 
-  <CloseButton>Bezárás</CloseButton>
+  <!-- <CloseButton>Bezárás</CloseButton> -->
 
   <VersionIndicator>Verzió: {0}</VersionIndicator>
   <DevelopmentBuildLower>fejlesztő kiadás</DevelopmentBuildLower>
@@ -30,8 +30,10 @@
   <damage>sebzés</damage>
   <radius>sugár</radius>
   <durationDays>időtartam (nap)</durationDays>
-
-  <!-- Content generation-->
+  <intervalDays>intervallum (napok)</intervalDays>
+  <repeat>ismétlés</repeat>
+  
+    <!-- Content generation-->
   
 	<MeatLabel>{0} hús</MeatLabel>
   <MeatDesc>A {0} nyers húsa.</MeatDesc>

@@ -2,6 +2,7 @@
 <LanguageData>
 
   <!--=========== Main menu ==========-->
+  <LearnToPlay>Oktatás</LearnToPlay>
   <CreateWorld>Új világ</CreateWorld>
   <NewColony>Új kolónia</NewColony>
   <BackToGame>Vissza a játékba</BackToGame>
@@ -67,6 +68,7 @@
   <ModTargetVersion>{0} verzióhoz</ModTargetVersion>
   <ModNotMadeForThisVersion>Ez a mod a RimWorld más verziójához készült, nem fog megfelelően működni.</ModNotMadeForThisVersion>
   <MessageModNeedsWellFormattedTargetVersion>A modnak szüksége van egy jól formázott verziószámra az About.xml-ben. Pl.: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+    <DragToReorder>Egérrel húzhatóak az elemek</DragToReorder>
   
   <!--=========== Select scenario =============-->
   <ChooseScenario>Forgatókönyv</ChooseScenario>

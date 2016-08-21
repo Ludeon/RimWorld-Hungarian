@@ -18,6 +18,9 @@
   <!-- Pawn modifiers -->
   <ScenPart_PawnsHaveHediff>{0} {1} eséllyel kezd ezzel: {2}.</ScenPart_PawnsHaveHediff>
   <ConfigurableSeverity>súlyosság: {0}</ConfigurableSeverity>
+  
+  <ScenPart_SetNeed>{0} esélye: {1}, hogy {2} {3} és {4} közt áll.</ScenPart_SetNeed>
+  <ConfigurableLevel>Szint: {0}</ConfigurableLevel>
 
   <ScenPart_PawnsHaveTrait>{0} {1} eséllyel kezd a következő módosítóval: {2}</ScenPart_PawnsHaveTrait>
   <ScenPart_OnPawnDeathExplode>Karakterek és lények robbanása halálkor ({0}, sugár {1}).</ScenPart_OnPawnDeathExplode>
@@ -34,6 +37,7 @@
   <ScenPart_MapScatteredWith>A térképen elszórva</ScenPart_MapScatteredWith>
   <ScenPart_PermaMapCondition>Állandó térképtulajdonság(ok)</ScenPart_PermaMapCondition>
   <ScenPart_DisableIncident>Incidens(ek) kikapcsolva</ScenPart_DisableIncident>
+   <ScenPart_CreateIncident>Incidens előidézése</ScenPart_CreateIncident>
   <ScenPart_DisallowBuilding>Nem építhető</ScenPart_DisallowBuilding>
 
 </LanguageData>
