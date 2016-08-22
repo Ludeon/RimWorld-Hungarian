@@ -10,7 +10,7 @@
   <TimeControls.helpText>Fel tudod gyorsítani, lelassítani, vagy megállítani az időt a képernyő jobb-alsó sarkában található idővezérlővel</TimeControls.helpText>
 
 	<Pause.label>Szünet</Pause.label>
-  <Pause.helpText>Üss {Key:TogglePause}-t, hogy megállítsd, vagy elindítsd a játékot.\n\nHa a játék áll akkor is tudsz utasításokat osztani.\n\nNe feledd ez - ha a dolgok kaotikussá válnak, csak üss {Key:TogglePause}-t!</Pause.helpText>
+  <Pause.helpText>A {Key:TogglePause} megállítja a játékot.\n\nHa a játék áll, akkor is tudsz utasításokat osztani.\n\nNe feledd, ha a dolgok kaotikussá válnak: {Key:TogglePause}!</Pause.helpText>
 
 	<Stockpiles.label>Jelölj ki raktárterületet</Stockpiles.label>
   <Stockpiles.helpText>A gyarmatosoknak kell egy hely, ahová pakolhatnak. Jelölj ki egy raktárterületet, ahová a tárgyakat szállíthatják.\n\nMegtalálod az "Építés" menüben, "Zóna/Körzet" alatt.</Stockpiles.helpText>
@@ -37,7 +37,7 @@
   <ForbiddingDoors.helpText>Letilthatod a gyarmatosok és szelíd állatok adott ajtón való áthaladását.\n\nEz nem zárja be az ajtót, mivel az mindig zárva van, ellenségek nem jutnak át rajta. Ez csak utasítja a gyarmatosokat, hogy ne használják ezt az ajtót. Nem normális mentális állapotú emberek ezt figyelmen kívül hagyhatják.</ForbiddingDoors.helpText>
 
   <CoverAndShooting.label>Fedezék és lövészet</CoverAndShooting.label>
-  <CoverAndShooting.helpText>Távolsági harcban a fedezék a legfontosabb.\n\nEgy fedezék csak akkor működik, ha az embered érinti és az ellenség és közte helyezkedik el.\n\nFalak sarkai is működnek, kihajolva lőhetnek mögülük.\n\nA legtöbb dolog használható fedezékként, de egyes dolgok jobbak, mint mások. Egy fa mögött lenni jobb, mint a semmi, de homokzsákok mögött lenni még jobb.</CoverAndShooting.helpText>
+  <CoverAndShooting.helpText>Távolsági harcban a fedezék a legfontosabb.\n\nEgy fedezék csak akkor működik, ha az embered érinti és az ellenség és közte helyezkedik el.\n\nFalak sarkai is megfelelnek, kihajolva lőhetnek mögülük.\n\nA legtöbb dolog használható fedezékként, de egyes dolgok jobbak, mint mások. Egy fa mögött lenni jobb, mint a semmi, de homokzsákok mögött lenni még jobb.</CoverAndShooting.helpText>
   
    <AnimalTaming.label>Állatszelídítés</AnimalTaming.label>
   <AnimalTaming.helpText>Lehetséges vadállatokat megszelídíteni. A gyarmatosok ételt adnak nekik és megpróbálnak kötődést kialakítani velük. Vigyázat, némely állat erőszakosan reagálhat erre! </AnimalTaming.helpText>

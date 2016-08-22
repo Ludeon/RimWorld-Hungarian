@@ -17,7 +17,7 @@
   <WalkSpeed>gyaloglási sebesség: {0}</WalkSpeed>
   <FertShort>term.</FertShort>
   <DyingLower>haldoklik</DyingLower>
-  <FilthOnFeet>Mocskos láb?:</FilthOnFeet>
+  <FilthOnFeet>Mocskos láb:</FilthOnFeet>
   <NotEnoughStoredLower>nincs elég raktáron</NotEnoughStoredLower>
   <NothingLower>semmi</NothingLower>
   <Adapted>Átalakított</Adapted>
@@ -62,11 +62,11 @@
   
     <!-- Fermentation barrel -->
 	
-  <ContainsWort>Tartalma {0} / {1} fűszer.</ContainsWort>
-  <ContainsBeer>Tartalma {0} / {1} sőr.</ContainsBeer>
-  <Fermented>Érlelt</Fermented>
+  <ContainsWort>Tartalma {0} / {1} söralap.</ContainsWort>
+  <ContainsBeer>Tartalma {0} / {1} sör.</ContainsBeer>
+  <Fermented>Erjesztett</Fermented>
   <FermentationProgress>Állapot: {0} (kb. {1} múlva kész).</FermentationProgress>
-  <FermentationBarrelOutOfIdealTemperature>Nem ideális hőmérséklet. Érés szorzója: {0}</FermentationBarrelOutOfIdealTemperature>
+  <FermentationBarrelOutOfIdealTemperature>Nem ideális hőmérséklet. Erjedés szorzója: {0}</FermentationBarrelOutOfIdealTemperature>
   
   <!--TextMotes-->
   <Headshot>Fejlövés</Headshot>
@@ -79,14 +79,14 @@
   <TextMote_RecruitFail>Toborzás sikertelen!\n{0} esély</TextMote_RecruitFail>
   <TextMote_TameFail>Szelídítés sikertelen\n{0} esély</TextMote_TameFail>
   <TextMote_TameSuccess>Megszelídítve!\n{0} esély</TextMote_TameSuccess>
-  <TextMote_TrainFail>Sikertelen betanítás: {0}\n{1} esély</TextMote_TrainFail>
+  <TextMote_TrainFail>Betanítás sikertelen: {0}\n{1} esély</TextMote_TrainFail>
   <TextMote_TrainSuccess>Betanítva: {0}\n{1} esély</TextMote_TrainSuccess>
   <TextMote_FixBrokenDownBuildingFail>Javítás\nsikertelen</TextMote_FixBrokenDownBuildingFail>
   <TextMote_ConstructionFail>Építés\nsikertelen</TextMote_ConstructionFail>
 
   <!-- Areas -->
   <Home>Lakó</Home>
-  <BuildRoof>Befedett</BuildRoof>
+  <BuildRoof>Fedett</BuildRoof>
   <NoRoof>Fedetlen</NoRoof>
   <SnowClear>Hómentes</SnowClear>
   <AreaDefaultLabel>Körzet: {0}</AreaDefaultLabel>
@@ -117,8 +117,8 @@
   <ShellNotLoaded>Nincs betöltve</ShellNotLoaded>
   
   <!-- Job reports -->
-	<ReportHaulingTo>{0} szállítása {1}-hez.</ReportHaulingTo>
-	<ReportHauling>{0} szállítása.</ReportHauling>
+	<ReportHaulingTo>{0} cipelése {1}-hez.</ReportHaulingTo>
+	<ReportHauling>{0} cipelése.</ReportHauling>
   <ReportSleeping>alszik.</ReportSleeping>
   <ReportResting>pihen.</ReportResting>
   <WatchingSunrise>napkeltét nézi</WatchingSunrise>
@@ -126,9 +126,9 @@
   <WatchingSunset>napnyugtát nézi</WatchingSunset>
   <Stargazing>csillagokat nézi</Stargazing>
   <WatchingEclipse>napfogyatkozást nézi</WatchingEclipse>
-  <UsingVerb>{0} használata {1}-en.</UsingVerb>
+  <UsingVerb>{0} használata ezen: {1}.</UsingVerb>
   <AreaLower>körzet</AreaLower>
-  <ReportCowering>fedezi.</ReportCowering>
+  <ReportCowering>fedezékben van.</ReportCowering>
   <ReportStanding>áll.</ReportStanding>
   <ReportExtinguishingFire>tüzet olt.</ReportExtinguishingFire>
   <ReportExtinguishingFireOn>{0} tüzét oltja.</ReportExtinguishingFireOn>
@@ -141,19 +141,19 @@
   <WeaponMissRadius>Pontatlanság mértéke</WeaponMissRadius>
 	<ShootReportShooterAbility>Lövész</ShootReportShooterAbility>
 	<ShootReportWeapon>Fegyver</ShootReportWeapon>
-																<RangeSlashEquipment>Reichweite/Ausrüstung</RangeSlashEquipment>
+	<RangeSlashEquipment>Hatótáv/Felszerelés</RangeSlashEquipment>
 	<Darkness>Sötétség</Darkness>
 	<TargetProne>Célpont fekszik</TargetProne>
 	<TargetSize>Célpont mérete</TargetSize>
 	<Weather>Időjárás</Weather>
 	<ShootingCover>Fedezék</ShootingCover>
-	<CoverThingBlocksPercentOfShots>{0} kivédi {1}</CoverThingBlocksPercentOfShots>
+	<CoverThingBlocksPercentOfShots>{0} kivéd {1}</CoverThingBlocksPercentOfShots>
 	<NoCoverLower>nincs fedezék</NoCoverLower>
   <Execution>Kivégzés</Execution>
 	
   <!-- Generated recipes -->
-  <RecipeMake>Készíts: {0}</RecipeMake>
-  <RecipeMakeJobString>Készít: {0}.</RecipeMakeJobString>
+  <RecipeMake>Gyártani: {0}</RecipeMake>
+  <RecipeMakeJobString>Gyártás: {0}.</RecipeMakeJobString>
   
   <!-- Thoughts -->
   <ThoughtExpiresIn>Elmúlik: {0}</ThoughtExpiresIn>
@@ -164,11 +164,11 @@
   <MentalBreakThresholdMinor>Enyhe összeomlás küszöbe</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
-  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <PawnMainDescGendered>{0}nemű {1}</PawnMainDescGendered>
   <PawnMainDescFactionedWrap>{0}, {1} tagja</PawnMainDescFactionedWrap>
   <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
   <Faction>Frakció</Faction>
-  <Equipped>Felszerelt</Equipped>
+  <Equipped>Felszerelés</Equipped>
   <EquippedNothing>semmi</EquippedNothing>
   <Incapacitated>Magatehetetlen</Incapacitated>
   <InRestraints>Mozgáskorlátozott (lelassítva)</InRestraints>
@@ -284,9 +284,9 @@
 
   <!-- Building placement restricters -->
   <MustPlaceUnroofed>Tető alá nem tehető.</MustPlaceUnroofed>
-  <MustPlaceHeadOnShipBeam>A fejének csatlakoznia kell a hajó gerendájához?.</MustPlaceHeadOnShipBeam>
+  <MustPlaceHeadOnShipBeam>A fejének csatlakoznia kell a hajó gerincéhez.</MustPlaceHeadOnShipBeam>
   <MustPlaceNextToHopperAccepter>Valami olyan mellé kell helyezni, aminek adagolóra van szüksége.</MustPlaceNextToHopperAccepter>
-  <MustPlaceOnSteamGeyser>Közvetlenül gőzgejzírre kell helyezni.</MustPlaceOnSteamGeyser>
+  <MustPlaceOnSteamGeyser>Közvetlenül gejzírre kell helyezni.</MustPlaceOnSteamGeyser>
   <MustPlaceCoolerWithFreeSpaces>A hűtött és a fűtött oldalnak is szabadnak kell lennie.</MustPlaceCoolerWithFreeSpaces>
 	<MustPlaceVentWithFreeSpaces>Mindkét oldalnak szabad levegőáramlásban kell lennie.</MustPlaceVentWithFreeSpaces>
 	<MustPlaceAdjacentStandable>Körben szabad helynek kell lennie.</MustPlaceAdjacentStandable>
@@ -322,7 +322,7 @@
 
   <!-- Quality -->
   <Quality>Minőség</Quality>
-  <QualityDescription>Egy tárgy minősége határozza meg milyen jól készítették el.</QualityDescription>
+  <QualityDescription>Egy tárgy minősége határozza meg, milyen jól készítették el.</QualityDescription>
   <QualityIs>Minőség: {0}</QualityIs>
     
   <!-- Mood descriptions -->
@@ -353,20 +353,20 @@
   <InactiveFacility>inaktív</InactiveFacility>
   
   <!-- Hediffs growth modes -->
-  <DiseaseGrowthModeChanged_Growing>{0} növénye {1} növekszik.</DiseaseGrowthModeChanged_Growing>
-  <DiseaseGrowthModeChanged_Stable>{0} növénye {1} stagnál.</DiseaseGrowthModeChanged_Stable>
-  <DiseaseGrowthModeChanged_Remission>{0} növénye {1} hanyatlik.</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Growing>{0} állapota: {1} növekszik.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Stable>{0} állapota: {1} stagnál.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Remission>{0} állapota: {1} hanyatlik.</DiseaseGrowthModeChanged_Remission>
   
   <!-- Marriage spot -->
   <MarriageSpotUsable>Használható.</MarriageSpotUsable>
   <MarriageSpotNotUsable>Nem használható: {0}.</MarriageSpotNotUsable>
   <MarriageSpotNotStandable>elzárt</MarriageSpotNotStandable>
-  <MarriageSpotDangerous>túl veszélyes: {0}</MarriageSpotDangerous>
-  <MarriageSpotForbidden>tiltott: {0}</MarriageSpotForbidden>
+  <MarriageSpotDangerous>túl veszélyes {0} számára</MarriageSpotDangerous>
+  <MarriageSpotForbidden>tiltott {0} számára</MarriageSpotForbidden>
   <MarriageSpotReserved>foglalt</MarriageSpotReserved>
-  <MarriageSpotUnreachable>elérhetetlen: {0}</MarriageSpotUnreachable>
+  <MarriageSpotUnreachable>elérhetetlen {0} számára</MarriageSpotUnreachable>
   <MarriageSpotInPrisonCell>fogdában</MarriageSpotInPrisonCell>
-  <NotEnjoyableOutsideTemperature>kényelmetlen hőmérséklet</NotEnjoyableOutsideTemperature>
+  <NotEnjoyableOutsideTemperature>nem optimális hőmérséklet</NotEnjoyableOutsideTemperature>
   
   <!-- Colonist bar -->
   <ActivityIconMedicalRest>Lábadozik</ActivityIconMedicalRest>
@@ -378,7 +378,7 @@
 
   <!-- Maintainable -->
   <DueForMaintenance>Karbantartás szükséges.</DueForMaintenance>
-  <DeterioratingDueToLackOfMaintenance>Karbantartás hiánya miatt elhasználódik.</DeterioratingDueToLackOfMaintenance>
+  <DeterioratingDueToLackOfMaintenance>Karbantartás hiánya miatti állag romlás.</DeterioratingDueToLackOfMaintenance>
   
    <!-- Deep drill -->
   <ProgressToNextLump>Folytatni a következő területen</ProgressToNextLump>
