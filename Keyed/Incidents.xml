@@ -31,7 +31,7 @@
   <CargoPodCrash>Egy szállítmány áru zuhant le a közelben.\n\nTalán lesz közte valami használható.</CargoPodCrash>
 
   <AnElectricalConduit>elektromos vezeték</AnElectricalConduit>
-  <ShortCircuit>{0} rövidzár alá került egy meghibásodás miatt.\n\nAz ehhez kötött összes akkumulátorban tárolt {1} Wd energia felszabadult egy robbanás formájában.</ShortCircuit>
+  <ShortCircuit>Egy {0} rövidzár alá került meghibásodás miatt.\n\nAz ehhez kötött összes akkumulátorban tárolt {1} Wd energia felszabadult egy robbanás formájában.</ShortCircuit>
   <ShortCircuitWasLarge>A nagy mennyiségű energia tekintélyes robbanást okozott.</ShortCircuitWasLarge>
   <ShortCircuitWasHuge>Ez aztán a robbanás. Hűha!</ShortCircuitWasHuge>
 
@@ -74,17 +74,17 @@
 
   <!-- Distant psychic drone -->
   <LetterLabelPsychicDrone>Pszichotikus hullám</LetterLabelPsychicDrone>
-  <LetterIncidentPsychicDrone>A {0} nemű gyarmatosok fájdalomtól rezzennek össze!\n\nValami gyűlöletgenerátor dolgozik a távolban. Erős pszichotikus hullámot bocsájt ki az egész régióra, olyan frekvencián, ami csak a {0} nemet érinti. Némelyek hangulata igencsak rosszabb lesz pár napig.</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>A {0} gyarmatosok fájdalomtól rezzennek össze!\n\nValami gyűlöletgenerátor dolgozik a távolban. Erős pszichotikus hullámot bocsájt ki az egész régióra, olyan frekvencián, ami csak a {0} nemet érinti. Némelyek hangulata igencsak rosszabb lesz pár napig.</LetterIncidentPsychicDrone>
 
   <LetterLabelPsychicSoothe>Pszichotikus nyugalom</LetterLabelPsychicSoothe>
-  <LetterIncidentPsychicSoothe>A {0} nemű gyarmatosok elégedetten mosolyognak!\n\nValami boldogsággenerátor dolgozik a távolban. Erős pszichotikus hullámot bocsájt ki az egész régióra, olyan frekvencián, ami csak a {0} nemet érinti. Némelyek hangulata igencsak jobb lesz pár napig.</LetterIncidentPsychicSoothe>
+  <LetterIncidentPsychicSoothe>A {0} gyarmatosok elégedetten mosolyognak!\n\nValami boldogsággenerátor dolgozik a távolban. Erős pszichotikus hullámot bocsájt ki az egész régióra, olyan frekvencián, ami csak a {0} nemet érinti. Némelyek hangulata igencsak jobb lesz pár napig.</LetterIncidentPsychicSoothe>
 
   <!-- Beavers -->
   <LetterLabelBeaversArrived>Hódok!</LetterLabelBeaversArrived>
   <BeaversArrived>Egy csapat éhes alfahód érkezett.\n\nPróbáld kiiktatni őket, mielőtt megesznek minden fát.</BeaversArrived>
   
   <!-- Refugee chased -->
-  <RefugeeChasedInitial>Egy {0} nevű {1} hív a közelből. {2} üldözik a {3} frakcióból!\n\nMenedékért könyörög és felajánlja, hogy csatlakozik hozzád. Biológiailag {4} éves.\n\nFigyelem - ha befogadod, el kell kergetned az üldözőit.</RefugeeChasedInitial>
+  <RefugeeChasedInitial>Egy {0} nevű {1} hív a közelből. A nyomában {2} a {3} frakcióból!\n\nMenedékért könyörög és felajánlja, hogy csatlakozik hozzád. Biológiailag {4} éves.\n\nFigyelem - ha befogadod, el kell kergetned az üldözőit.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Befogad</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Figyelmen kívül hagy</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} pánikba esve üvölt a rádióból, ahogy megszakítod az adást.</RefugeeChasedRejected>
