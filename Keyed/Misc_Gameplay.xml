@@ -117,7 +117,7 @@
   <ShellNotLoaded>Nincs betöltve</ShellNotLoaded>
   
   <!-- Job reports -->
-	<ReportHaulingTo>{0} cipelése {1}-hez.</ReportHaulingTo>
+	<ReportHaulingTo>{0} cipelése ide: {1}.</ReportHaulingTo>
 	<ReportHauling>{0} cipelése.</ReportHauling>
   <ReportSleeping>alszik.</ReportSleeping>
   <ReportResting>pihen.</ReportResting>
@@ -164,7 +164,7 @@
   <MentalBreakThresholdMinor>Enyhe összeomlás küszöbe</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
-  <PawnMainDescGendered>{0}nemű {1}</PawnMainDescGendered>
+  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
   <PawnMainDescFactionedWrap>{0}, {1} tagja</PawnMainDescFactionedWrap>
   <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
   <Faction>Frakció</Faction>
