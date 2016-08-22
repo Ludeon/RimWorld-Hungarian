@@ -7,7 +7,7 @@
 
   <Colony>Kolónia</Colony>
   
-  <ChangeLanguageFromMainMenu>Csak a főmenü beállításaiban tudsz nyelvet változtatni.</ChangeLanguageFromMainMenu>
+  <ChangeLanguageFromMainMenu>Csak a főmenüben tudsz nyelvet változtatni.</ChangeLanguageFromMainMenu>
 
   <AndLower>és</AndLower>
   <DisabledLower>letiltva</DisabledLower>
@@ -36,21 +36,21 @@
     <!-- Content generation-->
   
 	<MeatLabel>{0} hús</MeatLabel>
-  <MeatDesc>A {0} nyers húsa.</MeatDesc>
+  <MeatDesc>Egy {0} nyers húsa.</MeatDesc>
 
   <LeatherLabel>{0} bőr</LeatherLabel>
-  <LeatherDesc>{0}-ból készült bőr.</LeatherDesc>
+  <LeatherDesc>{0} lenyúzott bőre.</LeatherDesc>
 
-  <CorpseLabel>{0} holtteste</CorpseLabel>
-	<CorpseDesc>A {0} halott teste.</CorpseDesc>
+  <CorpseLabel>{0} teteme</CorpseLabel>
+	<CorpseDesc>{0} teteme.</CorpseDesc>
   <DeadLabel>{0} (halott)</DeadLabel>
 
   <RoughStoneTerrainLabel>göröngyös {0}</RoughStoneTerrainLabel>
-  <RoughStoneTerrainDesc>Göröngyös, természetes {0} terep.</RoughStoneTerrainDesc>
+  <RoughStoneTerrainDesc>Göröngyös, természetes {0} felület.</RoughStoneTerrainDesc>
   <RoughHewnStoneTerrainLabel>Durván faragott {0}</RoughHewnStoneTerrainLabel>
-  <RoughHewnStoneTerrainDesc>Durván faragott {0} terep.</RoughHewnStoneTerrainDesc>
+  <RoughHewnStoneTerrainDesc>Durván faragott {0} felület.</RoughHewnStoneTerrainDesc>
   <SmoothStoneTerrainLabel>sima {0}</SmoothStoneTerrainLabel>
-  <SmoothStoneTerrainDesc>Lesimított {0} terep.</SmoothStoneTerrainDesc>
+  <SmoothStoneTerrainDesc>Lesimított {0} felület.</SmoothStoneTerrainDesc>
 
   <BlueprintLabelExtra>(tervrajz)</BlueprintLabelExtra>
   <FrameLabelExtra>(építés alatt)</FrameLabelExtra>
@@ -60,8 +60,8 @@
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
-  <SomeonesRoom>{0} {1}-ja</SomeonesRoom>
-  <CouplesRoom>{0} és {1} {2}</CouplesRoom>
+  <SomeonesRoom>{1} tulajdonosa: {0}</SomeonesRoom>
+  <CouplesRoom>{2} tulajdonosai: {0} és {1}</CouplesRoom>
   
   <VariousLabel>(többféle)</VariousLabel>
 

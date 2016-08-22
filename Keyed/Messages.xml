@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <MessageSiegersAssaulting>A {0} ostromlók {1}-ből megrohamozzák a kolóniát.</MessageSiegersAssaulting>
+  <MessageSiegersAssaulting>{1} tagjai ({0}) megrohamozzák a kolóniát.</MessageSiegersAssaulting>
 
-  <MessageRaidersBeginningAssault>{0} a {1}-ből megkezdik a rohamot.</MessageRaidersBeginningAssault>
-  <MessageRaidersDetectedEarlyAssault>{0} a {1}-ből észrevettek titeket és előbb kezdik meg a rohamot.</MessageRaidersDetectedEarlyAssault>
-  <MessageRaidersKidnapping>{0} a {1}-ből úgy döntöttek, hogy elrabolják, akit tudnak és távoznak.</MessageRaidersKidnapping>
-  <MessageRaidersStealing>{0} a {1}-ből úgy döntöttek, hogy ellopják, amit tudnak és távoznak</MessageRaidersStealing>
+  <MessageRaidersBeginningAssault>{1} tagjai ({0}) megkezdik a rohamot.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{1} tagjai ({0}) észrevettek titeket és előbb kezdik meg a rohamot.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{1} tagjai ({0}) úgy döntöttek, hogy elrabolják, akit tudnak és távoznak.</MessageRaidersKidnapping>
+  <MessageRaidersStealing>{1} tagjai ({0}) úgy döntöttek, hogy ellopják, amit tudnak és távoznak</MessageRaidersStealing>
 
-  <MessageRaidersLeaving>{0} a {1}-ből távoznak.</MessageRaidersLeaving>
-	<MessageRaidersGivenUpLeaving>{0} a {1}-ből feladták és távoznak.</MessageRaidersGivenUpLeaving>
-  <MessageRaidersSatisfiedLeaving>{0} a {1}-ből elégedettek a rombolással, amit tettek és távoznak.</MessageRaidersSatisfiedLeaving>
+  <MessageRaidersLeaving>{1} tagjai ({0}) távoznak.</MessageRaidersLeaving>
+	<MessageRaidersGivenUpLeaving>{1} tagjai ({0}) feladták és távoznak.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{1} tagjai ({0}) elégedettek a rombolással, amit tettek és távoznak.</MessageRaidersSatisfiedLeaving>
 
-  <MessageFightersFleeing>{0} a {1}-ből menekülnek.</MessageFightersFleeing>
+  <MessageFightersFleeing>{1} tagjai ({0}) menekülnek.</MessageFightersFleeing>
   <MessageFriendlyFightersLeaving>A barátságos {0} a {1}-ből távoznak.</MessageFriendlyFightersLeaving>
 
-  <MessageVisitorsTakingWounded>{0} a {1}-ből magukkal visznek egy sérült látogatót.</MessageVisitorsTakingWounded>
-  <MessageVisitorsTrappedLeaving>{0} a {1}-ből csapdába esett és megpróbálja magát kiásni, hogy elmeneküljön.</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsTakingWounded>{1} tagjai ({0}) magukkal visznek egy sérült látogatót.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTrappedLeaving>{1} tagjai ({0}) csapdába estek és megpróbálják magukat kiásni, hogy elmeneküljenek.</MessageVisitorsTrappedLeaving>
   
   <MessageWornApparelDeterioratedAway>{1} által hordott {0} semmivé foszlott.</MessageWornApparelDeterioratedAway>
   
@@ -66,7 +66,7 @@
   
   <MessageNoMedicalBeds>Nincs szabad betegágy.</MessageNoMedicalBeds>
   <MessageNoAnimalBeds>Nincs szabad állat fekhely.</MessageNoAnimalBeds>
-  <MessageTooLowMedCare>Ehhez {0} vagy jobb kell, de {1} jelenlegi ellátási szintje "{2}".</MessageTooLowMedCare>
+  <MessageTooLowMedCare>Ehhez {0} vagy jobb kell, de {1} jelenlegi ellátási szintje {2}.</MessageTooLowMedCare>
   
   <PawnDiedBecauseOf>{0} meghalt {1} miatt.</PawnDiedBecauseOf>
 
@@ -79,18 +79,18 @@
 
   <MessageMedicalOperationWillAngerFaction>Ettől az műtéttől {0} mérges lesz.</MessageMedicalOperationWillAngerFaction>
 
-  <MessagePawnExitMapRelationsGain>Mivel {0} egészségesen távozott, {1} viszonya velünk javult {2}-vel.</MessagePawnExitMapRelationsGain>
+  <MessagePawnExitMapRelationsGain>Mivel {0} egészségesen távozott, {1} viszonya velünk ennyivel javult: {2}.</MessagePawnExitMapRelationsGain>
 
   <MessageMiscarriedStarvation>{0} elvetélt éhezés miatt.</MessageMiscarriedStarvation>
   <MessageMiscarriedPoorHealth>{0} elvetélt rossz egészségi állapota miatt.</MessageMiscarriedPoorHealth>
   <MessageGaveBirth>{0} gyereke megszületett.</MessageGaveBirth>
 
-  <MessageNuzzledPawnGaveNameTo>{0} a {2} nevet adta {1}-nek, miután az hozzá dörgölőzött.</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{0} a {2} nevet adta neki: {1}, miután az hozzá dörgölőzött.</MessageNuzzledPawnGaveNameTo>
 
-  <MessageNoHandlerSkilledEnough>Senki nem képes megszelídíteni {0}-t (szükséges szint {1} {2}-ból, legjobb idomárnak ({3}) {4} van).</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>Senki nem képes megszelídíteni őt: {0}. (szükséges {2} szint: {1}, legjobb idomárnak ({3}) {4} van).</MessageNoHandlerSkilledEnough>
   
-  <MessageEatenByPredator>{0}-t megette {1}.</MessageEatenByPredator>
-  <MessageAttackedByPredator>{0}-t megtámadta {1}!</MessageAttackedByPredator>
+  <MessageEatenByPredator>{1} megette őt: {0}.</MessageEatenByPredator>
+  <MessageAttackedByPredator>{1} megtámadta őt: {0}!</MessageAttackedByPredator>
   
   <MessageHiveReproduced>Egy kaptár reprodukálta magát.</MessageHiveReproduced>
   
@@ -108,13 +108,13 @@
   <MessageMarriageCeremonyAfterPartyFinished>{0} és {1} esküvői ceremóniája véget ért.</MessageMarriageCeremonyAfterPartyFinished>
   
   <MessageNewBondRelation>{0} és {1} kötődnek egymáshoz.</MessageNewBondRelation>
-  <MessageNewBondRelationNewName>{0} és {1} kötődnek egymáshoz. {0} elnevezte HIM {2}.</MessageNewBondRelationNewName>
+  <MessageNewBondRelationNewName>{0} és {1} kötődnek egymáshoz. {1} {0} által adott neve {2} lett.</MessageNewBondRelationNewName>
   
   <MessageBondedAnimalMentalBreak>{0} idegösszeroppanást kapott {1} halála miatt.</MessageBondedAnimalMentalBreak>
   <MessageNamedBondedAnimalMentalBreak>{1} nevű {0} idegösszeroppanást kapott {2} halála miatt.</MessageNamedBondedAnimalMentalBreak>
   <MessageBondedAnimalsMentalBreak>{0} állat kapott idegösszeroppanást {1} halála miatt.</MessageBondedAnimalsMentalBreak>
   
-  <MessageSuccessfullyRemovedHediff>{0} sikeresen meggyógyította {1}-t ({2}).</MessageSuccessfullyRemovedHediff>
+  <MessageSuccessfullyRemovedHediff>{0} sikeresen meggyógyította őt: {1} ({2}).</MessageSuccessfullyRemovedHediff>
   
   <MessageShipChunkDrop>Egy űrjármű darabja zuhant le a közelben.</MessageShipChunkDrop>
   

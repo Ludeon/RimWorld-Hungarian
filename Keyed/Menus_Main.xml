@@ -40,10 +40,10 @@
   <NoWorldsFilesFound>Nincsen világ. Hozz létre egyet!</NoWorldsFilesFound>
   
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Verzió {0} elérhető. Látogass el a ludeon.com-ra több információért!</BuildNowAvailable>
-	<BuildUpToDate>Ez a legfrissebb verzió.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Hiba verzió lekérésekor: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Verzióinformáció betöltése...</LoadingVersionInfo>
+  <BuildNowAvailable>{0} verzió elérhető. Látogass el a ludeon.com-ra több információért!</BuildNowAvailable>
+  <BuildUpToDate>Ez a legfrissebb verzió.</BuildUpToDate>
+  <ErrorGettingVersionInfo>Hiba verzió lekérésekor: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Verzióinformáció betöltése...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
   <GenerateWorld>Világ létrehozása</GenerateWorld>
@@ -55,7 +55,7 @@
   <ConfirmDisableCoreMod>Biztosan kikapcsolod az alapmodot? A játék működésképtelen lesz, hacsak nincs másik mod, ami kiváltja minden funkcióját.\n\nNe feledd, más modok felülírhatják a alapmod "def"-jeit, ha ugyanazt a "defName"-et használják.</ConfirmDisableCoreMod>
   <ConfirmDeleteMod>Biztos, hogy {0} minden tartalmát törölni akarod?</ConfirmDeleteMod>
   <Unsubscribe>Leiratkozás</Unsubscribe>
-  <ConfirmUnsubscribe>Biztos, hogy le akarsz iratkozni {0}-ról?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Biztos, hogy le akarsz iratkozni erről: {0}?</ConfirmUnsubscribe>
   <Author>Készítő</Author>
   <WorkshopPage>Workshop oldal</WorkshopPage>
   <UploadToSteamWorkshop>Feltöltés a Steam Workshopra</UploadToSteamWorkshop>
@@ -68,7 +68,7 @@
   <ModTargetVersion>{0} verzióhoz</ModTargetVersion>
   <ModNotMadeForThisVersion>Ez a mod a RimWorld más verziójához készült, nem fog megfelelően működni.</ModNotMadeForThisVersion>
   <MessageModNeedsWellFormattedTargetVersion>A modnak szüksége van egy jól formázott verziószámra az About.xml-ben. Pl.: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
-    <DragToReorder>Egérrel húzhatóak az elemek</DragToReorder>
+  <DragToReorder>Egérrel húzhatóak az elemek</DragToReorder>
   
   <!--=========== Select scenario =============-->
   <ChooseScenario>Forgatókönyv</ChooseScenario>
@@ -110,7 +110,7 @@
   <WorldRenderModeRainfall>Esőzés</WorldRenderModeRainfall>
   <WorldRenderModeBiomes>Életközösségek</WorldRenderModeBiomes>
   <BiomeNotImplemented>Nincs életközösség</BiomeNotImplemented>
-  <BaseAlreadyThere>Itt már van bázisa: {0}.</BaseAlreadyThere>
+  <BaseAlreadyThere>Itt már van bázisa nekik: {0}.</BaseAlreadyThere>
   <Biome>Életközösség</Biome>
   <Terrain>Terep</Terrain>
   <Elevation>Magasság</Elevation>

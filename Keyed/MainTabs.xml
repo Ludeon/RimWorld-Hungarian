@@ -35,7 +35,7 @@
   <!-- Factions tab -->
   <Hostile>Ellenséges</Hostile>
   <HostileTo>{0} ellensége</HostileTo>
-  <CurrentGoodwill>A jelenlegi viszony ezzel a törzzsel.</CurrentGoodwill>
+  <CurrentGoodwill>A jelenlegi viszony ezzel a frakcióval.</CurrentGoodwill>
   
   <!-- Statistics tab -->
   <Playtime>Játékidő</Playtime>
@@ -68,6 +68,6 @@
   <ProjectTechLevel>Kutatási terv tudományos szintje</ProjectTechLevel>
   <YourTechLevel>a te tudományos szinted</YourTechLevel>
   <ResearchCostMultiplier>Költségszorzó</ResearchCostMultiplier>
-  <ResearchCostComparison>A terv alapköltsége {0}-ról {1}-re változott a tudományos szinted miatt.</ResearchCostComparison>
+  <ResearchCostComparison>A terv alapköltsége ({0}) tudományos szinted miatt erre változott: {1}.</ResearchCostComparison>
   
 </LanguageData>

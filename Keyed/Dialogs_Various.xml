@@ -9,7 +9,7 @@
   <!-- Game updated to new version -->
   <GameUpdatedToNewVersionInitial>A RimWorld frissítve lett erről a verzióról: {0} erre a verzióra: {1}.\n\nLehetséges, hogy a régi modok és mentések többé nem működnek.</GameUpdatedToNewVersionInitial>
   <GameUpdatedToNewVersionNonSteam>Mivel ezen a verzión nincs másolásvédelem, két különböző helyre is feltelepítheted, így játszhatsz régi és új verzióval is párhuzamosan.</GameUpdatedToNewVersionNonSteam>
-  <GameUpdatedToNewVersionSteam>Ha régebbi verzióval akarsz tovább játszani, használhatod a Steam 'Beta' szolgáltatását.\n\n1. A Steam fiókodban jobb klikk a 'RimWorld'-ön.\n2. Klikk a Beállitásokra.\n3. Klikk a 'Betas' fülre.\n4. Válaszd ki a kívánt verziót.\n\nAz öregebb verziók egy idő után törölve lesznek - de nem kell attól tartani, hogy a játékodat félbevágjuk.\n\nFigyelem, ha a modkészítők frissítik a modjukat az új verzióra, azok valószínűleg nem fognak többé működni az öregebb verziókkal. Kapcsold ki az automatikus frissítést, ennek megakadályozására.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionSteam>Ha régebbi verzióval akarsz tovább játszani, használhatod a Steam 'Beta' szolgáltatását.\n\n1. A Steam fiókodban jobb klikk a 'RimWorld'-ön.\n2. Klikk a Beállitásokra.\n3. Klikk a 'Betas' fülre.\n4. Válaszd ki a kívánt verziót.\n\nAz régebbi verziók egy idő után törölve lesznek - de nem kell attól tartani, hogy a játékodat félbevágjuk.\n\nFigyelem, ha a modkészítők frissítik a modjukat az új verzióra, azok valószínűleg nem fognak többé működni az régebbi verziókkal. Kapcsold ki az automatikus frissítést, ennek megakadályozására.</GameUpdatedToNewVersionSteam>
   
   
   <!-- Recovered from errors caused by mods -->
@@ -48,10 +48,10 @@
   <SaveGameButton>Mentés</SaveGameButton>
   <LoadGameButton>Betöltés</LoadGameButton>
   <OverwriteButton>Felülír</OverwriteButton>
-  <ConfirmDelete>Tényleg töröljük? {0}</ConfirmDelete>
+  <ConfirmDelete>Tényleg törlöd? {0}</ConfirmDelete>
   <DeleteThisSavegame>Mentés törlése</DeleteThisSavegame>
   <SavedAs>Elmentve, mint {0}</SavedAs>
-  <NeedAName>Adj egy nevet</NeedAName>
+  <NeedAName>Adj egy nevet a mentésnek</NeedAName>
   <LoadingLongEvent>Töltés...</LoadingLongEvent>
   <SavingLongEvent>Mentés...</SavingLongEvent>
   <PermadeathModeSaveSuffix>(Valós halál)</PermadeathModeSaveSuffix>
@@ -63,9 +63,9 @@
   <LoadAnyway>Mindenképp betölt</LoadAnyway>
   
   <!-- Colony naming-->
-  <NameColonyMessage>Mindenki tudja, hogy nem akarsz sokáig maradni ezen a sziklán, de {0} azt javasolja, hogy azért adhatnátok a kolóniának egy nevet.\n\nHogy nevezzétek el?</NameColonyMessage>
+  <NameColonyMessage>Mindenki tudja, hogy nem akarsz sokáig maradni ezen a sziklán, de {0} szerint azért adhatnál a kolóniának egy nevet.\n\nMi legyen a neve?</NameColonyMessage>
   <ColonyGainsName>A kolónia neve mostantól {0}</ColonyGainsName>
-  <ColonyNameIsInvalid>Ez a kolónia név nem megfelelő</ColonyNameIsInvalid>
+  <ColonyNameIsInvalid>Ez a név nem megfelelő</ColonyNameIsInvalid>
 
   <!-- Renaming -->
   <NameIsInvalid>Érvénytelen név</NameIsInvalid>
@@ -73,7 +73,7 @@
   <ZoneGainsName>A zóna neve mostantól {0}</ZoneGainsName>
   
   <!-- Pawn naming -->
-  <PawnGainsName>Az embered beceneve mostantól {0}</PawnGainsName>
+  <PawnGainsName>A gyarmatos beceneve mostantól {0}</PawnGainsName>
 
   <!-- Save game incompatible warning -->
   <VersionMismatch>Verzióütközés</VersionMismatch>
@@ -95,14 +95,14 @@
   <Finished>Kész</Finished>
   <InProgress>Folyamatban</InProgress>
   <Locked>Zárva</Locked>
-  <ResearchMenuWithoutBench>Amíg nem építesz laborasztalt, addig az embereid nem lesznek képesek elkezdeni a kutatást.\n\nÁmbár addig is tudsz itt nézelődni és már most is választhatsz kutatási projektet.</ResearchMenuWithoutBench>
+  <ResearchMenuWithoutBench>Amíg nem építesz laborasztalt, addig az embereid nem tudják elkezdeni a kutatást.\n\nÁmbár addig is tudsz itt nézelődni és már most is választhatsz kutatási projektet.</ResearchMenuWithoutBench>
   <ResearchPrerequisites>Kutatási előfeltételek</ResearchPrerequisites>
   <RequiredResearchBench>Szükséges kutatólabor</RequiredResearchBench>
   <RequiredResearchBenchFacilities>Szükséges kutatási felszerelés</RequiredResearchBenchFacilities>
   
   <!-- Advanced game start options -->
   <MapTemperatureDangerWarning>FIGYELEM: Fagyott környezetbe érkezik. Nagyon nehéz, akár lehetetlen is lehet a túlélés. Ha nem akar extrém kihívást állítani maga elé, válasszon más leszállóhelyet vagy évszakot!</MapTemperatureDangerWarning>
-  <MapSizePerformanceWarning>FIGYELEM: A teljesítmény leromolhat nagyobb térkép méreteknél, hacsaknem a számítógéped kimondottan erős.\n\nHa gyenge géped van, válaszd a Kicsit.\n\nA Ludeonicrous méret nincs tesztelve és szinte teljesen biztosan nem lesz jól játszható.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>FIGYELEM: A teljesítmény leromolhat nagyobb térkép méreteknél, ha számítógéped nem kimondottan erős.\n\nHa gyenge géped van, válaszd a "Kicsi" méretet.\n\nA "Ludeonicrous" méret nincs tesztelve és szinte teljesen biztosan nem lesz jól játszható.</MapSizePerformanceWarning>
   <MapSize>Térkép méret</MapSize>
   <MapSizeDesc>{0}x{0} ({1} cella)</MapSizeDesc>
   <MapSizeSmall>Kicsi</MapSizeSmall>
@@ -128,13 +128,13 @@
   <AllowedSkillRange>Megengedett készségszint: {0}</AllowedSkillRange>
   
   <RecipeCannotHaveTargetCount>(Ennek a receptnek nem lehet célösszege, mert megjósolhatatlan, hogy mennyi készül belőle.)</RecipeCannotHaveTargetCount>
-  <WorkAmount>Elvégzett munka</WorkAmount>
+  <WorkAmount>Szükséges munka</WorkAmount>
   <MinimumSkills>Minimum készség:</MinimumSkills>
   <BillRequires>Szükséges: {0}db {1}</BillRequires>
   <BillRequiresNutrition>Szükséges tápanyag: {0}</BillRequiresNutrition>
   <BillRequiresMayVary>Megj.: kis helyet foglaló hozzávalókból, mint pl. az arany, 20x annyi kell.</BillRequiresMayVary>
   <ThisIsSmallVolume>Ez egy kis térfogatú hozzávaló. Ez azt jelenti, hogy minden "egység" csak 1/20-a a normál térfogatú hozzávalóknak. Így ezekből hússzor annyi szükséges az adott recepthez.</ThisIsSmallVolume>
-  <UsableIngredients>Felhasználható összetevők</UsableIngredients>
+  <UsableIngredients>hozzávaló</UsableIngredients>
   <DoXTimes>X darab készítése</DoXTimes>
   <DoUntilYouHaveX>Gyártás X darabig</DoUntilYouHaveX>
   <DoForever>Gyártás örökké</DoForever>
@@ -147,22 +147,22 @@
   <Damage>Sebzés</Damage>
   <Accuracy>Pontosság</Accuracy>
   <BurstShotCount>Sorozatlövés száma</BurstShotCount>
-  <WarmupTime>Felkészülés</WarmupTime>
+  <WarmupTime>Tűzkész állapot</WarmupTime>
   <MeleeWarmupTime>Közelharci bemelegedés</MeleeWarmupTime>
   <CooldownTime>Szünet</CooldownTime>
   <BurstShotFireRate>Tűzgyorsaság</BurstShotFireRate>
-  <Range>Távolság</Range>
-  <GrowsWild>Vadon terem</GrowsWild>
+  <Range>Hatótáv</Range>
+  <GrowsWild>Vadon termő</GrowsWild>
   <Harvestable>Begyűjthető</Harvestable>
   <LimitedLifespan>Korlátozott élettartam</LimitedLifespan>
-  <GrowingTime>Növekedési idő</GrowingTime>
+  <GrowingTime>Teljes kifejlődés</GrowingTime>
   <GrowingTimeDesc>A növények nem egész nap és csak fényben nőnek. Ez a szám mutatja meg mennyi tenyészidő szükséges a teljes kifejlődésig. Általában ennek kb. kétszerese szükséges, ha az eltelt időt nézzük. Az alacsony hőmérséklet is lassítja a növekedést.</GrowingTimeDesc>
   <Days>nap</Days>
-  <MinGrowingSkillToSow>Minimális kertész készség a vetéshez</MinGrowingSkillToSow>
+  <MinGrowingSkillToSow>Min. földművelés</MinGrowingSkillToSow>
   <FertilityRequirement>Termékenységi követelmény</FertilityRequirement>
-  <SoilFertilitySensitivityGrowthRate>Talaj termékenységi érzékenység (növekedési ráta)</SoilFertilitySensitivityGrowthRate>
-  <SoilFertilitySensitivityPlantChance>Talaj termékenységi érzékenység (kikelési esély)</SoilFertilitySensitivityPlantChance>
-  <LightRequirement>Fény követelmény</LightRequirement>
+  <SoilFertilitySensitivityGrowthRate>Kényesség (növekedési sebesség)</SoilFertilitySensitivityGrowthRate>
+  <SoilFertilitySensitivityPlantChance>Kényesség (megered-e)</SoilFertilitySensitivityPlantChance>
+  <LightRequirement>Fény igény</LightRequirement>
   <Attributes>Tulajdonságok</Attributes>
   <LifeSpan>Élettartam</LifeSpan>
   <Nutrition>Tápérték</Nutrition>
@@ -189,19 +189,19 @@
 
   <!-- Trade -->
   <PositiveBuysNegativeSells>Pozitív szám vételt jelent\nNegatív szám eladást</PositiveBuysNegativeSells>
-  <BuyPriceDesc>Ennyit fizetsz, hogy megvehesd.</BuyPriceDesc>
-  <SellPriceDesc>Ennyit kapsz, ha eladod.</SellPriceDesc>
-  <PriceTypeDesc>Ezért a termékért ez az ár {0}.</PriceTypeDesc>
-  <ColonyCount>Ennyi áll kereskedésre készen a kolóniának ebből a termékből.\n\nCsak akkor adhatsz el termékeket földkörüli kereskedőknek, ha azok nincsenek fedél alatt és Földkörüli Kereskedő Jeladó mellett vannak.</ColonyCount>
+  <BuyPriceDesc>Ennyit fizetsz, hogy megvehesd</BuyPriceDesc>
+  <SellPriceDesc>Ennyit kapsz, ha eladod</SellPriceDesc>
+  <PriceTypeDesc>Ezért a termékért ez az ár {0}</PriceTypeDesc>
+  <ColonyCount>Ennyi áll kereskedésre készen a kolóniának ebből a termékből.\n\nCsak akkor adhatsz el termékeket földkörüli kereskedőknek, ha "Orbitális jeladó" mellett vannak.</ColonyCount>
   <TraderCount>Mennyi terméket árul a kereskedő</TraderCount>
   <AcceptButton>Elfogadás</AcceptButton>
   <ResetButton>Visszaállítás</ResetButton>
   <CancelButton>Mégse</CancelButton>
   <CloseButton>Bezár</CloseButton>
   <YourTradeableSilver>A kereskedésre ennyi ezüst áll rendelkezésre: {0}</YourTradeableSilver>
-	<YourTradeableSilverTip>Csak azzal az ezüsttel kereskedhetsz, ami Földkörüli Kereskedő Jeladó mellet van és nincs tető alatt.</YourTradeableSilverTip>
+	<YourTradeableSilverTip>Csak azzal az ezüsttel kereskedhetsz, ami az "Orbitális jeladó" mellet van.</YourTradeableSilverTip>
   <TraderHasNoMore>Nincs több a kereskedőnél</TraderHasNoMore>
-  <ColonyHasNoMore>Nincs több eladó</ColonyHasNoMore>
+  <ColonyHasNoMore>Nincs több nálad</ColonyHasNoMore>
   <TraderWillNotTrade>Nem kell neki a termék</TraderWillNotTrade>
   <NegotiatorTalkingImpaired>Az alkuszod, {0}, egészsége miatt nem tud rendesen beszélni.\n\nEz befolyásolja az árakat.\n\nHasználj egészségesebb alkuszt.</NegotiatorTalkingImpaired>
   <ConfirmTraderShortFunds>A kereskedőnek nincs elég ezüstje ehhez az egyezséghez. Mindenképp megkötöd?</ConfirmTraderShortFunds>
@@ -215,8 +215,8 @@
   <ResearchScreen>Kutatási képernyő</ResearchScreen>
   
   <!--HistoryUpload-->
-  <HistoryUploadMessage>Szeretnéd feltölteni a játékod adatait a RimWorld szerverre, hogy ezzel segítsd a fejlesztőket, hogy kiegyensúlyozzák a játékot? Ha beleegyezel, az adatok feltöltésre kerülnek minden {0} naponta (és néhány más ritka esetben, mint a játék vége). Ezek a beállítások később is megváltoztathatóak a beállítások menüben.</HistoryUploadMessage>
-  <HistoryUploadMessagePlayerName>Ha a történések anonim módon lesznek is elküldve, adhatod hozzá a nevedet is.</HistoryUploadMessagePlayerName>
+  <HistoryUploadMessage>Szeretnéd feltölteni a játékod adatait a RimWorld szerverre, hogy ezzel segítsd a fejlesztőket, hogy kiegyensúlyozzák a játékot? Ha beleegyezel, az adatok feltöltésre kerülnek {0} naponta (és néhány más ritka esetben, mint a játék vége). Ezek a beállítások később is megváltoztathatóak a "Beállítások" menüben.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Az adatok anonim módon lesznek elküldve, de adhatod hozzá a nevedet is.</HistoryUploadMessagePlayerName>
   <HistoryUploadYes>A játék adatok feltöltésének engedélyezése</HistoryUploadYes>
   <HistoryUploadNo>Ne legyen engedélyezve a játék adatainak feltöltése</HistoryUploadNo>
   <HistoryUploadYesOnce>Feltöltés csak most</HistoryUploadYesOnce>
@@ -243,8 +243,8 @@
   <AddDrug>Drog hozzáadása...</AddDrug>
   <DrugColumnLabel>Drogok</DrugColumnLabel>
   <FrequencyColumnLabel>Gyakoriság</FrequencyColumnLabel>
-  <MoodThresholdColumnLabel>Ha a hangulat rosszabb, mint</MoodThresholdColumnLabel>
-  <JoyThresholdColumnLabel>Ha az öröm kisebb, mint</JoyThresholdColumnLabel>
+  <MoodThresholdColumnLabel>Hangulat</MoodThresholdColumnLabel>
+  <JoyThresholdColumnLabel>Öröm</JoyThresholdColumnLabel>
   <TakeToInventoryColumnLabel>Többlet</TakeToInventoryColumnLabel>
   <NoDrugsBrackets>(nincs drog)</NoDrugsBrackets>
   <EveryDay>Minden nap</EveryDay>
@@ -259,6 +259,6 @@
   <TakeToInventoryColumnDesc>Ennyivel többet vegyen fel, hogy ne kelljen állandóan a raktárhoz rohangálni.</TakeToInventoryColumnDesc>
     
   <!-- Growing -->
-  <NoGrowerCanPlant>A {0} vetéséhez szükséges Kert készség szintje: {1}.\n\nEgyik munkaképes emberednek sincs ilyenje, ezért ez a mag nem lesz elvetve.</NoGrowerCanPlant>
+  <NoGrowerCanPlant>A {0} vetéséhez szükséges "Földművelés" készség szintje: {1}.\n\nEgyik munkaképes emberednek sincs ilyenje, ezért ez a mag nem lesz elvetve.</NoGrowerCanPlant>
 
 </LanguageData>
