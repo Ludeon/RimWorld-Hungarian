@@ -3,14 +3,16 @@
 
 	<ClickToJumpToProblem>Kattints ide a problémára ugráshoz</ClickToJumpToProblem>
   
-  <NeedSawmill>Nincs fűrészmalom</NeedSawmill>
-  <NeedSawmillDesc>Fűrészmalomra van szükség, hogy a fából deszkákat készíts.\n\nÉpíts kézi vagy elektromos fűrészmalmot.</NeedSawmillDesc>
+  <!-- <NeedSawmill>Nincs fűrészmalom</NeedSawmill>
+  <NeedSawmillDesc>Fűrészmalomra van szükség, hogy a fából deszkákat készíts.\n\nÉpíts kézi vagy elektromos fűrészmalmot.</NeedSawmillDesc> -->
 
-  <PoorMood>Rossz hangulat</PoorMood>
-  <PoorMoodDesc>A következő gyarmatosok rossz hangulatban vannak és bármikor szenvedhetnek kisebb összeomlást:\n\n{0}</PoorMoodDesc>
-  <TerribleMood>Szörnyű hangulat</TerribleMood>
-  <TerribleMoodDesc>A következő gyarmatosok kritikus hangulatban vannak és könnyen szenvedhetnek komoly - akár erőszakos - idegösszeomlást:\n\n{0}</TerribleMoodDesc>
-  <LowMoodDescEnding>Ellenőrizd mi bántja őket a "Szükség" fül alatt.</LowMoodDescEnding>
+  <BreakRiskMinor>Enyhe összeomlás veszély</BreakRiskMinor>
+  <BreakRiskMinorDesc>A következő gyarmatosok rossz hangulatban vannak és bármikor szenvedhetnek kisebb összeomlást:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajor>Erős összeomlás veszély</BreakRiskMajor>
+  <BreakRiskMajorDesc>A következő gyarmatosok nagyon rossz hangulatban vannak és bármikor szenvedhetnek összeomlást:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtreme>Rendkívüli összeomlás veszély</BreakRiskExtreme>
+  <BreakRiskExtremeDesc>A következő gyarmatosok rendkívül rossz hangulatban vannak és könnyen szenvedhetnek komoly - akár erőszakos - idegösszeomlást:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Ellenőrizd, mi bántja őket a "Szükség" fül alatt.</BreakRiskDescEnding>
   
   <ColonistNeedsRescue>Gyarmatos mentésre vár</ColonistNeedsRescue>
   <ColonistsNeedRescue>Gyarmatosok mentésre várnak</ColonistsNeedRescue>
@@ -124,8 +126,8 @@
   <NeedJoySourceDesc>A gyarmatosoknak szüksége van kikapcsolódásra, de nincs rá semmi lehetőségük.\n\nÉpíts nekik patkó játékot, sakktáblát vagy más szórakoztató eszközt.</NeedJoySourceDesc>
   
   <NeedWarmClothes>Nincs meleg ruha</NeedWarmClothes>
-  <NeedWarmClothesDesc>Legalább {0} gyarmatosnak nincsen a hidegre megfelelő ruházata.</NeedWarmClothesDesc>
-  <NeedWarmClothesForAllDesc>Egy gyarmatosnak sincsen a hidegre megfelelő ruházata.</NeedWarmClothesForAllDesc>
+  <!-- <NeedWarmClothesDesc>Legalább {0} gyarmatosnak nincsen a hidegre megfelelő ruházata.</NeedWarmClothesDesc>
+  <NeedWarmClothesForAllDesc>Egy gyarmatosnak sincsen a hidegre megfelelő ruházata.</NeedWarmClothesForAllDesc> -->
   <NeedWarmClothesDesc1>Legalább {0} gyarmatosnak nincsen a hidegre megfelelő ruházata.</NeedWarmClothesDesc1>
   <NeedWarmClothesDesc1All>Egy gyarmatosnak sincsen a hidegre megfelelő ruházata.</NeedWarmClothesDesc1All>
   <NeedWarmClothesDesc2>A külső hőmérséklet eléri a {0} fokot.\n\nVarrhatsz meleg ruhát a munkaállomáson vagy vehetsz kereskedőtől is.</NeedWarmClothesDesc2>

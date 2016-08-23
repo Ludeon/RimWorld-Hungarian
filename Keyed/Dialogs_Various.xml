@@ -237,8 +237,10 @@
   <NewDrugPolicy>Új szabály</NewDrugPolicy>
   <DeleteDrugPolicy>Szabály törlése...</DeleteDrugPolicy>
   <DrugPolicyInUse>A szabályt {0} használja.</DrugPolicyInUse>
+    <SocialDrugs>Szociális drogok</SocialDrugs>
   <NoDrugs>Nincs drog</NoDrugs>
   <OneDrinkPerDay>Napi egy ital</OneDrinkPerDay>
+    <Unrestricted>Szabad fogyasztás</Unrestricted>
   <NoDrugPolicySelected>Nincs szabály kiválasztva</NoDrugPolicySelected>
   <AddDrug>Drog hozzáadása...</AddDrug>
   <DrugColumnLabel>Drogok</DrugColumnLabel>
@@ -253,10 +255,17 @@
   <NoDrugUseRequirement>Bármi</NoDrugUseRequirement>
   <DeleteDrugTooltip>Drog törlése</DeleteDrugTooltip>
   <DrugNameColumnDesc>A drog neve</DrugNameColumnDesc>
+     <DrugUsageColumnLabel>Fogyasztás</DrugUsageColumnLabel>
+     <DrugUsageColumnDesc>A fogyasztás szabályozása.</DrugUsageColumnDesc>
   <FrequencyColumnDesc>Milyen gyakran kéne szedje a gyarmatos a drogot.</FrequencyColumnDesc>
   <MoodThresholdColumnDesc>A gyarmatos csak akkor szedje a drogot, ha a hangulata rosszabb, mint ez a szint.</MoodThresholdColumnDesc>
   <JoyThresholdColumnDesc>A gyarmatos csak akkor szedje a drogot, ha az örömszintje rosszabb, mint ez a szint.</JoyThresholdColumnDesc>
   <TakeToInventoryColumnDesc>Ennyivel többet vegyen fel, hogy ne kelljen állandóan a raktárhoz rohangálni.</TakeToInventoryColumnDesc>
+    <DrugUsageTipDeny>Tilt\n\nEz a drog nem fogyasztható. Egyes tulajdonságokkal rendelkező illetve speciális mentális állapotban lévő karaktereket ez nem fog megakadályozni.</DrugUsageTipDeny>
+    <DrugUsageTipForJoy>Hangulat javítására\n\nA drog használható arra, hogy feldobja a hangulatot és természetesen függőség kielégítésére is.</DrugUsageTipForJoy>
+    <DrugUsageTipScheduled>Időzítve\n\nAz előre beállított időpontokban fogyasztható, ha a többi feltétel is ki van elégítve.\n\nA drog használható arra is, hogy feldobja a hangulatot és természetesen függőség kielégítésére is.</DrugUsageTipScheduled>
+  
+  
     
   <!-- Growing -->
   <NoGrowerCanPlant>A {0} vetéséhez szükséges "Földművelés" készség szintje: {1}.\n\nEgyik munkaképes emberednek sincs ilyenje, ezért ez a mag nem lesz elvetve.</NoGrowerCanPlant>
