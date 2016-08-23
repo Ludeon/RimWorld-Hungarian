@@ -237,7 +237,7 @@
   <NewDrugPolicy>Új szabály</NewDrugPolicy>
   <DeleteDrugPolicy>Szabály törlése...</DeleteDrugPolicy>
   <DrugPolicyInUse>A szabályt {0} használja.</DrugPolicyInUse>
-    <SocialDrugs>Szociális drogok</SocialDrugs>
+    <SocialDrugs>Könnyű drogok</SocialDrugs>
   <NoDrugs>Nincs drog</NoDrugs>
   <OneDrinkPerDay>Napi egy ital</OneDrinkPerDay>
     <Unrestricted>Szabad fogyasztás</Unrestricted>
@@ -245,8 +245,8 @@
   <AddDrug>Drog hozzáadása...</AddDrug>
   <DrugColumnLabel>Drogok</DrugColumnLabel>
   <FrequencyColumnLabel>Gyakoriság</FrequencyColumnLabel>
-  <MoodThresholdColumnLabel>Hangulat</MoodThresholdColumnLabel>
-  <JoyThresholdColumnLabel>Öröm</JoyThresholdColumnLabel>
+  <MoodThresholdColumnLabel>Hangulat korlát</MoodThresholdColumnLabel>
+  <JoyThresholdColumnLabel>Élvezet korlát</JoyThresholdColumnLabel>
   <TakeToInventoryColumnLabel>Többlet</TakeToInventoryColumnLabel>
   <NoDrugsBrackets>(nincs drog)</NoDrugsBrackets>
   <EveryDay>Minden nap</EveryDay>
@@ -262,7 +262,7 @@
   <JoyThresholdColumnDesc>A gyarmatos csak akkor szedje a drogot, ha az örömszintje rosszabb, mint ez a szint.</JoyThresholdColumnDesc>
   <TakeToInventoryColumnDesc>Ennyivel többet vegyen fel, hogy ne kelljen állandóan a raktárhoz rohangálni.</TakeToInventoryColumnDesc>
     <DrugUsageTipDeny>Tilt\n\nEz a drog nem fogyasztható. Egyes tulajdonságokkal rendelkező illetve speciális mentális állapotban lévő karaktereket ez nem fog megakadályozni.</DrugUsageTipDeny>
-    <DrugUsageTipForJoy>Hangulat javítására\n\nA drog használható arra, hogy feldobja a hangulatot és természetesen függőség kielégítésére is.</DrugUsageTipForJoy>
+    <DrugUsageTipForJoy>Élvezet javítására\n\nA drog használható arra, hogy növelje az élvezetet és természetesen függőség kielégítésére is.</DrugUsageTipForJoy>
     <DrugUsageTipScheduled>Időzítve\n\nAz előre beállított időpontokban fogyasztható, ha a többi feltétel is ki van elégítve.\n\nA drog használható arra is, hogy feldobja a hangulatot és természetesen függőség kielégítésére is.</DrugUsageTipScheduled>
   
   
