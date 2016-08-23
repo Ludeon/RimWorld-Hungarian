@@ -22,12 +22,9 @@
   <GiveUpExit.baseInspectLine>Állapot: lelépés</GiveUpExit.baseInspectLine>
 
   <!-- Mental breaks: serious -->
-<!-- 
-  <BingingAlcohol.label>piálás</BingingAlcohol.label>
-  <BingingAlcohol.beginLetterLabel>Piálás</BingingAlcohol.beginLetterLabel>
-  <BingingAlcohol.beginLetter>{0} leissza magát.</BingingAlcohol.beginLetter>
-  <BingingAlcohol.recoveryMessage>{0} abbahagyta a piálást.</BingingAlcohol.recoveryMessage>
-  <BingingAlcohol.inspectLine>Állapot: piálás</BingingAlcohol.inspectLine> -->
+
+  <BingingDrugExtreme.label>Drog habzsolás</BingingDrugExtreme.label>
+  <BingingDrugExtreme.baseInspectLine>Idegállapot: ezt habzsolja:</BingingDrugExtreme.baseInspectLine>
 
   <WanderPsychotic.label>pszichotikus ténfergés</WanderPsychotic.label>
   <WanderPsychotic.beginLetterLabel>Zavarodottság</WanderPsychotic.beginLetterLabel>
