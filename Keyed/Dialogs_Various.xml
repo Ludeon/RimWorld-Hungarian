@@ -117,7 +117,7 @@
   <!-- Bill config -->
   <Suspended>Felfüggesztve</Suspended>
   <NotSuspended>Nincs felfüggesztve</NotSuspended>
-  <SuspendedAllCaps>FELFÜGGESZTVE</SuspendedAllCaps>
+  <SuspendedAllCaps>LEÁLLÍTVA</SuspendedAllCaps>
   <RepeatCount>Ismétlés: {0}</RepeatCount>
   <Forever>Örökké</Forever>
 	<Details>Részletek</Details>
@@ -261,9 +261,9 @@
   <MoodThresholdColumnDesc>A gyarmatos csak akkor szedje a drogot, ha a hangulata rosszabb, mint ez a szint.</MoodThresholdColumnDesc>
   <JoyThresholdColumnDesc>A gyarmatos csak akkor szedje a drogot, ha az örömszintje rosszabb, mint ez a szint.</JoyThresholdColumnDesc>
   <TakeToInventoryColumnDesc>Ennyivel többet vegyen fel, hogy ne kelljen állandóan a raktárhoz rohangálni.</TakeToInventoryColumnDesc>
-    <DrugUsageTipDeny>Tilt\n\nEz a drog nem fogyasztható. Egyes tulajdonságokkal rendelkező illetve speciális mentális állapotban lévő karaktereket ez nem fog megakadályozni.</DrugUsageTipDeny>
+    <DrugUsageTipDeny>Tiltva\n\nEz a drog nem fogyasztható. Egyes tulajdonságokkal rendelkező illetve speciális mentális állapotban lévő karaktereket ez nem fog megakadályozni.</DrugUsageTipDeny>
     <DrugUsageTipForJoy>Élvezet javítására\n\nA drog használható arra, hogy növelje az élvezetet és természetesen függőség kielégítésére is.</DrugUsageTipForJoy>
-    <DrugUsageTipScheduled>Időzítve\n\nAz előre beállított időpontokban fogyasztható, ha a többi feltétel is ki van elégítve.\n\nA drog használható arra is, hogy feldobja a hangulatot és természetesen függőség kielégítésére is.</DrugUsageTipScheduled>
+    <DrugUsageTipScheduled>Ütemezés szerint\n\nAz előre beállított időpontokban fogyasztható, ha a többi feltétel is ki van elégítve.\n\nA drog használható arra is, hogy feldobja a hangulatot és természetesen függőség kielégítésére is.</DrugUsageTipScheduled>
   
   
     
