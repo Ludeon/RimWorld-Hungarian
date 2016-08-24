@@ -8,13 +8,16 @@
 	<AlcoholHigh.stages.3.label>részeg</AlcoholHigh.stages.3.label>
 	<AlcoholHigh.stages.4.label>tökrészeg</AlcoholHigh.stages.4.label>
 	<AlcoholHigh.stages.5.label>filmszakadás</AlcoholHigh.stages.5.label>
+	
 	<AlcoholAddiction.label>alkoholfüggő</AlcoholAddiction.label>
 	<AlcoholAddiction.stages.0.label>elvonás</AlcoholAddiction.stages.0.label>
+	<AlcoholTolerance.label>alkohol tolerancia</AlcoholTolerance.label>
 	
 	<Hangover.label>macskajaj</Hangover.label>
 	<Hangover.stages.0.label>enyhe</Hangover.stages.0.label>
 	<Hangover.stages.1.label>erős</Hangover.stages.1.label>
 	<Hangover.stages.2.label>rendkívüli</Hangover.stages.2.label>
+	<!-- <Hungover.stages.3.label>rejtett</Hungover.stages.3.label> -->
 
 	<AmphetamineHigh.label>amfetamin mámor</AmphetamineHigh.label>
 	<AmphetamineTolerance.label>amfetamin tolerancia</AmphetamineTolerance.label>
@@ -24,17 +27,20 @@
 	<CannabisHigh.label>marihuána mámor</CannabisHigh.label>
 	<CannabisAddiction.label>marihuánafüggő</CannabisAddiction.label>
 	<CannabisAddiction.stages.0.label>elvonás</CannabisAddiction.stages.0.label>
+	<CannabisTolerance.label>marihuána tolerancia</CannabisTolerance.label>
 	
 	<FlakeHigh.label>crack mámor</FlakeHigh.label>
 	
 	<YayoHigh.label>kokain mámor</YayoHigh.label>
 	<CocaineAddiction.label>kokainfüggő</CocaineAddiction.label>
 	<CocaineAddiction.stages.0.label>elvonás</CocaineAddiction.stages.0.label>
-	
+	<CocaineTolerance.label>kokain tolerancia</CocaineTolerance.label>
+		
 	<GoJuiceHigh.label>gojuice mámor</GoJuiceHigh.label>
 	<GoJuiceAddiction.label>gojuice-függő</GoJuiceAddiction.label>
 	<GoJuiceAddiction.stages.0.label>elvonás</GoJuiceAddiction.stages.0.label>
-	
+	<GoJuiceTolerance.label>gojuice tolerancia</GoJuiceTolerance.label>
+	 
 	<LuciferiumHigh.label>luciferium mámor</LuciferiumHigh.label>
 	<LuciferiumAddiction.label>luciferium függő</LuciferiumAddiction.label>
 	<LuciferiumAddiction.stages.0.label>kielégítetlen</LuciferiumAddiction.stages.0.label>
