@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<DrugBases.ingestible.ingestCommandString>Vegye be ezt: {0}</DrugBases.ingestible.ingestCommandString>
-	<DrugBases.ingestible.ingestReportString>Beveszi ezt: {0}.</DrugBases.ingestible.ingestReportString>
-	<DrugBases.DrugPillBase.ingestible.ingestCommandString>Vegye be ezt: {0}</DrugBases.DrugPillBase.ingestible.ingestCommandString>
-	<DrugBases.DrugPillBase.ingestible.ingestReportString>Beveszi ezt: {0}.</DrugBases.DrugPillBase.ingestible.ingestReportString>
 	
 	<Beer.label>sör</Beer.label>
 	<Beer.description>Az első számú ember által fogyasztott ital a víz után. Az íze se rossz, de a lényeg a bódító hatás. Túlzott fogyasztása másnapossághoz vezet.</Beer.description>
@@ -13,6 +9,8 @@
 		
 	<Amphetamine.label>amfetamin</Amphetamine.label>
 	<Amphetamine.description>Függőséget okozó stimuláns. Az amfetamin kiterjeszti a kognitív képességeket, ezzel lehetővé téve a nagyfokú koncentrálást hosszú ideig, anélkül, hogy elfáradnánk. A függőség a mentális teljesítőképesség romlásával jár és néha valóságtól való elszakadással is.</Amphetamine.description>
+	<Amphetamine.ingestible.ingestCommandString>Vegye be ezt: {0}</Amphetamine.ingestible.ingestCommandString>
+	<Amphetamine.ingestible.ingestReportString>Beveszi ezt: {0}.</Amphetamine.ingestible.ingestReportString>
 	
 	<Joint.label>füves cigi</Joint.label>
 	<Joint.description>Marihuána levelek cigarettaként. Ez a drog javítja a hangulatot, növeli az étvágyat, rontja a koncentrálóképességet, lelassítja a mozgást. A fű fogyasztása függőséget okozhat. Eszközök nélkül is gyártható egy egyszerű munkahelyen.</Joint.description>
@@ -36,8 +34,12 @@
 		
 	<MalariBlock.label>malariblokk</MalariBlock.label>
 	<MalariBlock.description>Malária elleni gyógyszer. Ötnaponta szedve távol tartja a maláriát.</MalariBlock.description>
+	<MalariBlock.ingestible.ingestCommandString>Vegye be ezt: {0}</MalariBlock.ingestible.ingestCommandString>
+	<MalariBlock.ingestible.ingestReportString>Beveszi ezt: {0}.</MalariBlock.ingestible.ingestReportString>
 	
 	<Luciferium.label>luciferium</Luciferium.label>
 	<Luciferium.description>Fejlett világbeli nanitok keveréke, amik drámaian növelik a test mindenféle teljesítőképességét. Sajnos ha 5-6 naponta nem kap az alany újabb dózist, a nanitok elveszítik kohéziójukat, ami dührohamot és végül halált okoz. Az első dózis beadása után nincs mód arra, hogy a nanitokat eltávolítsák. Ahol használják, "Ördög paktum" -nak is nevezik. Sokak kényszerültek már arra, hogy egy barátjukat megöljék, amikor elfogytak a kis piros bogyók.</Luciferium.description>
-  
+    <Luciferium.ingestible.ingestCommandString>Vegye be ezt: {0}</Luciferium.ingestible.ingestCommandString>
+	<Luciferium.ingestible.ingestReportString>Beveszi ezt: {0}.</Luciferium.ingestible.ingestReportString>
+	
 </LanguageData>
