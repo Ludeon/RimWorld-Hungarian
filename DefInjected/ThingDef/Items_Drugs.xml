@@ -1,26 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
+	<DrugBases.ingestible.ingestCommandString>Vegye be ezt: {0}</DrugBases.ingestible.ingestCommandString>
+	<DrugBases.ingestible.ingestReportString>Beveszi ezt: {0}.</DrugBases.ingestible.ingestReportString>
+	<DrugBases.DrugPillBase.ingestible.ingestCommandString>Vegye be ezt: {0}</DrugBases.DrugPillBase.ingestible.ingestCommandString>
+	<DrugBases.DrugPillBase.ingestible.ingestReportString>Beveszi ezt: {0}.</DrugBases.DrugPillBase.ingestible.ingestReportString>
+	
 	<Beer.label>sör</Beer.label>
 	<Beer.description>Az első számú ember által fogyasztott ital a víz után. Az íze se rossz, de a lényeg a bódító hatás. Túlzott fogyasztása másnapossághoz vezet.</Beer.description>
 	<Beer.ingestible.ingestCommandString>Igyon ezt: {0}</Beer.ingestible.ingestCommandString>
-	<Beer.ingestible.ingestReportString>Iszik ezt: {0}</Beer.ingestible.ingestReportString>
-	
-	
+	<Beer.ingestible.ingestReportString>Iszik ezt: {0}.</Beer.ingestible.ingestReportString>
+		
 	<Amphetamine.label>amfetamin</Amphetamine.label>
 	<Amphetamine.description>Függőséget okozó stimuláns. Az amfetamin kiterjeszti a kognitív képességeket, ezzel lehetővé téve a nagyfokú koncentrálást hosszú ideig, anélkül, hogy elfáradnánk. A függőség a mentális teljesítőképesség romlásával jár és néha valóságtól való elszakadással is.</Amphetamine.description>
 	
 	<Joint.label>füves cigi</Joint.label>
 	<Joint.description>Marihuána levelek cigarettaként. Ez a drog javítja a hangulatot, növeli az étvágyat, rontja a koncentrálóképességet, lelassítja a mozgást. A fű fogyasztása függőséget okozhat. Eszközök nélkül is gyártható egy egyszerű munkahelyen.</Joint.description>
-	
+	<Joint.ingestible.ingestCommandString>Szívja el ezt: {0}</Joint.ingestible.ingestCommandString>
+	<Joint.ingestible.ingestReportString>Elszívja ezt: {0}.</Joint.ingestible.ingestReportString>
+		
 	<Flake.label>crack</Flake.label>
 	<Flake.description>A kokain legolcsóbb, pelyhes formája. Mely elszívva rövid, de nagyon erős euforikus állapotot idéz elő. Hihetetlenül addiktív.</Flake.description>
-	
+	<Flake.ingestible.ingestCommandString>Szívja el ezt: {0}</Flake.ingestible.ingestCommandString>
+	<Flake.ingestible.ingestReportString>Elszívja ezt: {0}.</Flake.ingestible.ingestReportString>
+		
 	<Yayo.label>kokain</Yayo.label>
 	<Yayo.description>Finom fehér por, mely orrba felszívva eufórikus állapotot idéz elő. Csökkenti a pihenés iránti vágyat és elnyomja a fájdalmat. Függőséget okoz.</Yayo.description>
-	
+	<Yayo.ingestible.ingestCommandString>Szívja fel ezt: {0}</Yayo.ingestible.ingestCommandString>
+	<Yayo.ingestible.ingestReportString>Felszívja ezt: {0}.</Yayo.ingestible.ingestReportString>
+		
 	<GoJuice.label>gojuice</GoJuice.label>
 	<GoJuice.description>Csillapítja a fájdalmat és növeli a közelharci és lövészet képességeket. A mozgási sebességet is növeli. Sajnos a hadászati kémikusok, akik készítették, soha sem tudták megszüntetni az okozott függőséget.</GoJuice.description>
-	
+	<GoJuice.ingestible.ingestCommandString>Lője be ezt: {0}</GoJuice.ingestible.ingestCommandString>
+	<GoJuice.ingestible.ingestReportString>Belövi ezt: {0}.</GoJuice.ingestible.ingestReportString>
+		
 	<MalariBlock.label>malariblokk</MalariBlock.label>
 	<MalariBlock.description>Malária elleni gyógyszer. Ötnaponta szedve távol tartja a maláriát.</MalariBlock.description>
 	
