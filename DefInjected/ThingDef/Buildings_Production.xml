@@ -3,12 +3,12 @@
 
   <CraftingSpot.label>munkahely</CraftingSpot.label>
   <CraftingSpot.description>Egy hely egyszerű dolgok készítésére, mint például íjak, kések.</CraftingSpot.description>
-  
+
   <!-- ========================= Work tables ==========================-->
 
   <TableSculpting.label>szobrász asztal</TableSculpting.label>
   <TableSculpting.description>Munkaasztal művészi faragványok készítéséhez.</TableSculpting.description>
-  
+
   <TableButcher.label>hastok</TableButcher.label>
   <TableButcher.description>Nehéz asztal állatok szétbontásához és húsuk feldolgozásához.</TableButcher.description>
 
@@ -47,15 +47,15 @@
 
   <DrugLab.label>droglabor</DrugLab.label>
   <DrugLab.description>Munkaállomás felszerelve kémcsövekkel, melegítővel és mérőeszközökkel mindenféle drog előállítására.</DrugLab.description>
-  
+
   <FermentingBarrel.label>Erjesztő hordó</FermentingBarrel.label>
   <FermentingBarrel.description>Hordó söralap erjesztésére.</FermentingBarrel.description>
 
   <DeepDrill.label>talajfúró</DeepDrill.label>
   <DeepDrill.description>Talajfúró, mely képes a föld mélyebb rétegeibe hatolni és onnan ásványokat a felszínre hozni. A talaj letapogató megmutatja hol érdemes fúrni.</DeepDrill.description>
-  
+
   <!-- ========== Non-standard work buildings ==============-->
-  
+
   <SimpleResearchBench.label>egyszerű laborasztal</SimpleResearchBench.label>
   <SimpleResearchBench.description>Egyszerű munkaasztal íróeszközökkel és fejletlen tudományos felszereléssel. A kutatók itt fedeznek fel új dolgokat.</SimpleResearchBench.description>
 
@@ -69,7 +69,7 @@
   <HydroponicsBasin.description>Növények mesterséges tápanyag fürdőben való gyors termesztéséhez. Működéséhez áram szükséges. A növények elhalnak, ha az áramellátás megszűnik.</HydroponicsBasin.description>
 
   <!--======================== Nutrient dispenser ==============================-->
-  
+
   <NutrientPasteDispenser.label>tápanyag pépesítő</NutrientPasteDispenser.label>
   <NutrientPasteDispenser.description>Tápanyagpépet állít elő organikus anyagokból. Kevesebb hozzávalót és időt igényel bármelyik másik ételkészítési módszernél, de senki sem szereti a végeredményt. Nyers ételt bevesz, de erősebb rostú növényi részeket (pl. széna) nem.</NutrientPasteDispenser.description>
 
@@ -77,6 +77,5 @@
   <Hopper.description>Alapanyagokat tárol és adagol más gépeknek, mint például a tápanyag pépesítő.</Hopper.description>
 
   <!-- Work tables -->
-  
-  
+
 </LanguageData>

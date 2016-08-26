@@ -7,8 +7,7 @@
   <Capturing.helpText>Ahhoz, hogy valakit elfogj, válassz ki egy kolónia lakót, jobb-klikkelj a magatehetetlen ellenségen és válaszd az Elfogás-t.\n\nSzükséged lesz plusz egy ágyra ami fogdának van kijelölve.</Capturing.helpText>
 
   <PersonalShields.label>Személyi pajzs</PersonalShields.label>
-  <PersonalShields.helpText>A személyi pajzs megakadályozza a lövések ki-, és bejutását. Közelharcnál nincs hatása.\n\nHa ilyennel felszerelt ellenséggel harcolsz, vagy koncentráld a tüzet rá, vagy alkalmazz közelharcot.
-</PersonalShields.helpText>
+  <PersonalShields.helpText>A személyi pajzs megakadályozza a lövések ki-, és bejutását. Közelharcnál nincs hatása.\n\nHa ilyennel felszerelt ellenséggel harcolsz, vagy koncentráld a tüzet rá, vagy alkalmazz közelharcot.</PersonalShields.helpText>
 
   <InteractingWithTraders.label>Kereskedés</InteractingWithTraders.label>
   <InteractingWithTraders.helpText>A kérdőjellel megjelölt emberekkel kereskedhetsz.\n\nVálassz ki egy gyarmatost és jobb-klikkelj a kérdőjellel megjelölt látogatóra.</InteractingWithTraders.helpText>
@@ -16,13 +15,13 @@
   <Drafting.label>Sorozás</Drafting.label>
   <Drafting.helpText>Ahhoz, hogy embereidet közvetlenül irányíthasd a harcban, sorozd be őket a "Besoroz" gombbal! Egy szolgálatban lévő gyarmatos csak azt fogja csinálni, amit mondasz neki és csak harci feladatokat tud ellátni. Akiknél fegyver van, azok lehetőség szerint használni is fogják.\n\nNe hagyd embereidet besorozva - éhezni fognak és boldogtalanok lesznek.</Drafting.helpText>
 
- <BuildOrbitalTradeBeacon.label>Orbitális jeladó</BuildOrbitalTradeBeacon.label>
+  <BuildOrbitalTradeBeacon.label>Orbitális jeladó</BuildOrbitalTradeBeacon.label>
   <BuildOrbitalTradeBeacon.helpText>Ahhoz, hogy tárgyakat, vagy ezüstöt küldj a bolygó körüli kereskedőknek, építened kell egy "Orbitális jeladó"-t a szabadban, és tárgyakat kell tárolnod mellette.</BuildOrbitalTradeBeacon.helpText>
 
-<AnimalsDontAttackDoors.label>Állat nem támad ajtót</AnimalsDontAttackDoors.label>
+  <AnimalsDontAttackDoors.label>Állat nem támad ajtót</AnimalsDontAttackDoors.label>
   <AnimalsDontAttackDoors.helpText>Az emberevők ajtókon nem jutnak át, kikapcsolt ágyúkat nem támadnak meg.\n\nElmenekülhetsz előlük, ha zárt térbe mész, de lehet, hogy megvárnak.</AnimalsDontAttackDoors.helpText>
 
-   <BillsTab.label>Megrendelések</BillsTab.label>
+  <BillsTab.label>Megrendelések</BillsTab.label>
   <BillsTab.helpText>Ahhoz, hogy embereid dolgozzanak egy asztalnál, válaszd ki az asztalt és nyisd meg a "Rendelés" panelt. Itt beállíthatod, hogy milyen ételt főzzenek, milyen dolgokat gyártsanak, milyen állatokat dolgozzanak fel.</BillsTab.helpText>
 
   <OpeningComms.label>Komm. konzol</OpeningComms.label>
@@ -30,17 +29,17 @@
 
   <DrugAddiction.label>Drogfüggés</DrugAddiction.label>
   <DrugAddiction.helpText>A Szükség fülön ellenőrizheted, mennyire vágyik a gyarmatos a drogra.\n\nAmíg a szükségszintjük nulla, "elvonás" állapotba kerülnek, aminek negatív mellékhatásai lehetnek.\n\nElég hosszú elvonás után a függőség megszűnik és a drog vágy kijelző eltűnik.</DrugAddiction.helpText>
-  
+
   <DrugPolicies.label>Drogszabályok</DrugPolicies.label>
   <DrugPolicies.helpText>Megadhatod, hogy az emberek bizonyos drogokat csak bizonyos időben szedhessenek be.\n\nPéldául szedethetsz velük rendszeresen malária gyógyszert, vagy itathatsz velük napi egy sört.\n\nA Beosztások fülön, a Drogszabályok gombbal készíthetsz új szabályt, amit aztán hozzárendelhetsz embereidhez. A gyarmatosok ettől eltérően is szedhetnek drogot, ha megkívánják. Nem feltétlen hallgatnak rád.</DrugPolicies.helpText>
-  
-   <TVForSickPeople.label>Tévé a betegnek</TVForSickPeople.label>
+
+  <TVForSickPeople.label>Tévé a betegnek</TVForSickPeople.label>
   <TVForSickPeople.helpText>Az ágynak esett betegeket szórakoztathatod, ha tévét teszel a szobájukba.</TVForSickPeople.helpText>
 
- <PrisonerTab.label>Fogoly fül</PrisonerTab.label>
+  <PrisonerTab.label>Fogoly fül</PrisonerTab.label>
   <PrisonerTab.helpText>Nézd meg egy rabnak a "Fogoly" adatlapját, hogy beállítsd a vele való bánásmódot.\n\nSzükséged lesz egy gyarmatosra, aki be van osztva "Felügyelő"-nek, hogy foglalkozzon a rabokkal.</PrisonerTab.helpText>
 
- <SetGrowingZonePlant.label>Kert beállítása</SetGrowingZonePlant.label>
+  <SetGrowingZonePlant.label>Kert beállítása</SetGrowingZonePlant.label>
   <SetGrowingZonePlant.helpText>Be tudod állítani, hogy milyen növényt termesszenek a kertekben. Még fákat is nevelhetsz!\n\nCsak válaszd ki a kertet, és használd a "Termeszteni kívánt növény" parancsot.</SetGrowingZonePlant.helpText>
 
   </LanguageData>

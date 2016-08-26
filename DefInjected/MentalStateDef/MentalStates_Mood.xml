@@ -27,7 +27,7 @@
   <BingingDrugExtreme.baseInspectLine>Idegállapot: ezt habzsolja:</BingingDrugExtreme.baseInspectLine>
   <BingingDrugMajor.label>Drog habzsolás</BingingDrugMajor.label>
   <BingingDrugMajor.baseInspectLine>Idegállapot: ezt habzsolja:</BingingDrugMajor.baseInspectLine>
-		
+
   <WanderPsychotic.label>pszichotikus ténfergés</WanderPsychotic.label>
   <WanderPsychotic.beginLetterLabel>Zavarodottság</WanderPsychotic.beginLetterLabel>
   <WanderPsychotic.beginLetter>{0} összeomlott és zavarodottan járkál.</WanderPsychotic.beginLetter>
@@ -41,20 +41,18 @@
   <BingingFood.beginLetter>{0} bezabálja a készleteket.</BingingFood.beginLetter>
   <BingingFood.recoveryMessage>{0} már nem habzsol.</BingingFood.recoveryMessage>
   <BingingFood.baseInspectLine>Állapot: zabálás</BingingFood.baseInspectLine>
-  
+
   <WanderSad.label>szomorú ténfergés</WanderSad.label>
   <WanderSad.beginLetterLabel>Szomorúság</WanderSad.beginLetterLabel>
   <WanderSad.beginLetter>{0} szomorúan járkál.</WanderSad.beginLetter>
   <WanderSad.recoveryMessage>{0} jobb kedvre derült.</WanderSad.recoveryMessage>
   <WanderSad.baseInspectLine>Állapot: szomorú ténfergés</WanderSad.baseInspectLine>
-  
+
   <WanderOwnRoom.label>szobában ténfergés</WanderOwnRoom.label>
   <WanderOwnRoom.beginLetterLabel>Bezárkózás</WanderOwnRoom.beginLetterLabel>
   <WanderOwnRoom.beginLetter>{0} bezárkózott a szobájába.</WanderOwnRoom.beginLetter>
   <WanderOwnRoom.recoveryMessage>{0} már nem bujkál a szobájában.</WanderOwnRoom.recoveryMessage>
   <WanderOwnRoom.baseInspectLine>Állapot: szobában ténfergés</WanderOwnRoom.baseInspectLine>
-
-
 
   <!-- Unused? -->
 

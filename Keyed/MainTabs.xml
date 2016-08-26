@@ -11,7 +11,7 @@
   <NoneBrackets>(semmi)</NoneBrackets>
   <IncapableOfWorkTypeBecauseOfCapacities>Ez a gyarmatos egészségi állapota miatt nem végezhet ilyen munkát.</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>V</EmergencyWorkMarker>
-  
+
   <!-- Outfits tab -->
   <CurrentOutfit>Jelenlegi felszerelés</CurrentOutfit>
   <ManageOutfits>Felszerelések kezelése</ManageOutfits>
@@ -21,22 +21,21 @@
   <AssignTabEdit>Szerkesztés...</AssignTabEdit>
   <CurrentDrugPolicies>Aktuális drogszabály</CurrentDrugPolicies>
   <ManageDrugPolicies>Drogszabály kezelése</ManageDrugPolicies>
-   
-   
+
   <!-- Restrictions tab -->
   <Copy>Másol</Copy>
   <Paste>Beilleszt</Paste>
   <AllowedArea>Megengedett körzet</AllowedArea>
-  
+
   <!-- Animals tab -->
   <Master>Gazda</Master>
   <PregnantIconDesc>Vemhes ({0} / {1})</PregnantIconDesc>
-  
+
   <!-- Factions tab -->
   <Hostile>Ellenséges</Hostile>
   <HostileTo>{0} ellensége</HostileTo>
   <CurrentGoodwill>A jelenlegi viszony ezzel a frakcióval.</CurrentGoodwill>
-  
+
   <!-- Statistics tab -->
   <Playtime>Játékidő</Playtime>
   <Storyteller>Mesélő</Storyteller>
@@ -50,10 +49,10 @@
   <ColonistsLaunched>Gyarmatosok az űrbe juttatva</ColonistsLaunched>
 
   <!-- History tab - subtabs -->
-  
+
   <Graph>Grafikon</Graph>
   <Statistics>Statisztika</Statistics>
-  
+
   <!-- History tab -->
   <SelectGraph>Grafikon választása</SelectGraph>
   <Last30Days>Utolsó 30 nap</Last30Days>
@@ -63,11 +62,11 @@
   <Day>Nap</Day>
   <Value>Érték</Value>
   <External>Külső</External>
-  
+
   <!-- Research tab -->
   <ProjectTechLevel>Kutatási terv tudományos szintje</ProjectTechLevel>
   <YourTechLevel>a te tudományos szinted</YourTechLevel>
   <ResearchCostMultiplier>Költségszorzó</ResearchCostMultiplier>
   <ResearchCostComparison>A terv alapköltsége ({0}) tudományos szinted miatt erre változott: {1}.</ResearchCostComparison>
-  
+
 </LanguageData>

@@ -4,18 +4,16 @@
   <Confirm>Jóváhagyás</Confirm>
   <GoBack>Vissza</GoBack>
   <OK>OK</OK>
-  
-  
+
   <!-- Game updated to new version -->
   <GameUpdatedToNewVersionInitial>A RimWorld frissítve lett erről a verzióról: {0} erre a verzióra: {1}.\n\nLehetséges, hogy a régi modok és mentések többé nem működnek.</GameUpdatedToNewVersionInitial>
   <GameUpdatedToNewVersionNonSteam>Mivel ezen a verzión nincs másolásvédelem, két különböző helyre is feltelepítheted, így játszhatsz régi és új verzióval is párhuzamosan.</GameUpdatedToNewVersionNonSteam>
   <GameUpdatedToNewVersionSteam>Ha régebbi verzióval akarsz tovább játszani, használhatod a Steam 'Beta' szolgáltatását.\n\n1. A Steam fiókodban jobb klikk a 'RimWorld'-ön.\n2. Klikk a Beállitásokra.\n3. Klikk a 'Betas' fülre.\n4. Válaszd ki a kívánt verziót.\n\nAz régebbi verziók egy idő után törölve lesznek - de nem kell attól tartani, hogy a játékodat félbevágjuk.\n\nFigyelem, ha a modkészítők frissítik a modjukat az új verzióra, azok valószínűleg nem fognak többé működni az régebbi verziókkal. Kapcsold ki az automatikus frissítést, ennek megakadályozására.</GameUpdatedToNewVersionSteam>
-  
-  
+
   <!-- Recovered from errors caused by mods -->
   <RecoveredFromErrorsDialogTitle>Korrupt vagy inkompatibilis mod okozta hiba</RecoveredFromErrorsDialogTitle>
   <RecoveredFromErrorsText>Úgy tűnik valamelyik aktív mod hibát okozott.\n\nÜtközik egy másik moddal, másik RimWorld verzióhoz lett írva vagy sérült .\n\nMinden mod ki lett kapcsolva, újra lehet őket aktiválni a Modok menüben.</RecoveredFromErrorsText>
-  
+
   <!-- Errors during loading -->
   <ErrorWhileLoadingAssetsTitle>Hiba eszközök betöltése közben</ErrorWhileLoadingAssetsTitle>
   <ErrorWhileLoadingAssets>Hiba történt az eszközök betöltése közben. Ellenőrizze a hibanaplót!</ErrorWhileLoadingAssets>
@@ -24,14 +22,13 @@
   <ErrorWhileGeneratingMap>Hiba történt a térkép létrehozása közben. Ellenőrizze a hibanaplót!</ErrorWhileGeneratingMap>
   <ErrorWhileLoadingMapTitle>Hiba térkép betöltése közben</ErrorWhileLoadingMapTitle>
   <ErrorWhileLoadingMap>Hiba történt a térkép betöltése közben. Ellenőrizze a hibanaplót!</ErrorWhileLoadingMap>
-  
+
   <!-- Unloaded mod with an assembly -->
   <ModWithAssemblyWasUnloaded>A játék nem tudja teljesen törölni a deaktivált modok által megváltozott kódot.\n\nJavasolt a játékot újraindítani és a modokat tisztán betölteni.</ModWithAssemblyWasUnloaded>
-  
-  
+
   <!-- Missing Steam -->
   <SteamClientMissing>Steam API indítása sikertelen. Lehetséges okok:\n\n-Steam nem fut.\n-Steam-en kívülről indítva steam_appid.txt nélkül.\n-Steam-étől eltérő jogosultságokkal indítva (pl. "rendszergazdaként").\n\nEgy újraindítás a legtöbb esetben segíthet.\n\nA játék eme verziójához Steam szükséges, ezért most kilép.</SteamClientMissing>
-  
+
   <!-- Long events -->
   <InitializingInterface>Interfész inicializálása</InitializingInterface>
   <UnloadingUnusedAssets>Nem használt eszközök törlése</UnloadingUnusedAssets>
@@ -43,7 +40,7 @@
   <LoadingMap>Térkép betöltése</LoadingMap>
   <InitializingMap>Térkép inicializálása</InitializingMap>
   <SpawningAllThings>Világ életre keltése</SpawningAllThings>
-  
+
   <!-- Save/load -->
   <SaveGameButton>Mentés</SaveGameButton>
   <LoadGameButton>Betöltés</LoadGameButton>
@@ -61,7 +58,7 @@
   <SaveIsUnknownFormat>A mentés formátuma ismeretlen és biztosan nem fog működni.</SaveIsUnknownFormat>
   <ProblemSavingFile>Hiba a következő fájl mentése közben: {0}:\n\n{1}\n\nEllenőrizze a hibanaplót!.</ProblemSavingFile>
   <LoadAnyway>Mindenképp betölt</LoadAnyway>
-  
+
   <!-- Colony naming-->
   <NameColonyMessage>Mindenki tudja, hogy nem akarsz sokáig maradni ezen a sziklán, de {0} szerint azért adhatnál a kolóniának egy nevet.\n\nMi legyen a neve?</NameColonyMessage>
   <ColonyGainsName>A kolónia neve mostantól {0}</ColonyGainsName>
@@ -71,7 +68,7 @@
   <NameIsInvalid>Érvénytelen név</NameIsInvalid>
   <NameIsInUse>Foglalt név</NameIsInUse>
   <ZoneGainsName>A zóna neve mostantól {0}</ZoneGainsName>
-  
+
   <!-- Pawn naming -->
   <PawnGainsName>A gyarmatos beceneve mostantól {0}</PawnGainsName>
 
@@ -99,7 +96,7 @@
   <ResearchPrerequisites>Kutatási előfeltételek</ResearchPrerequisites>
   <RequiredResearchBench>Szükséges kutatólabor</RequiredResearchBench>
   <RequiredResearchBenchFacilities>Szükséges kutatási felszerelés</RequiredResearchBenchFacilities>
-  
+
   <!-- Advanced game start options -->
   <MapTemperatureDangerWarning>FIGYELEM: Fagyott környezetbe érkezik. Nagyon nehéz, akár lehetetlen is lehet a túlélés. Ha nem akar extrém kihívást állítani maga elé, válasszon más leszállóhelyet vagy évszakot!</MapTemperatureDangerWarning>
   <MapSizePerformanceWarning>FIGYELEM: A teljesítmény leromolhat nagyobb térkép méreteknél, ha számítógéped nem kimondottan erős.\n\nHa gyenge géped van, válaszd a "Kicsi" méretet.\n\nA "Ludeonicrous" méret nincs tesztelve és szinte teljesen biztosan nem lesz jól játszható.</MapSizePerformanceWarning>
@@ -120,13 +117,13 @@
   <SuspendedAllCaps>LEÁLLÍTVA</SuspendedAllCaps>
   <RepeatCount>Ismétlés: {0}</RepeatCount>
   <Forever>Örökké</Forever>
-	<Details>Részletek</Details>
+  <Details>Részletek</Details>
   <IngredientSearchRadius>Hozzávalók keresési sugara</IngredientSearchRadius>
   <CurrentlyHave>Jelenleg birtokolt</CurrentlyHave>
   <CountingProducts>Darabszám</CountingProducts>
   <Infinite>Végtelen</Infinite>
   <AllowedSkillRange>Megengedett készségszint: {0}</AllowedSkillRange>
-  
+
   <RecipeCannotHaveTargetCount>(Ennek a receptnek nem lehet célösszege, mert megjósolhatatlan, hogy mennyi készül belőle.)</RecipeCannotHaveTargetCount>
   <WorkAmount>Szükséges munka</WorkAmount>
   <MinimumSkills>Minimum készség:</MinimumSkills>
@@ -142,7 +139,7 @@
   <BillStoreMode_DropOnFloor>Kerüljön a földre</BillStoreMode_DropOnFloor>
   <BillStoreMode_BestStockpile>Kerüljön a legjobb raktárba</BillStoreMode_BestStockpile>
   <BillStoreMode_NearestStockpileAnyPriority>Kerüljön a legközelebbi raktárba</BillStoreMode_NearestStockpileAnyPriority>
-  
+
   <!-- Info card -->
   <Damage>Sebzés</Damage>
   <Accuracy>Pontosság</Accuracy>
@@ -199,21 +196,21 @@
   <CancelButton>Mégse</CancelButton>
   <CloseButton>Bezár</CloseButton>
   <YourTradeableSilver>A kereskedésre ennyi ezüst áll rendelkezésre: {0}</YourTradeableSilver>
-	<YourTradeableSilverTip>Csak azzal az ezüsttel kereskedhetsz, ami az "Orbitális jeladó" mellet van.</YourTradeableSilverTip>
+  <YourTradeableSilverTip>Csak azzal az ezüsttel kereskedhetsz, ami az "Orbitális jeladó" mellet van.</YourTradeableSilverTip>
   <TraderHasNoMore>Nincs több a kereskedőnél</TraderHasNoMore>
   <ColonyHasNoMore>Nincs több nálad</ColonyHasNoMore>
   <TraderWillNotTrade>Nem érdekli</TraderWillNotTrade>
   <NegotiatorTalkingImpaired>Az alkuszod, {0}, egészsége miatt nem tud rendesen beszélni.\n\nEz befolyásolja az árakat.\n\nHasználj egészségesebb alkuszt.</NegotiatorTalkingImpaired>
   <ConfirmTraderShortFunds>A kereskedőnek nincs elég ezüstje ehhez az egyezséghez. Mindenképp megkötöd?</ConfirmTraderShortFunds>
   <SortBy>Rendezés</SortBy>
-  
+
   <!-- Comms -->
   <SocialSkillIs>Szociális készség: {0}</SocialSkillIs>
-  
+
   <!--Research-->
   <ResearchFinished>Kutatás befejezve: {0}</ResearchFinished>
   <ResearchScreen>Kutatási képernyő</ResearchScreen>
-  
+
   <!--HistoryUpload-->
   <HistoryUploadMessage>Szeretnéd feltölteni a játékod adatait a RimWorld szerverre, hogy ezzel segítsd a fejlesztőket, hogy kiegyensúlyozzák a játékot? Ha beleegyezel, az adatok feltöltésre kerülnek {0} naponta (és néhány más ritka esetben, mint a játék vége). Ezek a beállítások később is megváltoztathatóak a "Beállítások" menüben.</HistoryUploadMessage>
   <HistoryUploadMessagePlayerName>Az adatok anonim módon lesznek elküldve, de adhatod hozzá a nevedet is.</HistoryUploadMessagePlayerName>
@@ -221,7 +218,7 @@
   <HistoryUploadNo>Ne legyen engedélyezve a játék adatainak feltöltése</HistoryUploadNo>
   <HistoryUploadYesOnce>Feltöltés csak most</HistoryUploadYesOnce>
   <HistoryUploadNoOnce>Most ne töltsd fel, kérdezz rá később</HistoryUploadNoOnce>
-	
+
   <!-- Outfit management -->
   <Outfit>Felszerelés</Outfit>
   <SelectOutfit>Felszerelés kiválasztása...</SelectOutfit>
@@ -229,18 +226,18 @@
   <DeleteOutfit>Felszerelés törlése...</DeleteOutfit>
   <OutfitInUse>A felszerelést {0} használja</OutfitInUse>
   <NoOutfitSelected>Nincs felszerelés kiválasztva</NoOutfitSelected>
-  
+
   <!-- Drug policy management -->
-  
+
   <DrugPolicy>Drogszabályok</DrugPolicy>
   <SelectDrugPolicy>Szabály kiválasztása...</SelectDrugPolicy>
   <NewDrugPolicy>Új szabály</NewDrugPolicy>
   <DeleteDrugPolicy>Szabály törlése...</DeleteDrugPolicy>
   <DrugPolicyInUse>A szabályt {0} használja.</DrugPolicyInUse>
-    <SocialDrugs>Könnyű drogok</SocialDrugs>
+  <SocialDrugs>Könnyű drogok</SocialDrugs>
   <NoDrugs>Nincs drog</NoDrugs>
   <OneDrinkPerDay>Napi egy ital</OneDrinkPerDay>
-    <Unrestricted>Szabad fogyasztás</Unrestricted>
+  <Unrestricted>Szabad fogyasztás</Unrestricted>
   <NoDrugPolicySelected>Nincs szabály kiválasztva</NoDrugPolicySelected>
   <AddDrug>Drog hozzáadása...</AddDrug>
   <DrugColumnLabel>Drogok</DrugColumnLabel>
@@ -255,18 +252,16 @@
   <NoDrugUseRequirement>Bármi</NoDrugUseRequirement>
   <DeleteDrugTooltip>Drog törlése</DeleteDrugTooltip>
   <DrugNameColumnDesc>A drog neve</DrugNameColumnDesc>
-     <DrugUsageColumnLabel>Fogyasztás</DrugUsageColumnLabel>
-     <DrugUsageColumnDesc>A fogyasztás szabályozása.</DrugUsageColumnDesc>
+  <DrugUsageColumnLabel>Fogyasztás</DrugUsageColumnLabel>
+  <DrugUsageColumnDesc>A fogyasztás szabályozása.</DrugUsageColumnDesc>
   <FrequencyColumnDesc>Milyen gyakran kéne szedje a gyarmatos a drogot.</FrequencyColumnDesc>
   <MoodThresholdColumnDesc>A gyarmatos csak akkor szedje a drogot, ha a hangulata rosszabb, mint ez a szint.</MoodThresholdColumnDesc>
   <JoyThresholdColumnDesc>A gyarmatos csak akkor szedje a drogot, ha az örömszintje rosszabb, mint ez a szint.</JoyThresholdColumnDesc>
   <TakeToInventoryColumnDesc>Ennyivel többet vegyen fel, hogy ne kelljen állandóan a raktárhoz rohangálni.</TakeToInventoryColumnDesc>
-    <DrugUsageTipDeny>Tiltva\n\nEz a drog nem fogyasztható. Egyes tulajdonságokkal rendelkező illetve speciális mentális állapotban lévő karaktereket ez nem fog megakadályozni.</DrugUsageTipDeny>
-    <DrugUsageTipForJoy>Élvezet javítására\n\nA drog használható arra, hogy növelje az élvezetet és természetesen függőség kielégítésére is.</DrugUsageTipForJoy>
-    <DrugUsageTipScheduled>Ütemezés szerint\n\nAz előre beállított időpontokban fogyasztható, ha a többi feltétel is ki van elégítve.\n\nA drog használható arra is, hogy feldobja a hangulatot és természetesen függőség kielégítésére is.</DrugUsageTipScheduled>
-  
-  
-    
+  <DrugUsageTipDeny>Tiltva\n\nEz a drog nem fogyasztható. Egyes tulajdonságokkal rendelkező illetve speciális mentális állapotban lévő karaktereket ez nem fog megakadályozni.</DrugUsageTipDeny>
+  <DrugUsageTipForJoy>Élvezet javítására\n\nA drog használható arra, hogy növelje az élvezetet és természetesen függőség kielégítésére is.</DrugUsageTipForJoy>
+  <DrugUsageTipScheduled>Ütemezés szerint\n\nAz előre beállított időpontokban fogyasztható, ha a többi feltétel is ki van elégítve.\n\nA drog használható arra is, hogy feldobja a hangulatot és természetesen függőség kielégítésére is.</DrugUsageTipScheduled>
+
   <!-- Growing -->
   <NoGrowerCanPlant>A {0} vetéséhez szükséges "Földművelés" készség szintje: {1}.\n\nEgyik munkaképes emberednek sincs ilyenje, ezért ez a mag nem lesz elvetve.</NoGrowerCanPlant>
 

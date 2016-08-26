@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ClickToJumpToProblem>Kattints ide a problémára ugráshoz</ClickToJumpToProblem>
-  
+  <ClickToJumpToProblem>Kattints ide a problémára ugráshoz</ClickToJumpToProblem>
+
   <!-- <NeedSawmill>Nincs fűrészmalom</NeedSawmill>
   <NeedSawmillDesc>Fűrészmalomra van szükség, hogy a fából deszkákat készíts.\n\nÉpíts kézi vagy elektromos fűrészmalmot.</NeedSawmillDesc> -->
 
@@ -13,7 +13,7 @@
   <BreakRiskExtreme>Rendkívüli összeomlás veszély</BreakRiskExtreme>
   <BreakRiskExtremeDesc>A következő gyarmatosok rendkívül rossz hangulatban vannak és könnyen szenvedhetnek komoly - akár erőszakos - idegösszeomlást:\n\n{0}</BreakRiskExtremeDesc>
   <BreakRiskDescEnding>Ellenőrizd, mi bántja őket a "Szükség" fül alatt.\n\nHogy jobban érezzék magukat, főzhetsz nekik finom ételeket, biztosíthatsz nekik több pihenőidőt és szebb szórakoztató eszközöket. Gondoskodj róla, hogy szép környezetben legyenek, legyen mit inniuk és elszívniuk.</BreakRiskDescEnding>
-  
+
   <ColonistNeedsRescue>Gyarmatos mentésre vár</ColonistNeedsRescue>
   <ColonistsNeedRescue>Gyarmatosok mentésre várnak</ColonistsNeedRescue>
   <ColonistsNeedRescueDesc>A következő gyarmatosok cselekvőképtelenek:\n\n{0}\nKüldj értük valakit, aki kimenti és betegágyba teszi őket.\n\n(A mentéshez válassz ki egy másik gyarmatost és jobbkatt a sérültön majd "Mentés".</ColonistsNeedRescueDesc>
@@ -39,7 +39,7 @@
   <LowMedicine>Kevés a gyógyszer</LowMedicine>
   <LowMedicineDesc>>Már csak {0} gyógyszer maradt a raktárban.\n\nVegyél még kereskedőktől belőle.</LowMedicineDesc>
   <NoMedicineDesc>Már nincs gyógyszer a raktárban.\n\nVegyél még kereskedőktől belőle.</NoMedicineDesc>
-  
+
   <NeedColonistBeds>Kevés az ágy</NeedColonistBeds>
   <NeedColonistBedsDesc>Több gyarmatosod van, mint ágyad. Valakinek nem lesz hol aludnia.\n\nGyárts több ágyat vagy állíts át börtönágyat normál ággyá.\n\nHa nincs nyersanyagod, az alvóhely ingyen van és azonnal lerakható.</NeedColonistBedsDesc>
 
@@ -83,7 +83,7 @@
 
   <NeedResearchProject>Nincs kutatásterv</NeedResearchProject>
   <NeedResearchProjectDesc>Van kutatási felszerelésed, de nincs kutatásterved.\n\nNyisd meg a "Kutatás" menüt és válassz egyet.</NeedResearchProjectDesc>
-  
+
  <!--  <NeedDump>Nincs raktárterület</NeedDump>
   <NeedDumpDesc>{0} meg lett jelölve, mint szállítandó, nincs hová vinni.\n\nJelölj ki egy raktárterületet, és állítsd be, hogy {0} engedélyezve legyen!.</NeedDumpDesc>
  -->
@@ -99,13 +99,13 @@
   <HaltedConstructions>{0} constructions are missing materials</HaltedConstructions>
   <HaltedConstructionsDesc>These kinds of constructions are missing materials:\n\n{0}\nYou should probably make required materials available for your colonists.</HaltedConstructionsDesc>
   -->
-  
+
   <ColonistNeedsTreatment>Ellátás szükséges</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>Orvosi ellátásra van szüksége a következő gyarmatosnak. Ha nem kezelik őket, a sebesülések talán sosem gyógyulnak be.\n\n{0}\nKüldd őket betegágyba!\n\n(Először jelölj ki egy ágyat betegágynak, majd a sérültet kiválasztva jobbkatt az ágyon és páciens hozzárendelése.)</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>Kihűlés</AlertHypothermia>
   <AlertHypothermiaDesc>A következő gyarmatosokat fenyegeti kihűlés:\n\n{0}\nBizonyosodj meg róla, hogy a ruházatuk az évszaknak megfelelő és a szobáik fűtöttek.</AlertHypothermiaDesc>
-  
+
   <PatientsAwaitingMedicalOperation>{0} páciens vár orvosi segítségre</PatientsAwaitingMedicalOperation>
   <PatientsAwaitingMedicalOperationDesc>A következő páciensek várnak műtétre:\n\n{0}\nBizonyosodj meg róla, hogy a megfelelő eszközök és orvos rendelkezésre állnak!</PatientsAwaitingMedicalOperationDesc>
 
@@ -121,18 +121,18 @@
 
   <HunterHasShieldAndRangedWeapon>Vadász pajzzsal és lőfegyverrel</HunterHasShieldAndRangedWeapon>
   <HunterHasShieldAndRangedWeaponDesc>Az egyik vadászodnak ugyan távolsági fegyvere, de személyi pajzsa is van, ami megakadályozza a távolsági célra tüzelést.\n\nNem fog tudni vadászni, amíg el nem távolítod a pajzsot.</HunterHasShieldAndRangedWeaponDesc>
-  
+
   <NeedJoySource>nincs örömforrás</NeedJoySource>
   <NeedJoySourceDesc>A gyarmatosoknak szüksége van kikapcsolódásra, de nincs rá semmi lehetőségük.\n\nÉpíts nekik patkó játékot, sakktáblát vagy más szórakoztató eszközt.</NeedJoySourceDesc>
-  
+
   <NeedWarmClothes>Nincs meleg ruha</NeedWarmClothes>
   <!-- <NeedWarmClothesDesc>Legalább {0} gyarmatosnak nincsen a hidegre megfelelő ruházata.</NeedWarmClothesDesc>
   <NeedWarmClothesForAllDesc>Egy gyarmatosnak sincsen a hidegre megfelelő ruházata.</NeedWarmClothesForAllDesc> -->
   <NeedWarmClothesDesc1>Legalább {0} gyarmatosnak nincsen a hidegre megfelelő ruházata.</NeedWarmClothesDesc1>
   <NeedWarmClothesDesc1All>Egy gyarmatosnak sincsen a hidegre megfelelő ruházata.</NeedWarmClothesDesc1All>
   <NeedWarmClothesDesc2>A külső hőmérséklet eléri a {0} fokot.\n\nVarrhatsz meleg ruhát a munkaállomáson vagy vehetsz kereskedőtől is.</NeedWarmClothesDesc2>
-  
+
   <AlertTatteredApparel>Rongyos ruházat</AlertTatteredApparel>
   <AlertTatteredApparelDesc>A következő gyarmatos(ok) rongyos ruhákat viselnek, és ettől rossz a kedvük:\n\n{0}\nAdj rá(juk) ruhát, ami nincs ennyire rossz állapotban!\n\nMagad is megvarrhatod őket, vagy megveheted egy kereskedőtől.</AlertTatteredApparelDesc>
-  
+
 </LanguageData>

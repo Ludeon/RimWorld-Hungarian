@@ -5,12 +5,12 @@
   <Dark>Sötét</Dark>
   <Lit>Megvilágított</Lit>
   <LitBrightly>Erősen megvilágított</LitBrightly>
-  
+
   <!-- history upload pref -->
   <Unspecified>Nincs meghatározva</Unspecified>
   <Always>Engedélyezve</Always>
   <Never>Tiltva</Never>
-  
+
   <!-- Price types -->
   <PriceTypeVeryCheap>nagyon olcsó</PriceTypeVeryCheap>
   <PriceTypeCheap>olcsó</PriceTypeCheap>
@@ -58,7 +58,7 @@
   <QualityCategoryShort_Excellent>remk</QualityCategoryShort_Excellent>
   <QualityCategoryShort_Masterwork>mest</QualityCategoryShort_Masterwork>
   <QualityCategoryShort_Legendary>lege</QualityCategoryShort_Legendary>
-  
+
   <!-- Hunger -->
   <HungerLevel_Starving>Éhezik</HungerLevel_Starving>
   <HungerLevel_UrgentlyHungry>Nagyon éhes</HungerLevel_UrgentlyHungry>
@@ -76,7 +76,7 @@
   <Hilliness_SmallHills>kis dombok</Hilliness_SmallHills>
   <Hilliness_LargeHills>nagy dombok</Hilliness_LargeHills>
   <Hilliness_Mountainous>hegyek</Hilliness_Mountainous>
-  
+
   <!-- Steam workshop interaction -->
   <WorkshopInteractStage_CreatingItem>Készít</WorkshopInteractStage_CreatingItem>
   <WorkshopInteractStage_SubmittingItem>Benyújt</WorkshopInteractStage_SubmittingItem>
@@ -90,7 +90,7 @@
   <!-- Mod sources -->
   <ContentSource_LocalFolder>helyi mappa</ContentSource_LocalFolder>
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
-  
+
   <!-- Trainable intelligence -->
   <TrainableIntelligence_None>semmi</TrainableIntelligence_None>
   <TrainableIntelligence_Simple>egyszerű</TrainableIntelligence_Simple>
@@ -108,7 +108,7 @@
   <HostilityResponseMode_Ignore>Figyelmen kívül hagy</HostilityResponseMode_Ignore>
   <HostilityResponseMode_Attack>Támad</HostilityResponseMode_Attack>
   <HostilityResponseMode_Flee>Menekül</HostilityResponseMode_Flee>
-  
+
   <!-- HediffGrowthMode -->
   <HediffGrowthMode_Growing>növekszik</HediffGrowthMode_Growing>
   <HediffGrowthMode_Stable>stagnál</HediffGrowthMode_Stable>
@@ -131,19 +131,19 @@
   <PawnGenerationContext_All>minden karakter</PawnGenerationContext_All>
   <PawnGenerationContext_PlayerStarter>a játékos karakterei</PawnGenerationContext_PlayerStarter>
   <PawnGenerationContext_NonPlayer>nem játékos karakterek</PawnGenerationContext_NonPlayer>
-  
+
   <!-- Animal name display mode -->
   <ShowAnimalNames>Állatok neve</ShowAnimalNames>
-  <AnimalNameDisplayMode_TameNamed>Szelídített (csak elnevezett)</AnimalNameDisplayMode_TameNamed>
-  <AnimalNameDisplayMode_TameAll>Szelídített(mindegyik)</AnimalNameDisplayMode_TameAll>
-  
+  <AnimalNameDisplayMode_TameNamed>Szelídített (van neve)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Szelídített(mind)</AnimalNameDisplayMode_TameAll>
+
   <!-- Temperature -->
   <Celsius>Celsius</Celsius>
   <Fahrenheit>Fahrenheit</Fahrenheit>
   <Kelvin>Kelvin</Kelvin>
-  
-   <!-- Spoil reason -->
+
+  <!-- Spoil reason -->
   <SpoilReason_Freezing>Fagyás miatt megromlott.</SpoilReason_Freezing>
   <SpoilReason_HighTemperature>Meleg miatt megromlott.</SpoilReason_HighTemperature>
-  
+
 </LanguageData>

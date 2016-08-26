@@ -2,11 +2,11 @@
 <LanguageData>
 
   <Autosaving>Automentés</Autosaving>
-  
+
   <GameStartDialog>Recsegő fém és szirénák hangja ébreszt fel a hibernációból két társaddal együtt. Alig éritek el a mentőkabinokat mielőtt a hajó szétszakad.\n\nNem sokkal később ezen az ismeretlen peremvilágon landoltok.\n\nMiközben a szétszaggatott hajó darabjai hullanak rátok, elkezdtek terveket szőni a túlélésről.</GameStartDialog>
 
   <Colony>Kolónia</Colony>
-  
+
   <ChangeLanguageFromMainMenu>Csak a főmenüben tudsz nyelvet változtatni.</ChangeLanguageFromMainMenu>
 
   <AndLower>és</AndLower>
@@ -32,17 +32,17 @@
   <durationDays>időtartam (nap)</durationDays>
   <intervalDays>intervallum (napok)</intervalDays>
   <repeat>ismétlés</repeat>
-  
-    <!-- Content generation-->
-  
-	<MeatLabel>{0} hús</MeatLabel>
+
+  <!-- Content generation-->
+
+  <MeatLabel>{0} hús</MeatLabel>
   <MeatDesc>Egy {0} nyers húsa.</MeatDesc>
 
   <LeatherLabel>{0} bőr</LeatherLabel>
   <LeatherDesc>{0} lenyúzott bőre.</LeatherDesc>
 
   <CorpseLabel>{0} teteme</CorpseLabel>
-	<CorpseDesc>{0} teteme.</CorpseDesc>
+  <CorpseDesc>{0} teteme.</CorpseDesc>
   <DeadLabel>{0} (halott)</DeadLabel>
 
   <RoughStoneTerrainLabel>göröngyös {0}</RoughStoneTerrainLabel>
@@ -55,19 +55,16 @@
   <BlueprintLabelExtra>(tervrajz)</BlueprintLabelExtra>
   <FrameLabelExtra>(építés alatt)</FrameLabelExtra>
 
-
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
   <SomeonesRoom>{1} tulajdonosa: {0}</SomeonesRoom>
   <CouplesRoom>{2} tulajdonosai: {0} és {1}</CouplesRoom>
-  
+
   <VariousLabel>(többféle)</VariousLabel>
 
   <!-- History events -->
   <ColonistDied>Gyarmatos meghalt</ColonistDied>
-  
-  
-  
+
 </LanguageData>

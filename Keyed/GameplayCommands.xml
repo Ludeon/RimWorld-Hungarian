@@ -1,24 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CommandForbiddenDesc>Tiltott - a gyarmatosok békén hagyják.</CommandForbiddenDesc>
-	<CommandNotForbiddenDesc>Nem tiltott - a gyarmatosok foglalkozhatnak ezzel.</CommandNotForbiddenDesc>
+  <CommandForbiddenDesc>Tiltott - a gyarmatosok békén hagyják.</CommandForbiddenDesc>
+  <CommandNotForbiddenDesc>Nem tiltott - a gyarmatosok foglalkozhatnak ezzel.</CommandNotForbiddenDesc>
 
   <!-- Power -->
   <CommandTogglePowerLabel>Áram ki/bekapcs</CommandTogglePowerLabel>
   <CommandTogglePowerDesc>Áram ki/bekapcs.</CommandTogglePowerDesc>
-  
+
   <CommandDesignateTogglePowerLabel>Áram ki/bekapcs</CommandDesignateTogglePowerLabel>
   <CommandDesignateTogglePowerDesc>Kijelölés áram ki/bekapcsra. Egy gyarmatos hamarosan átállítja a kapcsolót.</CommandDesignateTogglePowerDesc>
-  
+
   <CommandTryReconnectLabel>Újracsatlakozás</CommandTryReconnectLabel>
   <CommandTryReconnectDesc>Megpróbálja hatósugáron belül egy másik, élő vezetékhez csatlakoztatni az eszközt. Ez jól jöhet, ha az már csatlakoztatva van egy olyan vezetékhez, ami nincs áram alatt.</CommandTryReconnectDesc>
 
   <CommandGatherSpotToggleLabel>Gyülekezési hely</CommandGatherSpotToggleLabel>
   <CommandGatherSpotToggleDescActive>Aktív - a gyarmatosok köré gyűlnek.</CommandGatherSpotToggleDescActive>
   <CommandGatherSpotToggleDescInactive>Inaktív - a gyarmatosok nem gyűlnek köré.</CommandGatherSpotToggleDescInactive>
-  
-  
+
   <!-- Drafting -->
   <CommandDraftLabel>Besoroz</CommandDraftLabel>
   <CommandUndraftLabel>Leszerel</CommandUndraftLabel>
@@ -27,7 +26,7 @@
 
   <CommandClearPrioritizedWork>Előnyben részesített munka törlése</CommandClearPrioritizedWork>
   <CommandClearPrioritizedWorkDesc>Minden előnyben részesített munka törlése. A gyarmatos visszatér a szokásos maga-irányította munkarendhez.</CommandClearPrioritizedWorkDesc>
-  
+
   <CommandCancelConstructionLabel>Visszavon</CommandCancelConstructionLabel>
   <CommandCancelConstructionDesc>Építkezés visszavonása.</CommandCancelConstructionDesc>
 
@@ -79,7 +78,7 @@
   <CommandStopAttackFailNotForceAttacking>Jelenleg nincs zárótűz mód aktiválva.</CommandStopAttackFailNotForceAttacking>
   <MessageTargetBeyondMaximumRange>Célpont túl messze van.</MessageTargetBeyondMaximumRange>
   <MessageTargetBelowMinimumRange>Célpont túl közel van.</MessageTargetBelowMinimumRange>
-  
+
   <!-- Ship computer core -->
   <CommandShipLaunch>Úrhajó kilövése</CommandShipLaunch>
   <CommandShipLaunchDesc>A kilövési procedúra megkezdése a jelenlegi konfigurációval.</CommandShipLaunchDesc>
@@ -108,7 +107,7 @@
   <CommandInstallDesc>Ez a tárgy jelenleg be van csomagolva szállításhoz vagy raktározáshoz. Ezzel a paranccsal telepítheted végső helyére.</CommandInstallDesc>
   <CommandReinstall>Áttelepít</CommandReinstall>
   <CommandReinstallDesc>Kijelöli a tárgyat leszerelésre majd áttelepítésre.</CommandReinstallDesc>
-  
+
   <!-- Trade beacon -->
   <CommandMakeBeaconStockpileDesc>Létrehoz egy raktárterületet, ami pontosan fedi a jeladó indítási körzetét.</CommandMakeBeaconStockpileDesc>
   <CommandMakeBeaconStockpileLabel>Raktárterület létrehozása</CommandMakeBeaconStockpileLabel>
@@ -120,26 +119,26 @@
   <!-- Trap -->
   <CommandAutoRearm>Automatikus élesítés</CommandAutoRearm>
   <CommandAutoRearmDesc>Bekapcsolt állapotban a csapda magától élesedik miután valaki beleesett.</CommandAutoRearmDesc>
-  
+
   <!-- Animal control -->
   <CommandReleaseAnimalsLabel>Állatok kiengedése</CommandReleaseAnimalsLabel>
   <CommandReleaseAnimalsDesc>Bekapcsolt állapotban a befogott állatok távolabbi célpontokat is támadhatnak. Ha kikapcsolod, a gazdájukat védik.</CommandReleaseAnimalsDesc>
-  
+
   <!-- Squad attack -->
   <CommandSquadAttack>Támad</CommandSquadAttack>
   <CommandSquadAttackDesc>Utasítja a kijelölt gyarmatosokat, hogy támadják meg a kiválasztott célpontot.</CommandSquadAttackDesc>
-  
+
   <!-- Hold fire -->
   <CommandHoldFire>Tüzet szűntess</CommandHoldFire>
   <CommandHoldFireDesc>Minden folyamatban lévő támadás beszűntetése.</CommandHoldFireDesc>
-  
+
   <!-- Select plant to grow -->
   <CommandSelectPlantToGrowMulti>Termeszteni kívánt növény</CommandSelectPlantToGrowMulti>
   <CommandSelectPlantToGrow>Növény: {0}</CommandSelectPlantToGrow>
   <CommandSelectPlantToGrowDesc>Kijelöli milyen magvakat vessenek ide.</CommandSelectPlantToGrowDesc>
-  
-   <!-- Build copy -->
+
+  <!-- Build copy -->
   <CommandBuildCopy>Másolat építése</CommandBuildCopy>
   <CommandBuildCopyDesc>Készítsen egy ugyanilyen építményt.</CommandBuildCopyDesc>
-  
+
 </LanguageData>

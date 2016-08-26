@@ -2,7 +2,7 @@
 <LanguageData>
 
   <JumpToLocation>Helyszínhez ugrás</JumpToLocation>
-  
+
   <LetterLabelFirstSummerWarning>Nyár</LetterLabelFirstSummerWarning>
   <FirstSummerWarning>Elkezdődött a nyár! De a tél közeleg.\n\nA növények nem nőnek a téli hidegben. Raktározz el elegendő ételt, amíg teheted!.\n\nÉpíts hűtőházat, ami megakadályozza, hogy az étel megromoljon!\n\nÉs vegyél, lopj, vagy gyárts télikabátokat, különben megfagysz odakinn.</FirstSummerWarning>
 
@@ -24,7 +24,7 @@
   <TheseThingsCrushed>Ezek a dolgok lettek összezúzva:</TheseThingsCrushed>
   <NothingCrushed>Semmi sem lett összezúzva.</NothingCrushed>
   <LetterLabelRoofCollapsed>Beomlás</LetterLabelRoofCollapsed>
-  
+
   <RecruitSuccess>{0} sikeresen toborozta őt: {1} ({2} esély).</RecruitSuccess>
   <RecruitFail>{0} sikertelenül próbálta toborozni őt: {1} ({2} esély).</RecruitFail>
 
@@ -51,27 +51,27 @@
 
   <LetterHealthComplications>{0} betegséget szedett össze: {1}\n\nEz a következő komplikációja: {2}.</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
-  
+
   <LetterHediffFromRandomHediffGiver>{0} betegséget szedett össze: {1}.</LetterHediffFromRandomHediffGiver>
   <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
-  
+
   <LetterLeadersDeathLabel>Vezér halála</LetterLeadersDeathLabel>
   <LetterLeadersDeath>A {0} frakció vezére, {1}, meghalt és {2} lépett a helyébe.</LetterLeadersDeath>
-  
+
   <MentalBreakLetterLabel>Idegösszeomlás</MentalBreakLetterLabel>
   <MentalBreakReason>Oka: {0}.</MentalBreakReason>
-  
+
   <!-- Related pawns -->
   <LetterLabelNoticedRelatedPawns>Rokonság</LetterLabelNoticedRelatedPawns>
   <LetterRelatedPawnsRaidEnemy>Az érkező csoportban ({0}) olyan személy van, aki rokona valamelyik gyarmatosodnak.\n\nNe feledd, hogy ettől függetlenül megtámadhatják egymást a frakciók rossz viszonya miatt.\n\nA személyek:</LetterRelatedPawnsRaidEnemy>
   <LetterRelatedPawnsRaidFriendly>Az érkező baráti csoportban ({0}) olyan személy van, aki rokona valamelyik gyarmatosodnak:</LetterRelatedPawnsRaidFriendly>
   <LetterRelatedPawnsNeutralGroup>Az érkező csoportban olyan személy van, aki rokona valamelyik gyarmatosodnak:</LetterRelatedPawnsNeutralGroup>
   <LetterRelatedPawnsTradeShip>Az űrkereskedő olyan személyt árul, aki rokona valamelyik gyarmatosodnak:</LetterRelatedPawnsTradeShip>
-  
+
   <RelationshipAppendedLetterSuffix>(kapcsolat)</RelationshipAppendedLetterSuffix>
   <RelationshipAppendedLetterTextColonist>NAME kapcsolatban ({1}) áll az egyik gyarmatossal ({0}).</RelationshipAppendedLetterTextColonist>
   <RelationshipAppendedLetterTextPrisoner>NAME kapcsolatban ({1}) áll az egyik fogollyal ({0}).</RelationshipAppendedLetterTextPrisoner>
-  
+
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Viszony</LetterLabelAffair>
   <LetterAffair>{0} és {1} bár házasok, {0} és {2} viszonyt kezdett.</LetterAffair>
@@ -83,13 +83,13 @@
   <LetterLabelRejectedProposal>Kikosarazva!</LetterLabelRejectedProposal>
   <LetterAcceptedProposal>{1} elfogadta {0} házassági ajánlatát.\n\nValamikor a közeli jövőben megtartják a ceremóniát, ahová minden gyarmatost meghívnak. Helyezz el házasságkötő pontot, ha befolyásolni akarod az ünnepség helyét.</LetterAcceptedProposal>
   <LetterRejectedProposal>{1} visszautasította {0} házassági ajánlatát. {0} le lesz lombozva ettől.</LetterRejectedProposal>
-  
+
   <!-- Generalized letter labels -->
   <LetterLabelRelationsChangeGood>Jókívánság</LetterLabelRelationsChangeGood>
   <LetterLabelRelationsChangeBad>Rossz akarat</LetterLabelRelationsChangeBad>
   <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
   <LetterLabelMentalBreakdown>Idegösszeomlás</LetterLabelMentalBreakdown>
-  
+
   <!-- Bonded animals -->
   <LetterLabelBondedAnimalDied>Kötődő állat halála</LetterLabelBondedAnimalDied>
   <LetterBondedAnimalDied>{0}, {1} állata kimúlt. Ez befolyásolja {1} hangulatát.</LetterBondedAnimalDied>
@@ -100,18 +100,18 @@
   <!-- Prison break -->
   <LetterLabelPrisonBreak>Szökés</LetterLabelPrisonBreak>
   <LetterPrisonBreak>Foglyok szökésben! Valahogy feltörték a zárat és megpróbálnak kijutni. Lehet, hogy fegyvert keresnek és harcolnak vagy megpróbálnak elmenekülni. A következő foglyokról van szó:\n\n{0}\n\nA foglyok nagyobb eséllyel próbálnak meg kitörni, ha boldogtalanok, többen vannak és egészségesek.</LetterPrisonBreak>
-  
+
   <!-- Party -->
   <LetterLabelNewParty>Buli!</LetterLabelNewParty>
   <LetterNewParty>{0} bulit rendez! Aki elmegy élvezni fogja, hosszan tartó hangulatjavulást eredményezve.</LetterNewParty>
-  
+
   <!-- Newly addicted -->
-  
+
   <LetterLabelNewlyAddicted>{0} függő lett</LetterLabelNewlyAddicted>
   <LetterNewlyAddicted>{0} {1} függő lett.\n\nMostantól szüksége van erre: {1}. Ez mostantól a "Szükség" fülön is látható lesz. Automatikusan magához fogja venni a szert. Ha nem jut hozzá, elvonása lesz.</LetterNewlyAddicted>
-  
+
   <!-- Drug binge -->
-  
+
   <LetterLabelDrugBinge>{0} tivornyázik</LetterLabelDrugBinge>
   <LetterDrugBinge>{0} ezt habzsolja: {1}.</LetterDrugBinge>
 

@@ -19,7 +19,6 @@
   <TabArt>Művészet</TabArt>
   <TabSocial>Szociális</TabSocial>
 
-  
   <!-- Bills tab  -->
   <AddBill>Megrendelés</AddBill>
   <RecipeRequiresSkills>A {0} recepthez az alábbi készség szükséges. Nincs gyarmatosod ilyen készséggel, senki sem fogja legyártani.</RecipeRequiresSkills>
@@ -27,7 +26,6 @@
   <SuspendedCaps>LEÁLLÍTVA</SuspendedCaps>
   <BoundWorkerIs>Munkás: {0}</BoundWorkerIs>
   <PlantVerb>ültetni</PlantVerb>
-
 
   <!-- Guest/prisoner tab -->
   <RecruitmentDifficulty>Toborzás nehézsége</RecruitmentDifficulty>
@@ -40,7 +38,6 @@
   <PrisonerAttemptRecruit>Társalgás és toborzás</PrisonerAttemptRecruit>
   <PrisonerRelease>Elengedni</PrisonerRelease>
   <PrisonerExecution>Kivégezni</PrisonerExecution>
-
 
   <!-- Medical - general -->
   <MoveSpeed>Mozgási sebesség</MoveSpeed>
@@ -92,14 +89,13 @@
   <SeverePain>Súlyos</SeverePain>
   <ExtremePain>Extrém</ExtremePain>
 
-
   <!-- Training tab-->
   <TrainableIntelligence>Idomítható intelligencia</TrainableIntelligence>
   <CannotTrainNotSmartEnough>Intelligenciaszint {0} szükséges</CannotTrainNotSmartEnough>
   <CannotTrainTooSmall>{0} túl kicsi ennek betanulásához</CannotTrainTooSmall>
 
   <TrainingNeedsPrerequisite>Előfeltétel szükséges: {0}</TrainingNeedsPrerequisite>
-  
+
   <!-- Social tab -->
   <NoRelationships>(nincs kapcsolata)</NoRelationships>
   <Kidnapped>Elrabolva</Kidnapped>
@@ -109,7 +105,7 @@
   <SomeonesOpinionOfMe>{0} véleménye rólam</SomeonesOpinionOfMe>
   <IAmDead>Halott vagyok</IAmDead>
   <IAmPsychopath>Pszichopata vagyok</IAmPsychopath>
-  
+
   <AverageArmor>Átlagos páncélzat</AverageArmor>
   <ComfyTemperatureRange>Optimális hőmérséklet</ComfyTemperatureRange>
   <ArmorBlunt>Ütés</ArmorBlunt>

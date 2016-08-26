@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CallOnRadio>Tárcsáz: {0}</CallOnRadio>
+  <CallOnRadio>Tárcsáz: {0}</CallOnRadio>
   <CannotUseReason>({0}) miatt nem használható</CannotUseReason>
-	<CannotUseSolarFlare>Nem működik (napkitörés)</CannotUseSolarFlare>
-	<CannotUseNoPower>Nem működik (nincs áram)</CannotUseNoPower>
-	<CannotUseNoPath>Nem lehetséges (nem megközelíthető)</CannotUseNoPath>
+  <CannotUseSolarFlare>Nem működik (napkitörés)</CannotUseSolarFlare>
+  <CannotUseNoPower>Nem működik (nincs áram)</CannotUseNoPower>
+  <CannotUseNoPath>Nem lehetséges (nem megközelíthető)</CannotUseNoPath>
   <CannotUseReserved>Nem használható (fenntartott)</CannotUseReserved>
   <CannotUseFull>Nem használható (tele van)</CannotUseFull>
-  
+
   <FireAt>Tüzelni erre: {0} </FireAt>
 
   <OutOfRange>túl messze van</OutOfRange>
@@ -18,36 +18,35 @@
   <CannotOrderNonControlledLower>nem adható parancs nem irányítható egységnek</CannotOrderNonControlledLower>
 
   <OrderManThing>{0} működtetése</OrderManThing>
-  
+
   <MeleeAttack>Támadd közelharcban ezt: {0}</MeleeAttack>
   <MeleeAttackToDeath>Támadd közelharcban {0} míg meg nem hal</MeleeAttackToDeath>
   <NoPath>nem megközelíthető</NoPath>
 
-	<ForbiddenLower>tilos</ForbiddenLower>
-	<ForbiddenOutsideAllowedAreaLower>megengedett körzeten kívül</ForbiddenOutsideAllowedAreaLower>
-	<SociallyImproperLower>társadalmilag helytelen</SociallyImproperLower>
+  <ForbiddenLower>tilos</ForbiddenLower>
+  <ForbiddenOutsideAllowedAreaLower>megengedett körzeten kívül</ForbiddenOutsideAllowedAreaLower>
+  <SociallyImproperLower>társadalmilag helytelen</SociallyImproperLower>
   <PrisonerRoomLower>börtönszoba</PrisonerRoomLower>
-	<BurningLower>ég</BurningLower>
-	<NoEmptyPlaceLower>nincs engedélyezett üres hely</NoEmptyPlaceLower>
-	<AlreadyFilledLower>már eléggé tele van</AlreadyFilledLower>
-	<MissingMaterials>nincs elég alapanyag</MissingMaterials>
+  <BurningLower>ég</BurningLower>
+  <NoEmptyPlaceLower>nincs engedélyezett üres hely</NoEmptyPlaceLower>
+  <AlreadyFilledLower>már eléggé tele van</AlreadyFilledLower>
+  <MissingMaterials>nincs elég alapanyag</MissingMaterials>
   <MissingSkill>túl alacsony készség</MissingSkill>
-	<NoEmptyGraveLower>nincs üres sírhely</NoEmptyGraveLower>
+  <NoEmptyGraveLower>nincs üres sírhely</NoEmptyGraveLower>
   <AnimalInteractedTooRecently>az állattal nemrég foglalkoztak</AnimalInteractedTooRecently>
   <NoUsableFood>nincs felhasználható étel</NoUsableFood>
   <NoFood>nincs étel</NoFood>
   <AnimalsSkillTooLow>gondozás készség túl alacsony</AnimalsSkillTooLow>
-	<NoComponentsToRepair>nincs elég alkatrész</NoComponentsToRepair>
-	<NoFuelToRefuel>{0} szükséges</NoFuelToRefuel>
-    <NoWort>nincs söralap</NoWort>
-
+  <NoComponentsToRepair>nincs elég alkatrész</NoComponentsToRepair>
+  <NoFuelToRefuel>{0} szükséges</NoFuelToRefuel>
+  <NoWort>nincs söralap</NoWort>
 
   <ConsumeThing>Elfogyaszt: {0}</ConsumeThing>
-<!--   <Teetotaler>antialkoholista</Teetotaler> -->
-  
+  <!-- <Teetotaler>antialkoholista</Teetotaler> -->
+
   <CannotGoNoPath>Nem lehet ide eljutni (nem megközelíthető)</CannotGoNoPath>
   <GoHere>Menj ide</GoHere>
-  
+
   <Arrest>Tartóztasd le őt: {0}</Arrest>
   <TryToArrest>Próbáld meg letartóztatni őt: {0}</TryToArrest>
   <CannotArrest>Nem tudja letartóztatni</CannotArrest>
@@ -73,15 +72,15 @@
   <IncapableOfCapacity>alkalmatlan erre: {0}</IncapableOfCapacity>
 
   <MinSkill>min. készség</MinSkill>
-  
+
   <Equip>Használd ezt: {0}</Equip>
   <EquipWarningBrawler>(nem lesz boldog)</EquipWarningBrawler>
   <CannotEquip>Nem tudja használni ezt:{0}</CannotEquip>
-  
+
   <ForceWear>Kényszerített viselet: {0}</ForceWear>
   <CannotWear>Nem tudja viselni ezt: {0}</CannotWear>
   <CannotWearBecauseOfMissingBodyParts>hiányzó testrész</CannotWearBecauseOfMissingBodyParts>
-  
+
   <Strip>Vetkőztesd le őt: {0}</Strip>
   <CannotStrip>Nem tudja levetkőztetni őt: {0}</CannotStrip>
 
@@ -89,13 +88,13 @@
   <CannotDeposit>{0} nem tehető ide: {1}</CannotDeposit>
 
   <SelfDestructHere>Önmegsemmisítés itt</SelfDestructHere>
-  
+
   <Drop>Dobd el ezt: {0}</Drop>
 
   <UseMedicalBed>Pihenj teljes felgyógyulásig</UseMedicalBed>
   <NotInjured>Nem sérült meg.</NotInjured>
   <SomeoneElseSleeping>Foglalt</SomeoneElseSleeping>
-  
+
   <TradeWith>Kereskedj vele: {0}</TradeWith>
   <CannotTrade>Nem lehet kereskedni</CannotTrade>
 
@@ -114,14 +113,13 @@
  <!-- <CannotPrioritizeIsNotA>Nem tudja előre venni ({0} nem {1})</CannotPrioritizeIsNotA>-->
   <CannotPrioritizeWorkTypeDisabled>Nem tudja előre venni, nem képes rá: {0}</CannotPrioritizeWorkTypeDisabled>
   <CannotPrioritizeNotAssignedToWorkType>Nem tudja előre venni, nincs beosztva rá: {0}</CannotPrioritizeNotAssignedToWorkType>
- 
 
   <CannotPrioritizeResearch>Nem tudja előre venni (a kutatás egy hosszú távú feladat)</CannotPrioritizeResearch>
 
   <CannotPrioritizeForbidden>Nem tudja előre venni ({0} tiltott)</CannotPrioritizeForbidden>
   <CannotPrioritizeForbiddenOutsideAllowedArea>Nem lehet előre venni ({0} tiltott területen van)</CannotPrioritizeForbiddenOutsideAllowedArea>
-  
+
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Vedd előre: {1} {0}</PrioritizeGeneric>
-  
+
 </LanguageData>
