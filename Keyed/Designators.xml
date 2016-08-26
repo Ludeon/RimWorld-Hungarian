@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  
+
   <DesignatorCancel>Visszavonás</DesignatorCancel>
   <DesignatorCancelDesc>Visszavon minden parancsot.</DesignatorCancelDesc>
 
@@ -72,7 +72,7 @@
 
   <DesignatorZoneDelete>Zóna törlése</DesignatorZoneDelete>
   <DesignatorZoneDeleteDesc>Raktár-, illetve farmterület törlése.</DesignatorZoneDeleteDesc>
-  
+
   <DesignatorClaim>Foglal</DesignatorClaim>
   <DesignatorClaimDesc>Meglévő építmények elfoglalása a kolónia számára. Ezek lehetnek ősi romok vagy elhagyott bázisok. Az elfoglalt építményeket a gyarmatosok karbantartják.</DesignatorClaimDesc>
 
@@ -87,13 +87,12 @@
 
   <DesignatorOpen>Kinyit</DesignatorOpen>
   <DesignatorOpenDesc>Nem üres sírok és tárolók felnyitása.</DesignatorOpenDesc>
-  
+
   <DesignatorSlaughter>Leöl</DesignatorSlaughter>
   <DesignatorSlaughterDesc>Szelídített állat leölése.</DesignatorSlaughterDesc>
 
   <DesignatorTame>Szelídít</DesignatorTame>
   <DesignatorTameDesc>Vadállat megszelídítése.</DesignatorTameDesc>
-
 
   <!-- Failure messages -->
   <UnchosenStuff>Nem kiválasztott alapanyag.</UnchosenStuff>
@@ -111,15 +110,12 @@
   <TerrainCannotSupport>Itt a talaj nem megfelelő erre.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Foglalt hely.</SpaceAlreadyOccupied>
   <TerrainMustBeRemovable>Csak eltávolítható padlóval lehetséges.</TerrainMustBeRemovable>
-  
-  
+
   <!-- Mouse attachments -->
   <ExpandOrCreateZone>Kiterjeszt {0} vagy\nÚj {1}</ExpandOrCreateZone>
   <CreateNewZone>Új {0}</CreateNewZone>
-  
-  
+
   <!-- Desc helpers -->
   <TransmitsPower>Vezeti az áramot</TransmitsPower>
-
 
 </LanguageData>

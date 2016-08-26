@@ -2,26 +2,25 @@
 <LanguageData>
 
   <!--================================ Tier 2: Basic electricity ====================================-->
-  
 
   <Batteries.label>Akkumulátor</Batteries.label>
   <Batteries.description>Lehetővé teszi akkumulátor építését, amivel elektromos energia tárolható.</Batteries.description>
 
   <NutrientPaste.label>Tápanyagpaszta</NutrientPaste.label>
   <NutrientPaste.description>Lehetővé teszi tápanyag ellátó készítését, ami hatékonyan állít elő ehető ételt nyersanyagokból.</NutrientPaste.description>
-  
+
   <SolarPanels.label>Napelem</SolarPanels.label>
   <SolarPanels.description>Lehetővé teszi napelem építését, amivel elektromos áram állítható elő.</SolarPanels.description>
-  
+
   <AirConditioning.label>Légkondícionálás</AirConditioning.label>
   <AirConditioning.description>Lehetővé teszi légkondicionáló egység építését, amivel a szobák hűthetők vagy fagyasztó készíthető.</AirConditioning.description>
-  
+
   <Autodoors.label>Automata ajtó</Autodoors.label>
   <Autodoors.description>Lehetővé teszi automata ajtó építését, ami nem lassítja le a gyarmatosok áthaladását.</Autodoors.description>
 
   <Hydroponics.label>Hidroponikus növénytermesztés</Hydroponics.label>
   <Hydroponics.description>Lehetővé teszi hidroponikus farm építését, ami gyorsan termeszti a növényeket beltérben, attól függetlenül, hogy kint milyen a talaj vagy az időjárás.</Hydroponics.description>
-  
+
   <ElectricSmelting.label>Elektromos kohó</ElectricSmelting.label>
   <ElectricSmelting.description>Lehetővé teszi elektromos kohó és kovácsműhely építését. Az elektromos kovácsműhelyben üzemanyag nélkül is dolgozhatsz. Az elektromos kohó erős elektromágnest használ, hogy kivonja az értékes fémet a salakból és más tárgyakból.</ElectricSmelting.description>
 
@@ -30,7 +29,7 @@
 
   <ColoredLights.label>Színes lámpa</ColoredLights.label>
   <ColoredLights.description>Lehetővé teszi színes lámpa építését, ami remek dekoráció.</ColoredLights.description>
-  
+
   <Machining.label>Műszerész</Machining.label>
   <Machining.description>Lehetővé teszi műszerészasztal építését, ahol fegyverek és szerszámok készíthetők, illetve mechanoidok szerelhetők szét.</Machining.description>
 
@@ -55,30 +54,26 @@
   <GunTurrets.description>Lehetővé teszi automata robotágyú gyártását.</GunTurrets.description>
 
   <!--=============================== Tier 2 Drugs ===================================-->
-  
+
 <!--
   <FlakeProduction.label>Herstellung von Flake</FlakeProduction.label>
   <FlakeProduction.description>Deine Chemiker lernen wie man Flake, eine billige aber süchtig machende Droge herstellt.</FlakeProduction.description>
-	
 
-	<YayoProduction.label>Herstellung von Yayo</YayoProduction.label>
+  <YayoProduction.label>Herstellung von Yayo</YayoProduction.label>
   <YayoProduction.description>Deine Chemiker lernen wie man Yayo herstellt.</YayoProduction.description>
-  
+
   -->
 
   <PsychiteRefining.label>Kokain finomítás</PsychiteRefining.label>
   <PsychiteRefining.description>Lehetővé teszi koka cserje leveleiből kokain és crack előállítását.</PsychiteRefining.description>
-	
+
   <GoJuiceProduction.label>Gojuice előállítás</GoJuiceProduction.label>
   <GoJuiceProduction.description>Lehetővé teszi gojuice előállítását.</GoJuiceProduction.description>
 
   <MalariBlockProduction.label>Malariblokk előállítás</MalariBlockProduction.label>
   <MalariBlockProduction.description>Lehetővé teszi malariblokk előállítását.</MalariBlockProduction.description>
-  
+
   <WakeUpProduction.label>Amfetamin előállítás</WakeUpProduction.label>
   <WakeUpProduction.description>Lehetővé teszi amfetamin előállítását.</WakeUpProduction.description>
 
-  
-
-  
 </LanguageData>

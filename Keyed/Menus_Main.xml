@@ -38,7 +38,7 @@
   <SelectWorld>Világ kiválasztása</SelectWorld>
   <WorldChooseButton>Kiválasztás</WorldChooseButton>
   <NoWorldsFilesFound>Nincsen világ. Hozz létre egyet!</NoWorldsFilesFound>
-  
+
   <!--=========== Version info ==========-->
   <BuildNowAvailable>{0} verzió elérhető. Látogass el a ludeon.com-ra több információért!</BuildNowAvailable>
   <BuildUpToDate>Ez a legfrissebb verzió.</BuildUpToDate>
@@ -69,14 +69,14 @@
   <ModNotMadeForThisVersion>Ez a mod a RimWorld más verziójához készült, nem fog megfelelően működni.</ModNotMadeForThisVersion>
   <MessageModNeedsWellFormattedTargetVersion>A modnak szüksége van egy jól formázott verziószámra az About.xml-ben. Pl.: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
   <DragToReorder>Egérrel húzhatóak az elemek</DragToReorder>
-  
+
   <!--=========== Select scenario =============-->
   <ChooseScenario>Forgatókönyv</ChooseScenario>
   <ScenariosCustom>Egyedi</ScenariosCustom>
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
   <ScenarioEditor>Forgatókönyv szerkesztő</ScenarioEditor>
   <Delete>Törlés</Delete>
-  
+
   <!--============ Scenario editor ===============-->
   <Seed>alapkód</Seed>
   <Load>Betöltés</Load>
@@ -89,7 +89,7 @@
   <Incompatible>Nem kompatibilis</Incompatible>
   <TooMany>Túl sok (max. {0}): </TooMany>
   <CanBeUpdatedOnWorkshop>Frissíthető a Workshop-on, mivel te vagy a szerző.</CanBeUpdatedOnWorkshop>
-  
+
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Válassz MI mesélőt</ChooseAIStoryteller>
   <HowStorytellersWork>Az MI (mesterséges intelligencia) mesélő olyan eseményeket idéz elő, mint a fosztogatás, ellátmány érkezése, vagy állatok támadása. Rajta múlik kolóniád története.</HowStorytellersWork>
@@ -146,17 +146,17 @@
   <Pain>Fájdalom</Pain>
   <Health>Egészség</Health>
   <Relations>Kapcsolatok</Relations>
-  
+
   <!--=========== Misc ==========-->
   <Start>Kezdés</Start>
   <Advanced>További...</Advanced>
   <Next>Következő</Next>
   <Back>Vissza</Back>
-  
+
   <Gameplay>Játék</Gameplay>
 
   <ConfirmQuit>Biztosan kilépsz? A nem mentett változások elvesznek.</ConfirmQuit>
-  
+
   <EveryoneNeedsValidName>Mindenkinek kell egy megfelelő név.</EveryoneNeedsValidName>
 
   <GeneratingWorld>Világ létrehozása</GeneratingWorld>

@@ -1,23 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-
   <AteLavishMeal.stages.0.label>lakomázott</AteLavishMeal.stages.0.label>
   <AteLavishMeal.stages.0.description>Ez a lakoma elképesztő volt, táplálta a testem és a lelkem.</AteLavishMeal.stages.0.description>
 
   <AteFineMeal.stages.0.label>finomat evett</AteFineMeal.stages.0.label>
   <AteFineMeal.stages.0.description>Nagyon finom ételt ettem, nyami!</AteFineMeal.stages.0.description>
-  
+
   <AteAwfulMeal.stages.0.label>szörnyű ételt evett</AteAwfulMeal.stages.0.label>
   <AteAwfulMeal.stages.0.description>Egy undorító, íztelen ételt kellett megennem. Tudom, hogy életben tart, de ki akarná ezt a trutyit lenyelni?</AteAwfulMeal.stages.0.description>
-  
+
   <AteRawFood.stages.0.label>nyerset evett</AteRawFood.stages.0.label>
   <AteRawFood.stages.0.description>Nyers ételt kellett ennem. Igazán megfőzhetnénk vagy legalább tápanyagpasztát csinálhatnánk belőle.</AteRawFood.stages.0.description>
 
   <AteCorpse.stages.0.label>tetemet evett</AteCorpse.stages.0.label>
-  <AteCorpse.stages.0.description>Tetemet kellett ennem, anélkül hogy akár feldolgozták vagy megfőzték volna. Szörnyű volt!</AteCorpse.stages.0.description>
+  <AteCorpse.stages.0.description>Tetemet kellett ennem anélkül, hogy akár feldolgozták vagy megfőzték volna. Szörnyű volt!</AteCorpse.stages.0.description>
 
-  
   <!-- Special nature thoughts -->
 
   <AteHumanlikeMeatDirectCannibal.stages.0.label>kannibalizmus (nyers)</AteHumanlikeMeatDirectCannibal.stages.0.label>
@@ -31,18 +29,16 @@
 
   <AteInsectMeatDirect.stages.0.label>rovarhúst evett (nyers)</AteInsectMeatDirect.stages.0.label>
   <AteInsectMeatDirect.stages.0.description>Valami szürke, ragacsos rovarhúst ettem. Valószínűleg ez volt a legundorítóbb dolog, amit valaha kóstoltam.</AteInsectMeatDirect.stages.0.description>
-  
+
   <AteHumanlikeMeatAsIngredient.stages.0.label>kannibalizmus (főzött)</AteHumanlikeMeatAsIngredient.stages.0.label>
   <AteHumanlikeMeatAsIngredient.stages.0.description>Másik ember húsából készült ételt ettem. Ez szörnyű!</AteHumanlikeMeatAsIngredient.stages.0.description>
-  
+
   <AteHumanlikeMeatDirect.stages.0.label>kannibalizmus (nyers)</AteHumanlikeMeatDirect.stages.0.label>
   <AteHumanlikeMeatDirect.stages.0.description>Emberhúst ettem, nyersen, mint egy állat. Rémálom!</AteHumanlikeMeatDirect.stages.0.description>
-  
 
   <!--  Rotten state thoughts -->
 
   <AteRottenFood.stages.0.label>rohadtat evett</AteRottenFood.stages.0.label>
   <AteRottenFood.stages.0.description>Valami undorító, rohadt ételt ettem. Omlós volt - de nem jó értelemben.</AteRottenFood.stages.0.description>
-
 
 </LanguageData>

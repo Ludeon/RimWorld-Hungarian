@@ -9,7 +9,7 @@
   <MessageRaidersStealing>{1} tagjai ({0}) úgy döntöttek, hogy ellopják, amit tudnak és távoznak</MessageRaidersStealing>
 
   <MessageRaidersLeaving>{1} tagjai ({0}) távoznak.</MessageRaidersLeaving>
-	<MessageRaidersGivenUpLeaving>{1} tagjai ({0}) feladták és távoznak.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersGivenUpLeaving>{1} tagjai ({0}) feladták és távoznak.</MessageRaidersGivenUpLeaving>
   <MessageRaidersSatisfiedLeaving>{1} tagjai ({0}) elégedettek a rombolással, amit tettek és távoznak.</MessageRaidersSatisfiedLeaving>
 
   <MessageFightersFleeing>{1} tagjai ({0}) menekülnek.</MessageFightersFleeing>
@@ -17,17 +17,17 @@
 
   <MessageVisitorsTakingWounded>{1} tagjai ({0}) magukkal visznek egy sérült látogatót.</MessageVisitorsTakingWounded>
   <MessageVisitorsTrappedLeaving>{1} tagjai ({0}) csapdába estek és megpróbálják magukat kiásni, hogy elmeneküljenek.</MessageVisitorsTrappedLeaving>
-  
+
   <MessageWornApparelDeterioratedAway>{1} által hordott {0} semmivé foszlott.</MessageWornApparelDeterioratedAway>
-  
+
   <MessageSeasonBegun>{0} elkezdődött.</MessageSeasonBegun>
 
   <MessageShipHasLeftCommsRange>{0} elhagyta a komm. tartományt.</MessageShipHasLeftCommsRange>
-	
-	<MessageNeedBeaconToTradeWithShip>Orbitális jeladóra van szükség a hajóval való kereskedéshez.\n\nA jeladónak áramra van szüksége.</MessageNeedBeaconToTradeWithShip>
-	
+
+  <MessageNeedBeaconToTradeWithShip>Orbitális jeladóra van szükség a hajóval való kereskedéshez.\n\nA jeladónak áramra van szüksége.</MessageNeedBeaconToTradeWithShip>
+
   <MessageBillComplete>Feladat végrehajtva: {0}.</MessageBillComplete>
-  
+
   <MessageFullyHealed>{0} teljesen felépült.</MessageFullyHealed>
 
   <MessagePrisonerIsEscaping>A következő fogoly szökésben: {0}.</MessagePrisonerIsEscaping>
@@ -36,7 +36,7 @@
 
   <MessageAnimalsGoPsychoHunted>Figyelem: a {0} gyakran támad, ha bántják.</MessageAnimalsGoPsychoHunted>
   <MessageAnimalManhuntsOnTameFailed>Figyelem: a {0} támadhat, ha nem sikerül megszelídíteni ({1} esély).</MessageAnimalManhuntsOnTameFailed>
-  
+
   <LetterLabelMessageRecruitSuccess>Újonc</LetterLabelMessageRecruitSuccess>
   <MessageRecruitSuccess>{0} sikeresen toborozta őt:{1} ({2} esély).</MessageRecruitSuccess>
   <MessageTameSuccess>{0} sikeresen megszelídítette őt: {1} ({2} esély).</MessageTameSuccess>
@@ -63,11 +63,11 @@
   <MessageMustDesignateOpenable>Nem üres sírt vagy tárolót kell kijelölni.</MessageMustDesignateOpenable>
 
   <MessageRefusedArrest>{0} nem engedi letartóztatni magát!</MessageRefusedArrest>
-  
+
   <MessageNoMedicalBeds>Nincs szabad betegágy.</MessageNoMedicalBeds>
   <MessageNoAnimalBeds>Nincs szabad állat fekhely.</MessageNoAnimalBeds>
   <MessageTooLowMedCare>Ehhez {0} vagy jobb kell, de {1} jelenlegi ellátási szintje {2}.</MessageTooLowMedCare>
-  
+
   <PawnDiedBecauseOf>{0} meghalt {1} miatt.</PawnDiedBecauseOf>
 
   <MessageNoLongerDowned>{0} már képes járni.</MessageNoLongerDowned>
@@ -88,36 +88,36 @@
   <MessageNuzzledPawnGaveNameTo>{0} a {2} nevet adta neki: {1}, miután az hozzá dörgölőzött.</MessageNuzzledPawnGaveNameTo>
 
   <MessageNoHandlerSkilledEnough>Senki nem képes megszelídíteni őt: {0}. (szükséges {2} szint: {1}, legjobb idomárnak ({3}) {4} van).</MessageNoHandlerSkilledEnough>
-  
+
   <MessageEatenByPredator>{1} megette őt: {0}.</MessageEatenByPredator>
   <MessageAttackedByPredator>{1} megtámadta őt: {0}!</MessageAttackedByPredator>
-  
+
   <MessageHiveReproduced>Egy kaptár reprodukálta magát.</MessageHiveReproduced>
-  
+
   <MessageTraderCaravanLeaving>{0} karavánja elmegy.</MessageTraderCaravanLeaving>
-  
+
   <MessageCantSelectDeadPawn>{0} meghalt.</MessageCantSelectDeadPawn>
   <MessageCantSelectOffMapPawn>{0} nincs a térképen.</MessageCantSelectOffMapPawn>
-  
+
   <MessageSocialFight>{0} és {1} veszekszik. Ok: {2}.</MessageSocialFight>
-  
+
   <MessageNewMarriageCeremony>A gyarmatosok összegyűlnek, hogy {0} és {1} házasságát ünnepeljék.</MessageNewMarriageCeremony>
   <MessageMarriageCeremonyStarts>{0} és {1} megkezdik az esküvői ceremóniát!</MessageMarriageCeremonyStarts>
   <MessageMarriageCeremonyCalledOff>{0} és {1} házassági ceremóniája lefújva.</MessageMarriageCeremonyCalledOff>
   <MessageNewlyMarried>{0} és {1} megházasodtak. A gyarmatosok ünneplik őket.</MessageNewlyMarried>
   <MessageMarriageCeremonyAfterPartyFinished>{0} és {1} esküvői ceremóniája véget ért.</MessageMarriageCeremonyAfterPartyFinished>
-  
+
   <MessageNewBondRelation>{0} és {1} kötődnek egymáshoz.</MessageNewBondRelation>
   <MessageNewBondRelationNewName>{0} és {1} kötődnek egymáshoz. {1} {0} által adott neve {2} lett.</MessageNewBondRelationNewName>
-  
+
   <MessageBondedAnimalMentalBreak>{0} idegösszeroppanást kapott {1} halála miatt.</MessageBondedAnimalMentalBreak>
   <MessageNamedBondedAnimalMentalBreak>{1} nevű {0} idegösszeroppanást kapott {2} halála miatt.</MessageNamedBondedAnimalMentalBreak>
   <MessageBondedAnimalsMentalBreak>{0} állat kapott idegösszeroppanást {1} halála miatt.</MessageBondedAnimalsMentalBreak>
-  
+
   <MessageSuccessfullyRemovedHediff>{0} sikeresen meggyógyította őt: {1} ({2}).</MessageSuccessfullyRemovedHediff>
-  
+
   <MessageShipChunkDrop>Egy űrjármű darabja zuhant le a közelben.</MessageShipChunkDrop>
-  
+
   <MessagePartyCalledOff>Buli lefújva.</MessagePartyCalledOff>
   <MessagePartyFinished>A bulinak vége.</MessagePartyFinished>
 
@@ -126,13 +126,13 @@
   <MessageConstructionFailed>{1} hibát vétett {0} építése közben. Némi alapanyag kárba ment.</MessageConstructionFailed>
 
   <MessageScreenshotSavedAs>Pillanatkép elmentve mint: {0}</MessageScreenshotSavedAs>
-  
+
   <MessageNoLongerSocialFighting>{0} és {1} már nem veszekszik.</MessageNoLongerSocialFighting>
-  
+
   <MessageNoLongerBingingOnDrug>{0} már nem habzsolja ezt: {1}.</MessageNoLongerBingingOnDrug>
 
   <MessageRottedAwayInStorage>Némi {0} elrohadt a raktárban.</MessageRottedAwayInStorage>
-  
+
   <MessageFoodPoisoning>{0} ételmérgezést kapott. Oka: {1}.</MessageFoodPoisoning>
-  
+
 </LanguageData>

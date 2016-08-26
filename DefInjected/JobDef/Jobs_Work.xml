@@ -27,9 +27,8 @@
   <Tame.reportString>szelídíti ezt: TargetA.</Tame.reportString>
   <Train.reportString>idomítja ezt: TargetA.</Train.reportString>
 
-
   <!-- Construction and repair -->
-  
+
   <PlaceNoCostFrame.reportString>építi ezt: TargetA.</PlaceNoCostFrame.reportString>
   <FinishFrame.reportString>építi ezt: TargetA.</FinishFrame.reportString>
   <Deconstruct.reportString>lebontja ezt: TargetA.</Deconstruct.reportString>
@@ -38,13 +37,12 @@
   <FixBrokenDownBuilding.reportString>helyrehozza ezt: TargetA.</FixBrokenDownBuilding.reportString>
   <BuildRoof.reportString>tetővel fed.</BuildRoof.reportString>
   <RemoveRoof.reportString>tetőt bont.</RemoveRoof.reportString>
-  
+
   <!-- Medical -->
-  
+
   <FeedPatient.reportString>megeteti őt: TargetB ezzel: TargetA.</FeedPatient.reportString>
   <TendPatient.reportString>ápolja őt: TargetA.</TendPatient.reportString>
-  
-  
+
   <!-- Misc -->
 
   <DeliverFood.reportString>TargetB ételt visz neki: TargetA.</DeliverFood.reportString>

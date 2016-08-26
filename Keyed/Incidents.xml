@@ -55,7 +55,7 @@
 
   <LetterLabelManhunterPackArrived>Emberevő falka</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>Egy falka emberevő {0} jelent meg a környéken. A közelben kóborolva vadásznak emberhúsra.\n\nAjtókon nem jutnak át, falak között biztonságban vagy. Kikapcsolt ágyúkat nem támadnak meg, ha nem akarod megölni őket, állítsd le ezeket.\n\nPár napig lesznek a környéken.</ManhunterPackArrived>
-  
+
   <!-- Crashed ship part-->
   <MessageAnimalInsanityPulse>Egy ősi építmény pszichotikus hullámot bocsátott ki magából, amitől a közelben lévő állatok megvadultak.</MessageAnimalInsanityPulse>
   <LetterShipPartDroveColonistInsane>A lezuhant hajó egy darabja koncentrált pszichotikus hullámot bocsátott ki, ettől {0} megőrült.</LetterShipPartDroveColonistInsane>
@@ -67,7 +67,7 @@
   <PsychicDroneLevelExtreme>Extrém</PsychicDroneLevelExtreme>
   <LetterLabelPsychicDroneLevelIncreased>Hullámok erősödnek</LetterLabelPsychicDroneLevelIncreased>
   <LetterPsychicDroneLevelIncreased>A lezuhant hajó darabja erősebb hullámokat kezdett kibocsájtani. Minden ember zavartabb, ijedtebb, paranoidabb lett.</LetterPsychicDroneLevelIncreased>
-  
+
   <!-- Agent revealed -->
   <LetterLabelAgentRevealed>Ügynök</LetterLabelAgentRevealed>
   <LetterAgentRevealed>Kiderült, hogy {0} az ellenséged {1} ügynöke.\n\nMegpróbál megszökni.</LetterAgentRevealed>
@@ -82,7 +82,7 @@
   <!-- Beavers -->
   <LetterLabelBeaversArrived>Hódok!</LetterLabelBeaversArrived>
   <BeaversArrived>Egy csapat éhes alfahód érkezett.\n\nPróbáld kiiktatni őket, mielőtt megesznek minden fát.</BeaversArrived>
-  
+
   <!-- Refugee chased -->
   <RefugeeChasedInitial>Egy {0} nevű {1} hív a közelből. A nyomában {2} a {3} frakcióból!\n\nMenedékért könyörög és felajánlja, hogy csatlakozik hozzád. Biológiailag {4} éves.\n\nFigyelem - ha befogadod, el kell kergetned az üldözőit.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Befogad</RefugeeChasedInitial_Accept>
@@ -98,22 +98,22 @@
   <!-- Farm animals wander in -->
   <LetterLabelFarmAnimalsWanderIn>{0} csatlakozik</LetterLabelFarmAnimalsWanderIn>
   <LetterFarmAnimalsWanderIn>Egy csapat elhagyott vagy elveszett {0} kóborolt a környékre.\n\nÚgy tűnik megszokták az ember közelségét és csatlakoznak a kolóniához.</LetterFarmAnimalsWanderIn>
-  
+
   <!-- Thrumbo passes -->
   <LetterLabelThrumboPasses>Ritka thrumbok</LetterLabelThrumboPasses>
   <LetterThrumboPasses>Egy kis csorda trumbo kóborol a környéken.\n\nBár békés természetűek, ezek a ritka állatok nagyon veszélyesek, ha szembeszállnak velük. Némely kereskedő sokat fizet a bőrükért és szarvukért.\n\nPár napig maradnak a környéken.</LetterThrumboPasses>
-  
+
   <!-- Trader caravan -->
   <LetterLabelTraderCaravanArrival>{0} kereskedője</LetterLabelTraderCaravanArrival>
   <LetterTraderCaravanArrival>{0} karavánja érkezik.\n\nPár napig maradnak a kolónia közelében. Megtámadhatod őket, de ez fel fogja bőszíteni a frakciójukat!</LetterTraderCaravanArrival>
-  
+
   <!-- Building breaks down -->
   <LetterLabelBuildingBrokenDown>Meghibásodás: {0}</LetterLabelBuildingBrokenDown>
   <LetterBuildingBrokenDown>Az egyik {0} meghibásodott. Addig nem fog működni, amíg egy karbantartó gyarmatos meg nem javítja.</LetterBuildingBrokenDown>
-  
+
   <!-- Ransom demand -->
   <RansomDemand>{1} lépett veled kapcsolatba rádión. Korábbi gyarmatosod, {0}, a fogjuk.\n\nSzabadon lesz engedve, {2} ezüstért cserébe.</RansomDemand>
   <RansomDemand_Accept>Elfogad</RansomDemand_Accept>
   <RansomDemand_Reject>Elutasít</RansomDemand_Reject>
-  
+
 </LanguageData>
