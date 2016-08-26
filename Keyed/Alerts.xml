@@ -3,9 +3,6 @@
 
   <ClickToJumpToProblem>Kattints ide a problémára ugráshoz</ClickToJumpToProblem>
 
-  <!-- <NeedSawmill>Nincs fűrészmalom</NeedSawmill>
-  <NeedSawmillDesc>Fűrészmalomra van szükség, hogy a fából deszkákat készíts.\n\nÉpíts kézi vagy elektromos fűrészmalmot.</NeedSawmillDesc> -->
-
   <BreakRiskMinor>Enyhe összeomlás veszély</BreakRiskMinor>
   <BreakRiskMinorDesc>A következő gyarmatosok rossz hangulatban vannak és bármikor szenvedhetnek kisebb összeomlást:\n\n{0}</BreakRiskMinorDesc>
   <BreakRiskMajor>Erős összeomlás veszély</BreakRiskMajor>
@@ -18,9 +15,6 @@
   <ColonistsNeedRescue>Gyarmatosok mentésre várnak</ColonistsNeedRescue>
   <ColonistsNeedRescueDesc>A következő gyarmatosok cselekvőképtelenek:\n\n{0}\nKüldj értük valakit, aki kimenti és betegágyba teszi őket.\n\n(A mentéshez válassz ki egy másik gyarmatost és jobbkatt a sérültön majd "Mentés".</ColonistsNeedRescueDesc>
 
- <!--  <BuildARoom>Építs szobát</BuildARoom>
-  <BuildARoomDesc>Egy szoba falakból és ajtóból áll.\n\nHasználd az ÉPÍTÉS menüt a bal alsó sarokban, ezzel kijelölheted hol mi épüljön. Ha megtörtént a kijelölés, a gyarmatosok elvégzik a munkát, amint tudják.</BuildARoomDesc>
- -->
   <NeedDefenses>Nincs védelem</NeedDefenses>
   <NeedDefensesDesc>Egy ideje már itt vagy és valószínűleg felfedeztek. A fosztogatások lassan beindulnak.\n\nÁllíts fel védelmet, legyen az csapda, homokzsák vagy ágyú.</NeedDefensesDesc>
 
@@ -58,23 +52,12 @@
   <NeedFoodHopper>Nincs élelmiszeradagoló</NeedFoodHopper>
   <NeedFoodHopperDesc>Tápanyagpépesítőd mellett nincs adagoló.\n\nAhhoz, hogy működjön, nyers ételt kell kapnia egy adagolóból.\n\nÉpíts mellé adagolót!</NeedFoodHopperDesc>
 
-<!--   <BuildingNeedsPower>Épület áram nélkül</BuildingNeedsPower>
-  <BuildingsNeedPower>Épületek áram nélkül</BuildingsNeedPower>
-  <BuildingsNeedPowerDesc>A következő áramot igénylő épületek nincsenek feszültség alatt:\n\n{0}\nKösd össze őket egy generátorral vagy akkumulátorral!</BuildingsNeedPowerDesc>
-  <AndMore>és még</AndMore>
- -->
   <NeedMealSource>Nem lehet ételt gyártani</NeedMealSource>
   <NeedMealSourceDesc>Nincs módja, hogy rendes fogásokat állíts elő nyers ételből.\n\nÉpíts tűzhelyet, tábortüzet vagy tápanyagellátót.\n\n(Ezek ne legyenek a börtönben, ott a gyarmatosok nem férnek hozzájuk.)</NeedMealSourceDesc>
 
-  <!-- <NeedHomeArea>Nincs lakókörzet</NeedHomeArea>
-  <NeedHomeAreaDesc>Lakókörzetet kell kijelölnöd, ahol a gyarmatosok takarítanak, tüzet oltanak, és javításokat végeznek.\n\nA kijelölést megteheted az ÉPÍTÉS menü ZÓNÁK szekciójában.</NeedHomeAreaDesc>
- -->
   <NeedBatteries>Nincs akkumulátor</NeedBatteries>
   <NeedBatteriesDesc>Csak napelemed van, de akkumulátorod nincs. Így nem lesz áramod, ha lemegy a nap.\n\nÉpíts pár akkumulátort, hogy átvészeld az éjjelt!</NeedBatteriesDesc>
-<!-- 
-  <NoTradingCapacity>Nincs orbitális kereskedés</NoTradingCapacity>
-  <NoTradingCapacityDesc>Nincs módod rá, hogy áthaladó űrhajókkal kereskedj.\n\nÉpíts kommunikációs konzolt!</NoTradingCapacityDesc>
- -->
+
   <BrawlerHasRangedWeapon>Közelharcos lőfegyverrel</BrawlerHasRangedWeapon>
   <BrawlerHasRangedWeaponDesc>Az egyik gyarmatosodnak "Közelharcos" jellemvonása van, de távolsági fegyvert hord. Ettől igen boldogtalan lesz.</BrawlerHasRangedWeaponDesc>
 
@@ -84,21 +67,8 @@
   <NeedResearchProject>Nincs kutatásterv</NeedResearchProject>
   <NeedResearchProjectDesc>Van kutatási felszerelésed, de nincs kutatásterved.\n\nNyisd meg a "Kutatás" menüt és válassz egyet.</NeedResearchProjectDesc>
 
- <!--  <NeedDump>Nincs raktárterület</NeedDump>
-  <NeedDumpDesc>{0} meg lett jelölve, mint szállítandó, nincs hová vinni.\n\nJelölj ki egy raktárterületet, és állítsd be, hogy {0} engedélyezve legyen!.</NeedDumpDesc>
- -->
-  <!-- Removed
-  <NeedGrave>Need grave</NeedGrave>
-  <NeedGraveDesc>There is a dead body laying on the ground and nowhere for your colonists to take it.\n\nBuild a grave or a dumping zone and set their storage settings.</NeedGraveDesc>
-  -->
-
   <ColonistsIdle>{0} gyarmatos tétlen</ColonistsIdle>
   <ColonistsIdleDesc>A következő gyarmatosok tétlenek:\n\n{0}\nKéne találnod nekik valami hasznos munkát.</ColonistsIdleDesc>
-
-  <!-- Removed
-  <HaltedConstructions>{0} constructions are missing materials</HaltedConstructions>
-  <HaltedConstructionsDesc>These kinds of constructions are missing materials:\n\n{0}\nYou should probably make required materials available for your colonists.</HaltedConstructionsDesc>
-  -->
 
   <ColonistNeedsTreatment>Ellátás szükséges</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>Orvosi ellátásra van szüksége a következő gyarmatosnak. Ha nem kezelik őket, a sebesülések talán sosem gyógyulnak be.\n\n{0}\nKüldd őket betegágyba!\n\n(Először jelölj ki egy ágyat betegágynak, majd a sérültet kiválasztva jobbkatt az ágyon és páciens hozzárendelése.)</ColonistNeedsTreatmentDesc>
