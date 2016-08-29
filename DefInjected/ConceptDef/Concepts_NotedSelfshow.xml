@@ -52,7 +52,7 @@
   <StorageTab.helpText>Testre szabhatod a raktárkörzeteket, ha kiválasztod őket és megnyitod a "Raktár" fület, a bal-alsó sarokban lévő információs panel tetején.</StorageTab.helpText>
 
   <HomeArea.label>Lakókörzetek</HomeArea.label>
-  <HomeArea.helpText>A "Lakókörzet" alapján tudják a kolónia lakók, hogy hol kell takarítani és tüzet oltani.\n\"A Lakókörzet" meghatározható az "Építés" menüben a "Zónák/Körzet" kategória alatt.</HomeArea.helpText>
+  <HomeArea.helpText>A "Lakókörzet" alapján tudják a kolónia lakók, hogy hol kell takarítani és tüzet oltani.\n\n"A Lakókörzet" meghatározható az "Építés" menüben a "Zónák/Körzet" kategória alatt.</HomeArea.helpText>
 
   <SpoilageAndFreezers.label>Romlás és hűtő</SpoilageAndFreezers.label>
   <SpoilageAndFreezers.helpText>A legtöbb élelem relatív rövid idő alatt megromlik.\n\nEnnek megakadályozására fagyasztót építhetsz.\n\nEhhez építs egy zárt szobát hűtővel a falban, és állítsd a gépet negatív hőmérsékletre.\n\nA fagyott étel sohasem romlik meg.</SpoilageAndFreezers.helpText>
@@ -61,7 +61,7 @@
   <Deterioration.helpText>A szabad ég alatt fekvő tárgyak állapota folyamatosan romlik.\n\nHa ezt szeretnéd megakadályozni, tárold őket tető alatt.</Deterioration.helpText>
 
   <HostilityResponse.label>Viselkedés ellenséggel</HostilityResponse.label>
-  <HostilityResponse.helpText>Megadhatod a gyarmatosok alapértelmezett viselkedését ellenséggel való találkozás esetére, (pl. megvadult állat).\n\n"Menekül", "Támad", "Figyelmen kívül hagy" a három lehetőség. Az információs panelen elérhető ez a beállítás, illetve a "Felszerelés" menüben is.</HostilityResponse.helpText>
+  <HostilityResponse.helpText>Megadhatod a gyarmatosok alapértelmezett viselkedését ellenséggel való találkozás esetére, (pl. megvadult állat).\n\n"Menekül", "Támad", "Figyelmen kívül hagy" a három lehetőség. Az információs panelen elérhető ez a beállítás, illetve a "Felszerelés / Drog" fülön is.</HostilityResponse.helpText>
 
   <AllowedAreas.label>Megengedett körzetek</AllowedAreas.label>
   <AllowedAreas.helpText>Gyarmatosok és háziállatok is hozzárendelhetők "megengedett körzetekhez". Ez megakadályozza, hogy körzeten kívüli célpontokhoz menjenek.\n\nEz például használható arra, hogy megtiltsd a kijárást.\n\nTöbb megengedett körzet is definiálható és hozzárendelheted őket különböző gyarmatosokhoz és állatokhoz.\n\nHozz létre, törölj és rendelj hozzá megengedett körzeteket a "Korlátozások" fülön. A körzeteket a "Megengedett körzet kiterjesztése" és "Megengedett körzet törlése" parancsokkal jelölheted ki az "Építés" menüben.</AllowedAreas.helpText>
@@ -82,7 +82,7 @@
   <InspectRoomStats.helpText>Egy szoba hatását, gazdagságát és szépségét is megnézheted, bekapcsolod a szoba statisztikák kijelzését a jobb alsó sarokban.</InspectRoomStats.helpText>
 
   <Outfits.label>Ruházat</Outfits.label>
-  <Outfits.helpText>A gyarmatosok automatikusan megpróbálják a legújabb, legjobb minőségű ruházatot viselni. Nincs szükség rá, hogy kézzel rendeld hozzájuk ezeket, bár megteheted, ha akarod.\n\nHogy korlátozd ruházkodásukat, nyisd meg a "Felszerelések" fület és használd a "Felszerelések kezelése" felületet.</Outfits.helpText>
+  <Outfits.helpText>A gyarmatosok automatikusan megpróbálják a legújabb, legjobb minőségű ruházatot viselni. Nincs szükség rá, hogy kézzel rendeld hozzájuk ezeket, bár megteheted, ha akarod.\n\nHogy korlátozd ruházkodásukat, nyisd meg a "Felszerelés / Drog" fület és használd a "Felszerelések kezelése" felületet.</Outfits.helpText>
 
   <FirePreparation.label>Felkészülni a tüzekre</FirePreparation.label>
   <FirePreparation.helpText>Tüzek nagyon könnyen leégethetik a kolóniát. Hogy ezt megakadályozd, fel kell készülnöd rá, mielőtt megtörténik. 

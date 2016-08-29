@@ -13,7 +13,7 @@
   <MessageRaidersSatisfiedLeaving>{1} tagjai ({0}) elégedettek a rombolással, amit tettek és távoznak.</MessageRaidersSatisfiedLeaving>
 
   <MessageFightersFleeing>{1} tagjai ({0}) menekülnek.</MessageFightersFleeing>
-  <MessageFriendlyFightersLeaving>A barátságos {0} a {1}-ből távoznak.</MessageFriendlyFightersLeaving>
+  <MessageFriendlyFightersLeaving>{1} barátságos tagjai ({0}) távoznak.</MessageFriendlyFightersLeaving>
 
   <MessageVisitorsTakingWounded>{1} tagjai ({0}) magukkal visznek egy sérült látogatót.</MessageVisitorsTakingWounded>
   <MessageVisitorsTrappedLeaving>{1} tagjai ({0}) csapdába estek és megpróbálják magukat kiásni, hogy elmeneküljenek.</MessageVisitorsTrappedLeaving>
@@ -62,7 +62,7 @@
   <MessageMustDesignateSlaughterable>A kolóniához tartozó szelídített állatot kell kijelölni.</MessageMustDesignateSlaughterable>
   <MessageMustDesignateOpenable>Nem üres sírt vagy tárolót kell kijelölni.</MessageMustDesignateOpenable>
 
-  <MessageRefusedArrest>{0} nem engedi letartóztatni magát!</MessageRefusedArrest>
+  <MessageRefusedArrest>{0} nem hagyja magát!</MessageRefusedArrest>
 
   <MessageNoMedicalBeds>Nincs szabad betegágy.</MessageNoMedicalBeds>
   <MessageNoAnimalBeds>Nincs szabad állat fekhely.</MessageNoAnimalBeds>
@@ -99,7 +99,7 @@
   <MessageCantSelectDeadPawn>{0} meghalt.</MessageCantSelectDeadPawn>
   <MessageCantSelectOffMapPawn>{0} nincs a térképen.</MessageCantSelectOffMapPawn>
 
-  <MessageSocialFight>{0} és {1} veszekszik. Ok: {2}.</MessageSocialFight>
+  <MessageSocialFight>{0} és {1} verekszik. Ok: {2}.</MessageSocialFight>
 
   <MessageNewMarriageCeremony>A gyarmatosok összegyűlnek, hogy {0} és {1} házasságát ünnepeljék.</MessageNewMarriageCeremony>
   <MessageMarriageCeremonyStarts>{0} és {1} megkezdik az esküvői ceremóniát!</MessageMarriageCeremonyStarts>
@@ -127,7 +127,7 @@
 
   <MessageScreenshotSavedAs>Pillanatkép elmentve mint: {0}</MessageScreenshotSavedAs>
 
-  <MessageNoLongerSocialFighting>{0} és {1} már nem veszekszik.</MessageNoLongerSocialFighting>
+  <MessageNoLongerSocialFighting>{0} és {1} már nem verekszik.</MessageNoLongerSocialFighting>
 
   <MessageNoLongerBingingOnDrug>{0} már nem habzsolja ezt: {1}.</MessageNoLongerBingingOnDrug>
 

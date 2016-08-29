@@ -63,7 +63,7 @@
   <NoCryptosleepCasket>Nincs szabad hibernáló.</NoCryptosleepCasket>
   <NoPrisonerBed>Nincs zárt helyen lévő, rabnak szánt ágy.</NoPrisonerBed>
   <NoNonPrisonerBed>Nincs használható, nem rabnak szánt ágy.</NoNonPrisonerBed>
-  <NoAnimalBed>Nincs elérhető, nem foglalt alom.</NoAnimalBed>
+  <NoAnimalBed>Nincs elérhető, nem foglalt fekhely.</NoAnimalBed>
   <Reserved>Másnak van fenntartva.</Reserved>
   <ReservedBy>Fenntartva neki: {0}.</ReservedBy>
   <IsReservedBy>{0} fenntartva neki: {1}.</IsReservedBy>
@@ -78,7 +78,7 @@
   <CannotEquip>Nem tudja használni ezt:{0}</CannotEquip>
 
   <ForceWear>Kényszerített viselet: {0}</ForceWear>
-  <CannotWear>Nem tudja viselni ezt: {0}</CannotWear>
+  <CannotWear>Nem viselheti ezt: {0}</CannotWear>
   <CannotWearBecauseOfMissingBodyParts>hiányzó testrész</CannotWearBecauseOfMissingBodyParts>
 
   <Strip>Vetkőztesd le őt: {0}</Strip>
@@ -92,7 +92,7 @@
   <Drop>Dobd el ezt: {0}</Drop>
 
   <UseMedicalBed>Pihenj teljes felgyógyulásig</UseMedicalBed>
-  <NotInjured>Nem sérült meg.</NotInjured>
+  <NotInjured>Nem sérült</NotInjured>
   <SomeoneElseSleeping>Foglalt</SomeoneElseSleeping>
 
   <TradeWith>Kereskedj vele: {0}</TradeWith>

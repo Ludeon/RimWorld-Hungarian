@@ -21,7 +21,7 @@
   <!-- Drafting -->
   <CommandDraftLabel>Besoroz</CommandDraftLabel>
   <CommandUndraftLabel>Leszerel</CommandUndraftLabel>
-  <CommandToggleDraftDesc>Katonaság kapcsoló.\n\nA besorozott emberek végrehajtják a parancsokat és harcolnak. Nem dolgoznak, nem esznek, nem pihennek.</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>Sorozás kapcsoló.\n\nA besorozott emberek végrehajtják a parancsokat és harcolnak. Nem dolgoznak, nem esznek, nem pihennek.</CommandToggleDraftDesc>
   <IsIncapped>{0} magatehetetlen.</IsIncapped>
 
   <CommandClearPrioritizedWork>Előnyben részesített munka törlése</CommandClearPrioritizedWork>
@@ -52,20 +52,20 @@
   <CommandDetonateDesc>Visszaszámlálás indítása.</CommandDetonateDesc>
 
   <CommandRenameZoneLabel>Átnevezés</CommandRenameZoneLabel>
-  <CommandRenameZoneDesc>Zóna átnevezése.</CommandRenameZoneDesc>
+  <CommandRenameZoneDesc>Körzet átnevezése.</CommandRenameZoneDesc>
 
   <CommandHideZoneLabel>Elrejtés</CommandHideZoneLabel>
   <CommandUnhideZoneLabel>Felfedés</CommandUnhideZoneLabel>
   <CommandHideZoneDesc>Elrejti/felfedi a zónát.</CommandHideZoneDesc>
 
   <CommandDeleteZoneLabel>Törlés</CommandDeleteZoneLabel>
-  <CommandDeleteZoneDesc>Zóna törlése.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneDesc>Körzet törlése.</CommandDeleteZoneDesc>
 
   <CommandCopyZoneSettingsLabel>Beállítások másolása</CommandCopyZoneSettingsLabel>
-  <CommandCopyZoneSettingsDesc>A zóna beállításainak vágólapra másolása, más zónára való alkalmazás céljából.</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsDesc>A Körzet beállításainak vágólapra másolása, más körzetre való alkalmazás céljából.</CommandCopyZoneSettingsDesc>
 
   <CommandPasteZoneSettingsLabel>Beállítások beillesztése</CommandPasteZoneSettingsLabel>
-  <CommandPasteZoneSettingsDesc>Felülírja a zóna beállításait a vágólapon szereplőkkel.</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsDesc>Felülírja a körzet beállításait a vágólapon szereplőkkel.</CommandPasteZoneSettingsDesc>
 
   <CommandAllowSow>Vetés engedélyezése</CommandAllowSow>
   <CommandAllowSowDesc>Kikapcsolt állapotban a gyarmatosok nem vetnek többé ide. Betakarítani fognak.</CommandAllowSowDesc>
@@ -118,10 +118,10 @@
 
   <!-- Trap -->
   <CommandAutoRearm>Automatikus élesítés</CommandAutoRearm>
-  <CommandAutoRearmDesc>Bekapcsolt állapotban a csapda magától élesedik miután valaki beleesett.</CommandAutoRearmDesc>
+  <CommandAutoRearmDesc>Bekapcsolt állapotban a csapdát automatikusan élesítik, miután valaki beleesett.</CommandAutoRearmDesc>
 
   <!-- Animal control -->
-  <CommandReleaseAnimalsLabel>Állatok kiengedése</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsLabel>Állatok elengedése</CommandReleaseAnimalsLabel>
   <CommandReleaseAnimalsDesc>Bekapcsolt állapotban a befogott állatok távolabbi célpontokat is támadhatnak. Ha kikapcsolod, a gazdájukat védik.</CommandReleaseAnimalsDesc>
 
   <!-- Squad attack -->
@@ -135,7 +135,7 @@
   <!-- Select plant to grow -->
   <CommandSelectPlantToGrowMulti>Termeszteni kívánt növény</CommandSelectPlantToGrowMulti>
   <CommandSelectPlantToGrow>Növény: {0}</CommandSelectPlantToGrow>
-  <CommandSelectPlantToGrowDesc>Kijelöli milyen magvakat vessenek ide.</CommandSelectPlantToGrowDesc>
+  <CommandSelectPlantToGrowDesc>Kijelöli, milyen magvakat vessenek ide.</CommandSelectPlantToGrowDesc>
 
   <!-- Build copy -->
   <CommandBuildCopy>Másolat építése</CommandBuildCopy>
