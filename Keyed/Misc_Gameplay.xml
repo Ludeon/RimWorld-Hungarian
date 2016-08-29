@@ -46,7 +46,7 @@
   <WoolGrowth>Gyapjúhozam</WoolGrowth>
   <EggProgress>Keltetési stádium</EggProgress>
   <Fertilized>Megtermékenyített</Fertilized>
-  <ProgressStoppedUntilFertilized>Megtermékenyítésig áll</ProgressStoppedUntilFertilized>
+  <ProgressStoppedUntilFertilized>Megtermékenyítésre vár</ProgressStoppedUntilFertilized>
   <SkillTooLow>{2} szintű {0} szükséges, jelenlegi: {1}</SkillTooLow>
   <EggDamagedEmbryo>sérült embrió</EggDamagedEmbryo>
   <CorpsePercentMissing>Hiányzó testrész</CorpsePercentMissing>
@@ -261,12 +261,12 @@
   <Undiscovered>Felfedezetlen</Undiscovered>
 
   <!-- Buttons -->
-  <ZoneVisibilityToggleButton>Zónák láthatósága</ZoneVisibilityToggleButton>
+  <ZoneVisibilityToggleButton>Körzetek láthatósága</ZoneVisibilityToggleButton>
   <ShowBeautyToggleButton>Szépség kijelzése\n\nMegjeleníti az adott hely szépségére vonatkozó információkat, mintha egy ember épp ott állna, ahová a kurzor mutat.</ShowBeautyToggleButton>
   <ShowRoomStatsToggleButton>Szoba statisztikák kijelzése\n\nMegjeleníti az adott szoba szépségére vonatkozó információkat.</ShowRoomStatsToggleButton>
   <ShowColonistBarToggleButton>Gyarmatos állapotsáv\n\nIkonok és alapstátusz minden gyarmatosról a kép tetején.</ShowColonistBarToggleButton>
   <AutoHomeAreaToggleButton>Lakókörzet automatikus kiterjesztése új épületnél</AutoHomeAreaToggleButton>
-  <CategorizedResourceReadoutToggleButton>Kategorizált alapanyag lista</CategorizedResourceReadoutToggleButton>
+  <CategorizedResourceReadoutToggleButton>Kategorizált nyersanyag lista</CategorizedResourceReadoutToggleButton>
   <ShowAnimalNamesToggleButton>Elnevezett állatok nevének kijelzése</ShowAnimalNamesToggleButton>
   <ShowLearningHelperWhenEmptyToggleButton>Az oktató ki/bekapcsolása akkor is, ha nincs téma.\n\nA oktató automatikusan bekapcsol, ha van új téma. Ezzel a kapcsolóval eltűntetheted, ha épp nincs tanulnivaló.</ShowLearningHelperWhenEmptyToggleButton>
   <ShowRoofOverlayToggleButton>Tetők láthatósága be/ki.</ShowRoofOverlayToggleButton>
@@ -300,7 +300,7 @@
 
   <!-- Cryptosleep casket -->
   <CasketContains>Tartalom</CasketContains>
-  <CasketWarning>Figyelem!\n\nNAME az utolsó dolgozó gyarmatosod! Ha HIM beszáll a hibernálóba, lehet, hogy nem tudsz tovább játszani. Biztos, hogy folytatod?</CasketWarning>
+  <CasketWarning>Figyelem!\n\nNAME az utolsó dolgozó gyarmatosod! Ha beszáll a hibernálóba lehet, hogy nem tudsz tovább játszani. Biztos, hogy folytatod?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Kilövés nem lehetséges.</ShipReportCannotLaunch>
@@ -309,7 +309,7 @@
   <ShipReportNoFullPods>Nincs foglalt hibernáló</ShipReportNoFullPods>
 
   <!-- Neurotrainer -->
-  <NeurotrainerUsed>{0} {1} neuroképzőt használt, hogy szintet lépjen {2} -> {3}.</NeurotrainerUsed>
+  <NeurotrainerUsed>{0} neuroképzőt ({1}) használt, hogy szintet lépjen {2} -> {3}.</NeurotrainerUsed>
 
   <!-- Minification -->
   <Installed>Telepített</Installed>
@@ -339,7 +339,7 @@
 
   <!-- Game over -->
   <GameOverEveryoneDead>Mindenki halott vagy eltávozott. Ennek a történetnek vége.\n\nTalán valaki más hasznosnak találja majd ezeket a romokat.</GameOverEveryoneDead>
-  <GameOverShipLaunched>Kilőtted az űrhajót! A következő gyarmatosok menekültek meg:\n\n{0}\nA következő gyarmatosok maradtak hátra:\n\n{1}\nAz MI megpróbálja biztonságos helyre irányítani a hajót. Lehet, hogy talál egy virágzó bolygót ebben a rendszerben. Az is lehet, hogy évszázados útra indul egy másik csillag felé. Dönthet úgy is, hogy egy aszteroida jege alatt pihen pár ezer évig, arra várva, hogy valaki új világot építsen itt.\n\nHa felébredsz, kiderül...</GameOverShipLaunched>
+  <GameOverShipLaunched>Kilőtted az űrhajót! A következő gyarmatosok menekültek meg:\n\n{0}\nA következő gyarmatosok maradtak hátra:\n\n{1}\nAz MI megpróbálja biztonságos helyre irányítani a hajót. Lehet, hogy talál egy virágzó bolygót ebben a rendszerben. Az is lehet, hogy évszázados útra indul egy másik csillag felé. Dönthet úgy is, hogy egy aszteroida jege alatt pihen pár ezer évig várva, hogy valaki új világot építsen itt.\n\nHa felébredsz, kiderül...</GameOverShipLaunched>
   <GameOverPlanetkillerImpact>Fénysebességhez közeli tempóban csapódott be a bolygógyilkos fegyver, trillió hidrogénbomba energiáját felszabadítva. Bolygód megolvadó anyaga szétspriccelt a kozmoszban, mint egy meglőtt, vízzel teli lufi.\n\n{0} egy része most egy kis aszteroidaövet képez. A többi olvadt, rádióaktív pokol, melyen állandóan kilométer magas földrengéshullámok futnak végig.\n\nNem élted túl.</GameOverPlanetkillerImpact>
   <GameOverKeepPlaying>Játék folytatása</GameOverKeepPlaying>
   <GameOverMainMenu>Főmenü</GameOverMainMenu>
@@ -358,7 +358,7 @@
   <!-- Hediffs growth modes -->
   <DiseaseGrowthModeChanged_Growing>{0} állapota: {1} növekszik.</DiseaseGrowthModeChanged_Growing>
   <DiseaseGrowthModeChanged_Stable>{0} állapota: {1} stagnál.</DiseaseGrowthModeChanged_Stable>
-  <DiseaseGrowthModeChanged_Remission>{0} állapota: {1} hanyatlik.</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Remission>{0} állapota: {1} sorvad.</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <MarriageSpotUsable>Használható.</MarriageSpotUsable>

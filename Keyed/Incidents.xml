@@ -54,7 +54,7 @@
   <WandererJoin>A NAME nevű {0} megérkezett és csatlakozik a kolóniához. Mestersége: {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>Emberevő falka</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>Egy falka emberevő {0} jelent meg a környéken. A közelben kóborolva vadásznak emberhúsra.\n\nAjtókon nem jutnak át, falak között biztonságban vagy. Kikapcsolt ágyúkat nem támadnak meg, ha nem akarod megölni őket, állítsd le ezeket.\n\nPár napig lesznek a környéken.</ManhunterPackArrived>
+  <ManhunterPackArrived>Egy falka emberevő {0} jelent meg a környéken. A közelben kóborolva vadásznak emberhúsra.\n\nAjtókon nem törnek át, ha nem látják, mikor bemész. Kikapcsolt ágyúkat nem támadnak meg, ha nem akarod megölni őket, állítsd le ezeket.\n\nPár napig lesznek a környéken.</ManhunterPackArrived>
 
   <!-- Crashed ship part-->
   <MessageAnimalInsanityPulse>Egy ősi építmény pszichotikus hullámot bocsátott ki magából, amitől a közelben lévő állatok megvadultak.</MessageAnimalInsanityPulse>
@@ -73,7 +73,7 @@
   <LetterAgentRevealed>Kiderült, hogy {0} az ellenséged {1} ügynöke.\n\nMegpróbál megszökni.</LetterAgentRevealed>
 
   <!-- Distant psychic drone -->
-  <LetterLabelPsychicDrone>Pszichotikus hullám</LetterLabelPsychicDrone>
+  <LetterLabelPsychicDrone>Pszichotikus hullámok</LetterLabelPsychicDrone>
   <LetterIncidentPsychicDrone>A {0} gyarmatosok fájdalomtól rezzennek össze!\n\nValami gyűlöletgenerátor dolgozik a távolban. Erős pszichotikus hullámot bocsájt ki az egész régióra, olyan frekvencián, ami csak a {0} nemet érinti. Némelyek hangulata igencsak rosszabb lesz pár napig.</LetterIncidentPsychicDrone>
 
   <LetterLabelPsychicSoothe>Pszichotikus nyugalom</LetterLabelPsychicSoothe>
@@ -100,7 +100,7 @@
   <LetterFarmAnimalsWanderIn>Egy csapat elhagyott vagy elveszett {0} kóborolt a környékre.\n\nÚgy tűnik megszokták az ember közelségét és csatlakoznak a kolóniához.</LetterFarmAnimalsWanderIn>
 
   <!-- Thrumbo passes -->
-  <LetterLabelThrumboPasses>Ritka thrumbok</LetterLabelThrumboPasses>
+  <LetterLabelThrumboPasses>Ritka trumbok</LetterLabelThrumboPasses>
   <LetterThrumboPasses>Egy kis csorda trumbo kóborol a környéken.\n\nBár békés természetűek, ezek a ritka állatok nagyon veszélyesek, ha szembeszállnak velük. Némely kereskedő sokat fizet a bőrükért és szarvukért.\n\nPár napig maradnak a környéken.</LetterThrumboPasses>
 
   <!-- Trader caravan -->
