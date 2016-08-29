@@ -2,8 +2,8 @@
 <LanguageData>
   <CreateWorldParams.text>Üdvözöllek! Ez az oktató mód megtanít a játék kezelésére.\n\nElső lépésként készíts egy világot, amiben játszol!\n\nEzen az oldalon a világ paramétereit állíthatod be.\n\nAz alapbeállítások megfelelőek, nyomd meg a "Létrehoz" gombot!</CreateWorldParams.text>
 
-  <ChooseLandingSite.text>Itt választod ki a földet érés helyét.\n\nSokféle életközösség létezik, kezdjük valami barátságosabbal.\n\nVálassz egy zónát mérsékelt erdővel és sík tereppel, majd nyomd meg a "Jóváhagyás" gombot.</ChooseLandingSite.text>
-  <ChooseLandingSite.rejectInputMessage>Kérlek, mérsékelt erdővel és sík tereppel rendelkező zónát válassz!</ChooseLandingSite.rejectInputMessage>
+  <ChooseLandingSite.text>Itt választod ki a földet érés helyét.\n\nSokféle életközösség létezik, kezdjük valami barátságosabbal.\n\nVálassz egy körzetet mérsékelt erdővel és sík tereppel, majd nyomd meg a "Jóváhagyás" gombot.</ChooseLandingSite.text>
+  <ChooseLandingSite.rejectInputMessage>Kérlek, mérsékelt erdővel és sík tereppel rendelkező körzetet válassz!</ChooseLandingSite.rejectInputMessage>
 
   <RandomizeCharacter.text>Most létrehozzuk a karaktereidet!\n\nPróbálj meg véletlenszerűen létrehozni egyet a "Véletlenszerű" gombbal.</RandomizeCharacter.text>
   <RandomizeCharacter.rejectInputMessage>Kérlek próbáld ki a "Véletlenszerű" gombot!</RandomizeCharacter.rejectInputMessage>
@@ -18,7 +18,7 @@
 
   <TimeControls.text>Az idő fel is gyorsítható.\n\nPróbáld felgyorsítani az időt a {Key:TimeSpeedNormal}, {Key:TimeSpeedFast} és {Key:TimeSpeedSuperfast} billentyűkkel, vagy a jobb alsó sarokban lévő felületen.</TimeControls.text>
 
-  <MakeStockpile.text>Nagyszerű!\n\nKészíts egy raktárterületet, hogy a gyarmatosoknak legyen hol tárolni a dolgaikat!\n\n1. Kattints az "Építés" gombra\n2. Válaszd az "Zóna/Körzet" kategóriát\n3. Válaszd ki a "Raktárterület" eszközt\n4. Fess be vele egy négyzet alakú területet, ahogy a térképen látod</MakeStockpile.text>
+  <MakeStockpile.text>Nagyszerű!\n\nKészíts egy raktárterületet, hogy a gyarmatosoknak legyen hol tárolni a dolgaikat!\n\n1. Kattints az "Építés" gombra\n2. Válaszd az "Körzetek" kategóriát\n3. Válaszd ki a "Raktárterület" eszközt\n4. Fess be vele egy négyzet alakú területet, ahogy a térképen látod</MakeStockpile.text>
   <MakeStockpile.rejectInputMessage>Kérlek, a kijelölt helyen csináld a raktárterület!</MakeStockpile.rejectInputMessage>
   <MakeStockpile.onMapInstruction>Ide tedd a raktárterületet\n(saroktól-sarokig húzd)</MakeStockpile.onMapInstruction>
 
@@ -52,7 +52,7 @@
   <BuildHorseshoesPin.rejectInputMessage>Kérlek, építsd a játékot a szobán kívülre!</BuildHorseshoesPin.rejectInputMessage>
   <BuildHorseshoesPin.onMapInstruction>A szobán kívülre építsd a játékot!</BuildHorseshoesPin.onMapInstruction>
 
-  <MakeGrowingZone.text>A ház készül!\n\nA gyarmatosoknak szüksége lesz valami ennivalóra. Helyezz el egy "Kert" zónát, ahogy a térképen látható!\n\nEmbereid ide fogják vetni a magokat.</MakeGrowingZone.text>
+  <MakeGrowingZone.text>A ház készül!\n\nA gyarmatosoknak szüksége lesz valami ennivalóra. Helyezz el egy "Kert" körzetet, ahogy a térképen látható!\n\nEmbereid ide fogják vetni a magokat.</MakeGrowingZone.text>
   <MakeGrowingZone.rejectInputMessage>Kérlek, a kijelölt helyre helyezd a kertet!</MakeGrowingZone.rejectInputMessage>
   <MakeGrowingZone.onMapInstruction>Itt jelöld ki a kertet\n(saroktól-sarokig húzd)</MakeGrowingZone.onMapInstruction>
 
