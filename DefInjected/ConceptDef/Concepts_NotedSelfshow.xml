@@ -13,7 +13,7 @@
   <Pause.helpText>A {Key:TogglePause} megállítja a játékot.\n\nHa a játék áll, akkor is tudsz utasításokat osztani.\n\nNe feledd, ha a dolgok kaotikussá válnak: {Key:TogglePause}!</Pause.helpText>
 
   <Stockpiles.label>Jelölj ki raktárterületet</Stockpiles.label>
-  <Stockpiles.helpText>A gyarmatosoknak kell egy hely, ahová pakolhatnak. Jelölj ki egy raktárterületet, ahová a tárgyakat szállíthatják.\n\nMegtalálod az "Építés" menüben, "Zóna/Körzet" alatt.</Stockpiles.helpText>
+  <Stockpiles.helpText>A gyarmatosoknak kell egy hely, ahová pakolhatnak. Jelölj ki egy raktárterületet, ahová a tárgyakat szállíthatják.\n\nMegtalálod az "Építés" menüben, "Körzetek" alatt.</Stockpiles.helpText>
 
   <Forbidding.label>Interakció engedélyezése</Forbidding.label>
   <Forbidding.helpText>A gyarmatosok nem fognak olyan dolgokhoz nyúlni amik "Tiltott"-ak.\n\nVálaszd ki a földet érési területhez közeli tárgyakat és nyomj F-et, hogy felold a tiltást róluk.</Forbidding.helpText>
@@ -52,7 +52,7 @@
   <StorageTab.helpText>Testre szabhatod a raktárkörzeteket, ha kiválasztod őket és megnyitod a "Raktár" fület, a bal-alsó sarokban lévő információs panel tetején.</StorageTab.helpText>
 
   <HomeArea.label>Lakókörzetek</HomeArea.label>
-  <HomeArea.helpText>A "Lakókörzet" alapján tudják a kolónia lakók, hogy hol kell takarítani és tüzet oltani.\n\n"A Lakókörzet" meghatározható az "Építés" menüben a "Zónák/Körzet" kategória alatt.</HomeArea.helpText>
+  <HomeArea.helpText>A "Lakókörzet" alapján tudják a kolónia lakók, hogy hol kell takarítani és tüzet oltani.\n\n"A Lakókörzet" meghatározható az "Építés" menüben a "Körzetek" kategória alatt.</HomeArea.helpText>
 
   <SpoilageAndFreezers.label>Romlás és hűtő</SpoilageAndFreezers.label>
   <SpoilageAndFreezers.helpText>A legtöbb élelem relatív rövid idő alatt megromlik.\n\nEnnek megakadályozására fagyasztót építhetsz.\n\nEhhez építs egy zárt szobát hűtővel a falban, és állítsd a gépet negatív hőmérsékletre.\n\nA fagyott étel sohasem romlik meg.</SpoilageAndFreezers.helpText>
