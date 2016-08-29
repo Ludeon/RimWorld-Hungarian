@@ -5,7 +5,7 @@
   <DesignatorCancelDesc>Visszavon minden parancsot.</DesignatorCancelDesc>
 
   <DesignatorCutPlants>Növényt vág</DesignatorCutPlants>
-  <DesignatorCutPlantsDesc>Növények levágásra jelölése. A növény el lesz távolítva és minden esetleges élelem be lesz gyűjtve.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlantsDesc>Növények kivágásra jelölése. A növény el lesz távolítva és minden esetleges élelem be lesz gyűjtve.</DesignatorCutPlantsDesc>
 
   <DesignatorDeconstruct>Lebont</DesignatorDeconstruct>
   <DesignatorDeconstructDesc>Épületek lebontása és az építőanyag egy részének visszanyerése.</DesignatorDeconstructDesc>
@@ -19,7 +19,7 @@
   <DesignatorHarvestWood>Fát vág</DesignatorHarvestWood>
   <DesignatorHarvestWoodDesc>Megjelöli a fákat kivágásra és feldolgozásra.</DesignatorHarvestWoodDesc>
 
-  <DesignatorHaulThings>Szállít</DesignatorHaulThings>
+  <DesignatorHaulThings>Cipel</DesignatorHaulThings>
   <DesignatorHaulThingsDesc>Kődarabok és egyéb tárgyak megjelölése rakodóhelyre való szállításra. Nem szükséges ételnél és tetemeknél, amik mindig szállíthatóak.</DesignatorHaulThingsDesc>
   <MustHaulHaulables>Csak nem alapértelmezetten szállítható tárgyakra állítható, pl. kődarabok.</MustHaulHaulables>
 
@@ -49,14 +49,14 @@
   <DesignatorAreaBuildRoofClearDesc>Befedésre kijelölt körzet törlése. A meglévő tetők megmaradnak, újak nem épülnek.</DesignatorAreaBuildRoofClearDesc>
 
   <DesignatorAreaNoRoofExpand>Fedetlen körzet kiterjesztése</DesignatorAreaNoRoofExpand>
-  <DesignatorAreaNoRoofExpandDesc>A gyarmatosok eltávolítják a körzeten belüli tetőket (kivéve sziklabarlang).</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofExpandDesc>A gyarmatosok eltávolítják a körzeten belüli tetőket (kivéve barlang).</DesignatorAreaNoRoofExpandDesc>
   <DesignatorAreaNoRoofClear>Fedetlen körzet törlése</DesignatorAreaNoRoofClear>
   <DesignatorAreaNoRoofClearDesc>A gyarmatosok többé nem távolítják el a tetőket innen.</DesignatorAreaNoRoofClearDesc>
 
   <DesignatorAreaSnowClearExpand>Hómentes körzet kiterjesztése</DesignatorAreaSnowClearExpand>
-  <DesignatorAreaSnowClearExpandDesc>\nEzen a körzeten belül a gyarmatosok ellapátolják a havat.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearExpandDesc>\nA körzeten belül a gyarmatosok ellapátolják a havat.</DesignatorAreaSnowClearExpandDesc>
   <DesignatorAreaSnowClearClear>Hómentes körzet törlése</DesignatorAreaSnowClearClear>
-  <DesignatorAreaSnowClearClearDesc>\nEzen a körzeten belül a gyarmatosok többé nem lapátolják el a havat.</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearClearDesc>\nA körzeten belül a gyarmatosok többé nem lapátolják el a havat.</DesignatorAreaSnowClearClearDesc>
 
   <DesignatorExpandAreaAllowed>Megengedett körzet kiterjesztése</DesignatorExpandAreaAllowed>
   <DesignatorExpandAreaAllowedDesc>\nEzeket a körzeteket hozzárendelheted a gyarmatosokhoz. Nem fognak munkát végezni vagy szükségleteket kielégíteni ezen a körzeten kívül.</DesignatorExpandAreaAllowedDesc>
@@ -64,13 +64,13 @@
   <DesignatorClearAreaAllowedDesc>\nA gyarmatosok nem fognak munkát végezni vagy szükségleteket kielégíteni az engedélyezett körzeten kívül.</DesignatorClearAreaAllowedDesc>
   <ManageAreas>Körzetek kezelése...</ManageAreas>
 
-  <DesignatorGrowingZoneDesc>Jelölj ki egy zónát, ahol a gyarmatosok egy bizonyos növényt termesztenek.</DesignatorGrowingZoneDesc>
+  <DesignatorGrowingZoneDesc>Jelölj ki egy körzetet egy bizonyos növény termesztésére.</DesignatorGrowingZoneDesc>
 
   <DesignatorZoneCreateStorageResourcesDesc>Jelölj ki raktárterületet, ahol a gyarmatosok a készleteket tárolják.\nMeglévő raktárterület kiterjesztésére is alkalmas.</DesignatorZoneCreateStorageResourcesDesc>
 
   <DesignatorZoneCreateStorageDumpingDesc>Jelölj ki raktárterületet, ahol a gyarmatosok a szemetet tárolják.\nMeglévő raktárterület kiterjesztésére is alkalmas.</DesignatorZoneCreateStorageDumpingDesc>
 
-  <DesignatorZoneDelete>Zóna törlése</DesignatorZoneDelete>
+  <DesignatorZoneDelete>Körzet törlése</DesignatorZoneDelete>
   <DesignatorZoneDeleteDesc>Raktár-, illetve farmterület törlése.</DesignatorZoneDeleteDesc>
 
   <DesignatorClaim>Foglal</DesignatorClaim>
@@ -106,7 +106,7 @@
   <TerrainIsAlready>A talaj itt már {0}.</TerrainIsAlready>
   <TerrainBeingSmoothed>A talaj itt már ki van jelölve egyengetésre.</TerrainBeingSmoothed>
   <IdenticalThingExists>Ez már létezik itt.</IdenticalThingExists>
-  <IdenticalBlueprintExists>Ugyanez a terv már ide lett helyezve.</IdenticalBlueprintExists>
+  <IdenticalBlueprintExists>Ugyanez a tervrajz már ide lett helyezve.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Itt a talaj nem megfelelő erre.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Foglalt hely.</SpaceAlreadyOccupied>
   <TerrainMustBeRemovable>Csak eltávolítható padlóval lehetséges.</TerrainMustBeRemovable>
