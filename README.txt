@@ -12,17 +12,17 @@ Translators:
 ---------------------
 - pluhi
 
-Some text used from old translation created by:
+Some text used from the old partial translation created by:
 - Jamesgt
 - SjoCi
 - Moredoor
 
-Also kudos to German translators. I used their DefInjected XMLs as base.
+Also kudos to German/Korean translators. I used their DefInjected XMLs as base.
 
 Status:
 ---------------------
 
-Game version: 0.15.1282 rev1150
+Game version: 0.15.1284 rev134
 
 DefInjected:
 Old defs converted to new format and merged with German defs. Rest of the defs added from German translation. All done.
@@ -31,4 +31,19 @@ Keyed:
 Done.
 
 Strings:
-Considered done. ColonyNames not translated, maybe later. Other strings could use some love too to avoid really stupid faction names for example.
+Considered done. ColonyNames not translated, maybe later. Other strings could use some love to avoid really stupid faction names for example.
+
+==================================================================================================================================================================
+
+Megjegyzések:
+
+1. A háttértörténetek jelenleg nem fordíthatók.
+2. Ahol változóból húzza be a játék egy dolog nevét, ott előfordulhat az angol megnevezés.
+3. Sok helyen generált a szöveg. Az angol remek nyelv erre, a magyar nagyon nem. Próbáltam kerülni a ragozást, ahol csak lehetett. A szobrok témájának leírása sok helyen tartalmaz egymásba ágyazott változókat. Kifejezésekből és szavakból így generál a játék tagmondatokat, ezekből mondatokat. A végeredmény angolul csak tartalmilag vicces, magyarul sokszor formailag is.
+4. Sok helyen a helyesírás és a fordítás minőségének kárára kellett módosítanom a tartalmat, főleg helyhiány miatt.
+5. Hibákat és egyebeket küldjétek ide: pluhi81@gmail.com
+
+Jó szórakozást!
+
+pluhi
+
