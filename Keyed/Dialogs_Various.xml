@@ -12,7 +12,7 @@
 
   <!-- Recovered from errors caused by mods -->
   <RecoveredFromErrorsDialogTitle>Korrupt vagy inkompatibilis mod okozta hiba</RecoveredFromErrorsDialogTitle>
-  <RecoveredFromErrorsText>Úgy tűnik valamelyik aktív mod hibát okozott.\n\nÜtközik egy másik moddal, másik RimWorld verzióhoz lett írva vagy sérült .\n\nMinden mod ki lett kapcsolva, újra lehet őket aktiválni a Modok menüben.</RecoveredFromErrorsText>
+  <RecoveredFromErrorsText>Úgy tűnik, valamelyik aktív mod hibát okozott.\n\nÜtközik egy másik moddal, másik RimWorld verzióhoz lett írva vagy sérült .\n\nMinden mod ki lett kapcsolva, újra lehet őket aktiválni a Modok menüben.</RecoveredFromErrorsText>
 
   <!-- Errors during loading -->
   <ErrorWhileLoadingAssetsTitle>Hiba eszközök betöltése közben</ErrorWhileLoadingAssetsTitle>
@@ -38,9 +38,11 @@
   <Initializing>Inicializálás</Initializing>
   <LoadingWorld>Világ betöltése</LoadingWorld>
   <LoadingMap>Térkép betöltése</LoadingMap>
-  <InitializingMap>Térkép inicializálása</InitializingMap>
+  <!-- <InitializingMap>Térkép inicializálása</InitializingMap> -->
   <SpawningAllThings>Világ életre keltése</SpawningAllThings>
-
+  <InitializingGame>Játék inicializálása</InitializingGame>
+  <SpawningColonists>Gyarmatosok létrehozása</SpawningColonists>
+  
   <!-- Save/load -->
   <SaveGameButton>Mentés</SaveGameButton>
   <LoadGameButton>Betöltés</LoadGameButton>
@@ -60,10 +62,24 @@
   <LoadAnyway>Mindenképp betölt</LoadAnyway>
 
   <!-- Colony naming-->
-  <NameColonyMessage>Mindenki tudja, hogy nem akarsz sokáig maradni ezen a sziklán, de {0} szerint azért adhatnál a kolóniának egy nevet.\n\nMi legyen a neve?</NameColonyMessage>
-  <ColonyGainsName>A kolónia neve mostantól {0}</ColonyGainsName>
-  <ColonyNameIsInvalid>Ez a név nem megfelelő</ColonyNameIsInvalid>
+  <!-- <NameColonyMessage>Mindenki tudja, hogy nem akarsz sokáig maradni ezen a sziklán, de {0} szerint azért adhatnál a kolóniának egy nevet.\n\nMi legyen a neve?</NameColonyMessage> -->
+  <!-- <ColonyGainsName>A kolónia neve mostantól {0}</ColonyGainsName> -->
+  <!-- <ColonyNameIsInvalid>Ez a név nem megfelelő</ColonyNameIsInvalid> -->
 
+   <!-- Player faction naming -->
+  <NamePlayerFactionMessage>{0} szerint el kéne nevezni a frakciódat. Mi legyen a neve?</NamePlayerFactionMessage>
+  <PlayerFactionGainsName>A frakciód neve mostantól: {0}.</PlayerFactionGainsName>
+  <PlayerFactionNameIsInvalid>Érvénytelen név.</PlayerFactionNameIsInvalid>
+
+  <!-- Player faction base naming -->
+  <NamePlayerFactionBaseMessage>Úgy tűnik, egy darabig itt leszel, {0} szerint el kéne nevezned ezt a közösséget. Mi legyen a neve?</NamePlayerFactionBaseMessage>
+  <PlayerFactionBaseGainsName>A közösség neve mostantól: {0}.</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseNameIsInvalid>Érvénytelen név.</PlayerFactionBaseNameIsInvalid>
+
+  <!-- Player faction and faction base naming -->
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>Úgy tűnik, egy darabig itt leszel, {0} szerint el kéne nevezned ezt a közösséget. Mi legyen a neve?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <PlayerFactionAndBaseGainsName>A frakciód neve mostantól: {0}, és a közösség neve mostantól: {1}.</PlayerFactionAndBaseGainsName>
+  
   <!-- Renaming -->
   <NameIsInvalid>Érvénytelen név</NameIsInvalid>
   <NameIsInUse>Foglalt név</NameIsInUse>
@@ -157,8 +173,8 @@
   <Days>nap</Days>
   <MinGrowingSkillToSow>Min. földművelés</MinGrowingSkillToSow>
   <FertilityRequirement>Termékenységi követelmény</FertilityRequirement>
-  <SoilFertilitySensitivityGrowthRate>Kényesség (növekedési sebesség)</SoilFertilitySensitivityGrowthRate>
-  <SoilFertilitySensitivityPlantChance>Kényesség (megered-e)</SoilFertilitySensitivityPlantChance>
+  <!-- <SoilFertilitySensitivityGrowthRate>Kényesség (növekedési sebesség)</SoilFertilitySensitivityGrowthRate> -->
+  <!-- <SoilFertilitySensitivityPlantChance>Kényesség (megered-e)</SoilFertilitySensitivityPlantChance> -->
   <LightRequirement>Fény igény</LightRequirement>
   <Attributes>Tulajdonságok</Attributes>
   <LifeSpan>Élettartam</LifeSpan>
@@ -168,6 +184,7 @@
   <WalkSpeedProperty>Mozgás sebessége</WalkSpeedProperty>
   <MinFoodQuality>Min. étel minőség</MinFoodQuality>
   <Diet>Étrend</Diet>
+  <BodySize>Testméret</BodySize>
   <RecruitDifficulty>Toborzási nehézség</RecruitDifficulty>
   <MarketValue>Alapár</MarketValue>
   <Covers>Befedi</Covers>
@@ -203,7 +220,70 @@
   <NegotiatorTalkingImpaired>Az alkuszod, {0}, egészsége miatt nem tud rendesen beszélni.\n\nEz befolyásolja az árakat.\n\nHasználj egészségesebb alkuszt.</NegotiatorTalkingImpaired>
   <ConfirmTraderShortFunds>A kereskedőnek nincs elég ezüstje ehhez az egyezséghez. Mindenképp megkötöd?</ConfirmTraderShortFunds>
   <SortBy>Rendezés</SortBy>
+  <TraderTypePrice>kereskedő típusa</TraderTypePrice>
+  <Selling>vesz</Selling>
+  <Buying>elad</Buying>
+  <ItemSellPriceFactor>eladási ár szorzója</ItemSellPriceFactor>
+  <DifficultyLevel>nehézségi szint</DifficultyLevel>
+  <PostCurve>global post-process curve</PostCurve>
+  <YourNegotiatorBonus>Alkusz bónusz</YourNegotiatorBonus>
+  <TradeWithFactionBaseBonus>Saját frakció bónusz</TradeWithFactionBaseBonus>
+  <minimum>minimum</minimum>
+  <FinalPrice>Végső ár</FinalPrice>
+  <TradeMassUsageTooltip>Végső tömeg és fennmaradó kapacitás.</TradeMassUsageTooltip>
 
+  <!-- Form caravan -->
+  <FormCaravan>Karaván létrehozása</FormCaravan>
+  <FormCaravanColonyThingCountTip>Ebből a tárgyból ennyit rakhatunk a karavánra.</FormCaravanColonyThingCountTip>
+  <PawnsTab>Személyek és állatok</PawnsTab>
+  <ItemsTab>Tárgyak</ItemsTab>
+  <CaravanConfigTab>Konfiguráció</CaravanConfigTab>
+  <CaravanMustHaveAtLeastOneColonist>Legalább egy járóképes gyarmatost a karavánhoz kell rendelni.</CaravanMustHaveAtLeastOneColonist>
+  <CaravanCouldNotFindExitSpot>Nem található érvényes kilépési pont.</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindReachableExitSpot>Figyelem: némelyik gyarmatos nem éri el a kilépési pontot.</CaravanCouldNotFindReachableExitSpot>
+  <CaravanPawnIsUnreachable>{0} nem elérhető egyik hozzárendelt gyarmatos számára sem.</CaravanPawnIsUnreachable>
+  <CaravanItemIsUnreachableSingle>{0} nem elérhető egyik hozzárendelt gyarmatos számára sem.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableMulti>{0}x {1} nem elérhető egyik hozzárendelt gyarmatos számára sem.</CaravanItemIsUnreachableMulti>
+  <TooBigCaravanMassUsage>Nem fér ennyi a karavánra.</TooBigCaravanMassUsage>
+  <CaravanMassUsageTooltip>Jelenlegi tömeg és kapacitás.\n\nA tömegbe beleszámít a szállított áru és a gyarmatosok felszerelése is.\n\nA karaván nem indítható útnak, ha túl van pakolva.</CaravanMassUsageTooltip>
+  <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
+  <DaysWorthOfFoodInfo>{0} napi élelem</DaysWorthOfFoodInfo>
+  <DaysWorthOfFoodTooltip>Kb. ennyi nap után fog a karaván kifogyni az élelemből.\n\nEmberi és állati fogyasztás is bele van számítva, a legrosszabb eshetőséggel számolva. Ennyi nap elteltével legalább egy személy vagy állat éhezni fog.</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodWarningDialog>A karavánod már csak {0} napi élelemmel rendelkezik, hamarosan éhezni kezd.\n\nBiztosan létre akarod hozni?</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodWarningDialog_NoFood>A karavánod kifogyott az élelemből, hamarosan éhezni kezd.\n\nBiztosan létre akarod hozni?</DaysWorthOfFoodWarningDialog_NoFood>
+  <NoExitDirectionForCaravanChosen>Választanod kell egy kilépési irányt a karaván számára.</NoExitDirectionForCaravanChosen>
+  <NoCaravanExitDirectionAvailable>(kilépési irány nem érhető el)</NoCaravanExitDirectionAvailable>
+  <ExitDirection>Kilépési irány</ExitDirection>
+  <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
+  <ItemWeightTip>A tárgy tömege.</ItemWeightTip>
+  <MarketValueTip>Piaci ár</MarketValueTip>
+  <MassCapacity>Kapacitás</MassCapacity>
+  <Mass>Tömeg</Mass>
+  <EquipmentAndApparelMass>Felszerelés és ruházat tömege</EquipmentAndApparelMass>
+  <InventoryMass>Készletek tömege</InventoryMass>
+  <CaravanFormationProcessStarted>A gyarmatosok magukhoz veszik a hozzárendelt tárgyakat és elindulnak, amint lehet.</CaravanFormationProcessStarted>
+  <ReformCaravan>Karaván újjálakítása</ReformCaravan>
+  <ColonistsSection>Gyarmatosok</ColonistsSection>
+  <PrisonersSection>Foglyok</PrisonersSection>
+  <AnimalsSection>Állatok</AnimalsSection>
+
+  <!-- Split caravan -->
+  <SplitCaravan>Karaván felosztása</SplitCaravan>
+  <SourceCaravanMustHaveAtLeastOneColonist>Legalább egy járóképes gyarmatos szükséges.</SourceCaravanMustHaveAtLeastOneColonist>
+  <CaravanSplitSourceLabel>Jelenlegi</CaravanSplitSourceLabel>
+  <CaravanSplitDestLabel>Új</CaravanSplitDestLabel>
+  <SplitCaravanThingCountTip>Ebből a tárgyból ennyi adható át az új karavánnak.</SplitCaravanThingCountTip>
+  <SplitCaravanMassUsageTooltip>Jelenlegi tömeg és kapacitás.</SplitCaravanMassUsageTooltip>
+
+  <!-- Load transporters -->
+  <LoadTransporters>Feltölteni: {0}</LoadTransporters>
+  <TooBigTransportersMassUsage>A személyek és tárgyak együttes tömege túl nagy.</TooBigTransportersMassUsage>
+  <CantSendEmptyTransportPods>Üres szállítókapszulát nem lehet útnak indítani.</CantSendEmptyTransportPods>
+  <PawnCantReachTransporters>{0} nem fér a szállítókapszulához.</PawnCantReachTransporters>
+  <TransporterItemIsUnreachableSingle>{0} nem szállítható a kapszulához.</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableMulti>{0}x {1} nem szállítható a kapszulához.</TransporterItemIsUnreachableMulti>
+  <TransportersMassUsageTooltip>Jelenlegi tömeg és kapacitás.\n\nA karaván nem indítható útnak, ha túl van pakolva.</TransportersMassUsageTooltip>
+  
   <!-- Comms -->
   <SocialSkillIs>Szociális készség: {0}</SocialSkillIs>
 
@@ -228,7 +308,6 @@
   <NoOutfitSelected>Nincs felszerelés kiválasztva</NoOutfitSelected>
 
   <!-- Drug policy management -->
-
   <DrugPolicy>Drogszabályok</DrugPolicy>
   <SelectDrugPolicy>Szabály kiválasztása...</SelectDrugPolicy>
   <NewDrugPolicy>Új szabály</NewDrugPolicy>
@@ -258,11 +337,26 @@
   <MoodThresholdColumnDesc>A gyarmatos csak akkor szedje a drogot, ha a hangulata rosszabb, mint ez a szint.</MoodThresholdColumnDesc>
   <JoyThresholdColumnDesc>A gyarmatos csak akkor szedje a drogot, ha az örömszintje rosszabb, mint ez a szint.</JoyThresholdColumnDesc>
   <TakeToInventoryColumnDesc>Ennyivel többet vegyen fel, hogy ne kelljen állandóan a raktárhoz rohangálni.</TakeToInventoryColumnDesc>
-  <!-- <DrugUsageTipDeny>Tiltva\n\nEz a drog nem fogyasztható. Egyes tulajdonságokkal rendelkező illetve speciális mentális állapotban lévő karaktereket ez nem fog megakadályozni.</DrugUsageTipDeny> -->
+  <DrugUsageTipDeny>Tiltva\n\nEz a drog nem fogyasztható. Egyes tulajdonságokkal rendelkező illetve speciális mentális állapotban lévő karaktereket ez nem fog megakadályozni.</DrugUsageTipDeny>
   <DrugUsageTipForJoy>Élvezet javítására\n\nA drog használható arra, hogy növelje az élvezetet és természetesen függőség kielégítésére is.</DrugUsageTipForJoy>
   <DrugUsageTipScheduled>Ütemezés szerint\n\nAz előre beállított időpontokban fogyasztható, ha a többi feltétel is ki van elégítve.\n\nA drog használható arra is, hogy feldobja a hangulatot és természetesen függőség kielégítésére is.</DrugUsageTipScheduled>
 
   <!-- Growing -->
   <NoGrowerCanPlant>A {0} vetéséhez szükséges "Földművelés" készség szintje: {1}.\n\nEgyik munkaképes emberednek sincs ilyenje, ezért ez a mag nem lesz elvetve.</NoGrowerCanPlant>
 
+  <!-- Abandon home -->
+  <ConfirmAbandonHomeWithColonyPawns>Még van itt gyarmatosod vagy állatod. Biztosan magára akarod hagyni?\n\nA következő állat(ok) vagy személy(ek) maradnának hátra:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+
+  <!-- Move caravan and leave prisoners and animals behind -->
+  <ConfirmLeavePrisonersOrAnimalsBehind>Még maradt itt fogoly vagy állat és az egyetlen karaván, amihez csatlakozhatnának.\n\nHa itt hagyod őket, nem viheted el őket, amíg vissza nem térsz. A foglyok meg fognak szökni, az állatok várnak rád.\n\nHa nem indulsz útnak, csatlakozni fognak hozzád, amint lehetséges.\n\nBiztosan el akarod indítani a karavánt?</ConfirmLeavePrisonersOrAnimalsBehind>
+
+  <!-- Abandon pawn -->
+  <ConfirmAbandonPawnDialog>Biztosan magára akarod hagyni őt: {0}?</ConfirmAbandonPawnDialog>
+  <ConfirmAbandonPawnDialog_LeftToDie>{0} szinte biztosan meghal.</ConfirmAbandonPawnDialog_LeftToDie>
+  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} magával viszi a következő felszerelést:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
+  <ConfirmAbandonPawnDialog_AllColonistsThoughts>Minden gyarmatos a következőt fogja gondolni:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
+  <ConfirmAbandonPawnDialog_IndividualThoughts>{0} elhagyása a következőt fogja eredményezni a következő gyarmatosoknál:</ConfirmAbandonPawnDialog_IndividualThoughts>
+
+  <!-- Send transport pods which are not completely loaded -->
+  <ConfirmSendNotCompletelyLoadedPods>A kapszulába nem szállt még be mindenki. {0} hiányzik. Indítsuk?</ConfirmSendNotCompletelyLoadedPods>
 </LanguageData>
