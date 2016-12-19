@@ -76,6 +76,7 @@
   <Hilliness_SmallHills>kis dombok</Hilliness_SmallHills>
   <Hilliness_LargeHills>nagy dombok</Hilliness_LargeHills>
   <Hilliness_Mountainous>hegyek</Hilliness_Mountainous>
+  <Hilliness_Impassable>járhatatlan</Hilliness_Impassable>
 
   <!-- Steam workshop interaction -->
   <WorkshopInteractStage_CreatingItem>Készít</WorkshopInteractStage_CreatingItem>
@@ -143,7 +144,17 @@
   <Kelvin>Kelvin</Kelvin>
 
   <!-- Spoil reason -->
-  <SpoilReason_Freezing>Fagyás miatt megromlott.</SpoilReason_Freezing>
-  <SpoilReason_HighTemperature>Meleg miatt megromlott.</SpoilReason_HighTemperature>
+  <!-- <SpoilReason_Freezing>Fagyás miatt megromlott.</SpoilReason_Freezing> -->
+  <!-- <SpoilReason_HighTemperature>Meleg miatt megromlott.</SpoilReason_HighTemperature> -->
 
+  <!-- Direction8Way -->
+  <Direction8Way_North_Short>É</Direction8Way_North_Short>
+  <Direction8Way_NorthEast_Short>ÉK</Direction8Way_NorthEast_Short>
+  <Direction8Way_East_Short>K</Direction8Way_East_Short>
+  <Direction8Way_SouthEast_Short>DK</Direction8Way_SouthEast_Short>
+  <Direction8Way_South_Short>D</Direction8Way_South_Short>
+  <Direction8Way_SouthWest_Short>DNY</Direction8Way_SouthWest_Short>
+  <Direction8Way_West_Short>NY</Direction8Way_West_Short>
+  <Direction8Way_NorthWest_Short>ÉNY</Direction8Way_NorthWest_Short>
+  
 </LanguageData>

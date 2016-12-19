@@ -8,6 +8,7 @@
   <CannotUseNoPath>Nem lehetséges (nem megközelíthető)</CannotUseNoPath>
   <CannotUseReserved>Nem használható (fenntartott)</CannotUseReserved>
   <CannotUseFull>Nem használható (tele van)</CannotUseFull>
+  <LeaderUnavailable>{0} vezér nem elérhető</LeaderUnavailable>
 
   <FireAt>Tüzelni erre: {0} </FireAt>
 
@@ -25,6 +26,7 @@
 
   <ForbiddenLower>tilos</ForbiddenLower>
   <ForbiddenOutsideAllowedAreaLower>megengedett körzeten kívül</ForbiddenOutsideAllowedAreaLower>
+  <NotInHomeArea>lakókörzeten kívül</NotInHomeArea>
   <SociallyImproperLower>társadalmilag helytelen</SociallyImproperLower>
   <PrisonerRoomLower>börtönszoba</PrisonerRoomLower>
   <BurningLower>ég</BurningLower>
@@ -67,6 +69,7 @@
   <Reserved>Másnak van fenntartva.</Reserved>
   <ReservedBy>Fenntartva neki: {0}.</ReservedBy>
   <IsReservedBy>{0} fenntartva neki: {1}.</IsReservedBy>
+  <TooHeavy>Túl nehéz</TooHeavy>
 
   <Incapable>alkalmatlan</Incapable>
   <IncapableOfCapacity>alkalmatlan erre: {0}</IncapableOfCapacity>
@@ -80,12 +83,29 @@
   <ForceWear>Kényszerített viselet: {0}</ForceWear>
   <CannotWear>Nem viselheti ezt: {0}</CannotWear>
   <CannotWearBecauseOfMissingBodyParts>hiányzó testrész</CannotWearBecauseOfMissingBodyParts>
+  
+  <CannotPickUp>Nem lehet felvenni ezt: {0}</CannotPickUp>
+  <CannotPickUpAll>Nem lehet felvenni az összeset: {0}</CannotPickUpAll>
+  <PickUp>Felvenni ezt: {0}</PickUp>
+  <PickUpAll>Felvenni az összest: {0}</PickUpAll>
+  <PickUpSome>Felvenni ebből: {0}</PickUpSome>
+  <PickUpCount>Felvenni {{0}}db-t ebből: {0}</PickUpCount>
+
+  <CannotGiveToPackAnimal>Nem lehet a málhásra rakni ezt: {0}</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>Nem lehet az összeset a málhásra rakni: {0}</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>Málhásra rakni ezt: {0}</GiveToPackAnimal>
+  <GiveToPackAnimalAll>Málhásra rakni az összeset:{0}</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>Málhásra rakni ebből: {0}</GiveToPackAnimalSome>
+  <GiveToPackAnimalCount>{{0}}db-t ebből: {0}</GiveToPackAnimalCount>
+
+  <CannotCarryToExit>Nem lehet elhagyni a körzetet ezzel: {0}</CannotCarryToExit>
+  <CarryToExit>Elhagyni a körzetet ezzel: {0}</CarryToExit>
 
   <Strip>Vetkőztesd le őt: {0}</Strip>
   <CannotStrip>Nem tudja levetkőztetni őt: {0}</CannotStrip>
 
-  <Deposit>{0} kerüljön ide: {1}</Deposit>
-  <CannotDeposit>{0} nem tehető ide: {1}</CannotDeposit>
+  <!-- <Deposit>{0} kerüljön ide: {1}</Deposit> -->
+  <!-- <CannotDeposit>{0} nem tehető ide: {1}</CannotDeposit> -->
 
   <SelfDestructHere>Önmegsemmisítés itt</SelfDestructHere>
 
@@ -97,6 +117,10 @@
 
   <TradeWith>Kereskedj vele: {0}</TradeWith>
   <CannotTrade>Nem lehet kereskedni</CannotTrade>
+  
+  <EnterMap>Belépni ide: {0}</EnterMap>
+  <VisitFactionBase>Meglátogatni ezt: {0}</VisitFactionBase>
+  <AttackFactionBase>Megtámadni ezt: {0}</AttackFactionBase>
 
   <!-- Specific thing interactions -->
   <EnterCryptosleepCasket>Hibernálóba beszállni</EnterCryptosleepCasket>
@@ -121,5 +145,8 @@
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Vedd előre: {1} {0}</PrioritizeGeneric>
+  
+  <DropAtEdge>Szélen eldobni</DropAtEdge>
+  <DropInCenter>Középen eldobni</DropInCenter>
 
 </LanguageData>
