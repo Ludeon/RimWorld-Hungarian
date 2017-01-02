@@ -3,24 +3,52 @@
 
   <Sandbags.label>homokzsák</Sandbags.label>
   <Sandbags.description>Fedezék lövések ellen.</Sandbags.description>
-
-  <Bullet_TurretImprovised.label>robotágyú lőszer</Bullet_TurretImprovised.label>
-
+ 
+ 
+  <!-- Improvised turret -->
+ 
   <TurretGun.label>robotágyú</TurretGun.label>
   <TurretGun.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</TurretGun.description>
 
+  <Bullet_TurretImprovised.label>robotágyú lőszer</Bullet_TurretImprovised.label>
+  
   <Gun_TurretImprovised.label>robotágyú</Gun_TurretImprovised.label>
   <Gun_TurretImprovised.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</Gun_TurretImprovised.description>
-
+  
+  <!-- Mortar bomb turret -->
+  
   <Turret_MortarBomb.label>tarack (robbanó)</Turret_MortarBomb.label>
   <Turret_MortarBomb.description>Tarack, mely robbanó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarBomb.description>
 
+  <Bullet_MortarBomb.label>repeszgránát</Bullet_MortarBomb.label>
+
+  <Artillery_MortarBomb.label>tarack</Artillery_MortarBomb.label>
+  <Artillery_MortarBomb.description>Gránátvető. Repeszgránátjait falakon túlra is ellövi. Nagyon pontatlan, de hatósugara méretes.</Artillery_MortarBomb.description>
+
+   <!-- Mortar incendiary turret -->
+  
   <Turret_MortarIncendiary.label>tarack (gyújtó)</Turret_MortarIncendiary.label>
   <Turret_MortarIncendiary.description>Tarack, mely gyújtó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarIncendiary.description>
 
+  <Bullet_MortarIncendiary.label>gyújtógránát</Bullet_MortarIncendiary.label>
+  
+  <Artillery_MortarIncendiary.label>gyújtótarack</Artillery_MortarIncendiary.label>
+  <Artillery_MortarIncendiary.description>Gyújtógránát vető. Gránátjait falakon túlra is ellövi. Nagyon pontatlan, de hatósugara méretes.</Artillery_MortarIncendiary.description>
+
+  
+   <!-- Mortar EMP -->
+  
   <Turret_MortarEMP.label>tarack (EMP)</Turret_MortarEMP.label>
   <Turret_MortarEMP.description>Tarack, mely EMP töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarEMP.description>
 
+  <Bullet_MortarEMP.label>EMP-gránát</Bullet_MortarEMP.label>
+
+  <Artillery_MortarEMP.label>EMP-tarack</Artillery_MortarEMP.label>
+  <Artillery_MortarEMP.description>Gránátvető. EMP-gránátjait falakon túlra is ellövi. Nagyon pontatlan, de hatósugara méretes.</Artillery_MortarEMP.description>
+
+  
+   <!-- Traps -->
+  
   <TrapDeadfall.label>sújtócsapda</TrapDeadfall.label>
   <TrapDeadfall.description>Felfüggesztett tüskés súly, melyet botlózsinór old ki. Ha valaki belép, a súly a fejére vagy a mellkasára esik.</TrapDeadfall.description>
 
