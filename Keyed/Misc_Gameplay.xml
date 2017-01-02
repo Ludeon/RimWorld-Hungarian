@@ -22,9 +22,10 @@
   <NothingLower>semmi</NothingLower>
   <Adapted>Átalakított</Adapted>
   <FreshMissingBodyPart>friss</FreshMissingBodyPart>
-  <UntreatedLower>kezeletlen</UntreatedLower>
+  <!-- <UntreatedLower>kezeletlen</UntreatedLower> -->
   <DevelopedImmunityLower>kialakult immunitás</DevelopedImmunityLower>
-  <InjuryRequiresTreatment>Kezelés szükséges</InjuryRequiresTreatment>
+  <NeedsTendingNow>Ápolásra van szüksége</NeedsTendingNow>
+  <!-- <InjuryRequiresTreatment>Kezelés szükséges</InjuryRequiresTreatment> -->
   <NextTreatmentIn>Következő kezelés: {0}</NextTreatmentIn>
   <MissingMedicalBillIngredient>nincs {0}</MissingMedicalBillIngredient>
   <Immunity>Immunitás</Immunity>
@@ -48,21 +49,63 @@
   <Fertilized>Megtermékenyített</Fertilized>
   <ProgressStoppedUntilFertilized>Megtermékenyítésre vár</ProgressStoppedUntilFertilized>
   <SkillTooLow>{2} szintű {0} szükséges, jelenlegi: {1}</SkillTooLow>
-  <EggDamagedEmbryo>sérült embrió</EggDamagedEmbryo>
+  <Freezing>Fagy</Freezing>
+  <Overheating>Túlmelegszik</Overheating>
+  <RuinedByTemperature>Hőmérséklet miatt megromlott.</RuinedByTemperature>
+  <!-- <EggDamagedEmbryo>sérült embrió</EggDamagedEmbryo> -->
   <CorpsePercentMissing>Hiányzó testrész</CorpsePercentMissing>
   <HiveReproducesIn>Reprodukció ideje</HiveReproducesIn>
   <BrokenDown>Elromlott</BrokenDown>
   <BondBrackets>(kötődés)</BondBrackets>
   <Fuel>Üzemanyag</Fuel>
+  <FuelLevelGizmoLabel>Üzemanyag</FuelLevelGizmoLabel>
+  <SetTargetFuelLevel>Célszint beállítása: {0}</SetTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>Célszint beállítása: {0}\nMaximális hatótáv: {1} mező</SetPodLauncherTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>Célszint: {0}</ConfiguredTargetFuelLevel>
   <Enemies>ellenségek</Enemies>
   <TimePassed>eltelt idő</TimePassed>
   <CurrentRadius>jelenlegi sugár</CurrentRadius>
   <RadiusExpandsIn>sugárnövekedés ideje</RadiusExpandsIn>
   <Permanent>állandó</Permanent>
+  <CaravanResting>Pihen.</CaravanResting>
+  <CaravanEstimatedTimeToDestination>Becsült érkezés: {0}</CaravanEstimatedTimeToDestination>
+  <CaravanImmobilizedByMass>Leállt: túlterhelés.</CaravanImmobilizedByMass>
+  <CaravanOutOfFood>Nincs élelem.</CaravanOutOfFood>
+  <CaravanDaysOfFood>Élelem készlet: {0} nap</CaravanDaysOfFood>
+  <CaravanMemberMentalBreak>Leállt: {0} összeomlott.</CaravanMemberMentalBreak>
+  <AllCaravanMembersDowned>Leállt: mindenki járóképtelen.</AllCaravanMembersDowned>
+  <CaravanTraveling>Utazik.</CaravanTraveling>
+  <CaravanWaiting>Várakozik.</CaravanWaiting>
+  <CaravanHoursPerTile>ó/mező</CaravanHoursPerTile>
+  <CaravanBaseMovementTime>Alap sebesség</CaravanBaseMovementTime>
+  <CurrentTileMovementTime>Jelenlegi sebesség</CurrentTileMovementTime>
   <Temperature>Hőmérséklet</Temperature>
   <BadTemperature>rossz hőmérséklet</BadTemperature>
   <IdealFermentingTemperature>Ideális erjesztési hőmérséklet</IdealFermentingTemperature>
   <DrugEffectMultiplier>Hatás szorzója: {0}</DrugEffectMultiplier>
+  <CaravanVisiting>Meglátogatja: {0}.</CaravanVisiting>
+  <CaravanEntering>Belép: {0}.</CaravanEntering>
+  <CaravanAttacking>Megtámadja: {0}.</CaravanAttacking>
+  <WasWornByCorpse>Tetem viselte.</WasWornByCorpse>
+  <WornByCorpseChar>T?</WornByCorpseChar>
+  <DeterioratingDueToBeingUnroofed>Szabad ég alatt avul.</DeterioratingDueToBeingUnroofed>
+  <Map>Térkép</Map>
+  <ForceExitAndRemoveMapCountdown>{0} óra múlva indul</ForceExitAndRemoveMapCountdown>
+  <ForceExitAndRemoveMapCountdownTip>A gyarmatosok maguktól újraalakítják a karavánt és elindulnak {0} óra múlva.</ForceExitAndRemoveMapCountdownTip>
+  <Room>Szoba</Room>
+  <BeautyHere>Szépségindex</BeautyHere>
+  <NoPower>Nincs áram</NoPower>
+  <WorkSpeedPenalty>Lassabb munkasebesség</WorkSpeedPenalty>
+  <DisabledCommand>KIKAPCSOLVA</DisabledCommand>
+  <ReadyForLaunch>Kilövésre kész.</ReadyForLaunch>
+  <NotReadyForLaunch>Kilövésre nem kész.</NotReadyForLaunch>
+  <NotAllInGroupConnectedToFuelingPort>nincs feltöltőállomás</NotAllInGroupConnectedToFuelingPort>
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>nincs üzemanyag</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <TransportPodInGroupHasSomethingLeftToLoad>berakodás alatt</TransportPodInGroupHasSomethingLeftToLoad>
+  <TransportPodDestinationBeyondMaximumRange>túl messzi cél</TransportPodDestinationBeyondMaximumRange>
+  <TransportPodNotEnoughFuel>Nincs elég üzemanyag</TransportPodNotEnoughFuel>
+  <FactionBaseTrader>{0} innen: {1}</FactionBaseTrader>
+  
   <!-- Fermentation barrel -->
 
   <ContainsWort>Tartalma {0} / {1} söralap.</ContainsWort>
@@ -73,9 +116,9 @@
 
   <!--TextMotes-->
   <Headshot>Fejlövés</Headshot>
-  <TreatQuality>ellátás minősége: {0}</TreatQuality>
-  <PoorResult>gyenge eredmény</PoorResult>
-  <GoodResult>jó eredmény</GoodResult>
+  <!-- <TreatQuality>ellátás minősége: {0}</TreatQuality> -->
+  <!-- <PoorResult>gyenge eredmény</PoorResult> -->
+  <!-- <GoodResult>jó eredmény</GoodResult> -->
   <TextMote_TreatSuccess>Sikeres ellátás!\n{0} esély</TextMote_TreatSuccess>
   <TextMote_TreatFailed>Sikertelen ellátás\n{0} esély</TextMote_TreatFailed>
   <HarvestFailed>Betakarítás\nsikertelen</HarvestFailed>
@@ -157,7 +200,9 @@
   <!-- Generated recipes -->
   <RecipeMake>Gyártani: {0}</RecipeMake>
   <RecipeMakeJobString>Gyártás: {0}.</RecipeMakeJobString>
-
+  <RecipeAdminister>?kezelni: {0}</RecipeAdminister>
+  <RecipeAdministerJobString>?Kezelés: {0}.</RecipeAdministerJobString>
+  
   <!-- Thoughts -->
   <ThoughtExpiresIn>Elmúlik: {0}</ThoughtExpiresIn>
   <ThoughtStartsExpiringIn>Elkezd elmúlni: {0}</ThoughtStartsExpiringIn>
@@ -173,6 +218,9 @@
   <Faction>Frakció</Faction>
   <Equipped>Felszerelés</Equipped>
   <EquippedNothing>semmi</EquippedNothing>
+  <Dead>Halott</Dead>
+  <Unconscious>Eszméletlen</Unconscious>
+  <PainShock>Sokkos állapot</PainShock>
   <Incapacitated>Magatehetetlen</Incapacitated>
   <InRestraints>Mozgáskorlátozott (lelassítva)</InRestraints>
   <Carrying>Cipeli</Carrying>
@@ -236,12 +284,13 @@
   <OutOfIdealTemperatureRangeNotGrowing>Nem ideális hőmérséklet. Nem nő.</OutOfIdealTemperatureRangeNotGrowing>
   <ReadyToHarvest>Betakarításra kész.</ReadyToHarvest>
   <Mature>Kifejlett.</Mature>
-  <SeedLabel>{0} mag</SeedLabel>
+  <!-- <SeedLabel>{0} mag</SeedLabel> -->
   <OutdoorGrowingPeriod>Tenyészidőszak: {0}</OutdoorGrowingPeriod>
   <NoGrowingPeriod>Soha</NoGrowingPeriod>
   <GrowYearRound>Egész év</GrowYearRound>
   <GrowSeasonHereNow>Elérkezett a tenyészidőszak.</GrowSeasonHereNow>
-  <CannotGrowTooCold>Nem nő - hideg évszak.</CannotGrowTooCold>
+  <!-- <CannotGrowTooCold>Nem nő - hideg évszak.</CannotGrowTooCold> -->
+  <CannotGrowBadSeasonTemperature>Nem nő (hideg évszak).</CannotGrowBadSeasonTemperature>
 
   <!-- Zones -->
   <Zone>Körzet</Zone>
@@ -262,14 +311,18 @@
 
   <!-- Buttons -->
   <ZoneVisibilityToggleButton>Körzetek láthatósága</ZoneVisibilityToggleButton>
-  <ShowBeautyToggleButton>Szépség kijelzése\n\nMegjeleníti az adott hely szépségére vonatkozó információkat, mintha egy ember épp ott állna, ahová a kurzor mutat.</ShowBeautyToggleButton>
-  <ShowRoomStatsToggleButton>Szoba statisztikák kijelzése\n\nMegjeleníti az adott szoba szépségére vonatkozó információkat.</ShowRoomStatsToggleButton>
+  <!-- <ShowBeautyToggleButton>Szépség kijelzése\n\nMegjeleníti az adott hely szépségére vonatkozó információkat, mintha egy ember épp ott állna, ahová a kurzor mutat.</ShowBeautyToggleButton> -->
+  <!-- <ShowRoomStatsToggleButton>Szoba statisztikák kijelzése\n\nMegjeleníti az adott szoba szépségére vonatkozó információkat.</ShowRoomStatsToggleButton> -->
+  <ShowEnvironmentToggleButton>Környezeti info.\n\nMegjeleníti az adott hely/szoba szépségére vonatkozó információkat, mintha egy ember épp ott állna, ahová a kurzor mutat.</ShowEnvironmentToggleButton>
   <ShowColonistBarToggleButton>Gyarmatos állapotsáv\n\nIkonok és alapstátusz minden gyarmatosról a kép tetején.</ShowColonistBarToggleButton>
   <AutoHomeAreaToggleButton>Lakókörzet automatikus kiterjesztése új épületnél</AutoHomeAreaToggleButton>
   <CategorizedResourceReadoutToggleButton>Kategorizált nyersanyag lista</CategorizedResourceReadoutToggleButton>
   <ShowAnimalNamesToggleButton>Elnevezett állatok nevének kijelzése</ShowAnimalNamesToggleButton>
   <ShowLearningHelperWhenEmptyToggleButton>Az oktató ki/bekapcsolása akkor is, ha nincs téma.\n\nA oktató automatikusan bekapcsol, ha van új téma. Ezzel a kapcsolóval eltűntetheted, ha épp nincs tanulnivaló.</ShowLearningHelperWhenEmptyToggleButton>
   <ShowRoofOverlayToggleButton>Tetők láthatósága be/ki.</ShowRoofOverlayToggleButton>
+  <LockNorthUpToggleButton>Kamera forgatásának tiltása, hogy észak mindig felfelé legyen.</LockNorthUpToggleButton>
+  <UsePlanetDayNightSystemToggleButton>Napszakváltó rendszer ki/bekapcsolása.</UsePlanetDayNightSystemToggleButton>
+  <ExpandingIconsToggleButton>Távoli objektumoknál dinamikus ikonok megjelenítése.</ExpandingIconsToggleButton>
 
   <!-- Fire -->
   <Fire>Tűz</Fire>
@@ -286,6 +339,7 @@
   <NoStuffsToBuildWith>Nincs alapanyagod hozzá, hogy ezt megépítsd.</NoStuffsToBuildWith>
 
   <!-- Building placement restricters -->
+  <WillGetWorkSpeedPenalty>{0} lassabban fog dolgozni</WillGetWorkSpeedPenalty>
   <MustPlaceUnroofed>Tető alá nem tehető.</MustPlaceUnroofed>
   <MustPlaceHeadOnShipBeam>A fejének csatlakoznia kell a hajó gerincéhez.</MustPlaceHeadOnShipBeam>
   <MustPlaceNextToHopperAccepter>Valami olyan mellé kell helyezni, aminek adagolóra van szüksége.</MustPlaceNextToHopperAccepter>
@@ -293,6 +347,7 @@
   <MustPlaceCoolerWithFreeSpaces>A hűtött és a fűtött oldalnak is szabadnak kell lennie.</MustPlaceCoolerWithFreeSpaces>
   <MustPlaceVentWithFreeSpaces>Mindkét oldalnak szabad levegőáramlásban kell lennie.</MustPlaceVentWithFreeSpaces>
   <MustPlaceAdjacentStandable>Körben szabad helynek kell lennie.</MustPlaceAdjacentStandable>
+  <MustPlaceNearFuelingPort>Kilövőállás üzemanyagcsapja mellé kell telepíteni.</MustPlaceNearFuelingPort>
 
   <!-- Wind Turbine -->
   <WindTurbine_WindPathIsBlockedBy>Akadályozza:</WindTurbine_WindPathIsBlockedBy>
@@ -341,6 +396,7 @@
   <GameOverEveryoneDead>Mindenki halott vagy eltávozott. Ennek a történetnek vége.\n\nTalán valaki más hasznosnak találja majd ezeket a romokat.</GameOverEveryoneDead>
   <GameOverShipLaunched>Kilőtted az űrhajót! A következő gyarmatosok menekültek meg:\n\n{0}\nA következő gyarmatosok maradtak hátra:\n\n{1}\nAz MI megpróbálja biztonságos helyre irányítani a hajót. Lehet, hogy talál egy virágzó bolygót ebben a rendszerben. Az is lehet, hogy évszázados útra indul egy másik csillag felé. Dönthet úgy is, hogy egy aszteroida jege alatt pihen pár ezer évig várva, hogy valaki új világot építsen itt.\n\nHa felébredsz, kiderül...</GameOverShipLaunched>
   <GameOverPlanetkillerImpact>Fénysebességhez közeli tempóban csapódott be a bolygógyilkos fegyver, trillió hidrogénbomba energiáját felszabadítva. Bolygód megolvadó anyaga szétspriccelt a kozmoszban, mint egy meglőtt, vízzel teli lufi.\n\n{0} egy része most egy kis aszteroidaövet képez. A többi olvadt, rádióaktív pokol, melyen állandóan kilométer magas földrengéshullámok futnak végig.\n\nNem élted túl.</GameOverPlanetkillerImpact>
+  <GameOverArrivedAtJourneyDestination>A legénység tárt karokkal fogad, ahogy a fedélzetre lépsz. Örülnek, hogy legalább még egy embert magukkal vihetnek.\n\nA következő gyarmatosok menekültek meg:\n\n{0}\nA következő gyarmatosok maradtak hátra:\n\n{1}\nAz MI megpróbálja biztonságos helyre irányítani a hajót. Lehet, hogy talál egy virágzó bolygót ebben a rendszerben. Az is lehet, hogy évszázados útra indul egy másik csillag felé. Dönthet úgy is, hogy egy aszteroida jege alatt pihen pár ezer évig várva, hogy valaki új világot építsen itt.\n\nAhogy belépsz a hibernálóba, kissé bizonytalanná válsz, vajon megbízhatsz-e ezekben az emberekben?\n\nHa felébredsz, kiderül...</GameOverArrivedAtJourneyDestination>
   <GameOverKeepPlaying>Játék folytatása</GameOverKeepPlaying>
   <GameOverMainMenu>Főmenü</GameOverMainMenu>
 
@@ -392,5 +448,8 @@
   <MarkLearned>Ismertnek jelölni</MarkLearned>
   <AlreadyLearned>Már ismert</AlreadyLearned>
   <Filter>Szűrő</Filter>
+  
+  <!-- Compass -->
+  <CompassTip>Az északi irányt mutatja. Kattintásra beállítja a kamerát, hogy az északi irány legyen fölfelé.</CompassTip>
 
 </LanguageData>

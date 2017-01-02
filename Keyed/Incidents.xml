@@ -116,4 +116,13 @@
   <RansomDemand_Accept>Elfogad</RansomDemand_Accept>
   <RansomDemand_Reject>Elutasít</RansomDemand_Reject>
 
+  <!-- Journey -->
+  <JourneyOffer>Charlon Whitestone, egy barátságos MI, akit régről ismersz, üzenetet küldött neked!\n\nVan egy űrhajója elrejtve ezen a bolygón, megadja a koordinátáit.\n\nHa elutazol oda, Charlon elvisz erről a bolygóról a csillagok közé.</JourneyOffer>
+  
+  <!-- Caravan meeting -->
+  <CaravanMeeting>Karavánod találkozott {0} barátságos karavánjával. Karavánjuk a következőkből áll:\n\n{1}</CaravanMeeting>
+  <CaravanMeeting_Trade>Kereskedés</CaravanMeeting_Trade>
+  <CaravanMeeting_Attack>Támadás</CaravanMeeting_Attack>
+  <CaravanMeeting_MoveOn>Továbbáll</CaravanMeeting_MoveOn>
+
 </LanguageData>

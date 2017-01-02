@@ -206,7 +206,7 @@
 
   <!-- Trade -->
   <PositiveBuysNegativeSells>Pozitív szám vételt jelent\nNegatív szám eladást</PositiveBuysNegativeSells>
-  <BuyPriceDesc>Ennyit fizetsz, hogy megvehesd</BuyPriceDesc>
+  <BuyPriceDesc>Ennyit fizetsz érte</BuyPriceDesc>
   <SellPriceDesc>Ennyit kapsz, ha eladod</SellPriceDesc>
   <PriceTypeDesc>Ezért a termékért ez az ár {0}</PriceTypeDesc>
   <ColonyCount>Ennyi áll kereskedésre készen a kolóniának ebből a termékből.\n\nCsak akkor adhatsz el termékeket földkörüli kereskedőknek, ha "Orbitális jeladó" mellett vannak.</ColonyCount>
@@ -228,7 +228,7 @@
   <Buying>elad</Buying>
   <ItemSellPriceFactor>eladási ár szorzója</ItemSellPriceFactor>
   <DifficultyLevel>nehézségi szint</DifficultyLevel>
-  <PostCurve>global post-process curve</PostCurve>
+  <PostCurve>?global post-process curve</PostCurve>
   <YourNegotiatorBonus>Alkusz bónusz</YourNegotiatorBonus>
   <TradeWithFactionBaseBonus>Saját frakció bónusz</TradeWithFactionBaseBonus>
   <minimum>minimum</minimum>
@@ -296,7 +296,7 @@
   <ResearchScreen>Kutatási képernyő</ResearchScreen>
 
   <!--HistoryUpload-->
-  <HistoryUploadMessage>Szeretnéd feltölteni a játékod adatait a RimWorld szerverre, hogy ezzel segítsd a fejlesztőket, hogy kiegyensúlyozzák a játékot? Ha beleegyezel, az adatok feltöltésre kerülnek {0} naponta (és néhány más ritka esetben, mint a játék vége). Ezek a beállítások később is megváltoztathatóak a "Beállítások" menüben.</HistoryUploadMessage>
+  <HistoryUploadMessage>Szeretnéd feltölteni a játékod adatait a RimWorld szerverre, hogy ezzel segítsd a fejlesztőket, hogy kiegyensúlyozzák a játékot? Ha beleegyezel, az adatok feltöltésre kerülnek {0} naponta (és néhány más ritka esetben, mint a játék vége). Ezek a beállítások később is megváltoztathatók a "Beállítások" menüben.</HistoryUploadMessage>
   <HistoryUploadMessagePlayerName>Az adatok anonim módon lesznek elküldve, de adhatod hozzá a nevedet is.</HistoryUploadMessagePlayerName>
   <HistoryUploadYes>A játék adatok feltöltésének engedélyezése</HistoryUploadYes>
   <HistoryUploadNo>Ne legyen engedélyezve a játék adatainak feltöltése</HistoryUploadNo>

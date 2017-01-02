@@ -76,7 +76,8 @@
 
   <MessageMedicalOperationFailureCatastrophic>{0} katasztrofális hibát vétett {1} műtétje közben.</MessageMedicalOperationFailureCatastrophic>
   <MessageMedicalOperationFailureMinor>{0} kisebb hibát vétett {1} műtétje közben.</MessageMedicalOperationFailureMinor>
-
+  <MessageMedicalOperationFailureRidiculous>{0} nevetséges hibát vétett {1} műtétje közben.</MessageMedicalOperationFailureRidiculous>
+  
   <MessageMedicalOperationWillAngerFaction>Ettől az műtéttől {0} mérges lesz.</MessageMedicalOperationWillAngerFaction>
 
   <MessagePawnExitMapRelationsGain>Mivel {0} egészségesen távozott, {1} viszonya velünk ennyivel javult: {2}.</MessagePawnExitMapRelationsGain>
@@ -134,5 +135,75 @@
   <MessageRottedAwayInStorage>Némi {0} elrohadt a raktárban.</MessageRottedAwayInStorage>
 
   <MessageFoodPoisoning>{0} ételmérgezést kapott. Oka: {1}.</MessageFoodPoisoning>
+
+  
+  <MessageFailedToSendCaravanBecausePawnLost>A karavánt nem lehet elküldeni, mert egy gyarmatos, állat vagy fogoly elveszett.</MessageFailedToSendCaravanBecausePawnLost>
+  <MessageCaravanFormationPaused>A karaván alakítása folytatódik, amint mindenki újra normális mentális állapotba kerül.</MessageCaravanFormationPaused>
+  <MessageCaravanFormationUnpaused>A gyarmatosok folytatják a karaván alakítását.</MessageCaravanFormationUnpaused>
+
+  <MessageCaravanMemberHasExtremeMentalBreak>A karaván egy tagjának idegösszeroppanása van.</MessageCaravanMemberHasExtremeMentalBreak>
+
+  <MessageMaxPlanetCoveragePerformanceWarning>Figyelmeztetés: egy egész bolygót létrehozni nagyon sokáig tarthat.</MessageMaxPlanetCoveragePerformanceWarning>
+
+  <MessagePlantDiedOfCold>{0} elfagyott.</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfRot>{0} elrohadt, mert nem lett betakarítva.</MessagePlantDiedOfRot>
+
+  <MessagePawnBeingBurned>{0} megégett szuperforró levegő miatt!</MessagePawnBeingBurned>
+
+  <MessageAccidentalOverdose>{0} véletlenül túladagolta ezt: {1}!</MessageAccidentalOverdose>
+
+  <MessageCaravanArrivedAtDestination>{0} megérkezett a célhoz.</MessageCaravanArrivedAtDestination>
+
+  <MessageCaravanIsVisitingFaction>{0} megérkezett ide: {1}.</MessageCaravanIsVisitingFaction>
+
+  <MessageCaravanEnteredWorldObject>{0} megérkezett ide: {1}.</MessageCaravanEnteredWorldObject>
+
+  <MessagePawnLeftMapAndCreatedCaravan>{0} elhagyta a területet és karavánt alakított.</MessagePawnLeftMapAndCreatedCaravan>
+
+  <MessageSettledInExistingMap>Sikeresen letelepedtél egy új területen.</MessageSettledInExistingMap>
+
+  <MessageAmbushVictory>Győzelem! {0} óra múlva a karaván automatikusan újraalakul. A világtérképen újraalakíthatod most is.</MessageAmbushVictory>
+
+  <MessageAutomaticallyReformedCaravan>Gyarmatosaid újraalakították a karavánt.</MessageAutomaticallyReformedCaravan>
+
+  <MessageOldWoundHealed>{0} segítségével elmúlt {1} következő problémája: {2}.</MessageOldWoundHealed>
+
+  <MessageRescueeJoined>Mivel megmentetted, {0} csatlakozott hozzád!</MessageRescueeJoined>
+
+  <MessageAttackedCaravanIsNowHostile>Mivel megtámadtad {0} karavánját, mostantól ellenségek vagytok.</MessageAttackedCaravanIsNowHostile>
+
+  <MessageTransporterUnreachable>Némely szállítókapszula elérhetetlen.</MessageTransporterUnreachable>
+  <MessageTransportersNotAdjacent>A kiválasztott kapszulák kilövőállásainak szomszédosoknak kell lenniük.</MessageTransportersNotAdjacent>
+
+  <MessageTransportersLoadCanceled_TransporterDestroyed>A berakodási folyamat leállt, mert legalább egy kapszula elpusztult.</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>A berakodási folyamat leállt, mert legalább egy kilövő elpusztult.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+
+  <MessageTransportersLoadingProcessStarted>A gyarmatosok most berakodják a kijelölt tárgyakat a kapszulákba.</MessageTransportersLoadingProcessStarted>
+
+  <MessageTransportPodsArrived>A kapszulák megérkeztek.</MessageTransportPodsArrived>
+  <MessageTransportPodsArrivedAndLost>A kapszulák megérkeztek, de mivel nem volt velük gyarmatos, a tartalmuk elveszett.</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrived_BecameHostile>{0} mostantól ellenség.</MessageTransportPodsArrived_BecameHostile>
+
+  <MessageFailedToLoadTransportersBecauseColonistLost>A berakodási folyamat leállt, mert legalább egy gyarmatos eltűnt.</MessageFailedToLoadTransportersBecauseColonistLost>
+
+  <MessageFinishedLoadingTransporters>A berakodási folyamat befejeződött.</MessageFinishedLoadingTransporters>
+
+  <MessageTransportPodsDestinationIsInvalid>A kiválasztott cél érvénytelen.</MessageTransportPodsDestinationIsInvalid>
+  <MessageTransportPodsDestinationIsTooFar>Minden kapszulának legalább {0}x kémiai üzemanyagra van szüksége, hogy ilyen messze jusson.</MessageTransportPodsDestinationIsTooFar>
+
+  <MessageReformedCaravan>A karaván újraalakult.</MessageReformedCaravan>
+
+  <MessageCantAbandonLastColonist>Az utolsó gyarmatost nem lehet hátrahagyni.</MessageCantAbandonLastColonist>
+
+  <MessageCantEquipIncapableOfViolence>Nem felvehető: {0} nem képes erőszakra.</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfManipulation>Nem felvehető: nem lehetséges.</MessageCantEquipIncapableOfManipulation>
+
+  <MessageSlaughteringBondedAnimal>Kötődésük miatt {0} levágása boldogtalanná teszi őt: {1}.</MessageSlaughteringBondedAnimal>
+
+  <MessageCaravanRunOutOfFood>{0} kifogyott az ételből ({1}).</MessageCaravanRunOutOfFood>
+
+  <MessageSelectOwnBaseToFormCaravan>Karaván alakításához válaszd ki a saját kolóniád vagy egy olyan helyet, ahol embereid vannak.</MessageSelectOwnBaseToFormCaravan>
+
+  <MessageScreenResTooSmallForUIScale>E felbontás és UI méret mellett a játék interfésze nem fér el a képernyőn. Kérlek, csökkentsd a méretet vagy növeld a felbontást!</MessageScreenResTooSmallForUIScale>
 
 </LanguageData>
