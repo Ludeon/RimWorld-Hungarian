@@ -38,6 +38,7 @@
   <PrisonerAttemptRecruit>Társalgás és toborzás</PrisonerAttemptRecruit>
   <PrisonerRelease>Elengedni</PrisonerRelease>
   <PrisonerExecution>Kivégezni</PrisonerExecution>
+  <ConsideredGuilty>Bűnösnek tekintve (elavul {0} múlva)</ConsideredGuilty>
 
   <!-- Medical - general -->
   <MoveSpeed>Mozgási sebesség</MoveSpeed>
@@ -49,9 +50,9 @@
   <Healthy>Egészséges</Healthy>
   <InPain>Fájdalmai vannak</InPain>
   <PainLevel>Fájdalomszint</PainLevel>
-  <Dead>Halott</Dead>
-  <Unconscious>Eszméletlen</Unconscious>
-  <PainShock>Sokkos állapot</PainShock>
+  <!-- <Dead>Halott</Dead> -->
+  <!-- <Unconscious>Eszméletlen</Unconscious> -->
+  <!-- <PainShock>Sokkos állapot</PainShock> -->
   <Injured>Sebesült</Injured>
   <NoInjuries>(nincs sérülése)</NoInjuries>
   <WholeBody>Teljes test</WholeBody>
@@ -59,6 +60,8 @@
   <Communication>Kommunikáció</Communication>
   <Affects>Kihatás</Affects>
   <BleedingRate>Vérzés mértéke</BleedingRate>
+  <TimeToDeath>halott {0} múlva</TimeToDeath>
+  <WontBleedOutSoon>nincs közvetlen életveszély</WontBleedOutSoon>
   <HealthOverview>Áttekintés</HealthOverview>
   <MedicalOperationsShort>Műtétek ({0})</MedicalOperationsShort>
   <MedicalOperationsMechanoidsShort>Módosítások ({0})</MedicalOperationsMechanoidsShort>
@@ -105,8 +108,10 @@
   <SomeonesOpinionOfMe>{0} véleménye rólam</SomeonesOpinionOfMe>
   <IAmDead>Halott vagyok</IAmDead>
   <IAmPsychopath>Pszichopata vagyok</IAmPsychopath>
-
+  
+  <!-- Gear tab -->
   <AverageArmor>Átlagos páncélzat</AverageArmor>
+  <MassCarried>Cipelt tömeg: {0} / {1} kg</MassCarried>
   <ComfyTemperatureRange>Optimális hőmérséklet</ComfyTemperatureRange>
   <ArmorBlunt>Ütés</ArmorBlunt>
   <ArmorSharp>Vágás</ArmorSharp>

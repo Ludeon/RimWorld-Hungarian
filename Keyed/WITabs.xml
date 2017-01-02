@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WITab titles -->
+  <TabTerrain>Terep</TabTerrain>
+  <TabPlanet>Bolygó</TabPlanet>
+  <TabCaravanSocial>Szociális</TabCaravanSocial>
+  <TabCaravanHealth>Egészség</TabCaravanHealth>
+  <TabCaravanNeeds>Szükség</TabCaravanNeeds>
+  <TabCaravanGear>Holmi</TabCaravanGear>
+  <TabCaravanItems>Tárgyak</TabCaravanItems>
+
+  <!-- Misc -->
+  <AbandonSliderText>Hátrahagy {{0}}x {0}</AbandonSliderText>
+  <ConfirmAbandonItemDialog>Biztosan hátra akarod hagyni ezt: {0}?\n\nA hátrahagyott tárgyak eltűnnek, sosem kaphatod vissza őket.</ConfirmAbandonItemDialog>
+  <AbandonTip>Hátrahagy</AbandonTip>
+  <AbandonSpecificCountTip>Megadott mennyiséget hátrahagy</AbandonSpecificCountTip>
+  <AbandonAllTip>Hátrahagy (mind)</AbandonAllTip>
+  <AbandonItemTipExtraText>A hátrahagyott tárgyak eltűnnek, sosem kaphatod vissza őket.</AbandonItemTipExtraText>
+  <AbandonTipWillDie>{0} szinte biztosan meghal.</AbandonTipWillDie>
+
+  <!-- Caravan inspect -->
+  <CaravanColonists>Gyarmatosok</CaravanColonists>
+  <CaravanPrisonersAndAnimals>Foglyok és állatok</CaravanPrisonersAndAnimals>
+  <CaravanItems>Tárgyak</CaravanItems>
+  <OpenSpecificTabButtonTip>Kattints a részletekért!</OpenSpecificTabButtonTip>
+  <CaravanPrisoners>Foglyok</CaravanPrisoners>
+  <CaravanWeaponsAndApparel>Felszerelés</CaravanWeaponsAndApparel>
+
+  <!-- Caravan gear -->
+  <DragToRearrange>Húzással átrendezhető.</DragToRearrange>
+
+  <!-- Planet -->
+  <PlanetSeed>Alapkód</PlanetSeed>
+  <PlanetCoverageShort>Kiterjedés</PlanetCoverageShort>
+
+</LanguageData>

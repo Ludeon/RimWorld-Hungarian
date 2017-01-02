@@ -12,7 +12,7 @@
   <IncapableOfWorkTypeBecauseOfCapacities>Ez a gyarmatos egészségi állapota miatt nem végezhet ilyen munkát.</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>V</EmergencyWorkMarker>
 
-  <!-- Outfits tab -->
+   <!-- Assign tab -->
   <CurrentOutfit>Jelenlegi felszerelés</CurrentOutfit>
   <ManageOutfits>Felszerelések kezelése</ManageOutfits>
   <ClearForcedApparel>Kénysz. törlése</ClearForcedApparel>
@@ -30,21 +30,33 @@
   <!-- Animals tab -->
   <Master>Gazda</Master>
   <PregnantIconDesc>Vemhes ({0} / {1})</PregnantIconDesc>
+  <FollowDraftedTip>Besorozott gazda követése.</FollowDraftedTip>
+  <FollowFieldworkTip>Terepmunkát végző gazda követése (vadászat vagy szelídítés).</FollowFieldworkTip>
 
   <!-- Factions tab -->
   <Hostile>Ellenséges</Hostile>
+  <DefeatedLower>legyőzött</DefeatedLower>
   <HostileTo>{0} ellensége</HostileTo>
   <CurrentGoodwill>A jelenlegi viszony ezzel a frakcióval.</CurrentGoodwill>
+  
+  <!-- Social tab -->
+  <Friend>Barát</Friend>
+  <Rival>Rivális</Rival>
+  <Acquaintance>Ismerős</Acquaintance>
 
-  <!-- Statistics tab -->
+  <!-- History tab - Statistics -->
   <Playtime>Játékidő</Playtime>
   <Storyteller>Mesélő</Storyteller>
-  <ColonyWealthTotal>Kolónia vagyona</ColonyWealthTotal>
-  <ColonyWealthItems>Kolónia vagyona (eszközök)</ColonyWealthItems>
-  <ColonyWealthBuildings>Kolónia vagyona (épületek)</ColonyWealthBuildings>
+  <!-- <ColonyWealthTotal>Kolónia vagyona</ColonyWealthTotal> -->
+  <!-- <ColonyWealthItems>Kolónia vagyona (eszközök)</ColonyWealthItems> -->
+  <!-- <ColonyWealthBuildings>Kolónia vagyona (épületek)</ColonyWealthBuildings> -->
+  <ThisMapColonyWealthTotal>Kolónia vagyona (ezen a térképen)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>Kolónia vagyona (eszközök) (ezen a térképen)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>Kolónia vagyona (épületek) (ezen a térképen)</ThisMapColonyWealthBuildings>
   <NumThreatBigs>Komoly fenyegetések</NumThreatBigs>
   <NumEnemyRaids>Ellenséges támadások</NumEnemyRaids>
-  <DamageTaken>Elszenvedett sebzés</DamageTaken>
+  <!-- <DamageTaken>Elszenvedett sebzés</DamageTaken> -->
+  <ThisMapDamageTaken>Elszenvedett sebzés (ezen a térképen)</ThisMapDamageTaken>
   <ColonistsKilled>Halott gyarmatosok</ColonistsKilled>
   <ColonistsLaunched>Gyarmatosok az űrbe juttatva</ColonistsLaunched>
 

@@ -13,6 +13,7 @@
   <StatsReport_Skills>Készség tényezők</StatsReport_Skills>
   <StatsReport_OtherStats>Más tényezők</StatsReport_OtherStats>
   <StatsReport_HealthFactors>Egészségi tényezők</StatsReport_HealthFactors>
+  <HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
   <HealthFactorPercentImpact>{0} fontosság</HealthFactorPercentImpact>
   <StatsReport_PostProcessed>Utófeldolgozott</StatsReport_PostProcessed>
   <StatsReport_FinalValue>Végső érték</StatsReport_FinalValue>
@@ -32,8 +33,10 @@
   <StatsReport_CooldownFormat>{0} mp</StatsReport_CooldownFormat>
   <StatsReport_LifeExpectancy>Várható életkor</StatsReport_LifeExpectancy>
   <StatsReport_MissingBodyParts>Hiányzó testrészek utáni szorzó</StatsReport_MissingBodyParts>
+  <StatsReport_GearAndInventoryMass>Felszerelés tömeg</StatsReport_GearAndInventoryMass>
+  <StatsReport_WornByCorpse>"Tetemről lehúzva" szorzó</StatsReport_WornByCorpse>
   <AverageOfAllAttacks>Támadások átlaga</AverageOfAllAttacks>
-  <StatsReport_UnpoweredWorkTable>Nincs áram alatt</StatsReport_UnpoweredWorkTable>
+  <!-- <StatsReport_UnpoweredWorkTable>Nincs áram alatt</StatsReport_UnpoweredWorkTable> -->
   <StatsReport_ScenarioFactor>Forgatókönyv</StatsReport_ScenarioFactor>
 
 </LanguageData>

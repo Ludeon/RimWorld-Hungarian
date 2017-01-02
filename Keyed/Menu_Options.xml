@@ -12,6 +12,7 @@
   <PauseOnLoad>Betöltés után leáll</PauseOnLoad>
   <PauseOnUrgentLetter>Fontos üzenetnél leáll</PauseOnUrgentLetter>
   <CustomCursor>Egyedi kurzor</CustomCursor>
+  <UIScale>UI méret</UIScale>
   <KeyboardConfig>Billentyűzet beállítása</KeyboardConfig>
   <ChooseLanguage>Válassz nyelvet</ChooseLanguage>
   <ResetAdaptiveTutor>Adaptív oktató alaphelyzetbe</ResetAdaptiveTutor>
@@ -22,10 +23,14 @@
   <LogVerbose>Bővebb naplózás</LogVerbose>
   <OpenSaveGameDataFolder>Mentett állások mappájának megnyitása</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Vezetéknevek, amiket a játékban vagy a háttértörténetben látni akarsz:</NamesYouWantToSee>
+  <AddName>Név hozzáadása</AddName>
+  <TypeFirstNickOrLastName>Keresztnév, becenév vagy családnév hozzáadása.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>Ez a név már rajta van a preferált nevek listáján.</MessageAlreadyPreferredName>
   <ChangeStoryteller>Válassz mesélőt</ChangeStoryteller>
   <AutosaveInterval>Automentés időköze</AutosaveInterval>
   <TemperatureMode>Hőmérséklet skála</TemperatureMode>
   <ShowRealtimeClock>Valós idő mutatása</ShowRealtimeClock>
+  <MaxNumberOfPlayerHomes>Kolóniák maximális száma: {0}</MaxNumberOfPlayerHomes>
   <PlantWindSway>Mozgó növényzet (szél)</PlantWindSway>
   <MaxPermadeathAutosaveIntervalInfo>Maximális auto mentés időköze "Valós halál" módban {0} nap.</MaxPermadeathAutosaveIntervalInfo>
 
