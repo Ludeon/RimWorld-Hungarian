@@ -3,20 +3,27 @@
 
   <!--=================== executions and prisoner deaths ===================-->
 
-  <KnowGuestExecuted.stages.0.label>Eutanáziát hajtottak végre valakin</KnowGuestExecuted.stages.0.label>
-  <KnowGuestExecuted.stages.0.description>Egy idegenen eutanáziát hajtottak végre.</KnowGuestExecuted.stages.0.description>
-  <KnowGuestExecuted.stages.1.label>Valakit kivégeztek</KnowGuestExecuted.stages.1.label>
-  <KnowGuestExecuted.stages.1.description>Egy idegent hidegvérrel kivégeztek. Ez kissé gonosz húzás volt.</KnowGuestExecuted.stages.1.description>
-  <KnowGuestExecuted.stages.2.label>Valaki szerveltávolítás miatt meghalt</KnowGuestExecuted.stages.2.label>
-  <KnowGuestExecuted.stages.2.description>Egy idegen belehalt abba, hogy eltávolították egy szervét. Szörnyű.</KnowGuestExecuted.stages.2.description>
+  <KnowGuestExecuted.stages.0.label>Jogos kivégzés</KnowGuestExecuted.stages.0.label>
+  <KnowGuestExecuted.stages.0.description>Egy idegent jogosan kivégeztek. Szomorú eset.</KnowGuestExecuted.stages.0.description>
+  <KnowGuestExecuted.stages.1.label>Eutanáziát hajtottak végre valakin</KnowGuestExecuted.stages.1.label>
+  <KnowGuestExecuted.stages.1.description>Egy idegenen eutanáziát hajtottak végre.</KnowGuestExecuted.stages.1.description>
+  <KnowGuestExecuted.stages.2.label>Valakit kivégeztek</KnowGuestExecuted.stages.2.label>
+  <KnowGuestExecuted.stages.2.description>Egy idegent hidegvérrel kivégeztek. Ez kissé gonosz húzás volt.</KnowGuestExecuted.stages.2.description>
+  <KnowGuestExecuted.stages.3.label>Valaki szerveltávolítás miatt meghalt</KnowGuestExecuted.stages.3.label>
+  <KnowGuestExecuted.stages.3.description>Egy idegen belehalt abba, hogy eltávolították egy szervét. Szörnyű.</KnowGuestExecuted.stages.3.description>
 
-  <KnowColonistExecuted.stages.0.label>Gyarmatos eutanázia</KnowColonistExecuted.stages.0.label>
-  <KnowColonistExecuted.stages.0.description>Egy gyarmatoson eutanáziát hajtottak végre. Humánus lépés, de akkor is szomorú.</KnowColonistExecuted.stages.0.description>
-  <KnowColonistExecuted.stages.1.label>Gyarmatos kivégezve</KnowColonistExecuted.stages.1.label>
-  <KnowColonistExecuted.stages.1.description>Egy gyarmatost hidegvérrel kivégeztek. Ez kissé gonosz húzás volt.</KnowColonistExecuted.stages.1.description>
-  <KnowColonistExecuted.stages.2.label>Egy gyarmatos szerveltávolítás miatt meghalt</KnowColonistExecuted.stages.2.label>
-  <KnowColonistExecuted.stages.2.description>Egy gyarmatos belehalt abba, hogy eltávolították egy szervét. Szörnyű.</KnowColonistExecuted.stages.2.description>
 
+  <KnowColonistExecuted.stages.0.label>Jogos kivégzés</KnowColonistExecuted.stages.0.label>
+  <KnowColonistExecuted.stages.0.description>Egy gyarmatost jogosan kivégeztek. Szomorú eset.</KnowColonistExecuted.stages.0.description>  
+  <KnowColonistExecuted.stages.1.label>Gyarmatos eutanázia</KnowColonistExecuted.stages.1.label>
+  <KnowColonistExecuted.stages.1.description>Egy gyarmatoson eutanáziát hajtottak végre. Humánus lépés, de akkor is szomorú.</KnowColonistExecuted.stages.1.description>
+  <KnowColonistExecuted.stages.2.label>Gyarmatos kivégezve</KnowColonistExecuted.stages.2.label>
+  <KnowColonistExecuted.stages.2.description>Egy gyarmatost hidegvérrel kivégeztek. Ez kissé gonosz húzás volt.</KnowColonistExecuted.stages.2.description>
+  <KnowColonistExecuted.stages.3.label>Egy gyarmatos szerveltávolítás miatt meghalt</KnowColonistExecuted.stages.3.label>
+  <KnowColonistExecuted.stages.3.description>Egy gyarmatos belehalt abba, hogy eltávolították egy szervét. Szörnyű.</KnowColonistExecuted.stages.3.description>
+  
+
+  
   <KnowPrisonerDiedInnocent.stages.0.label>Ártalmatlan fogoly meghalt</KnowPrisonerDiedInnocent.stages.0.label>
   <KnowPrisonerDiedInnocent.stages.0.description>Az egyik ártalmatlan foglyunk meghalt. Jobban kéne gondoskodnunk róluk. Ha a halálát akarjuk, legalább kapjon egy rendes kivégzést. Ez így barbárság.</KnowPrisonerDiedInnocent.stages.0.description>
 

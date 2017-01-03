@@ -3,6 +3,7 @@
 
   <MoveSpeed.label>mozgási sebesség</MoveSpeed.label>
   <MoveSpeed.description>A személy mozgási sebessége cella per másodpercben.</MoveSpeed.description>
+  <MoveSpeed.formatString>{0} c/mp</MoveSpeed.formatString>
 
   <MentalBreakThreshold.label>idegösszeomlás küszöb</MentalBreakThreshold.label>
   <MentalBreakThreshold.description>Ha személy hangulata ez alá az érték alá esik, bármikor összeomolhat.</MentalBreakThreshold.description>

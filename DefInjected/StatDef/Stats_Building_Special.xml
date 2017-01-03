@@ -17,9 +17,12 @@
   <ResearchSpeedFactor.description>Adott projekt kutatási sebességét befolyásolja ez az érték.</ResearchSpeedFactor.description>
   <ResearchSpeedFactor.parts.1.customLabel>szoba tisztasága</ResearchSpeedFactor.parts.1.customLabel>
 
-  <MedicalTreatmentQualityFactor.label>ellátás minőség szorzó</MedicalTreatmentQualityFactor.label>
-  <MedicalTreatmentQualityFactor.description>Az ellátás minőségét befolyásolja.</MedicalTreatmentQualityFactor.description>
+  <!-- <MedicalTreatmentQualityFactor.label>ellátás minőség szorzó</MedicalTreatmentQualityFactor.label> -->
+  <!-- <MedicalTreatmentQualityFactor.description>Az ellátás minőségét befolyásolja.</MedicalTreatmentQualityFactor.description> -->
 
+  <MedicalTendQualityOffset.label>ellátás minőség módosító</MedicalTendQualityOffset.label>
+  <MedicalTendQualityOffset.description>Az ellátás minőségét befolyásolja.</MedicalTendQualityOffset.description>
+  
   <ImmunityGainSpeedFactor.label>immunitás elérés szorzó</ImmunityGainSpeedFactor.label>
   <ImmunityGainSpeedFactor.description>A betegek immunitásának kifejlődését befolyásolja.</ImmunityGainSpeedFactor.description>
 
