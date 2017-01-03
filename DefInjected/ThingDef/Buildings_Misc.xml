@@ -28,6 +28,16 @@
   <GroundPenetratingScanner.label>talaj letapogató</GroundPenetratingScanner.label>
   <GroundPenetratingScanner.description>Lefelé néző radar, szonárral kombinálva. Lehetővé teszi föld alatti ásványok detektálását, de azonosításukat nem. Rengeteg energiát igényel.</GroundPenetratingScanner.description>
 
+  <!-- Transport pods -->
+
+  <PodLauncher.label>szállítókapszula kilövő</PodLauncher.label>
+  <PodLauncher.description>Üzemanyagtöltő állás egy szállítókapszula kilövéséhez. Lehet egyszerre többet indítani, de ehhez szomszédosoknak kell lenniük.</PodLauncher.description>
+
+  <TransportPod.label>szállítókapszula</TransportPod.label>
+  <TransportPod.description>Rakétahajtású szállítókapszula emberek, tárgyak vagy állatok szuborbitális szállítására. Szállítás mellett használható támadásokhoz vagy utánpótlás biztosítására.</TransportPod.description>
+
+  
+  
   <!-- =================================================== -->
 
   <Grave.label>sír</Grave.label>

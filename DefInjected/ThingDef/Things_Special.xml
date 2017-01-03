@@ -2,16 +2,12 @@
 <LanguageData>
 
   <RectTrigger.label>téglalap kioldó???</RectTrigger.label>
-  <RectTrigger.description>Téglalap alakú kioldó.</RectTrigger.description>
-
-  <DropPodIncoming.label>mentőkabin (zuhanó)</DropPodIncoming.label>
-
-  <DropPod.label>mentőkabin</DropPod.label>
-
+  <!-- <RectTrigger.description>Téglalap alakú kioldó.</RectTrigger.description> -->
+  <DropPodIncoming.label>szállítókapszula (érkező)</DropPodIncoming.label>
+  <DropPodLeaving.label>szállítókapszula (induló)</DropPodLeaving.label>
+  <ActiveDropPod.label>szállítókapszula</ActiveDropPod.label>
   <Fire.label>tűz</Fire.label>
-
   <Spark.label>szikra</Spark.label>
-
   <TemporaryRegionBarrier.label>ideiglenes körzethatár</TemporaryRegionBarrier.label>
 
 </LanguageData>
