@@ -20,9 +20,15 @@
   <Manhunter.beginLetter>{0} emberevő lett.</Manhunter.beginLetter>
   <Manhunter.recoveryMessage>{0} vérszomja elmúlt.</Manhunter.recoveryMessage>
   <Manhunter.baseInspectLine>Őrület: emberevő</Manhunter.baseInspectLine>
+  
+  <ManhunterPermanent.label>emberevő</ManhunterPermanent.label>
+  <ManhunterPermanent.beginLetterLabel>emberevő</ManhunterPermanent.beginLetterLabel>
+  <ManhunterPermanent.beginLetter>{0} emberevő lett!</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.recoveryMessage>{0} vérszomja elmúlt.</ManhunterPermanent.recoveryMessage>
+  <ManhunterPermanent.baseInspectLine>Őrület: emberevő</ManhunterPermanent.baseInspectLine>
 
   <SocialFighting.label>verekedés</SocialFighting.label>
-  <SocialFighting.recoveryMessage>{0} és {1} már nem verekszik.</SocialFighting.recoveryMessage>
+  <!-- <SocialFighting.recoveryMessage>{0} és {1} már nem verekszik.</SocialFighting.recoveryMessage> -->
   <SocialFighting.baseInspectLine>Állapot: verekedés</SocialFighting.baseInspectLine>
 
 </LanguageData>

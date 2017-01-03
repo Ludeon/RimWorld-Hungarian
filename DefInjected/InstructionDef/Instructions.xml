@@ -110,8 +110,10 @@
 
   <DownRaider.text>Küldtem egy fosztogatót, hogy megtámadjon!\n\n1. Állítsd le az időt a {Key:TogglePause} billentyűvel\n2. Olvasd el a vörös levelet a jobb alsó sarokban\n3. Sorozd be a gyarmatosokat a "Besoroz" paranccsal\n4. Küldd őket közvetlen a homokzsákok mellé, belülre\n5. Indítsd el az időt\n\nKözvetlenül a homokzsákok mellett kell állniuk, hogy fedezéket kapjanak. Ha fedezékbe vonultál, várj, hogy a támadó közelebb jöjjön. Embereid automatikusan lőni fogják.</DownRaider.text>
   <DownRaider.onMapInstruction>Ide küldd az embereid\nKözvetlen a homokzsákok mellé</DownRaider.onMapInstruction>
+  <DownRaider.rejectInputMessage>Kérlek koncentrálj a csata megnyerésére!</DownRaider.rejectInputMessage>
 
   <UndraftAll.text>Sikerült! Szüntesd meg a besorozást ugyanazzal a paranccsal, amivel beállítottad! Így embereid visszatérhetnek napi rutinjukhoz.</UndraftAll.text>
+  <UndraftAll.rejectInputMessage>Kérlek szüntesd meg a besorozott státuszt!</UndraftAll.rejectInputMessage>
 
   <ChooseStoryteller.text>Az oktatás véget ért!\n\nMég rengeteg dolog van, amit nem érintettünk, például foglyok, vadászat, kereskedelem, állatszelídítés, stb. Az alapokat átvettük.\n\nA véletlenszerű események ki voltak kapcsolva az oktatás alatt. Egy igazi játék kezdéséhez:\n\n1. Nyisd meg a "Menü"-t jobbra lent\n2. Válaszd a "Beállítások"-at\n3. Klikkelj a "Válassz mesélőt" gombra\n4. Válassz neked tetsző mesélőt és nehézségi szintet\n\nSok szerencsét és jó szórakozást!</ChooseStoryteller.text>
   <ChooseStoryteller.rejectInputMessage>Kérlek, válassz mesélőt az oktatás befejezéséhez!</ChooseStoryteller.rejectInputMessage>
