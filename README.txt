@@ -37,7 +37,7 @@ Considered done. ColonyNames not translated, maybe later. Other strings could us
 
 Megjegyzések:
 
-1. A háttértörténetek a16-tal fordíthatók. 180k karakter, ez el fog tartani egy darabig...
+1. A háttértörténetek a16-tal fordíthatók. 109k karakter, ez el fog tartani egy darabig...
 2. Ahol változóból húzza be a játék egy dolog nevét, ott előfordulhat az angol megnevezés.
 3. Sok helyen generált a szöveg. Az angol remek nyelv erre, a magyar nagyon nem. Próbáltam kerülni a ragozást, ahol csak lehetett. A szobrok témájának leírása sok helyen tartalmaz egymásba ágyazott változókat. Kifejezésekből és szavakból így generál a játék tagmondatokat, ezekből mondatokat. A végeredmény angolul csak tartalmilag vicces, magyarul sokszor formailag is.
 4. Sok helyen a helyesírás és a fordítás minőségének kárára kellett módosítanom a tartalmat, főleg helyhiány miatt.
