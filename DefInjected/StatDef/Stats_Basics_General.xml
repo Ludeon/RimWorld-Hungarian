@@ -4,8 +4,13 @@
   <MaxHitPoints.label>max. tartósság</MaxHitPoints.label>
   <MaxHitPoints.description>Ez adja meg, hogy a tárgy mennyi sebzést képes elnyelni mielőtt tönkre megy.</MaxHitPoints.description>
 
+  <Mass.label>tömeg</Mass.label>
+  <Mass.description>A tárgy tömege.</Mass.description>
+  <Mass.formatString>{0} kg</Mass.formatString>
+  
   <MarketValue.label>érték</MarketValue.label>
   <MarketValue.description>A tárgy piaci értéke. A valós kereskedelmi ár ennek a kapcsolati státusz és az alkusz készség által módosított értéke.</MarketValue.description>
+  <MarketValue.formatString>${0}</MarketValue.formatString>
 
   <SellPriceFactor.label>eladási szorzó</SellPriceFactor.label>
   <SellPriceFactor.description>Árszorzó, mely megadja, hogy mennyiért tudod eladni a tárgyat.</SellPriceFactor.description>
@@ -16,9 +21,13 @@
   <WorkToMake.label>munkamennyiség</WorkToMake.label>
   <WorkToMake.description>Mennyi munka szükséges az előállításhoz, ha az összes alapanyag és szerszám adott.</WorkToMake.description>
 
+  <WorkToBuild.label>munkamennyiség</WorkToBuild.label>
+  <WorkToBuild.description>Az alap munkamennyiség, ami az építéshez szükséges, ha minden anyag és szerszám rendelkezésre áll.</WorkToBuild.description>
+
   <DeteriorationRate.label>állagromlás</DeteriorationRate.label>
   <DeteriorationRate.description>Annak mértéke, hogy milyen gyorsan romlik a tárgy állaga, ha a szabad ég alatt hagyják (különösen esőben).</DeteriorationRate.description>
-
+  <DeteriorationRate.formatString>{0} / nap</DeteriorationRate.formatString>
+ 
   <Beauty.label>szépség</Beauty.label>
   <Beauty.description>Mennyire élvezetes a tárgy körül lenni és ránézni.</Beauty.description>
 

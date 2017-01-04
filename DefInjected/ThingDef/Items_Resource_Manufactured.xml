@@ -13,9 +13,9 @@
   <GlitterworldMedicine.description>Fejlett orvosi ellátmány egy csúcstechnológiával rendelkező világról.</GlitterworldMedicine.description>
 
   <!-- Shells -->
-
-  <ArtilleryShell.label>ágyúlövedék</ArtilleryShell.label>
-  <ArtilleryShell.description>Ágyúk ezt lövik ki.</ArtilleryShell.description>
+  
+  <MortarShell.label>ágyúlövedék</MortarShell.label>
+  <MortarShell.description>Ágyúk ezt a robbanótöltetet lövik ki. Ha megsérül, felrobban.</MortarShell.description>
 
   <!-- Component -->
 
@@ -26,9 +26,10 @@
   <Neutroamine.label>neutroamin</Neutroamine.label>
   <Neutroamine.description>Szintetikus alapanyag. Önmagában haszontalan, de sok drog hozzávalója.</Neutroamine.description>
 
-  <!-- Wort -->
+  <!-- Chemfuel -->
 
-  <Wort.label>söralap</Wort.label>
-  <Wort.description>Ebből lesz a sör erjesztés után. Hozzávalók keveréke, aminek erjesztő hordóban kell erjednie, mielőtt sör lenne belőle.</Wort.description>
+  <Chemfuel.label>chemfuel</Chemfuel.label>
+  <Chemfuel.description>Volatile liquid chemical compound. Used to fuel rockets and other machines.</Chemfuel.description>
 
-</LanguageData>
+  
+  </LanguageData>

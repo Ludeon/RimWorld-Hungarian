@@ -17,7 +17,8 @@
 
   <Plasteel.label>plasztacél</Plasteel.label>
   <Plasteel.description>Fejlett, rétegelt szerkezetű anyag, üvegszál és acél ötvözete. A plasztacél nagyon erős, egyedi molekuláris szerkezete miatt.</Plasteel.description>
-
+  <Plasteel.stuffProps.stuffAdjective>plasztacél</Plasteel.stuffProps.stuffAdjective>
+  
   <WoodLog.label>fa</WoodLog.label>
   <WoodLog.description>Fás szárú növényekből kinyert építőanyag. Épületek, fegyverek vagy egyszerű művégtagok is készíthetők belőle. Egy egyszerű fadarab használható fegyverként is, ha baj van.</WoodLog.description>
   <WoodLog.stuffProps.stuffAdjective>fa</WoodLog.stuffProps.stuffAdjective>
@@ -52,9 +53,9 @@
   <!--=============================== Wool ================================-->
   <!--=====================================================================-->
 
-  <MegatheriumWool.label>lajhár gyapjú</MegatheriumWool.label>
-  <MegatheriumWool.description>Bár kissé durva, a lajhár gyapjú hosszú szálai miatt nagyon erős. Nagyon meleg.</MegatheriumWool.description>
-  <MegatheriumWool.stuffProps.stuffAdjective>lajhár gyapjú</MegatheriumWool.stuffProps.stuffAdjective>
+  <MegaslothWool.label>lajhár gyapjú</MegaslothWool.label>
+  <MegaslothWool.description>Bár kissé durva, a lajhár gyapjú hosszú szálai miatt nagyon erős. Nagyon meleg.</MegaslothWool.description>
+  <MegaslothWool.stuffProps.stuffAdjective>lajhár gyapjú</MegaslothWool.stuffProps.stuffAdjective>
 
   <MuffaloWool.label>muffalo gyapjú</MuffaloWool.label>
   <MuffaloWool.description>Puha, könnyű és nagyon jól szigetel. A gyapjúszövet képes melegen tartani a testet a leghidegebb körülmények között is.</MuffaloWool.description>

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <MakeStoneBlocks.label>kőtömb faragás</MakeStoneBlocks.label>
-  <MakeStoneBlocks.description>Kődarabok tömbbé alakítása.</MakeStoneBlocks.description>
-  <MakeStoneBlocks.jobString>Kőtömböt farag.</MakeStoneBlocks.jobString>
+  <MakeStoneBlocksAny.label>kőtömb faragás</MakeStoneBlocksAny.label>
+  <MakeStoneBlocksAny.description>Kődarabok tömbbé alakítása.</MakeStoneBlocksAny.description>
+  <MakeStoneBlocksAny.jobString>Kőtömböt farag.</MakeStoneBlocksAny.jobString>
+
+  <!-- <MakeStoneBlocks.label>kőtömb faragás</MakeStoneBlocks.label> -->
+  <!-- <MakeStoneBlocks.description>Kődarabok tömbbé alakítása.</MakeStoneBlocks.description> -->
+  <!-- <MakeStoneBlocks.jobString>Kőtömböt farag.</MakeStoneBlocks.jobString> -->
 
   <ExtractMetalFromSlag.label>salak olvasztás</ExtractMetalFromSlag.label>
   <ExtractMetalFromSlag.description>Kivonja a fémet a salakból egy erős elektromágnessel fűtött kohóban.</ExtractMetalFromSlag.description>
@@ -13,12 +17,28 @@
   <SmeltWeapon.description>Kivonja a fémet a fegyverből egy erős elektromágnessel fűtött kohóban.</SmeltWeapon.description>
   <SmeltWeapon.jobString>Fegyvert olvaszt.</SmeltWeapon.jobString>
 
-  <MakeArtilleryShell.label>ágyúlövedék</MakeArtilleryShell.label>
-  <MakeArtilleryShell.description>Lövedék készítése tarackok számára.</MakeArtilleryShell.description>
-  <MakeArtilleryShell.jobString>Ágyúlövedéket gyárt.</MakeArtilleryShell.jobString>
+  <!-- <MakeArtilleryShell.label>ágyúlövedék</MakeArtilleryShell.label> -->
+  <!-- <MakeArtilleryShell.description>Lövedék készítése tarackok számára.</MakeArtilleryShell.description> -->
+  <!-- <MakeArtilleryShell.jobString>Ágyúlövedéket gyárt.</MakeArtilleryShell.jobString> -->
 
   <MakeComponent.label>alkatrész gyártás</MakeComponent.label>
   <MakeComponent.description>Alkatrész legyártása.</MakeComponent.description>
   <MakeComponent.jobString>Alkatrészt gyárt.</MakeComponent.jobString>
 
+  <MakeChemfuelFromWood.label>kémiai üzemanyag fából</MakeChemfuelFromWood.label>
+  <MakeChemfuelFromWood.description>Kémiai üzemanyag készítése fa elpárologtatásával.</MakeChemfuelFromWood.description>
+  <MakeChemfuelFromWood.jobString>Fából kémiai üzemanyagot gyárt.</MakeChemfuelFromWood.jobString>
+
+  <MakeChemfuelFromOrganics.label>kémiai üzemanyag szerves anyagból</MakeChemfuelFromOrganics.label>
+  <MakeChemfuelFromOrganics.description>Kémiai üzemanyag készítése szerves anyagokból kinyert biogázokkal.</MakeChemfuelFromOrganics.description>
+  <MakeChemfuelFromOrganics.jobString>Szerves anyagból kémiai üzemanyagot gyárt.</MakeChemfuelFromOrganics.jobString>
+
+  <MakeMortarShell.label>ágyúlövedék</MakeMortarShell.label>
+  <MakeMortarShell.description>Lövedék készítése tarackok számára.</MakeMortarShell.description>
+  <MakeMortarShell.jobString>Ágyúlövedéket gyárt.</MakeMortarShell.jobString>
+  
+  <DestroyWeapon.label>fegyver megsemmisítés</DestroyWeapon.label>
+  <DestroyWeapon.description>Fegyverek elégetése. Gyorsabb, mint a beolvasztás, és nem olvasztható tárgyakon is működik, de nem ad nyersanyagot.</DestroyWeapon.description>
+  <DestroyWeapon.jobString>Fegyvert semmisít meg.</DestroyWeapon.jobString>
+  
 </LanguageData>

@@ -80,7 +80,29 @@
   <KilledHumanlikeBloodlust.stages.0.label>valakit megölt (vérszomj)</KilledHumanlikeBloodlust.stages.0.label>
   <KilledHumanlikeBloodlust.stages.0.description>Valakit megöltem! Micsoda érzés!</KilledHumanlikeBloodlust.stages.0.description>
 
- <!--  <WitnessedDeathFamily.stages.0.label>családtag halálát látta</WitnessedDeathFamily.stages.0.label>
-  <WitnessedDeathFamily.stages.0.description>Láttam, ahogy a családom egy tagja meghal. Az én húsom és vérem...</WitnessedDeathFamily.stages.0.description> -->
+  <DefeatedHostileFactionLeader.stages.0.label>ellenséges vezért ölt ({0})</DefeatedHostileFactionLeader.stages.0.label>
+  <DefeatedHostileFactionLeader.stages.0.description>Megpróbáltak elpusztítani minket, de nem hagytuk magunkat!</DefeatedHostileFactionLeader.stages.0.description>
 
+  <DefeatedMajorEnemy.stages.0.label>legyőzte ezt: {0}</DefeatedMajorEnemy.stages.0.label>
+  <DefeatedMajorEnemy.stages.0.description>Nagy fenyegetést győztem le! Hős vagyok!</DefeatedMajorEnemy.stages.0.description>
+
+  <WitnessedDeathFamily.stages.0.label>családtag halálát látta</WitnessedDeathFamily.stages.0.label>
+  <WitnessedDeathFamily.stages.0.description>Láttam, ahogy a családom egy tagja meghal. Az én húsom és vérem...</WitnessedDeathFamily.stages.0.description>
+
+  <!-- Abandoning pawns -->
+
+  <ColonistAbandoned.stages.0.label>gyarmatos hátrahagyva</ColonistAbandoned.stages.0.label>
+  <ColonistAbandoned.stages.0.description>Valakit hátrahagytunk. Remélem túléli, de aggódom miatta.</ColonistAbandoned.stages.0.description>
+
+  <ColonistAbandonedToDie.stages.0.label>gyarmatos hátrahagyva</ColonistAbandonedToDie.stages.0.label>
+  <ColonistAbandonedToDie.stages.0.description>Hátrahagytunk valakit, akinek szinte semmi esélye sincs a túlélésre.</ColonistAbandonedToDie.stages.0.description>
+
+  <PrisonerAbandonedToDie.stages.0.label>fogoly hátrahagyva</PrisonerAbandonedToDie.stages.0.label>
+  <PrisonerAbandonedToDie.stages.0.description>Hátrahagytunk egy foglyot, akinek szinte semmi esélye sincs a túlélésre.</PrisonerAbandonedToDie.stages.0.description>
+
+  <BondedAnimalAbandoned.stages.0.label>kötődő állat {0} hátrahagyva</BondedAnimalAbandoned.stages.0.label>
+  <BondedAnimalAbandoned.stages.0.description>A háziállatomat hátrahagytuk a semmi közepén!</BondedAnimalAbandoned.stages.0.description>
+
+  
+  
 </LanguageData>

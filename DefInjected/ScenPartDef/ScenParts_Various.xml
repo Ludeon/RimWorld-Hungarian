@@ -25,13 +25,17 @@
   <!--=================== rules changes =================-->
 
   <Rule_DisallowDesignator_ZoneAdd_Growing.label>Nincs vetés</Rule_DisallowDesignator_ZoneAdd_Growing.label>
-
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>Nem lehet magokat vetni a földbe.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  
   <Rule_DisallowDesignator_Mine.label>Nincs bányászat</Rule_DisallowDesignator_Mine.label>
-
+  <Rule_DisallowDesignator_Mine.description>Nem lehet bányászni.</Rule_DisallowDesignator_Mine.description>
+  
   <Rule_DisallowDesignator_Hunt.label>Nincs vadászat</Rule_DisallowDesignator_Hunt.label>
-
+  <Rule_DisallowDesignator_Hunt.description>Nem lehet vadászni.</Rule_DisallowDesignator_Hunt.description>
+  
   <Rule_DisallowDesignator_Tame.label>Nincs szelídítés</Rule_DisallowDesignator_Tame.label>
-
+  <Rule_DisallowDesignator_Tame.description>Nem lehet állatokat szelídíteni.</Rule_DisallowDesignator_Tame.description>
+  
   <StatFactor.label>Stat szorzó</StatFactor.label>
 
   <!--===============================================-->

@@ -24,15 +24,25 @@
   <TynansDesignBook>Tynan design könyve</TynansDesignBook>
   <HelpTranslate>Segíts a fordításban</HelpTranslate>
   <BuySoundtrack>Zene megvásárlása</BuySoundtrack>
-
+  
   <!--=========== Create/review world ================-->
   <ReviewWorld>Világ áttekintése</ReviewWorld>
   <WorldGenerate>Létrehoz</WorldGenerate>
   <WorldSaveAndFinish>Mentés és kész</WorldSaveAndFinish>
   <Reset>Alapállás</Reset>
-  <WorldSize>Méret</WorldSize>
+  <!-- <WorldSize>Méret</WorldSize> -->
+  <PlanetCoverage>Szárazföld kiterjedése</PlanetCoverage>
+  <PlanetRainfall>Esőzés mértéke</PlanetRainfall>
+  <PlanetTemperature>Átlaghőmérséklet</PlanetTemperature>
+  <PlanetRainfall_Low>Alacsony</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>Normál</PlanetRainfall_Normal>
+  <PlanetRainfall_High>Magas</PlanetRainfall_High>
+  <PlanetTemperature_Low>Alacsony</PlanetTemperature_Low>
+  <PlanetTemperature_Normal>Normál</PlanetTemperature_Normal>
+  <PlanetTemperature_High>Magas</PlanetTemperature_High>
   <WorldSeed>Alapkód</WorldSeed>
   <RandomizeSeed>Véletlenszerű alapkód</RandomizeSeed>
+  <PlanetCoverageTip>A bolygó átmérője állandó, de mivel sokkal nagyobb a mérete, mint ami a játékhoz szükséges, nem generálódik le az egész felszín. Ez túl sok időt venne igénybe. Ez a szám adja meg, hogy a felszín mekkora része legyen legenerálva.</PlanetCoverageTip>
 
   <!--=========== Select world ===================-->
   <SelectWorld>Világ kiválasztása</SelectWorld>
@@ -68,7 +78,7 @@
   <ModTargetVersion>{0} verzióhoz</ModTargetVersion>
   <ModNotMadeForThisVersion>Ez a mod a RimWorld más verziójához készült, nem fog megfelelően működni.</ModNotMadeForThisVersion>
   <MessageModNeedsWellFormattedTargetVersion>A modnak szüksége van egy jól formázott verziószámra az About.xml-ben. Pl.: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
-  <DragToReorder>Egérrel húzhatóak az elemek</DragToReorder>
+  <DragToReorder>Egérrel húzhatók az elemek</DragToReorder>
 
   <!--=========== Select scenario =============-->
   <ChooseScenario>Forgatókönyv</ChooseScenario>
@@ -102,14 +112,15 @@
   <SelectSite>Jóváhagyás</SelectSite>
   <MustSelectLandingSite>Kérlek válassz landolási helyet.</MustSelectLandingSite>
   <CannotLandBiome>Ezen a életközösségen nem landolhatsz: {0}</CannotLandBiome>
-  <WorldRenderMode>Mód</WorldRenderMode>
-  <WorldRenderModeFull>Teljes</WorldRenderModeFull>
-  <WorldRenderModeTemperature>Hőmérséklet</WorldRenderModeTemperature>
-  <WorldRenderModeElevation>Magasság</WorldRenderModeElevation>
-  <WorldRenderModeFertility>Termékenység</WorldRenderModeFertility>
-  <WorldRenderModeRainfall>Esőzés</WorldRenderModeRainfall>
-  <WorldRenderModeBiomes>Életközösségek</WorldRenderModeBiomes>
+  <!-- <WorldRenderMode>Mód</WorldRenderMode> -->
+  <!-- <WorldRenderModeFull>Teljes</WorldRenderModeFull> -->
+  <!-- <WorldRenderModeTemperature>Hőmérséklet</WorldRenderModeTemperature> -->
+  <!-- <WorldRenderModeElevation>Magasság</WorldRenderModeElevation> -->
+  <!-- <WorldRenderModeFertility>Termékenység</WorldRenderModeFertility> -->
+  <!-- <WorldRenderModeRainfall>Esőzés</WorldRenderModeRainfall> -->
+  <!-- <WorldRenderModeBiomes>Életközösségek</WorldRenderModeBiomes> -->
   <BiomeNotImplemented>Nincs életközösség</BiomeNotImplemented>
+  <CannotLandImpassableMountains>Áthatolhatatlan hegyen nem lehet leszállni.</CannotLandImpassableMountains>
   <BaseAlreadyThere>Itt már van bázisa nekik: {0}.</BaseAlreadyThere>
   <Biome>Életközösség</Biome>
   <Terrain>Terep</Terrain>
@@ -125,6 +136,10 @@
   <HasCoast3>Nyugati part</HasCoast3>
   <FactionBase>Frakció bázisa</FactionBase>
   <StoneTypesHere>Sziklafajták</StoneTypesHere>
+  <TimeZone>Időzóna</TimeZone>
+  <MovementTimeNow>Jelenlegi áthaladási idő</MovementTimeNow>
+  <MovementTimeSummer>Nyári áthaladási idő</MovementTimeSummer>
+  <MovementTimeWinter>Téli áthaladási idő</MovementTimeWinter>
 
   <!--=========== Character chooser ==========-->
   <CreateCharacters>Karakterek létrehozása</CreateCharacters>
@@ -152,14 +167,15 @@
   <Advanced>További...</Advanced>
   <Next>Következő</Next>
   <Back>Vissza</Back>
-
   <Gameplay>Játék</Gameplay>
-
   <ConfirmQuit>Biztosan kilépsz? A nem mentett változások elvesznek.</ConfirmQuit>
-
   <EveryoneNeedsValidName>Mindenkinek kell egy megfelelő név.</EveryoneNeedsValidName>
+  <Quit>Kilépés</Quit>
+  <Ignore>Ignorál</Ignore>
 
+  <!--============ Progress bar==============-->
   <GeneratingWorld>Világ létrehozása</GeneratingWorld>
   <GeneratingMap>Térkép létrehozása</GeneratingMap>
+  <GeneratingMapForNewEncounter>Térkép létrehozása új találkozáshoz</GeneratingMapForNewEncounter>
 
 </LanguageData>

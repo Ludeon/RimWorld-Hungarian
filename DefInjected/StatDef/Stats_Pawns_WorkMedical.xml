@@ -7,9 +7,13 @@
   <SurgerySuccessChance.label>műtét sikeresség</SurgerySuccessChance.label>
   <SurgerySuccessChance.description>Annak valószínűsége, hogy a karakter sikeres műtétet végez. A kudarc elpazarolt időbe és orvosságba kerül, és katasztrofális károkat is okozhat a páciensnek.</SurgerySuccessChance.description>
 
-  <BaseHealingQuality.label>ellátás minősége</BaseHealingQuality.label>
-  <BaseHealingQuality.description>Doktorként a betegeknek adott ellátás alapminősége.</BaseHealingQuality.description>
+  <!-- <BaseHealingQuality.label>ellátás minősége</BaseHealingQuality.label> -->
+  <!-- <BaseHealingQuality.description>Doktorként a betegeknek adott ellátás alapminősége.</BaseHealingQuality.description> -->
 
+  <HealingQuality.label>ellátás minősége</HealingQuality.label>
+  <HealingQuality.description>Doktorként a betegeknek adott ellátás minősége.</HealingQuality.description>
+
+  
   <HealingSpeed.label>gyógyítás sebessége</HealingSpeed.label>
   <HealingSpeed.description>Doktorként milyen gyorsan gyógyítja a sebeket.</HealingSpeed.description>
 
