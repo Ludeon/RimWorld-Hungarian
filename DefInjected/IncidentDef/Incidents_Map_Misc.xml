@@ -1,13 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Eclipse.label>napfogyatkozás</Eclipse.label>
-  <Eclipse.letterLabel>Napfogyatkozás</Eclipse.letterLabel>
-  <Eclipse.letterText>A bolygó egyik holdja eltakarja a napot. Napfogyatkozás kezdődött.</Eclipse.letterText>
+  <!-- Good -->
 
-  <SolarFlare.label>napkitörés</SolarFlare.label>
-  <SolarFlare.letterLabel>Napkitörés</SolarFlare.letterLabel>
-  <SolarFlare.letterText>Napkitörés kezdődött.\n\nAz erős sugárzás használhatatlanná teszi az elektromos készülékeket.\n\nKörülbelül egy napig fog tartani.</SolarFlare.letterText>
+  <ResourcePodCrash.label>lezuhant ellátmány</ResourcePodCrash.label>
+  <PsychicSoothe.label>pszichotikus nyugalom</PsychicSoothe.label>
+  <SelfTame.label>megszelídülés</SelfTame.label>
+
+  <AmbrosiaSprout.label>ambrosia sprout</AmbrosiaSprout.label>
+  <AmbrosiaSprout.letterText>A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit.</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterLabel>Ambrosia sprout</AmbrosiaSprout.letterLabel>
+
+  <FarmAnimalsWanderIn.label>háziállatok tévednek be</FarmAnimalsWanderIn.label>
+  <WandererJoin.label>vándor csatlakozik</WandererJoin.label>
+  <RefugeePodCrash.label>lezuhant mentőkapszula</RefugeePodCrash.label>
+
+
+  <!-- Neutral -->
+
+  <RefugeeChased.label>üldözött menekült</RefugeeChased.label>
+
+  <ThrumboPasses.label>trumbok vonulnak</ThrumboPasses.label>
+
+  <RansomDemand.label>váltságdíj követelés</RansomDemand.label>
+  <RansomDemand.letterLabel>Váltságdíj követelés</RansomDemand.letterLabel>
+
+  <CaravanRequest.label>caravan request</CaravanRequest.label>
+
+
+  <!-- Bad -->
 
   <PsychicDrone.label>pszichotikus hullámok</PsychicDrone.label>
 
@@ -36,5 +57,6 @@
   <CropBlight.label>penész</CropBlight.label>
 
   <Alphabeavers.label>alfahódok</Alphabeavers.label>
+
 
 </LanguageData>

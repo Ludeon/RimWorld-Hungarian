@@ -17,6 +17,7 @@
 
   <MessageVisitorsTakingWounded>{1} tagjai ({0}) magukkal visznek egy sérült látogatót.</MessageVisitorsTakingWounded>
   <MessageVisitorsTrappedLeaving>{1} tagjai ({0}) csapdába estek és megpróbálják magukat kiásni, hogy elmeneküljenek.</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsDangerousTemperature>{1} tagjai ({0}) elhagyják a helyet a veszélyes hőmérséklet miatt.</MessageVisitorsDangerousTemperature>
 
   <MessageWornApparelDeterioratedAway>{1} által hordott {0} semmivé foszlott.</MessageWornApparelDeterioratedAway>
 
@@ -153,8 +154,9 @@
   <MessageAccidentalOverdose>{0} véletlenül túladagolta ezt: {1}!</MessageAccidentalOverdose>
 
   <MessageCaravanArrivedAtDestination>{0} megérkezett a célhoz.</MessageCaravanArrivedAtDestination>
+  <MessageCaravanIsVisitingSettlement>{0} megérkezett ide: {1}.</MessageCaravanIsVisitingSettlement>
 
-  <MessageCaravanIsVisitingFaction>{0} megérkezett ide: {1}.</MessageCaravanIsVisitingFaction>
+<!--   <MessageCaravanIsVisitingFaction>{0} megérkezett ide: {1}.</MessageCaravanIsVisitingFaction> -->
 
   <MessageCaravanEnteredWorldObject>{0} megérkezett ide: {1}.</MessageCaravanEnteredWorldObject>
 
@@ -171,7 +173,9 @@
   <MessageRescueeJoined>Mivel megmentetted, {0} csatlakozott hozzád!</MessageRescueeJoined>
 
   <MessageAttackedCaravanIsNowHostile>Mivel megtámadtad {0} karavánját, mostantól ellenségek vagytok.</MessageAttackedCaravanIsNowHostile>
-
+  <MessageFactionPawnCrushed>{0} emberveszteség beomlás miatt. Frakció kapcsolat: {1}</MessageFactionPawnCrushed>
+  <MessageFactionPawnLost>{0} elvesztette őt: {1}. Frakció kapcsolat: {2}</MessageFactionPawnLost>
+ 
   <MessageTransporterUnreachable>Némely szállítókapszula elérhetetlen.</MessageTransporterUnreachable>
   <MessageTransportersNotAdjacent>A kiválasztott kapszulák kilövőállásainak szomszédosoknak kell lenniük.</MessageTransportersNotAdjacent>
 
@@ -182,6 +186,7 @@
 
   <MessageTransportPodsArrived>A kapszulák megérkeztek.</MessageTransportPodsArrived>
   <MessageTransportPodsArrivedAndLost>A kapszulák megérkeztek, de mivel nem volt velük gyarmatos, a tartalmuk elveszett.</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndAddedToCaravan>A kapszulák megérkeztek. Tartalmukat felpakolták a karavánra.</MessageTransportPodsArrivedAndAddedToCaravan>
   <MessageTransportPodsArrived_BecameHostile>{0} mostantól ellenség.</MessageTransportPodsArrived_BecameHostile>
 
   <MessageFailedToLoadTransportersBecauseColonistLost>A berakodási folyamat leállt, mert legalább egy gyarmatos eltűnt.</MessageFailedToLoadTransportersBecauseColonistLost>
@@ -206,4 +211,22 @@
 
   <MessageScreenResTooSmallForUIScale>E felbontás és UI méret mellett a játék interfésze nem fér el a képernyőn. Kérlek, csökkentsd a méretet vagy növeld a felbontást!</MessageScreenResTooSmallForUIScale>
 
+  <MessageYouHaveToReformCaravanNow>A karavánt újjá kell alakítani. A hátrahagyottakat végleg elveszíted.</MessageYouHaveToReformCaravanNow>
+	
+  <MessageDefendersAttacking>{1} tagja: {0} megtámadja ezt: {2}.</MessageDefendersAttacking>
+
+  <MessageSelfTendUnsatisfied>Az önellátáshoz {0} be kell legyen osztva orvosnak.</MessageSelfTendUnsatisfied>
+  <MessageCannotSelfTendEver>{0} nem képes orvosi munkára, ezért nem lehet önellátó.</MessageCannotSelfTendEver>
+	
+  <MessageCantAddWaypointBecauseImpassable>Ez a terület járhatatlan.</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseUnreachable>Ez a terület nem elérhető az előző állomás felől.</MessageCantAddWaypointBecauseUnreachable>
+  <MessageCantAddWaypointBecauseLimit>{0} állomás a maximum.</MessageCantAddWaypointBecauseLimit>
+  <MessageCantRemoveWaypointBecauseFirst>Ezt az állomást nem lehet eltávolítani.</MessageCantRemoveWaypointBecauseFirst>
+  
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Egyik felügyelőd sem képes erőszakra. A kivégzés nem lesz végrehajtva.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  
+  <MessageSiteCountdownBecauseNoMoreEnemies>Minden ellenséget legyőztél. {0} múlva a karván magától újjáalakul.</MessageSiteCountdownBecauseNoMoreEnemies>
+  <MessageSiteCountdownBecauseNoEnemiesInitially>{0} múlva a karván magától újjáalakul. A világtérképen újjáalakíthatod most is.</MessageSiteCountdownBecauseNoEnemiesInitially>
+
+  
 </LanguageData>

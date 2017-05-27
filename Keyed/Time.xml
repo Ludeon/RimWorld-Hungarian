@@ -13,6 +13,11 @@
   <SeasonSummer>nyár</SeasonSummer>
   <SeasonFall>ősz</SeasonFall>
   <SeasonWinter>tél</SeasonWinter>
+  
+  <QuadrumAprimay>Áprijus</QuadrumAprimay>
+  <QuadrumJugust>Júguszt</QuadrumJugust>
+  <QuadrumSeptober>Szeptober</QuadrumSeptober>
+  <QuadrumDecembary>Decembár</QuadrumDecembary>
 
   <Born>Született: {0}</Born>
   <AgeChronological>Naptári életkor: {0} év, {1} évszak, {2} nap</AgeChronological>
@@ -21,8 +26,10 @@
   <!-- Date periods -->
   <Period1Year>1 év</Period1Year>
   <PeriodYears>{0} év</PeriodYears>
-  <Period1Season>1 évszak</Period1Season>
-  <PeriodSeasons>{0} évszak</PeriodSeasons>
+  <Period1Quadrum>1 negyed</Period1Quadrum>
+  <PeriodQuadrums>{0} negyed</PeriodQuadrums>
+<!--   <Period1Season>1 évszak</Period1Season>
+  <PeriodSeasons>{0} évszak</PeriodSeasons> -->
   <Period1Day>1 nap</Period1Day>
   <PeriodDays>{0} nap</PeriodDays>
   <Period1Hour>1 óra</Period1Hour>
