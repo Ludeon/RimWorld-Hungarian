@@ -43,7 +43,8 @@
   <WorldSeed>Alapkód</WorldSeed>
   <RandomizeSeed>Véletlenszerű alapkód</RandomizeSeed>
   <PlanetCoverageTip>A bolygó átmérője állandó, de mivel sokkal nagyobb a mérete, mint ami a játékhoz szükséges, nem generálódik le az egész felszín. Ez túl sok időt venne igénybe. Ez a szám adja meg, hogy a felszín mekkora része legyen legenerálva.</PlanetCoverageTip>
-
+  <WorldFactionsTab>Frakciók</WorldFactionsTab>
+  
   <!--=========== Select world ===================-->
   <SelectWorld>Világ kiválasztása</SelectWorld>
   <WorldChooseButton>Kiválasztás</WorldChooseButton>
@@ -122,8 +123,13 @@
   <BiomeNotImplemented>Nincs életközösség</BiomeNotImplemented>
   <CannotLandImpassableMountains>Áthatolhatatlan hegyen nem lehet leszállni.</CannotLandImpassableMountains>
   <BaseAlreadyThere>Itt már van bázisa nekik: {0}.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>Már van itt településed.</YourBaseAlreadyThere>
+  <TileOccupied>Foglalt terület.</TileOccupied>
+  <FactionBaseAdjacent>A települések nem lehetnek szomszédosak.</FactionBaseAdjacent>
   <Biome>Életközösség</Biome>
   <Terrain>Terep</Terrain>
+  <Road>Út</Road>
+  <River>Folyó</River>
   <Elevation>Magasság</Elevation>
   <Fertility>Termékenység</Fertility>
   <AvgTemp>Átlaghőmérséklet</AvgTemp>
@@ -140,6 +146,7 @@
   <MovementTimeNow>Jelenlegi áthaladási idő</MovementTimeNow>
   <MovementTimeSummer>Nyári áthaladási idő</MovementTimeSummer>
   <MovementTimeWinter>Téli áthaladási idő</MovementTimeWinter>
+  <AnimalsCanGrazeNow>Az állatok legelhetnek</AnimalsCanGrazeNow>
 
   <!--=========== Character chooser ==========-->
   <CreateCharacters>Karakterek létrehozása</CreateCharacters>
@@ -175,6 +182,7 @@
 
   <!--============ Progress bar==============-->
   <GeneratingWorld>Világ létrehozása</GeneratingWorld>
+  <GeneratingPlanet>Bolygó létrehozása</GeneratingPlanet>
   <GeneratingMap>Térkép létrehozása</GeneratingMap>
   <GeneratingMapForNewEncounter>Térkép létrehozása új találkozáshoz</GeneratingMapForNewEncounter>
 

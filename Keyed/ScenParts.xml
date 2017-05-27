@@ -33,7 +33,8 @@
 
   <ScenPart_StartWith>Induló készlet</ScenPart_StartWith>
   <ScenPart_MapScatteredWith>A térképen elszórva</ScenPart_MapScatteredWith>
-  <ScenPart_PermaMapCondition>Állandó térképtulajdonság(ok)</ScenPart_PermaMapCondition>
+ <!--  <ScenPart_PermaMapCondition>Állandó térképtulajdonság(ok)</ScenPart_PermaMapCondition> -->
+  <ScenPart_PermaGameCondition>Állandó játéktulajdonság(ok)</ScenPart_PermaGameCondition>
   <ScenPart_DisableIncident>Incidens(ek) kikapcsolva</ScenPart_DisableIncident>
   <ScenPart_CreateIncident>Incidens előidézése</ScenPart_CreateIncident>
   <ScenPart_DisallowBuilding>Nem építhető</ScenPart_DisallowBuilding>

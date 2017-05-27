@@ -9,12 +9,14 @@
   <CannotUseReserved>Nem használható (fenntartott)</CannotUseReserved>
   <CannotUseFull>Nem használható (tele van)</CannotUseFull>
   <LeaderUnavailable>{0} vezér nem elérhető</LeaderUnavailable>
+  <LeaderUnavailableNoLeader>vezér nem elérhető</LeaderUnavailableNoLeader>
 
   <FireAt>Tüzelni erre: {0} </FireAt>
 
   <OutOfRange>túl messze van</OutOfRange>
   <CannotHitTarget>nem lehet eltalálni</CannotHitTarget>
   <IsIncapableOfViolenceLower>{0} nem képes erőszakra</IsIncapableOfViolenceLower>
+  <IncapableOfViolenceLower>nem képes erőszakra</IncapableOfViolenceLower>
   <IsNotDraftedLower>{0} nincs besorozva</IsNotDraftedLower>
   <CannotOrderNonControlledLower>nem adható parancs nem irányítható egységnek</CannotOrderNonControlledLower>
 
@@ -27,8 +29,8 @@
   <ForbiddenLower>tilos</ForbiddenLower>
   <ForbiddenOutsideAllowedAreaLower>megengedett körzeten kívül</ForbiddenOutsideAllowedAreaLower>
   <NotInHomeArea>lakókörzeten kívül</NotInHomeArea>
-  <SociallyImproperLower>társadalmilag helytelen</SociallyImproperLower>
-  <PrisonerRoomLower>börtönszoba</PrisonerRoomLower>
+ <!--  <SociallyImproperLower>társadalmilag helytelen</SociallyImproperLower>
+  <PrisonerRoomLower>börtönszoba</PrisonerRoomLower> -->
   <BurningLower>ég</BurningLower>
   <NoEmptyPlaceLower>nincs engedélyezett üres hely</NoEmptyPlaceLower>
   <AlreadyFilledLower>már eléggé tele van</AlreadyFilledLower>
@@ -42,6 +44,10 @@
   <NoComponentsToRepair>nincs elég alkatrész</NoComponentsToRepair>
   <NoFuelToRefuel>{0} szükséges</NoFuelToRefuel>
   <NoWort>nincs söralap</NoWort>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>elérhető élelem magasabb prioritású raktárterületen van</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <NoFoodToFillHopper>nincs megfelelő étel</NoFoodToFillHopper>
+  <SelfTendDisabled>önellátás letiltva</SelfTendDisabled>
+  <ReservedForPrisoners>foglyoknak fenntartva</ReservedForPrisoners>
 
   <ConsumeThing>Elfogyaszt: {0}</ConsumeThing>
   <!-- <Teetotaler>antialkoholista</Teetotaler> -->
@@ -119,8 +125,12 @@
   <CannotTrade>Nem lehet kereskedni</CannotTrade>
   
   <EnterMap>Belépni ide: {0}</EnterMap>
-  <VisitFactionBase>Meglátogatni ezt: {0}</VisitFactionBase>
-  <AttackFactionBase>Megtámadni ezt: {0}</AttackFactionBase>
+<!--   <VisitFactionBase>Meglátogatni ezt: {0}</VisitFactionBase>
+  <AttackFactionBase>Megtámadni ezt: {0}</AttackFactionBase> -->
+  <VisitSettlement>Meglátogatni ezt: {0}</VisitSettlement>
+  <VisitSite>Meglátogatni ezt: {0}</VisitSite>
+  <AttackSite>Megtámadni ezt: {0}</AttackSite>
+  <AttackSettlement>Megtámadni ezt: {0}</AttackSettlement>
 
   <!-- Specific thing interactions -->
   <EnterCryptosleepCasket>Hibernálóba beszállni</EnterCryptosleepCasket>
@@ -135,7 +145,8 @@
   <CannotGenericAlreadyAm>Már ezt csinálja: {1} {0} </CannotGenericAlreadyAm>
 
  <!-- <CannotPrioritizeIsNotA>Nem tudja előre venni ({0} nem {1})</CannotPrioritizeIsNotA>-->
-  <CannotPrioritizeWorkTypeDisabled>Nem tudja előre venni, nem képes rá: {0}</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>Nem tudja előre venni, nem teszi ezt: {0}</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkGiverDisabled>Nem tudja előre venni, nem képes rá: {0})</CannotPrioritizeWorkGiverDisabled>
   <CannotPrioritizeNotAssignedToWorkType>Nem tudja előre venni, nincs beosztva rá: {0}</CannotPrioritizeNotAssignedToWorkType>
 
   <CannotPrioritizeResearch>Nem tudja előre venni (a kutatás egy hosszú távú feladat)</CannotPrioritizeResearch>
@@ -148,5 +159,11 @@
   
   <DropAtEdge>Szélen eldobni</DropAtEdge>
   <DropInCenter>Középen eldobni</DropInCenter>
+  
+  <VomitingLower>hány</VomitingLower>
+  <NotInterruptibleLower>nem megszakítható</NotInterruptibleLower>
+  
+  <AddWaypoint>Új célállomás hozzáadása</AddWaypoint>
+  <RemoveWaypoint>Célállomás eltávolítása</RemoveWaypoint>
 
 </LanguageData>

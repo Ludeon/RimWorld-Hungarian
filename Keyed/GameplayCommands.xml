@@ -25,9 +25,12 @@
   <CommandUndraftLabel>Leszerel</CommandUndraftLabel>
   <CommandToggleDraftDesc>Sorozás kapcsoló.\n\nA besorozott emberek végrehajtják a parancsokat és harcolnak. Nem dolgoznak, nem esznek, nem pihennek.</CommandToggleDraftDesc>
   <IsIncapped>{0} magatehetetlen.</IsIncapped>
+  <CommandFireAtWillLabel>Tüzelés engedélyezése</CommandFireAtWillLabel>
+  <CommandFireAtWillDesc>Tüzelés engedélyezése.\n\nKikapcsolt állapotban ez a karakter nem nyit automatikusan tüzet. Közelharcra nincs hatással.</CommandFireAtWillDesc>
+	
   
-  <CommandAllowFiringLabel>Tüzelés engedélyezve</CommandAllowFiringLabel>
-  <CommandAllowFiringDesc>Tüzelés engedélyezése.\n\nKikapcsolt állapotban ez a karakter nem nyit automatikusan tüzet. Közelharcra nincs hatással.</CommandAllowFiringDesc>
+ <!--  <CommandAllowFiringLabel>Tüzelés engedélyezve</CommandAllowFiringLabel>
+  <CommandAllowFiringDesc>Tüzelés engedélyezése.\n\nKikapcsolt állapotban ez a karakter nem nyit automatikusan tüzet. Közelharcra nincs hatással.</CommandAllowFiringDesc> -->
   
   <CommandClearPrioritizedWork>Előnyben részesített munka törlése</CommandClearPrioritizedWork>
   <CommandClearPrioritizedWorkDesc>Minden előnyben részesített munka törlése. A gyarmatos visszatér a szokásos maga-irányította munkarendhez.</CommandClearPrioritizedWorkDesc>
@@ -166,9 +169,12 @@
   <!-- Settle -->
   <CommandSettle>Letelepedés</CommandSettle>
   <CommandSettleDesc>Letelepedés ebben a körzetben. Gyarmatosaid belépnek a körzetbe, ahol hozzáláthatsz egy új otthon megteremtésének.</CommandSettleDesc>
-  <CommandSettleFailOtherWorldObjectsHere>A karavánon kívül nem lehet más tárgy ezen a helyen letelepedéskor.</CommandSettleFailOtherWorldObjectsHere>
+<!--   <CommandSettleFailOtherWorldObjectsHere>A karavánon kívül nem lehet más tárgy ezen a helyen letelepedéskor.</CommandSettleFailOtherWorldObjectsHere>-->
   <CommandSettleFailAlreadyHaveBase>A frakciódnak csak egy bázisa lehet.</CommandSettleFailAlreadyHaveBase>
   <CommandSettleFailReachedMaximumNumberOfBases>Nem lehet több kolóniád.</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailNoColonists>Nincs ott senki, aki letelepedhetne.</CommandSettleFailNoColonists>
+  <CommandSettleFailEnemies>Ellenség van a körzetben.</CommandSettleFailEnemies>
+
 
   <!-- Abandon home -->
   <CommandAbandonHome>Elhagy</CommandAbandonHome>
@@ -187,6 +193,12 @@
   <CommandTrade>Kereskedés</CommandTrade>
   <CommandTradeDesc>Kereskedés ezzel a frakcióval.</CommandTradeDesc>
   <CommandTradeFailNoNegotiator>Nincs használható alkusz.</CommandTradeFailNoNegotiator>
+  
+  <!-- Fulfill request -->
+  <CommandFulfillTradeOffer>Megrendelés teljesítése</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOfferDesc>A település által megrendelt áruk leszállítása és a jutalom begyűjtése.</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferFailInsufficient>A karavánnak rendelkeznie kell ezzel a megrendelés teljesítéséhez: {0}</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferConfirm>Biztosan odadod ezt: {0}? Cserébe ezt kapod: {1}.</CommandFulfillTradeOfferConfirm>
 
   <!-- Take off -->
   <CommandTakeOff>Felszállás</CommandTakeOff>
@@ -225,5 +237,13 @@
   <!-- Select next transporter -->
   <CommandSelectNextTransporter>A csoport következő tagjának kiválasztása</CommandSelectNextTransporter>
   <CommandSelectNextTransporterDesc>A csoport következő tagjának kiválasztása.</CommandSelectNextTransporterDesc>
+  
+  <!-- Vent -->
+  <CommandDesignateOpenCloseVentLabel>Kinyit/bezár</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentDesc>Szellőző kinyitása és bezárása.</CommandDesignateOpenCloseVentDesc>
+  
+    <!-- Remove waypoint -->
+  <CommandRemoveWaypointLabel>Eltávolítás</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointDesc>Célállomás eltávolítása.</CommandRemoveWaypointDesc>
   
 </LanguageData>

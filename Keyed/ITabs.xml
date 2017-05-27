@@ -43,6 +43,8 @@
   <!-- Medical - general -->
   <MoveSpeed>Mozgási sebesség</MoveSpeed>
   <Efficiency>Hatékonyság</Efficiency>
+  <PartEfficiency>Alkatrész hatékonyság</PartEfficiency>
+  <BodyPartEfficiency>Testrész hatékonyság</BodyPartEfficiency>
   <MissingBodyPart>Eltűnt</MissingBodyPart>
   <DestroyedBodyPart>Tönkrement</DestroyedBodyPart>
   <ShatteredBodyPart>Törött</ShatteredBodyPart>
@@ -75,6 +77,9 @@
   <Tiredness>Fáradtság</Tiredness>
   <PainFactor>Fájdalom</PainFactor>
   <PreventsInfection>Fertőzés megelőzése</PreventsInfection>
+  <SelfTend>Önellátás</SelfTend>
+  <SelfTendTip>{0}, akiknél az önellátás engedélyezve van, {1} hatékonysággal látják el magukat.</SelfTendTip>
+  
 
   <!-- Medical - Body and activities condition -->
   <None>Semmi</None>
@@ -102,6 +107,7 @@
   <!-- Social tab -->
   <NoRelationships>(nincs kapcsolata)</NoRelationships>
   <Kidnapped>Elrabolva</Kidnapped>
+  <Missing>Eltűnt</Missing>
   <Slave>Rabszolga</Slave>
   <FactionLeader>Frakcióvezér</FactionLeader>
   <OpinionOf>{0} véleménye</OpinionOf>

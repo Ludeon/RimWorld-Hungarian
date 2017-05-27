@@ -12,6 +12,7 @@
   <PauseOnLoad>Betöltés után leáll</PauseOnLoad>
   <PauseOnUrgentLetter>Fontos üzenetnél leáll</PauseOnUrgentLetter>
   <CustomCursor>Egyedi kurzor</CustomCursor>
+  <HatsShownOnlyOnMap>Kalapok csak a játéktérképen(???)</HatsShownOnlyOnMap>
   <UIScale>UI méret</UIScale>
   <KeyboardConfig>Billentyűzet beállítása</KeyboardConfig>
   <ChooseLanguage>Válassz nyelvet</ChooseLanguage>
@@ -33,6 +34,7 @@
   <MaxNumberOfPlayerHomes>Kolóniák maximális száma: {0}</MaxNumberOfPlayerHomes>
   <PlantWindSway>Mozgó növényzet (szél)</PlantWindSway>
   <MaxPermadeathAutosaveIntervalInfo>Maximális auto mentés időköze "Valós halál" módban {0} nap.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Mod beállítások</ModSettings>
 
   <!-- Resolution -->
   <Resolution>Felbontás</Resolution>
@@ -43,5 +45,9 @@
   <UserName>Felhasználói név</UserName>
   <ChooseHistoryUploadPref>Játékadatok feltöltési beállítása</ChooseHistoryUploadPref>
   <AboutHistoryUpload>A felhasználók játékadatai segítik a fejlesztőket kiegyensúlyozni a játékot. Ha beleegyezel, az adataid elküldésre kerülnek minden {0} játék naponta (és néhány egyéb ritka esetekben, mint a játék vége) a RimWorld szervernek, aztán ki lesznek elemezve. A feltöltött játékadatok a történelmi feljegyzések statisztikáiból állnak - semmilyen személyes adat nem kerül elküldésre, kivéve a felhasználó név, tehát a dolog teljesen névtelen.</AboutHistoryUpload>
+  
+  <!-- Mods -->
+  <SelectMod>Mod kiválasztása...</SelectMod>
+  <NoConfigurableMods>Nincsen testreszabható mod betöltve.</NoConfigurableMods>
 
-</LanguageData>
+  </LanguageData>
