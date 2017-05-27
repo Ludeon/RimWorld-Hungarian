@@ -22,7 +22,7 @@ Also kudos to German/Korean translators. I used their DefInjected XMLs as base.
 Status:
 ---------------------
 
-Game version: 0.16.1393 rev547
+Game version: 0.17.1456
 
 DefInjected:
 Old defs converted to new format and merged with German defs. Rest of the defs added from German translation. All done.
