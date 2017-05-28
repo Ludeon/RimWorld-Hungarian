@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MedicalTendSpeed.label>medical tend speed</MedicalTendSpeed.label>
-  <MedicalTendSpeed.description>Speed at which the character tends to wounds and illnesses as a doctor.</MedicalTendSpeed.description>
-  <MedicalTendQuality.label>medical tend quality</MedicalTendQuality.label>
-  <MedicalTendQuality.description>Quality of tending given to patients when acting as a doctor.</MedicalTendQuality.description>
+  <MedicalTendSpeed.label>ellátás sebesség</MedicalTendSpeed.label>
+  <MedicalTendSpeed.description>Milyen gyorsan lát el a személy sérüléseket és betegségeket.</MedicalTendSpeed.description>
+  <MedicalTendQuality.label>ellátás minősége</MedicalTendQuality.label>
+  <MedicalTendQuality.description>Milyen jól lát el a személy sérüléseket és betegségeket.</MedicalTendQuality.description>
   <MedicalOperationSpeed.label>operáló sebesség</MedicalOperationSpeed.label>
   <MedicalOperationSpeed.description>Milyen gyorsan távolít el testrészt vagy végez beültetést.</MedicalOperationSpeed.description>
-  <MedicalSurgerySuccessChance.label>medical surgery success chance</MedicalSurgerySuccessChance.label>
-  <MedicalSurgerySuccessChance.description>The likelihood that a character will succeed when attempting to perform a medical surgery. Failures can result in simple wasted time and medicine, or catastrophic damage to the patient. This base success chance is also affected by the facilities and medicine used in the operation, and the difficulty of the operation.</MedicalSurgerySuccessChance.description>
+  <MedicalSurgerySuccessChance.label>operáció sikeresség esély</MedicalSurgerySuccessChance.label>
+  <MedicalSurgerySuccessChance.description>Operáció sikerességének esélye. A kudarc nem csak idő és gyógyszer veszteséggel jár, de a páciens szenvedhet maradandó károkat is. Ezt a százalékot befolyásolják a felhasznált eszközök és környezet is, valamint az operáció nehézsége.</MedicalSurgerySuccessChance.description>
 </LanguageData>
