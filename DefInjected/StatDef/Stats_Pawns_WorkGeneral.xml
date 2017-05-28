@@ -4,24 +4,24 @@
   <WorkSpeedGlobal.description>A személy munkatempójának szorzója.</WorkSpeedGlobal.description>
   <MiningSpeed.label>kőfejtés sebesség</MiningSpeed.label>
   <MiningSpeed.description>Milyen gyorsan képes a személy sziklát bányászni.</MiningSpeed.description>
-  <MiningYield.label>mining yield</MiningYield.label>
-  <MiningYield.description>The percentage yield a miner will achieve. This applies to both wall mining and deep drill mining. This doesn't affect the rate of mining rock chunks.</MiningYield.description>
+  <MiningYield.label>bányászati hozam</MiningYield.label>
+  <MiningYield.description>A bányász hozama százalékban. Ez vonatkozik a kézi és gépi módszerre is. A kőbányászat sebességét nem befolyásolja.</MiningYield.description>
   <SmoothingSpeed.label>elegyengetés sebesség</SmoothingSpeed.label>
   <SmoothingSpeed.description>Milyen gyorsan képes a személy felületeket elegyengetni.</SmoothingSpeed.description>
   <ResearchSpeed.label>kutatás sebesség</ResearchSpeed.label>
   <ResearchSpeed.description>Milyen gyorsan képes a személy kutatást végezni.</ResearchSpeed.description>
-  <AnimalGatherSpeed.label>animal gather speed</AnimalGatherSpeed.label>
-  <AnimalGatherSpeed.description>The speed at which this person milks, shears, and otherwise gathers resources from animals.</AnimalGatherSpeed.description>
-  <AnimalGatherYield.label>animal gather yield</AnimalGatherYield.label>
-  <AnimalGatherYield.description>The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal. Higher percentages reduce the chance of wasting the product.</AnimalGatherYield.description>
+  <AnimalGatherSpeed.label>állatok betakarítása</AnimalGatherSpeed.label>
+  <AnimalGatherSpeed.description>A személy ilyen gyorsan fej, nyír és gyűjt be egyéb állati termékeket.</AnimalGatherSpeed.description>
+  <AnimalGatherYield.label>állat betakarítás hozam</AnimalGatherYield.label>
+  <AnimalGatherYield.description>A személy ilyen hatékonysággal fej, nyír és gyűjt be egyéb állati termékeket. Magasabb százaléknál kisebb az esélye, hogy a termék kárba vész.</AnimalGatherYield.description>
   <PlantWorkSpeed.label>földművelés sebesség</PlantWorkSpeed.label>
   <PlantWorkSpeed.description>Milyen gyorsan képes a személy vetni, aratni.</PlantWorkSpeed.description>
-  <PlantHarvestYield.label>plant harvest yield</PlantHarvestYield.label>
-  <PlantHarvestYield.description>The yield someone gets when harvesting plants. Low yields give a chance that this person will accidentally waste the harvest.</PlantHarvestYield.description>
+  <PlantHarvestYield.label>földművelés hozam</PlantHarvestYield.label>
+  <PlantHarvestYield.description>A személy ilyen hatékonysággal arat növényeket. Magasabb százaléknál kisebb az esélye, hogy a termék kárba vész.</PlantHarvestYield.description>
   <ConstructionSpeed.label>építés sebesség</ConstructionSpeed.label>
   <ConstructionSpeed.description>Milyen gyorsan képes a személy épületet felhúzni és javítani.</ConstructionSpeed.description>
-  <ConstructSuccessChance.label>construct success chance</ConstructSuccessChance.label>
-  <ConstructSuccessChance.description>The chance that this person will succeed in constructing something. Failing means wasting time and resources.</ConstructSuccessChance.description>
-  <FixBrokenDownBuildingSuccessChance.label>repair success chance</FixBrokenDownBuildingSuccessChance.label>
-  <FixBrokenDownBuildingSuccessChance.description>The chance that this person will successfully repair a broken down building using a component. Failing means wasting time and resources. Note that this only applies to repairing breakdowns, which is different from repairing damage.</FixBrokenDownBuildingSuccessChance.description>
+  <ConstructSuccessChance.label>építési sikeresség esély</ConstructSuccessChance.label>
+  <ConstructSuccessChance.description>Ilyen eséllyel lesz sikeres az építési projekt. A kudarc idő és nyersanyagveszteséggel jár.</ConstructSuccessChance.description>
+  <FixBrokenDownBuildingSuccessChance.label>javítás sikeresség esély</FixBrokenDownBuildingSuccessChance.label>
+  <FixBrokenDownBuildingSuccessChance.description>Ilyen eséllyel lesz sikeres a lerobbant építmény javítása. A kudarc idő és nyersanyagveszteséggel jár. Ez csak a lerobbant építmények javítására vonatkozik, sebződés megjavítására nem.</FixBrokenDownBuildingSuccessChance.description>
 </LanguageData>

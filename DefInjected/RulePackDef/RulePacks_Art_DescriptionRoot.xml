@@ -1,124 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>art_description_root-&gt;[physical_description_root] [context_sentence]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>circumstance_group-&gt;[circumstance_phrase]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>desc_sentence_group-&gt;[desc_sentence] [style_group]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>context_sentence-&gt;Ez a(z) [depiction] erre utal: [tale_noun]. Ekkor történt: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>context_sentence-&gt;Ez a(z) [depiction] erről szól: [tale_noun]. Ekkor történt: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>context_sentence-&gt;Ez a(z) [depiction] ennek történetét meséli el: [tale_noun]. Ekkor történt: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>
-  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>art_description_root-&gt;[physical_description_root]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>
-  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1>desc_sentence_group-&gt;[style_group]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.0>style_group-&gt;[artextra_clause], és [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.0>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.1>style_group-&gt;[artextra_clause], amúgy [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.1>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.2>style_group-&gt;[artextra_clause], valamint [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.2>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.3>style_group-&gt;[artextra_clause], közben [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.3>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.4>artextra_clause-&gt;a képet körbeveszi [quantity_adjphrase] [animal]</ArtDescriptionUtility_Global.rulePack.rulesStrings.4>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.5>artextra_clause-&gt;ez egy [community] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.5>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.6>artextra_clause-&gt;ez egy [terrainfeature] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.6>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.7>artextra_clause-&gt;ez egy [animal] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.7>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.8>artextra_clause-&gt;a tárgy egy [terrainfeature] előtt van</ArtDescriptionUtility_Global.rulePack.rulesStrings.8>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.9>artextra_clause-&gt;a jelenet a [community] közepén játszódik</ArtDescriptionUtility_Global.rulePack.rulesStrings.9>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.10>artextra_clause-&gt;a jelenet a [community] szélén játszódik</ArtDescriptionUtility_Global.rulePack.rulesStrings.10>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.11>artextra_clause-&gt;[outlander] mosolygó arca figyel mindenkit</ArtDescriptionUtility_Global.rulePack.rulesStrings.11>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.12>artextra_clause-&gt;a jelenet a [community] közepén játszódik egy [terrainfeature] közelében</ArtDescriptionUtility_Global.rulePack.rulesStrings.12>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.13>artextra_clause-&gt;a kép alsó részét egy [terrainfeature] dominálja</ArtDescriptionUtility_Global.rulePack.rulesStrings.13>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.14>artextra_clause-&gt;a kép több száz [animal] gondosan elrendezett csoportját ábrázolja</ArtDescriptionUtility_Global.rulePack.rulesStrings.14>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.15>artextra_clause-&gt;egy [outlander] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.15>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.16>artextra_clause-&gt;egy [animal] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.16>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.17>artextra_clause-&gt;egy halott [animal] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.17>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.18>artextra_clause-&gt;személyes ábrázolása ennek: [concept] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.18>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.19>artextra_clause-&gt;egy [animal] [side_position] a következőt szimbolizálja: [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.19>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.20>artextra_clause-&gt;[quantity_adjphrase] [outlander] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.20>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.21>artextra_clause-&gt;ha hunyorogsz, a [composition] kompozíció kezd úgy kinézni, mint egy [animal]</ArtDescriptionUtility_Global.rulePack.rulesStrings.21>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.22>style_clause-&gt;a kép a következőt próbálja kifejezni: [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.22>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.23>style_clause-&gt;a munkát áthatja a [concept] és [artstyle_adj] stílusban készült</ArtDescriptionUtility_Global.rulePack.rulesStrings.23>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.24>style_clause-&gt;a mű a következőt próbálja átadni: [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.24>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.25>style_clause-&gt;a mű [artstyle_adj] stílusban készült</ArtDescriptionUtility_Global.rulePack.rulesStrings.25>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.26>style_clause-&gt;a főmotívum [artstyle_adj] stílusa a háttér [artstyle_adj] stílusának feszül</ArtDescriptionUtility_Global.rulePack.rulesStrings.26>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.27>style_clause-&gt;a műnek [artstyle_adj] stílusa és [composition] struktúrája van</ArtDescriptionUtility_Global.rulePack.rulesStrings.27>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.28>style_clause-&gt;az általános kompozíció [composition]</ArtDescriptionUtility_Global.rulePack.rulesStrings.28>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.29>style_clause-&gt;a stílus [artstyle_adj] [artstyle_adj] elemekkel</ArtDescriptionUtility_Global.rulePack.rulesStrings.29>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.30>style_clause-&gt;a jelenetből hiányzik minden [concept] és [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.30>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.31>style_clause-&gt;a kép valahogy sikeresen kifejezi mind [concept] és [concept] elképzeléseket</ArtDescriptionUtility_Global.rulePack.rulesStrings.31>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.32>style_clause-&gt;a [composition] struktura majdnem ütközik a(z) [artstyle_adj] stílussal</ArtDescriptionUtility_Global.rulePack.rulesStrings.32>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.33>style_clause-&gt;a kép [color] és [color] tónusokkal operál</ArtDescriptionUtility_Global.rulePack.rulesStrings.33>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.34>style_clause-&gt;szinte minden forma [composition] jellegű</ArtDescriptionUtility_Global.rulePack.rulesStrings.34>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.35>depicts-&gt;ábrázolja</ArtDescriptionUtility_Global.rulePack.rulesStrings.35>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.36>depicts-&gt;mutatja</ArtDescriptionUtility_Global.rulePack.rulesStrings.36>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.37>depicts-&gt;festi le</ArtDescriptionUtility_Global.rulePack.rulesStrings.37>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.38>depicts-&gt;emlékeztet</ArtDescriptionUtility_Global.rulePack.rulesStrings.38>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.39>depicts-&gt;írja le</ArtDescriptionUtility_Global.rulePack.rulesStrings.39>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.40>depicts-&gt;mutatja be</ArtDescriptionUtility_Global.rulePack.rulesStrings.40>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.41>depicts-&gt;formálja meg</ArtDescriptionUtility_Global.rulePack.rulesStrings.41>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.42>depiction-&gt;megjelenítése</ArtDescriptionUtility_Global.rulePack.rulesStrings.42>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.43>depiction-&gt;képe</ArtDescriptionUtility_Global.rulePack.rulesStrings.43>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.44>depiction-&gt;portréja</ArtDescriptionUtility_Global.rulePack.rulesStrings.44>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.45>depiction-&gt;reprezentációja</ArtDescriptionUtility_Global.rulePack.rulesStrings.45>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.46>depiction-&gt;illusztrációja</ArtDescriptionUtility_Global.rulePack.rulesStrings.46>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.47>depiction-&gt;műalkotása</ArtDescriptionUtility_Global.rulePack.rulesStrings.47>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.48>composition-&gt;háromszögű</ArtDescriptionUtility_Global.rulePack.rulesStrings.48>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.49>composition-&gt;szögletes</ArtDescriptionUtility_Global.rulePack.rulesStrings.49>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.50>composition-&gt;négyzetes</ArtDescriptionUtility_Global.rulePack.rulesStrings.50>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.51>composition-&gt;kiegyensúlyozatlan</ArtDescriptionUtility_Global.rulePack.rulesStrings.51>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.52>composition-&gt;kiegyensúlyozott</ArtDescriptionUtility_Global.rulePack.rulesStrings.52>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.53>composition-&gt;nagyon dinamikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.53>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.54>composition-&gt;nagyon statikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.54>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.55>artstyle_adj-&gt;utánzó</ArtDescriptionUtility_Global.rulePack.rulesStrings.55>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.56>artstyle_adj-&gt;egyszerű</ArtDescriptionUtility_Global.rulePack.rulesStrings.56>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.57>artstyle_adj-&gt;komplex és realisztikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.57>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.58>artstyle_adj-&gt;szürreális</ArtDescriptionUtility_Global.rulePack.rulesStrings.58>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.59>artstyle_adj-&gt;klasszikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.59>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.60>artstyle_adj-&gt;modern</ArtDescriptionUtility_Global.rulePack.rulesStrings.60>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.61>artstyle_adj-&gt;szimbolikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.61>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.62>artstyle_adj-&gt;amatőr</ArtDescriptionUtility_Global.rulePack.rulesStrings.62>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.63>artstyle_adj-&gt;részletes</ArtDescriptionUtility_Global.rulePack.rulesStrings.63>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.64>artstyle_adj-&gt;blokkos</ArtDescriptionUtility_Global.rulePack.rulesStrings.64>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.65>artstyle_adj-&gt;kubista</ArtDescriptionUtility_Global.rulePack.rulesStrings.65>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.66>artstyle_adj-&gt;impresszionista</ArtDescriptionUtility_Global.rulePack.rulesStrings.66>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.67>artstyle_adj-&gt;expresszionista</ArtDescriptionUtility_Global.rulePack.rulesStrings.67>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.68>artstyle_adj-&gt;képszerű</ArtDescriptionUtility_Global.rulePack.rulesStrings.68>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.69>artstyle_adj-&gt;barokkos</ArtDescriptionUtility_Global.rulePack.rulesStrings.69>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.70>artstyle_adj-&gt;dadaista</ArtDescriptionUtility_Global.rulePack.rulesStrings.70>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.71>artstyle_adj-&gt;zavart</ArtDescriptionUtility_Global.rulePack.rulesStrings.71>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.72>artstyle_adj-&gt;pixeles</ArtDescriptionUtility_Global.rulePack.rulesStrings.72>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.73>artstyle_adj-&gt;fauvista</ArtDescriptionUtility_Global.rulePack.rulesStrings.73>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.74>artstyle_adj-&gt;népies</ArtDescriptionUtility_Global.rulePack.rulesStrings.74>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.75>artstyle_adj-&gt;figuratív</ArtDescriptionUtility_Global.rulePack.rulesStrings.75>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.76>artstyle_adj-&gt;hullámos</ArtDescriptionUtility_Global.rulePack.rulesStrings.76>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.77>artstyle_adj-&gt;geometrikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.77>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.78>artstyle_adj-&gt;absztrakt</ArtDescriptionUtility_Global.rulePack.rulesStrings.78>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.79>artstyle_adj-&gt;realisztikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.79>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.80>artstyle_adj-&gt;pop art</ArtDescriptionUtility_Global.rulePack.rulesStrings.80>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.81>artstyle_adj-&gt;minimalisztikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.81>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.82>artstyle_adj-&gt;neoklasszicista</ArtDescriptionUtility_Global.rulePack.rulesStrings.82>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.83>artstyle_adj-&gt;rajzos</ArtDescriptionUtility_Global.rulePack.rulesStrings.83>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.84>artstyle_adj-&gt;poszt-impresszionista</ArtDescriptionUtility_Global.rulePack.rulesStrings.84>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.85>artstyle_adj-&gt;purista</ArtDescriptionUtility_Global.rulePack.rulesStrings.85>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.86>artstyle_adj-&gt;rokokó</ArtDescriptionUtility_Global.rulePack.rulesStrings.86>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.87>artstyle_adj-&gt;román</ArtDescriptionUtility_Global.rulePack.rulesStrings.87>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.88>artstyle_adj-&gt;romantikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.88>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.89>artstyle_adj-&gt;graffiti szerű</ArtDescriptionUtility_Global.rulePack.rulesStrings.89>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.90>artstyle_adj-&gt;erotikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.90>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.91>artstyle_adj-&gt;érzéki</ArtDescriptionUtility_Global.rulePack.rulesStrings.91>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.92>artstyle_adj-&gt;szívélyes</ArtDescriptionUtility_Global.rulePack.rulesStrings.92>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.93>idle_verb_progressive-&gt;ül</ArtDescriptionUtility_Global.rulePack.rulesStrings.93>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.94>idle_verb_progressive-&gt;áll</ArtDescriptionUtility_Global.rulePack.rulesStrings.94>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.95>idle_verb_progressive-&gt;vár</ArtDescriptionUtility_Global.rulePack.rulesStrings.95>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.96>idle_verb_progressive-&gt;mosolyog</ArtDescriptionUtility_Global.rulePack.rulesStrings.96>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.97>idle_verb_progressive-&gt;fekszik</ArtDescriptionUtility_Global.rulePack.rulesStrings.97>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.98>idle_verb_progressive-&gt;pózol</ArtDescriptionUtility_Global.rulePack.rulesStrings.98>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.99>idle_verb_progressive-&gt;megjelenik</ArtDescriptionUtility_Global.rulePack.rulesStrings.99>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.100>idle_verb_progressive-&gt;mutatkozik</ArtDescriptionUtility_Global.rulePack.rulesStrings.100>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.101>idle_verb_progressive-&gt;elmerül</ArtDescriptionUtility_Global.rulePack.rulesStrings.101>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.102>idle_verb_progressive-&gt;lebeg</ArtDescriptionUtility_Global.rulePack.rulesStrings.102>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.103>side_position-&gt;az egyik oldalon</ArtDescriptionUtility_Global.rulePack.rulesStrings.103>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.104>side_position-&gt;a kép szélén</ArtDescriptionUtility_Global.rulePack.rulesStrings.104>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.105>side_position-&gt;a háttérben</ArtDescriptionUtility_Global.rulePack.rulesStrings.105>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.106>side_position-&gt;a távolban</ArtDescriptionUtility_Global.rulePack.rulesStrings.106>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.107>side_position-&gt;a kép alsó részén</ArtDescriptionUtility_Global.rulePack.rulesStrings.107>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.108>side_position-&gt;a kép felső részén</ArtDescriptionUtility_Global.rulePack.rulesStrings.108>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.109>side_position-&gt;a főtéma alatt</ArtDescriptionUtility_Global.rulePack.rulesStrings.109>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.110>side_position-&gt;a fókuszpont mögött</ArtDescriptionUtility_Global.rulePack.rulesStrings.110>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.111>side_position-&gt;a kép baloldalán</ArtDescriptionUtility_Global.rulePack.rulesStrings.111>
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings.112>side_position-&gt;a fő jelenettől jobbra</ArtDescriptionUtility_Global.rulePack.rulesStrings.112>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>art_description_root->[physical_description_root] [context_sentence]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>circumstance_group->[circumstance_phrase]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>desc_sentence_group->[desc_sentence] [style_group]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>context_sentence->Ez a(z) [depiction] erre utal: [tale_noun]. Ekkor történt: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>context_sentence->Ez a(z) [depiction] erről szól: [tale_noun]. Ekkor történt: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>context_sentence->Ez a(z) [depiction] ennek történetét meséli el: [tale_noun]. Ekkor történt: [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>
+  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>art_description_root->[physical_description_root]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>
+  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1>desc_sentence_group->[style_group]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.0>style_group->[artextra_clause], és [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.0>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.1>style_group->[artextra_clause], amúgy [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.1>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.2>style_group->[artextra_clause], valamint [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.2>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.3>style_group->[artextra_clause], közben [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.3>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.4>artextra_clause->a képet körbeveszi [quantity_adjphrase] [animal]</ArtDescriptionUtility_Global.rulePack.rulesStrings.4>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.5>artextra_clause->ez egy [community] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.5>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.6>artextra_clause->ez egy [terrainfeature] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.6>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.7>artextra_clause->ez egy [animal] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.7>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.8>artextra_clause->a tárgy egy [terrainfeature] előtt van</ArtDescriptionUtility_Global.rulePack.rulesStrings.8>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.9>artextra_clause->a jelenet a [community] közepén játszódik</ArtDescriptionUtility_Global.rulePack.rulesStrings.9>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.10>artextra_clause->a jelenet a [community] szélén játszódik</ArtDescriptionUtility_Global.rulePack.rulesStrings.10>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.11>artextra_clause->[outlander] mosolygó arca figyel mindenkit</ArtDescriptionUtility_Global.rulePack.rulesStrings.11>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.12>artextra_clause->a jelenet a [community] közepén játszódik egy [terrainfeature] közelében</ArtDescriptionUtility_Global.rulePack.rulesStrings.12>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.13>artextra_clause->a kép alsó részét egy [terrainfeature] dominálja</ArtDescriptionUtility_Global.rulePack.rulesStrings.13>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.14>artextra_clause->a kép több száz [animal] gondosan elrendezett csoportját ábrázolja</ArtDescriptionUtility_Global.rulePack.rulesStrings.14>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.15>artextra_clause->egy [outlander] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.15>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.16>artextra_clause->egy [animal] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.16>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.17>artextra_clause->egy halott [animal] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.17>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.18>artextra_clause->személyes ábrázolása ennek: [concept] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.18>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.19>artextra_clause->egy [animal] [side_position] a következőt szimbolizálja: [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.19>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.20>artextra_clause->[quantity_adjphrase] [outlander] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.20>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.21>artextra_clause->ha hunyorogsz, a [composition] kompozíció kezd úgy kinézni, mint egy [animal]</ArtDescriptionUtility_Global.rulePack.rulesStrings.21>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.22>style_clause->a kép a következőt próbálja kifejezni: [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.22>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.23>style_clause->a munkát áthatja a [concept] és [artstyle_adj] stílusban készült</ArtDescriptionUtility_Global.rulePack.rulesStrings.23>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.24>style_clause->a mű a következőt próbálja átadni: [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.24>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.25>style_clause->a mű [artstyle_adj] stílusban készült</ArtDescriptionUtility_Global.rulePack.rulesStrings.25>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.26>style_clause->a főmotívum [artstyle_adj] stílusa a háttér [artstyle_adj] stílusának feszül</ArtDescriptionUtility_Global.rulePack.rulesStrings.26>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.27>style_clause->a műnek [artstyle_adj] stílusa és [composition] struktúrája van</ArtDescriptionUtility_Global.rulePack.rulesStrings.27>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.28>style_clause->az általános kompozíció [composition]</ArtDescriptionUtility_Global.rulePack.rulesStrings.28>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.29>style_clause->a stílus [artstyle_adj] [artstyle_adj] elemekkel</ArtDescriptionUtility_Global.rulePack.rulesStrings.29>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.30>style_clause->a jelenetből hiányzik minden [concept] és [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.30>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.31>style_clause->a kép valahogy sikeresen kifejezi mind [concept] és [concept] elképzeléseket</ArtDescriptionUtility_Global.rulePack.rulesStrings.31>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.32>style_clause->a [composition] struktura majdnem ütközik a(z) [artstyle_adj] stílussal</ArtDescriptionUtility_Global.rulePack.rulesStrings.32>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.33>style_clause->a kép [color] és [color] tónusokkal operál</ArtDescriptionUtility_Global.rulePack.rulesStrings.33>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.34>style_clause->szinte minden forma [composition] jellegű</ArtDescriptionUtility_Global.rulePack.rulesStrings.34>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.35>depicts->ábrázolja</ArtDescriptionUtility_Global.rulePack.rulesStrings.35>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.36>depicts->mutatja</ArtDescriptionUtility_Global.rulePack.rulesStrings.36>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.37>depicts->festi le</ArtDescriptionUtility_Global.rulePack.rulesStrings.37>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.38>depicts->emlékeztet</ArtDescriptionUtility_Global.rulePack.rulesStrings.38>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.39>depicts->írja le</ArtDescriptionUtility_Global.rulePack.rulesStrings.39>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.40>depicts->mutatja be</ArtDescriptionUtility_Global.rulePack.rulesStrings.40>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.41>depicts->formálja meg</ArtDescriptionUtility_Global.rulePack.rulesStrings.41>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.42>depiction->megjelenítése</ArtDescriptionUtility_Global.rulePack.rulesStrings.42>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.43>depiction->képe</ArtDescriptionUtility_Global.rulePack.rulesStrings.43>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.44>depiction->portréja</ArtDescriptionUtility_Global.rulePack.rulesStrings.44>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.45>depiction->reprezentációja</ArtDescriptionUtility_Global.rulePack.rulesStrings.45>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.46>depiction->illusztrációja</ArtDescriptionUtility_Global.rulePack.rulesStrings.46>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.47>depiction->műalkotása</ArtDescriptionUtility_Global.rulePack.rulesStrings.47>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.48>composition->háromszögű</ArtDescriptionUtility_Global.rulePack.rulesStrings.48>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.49>composition->szögletes</ArtDescriptionUtility_Global.rulePack.rulesStrings.49>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.50>composition->négyzetes</ArtDescriptionUtility_Global.rulePack.rulesStrings.50>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.51>composition->kiegyensúlyozatlan</ArtDescriptionUtility_Global.rulePack.rulesStrings.51>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.52>composition->kiegyensúlyozott</ArtDescriptionUtility_Global.rulePack.rulesStrings.52>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.53>composition->nagyon dinamikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.53>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.54>composition->nagyon statikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.54>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.55>artstyle_adj->utánzó</ArtDescriptionUtility_Global.rulePack.rulesStrings.55>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.56>artstyle_adj->egyszerű</ArtDescriptionUtility_Global.rulePack.rulesStrings.56>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.57>artstyle_adj->komplex és realisztikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.57>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.58>artstyle_adj->szürreális</ArtDescriptionUtility_Global.rulePack.rulesStrings.58>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.59>artstyle_adj->klasszikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.59>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.60>artstyle_adj->modern</ArtDescriptionUtility_Global.rulePack.rulesStrings.60>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.61>artstyle_adj->szimbolikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.61>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.62>artstyle_adj->amatőr</ArtDescriptionUtility_Global.rulePack.rulesStrings.62>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.63>artstyle_adj->részletes</ArtDescriptionUtility_Global.rulePack.rulesStrings.63>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.64>artstyle_adj->blokkos</ArtDescriptionUtility_Global.rulePack.rulesStrings.64>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.65>artstyle_adj->kubista</ArtDescriptionUtility_Global.rulePack.rulesStrings.65>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.66>artstyle_adj->impresszionista</ArtDescriptionUtility_Global.rulePack.rulesStrings.66>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.67>artstyle_adj->expresszionista</ArtDescriptionUtility_Global.rulePack.rulesStrings.67>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.68>artstyle_adj->képszerű</ArtDescriptionUtility_Global.rulePack.rulesStrings.68>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.69>artstyle_adj->barokkos</ArtDescriptionUtility_Global.rulePack.rulesStrings.69>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.70>artstyle_adj->dadaista</ArtDescriptionUtility_Global.rulePack.rulesStrings.70>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.71>artstyle_adj->zavart</ArtDescriptionUtility_Global.rulePack.rulesStrings.71>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.72>artstyle_adj->pixeles</ArtDescriptionUtility_Global.rulePack.rulesStrings.72>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.73>artstyle_adj->fauvista</ArtDescriptionUtility_Global.rulePack.rulesStrings.73>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.74>artstyle_adj->népies</ArtDescriptionUtility_Global.rulePack.rulesStrings.74>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.75>artstyle_adj->figuratív</ArtDescriptionUtility_Global.rulePack.rulesStrings.75>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.76>artstyle_adj->hullámos</ArtDescriptionUtility_Global.rulePack.rulesStrings.76>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.77>artstyle_adj->geometrikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.77>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.78>artstyle_adj->absztrakt</ArtDescriptionUtility_Global.rulePack.rulesStrings.78>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.79>artstyle_adj->realisztikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.79>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.80>artstyle_adj->pop art</ArtDescriptionUtility_Global.rulePack.rulesStrings.80>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.81>artstyle_adj->minimalisztikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.81>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.82>artstyle_adj->neoklasszicista</ArtDescriptionUtility_Global.rulePack.rulesStrings.82>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.83>artstyle_adj->rajzos</ArtDescriptionUtility_Global.rulePack.rulesStrings.83>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.84>artstyle_adj->poszt-impresszionista</ArtDescriptionUtility_Global.rulePack.rulesStrings.84>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.85>artstyle_adj->purista</ArtDescriptionUtility_Global.rulePack.rulesStrings.85>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.86>artstyle_adj->rokokó</ArtDescriptionUtility_Global.rulePack.rulesStrings.86>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.87>artstyle_adj->román</ArtDescriptionUtility_Global.rulePack.rulesStrings.87>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.88>artstyle_adj->romantikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.88>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.89>artstyle_adj->graffiti szerű</ArtDescriptionUtility_Global.rulePack.rulesStrings.89>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.90>artstyle_adj->erotikus</ArtDescriptionUtility_Global.rulePack.rulesStrings.90>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.91>artstyle_adj->érzéki</ArtDescriptionUtility_Global.rulePack.rulesStrings.91>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.92>artstyle_adj->szívélyes</ArtDescriptionUtility_Global.rulePack.rulesStrings.92>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.93>idle_verb_progressive->ül</ArtDescriptionUtility_Global.rulePack.rulesStrings.93>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.94>idle_verb_progressive->áll</ArtDescriptionUtility_Global.rulePack.rulesStrings.94>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.95>idle_verb_progressive->vár</ArtDescriptionUtility_Global.rulePack.rulesStrings.95>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.96>idle_verb_progressive->mosolyog</ArtDescriptionUtility_Global.rulePack.rulesStrings.96>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.97>idle_verb_progressive->fekszik</ArtDescriptionUtility_Global.rulePack.rulesStrings.97>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.98>idle_verb_progressive->pózol</ArtDescriptionUtility_Global.rulePack.rulesStrings.98>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.99>idle_verb_progressive->megjelenik</ArtDescriptionUtility_Global.rulePack.rulesStrings.99>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.100>idle_verb_progressive->mutatkozik</ArtDescriptionUtility_Global.rulePack.rulesStrings.100>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.101>idle_verb_progressive->elmerül</ArtDescriptionUtility_Global.rulePack.rulesStrings.101>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.102>idle_verb_progressive->lebeg</ArtDescriptionUtility_Global.rulePack.rulesStrings.102>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.103>side_position->az egyik oldalon</ArtDescriptionUtility_Global.rulePack.rulesStrings.103>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.104>side_position->a kép szélén</ArtDescriptionUtility_Global.rulePack.rulesStrings.104>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.105>side_position->a háttérben</ArtDescriptionUtility_Global.rulePack.rulesStrings.105>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.106>side_position->a távolban</ArtDescriptionUtility_Global.rulePack.rulesStrings.106>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.107>side_position->a kép alsó részén</ArtDescriptionUtility_Global.rulePack.rulesStrings.107>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.108>side_position->a kép felső részén</ArtDescriptionUtility_Global.rulePack.rulesStrings.108>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.109>side_position->a főtéma alatt</ArtDescriptionUtility_Global.rulePack.rulesStrings.109>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.110>side_position->a fókuszpont mögött</ArtDescriptionUtility_Global.rulePack.rulesStrings.110>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.111>side_position->a kép baloldalán</ArtDescriptionUtility_Global.rulePack.rulesStrings.111>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.112>side_position->a fő jelenettől jobbra</ArtDescriptionUtility_Global.rulePack.rulesStrings.112>
 </LanguageData>

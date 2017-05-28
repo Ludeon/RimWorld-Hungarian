@@ -78,7 +78,7 @@
   <Source>Forrás</Source>
   <ModTargetVersion>{0} verzióhoz</ModTargetVersion>
   <ModNotMadeForThisVersion>Ez a mod a RimWorld más verziójához készült, nem fog megfelelően működni.</ModNotMadeForThisVersion>
-  <MessageModNeedsWellFormattedTargetVersion>A modnak szüksége van egy jól formázott verziószámra az About.xml-ben. Pl.: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>A modnak szüksége van egy jól formázott verziószámra az About.xml-ben. Pl.: &lt;targetVersion>{0}&lt;/targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
   <DragToReorder>Egérrel húzhatók az elemek</DragToReorder>
 
   <!--=========== Select scenario =============-->

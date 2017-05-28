@@ -4,8 +4,8 @@
   <MeleeDPS.description>Átlagos közelharci sebzés per másodperc.</MeleeDPS.description>
   <MeleeHitChance.label>közelharci pontosság</MeleeHitChance.label>
   <MeleeHitChance.description>Ütések pontossága közelharcban.</MeleeHitChance.description>
-  <MeleeDodgeChance.label>melee dodge chance</MeleeDodgeChance.label>
-  <MeleeDodgeChance.description>Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon.</MeleeDodgeChance.description>
+  <MeleeDodgeChance.label>közelharci kitérés</MeleeDodgeChance.label>
+  <MeleeDodgeChance.description>Kitérés esélye egy találat elől. Távolsági fegyverrel való célzás és tüzelés közben nem lehet kitérni.</MeleeDodgeChance.description>
   <ShootingAccuracy.label>lövési pontosság</ShootingAccuracy.label>
   <ShootingAccuracy.description>Találat esélye százalékban.</ShootingAccuracy.description>
   <AimingDelayFactor.label>célzásidő</AimingDelayFactor.label>
