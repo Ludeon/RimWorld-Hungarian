@@ -6,33 +6,33 @@
   <PatientGoToBedEmergency.label>lefekszik, hogy sürgősségi ellátást kapjon</PatientGoToBedEmergency.label>
   <PatientGoToBedEmergency.verb>ellátják</PatientGoToBedEmergency.verb>
   <PatientGoToBedEmergency.gerund>ellátást kap tőle</PatientGoToBedEmergency.gerund>
-  <DoctorTendEmergency.label>give emergency treatment</DoctorTendEmergency.label>
-  <DoctorTendEmergency.verb>tend to</DoctorTendEmergency.verb>
-  <DoctorTendEmergency.gerund>tending to</DoctorTendEmergency.gerund>
+  <DoctorTendEmergency.label>sürgősségi ellátást ad</DoctorTendEmergency.label>
+  <DoctorTendEmergency.verb>ellátni</DoctorTendEmergency.verb>
+  <DoctorTendEmergency.gerund>ellátás</DoctorTendEmergency.gerund>
   <DoctorRescue.label>eszméletlen személyt betegágyba visz</DoctorRescue.label>
   <DoctorRescue.verb>megmenteni</DoctorRescue.verb>
   <DoctorRescue.gerund>megmentés</DoctorRescue.gerund>
   <DoBillsMedicalHumanOperation.label>beteget műt</DoBillsMedicalHumanOperation.label>
   <DoBillsMedicalHumanOperation.verb>műteni</DoBillsMedicalHumanOperation.verb>
   <DoBillsMedicalHumanOperation.gerund>műtés</DoBillsMedicalHumanOperation.gerund>
-  <DoctorTendToHumanlikes.label>tend to patients</DoctorTendToHumanlikes.label>
-  <DoctorTendToHumanlikes.verb>tend to</DoctorTendToHumanlikes.verb>
-  <DoctorTendToHumanlikes.gerund>tending to</DoctorTendToHumanlikes.gerund>
-  <DoctorTendToSelf.label>tend to self</DoctorTendToSelf.label>
-  <DoctorTendToSelf.verb>tend to</DoctorTendToSelf.verb>
-  <DoctorTendToSelf.gerund>tending to</DoctorTendToSelf.gerund>
-  <DoctorFeedHumanlikes.label>feed patients</DoctorFeedHumanlikes.label>
-  <DoctorFeedHumanlikes.verb>feed</DoctorFeedHumanlikes.verb>
-  <DoctorFeedHumanlikes.gerund>feeding</DoctorFeedHumanlikes.gerund>
+  <DoctorTendToHumanlikes.label>beteget ellát</DoctorTendToHumanlikes.label>
+  <DoctorTendToHumanlikes.verb>ellát</DoctorTendToHumanlikes.verb>
+  <DoctorTendToHumanlikes.gerund>ellátás</DoctorTendToHumanlikes.gerund>
+  <DoctorTendToSelf.label>önmagát ellátja</DoctorTendToSelf.label>
+  <DoctorTendToSelf.verb>ellát</DoctorTendToSelf.verb>
+  <DoctorTendToSelf.gerund>ellátás</DoctorTendToSelf.gerund>
+  <DoctorFeedHumanlikes.label>beteget etet</DoctorFeedHumanlikes.label>
+  <DoctorFeedHumanlikes.verb>etetni</DoctorFeedHumanlikes.verb>
+  <DoctorFeedHumanlikes.gerund>etetés</DoctorFeedHumanlikes.gerund>
   <DoBillsMedicalAnimalOperation.label>állatot műt</DoBillsMedicalAnimalOperation.label>
   <DoBillsMedicalAnimalOperation.verb>műteni</DoBillsMedicalAnimalOperation.verb>
   <DoBillsMedicalAnimalOperation.gerund>műtés</DoBillsMedicalAnimalOperation.gerund>
-  <DoctorTendToAnimals.label>tend to animals</DoctorTendToAnimals.label>
-  <DoctorTendToAnimals.verb>tend to</DoctorTendToAnimals.verb>
-  <DoctorTendToAnimals.gerund>tending to</DoctorTendToAnimals.gerund>
-  <DoctorFeedAnimals.label>feed animals</DoctorFeedAnimals.label>
-  <DoctorFeedAnimals.verb>feed</DoctorFeedAnimals.verb>
-  <DoctorFeedAnimals.gerund>feeding</DoctorFeedAnimals.gerund>
+  <DoctorTendToAnimals.label>állatot ellát</DoctorTendToAnimals.label>
+  <DoctorTendToAnimals.verb>ellát</DoctorTendToAnimals.verb>
+  <DoctorTendToAnimals.gerund>ellátás</DoctorTendToAnimals.gerund>
+  <DoctorFeedAnimals.label>állatot etet</DoctorFeedAnimals.label>
+  <DoctorFeedAnimals.verb>etetni</DoctorFeedAnimals.verb>
+  <DoctorFeedAnimals.gerund>etetés</DoctorFeedAnimals.gerund>
   <TakeToBedToOperate.label>pácienst műtőbe visz</TakeToBedToOperate.label>
   <TakeToBedToOperate.verb>műtőbe vinni</TakeToBedToOperate.verb>
   <TakeToBedToOperate.gerund>műtőbe vitel</TakeToBedToOperate.gerund>
@@ -165,9 +165,9 @@
   <DoBillsUseCraftingSpot.label>munkahelyen gyárt</DoBillsUseCraftingSpot.label>
   <DoBillsUseCraftingSpot.verb>gyártani</DoBillsUseCraftingSpot.verb>
   <DoBillsUseCraftingSpot.gerund>gyártás</DoBillsUseCraftingSpot.gerund>
-  <DoBillsRefinery.label>works at refinery</DoBillsRefinery.label>
-  <DoBillsRefinery.verb>refine chemicals</DoBillsRefinery.verb>
-  <DoBillsRefinery.gerund>refining chemicals at</DoBillsRefinery.gerund>
+  <DoBillsRefinery.label>finomítóban dolgozik</DoBillsRefinery.label>
+  <DoBillsRefinery.verb>finomítani</DoBillsRefinery.verb>
+  <DoBillsRefinery.gerund>finomítás</DoBillsRefinery.gerund>
   <DoBillsProduceDrugs.label>drogot gyárt</DoBillsProduceDrugs.label>
   <DoBillsProduceDrugs.verb>gyártani</DoBillsProduceDrugs.verb>
   <DoBillsProduceDrugs.gerund>gyártás</DoBillsProduceDrugs.gerund>
@@ -177,15 +177,15 @@
   <DoBillsSmelter.label>kohóban beolvaszt</DoBillsSmelter.label>
   <DoBillsSmelter.verb>beolvasztani</DoBillsSmelter.verb>
   <DoBillsSmelter.gerund>beolvasztás</DoBillsSmelter.gerund>
-  <UnloadCarriers.label>unload carriers</UnloadCarriers.label>
-  <UnloadCarriers.verb>unload</UnloadCarriers.verb>
-  <UnloadCarriers.gerund>unloading</UnloadCarriers.gerund>
-  <LoadTransporters.label>load transporters</LoadTransporters.label>
-  <LoadTransporters.verb>load</LoadTransporters.verb>
-  <LoadTransporters.gerund>loading</LoadTransporters.gerund>
-  <HelpGatheringItemsForCaravan.label>load caravan</HelpGatheringItemsForCaravan.label>
-  <HelpGatheringItemsForCaravan.verb>load</HelpGatheringItemsForCaravan.verb>
-  <HelpGatheringItemsForCaravan.gerund>loading</HelpGatheringItemsForCaravan.gerund>
+  <UnloadCarriers.label>szállítót kipakol</UnloadCarriers.label>
+  <UnloadCarriers.verb>kipakolni</UnloadCarriers.verb>
+  <UnloadCarriers.gerund>kipakolás</UnloadCarriers.gerund>
+  <LoadTransporters.label>szállítót felpakol</LoadTransporters.label>
+  <LoadTransporters.verb>felpakolni</LoadTransporters.verb>
+  <LoadTransporters.gerund>felpakolás</LoadTransporters.gerund>
+  <HelpGatheringItemsForCaravan.label>karavánt felpakol</HelpGatheringItemsForCaravan.label>
+  <HelpGatheringItemsForCaravan.verb>felpakolni</HelpGatheringItemsForCaravan.verb>
+  <HelpGatheringItemsForCaravan.gerund>felpakolás</HelpGatheringItemsForCaravan.gerund>
   <Strip.label>levetkőztet</Strip.label>
   <Strip.verb>levetkőztetni</Strip.verb>
   <Strip.gerund>levetkőztetés</Strip.gerund>
