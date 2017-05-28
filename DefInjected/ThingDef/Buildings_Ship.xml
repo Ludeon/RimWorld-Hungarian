@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <Ship_Beam.label>űrhajó gerinc</Ship_Beam.label>
   <Ship_Beam.description>Az űrhajó fő tartóeleme. Minden további alkatrész ehhez csatlakozik.</Ship_Beam.description>
-
+  <Ship_Beam_Blueprint.label>ship structural beam (blueprint)</Ship_Beam_Blueprint.label>
+  <Ship_Beam_Frame.label>ship structural beam (building)</Ship_Beam_Frame.label>
+  <Ship_Beam_Frame.description>A structural beam around which a ship can be constructed.</Ship_Beam_Frame.description>
   <Ship_CryptosleepCasket.label>űrhajó hibernálója</Ship_CryptosleepCasket.label>
   <Ship_CryptosleepCasket.description>Egy hibernáló kapszula, megerősítve az űr veszélyi ellen. Évszázadokig életben tart egy személyt az űrben és képes túlélni egy légkörbe való belépést is.</Ship_CryptosleepCasket.description>
-
+  <Ship_CryptosleepCasket_Blueprint.label>ship cryptosleep casket (blueprint)</Ship_CryptosleepCasket_Blueprint.label>
+  <Ship_CryptosleepCasket_Frame.label>ship cryptosleep casket (building)</Ship_CryptosleepCasket_Frame.label>
+  <Ship_CryptosleepCasket_Frame.description>A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries in a space environment and surviving atmospheric re-entry.</Ship_CryptosleepCasket_Frame.description>
   <Ship_ComputerCore.label>űrhajó számítógép központ</Ship_ComputerCore.label>
   <Ship_ComputerCore.description>Számítógépközpont, ami képes tárolni egy mesterséges intelligenciát, ami elirányítja az űrhajót minden körülménynek között.</Ship_ComputerCore.description>
-
+  <Ship_ComputerCore_Blueprint.label>ship computer core (blueprint)</Ship_ComputerCore_Blueprint.label>
+  <Ship_ComputerCore_Frame.label>ship computer core (building)</Ship_ComputerCore_Frame.label>
+  <Ship_ComputerCore_Frame.description>A computer core capable of housing a superhumanlike AI who can guide a ship through any challenge.</Ship_ComputerCore_Frame.description>
   <Ship_Reactor.label>űrhajó reaktor</Ship_Reactor.label>
   <Ship_Reactor.description>Ellátja a hajót az űrutazáshoz szükséges energiával.</Ship_Reactor.description>
-
+  <Ship_Reactor_Blueprint.label>ship reactor (blueprint)</Ship_Reactor_Blueprint.label>
+  <Ship_Reactor_Frame.label>ship reactor (building)</Ship_Reactor_Frame.label>
+  <Ship_Reactor_Frame.description>Powers a ship on its journey through space.</Ship_Reactor_Frame.description>
   <Ship_Engine.label>űrhajó hajtómű</Ship_Engine.label>
   <Ship_Engine.description>Antianyag hajtómű, ami képes űrbe juttatni és csillagközi pályára állítani egy hajót.</Ship_Engine.description>
-
+  <Ship_Engine_Blueprint.label>ship engine (blueprint)</Ship_Engine_Blueprint.label>
+  <Ship_Engine_Frame.label>ship engine (building)</Ship_Engine_Frame.label>
+  <Ship_Engine_Frame.description>An engine capable of launching a ship into orbit and on interstellar trajectories.</Ship_Engine_Frame.description>
 </LanguageData>

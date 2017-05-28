@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- torso for animals -->
-
   <Body.label>test</Body.label>
   <Beak.label>csőr</Beak.label>
   <InsectHead.label>fej</InsectHead.label>
@@ -12,6 +9,7 @@
   <InsectHeart.label>szív</InsectHeart.label>
   <InsectNostril.label>orrlyuk</InsectNostril.label>
   <InsectMouth.label>száj</InsectMouth.label>
+  <AnimalJaw.label>jaw</AnimalJaw.label>
   <Jowl.label>állkapocs</Jowl.label>
   <Tail.label>farok</Tail.label>
   <LeftAntenna.label>bal csáp</LeftAntenna.label>
@@ -29,23 +27,18 @@
   <TurtleShell.label>páncél</TurtleShell.label>
   <Plastron.label>haspáncél</Plastron.label>
   <TurtleBeak.label>csőr</TurtleBeak.label>
-
-  <!-- animals legs -->
-
   <FrontLeftLeg.label>mellső bal láb</FrontLeftLeg.label>
   <FrontRightLeg.label>mellső jobb láb</FrontRightLeg.label>
   <MiddleLeftLeg.label>középső bal láb</MiddleLeftLeg.label>
   <MiddleRightLeg.label>középső jobb láb</MiddleRightLeg.label>
   <RearLeftLeg.label>hátsó bal láb</RearLeftLeg.label>
   <RearRightLeg.label>hátsó jobb láb</RearRightLeg.label>
-
   <FrontLeftInsectLeg.label>mellső bal láb</FrontLeftInsectLeg.label>
   <FrontRightInsectLeg.label>mellső jobb láb</FrontRightInsectLeg.label>
   <MiddleLeftInsectLeg.label>középső bal láb</MiddleLeftInsectLeg.label>
   <MiddleRightInsectLeg.label>középső jobb láb</MiddleRightInsectLeg.label>
   <RearLeftInsectLeg.label>hátsó bal láb</RearLeftInsectLeg.label>
   <RearRightInsectLeg.label>hátsó jobb láb</RearRightInsectLeg.label>
-
   <FrontLeftPaw.label>mellső bal mancs</FrontLeftPaw.label>
   <FrontRightPaw.label>mellső bal mancs</FrontRightPaw.label>
   <RearLeftPaw.label>hátsó bal mancs</RearLeftPaw.label>
@@ -54,7 +47,6 @@
   <FrontRightHoof.label>mellső bal pata</FrontRightHoof.label>
   <RearLeftHoof.label>hátsó bal pata</RearLeftHoof.label>
   <RearRightHoof.label>hátsó bal pata</RearRightHoof.label>
-
   <FrontLeftLegFirstClaw.label>mellső bal láb, első karom</FrontLeftLegFirstClaw.label>
   <FrontLeftLegSecondClaw.label>mellső bal láb, második karom</FrontLeftLegSecondClaw.label>
   <FrontLeftLegThirdClaw.label>mellső bal láb, harmadik karom</FrontLeftLegThirdClaw.label>
@@ -65,7 +57,6 @@
   <FrontRightLegThirdClaw.label>mellső jobb láb, harmadik karom</FrontRightLegThirdClaw.label>
   <FrontRightLegFourthClaw.label>mellső jobb láb, negyedik karom</FrontRightLegFourthClaw.label>
   <FrontRightLegFifthClaw.label>mellső jobb láb, ötödik karom</FrontRightLegFifthClaw.label>
-
   <RearLeftLegFirstClaw.label>hátsó bal láb, első karom</RearLeftLegFirstClaw.label>
   <RearLeftLegSecondClaw.label>hátsó bal láb, második karom</RearLeftLegSecondClaw.label>
   <RearLeftLegThirdClaw.label>hátsó bal láb, harmadik karom</RearLeftLegThirdClaw.label>
@@ -76,5 +67,4 @@
   <RearRightLegThirdClaw.label>hátsó jobb láb, harmadik karom</RearRightLegThirdClaw.label>
   <RearRightLegFourthClaw.label>hátsó jobb láb, negyedik karom</RearRightLegFourthClaw.label>
   <RearRightLegFifthClaw.label>hátsó jobb láb, ötödik karom</RearRightLegFifthClaw.label>
-
 </LanguageData>

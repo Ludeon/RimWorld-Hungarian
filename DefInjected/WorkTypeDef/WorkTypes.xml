@@ -1,130 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  <Firefighter.label>Firefight</Firefighter.label>
+  <Firefighter.description>Eloltja a kolónia tüzeit.</Firefighter.description>
   <Firefighter.labelShort>Tűzoltó</Firefighter.labelShort>
   <Firefighter.pawnLabel>Tűzoltó</Firefighter.pawnLabel>
   <Firefighter.gerundLabel>tűzoltás</Firefighter.gerundLabel>
   <Firefighter.verb>oltani</Firefighter.verb>
-  <Firefighter.description>Eloltja a kolónia tüzeit.</Firefighter.description>
-
+  <PatientEmergency.label>Patient</PatientEmergency.label>
+  <PatientEmergency.description>Sérülések és életveszélyes betegség esetén felkeresi a legközelebbi szabad betegágyat, hogy ellátást kaphasson.</PatientEmergency.description>
   <PatientEmergency.labelShort>Páciens</PatientEmergency.labelShort>
   <PatientEmergency.pawnLabel>Páciens</PatientEmergency.pawnLabel>
   <PatientEmergency.gerundLabel>lábadozás</PatientEmergency.gerundLabel>
   <PatientEmergency.verb>lábadozni</PatientEmergency.verb>
-  <PatientEmergency.description>Sérülések és életveszélyes betegség esetén felkeresi a legközelebbi szabad betegágyat, hogy ellátást kaphasson.</PatientEmergency.description>
-
+  <Doctor.label>Doctor</Doctor.label>
+  <Doctor.description>Ellátja, ápolja a pácienst. Az orvos éppúgy gondoskodik a beteg gyarmatosról, mint a foglyokról.</Doctor.description>
   <Doctor.labelShort>Orvos</Doctor.labelShort>
   <Doctor.pawnLabel>Orvos</Doctor.pawnLabel>
   <Doctor.gerundLabel>ellátás</Doctor.gerundLabel>
   <Doctor.verb>ellátni</Doctor.verb>
-  <Doctor.description>Ellátja, ápolja a pácienst. Az orvos éppúgy gondoskodik a beteg gyarmatosról, mint a foglyokról.</Doctor.description>
-
+  <PatientBedRest.label>Bed rest</PatientBedRest.label>
+  <PatientBedRest.description>Nem életveszélyes betegségek kiheverésére felkeres egy ágyat.</PatientBedRest.description>
   <PatientBedRest.labelShort>Pihenés</PatientBedRest.labelShort>
   <PatientBedRest.pawnLabel>Pihen</PatientBedRest.pawnLabel>
   <PatientBedRest.gerundLabel>pihenés</PatientBedRest.gerundLabel>
   <PatientBedRest.verb>pihenni</PatientBedRest.verb>
-  <PatientBedRest.description>Nem életveszélyes betegségek kiheverésére felkeres egy ágyat.</PatientBedRest.description>
-
+  <Flicker.label>Flick</Flicker.label>
+  <Flicker.description>Az erre beosztott gyarmatos átállítja az eszköz (pl. ágyú) áramellátó kapcsolóját.</Flicker.description>
   <Flicker.labelShort>Átkapcsolás</Flicker.labelShort>
   <Flicker.pawnLabel>Átkapcsolás</Flicker.pawnLabel>
   <Flicker.gerundLabel>átkapcsolás</Flicker.gerundLabel>
   <Flicker.verb>átkapcsolni</Flicker.verb>
-  <Flicker.description>Az erre beosztott gyarmatos átállítja az eszköz (pl. ágyú) áramellátó kapcsolóját.</Flicker.description>
-
+  <Warden.label>Warden</Warden.label>
+  <Warden.description>Ellátja, eteti a rabot. Beszélget vele és besorozza.</Warden.description>
   <Warden.labelShort>Felügyelő</Warden.labelShort>
   <Warden.pawnLabel>Felügyelő</Warden.pawnLabel>
   <Warden.gerundLabel>felügyelés</Warden.gerundLabel>
   <Warden.verb>felügyelni</Warden.verb>
-  <Warden.description>Ellátja, eteti a rabot. Beszélget vele és besorozza.</Warden.description>
-
+  <Handling.label>Handle</Handling.label>
+  <Handling.description>Állatokat szelídít, idomít, levág illetve begyűjti egyéb javaikat.</Handling.description>
   <Handling.labelShort>Állattartó</Handling.labelShort>
   <Handling.pawnLabel>Állattartó</Handling.pawnLabel>
   <Handling.gerundLabel>állattartás</Handling.gerundLabel>
   <Handling.verb>gondoskodni</Handling.verb>
-  <Handling.description>Állatokat szelídít, idomít, levág illetve begyűjti egyéb javaikat.</Handling.description>
-
+  <Cooking.label>Cook</Cooking.label>
+  <Cooking.description>Ételeket készít és feldolgozza a leölt állatokat.</Cooking.description>
   <Cooking.labelShort>Szakács</Cooking.labelShort>
   <Cooking.pawnLabel>Szakács</Cooking.pawnLabel>
   <Cooking.gerundLabel>főzés</Cooking.gerundLabel>
   <Cooking.verb>főzni</Cooking.verb>
-  <Cooking.description>Ételeket készít és feldolgozza a leölt állatokat.</Cooking.description>
-
+  <Hunting.label>Hunt</Hunting.label>
+  <Hunting.description>A kijelölt állatokat elejti és a raktárba viszi.</Hunting.description>
   <Hunting.labelShort>Vadász</Hunting.labelShort>
   <Hunting.pawnLabel>Vadász</Hunting.pawnLabel>
   <Hunting.gerundLabel>vadászat</Hunting.gerundLabel>
   <Hunting.verb>vadászni</Hunting.verb>
-  <Hunting.description>A kijelölt állatokat elejti és a raktárba viszi.</Hunting.description>
-
+  <Construction.label>Construct</Construction.label>
+  <Construction.description>Megépíti a kijelölt dolgokat.</Construction.description>
   <Construction.labelShort>Építész</Construction.labelShort>
   <Construction.pawnLabel>Építész</Construction.pawnLabel>
   <Construction.gerundLabel>építés</Construction.gerundLabel>
   <Construction.verb>építeni</Construction.verb>
-  <Construction.description>Megépíti a kijelölt dolgokat.</Construction.description>
-
-  <Repair.labelShort>Karbantartó</Repair.labelShort>
-  <Repair.pawnLabel>Karbantartó</Repair.pawnLabel>
-  <Repair.gerundLabel>javítás</Repair.gerundLabel>
-  <Repair.verb>javítani</Repair.verb>
-  <Repair.description>Megjavítja a serült és tönkrement dolgokat.</Repair.description>
-
+  <Growing.label>Grow</Growing.label>
+  <Growing.description>Elülteti a magokat és learatja a termést.</Growing.description>
   <Growing.labelShort>Földműves</Growing.labelShort>
   <Growing.pawnLabel>Földműves</Growing.pawnLabel>
   <Growing.gerundLabel>földművelés</Growing.gerundLabel>
   <Growing.verb>termeszteni</Growing.verb>
-  <Growing.description>Elülteti a magokat és learatja a termést.</Growing.description>
-
+  <Mining.label>Mine</Mining.label>
+  <Mining.description>Kibányássza a megjelölt sziklákat.</Mining.description>
   <Mining.labelShort>Bányász</Mining.labelShort>
   <Mining.pawnLabel>Bányász</Mining.pawnLabel>
   <Mining.gerundLabel>bányászat</Mining.gerundLabel>
   <Mining.verb>bányászni</Mining.verb>
-  <Mining.description>Kibányássza a megjelölt sziklákat.</Mining.description>
-
+  <PlantCutting.label>Plant cut</PlantCutting.label>
+  <PlantCutting.description>A kijelölt növényeket vágja ki vagy takarítja be.</PlantCutting.description>
   <PlantCutting.labelShort>Erdész</PlantCutting.labelShort>
   <PlantCutting.pawnLabel>Erdész</PlantCutting.pawnLabel>
   <PlantCutting.gerundLabel>kivágás</PlantCutting.gerundLabel>
   <PlantCutting.verb>kivágni</PlantCutting.verb>
-  <PlantCutting.description>A kijelölt növényeket vágja ki vagy takarítja be.</PlantCutting.description>
-
+  <Smithing.label>Smith</Smithing.label>
+  <Smithing.description>Fegyvereket és eszközöket állít elő nyersanyagból.</Smithing.description>
   <Smithing.labelShort>Kovács</Smithing.labelShort>
   <Smithing.pawnLabel>Kovács</Smithing.pawnLabel>
   <Smithing.gerundLabel>kovácsolás</Smithing.gerundLabel>
   <Smithing.verb>kovácsolni</Smithing.verb>
-  <Smithing.description>Fegyvereket és eszközöket állít elő nyersanyagból.</Smithing.description>
-
+  <Tailoring.label>Tailor</Tailoring.label>
+  <Tailoring.description>Ruházatot készít nyersanyagból.</Tailoring.description>
   <Tailoring.labelShort>Szabó</Tailoring.labelShort>
   <Tailoring.pawnLabel>Szabó</Tailoring.pawnLabel>
   <Tailoring.gerundLabel>varrás</Tailoring.gerundLabel>
   <Tailoring.verb>varrni</Tailoring.verb>
-  <Tailoring.description>Ruházatot készít nyersanyagból.</Tailoring.description>
-
+  <Art.label>Art</Art.label>
+  <Art.description>Műtárgyat készít nyersanyagból.</Art.description>
   <Art.labelShort>Művész</Art.labelShort>
   <Art.pawnLabel>Művész</Art.pawnLabel>
   <Art.gerundLabel>alkotás</Art.gerundLabel>
   <Art.verb>alkotni</Art.verb>
-  <Art.description>Műtárgyat készít nyersanyagból.</Art.description>
-
+  <Crafting.label>Craft</Crafting.label>
+  <Crafting.description>Egyszerűbb munkákat végez a munkaállomásokon. Kövek feldolgozása, olvasztás meg ilyesmi.</Crafting.description>
   <Crafting.labelShort>Iparos</Crafting.labelShort>
   <Crafting.pawnLabel>Iparos</Crafting.pawnLabel>
   <Crafting.gerundLabel>gyártás</Crafting.gerundLabel>
   <Crafting.verb>gyártani</Crafting.verb>
-  <Crafting.description>Egyszerűbb munkákat végez a munkaállomásokon. Kövek feldolgozása, olvasztás meg ilyesmi.</Crafting.description>
-
+  <Hauling.label>Haul</Hauling.label>
+  <Hauling.description>Odaviszi a dolgokat, ahová valók.</Hauling.description>
   <Hauling.labelShort>Rakodó</Hauling.labelShort>
   <Hauling.pawnLabel>Rakodó</Hauling.pawnLabel>
   <Hauling.gerundLabel>cipekedés</Hauling.gerundLabel>
   <Hauling.verb>cipelni</Hauling.verb>
-  <Hauling.description>Odaviszi a dolgokat, ahová valók.</Hauling.description>
-
+  <Cleaning.label>Clean</Cleaning.label>
+  <Cleaning.description>Ellapátolja a havat és tisztán tartja a padlót.</Cleaning.description>
   <Cleaning.labelShort>Takarító</Cleaning.labelShort>
   <Cleaning.pawnLabel>Takarító</Cleaning.pawnLabel>
   <Cleaning.gerundLabel>takarítás</Cleaning.gerundLabel>
   <Cleaning.verb>takarítani</Cleaning.verb>
-  <Cleaning.description>Ellapátolja a havat és tisztán tartja a padlót.</Cleaning.description>
-
+  <Research.label>Research</Research.label>
+  <Research.description>Kutatási munkát végez.</Research.description>
   <Research.labelShort>Kutató</Research.labelShort>
   <Research.pawnLabel>Kutató</Research.pawnLabel>
   <Research.gerundLabel>kutatás</Research.gerundLabel>
   <Research.verb>kutatni</Research.verb>
-  <Research.description>Kutatási munkát végez.</Research.description>
-
 </LanguageData>

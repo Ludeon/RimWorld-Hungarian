@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  <MedicalTendSpeed.label>medical tend speed</MedicalTendSpeed.label>
+  <MedicalTendSpeed.description>Speed at which the character tends to wounds and illnesses as a doctor.</MedicalTendSpeed.description>
+  <MedicalTendQuality.label>medical tend quality</MedicalTendQuality.label>
+  <MedicalTendQuality.description>Quality of tending given to patients when acting as a doctor.</MedicalTendQuality.description>
   <MedicalOperationSpeed.label>operáló sebesség</MedicalOperationSpeed.label>
   <MedicalOperationSpeed.description>Milyen gyorsan távolít el testrészt vagy végez beültetést.</MedicalOperationSpeed.description>
-
-  <SurgerySuccessChance.label>műtét sikeresség</SurgerySuccessChance.label>
-  <SurgerySuccessChance.description>Annak valószínűsége, hogy a karakter sikeres műtétet végez. A kudarc elpazarolt időbe és orvosságba kerül, és katasztrofális károkat is okozhat a páciensnek.</SurgerySuccessChance.description>
-
-  <!-- <BaseHealingQuality.label>ellátás minősége</BaseHealingQuality.label> -->
-  <!-- <BaseHealingQuality.description>Doktorként a betegeknek adott ellátás alapminősége.</BaseHealingQuality.description> -->
-
-  <HealingQuality.label>ellátás minősége</HealingQuality.label>
-  <HealingQuality.description>Doktorként a betegeknek adott ellátás minősége.</HealingQuality.description>
-
-  
-  <HealingSpeed.label>gyógyítás sebessége</HealingSpeed.label>
-  <HealingSpeed.description>Doktorként milyen gyorsan gyógyítja a sebeket.</HealingSpeed.description>
-
+  <MedicalSurgerySuccessChance.label>medical surgery success chance</MedicalSurgerySuccessChance.label>
+  <MedicalSurgerySuccessChance.description>The likelihood that a character will succeed when attempting to perform a medical surgery. Failures can result in simple wasted time and medicine, or catastrophic damage to the patient. This base success chance is also affected by the facilities and medicine used in the operation, and the difficulty of the operation.</MedicalSurgerySuccessChance.description>
 </LanguageData>

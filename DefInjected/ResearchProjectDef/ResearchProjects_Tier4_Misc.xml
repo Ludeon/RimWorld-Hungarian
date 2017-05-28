@@ -1,30 +1,21 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!--========================= Tier 4: Hit-tech research bench with multi-analyzer ===================================-->
- 
   <GroundPenetratingScanner.label>Talaj letapogató</GroundPenetratingScanner.label>
   <GroundPenetratingScanner.description>Lehetővé teszi talaj letapogató építését, ami kimutatja az ásványokat a föld mélyebb rétegeiben.</GroundPenetratingScanner.description>
-
   <DeepDrilling.label>Talajfúró</DeepDrilling.label>
   <DeepDrilling.description>Lehetővé teszi talajfúró építését, mely képes a föld mélyebb rétegeibe hatolni és onnan ásványokat a felszínre hozni. A talaj letapogató megmutatja hol érdemes fúrni.</DeepDrilling.description>
-
   <VitalsMonitor.label>Életfunkció monitor</VitalsMonitor.label>
   <VitalsMonitor.description>Lehetővé teszi életfunkció monitor készítését, ami betegágyak mellé helyezve növeli a páciens ellátásának minőségét.</VitalsMonitor.description>
-
   <ComponentAssembly.label>Alkatrész gyártás</ComponentAssembly.label>
   <ComponentAssembly.description>Lehetővé teszi alkatrész-összeszerelő építését, ahol a gyarmatosok egyszerű anyagokból alkatrészeket készíthetnek.</ComponentAssembly.description>
-
   <MultibarrelWeapons.label>Miniágyú</MultibarrelWeapons.label>
   <MultibarrelWeapons.description>Lehetővé teszi többcsöves miniágyú építését.</MultibarrelWeapons.description>
-
   <Cryptosleep.label>Hibernáló kapszula</Cryptosleep.label>
   <Cryptosleep.description>Lehetővé teszi hibernáló kapszula építését, ami képes élőlények életfolyamatainak felfüggesztésére.</Cryptosleep.description>
-
   <PoweredArmor.label>Erőpáncél</PoweredArmor.label>
   <PoweredArmor.description>A neuromimetikus robotika és a fejlett plasztacél technológia lehetővé teszik erőpáncél és erőpáncél sisak gyártását.</PoweredArmor.description>
-
+  <ShieldBelt.label>shield belt</ShieldBelt.label>
+  <ShieldBelt.description>Momentum-repulsion field technology allows you to build shield belts, which block ranged attacks coming in or going out.</ShieldBelt.description>
   <ChargedShot.label>Energiafegyver</ChargedShot.label>
   <ChargedShot.description>Impulzusfegyverek és energialövedékek titkainak megértése. Lehetővé teszi energiafegyverek gyártását.</ChargedShot.description>
-
 </LanguageData>

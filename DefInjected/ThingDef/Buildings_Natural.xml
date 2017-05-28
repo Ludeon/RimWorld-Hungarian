@@ -1,41 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Simple mineables -->
-
   <CollapsedRocks.label>kőrakás</CollapsedRocks.label>
   <CollapsedRocks.description>Leomlott kövek, melyek elég szilárdan állnak, hogy egy tetőt meg tartsanak.</CollapsedRocks.description>
-
-  <!-- Resource rocks -->
-
   <MineableSteel.label>tömörített acél</MineableSteel.label>
   <MineableSteel.description>Valamilyen ősi, leomlott építmény. Acélban gazdag.</MineableSteel.description>
-
   <MineableSilver.label>ezüsttelér</MineableSilver.label>
   <MineableSilver.description>Ezüstöt tartalmazó szikla.</MineableSilver.description>
-
   <MineableGold.label>aranytelér</MineableGold.label>
   <MineableGold.description>Aranyat tartalmazó szikla.</MineableGold.description>
-
   <MineableUranium.label>urántelér</MineableUranium.label>
   <MineableUranium.description>Uránt tartalmazó szikla.</MineableUranium.description>
-
   <MineablePlasteel.label>Tömörített plasztacél</MineablePlasteel.label>
   <MineablePlasteel.description>Ősi törmelék, plasztacélban gazdag.</MineablePlasteel.description>
-
   <MineableJade.label>jáde telér</MineableJade.label>
   <MineableJade.description>Jádét tartalmazó szikla.</MineableJade.description>
-
   <MineableComponents.label>tömörített alkatrészek</MineableComponents.label>
   <MineableComponents.description>Ősi gépezetek, melyek idővel összetömörödtek. Alkatrészeket lehet kinyerni belőle.</MineableComponents.description>
-
   <SteamGeyser.label>gejzír</SteamGeyser.label>
   <SteamGeyser.description>Természetes hőforrás.</SteamGeyser.description>
-
   <Hive.label>kaptár</Hive.label>
   <Hive.description>Óriási rovarok kolóniája. Egy idő után osztódik.</Hive.description>
-
   <GlowPod.label>fénykapszula</GlowPod.label>
   <GlowPod.description>Óriási rovarok biolumineszcens kapszulája. Saját fénye van, mely a kapszula haláláig világít.</GlowPod.description>
-
+  <GlowPod_Blueprint_Install.label>glow pod (blueprint)</GlowPod_Blueprint_Install.label>
 </LanguageData>

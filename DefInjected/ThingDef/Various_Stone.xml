@@ -1,45 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Misc chunks -->
-
   <ChunkSlagSteel.label>Fémsalak darab</ChunkSlagSteel.label>
-
-  <!-- Stone solids, chunks, and blocks -->
-
   <Sandstone.label>homokkő</Sandstone.label>
   <Sandstone.description>Üledékes kőzet, mely összetömörített homokból áll.</Sandstone.description>
   <ChunkSandstone.label>homokkő darab</ChunkSandstone.label>
   <BlocksSandstone.label>homokkő tömb</BlocksSandstone.label>
   <BlocksSandstone.description>Tömör homokkő tömbök. A homokkő elég puha és könnyen törik.</BlocksSandstone.description>
   <BlocksSandstone.stuffProps.stuffAdjective>homokkő</BlocksSandstone.stuffProps.stuffAdjective>
-
   <Granite.label>gránit</Granite.label>
   <Granite.description>Nagyon kemény vulkanikus kőzet.</Granite.description>
   <ChunkGranite.label>gránit darab</ChunkGranite.label>
   <BlocksGranite.label>gránit tömb</BlocksGranite.label>
   <BlocksGranite.description>Tömör gránit tömbök. A gránit egy nagyon kemény kőzet.</BlocksGranite.description>
   <BlocksGranite.stuffProps.stuffAdjective>gránit</BlocksGranite.stuffProps.stuffAdjective>
-
   <Limestone.label>mészkő</Limestone.label>
   <Limestone.description>Tengeri élőlények meszes vázából képződött üledékes kőzet.</Limestone.description>
   <ChunkLimestone.label>mészkő darab</ChunkLimestone.label>
   <BlocksLimestone.label>mészkő tömb</BlocksLimestone.label>
   <BlocksLimestone.description>Tömör mészkő tömbök.</BlocksLimestone.description>
   <BlocksLimestone.stuffProps.stuffAdjective>mészkő</BlocksLimestone.stuffProps.stuffAdjective>
-
   <Slate.label>pala</Slate.label>
   <Slate.description>Sötét színű átalakult kőzet. Rétegei könnyen elválnak egymástól.</Slate.description>
   <ChunkSlate.label>pala darab</ChunkSlate.label>
   <BlocksSlate.label>pala tömb</BlocksSlate.label>
   <BlocksSlate.description>Tömör pala tömbök. Matt kőzet, ami könnyen hasad.</BlocksSlate.description>
   <BlocksSlate.stuffProps.stuffAdjective>pala</BlocksSlate.stuffProps.stuffAdjective>
-
   <Marble.label>márvány</Marble.label>
   <Marble.description>Fehér színű, puha átalakult kőzet.</Marble.description>
   <ChunkMarble.label>márvány darab</ChunkMarble.label>
   <BlocksMarble.label>márvány tömb</BlocksMarble.label>
   <BlocksMarble.description>Tömör márvány tömbök. A márvány puha, gyönyörű kőzet, amit könnyű faragni.</BlocksMarble.description>
   <BlocksMarble.stuffProps.stuffAdjective>márvány</BlocksMarble.stuffProps.stuffAdjective>
-
 </LanguageData>
