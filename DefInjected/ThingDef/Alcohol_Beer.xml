@@ -1,15 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <Beer.label>sör</Beer.label>
   <Beer.description>Az első számú ember által fogyasztott ital a víz után. Az íze se rossz, de a lényeg a bódító hatás. Túlzott fogyasztása másnapossághoz vezet.</Beer.description>
   <Beer.ingestible.ingestCommandString>Igyon ezt: {0}</Beer.ingestible.ingestCommandString>
   <Beer.ingestible.ingestReportString>Iszik ezt: {0}.</Beer.ingestible.ingestReportString>
-
-  <!-- Wort -->
-
   <Wort.label>söralap</Wort.label>
   <Wort.description>Ebből lesz a sör erjesztés után. Hozzávalók keveréke, aminek erjesztő hordóban kell erjednie, mielőtt sör lenne belőle.</Wort.description>
-
-
 </LanguageData>

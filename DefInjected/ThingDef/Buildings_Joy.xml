@@ -1,25 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <HorseshoesPin.label>patkó játék</HorseshoesPin.label>
   <HorseshoesPin.description>Egyszerű játék patkókkal és egy fölbe vert rúddal. A játékosok megpróbálják a rúdhoz minél közelebb dobni a patkókat bizonyos távolságról. Pihentető hatású és még a szem-kéz koordinációt is javítja</HorseshoesPin.description>
-
+  <HorseshoesPin_Blueprint.label>horseshoes pin (blueprint)</HorseshoesPin_Blueprint.label>
+  <HorseshoesPin_Blueprint_Install.label>horseshoes pin (blueprint)</HorseshoesPin_Blueprint_Install.label>
+  <HorseshoesPin_Frame.label>horseshoes pin (building)</HorseshoesPin_Frame.label>
+  <HorseshoesPin_Frame.description>A simple ancient game played with a few horseshoes and a large pin in the ground. Players toss horseshoes from a distance and attempt to get them to land close to or around the pin. It's relaxing, and even trains hand-eye coordination.</HorseshoesPin_Frame.description>
   <ChessTable.label>sakktábla</ChessTable.label>
   <ChessTable.description>Királyok játéka. Pár órás móka, még egyedül játszva is.</ChessTable.description>
-
+  <ChessTable_Blueprint.label>chess table (blueprint)</ChessTable_Blueprint.label>
+  <ChessTable_Blueprint_Install.label>chess table (blueprint)</ChessTable_Blueprint_Install.label>
+  <ChessTable_Frame.label>chess table (building)</ChessTable_Frame.label>
+  <ChessTable_Frame.description>The ancient game of kings. Fun for a few hours here and there, even playing alone.</ChessTable_Frame.description>
   <BilliardsTable.label>billiárdasztal</BilliardsTable.label>
   <BilliardsTable.description>Puha anyaggal bevont asztal melyen különféle billiárdtípusokat lehet játszani.</BilliardsTable.description>
-
+  <BilliardsTable_Blueprint.label>billiards table (blueprint)</BilliardsTable_Blueprint.label>
+  <BilliardsTable_Blueprint_Install.label>billiards table (blueprint)</BilliardsTable_Blueprint_Install.label>
+  <BilliardsTable_Frame.label>billiards table (building)</BilliardsTable_Frame.label>
+  <BilliardsTable_Frame.description>A soft-topped bounded table for playing a variety of billiards-type games.</BilliardsTable_Frame.description>
   <TubeTelevision.label>képcsöves tévé</TubeTelevision.label>
   <TubeTelevision.description>Katódsugárcsöves kijelző, mely mozgóképet közvetít hanggal. Még a peremvilágokon is szokott menni valami némileg érdekes adás.</TubeTelevision.description>
-
+  <TubeTelevision_Blueprint.label>tube television (blueprint)</TubeTelevision_Blueprint.label>
+  <TubeTelevision_Blueprint_Install.label>tube television (blueprint)</TubeTelevision_Blueprint_Install.label>
+  <TubeTelevision_Frame.label>tube television (building)</TubeTelevision_Frame.label>
+  <TubeTelevision_Frame.description>A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting.</TubeTelevision_Frame.description>
   <FlatscreenTelevision.label>LCD tévé</FlatscreenTelevision.label>
   <FlatscreenTelevision.description>Csúcstechnológiás LCD képernyő tű éles képpel és élénk színekkel. Szórakoztatóbb, mint a hagyományos tévé szemcsés képe.</FlatscreenTelevision.description>
-
+  <FlatscreenTelevision_Blueprint_Install.label>flatscreen television (blueprint)</FlatscreenTelevision_Blueprint_Install.label>
   <MegascreenTelevision.label>óriás LCD tévé</MegascreenTelevision.label>
   <MegascreenTelevision.description>Óriási szupertévé. A gigantikus ultra éles képek szinte lemásznak a képernyőről. Nagyon szórakoztató.</MegascreenTelevision.description>
-
+  <MegascreenTelevision_Blueprint_Install.label>megascreen television (blueprint)</MegascreenTelevision_Blueprint_Install.label>
   <Telescope.label>távcső</Telescope.label>
   <Telescope.description>Távcső amatőr csillagászoknak. Pihentető és szórakoztató hobbi bizonyos emberek számára.</Telescope.description>
-
+  <Telescope_Blueprint_Install.label>telescope (blueprint)</Telescope_Blueprint_Install.label>
 </LanguageData>

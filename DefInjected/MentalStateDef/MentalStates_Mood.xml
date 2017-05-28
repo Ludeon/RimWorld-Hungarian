@@ -1,57 +1,42 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Mental breaks: extreme -->
-
   <Berserk.label>őrjöngés</Berserk.label>
-  <Berserk.beginLetterLabel>Őrjöngés</Berserk.beginLetterLabel>
   <Berserk.beginLetter>{0} őrjöng!</Berserk.beginLetter>
+  <Berserk.beginLetterLabel>Őrjöngés</Berserk.beginLetterLabel>
   <Berserk.recoveryMessage>{0} lenyugodott.</Berserk.recoveryMessage>
   <Berserk.baseInspectLine>Állapot: őrjöngés</Berserk.baseInspectLine>
-
   <FireStartingSpree.label>gyújtogatás</FireStartingSpree.label>
-  <FireStartingSpree.beginLetterLabel>Gyújtogatás</FireStartingSpree.beginLetterLabel>
   <FireStartingSpree.beginLetter>{0} mindent meggyújt.</FireStartingSpree.beginLetter>
+  <FireStartingSpree.beginLetterLabel>Gyújtogatás</FireStartingSpree.beginLetterLabel>
   <FireStartingSpree.recoveryMessage>{0} lenyugodott.</FireStartingSpree.recoveryMessage>
   <FireStartingSpree.baseInspectLine>Állapot: gyújtogatás</FireStartingSpree.baseInspectLine>
-
   <GiveUpExit.label>lelépés</GiveUpExit.label>
-  <GiveUpExit.beginLetterLabel>Lelépés</GiveUpExit.beginLetterLabel>
   <GiveUpExit.beginLetter>{0} elhagyja a kolóniát.</GiveUpExit.beginLetter>
+  <GiveUpExit.beginLetterLabel>Lelépés</GiveUpExit.beginLetterLabel>
   <GiveUpExit.recoveryMessage>{0} meggondolta magát és marad.</GiveUpExit.recoveryMessage>
   <GiveUpExit.baseInspectLine>Állapot: lelépés</GiveUpExit.baseInspectLine>
-
-  <!-- Mental breaks: serious -->
-
   <BingingDrugExtreme.label>Durva drog habzsolás</BingingDrugExtreme.label>
   <BingingDrugExtreme.baseInspectLine>Idegállapot: ezt habzsolja:</BingingDrugExtreme.baseInspectLine>
   <BingingDrugMajor.label>Drog habzsolás</BingingDrugMajor.label>
   <BingingDrugMajor.baseInspectLine>Idegállapot: ezt habzsolja:</BingingDrugMajor.baseInspectLine>
-
   <WanderPsychotic.label>pszichotikus ténfergés</WanderPsychotic.label>
-  <WanderPsychotic.beginLetterLabel>Zavarodottság</WanderPsychotic.beginLetterLabel>
   <WanderPsychotic.beginLetter>{0} összeomlott és zavarodottan járkál.</WanderPsychotic.beginLetter>
+  <WanderPsychotic.beginLetterLabel>Zavarodottság</WanderPsychotic.beginLetterLabel>
   <WanderPsychotic.recoveryMessage>{0} zavarodottsága elmúlt.</WanderPsychotic.recoveryMessage>
   <WanderPsychotic.baseInspectLine>Állapot: zavarodott járkálás</WanderPsychotic.baseInspectLine>
-
-  <!-- Mental breaks: minor -->
-
   <BingingFood.label>zabálás</BingingFood.label>
-  <BingingFood.beginLetterLabel>Zabálás</BingingFood.beginLetterLabel>
   <BingingFood.beginLetter>{0} bezabálja a készleteket.</BingingFood.beginLetter>
+  <BingingFood.beginLetterLabel>Zabálás</BingingFood.beginLetterLabel>
   <BingingFood.recoveryMessage>{0} már nem habzsol.</BingingFood.recoveryMessage>
   <BingingFood.baseInspectLine>Állapot: zabálás</BingingFood.baseInspectLine>
-
   <WanderSad.label>szomorú ténfergés</WanderSad.label>
-  <WanderSad.beginLetterLabel>Szomorúság</WanderSad.beginLetterLabel>
   <WanderSad.beginLetter>{0} szomorúan járkál.</WanderSad.beginLetter>
+  <WanderSad.beginLetterLabel>Szomorúság</WanderSad.beginLetterLabel>
   <WanderSad.recoveryMessage>{0} jobb kedvre derült.</WanderSad.recoveryMessage>
   <WanderSad.baseInspectLine>Állapot: szomorú ténfergés</WanderSad.baseInspectLine>
-
   <WanderOwnRoom.label>szobában ténfergés</WanderOwnRoom.label>
-  <WanderOwnRoom.beginLetterLabel>Bezárkózás</WanderOwnRoom.beginLetterLabel>
   <WanderOwnRoom.beginLetter>{0} bezárkózott a szobájába.</WanderOwnRoom.beginLetter>
+  <WanderOwnRoom.beginLetterLabel>Bezárkózás</WanderOwnRoom.beginLetterLabel>
   <WanderOwnRoom.recoveryMessage>{0} már nem bujkál a szobájában.</WanderOwnRoom.recoveryMessage>
   <WanderOwnRoom.baseInspectLine>Állapot: szobában ténfergés</WanderOwnRoom.baseInspectLine>
-
 </LanguageData>

@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <AllowCorpsesColonist.label>Gyarmatos tetem</AllowCorpsesColonist.label>
   <AllowCorpsesColonist.description>Néhai gyarmatos teteme elhelyezhető itt.</AllowCorpsesColonist.description>
-  
   <AllowCorpsesStranger.label>Idegen tetem</AllowCorpsesStranger.label>
   <AllowCorpsesStranger.description>Néhai idegen és ellenség teteme elhelyezhető itt.</AllowCorpsesStranger.description>
-  
   <AllowRotten.label>Rohadt dolgok</AllowRotten.label>
   <AllowRotten.description>Rohadásnak indult dolgok is megengedettek.</AllowRotten.description>
-  
-  <AllowSmeltable.label>Olvasztható</AllowSmeltable.label>
-  <AllowNonSmeltableWeapons.label>Nem olvasztható</AllowNonSmeltableWeapons.label>
-  <!-- <AllowNonSmeltableWeapons.description>Nem olvasztható fegyverek is megengedettek.</AllowNonSmeltableWeapons.description> -->
-  
   <AllowPlantFood.label>Takarmány</AllowPlantFood.label>
   <AllowPlantFood.description>Olyan ételek is megengedettek, amiknek a minősége a szénával egyenlő.</AllowPlantFood.description>
-
+  <AllowSmeltable.label>Olvasztható</AllowSmeltable.label>
+  <AllowNonSmeltableWeapons.label>Nem olvasztható</AllowNonSmeltableWeapons.label>
   <AllowNonDeadmansApparel.label>Nem tetem ruházata</AllowNonDeadmansApparel.label>
-  
 </LanguageData>

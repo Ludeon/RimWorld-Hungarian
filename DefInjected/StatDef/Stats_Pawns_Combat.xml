@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <MeleeDPS.label>közelharci sebzés per mp.</MeleeDPS.label>
   <MeleeDPS.description>Átlagos közelharci sebzés per másodperc.</MeleeDPS.description>
-
-  <ShootingAccuracy.label>lövési pontosság</ShootingAccuracy.label>
-  <ShootingAccuracy.description>Találat esélye százalékban.</ShootingAccuracy.description>
-
-  <AimingDelayFactor.label>célzásidő</AimingDelayFactor.label>
-  <AimingDelayFactor.description>Mennyi ideig tart befogni a célpontot.</AimingDelayFactor.description>
-
   <MeleeHitChance.label>közelharci pontosság</MeleeHitChance.label>
   <MeleeHitChance.description>Ütések pontossága közelharcban.</MeleeHitChance.description>
-
+  <MeleeDodgeChance.label>melee dodge chance</MeleeDodgeChance.label>
+  <MeleeDodgeChance.description>Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon.</MeleeDodgeChance.description>
+  <ShootingAccuracy.label>lövési pontosság</ShootingAccuracy.label>
+  <ShootingAccuracy.description>Találat esélye százalékban.</ShootingAccuracy.description>
+  <AimingDelayFactor.label>célzásidő</AimingDelayFactor.label>
+  <AimingDelayFactor.description>Mennyi ideig tart befogni a célpontot.</AimingDelayFactor.description>
 </LanguageData>

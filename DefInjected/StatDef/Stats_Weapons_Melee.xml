@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <MeleeWeapon_DamageAmount.label>közelharci sebzés</MeleeWeapon_DamageAmount.label>
   <MeleeWeapon_DamageAmount.description>Találatonkénti sebzés érték.</MeleeWeapon_DamageAmount.description>
-
   <MeleeWeapon_Cooldown.label>felkészülési idő</MeleeWeapon_Cooldown.label>
   <MeleeWeapon_Cooldown.description>Mennyi ideig tart mire újra támadhatunk a fegyverrel.</MeleeWeapon_Cooldown.description>
   <MeleeWeapon_Cooldown.formatString>{0} mp</MeleeWeapon_Cooldown.formatString>
-
-  <!-- Damage multipliers should be stats on stuffs only -->
-
   <SharpDamageMultiplier.label>vágás szorzó</SharpDamageMultiplier.label>
   <SharpDamageMultiplier.description>Vágás és döfés szorzója, ha a fegyver ebből az anyagból készült.</SharpDamageMultiplier.description>
-
   <BluntDamageMultiplier.label>zúzás szorzó</BluntDamageMultiplier.label>
   <BluntDamageMultiplier.description>Zúzás szorzója, ha a fegyver ebből az anyagból készült.</BluntDamageMultiplier.description>
-
 </LanguageData>

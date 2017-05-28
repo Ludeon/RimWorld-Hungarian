@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <WorkSpeedGlobal.label>munkatempó</WorkSpeedGlobal.label>
   <WorkSpeedGlobal.description>A személy munkatempójának szorzója.</WorkSpeedGlobal.description>
-
   <MiningSpeed.label>kőfejtés sebesség</MiningSpeed.label>
   <MiningSpeed.description>Milyen gyorsan képes a személy sziklát bányászni.</MiningSpeed.description>
-
+  <MiningYield.label>mining yield</MiningYield.label>
+  <MiningYield.description>The percentage yield a miner will achieve. This applies to both wall mining and deep drill mining. This doesn't affect the rate of mining rock chunks.</MiningYield.description>
   <SmoothingSpeed.label>elegyengetés sebesség</SmoothingSpeed.label>
   <SmoothingSpeed.description>Milyen gyorsan képes a személy felületeket elegyengetni.</SmoothingSpeed.description>
-
   <ResearchSpeed.label>kutatás sebesség</ResearchSpeed.label>
   <ResearchSpeed.description>Milyen gyorsan képes a személy kutatást végezni.</ResearchSpeed.description>
-
-  <ConstructionSpeed.label>építés sebesség</ConstructionSpeed.label>
-  <ConstructionSpeed.description>Milyen gyorsan képes a személy épületet felhúzni és javítani.</ConstructionSpeed.description>
-
+  <AnimalGatherSpeed.label>animal gather speed</AnimalGatherSpeed.label>
+  <AnimalGatherSpeed.description>The speed at which this person milks, shears, and otherwise gathers resources from animals.</AnimalGatherSpeed.description>
+  <AnimalGatherYield.label>animal gather yield</AnimalGatherYield.label>
+  <AnimalGatherYield.description>The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal. Higher percentages reduce the chance of wasting the product.</AnimalGatherYield.description>
   <PlantWorkSpeed.label>földművelés sebesség</PlantWorkSpeed.label>
   <PlantWorkSpeed.description>Milyen gyorsan képes a személy vetni, aratni.</PlantWorkSpeed.description>
-
-  <HarvestFailChance.label>sikertelen aratás esélye</HarvestFailChance.label>
-  <HarvestFailChance.description>Milyen gyakran történik meg, hogy betakarítás helyett kárba vész a termés.</HarvestFailChance.description>
-
-  <ConstructFailChance.label>sikertelen építés esélye</ConstructFailChance.label>
-  <ConstructFailChance.description>Annak az esélye, hogy a személy elrontja az építést, elpazarolva az időt és alapanyagokat.</ConstructFailChance.description>
-
-  <FixBrokenDownBuildingFailChance.label>sikertelen javítás esélye</FixBrokenDownBuildingFailChance.label>
-  <FixBrokenDownBuildingFailChance.description>Annak az esélye, hogy a személy elrontja az épület javítását.</FixBrokenDownBuildingFailChance.description>
-
+  <PlantHarvestYield.label>plant harvest yield</PlantHarvestYield.label>
+  <PlantHarvestYield.description>The yield someone gets when harvesting plants. Low yields give a chance that this person will accidentally waste the harvest.</PlantHarvestYield.description>
+  <ConstructionSpeed.label>építés sebesség</ConstructionSpeed.label>
+  <ConstructionSpeed.description>Milyen gyorsan képes a személy épületet felhúzni és javítani.</ConstructionSpeed.description>
+  <ConstructSuccessChance.label>construct success chance</ConstructSuccessChance.label>
+  <ConstructSuccessChance.description>The chance that this person will succeed in constructing something. Failing means wasting time and resources.</ConstructSuccessChance.description>
+  <FixBrokenDownBuildingSuccessChance.label>repair success chance</FixBrokenDownBuildingSuccessChance.label>
+  <FixBrokenDownBuildingSuccessChance.description>The chance that this person will successfully repair a broken down building using a component. Failing means wasting time and resources. Note that this only applies to repairing breakdowns, which is different from repairing damage.</FixBrokenDownBuildingSuccessChance.description>
 </LanguageData>
