@@ -1,9 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Different physical description roots for different kinds of artworks.
-  Added to artworks with tales and taleless art. -->
-
   <ArtDescription_Sculpture.rulePack.rulesStrings.0>physical_description_root->Ez a [sculpture] a következőt [depicts]: [image]. [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.0>
   <ArtDescription_Sculpture.rulePack.rulesStrings.1>physical_description_root->Ez a [sculpture] a következő [depiction]: [image]. [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.1>
   <ArtDescription_Sculpture.rulePack.rulesStrings.2>physical_description_root->Ez a [sculpture] ennek a(z) [depiction]: [image]. [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.2>
@@ -11,21 +7,16 @@
   <ArtDescription_Sculpture.rulePack.rulesStrings.4>sculpture->műalkotás</ArtDescription_Sculpture.rulePack.rulesStrings.4>
   <ArtDescription_Sculpture.rulePack.rulesStrings.5>sculpture->műtárgy</ArtDescription_Sculpture.rulePack.rulesStrings.5>
   <ArtDescription_Sculpture.rulePack.rulesStrings.6>sculpture->faragvány</ArtDescription_Sculpture.rulePack.rulesStrings.6>
-
   <ArtDescription_WeaponMelee.rulePack.rulesStrings.0>physical_description_root->Ebbe a fegyverbe be van vésve: [image] [depiction]. [desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.0>
   <ArtDescription_WeaponMelee.rulePack.rulesStrings.1>physical_description_root->Ez a fegyver vésetként a következőt [depicts]: [image]. [desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.1>
   <ArtDescription_WeaponMelee.rulePack.rulesStrings.2>physical_description_root->A fegyver egyik vésete: [image] [depiction]. [desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.2>
-
   <ArtDescription_WeaponGun.rulePack.rulesStrings.0>physical_description_root->Ebbe a fegyverbe be van vésve: [image] [depiction]. [desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.0>
   <ArtDescription_WeaponGun.rulePack.rulesStrings.1>physical_description_root->Ez a fegyver vésetként a következőt [depicts]: [image]. [desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.1>
   <ArtDescription_WeaponGun.rulePack.rulesStrings.2>physical_description_root->A fegyver egyik vésete: [image] [depiction]. [desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.2>
-
   <ArtDescription_Furniture.rulePack.rulesStrings.0>physical_description_root->Ebbe a bútorba be van vésve: [image] [depiction]. [desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.0>
   <ArtDescription_Furniture.rulePack.rulesStrings.1>physical_description_root->Ez a bútor vésetként a következőt [depicts]: [image]. [desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.1>
   <ArtDescription_Furniture.rulePack.rulesStrings.2>physical_description_root->A bútor egyik vésete: [image] [depiction]. [desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.2>
-
   <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.0>physical_description_root->Ebbe a szarkofágba be van vésve: [image] [depiction]. [desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.0>
   <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.1>physical_description_root->Ez a szarkofág vésetként a következőt [depicts]: [image]. [desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.1>
   <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.2>physical_description_root->A szarkofág egyik vésete: [image] [depiction]. [desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.2>
-
 </LanguageData>

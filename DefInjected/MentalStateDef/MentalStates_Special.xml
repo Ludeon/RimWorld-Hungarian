@@ -1,34 +1,25 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Special mental states -->
-
   <WanderConfused.label>zavarodott ténfergés</WanderConfused.label>
-  <WanderConfused.beginLetterLabel>Zavarodottság</WanderConfused.beginLetterLabel>
   <WanderConfused.beginLetter>{0} összeomlott és zavarodottan járkál.</WanderConfused.beginLetter>
+  <WanderConfused.beginLetterLabel>Zavarodottság</WanderConfused.beginLetterLabel>
   <WanderConfused.recoveryMessage>{0} zavarodottsága elmúlt.</WanderConfused.recoveryMessage>
   <WanderConfused.baseInspectLine>Állapot: zavarodott járkálás</WanderConfused.baseInspectLine>
-
   <PanicFlee.label>eszeveszett menekülés</PanicFlee.label>
-  <PanicFlee.beginLetterLabel>Menekülés</PanicFlee.beginLetterLabel>
   <PanicFlee.beginLetter>{0} eszeveszetten menekül.</PanicFlee.beginLetter>
+  <PanicFlee.beginLetterLabel>Menekülés</PanicFlee.beginLetterLabel>
   <PanicFlee.recoveryMessage>{0} már nem menekül.</PanicFlee.recoveryMessage>
   <PanicFlee.baseInspectLine>Állapot: eszeveszett menekülés</PanicFlee.baseInspectLine>
-
   <Manhunter.label>emberevő</Manhunter.label>
-  <Manhunter.beginLetterLabel>Emberevő</Manhunter.beginLetterLabel>
   <Manhunter.beginLetter>{0} emberevő lett.</Manhunter.beginLetter>
+  <Manhunter.beginLetterLabel>Emberevő</Manhunter.beginLetterLabel>
   <Manhunter.recoveryMessage>{0} vérszomja elmúlt.</Manhunter.recoveryMessage>
   <Manhunter.baseInspectLine>Őrület: emberevő</Manhunter.baseInspectLine>
-  
   <ManhunterPermanent.label>emberevő</ManhunterPermanent.label>
-  <ManhunterPermanent.beginLetterLabel>emberevő</ManhunterPermanent.beginLetterLabel>
   <ManhunterPermanent.beginLetter>{0} emberevő lett!</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.beginLetterLabel>emberevő</ManhunterPermanent.beginLetterLabel>
   <ManhunterPermanent.recoveryMessage>{0} vérszomja elmúlt.</ManhunterPermanent.recoveryMessage>
   <ManhunterPermanent.baseInspectLine>Őrület: emberevő</ManhunterPermanent.baseInspectLine>
-
   <SocialFighting.label>verekedés</SocialFighting.label>
-  <!-- <SocialFighting.recoveryMessage>{0} és {1} már nem verekszik.</SocialFighting.recoveryMessage> -->
   <SocialFighting.baseInspectLine>Állapot: verekedés</SocialFighting.baseInspectLine>
-
 </LanguageData>

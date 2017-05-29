@@ -2,6 +2,7 @@
 <LanguageData>
 
   <!-- Various -->
+  <HitPointsBasic>életerő</HitPointsBasic>
   <WorkLeft>Hátralévő munka</WorkLeft>
   <Contents>Tartalom</Contents>
   <ContainedResources>Tartalmazott anyagok</ContainedResources>
@@ -26,7 +27,8 @@
   <DevelopedImmunityLower>kialakult immunitás</DevelopedImmunityLower>
   <NeedsTendingNow>Ápolásra van szüksége</NeedsTendingNow>
   <!-- <InjuryRequiresTreatment>Kezelés szükséges</InjuryRequiresTreatment> -->
-  <NextTreatmentIn>Következő kezelés: {0}</NextTreatmentIn>
+<!--   <NextTreatmentIn>Következő kezelés: {0}</NextTreatmentIn> -->
+  <NextTendIn>Kezelés szükséges ekkor: {0}</NextTendIn> 
   <MissingMedicalBillIngredient>nincs {0}</MissingMedicalBillIngredient>
   <Immunity>Immunitás</Immunity>
   <Race>Faj</Race>
@@ -72,8 +74,10 @@
   <CaravanImmobilizedByMass>Leállt: túlterhelés.</CaravanImmobilizedByMass>
   <CaravanOutOfFood>Nincs élelem.</CaravanOutOfFood>
   <CaravanDaysOfFood>Élelem készlet: {0} nap</CaravanDaysOfFood>
+  <CaravanDaysOfFoodRot>Ennyi napi élelem: {0}, elrohad ekkor: {1} </CaravanDaysOfFoodRot>
   <CaravanMemberMentalBreak>Leállt: {0} összeomlott.</CaravanMemberMentalBreak>
   <AllCaravanMembersDowned>Leállt: mindenki járóképtelen.</AllCaravanMembersDowned>
+  <AllCaravanMembersMentalBreak>Leállás oka: mindenki összeomlott.</AllCaravanMembersMentalBreak>
   <CaravanTraveling>Utazik.</CaravanTraveling>
   <CaravanWaiting>Várakozik.</CaravanWaiting>
   <CaravanHoursPerTile>ó/mező</CaravanHoursPerTile>
@@ -104,10 +108,28 @@
   <TransportPodInGroupHasSomethingLeftToLoad>berakodás alatt</TransportPodInGroupHasSomethingLeftToLoad>
   <TransportPodDestinationBeyondMaximumRange>túl messzi cél</TransportPodDestinationBeyondMaximumRange>
   <TransportPodNotEnoughFuel>Nincs elég üzemanyag</TransportPodNotEnoughFuel>
-  <FactionBaseTrader>{0} innen: {1}</FactionBaseTrader>
-  
+<!--   <FactionBaseTrader>{0} innen: {1}</FactionBaseTrader> -->
+  <SettlementTrader>{0} innen: {1}</SettlementTrader>
+  <RoomSurgerySuccessChanceFactor>Szoba műtétsikerességi esély</RoomSurgerySuccessChanceFactor>
+  <RoomInfectionChanceFactor>Szoba fertőzés kezelési esély</RoomInfectionChanceFactor>
+  <VentClosed>Zárva</VentClosed>
+  <WornBy>{0} viseli</WornBy>
+  <EquippedBy>{0} használja</EquippedBy>
+  <QuestTargetDestroyInspectString>{0} el akarja pusztítani.\n    Jutalom: {1}.</QuestTargetDestroyInspectString>
+  <WorldObjectTimeout>Határidő: {0}</WorldObjectTimeout>
+  <LongRangeMineralScannerEfficiency>Hatékonyság: {0}</LongRangeMineralScannerEfficiency>
+  <ItemStashContents>Tartalom: {0}.</ItemStashContents>
+  <SomeItemStashContents>Tartalom: {0}.</SomeItemStashContents>
+  <ClickToSortByThisColumn>Kattints a sorbarendezéshez eszerint.</ClickToSortByThisColumn>
+  <WorkPriorityShiftClickTip>Shift + klikk: prioritás növelése\nShift + jobb klikk: prioritás csökkentése</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickEnableDisableTip>Shift + klikk: Összes engedélyezése\nShift + jobb klikk: Összes tiltása</WorkPriorityShiftClickEnableDisableTip>
+  <AllowedAreaShiftClickTip>Shift + klikk: mindenki csak lakókörzet\nShift + jobb klikk: mindenki korlátozatlan</AllowedAreaShiftClickTip>
+  <CheckboxShiftClickTip>Shift + klikk: Összes kijelöl\nShift + jobb klikk: Kijelölés törlése</CheckboxShiftClickTip>
+  <KnownSiteThreat>Fenyegetés: {0}.</KnownSiteThreat>
+  <KnownSiteThreats>Fenyegetések: {0}.</KnownSiteThreats>
+  <KnownSiteThreatsNone>Fenyegetés: semmi.</KnownSiteThreatsNone>
+    
   <!-- Fermentation barrel -->
-
   <ContainsWort>Tartalma {0} / {1} söralap.</ContainsWort>
   <ContainsBeer>Tartalma {0} / {1} sör.</ContainsBeer>
   <Fermented>Erjesztett</Fermented>
@@ -116,12 +138,11 @@
 
   <!--TextMotes-->
   <Headshot>Fejlövés</Headshot>
-  <!-- <TreatQuality>ellátás minősége: {0}</TreatQuality> -->
-  <!-- <PoorResult>gyenge eredmény</PoorResult> -->
-  <!-- <GoodResult>jó eredmény</GoodResult> -->
   <TextMote_TreatSuccess>Sikeres ellátás!\n{0} esély</TextMote_TreatSuccess>
   <TextMote_TreatFailed>Sikertelen ellátás\n{0} esély</TextMote_TreatFailed>
-  <HarvestFailed>Betakarítás\nsikertelen</HarvestFailed>
+  <TextMote_HarvestFailed>Betakarítás\nsikertelen</TextMote_HarvestFailed> 
+  <TextMote_YieldWasted>Hozam\nkárba veszett</TextMote_YieldWasted>
+  <TextMote_ProductWasted>Termék\nkárba veszett</TextMote_ProductWasted> 
   <TextMote_RecruitFail>Toborzás sikertelen!\n{0} esély</TextMote_RecruitFail>
   <TextMote_TameFail>Szelídítés sikertelen\n{0} esély</TextMote_TameFail>
   <TextMote_TameSuccess>Megszelídítve!\n{0} esély</TextMote_TameSuccess>
@@ -129,7 +150,9 @@
   <TextMote_TrainSuccess>Betanítva: {0}\n{1} esély</TextMote_TrainSuccess>
   <TextMote_FixBrokenDownBuildingFail>Javítás\nsikertelen</TextMote_FixBrokenDownBuildingFail>
   <TextMote_ConstructionFail>Építés\nsikertelen</TextMote_ConstructionFail>
-
+  <TextMote_Dodge>Kitérés</TextMote_Dodge>
+  <TextMote_Tended>{0} ellátva</TextMote_Tended>
+  
   <!-- Areas -->
   <Home>Lakó</Home>
   <BuildRoof>Fedett</BuildRoof>
@@ -182,6 +205,7 @@
   <!-- Lord job reports -->
   <LordReportAttendingMarriageCeremony>Esküvőn vesz részt</LordReportAttendingMarriageCeremony>
   <LordReportAttendingParty>Bulin vesz részt</LordReportAttendingParty>
+  <LordReportFormingCaravan>Karaván alakítás</LordReportFormingCaravan>
 
   <!-- Shooting report -->
   <WeaponMissRadius>Pontatlanság mértéke</WeaponMissRadius>
@@ -202,7 +226,9 @@
   <RecipeMakeJobString>Gyártás: {0}.</RecipeMakeJobString>
   <RecipeAdminister>adagol: {0}</RecipeAdminister>
   <RecipeAdministerJobString>Adagolja: {0}.</RecipeAdministerJobString>
-  
+  <TeetotalerUnhappy>antialkoholista boldogtalan lesz</TeetotalerUnhappy>
+  <ProsthophobeUnhappy>protézis fóbiás boldogtalan lesz</ProsthophobeUnhappy>
+
   <!-- Thoughts -->
   <ThoughtExpiresIn>Elmúlik: {0}</ThoughtExpiresIn>
   <ThoughtStartsExpiringIn>Elkezd elmúlni: {0}</ThoughtStartsExpiringIn>
@@ -221,10 +247,12 @@
   <Dead>Halott</Dead>
   <Unconscious>Eszméletlen</Unconscious>
   <PainShock>Sokkos állapot</PainShock>
+  <PainShockShort>Sokk</PainShockShort>
   <Incapacitated>Magatehetetlen</Incapacitated>
   <InRestraints>Mozgáskorlátozott (lelassítva)</InRestraints>
   <Carrying>Cipeli</Carrying>
-
+  <AffectedBy>Hatás alatt:</AffectedBy>
+  
   <!-- Inspector general stuff -->
   <SelectNextInSquareTip>Következő dolog ugyanazon a callán.\n\nGyorsbillentyű: {0}\n\nÚjra kattintva ugyanarra a cellára ugyanezt eredményezi.</SelectNextInSquareTip>
   <DefInfoTip>Információ a tárgyról.</DefInfoTip>
@@ -330,8 +358,9 @@
   <Burning>Ég</Burning>
   <FireSizeLower>Tűz nagysága: {0}</FireSizeLower>
 
-  <!-- Map conditions -->
-  <MapConditionsTip>Különleges körülmények, amik a térképet jelenleg befolyásolják.</MapConditionsTip>
+  <!-- Game conditions -->
+ <!--  <MapConditionsTip>Különleges körülmények, amik a térképet jelenleg befolyásolják.</MapConditionsTip> -->
+  <GameConditionsTip>Különleges körülmények, amik a területet jelenleg befolyásolják.</GameConditionsTip>
   <TimeLeft>hátralévő idő</TimeLeft>
   <ImpactDate>kezdet dátuma</ImpactDate>
 
@@ -451,5 +480,24 @@
   
   <!-- Compass -->
   <CompassTip>Az északi irányt mutatja. Kattintásra beállítja a kamerát, hogy az északi irány legyen fölfelé.</CompassTip>
+  
+    <!-- Distance measure -->
+  <RoutePlannerButtonTip>Tervező mód megnyitása, ahol kijelölheted az út állomásait és kiszámíthatod a köztük lévő távolságot.</RoutePlannerButtonTip>
+  <RoutePlannerAddTwoOrMoreWaypoints>Adj hozzá kettő vagy több állomást.</RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>Adj hozzá még legalább egy állomást.</RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerEstTimeToFinalDest>Teljes út ideje: {0}</RoutePlannerEstTimeToFinalDest>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>A tervező mód az alap karaván sebességgel számol. A valós ettől eltérhet.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>Számításhoz használt sebesség: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Jobb klikk: állomás hozzáadás/eltávolítás.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressEscapeToExit>ESC: kilépés tervező módból.</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: vissza karaván alakításhoz.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <EstimatedTimeToThisWaypoint>Becsült idő az állomásig: {0}</EstimatedTimeToThisWaypoint>
+  <EstimatedTimeToThisWaypointFromPrevious>Becsült idő ez és az előző állomás között: {0}</EstimatedTimeToThisWaypointFromPrevious>
+ 
+ <!-- Outfits -->
+  <OutfitAnything>Bármi</OutfitAnything>
+  <OutfitWorker>Munka</OutfitWorker>
+  <OutfitSoldier>Katona</OutfitSoldier>
+  <OutfitNudist>Nudista</OutfitNudist>
 
 </LanguageData>

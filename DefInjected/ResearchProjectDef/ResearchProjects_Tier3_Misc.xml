@@ -1,27 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!--=============================== Tier 3: Hi-tech research bench ===================================-->
-
   <Firefoam.label>Oltóhab</Firefoam.label>
   <Firefoam.description>Lehetővé teszi habbal oltó gyártását. Ez egy biztonsági építmény, ami tűzzel érintkezve oltóhabot locsol szét.</Firefoam.description>
-
   <MoisturePump.label>Talajvízpumpa</MoisturePump.label>
   <MoisturePump.description>Lehetővé teszi talajvízpumpa gyártását, ami képes mocsarak lecsapolására.</MoisturePump.description>
-
   <GeothermalPower.label>Geotermikus energia</GeothermalPower.label>
   <GeothermalPower.description>Lehetővé teszi geotermikus erőmű építését, ami gejzírre helyezve kiesés nélkül szolgáltat áramot.</GeothermalPower.description>
-
   <HospitalBed.label>Kórházi ágy</HospitalBed.label>
   <HospitalBed.description>Lehetővé teszi kórházi ágy készítését, ami növeli a sikeres ellátás esélyét.</HospitalBed.description>
-
-  <MultiAnalyzer.label>Multianalizátor</MultiAnalyzer.label>
-  <MultiAnalyzer.description>Lehetővé teszi multianalizátor építését, ami növeli a kutatások sebességét, és magasabb szintű kutatási terveket engedélyez, ha laborasztal mellé helyezik.</MultiAnalyzer.description>
-
+  <TransportPod.label>Szállítókapszula</TransportPod.label>
+  <TransportPod.description>Lehetővé teszi rakétahajtású szállítókapszula építését, amivel embereket és készleteket lehet a bolygó távoli részeibe juttatni.</TransportPod.description>
   <MedicineProduction.label>Gyógyszer gyártás</MedicineProduction.label>
   <MedicineProduction.description>Lehetővé teszi gyógyszer gyártását gyógynövény, neutroamin és szövet kombinációjából.</MedicineProduction.description>
-
-  <TransportPod.label>szállítókapszula</TransportPod.label>
-  <TransportPod.description>Lehetővé teszi rakétahajtású szállítókapszula építését, amivel embereket és készleteket lehet a bolygó távoli részeibe juttatni.</TransportPod.description>
-  
+  <MultiAnalyzer.label>Multianalizátor</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Lehetővé teszi multianalizátor építését, ami növeli a kutatások sebességét, és magasabb szintű kutatási terveket engedélyez, ha laborasztal mellé helyezik.</MultiAnalyzer.description>
+  <LongRangeMineralScanner.label>Ásványletapogató</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.description>Lehetővé teszi nagy hatótávú ásványletapogató építését, ami képes az értékes anyagok (jáde, arany) detektálására közeli körzetekben (kivéve, ahol a letapogató áll).\n\nÁtlagosan 30 naponta van találat, 30 egységnyi körzetben.\n\nTöbb letapogató építése ugyanoda nem növeli a találatok számát.</LongRangeMineralScanner.description>
 </LanguageData>

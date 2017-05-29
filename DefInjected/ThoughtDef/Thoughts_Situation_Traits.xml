@@ -1,89 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <LanguageData>
-
   <MasochistPain.stages.0.label>enyhe fájdalom</MasochistPain.stages.0.label>
   <MasochistPain.stages.0.description>Aú... He he he... Hozzá bírnék szokni!</MasochistPain.stages.0.description>
-
   <MasochistPain.stages.1.label>közepes fájdalom</MasochistPain.stages.1.label>
   <MasochistPain.stages.1.description>Aú... Fáj, de imádom! Abba ne hagyd!</MasochistPain.stages.1.description>
-
   <MasochistPain.stages.2.label>erős fájdalom</MasochistPain.stages.2.label>
   <MasochistPain.stages.2.description>Aú... Azt hiszem valami eltört... Kitűnő érzés!</MasochistPain.stages.2.description>
-
   <MasochistPain.stages.3.label>fájdalom sokk</MasochistPain.stages.3.label>
   <MasochistPain.stages.3.description>Aúúú... Ez már a menyország?</MasochistPain.stages.3.description>
-
   <ProsthophileNoProsthetic.stages.0.label>bionikus testrészre vágyik</ProsthophileNoProsthetic.stages.0.label>
   <ProsthophileNoProsthetic.stages.0.description>A hús annyira behatárol! Bárcsak lenne valami mesterséges testrészem!</ProsthophileNoProsthetic.stages.0.description>
-
   <ProsthophileHappy.stages.0.label>bionikus testrészt kapott</ProsthophileHappy.stages.0.label>
   <ProsthophileHappy.stages.0.description>A modern technológia terméke lettem! Ezentúl mindenben jobb leszek!</ProsthophileHappy.stages.0.description>
-
   <ProsthophobeUnhappy.stages.0.label>bionikus testrészt kapott</ProsthophobeUnhappy.stages.0.label>
   <ProsthophobeUnhappy.stages.0.description>Mechanikus szörnyszülötté változtattak... Bárcsak lett volna választásom...</ProsthophobeUnhappy.stages.0.description>
-
   <BrawlerUnhappy.stages.0.label>közelharcos távolsági fegyverrel</BrawlerUnhappy.stages.0.label>
   <BrawlerUnhappy.stages.0.description>Utálok távolról lövöldözni. Közelről szeretem támadni az ellenfeleket!</BrawlerUnhappy.stages.0.description>
-
+  <PyromaniacHappy.stages.0.label>pyromaniac has incendiary weapon</PyromaniacHappy.stages.0.label>
+  <PyromaniacHappy.stages.0.description>It makes me think of flame and fire. I'm so happy.</PyromaniacHappy.stages.0.description>
   <ClothedNudist.stages.0.label>nudista ruhában</ClothedNudist.stages.0.label>
   <ClothedNudist.stages.0.description>Nudista vagyok és mégis hordanom kell ezeket a ruhákat. Nem elviselhetetlen, de kényelmetlenül érzem magam!</ClothedNudist.stages.0.description>
-
   <HappyNude.stages.0.label>meztelen nudista</HappyNude.stages.0.label>
   <HappyNude.stages.0.description>Meztelen vagyok és imádom! Annyira szabadnak és természetesnek érzem magam, szinte egy vagyok a világgal!</HappyNude.stages.0.description>
-
   <NightOwlDuringTheDay.stages.0.label>nappal éber éjjeli bagoly</NightOwlDuringTheDay.stages.0.label>
   <NightOwlDuringTheDay.stages.0.description>Nem szeretek nappal dolgozni.</NightOwlDuringTheDay.stages.0.description>
-
   <NightOwlDuringTheNight.stages.0.label>éjjel éber éjjeli bagoly</NightOwlDuringTheNight.stages.0.label>
   <NightOwlDuringTheNight.stages.0.description>Éjjel sokkal jobban érzem magam.</NightOwlDuringTheNight.stages.0.description>
-
   <Greedy.stages.0.label>nincs lenyűgöző szobája</Greedy.stages.0.label>
   <Greedy.stages.0.description>Kapzsi vagyok. Igazán lenyűgöző hálószobát akarok!</Greedy.stages.0.description>
-
   <Greedy.stages.1.label>nincs lenyűgöző szobája</Greedy.stages.1.label>
   <Greedy.stages.1.description>Kapzsi vagyok. A szobám szánalmas. Igazán lenyűgöző hálószobát akarok!</Greedy.stages.1.description>
-
   <Greedy.stages.2.label>nincs lenyűgöző szobája</Greedy.stages.2.label>
   <Greedy.stages.2.description>Kapzsi vagyok. A szobám közel sem elég jó. Igazán lenyűgöző hálószobát akarok!</Greedy.stages.2.description>
-
   <Greedy.stages.3.label>nincs lenyűgöző szobája</Greedy.stages.3.label>
   <Greedy.stages.3.description>Kapzsi vagyok. A szobám nem elég jó. Igazán lenyűgöző hálószobát akarok!</Greedy.stages.3.description>
-
   <Greedy.stages.4.label>nincs lenyűgöző szobája</Greedy.stages.4.label>
   <Greedy.stages.4.description>Kapzsi vagyok. A szobám még lehetne jobb. Igazán lenyűgöző hálószobát akarok!</Greedy.stages.4.description>
-
   <Jealous.stages.0.label>féltékeny</Jealous.stages.0.label>
   <Jealous.stages.0.description>Valakinek még az enyémnél is lenyűgözőbb a szobája!</Jealous.stages.0.description>
-
   <Ascetic.stages.0.label>szörnyű hálószoba</Ascetic.stages.0.label>
   <Ascetic.stages.0.description>A hálószobám pont olyan amilyennek lennie kell. Nagyon szerény és egyszerű.</Ascetic.stages.0.description>
-
   <Ascetic.stages.1.label>visszataszító hálószoba</Ascetic.stages.1.label>
   <Ascetic.stages.1.description>A hálószobám pont olyan amilyennek lennie kell. Nagyon szerény és egyszerű.</Ascetic.stages.1.description>
-
   <Ascetic.stages.2.label>unalmas hálószoba</Ascetic.stages.2.label>
   <Ascetic.stages.2.description>A hálószobám szerény és egyszerű. Tetszik.</Ascetic.stages.2.description>
-
   <Ascetic.stages.5.label>elég lenyűgöző hálószoba</Ascetic.stages.5.label>
   <Ascetic.stages.5.description>Nem szeretem, ha lenyűgöző a hálószobám.</Ascetic.stages.5.description>
-
   <Ascetic.stages.6.label>lenyűgöző hálószoba</Ascetic.stages.6.label>
   <Ascetic.stages.6.description>Nem szeretem, ha lenyűgöző a hálószobám.</Ascetic.stages.6.description>
-
   <Ascetic.stages.7.label>nagyon lenyűgöző hálószoba</Ascetic.stages.7.label>
   <Ascetic.stages.7.description>Nem szeretem, ha lenyűgöző a hálószobám.</Ascetic.stages.7.description>
-
   <Ascetic.stages.8.label>rendkívül lenyűgöző hálószoba</Ascetic.stages.8.label>
   <Ascetic.stages.8.description>Nem szeretem, ha lenyűgöző a hálószobám.</Ascetic.stages.8.description>
-
   <Ascetic.stages.9.label>hihetetlenül lenyűgöző hálószoba</Ascetic.stages.9.label>
   <Ascetic.stages.9.description>Nem szeretem, ha lenyűgöző a hálószobám.</Ascetic.stages.9.description>
-
   <Ascetic.stages.10.label>csodálatos hálószoba</Ascetic.stages.10.label>
   <Ascetic.stages.10.description>Nem szeretem, ha lenyűgöző a hálószobám.</Ascetic.stages.10.description>
-
   <Ascetic.stages.11.label>világ csodája</Ascetic.stages.11.label>
   <Ascetic.stages.11.description>Nem szeretem, ha lenyűgöző a hálószobám.</Ascetic.stages.11.description>
-
 </LanguageData>

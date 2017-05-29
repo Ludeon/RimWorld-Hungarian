@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <CookMealSimple.label>egyszerű étel készítése</CookMealSimple.label>
   <CookMealSimple.description>Étel készítése egyetlen hozzávalóból.</CookMealSimple.description>
   <CookMealSimple.jobString>Egyszerű ételt főz.</CookMealSimple.jobString>
   <CookMealSimpleCampfire.label>egyszerű étel sütése</CookMealSimpleCampfire.label>
   <CookMealSimpleCampfire.description>Étel sütése egyetlen hozzávalóból.</CookMealSimpleCampfire.description>
   <CookMealSimpleCampfire.jobString>Egyszerű ételt süt.</CookMealSimpleCampfire.jobString>
-
   <CookMealFine.label>finom étel készítése</CookMealFine.label>
   <CookMealFine.description>Bonyolultabb recept elkészítése, összetevők széles választékából.</CookMealFine.description>
   <CookMealFine.jobString>Finom ételt főz.</CookMealFine.jobString>
-
   <CookMealLavish.label>lakoma készítése</CookMealLavish.label>
   <CookMealLavish.description>Bonyolult recept elkészítése, összetevők széles választékából. A hozzávalók jó része kárba vész.</CookMealLavish.description>
   <CookMealLavish.jobString>Lakomát főz.</CookMealLavish.jobString>
-
+  <CookMealSurvival.label>túlélőcsomag készítése</CookMealSurvival.label>
+  <CookMealSurvival.description>Nyers húsból és növényekből készült csomagolt étel. A hozzávalók nagy része kárba vész.</CookMealSurvival.description>
+  <CookMealSurvival.jobString>Túlélőcsomagot készít.</CookMealSurvival.jobString>
 </LanguageData>

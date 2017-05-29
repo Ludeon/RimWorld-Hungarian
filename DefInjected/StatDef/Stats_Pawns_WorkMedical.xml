@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  <MedicalTendSpeed.label>ellátás sebesség</MedicalTendSpeed.label>
+  <MedicalTendSpeed.description>Milyen gyorsan lát el a személy sérüléseket és betegségeket.</MedicalTendSpeed.description>
+  <MedicalTendQuality.label>ellátás minősége</MedicalTendQuality.label>
+  <MedicalTendQuality.description>Milyen jól lát el a személy sérüléseket és betegségeket.</MedicalTendQuality.description>
   <MedicalOperationSpeed.label>operáló sebesség</MedicalOperationSpeed.label>
   <MedicalOperationSpeed.description>Milyen gyorsan távolít el testrészt vagy végez beültetést.</MedicalOperationSpeed.description>
-
-  <SurgerySuccessChance.label>műtét sikeresség</SurgerySuccessChance.label>
-  <SurgerySuccessChance.description>Annak valószínűsége, hogy a karakter sikeres műtétet végez. A kudarc elpazarolt időbe és orvosságba kerül, és katasztrofális károkat is okozhat a páciensnek.</SurgerySuccessChance.description>
-
-  <!-- <BaseHealingQuality.label>ellátás minősége</BaseHealingQuality.label> -->
-  <!-- <BaseHealingQuality.description>Doktorként a betegeknek adott ellátás alapminősége.</BaseHealingQuality.description> -->
-
-  <HealingQuality.label>ellátás minősége</HealingQuality.label>
-  <HealingQuality.description>Doktorként a betegeknek adott ellátás minősége.</HealingQuality.description>
-
-  
-  <HealingSpeed.label>gyógyítás sebessége</HealingSpeed.label>
-  <HealingSpeed.description>Doktorként milyen gyorsan gyógyítja a sebeket.</HealingSpeed.description>
-
+  <MedicalSurgerySuccessChance.label>operáció sikeresség esély</MedicalSurgerySuccessChance.label>
+  <MedicalSurgerySuccessChance.description>Operáció sikerességének esélye. A kudarc nem csak idő és gyógyszer veszteséggel jár, de a páciens szenvedhet maradandó károkat is. Ezt a százalékot befolyásolják a felhasznált eszközök és környezet is, valamint az operáció nehézsége.</MedicalSurgerySuccessChance.description>
 </LanguageData>

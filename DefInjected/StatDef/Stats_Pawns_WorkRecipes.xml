@@ -1,47 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Artistic recipes - speed not affected by skill. -->
-
   <SculptingSpeed.label>szobrász sebesség</SculptingSpeed.label>
   <SculptingSpeed.description>Milyen gyorsan képes a személy egy szobrot befejezni.</SculptingSpeed.description>
-
   <TailoringSpeed.label>varrás sebesség</TailoringSpeed.label>
   <TailoringSpeed.description>Milyen gyorsan képes a személy egy ruhát befejezni.</TailoringSpeed.description>
-
   <SmithingSpeed.label>kovácsolás sebesség</SmithingSpeed.label>
   <SmithingSpeed.description>Milyen gyorsan képes a személy fegyvereket, gépeket, lőszereket, szerszámokat kovácsolni.</SmithingSpeed.description>
-
-  <!-- Production recipes - speed affected by skill. -->
-
-  <CookSpeed.label>főzés sebesség</CookSpeed.label>
-  <CookSpeed.description>Milyen gyorsan képes a személy ételt készíteni.</CookSpeed.description>
-
-  <FoodPoisonChance.label>ételmérgezés esélye</FoodPoisonChance.label>
-  <FoodPoisonChance.description>Mekkora eséllyel lesz a személy által készített étel mérgező.</FoodPoisonChance.description>
-
-  <BrewingSpeed.label>sörfőzés sebesség</BrewingSpeed.label>
-  <BrewingSpeed.description>Milyen gyorsan képes a személy sört főzni.</BrewingSpeed.description>
-
-  <ButcheryFleshSpeed.label>húsfeldolgozás sebesség</ButcheryFleshSpeed.label>
-  <ButcheryFleshSpeed.description>Milyen gyorsan képes a személy egy állatot felbontani.</ButcheryFleshSpeed.description>
-
-  <ButcheryFleshEfficiency.label>húsfeldolgozás hatékonyság</ButcheryFleshEfficiency.label>
-  <ButcheryFleshEfficiency.description>Mennyi húst képes kinyerni a személy egy állatból.</ButcheryFleshEfficiency.description>
-
-  <ButcheryMechanoidSpeed.label>szétszerelés sebesség</ButcheryMechanoidSpeed.label>
-  <ButcheryMechanoidSpeed.description>Milyen gyorsan képes a személy egy mechanoidot szétszerelni.</ButcheryMechanoidSpeed.description>
-
-  <ButcheryMechanoidEfficiency.label>szétszerelés hatékonyság</ButcheryMechanoidEfficiency.label>
-  <ButcheryMechanoidEfficiency.description>Mennyi anyagot képes a személy kinyerni egy mechanoidból.</ButcheryMechanoidEfficiency.description>
-
-  <StonecuttingSpeed.label>kőfaragás sebesség</StonecuttingSpeed.label>
-  <StonecuttingSpeed.description>Milyen gyorsan képes a személy kődarabokból tömböket faragni.</StonecuttingSpeed.description>
-
-  <SmeltingSpeed.label>olvasztás sebesség</SmeltingSpeed.label>
-  <SmeltingSpeed.description>Milyen gyorsan képes a személy valamit beolvasztani.</SmeltingSpeed.description>
-
   <DrugProductionSpeed.label>Droggyártás sebesség</DrugProductionSpeed.label>
   <DrugProductionSpeed.description>Milyen gyorsan képes a személy drogot előállítani.</DrugProductionSpeed.description>
-
+  <StonecuttingSpeed.label>kőfaragás sebesség</StonecuttingSpeed.label>
+  <StonecuttingSpeed.description>Milyen gyorsan képes a személy kődarabokból tömböket faragni.</StonecuttingSpeed.description>
+  <CookSpeed.label>főzés sebesség</CookSpeed.label>
+  <CookSpeed.description>Milyen gyorsan képes a személy ételt készíteni.</CookSpeed.description>
+  <FoodPoisonChance.label>ételmérgezés esélye</FoodPoisonChance.label>
+  <FoodPoisonChance.description>Mekkora eséllyel lesz a személy által készített étel mérgező.</FoodPoisonChance.description>
+  <BrewingSpeed.label>sörfőzés sebesség</BrewingSpeed.label>
+  <BrewingSpeed.description>Milyen gyorsan képes a személy sört főzni.</BrewingSpeed.description>
+  <ButcheryFleshSpeed.label>húsfeldolgozás sebesség</ButcheryFleshSpeed.label>
+  <ButcheryFleshSpeed.description>Milyen gyorsan képes a személy egy állatot felbontani.</ButcheryFleshSpeed.description>
+  <ButcheryMechanoidSpeed.label>szétszerelés sebesség</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.description>Milyen gyorsan képes a személy egy mechanoidot szétszerelni.</ButcheryMechanoidSpeed.description>
+  <MechanoidOperationSuccessChance.label>mechanoid operáció sikeresség esély</MechanoidOperationSuccessChance.label>
+  <MechanoidOperationSuccessChance.description>Mechanoidon végzett operáció sikerességének esélye. A kudarc nem csak idő és alkatrész veszteséggel jár, de az alany szenvedhet maradandó károkat is.</MechanoidOperationSuccessChance.description>
+  <ButcheryFleshEfficiency.label>húsfeldolgozás hatékonyság</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.description>Mennyi húst képes kinyerni a személy egy állatból.</ButcheryFleshEfficiency.description>
+  <ButcheryMechanoidEfficiency.label>szétszerelés hatékonyság</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.description>Mennyi anyagot képes a személy kinyerni egy mechanoidból.</ButcheryMechanoidEfficiency.description>
+  <SmeltingSpeed.label>olvasztás sebesség</SmeltingSpeed.label>
+  <SmeltingSpeed.description>Milyen gyorsan képes a személy valamit beolvasztani.</SmeltingSpeed.description>
 </LanguageData>

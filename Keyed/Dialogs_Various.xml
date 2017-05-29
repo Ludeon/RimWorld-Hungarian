@@ -7,6 +7,8 @@
 
   <!-- Game updated to new version -->
   <GameUpdatedToNewVersionInitial>A RimWorld frissítve lett erről a verzióról: {0} erre a verzióra: {1}.\n\nLehetséges, hogy a régi modok és mentések többé nem működnek.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionSavesIncompatible>Ez a régi verzió mentett állásainak és modjainak működésképtelenségét okozhatja.</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesCompatible>A régi verzió mentett állásainak működnie kéne, de a modokkal gond lehet.</GameUpdatedToNewVersionSavesCompatible>
   <GameUpdatedToNewVersionNonSteam>Mivel ezen a verzión nincs másolásvédelem, két különböző helyre is feltelepítheted, így játszhatsz régi és új verzióval is párhuzamosan.</GameUpdatedToNewVersionNonSteam>
   <GameUpdatedToNewVersionSteam>Ha régebbi verzióval akarsz tovább játszani, használhatod a Steam 'Beta' szolgáltatását.\n\n1. A Steam fiókodban jobb klikk a 'RimWorld'-ön.\n2. Klikk a Beállitásokra.\n3. Klikk a 'Betas' fülre.\n4. Válaszd ki a kívánt verziót.\n\nAz régebbi verziók egy idő után törölve lesznek - de nem kell attól tartani, hogy a játékodat félbevágjuk.\n\nFigyelem, ha a modkészítők frissítik a modjukat az új verzióra, azok valószínűleg nem fognak többé működni az régebbi verziókkal. Kapcsold ki az automatikus frissítést, ennek megakadályozására.</GameUpdatedToNewVersionSteam>
 
@@ -24,8 +26,11 @@
   <ErrorWhileLoadingMap>Hiba történt a térkép betöltése közben. Ellenőrizze a hibanaplót!</ErrorWhileLoadingMap>
 
   <!-- Unloaded mod with an assembly -->
-  <ModWithAssemblyWasUnloaded>A játék nem tudja teljesen törölni a deaktivált modok által megváltozott kódot.\n\nJavasolt a játékot újraindítani és a modokat tisztán betölteni.</ModWithAssemblyWasUnloaded>
-
+  <!-- <ModWithAssemblyWasUnloaded>A játék nem tudja teljesen törölni a deaktivált modok által megváltozott kódot.\n\nJavasolt a játékot újraindítani és a modokat tisztán betölteni.</ModWithAssemblyWasUnloaded> -->
+  <ModsChanged>Megváltozott a modlista. A játék automatikusan újraindul.</ModsChanged>
+  <FailedToRestart>Valami gond volt újraindítás közben. Nem sikerült teljesen megszabadulni az eltávolított modoktól, ezek még mindig aktívak lehetnek.\n\nAjánlott teljesen kilépni a játékból és tisztán újraindítani.</FailedToRestart>
+  <Restarting>Újraindítás</Restarting>
+  
   <!-- Missing Steam -->
   <SteamClientMissing>Steam API indítása sikertelen. Lehetséges okok:\n\n-Steam nem fut.\n-Steam-en kívülről indítva steam_appid.txt nélkül.\n-Steam-étől eltérő jogosultságokkal indítva (pl. "rendszergazdaként").\n\nEgy újraindítás a legtöbb esetben segíthet.\n\nA játék eme verziójához Steam szükséges, ezért most kilép.</SteamClientMissing>
 
@@ -156,6 +161,11 @@
   <BillStoreMode_BestStockpile>Kerüljön a legjobb raktárba</BillStoreMode_BestStockpile>
   <BillStoreMode_NearestStockpileAnyPriority>Kerüljön a legközelebbi raktárba</BillStoreMode_NearestStockpileAnyPriority>
 
+  <PauseWhenSatisfied>Szünetel ekkor</PauseWhenSatisfied>
+  <UnpauseWhenYouHave>Folytat ekkor</UnpauseWhenYouHave>
+  <Paused>Szünetel</Paused>
+  <Unpause>Folytat</Unpause>
+  
   <!-- Info card -->
   <Damage>Sebzés</Damage>
   <Accuracy>Pontosság</Accuracy>
@@ -192,7 +202,7 @@
   <CoverEffectiveness>Fedezék hatékonysága</CoverEffectiveness>
   <CoverEffectivenessExplanation>Mennyire hatékonyan fogja fel a lövéseket az adott fedezék. Nagyobb szám több elkerült lövést jelent.</CoverEffectivenessExplanation>
   <MedicineXpGainFactor>Tapasztalatszerzési faktor</MedicineXpGainFactor>
-  <BodyPartEfficiency>Testrész hatékonyság</BodyPartEfficiency>
+  <!-- <BodyPartEfficiency>Testrész hatékonyság</BodyPartEfficiency> -->
   <MoodChange>Hangulat változás</MoodChange>
   <Wildness>Vadság</Wildness>
   <WildnessExplanation>A vadabb állatokat nehezebb megszelídíteni, idomítani és tartani.</WildnessExplanation>
@@ -220,6 +230,7 @@
   <TraderHasNoMore>Nincs több a kereskedőnél</TraderHasNoMore>
   <ColonyHasNoMore>Nincs több nálad</ColonyHasNoMore>
   <TraderWillNotTrade>Nem érdekli</TraderWillNotTrade>
+  <Negotiator>Alkusz</Negotiator>
   <NegotiatorTalkingImpaired>Az alkuszod, {0}, egészsége miatt nem tud rendesen beszélni.\n\nEz befolyásolja az árakat.\n\nHasználj egészségesebb alkuszt.</NegotiatorTalkingImpaired>
   <ConfirmTraderShortFunds>A kereskedőnek nincs elég ezüstje ehhez az egyezséghez. Mindenképp megkötöd?</ConfirmTraderShortFunds>
   <SortBy>Rendezés</SortBy>
@@ -243,6 +254,7 @@
   <CaravanConfigTab>Konfiguráció</CaravanConfigTab>
   <CaravanMustHaveAtLeastOneColonist>Legalább egy járóképes gyarmatost a karavánhoz kell rendelni.</CaravanMustHaveAtLeastOneColonist>
   <CaravanCouldNotFindExitSpot>Nem található érvényes kilépési pont.</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindPackingSpot>Nem található érvényes rakodási hely. Győződj meg róla, hogy a kiválasztott kilépési pont elérhető: {0}.</CaravanCouldNotFindPackingSpot>
   <CaravanCouldNotFindReachableExitSpot>Figyelem: némelyik gyarmatos nem éri el a kilépési pontot.</CaravanCouldNotFindReachableExitSpot>
   <CaravanPawnIsUnreachable>{0} nem elérhető egyik hozzárendelt gyarmatos számára sem.</CaravanPawnIsUnreachable>
   <CaravanItemIsUnreachableSingle>{0} nem elérhető egyik hozzárendelt gyarmatos számára sem.</CaravanItemIsUnreachableSingle>
@@ -252,15 +264,20 @@
   <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
   <InfiniteDaysWorthOfFoodInfo>Soha nem fogy ki az élelemből</InfiniteDaysWorthOfFoodInfo>
   <DaysWorthOfFoodInfo>{0} napi élelem</DaysWorthOfFoodInfo>
+  <DaysWorthOfFoodInfoRot>{0} napi élelem fog elrohadni {1} nap múlva</DaysWorthOfFoodInfoRot>
   <DaysWorthOfFoodTooltip>Kb. ennyi nap után fog a karaván kifogyni az élelemből.\n\nEmberi és állati fogyasztás is bele van számítva, a legrosszabb eshetőséggel számolva. Ennyi nap elteltével legalább egy személy vagy állat éhezni fog.</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip_CanEatLocalPlants>A jelenlegi évszak, hőfok, és környezet alapján kijelenthető, hogy a növényevő állatok képesek lesznek helyi táplálékot találni. Ez azonban bármikor változhat.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
+  <DaysWorthOfFoodTooltip_CantEatLocalPlants>A jelenlegi évszak, hőfok, és környezet alapján kijelenthető, hogy a növényevő állatok NEM lesznek képesek helyi táplálékot találni. Ez azonban bármikor változhat.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
   <DaysWorthOfFoodWarningDialog>A karavánod már csak {0} napi élelemmel rendelkezik, hamarosan éhezni kezd.\n\nBiztosan létre akarod hozni?</DaysWorthOfFoodWarningDialog>
   <DaysWorthOfFoodWarningDialog_NoFood>A karavánod kifogyott az élelemből, hamarosan éhezni kezd.\n\nBiztosan létre akarod hozni?</DaysWorthOfFoodWarningDialog_NoFood>
+  <CaravanFoodWillRotSoonWarningDialog>A hozzárendelt élelem nagy része nemsoká elrohad.\n\nBiztosan meg akarod alakítani ezt a karavánt?</CaravanFoodWillRotSoonWarningDialog>
   <NoExitDirectionForCaravanChosen>Választanod kell egy kilépési irányt a karaván számára.</NoExitDirectionForCaravanChosen>
   <NoCaravanExitDirectionAvailable>(kilépési irány nem érhető el)</NoCaravanExitDirectionAvailable>
   <ExitDirection>Kilépési irány</ExitDirection>
   <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
   <ItemWeightTip>A tárgy tömege.</ItemWeightTip>
   <MarketValueTip>Piaci ár</MarketValueTip>
+  <DaysUntilRotTip>Az átlaghőmérséklet alapján ez a tárgy ennyi idő múlva kezd rohadni.</DaysUntilRotTip>
   <MassCapacity>Kapacitás</MassCapacity>
   <Mass>Tömeg</Mass>
   <EquipmentAndApparelMass>Felszerelés és ruházat tömege</EquipmentAndApparelMass>
@@ -270,6 +287,7 @@
   <ColonistsSection>Gyarmatosok</ColonistsSection>
   <PrisonersSection>Foglyok</PrisonersSection>
   <AnimalsSection>Állatok</AnimalsSection>
+  <EstimatedTimeToDestinationButton>Becs. érkezési idő</EstimatedTimeToDestinationButton>
 
   <!-- Split caravan -->
   <SplitCaravan>Karaván felosztása</SplitCaravan>
@@ -346,12 +364,23 @@
   <DrugUsageTipForJoy>Élvezet javítására\n\nA drog használható arra, hogy növelje az élvezetet és természetesen függőség kielégítésére is.</DrugUsageTipForJoy>
   <DrugUsageTipScheduled>Ütemezés szerint\n\nAz előre beállított időpontokban fogyasztható, ha a többi feltétel is ki van elégítve.\n\nA drog használható arra is, hogy feldobja a hangulatot és természetesen függőség kielégítésére is.</DrugUsageTipScheduled>
 
+  <!-- Medical settings -->
+  <MedGroupDefaults>Alapértelmezés</MedGroupDefaults>
+  <MedGroupColonist>Gyarmatos</MedGroupColonist>
+  <MedGroupImprisonedColonist>Fogoly</MedGroupImprisonedColonist>
+  <MedGroupColonyAnimal>Háziállat</MedGroupColonyAnimal>
+  <MedGroupNeutralAnimal>Idegen állat</MedGroupNeutralAnimal>
+  <MedGroupNeutralFaction>Semleges frakció</MedGroupNeutralFaction>
+  <MedGroupHostileFaction>Ellenséges frakció</MedGroupHostileFaction>
+  
   <!-- Growing -->
   <NoGrowerCanPlant>A {0} vetéséhez szükséges "Földművelés" készség szintje: {1}.\n\nEgyik munkaképes emberednek sincs ilyenje, ezért ez a mag nem lesz elvetve.</NoGrowerCanPlant>
 
   <!-- Abandon home -->
   <ConfirmAbandonHomeWithColonyPawns>Még van itt gyarmatosod vagy állatod. Biztosan magára akarod hagyni?\n\nA következő állat(ok) vagy személy(ek) maradnának hátra:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
-
+  <ConfirmAbandonHomeNegativeThoughts>{0} elhagyása a következő gondolatokat fogja kiváltani a következő emberekből:</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>Mindenki:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+ 
   <!-- Move caravan and leave prisoners and animals behind -->
   <ConfirmLeavePrisonersOrAnimalsBehind>Még maradt itt fogoly vagy állat és az egyetlen karaván, amihez csatlakozhatnának.\n\nHa itt hagyod őket, nem viheted el őket, amíg vissza nem térsz. A foglyok meg fognak szökni, az állatok várnak rád.\n\nHa nem indulsz útnak, csatlakozni fognak hozzád, amint lehetséges.\n\nBiztosan el akarod indítani a karavánt?</ConfirmLeavePrisonersOrAnimalsBehind>
 

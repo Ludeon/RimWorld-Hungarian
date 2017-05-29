@@ -2,6 +2,8 @@
 <LanguageData>
 
   <JumpToLocation>Helyszínhez ugrás</JumpToLocation>
+  <PostponeLetter>Halaszt</PostponeLetter>
+  <RejectLetter>Elutasít</RejectLetter>
 
   <LetterLabelFirstSummerWarning>Nyár</LetterLabelFirstSummerWarning>
   <FirstSummerWarning>Elkezdődött a nyár! De a tél közeleg.\n\nA növények nem nőnek a téli hidegben. Raktározz el elegendő ételt, amíg teheted!.\n\nÉpíts hűtőházat, ami megakadályozza, hogy az étel megromoljon!\n\nÉs vegyél, lopj, vagy gyárts télikabátokat, különben megfagysz odakinn.</FirstSummerWarning>
@@ -62,7 +64,8 @@
   <LetterLeaderChanged>{0} már nem {3} ennek:{1}.\n\nAz új {3}:{2}.</LetterLeaderChanged>
 
   <MentalBreakLetterLabel>Idegösszeomlás</MentalBreakLetterLabel>
-  <MentalBreakReason>Oka: {0}.</MentalBreakReason>
+<!--   <MentalBreakReason>Oka: {0}.</MentalBreakReason> -->
+  <FinalStraw>Az utolsó csepp: {0}.</FinalStraw>
 
   <!-- Related pawns -->
   <LetterLabelNoticedRelatedPawns>Rokonság</LetterLabelNoticedRelatedPawns>
@@ -70,7 +73,8 @@
   <LetterRelatedPawnsRaidFriendly>Az érkező baráti csoportban ({0}) olyan személy van, aki rokona valamelyik gyarmatosodnak:</LetterRelatedPawnsRaidFriendly>
   <LetterRelatedPawnsNeutralGroup>Az érkező csoportban olyan személy van, aki rokona valamelyik gyarmatosodnak:</LetterRelatedPawnsNeutralGroup>
   <LetterRelatedPawnsTradeShip>Az űrkereskedő olyan személyt árul, aki rokona valamelyik gyarmatosodnak:</LetterRelatedPawnsTradeShip>
-  <LetterRelatedPawnsTradingWithFactionBase>A frakció bázisa olyan embereket árul, akiknek kapcsolata van gyarmatosaiddal vagy foglyaiddal:</LetterRelatedPawnsTradingWithFactionBase>
+<!--   <LetterRelatedPawnsTradingWithFactionBase>A frakció bázisa olyan embereket árul, akiknek kapcsolata van gyarmatosaiddal vagy foglyaiddal:</LetterRelatedPawnsTradingWithFactionBase> -->
+  <LetterRelatedPawnsTradingWithSettlement>A frakció bázisa olyan embereket árul, akiknek kapcsolata van gyarmatosaiddal vagy foglyaiddal:</LetterRelatedPawnsTradingWithSettlement>
   <LetterRelatedPawnsTradingWithOtherCaravan>A karaván olyan embereket árul, akiknek kapcsolata van gyarmatosaiddal vagy foglyaiddal:</LetterRelatedPawnsTradingWithOtherCaravan>
 
   <RelationshipAppendedLetterSuffix>(kapcsolat)</RelationshipAppendedLetterSuffix>
@@ -145,5 +149,14 @@
   <!-- Pawns lost due to map countdown -->
   <LetterLabelPawnsLostDueToMapCountdown>Hátrahagyva</LetterLabelPawnsLostDueToMapCountdown>
   <LetterPawnsLostDueToMapCountdown>A következő személyek vagy állatok lettek hátrahagyva:\n\n{0}</LetterPawnsLostDueToMapCountdown>
+  
+  <!-- Quest completed -->
+  <LetterLabelDefeatAllEnemiesQuestCompleted>Küldetés teljesítve</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>Legyőzted az ellenséges őrhelyet!\n\nA fizetséget {0} elküldte, és a kapcsolat velük ennyit javult: {1}.</LetterDefeatAllEnemiesQuestCompleted>
+
+  <!-- Found lump of precious resources -->
+  <LetterLabelFoundPreciousLump>Értékes ásványok</LetterLabelFoundPreciousLump>
+  <LetterFoundPreciousLump>Nagy hatótávú ásvány-letapogatód talált egy telér értékes alapanyagot.\n\nNem lehet tudni, hogy őrzik-e, ha egyáltalán.</LetterFoundPreciousLump>
+  
 
 </LanguageData>

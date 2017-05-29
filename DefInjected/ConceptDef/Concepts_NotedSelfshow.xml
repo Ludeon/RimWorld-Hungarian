@@ -1,93 +1,63 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <FormCaravan.label>Karaván alakítása</FormCaravan.label>
-  <FormCaravan.helpText>Karavánokat hozhatsz létre, amiket szétküldhetsz a világ minden részére!\n\nA "Világ" fülön, válaszd ki a kolóniád és klikkelj a "karaván alakítása" gombra.</FormCaravan.helpText>
-
   <CameraDolly.label>Kamera mozgatás</CameraDolly.label>
   <CameraDolly.helpText>Mozgasd a kamerát a középső egér gomb lenyomása közben az egér csúsztatásával, vagy a WASD billentyűkkel.</CameraDolly.helpText>
-
   <CameraZoom.label>Zoom</CameraZoom.label>
   <CameraZoom.helpText>Közelíteni és távolítani egér görgővel tudsz, vagy a T és G billentyűkkel.</CameraZoom.helpText>
-
   <TimeControls.label>Időkontroll</TimeControls.label>
   <TimeControls.helpText>Fel tudod gyorsítani, lelassítani, vagy megállítani az időt a képernyő jobb-alsó sarkában található idővezérlővel</TimeControls.helpText>
-
   <Pause.label>Szünet</Pause.label>
   <Pause.helpText>A {Key:TogglePause} megállítja a játékot.\n\nHa a játék áll, akkor is tudsz utasításokat osztani.\n\nNe feledd, ha a dolgok kaotikussá válnak: {Key:TogglePause}!</Pause.helpText>
-
   <Stockpiles.label>Jelölj ki raktárterületet</Stockpiles.label>
   <Stockpiles.helpText>A gyarmatosoknak kell egy hely, ahová pakolhatnak. Jelölj ki egy raktárterületet, ahová a tárgyakat szállíthatják.\n\nMegtalálod az "Építés" menüben, "Körzetek" alatt.</Stockpiles.helpText>
-
   <Forbidding.label>Interakció engedélyezése</Forbidding.label>
   <Forbidding.helpText>A gyarmatosok nem fognak olyan dolgokhoz nyúlni amik "Tiltott"-ak.\n\nVálaszd ki a földet érési területhez közeli tárgyakat és nyomj F-et, hogy felold a tiltást róluk.</Forbidding.helpText>
-
   <GrowingFood.label>Jelölj ki kertet</GrowingFood.label>
   <GrowingFood.helpText>Ahhoz, hogy embereid élelmet termesszenek, el kell helyezned egy "Kert"-et, az "Építés" menüt használva.\n\nCsak termőföldet lehet kijelölni erre.</GrowingFood.helpText>
-
   <EquippingWeapons.label>Fegyverezz fel valakit</EquippingWeapons.label>
   <EquippingWeapons.helpText>Ahhoz, hogy gyarmatosod felfegyverezze magát, válaszd ki őt, és jobb-klikkelj a fegyveren.\n\nA kezdő hely közelében találsz fegyvert.</EquippingWeapons.helpText>
-
   <Alerts.label>Riasztások</Alerts.label>
   <Alerts.helpText>A kép jobb oldalán feltűnő riasztások felhívják a figyelmedet olyan eseményekre, amikkel foglalkoznod kell.\n\nNe hagyd ezeket figyelmen kívül!</Alerts.helpText>
-
   <Mining.label>Bányászat</Mining.label>
   <Mining.helpText>Kijelölheted, hogy embereid hol bányásszanak, ha megnyitod az "Építés" menüt és kiválasztod a "Parancsok" kategóriát.\n\nNémely kitermelhető cella acélt, aranyat, plasztacélt és más hasznos ásványokat tartalmazhat.</Mining.helpText>
-
   <WorkTab.label>Prioritások</WorkTab.label>
   <WorkTab.helpText>Minden emberednek beállíthatod feladatait a "Beosztás" menüben, a képernyő bal-alsó sarkában.\n\nMindig a legnagyobb prioritású munkát fogják elvégezni, amit találnak.\n\nA lakók nem fogják azokat a feladatokat megcsinálni, amik nincsenek nekik beállítva.\n\nHa egy munka senkinek sincs beállítva, akkor senki se fogja elvégezni.</WorkTab.helpText>
-
   <ForbiddingDoors.label>Áthaladás tiltása</ForbiddingDoors.label>
   <ForbiddingDoors.helpText>Letilthatod a gyarmatosok és szelíd állatok adott ajtón való áthaladását.\n\nEz nem zárja be az ajtót, mivel az mindig zárva van, ellenségek nem jutnak át rajta. Ez csak utasítja a gyarmatosokat, hogy ne használják ezt az ajtót. Nem normális mentális állapotú emberek ezt figyelmen kívül hagyhatják.</ForbiddingDoors.helpText>
-
   <CoverAndShooting.label>Fedezék és lövészet</CoverAndShooting.label>
   <CoverAndShooting.helpText>Távolsági harcban a fedezék a legfontosabb.\n\nEgy fedezék csak akkor működik, ha az embered érinti és az ellenség és közte helyezkedik el.\n\nFalak sarkai is megfelelnek, kihajolva lőhetnek mögülük.\n\nA legtöbb dolog használható fedezékként, de egyes dolgok jobbak, mint mások. Egy fa mögött lenni jobb, mint a semmi, de homokzsákok mögött lenni még jobb.</CoverAndShooting.helpText>
-
+  <FormCaravan.label>Karaván alakítása</FormCaravan.label>
+  <FormCaravan.helpText>Karavánokat hozhatsz létre, amiket szétküldhetsz a világ minden részére!\n\nA "Világ" fülön, válaszd ki a kolóniád és klikkelj a "karaván alakítása" gombra.</FormCaravan.helpText>
   <AnimalTaming.label>Állatszelídítés</AnimalTaming.label>
   <AnimalTaming.helpText>Lehetséges vadállatokat megszelídíteni. A gyarmatosok ételt adnak nekik és megpróbálnak kötődést kialakítani velük. Vigyázat, némely állat erőszakosan reagálhat erre! </AnimalTaming.helpText>
-
   <AnimalTraining.label>Háziállat idomítása</AnimalTraining.label>
   <AnimalTraining.helpText>A szelídített állatoknak különböző képességeket taníthatsz a "Idomít" fülön.\n\nÁllatokat nem lehet állandóan idomítani, rendszeres szünetekre van szükségük.</AnimalTraining.helpText>
-
   <InfoCard.label>Infokártya</InfoCard.label>
   <InfoCard.helpText>Az infokártya részletes adatokkal szolgál minden tárgyról, személyről vagy épületről.\n\nVálassz ki egy személyt és kattints az 'i'-re a információs panelen.</InfoCard.helpText>
-
   <StorageTab.label>Raktár fül</StorageTab.label>
   <StorageTab.helpText>Testre szabhatod a raktárkörzeteket, ha kiválasztod őket és megnyitod a "Raktár" fület, a bal-alsó sarokban lévő információs panel tetején.</StorageTab.helpText>
-
   <HomeArea.label>Lakókörzetek</HomeArea.label>
   <HomeArea.helpText>A "Lakókörzet" alapján tudják a kolónia lakók, hogy hol kell takarítani és tüzet oltani.\n\n"A Lakókörzet" meghatározható az "Építés" menüben a "Körzetek" kategória alatt.</HomeArea.helpText>
-
   <SpoilageAndFreezers.label>Romlás és hűtő</SpoilageAndFreezers.label>
   <SpoilageAndFreezers.helpText>A legtöbb élelem relatív rövid idő alatt megromlik.\n\nEnnek megakadályozására fagyasztót építhetsz.\n\nEhhez építs egy zárt szobát hűtővel a falban, és állítsd a gépet negatív hőmérsékletre.\n\nA fagyott étel sohasem romlik meg.</SpoilageAndFreezers.helpText>
-
   <Deterioration.label>Állag romlás</Deterioration.label>
   <Deterioration.helpText>A szabad ég alatt fekvő tárgyak állapota folyamatosan romlik.\n\nHa ezt szeretnéd megakadályozni, tárold őket tető alatt.</Deterioration.helpText>
-
   <HostilityResponse.label>Viselkedés ellenséggel</HostilityResponse.label>
   <HostilityResponse.helpText>Megadhatod a gyarmatosok alapértelmezett viselkedését ellenséggel való találkozás esetére, (pl. megvadult állat).\n\n"Menekül", "Támad", "Figyelmen kívül hagy" a három lehetőség. Az információs panelen elérhető ez a beállítás, illetve a "Felszerelés / Drog" fülön is.</HostilityResponse.helpText>
-
   <AllowedAreas.label>Megengedett körzetek</AllowedAreas.label>
   <AllowedAreas.helpText>Gyarmatosok és háziállatok is hozzárendelhetők "megengedett körzetekhez". Ez megakadályozza, hogy körzeten kívüli célpontokhoz menjenek.\n\nEz például használható arra, hogy megtiltsd a kijárást.\n\nTöbb megengedett körzet is definiálható és hozzárendelheted őket különböző gyarmatosokhoz és állatokhoz.\n\nHozz létre, törölj és rendelj hozzá megengedett körzeteket a "Korlátozások" fülön. A körzeteket a "Megengedett körzet kiterjesztése" és "Megengedett körzet törlése" parancsokkal jelölheted ki az "Építés" menüben.</AllowedAreas.helpText>
-
   <MedicalOperations.label>Orvosi műtétek</MedicalOperations.label>
   <MedicalOperations.helpText>Ahhoz, hogy egy sebészeti beavatkozást (pl.: belső szervek kivétele, protézis beültetése) elvégezzenek, nyisd meg a gyarmatos "Egészség" adatlapját, majd válts a "Műtétek" fülre. Itt leadhatod a munka megrendelését.</MedicalOperations.helpText>
-
   <TimeAssignments.label>Időbeosztás</TimeAssignments.label>
   <TimeAssignments.helpText>A "Korlátozások" menüben megadhatod, hogy a nap mely óráiban, mit csináljanak a gyarmatosok.</TimeAssignments.helpText>
-
   <ManualWorkPriorities.label>Kézi prioritások</ManualWorkPriorities.label>
   <ManualWorkPriorities.helpText>Rimworld egyik legfontosabb része a jó beosztás beállítások használata.\n\nHa ez rosszul van beállítva, akkor fontos munkák maradnak hosszú ideig elvégezetlenül, miközben a gyarmatosok az idejüket vesztegetik kevésbé fontos feladatokkal.\n\nHogy jobb irányításod legyen e fölött, használhatsz kézi prioritásokat a "Beosztások" fülön.\n\nEbben a módban minden gyarmatosnak van egy prioritás száma minden munkatípushoz. A gyarmatosok az 1-es prioritású munkát fogják elvégezni balról jobbra, utána a 2-est balról jobbra és így tovább.\n\nEzen számok okos beállítása nélkülözhetetlen egy jól működő automatizált kolóniához.</ManualWorkPriorities.helpText>
-
   <GettingMoreTraders.label>Aktívabb kereskedelem</GettingMoreTraders.label>
   <GettingMoreTraders.helpText>Több karaván fog meglátogatni, ha több frakcióval vagy szövetségben.\n\nHa nincsen szövetségesed, egy karaván sem fog meglátogatni!\n\nA kommunikációs konzol használatával fizethetsz azért, hogy más frakciók karavánt küldjenek.</GettingMoreTraders.helpText>
-
   <InspectRoomStats.label>Szoba statisztika</InspectRoomStats.label>
   <InspectRoomStats.helpText>Egy szoba hatását, gazdagságát és szépségét is megnézheted, bekapcsolod a szoba statisztikák kijelzését a jobb alsó sarokban.</InspectRoomStats.helpText>
-
   <Outfits.label>Ruházat</Outfits.label>
   <Outfits.helpText>A gyarmatosok automatikusan megpróbálják a legújabb, legjobb minőségű ruházatot viselni. Nincs szükség rá, hogy kézzel rendeld hozzájuk ezeket, bár megteheted, ha akarod.\n\nHogy korlátozd ruházkodásukat, nyisd meg a "Felszerelés / Drog" fület és használd a "Felszerelések kezelése" felületet.</Outfits.helpText>
-
   <FirePreparation.label>Felkészülni a tüzekre</FirePreparation.label>
   <FirePreparation.helpText>Tüzek nagyon könnyen leégethetik a kolóniát. Hogy ezt megakadályozd, fel kell készülnöd rá, mielőtt megtörténik. 
   \nA következő ötletek segítenek csökkenteni a tűz okozta károkat:
@@ -95,17 +65,12 @@
   \n2. Használj kevésbé éghető anyagokat a fa olcsó és könnyű vele dolgozni, de nagyon jól ég.
   \n3. Építs tűzfalakat, hogy megakadályozd a kolónia felé tartó bozóttüzeket. Egy 3-4 cella széles betonfal általában megállítja a terjedő tüzet.
   </FirePreparation.helpText>
-
   <HistoryTab.label>Napló</HistoryTab.label>
   <HistoryTab.helpText>Kolóniád fejlődésének történetét nyomon követheted a "Napló" menüpontban a képernyő alján.</HistoryTab.helpText>
-
   <ClickingMessages.label>Értesítésre klikk</ClickingMessages.label>
   <ClickingMessages.helpText>Az értesítésekre bal fentre kattintva a kamera a kérdéses helyre ugrik.</ClickingMessages.helpText>
-
   <ShotAccuracyTooltip.label>Lövés pontosság</ShotAccuracyTooltip.label>
   <ShotAccuracyTooltip.helpText>Egy lövés pontosságának kalkulációi bármikor megtekintethetők.\n\nEhhez válaszd ki a lövészt és vidd az egeret a célpont fölé! A tooltipben láthatod a találat esélyét és azt is, hogy ehhez milyen faktorok járulnak hozzá.</ShotAccuracyTooltip.helpText>
-
   <FriendlyFireSafety.label>Baráti tűz</FriendlyFireSafety.label>
   <FriendlyFireSafety.helpText>Baráti tűz soha nem fordul elő, ha lövész társai közelében van.\n\nPéldául nyugodtan elhelyezhető egy kardforgató gyarmatos lövész társa előtt, ha nincsenek túl messze egymástól. A lövész társa válla fölött fog tüzelni.\n\nEz egy jó módszer arra, hogy a közel-, és a távolsági harcot kombináld.</FriendlyFireSafety.helpText>
-
-  </LanguageData>
+</LanguageData>

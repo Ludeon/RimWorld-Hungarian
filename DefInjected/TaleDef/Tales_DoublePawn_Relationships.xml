@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <BondedWithAnimal.label>kötődés alakult ki</BondedWithAnimal.label>
   <BondedWithAnimal.rulePack.rulesStrings.0>tale_noun->Ahogy [human_nameShortDef] és [animal_nameShortDef] egymásra találnak</BondedWithAnimal.rulePack.rulesStrings.0>
   <BondedWithAnimal.rulePack.rulesStrings.1>image->[human_nameFull] és [animal_nameFull] közel kerül egymáshoz, [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.1>
@@ -13,7 +12,6 @@
   <BondedWithAnimal.rulePack.rulesStrings.8>desc_sentence->[animal_nameShortDef] álmosnak tűnik és szeretet-ittasnak.</BondedWithAnimal.rulePack.rulesStrings.8>
   <BondedWithAnimal.rulePack.rulesStrings.9>desc_sentence->[animal_nameShortDef] kihúzza magát és nemesnek mutatkozik.</BondedWithAnimal.rulePack.rulesStrings.9>
   <BondedWithAnimal.rulePack.rulesStrings.10>desc_sentence->[animal_nameShortDef] pozitívan reagál.</BondedWithAnimal.rulePack.rulesStrings.10>
- 
   <BecameLover.label>szeretők lettek</BecameLover.label>
   <BecameLover.rulePack.rulesStrings.0>tale_noun->ahogy [firstPawn_nameShortDef] és [secondPawn_nameShortDef] szeretők lesznek</BecameLover.rulePack.rulesStrings.0>
   <BecameLover.rulePack.rulesStrings.1>image->[firstPawn_nameFull], [circumstance_group], ahogy édes semmiségeket suttog [secondPawn_nameFull] fülébe</BecameLover.rulePack.rulesStrings.1>
@@ -30,7 +28,6 @@
   <BecameLover.rulePack.rulesStrings.12>desc_sentence->[firstPawn_nameShortDef] és [secondPawn_nameShortDef] stilisztikailag kötődnek.</BecameLover.rulePack.rulesStrings.12>
   <BecameLover.rulePack.rulesStrings.13>desc_sentence->[firstPawn_nameShortDef] szinte [secondPawn_nameShortDef] tükörképe.</BecameLover.rulePack.rulesStrings.13>
   <BecameLover.rulePack.rulesStrings.14>desc_sentence->[firstPawn_nameShortDef] keményen belemarkol [secondPawn_nameShortDef] hajába.</BecameLover.rulePack.rulesStrings.14>
- 
   <Breakup.label>szakítás</Breakup.label>
   <Breakup.rulePack.rulesStrings.0>tale_noun->ahogy [firstPawn_nameShortDef] és [secondPawn_nameShortDef] szakít</Breakup.rulePack.rulesStrings.0>
   <Breakup.rulePack.rulesStrings.1>image->[firstPawn_nameFull] és [secondPawn_nameFull], ahogy kellemetlen beszélgetést folytatnak [circumstance_group]</Breakup.rulePack.rulesStrings.1>
@@ -46,7 +43,6 @@
   <Breakup.rulePack.rulesStrings.11>desc_sentence->[firstPawn_nameShortDef] és [secondPawn_nameShortDef] stilisztikailag elválasztva.</Breakup.rulePack.rulesStrings.11>
   <Breakup.rulePack.rulesStrings.12>desc_sentence->[secondPawn_nameShortDef] a padlón összeesve.</Breakup.rulePack.rulesStrings.12>
   <Breakup.rulePack.rulesStrings.13>desc_sentence->[secondPawn_nameShortDef] és [firstPawn_nameShortDef] mérgesen gesztikulálnak.</Breakup.rulePack.rulesStrings.13>
- 
   <Marriage.label>esküvő</Marriage.label>
   <Marriage.rulePack.rulesStrings.0>tale_noun->[firstPawn_nameShortDef] és [secondPawn_nameShortDef] esküvője</Marriage.rulePack.rulesStrings.0>
   <Marriage.rulePack.rulesStrings.1>image->ahogy [firstPawn_nameFull] és [secondPawn_nameFull] megházasodnak, [circumstance_group]</Marriage.rulePack.rulesStrings.1>
@@ -62,5 +58,4 @@
   <Marriage.rulePack.rulesStrings.11>desc_sentence->[firstPawn_nameShortDef] és [secondPawn_nameShortDef] stilisztikailag kötődnek.</Marriage.rulePack.rulesStrings.11>
   <Marriage.rulePack.rulesStrings.12>desc_sentence->[firstPawn_nameShortDef] szinte [secondPawn_nameShortDef] tükörképe.</Marriage.rulePack.rulesStrings.12>
   <Marriage.rulePack.rulesStrings.13>desc_sentence->[firstPawn_nameShortDef] keményen belemarkol [secondPawn_nameShortDef] hajába.</Marriage.rulePack.rulesStrings.13>
-
 </LanguageData>

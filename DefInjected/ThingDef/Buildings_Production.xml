@@ -1,85 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <CraftingSpot.label>munkahely</CraftingSpot.label>
   <CraftingSpot.description>Egy hely egyszerű dolgok készítésére, mint például íjak, kések.</CraftingSpot.description>
-
-  <!-- ========================= Work tables ==========================-->
-
+  <CraftingSpot_Blueprint.label>crafting spot (blueprint)</CraftingSpot_Blueprint.label>
+  <CraftingSpot_Frame.label>crafting spot (building)</CraftingSpot_Frame.label>
+  <CraftingSpot_Frame.description>A place for crafting simple things like shivs or bows.</CraftingSpot_Frame.description>
   <TableSculpting.label>szobrász asztal</TableSculpting.label>
   <TableSculpting.description>Munkaasztal művészi faragványok készítéséhez.</TableSculpting.description>
-
+  <TableSculpting_Blueprint.label>sculptor's table (blueprint)</TableSculpting_Blueprint.label>
+  <TableSculpting_Frame.label>sculptor's table (building)</TableSculpting_Frame.label>
+  <TableSculpting_Frame.description>A workbench equipped for artistic sculpting.</TableSculpting_Frame.description>
   <TableButcher.label>hastok</TableButcher.label>
   <TableButcher.description>Nehéz asztal állatok szétbontásához és húsuk feldolgozásához.</TableButcher.description>
-
+  <TableButcher_Blueprint.label>butcher table (blueprint)</TableButcher_Blueprint.label>
+  <TableButcher_Frame.label>butcher table (building)</TableButcher_Frame.label>
+  <TableButcher_Frame.description>A heavy table for butchering dead creatures into pieces of raw meat.</TableButcher_Frame.description>
   <HandTailoringBench.label>varróasztal</HandTailoringBench.label>
   <HandTailoringBench.description>Munkaasztal ruhák kézi varrásához. Az öltözékek a varrógéphez képest 60 százalékkal lassabban készülnek el.</HandTailoringBench.description>
-
+  <HandTailoringBench_Blueprint.label>hand tailor bench (blueprint)</HandTailoringBench_Blueprint.label>
+  <HandTailoringBench_Frame.label>hand tailor bench (building)</HandTailoringBench_Frame.label>
+  <HandTailoringBench_Frame.description>A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench.</HandTailoringBench_Frame.description>
   <ElectricTailoringBench.label>varrógép</ElectricTailoringBench.label>
   <ElectricTailoringBench.description>Munkaasztal varrógéppel, ruhák gyors készítéséhez. Áram nélkül is működik, de 60 százalékkal lassabban.</ElectricTailoringBench.description>
-
+  <ElectricTailoringBench_Blueprint.label>electric tailor bench (blueprint)</ElectricTailoringBench_Blueprint.label>
+  <ElectricTailoringBench_Frame.label>electric tailor bench (building)</ElectricTailoringBench_Frame.label>
+  <ElectricTailoringBench_Frame.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench_Frame.description>
   <FueledSmithy.label>kovácstűzhely (fatüzelés)</FueledSmithy.label>
   <FueledSmithy.description>Egyszerű fatüzelésű munkaállomás nem mechanikus szerszámok és fegyverek készítéséhez.</FueledSmithy.description>
-
+  <FueledSmithy_Blueprint.label>fueled smithy (blueprint)</FueledSmithy_Blueprint.label>
+  <FueledSmithy_Frame.label>fueled smithy (building)</FueledSmithy_Frame.label>
+  <FueledSmithy_Frame.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy_Frame.description>
   <ElectricSmithy.label>kovácstűzhely (elektromos)</ElectricSmithy.label>
   <ElectricSmithy.description>Elektromos fűtésű munkaállomás nem mechanikus szerszámok és fegyverek készítéséhez.</ElectricSmithy.description>
-
+  <ElectricSmithy_Blueprint.label>electric smithy (blueprint)</ElectricSmithy_Blueprint.label>
+  <ElectricSmithy_Frame.label>electric smithy (building)</ElectricSmithy_Frame.label>
+  <ElectricSmithy_Frame.description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy_Frame.description>
   <TableMachining.label>gépészasztal</TableMachining.label>
   <TableMachining.description>Munkaállomás gépek, fegyverek és mechanoid testek szét-, és összeszereléséhez.</TableMachining.description>
-
+  <TableMachining_Blueprint.label>machining table (blueprint)</TableMachining_Blueprint.label>
+  <TableMachining_Frame.label>machining table (building)</TableMachining_Frame.label>
+  <TableMachining_Frame.description>A work station for assembling and disassembling machinery such as guns or mechanoid corpses.</TableMachining_Frame.description>
   <ElectricStove.label>tűzhely (elektromos)</ElectricStove.label>
   <ElectricStove.description>Elektromos tűzhely és pult ételek készítéséhez.</ElectricStove.description>
-
+  <ElectricStove_Blueprint.label>electric stove (blueprint)</ElectricStove_Blueprint.label>
+  <ElectricStove_Frame.label>electric stove (building)</ElectricStove_Frame.label>
+  <ElectricStove_Frame.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove_Frame.description>
   <FueledStove.label>tűzhely (fatüzelés)</FueledStove.label>
   <FueledStove.description>Fatüzelésű tűzhely és pult ételek készítéséhez.</FueledStove.description>
-
+  <FueledStove_Blueprint.label>fueled stove (blueprint)</FueledStove_Blueprint.label>
+  <FueledStove_Frame.label>fueled stove (building)</FueledStove_Frame.label>
+  <FueledStove_Frame.description>A simple wood-fueled stove with an attached countertop for preparing meals.</FueledStove_Frame.description>
   <TableStonecutter.label>kőfaragó asztal</TableStonecutter.label>
   <TableStonecutter.description>Asztal, amin nyers kövekből hasznos építőanyag készíthető.</TableStonecutter.description>
-
+  <TableStonecutter_Blueprint.label>stonecutter's table (blueprint)</TableStonecutter_Blueprint.label>
+  <TableStonecutter_Frame.label>stonecutter's table (building)</TableStonecutter_Frame.label>
+  <TableStonecutter_Frame.description>A work table equipped to cut rough stone into usable blocks.</TableStonecutter_Frame.description>
   <Brewery.label>sörfőzde</Brewery.label>
   <Brewery.description>Munkaállomás minden sörfőzéshez szükséges felszereléssel.</Brewery.description>
-
-  <ElectricSmelter.label>kohó (elektromos)</ElectricSmelter.label>
-  <ElectricSmelter.description>Kivonja a fémet a törmelékből és egyéb tárgyakból. Sok áramot fogyaszt.</ElectricSmelter.description>
-
-  <ComponentAssemblyBench.label>alkatrész összeszerelő</ComponentAssemblyBench.label>
-  <ComponentAssemblyBench.description>Munkaállomás fejlett eszközökkel, amikkel egyszerű anyagokból alkatrész készíthető.</ComponentAssemblyBench.description>
-
+  <Brewery_Blueprint.label>brewery (blueprint)</Brewery_Blueprint.label>
+  <Brewery_Frame.label>brewery (building)</Brewery_Frame.label>
+  <Brewery_Frame.description>A work station with all the equipment needed to brew beer.</Brewery_Frame.description>
   <DrugLab.label>droglabor</DrugLab.label>
   <DrugLab.description>Munkaállomás felszerelve kémcsövekkel, melegítővel és mérőeszközökkel mindenféle drog előállítására.</DrugLab.description>
-
-  <FermentingBarrel.label>Erjesztő hordó</FermentingBarrel.label>
-  <FermentingBarrel.description>Hordó söralap erjesztésére.</FermentingBarrel.description>
-
-  <DeepDrill.label>talajfúró</DeepDrill.label>
-  <DeepDrill.description>Talajfúró, mely képes a föld mélyebb rétegeibe hatolni és onnan ásványokat a felszínre hozni. A talaj letapogató megmutatja hol érdemes fúrni.</DeepDrill.description>
-
+  <DrugLab_Blueprint.label>drug lab (blueprint)</DrugLab_Blueprint.label>
+  <DrugLab_Frame.label>drug lab (building)</DrugLab_Frame.label>
+  <DrugLab_Frame.description>A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs.</DrugLab_Frame.description>
+  <ElectricSmelter.label>kohó (elektromos)</ElectricSmelter.label>
+  <ElectricSmelter.description>Kivonja a fémet a törmelékből és egyéb tárgyakból. Sok áramot fogyaszt.</ElectricSmelter.description>
+  <ElectricSmelter_Blueprint.label>electric smelter (blueprint)</ElectricSmelter_Blueprint.label>
+  <ElectricSmelter_Frame.label>electric smelter (building)</ElectricSmelter_Frame.label>
+  <ElectricSmelter_Frame.description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</ElectricSmelter_Frame.description>
   <Refinery.label>finomító</Refinery.label>
   <Refinery.description>Kémiai finomító. Fából állít elő kémiai üzemanyagot.</Refinery.description>
-
-  
-  <!-- ========== Non-standard work buildings ==============-->
-
+  <Refinery_Blueprint.label>refinery (blueprint)</Refinery_Blueprint.label>
+  <Refinery_Frame.label>refinery (building)</Refinery_Frame.label>
+  <Refinery_Frame.description>A chemical refining plant. Used to refine wood into chemfuel.</Refinery_Frame.description>
+  <ComponentAssemblyBench.label>alkatrész összeszerelő</ComponentAssemblyBench.label>
+  <ComponentAssemblyBench.description>Munkaállomás fejlett eszközökkel, amikkel egyszerű anyagokból alkatrész készíthető.</ComponentAssemblyBench.description>
+  <ComponentAssemblyBench_Blueprint.label>component assembly bench (blueprint)</ComponentAssemblyBench_Blueprint.label>
+  <ComponentAssemblyBench_Frame.label>component assembly bench (building)</ComponentAssemblyBench_Frame.label>
+  <ComponentAssemblyBench_Frame.description>A workbench equipped with advanced tools for producing components from simpler materials.</ComponentAssemblyBench_Frame.description>
   <SimpleResearchBench.label>egyszerű laborasztal</SimpleResearchBench.label>
   <SimpleResearchBench.description>Egyszerű munkaasztal íróeszközökkel és fejletlen tudományos felszereléssel. A kutatók itt fedeznek fel új dolgokat.</SimpleResearchBench.description>
-
+  <SimpleResearchBench_Blueprint.label>simple research bench (blueprint)</SimpleResearchBench_Blueprint.label>
+  <SimpleResearchBench_Frame.label>simple research bench (building)</SimpleResearchBench_Frame.label>
+  <SimpleResearchBench_Frame.description>A simple bench with writing implements and low-tech scientific tools. Researchers work here to discover new things.</SimpleResearchBench_Frame.description>
   <HiTechResearchBench.label>fejlett laborasztal</HiTechResearchBench.label>
   <HiTechResearchBench.description>Fejlett munkaállomás számítógéppel és elektronikus mérőeszközökkel. A kutatást korszerű szerszámok gyorsítják. Működéséhez áram szükséges.</HiTechResearchBench.description>
-
+  <HiTechResearchBench_Blueprint.label>hi-tech research bench (blueprint)</HiTechResearchBench_Blueprint.label>
+  <HiTechResearchBench_Frame.label>hi-tech research bench (building)</HiTechResearchBench_Frame.label>
+  <HiTechResearchBench_Frame.description>A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.</HiTechResearchBench_Frame.description>
   <ElectricCrematorium.label>krematórium (elektromos)</ElectricCrematorium.label>
   <ElectricCrematorium.description>Holttestek elhamvasztásához. Elektromos fűtésű.</ElectricCrematorium.description>
-
+  <ElectricCrematorium_Blueprint.label>electric crematorium (blueprint)</ElectricCrematorium_Blueprint.label>
+  <ElectricCrematorium_Frame.label>electric crematorium (building)</ElectricCrematorium_Frame.label>
+  <ElectricCrematorium_Frame.description>Cremates corpses. Electrically-powered.</ElectricCrematorium_Frame.description>
   <HydroponicsBasin.label>hidroponikus ágyás</HydroponicsBasin.label>
   <HydroponicsBasin.description>Növények mesterséges tápanyag fürdőben való gyors termesztéséhez. Működéséhez áram szükséges. A növények elhalnak, ha az áramellátás megszűnik.</HydroponicsBasin.description>
-
-  <!--======================== Nutrient dispenser ==============================-->
-
+  <HydroponicsBasin_Blueprint.label>hydroponics basin (blueprint)</HydroponicsBasin_Blueprint.label>
+  <HydroponicsBasin_Frame.label>hydroponics basin (building)</HydroponicsBasin_Frame.label>
+  <HydroponicsBasin_Frame.description>Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut.</HydroponicsBasin_Frame.description>
+  <FermentingBarrel.label>Erjesztő hordó</FermentingBarrel.label>
+  <FermentingBarrel.description>Hordó söralap erjesztésére.</FermentingBarrel.description>
+  <FermentingBarrel_Blueprint.label>fermenting barrel (blueprint)</FermentingBarrel_Blueprint.label>
+  <FermentingBarrel_Blueprint_Install.label>fermenting barrel (blueprint)</FermentingBarrel_Blueprint_Install.label>
+  <FermentingBarrel_Frame.label>fermenting barrel (building)</FermentingBarrel_Frame.label>
+  <FermentingBarrel_Frame.description>A barrel for fermenting raw wort into beer.</FermentingBarrel_Frame.description>
+  <DeepDrill.label>talajfúró</DeepDrill.label>
+  <DeepDrill.description>Talajfúró, mely képes a föld mélyebb rétegeibe hatolni és onnan ásványokat a felszínre hozni. A talaj letapogató megmutatja hol érdemes fúrni.</DeepDrill.description>
+  <DeepDrill_Blueprint.label>deep drill (blueprint)</DeepDrill_Blueprint.label>
+  <DeepDrill_Frame.label>deep drill (building)</DeepDrill_Frame.label>
+  <DeepDrill_Frame.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources.</DeepDrill_Frame.description>
   <NutrientPasteDispenser.label>tápanyag pépesítő</NutrientPasteDispenser.label>
   <NutrientPasteDispenser.description>Tápanyagpépet állít elő organikus anyagokból. Kevesebb hozzávalót és időt igényel bármelyik másik ételkészítési módszernél, de senki sem szereti a végeredményt. Nyers ételt bevesz, de erősebb rostú növényi részeket (pl. széna) nem.</NutrientPasteDispenser.description>
-
+  <NutrientPasteDispenser_Blueprint.label>nutrient paste dispenser (blueprint)</NutrientPasteDispenser_Blueprint.label>
+  <NutrientPasteDispenser_Frame.label>nutrient paste dispenser (building)</NutrientPasteDispenser_Frame.label>
+  <NutrientPasteDispenser_Frame.description>Synthesizes nutrient paste from organic feedstocks. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay.</NutrientPasteDispenser_Frame.description>
   <Hopper.label>adagoló</Hopper.label>
   <Hopper.description>Alapanyagokat tárol és adagol más gépeknek, mint például a tápanyag pépesítő.</Hopper.description>
-
-  <!-- Work tables -->
-
+  <Hopper_Blueprint.label>hopper (blueprint)</Hopper_Blueprint.label>
+  <Hopper_Frame.label>hopper (building)</Hopper_Frame.label>
+  <Hopper_Frame.description>Holds resources for use by machines like nutrient paste dispensers.</Hopper_Frame.description>
 </LanguageData>

@@ -1,64 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <Shooting.label>Lövészet</Shooting.label>
-  <Shooting.skillLabel>Lövészet</Shooting.skillLabel>
   <Shooting.description>Távolsági fegyverek használata.</Shooting.description>
-  <Shooting.pawnLabel>Lövész</Shooting.pawnLabel>
-
+  <Shooting.skillLabel>Lövészet</Shooting.skillLabel>
   <Melee.label>Közelharc</Melee.label>
-  <Melee.skillLabel>Közelharc</Melee.skillLabel>
   <Melee.description>Közelharci fegyverek és pusztakezes harc ismerete.</Melee.description>
-  <Melee.pawnLabel>Közelharcos</Melee.pawnLabel>
-
+  <Melee.skillLabel>Közelharc</Melee.skillLabel>
   <Social.label>Szociális</Social.label>
-  <Social.skillLabel>Szociális</Social.skillLabel>
   <Social.description>Alkudozni, meggyőzni, manipulálni, vezetni és felvidítani másokat.</Social.description>
-  <Social.pawnLabel>Szónok</Social.pawnLabel>
-
+  <Social.skillLabel>Szociális</Social.skillLabel>
   <Animals.label>Gondozás</Animals.label>
-  <Animals.skillLabel>Gondozás</Animals.skillLabel>
   <Animals.description>Állatokat megszelidíteni, idomítani, tartani, szaporítani.</Animals.description>
-  <Animals.pawnLabel>Gondozó</Animals.pawnLabel>
-
+  <Animals.skillLabel>Gondozás</Animals.skillLabel>
   <Medicine.label>Gyógyítás</Medicine.label>
-  <Medicine.skillLabel>Gyógyítás</Medicine.skillLabel>
   <Medicine.description>Betegségeket és sérüléseket kezelni, műtétet végezni.</Medicine.description>
-  <Medicine.pawnLabel>Orvos</Medicine.pawnLabel>
-
+  <Medicine.skillLabel>Gyógyítás</Medicine.skillLabel>
   <Cooking.label>Főzés</Cooking.label>
-  <Cooking.skillLabel>Főzés</Cooking.skillLabel>
   <Cooking.description>Hozzávalókból ételeket készíteni.</Cooking.description>
-  <Cooking.pawnLabel>Szakács</Cooking.pawnLabel>
-
+  <Cooking.skillLabel>Főzés</Cooking.skillLabel>
   <Construction.label>Építés</Construction.label>
-  <Construction.skillLabel>Építés</Construction.skillLabel>
   <Construction.description>Jobb építők gyorsabban és jobb minőségben készítik el a bútorokat és egyéb építményeket.</Construction.description>
-  <Construction.pawnLabel>Építész</Construction.pawnLabel>
-
+  <Construction.skillLabel>Építés</Construction.skillLabel>
   <Growing.label>Földművelés</Growing.label>
-  <Growing.skillLabel>Földművelés</Growing.skillLabel>
   <Growing.description>Növények magját elvetni, felnevelni őket és termésüket betakarítani.</Growing.description>
-  <Growing.pawnLabel>Földműves</Growing.pawnLabel>
-
+  <Growing.skillLabel>Földművelés</Growing.skillLabel>
   <Mining.label>Bányászat</Mining.label>
-  <Mining.skillLabel>Bányászat</Mining.skillLabel>
   <Mining.description>Alagutakat ásni, ásványokat és eltemtett nyersanyagokat kitermelni.</Mining.description>
-  <Mining.pawnLabel>Bányász</Mining.pawnLabel>
-
+  <Mining.skillLabel>Bányászat</Mining.skillLabel>
   <Artistic.label>Művészet</Artistic.label>
-  <Artistic.skillLabel>Művészet</Artistic.skillLabel>
   <Artistic.description>Műtárgyakat létrehozni.</Artistic.description>
-  <Artistic.pawnLabel>Művész</Artistic.pawnLabel>
-
+  <Artistic.skillLabel>Művészet</Artistic.skillLabel>
   <Crafting.label>Kézművesség</Crafting.label>
-  <Crafting.skillLabel>Kézművesség</Crafting.skillLabel>
   <Crafting.description>Általános használati tárgyakat készíteni, ideértve a fegyvereket és szerszámokat is.</Crafting.description>
-  <Crafting.pawnLabel>Iparos</Crafting.pawnLabel>
-
-  <Research.label>Kutatás</Research.label>
-  <Research.skillLabel>Kutatás</Research.skillLabel>
-  <Research.description>Bizonyítékokat keresni, kísérleteket végezni és mindig tanulni.</Research.description>
-  <Research.pawnLabel>Kutató</Research.pawnLabel>
-
+  <Crafting.skillLabel>Kézművesség</Crafting.skillLabel>
+  <Intellectual.label>Szellemi munka</Intellectual.label>
+  <Intellectual.description>Bizonyítékok feltárása, következtetés, logika.</Intellectual.description>
+  <Intellectual.skillLabel>Szellemi munka</Intellectual.skillLabel>
 </LanguageData>

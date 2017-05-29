@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <ImmediateAttack.letterLabelEnemy>Rajtaütés</ImmediateAttack.letterLabelEnemy>
-  <ImmediateAttack.arrivalTextEnemy>Azonnal támadnak.</ImmediateAttack.arrivalTextEnemy>
-  <ImmediateAttack.letterLabelFriendly>Barátok</ImmediateAttack.letterLabelFriendly>
   <ImmediateAttack.arrivalTextFriendly>Azonnal segítségedre sietnek.</ImmediateAttack.arrivalTextFriendly>
-
-  <ImmediateAttackSmart.letterLabelEnemy>Rajtaütés</ImmediateAttackSmart.letterLabelEnemy>
-  <ImmediateAttackSmart.arrivalTextEnemy>Azonnal támadnak.\n\nVigyázat, szokatlanul okos taktikával dolgoznak! </ImmediateAttackSmart.arrivalTextEnemy>
-  <ImmediateAttackSmart.letterLabelFriendly>Barátok</ImmediateAttackSmart.letterLabelFriendly>
+  <ImmediateAttack.arrivalTextEnemy>Azonnal támadnak.</ImmediateAttack.arrivalTextEnemy>
+  <ImmediateAttack.letterLabelEnemy>Rajtaütés</ImmediateAttack.letterLabelEnemy>
+  <ImmediateAttack.letterLabelFriendly>Barátok</ImmediateAttack.letterLabelFriendly>
   <ImmediateAttackSmart.arrivalTextFriendly>Azonnal segítségedre sietnek.</ImmediateAttackSmart.arrivalTextFriendly>
-
-  <StageThenAttack.letterLabelEnemy>Rajtaütés</StageThenAttack.letterLabelEnemy>
-  <StageThenAttack.arrivalTextEnemy>Támadás előtt még felkészülnek.\n\nKészülj a védelemre, vagy támadd meg őket megelőzésképpen!</StageThenAttack.arrivalTextEnemy>
-  <StageThenAttack.letterLabelFriendly>Barátok</StageThenAttack.letterLabelFriendly>
+  <ImmediateAttackSmart.arrivalTextEnemy>Azonnal támadnak.\n\nVigyázat, szokatlanul okos taktikával dolgoznak! </ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.letterLabelEnemy>Rajtaütés</ImmediateAttackSmart.letterLabelEnemy>
+  <ImmediateAttackSmart.letterLabelFriendly>Barátok</ImmediateAttackSmart.letterLabelFriendly>
   <StageThenAttack.arrivalTextFriendly>Fel kell készülniük, mielőtt segítségedre indulhatnának.</StageThenAttack.arrivalTextFriendly>
-
-  <ImmediateAttackSappers.letterLabelEnemy>Rajtaütés</ImmediateAttackSappers.letterLabelEnemy>
+  <StageThenAttack.arrivalTextEnemy>Támadás előtt még felkészülnek.\n\nKészülj a védelemre, vagy támadd meg őket megelőzésképpen!</StageThenAttack.arrivalTextEnemy>
+  <StageThenAttack.letterLabelEnemy>Rajtaütés</StageThenAttack.letterLabelEnemy>
+  <StageThenAttack.letterLabelFriendly>Barátok</StageThenAttack.letterLabelFriendly>
   <ImmediateAttackSappers.arrivalTextEnemy>Úgy tűnik utászokkal ásott alagutakkal akarják kikerülni a védelmedet.</ImmediateAttackSappers.arrivalTextEnemy>
-
-  <Siege.letterLabelEnemy>Ostrom</Siege.letterLabelEnemy>
-  <Siege.arrivalTextEnemy>Úgy tűnik ostromra készülnek, ágyúval akarják lőni a kolóniát. Kivárhatod mi történik, de el is kaphatod őket.</Siege.arrivalTextEnemy>
-  <Siege.letterLabelFriendly>Barátok</Siege.letterLabelFriendly>
+  <ImmediateAttackSappers.letterLabelEnemy>Rajtaütés</ImmediateAttackSappers.letterLabelEnemy>
   <Siege.arrivalTextFriendly>Úgy tűnik ostrom taktikákkal akarnak segyteni rajtad.</Siege.arrivalTextFriendly>
-
+  <Siege.arrivalTextEnemy>Úgy tűnik ostromra készülnek, ágyúval akarják lőni a kolóniát. Kivárhatod mi történik, de el is kaphatod őket.</Siege.arrivalTextEnemy>
+  <Siege.letterLabelEnemy>Ostrom</Siege.letterLabelEnemy>
+  <Siege.letterLabelFriendly>Barátok</Siege.letterLabelFriendly>
 </LanguageData>

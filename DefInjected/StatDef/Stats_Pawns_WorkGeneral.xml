@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <WorkSpeedGlobal.label>munkatempó</WorkSpeedGlobal.label>
   <WorkSpeedGlobal.description>A személy munkatempójának szorzója.</WorkSpeedGlobal.description>
-
   <MiningSpeed.label>kőfejtés sebesség</MiningSpeed.label>
   <MiningSpeed.description>Milyen gyorsan képes a személy sziklát bányászni.</MiningSpeed.description>
-
+  <MiningYield.label>bányászati hozam</MiningYield.label>
+  <MiningYield.description>A bányász hozama százalékban. Ez vonatkozik a kézi és gépi módszerre is. A kőbányászat sebességét nem befolyásolja.</MiningYield.description>
   <SmoothingSpeed.label>elegyengetés sebesség</SmoothingSpeed.label>
   <SmoothingSpeed.description>Milyen gyorsan képes a személy felületeket elegyengetni.</SmoothingSpeed.description>
-
   <ResearchSpeed.label>kutatás sebesség</ResearchSpeed.label>
   <ResearchSpeed.description>Milyen gyorsan képes a személy kutatást végezni.</ResearchSpeed.description>
-
-  <ConstructionSpeed.label>építés sebesség</ConstructionSpeed.label>
-  <ConstructionSpeed.description>Milyen gyorsan képes a személy épületet felhúzni és javítani.</ConstructionSpeed.description>
-
+  <AnimalGatherSpeed.label>állatok betakarítása</AnimalGatherSpeed.label>
+  <AnimalGatherSpeed.description>A személy ilyen gyorsan fej, nyír és gyűjt be egyéb állati termékeket.</AnimalGatherSpeed.description>
+  <AnimalGatherYield.label>állat betakarítás hozam</AnimalGatherYield.label>
+  <AnimalGatherYield.description>A személy ilyen hatékonysággal fej, nyír és gyűjt be egyéb állati termékeket. Magasabb százaléknál kisebb az esélye, hogy a termék kárba vész.</AnimalGatherYield.description>
   <PlantWorkSpeed.label>földművelés sebesség</PlantWorkSpeed.label>
   <PlantWorkSpeed.description>Milyen gyorsan képes a személy vetni, aratni.</PlantWorkSpeed.description>
-
-  <HarvestFailChance.label>sikertelen aratás esélye</HarvestFailChance.label>
-  <HarvestFailChance.description>Milyen gyakran történik meg, hogy betakarítás helyett kárba vész a termés.</HarvestFailChance.description>
-
-  <ConstructFailChance.label>sikertelen építés esélye</ConstructFailChance.label>
-  <ConstructFailChance.description>Annak az esélye, hogy a személy elrontja az építést, elpazarolva az időt és alapanyagokat.</ConstructFailChance.description>
-
-  <FixBrokenDownBuildingFailChance.label>sikertelen javítás esélye</FixBrokenDownBuildingFailChance.label>
-  <FixBrokenDownBuildingFailChance.description>Annak az esélye, hogy a személy elrontja az épület javítását.</FixBrokenDownBuildingFailChance.description>
-
+  <PlantHarvestYield.label>földművelés hozam</PlantHarvestYield.label>
+  <PlantHarvestYield.description>A személy ilyen hatékonysággal arat növényeket. Magasabb százaléknál kisebb az esélye, hogy a termék kárba vész.</PlantHarvestYield.description>
+  <ConstructionSpeed.label>építés sebesség</ConstructionSpeed.label>
+  <ConstructionSpeed.description>Milyen gyorsan képes a személy épületet felhúzni és javítani.</ConstructionSpeed.description>
+  <ConstructSuccessChance.label>építési sikeresség esély</ConstructSuccessChance.label>
+  <ConstructSuccessChance.description>Ilyen eséllyel lesz sikeres az építési projekt. A kudarc idő és nyersanyagveszteséggel jár.</ConstructSuccessChance.description>
+  <FixBrokenDownBuildingSuccessChance.label>javítás sikeresség esély</FixBrokenDownBuildingSuccessChance.label>
+  <FixBrokenDownBuildingSuccessChance.description>Ilyen eséllyel lesz sikeres a lerobbant építmény javítása. A kudarc idő és nyersanyagveszteséggel jár. Ez csak a lerobbant építmények javítására vonatkozik, sebződés megjavítására nem.</FixBrokenDownBuildingSuccessChance.description>
 </LanguageData>

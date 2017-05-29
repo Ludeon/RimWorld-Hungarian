@@ -1,56 +1,35 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <Parent.label>apa</Parent.label>
   <Parent.labelFemale>anya</Parent.labelFemale>
-
   <Child.label>fiúgyerek</Child.label>
   <Child.labelFemale>lánygyerek</Child.labelFemale>
-
   <Sibling.label>fivér</Sibling.label>
   <Sibling.labelFemale>nővér</Sibling.labelFemale>
-
   <HalfSibling.label>féltestvér</HalfSibling.label>
   <HalfSibling.labelFemale>féltestvér</HalfSibling.labelFemale>
-
   <Grandparent.label>nagyapa</Grandparent.label>
   <Grandparent.labelFemale>nagyanya</Grandparent.labelFemale>
-
   <Grandchild.label>unoka</Grandchild.label>
   <Grandchild.labelFemale>unoka</Grandchild.labelFemale>
-
   <NephewOrNiece.label>unokaöcs</NephewOrNiece.label>
   <NephewOrNiece.labelFemale>unokahúg</NephewOrNiece.labelFemale>
-
   <UncleOrAunt.label>nagybácsi</UncleOrAunt.label>
   <UncleOrAunt.labelFemale>nagynéni</UncleOrAunt.labelFemale>
-
   <Cousin.label>unokatestvér</Cousin.label>
   <Cousin.labelFemale>unokatestvér</Cousin.labelFemale>
-
-  <!-- distant family -->
-
   <GreatGrandparent.label>ükapa</GreatGrandparent.label>
   <GreatGrandparent.labelFemale>ükanya</GreatGrandparent.labelFemale>
-
   <GreatGrandchild.label>ükunoka</GreatGrandchild.label>
   <GreatGrandchild.labelFemale>ükunoka</GreatGrandchild.labelFemale>
-
   <GranduncleOrGrandaunt.label>nagy-nagybácsi</GranduncleOrGrandaunt.label>
   <GranduncleOrGrandaunt.labelFemale>nagy-nagynéni</GranduncleOrGrandaunt.labelFemale>
-
   <GrandnephewOrGrandniece.label>nagy-unokaöcs</GrandnephewOrGrandniece.label>
   <GrandnephewOrGrandniece.labelFemale>nagy-unokahúg</GrandnephewOrGrandniece.labelFemale>
-
   <CousinOnceRemoved.label>másodunokaöcs </CousinOnceRemoved.label>
   <CousinOnceRemoved.labelFemale>másodunokahúg </CousinOnceRemoved.labelFemale>
-
   <SecondCousin.label>másodunokatestvér </SecondCousin.label>
   <SecondCousin.labelFemale>másodunokatestvér </SecondCousin.labelFemale>
-
-  <!-- kin -->
-
   <Kin.label>rokon</Kin.label>
   <Kin.labelFemale>rokon</Kin.labelFemale>
-  
 </LanguageData>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <Impressiveness.label>hatás</Impressiveness.label>
   <Impressiveness.scoreStages.0.label>szörnyű</Impressiveness.scoreStages.0.label>
   <Impressiveness.scoreStages.1.label>visszataszító</Impressiveness.scoreStages.1.label>
@@ -12,9 +11,6 @@
   <Impressiveness.scoreStages.7.label>nagyon lenyűgöző</Impressiveness.scoreStages.7.label>
   <Impressiveness.scoreStages.8.label>rendkívül lenyűgöző</Impressiveness.scoreStages.8.label>
   <Impressiveness.scoreStages.9.label>hihetetlenül lenyűgöző</Impressiveness.scoreStages.9.label>
-  <!-- <Impressiveness.scoreStages.10.label>csodálatos</Impressiveness.scoreStages.10.label> -->
-  <!-- <Impressiveness.scoreStages.11.label>világ csodája</Impressiveness.scoreStages.11.label> -->
-
   <Wealth.label>vagyon</Wealth.label>
   <Wealth.scoreStages.0.label>szegényes</Wealth.scoreStages.0.label>
   <Wealth.scoreStages.1.label>kissé szegényes</Wealth.scoreStages.1.label>
@@ -25,7 +21,6 @@
   <Wealth.scoreStages.6.label>nagyon fényűző</Wealth.scoreStages.6.label>
   <Wealth.scoreStages.7.label>rendkívül fényűző</Wealth.scoreStages.7.label>
   <Wealth.scoreStages.8.label>hihetetlenül fényűző</Wealth.scoreStages.8.label>
-
   <Space.label>tér</Space.label>
   <Space.scoreStages.0.label>szűkös</Space.scoreStages.0.label>
   <Space.scoreStages.1.label>kissé szűkös</Space.scoreStages.1.label>
@@ -34,7 +29,6 @@
   <Space.scoreStages.4.label>tágas</Space.scoreStages.4.label>
   <Space.scoreStages.5.label>nagyon tágas</Space.scoreStages.5.label>
   <Space.scoreStages.6.label>rendkívül tágas</Space.scoreStages.6.label>
-
   <Beauty.label>kinézet</Beauty.label>
   <Beauty.scoreStages.0.label>ocsmány</Beauty.scoreStages.0.label>
   <Beauty.scoreStages.1.label>ronda</Beauty.scoreStages.1.label>
@@ -44,18 +38,15 @@
   <Beauty.scoreStages.5.label>nagyon szép</Beauty.scoreStages.5.label>
   <Beauty.scoreStages.6.label>rendkívül szép</Beauty.scoreStages.6.label>
   <Beauty.scoreStages.7.label>hihetetlenül szép</Beauty.scoreStages.7.label>
-
   <Cleanliness.label>tisztaság</Cleanliness.label>
   <Cleanliness.scoreStages.0.label>nagyon mocskos</Cleanliness.scoreStages.0.label>
   <Cleanliness.scoreStages.1.label>mocskos</Cleanliness.scoreStages.1.label>
   <Cleanliness.scoreStages.2.label>kissé mocskos</Cleanliness.scoreStages.2.label>
   <Cleanliness.scoreStages.3.label>tiszta</Cleanliness.scoreStages.3.label>
   <Cleanliness.scoreStages.4.label>steril</Cleanliness.scoreStages.4.label>
-
   <InfectionChanceFactor.label>fertőzés esélye</InfectionChanceFactor.label>
   <SurgerySuccessChanceFactor.label>sikeres műtét esélye</SurgerySuccessChanceFactor.label>
   <ResearchSpeedFactor.label>kutatás sebessége</ResearchSpeedFactor.label>
   <GraveVisitingJoyGainFactor.label>sírlátogatás hangulatjavító szorzója</GraveVisitingJoyGainFactor.label>
   <FoodPoisonChanceFactor.label>ételmérgezés esélye</FoodPoisonChanceFactor.label>
-
 </LanguageData>

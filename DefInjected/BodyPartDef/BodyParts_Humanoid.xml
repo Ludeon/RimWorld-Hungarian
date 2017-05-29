@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- base -->
-
   <Torso.label>törzs</Torso.label>
   <LeftShoulder.label>bal váll</LeftShoulder.label>
   <LeftArm.label>bal kar</LeftArm.label>
@@ -20,6 +17,7 @@
   <RightHandMiddleFinger.label>középső ujj (jobb)</RightHandMiddleFinger.label>
   <RightHandIndexFinger.label>mutatóujj (jobb)</RightHandIndexFinger.label>
   <RightHandThumb.label>hüvelykujj (jobb)</RightHandThumb.label>
+  <Waist.label>waist</Waist.label>
   <LeftFootLittleToe.label>kislábujj (bal)</LeftFootLittleToe.label>
   <LeftFootFourthToe.label>négyes lábujj (bal)</LeftFootFourthToe.label>
   <LeftFootMiddleToe.label>hármas lábujj (bal)</LeftFootMiddleToe.label>
@@ -30,9 +28,6 @@
   <RightFootMiddleToe.label>hármas lábujj (jobb)</RightFootMiddleToe.label>
   <RightFootSecondToe.label>kettes lábujj (jobb)</RightFootSecondToe.label>
   <RightFootBigToe.label>nagylábujj (jobb)</RightFootBigToe.label>
-
-  <!-- Bones -->
-
   <LeftClavicle.label>bal kulcscsont</LeftClavicle.label>
   <RightClavicle.label>jobb kulcscsont</RightClavicle.label>
   <Sternum.label>szegycsont</Sternum.label>
@@ -45,5 +40,4 @@
   <RightFemur.label>jobb combcsont</RightFemur.label>
   <LeftTibia.label>bal sípcsont</LeftTibia.label>
   <RightTibia.label>jobb sípcsont</RightTibia.label>
-
 </LanguageData>
