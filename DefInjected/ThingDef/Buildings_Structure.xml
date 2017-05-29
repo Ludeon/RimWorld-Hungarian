@@ -2,17 +2,17 @@
 <LanguageData>
   <Door.label>ajtó</Door.label>
   <Door.description>Szobákat köt össze. Kézzel kell nyitni/zárni, ez lelassítja a gyarmatosokat.</Door.description>
-  <Door_Blueprint.label>door (blueprint)</Door_Blueprint.label>
-  <Door_Frame.label>door (building)</Door_Frame.label>
-  <Door_Frame.description>Divides rooms. Must be manually opened and closed, which slows people down.</Door_Frame.description>
+  <Door_Blueprint.label>ajtó (tervrajz)</Door_Blueprint.label>
+  <Door_Frame.label>ajtó (építmény)</Door_Frame.label>
+  <Door_Frame.description>Szobákat köt össze. Kézzel kell nyitni/zárni, ez lelassítja a gyarmatosokat.</Door_Frame.description>
   <Autodoor.label>automata ajtó</Autodoor.label>
   <Autodoor.description>Szobákat köt össze. Árammal működő változat. Lelassulás nélkül lehet áthaladni rajta.</Autodoor.description>
-  <Autodoor_Blueprint.label>autodoor (blueprint)</Autodoor_Blueprint.label>
-  <Autodoor_Frame.label>autodoor (building)</Autodoor_Frame.label>
-  <Autodoor_Frame.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Autodoor_Frame.description>
+  <Autodoor_Blueprint.label>automata ajtó (tervrajz)</Autodoor_Blueprint.label>
+  <Autodoor_Frame.label>automata ajtó (építmény)</Autodoor_Frame.label>
+  <Autodoor_Frame.description>Szobákat köt össze. Árammal működő változat. Lelassulás nélkül lehet áthaladni rajta.</Autodoor_Frame.description>
   <Wall.label>fal</Wall.label>
   <Wall.description>Stabil fal, ami képes megtartani a tetőt.</Wall.description>
-  <Wall_Blueprint.label>wall (blueprint)</Wall_Blueprint.label>
-  <Wall_Frame.label>wall (building)</Wall_Frame.label>
-  <Wall_Frame.description>An impassable wall. Capable of holding up a roof.</Wall_Frame.description>
+  <Wall_Blueprint.label>fal (tervrajz)</Wall_Blueprint.label>
+  <Wall_Frame.label>fal (építmény)</Wall_Frame.label>
+  <Wall_Frame.description>Stabil fal, ami képes megtartani a tetőt.</Wall_Frame.description>
 </LanguageData>

@@ -2,33 +2,33 @@
 <LanguageData>
   <PowerConduit.label>vezeték</PowerConduit.label>
   <PowerConduit.description>Eljuttatja az áramot felhasználási helyéhez. Falak és egyéb tárgyak alatt átvezethető.</PowerConduit.description>
-  <PowerConduit_Blueprint.label>power conduit (blueprint)</PowerConduit_Blueprint.label>
-  <PowerConduit_Frame.label>power conduit (building)</PowerConduit_Frame.label>
-  <PowerConduit_Frame.description>A set of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit_Frame.description>
+  <PowerConduit_Blueprint.label>vezeték (tervrajz)</PowerConduit_Blueprint.label>
+  <PowerConduit_Frame.label>vezeték (építmény)</PowerConduit_Frame.label>
+  <PowerConduit_Frame.description>Eljuttatja az áramot felhasználási helyéhez. Falak és egyéb tárgyak alatt átvezethető.</PowerConduit_Frame.description>
   <PowerSwitch.label>kapcsoló</PowerSwitch.label>
   <PowerSwitch.description>Ki/bekapcsolja az áramot.</PowerSwitch.description>
-  <PowerSwitch_Blueprint.label>power switch (blueprint)</PowerSwitch_Blueprint.label>
-  <PowerSwitch_Frame.label>power switch (building)</PowerSwitch_Frame.label>
-  <PowerSwitch_Frame.description>Switches power on/off.</PowerSwitch_Frame.description>
+  <PowerSwitch_Blueprint.label>kapcsoló (tervrajz)</PowerSwitch_Blueprint.label>
+  <PowerSwitch_Frame.label>kapcsoló (építmény)</PowerSwitch_Frame.label>
+  <PowerSwitch_Frame.description>Ki/bekapcsolja az áramot.</PowerSwitch_Frame.description>
   <FueledGenerator.label>mini hőerőmű</FueledGenerator.label>
   <FueledGenerator.description>Fa elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</FueledGenerator.description>
-  <FueledGenerator_Blueprint.label>fueled generator (blueprint)</FueledGenerator_Blueprint.label>
-  <FueledGenerator_Frame.label>fueled generator (building)</FueledGenerator_Frame.label>
-  <FueledGenerator_Frame.description>Produces power by consuming wood fuel. Must be fueled by hand.</FueledGenerator_Frame.description>
+  <FueledGenerator_Blueprint.label>mini hőerőmű (tervrajz)</FueledGenerator_Blueprint.label>
+  <FueledGenerator_Frame.label>mini hőerőmű (építmény)</FueledGenerator_Frame.label>
+  <FueledGenerator_Frame.description>Fa elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</FueledGenerator_Frame.description>
   <Battery.label>akkumulátor</Battery.label>
   <Battery.description>Elektromos töltést tárol, ha felesleg termelődik, és leadja azt, ha hiány van. Vigyázat - a feltöltött akkumulátorok berobbanhatnak a nagy melegben vagy ha víz éri őket.</Battery.description>
-  <Battery_Blueprint.label>battery (blueprint)</Battery_Blueprint.label>
-  <Battery_Blueprint_Install.label>battery (blueprint)</Battery_Blueprint_Install.label>
-  <Battery_Frame.label>battery (building)</Battery_Frame.label>
-  <Battery_Frame.description>Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when exposed to rain or fire.</Battery_Frame.description>
+  <Battery_Blueprint.label>akkumulátor (tervrajz)</Battery_Blueprint.label>
+  <Battery_Blueprint_Install.label>akkumulátor (tervrajz)</Battery_Blueprint_Install.label>
+  <Battery_Frame.label>akkumulátor (építmény)</Battery_Frame.label>
+  <Battery_Frame.description>Elektromos töltést tárol, ha felesleg termelődik, és leadja azt, ha hiány van. Vigyázat - a feltöltött akkumulátorok berobbanhatnak a nagy melegben vagy ha víz éri őket.</Battery_Frame.description>
   <SolarGenerator.label>napelem</SolarGenerator.label>
   <SolarGenerator.description>Napfény segítségével állít elő áramot. Sötétben hasztalan.</SolarGenerator.description>
-  <SolarGenerator_Blueprint.label>solar generator (blueprint)</SolarGenerator_Blueprint.label>
-  <SolarGenerator_Frame.label>solar generator (building)</SolarGenerator_Frame.label>
-  <SolarGenerator_Frame.description>Produces electricity from sunlight. Does not work in the dark.</SolarGenerator_Frame.description>
+  <SolarGenerator_Blueprint.label>napelem (tervrajz)</SolarGenerator_Blueprint.label>
+  <SolarGenerator_Frame.label>napelem (építmény)</SolarGenerator_Frame.label>
+  <SolarGenerator_Frame.description>Napfény segítségével állít elő áramot. Sötétben hasztalan.</SolarGenerator_Frame.description>
   <GeothermalGenerator.label>geotermikus generátor</GeothermalGenerator.label>
   <GeothermalGenerator.description>Gejzírek segítségével állít elő áramot, mindenképp egy ilyenre kell telepíteni.</GeothermalGenerator.description>
-  <GeothermalGenerator_Blueprint.label>geothermal generator (blueprint)</GeothermalGenerator_Blueprint.label>
-  <GeothermalGenerator_Frame.label>geothermal generator (building)</GeothermalGenerator_Frame.label>
-  <GeothermalGenerator_Frame.description>Produces electricity from geothermal steam geysers. Must be placed on a geyser.</GeothermalGenerator_Frame.description>
+  <GeothermalGenerator_Blueprint.label>geotermikus generátor (tervrajz)</GeothermalGenerator_Blueprint.label>
+  <GeothermalGenerator_Frame.label>geotermikus generátor (építmény)</GeothermalGenerator_Frame.label>
+  <GeothermalGenerator_Frame.description>Gejzírek segítségével állít elő áramot, mindenképp egy ilyenre kell telepíteni.</GeothermalGenerator_Frame.description>
 </LanguageData>
