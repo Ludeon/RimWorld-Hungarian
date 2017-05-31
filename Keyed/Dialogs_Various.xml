@@ -150,8 +150,8 @@
   <MinimumSkills>Minimum készség:</MinimumSkills>
   <BillRequires>Szükséges: {0}db {1}</BillRequires>
   <BillRequiresNutrition>Szükséges tápanyag: {0}</BillRequiresNutrition>
-  <BillRequiresMayVary>Megj.: kis helyet foglaló hozzávalókból, mint pl. az arany, 20x annyi kell.</BillRequiresMayVary>
-  <ThisIsSmallVolume>Ez egy kis térfogatú hozzávaló. Ez azt jelenti, hogy minden "egység" csak 1/20-a a normál térfogatú hozzávalóknak. Így ezekből hússzor annyi szükséges az adott recepthez.</ThisIsSmallVolume>
+  <BillRequiresMayVary>Megj.: kis helyet foglaló hozzávalókból, mint pl. az arany, {0}x annyi kell.</BillRequiresMayVary>
+  <ThisIsSmallVolume>Ez egy kis térfogatú hozzávaló. Ez azt jelenti, hogy minden "egység" csak 1/{0}-a normál térfogatú hozzávalóknak. Így ezekből {0}x annyi szükséges az adott recepthez.</ThisIsSmallVolume>
   <UsableIngredients>hozzávaló</UsableIngredients>
   <DoXTimes>X darab készítése</DoXTimes>
   <DoUntilYouHaveX>Gyártás X darabig</DoUntilYouHaveX>
@@ -253,9 +253,9 @@
   <ItemsTab>Tárgyak</ItemsTab>
   <CaravanConfigTab>Konfiguráció</CaravanConfigTab>
   <CaravanMustHaveAtLeastOneColonist>Legalább egy járóképes gyarmatost a karavánhoz kell rendelni.</CaravanMustHaveAtLeastOneColonist>
-  <CaravanCouldNotFindExitSpot>Nem található érvényes kilépési pont.</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindExitSpot>A kilépési pont ({0}) nem található.</CaravanCouldNotFindExitSpot>
   <CaravanCouldNotFindPackingSpot>Nem található érvényes rakodási hely. Győződj meg róla, hogy a kiválasztott kilépési pont elérhető: {0}.</CaravanCouldNotFindPackingSpot>
-  <CaravanCouldNotFindReachableExitSpot>Figyelem: némelyik gyarmatos nem éri el a kilépési pontot.</CaravanCouldNotFindReachableExitSpot>
+  <CaravanCouldNotFindReachableExitSpot>Figyelem: némelyik gyarmatos nem éri el a ({0}) kilépési pontot.</CaravanCouldNotFindReachableExitSpot>
   <CaravanPawnIsUnreachable>{0} nem elérhető egyik hozzárendelt gyarmatos számára sem.</CaravanPawnIsUnreachable>
   <CaravanItemIsUnreachableSingle>{0} nem elérhető egyik hozzárendelt gyarmatos számára sem.</CaravanItemIsUnreachableSingle>
   <CaravanItemIsUnreachableMulti>{0}x {1} nem elérhető egyik hozzárendelt gyarmatos számára sem.</CaravanItemIsUnreachableMulti>

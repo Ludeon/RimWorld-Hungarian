@@ -86,7 +86,7 @@
   <Temperature>Hőmérséklet</Temperature>
   <BadTemperature>rossz hőmérséklet</BadTemperature>
   <IdealFermentingTemperature>Ideális erjesztési hőmérséklet</IdealFermentingTemperature>
-  <DrugEffectMultiplier>Hatás szorzója: {0}</DrugEffectMultiplier>
+  <DrugEffectMultiplier>{0} hatás szorzója: {1}</DrugEffectMultiplier>
   <CaravanVisiting>Meglátogatja: {0}.</CaravanVisiting>
   <CaravanEntering>Belép: {0}.</CaravanEntering>
   <CaravanAttacking>Megtámadja: {0}.</CaravanAttacking>
@@ -313,7 +313,7 @@
   <ReadyToHarvest>Betakarításra kész.</ReadyToHarvest>
   <Mature>Kifejlett.</Mature>
   <!-- <SeedLabel>{0} mag</SeedLabel> -->
-  <OutdoorGrowingPeriod>Tenyészidőszak: {0}</OutdoorGrowingPeriod>
+  <OutdoorGrowingPeriod>Tenyészidőszak</OutdoorGrowingPeriod>
   <NoGrowingPeriod>Soha</NoGrowingPeriod>
   <GrowYearRound>Egész év</GrowYearRound>
   <GrowSeasonHereNow>Elérkezett a tenyészidőszak.</GrowSeasonHereNow>

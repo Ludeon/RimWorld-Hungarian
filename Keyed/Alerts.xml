@@ -28,7 +28,7 @@
   <NeedWardenDesc>Van foglyod, de nincs senki beosztva "Börtönőr" munkára.\n\nOssz be valaki erre a munkatípusra.</NeedWardenDesc>
 
   <LowFood>Kevés az étel</LowFood>
-  <LowFoodDesc>Már csak {0} teljes értékű étel maradt a raktárban. Ez nagyon kevés.\n\nTermessz, vegyél, keress vagy ölj érte.</LowFoodDesc>
+  <LowFoodDesc>Veszélyesen kevés élelmiszered van.\n\n    Teljes ételadagok száma: {0}\n    Ennyi gyarmatos és fogoly eszik: {1}\n    Ennyi napra elegendő a készlet: {2}\n\nTermessz, vegyél, keress vagy ölj érte.</LowFoodDesc>
 
   <LowMedicine>Kevés a gyógyszer</LowMedicine>
   <LowMedicineDesc>>Már csak {0} gyógyszer maradt a raktárban.\n\nVegyél még kereskedőktől belőle.</LowMedicineDesc>

@@ -35,8 +35,8 @@
   <BirthdayBiologicalAgeInjuries>{0} biológiai kora {1} lett.\n\nSajnos {0} a következő betegségeket szedte össze a kora miatt:\n{2}</BirthdayBiologicalAgeInjuries>
 
   <LetterLabelNewDisease>Betegség</LetterLabelNewDisease>
-  <NewDisease>{0} beteg lett ({1}). Győződj meg róla, hogy {0} megfelelő ellátást kap és annyi időt tölt ágyban, amennyit csak lehetséges, hogy gyorsan felépüljön.</NewDisease>
-  <NewPartDisease>{0} {1} fertőzést kapott. Győződj meg róla, hogy {0} megfelelő ellátást kap és annyi időt tölt ágyban, amennyit csak lehetséges, hogy gyorsan felépüljön.</NewPartDisease>
+  <NewDisease>{0} beteg lett ({1}). Győződj meg róla, hogy {2} megfelelő ellátást kap és annyi időt tölt ágyban, amennyit csak lehetséges, hogy gyorsan felépüljön.</NewDisease>
+  <NewPartDisease>{0} {1} fertőzést kapott ({3}). Győződj meg róla, hogy {2} megfelelő ellátást kap és annyi időt tölt ágyban, amennyit csak lehetséges, hogy gyorsan felépüljön.</NewPartDisease>
 
   <LetterLabelAncientShrineWarning>Ősveszély</LetterLabelAncientShrineWarning>
   <AncientShrineWarning>Ahogy {0} közeledik az ősi falhoz, rossz előérzete támad. Nem biztos benne miért, de úgy érzi, ez a poros épület nagy veszélyt rejteget.</AncientShrineWarning>
@@ -57,8 +57,8 @@
   <LetterHediffFromRandomHediffGiver>{0} betegséget szedett össze: {1}.</LetterHediffFromRandomHediffGiver>
   <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
 
-  <LetterLeadersDeathLabel>Vezér halála</LetterLeadersDeathLabel>
-  <LetterLeadersDeath>A {0} frakció vezére, {1}, meghalt és {2} lépett a helyébe.</LetterLeadersDeath>
+  <LetterLeadersDeathLabel>{1} halál: {0}</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>{1} frakciónál meghalt {3}: {0}</LetterLeadersDeath>
   
   <LetterLeaderChangedLabel>Új {1}: {0}</LetterLeaderChangedLabel>
   <LetterLeaderChanged>{0} már nem {3} ennek:{1}.\n\nAz új {3}:{2}.</LetterLeaderChanged>

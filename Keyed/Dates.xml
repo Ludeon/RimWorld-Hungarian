@@ -4,7 +4,7 @@
   <ClockTime>Idő</ClockTime>
   <ClockDate>Nap</ClockDate>
   <ClockYear>Év</ClockYear>
-  <DateReadoutTip>Az érkezés óta eltelt napok: {0}\nEgy hónap {1} napból áll.</DateReadoutTip>
+  <DateReadoutTip>Az érkezés óta eltelt napok: {0}\nJelenlegi quadrum: {4}\nHelyi évszak: {2}\n\nAz év 4 quadrumból áll melyek {3} naposak. A quadrumok mindenhol egyformák, míg az évszakok helyfüggők.\n\nA quadrumhoz tartozó helyi évszakok:\n{5}</DateReadoutTip>
 
   <FullDate>{2}. {1} {0}. nap</FullDate>
   <DateReadout>{1} {0}. nap, {2}</DateReadout>
