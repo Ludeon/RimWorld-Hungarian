@@ -19,7 +19,7 @@ Feudális szintű földművesek nem kapnak hagyományos oktatást, de sokat tudn
 		<titleShort>Nemes</titleShort>
 		<desc>NAME egy nem iparosított bolygón volt földesúr. Bálokra járt, alattvalóit igazgatta, kicsit még kardozni is megtanult.
 
-Puha kezei sohasem fogtak szerszámot. A kétkezi munkát alantasnak tartja és nem végzi.</desc>
+Puha kezei sohasem fogtak szerszámot. A kétkezi munkát alantasnak tartja és nem is végzi.</desc>
 	</MedievalLord20>
 	<UrbworldEntrepreneur55>
 		<title>Urbvilági mágnás</title>
@@ -53,7 +53,7 @@ NAME a flotta egy laborjában dolgozott.</desc>
 	<PitBrawler20>
 		<title>Ketrecharcos</title>
 		<titleShort>Ketrecharcos</titleShort>
-		<desc>NAME kilenc éves korában harcolt először. Győzött, de a lényeg a közönség szórakoztatása volt. A ketrecharc jól jövedelmező állás azok számára, akik túlélik. Ráadásul még legális is, a legtöbb esetben.</desc>
+		<desc>NAME kilenc éves korában harcolt először. Győzött, de a lényeg már akkor is a közönség szórakoztatása volt. A ketrecharc jól jövedelmező állás azok számára, akik túlélik. Ráadásul a legtöbb esetben még legális is.</desc>
 	</PitBrawler20>
 	<IllegalShipwright28>
 		<title>Illegális hajóépítő</title>
@@ -68,7 +68,7 @@ NAME a flotta egy laborjában dolgozott.</desc>
 	<SpaceMarine10>
 		<title>Űrkatona</title>
 		<titleShort>Katona</titleShort>
-		<desc>NAME a Birodalmi Haditengerészet katonája volt. Be kellett jutnia az ellenséges hajók belsejébe, megölni a személyzetet és elfoglalni a hajót sértetlenül. Nem is csinálta rosszul.</desc>
+		<desc>NAME a Birodalmi Haditengerészet katonája volt. Be kellett jutnia az ellenséges hajók belsejébe, megölni a személyzetet és sértetlenül elfoglalni a hajót. Nem is csinálta rosszul.</desc>
 	</SpaceMarine10>
 	<Assassin35>
 		<title>Bérgyilkos</title>
@@ -92,7 +92,7 @@ Az ilyen élet nem tanít technológiai képzettségeket és a kétkezi munka se
 	<UrbworldUrchin46>
 		<title>Urbvilági utcagyerek</title>
 		<titleShort>Utcagyerek</titleShort>
-		<desc>Az urbvilágok ősi iparvárosok, melyek tömve vannak emberekkel és méreggel. NAME egy ilyen város sötét, visszataszító negyedében nőtt fel. Minden darabka ételért meg kellett küzdenie.</desc>
+		<desc>Az urbvilágok ősi iparvárosok, melyek tömve vannak emberekkel és mérgező anyagokkal. NAME egy ilyen város sötét, visszataszító negyedében nőtt fel. Minden darabka ételért meg kellett küzdenie.</desc>
 	</UrbworldUrchin46>
 	<VatgrownSoldier83>
 		<title>Klónozott katona</title>
@@ -102,11 +102,11 @@ Az ilyen élet nem tanít technológiai képzettségeket és a kétkezi munka se
 	<Hermit87>
 		<title>Remete</title>
 		<titleShort>Remete</titleShort>
-		<desc>A társadalmi érintkezésbe belefáradván, NAME elhagyta zsúfolt városát, hogy egyszerűbb életet éljen a vadonban. Egyedül töltötte napjait kertjét gondozva és saját szerszámait kovácsolva, amikkel túlélt.</desc>
+		<desc>A társadalmi érintkezésbe belefáradván, NAME elhagyta zsúfolt városát, hogy egyszerűbb életet éljen a vadonban. Egyedül töltötte napjait kertjét gondozva és saját szerszámait kovácsolva. Ezek segítségével maradt életben.</desc>
 	</Hermit87>
 	<MidworldChef39>
-		<title>Chef</title>
-		<titleShort>Chef</titleShort>
+		<title>Séf</title>
+		<titleShort>Séf</titleShort>
 		<desc>NAME puccos éttermet vezetett egy fejlett világban. Híres volt kreatív kulináris specialitásairól, és hírhedten megvetette a kukták munkáját.</desc>
 	</MidworldChef39>
 	<SicklyChild40>
@@ -119,103 +119,103 @@ Az ilyen élet nem tanít technológiai képzettségeket és a kétkezi munka se
 		<titleShort>Vándorénekes</titleShort>
 		<desc>NAME a feudális világ utazó kobzosa volt.
 
-Mindig dalokat énekelve és történeteket mesélve töltötte idejét, de képes volt megvédeni magát az út veszélyeitől. Érdekes módon mindig köddé tudott válni, ha valami nehéz fizikai munkát kellett volna végezni.</desc>
+Mindig dalokat énekelve és történeteket mesélve töltötte idejét, de képes volt megvédeni magát az út veszélyeitől is. Érdekes módon mindig köddé tudott válni, ha valami nehéz fizikai munkát kellett volna végezni.</desc>
 	</MedievalMinstrel69>
 	<Housemate5>
-		<title>Lakótárs</title>
-		<titleShort>Lakótárs</titleShort>
-		<desc>Felnőttként, NAME tisztán tartotta a házat és gondoskodott a gyerekekről miközben a házastársa dolgozott.</desc>
+		<title>Háztartásbeli</title>
+		<titleShort>Háztartásbeli</titleShort>
+		<desc>Felnőttként NAME tisztán tartotta a házat és gondoskodott a gyerekekről, miközben házastársa dolgozott.</desc>
 	</Housemate5>
 	<GlitterworldEmpath39>
-		<title>Glitterworld empath</title>
-		<titleShort>Empath</titleShort>
-		<desc>NAME had an amazing ability to relate to others and mediate conflict. HECAP was selected to train as an empath. The training intensified HIS natural abilities, but HE became unable to harm others.</desc>
+		<title>Szupervilági empata</title>
+		<titleShort>Empata</titleShort>
+		<desc>NAME elképesztő érzékkel alakít ki emberi kapcsolatokat és simít el konfliktusokat. Kiválasztották empata képzésre. A kiképzés felerősítette természetes adottságait, de képtelenné vált másoknak ártani.</desc>
 	</GlitterworldEmpath39>
 	<ShelterChild65>
 		<title>Menedék gyerek</title>
 		<titleShort>Menedékgyerek</titleShort>
-		<desc>NAME egy menedékben nőtt fel mélyen egy mérgezettvilág alatt. HECAP széleskörű oktatást kapott de nem volt esélye fizikális munkát csinálni. </desc>
+		<desc>NAME egy menedékben nőtt fel mélyen egy mérgezett világ felszíne alatt. Széleskörű oktatást kapott, de nem volt esélye fizikális munkát végezni. </desc>
 	</ShelterChild65>
 	<MedievalDoctor6>
-		<title>Medieval doctor</title>
-		<titleShort>Quack</titleShort>
-		<desc>NAME worked as a doctor on a medieval planet. HECAP firmly believes that most ailments can be cured with a little bloodletting.
+		<title>Középkori doktor</title>
+		<titleShort>Kuruzsló</titleShort>
+		<desc>NAME egy középkori világon dolgozott doktorként. Szilárdan hiszi, hogy a legtöbb betegség gyógyítható egy kis véreztetéssel.
 
-HECAP was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head.</desc>
+Mesteri aneszteziológus is volt, kidolgozott egy speciális technikát, mely fejre mért kemény ütésen alapult.</desc>
 	</MedievalDoctor6>
 	<Inventor42>
 		<title>Feltaláló</title>
 		<titleShort>Feltaláló</titleShort>
-		<desc>Az HIS anyabolygóján, NAME egy mérsékelten sikeres feltaláló volt. HECAP feltalált pár kicsi technológiát.</desc>
+		<desc>Bolygóján NAME mérsékelten sikeres feltaláló volt. Pár kisebb találmányt köszönhettek neki.</desc>
 	</Inventor42>
 	<Teacher24>
-		<title>Teacher</title>
-		<titleShort>Teacher</titleShort>
-		<desc>NAME was educated in the liberal arts and taught at a public school. HECAP was widely knowledgeable and well-liked by HIS students.</desc>
+		<title>Tanár</title>
+		<titleShort>Tanár</titleShort>
+		<desc>NAME bölcsészként tanított egy általános iskolában. Széleskörű tudással rendelkezett és tanítványai szerették.</desc>
 	</Teacher24>
 	<IndustrialOrphan55>
-		<title>Industrial orphan</title>
-		<titleShort>Orphan</titleShort>
-		<desc>NAME never knew HIS parents. HISCAP earliest memories were of drudgery in the mines and workhouses of HIS industrial world.
+		<title>Ipari árva</title>
+		<titleShort>Árva</titleShort>
+		<desc>NAME sosem ismerte szüleit. Első emlékei ipari világának bányáiban és gyáraiban végzett robotról szólnak.
 
-Because of this, HE never received a proper education.</desc>
+Emiatt sosem részesült megfelelő oktatásban.</desc>
 	</IndustrialOrphan55>
 	<Scout67>
-		<title>Scout</title>
-		<titleShort>Scout</titleShort>
-		<desc>Born to colonial administrators from a small imperial power, NAME was enrolled in a youth program that taught military scouting skills.
+		<title>Felderítő</title>
+		<titleShort>Felderítő</titleShort>
+		<desc>Egy kis gyarmati birodalom adminisztrátorainak gyerekeként, NAME be lett íratva egy képzési programba, ahol megtanították neki a hadi felderítés fortélyait.
 
-HECAP learned to survive in the wilderness, to obey, and not to ask questions.</desc>
+Megtanult túlélni a vadonban, engedelmeskedni és nem kérdezni.</desc>
 	</Scout67>
 	<JoywireArtist62>
-		<title>Joywire artist</title>
-		<titleShort>Joywirer</titleShort>
-		<desc>NAME worked in an urbworld lab developing cutting-edge joywire software to maximize user pleasure.
+		<title>Örömchip mester</title>
+		<titleShort>Örömchipes</titleShort>
+		<desc>NAME egy urbvilág laborjában fejlesztett korszerű örömchip szoftvereket, a felhasználók gyönyörének maximalizálására.
 
-When the local government imposed harsh restrictions on joywire manufacturing, HE began selling HIS products on the black market.</desc>
+Amikor a kormány keményen lekorlátozta az örömchipek gyártását, a feketepiacon kezdte értékesíteni a portékát.</desc>
 	</JoywireArtist62>
 	<FrightenedChild6>
-		<title>Frightened child</title>
-		<titleShort>Scared</titleShort>
-		<desc>NAME grew up with a laundry list of phobias and neuroses. HECAP feared, among other things, doctors and foodborne pathogens.
+		<title>Rémült gyermek</title>
+		<titleShort>Rémült</titleShort>
+		<desc>NAME fóbiák és neurózisok hosszú listájával nőtt fel. Többek között félt az orvosoktól, fertőző ételektől.
 
-As a result, HE learned to cook and care for HIMself, but many of HIS fears dog HIM in adulthood.</desc>
+Emiatt meg kellett tanulnia, hogy ellássa magát és főzzön is, de félelmei jó része felnőttként is megmaradt.</desc>
 	</FrightenedChild6>
 	<ConceptualArtist7>
-		<title>Conceptual artist</title>
-		<titleShort>Artist</titleShort>
-		<desc>NAME was well-known in art circles on HIS home world for HIS unique and creative conceptual artworks.
+		<title>Konceptuális művész</title>
+		<titleShort>Művész</titleShort>
+		<desc>NAME jól ismert volt bolygója művész köreiben egyedi és kreatív konceptuális alkotásairól.
 
-Nobody was sure exactly what HE was trying to communicate, but HIS pieces were highly valued by collectors.</desc>
+Senki nem tudta pontosan, hogy mit is szeretne kifejezni, de a gyűjtők nagy becsben tartották munkáit.</desc>
 	</ConceptualArtist7>
 	<GlitterworldSurgeon7>
-		<title>Glitterworld surgeon</title>
-		<titleShort>Surgeon</titleShort>
-		<desc>NAME worked as a surgeon on a world mostly free of disease and human suffering.
+		<title>Szupervilági sebész</title>
+		<titleShort>Sebész</titleShort>
+		<desc>NAME sebészként dolgozott egy olyan világon, ahol az emberi szenvedés és betegség szinte ismeretlen.
 
-HISCAP job mostly involved elaborate and creative cosmetic surgeries. HECAP has a good understanding of human biology, but never had to remove a cancer — or a bullet.</desc>
+Munkája leginkább kreatív és bonyolult szépészeti beavatkozásokból állt. Jól ismeri az emberi anatómiát, te sosem kellett daganatot vagy golyót eltávolítania.</desc>
 	</GlitterworldSurgeon7>
 	<LudditeRebel42>
-		<title>Luddite rebel</title>
-		<titleShort>Luddite</titleShort>
-		<desc>When the majority of people on HIS world chose to give up their individuality and biological humanity to join together in an online hivemind, NAME joined a rebel faction that chose to forsake most technology.</desc>
+		<title>Luddita lázadó</title>
+		<titleShort>Luddita</titleShort>
+		<desc>Amikor világa lakóinak többsége úgy döntött, hogy feladja egyéniségét és biológiai ember mivoltát, hogy egy online tudat részévé váljon, NAME inkább egy lázadó csoporthoz csatlakozott, akik minden technológiáról lemondtak.</desc>
 	</LudditeRebel42>
 	<Bartender47>
-		<title>Bartender</title>
-		<titleShort>Barkeep</titleShort>
-		<desc>NAME worked as a bartender on a seedy space station. The job entailed one part drink mixing, one part diplomacy, and one part head-bashing.</desc>
+		<title>Csapos</title>
+		<titleShort>Csapos</titleShort>
+		<desc>NAME csaposként dolgozott egy nyomorúságos űrállomáson. A munka egy rész mixelésből, egy rész diplomáciából és egy rész verekedésből állt.</desc>
 	</Bartender47>
 	<CaveworldTender5>
-		<title>Caveworld tender</title>
-		<titleShort>Cave kid</titleShort>
-		<desc>NAME grew up in cave complex deep beneath the surface of an inhospitable world. HECAP worked with the other children tending the tribe’s fungus crops.</desc>
+		<title>Barlangi gondozó</title>
+		<titleShort>Barlangi kölyök</titleShort>
+		<desc>NAME egy barlangrendszerben nőtt fel mélyen egy lakhatatlan bolygó felszíne alatt. Más gyerekekkel együtt gondozta törzse gombaültetvényeit.</desc>
 	</CaveworldTender5>
 	<CaveworldTunneler74>
-		<title>Caveworld tunneler</title>
-		<titleShort>Tunneler</titleShort>
-		<desc>NAME worked as a digger in the massive underground cave complex.
+		<title>Barlangi alagútásó</title>
+		<titleShort>Alagútásó</titleShort>
+		<desc>NAME alagutakat ásott egy óriási földalatti barlangrendszerben.
 
-HECAP knows rock so well that HE can almost navigate caves by smell.</desc>
+Olyan jól ismeri a sziklákat, hogy szinte szag alapján kiismeri magát a barlangokban.</desc>
 	</CaveworldTunneler74>
 	<HiveworldDrone29>
 		<title>Hiveworld drone</title>
@@ -363,7 +363,7 @@ HISCAP survival skills became razor-sharp, but spending so long alone severely d
 	<MafiaBoss49>
 		<title>Mafia boss</title>
 		<titleShort>Boss</titleShort>
-		<desc>NAME was a high-ranking member of an urbworld crime syndicate.
+		<desc>NAME was a high-ranking member of an urbvilág crime syndicate.
 
 HECAP bribed officials, maintained the loyalty of HIS subordinates, and extracted overdue payments - by any means necessary.</desc>
 	</MafiaBoss49>
@@ -438,7 +438,7 @@ During HIS years underground HE also gained experience repairing drilling machin
 	<TestSubject75>
 		<title>Test subject</title>
 		<titleShort>Testee</titleShort>
-		<desc>On the most corrupt urbworlds, scientists without a moral compass commit unspeakable atrocities in the name of research. NAME was kept alone in a sealed facility from birth and subjected to a variety of behavioural experiments in an attempt to turn HIM into a perfect super-soldier.</desc>
+		<desc>On the most corrupt urbvilágok, scientists without a moral compass commit unspeakable atrocities in the name of research. NAME was kept alone in a sealed facility from birth and subjected to a variety of behavioural experiments in an attempt to turn HIM into a perfect super-soldier.</desc>
 	</TestSubject75>
 	<MedicalAssistant75>
 		<title>Medical assistant</title>
@@ -720,14 +720,14 @@ He could not bear answering questions about his parents, so he replaced social c
 	<UrbworldCriminal64>
 		<title>Urbworld criminal</title>
 		<titleShort>Criminal</titleShort>
-		<desc>Born into bad circumstance on an overpopulated urbworld, Vladimir turned to small-time crime as a way to avoid starvation and hypothermia.
+		<desc>Born into bad circumstance on an overpopulated urbvilág, Vladimir turned to small-time crime as a way to avoid starvation and hypothermia.
 
 Robbery and murder were daily activities for him. Vladimir learned that surviving was winning.</desc>
 	</UrbworldCriminal64>
 	<UrbworldPolitican16>
 		<title>Urbworld politican</title>
 		<titleShort>Politician</titleShort>
-		<desc>It's no secret that the Companies own much of the urbworlds, but someone has to take the bribes. Vladimir was one such figurehead.
+		<desc>It's no secret that the Companies own much of the urbvilágok, but someone has to take the bribes. Vladimir was one such figurehead.
 
 He learned how to manipulate the hopes and dreams of the people while living comfortably in a penthouse.</desc>
 	</UrbworldPolitican16>
@@ -744,7 +744,7 @@ He learned how to manipulate the hopes and dreams of the people while living com
 	<UrbworldHooligan8>
 		<title>Urbworld hooligan</title>
 		<titleShort>Hooligan</titleShort>
-		<desc>NAME grew up in a dangerous urbworld. He quickly learned how to get his daily meal - by crime. Such means left little to no space for cooking and growing activities.</desc>
+		<desc>NAME grew up in a dangerous urbvilág. He quickly learned how to get his daily meal - by crime. Such means left little to no space for cooking and growing activities.</desc>
 	</UrbworldHooligan8>
 	<SpaceTechnician89>
 		<title>Space technician</title>
@@ -764,7 +764,7 @@ He learned how to manipulate the hopes and dreams of the people while living com
 	<MechanoidNerd80>
 		<title>Mechanoid nerd</title>
 		<titleShort>Mechanerd</titleShort>
-		<desc>NAME grew up in an urbworld as the only child of a pair of mechanoid designers.
+		<desc>NAME grew up in an urbvilág as the only child of a pair of mechanoid designers.
 They encouraged HIS interest in the machines. Eventually, HE became obsessed with building HIS own.
 
 Unfortunately this also lead to HIM being a loner as HE prefered technical books to friends.</desc>
@@ -1161,14 +1161,14 @@ HECAP defended their ships against pirates and engaged in private space warfare 
 	<HiveWorldChild62>
 		<title>Hive world child</title>
 		<titleShort>Hiver</titleShort>
-		<desc>NAME had an isolated upbringing in an urbworld hive city. His hatred of heights kept him indoors often, and made him an introverted child.
+		<desc>NAME had an isolated upbringing in an urbvilág hive city. His hatred of heights kept him indoors often, and made him an introverted child.
 
 When HE did go out onto the catwalks of the city, HE enjoyed playing war games, becoming proficient with various simulation weapons.</desc>
 	</HiveWorldChild62>
 	<Microbiologist37>
 		<title>Microbiologist</title>
 		<titleShort>Biologist</titleShort>
-		<desc>A plague struck NAME's native urbworld. NAME and other researchers revealed that the illness was a bioweapon, but the people turned on them, blaming them for the sickness.
+		<desc>A plague struck NAME's native urbvilág. NAME and other researchers revealed that the illness was a bioweapon, but the people turned on them, blaming them for the sickness.
 
 NAME barely escaped his homeworld as it fell into chaos.</desc>
 	</Microbiologist37>
@@ -1201,7 +1201,7 @@ By the time HE was exiting childhood, NAME had saved up enough money to pay a sp
 	<ArtfulDodger87>
 		<title>Artful dodger</title>
 		<titleShort>Dodger</titleShort>
-		<desc>Robin grew up on one of the urbworlds and had to fend for himself all his life. He never trusted anyone, relying on his persuasiveness and cunning to survive.
+		<desc>Robin grew up on one of the urbvilágok and had to fend for himself all his life. He never trusted anyone, relying on his persuasiveness and cunning to survive.
 
 He soon became skilled with firearms and knives as well as words.</desc>
 	</ArtfulDodger87>
@@ -1462,14 +1462,14 @@ Following the tradition of HIS family, HE enlisted at the earliest possible age.
 	<LazyProgrammer84>
 		<title>Lazy programmer</title>
 		<titleShort>Programmer</titleShort>
-		<desc>NAME independently developed software that had a competitive edge against local urbworld corporations.
+		<desc>NAME independently developed software that had a competitive edge against local urbvilág corporations.
 
 HISCAP legally questionable methods lead to a growing number in unsolved claims of intellectual property theft.</desc>
 	</LazyProgrammer84>
 	<GangMember82>
 		<title>Gang member</title>
 		<titleShort>Ganger</titleShort>
-		<desc>NAME grew up homeless on an urbworld. HECAP was forced to fight and struggle for everything, making HIM hard and ruthless long before adulthood.
+		<desc>NAME grew up homeless on an urbvilág. HECAP was forced to fight and struggle for everything, making HIM hard and ruthless long before adulthood.
 
 NAME would have stayed in those streets, had HE not been injured in a shootout and had his body confiscated for use by one of the worldwide city's ruling corporations.</desc>
 	</GangMember82>
@@ -1649,7 +1649,7 @@ Having people do things for him taught him to avoid manual labor at all costs.</
 	<VatgrownSlavegirl4>
 		<title>Vatgrown slavegirl</title>
 		<titleShort>Slave girl</titleShort>
-		<desc>Emmie was vat-grown as a slave in an illegal urbworld laboratory. As a young child, she was taught only to cook, clean and serve her masters. For most of her childhood, she knew nothing else.</desc>
+		<desc>Emmie was vat-grown as a slave in an illegal urbvilág laboratory. As a young child, she was taught only to cook, clean and serve her masters. For most of her childhood, she knew nothing else.</desc>
 	</VatgrownSlavegirl4>
 	<UrbworldSexSlave3>
 		<title>Urbworld sex slave</title>
@@ -1659,7 +1659,7 @@ Having people do things for him taught him to avoid manual labor at all costs.</
 	<GunKid57>
 		<title>Gun kid</title>
 		<titleShort>Gun kid</titleShort>
-		<desc>Growing up in a urbworld, NAME never had it easy. Every day was a struggle and pollution, hunger, and gangs of older kids.
+		<desc>Growing up in a urbvilág, NAME never had it easy. Every day was a struggle and pollution, hunger, and gangs of older kids.
 
 In the little space he had to himself, he studied his passion - guns, combat tactics, and war history.</desc>
 	</GunKid57>
@@ -1731,7 +1731,7 @@ HISCAP obsession with technology meant that HE never appreciated arts or culture
 	<UpperUrbworlder20>
 		<title>Upper urbworlder</title>
 		<titleShort>High urber</titleShort>
-		<desc>NAME had a privileged childhood on a major urbworld. Living in an apartment far above the dense poverty of the city, HE spent most of HIS time reading or drawing the cityscape he saw through HIS window.</desc>
+		<desc>NAME had a privileged childhood on a major urbvilág. Living in an apartment far above the dense poverty of the city, HE spent most of HIS time reading or drawing the cityscape he saw through HIS window.</desc>
 	</UpperUrbworlder20>
 	<Missionary23>
 		<title>Missionary</title>
@@ -1833,7 +1833,7 @@ There's even a religion about them, somewhere, involving noodles and meatballs.<
 	<DisplacedNoble82>
 		<title>Displaced noble</title>
 		<titleShort>Noble</titleShort>
-		<desc>Born on an urbworld to the ruler of three megacities, NAME’s prospects looked good - until a violent insurrection overthrew HIS family. Exile introduced NAME to hard work and combat, but some high-born squeamishness remains.</desc>
+		<desc>Born on an urbvilág to the ruler of three megacities, NAME’s prospects looked good - until a violent insurrection overthrew HIS family. Exile introduced NAME to hard work and combat, but some high-born squeamishness remains.</desc>
 	</DisplacedNoble82>
 	<Minister38>
 		<title>Minister</title>
@@ -1897,7 +1897,7 @@ He relied less on his fists and more on his guns. His reputation spread faster d
 		<titleShort>Soldier</titleShort>
 		<desc>War may never change - but the cast of characters does.
 
-Born on a violent urbworld, NAME was trained from a young age to fight the wars of others, and became rather good at it.</desc>
+Born on a violent urbvilág, NAME was trained from a young age to fight the wars of others, and became rather good at it.</desc>
 	</BoySoldier18>
 	<MarbleDoctor3>
 		<title>Marble doctor</title>
@@ -1916,7 +1916,7 @@ He told everyone that he had no luck.</desc>
 	<MobHenchman44>
 		<title>Mob henchman</title>
 		<titleShort>Henchman</titleShort>
-		<desc>After being "saved" from his home world by a slaver ship, NAME was sold to an urbworld crime lord, where he was used as a henchman. He specialized in low-tech beat-downs and intimidation.</desc>
+		<desc>After being "saved" from his home world by a slaver ship, NAME was sold to an urbvilág crime lord, where he was used as a henchman. He specialized in low-tech beat-downs and intimidation.</desc>
 	</MobHenchman44>
 	<OrphanOfWar96>
 		<title>Orphan of war</title>
@@ -2002,7 +2002,7 @@ When he was finally caught, they burned half his skin off. He'll never be able t
 	<HedgeFundManager27>
 		<title>Hedge fund manager</title>
 		<titleShort>Banker</titleShort>
-		<desc>A top hedge fund manager on a teeming urbworld, NAME's portfolio grew rapidly as he charmed clients with a sweet voice and devious intent. When the deal turned out too good to be true, he was forced to flee the planet with a bounty on his head.
+		<desc>A top hedge fund manager on a teeming urbvilág, NAME's portfolio grew rapidly as he charmed clients with a sweet voice and devious intent. When the deal turned out too good to be true, he was forced to flee the planet with a bounty on his head.
 
 As he travelled the stars he found a passion in the arts, making masterpieces fit for high society customers.</desc>
 	</HedgeFundManager27>
@@ -2357,7 +2357,7 @@ NAME never really got along with other children, and as a result became withdraw
 	<CaravanChild53>
 		<title>Caravan child</title>
 		<titleShort>Child</titleShort>
-		<desc>NAME was born on a urbworld merchant ship to an entrepreneurial mother and an absent father. Born male, she disliked boy stuff, and got into her mother’s things all the time.
+		<desc>NAME was born on a urbvilág merchant ship to an entrepreneurial mother and an absent father. Born male, she disliked boy stuff, and got into her mother’s things all the time.
 
 Eventually, she traveled with her mother to a glitterworld and spent her savings on a body she was happy with.</desc>
 	</CaravanChild53>
@@ -2747,7 +2747,7 @@ HECAP was known for his mastery of weapons, and was also a good ship pilot.</des
 	<StreetUrchin51>
 		<title>Street urchin</title>
 		<titleShort>Urchin</titleShort>
-		<desc>Born to a poor family on an urbworld, NAME was abandoned on the streets at a young age.
+		<desc>Born to a poor family on an urbvilág, NAME was abandoned on the streets at a young age.
 
 He learned to steal and kill to survive the ruthless streets, gaining skills in melee and ranged combat. There was little time for talk in his life.</desc>
 	</StreetUrchin51>
@@ -3092,9 +3092,9 @@ His social skills kept him on top of the political game, and he always had serva
 	<UrbworldEnforcer55>
 		<title>Urbworld enforcer</title>
 		<titleShort>Enforcer</titleShort>
-		<desc>NAME was an enforcer of law on an ancient urbworld.
+		<desc>NAME was an enforcer of law on an ancient urbvilág.
 
-She dealt with the worst of humanity, from protecting greedy urbworld nobility in their spire palaces to rooting out cannibal cults in the deepest reaches of the underground hive.</desc>
+She dealt with the worst of humanity, from protecting greedy urbvilág nobility in their spire palaces to rooting out cannibal cults in the deepest reaches of the underground hive.</desc>
 	</UrbworldEnforcer55>
 	<GameFanatic49>
 		<title>Game fanatic</title>
@@ -3235,7 +3235,7 @@ Unfortunately, the monotonous work erased HIS remaining creative impulses.</desc
 	<UrbworldArmyBrat71>
 		<title>Urbworld army brat</title>
 		<titleShort>Army brat</titleShort>
-		<desc>NAME grew up on an urbworld military base. HECAP was too young to fight, but HE learned to make HIMself useful in other ways.
+		<desc>NAME grew up on an urbvilág military base. HECAP was too young to fight, but HE learned to make HIMself useful in other ways.
 
 HECAP became familiar with guns and military equipment, but never really got in touch with the natural world.</desc>
 	</UrbworldArmyBrat71>
@@ -3537,7 +3537,7 @@ One day, he had a mental break and went on a long rampage, destroying several to
 	<NewAgeDuelist36>
 		<title>New age duelist</title>
 		<titleShort>Duelist</titleShort>
-		<desc>NAME was fascinated with combat. HIS parents traveled often, so HE was able to sample many different fighting styles, from 76th-wave jujutsu to the infamous 'urbworld-style' karate.
+		<desc>NAME was fascinated with combat. HIS parents traveled often, so HE was able to sample many different fighting styles, from 76th-wave jujutsu to the infamous 'urbvilág-style' karate.
 
 A polite child, most fighters accepted HIS requests for training - but moving around often without finishing a tutelage made HIM lazy.</desc>
 	</NewAgeDuelist36>
