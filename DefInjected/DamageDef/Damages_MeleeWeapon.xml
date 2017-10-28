@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cut.label>vágás</Cut.label>
+  <Cut.deathMessage>{0} halálos vágást kapott</Cut.deathMessage>
+  <Crush.label>zúzás</Crush.label>
+  <Crush.deathMessage>{0} halálra lett zúzva.</Crush.deathMessage>
+  <Blunt.label>ütés</Blunt.label>
+  <Blunt.deathMessage>{0} agyon lett verve.</Blunt.deathMessage>
+
+  <!-- Damage types are the same as Blunt, but behaves like stabbing; intended for things like rifle barrels -->
+
+  <Poke.label>ütés</Poke.label>
+  <Poke.deathMessage>{0} agyon lett verve.</Poke.deathMessage>
+  <Stab.label>szúrás</Stab.label>
+  <Stab.deathMessage>{0} halálra lett szúrva.</Stab.deathMessage>
+  <Scratch.label>tépés</Scratch.label>
+  <Scratch.deathMessage>{0} szét lett tépve.</Scratch.deathMessage>
+  <Bite.label>harapás</Bite.label>
+  <Bite.deathMessage>{0} szét lett harapva.</Bite.deathMessage>
+  <ToxicBite.label>Mérgező harapás</ToxicBite.label>
+  <ToxicBite.deathMessage>{0} belehalt a mérgezett harapásba.</ToxicBite.deathMessage>
+ 
+</LanguageData>

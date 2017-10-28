@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Temporary hack; ranged weapons need to use the old pre-flavorful-combat system to avoid a rebalance cascade. -->
+
+  <RangedStab.label>szúrás</RangedStab.label>
+  <RangedStab.deathMessage>{0} halálra lett szúrva.</RangedStab.deathMessage>
+
+  <Bullet.label>lövedék</Bullet.label>
+  <Bullet.deathMessage>{0} agyon lett lőve.</Bullet.deathMessage>
+  
+  <Arrow.label>nyíl</Arrow.label>
+  <Arrow.deathMessage>{0} le lett nyilazva.</Arrow.deathMessage>
+  
+  <ArrowHighVelocity.label>nyíl</ArrowHighVelocity.label>
+  <ArrowHighVelocity.deathMessage>{0} le lett nyilazva.</ArrowHighVelocity.deathMessage>
+
+
+</LanguageData>

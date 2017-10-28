@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Surgical cut: Makes it possible to remove inner organs without harming outer body parts -->
+
+  <SurgicalCut.label>sebészi vágás</SurgicalCut.label>
+  <SurgicalCut.deathMessage>{0} műtét közben meghalt.</SurgicalCut.deathMessage>
+
+
+  <!-- Execution cut: Makes it possible to distinguish execution damage from others -->
+
+  <ExecutionCut.label>kivégzés</ExecutionCut.label>
+  <ExecutionCut.deathMessage>{0} ki lett végezve.</ExecutionCut.deathMessage>
+
+
+</LanguageData>
