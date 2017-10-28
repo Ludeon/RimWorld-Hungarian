@@ -78,7 +78,8 @@
   <MessageMedicalOperationFailureCatastrophic>{0} katasztrofális hibát vétett {1} műtétje közben.</MessageMedicalOperationFailureCatastrophic>
   <MessageMedicalOperationFailureMinor>{0} kisebb hibát vétett {1} műtétje közben.</MessageMedicalOperationFailureMinor>
   <MessageMedicalOperationFailureRidiculous>{0} nevetséges hibát vétett {1} műtétje közben.</MessageMedicalOperationFailureRidiculous>
-  
+  <MessageMedicalOperationFailureFatal>{0} {1} operációja közben végzetes hibát vétett a következő különleges körülmény miatt: {2}</MessageMedicalOperationFailureFatal>
+
   <MessageMedicalOperationWillAngerFaction>Ettől az műtéttől {0} mérges lesz.</MessageMedicalOperationWillAngerFaction>
 
   <MessagePawnExitMapRelationsGain>Mivel {0} egészségesen távozott, {1} viszonya velünk ennyivel javult: {2}.</MessagePawnExitMapRelationsGain>
@@ -133,6 +134,8 @@
 
   <MessageNoLongerBingingOnDrug>{0} már nem habzsolja ezt: {1}.</MessageNoLongerBingingOnDrug>
 
+  <MessageNoLongerOnTargetedInsultingSpree>{0} leszállt róla: {1}, felhagyott az állandó sértegetéssel.</MessageNoLongerOnTargetedInsultingSpree>
+ 
   <MessageRottedAwayInStorage>Némi {0} elrohadt a raktárban.</MessageRottedAwayInStorage>
 
   <MessageFoodPoisoning>{0} ételmérgezést kapott. Oka: {1}.</MessageFoodPoisoning>
@@ -147,7 +150,11 @@
   <MessageMaxPlanetCoveragePerformanceWarning>Figyelmeztetés: egy egész bolygót létrehozni nagyon sokáig tarthat.</MessageMaxPlanetCoveragePerformanceWarning>
 
   <MessagePlantDiedOfCold>{0} elfagyott.</MessagePlantDiedOfCold>
-  <MessagePlantDiedOfRot>{0} elrohadt, mert nem lett betakarítva.</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfRot>{0} elrohadt.</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfRot_LeftUnharvested>{0} elrohadt, mert nem lett betakarítva.</MessagePlantDiedOfRot_LeftUnharvested>
+  <MessagePlantDiedOfRot_ExposedToLight>{0} elhalt, mert fénynek lett kitéve.</MessagePlantDiedOfRot_ExposedToLight>
+  <MessagePlantDiedOfPoison>{0} elhalt, mert méreg érte.</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfBlight>{0} elhalt, mert penész fertőzte meg.</MessagePlantDiedOfBlight>
 
   <MessagePawnBeingBurned>{0} megégett szuperforró levegő miatt!</MessagePawnBeingBurned>
 
@@ -198,7 +205,7 @@
 
   <MessageReformedCaravan>A karaván újraalakult.</MessageReformedCaravan>
 
-  <MessageCantAbandonLastColonist>Az utolsó gyarmatost nem lehet hátrahagyni.</MessageCantAbandonLastColonist>
+  <MessageCantBanishLastColonist>Az utolsó gyarmatost nem lehet száműzni.</MessageCantBanishLastColonist>
 
   <MessageCantEquipIncapableOfViolence>Nem felvehető: {0} nem képes erőszakra.</MessageCantEquipIncapableOfViolence>
   <MessageCantEquipIncapableOfManipulation>Nem felvehető: nem lehetséges.</MessageCantEquipIncapableOfManipulation>
@@ -228,5 +235,32 @@
   <MessageSiteCountdownBecauseNoMoreEnemies>Minden ellenséget legyőztél. {0} múlva a karaván magától újjáalakul.</MessageSiteCountdownBecauseNoMoreEnemies>
   <MessageSiteCountdownBecauseNoEnemiesInitially>{0} múlva a karaván magától újjáalakul. A világtérképen újjáalakíthatod most is.</MessageSiteCountdownBecauseNoEnemiesInitially>
 
+  <MessageCantBanishDownedPawn>{0} nem száműzhető, mivel nem képes járni.</MessageCantBanishDownedPawn>
+
+  <MessageSleepingPawnsWokenUp>{0} felébredt.</MessageSleepingPawnsWokenUp>
+
+  <MessageCompSpawnerSpawnedItem>Elkészült tárgy: {0}.</MessageCompSpawnerSpawnedItem>
+
+  <MessageHediffCuredByItem>Betegség meggyógyult: {0}.</MessageHediffCuredByItem>
+  <MessageBodyPartCuredByItem>Testrész meggyógyult: {0}.</MessageBodyPartCuredByItem>
+  <MessageResearchProjectFinishedByItem>Kutatás megadva: {0}.</MessageResearchProjectFinishedByItem>
+
+  <MessagePawnResurrected>{0} feléledt!</MessagePawnResurrected>
+
+  <MessageFailedToRescueRelative>Nem sikerült megmenteni őt: {0}. {1} szomorú lesz.</MessageFailedToRescueRelative>
+  <MessageRescuedRelative>Megmentetted őt: {0}. {1} boldog lesz.</MessageRescuedRelative>
+
+  <MessagePrisonerRescued>Mivel megmentetted, NAME csatlakozott a kolóniádhoz.</MessagePrisonerRescued>
+
+  <MessageTornadoLeftMap>A tornádó elhagyta a zónát.</MessageTornadoLeftMap>
+  <MessageTornadoDissipated>A tornádó elenyészett.</MessageTornadoDissipated>
+
+  <MessagePeaceTalksNoDiplomat>Nincs eszméleténél levő, alkalmas diplomatád.</MessagePeaceTalksNoDiplomat>
+
+  <MessageWarningCavePlantsExposedToLight>Figyelem: {0} elhal, ha fény éri.</MessageWarningCavePlantsExposedToLight>
+
+  <MessageTargetedTantrumChangedTarget>{0} nem tudott {1} közelébe férkőzni, ezért a haragját rajta töltötte ki: {2}.</MessageTargetedTantrumChangedTarget>
+
+  <MessageTargetedInsultingSpreeChangedTarget>{0} nem tudott {1} közelébe férkőzni, ezért a haragját rajta töltötte ki: {2}.</MessageTargetedInsultingSpreeChangedTarget>
   
 </LanguageData>

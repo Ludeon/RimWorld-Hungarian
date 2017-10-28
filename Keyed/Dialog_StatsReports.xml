@@ -12,9 +12,12 @@
   <StatsReport_CharacterQuality>Karakter minősége</StatsReport_CharacterQuality>
   <StatsReport_Skills>Készség tényezők</StatsReport_Skills>
   <StatsReport_OtherStats>Más tényezők</StatsReport_OtherStats>
-  <StatsReport_HealthFactors>Egészségi tényezők</StatsReport_HealthFactors>
-  <HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
+  <StatsReport_Health>Egészség</StatsReport_Health>
+  <!-- <StatsReport_HealthFactors>Egészségi tényezők</StatsReport_HealthFactors> -->
+  <HealthFactorMaxImpact>{0} max.</HealthFactorMaxImpact>
+  <HealthFactorAllowedDefect>ha ez alá esik: {0}</HealthFactorAllowedDefect>
   <HealthFactorPercentImpact>{0} fontosság</HealthFactorPercentImpact>
+  <HealthOffsetScale>{0} hatás</HealthOffsetScale>
   <StatsReport_PostProcessed>Utófeldolgozott</StatsReport_PostProcessed>
   <StatsReport_FinalValue>Végső érték</StatsReport_FinalValue>
   <StatsReport_MarketValueFromStuffsAndWork>A piaci alapár az alapanyag és a szükséges munka függvénye.</StatsReport_MarketValueFromStuffsAndWork>
@@ -22,6 +25,7 @@
   <StatsReport_AgeMultiplier>{0} kor szorzó</StatsReport_AgeMultiplier>
   <StatsReport_HealthMultiplier>{0} állapot szorzó</StatsReport_HealthMultiplier>
   <StatsReport_MoodMultiplier>{0} hangulat szorzó</StatsReport_MoodMultiplier>
+  <StatsReport_LightMultiplier>{0} fény(?) szorzó</StatsReport_LightMultiplier>
   <StatsReport_DifficultyMultiplier>{0} nehézség szorzó</StatsReport_DifficultyMultiplier>
   <StatsReport_InBed>Ágyban</StatsReport_InBed>
   <StatsReport_Facilities>Létesítmények</StatsReport_Facilities>
@@ -39,5 +43,8 @@
   <!-- <StatsReport_UnpoweredWorkTable>Nincs áram alatt</StatsReport_UnpoweredWorkTable> -->
   <StatsReport_ScenarioFactor>Forgatókönyv</StatsReport_ScenarioFactor>
   <StatsReport_IngredientsMass>Hozzávalók</StatsReport_IngredientsMass>
-  
+  <StatsReport_PermanentlyDisabled>Végleges rokkantság.</StatsReport_PermanentlyDisabled>
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <StatsReport_AddedBodyPartsMass>Beültetett szervek</StatsReport_AddedBodyPartsMass>
+
 </LanguageData>

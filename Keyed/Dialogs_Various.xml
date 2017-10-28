@@ -65,7 +65,9 @@
   <SaveIsUnknownFormat>A mentés formátuma ismeretlen és biztosan nem fog működni.</SaveIsUnknownFormat>
   <ProblemSavingFile>Hiba a következő fájl mentése közben: {0}:\n\n{1}\n\nEllenőrizze a hibanaplót!.</ProblemSavingFile>
   <LoadAnyway>Mindenképp betölt</LoadAnyway>
-
+  <ChangeLoadedMods>Modlista betöltése mentett állásból</ChangeLoadedMods>
+  <MissingMods>Némely mod nem elérhető, újra kell telepíteni őket</MissingMods>
+  
   <!-- Colony naming-->
   <!-- <NameColonyMessage>Mindenki tudja, hogy nem akarsz sokáig maradni ezen a sziklán, de {0} szerint azért adhatnál a kolóniának egy nevet.\n\nMi legyen a neve?</NameColonyMessage> -->
   <!-- <ColonyGainsName>A kolónia neve mostantól {0}</ColonyGainsName> -->
@@ -153,13 +155,13 @@
   <BillRequiresMayVary>Megj.: kis helyet foglaló hozzávalókból, mint pl. az arany, {0}x annyi kell.</BillRequiresMayVary>
   <ThisIsSmallVolume>Ez egy kis térfogatú hozzávaló. Ez azt jelenti, hogy minden "egység" csak 1/{0}-a normál térfogatú hozzávalóknak. Így ezekből {0}x annyi szükséges az adott recepthez.</ThisIsSmallVolume>
   <UsableIngredients>hozzávaló</UsableIngredients>
-  <DoXTimes>X darab készítése</DoXTimes>
-  <DoUntilYouHaveX>Gyártás X darabig</DoUntilYouHaveX>
-  <DoForever>Gyártás örökké</DoForever>
+  <!-- <DoXTimes>X darab készítése</DoXTimes> -->
+  <!-- <DoUntilYouHaveX>Gyártás X darabig</DoUntilYouHaveX> -->
+  <!-- <DoForever>Gyártás örökké</DoForever> -->
   <BillRepeatTargetCountShort>{0}-ig</BillRepeatTargetCountShort>
-  <BillStoreMode_DropOnFloor>Kerüljön a földre</BillStoreMode_DropOnFloor>
-  <BillStoreMode_BestStockpile>Kerüljön a legjobb raktárba</BillStoreMode_BestStockpile>
-  <BillStoreMode_NearestStockpileAnyPriority>Kerüljön a legközelebbi raktárba</BillStoreMode_NearestStockpileAnyPriority>
+  <!-- <BillStoreMode_DropOnFloor>Kerüljön a földre</BillStoreMode_DropOnFloor> -->
+  <!-- <BillStoreMode_BestStockpile>Kerüljön a legjobb raktárba</BillStoreMode_BestStockpile> -->
+  <!-- <BillStoreMode_NearestStockpileAnyPriority>Kerüljön a legközelebbi raktárba</BillStoreMode_NearestStockpileAnyPriority> -->
 
   <PauseWhenSatisfied>Szünetel ekkor</PauseWhenSatisfied>
   <UnpauseWhenYouHave>Folytat ekkor</UnpauseWhenYouHave>
@@ -213,6 +215,13 @@
   <Addictiveness>Addiktívság</Addictiveness>
   <PackAnimal>Málhás állat</PackAnimal>
   <PackAnimalExplanation>Azt jelzi, hogy az adott állat alkalmas-e teher cipelésére hosszabb távon.</PackAnimalExplanation>
+  <Skill>Készség</Skill>
+  <SurgerySuccessChanceFactor>Sikerességi szorzó</SurgerySuccessChanceFactor>
+  <SurgeryRequireBed>Ágy szükséges</SurgeryRequireBed>
+  <WorkSpeedStat>Munkatempó szabályozó</WorkSpeedStat>
+  <EfficiencyStat>Hatékonyság szabályozó</EfficiencyStat>
+  <ConstructionSkillRequired>Építész készség szükséges</ConstructionSkillRequired>
+  <ConstructionSkillRequiredExplanation>Ilyen magas építész készség szükséges hozzá.</ConstructionSkillRequiredExplanation>
 
   <!-- Trade -->
   <PositiveBuysNegativeSells>Pozitív szám vételt jelent\nNegatív szám eladást</PositiveBuysNegativeSells>
@@ -231,7 +240,9 @@
   <ColonyHasNoMore>Nincs több nálad</ColonyHasNoMore>
   <TraderWillNotTrade>Nem érdekli</TraderWillNotTrade>
   <Negotiator>Alkusz</Negotiator>
-  <NegotiatorTalkingImpaired>Az alkuszod, {0}, egészsége miatt nem tud rendesen beszélni.\n\nEz befolyásolja az árakat.\n\nHasználj egészségesebb alkuszt.</NegotiatorTalkingImpaired>
+  <NegotiatorTalkingImpaired>Az alkuszod, {0}, egészségi állapota miatt nem tud rendesen beszélni.</NegotiatorTalkingImpaired>
+  <NegotiatorHearingImpaired>Az alkuszod, {0}, egészségi állapota miatt nem hall rendesen.</NegotiatorHearingImpaired>
+  <NegotiatorCapacityImpaired>\n\nEz befolyásolja az árakat.\n\nHasználj egészségesebb alkuszt.</NegotiatorCapacityImpaired>
   <ConfirmTraderShortFunds>A kereskedőnek nincs elég ezüstje ehhez az egyezséghez. Mindenképp megkötöd?</ConfirmTraderShortFunds>
   <SortBy>Rendezés</SortBy>
   <TraderTypePrice>kereskedő típusa</TraderTypePrice>
@@ -271,6 +282,8 @@
   <DaysWorthOfFoodWarningDialog>A karavánod már csak {0} napi élelemmel rendelkezik, hamarosan éhezni kezd.\n\nBiztosan létre akarod hozni?</DaysWorthOfFoodWarningDialog>
   <DaysWorthOfFoodWarningDialog_NoFood>A karavánod kifogyott az élelemből, hamarosan éhezni kezd.\n\nBiztosan létre akarod hozni?</DaysWorthOfFoodWarningDialog_NoFood>
   <CaravanFoodWillRotSoonWarningDialog>A hozzárendelt élelem nagy része nemsoká elrohad.\n\nBiztosan meg akarod alakítani ezt a karavánt?</CaravanFoodWillRotSoonWarningDialog>
+  <CaravanIncapableOfSocial>A karavánnak nincs kereskedelemre vagy diplomáciára alkalmas tagja.</CaravanIncapableOfSocial>
+  <CaravanAreYouSure>Biztosan meg akarod alakítani ezt a karavánt?</CaravanAreYouSure>
   <NoExitDirectionForCaravanChosen>Választanod kell egy kilépési irányt a karaván számára.</NoExitDirectionForCaravanChosen>
   <NoCaravanExitDirectionAvailable>(kilépési irány nem érhető el)</NoCaravanExitDirectionAvailable>
   <ExitDirection>Kilépési irány</ExitDirection>
@@ -288,7 +301,8 @@
   <PrisonersSection>Foglyok</PrisonersSection>
   <AnimalsSection>Állatok</AnimalsSection>
   <EstimatedTimeToDestinationButton>Becs. érkezési idő</EstimatedTimeToDestinationButton>
-
+  <AbandonButton>Elhagy</AbandonButton>
+  
   <!-- Split caravan -->
   <SplitCaravan>Karaván felosztása</SplitCaravan>
   <SourceCaravanMustHaveAtLeastOneColonist>Legalább egy járóképes gyarmatos szükséges.</SourceCaravanMustHaveAtLeastOneColonist>
@@ -385,12 +399,17 @@
   <ConfirmLeavePrisonersOrAnimalsBehind>Még maradt itt fogoly vagy állat és az egyetlen karaván, amihez csatlakozhatnának.\n\nHa itt hagyod őket, nem viheted el őket, amíg vissza nem térsz. A foglyok meg fognak szökni, az állatok várnak rád.\n\nHa nem indulsz útnak, csatlakozni fognak hozzád, amint lehetséges.\n\nBiztosan el akarod indítani a karavánt?</ConfirmLeavePrisonersOrAnimalsBehind>
 
   <!-- Abandon pawn -->
-  <ConfirmAbandonPawnDialog>Biztosan magára akarod hagyni őt: {0}?</ConfirmAbandonPawnDialog>
-  <ConfirmAbandonPawnDialog_LeftToDie>{0} szinte biztosan meghal.</ConfirmAbandonPawnDialog_LeftToDie>
-  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} magával viszi a következő felszerelést:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
-  <ConfirmAbandonPawnDialog_AllColonistsThoughts>Minden gyarmatos a következőt fogja gondolni:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
-  <ConfirmAbandonPawnDialog_IndividualThoughts>{0} elhagyása a következőt fogja eredményezni a következő gyarmatosoknál:</ConfirmAbandonPawnDialog_IndividualThoughts>
-
+  <!-- <ConfirmAbandonPawnDialog>Biztosan magára akarod hagyni őt: {0}?</ConfirmAbandonPawnDialog> -->
+  <!-- <ConfirmAbandonPawnDialog_LeftToDie>{0} szinte biztosan meghal.</ConfirmAbandonPawnDialog_LeftToDie> -->
+  <!-- <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} magával viszi a következő felszerelést:</ConfirmAbandonPawnDialog_EquipmentAndApparel> -->
+  <!-- <ConfirmAbandonPawnDialog_AllColonistsThoughts>Minden gyarmatos a következőt fogja gondolni:</ConfirmAbandonPawnDialog_AllColonistsThoughts> -->
+  <!-- <ConfirmAbandonPawnDialog_IndividualThoughts>{0} elhagyása a következőt fogja eredményezni a következő gyarmatosoknál:</ConfirmAbandonPawnDialog_IndividualThoughts> -->
+  <ConfirmBanishPawnDialog>Biztosan száműzöd őt: {0}?</ConfirmBanishPawnDialog>
+  <ConfirmBanishPawnDialog_LeftToDie>{0} szinte biztosan meghal.</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_Items>{0} magával viszi a következő felszerelést:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>Minden gyarmatos a következőt fogja gondolni:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>{0} száműzése a következőt fogja eredményezni a következő gyarmatosoknál:</ConfirmBanishPawnDialog_IndividualThoughts>
+  
   <!-- Send transport pods which are not completely loaded -->
   <ConfirmSendNotCompletelyLoadedPods>A kapszulába nem szállt még be mindenki. {0} hiányzik. Indítsuk?</ConfirmSendNotCompletelyLoadedPods>
 </LanguageData>

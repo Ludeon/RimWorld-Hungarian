@@ -57,6 +57,8 @@
   <!-- <EggDamagedEmbryo>sérült embrió</EggDamagedEmbryo> -->
   <CorpsePercentMissing>Hiányzó testrész</CorpsePercentMissing>
   <HiveReproducesIn>Reprodukció ideje</HiveReproducesIn>
+  <DormantHiveNotReproducing>Alvó: nem reprodukál.</DormantHiveNotReproducing> 
+  <NextSpawnedItemIn>Következő {0} ekkor:</NextSpawnedItemIn>
   <BrokenDown>Elromlott</BrokenDown>
   <BondBrackets>(kötődés)</BondBrackets>
   <Fuel>Üzemanyag</Fuel>
@@ -83,6 +85,7 @@
   <CaravanHoursPerTile>ó/mező</CaravanHoursPerTile>
   <CaravanBaseMovementTime>Alap sebesség</CaravanBaseMovementTime>
   <CurrentTileMovementTime>Jelenlegi sebesség</CurrentTileMovementTime>
+  <StealthFactor>Leplezés</StealthFactor>
   <Temperature>Hőmérséklet</Temperature>
   <BadTemperature>rossz hőmérséklet</BadTemperature>
   <IdealFermentingTemperature>Ideális erjesztési hőmérséklet</IdealFermentingTemperature>
@@ -128,7 +131,13 @@
   <KnownSiteThreat>Fenyegetés: {0}.</KnownSiteThreat>
   <KnownSiteThreats>Fenyegetések: {0}.</KnownSiteThreats>
   <KnownSiteThreatsNone>Fenyegetés: semmi.</KnownSiteThreatsNone>
-    
+  <SkillRequirements>Készség követelmény</SkillRequirements>
+  <Products>Termékek</Products>
+  <DeepDrillExhausted>Mélyfúró erőforrások kimerültek.</DeepDrillExhausted>
+  <Relationship>{0} neki: {1}</Relationship>
+  <Prisoner>Fogoly</Prisoner>
+  <Refugee>Menekült</Refugee>
+  
   <!-- Fermentation barrel -->
   <ContainsWort>Tartalma {0} / {1} söralap.</ContainsWort>
   <ContainsBeer>Tartalma {0} / {1} sör.</ContainsBeer>
@@ -188,6 +197,7 @@
   <!-- Job reports -->
   <ReportHaulingTo>{0} cipelése ide: {1}.</ReportHaulingTo>
   <ReportHauling>{0} cipelése.</ReportHauling>
+  <ReportHaulingUnknown>cipekedik.</ReportHaulingUnknown>
   <ReportSleeping>alszik.</ReportSleeping>
   <ReportResting>pihen.</ReportResting>
   <WatchingSunrise>napkeltét nézi</WatchingSunrise>
@@ -195,12 +205,14 @@
   <WatchingSunset>napnyugtát nézi</WatchingSunset>
   <Stargazing>csillagokat nézi</Stargazing>
   <WatchingEclipse>napfogyatkozást nézi</WatchingEclipse>
+  <WatchingAurora>sarki fényt nézi.</WatchingAurora>
   <UsingVerb>{0} használata ezen: {1}.</UsingVerb>
   <AreaLower>körzet</AreaLower>
   <ReportCowering>fedezékben van.</ReportCowering>
   <ReportStanding>áll.</ReportStanding>
   <ReportExtinguishingFire>tüzet olt.</ReportExtinguishingFire>
   <ReportExtinguishingFireOn>{0} tüzét oltja.</ReportExtinguishingFireOn>
+  <ReportDiggingUpCorpse>tetemet ás ki.</ReportDiggingUpCorpse>
 
   <!-- Lord job reports -->
   <LordReportAttendingMarriageCeremony>Esküvőn vesz részt</LordReportAttendingMarriageCeremony>
@@ -252,6 +264,7 @@
   <InRestraints>Mozgáskorlátozott (lelassítva)</InRestraints>
   <Carrying>Cipeli</Carrying>
   <AffectedBy>Hatás alatt:</AffectedBy>
+  <Queued>Sorban</Queued>
   
   <!-- Inspector general stuff -->
   <SelectNextInSquareTip>Következő dolog ugyanazon a callán.\n\nGyorsbillentyű: {0}\n\nÚjra kattintva ugyanarra a cellára ugyanezt eredményezi.</SelectNextInSquareTip>
@@ -271,6 +284,7 @@
   <PowerOutput>Termelt energia</PowerOutput>
   <PowerBatteryStored>Tárolt</PowerBatteryStored>
   <PowerBatteryEfficiency>Hatékonyság</PowerBatteryEfficiency>
+  <SelfDischarging>Önkisülés</SelfDischarging>
 
   <!-- Temperature control -->
   <TargetTemperature>Célhőmérséklet</TargetTemperature>
@@ -319,6 +333,8 @@
   <GrowSeasonHereNow>Elérkezett a tenyészidőszak.</GrowSeasonHereNow>
   <!-- <CannotGrowTooCold>Nem nő - hideg évszak.</CannotGrowTooCold> -->
   <CannotGrowBadSeasonTemperature>Nem nő (hideg évszak).</CannotGrowBadSeasonTemperature>
+  <Blighted>Penészes</Blighted>
+  <DyingBecauseExposedToLight>Fény miatt haldoklik</DyingBecauseExposedToLight>
 
   <!-- Zones -->
   <Zone>Körzet</Zone>
@@ -350,7 +366,9 @@
   <ShowRoofOverlayToggleButton>Tetők láthatósága be/ki.</ShowRoofOverlayToggleButton>
   <LockNorthUpToggleButton>Kamera forgatásának tiltása, hogy észak mindig felfelé legyen.</LockNorthUpToggleButton>
   <UsePlanetDayNightSystemToggleButton>Napszakváltó rendszer ki/bekapcsolása.</UsePlanetDayNightSystemToggleButton>
-  <ExpandingIconsToggleButton>Távoli objektumoknál dinamikus ikonok megjelenítése.</ExpandingIconsToggleButton>
+  <!-- <ExpandingIconsToggleButton>Távoli objektumoknál dinamikus ikonok megjelenítése.</ExpandingIconsToggleButton> -->
+  <ShowExpandingIconsToggleButton>Nagyobbodó ikonok távoli objektumoknál.</ShowExpandingIconsToggleButton>
+  <ShowWorldFeaturesToggleButton>Természeti képződmények neve látható a térképen.</ShowWorldFeaturesToggleButton>
 
   <!-- Fire -->
   <Fire>Tűz</Fire>
@@ -390,7 +408,13 @@
   <ShipReportCannotLaunch>Kilövés nem lehetséges.</ShipReportCannotLaunch>
   <ShipReportCanLaunch>Kilövésre kész.</ShipReportCanLaunch>
   <ShipReportMissingPart>Kötelező alkatrész hiányzik</ShipReportMissingPart>
+  <ShipReportMissingPartRequires>szükséges</ShipReportMissingPartRequires>
   <ShipReportNoFullPods>Nincs foglalt hibernáló</ShipReportNoFullPods>
+  <ShipReportHibernating>Hibernáló komponens</ShipReportHibernating>
+  <ShipReportNotReady>Komponens nem kész</ShipReportNotReady>
+  <HibernateWarning>Charlon Whitestone kész rá, hogy elkezdje a reaktor felélesztését.\n\nCharlon Whitestone figyelmeztet, hogy az indítási folyamat 15 napot vesz igénybe, és a felszabaduló energia messziről érzékelhető lesz. Az ilyen energiakitörés csillagközi utazásra képes eszközt jelent, ami ide fogja vonzani a banditákat és kincsvadászokat. Készülj fel a fogadásukra.</HibernateWarning>
+  <HibernateCompleteLabel>Reaktor kész</HibernateCompleteLabel>
+  <HibernateComplete>Charlon Whitestone befejezte a reaktor felélesztését. Készen áll a felszállásra.</HibernateComplete>
 
   <!-- Neurotrainer -->
   <NeurotrainerUsed>{0} neuroképzőt ({1}) használt, hogy szintet lépjen {2} -> {3}.</NeurotrainerUsed>
@@ -499,5 +523,9 @@
   <OutfitWorker>Munka</OutfitWorker>
   <OutfitSoldier>Katona</OutfitSoldier>
   <OutfitNudist>Nudista</OutfitNudist>
+
+  <!-- Hibernatable -->
+  <HibernatableHibernating>Hibernálva</HibernatableHibernating>
+  <HibernatableStartingUp>Felébresztés alatt</HibernatableStartingUp>
 
 </LanguageData>

@@ -19,7 +19,8 @@
   <IncapableOfViolenceLower>nem képes erőszakra</IncapableOfViolenceLower>
   <IsNotDraftedLower>{0} nincs besorozva</IsNotDraftedLower>
   <CannotOrderNonControlledLower>nem adható parancs nem irányítható egységnek</CannotOrderNonControlledLower>
-
+  <CannotAttackSelf>nem támadhatod meg magad</CannotAttackSelf>
+  
   <OrderManThing>{0} működtetése</OrderManThing>
 
   <MeleeAttack>Támadd közelharcban ezt: {0}</MeleeAttack>
@@ -41,6 +42,7 @@
   <NoUsableFood>nincs felhasználható étel</NoUsableFood>
   <NoFood>nincs étel</NoFood>
   <AnimalsSkillTooLow>gondozás készség túl alacsony</AnimalsSkillTooLow>
+  <ConstructionSkillTooLow>építész készség túl alacsony</ConstructionSkillTooLow>
   <NoComponentsToRepair>nincs elég alkatrész</NoComponentsToRepair>
   <NoFuelToRefuel>{0} szükséges</NoFuelToRefuel>
   <NoWort>nincs söralap</NoWort>
@@ -48,7 +50,11 @@
   <NoFoodToFillHopper>nincs megfelelő étel</NoFoodToFillHopper>
   <SelfTendDisabled>önellátás letiltva</SelfTendDisabled>
   <ReservedForPrisoners>foglyoknak fenntartva</ReservedForPrisoners>
-
+  <CannotReach>nem elérhető</CannotReach>
+  <NotSurgeryReady>nem kész operációra</NotSurgeryReady>
+  <CantSowCavePlantBecauseOfLight>túl világos</CantSowCavePlantBecauseOfLight>
+  <CantSowCavePlantBecauseUnroofed>fedetlen</CantSowCavePlantBecauseUnroofed>
+  
   <ConsumeThing>Elfogyaszt: {0}</ConsumeThing>
   <!-- <Teetotaler>antialkoholista</Teetotaler> -->
 
@@ -128,7 +134,9 @@
 <!--   <VisitFactionBase>Meglátogatni ezt: {0}</VisitFactionBase>
   <AttackFactionBase>Megtámadni ezt: {0}</AttackFactionBase> -->
   <VisitSettlement>Meglátogatni ezt: {0}</VisitSettlement>
+  <VisitPeaceTalks>Meglátogatni ezt: {0}</VisitPeaceTalks>
   <VisitSite>Meglátogatni ezt: {0}</VisitSite>
+  <VisitEscapeShip>Meglátogatni ezt: {0}</VisitEscapeShip>
   <AttackSite>Megtámadni ezt: {0}</AttackSite>
   <AttackSettlement>Megtámadni ezt: {0}</AttackSettlement>
 

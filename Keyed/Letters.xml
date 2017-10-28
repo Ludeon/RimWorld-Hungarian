@@ -30,6 +30,8 @@
   <RecruitSuccess>{0} sikeresen toborozta őt: {1} ({2} esély).</RecruitSuccess>
   <RecruitFail>{0} sikertelenül próbálta toborozni őt: {1} ({2} esély).</RecruitFail>
 
+  <RelatedPawnInvolvedInQuest>NAME és {0} kapcsoltban állnak: {1}. Ha NAME meghal, {0} sokáig gyászol majd. Viszont ha sikerül megmentened őt, {0} hosszú ideig boldog lesz.</RelatedPawnInvolvedInQuest>
+
   <LetterLabelBirthday>Születésnap</LetterLabelBirthday>
   <BirthdayChronological>Ma van {0} naptári születésnapja! Biológiailag {1} {3} éves.\n\nNaptár szerint {1} most lett {2}.\n\nVedd figyelembe, hogy hibernáció alatt biológiailag nem öregszik a gyarmatos, ezért a naptári és a biológiai kor külön van nyilvántartva.</BirthdayChronological>
   <BirthdayBiologicalAgeInjuries>{0} biológiai kora {1} lett.\n\nSajnos {0} a következő betegségeket szedte össze a kora miatt:\n{2}</BirthdayBiologicalAgeInjuries>
@@ -37,6 +39,10 @@
   <LetterLabelNewDisease>Betegség</LetterLabelNewDisease>
   <NewDisease>{0} beteg lett ({1}). Győződj meg róla, hogy {2} megfelelő ellátást kap és annyi időt tölt ágyban, amennyit csak lehetséges, hogy gyorsan felépüljön.</NewDisease>
   <NewPartDisease>{0} {1} fertőzést kapott ({3}). Győződj meg róla, hogy {2} megfelelő ellátást kap és annyi időt tölt ágyban, amennyit csak lehetséges, hogy gyorsan felépüljön.</NewPartDisease>
+
+  <PawnWasFormerlyColonist>{0} korábban a frakciód tagja volt.</PawnWasFormerlyColonist>
+  <PawnHasTheseRelationshipsWithColonists>{0} ezekkel a gyarmatosokkal áll kapcsolatban:</PawnHasTheseRelationshipsWithColonists>
+  <PrisonerRescueTimeout>A táborhely megszűnik {0} nap múlva. Ha elszalasztod ezt a lehetőséget, talán soha többé nem hallasz felőle: {1}.</PrisonerRescueTimeout>
 
   <LetterLabelAncientShrineWarning>Ősveszély</LetterLabelAncientShrineWarning>
   <AncientShrineWarning>Ahogy {0} közeledik az ősi falhoz, rossz előérzete támad. Nem biztos benne miért, de úgy érzi, ez a poros épület nagy veszélyt rejteget.</AncientShrineWarning>
@@ -157,6 +163,33 @@
   <!-- Found lump of precious resources -->
   <LetterLabelFoundPreciousLump>Értékes ásványok</LetterLabelFoundPreciousLump>
   <LetterFoundPreciousLump>Nagy hatótávú ásvány-letapogatód talált egy telér értékes alapanyagot.\n\nNem lehet tudni, hogy őrzik-e, ha egyáltalán.</LetterFoundPreciousLump>
-  
+ 
+  <!-- Sleeping mechanoids -->
+  <LetterLabelSleepingMechanoids>Alvó mechanoidok</LetterLabelSleepingMechanoids>
+  <LetterSleepingMechanoids>Van pár alvó mechanoid a környéken.\n\nFelébredhetnek, ha közelítesz. Légy óvatos!</LetterSleepingMechanoids>
+
+  <!-- Ambush -->
+  <LetterLabelAmbushInExistingMap>Rajtaütés</LetterLabelAmbushInExistingMap>
+  <LetterAmbushInExistingMap>A hozzád tartozó {0} támadás alatt!</LetterAmbushInExistingMap>
+
+  <!-- Peace talks -->
+  <LetterLabelPeaceTalks_Disaster>Békítő tárgyalás katasztrófa</LetterLabelPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster>A tárgyalások katasztrófálisak voltak. A küldöttek alig értek az üdvözlések végére, máris sértegetesébe és vádaskodásba fordult az egész.\n\nMiután a karavánod hamar távozott, {1} tagja:{0} utólérte és megtámadta!\n\n Kapcsolat velük: {1}, ilyen: {2}.</LetterPeaceTalks_Disaster>
+  <LetterLabelPeaceTalks_Backfire>Békítő tárgyalás visszafelé sült el</LetterLabelPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>A tárgyalások visszafelé sültek el. Annak ellenére, hogy jól indult a dolog, lényegi kérdésekben nem jutottak előrébb a küldöttek, és több kijelentést is sértésnek vettek a felek.\n\nKapcsolat velük: {0}, ilyen: {1}.</LetterPeaceTalks_Backfire>
+  <LetterLabelPeaceTalks_TalksFlounder>Békítő tárgyalás akadozik</LetterLabelPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>A tárgyalások nem haladtak. A küldöttek egyértelműen és tisztelettel beszéltek, de nem értek el eredményt lényegi kérdésekben.\n\nA kapcsolat velük: {0}, változatlan.</LetterPeaceTalks_TalksFlounder>
+  <LetterLabelPeaceTalks_Success>Békítő tárgyalás sikeres</LetterLabelPeaceTalks_Success>
+  <LetterPeaceTalks_Success>A tárgyalások sikeresek voltak. A küldötteknek sikerült közös nevezőre jutni a fő kérdésekben.\n\nKapcsolat velük: {0}, ennyit javult: {1}.</LetterPeaceTalks_Success>
+  <LetterLabelPeaceTalks_Triumph>Békítő tárgyalás diadal</LetterLabelPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>A tárgyalások óriási sikert hoztak! A küldöttek hamar jó személyes viszonyt alakítottak ki egymással és megértették a másik nézőpontját az összes fő problémánál.\n\nKapcsolat velük: {0}, ennyit javult: {1}.\n\nA karavánod induláskor ajándékot ({2}) kapott tőlük: {0}.</LetterPeaceTalks_Triumph>
+  <PeaceTalksSocialXPGain>{0}, az alkuszod, {1} szociális tapasztalati pontott szerzett.</PeaceTalksSocialXPGain>
+
+  <!-- Run wild mental break -->
+  <LetterRunWildMentalBreak>{0} úgy döntött elhagy téged és az állatokkal él tovább.</LetterRunWildMentalBreak>
+
+  <!-- Catatonic mental break -->
+  <LetterCatatonicMentalBreak>{0} katatón összeomlást szenvedett, ami napokig fog tartani.</LetterCatatonicMentalBreak>
+
 
 </LanguageData>
