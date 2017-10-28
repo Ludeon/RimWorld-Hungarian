@@ -11,6 +11,7 @@
   <TabGear>Holmi</TabGear>
   <TabNeeds>Szükség</TabNeeds>
   <TabStorage>Raktár</TabStorage>
+  <TabShells>Lövedékek</TabShells>
   <TabHealth>Egészség</TabHealth>
   <TabRace>Faj</TabRace>
   <TabBasics>Alapok</TabBasics>
@@ -18,6 +19,7 @@
   <TabRecords>Statisztika</TabRecords>
   <TabArt>Művészet</TabArt>
   <TabSocial>Szociális</TabSocial>
+  <TabCombat>Harc</TabCombat>
 
   <!-- Bills tab  -->
   <AddBill>Megrendelés</AddBill>
@@ -33,11 +35,11 @@
   <DoctorsCare>Orvosi ellátás</DoctorsCare>
   <GetsMedicine>Kapjon gyógyszert</GetsMedicine>
   <ShouldTryToRecruit>Toborzandó</ShouldTryToRecruit>
-  <PrisonerNoInteraction>Nincs érintkezés</PrisonerNoInteraction>
-  <PrisonerFriendlyChat>Baráti társalgás</PrisonerFriendlyChat>
-  <PrisonerAttemptRecruit>Társalgás és toborzás</PrisonerAttemptRecruit>
-  <PrisonerRelease>Elengedni</PrisonerRelease>
-  <PrisonerExecution>Kivégezni</PrisonerExecution>
+  <!-- <PrisonerNoInteraction>Nincs érintkezés</PrisonerNoInteraction> -->
+  <!-- <PrisonerFriendlyChat>Baráti társalgás</PrisonerFriendlyChat> -->
+  <!-- <PrisonerAttemptRecruit>Társalgás és toborzás</PrisonerAttemptRecruit> -->
+  <!-- <PrisonerRelease>Elengedni</PrisonerRelease> -->
+  <!-- <PrisonerExecution>Kivégezni</PrisonerExecution> -->
   <ConsideredGuilty>Bűnösnek tekintve (elavul {0} múlva)</ConsideredGuilty>
 
   <!-- Medical - general -->

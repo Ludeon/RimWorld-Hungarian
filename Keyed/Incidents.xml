@@ -7,7 +7,7 @@
   <AnimalInsanityMultiple>Valamiféle pszichotikus hullám söpört végig a tájon. A gyarmatosok jól vannak, de...\n\nÚgy tűnik sok {0} megőrült a környéken.</AnimalInsanityMultiple>
 
   <LetterLabelCropBlight>Penész</LetterLabelCropBlight>
-  <CropBlight>Egy rejtélyes penészfajta elpusztította a növényeket.</CropBlight>
+  <LetterCropBlight>Az egyik gyarmatos penészedő növényeket talált. Ki kellene vágni vagy elégetni őket, mielőtt a fertőzés tovább terjed!</LetterCropBlight>
 
   <LetterLabelMiracleHeal>Csoda</LetterLabelMiracleHeal>
   <MiracleHeal>{0} csodálatos módon felépült!</MiracleHeal>
@@ -31,7 +31,9 @@
   <CargoPodCrash>Egy szállítmány áru zuhant le a közelben.\n\nTalán lesz közte valami használható.</CargoPodCrash>
 
   <AnElectricalConduit>elektromos vezeték</AnElectricalConduit>
-  <ShortCircuit>Egy {0} rövidzár alá került meghibásodás miatt.\n\nAz ehhez kötött összes akkumulátorban tárolt {1} Wd energia felszabadult egy robbanás formájában.</ShortCircuit>
+  <ShortCircuit>Egy {0} rövidzár alá került meghibásodás miatt.</ShortCircuit>
+  <ShortCircuitStartedFire>{0} meghibásodása rövidzárlathoz vezetett, ami tüzet okozott.</ShortCircuitStartedFire>
+  <ShortCircuitDischargedEnergy>Az ehhez kötött összes akkumulátorban tárolt {1} Wd energia felszabadult egy robbanás formájában.</ShortCircuitDischargedEnergy>
   <ShortCircuitWasLarge>A nagy mennyiségű energia tekintélyes robbanást okozott.</ShortCircuitWasLarge>
   <ShortCircuitWasHuge>Ez aztán a robbanás. Hűha!</ShortCircuitWasHuge>
 
@@ -120,14 +122,19 @@
 
   <!-- Journey -->
   <JourneyOffer>Charlon Whitestone, egy barátságos MI, akit régről ismersz, üzenetet küldött neked!\n\nVan egy űrhajója elrejtve ezen a bolygón, megadja a koordinátáit.\n\nHa elutazol oda, Charlon elvisz erről a bolygóról a csillagok közé.</JourneyOffer>
-  
+  <EscapeShipFoundLabel>Felfedezett hajó</EscapeShipFoundLabel>
+  <EscapeShipFound>Odaértél a Charlon Whitestone által megadott koordinátákra és megtaláltad a hajót.\n\nA reaktor még mindig hibernálva van, emiatt nem röpképes. A számítógépközpontot használva indíthatod be.\n\nCharlon Whitestone figyelmeztet, hogy az indítási folyamat 15 napot vesz igénybe, és a felszabaduló energia messziről érzékelhető lesz. Az ilyen energiakitörés csillagközi utazásra képes eszközt jelent, ami ide fogja vonzani a banditákat és kincsvadászokat. Készülj fel a fogadásukra.</EscapeShipFound>
+  <EscapeShipLostLabel>Hajó elpusztítva</EscapeShipLostLabel>
+  <EscapeShipLost>Charlon Whitestone üzenetet küldött.\n\nLátta, hogy elvesztetted az uralmat a hajótest felett. Hogy ne kerüljön rossz kezekbe, el kellett indítania az önmegsemmisítő rendszert. A hajó immár csak egy kráter.\n\nMás módot kell találnod a bolygó elhagyására.</EscapeShipLost>
+
   <!-- Caravan meeting -->
   <CaravanMeetingTitle>Karaván találkozás itt(???): {0}</CaravanMeetingTitle>
   <CaravanMeeting>Karavánod találkozott {0} barátságos karavánjával. Karavánjuk a következőkből áll:\n\n{1}</CaravanMeeting>
   <CaravanMeeting_Trade>Kereskedés</CaravanMeeting_Trade>
   <CaravanMeeting_Attack>Támadás</CaravanMeeting_Attack>
   <CaravanMeeting_MoveOn>Továbbáll</CaravanMeeting_MoveOn>
-  
+  <CaravanMeeting_TradeIncapable>a karavánodnak nincs kereskedésre alkalmas tagja</CaravanMeeting_TradeIncapable>
+ 
     <!-- Caravan request -->
   <LetterLabelCaravanRequest>Karaván igény</LetterLabelCaravanRequest>
   <LetterCaravanRequest>Egy közeli település, {0}, egy különleges ajánlattal keresett meg. Ezt szeretnének venni:\n\n  {1}\n\nEzt adnák érte:\n\n  {2}\n\nAz ajánlat eddig érvényes: {3} \n\nHa érdekel az ajánlat, küldj karavánt az igényelt áruval. Az ajánlat megtekinthető, ha kiválasztod ezt a világtérképen: {0}</LetterCaravanRequest>
@@ -146,9 +153,9 @@
   <ItemStashQuestFeeDemand>{0} elmondja a készlet helyét cserébe {1} ezüstért.</ItemStashQuestFeeDemand>
   <ItemStashSitePart_Unknown>Sajnos {0} semmi információval nem rendelkezik arról, hogy ki vagy mi őrzi a helyet.</ItemStashSitePart_Unknown>
   <ItemStashSitePart_Nothing>{0} szerint a helyet nem őrzik.</ItemStashSitePart_Nothing>
-  <ItemStashSitePart_Outpost>{0} szerint egy ellenséges helyőrség van a közelben.</ItemStashSitePart_Outpost>
-  <ItemStashSitePart_Turrets>{0} szerint ellenséges ágyúk őrzik a helyet.</ItemStashSitePart_Turrets>
-  <ItemStashSitePart_Manhunters>{0} szerint egy csapat emberevő állat van a közelben.</ItemStashSitePart_Manhunters>
-
+  <!-- <ItemStashSitePart_Outpost>{0} szerint egy ellenséges helyőrség van a közelben.</ItemStashSitePart_Outpost> -->
+  <!-- <ItemStashSitePart_Turrets>{0} szerint ellenséges ágyúk őrzik a helyet.</ItemStashSitePart_Turrets> -->
+  <!-- <ItemStashSitePart_Manhunters>{0} szerint egy csapat emberevő állat van a közelben.</ItemStashSitePart_Manhunters> -->
+  <ItemStashSitePart_Part>{0} azt mondja {1}.</ItemStashSitePart_Part>
 
 </LanguageData>

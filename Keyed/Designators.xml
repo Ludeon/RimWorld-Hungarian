@@ -45,14 +45,18 @@
 
   <DesignatorAreaBuildRoofExpand>Fedett körzet kiterjesztése</DesignatorAreaBuildRoofExpand>
   <DesignatorAreaBuildRoofExpandDesc>A gyarmatosok csak a kijelölt körzeten belül építenek tetőt.</DesignatorAreaBuildRoofExpandDesc>
-  <DesignatorAreaBuildRoofClear>Fedett körzet törlése</DesignatorAreaBuildRoofClear>
-  <DesignatorAreaBuildRoofClearDesc>Befedésre kijelölt körzet törlése. A meglévő tetők megmaradnak, újak nem épülnek.</DesignatorAreaBuildRoofClearDesc>
+  <!-- <DesignatorAreaBuildRoofClear>Fedett körzet törlése</DesignatorAreaBuildRoofClear> -->
+  <!-- <DesignatorAreaBuildRoofClearDesc>Befedésre kijelölt körzet törlése. A meglévő tetők megmaradnak, újak nem épülnek.</DesignatorAreaBuildRoofClearDesc> -->
 
   <DesignatorAreaNoRoofExpand>Fedetlen körzet kiterjesztése</DesignatorAreaNoRoofExpand>
   <DesignatorAreaNoRoofExpandDesc>A gyarmatosok eltávolítják a körzeten belüli tetőket (kivéve barlang).</DesignatorAreaNoRoofExpandDesc>
-  <DesignatorAreaNoRoofClear>Fedetlen körzet törlése</DesignatorAreaNoRoofClear>
-  <DesignatorAreaNoRoofClearDesc>A gyarmatosok többé nem távolítják el a tetőket innen.</DesignatorAreaNoRoofClearDesc>
+  <!-- <DesignatorAreaNoRoofClear>Fedetlen körzet törlése</DesignatorAreaNoRoofClear> -->
+  <!-- <DesignatorAreaNoRoofClearDesc>A gyarmatosok többé nem távolítják el a tetőket innen.</DesignatorAreaNoRoofClearDesc> -->
 
+  <DesignatorAreaIgnoreRoofExpand>Fedés figyelmen kívül hagyása</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpandDesc>A gyarmatosok itt nem fognak foglalkozni a fedéssel.</DesignatorAreaIgnoreRoofExpandDesc>
+
+  
   <DesignatorAreaSnowClearExpand>Hómentes körzet kiterjesztése</DesignatorAreaSnowClearExpand>
   <DesignatorAreaSnowClearExpandDesc>\nA körzeten belül a gyarmatosok ellapátolják a havat.</DesignatorAreaSnowClearExpandDesc>
   <DesignatorAreaSnowClearClear>Hómentes körzet törlése</DesignatorAreaSnowClearClear>
@@ -118,5 +122,6 @@
 
   <!-- Desc helpers -->
   <TransmitsPower>Vezeti az áramot</TransmitsPower>
+  <ConstructionNeeded>Építkezés szükséges</ConstructionNeeded>
 
 </LanguageData>

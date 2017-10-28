@@ -136,10 +136,12 @@
   <AvgWinterTemp>Téli átlaghőmérséklet</AvgWinterTemp>
   <AvgSummerTemp>Nyári átlaghőmérséklet</AvgSummerTemp>
   <Rainfall>Esőzés</Rainfall>
+  <SpecialFeatures>Különlegességek</SpecialFeatures>
   <HasCoast0>Északi part</HasCoast0>
   <HasCoast1>Keleti part</HasCoast1>
   <HasCoast2>Déli part</HasCoast2>
   <HasCoast3>Nyugati part</HasCoast3>
+  <HasCaves>barlangok</HasCaves>
   <FactionBase>Frakció bázisa</FactionBase>
   <StoneTypesHere>Sziklafajták</StoneTypesHere>
   <TimeZone>Időzóna</TimeZone>
@@ -147,6 +149,8 @@
   <MovementTimeSummer>Nyári áthaladási idő</MovementTimeSummer>
   <MovementTimeWinter>Téli áthaladási idő</MovementTimeWinter>
   <AnimalsCanGrazeNow>Az állatok legelhetnek</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>Átlagos megbetegedési gyakoriság</AverageDiseaseFrequency>
+  <PerYear>évente</PerYear>
 
   <!--=========== Character chooser ==========-->
   <CreateCharacters>Karakterek létrehozása</CreateCharacters>
@@ -168,6 +172,9 @@
   <Pain>Fájdalom</Pain>
   <Health>Egészség</Health>
   <Relations>Kapcsolatok</Relations>
+  <TeamSkills>Csapat készségek</TeamSkills>
+  <StartingPawnsSelected>Kiválasztott</StartingPawnsSelected>
+  <StartingPawnsLeftBehind>Hátrahagyott</StartingPawnsLeftBehind>
 
   <!--=========== Misc ==========-->
   <Start>Kezdés</Start>

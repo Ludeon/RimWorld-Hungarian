@@ -86,12 +86,15 @@
   <CommandStopAttackFailNotForceAttacking>Jelenleg nincs zárótűz mód aktiválva.</CommandStopAttackFailNotForceAttacking>
   <MessageTargetBeyondMaximumRange>Célpont túl messze van.</MessageTargetBeyondMaximumRange>
   <MessageTargetBelowMinimumRange>Célpont túl közel van.</MessageTargetBelowMinimumRange>
-
+  <MessageTurretWontFireBecauseHoldFire>Figyelem: az ágyú nem fog tüzelni, mert "Tüzet szüntess" módban van.</MessageTurretWontFireBecauseHoldFire>
+  
   <!-- Ship computer core -->
   <CommandShipLaunch>Úrhajó kilövése</CommandShipLaunch>
   <CommandShipLaunchDesc>A kilövési procedúra megkezdése a jelenlegi konfigurációval.</CommandShipLaunchDesc>
   <CommandShipLaunchReport>Kilövési jelentés</CommandShipLaunchReport>
   <CommandShipLaunchReportDesc>Jelentés az űrhajó kilövési készültségéről.</CommandShipLaunchReportDesc>
+  <CommandShipStartup>Hajó beindítása</CommandShipStartup>
+  <CommandShipStartupDesc>Alvó hajókomponensek felélesztése.</CommandShipStartupDesc>
 
   <!-- Pod -->
   <CommandPodEject>Hibernált felébresztése</CommandPodEject>
@@ -136,8 +139,12 @@
   <CommandSquadAttack>Támad</CommandSquadAttack>
   <CommandSquadAttackDesc>Utasítja a kijelölt gyarmatosokat, hogy támadják meg a kiválasztott célpontot.</CommandSquadAttackDesc>
 
+  <!-- Melee attack -->
+  <CommandMeleeAttack>Közelharc</CommandMeleeAttack>
+  <CommandMeleeAttackDesc>A célpont megtámadása ököllel vagy közelharci fegyverrel.</CommandMeleeAttackDesc>
+
   <!-- Hold fire -->
-  <CommandHoldFire>Tüzet szűntess</CommandHoldFire>
+  <CommandHoldFire>Tüzet szüntess</CommandHoldFire>
   <CommandHoldFireDesc>Minden folyamatban lévő támadás beszűntetése.</CommandHoldFireDesc>
 
   <!-- Select plant to grow -->
@@ -165,7 +172,8 @@
   <!-- Merge caravan -->
   <CommandMergeCaravans>Egyesítés</CommandMergeCaravans>
   <CommandMergeCaravansDesc>A kiválasztott karavánok egyesítése.</CommandMergeCaravansDesc>
-
+  <CommandMergeCaravansFailCaravansNotSelected>A kiválasztott karavánok egyesítése. Közel kell lenniük egymáshoz.</CommandMergeCaravansFailCaravansNotSelected>
+  
   <!-- Settle -->
   <CommandSettle>Letelepedés</CommandSettle>
   <CommandSettleDesc>Letelepedés ebben a körzetben. Gyarmatosaid belépnek a körzetbe, ahol hozzáláthatsz egy új otthon megteremtésének.</CommandSettleDesc>
