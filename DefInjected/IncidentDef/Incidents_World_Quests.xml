@@ -6,4 +6,17 @@
   <QuestItemStash.label>Rejtett készlet küldetés</QuestItemStash.label>
   <QuestItemStash.letterText>{0}, aki a {2} frakcióban {1}, üzenetet küldött.\n\nMegtudta, hogy értékes tárgyak várnak a közelben arra, hogy valaki begyűjtse őket. A következő(k)ről lenne szó:\n\n{3}\n\nSajnos csak {4} nap maradt arra, hogy megszerezzük, mielőtt mások megelőznének.\n\nAz értékek sokszor vonzzák a veszélyt is, jobb ha óvatosak leszünk!\n\n{5}</QuestItemStash.letterText>
   <QuestItemStash.letterLabel>Rejtett készlet küldetés</QuestItemStash.letterLabel>
+  
+  <QuestDownedRefugee.label>mozgásképtelen menekült</QuestDownedRefugee.label>
+  <QuestDownedRefugee.letterText>{0} rádión kér segítséget. Megsebesült és nem tud mozogni. A segítséged nélkül {1} nap múlva meghal.\n\nVeszélyes lehet a környék, vigyázz!</QuestDownedRefugee.letterText>
+  <QuestDownedRefugee.letterLabel>Mozgásképtelen menekült</QuestDownedRefugee.letterLabel>
+
+  <QuestPrisonerWillingToJoin.label>fogoly kiszabadítás</QuestPrisonerWillingToJoin.label>
+  <QuestPrisonerWillingToJoin.letterText>{0} foglya valahogy rádióhoz jutott és most téged hív!\n\nNAME egy közeli táborban raboskodik, fegyveres őrökkel körülvéve. Ha megmented, csatlakozik a kolóniához. {1} éves {2}.</QuestPrisonerWillingToJoin.letterText>
+  <QuestPrisonerWillingToJoin.letterLabel>Fogoly kiszabadítás</QuestPrisonerWillingToJoin.letterLabel>
+
+  <QuestPeaceTalks.label>béketárgyalás</QuestPeaceTalks.label>
+  <QuestPeaceTalks.letterText>NAME, aki {0} itt: {1}, üzenetet küldött. Tárgyalni akar veled egy közeli helyen.\n\nEz jó alkalom lehet a kapcsolat javítására, de ne feledd, egy rossz képességű küldött több kárt tehet, mint hasznot.\n\nAz ajánlat {2} napig él.</QuestPeaceTalks.letterText>
+  <QuestPeaceTalks.letterLabel>Béketárgyalás</QuestPeaceTalks.letterLabel>
+
 </LanguageData>

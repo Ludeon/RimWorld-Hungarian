@@ -14,6 +14,16 @@
   <RansomDemand.label>váltságdíj követelés</RansomDemand.label>
   <RansomDemand.letterLabel>Váltságdíj követelés</RansomDemand.letterLabel>
   <CaravanRequest.label>Karaván igény</CaravanRequest.label>
+  
+  <MeteoriteImpact.label>meteorit becsapódás</MeteoriteImpact.label>
+  <MeteoriteImpact.letterText>Nagy meteorit csapódott a földbe a közelben. A helyén a következő fémet találhatod: {0}.</MeteoriteImpact.letterText>
+  <MeteoriteImpact.letterLabel>Meteorit</MeteoriteImpact.letterLabel>
+
+  <HerdMigration.label>vonuló csorda</HerdMigration.label>
+  <HerdMigration.letterText>Nagy csorda {0} vonul át a területen. Békések, ha nem zaklatják őket.</HerdMigration.letterText>
+  <HerdMigration.letterLabel>Vonuló csorda: {0}</HerdMigration.letterLabel>
+
+  
   <PsychicDrone.label>pszichotikus hullámok</PsychicDrone.label>
   <ToxicFallout.label>mérgező csapadék</ToxicFallout.label>
   <ToxicFallout.letterText>Egy távoli vegyi tűz mérgező felhőt bocsájtott az egész régió fölé.\n\nMinden ember vagy állat, aki nincsen tető alatt, lassan megbetegszik az atmoszférából lecsapódó mérgező portól.\n\nPár napig biztos, de akár egy hónapig is eltarthat.</ToxicFallout.letterText>
@@ -27,9 +37,20 @@
   <ColdSnap.label>hideghullám</ColdSnap.label>
   <ColdSnap.letterText>Szokatlanul erős hideghullám kezdődött. Figyelj a kihűlésre és a sorvadó növényekre!</ColdSnap.letterText>
   <ColdSnap.letterLabel>Hideghullám</ColdSnap.letterLabel>
+  
+  <Aurora.label>sarki fény</Aurora.label>
+  <Aurora.letterText>Sarki fény ragyogja be az eget. A hullámzó színáradat mindenki hangulatát javítja, aki látja. Világosabb tőle az éjszaka.</Aurora.letterText>
+  <Aurora.letterLabel>Sarki fény</Aurora.letterLabel>
+
+  
   <Flashstorm.label>ménkűvihar</Flashstorm.label>
   <Flashstorm.letterText>Rengeteg villám csap le egy kis területre. Ez nagy tüzeket okozhat.</Flashstorm.letterText>
   <Flashstorm.letterLabel>Ménkűvihar</Flashstorm.letterLabel>
+  
+  <Tornado.label>tornádó</Tornado.label>
+  <Tornado.letterText>Tornádó alakult ki!\n\nAmerre halad, nagy pusztítást fog végezni.</Tornado.letterText>
+  <Tornado.letterLabel>Tornádó</Tornado.letterLabel>
+
   <ShortCircuit.label>rövidzárlat</ShortCircuit.label>
   <CropBlight.label>penész</CropBlight.label>
   <Alphabeavers.label>alfahódok</Alphabeavers.label>

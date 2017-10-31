@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <WealthTotal.label>Érték (minden)</WealthTotal.label>
+  <WealthTotal.graphLabelY>Mennyiség</WealthTotal.graphLabelY>
   <WealthItems.label>Érték (tárgyak)</WealthItems.label>
+  <WealthItems.graphLabelY>Mennyiség</WealthItems.graphLabelY>
   <WealthBuildings.label>Érték (épületek)</WealthBuildings.label>
+  <WealthBuildings.graphLabelY>Mennyiség</WealthBuildings.graphLabelY>
   <FreeColonists.label>Szabad gyarmatos</FreeColonists.label>
+  <FreeColonists.graphLabelY>Gyarmatos</FreeColonists.graphLabelY>
   <Prisoners.label>Fogoly</Prisoners.label>
+  <Prisoners.graphLabelY>Fogoly</Prisoners.graphLabelY>
   <ColonistMood.label>Hangulat</ColonistMood.label>
+  <ColonistMood.graphLabelY>Százalék</ColonistMood.graphLabelY>
 </LanguageData>
