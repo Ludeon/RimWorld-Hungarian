@@ -4,39 +4,106 @@
   <Berserk.beginLetter>{0} őrjöng!</Berserk.beginLetter>
   <Berserk.beginLetterLabel>Őrjöngés</Berserk.beginLetterLabel>
   <Berserk.recoveryMessage>{0} lenyugodott.</Berserk.recoveryMessage>
-  <Berserk.baseInspectLine>Állapot: őrjöngés</Berserk.baseInspectLine>
+  <Berserk.baseInspectLine>Idegállapot: őrjöngés</Berserk.baseInspectLine>
   <FireStartingSpree.label>gyújtogatás</FireStartingSpree.label>
   <FireStartingSpree.beginLetter>{0} mindent meggyújt.</FireStartingSpree.beginLetter>
   <FireStartingSpree.beginLetterLabel>Gyújtogatás</FireStartingSpree.beginLetterLabel>
   <FireStartingSpree.recoveryMessage>{0} lenyugodott.</FireStartingSpree.recoveryMessage>
-  <FireStartingSpree.baseInspectLine>Állapot: gyújtogatás</FireStartingSpree.baseInspectLine>
+  <FireStartingSpree.baseInspectLine>Idegállapot: gyújtogatás</FireStartingSpree.baseInspectLine>
   <GiveUpExit.label>lelépés</GiveUpExit.label>
   <GiveUpExit.beginLetter>{0} elhagyja a kolóniát.</GiveUpExit.beginLetter>
   <GiveUpExit.beginLetterLabel>Lelépés</GiveUpExit.beginLetterLabel>
   <GiveUpExit.recoveryMessage>{0} meggondolta magát és marad.</GiveUpExit.recoveryMessage>
-  <GiveUpExit.baseInspectLine>Állapot: lelépés</GiveUpExit.baseInspectLine>
+  <GiveUpExit.baseInspectLine>Idegállapot: lelépés</GiveUpExit.baseInspectLine>
   <BingingDrugExtreme.label>Durva drog habzsolás</BingingDrugExtreme.label>
   <BingingDrugExtreme.baseInspectLine>Idegállapot: ezt habzsolja:</BingingDrugExtreme.baseInspectLine>
+
+  <Jailbreaker.label>inducing prisoner to escape</Jailbreaker.label>
+  <Jailbreaker.beginLetter>{0} has a mental breakdown and is going to induce prisoners to escape.</Jailbreaker.beginLetter>
+  <Jailbreaker.beginLetterLabel>jailbreaker</Jailbreaker.beginLetterLabel>
+  <Jailbreaker.recoveryMessage>{0} is no longer inducing prisoners to escape.</Jailbreaker.recoveryMessage>
+  <Jailbreaker.baseInspectLine>Idegállapot: Jailbreaker</Jailbreaker.baseInspectLine>
+
+  <Slaughterer.label>slaughterer</Slaughterer.label>
+  <Slaughterer.beginLetter>{0} has a mental breakdown and is going to vent HIS anger on your animals.</Slaughterer.beginLetter>
+  <Slaughterer.beginLetterLabel>slaughterer</Slaughterer.beginLetterLabel>
+  <Slaughterer.recoveryMessage>{0} is no longer slaughtering random animals.</Slaughterer.recoveryMessage>
+  <Slaughterer.baseInspectLine>Idegállapot: Slaughterer</Slaughterer.baseInspectLine>
+
+  <MurderousRage.label>murderous rage</MurderousRage.label>
+  <MurderousRage.beginLetter>{0} is in a murderous rage. HECAP is going to kill {1}.</MurderousRage.beginLetter>
+  <MurderousRage.beginLetterLabel>murderous rage</MurderousRage.beginLetterLabel>
+  <MurderousRage.recoveryMessage>{0} is no longer in a murderous rage.</MurderousRage.recoveryMessage>
+  <MurderousRage.baseInspectLine>Idegállapot: Murderous rage</MurderousRage.baseInspectLine>
+
+    <!-- Mental breaks: major -->
+  
   <BingingDrugMajor.label>Drog habzsolás</BingingDrugMajor.label>
   <BingingDrugMajor.baseInspectLine>Idegállapot: ezt habzsolja:</BingingDrugMajor.baseInspectLine>
   <WanderPsychotic.label>pszichotikus ténfergés</WanderPsychotic.label>
   <WanderPsychotic.beginLetter>{0} összeomlott és zavarodottan járkál.</WanderPsychotic.beginLetter>
   <WanderPsychotic.beginLetterLabel>Zavarodottság</WanderPsychotic.beginLetterLabel>
   <WanderPsychotic.recoveryMessage>{0} zavarodottsága elmúlt.</WanderPsychotic.recoveryMessage>
-  <WanderPsychotic.baseInspectLine>Állapot: zavarodott járkálás</WanderPsychotic.baseInspectLine>
+  <WanderPsychotic.baseInspectLine>Idegállapot: zavarodott járkálás</WanderPsychotic.baseInspectLine>
+
+  <Tantrum.label>dühroham</Tantrum.label>
+  <Tantrum.beginLetter>{0} dührohamot kapott.</Tantrum.beginLetter>
+  <Tantrum.beginLetterLabel>dühroham</Tantrum.beginLetterLabel>
+  <Tantrum.recoveryMessage>{0} dührohama elmúlt.</Tantrum.recoveryMessage>
+  <Tantrum.baseInspectLine>Idegállapot: Dühroham</Tantrum.baseInspectLine>
+
+  <TargetedTantrum.label>dühroham</TargetedTantrum.label>
+  <TargetedTantrum.beginLetter>{0} dührohamot kapott. Szét fogja verni ezt: {1}.</TargetedTantrum.beginLetter>
+  <TargetedTantrum.beginLetterLabel>dühroham</TargetedTantrum.beginLetterLabel>
+  <TargetedTantrum.recoveryMessage>{0} dührohama elmúlt.</TargetedTantrum.recoveryMessage>
+  <TargetedTantrum.baseInspectLine>Idegállapot: Dühroham</TargetedTantrum.baseInspectLine>
+
+  <BedroomTantrum.label>dühroham</BedroomTantrum.label>
+  <BedroomTantrum.beginLetter>{0} dührohamot kapott. Szét fogja verni szobája bútorait.</BedroomTantrum.beginLetter>
+  <BedroomTantrum.beginLetterLabel>dühroham</BedroomTantrum.beginLetterLabel>
+  <BedroomTantrum.recoveryMessage>{0} dührohama elmúlt.</BedroomTantrum.recoveryMessage>
+  <BedroomTantrum.baseInspectLine>Idegállapot: Dühroham</BedroomTantrum.baseInspectLine>
+
+  <SadisticRage.label>sadistic rage</SadisticRage.label>
+  <SadisticRage.beginLetter>{0} is in a sadistic rage. HECAP is going to vent HIS anger on the prisoners.</SadisticRage.beginLetter>
+  <SadisticRage.beginLetterLabel>sadistic rage</SadisticRage.beginLetterLabel>
+  <SadisticRage.recoveryMessage>{0} is no longer in a sadistic rage.</SadisticRage.recoveryMessage>
+  <SadisticRage.baseInspectLine>Idegállapot: Sadistic rage</SadisticRage.baseInspectLine>
+
+  <CorpseObsession.label>corpse obsession</CorpseObsession.label>
+  <CorpseObsession.beginLetter>{0} is having a corpse obsession. HECAP is going to dig up a corpse.</CorpseObsession.beginLetter>
+  <CorpseObsession.beginLetterLabel>corpse obsession</CorpseObsession.beginLetterLabel>
+  <CorpseObsession.recoveryMessage>{0} is no longer having a corpse obsession.</CorpseObsession.recoveryMessage>
+  <CorpseObsession.baseInspectLine>Idegállapot: Corpse obsession</CorpseObsession.baseInspectLine>
+  
+    <!-- Mental breaks: minor -->
+  
   <BingingFood.label>zabálás</BingingFood.label>
   <BingingFood.beginLetter>{0} bezabálja a készleteket.</BingingFood.beginLetter>
   <BingingFood.beginLetterLabel>Zabálás</BingingFood.beginLetterLabel>
   <BingingFood.recoveryMessage>{0} már nem habzsol.</BingingFood.recoveryMessage>
-  <BingingFood.baseInspectLine>Állapot: zabálás</BingingFood.baseInspectLine>
+  <BingingFood.baseInspectLine>Idegállapot: zabálás</BingingFood.baseInspectLine>
   <WanderSad.label>szomorú ténfergés</WanderSad.label>
   <WanderSad.beginLetter>{0} szomorúan járkál.</WanderSad.beginLetter>
   <WanderSad.beginLetterLabel>Szomorúság</WanderSad.beginLetterLabel>
   <WanderSad.recoveryMessage>{0} jobb kedvre derült.</WanderSad.recoveryMessage>
-  <WanderSad.baseInspectLine>Állapot: szomorú ténfergés</WanderSad.baseInspectLine>
+  <WanderSad.baseInspectLine>Idegállapot: szomorú ténfergés</WanderSad.baseInspectLine>
   <WanderOwnRoom.label>szobában ténfergés</WanderOwnRoom.label>
   <WanderOwnRoom.beginLetter>{0} bezárkózott a szobájába.</WanderOwnRoom.beginLetter>
   <WanderOwnRoom.beginLetterLabel>Bezárkózás</WanderOwnRoom.beginLetterLabel>
   <WanderOwnRoom.recoveryMessage>{0} már nem bujkál a szobájában.</WanderOwnRoom.recoveryMessage>
-  <WanderOwnRoom.baseInspectLine>Állapot: szobában ténfergés</WanderOwnRoom.baseInspectLine>
+  <WanderOwnRoom.baseInspectLine>Idegállapot: szobában ténfergés</WanderOwnRoom.baseInspectLine>
+
+  <InsultingSpree.label>insulting spree</InsultingSpree.label>
+  <InsultingSpree.beginLetter>{0} is on an insulting spree.</InsultingSpree.beginLetter>
+  <InsultingSpree.beginLetterLabel>insulting spree</InsultingSpree.beginLetterLabel>
+  <InsultingSpree.recoveryMessage>{0} is no longer on an insulting spree.</InsultingSpree.recoveryMessage>
+  <InsultingSpree.baseInspectLine>Idegállapot: Insulting spree</InsultingSpree.baseInspectLine>
+
+  <TargetedInsultingSpree.label>insulting spree</TargetedInsultingSpree.label>
+  <TargetedInsultingSpree.beginLetter>{0} is on an insulting spree against {1}.</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetterLabel>insulting spree</TargetedInsultingSpree.beginLetterLabel>
+  <TargetedInsultingSpree.recoveryMessage></TargetedInsultingSpree.recoveryMessage>
+  <TargetedInsultingSpree.baseInspectLine>Idegállapot: Insulting spree against {0}</TargetedInsultingSpree.baseInspectLine>
+
 </LanguageData>
