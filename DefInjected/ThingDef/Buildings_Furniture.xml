@@ -29,6 +29,20 @@
   <HospitalBed_Blueprint_Install.label>betegágy (tervrajz)</HospitalBed_Blueprint_Install.label>
   <HospitalBed_Frame.label>betegágy (építmény)</HospitalBed_Frame.label>
   <HospitalBed_Frame.description>Ágy sebesültek kezeléséhez tervezve. Javítja a sikeres orvosi beavatkozás esélyét.</HospitalBed_Frame.description>
+  
+  <Bedroll.label>hálózsák</Bedroll.label>
+  <Bedroll.description>Földre terített egyszerű fekhely, általában szövetből vagy bőrből, gyakran szőrmével bélelve. Nagyon könnyű és feltekerhető a könnyebb szállítás érdekében, de nem olyan kényelmes, mint egy ágy.</Bedroll.description>
+  <Bedroll_Blueprint.label>hálózsák (tervrajz)</Bedroll_Blueprint.label>
+  <Bedroll_Blueprint_Install.label>hálózsák (tervrajz)</Bedroll_Blueprint_Install.label>
+  <Bedroll_Frame.label>hálózsák (építmény)</Bedroll_Frame.label>
+  <Bedroll_Frame.description>Földre terített egyszerű fekhely, általában szövetből vagy bőrből, gyakran szőrmével bélelve. Nagyon könnyű és feltekerhető a könnyebb szállítás érdekében, de nem olyan kényelmes, mint egy ágy.</Bedroll_Frame.description>
+  <BedrollDouble.label>dupla hálózsák</BedrollDouble.label>
+  <BedrollDouble.description>Földre terített duplaszéles fekhely, általában szövetből vagy bőrből, gyakran szőrmével bélelve. Nagyon könnyű és feltekerhető a könnyebb szállítás érdekében, de nem olyan kényelmes, mint egy ágy.</BedrollDouble.description>
+  <BedrollDouble_Blueprint.label>dupla hálózsák (tervrajz)</BedrollDouble_Blueprint.label>
+  <BedrollDouble_Blueprint_Install.label>dupla hálózsák (tervrajz)</BedrollDouble_Blueprint_Install.label>
+  <BedrollDouble_Frame.label>dupla hálózsák (építmény)</BedrollDouble_Frame.label>
+  <BedrollDouble_Frame.description>Földre terített duplaszéles fekhely, általában szövetből vagy bőrből, gyakran szőrmével bélelve. Nagyon könnyű és feltekerhető a könnyebb szállítás érdekében, de nem olyan kényelmes, mint egy ágy.</BedrollDouble_Frame.description>
+
   <AnimalSleepingSpot.label>fekhely (állat)</AnimalSleepingSpot.label>
   <AnimalSleepingSpot.description>Alvásra kijelölt hely a padlón állatok számára.</AnimalSleepingSpot.description>
   <AnimalSleepingSpot_Blueprint.label>fekhely (állat) (tervrajz)</AnimalSleepingSpot_Blueprint.label>
@@ -64,18 +78,56 @@
   <Armchair_Blueprint_Install.label>karosszék (tervrajz)</Armchair_Blueprint_Install.label>
   <Armchair_Frame.label>karosszék (építmény)</Armchair_Frame.label>
   <Armchair_Frame.description>Nagy, puha, kényelmes szék. Ideális pihenéshez.</Armchair_Frame.description>
-  <TableShort.label>asztal (kicsi)</TableShort.label>
-  <TableShort.description>Az emberek asztalról esznek, ha van mellettük szék.</TableShort.description>
-  <TableShort_Blueprint.label>asztal (kicsi) (tervrajz)</TableShort_Blueprint.label>
-  <TableShort_Blueprint_Install.label>asztal (kicsi) (tervrajz)</TableShort_Blueprint_Install.label>
-  <TableShort_Frame.label>asztal (kicsi) (építmény)</TableShort_Frame.label>
-  <TableShort_Frame.description>Az emberek asztalról esznek, ha van mellettük szék.</TableShort_Frame.description>
-  <TableLong.label>asztal (nagy)</TableLong.label>
-  <TableLong.description>Az emberek asztalról esznek, ha van mellettük szék.</TableLong.description>
-  <TableLong_Blueprint.label>asztal (nagy) (tervrajz)</TableLong_Blueprint.label>
-  <TableLong_Blueprint_Install.label>asztal (nagy) (tervrajz)</TableLong_Blueprint_Install.label>
-  <TableLong_Frame.label>asztal (nagy) (építmény)</TableLong_Frame.label>
-  <TableLong_Frame.description>Az emberek asztalról esznek, ha van mellettük szék.</TableLong_Frame.description>
+ 
+ <!-- <TableShort.label>asztal (kicsi)</TableShort.label> -->
+  <!-- <TableShort.description>Az emberek asztalról esznek, ha van mellettük szék.</TableShort.description> -->
+  <!-- <TableShort_Blueprint.label>asztal (kicsi) (tervrajz)</TableShort_Blueprint.label> -->
+  <!-- <TableShort_Blueprint_Install.label>asztal (kicsi) (tervrajz)</TableShort_Blueprint_Install.label> -->
+  <!-- <TableShort_Frame.label>asztal (kicsi) (építmény)</TableShort_Frame.label> -->
+  <!-- <TableShort_Frame.description>Az emberek asztalról esznek, ha van mellettük szék.</TableShort_Frame.description> -->
+  <!-- <TableLong.label>asztal (nagy)</TableLong.label> -->
+  <!-- <TableLong.description>Az emberek asztalról esznek, ha van mellettük szék.</TableLong.description> -->
+  <!-- <TableLong_Blueprint.label>asztal (nagy) (tervrajz)</TableLong_Blueprint.label> -->
+  <!-- <TableLong_Blueprint_Install.label>asztal (nagy) (tervrajz)</TableLong_Blueprint_Install.label> -->
+  <!-- <TableLong_Frame.label>asztal (nagy) (építmény)</TableLong_Frame.label> -->
+  <!-- <TableLong_Frame.description>Az emberek asztalról esznek, ha van mellettük szék.</TableLong_Frame.description> -->
+ 
+  <EndTable.label>éjjeliszekrény</EndTable.label>
+  <EndTable.description>Kis asztalka az ágy fejénél. A közeli ágyak kényelmét növeli. Az ágy fejrésze mellé kell helyezni. Egy ágyra maximum egy éjjeliszekrény van hatással.</EndTable.description>
+  <EndTable_Blueprint.label>éjjeliszekrény (tervrajz)</EndTable_Blueprint.label>
+  <EndTable_Blueprint_Install.label>éjjeliszekrény (tervrajz)</EndTable_Blueprint_Install.label>
+  <EndTable_Frame.label>éjjeliszekrény (építmény)</EndTable_Frame.label>
+  <EndTable_Frame.description>Kis asztalka az ágy fejénél. A közeli ágyak kényelmét növeli. Az ágy fejrésze mellé kell helyezni. Egy ágyra maximum egy éjjeliszekrény van hatással.</EndTable_Frame.description>
+
+  <Table1x2c.label>asztal (1x2)</Table1x2c.label>
+  <Table1x2c.description>Ha van felé néző szék, az emberek erről esznek.</Table1x2c.description>
+  <Table1x2c_Blueprint.label>asztal (1x2) (tervrajz)</Table1x2c_Blueprint.label>
+  <Table1x2c_Blueprint_Install.label>asztal (1x2) (tervrajz)</Table1x2c_Blueprint_Install.label>
+  <Table1x2c_Frame.label>asztal (1x2) (építmény)</Table1x2c_Frame.label>
+  <Table1x2c_Frame.description>Ha van felé néző szék, az emberek erről esznek.</Table1x2c_Frame.description>
+
+  <Table2x2c.label>asztal (2x2)</Table2x2c.label>
+  <Table2x2c.description>Ha van felé néző szék, az emberek erről esznek.</Table2x2c.description>
+  <Table2x2c_Blueprint.label>asztal (2x2) (tervrajz)</Table2x2c_Blueprint.label>
+  <Table2x2c_Blueprint_Install.label>asztal (2x2) (tervrajz)</Table2x2c_Blueprint_Install.label>
+  <Table2x2c_Frame.label>asztal (2x2) (építmény)</Table2x2c_Frame.label>
+  <Table2x2c_Frame.description>Ha van felé néző szék, az emberek erről esznek.</Table2x2c_Frame.description>
+
+  <Table2x4c.label>asztal (2x4)</Table2x4c.label>
+  <Table2x4c.description>Ha van felé néző szék, az emberek erről esznek.</Table2x4c.description>
+  <Table2x4c_Blueprint.label>asztal (2x4) (tervrajz)</Table2x4c_Blueprint.label>
+  <Table2x4c_Blueprint_Install.label>asztal (2x4) (tervrajz)</Table2x4c_Blueprint_Install.label>
+  <Table2x4c_Frame.label>asztal (2x4) (építmény)</Table2x4c_Frame.label>
+  <Table2x4c_Frame.description>Ha van felé néző szék, az emberek erről esznek.</Table2x4c_Frame.description>
+
+  <Table3x3c.label>asztal (3x3)</Table3x3c.label>
+  <Table3x3c.description>Ha van felé néző szék, az emberek erről esznek.</Table3x3c.description>
+  <Table3x3c_Blueprint.label>asztal (3x3) (tervrajz)</Table3x3c_Blueprint.label>
+  <Table3x3c_Blueprint_Install.label>asztal (3x3) (tervrajz)</Table3x3c_Blueprint_Install.label>
+  <Table3x3c_Frame.label>asztal (3x3) (építmény)</Table3x3c_Frame.label>
+  <Table3x3c_Frame.description>Ha van felé néző szék, az emberek erről esznek.</Table3x3c_Frame.description>
+
+
   <PlantPot.label>virágcserép</PlantPot.label>
   <PlantPot.description>Dekoratív virágok ültethetők ide, amik javítják az emberek hangulatát.</PlantPot.description>
   <PlantPot_Blueprint.label>virágcserép (tervrajz)</PlantPot_Blueprint.label>
@@ -124,4 +176,13 @@
   <Shelf_Blueprint_Install.label>polc (tervrajz)</Shelf_Blueprint_Install.label>
   <Shelf_Frame.label>polc (építmény)</Shelf_Frame.label>
   <Shelf_Frame.description>Polcon tárolt tárgyak állaga nem romlik, még a szabad ég alatt sem.</Shelf_Frame.description>
+ <!-- Dressers -->
+
+  <Dresser.label>komód</Dresser.label>
+  <Dresser.description>A közeli ágyak kényelmét növeli. Egy ágyra maximum egy komód van hatással.</Dresser.description>
+  <Dresser_Blueprint.label>komód (tervrajz)</Dresser_Blueprint.label>
+  <Dresser_Blueprint_Install.label>komód (tervrajz)</Dresser_Blueprint_Install.label>
+  <Dresser_Frame.label>komód (építmény)</Dresser_Frame.label>
+  <Dresser_Frame.description>A közeli ágyak kényelmét növeli. Egy ágyra maximum egy komód van hatással.</Dresser_Frame.description>
+
 </LanguageData>

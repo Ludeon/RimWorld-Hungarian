@@ -12,9 +12,9 @@
   <DestroyWeapon.label>fegyver megsemmisítés</DestroyWeapon.label>
   <DestroyWeapon.description>Fegyverek elégetése. Gyorsabb, mint a beolvasztás, és nem olvasztható tárgyakon is működik, de nem ad nyersanyagot.</DestroyWeapon.description>
   <DestroyWeapon.jobString>Fegyvert semmisít meg.</DestroyWeapon.jobString>
-  <MakeMortarShell.label>ágyúlövedék</MakeMortarShell.label>
-  <MakeMortarShell.description>Lövedék készítése tarackok számára.</MakeMortarShell.description>
-  <MakeMortarShell.jobString>Ágyúlövedéket gyárt.</MakeMortarShell.jobString>
+  <!-- <MakeMortarShell.label>ágyúlövedék</MakeMortarShell.label> -->
+  <!-- <MakeMortarShell.description>Lövedék készítése tarackok számára.</MakeMortarShell.description> -->
+  <!-- <MakeMortarShell.jobString>Ágyúlövedéket gyárt.</MakeMortarShell.jobString> -->
   <MakeChemfuelFromWood.label>kémiai üzemanyag fából</MakeChemfuelFromWood.label>
   <MakeChemfuelFromWood.description>Kémiai üzemanyag készítése fa elpárologtatásával.</MakeChemfuelFromWood.description>
   <MakeChemfuelFromWood.jobString>Fából kémiai üzemanyagot gyárt.</MakeChemfuelFromWood.jobString>
@@ -24,4 +24,8 @@
   <MakeComponent.label>alkatrész gyártás</MakeComponent.label>
   <MakeComponent.description>Alkatrész legyártása.</MakeComponent.description>
   <MakeComponent.jobString>Alkatrészt gyárt.</MakeComponent.jobString>
+  <MakeAdvancedComponent.label>fejlett alkatrész</MakeAdvancedComponent.label>
+  <MakeAdvancedComponent.description>Fejlett alkatrész gyártása.</MakeAdvancedComponent.description>
+  <MakeAdvancedComponent.jobString>Fejlett alkatrészt gyárt.</MakeAdvancedComponent.jobString>
+
 </LanguageData>

@@ -10,11 +10,24 @@
   <PowerSwitch_Blueprint.label>kapcsoló (tervrajz)</PowerSwitch_Blueprint.label>
   <PowerSwitch_Frame.label>kapcsoló (építmény)</PowerSwitch_Frame.label>
   <PowerSwitch_Frame.description>Ki/bekapcsolja az áramot.</PowerSwitch_Frame.description>
-  <FueledGenerator.label>mini hőerőmű</FueledGenerator.label>
-  <FueledGenerator.description>Fa elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</FueledGenerator.description>
-  <FueledGenerator_Blueprint.label>mini hőerőmű (tervrajz)</FueledGenerator_Blueprint.label>
-  <FueledGenerator_Frame.label>mini hőerőmű (építmény)</FueledGenerator_Frame.label>
-  <FueledGenerator_Frame.description>Fa elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</FueledGenerator_Frame.description>
+  <!-- <FueledGenerator.label>mini hőerőmű</FueledGenerator.label> -->
+  <!-- <FueledGenerator.description>Fa elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</FueledGenerator.description> -->
+  <!-- <FueledGenerator_Blueprint.label>mini hőerőmű (tervrajz)</FueledGenerator_Blueprint.label> -->
+  <!-- <FueledGenerator_Frame.label>mini hőerőmű (építmény)</FueledGenerator_Frame.label> -->
+  <!-- <FueledGenerator_Frame.description>Fa elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</FueledGenerator_Frame.description> -->
+  <WoodFiredGenerator.label>fatüzelésű hőerőmű</WoodFiredGenerator.label>
+  <WoodFiredGenerator.description>Fa elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</WoodFiredGenerator.description>
+  <WoodFiredGenerator_Blueprint.label>fatüzelésű hőerőmű (blueprint)</WoodFiredGenerator_Blueprint.label>
+  <WoodFiredGenerator_Frame.label>fatüzelésű hőerőmű (building)</WoodFiredGenerator_Frame.label>
+  <WoodFiredGenerator_Frame.description>Fa elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</WoodFiredGenerator_Frame.description>
+
+  <ChemfuelPoweredGenerator.label>kémiai hőerőmű</ChemfuelPoweredGenerator.label>
+  <ChemfuelPoweredGenerator.description>Kémiai üzemanyag elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</ChemfuelPoweredGenerator.description>
+  <ChemfuelPoweredGenerator_Blueprint.label>kémiai hőerőmű (blueprint)</ChemfuelPoweredGenerator_Blueprint.label>
+  <ChemfuelPoweredGenerator_Frame.label>kémiai hőerőmű (building)</ChemfuelPoweredGenerator_Frame.label>
+  <ChemfuelPoweredGenerator_Frame.description>Kémiai üzemanyag elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</ChemfuelPoweredGenerator_Frame.description>
+ 
+
   <Battery.label>akkumulátor</Battery.label>
   <Battery.description>Elektromos töltést tárol, ha felesleg termelődik, és leadja azt, ha hiány van. Vigyázat - a feltöltött akkumulátorok berobbanhatnak a nagy melegben vagy ha víz éri őket.</Battery.description>
   <Battery_Blueprint.label>akkumulátor (tervrajz)</Battery_Blueprint.label>

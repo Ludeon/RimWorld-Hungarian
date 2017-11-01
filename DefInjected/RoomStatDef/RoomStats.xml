@@ -45,7 +45,8 @@
   <Cleanliness.scoreStages.3.label>tiszta</Cleanliness.scoreStages.3.label>
   <Cleanliness.scoreStages.4.label>steril</Cleanliness.scoreStages.4.label>
   <InfectionChanceFactor.label>fertőzés esélye</InfectionChanceFactor.label>
-  <SurgerySuccessChanceFactor.label>sikeres műtét esélye</SurgerySuccessChanceFactor.label>
+  <!-- <SurgerySuccessChanceFactor.label>sikeres műtét esélye</SurgerySuccessChanceFactor.label> -->
+  <SurgerySuccessChanceCleanlinessFactor.label>sikeres műtét esélye</SurgerySuccessChanceCleanlinessFactor.label>
   <ResearchSpeedFactor.label>kutatás sebessége</ResearchSpeedFactor.label>
   <GraveVisitingJoyGainFactor.label>sírlátogatás hangulatjavító szorzója</GraveVisitingJoyGainFactor.label>
   <FoodPoisonChanceFactor.label>ételmérgezés esélye</FoodPoisonChanceFactor.label>

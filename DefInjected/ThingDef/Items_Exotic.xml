@@ -2,11 +2,39 @@
 <LanguageData>
   <AIPersonaCore.label>MI személyiségközpont</AIPersonaCore.label>
   <AIPersonaCore.description>Nagyon fejlett számítógép, ami egy mesterséges intelligenciának ad otthont. Elszigetelve inaktív állapotba kerül, de megfelelő kiszolgálórendszerekkel kiegészítve félelmetes gépezetté válik.</AIPersonaCore.description>
-  <Neurotrainer.label>neuroképző</Neurotrainer.label>
-  <Neurotrainer.description>Egyszer használatos nanotechnológiás képzőeszköz. Nanogépeket ültet közvetlenül az agyba, így növelve bizonyos készségeket.</Neurotrainer.description>
-  <Neurotrainer.comps.1.useLabel>Neuroképzővel tanulja ezt: {0}</Neurotrainer.comps.1.useLabel>
+  <!-- <Neurotrainer.label>neuroképző</Neurotrainer.label> -->
+  <!-- <Neurotrainer.description>Egyszer használatos nanotechnológiás képzőeszköz. Nanogépeket ültet közvetlenül az agyba, így növelve bizonyos készségeket.</Neurotrainer.description> -->
+  <!-- <Neurotrainer.comps.1.useLabel>Neuroképzővel tanulja ezt: {0}</Neurotrainer.comps.1.useLabel> -->
+  <MechSerumNeurotrainer.label>neuroképző mech szérum</MechSerumNeurotrainer.label>
+  <MechSerumNeurotrainer.description>Egyszer használatos nanotechnológiás képzőeszköz. A szemgolyón keresztül adják be. Amint az agyba jut, a nanitok gyorsan felfejlesztik az alany egy bizonyos készségét, a szükséges agyszövetek megformálásával.</MechSerumNeurotrainer.description>
+  <MechSerumNeurotrainer.comps.1.useLabel>Neuroképzés mech szérum használatával: {0}</MechSerumNeurotrainer.comps.1.useLabel>
+
+  <MechSerumHealer.label>gyógyító mech szérum</MechSerumHealer.label>
+  <MechSerumHealer.description>Egyszer használatos nanotechnológiás gyógyitóeszköz. A nanitok célzottan meggyógyítják a legrosszabb betegséget vagy fogyatékosságot. Amúgy gyógyíthatatlan betegségeknél is hatékony. A nanitok képesek szerveket vagy akár végtagokat is pótolni.</MechSerumHealer.description>
+  <MechSerumHealer.comps.1.useLabel>Gyógyító mech szérum használata</MechSerumHealer.comps.1.useLabel>
+
+  <MechSerumResurrector.label>feltámasztó mech szérum</MechSerumResurrector.label>
+  <MechSerumResurrector.description>Egyszer használatos nanotechnológiás eszköz holtak feltámasztására. Röviddel halál után beadva, a nanitok meggyógyítják a serült szöveteket és felélesztik a testet. Nem mindig teljes a siker. A felélesztett szenvedhet agysérülést, vakságot, progresszív pszichózist. Minél előbb beadják, annál jobbak az eredmények.</MechSerumResurrector.description>
+  <MechSerumResurrector.comps.1.useLabel>Feltámasztó mech szérum használata</MechSerumResurrector.comps.1.useLabel>
+
+
+  <!-- Technology helper persona -->
+
+  <TechprofSubpersonaCore.label>techprof MI személyiségközpont</TechprofSubpersonaCore.label>
+  <TechprofSubpersonaCore.description>Egyszerű MI személyiségközpont, ami arra van kifejlesztve, hogy egy technológiát betanítson. Használatkor azonnal és ingyen megtanít egy általad nem ismert technológiát. Csak egyszer használható.</TechprofSubpersonaCore.description>
+  <TechprofSubpersonaCore.comps.1.useLabel>techprof MI használata</TechprofSubpersonaCore.comps.1.useLabel>
+
+
+  <!-- Thrumbo horn -->
+
   <ThrumboHorn.label>trumbo-szarv</ThrumboHorn.label>
   <ThrumboHorn.description>Egy trumbo szarva. Borotvaéles, nagyon kemény, a legtöbb piacon felbecsülhetetlen az értéke. Igazi trófea.</ThrumboHorn.description>
+  <ThrumboHorn.tools.0.label>hegy</ThrumboHorn.tools.0.label>
+  <ThrumboHorn.tools.1.label>tő</ThrumboHorn.tools.1.label>
+ 
   <ElephantTusk.label>elefántagyar</ElephantTusk.label>
   <ElephantTusk.description>Egy elefánt agyara. Nagyon ellenálló és értékes. Halálos, de fegyverként nemigen használható.</ElephantTusk.description>
+  <ElephantTusk.tools.0.label>hegy</ElephantTusk.tools.0.label>
+  <ElephantTusk.tools.1.label>tő</ElephantTusk.tools.1.label>
+
 </LanguageData>

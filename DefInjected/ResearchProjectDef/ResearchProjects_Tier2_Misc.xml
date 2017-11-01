@@ -8,6 +8,13 @@
   <GoJuiceProduction.description>Lehetővé teszi gojuice előállítását.</GoJuiceProduction.description>
   <PenoxycylineProduction.label>Penoxycyline előállítás</PenoxycylineProduction.label>
   <PenoxycylineProduction.description>Lehetővé teszi penoxycline előállítását, ami egy betegség megelőző gyógyszer.</PenoxycylineProduction.description>
+  <LongBlades.label>Hosszú pengék</LongBlades.label>
+  <LongBlades.description>Lehetővé teszi hosszúkard és lándzsa gyártását.</LongBlades.description>
+
+  <Greatbows.label>Hosszúíj</Greatbows.label>
+  <Greatbows.description>Lehetővé teszi erősebb hosszúíj gyártását.</Greatbows.description>
+ 
+
   <Batteries.label>Akkumulátor</Batteries.label>
   <Batteries.description>Lehetővé teszi akkumulátor építését, amivel elektromos energia tárolható.</Batteries.description>
   <Refining.label>Finomítás</Refining.label>
@@ -32,12 +39,24 @@
   <ColoredLights.description>Lehetővé teszi színes lámpa építését, ami remek dekoráció.</ColoredLights.description>
   <Machining.label>Gépészet</Machining.label>
   <Machining.description>Lehetővé teszi gépészasztal építését, ahol fegyverek és szerszámok készíthetők, illetve mechanoidok szerelhetők szét.</Machining.description>
-  <IEDBomb.label>Rögtönzött robbanószer</IEDBomb.label>
-  <IEDBomb.description>Lehetővé teszi rögtönzött robbanószerkezet (csapda) építését ágyúlövedékből.</IEDBomb.description>
+  <IEDs.label>Rögtönzött robbanószer</IEDs.label>
+  <IEDs.description>Lehetővé teszi rögtönzött robbanószerkezet (csapda) építését ágyúlövedékből.</IEDs.description>
   <IEDIncendiary.label>Rögtönzött gyújtóbomba</IEDIncendiary.label>
   <IEDIncendiary.description>Lehetővé teszi rögtönzött gyújtóbomba (csapda) építését ágyúlövedékből.</IEDIncendiary.description>
   <Mortars.label>Tarack</Mortars.label>
   <Mortars.description>Lehetővé teszi tarack építését, amivel messzire juttathatsz lövedékeket, akár falakon túl is.</Mortars.description>
+  <Gunsmithing.label>Fegyverkovácsolás</Gunsmithing.label>
+  <Gunsmithing.description>Lehetővé teszi egyszerű, kézzel működtetett fegyverek gyártását, mint pl. forgópisztoly, sörétes puska, vadászpuska és tűzvető.</Gunsmithing.description>
+
+  <BlowbackOperation.label>Egyszerű öntöltő</BlowbackOperation.label>
+  <BlowbackOperation.description>Lehetővé teszi egyszerű félautomata és automata fegyverek gyártását, mint pl. automata pisztoly és géppisztoly.</BlowbackOperation.description>
+
+  <GasOperation.label>Gáz működtetésű öntöltő</GasOperation.label>
+  <GasOperation.description>Lehetővé teszi fejlettebb félautomata és automata fegyverek gyártását, mint pl. automata sörétes puska és a géppuska.</GasOperation.description>
+
+  <PrecisionRifling.label>Precíziós huzagolás</PrecisionRifling.label>
+  <PrecisionRifling.description>Lehetővé teszi rohampuska és mesterlövész puska gyártását.</PrecisionRifling.description>
+
   <SmokepopBelt.label>Füstálca öv</SmokepopBelt.label>
   <SmokepopBelt.description>Lehetővé teszi füstálca öv gyártását, mely automatikusan álcázó füstfelhőt ereszt ki.</SmokepopBelt.description>
   <MicroelectronicsBasics.label>Mikroelektronika</MicroelectronicsBasics.label>

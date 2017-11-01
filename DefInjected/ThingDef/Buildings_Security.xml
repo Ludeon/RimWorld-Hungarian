@@ -14,46 +14,69 @@
   <Bullet_TurretImprovised.label>robotágyú lőszer</Bullet_TurretImprovised.label>
   <Gun_TurretImprovised.label>robotágyú</Gun_TurretImprovised.label>
   <Gun_TurretImprovised.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</Gun_TurretImprovised.description>
-  <Turret_MortarBomb.label>tarack (robbanó)</Turret_MortarBomb.label>
-  <Turret_MortarBomb.description>Tarack, mely robbanó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarBomb.description>
-  <Turret_MortarBomb_Blueprint.label>tarack (tervrajz)</Turret_MortarBomb_Blueprint.label>
-  <Turret_MortarBomb_Blueprint_Install.label>tarack (tervrajz)</Turret_MortarBomb_Blueprint_Install.label>
-  <Turret_MortarBomb_Frame.label>tarack (építmény)</Turret_MortarBomb_Frame.label>
-  <Turret_MortarBomb_Frame.description>Tarack, mely robbanó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarBomb_Frame.description>
-  <Artillery_MortarBomb.label>tarack</Artillery_MortarBomb.label>
-  <Artillery_MortarBomb.description>Gránátvető. Repeszgránátjait falakon túlra is ellövi. Nagyon pontatlan, de hatósugara méretes.</Artillery_MortarBomb.description>
-  <Bullet_MortarBomb.label>repeszgránát</Bullet_MortarBomb.label>
-  <Turret_MortarIncendiary.label>gyújtótarack</Turret_MortarIncendiary.label>
-  <Turret_MortarIncendiary.description>Tarack, mely gyújtó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarIncendiary.description>
-  <Turret_MortarIncendiary_Blueprint.label>gyújtótarack (tervrajz)</Turret_MortarIncendiary_Blueprint.label>
-  <Turret_MortarIncendiary_Blueprint_Install.label>gyújtótarack (tervrajz)</Turret_MortarIncendiary_Blueprint_Install.label>
-  <Turret_MortarIncendiary_Frame.label>gyújtótarack (építmény)</Turret_MortarIncendiary_Frame.label>
-  <Turret_MortarIncendiary_Frame.description>Tarack, mely gyújtó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarIncendiary_Frame.description>
-  <Artillery_MortarIncendiary.label>gyújtótarack</Artillery_MortarIncendiary.label>
-  <Artillery_MortarIncendiary.description>Gyújtógránát vető. Gránátjait falakon túlra is ellövi. Nagyon pontatlan, de hatósugara méretes.</Artillery_MortarIncendiary.description>
-  <Bullet_MortarIncendiary.label>gyújtógránát</Bullet_MortarIncendiary.label>
-  <Turret_MortarEMP.label>EMP-tarack</Turret_MortarEMP.label>
-  <Turret_MortarEMP.description>Tarack, mely EMP töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarEMP.description>
-  <Turret_MortarEMP_Blueprint.label>EMP-tarack (tervrajz)</Turret_MortarEMP_Blueprint.label>
-  <Turret_MortarEMP_Blueprint_Install.label>EMP-tarack (tervrajz)</Turret_MortarEMP_Blueprint_Install.label>
-  <Turret_MortarEMP_Frame.label>EMP-tarack (építmény)</Turret_MortarEMP_Frame.label>
-  <Turret_MortarEMP_Frame.description>Tarack, mely EMP töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarEMP_Frame.description>
-  <Artillery_MortarEMP.label>EMP-tarack</Artillery_MortarEMP.label>
-  <Artillery_MortarEMP.description>Gránátvető. EMP-gránátjait falakon túlra is ellövi. Nagyon pontatlan, de hatósugara méretes.</Artillery_MortarEMP.description>
-  <Bullet_MortarEMP.label>EMP-gránát</Bullet_MortarEMP.label>
+  
+  <Turret_Mortar.label>tarack (robbanó)</Turret_Mortar.label>
+  <Turret_Mortar.description>Tarack, mely robbanó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_Mortar.description>
+  <Turret_Mortar_Blueprint.label>tarack (tervrajz)</Turret_Mortar_Blueprint.label>
+  <Turret_Mortar_Blueprint_Install.label>tarack (tervrajz)</Turret_Mortar_Blueprint_Install.label>
+  <Turret_Mortar_Frame.label>tarack (építmény)</Turret_Mortar_Frame.label>
+  <Turret_Mortar_Frame.description>Tarack, mely robbanó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_Mortar_Frame.description>
+  <Artillery_Mortar.label>tarack</Artillery_Mortar.label>
+  <Artillery_Mortar.description>Gránátvető. Repeszgránátjait falakon túlra is ellövi. Nagyon pontatlan, de hatósugara méretes.</Artillery_Mortar.description>
+ 
+  <!-- <Bullet_MortarBomb.label>repeszgránát</Bullet_MortarBomb.label> -->
+  <!-- <Turret_MortarIncendiary.label>gyújtótarack</Turret_MortarIncendiary.label> -->
+  <!-- <Turret_MortarIncendiary.description>Tarack, mely gyújtó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarIncendiary.description> -->
+  <!-- <Turret_MortarIncendiary_Blueprint.label>gyújtótarack (tervrajz)</Turret_MortarIncendiary_Blueprint.label> -->
+  <!-- <Turret_MortarIncendiary_Blueprint_Install.label>gyújtótarack (tervrajz)</Turret_MortarIncendiary_Blueprint_Install.label> -->
+  <!-- <Turret_MortarIncendiary_Frame.label>gyújtótarack (építmény)</Turret_MortarIncendiary_Frame.label> -->
+  <!-- <Turret_MortarIncendiary_Frame.description>Tarack, mely gyújtó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarIncendiary_Frame.description> -->
+  <!-- <Artillery_MortarIncendiary.label>gyújtótarack</Artillery_MortarIncendiary.label> -->
+  <!-- <Artillery_MortarIncendiary.description>Gyújtógránát vető. Gránátjait falakon túlra is ellövi. Nagyon pontatlan, de hatósugara méretes.</Artillery_MortarIncendiary.description> -->
+  <!-- <Bullet_MortarIncendiary.label>gyújtógránát</Bullet_MortarIncendiary.label> -->
+  <!-- <Turret_MortarEMP.label>EMP-tarack</Turret_MortarEMP.label> -->
+  <!-- <Turret_MortarEMP.description>Tarack, mely EMP töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarEMP.description> -->
+  <!-- <Turret_MortarEMP_Blueprint.label>EMP-tarack (tervrajz)</Turret_MortarEMP_Blueprint.label> -->
+  <!-- <Turret_MortarEMP_Blueprint_Install.label>EMP-tarack (tervrajz)</Turret_MortarEMP_Blueprint_Install.label> -->
+  <!-- <Turret_MortarEMP_Frame.label>EMP-tarack (építmény)</Turret_MortarEMP_Frame.label> -->
+  <!-- <Turret_MortarEMP_Frame.description>Tarack, mely EMP töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarEMP_Frame.description> -->
+  <!-- <Artillery_MortarEMP.label>EMP-tarack</Artillery_MortarEMP.label> -->
+  <!-- <Artillery_MortarEMP.description>Gránátvető. EMP-gránátjait falakon túlra is ellövi. Nagyon pontatlan, de hatósugara méretes.</Artillery_MortarEMP.description> -->
+  <!-- <Bullet_MortarEMP.label>EMP-gránát</Bullet_MortarEMP.label> -->
   <TrapDeadfall.label>sújtócsapda</TrapDeadfall.label>
   <TrapDeadfall.description>Felfüggesztett tüskés súly, melyet botlózsinór old ki. Ha valaki belép, a súly a fejére vagy a mellkasára esik.</TrapDeadfall.description>
   <TrapDeadfall_Blueprint.label>sújtócsapda (tervrajz)</TrapDeadfall_Blueprint.label>
   <TrapDeadfall_Frame.label>sújtócsapda (építmény)</TrapDeadfall_Frame.label>
   <TrapDeadfall_Frame.description>Felfüggesztett tüskés súly, melyet botlózsinór old ki. Ha valaki belép, a súly a fejére vagy a mellkasára esik.</TrapDeadfall_Frame.description>
-  <TrapIEDBomb.label>rögtönzött robbanószer</TrapIEDBomb.label>
-  <TrapIEDBomb.description>Ágyúlövedék házi készítésű elsütőszerkezettel, aminek véletlenszerű késleltetése van. Ez fürgébb ellenség számára lehetővé teheti a robbanás elkerülését.</TrapIEDBomb.description>
-  <TrapIEDBomb_Blueprint.label>rögtönzött robbanószer (tervrajz)</TrapIEDBomb_Blueprint.label>
-  <TrapIEDBomb_Frame.label>rögtönzött robbanószer (építmény)</TrapIEDBomb_Frame.label>
-  <TrapIEDBomb_Frame.description>Ágyúlövedék házi készítésű elsütőszerkezettel, aminek véletlenszerű késleltetése van. Ez fürgébb ellenség számára lehetővé teheti a robbanás elkerülését.</TrapIEDBomb_Frame.description>
-  <TrapIEDIncendiary.label>rögtönzött gyújtóbomba</TrapIEDIncendiary.label>
-  <TrapIEDIncendiary.description>Robbanószer gyújtópasztával keverve, kémiai elsütőszerkezettel, ami egyszerű és megbízható.</TrapIEDIncendiary.description>
-  <TrapIEDIncendiary_Blueprint.label>rögtönzött gyújtóbomba (tervrajz)</TrapIEDIncendiary_Blueprint.label>
-  <TrapIEDIncendiary_Frame.label>rögtönzött gyújtóbomba (építmény)</TrapIEDIncendiary_Frame.label>
-  <TrapIEDIncendiary_Frame.description>Robbanószer gyújtópasztával keverve, kémiai elsütőszerkezettel, ami egyszerű és megbízható.</TrapIEDIncendiary_Frame.description>
+ 
+  <TrapIED_HighExplosive.label>rögtönzött robbanószer csapda</TrapIED_HighExplosive.label>
+  <TrapIED_HighExplosive.description>Ágyúlövedék házi készítésű elsütőszerkezettel, aminek véletlenszerű késleltetése van. Ez fürgébb ellenség számára lehetővé teheti a robbanás elkerülését.</TrapIED_HighExplosive.description>
+  <TrapIED_HighExplosive_Blueprint.label>rögtönzött robbanószer csapda (tervrajz)</TrapIED_HighExplosive_Blueprint.label>
+  <TrapIED_HighExplosive_Frame.label>rögtönzött robbanószer csapda (építmény)</TrapIED_HighExplosive_Frame.label>
+  <TrapIED_HighExplosive_Frame.description>Ágyúlövedék házi készítésű elsütőszerkezettel, aminek véletlenszerű késleltetése van. Ez fürgébb ellenség számára lehetővé teheti a robbanás elkerülését.</TrapIED_HighExplosive_Frame.description>
+ 
+  <TrapIED_Incendiary.label>rögtönzött gyújtóbomba csapda</TrapIED_Incendiary.label>
+  <TrapIED_Incendiary.description>Robbanószer gyújtópasztával keverve, kémiai elsütőszerkezettel, ami egyszerű és megbízható.</TrapIED_Incendiary.description>
+  <TrapIED_Incendiary_Blueprint.label>rögtönzött gyújtóbomba csapda (tervrajz)</TrapIED_Incendiary_Blueprint.label>
+  <TrapIED_Incendiary_Frame.label>rögtönzött gyújtóbomba csapda (építmény)</TrapIED_Incendiary_Frame.label>
+  <TrapIED_Incendiary_Frame.description>Robbanószer gyújtópasztával keverve, kémiai elsütőszerkezettel, ami egyszerű és megbízható.</TrapIED_Incendiary_Frame.description>
+  
+  <TrapIED_EMP.label>rögtönzött EMP csapda</TrapIED_EMP.label>
+  <TrapIED_EMP.description>Egyszerű csapda EMP lövedékből házi készítésű elsütőszerkezettel. Robbanása megbénítja az elektronikus szerkezeteket pár másodpercre. Azok is beindíthatják, akikre nem hat.</TrapIED_EMP.description>
+  <TrapIED_EMP_Blueprint.label>rögtönzött EMP csapda (tervrajz)</TrapIED_EMP_Blueprint.label>
+  <TrapIED_EMP_Frame.label>rögtönzött EMP csapda (építmény)</TrapIED_EMP_Frame.label>
+  <TrapIED_EMP_Frame.description>Egyszerű csapda EMP lövedékből házi készítésű elsütőszerkezettel. Robbanása megbénítja az elektronikus szerkezeteket pár másodpercre. Azok is beindíthatják, akikre nem hat.</TrapIED_EMP_Frame.description>
+
+  <TrapIED_Firefoam.label>rögtönzött oltóhab csapda</TrapIED_Firefoam.label>
+  <TrapIED_Firefoam.description>Ha valaki kioldja, a csapda felrobban és oltóhabot szór maga köré.</TrapIED_Firefoam.description>
+  <TrapIED_Firefoam_Blueprint.label>rögtönzött oltóhab csapda (tervrajz)</TrapIED_Firefoam_Blueprint.label>
+  <TrapIED_Firefoam_Frame.label>rögtönzött oltóhab csapda (építmény)</TrapIED_Firefoam_Frame.label>
+  <TrapIED_Firefoam_Frame.description>Ha valaki kioldja, a csapda felrobban és oltóhabot szór maga köré.</TrapIED_Firefoam_Frame.description>
+
+  <TrapIED_AntigrainWarhead.label>rögtönzött robbanófej csapda</TrapIED_AntigrainWarhead.label>
+  <TrapIED_AntigrainWarhead.description>Kis méretű robbanófej házi készítésű elsütőszerkezettel. Kioldáskor óriásit robban és tüzet gyújt maga körül.</TrapIED_AntigrainWarhead.description>
+  <TrapIED_AntigrainWarhead_Blueprint.label>rögtönzött robbanófej csapda (tervrajz)</TrapIED_AntigrainWarhead_Blueprint.label>
+  <TrapIED_AntigrainWarhead_Frame.label>rögtönzött robbanófej csapda (építmény)</TrapIED_AntigrainWarhead_Frame.label>
+  <TrapIED_AntigrainWarhead_Frame.description>Kis méretű robbanófej házi készítésű elsütőszerkezettel. Kioldáskor óriásit robban és tüzet gyújt maga körül.</TrapIED_AntigrainWarhead_Frame.description>
+  
 </LanguageData>

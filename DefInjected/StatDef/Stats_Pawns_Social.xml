@@ -8,8 +8,11 @@
   <TrainAnimalChance.description>Alap esély egy állat sikeres idomítására. Állat fajtánként változhat.</TrainAnimalChance.description>
   <SocialImpact.label>befolyásolás</SocialImpact.label>
   <SocialImpact.description>Szociális interakciónál mennyire van hatással a másik félre.</SocialImpact.description>
-  <GiftImpact.label>külpolitika</GiftImpact.label>
-  <GiftImpact.description>Ha ez a személy egy másik frakciónak ajándékot ad, ez a szorzó befolyásolja a kapcsolat alakulását.</GiftImpact.description>
+  <!-- <GiftImpact.label>külpolitika</GiftImpact.label> -->
+  <!-- <GiftImpact.description>Ha ez a személy egy másik frakciónak ajándékot ad, ez a szorzó befolyásolja a kapcsolat alakulását.</GiftImpact.description> -->
+  <DiplomacyPower.label>diplomácia</DiplomacyPower.label>
+  <DiplomacyPower.description>Megmutatja, milyen hatékony diplomata a személy. Más frakcióknak adott ajándékok kapcsolatjavító hatása, illetve a béketárgyalások kimenetele is ettől függ.</DiplomacyPower.description>
+ 
   <TradePriceImprovement.label>alkusz</TradePriceImprovement.label>
   <TradePriceImprovement.description>Az eladási és a vételi árak is ennek a százaléknak megfelelően változnak, ha ez a személy alkuszik.</TradePriceImprovement.description>
 </LanguageData>
