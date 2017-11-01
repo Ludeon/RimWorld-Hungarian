@@ -120,31 +120,32 @@
   <TamedAnimal.rulePack.rulesStrings.12>desc_sentence->[animal_nameShortDef] el van kápráztatva.</TamedAnimal.rulePack.rulesStrings.12>
   <TamedAnimal.rulePack.rulesStrings.13>desc_sentence->[human_nameShortDef] erős szeretet érzését sugározza [animal_nameShortDef] felé.</TamedAnimal.rulePack.rulesStrings.13>
   <KilledBy.label>halál</KilledBy.label>
-  <KilledBy.rulePack.rulesStrings.0>tale_noun->[victim_nameShortDef] gyilkossága [killer_nameShortDef] által</KilledBy.rulePack.rulesStrings.0>
-  <KilledBy.rulePack.rulesStrings.1>tale_noun->[victim_nameShortDef] [killer_nameShortDef] által okozott halála</KilledBy.rulePack.rulesStrings.1>
-  <KilledBy.rulePack.rulesStrings.2>tale_noun->[victim_nameShortDef] halála</KilledBy.rulePack.rulesStrings.2>
-  <KilledBy.rulePack.rulesStrings.3>image->[killer_nameFull] meggyilkolja őt: [victim_nameFull], [circumstance_group]</KilledBy.rulePack.rulesStrings.3>
-  <KilledBy.rulePack.rulesStrings.4>image->[killer_nameFull] végez vele: [victim_nameFull], [circumstance_group]</KilledBy.rulePack.rulesStrings.4>
-  <KilledBy.rulePack.rulesStrings.5>image->[killer_nameFull] brutálisan megöli őt: [victim_nameFull], [circumstance_group]</KilledBy.rulePack.rulesStrings.5>
-  <KilledBy.rulePack.rulesStrings.6>image->[victim_nameFull]-t megölik, [circumstance_group]</KilledBy.rulePack.rulesStrings.6>
-  <KilledBy.rulePack.rulesStrings.7>image->[victim_nameFull]-t meggyilkolják, [circumstance_group]</KilledBy.rulePack.rulesStrings.7>
-  <KilledBy.rulePack.rulesStrings.8>circumstance_phrase->látszólag bűntudat nélkül</KilledBy.rulePack.rulesStrings.8>
-  <KilledBy.rulePack.rulesStrings.9>circumstance_phrase->hideg hatékonysággal</KilledBy.rulePack.rulesStrings.9>
-  <KilledBy.rulePack.rulesStrings.10>circumstance_phrase->hirtelen felindulással</KilledBy.rulePack.rulesStrings.10>
-  <KilledBy.rulePack.rulesStrings.11>circumstance_phrase->gyors, hatékony mozdulatokkal</KilledBy.rulePack.rulesStrings.11>
-  <KilledBy.rulePack.rulesStrings.12>circumstance_phrase->érzelemmentesen</KilledBy.rulePack.rulesStrings.12>
-  <KilledBy.rulePack.rulesStrings.13>circumstance_phrase->egyszerűen szükségből</KilledBy.rulePack.rulesStrings.13>
-  <KilledBy.rulePack.rulesStrings.14>circumstance_phrase->gyáva módon</KilledBy.rulePack.rulesStrings.14>
-  <KilledBy.rulePack.rulesStrings.15>desc_sentence->A nap lenyugszik az esemény szimbolikus visszhangjaként.</KilledBy.rulePack.rulesStrings.15>
-  <KilledBy.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase] [animal] nézi az esetet.</KilledBy.rulePack.rulesStrings.16>
-  <KilledBy.rulePack.rulesStrings.17>desc_sentence->Egy [outlander] [side_position] csendben néz .</KilledBy.rulePack.rulesStrings.17>
-  <KilledBy.rulePack.rulesStrings.18>desc_sentence->[victim_nameShortDef] teste körül vértócsa keletkezik.</KilledBy.rulePack.rulesStrings.18>
-  <KilledBy.rulePack.rulesStrings.19>desc_sentence->[victim_nameShortDef] szemei realisztikusan élettelennek vannak ábrázolva.</KilledBy.rulePack.rulesStrings.19>
-  <KilledBy.rulePack.rulesStrings.20>desc_sentence->[killer_nameShortDef] kivillantja fogait.</KilledBy.rulePack.rulesStrings.20>
-  <KilledBy.rulePack.rulesStrings.21>desc_sentence->[killer_nameShortDef] elégedettnek látszik.</KilledBy.rulePack.rulesStrings.21>
-  <KilledBy.rulePack.rulesStrings.22>desc_sentence->[killer_nameShortDef] szomorúan nézi tette eredményét.</KilledBy.rulePack.rulesStrings.22>
-  <KilledBy.rulePack.rulesStrings.23>desc_sentence->[killer_nameShortDef] elégedett a helyzettel.</KilledBy.rulePack.rulesStrings.23>
-  <KilledBy.rulePack.rulesStrings.24>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</KilledBy.rulePack.rulesStrings.24>
+  <KilledBy.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef] megöli öt: [victim_nameShortDef]</KilledBy.rulePack.rulesStrings.0>
+  <KilledBy.rulePack.rulesStrings.1>tale_noun->[victim_nameShortDef] gyilkossága [killer_nameShortDef] által</KilledBy.rulePack.rulesStrings.1>
+  <KilledBy.rulePack.rulesStrings.2>tale_noun->[victim_nameShortDef] [killer_nameShortDef] által okozott halála</KilledBy.rulePack.rulesStrings.2>
+  <KilledBy.rulePack.rulesStrings.3>tale_noun->[victim_nameShortDef] halála</KilledBy.rulePack.rulesStrings.3>
+  <KilledBy.rulePack.rulesStrings.4>image->[killer_nameFull] meggyilkolja őt: [victim_nameFull], [circumstance_group]</KilledBy.rulePack.rulesStrings.4>
+  <KilledBy.rulePack.rulesStrings.5>image->[killer_nameFull] végez vele: [victim_nameFull], [circumstance_group]</KilledBy.rulePack.rulesStrings.5>
+  <KilledBy.rulePack.rulesStrings.6>image->[killer_nameFull] brutálisan megöli őt: [victim_nameFull], [circumstance_group]</KilledBy.rulePack.rulesStrings.6>
+  <KilledBy.rulePack.rulesStrings.7>image->[victim_nameFull]-t megölik, [circumstance_group]</KilledBy.rulePack.rulesStrings.7>
+  <KilledBy.rulePack.rulesStrings.8>image->[victim_nameFull]-t meggyilkolják, [circumstance_group]</KilledBy.rulePack.rulesStrings.8>
+  <KilledBy.rulePack.rulesStrings.9>circumstance_phrase->látszólag bűntudat nélkül</KilledBy.rulePack.rulesStrings.9>
+  <KilledBy.rulePack.rulesStrings.10>circumstance_phrase->hideg hatékonysággal</KilledBy.rulePack.rulesStrings.10>
+  <KilledBy.rulePack.rulesStrings.11>circumstance_phrase->hirtelen felindulással</KilledBy.rulePack.rulesStrings.11>
+  <KilledBy.rulePack.rulesStrings.12>circumstance_phrase->gyors, hatékony mozdulatokkal</KilledBy.rulePack.rulesStrings.12>
+  <KilledBy.rulePack.rulesStrings.13>circumstance_phrase->érzelemmentesen</KilledBy.rulePack.rulesStrings.13>
+  <KilledBy.rulePack.rulesStrings.14>circumstance_phrase->egyszerűen szükségből</KilledBy.rulePack.rulesStrings.14>
+  <KilledBy.rulePack.rulesStrings.15>circumstance_phrase->gyáva módon</KilledBy.rulePack.rulesStrings.15>
+  <KilledBy.rulePack.rulesStrings.16>desc_sentence->A nap lenyugszik az esemény szimbolikus visszhangjaként.</KilledBy.rulePack.rulesStrings.16>
+  <KilledBy.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] [animal] nézi az esetet.</KilledBy.rulePack.rulesStrings.17>
+  <KilledBy.rulePack.rulesStrings.18>desc_sentence->Egy [outlander] [side_position] csendben néz .</KilledBy.rulePack.rulesStrings.18>
+  <KilledBy.rulePack.rulesStrings.19>desc_sentence->[victim_nameShortDef] teste körül vértócsa keletkezik.</KilledBy.rulePack.rulesStrings.19>
+  <KilledBy.rulePack.rulesStrings.20>desc_sentence->[victim_nameShortDef] szemei realisztikusan élettelennek vannak ábrázolva.</KilledBy.rulePack.rulesStrings.20>
+  <KilledBy.rulePack.rulesStrings.21>desc_sentence->[killer_nameShortDef] kivillantja fogait.</KilledBy.rulePack.rulesStrings.21>
+  <KilledBy.rulePack.rulesStrings.22>desc_sentence->[killer_nameShortDef] elégedettnek látszik.</KilledBy.rulePack.rulesStrings.22>
+  <KilledBy.rulePack.rulesStrings.23>desc_sentence->[killer_nameShortDef] szomorúan nézi tette eredményét.</KilledBy.rulePack.rulesStrings.23>
+  <KilledBy.rulePack.rulesStrings.24>desc_sentence->[killer_nameShortDef] elégedett a helyzettel.</KilledBy.rulePack.rulesStrings.24>
+  <KilledBy.rulePack.rulesStrings.25>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</KilledBy.rulePack.rulesStrings.25>
   <SoldPrisoner.label>fogoly eladása</SoldPrisoner.label>
   <SoldPrisoner.rulePack.rulesStrings.0>tale_noun->[prisoner_nameShortDef] eladása egy rabszolgakereskedőnek</SoldPrisoner.rulePack.rulesStrings.0>
   <SoldPrisoner.rulePack.rulesStrings.1>image->[trader_nameFull], ahogy megveszi őt: [prisoner_nameFull] tőle: [seller_nameFull], [circumstance_group]</SoldPrisoner.rulePack.rulesStrings.1>
