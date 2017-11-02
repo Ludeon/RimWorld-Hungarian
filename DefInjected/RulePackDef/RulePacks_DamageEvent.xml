@@ -6,13 +6,13 @@
   <DamageEvent_Include.rulePack.rulesStrings.2>logentry(recipient_part_destroyed_count==0)->[damageSource] [recipient_nameShortDef], [damaged_present] [recipient_possessive] [damaged_targets].</DamageEvent_Include.rulePack.rulesStrings.2>
   <DamageEvent_Include.rulePack.rulesStrings.3>logentry(p=0.1)->[damageSource] [recipient_nameShortDef].</DamageEvent_Include.rulePack.rulesStrings.3>
 
-  <DamageEvent_Ceiling.rulePack.rulesStrings.0>damageSource->the [roof] [collapsed] on</DamageEvent_Ceiling.rulePack.rulesStrings.0>
-  <DamageEvent_Ceiling.rulePack.rulesStrings.1>roof->roof</DamageEvent_Ceiling.rulePack.rulesStrings.1>
-  <DamageEvent_Ceiling.rulePack.rulesStrings.2>roof->roofing</DamageEvent_Ceiling.rulePack.rulesStrings.2>
-  <DamageEvent_Ceiling.rulePack.rulesStrings.3>roof->ceiling</DamageEvent_Ceiling.rulePack.rulesStrings.3>
-  <DamageEvent_Ceiling.rulePack.rulesStrings.4>collapsed->collapsed</DamageEvent_Ceiling.rulePack.rulesStrings.4>
-  <DamageEvent_Ceiling.rulePack.rulesStrings.5>collapsed->fell</DamageEvent_Ceiling.rulePack.rulesStrings.5>
-  <DamageEvent_Ceiling.rulePack.rulesStrings.6>collapsed->caved in</DamageEvent_Ceiling.rulePack.rulesStrings.6>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.0>damageSource->a(z) [roof] [collapsed]</DamageEvent_Ceiling.rulePack.rulesStrings.0>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.1>roof->tető</DamageEvent_Ceiling.rulePack.rulesStrings.1>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.2>roof->tetőzet</DamageEvent_Ceiling.rulePack.rulesStrings.2>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.3>roof->plafon</DamageEvent_Ceiling.rulePack.rulesStrings.3>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.4>collapsed->ráomlott</DamageEvent_Ceiling.rulePack.rulesStrings.4>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.5>collapsed->leesett</DamageEvent_Ceiling.rulePack.rulesStrings.5>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.6>collapsed->beomlott</DamageEvent_Ceiling.rulePack.rulesStrings.6>
   <DamageEvent_Ceiling.rulePack.rulesStrings.7>damaged_present->smashing</DamageEvent_Ceiling.rulePack.rulesStrings.7>
   <DamageEvent_Ceiling.rulePack.rulesStrings.8>damaged_present->bashing</DamageEvent_Ceiling.rulePack.rulesStrings.8>
   <DamageEvent_Ceiling.rulePack.rulesStrings.9>damaged_present->clobbering</DamageEvent_Ceiling.rulePack.rulesStrings.9>
