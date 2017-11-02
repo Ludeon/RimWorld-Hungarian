@@ -3,9 +3,24 @@
   <FightFires.label>tüzet olt</FightFires.label>
   <FightFires.verb>oltani</FightFires.verb>
   <FightFires.gerund>oltás</FightFires.gerund>
-  <PatientGoToBedEmergency.label>lefekszik, hogy sürgősségi ellátást kapjon</PatientGoToBedEmergency.label>
-  <PatientGoToBedEmergency.verb>ellátják</PatientGoToBedEmergency.verb>
-  <PatientGoToBedEmergency.gerund>ellátást kap tőle</PatientGoToBedEmergency.gerund>
+  <!-- <PatientGoToBedEmergency.label>lefekszik, hogy sürgősségi ellátást kapjon</PatientGoToBedEmergency.label> -->
+  <!-- <PatientGoToBedEmergency.verb>ellátják</PatientGoToBedEmergency.verb> -->
+  <!-- <PatientGoToBedEmergency.gerund>ellátást kap tőle</PatientGoToBedEmergency.gerund> -->
+   <!-- Patient -->
+
+  <PatientGoToBedEmergencyTreatment.label>lefekszik, hogy sürgősségi ellátást kapjon</PatientGoToBedEmergencyTreatment.label>
+  <PatientGoToBedEmergencyTreatment.verb>ellátják</PatientGoToBedEmergencyTreatment.verb>
+  <PatientGoToBedEmergencyTreatment.gerund>ellátást kap</PatientGoToBedEmergencyTreatment.gerund>
+
+  <PatientGoToBedTreatment.label>lefekszik, hogy ellátást kapjon</PatientGoToBedTreatment.label>
+  <PatientGoToBedTreatment.verb>ellátják</PatientGoToBedTreatment.verb>
+  <PatientGoToBedTreatment.gerund>ellátást kap</PatientGoToBedTreatment.gerund>
+  <!-- PatientBedRest -->
+
+  <PatientGoToBedRecuperate.label>ágyban lábadozik</PatientGoToBedRecuperate.label>
+  <PatientGoToBedRecuperate.verb>lábadozni</PatientGoToBedRecuperate.verb>
+  <PatientGoToBedRecuperate.gerund>lábadozás</PatientGoToBedRecuperate.gerund>
+
   <DoctorTendEmergency.label>sürgősségi ellátást ad</DoctorTendEmergency.label>
   <DoctorTendEmergency.verb>ellátni</DoctorTendEmergency.verb>
   <DoctorTendEmergency.gerund>ellátás</DoctorTendEmergency.gerund>
@@ -39,9 +54,9 @@
   <VisitSickPawn.label>beteget meglátogat</VisitSickPawn.label>
   <VisitSickPawn.verb>meglátogatni</VisitSickPawn.verb>
   <VisitSickPawn.gerund>meglátogatás</VisitSickPawn.gerund>
-  <PatientGoToBed.label>ágyban lábadozik</PatientGoToBed.label>
-  <PatientGoToBed.verb>lábadozni</PatientGoToBed.verb>
-  <PatientGoToBed.gerund>lábadozás</PatientGoToBed.gerund>
+  <!-- <PatientGoToBed.label>ágyban lábadozik</PatientGoToBed.label> -->
+  <!-- <PatientGoToBed.verb>lábadozni</PatientGoToBed.verb> -->
+  <!-- <PatientGoToBed.gerund>lábadozás</PatientGoToBed.gerund> -->
   <Flick.label>kapcsolót vált át</Flick.label>
   <Flick.verb>átkapcsolni</Flick.verb>
   <Flick.gerund>átkapcsolás</Flick.gerund>

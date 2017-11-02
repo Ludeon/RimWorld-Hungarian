@@ -56,12 +56,31 @@
   <DefeatedHostileFactionLeader.stages.0.description>Megpróbáltak elpusztítani minket, de nem hagytuk magunkat!</DefeatedHostileFactionLeader.stages.0.description>
   <DefeatedMajorEnemy.stages.0.label>legyőzte ezt: {0}</DefeatedMajorEnemy.stages.0.label>
   <DefeatedMajorEnemy.stages.0.description>Nagy fenyegetést győztem le! Hős vagyok!</DefeatedMajorEnemy.stages.0.description>
-  <ColonistAbandoned.stages.0.label>gyarmatos hátrahagyva</ColonistAbandoned.stages.0.label>
-  <ColonistAbandoned.stages.0.description>Valakit hátrahagytunk. Remélem túléli, de aggódom miatta.</ColonistAbandoned.stages.0.description>
-  <ColonistAbandonedToDie.stages.0.label>gyarmatos hátrahagyva</ColonistAbandonedToDie.stages.0.label>
-  <ColonistAbandonedToDie.stages.0.description>Hátrahagytunk valakit, akinek szinte semmi esélye sincs a túlélésre.</ColonistAbandonedToDie.stages.0.description>
-  <PrisonerAbandonedToDie.stages.0.label>fogoly hátrahagyva</PrisonerAbandonedToDie.stages.0.label>
-  <PrisonerAbandonedToDie.stages.0.description>Hátrahagytunk egy foglyot, akinek szinte semmi esélye sincs a túlélésre.</PrisonerAbandonedToDie.stages.0.description>
-  <BondedAnimalAbandoned.stages.0.label>kötődő állat {0} hátrahagyva</BondedAnimalAbandoned.stages.0.label>
-  <BondedAnimalAbandoned.stages.0.description>A háziállatomat hátrahagytuk a semmi közepén!</BondedAnimalAbandoned.stages.0.description>
+  <!-- <ColonistAbandoned.stages.0.label>gyarmatos hátrahagyva</ColonistAbandoned.stages.0.label> -->
+  <!-- <ColonistAbandoned.stages.0.description>Valakit hátrahagytunk. Remélem túléli, de aggódom miatta.</ColonistAbandoned.stages.0.description> -->
+  <!-- <ColonistAbandonedToDie.stages.0.label>gyarmatos hátrahagyva</ColonistAbandonedToDie.stages.0.label> -->
+  <!-- <ColonistAbandonedToDie.stages.0.description>Hátrahagytunk valakit, akinek szinte semmi esélye sincs a túlélésre.</ColonistAbandonedToDie.stages.0.description> -->
+  <ColonistBanished.stages.0.label>gyarmatos száműzve</ColonistBanished.stages.0.label>
+  <ColonistBanished.stages.0.description>Valakit száműztünk. Remélem túléli, de aggódom miatta.</ColonistBanished.stages.0.description>
+  <ColonistBanishedToDie.stages.0.label>gyarmatos száműzve</ColonistBanishedToDie.stages.0.label>
+  <ColonistBanishedToDie.stages.0.description>Száműztünk valakit, akinek szinte semmi esélye sincs a túlélésre.</ColonistBanishedToDie.stages.0.description>
+ 
+  <!-- <PrisonerAbandonedToDie.stages.0.label>fogoly hátrahagyva</PrisonerAbandonedToDie.stages.0.label> -->
+  <!-- <PrisonerAbandonedToDie.stages.0.description>Hátrahagytunk egy foglyot, akinek szinte semmi esélye sincs a túlélésre.</PrisonerAbandonedToDie.stages.0.description> -->
+  <PrisonerBanishedToDie.stages.0.label>fogoly száműzve</PrisonerBanishedToDie.stages.0.label>
+  <PrisonerBanishedToDie.stages.0.description>Száműztünk egy foglyot, akinek szinte semmi esélye sincs a túlélésre.</PrisonerBanishedToDie.stages.0.description>
+  
+  <!-- <BondedAnimalAbandoned.stages.0.label>kötődő állat {0} hátrahagyva</BondedAnimalAbandoned.stages.0.label> -->
+  <!-- <BondedAnimalAbandoned.stages.0.description>A háziállatomat hátrahagytuk a semmi közepén!</BondedAnimalAbandoned.stages.0.description> -->
+  <BondedAnimalBanished.stages.0.label>kötődő állat {0} száműzve</BondedAnimalBanished.stages.0.label>
+  <BondedAnimalBanished.stages.0.description>A háziállatomat száműztük a semmi közepén!</BondedAnimalBanished.stages.0.description>
+
+   <!-- Rescue quest -->
+
+  <FailedToRescueRelative.stages.0.label>nem sikerült megmenteni őt: {0}</FailedToRescueRelative.stages.0.label>
+  <FailedToRescueRelative.stages.0.description>Nem sikerült megmenteni a rokonomat. Tudván, hogy volt esélyem segíteni neki, még nehezebbé teszi halálának feldolgozását.</FailedToRescueRelative.stages.0.description>
+
+  <RescuedRelative.stages.0.label>megmentettük őt: {0}</RescuedRelative.stages.0.label>
+  <RescuedRelative.stages.0.description>Megmentettük a rokonomat. Most, hogy biztonságban van, újra fellélegezhetek.</RescuedRelative.stages.0.description>
+
 </LanguageData>

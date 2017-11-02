@@ -8,12 +8,20 @@
   <AbandonedFactionBase.description>Az egyik frakció egyik elhagyatott bázisa.</AbandonedFactionBase.description>
   <DestroyedFactionBase.label>Elpusztított frakció bázis</DestroyedFactionBase.label>
   <DestroyedFactionBase.description>Egy elpusztított frakció bázis</DestroyedFactionBase.description>
-  <JourneyDestination.label>Végcél</JourneyDestination.label>
-  <JourneyDestination.description>Egy elrejtett űrhajó pozíciója, aminek segítségével elhagyhatod a bolygót.</JourneyDestination.description>
+  <!-- <JourneyDestination.label>Végcél</JourneyDestination.label> -->
+  <!-- <JourneyDestination.description>Egy elrejtett űrhajó pozíciója, aminek segítségével elhagyhatod a bolygót.</JourneyDestination.description> -->
   <AttackedCaravan.label>Megtámadott karaván</AttackedCaravan.label>
   <AttackedCaravan.description>Egy karaván támadás alatt.</AttackedCaravan.description>
   <TravelingTransportPods.label>Szállítókapszula</TravelingTransportPods.label>
   <TravelingTransportPods.description>Mozgásban lévő szállítókapszula.</TravelingTransportPods.description>
   <RoutePlannerWaypoint.label>állomás</RoutePlannerWaypoint.label>
   <RoutePlannerWaypoint.description>Ideiglenes megálló.</RoutePlannerWaypoint.description>
+  
+  <PeaceTalks.label>béketárgyalás</PeaceTalks.label>
+  <PeaceTalks.description>Béketárgyalásra kijelölt hely.</PeaceTalks.description>
+  
+  <EscapeShip.label>űrhajó</EscapeShip.label>
+  <EscapeShip.description>Rejtett űrhajó helye, ami segíthet elmenekülni a bolygóról.</EscapeShip.description>
+
+
 </LanguageData>
