@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Transition_Include.rulePack.rulesStrings.0>duetoa->due to</Transition_Include.rulePack.rulesStrings.0>
-  <Transition_Include.rulePack.rulesStrings.1>duetoa(p=0.5)->because of</Transition_Include.rulePack.rulesStrings.1>
-  <Transition_Include.rulePack.rulesStrings.2>duetoa(p=0.5)->thanks to</Transition_Include.rulePack.rulesStrings.2>
+  <Transition_Include.rulePack.rulesStrings.0>duetoa->miatt</Transition_Include.rulePack.rulesStrings.0>
+  <Transition_Include.rulePack.rulesStrings.1>duetoa(p=0.5)->mert</Transition_Include.rulePack.rulesStrings.1>
+  <Transition_Include.rulePack.rulesStrings.2>duetoa(p=0.5)->ennek köszönhetően</Transition_Include.rulePack.rulesStrings.2>
   <Transition_Include.rulePack.rulesStrings.3>subject_definite->[subject_labelDefinite]</Transition_Include.rulePack.rulesStrings.3>
   <Transition_Include.rulePack.rulesStrings.4>subject_definite->[subject_nameShortDef]</Transition_Include.rulePack.rulesStrings.4>
 
-  <Transition_Downed.rulePack.rulesStrings.0>logentry->[culpritHediff_labelNoun] caused [subject_definite] to [collapsemeta].</Transition_Downed.rulePack.rulesStrings.0>
+  <Transition_Downed.rulePack.rulesStrings.0>logentry->[culpritHediff_labelNoun] ezt okozta: [collapsemeta], neki: [subject_definite].</Transition_Downed.rulePack.rulesStrings.0>
   <Transition_Downed.rulePack.rulesStrings.1>logentry->[culpritHediff_labelNoun] in the [culpritHediff_target_label] caused [subject_definite] to [collapsemeta].</Transition_Downed.rulePack.rulesStrings.1>
   <Transition_Downed.rulePack.rulesStrings.2>logentry->[subject_definite] [collapsedmeta] [duetoa] [culpritHediff_labelNoun].</Transition_Downed.rulePack.rulesStrings.2>
   <Transition_Downed.rulePack.rulesStrings.3>logentry->[subject_definite] [collapsedmeta] [duetoa] [culpritHediff_labelNoun] in the [culpritHediff_target_label].</Transition_Downed.rulePack.rulesStrings.3>
