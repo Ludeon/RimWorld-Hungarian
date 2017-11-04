@@ -145,7 +145,7 @@
   <Combat_Hit.rulePack.rulesStrings.1>logentry(p=0.1)->[initiator_definite] [flavortextadverb] [damaged_past] efelé: [recipient_definite] [recipient_part0_label].</Combat_Hit.rulePack.rulesStrings.1>
   <Combat_Hit.rulePack.rulesStrings.2>logentry(p=0.1)->[initiator_definite] [damaged_past] efelé: [recipient_definite] [recipient_part0_label], [flavortextsituation].</Combat_Hit.rulePack.rulesStrings.2>
   <Combat_Hit.rulePack.rulesStrings.3>logentry(p=0.1)->[initiator_definite] [damaged_past] efelé: [recipient_definite] [recipient_part0_label], [flavortextconsequence].</Combat_Hit.rulePack.rulesStrings.3>
-  <Combat_Hit.rulePack.rulesStrings.4>logentry(p=0.4)->[initiator_definite], [expertly] használva ezt: [weapon_label], [flavortextadverb] [damaged_past] efelé: [recipient_definite] [recipient_part0_label].</Combat_Hit.rulePack.rulesStrings.4>
+  <Combat_Hit.rulePack.rulesStrings.4>logentry(p=0.4)->[initiator_definite], [expertly] használva ezt: [weapon_label], [flavortextadverb] [damaged_past], cél: [recipient_definite] [recipient_part0_label].</Combat_Hit.rulePack.rulesStrings.4>
   <Combat_Hit.rulePack.rulesStrings.5>logentry(p=0.3)->[initiator_definite] [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</Combat_Hit.rulePack.rulesStrings.5>
   <Combat_Hit.rulePack.rulesStrings.6>logentry(p=0.3)->[initiator_definite] [destroyed_past] ezt: [recipient_definite] [destroyed_targets] [destroyed_suffix].</Combat_Hit.rulePack.rulesStrings.6>
   <Combat_Hit.rulePack.rulesStrings.7>logentry(p=0.3)->[initiator_definite] [expertly] [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</Combat_Hit.rulePack.rulesStrings.7>
@@ -157,9 +157,9 @@
   <Combat_Hit.rulePack.rulesStrings.13>action(p=0.3)->[initiator_definite] használta ezt: [implement], hogy [damaged_inf]t ejtsen rajta: [recipient_definite]</Combat_Hit.rulePack.rulesStrings.13>
   <Combat_Hit.rulePack.rulesStrings.14>action->[initiator_definite] [damaged_past] feléje: [recipient_definite], ezzel: [implement]</Combat_Hit.rulePack.rulesStrings.14>
 
-  <Combat_FailIncludes.rulePack.rulesStrings.0>action->[initiator_definite] [tried] to [damaged_inf] [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.0>
-  <Combat_FailIncludes.rulePack.rulesStrings.1>action->[initiator_definite] [tried] to [damaged_inf] [recipient_definite] [implement]</Combat_FailIncludes.rulePack.rulesStrings.1>
-  <Combat_FailIncludes.rulePack.rulesStrings.2>action->[initiator_definite] [tried] to use [implement] to [damaged_inf] [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.2>
+  <Combat_FailIncludes.rulePack.rulesStrings.0>action->[initiator_definite] [tried] ezt: [damaged_inf], cél: [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.0>
+  <Combat_FailIncludes.rulePack.rulesStrings.1>action->[initiator_definite] [tried] ezt: [implement] [damaged_inf], cél: [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.1>
+  <Combat_FailIncludes.rulePack.rulesStrings.2>action->[initiator_definite] [tried] ezt: [implement] [damaged_inf], cél: [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.2>
   <Combat_FailIncludes.rulePack.rulesStrings.3>action->[initiator_definite] meglendítette ezt: [weapon_label], cél: [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.3>
   <Combat_FailIncludes.rulePack.rulesStrings.4>action(p=0.3)->[initiator_definite] [genericattackverb] [towardsat] [recipient_definite] [implement]</Combat_FailIncludes.rulePack.rulesStrings.4>
   <Combat_FailIncludes.rulePack.rulesStrings.5>action(p=0.3)->[initiator_definite] [genericattackverb] [towardsat] [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.5>
@@ -169,18 +169,18 @@
   <Combat_FailIncludes.rulePack.rulesStrings.9>genericattackverb->lendített</Combat_FailIncludes.rulePack.rulesStrings.9>
   <Combat_FailIncludes.rulePack.rulesStrings.10>genericattackverb->suhintott</Combat_FailIncludes.rulePack.rulesStrings.10>
   <Combat_FailIncludes.rulePack.rulesStrings.11>genericattackverb->csapott</Combat_FailIncludes.rulePack.rulesStrings.11>
-  <Combat_FailIncludes.rulePack.rulesStrings.12>tried->próbálkozott</Combat_FailIncludes.rulePack.rulesStrings.12>
-  <Combat_FailIncludes.rulePack.rulesStrings.13>tried->megkisérelt</Combat_FailIncludes.rulePack.rulesStrings.13>
+  <Combat_FailIncludes.rulePack.rulesStrings.12>tried->megpróbálta</Combat_FailIncludes.rulePack.rulesStrings.12>
+  <Combat_FailIncludes.rulePack.rulesStrings.13>tried->megkisérelte</Combat_FailIncludes.rulePack.rulesStrings.13>
 
-  <Combat_Miss.rulePack.rulesStrings.0>logentry(p=0.2)->[recipient_definite] elkerülte ezt: [initiator_definite] [weapon_label] [damaged_inf].</Combat_Miss.rulePack.rulesStrings.0>
-  <Combat_Miss.rulePack.rulesStrings.1>logentry(p=0.2)->[initiator_definite] elhibázta ezt: [recipient_definite] [damaged_inf] [implement].</Combat_Miss.rulePack.rulesStrings.1>
-  <Combat_Miss.rulePack.rulesStrings.2>logentry(p=0.2)->[initiator_definite] [failtype] ezt: [damaged_inf] [recipient_definite] [implement].</Combat_Miss.rulePack.rulesStrings.2>
-  <Combat_Miss.rulePack.rulesStrings.3>logentry(p=0.2)->[initiator_definite] [failtype] ezt: [damaged_inf] [recipient_definite].</Combat_Miss.rulePack.rulesStrings.3>
+  <Combat_Miss.rulePack.rulesStrings.0>logentry(p=0.2)->[recipient_definite] elkerülte ezt: [weapon_label] [damaged_inf], ettől: [initiator_definite].</Combat_Miss.rulePack.rulesStrings.0>
+  <Combat_Miss.rulePack.rulesStrings.1>logentry(p=0.2)->[initiator_definite] elhibázta ezt: [recipient_definite], eközben: [damaged_inf], ezzel: [implement].</Combat_Miss.rulePack.rulesStrings.1>
+  <Combat_Miss.rulePack.rulesStrings.2>logentry(p=0.2)->[initiator_definite] [failtype] eközben: [damaged_inf], cél: [recipient_definite], ezzel: [implement].</Combat_Miss.rulePack.rulesStrings.2>
+  <Combat_Miss.rulePack.rulesStrings.3>logentry(p=0.2)->[initiator_definite] [failtype] eközben: [damaged_inf], cél: [recipient_definite].</Combat_Miss.rulePack.rulesStrings.3>
   <Combat_Miss.rulePack.rulesStrings.4>logentry(p=0.2)->[initiator_definite] [failtype].</Combat_Miss.rulePack.rulesStrings.4>
   <Combat_Miss.rulePack.rulesStrings.5>failtype->megbotlott</Combat_Miss.rulePack.rulesStrings.5>
   <Combat_Miss.rulePack.rulesStrings.6>failtype->felbukott</Combat_Miss.rulePack.rulesStrings.6>
-  <Combat_Miss.rulePack.rulesStrings.7>failtype->hadonászott</Combat_Miss.rulePack.rulesStrings.7>
-  <Combat_Miss.rulePack.rulesStrings.8>failtype->vergődött</Combat_Miss.rulePack.rulesStrings.8>
+  <Combat_Miss.rulePack.rulesStrings.7>failtype->ügyetlenkedett</Combat_Miss.rulePack.rulesStrings.7>
+  <Combat_Miss.rulePack.rulesStrings.8>failtype->bénázott</Combat_Miss.rulePack.rulesStrings.8>
   <Combat_Miss.rulePack.rulesStrings.9>failtype->mellé ütött</Combat_Miss.rulePack.rulesStrings.9>
   <Combat_Miss.rulePack.rulesStrings.10>result->de elhibázta</Combat_Miss.rulePack.rulesStrings.10>
   <Combat_Miss.rulePack.rulesStrings.11>result->de csak levegőt talált</Combat_Miss.rulePack.rulesStrings.11>
@@ -188,7 +188,7 @@
   <Combat_Miss.rulePack.rulesStrings.13>result->de elbotlott az utolsó pillanatban</Combat_Miss.rulePack.rulesStrings.13>
   <Combat_Miss.rulePack.rulesStrings.14>result(initiator_flesh!=Mechanoid)->de hezitált az utolsó pillanatban</Combat_Miss.rulePack.rulesStrings.14>
 
-  <Combat_Dodge.rulePack.rulesStrings.0>logentry(p=0.2)->[recipient_definite] kitért ez elől: [initiator_definite] [damaged_inf] [implement].</Combat_Dodge.rulePack.rulesStrings.0>
+  <Combat_Dodge.rulePack.rulesStrings.0>logentry(p=0.2)->[recipient_definite] kitért ez elől: [initiator_definite] [implement] [damaged_inf].</Combat_Dodge.rulePack.rulesStrings.0>
   <Combat_Dodge.rulePack.rulesStrings.1>logentry(p=0.2)->[recipient_definite] kitért ez elől: [initiator_definite] [damaged_inf].</Combat_Dodge.rulePack.rulesStrings.1>
   <Combat_Dodge.rulePack.rulesStrings.2>result->de [recipient_definite] ellépett előle</Combat_Dodge.rulePack.rulesStrings.2>
   <Combat_Dodge.rulePack.rulesStrings.3>result->de [recipient_definite] csele megtévesztette</Combat_Dodge.rulePack.rulesStrings.3>
@@ -201,173 +201,173 @@
   <Combat_RangedIncludes.rulePack.rulesStrings.4>originalTarget_definite->[originalTarget_labelDefinite]</Combat_RangedIncludes.rulePack.rulesStrings.4>
   <Combat_RangedIncludes.rulePack.rulesStrings.5>originalTarget_definite->[originalTarget_nameShortDef]</Combat_RangedIncludes.rulePack.rulesStrings.5>
 
-  <Combat_RangedFire.rulePack.rulesStrings.0>logentry->[initiator_definite] [shotat] [recipient_definite] with [weapon_label].</Combat_RangedFire.rulePack.rulesStrings.0>
-  <Combat_RangedFire.rulePack.rulesStrings.1>logentry->[initiator_definite] [shot] [weapon_label] at [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.1>
-  <Combat_RangedFire.rulePack.rulesStrings.2>logentry->[initiator_definite] [shotat] [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.2>
-  <Combat_RangedFire.rulePack.rulesStrings.3>logentry->[initiator_definite] [shot_a] [weapon_projectile_label] [burst] at [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.3>
-  <Combat_RangedFire.rulePack.rulesStrings.4>logentry(recipient_missing==True)->[initiator_definite] [shot_a] [weapon_projectile_label].</Combat_RangedFire.rulePack.rulesStrings.4>
-  <Combat_RangedFire.rulePack.rulesStrings.5>logentry(recipient_missing==True)->[initiator_definite] [shot] [weapon_label].</Combat_RangedFire.rulePack.rulesStrings.5>
-  <Combat_RangedFire.rulePack.rulesStrings.6>shot_a->[shotadverb] [shotverb] a</Combat_RangedFire.rulePack.rulesStrings.6>
-  <Combat_RangedFire.rulePack.rulesStrings.7>shot_a(p=2)->[shotverb] a</Combat_RangedFire.rulePack.rulesStrings.7>
+  <Combat_RangedFire.rulePack.rulesStrings.0>logentry->[initiator_definite] [shotat], cél: [recipient_definite], ezzel: [weapon_label].</Combat_RangedFire.rulePack.rulesStrings.0>
+  <Combat_RangedFire.rulePack.rulesStrings.1>logentry->[initiator_definite] [shot], ezzel: [weapon_label], cél: [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.1>
+  <Combat_RangedFire.rulePack.rulesStrings.2>logentry->[initiator_definite] [shotat], cél: [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.2>
+  <Combat_RangedFire.rulePack.rulesStrings.3>logentry->[initiator_definite] [shot_a] [weapon_projectile_label] [burst], cél:[recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.3>
+  <Combat_RangedFire.rulePack.rulesStrings.4>logentry(recipient_missing==True)->[initiator_definite] [shot_a] ilyet: [weapon_projectile_label].</Combat_RangedFire.rulePack.rulesStrings.4>
+  <Combat_RangedFire.rulePack.rulesStrings.5>logentry(recipient_missing==True)->[initiator_definite] [shot], ezzel: [weapon_label].</Combat_RangedFire.rulePack.rulesStrings.5>
+  <Combat_RangedFire.rulePack.rulesStrings.6>shot_a->[shotadverb] [shotverb] egy</Combat_RangedFire.rulePack.rulesStrings.6>
+  <Combat_RangedFire.rulePack.rulesStrings.7>shot_a(p=2)->[shotverb] egy</Combat_RangedFire.rulePack.rulesStrings.7>
   <Combat_RangedFire.rulePack.rulesStrings.8>shot(p=2)->[shotverb]</Combat_RangedFire.rulePack.rulesStrings.8>
   <Combat_RangedFire.rulePack.rulesStrings.9>shot->[shotadverb] [shotverb]</Combat_RangedFire.rulePack.rulesStrings.9>
-  <Combat_RangedFire.rulePack.rulesStrings.10>shotat->shot [aburst] at</Combat_RangedFire.rulePack.rulesStrings.10>
-  <Combat_RangedFire.rulePack.rulesStrings.11>shotat->[shotadverb] shot [aburst] at</Combat_RangedFire.rulePack.rulesStrings.11>
-  <Combat_RangedFire.rulePack.rulesStrings.12>shotat(p=0.5)->tried to shoot [aburst] at</Combat_RangedFire.rulePack.rulesStrings.12>
-  <Combat_RangedFire.rulePack.rulesStrings.13>shotat(p=0.3)->took a shot at</Combat_RangedFire.rulePack.rulesStrings.13>
-  <Combat_RangedFire.rulePack.rulesStrings.14>shotat(p=0.2)->took a [shotadjective] shot at</Combat_RangedFire.rulePack.rulesStrings.14>
-  <Combat_RangedFire.rulePack.rulesStrings.15>shotat->fired [aburst] at</Combat_RangedFire.rulePack.rulesStrings.15>
-  <Combat_RangedFire.rulePack.rulesStrings.16>shotat->fired [aburst] [shotadverb] at</Combat_RangedFire.rulePack.rulesStrings.16>
-  <Combat_RangedFire.rulePack.rulesStrings.17>shotat(p=0.5)->aimed és fired [aburst] at</Combat_RangedFire.rulePack.rulesStrings.17>
-  <Combat_RangedFire.rulePack.rulesStrings.18>shotat(p=0.3)->opened fire at</Combat_RangedFire.rulePack.rulesStrings.18>
+  <Combat_RangedFire.rulePack.rulesStrings.10>shotat->rálőtt [aburst]</Combat_RangedFire.rulePack.rulesStrings.10>
+  <Combat_RangedFire.rulePack.rulesStrings.11>shotat->[shotadverb] rálőtt [aburst]</Combat_RangedFire.rulePack.rulesStrings.11>
+  <Combat_RangedFire.rulePack.rulesStrings.12>shotat(p=0.5)->rá próbált lőni [aburst]</Combat_RangedFire.rulePack.rulesStrings.12>
+  <Combat_RangedFire.rulePack.rulesStrings.13>shotat(p=0.3)->rálőtt</Combat_RangedFire.rulePack.rulesStrings.13>
+  <Combat_RangedFire.rulePack.rulesStrings.14>shotat(p=0.2)->[shotadjective] lövést eresztett meg</Combat_RangedFire.rulePack.rulesStrings.14>
+  <Combat_RangedFire.rulePack.rulesStrings.15>shotat->lőtt [aburst]</Combat_RangedFire.rulePack.rulesStrings.15>
+  <Combat_RangedFire.rulePack.rulesStrings.16>shotat->[shotadverb] lőtt [aburst]</Combat_RangedFire.rulePack.rulesStrings.16>
+  <Combat_RangedFire.rulePack.rulesStrings.17>shotat(p=0.5)->célzott és lőtt [aburst]</Combat_RangedFire.rulePack.rulesStrings.17>
+  <Combat_RangedFire.rulePack.rulesStrings.18>shotat(p=0.3)->tüzett nyitott</Combat_RangedFire.rulePack.rulesStrings.18>
   <Combat_RangedFire.rulePack.rulesStrings.19>aburst-></Combat_RangedFire.rulePack.rulesStrings.19>
-  <Combat_RangedFire.rulePack.rulesStrings.20>aburst(burst==True,p=3)->a burst</Combat_RangedFire.rulePack.rulesStrings.20>
+  <Combat_RangedFire.rulePack.rulesStrings.20>aburst(burst==True,p=3)->egy sorozatot</Combat_RangedFire.rulePack.rulesStrings.20>
   <Combat_RangedFire.rulePack.rulesStrings.21>burst-></Combat_RangedFire.rulePack.rulesStrings.21>
-  <Combat_RangedFire.rulePack.rulesStrings.22>burst(burst==True,p=3)->burst</Combat_RangedFire.rulePack.rulesStrings.22>
-  <Combat_RangedFire.rulePack.rulesStrings.23>shotverb->shot</Combat_RangedFire.rulePack.rulesStrings.23>
-  <Combat_RangedFire.rulePack.rulesStrings.24>shotverb->fired</Combat_RangedFire.rulePack.rulesStrings.24>
-  <Combat_RangedFire.rulePack.rulesStrings.25>shotverb->discharged</Combat_RangedFire.rulePack.rulesStrings.25>
-  <Combat_RangedFire.rulePack.rulesStrings.26>shotadverb->carefully</Combat_RangedFire.rulePack.rulesStrings.26>
-  <Combat_RangedFire.rulePack.rulesStrings.27>shotadverb->quickly</Combat_RangedFire.rulePack.rulesStrings.27>
-  <Combat_RangedFire.rulePack.rulesStrings.28>shotadverb->precisely</Combat_RangedFire.rulePack.rulesStrings.28>
-  <Combat_RangedFire.rulePack.rulesStrings.29>shotadverb->deliberately</Combat_RangedFire.rulePack.rulesStrings.29>
-  <Combat_RangedFire.rulePack.rulesStrings.30>shotadverb(initiator_flesh!=Mechanoid)->gingerly</Combat_RangedFire.rulePack.rulesStrings.30>
-  <Combat_RangedFire.rulePack.rulesStrings.31>shotadverb->precisely</Combat_RangedFire.rulePack.rulesStrings.31>
-  <Combat_RangedFire.rulePack.rulesStrings.32>shotadverb(initiator_flesh!=Mechanoid)->warily</Combat_RangedFire.rulePack.rulesStrings.32>
-  <Combat_RangedFire.rulePack.rulesStrings.33>shotadjective->careful</Combat_RangedFire.rulePack.rulesStrings.33>
-  <Combat_RangedFire.rulePack.rulesStrings.34>shotadjective->quick</Combat_RangedFire.rulePack.rulesStrings.34>
-  <Combat_RangedFire.rulePack.rulesStrings.35>shotadjective->deliberate</Combat_RangedFire.rulePack.rulesStrings.35>
-  <Combat_RangedFire.rulePack.rulesStrings.36>shotadjective->precise</Combat_RangedFire.rulePack.rulesStrings.36>
-  <Combat_RangedFire.rulePack.rulesStrings.37>shotadjective(initiator_flesh!=Mechanoid)->wary</Combat_RangedFire.rulePack.rulesStrings.37>
+  <Combat_RangedFire.rulePack.rulesStrings.22>burst(burst==True,p=3)->sorozatot</Combat_RangedFire.rulePack.rulesStrings.22>
+  <Combat_RangedFire.rulePack.rulesStrings.23>shotverb->lőtt</Combat_RangedFire.rulePack.rulesStrings.23>
+  <Combat_RangedFire.rulePack.rulesStrings.24>shotverb->elindított</Combat_RangedFire.rulePack.rulesStrings.24>
+  <Combat_RangedFire.rulePack.rulesStrings.25>shotverb->lőtt</Combat_RangedFire.rulePack.rulesStrings.25>
+  <Combat_RangedFire.rulePack.rulesStrings.26>shotadverb->gondosan</Combat_RangedFire.rulePack.rulesStrings.26>
+  <Combat_RangedFire.rulePack.rulesStrings.27>shotadverb->gyorsan</Combat_RangedFire.rulePack.rulesStrings.27>
+  <Combat_RangedFire.rulePack.rulesStrings.28>shotadverb->precízen</Combat_RangedFire.rulePack.rulesStrings.28>
+  <Combat_RangedFire.rulePack.rulesStrings.29>shotadverb->megfontoltan</Combat_RangedFire.rulePack.rulesStrings.29>
+  <Combat_RangedFire.rulePack.rulesStrings.30>shotadverb(initiator_flesh!=Mechanoid)->gondosan</Combat_RangedFire.rulePack.rulesStrings.30>
+  <Combat_RangedFire.rulePack.rulesStrings.31>shotadverb->precízen</Combat_RangedFire.rulePack.rulesStrings.31>
+  <Combat_RangedFire.rulePack.rulesStrings.32>shotadverb(initiator_flesh!=Mechanoid)->gondosan</Combat_RangedFire.rulePack.rulesStrings.32>
+  <Combat_RangedFire.rulePack.rulesStrings.33>shotadjective->gondos</Combat_RangedFire.rulePack.rulesStrings.33>
+  <Combat_RangedFire.rulePack.rulesStrings.34>shotadjective->gyors</Combat_RangedFire.rulePack.rulesStrings.34>
+  <Combat_RangedFire.rulePack.rulesStrings.35>shotadjective->megfontolt</Combat_RangedFire.rulePack.rulesStrings.35>
+  <Combat_RangedFire.rulePack.rulesStrings.36>shotadjective->precíz</Combat_RangedFire.rulePack.rulesStrings.36>
+  <Combat_RangedFire.rulePack.rulesStrings.37>shotadjective(initiator_flesh!=Mechanoid)->gondos</Combat_RangedFire.rulePack.rulesStrings.37>
 
-  <Combat_RangedDamage.rulePack.rulesStrings.0>logentry->[initiator_definite]'s [weapon_projectile_label] [destroyed_past] [recipient_definite]'s [destroyed_targets].</Combat_RangedDamage.rulePack.rulesStrings.0>
-  <Combat_RangedDamage.rulePack.rulesStrings.1>logentry->[initiator_definite]'s [weapon_projectile_label] [destroyed_past] [recipient_definite]'s [destroyed_targets] [to] [destroyed_suffix].</Combat_RangedDamage.rulePack.rulesStrings.1>
-  <Combat_RangedDamage.rulePack.rulesStrings.2>logentry->[initiator_definite]'s [weapon_projectile_label] [destroyed_past] [recipient_definite]'s [destroyed_targets] [expertly].</Combat_RangedDamage.rulePack.rulesStrings.2>
-  <Combat_RangedDamage.rulePack.rulesStrings.3>logentry(p=2)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite] és [destroyed_past] [recipient_definite]'s [destroyed_targets].</Combat_RangedDamage.rulePack.rulesStrings.3>
-  <Combat_RangedDamage.rulePack.rulesStrings.4>logentry(p=2)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite], [destroyed_present] [recipient_definite]'s [destroyed_targets].</Combat_RangedDamage.rulePack.rulesStrings.4>
-  <Combat_RangedDamage.rulePack.rulesStrings.5>logentry->[recipient_definite]'s [destroyed_targets] was [destroyed_past] by [initiator_definite]'s [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.5>
-  <Combat_RangedDamage.rulePack.rulesStrings.6>logentry->[recipient_definite]'s [destroyed_targets] was [destroyed_past] by [initiator_definite]'s [expert] [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.6>
-  <Combat_RangedDamage.rulePack.rulesStrings.7>logentry->[recipient_definite]'s [destroyed_targets] was [destroyed_past] into [destroyed_suffix] by [initiator_definite]'s [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.7>
-  <Combat_RangedDamage.rulePack.rulesStrings.8>logentry(recipient_partDestroyed_count==0)->[initiator_definite]'s [weapon_projectile_label] [damaged_past] [recipient_definite]'s [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.8>
-  <Combat_RangedDamage.rulePack.rulesStrings.9>logentry(recipient_partDestroyed_count==0)->[initiator_definite]'s [weapon_projectile_label] [damaged_past] [recipient_definite]'s [damaged_targets] [expertly].</Combat_RangedDamage.rulePack.rulesStrings.9>
-  <Combat_RangedDamage.rulePack.rulesStrings.10>logentry(recipient_partDestroyed_count==0,p=2)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite] és [damaged_past] [recipient_definite]'s [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.10>
-  <Combat_RangedDamage.rulePack.rulesStrings.11>logentry(recipient_partDestroyed_count==0,p=2)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite], [damaged_present] [recipient_definite]'s [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.11>
-  <Combat_RangedDamage.rulePack.rulesStrings.12>logentry(recipient_partDestroyed_count==0)->[recipient_definite]'s [damaged_targets] was [damagedverb_past] by [initiator_definite]'s [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.12>
-  <Combat_RangedDamage.rulePack.rulesStrings.13>logentry(recipient_partDestroyed_count==0)->[recipient_definite]'s [damaged_targets] was [damagedverb_past] by [initiator_definite]'s [expert] [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.13>
-  <Combat_RangedDamage.rulePack.rulesStrings.14>logentry(p=3)->[initiator_definite]'s [weapon_projectile_label] [destroyed_past] [recipient_definite]'s [destroyed_targets] és [damaged_past] [recipient_possessive] [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.14>
-  <Combat_RangedDamage.rulePack.rulesStrings.15>logentry(p=6)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite], [destroyed_present] [recipient_definite]'s [destroyed_targets] és [damaged_present] [recipient_possessive] [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.15>
-  <Combat_RangedDamage.rulePack.rulesStrings.16>logentry(p=0.2)->[initiator_definite] hit [recipient_definite] with a [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.16>
-  <Combat_RangedDamage.rulePack.rulesStrings.17>logentry(p=0.2)->[initiator_definite]'s [weapon_projectile_label] hit [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.17>
-  <Combat_RangedDamage.rulePack.rulesStrings.18>logentry(p=0.4)->[initiator_definite] [missed] [originalTarget_definite] és hit [recipient_definite] with a [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.18>
-  <Combat_RangedDamage.rulePack.rulesStrings.19>logentry(p=0.4)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite] és hit [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.19>
-  <Combat_RangedDamage.rulePack.rulesStrings.20>logentry(p=0.2)->[initiator_definite] hit [recipient_definite] with a [weapon_projectile_label] intended for [originalTarget_definite].</Combat_RangedDamage.rulePack.rulesStrings.20>
-  <Combat_RangedDamage.rulePack.rulesStrings.21>weapon_projectile_label(p=0.05)->shot</Combat_RangedDamage.rulePack.rulesStrings.21>
-  <Combat_RangedDamage.rulePack.rulesStrings.22>destroyed_past->shattered</Combat_RangedDamage.rulePack.rulesStrings.22>
-  <Combat_RangedDamage.rulePack.rulesStrings.23>destroyed_past->crushed</Combat_RangedDamage.rulePack.rulesStrings.23>
-  <Combat_RangedDamage.rulePack.rulesStrings.24>destroyed_past->obliterated</Combat_RangedDamage.rulePack.rulesStrings.24>
-  <Combat_RangedDamage.rulePack.rulesStrings.25>destroyed_past->annihilated</Combat_RangedDamage.rulePack.rulesStrings.25>
-  <Combat_RangedDamage.rulePack.rulesStrings.26>destroyed_past->pierced</Combat_RangedDamage.rulePack.rulesStrings.26>
-  <Combat_RangedDamage.rulePack.rulesStrings.27>destroyed_past->perforated</Combat_RangedDamage.rulePack.rulesStrings.27>
-  <Combat_RangedDamage.rulePack.rulesStrings.28>destroyed_past->punctured</Combat_RangedDamage.rulePack.rulesStrings.28>
-  <Combat_RangedDamage.rulePack.rulesStrings.29>destroyed_present->shattering</Combat_RangedDamage.rulePack.rulesStrings.29>
-  <Combat_RangedDamage.rulePack.rulesStrings.30>destroyed_present->crushing</Combat_RangedDamage.rulePack.rulesStrings.30>
-  <Combat_RangedDamage.rulePack.rulesStrings.31>destroyed_present->obliterating</Combat_RangedDamage.rulePack.rulesStrings.31>
-  <Combat_RangedDamage.rulePack.rulesStrings.32>destroyed_present->annihilating</Combat_RangedDamage.rulePack.rulesStrings.32>
-  <Combat_RangedDamage.rulePack.rulesStrings.33>destroyed_present->piercing</Combat_RangedDamage.rulePack.rulesStrings.33>
-  <Combat_RangedDamage.rulePack.rulesStrings.34>destroyed_present->perforating</Combat_RangedDamage.rulePack.rulesStrings.34>
-  <Combat_RangedDamage.rulePack.rulesStrings.35>destroyed_present->puncturing</Combat_RangedDamage.rulePack.rulesStrings.35>
-  <Combat_RangedDamage.rulePack.rulesStrings.36>destroyed_suffix->pieces</Combat_RangedDamage.rulePack.rulesStrings.36>
-  <Combat_RangedDamage.rulePack.rulesStrings.37>destroyed_suffix->bits</Combat_RangedDamage.rulePack.rulesStrings.37>
-  <Combat_RangedDamage.rulePack.rulesStrings.38>destroyed_suffix->a fine mist</Combat_RangedDamage.rulePack.rulesStrings.38>
-  <Combat_RangedDamage.rulePack.rulesStrings.39>destroyed_suffix->fragments</Combat_RangedDamage.rulePack.rulesStrings.39>
-  <Combat_RangedDamage.rulePack.rulesStrings.40>destroyed_suffix(p=0.5)->a holey mess</Combat_RangedDamage.rulePack.rulesStrings.40>
-  <Combat_RangedDamage.rulePack.rulesStrings.41>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)->ground beef</Combat_RangedDamage.rulePack.rulesStrings.41>
-  <Combat_RangedDamage.rulePack.rulesStrings.42>damaged_past->wounded</Combat_RangedDamage.rulePack.rulesStrings.42>
-  <Combat_RangedDamage.rulePack.rulesStrings.43>damaged_past->injured</Combat_RangedDamage.rulePack.rulesStrings.43>
-  <Combat_RangedDamage.rulePack.rulesStrings.44>damaged_past->pierced</Combat_RangedDamage.rulePack.rulesStrings.44>
-  <Combat_RangedDamage.rulePack.rulesStrings.45>damaged_past->damaged</Combat_RangedDamage.rulePack.rulesStrings.45>
-  <Combat_RangedDamage.rulePack.rulesStrings.46>damaged_past->shot</Combat_RangedDamage.rulePack.rulesStrings.46>
-  <Combat_RangedDamage.rulePack.rulesStrings.47>damaged_present->wounding</Combat_RangedDamage.rulePack.rulesStrings.47>
-  <Combat_RangedDamage.rulePack.rulesStrings.48>damaged_present->injuring</Combat_RangedDamage.rulePack.rulesStrings.48>
-  <Combat_RangedDamage.rulePack.rulesStrings.49>damaged_present->piercing</Combat_RangedDamage.rulePack.rulesStrings.49>
-  <Combat_RangedDamage.rulePack.rulesStrings.50>damaged_present->damaging</Combat_RangedDamage.rulePack.rulesStrings.50>
-  <Combat_RangedDamage.rulePack.rulesStrings.51>damaged_present->shooting</Combat_RangedDamage.rulePack.rulesStrings.51>
-  <Combat_RangedDamage.rulePack.rulesStrings.52>damaged_suffix->in an ugly fashion</Combat_RangedDamage.rulePack.rulesStrings.52>
-  <Combat_RangedDamage.rulePack.rulesStrings.53>damaged_suffix(recipient_flesh!=Mechanoid)->with visible blood</Combat_RangedDamage.rulePack.rulesStrings.53>
-  <Combat_RangedDamage.rulePack.rulesStrings.54>damaged_suffix(recipient_flesh!=Mechanoid)->with the flesh visible</Combat_RangedDamage.rulePack.rulesStrings.54>
-  <Combat_RangedDamage.rulePack.rulesStrings.55>to->to</Combat_RangedDamage.rulePack.rulesStrings.55>
-  <Combat_RangedDamage.rulePack.rulesStrings.56>to->into</Combat_RangedDamage.rulePack.rulesStrings.56>
-  <Combat_RangedDamage.rulePack.rulesStrings.57>missed->missed</Combat_RangedDamage.rulePack.rulesStrings.57>
-  <Combat_RangedDamage.rulePack.rulesStrings.58>missed->narrowly missed</Combat_RangedDamage.rulePack.rulesStrings.58>
+  <Combat_RangedDamage.rulePack.rulesStrings.0>logentry->[initiator_definite] [weapon_projectile_label] találata [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</Combat_RangedDamage.rulePack.rulesStrings.0>
+  <Combat_RangedDamage.rulePack.rulesStrings.1>logentry->[initiator_definite] [weapon_projectile_label] találata [destroyed_past] ezt: [recipient_definite] [destroyed_targets], így: [destroyed_suffix].</Combat_RangedDamage.rulePack.rulesStrings.1>
+  <Combat_RangedDamage.rulePack.rulesStrings.2>logentry->[initiator_definite] [weapon_projectile_label] [expertly] [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</Combat_RangedDamage.rulePack.rulesStrings.2>
+  <Combat_RangedDamage.rulePack.rulesStrings.3>logentry(p=2)->[initiator_definite] [weapon_projectile_label] lövése [missed] ezt: [originalTarget_definite], és [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</Combat_RangedDamage.rulePack.rulesStrings.3>
+  <Combat_RangedDamage.rulePack.rulesStrings.4>logentry(p=2)->[initiator_definite] [weapon_projectile_label] lövése [missed] [originalTarget_definite], [destroyed_present] ezt: [recipient_definite] [destroyed_targets].</Combat_RangedDamage.rulePack.rulesStrings.4>
+  <Combat_RangedDamage.rulePack.rulesStrings.5>logentry->[initiator_definite] [weapon_projectile_label] találata [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</Combat_RangedDamage.rulePack.rulesStrings.5>
+  <Combat_RangedDamage.rulePack.rulesStrings.6>logentry->[initiator_definite] [weapon_projectile_label] [expertly] [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</Combat_RangedDamage.rulePack.rulesStrings.6>
+  <Combat_RangedDamage.rulePack.rulesStrings.7>logentry->[initiator_definite] [weapon_projectile_label] találata [destroyed_past] ezt: [recipient_definite] [destroyed_targets], így: [destroyed_suffix].</Combat_RangedDamage.rulePack.rulesStrings.7>
+  <Combat_RangedDamage.rulePack.rulesStrings.8>logentry(recipient_partDestroyed_count==0)->[initiator_definite] [weapon_projectile_label] találata [damaged_past] ezt: [recipient_definite] [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.8>
+  <Combat_RangedDamage.rulePack.rulesStrings.9>logentry(recipient_partDestroyed_count==0)->[initiator_definite] [weapon_projectile_label] [expertly] [damaged_past] ezt: [recipient_definite] [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.9>
+  <Combat_RangedDamage.rulePack.rulesStrings.10>logentry(recipient_partDestroyed_count==0,p=2)->[initiator_definite] [weapon_projectile_label] lövése [missed] ezt: [originalTarget_definite], és [damaged_past] ezt: [recipient_definite] [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.10>
+  <Combat_RangedDamage.rulePack.rulesStrings.11>logentry(recipient_partDestroyed_count==0,p=2)->[initiator_definite] [weapon_projectile_label] lövése [missed] [originalTarget_definite], [damaged_present] ezt: [recipient_definite] [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.11>
+  <Combat_RangedDamage.rulePack.rulesStrings.12>logentry(recipient_partDestroyed_count==0)->[initiator_definite] [weapon_projectile_label] találata [damaged_past] ezt: [recipient_definite] [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.12>
+  <Combat_RangedDamage.rulePack.rulesStrings.13>logentry(recipient_partDestroyed_count==0)->[initiator_definite] [weapon_projectile_label] [expertly] [damaged_past] ezt: [recipient_definite] [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.13>
+  <Combat_RangedDamage.rulePack.rulesStrings.14>logentry(p=3)->[initiator_definite] [weapon_projectile_label] találata [destroyed_past] ezt: [recipient_definite] [destroyed_targets] és [damaged_past] ezt: [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.14>
+  <Combat_RangedDamage.rulePack.rulesStrings.15>logentry(p=6)->[initiator_definite] [weapon_projectile_label] lövése [missed] [originalTarget_definite], [destroyed_present] ezt: [recipient_definite] [destroyed_targets] és [damaged_present] ezt: [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.15>
+  <Combat_RangedDamage.rulePack.rulesStrings.16>logentry(p=0.2)->[initiator_definite] eltalálta ezt: [recipient_definite], ezzel: [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.16>
+  <Combat_RangedDamage.rulePack.rulesStrings.17>logentry(p=0.2)->[initiator_definite] [weapon_projectile_label] eltalálta ezt: [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.17>
+  <Combat_RangedDamage.rulePack.rulesStrings.18>logentry(p=0.4)->[initiator_definite] [missed] ezt: [originalTarget_definite] és eltalálta ezt: [recipient_definite], ezzel: [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.18>
+  <Combat_RangedDamage.rulePack.rulesStrings.19>logentry(p=0.4)->[initiator_definite] [weapon_projectile_label] [missed] ezt: [originalTarget_definite] és eltalálta ezt: [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.19>
+  <Combat_RangedDamage.rulePack.rulesStrings.20>logentry(p=0.2)->[initiator_definite] eltalálta ezt: [recipient_definite], ezzel: [weapon_projectile_label], amit neki szánt: [originalTarget_definite].</Combat_RangedDamage.rulePack.rulesStrings.20>
+  <Combat_RangedDamage.rulePack.rulesStrings.21>weapon_projectile_label(p=0.05)->lövedék</Combat_RangedDamage.rulePack.rulesStrings.21>
+  <Combat_RangedDamage.rulePack.rulesStrings.22>destroyed_past->szétlőtte</Combat_RangedDamage.rulePack.rulesStrings.22>
+  <Combat_RangedDamage.rulePack.rulesStrings.23>destroyed_past->összezúzta</Combat_RangedDamage.rulePack.rulesStrings.23>
+  <Combat_RangedDamage.rulePack.rulesStrings.24>destroyed_past->megsemmisítette</Combat_RangedDamage.rulePack.rulesStrings.24>
+  <Combat_RangedDamage.rulePack.rulesStrings.25>destroyed_past->megsemmisítette</Combat_RangedDamage.rulePack.rulesStrings.25>
+  <Combat_RangedDamage.rulePack.rulesStrings.26>destroyed_past->átütötte</Combat_RangedDamage.rulePack.rulesStrings.26>
+  <Combat_RangedDamage.rulePack.rulesStrings.27>destroyed_past->kilyukasztotta</Combat_RangedDamage.rulePack.rulesStrings.27>
+  <Combat_RangedDamage.rulePack.rulesStrings.28>destroyed_past->átütötte</Combat_RangedDamage.rulePack.rulesStrings.28>
+  <Combat_RangedDamage.rulePack.rulesStrings.29>destroyed_present->szétlőve</Combat_RangedDamage.rulePack.rulesStrings.29>
+  <Combat_RangedDamage.rulePack.rulesStrings.30>destroyed_present->összezúzva</Combat_RangedDamage.rulePack.rulesStrings.30>
+  <Combat_RangedDamage.rulePack.rulesStrings.31>destroyed_present->megsemmisítve</Combat_RangedDamage.rulePack.rulesStrings.31>
+  <Combat_RangedDamage.rulePack.rulesStrings.32>destroyed_present->megsemmisítve</Combat_RangedDamage.rulePack.rulesStrings.32>
+  <Combat_RangedDamage.rulePack.rulesStrings.33>destroyed_present->átütve</Combat_RangedDamage.rulePack.rulesStrings.33>
+  <Combat_RangedDamage.rulePack.rulesStrings.34>destroyed_present->kilyukasztva</Combat_RangedDamage.rulePack.rulesStrings.34>
+  <Combat_RangedDamage.rulePack.rulesStrings.35>destroyed_present->átütve</Combat_RangedDamage.rulePack.rulesStrings.35>
+  <Combat_RangedDamage.rulePack.rulesStrings.36>destroyed_suffix->darabokra</Combat_RangedDamage.rulePack.rulesStrings.36>
+  <Combat_RangedDamage.rulePack.rulesStrings.37>destroyed_suffix->darabkákra</Combat_RangedDamage.rulePack.rulesStrings.37>
+  <Combat_RangedDamage.rulePack.rulesStrings.38>destroyed_suffix->köddé</Combat_RangedDamage.rulePack.rulesStrings.38>
+  <Combat_RangedDamage.rulePack.rulesStrings.39>destroyed_suffix->darabokra</Combat_RangedDamage.rulePack.rulesStrings.39>
+  <Combat_RangedDamage.rulePack.rulesStrings.40>destroyed_suffix(p=0.5)->szitává</Combat_RangedDamage.rulePack.rulesStrings.40>
+  <Combat_RangedDamage.rulePack.rulesStrings.41>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)->húskupaccá</Combat_RangedDamage.rulePack.rulesStrings.41>
+  <Combat_RangedDamage.rulePack.rulesStrings.42>damaged_past->sebzett</Combat_RangedDamage.rulePack.rulesStrings.42>
+  <Combat_RangedDamage.rulePack.rulesStrings.43>damaged_past->sebzett</Combat_RangedDamage.rulePack.rulesStrings.43>
+  <Combat_RangedDamage.rulePack.rulesStrings.44>damaged_past->átütött</Combat_RangedDamage.rulePack.rulesStrings.44>
+  <Combat_RangedDamage.rulePack.rulesStrings.45>damaged_past->sebzett</Combat_RangedDamage.rulePack.rulesStrings.45>
+  <Combat_RangedDamage.rulePack.rulesStrings.46>damaged_past->lőtt</Combat_RangedDamage.rulePack.rulesStrings.46>
+  <Combat_RangedDamage.rulePack.rulesStrings.47>damaged_present->sebezve</Combat_RangedDamage.rulePack.rulesStrings.47>
+  <Combat_RangedDamage.rulePack.rulesStrings.48>damaged_present->sebezve</Combat_RangedDamage.rulePack.rulesStrings.48>
+  <Combat_RangedDamage.rulePack.rulesStrings.49>damaged_present->átütve</Combat_RangedDamage.rulePack.rulesStrings.49>
+  <Combat_RangedDamage.rulePack.rulesStrings.50>damaged_present->sebezve</Combat_RangedDamage.rulePack.rulesStrings.50>
+  <Combat_RangedDamage.rulePack.rulesStrings.51>damaged_present->meglőve</Combat_RangedDamage.rulePack.rulesStrings.51>
+  <Combat_RangedDamage.rulePack.rulesStrings.52>damaged_suffix->rondán</Combat_RangedDamage.rulePack.rulesStrings.52>
+  <Combat_RangedDamage.rulePack.rulesStrings.53>damaged_suffix(recipient_flesh!=Mechanoid)->vért fakasztva</Combat_RangedDamage.rulePack.rulesStrings.53>
+  <Combat_RangedDamage.rulePack.rulesStrings.54>damaged_suffix(recipient_flesh!=Mechanoid)->húst tépve</Combat_RangedDamage.rulePack.rulesStrings.54>
+  <Combat_RangedDamage.rulePack.rulesStrings.55>to->oda</Combat_RangedDamage.rulePack.rulesStrings.55>
+  <Combat_RangedDamage.rulePack.rulesStrings.56>to->bele</Combat_RangedDamage.rulePack.rulesStrings.56>
+  <Combat_RangedDamage.rulePack.rulesStrings.57>missed->elhibázta</Combat_RangedDamage.rulePack.rulesStrings.57>
+  <Combat_RangedDamage.rulePack.rulesStrings.58>missed->kissé elhibázta</Combat_RangedDamage.rulePack.rulesStrings.58>
 
-  <Combat_RangedMiss.rulePack.rulesStrings.0>logentry->[initiator_definite]'s [weapon_projectile_label] [missed].</Combat_RangedMiss.rulePack.rulesStrings.0>
-  <Combat_RangedMiss.rulePack.rulesStrings.1>logentry->[initiator_definite] missed [originalTarget_definite].</Combat_RangedMiss.rulePack.rulesStrings.1>
-  <Combat_RangedMiss.rulePack.rulesStrings.2>logentry->[originalTarget_definite] [avoidance], [initiator_definite]'s [weapon_projectile_label] [missing].</Combat_RangedMiss.rulePack.rulesStrings.2>
-  <Combat_RangedMiss.rulePack.rulesStrings.3>missed(p=4)->missed</Combat_RangedMiss.rulePack.rulesStrings.3>
-  <Combat_RangedMiss.rulePack.rulesStrings.4>missed(p=2)->missed by a small margin</Combat_RangedMiss.rulePack.rulesStrings.4>
-  <Combat_RangedMiss.rulePack.rulesStrings.5>missed(p=2)->missed by a wide margin</Combat_RangedMiss.rulePack.rulesStrings.5>
-  <Combat_RangedMiss.rulePack.rulesStrings.6>missed->went wide</Combat_RangedMiss.rulePack.rulesStrings.6>
-  <Combat_RangedMiss.rulePack.rulesStrings.7>missed->flew into the air</Combat_RangedMiss.rulePack.rulesStrings.7>
-  <Combat_RangedMiss.rulePack.rulesStrings.8>missed->flew high into the air</Combat_RangedMiss.rulePack.rulesStrings.8>
-  <Combat_RangedMiss.rulePack.rulesStrings.9>missed->dug into the ground</Combat_RangedMiss.rulePack.rulesStrings.9>
-  <Combat_RangedMiss.rulePack.rulesStrings.10>missed->caromed off [originalTarget_definite]'s cover</Combat_RangedMiss.rulePack.rulesStrings.10>
-  <Combat_RangedMiss.rulePack.rulesStrings.11>missed->skipped off the ground és was lost</Combat_RangedMiss.rulePack.rulesStrings.11>
-  <Combat_RangedMiss.rulePack.rulesStrings.12>missed->dug a divot out of the ground</Combat_RangedMiss.rulePack.rulesStrings.12>
-  <Combat_RangedMiss.rulePack.rulesStrings.13>missed(p=0.2)->passed within millimeters of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.13>
-  <Combat_RangedMiss.rulePack.rulesStrings.14>missed->passed within centimeters of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.14>
-  <Combat_RangedMiss.rulePack.rulesStrings.15>missed->passed within a meter of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.15>
-  <Combat_RangedMiss.rulePack.rulesStrings.16>missed->was blown offcourse</Combat_RangedMiss.rulePack.rulesStrings.16>
-  <Combat_RangedMiss.rulePack.rulesStrings.17>missing->missing</Combat_RangedMiss.rulePack.rulesStrings.17>
-  <Combat_RangedMiss.rulePack.rulesStrings.18>missing->missing by a small margin</Combat_RangedMiss.rulePack.rulesStrings.18>
-  <Combat_RangedMiss.rulePack.rulesStrings.19>missing->missing by a wide margin</Combat_RangedMiss.rulePack.rulesStrings.19>
-  <Combat_RangedMiss.rulePack.rulesStrings.20>missing->going wide</Combat_RangedMiss.rulePack.rulesStrings.20>
-  <Combat_RangedMiss.rulePack.rulesStrings.21>missing->flying into the air</Combat_RangedMiss.rulePack.rulesStrings.21>
-  <Combat_RangedMiss.rulePack.rulesStrings.22>missing->flying high into the air</Combat_RangedMiss.rulePack.rulesStrings.22>
-  <Combat_RangedMiss.rulePack.rulesStrings.23>missing->digging into the ground</Combat_RangedMiss.rulePack.rulesStrings.23>
-  <Combat_RangedMiss.rulePack.rulesStrings.24>missing->skipping off the ground és becoming lost</Combat_RangedMiss.rulePack.rulesStrings.24>
-  <Combat_RangedMiss.rulePack.rulesStrings.25>missing->digging a divot out of the ground</Combat_RangedMiss.rulePack.rulesStrings.25>
-  <Combat_RangedMiss.rulePack.rulesStrings.26>missing(p=0.2)->passing within millimeters of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.26>
-  <Combat_RangedMiss.rulePack.rulesStrings.27>missing->passing within centimeters of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.27>
-  <Combat_RangedMiss.rulePack.rulesStrings.28>missing->passing within a meter of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.28>
-  <Combat_RangedMiss.rulePack.rulesStrings.29>missing->blowing offcourse</Combat_RangedMiss.rulePack.rulesStrings.29>
-  <Combat_RangedMiss.rulePack.rulesStrings.30>avoidance(originalTarget_mobile==True)->jerked aside at the last second</Combat_RangedMiss.rulePack.rulesStrings.30>
-  <Combat_RangedMiss.rulePack.rulesStrings.31>avoidance(originalTarget_mobile==True)->stumbled in an attempt to escape</Combat_RangedMiss.rulePack.rulesStrings.31>
-  <Combat_RangedMiss.rulePack.rulesStrings.32>avoidance(originalTarget_mobile==True)->threw [originalTarget_objective]self to the ground</Combat_RangedMiss.rulePack.rulesStrings.32>
-  <Combat_RangedMiss.rulePack.rulesStrings.33>avoidance(originalTarget_mobile==True,p=0.3)->ducked behind the nearest piece of cover</Combat_RangedMiss.rulePack.rulesStrings.33>
-  <Combat_RangedMiss.rulePack.rulesStrings.34>avoidance(originalTarget_mobile==True,p=0.3)->leaped behind the nearest piece of cover</Combat_RangedMiss.rulePack.rulesStrings.34>
+  <Combat_RangedMiss.rulePack.rulesStrings.0>logentry->[initiator_definite] [weapon_projectile_label] [missed].</Combat_RangedMiss.rulePack.rulesStrings.0>
+  <Combat_RangedMiss.rulePack.rulesStrings.1>logentry->[initiator_definite] elhibázta ezt: [originalTarget_definite].</Combat_RangedMiss.rulePack.rulesStrings.1>
+  <Combat_RangedMiss.rulePack.rulesStrings.2>logentry->[originalTarget_definite] [avoidance], [initiator_definite] [weapon_projectile_label] [missing].</Combat_RangedMiss.rulePack.rulesStrings.2>
+  <Combat_RangedMiss.rulePack.rulesStrings.3>missed(p=4)->elhibázta</Combat_RangedMiss.rulePack.rulesStrings.3>
+  <Combat_RangedMiss.rulePack.rulesStrings.4>missed(p=2)->kissé elhibázta</Combat_RangedMiss.rulePack.rulesStrings.4>
+  <Combat_RangedMiss.rulePack.rulesStrings.5>missed(p=2)->nagyon elhibázta</Combat_RangedMiss.rulePack.rulesStrings.5>
+  <Combat_RangedMiss.rulePack.rulesStrings.6>missed->mellé ment</Combat_RangedMiss.rulePack.rulesStrings.6>
+  <Combat_RangedMiss.rulePack.rulesStrings.7>missed->a levegőbe szállt</Combat_RangedMiss.rulePack.rulesStrings.7>
+  <Combat_RangedMiss.rulePack.rulesStrings.8>missed->magasan a levegőbe szállt</Combat_RangedMiss.rulePack.rulesStrings.8>
+  <Combat_RangedMiss.rulePack.rulesStrings.9>missed->a földbe fúródott</Combat_RangedMiss.rulePack.rulesStrings.9>
+  <Combat_RangedMiss.rulePack.rulesStrings.10>missed->leppattant [originalTarget_definite] fedezékéről</Combat_RangedMiss.rulePack.rulesStrings.10>
+  <Combat_RangedMiss.rulePack.rulesStrings.11>missed->a földről felpattanva eltűnt</Combat_RangedMiss.rulePack.rulesStrings.11>
+  <Combat_RangedMiss.rulePack.rulesStrings.12>missed->egy darab földet szórt fel</Combat_RangedMiss.rulePack.rulesStrings.12>
+  <Combat_RangedMiss.rulePack.rulesStrings.13>missed(p=0.2)->csak milliméterekkel ment el mellette: [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.13>
+  <Combat_RangedMiss.rulePack.rulesStrings.14>missed->csak centikre ment el mellette: [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.14>
+  <Combat_RangedMiss.rulePack.rulesStrings.15>missed->egy méterrel ment el mellette: [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.15>
+  <Combat_RangedMiss.rulePack.rulesStrings.16>missed->rossz felé ment</Combat_RangedMiss.rulePack.rulesStrings.16>
+  <Combat_RangedMiss.rulePack.rulesStrings.17>missing->elhibázta</Combat_RangedMiss.rulePack.rulesStrings.17>
+  <Combat_RangedMiss.rulePack.rulesStrings.18>missing->kissé elhibázta</Combat_RangedMiss.rulePack.rulesStrings.18>
+  <Combat_RangedMiss.rulePack.rulesStrings.19>missing->nagyon elhibázta</Combat_RangedMiss.rulePack.rulesStrings.19>
+  <Combat_RangedMiss.rulePack.rulesStrings.20>missing->mellé ment</Combat_RangedMiss.rulePack.rulesStrings.20>
+  <Combat_RangedMiss.rulePack.rulesStrings.21>missing->a levegőbe szállt</Combat_RangedMiss.rulePack.rulesStrings.21>
+  <Combat_RangedMiss.rulePack.rulesStrings.22>missing->magasan a levegőbe szállt</Combat_RangedMiss.rulePack.rulesStrings.22>
+  <Combat_RangedMiss.rulePack.rulesStrings.23>missing->a földbe fúródott</Combat_RangedMiss.rulePack.rulesStrings.23>
+  <Combat_RangedMiss.rulePack.rulesStrings.24>missing->a földről felpattanva eltűnt</Combat_RangedMiss.rulePack.rulesStrings.24>
+  <Combat_RangedMiss.rulePack.rulesStrings.25>missing->egy darab földet szórt fel</Combat_RangedMiss.rulePack.rulesStrings.25>
+  <Combat_RangedMiss.rulePack.rulesStrings.26>missing(p=0.2)->csak milliméterekkel ment el mellette: [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.26>
+  <Combat_RangedMiss.rulePack.rulesStrings.27>missing->csak centikre ment el mellette: [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.27>
+  <Combat_RangedMiss.rulePack.rulesStrings.28>missing->egy méterrel ment el mellette: [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.28>
+  <Combat_RangedMiss.rulePack.rulesStrings.29>missing->rossz felé ment</Combat_RangedMiss.rulePack.rulesStrings.29>
+  <Combat_RangedMiss.rulePack.rulesStrings.30>avoidance(originalTarget_mobile==True)->az utolsó pillanatban félreugrott</Combat_RangedMiss.rulePack.rulesStrings.30>
+  <Combat_RangedMiss.rulePack.rulesStrings.31>avoidance(originalTarget_mobile==True)->menekülés közben elbotlott</Combat_RangedMiss.rulePack.rulesStrings.31>
+  <Combat_RangedMiss.rulePack.rulesStrings.32>avoidance(originalTarget_mobile==True)->földre vetette magát</Combat_RangedMiss.rulePack.rulesStrings.32>
+  <Combat_RangedMiss.rulePack.rulesStrings.33>avoidance(originalTarget_mobile==True,p=0.3)->lebukott a legközelebbi fedezék mögé</Combat_RangedMiss.rulePack.rulesStrings.33>
+  <Combat_RangedMiss.rulePack.rulesStrings.34>avoidance(originalTarget_mobile==True,p=0.3)->beugrott a legközelebbi fedezék mögé</Combat_RangedMiss.rulePack.rulesStrings.34>
 
-  <Combat_ExplosionImpact.rulePack.rulesStrings.0>prefix->The [blast] [fromof] [initiator_definite]'s [weapon_projectile_label]</Combat_ExplosionImpact.rulePack.rulesStrings.0>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.1>prefix->The [blast] [fromof] [initiator_definite]'s [weapon_label]</Combat_ExplosionImpact.rulePack.rulesStrings.1>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.2>prefix->The [blast] [fromof] [initiator_definite]'s [mortarshell]</Combat_ExplosionImpact.rulePack.rulesStrings.2>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.3>prefix->The [blast] [fromof] [initiator_definite]'s [weapon_projectile_label]</Combat_ExplosionImpact.rulePack.rulesStrings.3>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.4>prefix->The [blast] [fromof] [initiator_definite]'s [weapon_label]</Combat_ExplosionImpact.rulePack.rulesStrings.4>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.5>prefix->The [blast] [fromof] [initiator_definite]'s [mortarshell]</Combat_ExplosionImpact.rulePack.rulesStrings.5>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.6>prefix->[initiator_definite]'s [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.6>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.7>prefix->[initiator_definite]'s [weapon_projectile_label] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.7>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.8>prefix->[initiator_definite]'s [mortarshell] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.8>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.9>prefix->[initiator_definite]'s [weapon_label] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.9>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.10>prefix->[initiator_definite]'s [weapon_projectile_label]</Combat_ExplosionImpact.rulePack.rulesStrings.10>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.11>prefix->[initiator_definite]'s [mortarshell]</Combat_ExplosionImpact.rulePack.rulesStrings.11>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.12>prefix->[initiator_definite]'s [weapon_label]</Combat_ExplosionImpact.rulePack.rulesStrings.12>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.0>prefix->[initiator_definite] [weapon_projectile_label] által okozott [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.0>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.1>prefix->[initiator_definite] [weapon_label] által okozott [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.1>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.2>prefix->[initiator_definite] [mortarshell] által okozott [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.2>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.3>prefix->[initiator_definite] [weapon_projectile_label] által okozott [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.3>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.4>prefix->[initiator_definite] [weapon_label] által okozott [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.4>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.5>prefix->[initiator_definite] [mortarshell] által okozott [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.5>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.6>prefix->[initiator_definite] által okozott [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.6>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.7>prefix->[initiator_definite] [weapon_projectile_label] által okozott [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.7>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.8>prefix->[initiator_definite] [mortarshell] által okozott [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.8>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.9>prefix->[initiator_definite] [weapon_label] által okozott [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.9>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.10>prefix->[initiator_definite] [weapon_projectile_label]</Combat_ExplosionImpact.rulePack.rulesStrings.10>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.11>prefix->[initiator_definite] [mortarshell]</Combat_ExplosionImpact.rulePack.rulesStrings.11>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.12>prefix->[initiator_definite] [weapon_label]</Combat_ExplosionImpact.rulePack.rulesStrings.12>
   <Combat_ExplosionImpact.rulePack.rulesStrings.13>logentry->[prefix] [injured] [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.13>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.14>logentry->[prefix] [destroyed_past] [recipient_definite]'s [destroyed_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.14>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.15>logentry->[prefix] [destroyed_past] [recipient_definite]'s [destroyed_targets] [flavortextadverb].</Combat_ExplosionImpact.rulePack.rulesStrings.15>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.16>logentry->[prefix] [flavortextadverb] [destroyed_past] [recipient_definite]'s [destroyed_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.16>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.17>logentry->[prefix] [destroyed_past] [recipient_definite]'s [destroyed_targets] és [damaged_past] [damaged_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.17>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.18>logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [recipient_definite]'s [damaged_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.18>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.19>logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [recipient_definite]'s [damaged_targets] [flavortextadverb].</Combat_ExplosionImpact.rulePack.rulesStrings.19>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.20>logentry(recipient_part_destroyed_count==0)->[prefix] [flavortextadverb] [damaged_past] [recipient_definite]'s [damaged_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.20>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.21>logentry->[recipient_definite] was [damaged_past] by [initiator_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.21>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.22>logentry->[recipient_definite] was [damaged_past] [flavortextadverb] by [initiator_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.22>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.23>logentry->[recipient_definite] was [damaged_past].</Combat_ExplosionImpact.rulePack.rulesStrings.23>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.24>logentry(p=0.001)->[recipient_definite] was caught in an explosion.</Combat_ExplosionImpact.rulePack.rulesStrings.24>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.25>logentry(p=0.001)->[recipient_definite] was hit by an explosion.</Combat_ExplosionImpact.rulePack.rulesStrings.25>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.26>blast->explosion</Combat_ExplosionImpact.rulePack.rulesStrings.26>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.27>blast->blast</Combat_ExplosionImpact.rulePack.rulesStrings.27>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.28>blast->shockwave</Combat_ExplosionImpact.rulePack.rulesStrings.28>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.29>blast->detonation</Combat_ExplosionImpact.rulePack.rulesStrings.29>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.30>blast->discharge</Combat_ExplosionImpact.rulePack.rulesStrings.30>
-  <Combat_ExplosionImpact.rulePack.rulesStrings.31>blast->impact</Combat_ExplosionImpact.rulePack.rulesStrings.31>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.14>logentry->[prefix] [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.14>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.15>logentry->[prefix] [destroyed_past] ezt: [recipient_definite] [destroyed_targets], [flavortextadverb].</Combat_ExplosionImpact.rulePack.rulesStrings.15>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.16>logentry->[prefix] [flavortextadverb] [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.16>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.17>logentry->[prefix] [destroyed_past] ezt: [recipient_definite] [destroyed_targets] és [damaged_past] ezt: [damaged_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.17>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.18>logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] ezt: [recipient_definite] [damaged_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.18>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.19>logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] ezt: [recipient_definite] [damaged_targets], [flavortextadverb].</Combat_ExplosionImpact.rulePack.rulesStrings.19>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.20>logentry(recipient_part_destroyed_count==0)->[prefix] [flavortextadverb] [damaged_past] ezt: [recipient_definite] [damaged_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.20>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.21>logentry->[initiator_definite] [damaged_past] ezt: [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.21>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.22>logentry->[initiator_definite] [flavortextadverb] [damaged_past] ezt: [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.22>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.23>logentry->[recipient_definite] [damaged_past] lett.</Combat_ExplosionImpact.rulePack.rulesStrings.23>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.24>logentry(p=0.001)->Elkapta egy robbanás ezt: [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.24>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.25>logentry(p=0.001)->Elérte egy robbanás ezt: [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.25>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.26>blast->robbanás</Combat_ExplosionImpact.rulePack.rulesStrings.26>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.27>blast->robbanás</Combat_ExplosionImpact.rulePack.rulesStrings.27>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.28>blast->lökéshullám</Combat_ExplosionImpact.rulePack.rulesStrings.28>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.29>blast->robbanás</Combat_ExplosionImpact.rulePack.rulesStrings.29>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.30>blast->robbanás</Combat_ExplosionImpact.rulePack.rulesStrings.30>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.31>blast->becsapódás</Combat_ExplosionImpact.rulePack.rulesStrings.31>
   <Combat_ExplosionImpact.rulePack.rulesStrings.32>fromof->from</Combat_ExplosionImpact.rulePack.rulesStrings.32>
   <Combat_ExplosionImpact.rulePack.rulesStrings.33>fromof->of</Combat_ExplosionImpact.rulePack.rulesStrings.33>
 

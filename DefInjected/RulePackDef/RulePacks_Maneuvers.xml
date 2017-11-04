@@ -23,19 +23,19 @@
   <Maneuver_Slash.rulePack.rulesStrings.19>woundname(p=0.3)->sebesülés</Maneuver_Slash.rulePack.rulesStrings.19>
   <Maneuver_Slash.rulePack.rulesStrings.20>flavortextsituation(recipient_flesh!=Mechanoid)->a [woundname] vérzik</Maneuver_Slash.rulePack.rulesStrings.20>
   <Maneuver_Slash.rulePack.rulesStrings.21>flavortextsituation->a [woundname] folyadékban úszik</Maneuver_Slash.rulePack.rulesStrings.21>
-  <Maneuver_Slash.rulePack.rulesStrings.22>flavortextconsequence(recipient_flesh!=Mechanoid)->amin keresztül látszik a hús</Maneuver_Slash.rulePack.rulesStrings.22>
-  <Maneuver_Slash.rulePack.rulesStrings.23>flavortextconsequence(recipient_flesh==Mechanoid)->amin keresztül látszik a gépezet</Maneuver_Slash.rulePack.rulesStrings.23>
-  <Maneuver_Slash.rulePack.rulesStrings.24>flavortextconsequence(recipient_flesh!=Mechanoid)->véres [woundname] marad utána</Maneuver_Slash.rulePack.rulesStrings.24>
+  <Maneuver_Slash.rulePack.rulesStrings.22>flavortextconsequence(recipient_flesh!=Mechanoid)->láthatóvá vált a hús</Maneuver_Slash.rulePack.rulesStrings.22>
+  <Maneuver_Slash.rulePack.rulesStrings.23>flavortextconsequence(recipient_flesh==Mechanoid)->láthatóvá vált a gépezet</Maneuver_Slash.rulePack.rulesStrings.23>
+  <Maneuver_Slash.rulePack.rulesStrings.24>flavortextconsequence(recipient_flesh!=Mechanoid)->véres [woundname] maradt utána</Maneuver_Slash.rulePack.rulesStrings.24>
   <Maneuver_Slash.rulePack.rulesStrings.25>destroyed_past->kettévágott</Maneuver_Slash.rulePack.rulesStrings.25>
   <Maneuver_Slash.rulePack.rulesStrings.26>destroyed_past->szétvágott</Maneuver_Slash.rulePack.rulesStrings.26>
   <Maneuver_Slash.rulePack.rulesStrings.27>destroyed_past->kettészelt</Maneuver_Slash.rulePack.rulesStrings.27>
   <Maneuver_Slash.rulePack.rulesStrings.28>destroyed_past->elkülönült</Maneuver_Slash.rulePack.rulesStrings.28>
   <Maneuver_Slash.rulePack.rulesStrings.29>destroyed_past->kettévágott</Maneuver_Slash.rulePack.rulesStrings.29>
-  <Maneuver_Slash.rulePack.rulesStrings.30>destroyed_present->kettévág</Maneuver_Slash.rulePack.rulesStrings.30>
-  <Maneuver_Slash.rulePack.rulesStrings.31>destroyed_present->szétvág</Maneuver_Slash.rulePack.rulesStrings.31>
-  <Maneuver_Slash.rulePack.rulesStrings.32>destroyed_present->kettészel</Maneuver_Slash.rulePack.rulesStrings.32>
-  <Maneuver_Slash.rulePack.rulesStrings.33>destroyed_present->szétvág</Maneuver_Slash.rulePack.rulesStrings.33>
-  <Maneuver_Slash.rulePack.rulesStrings.34>destroyed_present->kettévág</Maneuver_Slash.rulePack.rulesStrings.34>
+  <Maneuver_Slash.rulePack.rulesStrings.30>destroyed_present->kettévágva</Maneuver_Slash.rulePack.rulesStrings.30>
+  <Maneuver_Slash.rulePack.rulesStrings.31>destroyed_present->szétvágva</Maneuver_Slash.rulePack.rulesStrings.31>
+  <Maneuver_Slash.rulePack.rulesStrings.32>destroyed_present->kettészelve</Maneuver_Slash.rulePack.rulesStrings.32>
+  <Maneuver_Slash.rulePack.rulesStrings.33>destroyed_present->szétvágva</Maneuver_Slash.rulePack.rulesStrings.33>
+  <Maneuver_Slash.rulePack.rulesStrings.34>destroyed_present->kettévágva</Maneuver_Slash.rulePack.rulesStrings.34>
   <Maneuver_Slash.rulePack.rulesStrings.35>destroyed_suffix->szép darabokra</Maneuver_Slash.rulePack.rulesStrings.35>
   <Maneuver_Slash.rulePack.rulesStrings.36>destroyed_suffix->tisztán</Maneuver_Slash.rulePack.rulesStrings.36>
   <Maneuver_Slash.rulePack.rulesStrings.37>destroyed_suffix(target_part_destroyed_count==1)->feltárva belső részeit</Maneuver_Slash.rulePack.rulesStrings.37>
@@ -58,15 +58,15 @@
   <Maneuver_Stab.rulePack.rulesStrings.14>woundname->vágás</Maneuver_Stab.rulePack.rulesStrings.14>
   <Maneuver_Stab.rulePack.rulesStrings.15>woundname->seb</Maneuver_Stab.rulePack.rulesStrings.15>
   <Maneuver_Stab.rulePack.rulesStrings.16>woundname->heg</Maneuver_Stab.rulePack.rulesStrings.16>
-  <Maneuver_Stab.rulePack.rulesStrings.17>flavortextconsequence(recipient_flesh!=Mechanoid)->véres [woundname] marad utána</Maneuver_Stab.rulePack.rulesStrings.17>
-  <Maneuver_Stab.rulePack.rulesStrings.18>flavortextconsequence(recipient_flesh!=Mechanoid)->tépett [woundname] marad utána</Maneuver_Stab.rulePack.rulesStrings.18>
-  <Maneuver_Stab.rulePack.rulesStrings.19>flavortextconsequence(recipient_flesh!=Mechanoid)->vérző [woundname] marad utána</Maneuver_Stab.rulePack.rulesStrings.19>
+  <Maneuver_Stab.rulePack.rulesStrings.17>flavortextconsequence(recipient_flesh!=Mechanoid)->véres [woundname] maradt utána</Maneuver_Stab.rulePack.rulesStrings.17>
+  <Maneuver_Stab.rulePack.rulesStrings.18>flavortextconsequence(recipient_flesh!=Mechanoid)->tépett [woundname] maradt utána</Maneuver_Stab.rulePack.rulesStrings.18>
+  <Maneuver_Stab.rulePack.rulesStrings.19>flavortextconsequence(recipient_flesh!=Mechanoid)->vérző [woundname] maradt utána</Maneuver_Stab.rulePack.rulesStrings.19>
   <Maneuver_Stab.rulePack.rulesStrings.20>destroyed_past->felnyársalt</Maneuver_Stab.rulePack.rulesStrings.20>
   <Maneuver_Stab.rulePack.rulesStrings.21>destroyed_past->kilyukadt</Maneuver_Stab.rulePack.rulesStrings.21>
   <Maneuver_Stab.rulePack.rulesStrings.22>destroyed_past->megszúrt</Maneuver_Stab.rulePack.rulesStrings.22>
-  <Maneuver_Stab.rulePack.rulesStrings.23>destroyed_present->felnyársal</Maneuver_Stab.rulePack.rulesStrings.23>
-  <Maneuver_Stab.rulePack.rulesStrings.24>destroyed_present->kilyukad</Maneuver_Stab.rulePack.rulesStrings.24>
-  <Maneuver_Stab.rulePack.rulesStrings.25>destroyed_present->megszúr</Maneuver_Stab.rulePack.rulesStrings.25>
+  <Maneuver_Stab.rulePack.rulesStrings.23>destroyed_present->felnyársalva</Maneuver_Stab.rulePack.rulesStrings.23>
+  <Maneuver_Stab.rulePack.rulesStrings.24>destroyed_present->kilyukasztva</Maneuver_Stab.rulePack.rulesStrings.24>
+  <Maneuver_Stab.rulePack.rulesStrings.25>destroyed_present->leszúrva</Maneuver_Stab.rulePack.rulesStrings.25>
   <Maneuver_Stab.rulePack.rulesStrings.26>destroyed_suffix->teljesen át</Maneuver_Stab.rulePack.rulesStrings.26>
   <Maneuver_Stab.rulePack.rulesStrings.27>destroyed_suffix->tiszta lyukat hagyva</Maneuver_Stab.rulePack.rulesStrings.27>
   <Maneuver_Stab.rulePack.rulesStrings.28>destroyed_suffix(recipient_flesh!=Mechanoid,target_part_destroyed_count==1)->véres folyadékot fakasztva</Maneuver_Stab.rulePack.rulesStrings.28>
@@ -92,11 +92,11 @@
   <Maneuver_Smash_Damage.rulePack.rulesStrings.17>destroyed_past->megsemmisült</Maneuver_Smash_Damage.rulePack.rulesStrings.17>
   <Maneuver_Smash_Damage.rulePack.rulesStrings.18>destroyed_past->megsemmisült</Maneuver_Smash_Damage.rulePack.rulesStrings.18>
   <Maneuver_Smash_Damage.rulePack.rulesStrings.19>destroyed_past->összetört</Maneuver_Smash_Damage.rulePack.rulesStrings.19>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.20>destroyed_present->zúz</Maneuver_Smash_Damage.rulePack.rulesStrings.20>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.21>destroyed_present->összetör</Maneuver_Smash_Damage.rulePack.rulesStrings.21>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.22>destroyed_present->megsemmisül</Maneuver_Smash_Damage.rulePack.rulesStrings.22>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.23>destroyed_present->megsemmisül</Maneuver_Smash_Damage.rulePack.rulesStrings.23>
-  <Maneuver_Smash_Damage.rulePack.rulesStrings.24>destroyed_present->összetör</Maneuver_Smash_Damage.rulePack.rulesStrings.24>
+  <Maneuver_Smash_Damage.rulePack.rulesStrings.20>destroyed_present->szétzúzva</Maneuver_Smash_Damage.rulePack.rulesStrings.20>
+  <Maneuver_Smash_Damage.rulePack.rulesStrings.21>destroyed_present->összetörve</Maneuver_Smash_Damage.rulePack.rulesStrings.21>
+  <Maneuver_Smash_Damage.rulePack.rulesStrings.22>destroyed_present->megsemmisítve</Maneuver_Smash_Damage.rulePack.rulesStrings.22>
+  <Maneuver_Smash_Damage.rulePack.rulesStrings.23>destroyed_present->megsemmisítve</Maneuver_Smash_Damage.rulePack.rulesStrings.23>
+  <Maneuver_Smash_Damage.rulePack.rulesStrings.24>destroyed_present->összetörve</Maneuver_Smash_Damage.rulePack.rulesStrings.24>
 
   <Maneuver_Smash.rulePack.rulesStrings.0>flavortextconsequence(recipient_flesh!=Mechanoid)->óriási horzsolást hagyva</Maneuver_Smash.rulePack.rulesStrings.0>
   <Maneuver_Smash.rulePack.rulesStrings.1>flavortextconsequence->egyértelmű elváltozást hagyva</Maneuver_Smash.rulePack.rulesStrings.1>
@@ -124,19 +124,19 @@
   <Maneuver_Scratch_Damage.rulePack.rulesStrings.14>destroyed_past->szakított</Maneuver_Scratch_Damage.rulePack.rulesStrings.14>
   <Maneuver_Scratch_Damage.rulePack.rulesStrings.15>destroyed_past->aprított</Maneuver_Scratch_Damage.rulePack.rulesStrings.15>
   <Maneuver_Scratch_Damage.rulePack.rulesStrings.16>destroyed_past->tépett</Maneuver_Scratch_Damage.rulePack.rulesStrings.16>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.17>destroyed_present->sulykol</Maneuver_Scratch_Damage.rulePack.rulesStrings.17>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.18>destroyed_present->tép</Maneuver_Scratch_Damage.rulePack.rulesStrings.18>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.19>destroyed_present->szakít</Maneuver_Scratch_Damage.rulePack.rulesStrings.19>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.20>destroyed_present->aprít</Maneuver_Scratch_Damage.rulePack.rulesStrings.20>
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings.21>destroyed_present->tép</Maneuver_Scratch_Damage.rulePack.rulesStrings.21>
+  <Maneuver_Scratch_Damage.rulePack.rulesStrings.17>destroyed_present->letaglózva</Maneuver_Scratch_Damage.rulePack.rulesStrings.17>
+  <Maneuver_Scratch_Damage.rulePack.rulesStrings.18>destroyed_present->széttépve</Maneuver_Scratch_Damage.rulePack.rulesStrings.18>
+  <Maneuver_Scratch_Damage.rulePack.rulesStrings.19>destroyed_present->szétszakítva</Maneuver_Scratch_Damage.rulePack.rulesStrings.19>
+  <Maneuver_Scratch_Damage.rulePack.rulesStrings.20>destroyed_present->felaprítva</Maneuver_Scratch_Damage.rulePack.rulesStrings.20>
+  <Maneuver_Scratch_Damage.rulePack.rulesStrings.21>destroyed_present->széttépve</Maneuver_Scratch_Damage.rulePack.rulesStrings.21>
 
   <Maneuver_Scratch.rulePack.rulesStrings.0>woundname->seb</Maneuver_Scratch.rulePack.rulesStrings.0>
   <Maneuver_Scratch.rulePack.rulesStrings.1>woundname(p=0.3)->sebesülés</Maneuver_Scratch.rulePack.rulesStrings.1>
   <Maneuver_Scratch.rulePack.rulesStrings.2>flavortextsituation(recipient_flesh!=Mechanoid)->a [woundname] vérzik</Maneuver_Scratch.rulePack.rulesStrings.2>
   <Maneuver_Scratch.rulePack.rulesStrings.3>flavortextsituation->a [woundname] folyadékban úszik</Maneuver_Scratch.rulePack.rulesStrings.3>
-  <Maneuver_Scratch.rulePack.rulesStrings.4>flavortextconsequence(recipient_flesh!=Mechanoid)->amin keresztül látszik a hús</Maneuver_Scratch.rulePack.rulesStrings.4>
-  <Maneuver_Scratch.rulePack.rulesStrings.5>flavortextconsequence(recipient_flesh==Mechanoid)->amin keresztül látszik a gépezet</Maneuver_Scratch.rulePack.rulesStrings.5>
-  <Maneuver_Scratch.rulePack.rulesStrings.6>flavortextconsequence(recipient_flesh!=Mechanoid)->véres [woundname] marad utána</Maneuver_Scratch.rulePack.rulesStrings.6>
+  <Maneuver_Scratch.rulePack.rulesStrings.4>flavortextconsequence(recipient_flesh!=Mechanoid)->láthatóvá vált a hús</Maneuver_Scratch.rulePack.rulesStrings.4>
+  <Maneuver_Scratch.rulePack.rulesStrings.5>flavortextconsequence(recipient_flesh==Mechanoid)->láthatóvá vált a gépezet</Maneuver_Scratch.rulePack.rulesStrings.5>
+  <Maneuver_Scratch.rulePack.rulesStrings.6>flavortextconsequence(recipient_flesh!=Mechanoid)->véres [woundname] maradt utána</Maneuver_Scratch.rulePack.rulesStrings.6>
   <Maneuver_Scratch.rulePack.rulesStrings.7>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] mocskos csíkokra</Maneuver_Scratch.rulePack.rulesStrings.7>
   <Maneuver_Scratch.rulePack.rulesStrings.8>destroyed_suffix->[to] csíkokra</Maneuver_Scratch.rulePack.rulesStrings.8>
   <Maneuver_Scratch.rulePack.rulesStrings.9>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] mocskos darabokra</Maneuver_Scratch.rulePack.rulesStrings.9>
@@ -154,11 +154,11 @@
   <Poke.rulePack.rulesStrings.7>damaged_past->döfött</Poke.rulePack.rulesStrings.7>
   <Poke.rulePack.rulesStrings.8>damaged_past->szúrt</Poke.rulePack.rulesStrings.8>
   <Poke.rulePack.rulesStrings.9>damaged_past->döfött</Poke.rulePack.rulesStrings.9>
-  <Poke.rulePack.rulesStrings.10>maneuver_present(p=2)->bök</Poke.rulePack.rulesStrings.10>
-  <Poke.rulePack.rulesStrings.11>maneuver_present(p=2)->szúr</Poke.rulePack.rulesStrings.11>
-  <Poke.rulePack.rulesStrings.12>maneuver_present->döf</Poke.rulePack.rulesStrings.12>
-  <Poke.rulePack.rulesStrings.13>maneuver_present->szúr</Poke.rulePack.rulesStrings.13>
-  <Poke.rulePack.rulesStrings.14>maneuver_present->döf</Poke.rulePack.rulesStrings.14>
+  <Poke.rulePack.rulesStrings.10>maneuver_present(p=2)->bökve</Poke.rulePack.rulesStrings.10>
+  <Poke.rulePack.rulesStrings.11>maneuver_present(p=2)->szúrva</Poke.rulePack.rulesStrings.11>
+  <Poke.rulePack.rulesStrings.12>maneuver_present->döfve</Poke.rulePack.rulesStrings.12>
+  <Poke.rulePack.rulesStrings.13>maneuver_present->szúrva</Poke.rulePack.rulesStrings.13>
+  <Poke.rulePack.rulesStrings.14>maneuver_present->döfve</Poke.rulePack.rulesStrings.14>
   <Poke.rulePack.rulesStrings.15>flavortextconsequence(recipient_flesh!=Mechanoid)->óriási horzsolást hagyva</Poke.rulePack.rulesStrings.15>
   <Poke.rulePack.rulesStrings.16>flavortextconsequence->egyértelmű elváltozást hagyva</Poke.rulePack.rulesStrings.16>
   <Poke.rulePack.rulesStrings.17>flavortextconsequence->kibillentve egyensúlyából ezt: [recipient_objective]</Poke.rulePack.rulesStrings.17>
@@ -168,11 +168,11 @@
   <Poke.rulePack.rulesStrings.21>destroyed_past->megsemmisült</Poke.rulePack.rulesStrings.21>
   <Poke.rulePack.rulesStrings.22>destroyed_past->megsemmisült</Poke.rulePack.rulesStrings.22>
   <Poke.rulePack.rulesStrings.23>destroyed_past->összetört</Poke.rulePack.rulesStrings.23>
-  <Poke.rulePack.rulesStrings.24>destroyed_present->zúz</Poke.rulePack.rulesStrings.24>
-  <Poke.rulePack.rulesStrings.25>destroyed_present->összetör</Poke.rulePack.rulesStrings.25>
-  <Poke.rulePack.rulesStrings.26>destroyed_present->megsemmisül</Poke.rulePack.rulesStrings.26>
-  <Poke.rulePack.rulesStrings.27>destroyed_present->megsemmisül</Poke.rulePack.rulesStrings.27>
-  <Poke.rulePack.rulesStrings.28>destroyed_present->összetör</Poke.rulePack.rulesStrings.28>
+  <Poke.rulePack.rulesStrings.24>destroyed_present->szétzúzva</Poke.rulePack.rulesStrings.24>
+  <Poke.rulePack.rulesStrings.25>destroyed_present->összetörve</Poke.rulePack.rulesStrings.25>
+  <Poke.rulePack.rulesStrings.26>destroyed_present->megsemmisítve</Poke.rulePack.rulesStrings.26>
+  <Poke.rulePack.rulesStrings.27>destroyed_present->megsemmisítve</Poke.rulePack.rulesStrings.27>
+  <Poke.rulePack.rulesStrings.28>destroyed_present->összetörve</Poke.rulePack.rulesStrings.28>
   <Poke.rulePack.rulesStrings.29>destroyed_suffix->[to] darabokra</Poke.rulePack.rulesStrings.29>
   <Poke.rulePack.rulesStrings.30>destroyed_suffix->[to] darabkákra</Poke.rulePack.rulesStrings.30>
   <Poke.rulePack.rulesStrings.31>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] köddé</Poke.rulePack.rulesStrings.31>
@@ -181,16 +181,16 @@
   <Bite.rulePack.rulesStrings.0>damaged_inf->harapás</Bite.rulePack.rulesStrings.0>
   <Bite.rulePack.rulesStrings.1>damaged_inf->harapás</Bite.rulePack.rulesStrings.1>
   <Bite.rulePack.rulesStrings.2>damaged_inf(p=0.5)->harapás</Bite.rulePack.rulesStrings.2>
-  <Bite.rulePack.rulesStrings.3>damaged_past->harap</Bite.rulePack.rulesStrings.3>
+  <Bite.rulePack.rulesStrings.3>damaged_past->harapott</Bite.rulePack.rulesStrings.3>
   <Bite.rulePack.rulesStrings.4>damaged_past->harapott</Bite.rulePack.rulesStrings.4>
   <Bite.rulePack.rulesStrings.5>damaged_past->megkapott</Bite.rulePack.rulesStrings.5>
   <Bite.rulePack.rulesStrings.6>damaged_past->rágott</Bite.rulePack.rulesStrings.6>
   <Bite.rulePack.rulesStrings.7>damaged_past->tépett</Bite.rulePack.rulesStrings.7>
-  <Bite.rulePack.rulesStrings.8>maneuver_present->harap</Bite.rulePack.rulesStrings.8>
-  <Bite.rulePack.rulesStrings.9>maneuver_present->harap</Bite.rulePack.rulesStrings.9>
-  <Bite.rulePack.rulesStrings.10>maneuver_present->harap</Bite.rulePack.rulesStrings.10>
-  <Bite.rulePack.rulesStrings.11>maneuver_present->rág</Bite.rulePack.rulesStrings.11>
-  <Bite.rulePack.rulesStrings.12>maneuver_present->tép</Bite.rulePack.rulesStrings.12>
+  <Bite.rulePack.rulesStrings.8>maneuver_present->harapva</Bite.rulePack.rulesStrings.8>
+  <Bite.rulePack.rulesStrings.9>maneuver_present->harapva</Bite.rulePack.rulesStrings.9>
+  <Bite.rulePack.rulesStrings.10>maneuver_present->harapva</Bite.rulePack.rulesStrings.10>
+  <Bite.rulePack.rulesStrings.11>maneuver_present->rágva</Bite.rulePack.rulesStrings.11>
+  <Bite.rulePack.rulesStrings.12>maneuver_present->tépve</Bite.rulePack.rulesStrings.12>
   <Bite.rulePack.rulesStrings.13>flavortextconsequence(recipient_flesh!=Mechanoid)->amin keresztül látszik a hús</Bite.rulePack.rulesStrings.13>
   <Bite.rulePack.rulesStrings.14>flavortextconsequence(recipient_flesh==Mechanoid)->amin keresztül látszik a gépezet</Bite.rulePack.rulesStrings.14>
   <Bite.rulePack.rulesStrings.15>flavortextconsequence(recipient_flesh!=Mechanoid)->rémes tépéseket hagyva a bőrön</Bite.rulePack.rulesStrings.15>
@@ -199,10 +199,10 @@
   <Bite.rulePack.rulesStrings.18>destroyed_past->szétszedett</Bite.rulePack.rulesStrings.18>
   <Bite.rulePack.rulesStrings.19>destroyed_past->tépett</Bite.rulePack.rulesStrings.19>
   <Bite.rulePack.rulesStrings.20>destroyed_past->elpusztított</Bite.rulePack.rulesStrings.20>
-  <Bite.rulePack.rulesStrings.21>destroyed_present->bekebelez</Bite.rulePack.rulesStrings.21>
-  <Bite.rulePack.rulesStrings.22>destroyed_present->szétszed</Bite.rulePack.rulesStrings.22>
-  <Bite.rulePack.rulesStrings.23>destroyed_present->tép</Bite.rulePack.rulesStrings.23>
-  <Bite.rulePack.rulesStrings.24>destroyed_present->elpusztít</Bite.rulePack.rulesStrings.24>
+  <Bite.rulePack.rulesStrings.21>destroyed_present->bekebelezve</Bite.rulePack.rulesStrings.21>
+  <Bite.rulePack.rulesStrings.22>destroyed_present->szétszedve</Bite.rulePack.rulesStrings.22>
+  <Bite.rulePack.rulesStrings.23>destroyed_present->széttépve</Bite.rulePack.rulesStrings.23>
+  <Bite.rulePack.rulesStrings.24>destroyed_present->elpusztítva</Bite.rulePack.rulesStrings.24>
   <Bite.rulePack.rulesStrings.25>destroyed_suffix->[to] ronggyá</Bite.rulePack.rulesStrings.25>
   <Bite.rulePack.rulesStrings.26>destroyed_suffix->[to] darabokra</Bite.rulePack.rulesStrings.26>
   <Bite.rulePack.rulesStrings.27>destroyed_suffix->[to] csíkokra</Bite.rulePack.rulesStrings.27>
