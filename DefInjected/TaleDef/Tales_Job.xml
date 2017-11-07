@@ -1,146 +1,146 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MinedValuable.label>mined valuable</MinedValuable.label>
-  <MinedValuable.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] mining a rich vein of [material_label]</MinedValuable.rulePack.rulesStrings.0>
-  <MinedValuable.rulePack.rulesStrings.1>image->[pawn_nameFull] working a [material_label] wall with mining tools, [circumstance_group]</MinedValuable.rulePack.rulesStrings.1>
-  <MinedValuable.rulePack.rulesStrings.2>image->[pawn_nameFull] holding up a chunk of [material_label], [circumstance_group]</MinedValuable.rulePack.rulesStrings.2>
-  <MinedValuable.rulePack.rulesStrings.3>image->[pawn_nameFull] resting against a wall of [material_label], [circumstance_group]</MinedValuable.rulePack.rulesStrings.3>
-  <MinedValuable.rulePack.rulesStrings.4>image->[pawn_nameFull] coordinating an excavation team against a rich vein of [material_label], [circumstance_group]</MinedValuable.rulePack.rulesStrings.4>
-  <MinedValuable.rulePack.rulesStrings.5>image->[pawn_nameFull] carefully inspecting a rich vein of [material_label], [circumstance_group]</MinedValuable.rulePack.rulesStrings.5>
-  <MinedValuable.rulePack.rulesStrings.6>circumstance_phrase->sweating heavily</MinedValuable.rulePack.rulesStrings.6>
-  <MinedValuable.rulePack.rulesStrings.7>circumstance_phrase->wearing a [friendlyadjective] expression</MinedValuable.rulePack.rulesStrings.7>
-  <MinedValuable.rulePack.rulesStrings.8>circumstance_phrase->wearing a [friendlyadjective] expression</MinedValuable.rulePack.rulesStrings.8>
-  <MinedValuable.rulePack.rulesStrings.9>circumstance_phrase->smiling proudly</MinedValuable.rulePack.rulesStrings.9>
-  <MinedValuable.rulePack.rulesStrings.10>circumstance_phrase->a satisfied expression on [pawn_possessive] face</MinedValuable.rulePack.rulesStrings.10>
-  <MinedValuable.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [ally]s assist.</MinedValuable.rulePack.rulesStrings.11>
-  <MinedValuable.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [animal]s wander the area.</MinedValuable.rulePack.rulesStrings.12>
-  <MinedValuable.rulePack.rulesStrings.13>desc_sentence->There is a [community] in the background.</MinedValuable.rulePack.rulesStrings.13>
-  <MinedValuable.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] further veins are visible in the distance.</MinedValuable.rulePack.rulesStrings.14>
-  <MinedValuable.rulePack.rulesStrings.15>desc_sentence->A [terrainfeature] is visible in the distance.</MinedValuable.rulePack.rulesStrings.15>
-  <MinedValuable.rulePack.rulesStrings.16>desc_sentence->[pawn_nameShortDef] is sweaty and dirty from work.</MinedValuable.rulePack.rulesStrings.16>
+  <MinedValuable.label>bányászat</MinedValuable.label>
+  <MinedValuable.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] egy gazdag [material_label] telért bányászik</MinedValuable.rulePack.rulesStrings.0>
+  <MinedValuable.rulePack.rulesStrings.1>image->[pawn_nameFull] egy [material_label] falon dolgozik szerszámaival, [circumstance_group]</MinedValuable.rulePack.rulesStrings.1>
+  <MinedValuable.rulePack.rulesStrings.2>image->[pawn_nameFull] egy [material_label] darabot tart a kezében, [circumstance_group]</MinedValuable.rulePack.rulesStrings.2>
+  <MinedValuable.rulePack.rulesStrings.3>image->[pawn_nameFull] [material_label] falnak dőlve pihen, [circumstance_group]</MinedValuable.rulePack.rulesStrings.3>
+  <MinedValuable.rulePack.rulesStrings.4>image->[pawn_nameFull] egy [material_label] kitermelő csapatot koordinál, [circumstance_group]</MinedValuable.rulePack.rulesStrings.4>
+  <MinedValuable.rulePack.rulesStrings.5>image->[pawn_nameFull] egy gazdag [material_label] telért vizsgál meg, [circumstance_group]</MinedValuable.rulePack.rulesStrings.5>
+  <MinedValuable.rulePack.rulesStrings.6>circumstance_phrase->erősen izzadva</MinedValuable.rulePack.rulesStrings.6>
+  <MinedValuable.rulePack.rulesStrings.7>circumstance_phrase->[friendlyadjective] arcot vágva</MinedValuable.rulePack.rulesStrings.7>
+  <MinedValuable.rulePack.rulesStrings.8>circumstance_phrase->[friendlyadjective] arcot vágva</MinedValuable.rulePack.rulesStrings.8>
+  <MinedValuable.rulePack.rulesStrings.9>circumstance_phrase->büszkén mosolyogva</MinedValuable.rulePack.rulesStrings.9>
+  <MinedValuable.rulePack.rulesStrings.10>circumstance_phrase->elégedett kifejezéssel az arcán</MinedValuable.rulePack.rulesStrings.10>
+  <MinedValuable.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [ally] segít.</MinedValuable.rulePack.rulesStrings.11>
+  <MinedValuable.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [animal] állat kóborol a közelben.</MinedValuable.rulePack.rulesStrings.12>
+  <MinedValuable.rulePack.rulesStrings.13>desc_sentence->A háttérben egy [community].</MinedValuable.rulePack.rulesStrings.13>
+  <MinedValuable.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] további telér látható arrébb.</MinedValuable.rulePack.rulesStrings.14>
+  <MinedValuable.rulePack.rulesStrings.15>desc_sentence->Egy [terrainfeature] látható a távolban.</MinedValuable.rulePack.rulesStrings.15>
+  <MinedValuable.rulePack.rulesStrings.16>desc_sentence->[pawn_nameShortDef] izzadt és mocskos a munkától.</MinedValuable.rulePack.rulesStrings.16>
 
-  <CompletedLongConstructionProject.label>completed long construction project</CompletedLongConstructionProject.label>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] finishing construction on a [object_label]</CompletedLongConstructionProject.rulePack.rulesStrings.0>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.1>image->[pawn_nameFull] assembling a complicated appartus inside a [object_label] [circumstance_group]</CompletedLongConstructionProject.rulePack.rulesStrings.1>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.2>image->[pawn_nameFull] polishing the surface of a [object_label] [circumstance_group]</CompletedLongConstructionProject.rulePack.rulesStrings.2>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.3>image->[pawn_nameFull] adding surface detail to a [object_label] [circumstance_group]</CompletedLongConstructionProject.rulePack.rulesStrings.3>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.4>image->[pawn_nameFull] inscribing their name on a [object_label] [circumstance_group]</CompletedLongConstructionProject.rulePack.rulesStrings.4>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.5>circumstance_phrase->with a gleam in [pawn_possessive] eye</CompletedLongConstructionProject.rulePack.rulesStrings.5>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.6>circumstance_phrase->while wiping the sweat from [pawn_possessive] forehead</CompletedLongConstructionProject.rulePack.rulesStrings.6>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.7>circumstance_phrase->while covered in grime</CompletedLongConstructionProject.rulePack.rulesStrings.7>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.8>circumstance_phrase->while smiling proudly</CompletedLongConstructionProject.rulePack.rulesStrings.8>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.9>circumstance_phrase->with a satisfied expression on [pawn_possessive] face</CompletedLongConstructionProject.rulePack.rulesStrings.9>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.10>desc_sentence->The [object_label] appears to tower above [pawn_nameShortDef].</CompletedLongConstructionProject.rulePack.rulesStrings.10>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.11>desc_sentence->The [object_label] glows a soft [color].</CompletedLongConstructionProject.rulePack.rulesStrings.11>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.12>desc_sentence->The [object_label] is intricately detailed.</CompletedLongConstructionProject.rulePack.rulesStrings.12>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [outlander]s marvel at the [object_label].</CompletedLongConstructionProject.rulePack.rulesStrings.13>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] [outlander]s gaze in awe.</CompletedLongConstructionProject.rulePack.rulesStrings.14>
+  <CompletedLongConstructionProject.label>hosszú építkezés befejezése</CompletedLongConstructionProject.label>
+  <CompletedLongConstructionProject.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] befejezi ezt: [object_label]</CompletedLongConstructionProject.rulePack.rulesStrings.0>
+  <CompletedLongConstructionProject.rulePack.rulesStrings.1>image->[pawn_nameFull] bonyolult szerkezetet szerel össze [object_label] belsejében [circumstance_group]</CompletedLongConstructionProject.rulePack.rulesStrings.1>
+  <CompletedLongConstructionProject.rulePack.rulesStrings.2>image->[pawn_nameFull] [object_label] felületét fényesíti [circumstance_group]</CompletedLongConstructionProject.rulePack.rulesStrings.2>
+  <CompletedLongConstructionProject.rulePack.rulesStrings.3>image->[pawn_nameFull] [object_label] felületét díszíti [circumstance_group]</CompletedLongConstructionProject.rulePack.rulesStrings.3>
+  <CompletedLongConstructionProject.rulePack.rulesStrings.4>image->[pawn_nameFull] [object_label] felületére vési a nevét [circumstance_group]</CompletedLongConstructionProject.rulePack.rulesStrings.4>
+  <CompletedLongConstructionProject.rulePack.rulesStrings.5>circumstance_phrase->csillogó szemmel</CompletedLongConstructionProject.rulePack.rulesStrings.5>
+  <CompletedLongConstructionProject.rulePack.rulesStrings.6>circumstance_phrase->homlokáról verejtéket törölve</CompletedLongConstructionProject.rulePack.rulesStrings.6>
+  <CompletedLongConstructionProject.rulePack.rulesStrings.7>circumstance_phrase->nyakig mocskosan</CompletedLongConstructionProject.rulePack.rulesStrings.7>
+  <CompletedLongConstructionProject.rulePack.rulesStrings.8>circumstance_phrase->büszkén mosolyogva</CompletedLongConstructionProject.rulePack.rulesStrings.8>
+  <CompletedLongConstructionProject.rulePack.rulesStrings.9>circumstance_phrase->elégedett kifejezéssel az arcán</CompletedLongConstructionProject.rulePack.rulesStrings.9>
+  <CompletedLongConstructionProject.rulePack.rulesStrings.10>desc_sentence->[pawn_nameShortDef] fölé tornyosodik a(z) [object_label].</CompletedLongConstructionProject.rulePack.rulesStrings.10>
+  <CompletedLongConstructionProject.rulePack.rulesStrings.11>desc_sentence->A(z) [object_label] [color] színben fénylik.</CompletedLongConstructionProject.rulePack.rulesStrings.11>
+  <CompletedLongConstructionProject.rulePack.rulesStrings.12>desc_sentence->A(z) [object_label] nagyon részletesen kidolgozott.</CompletedLongConstructionProject.rulePack.rulesStrings.12>
+  <CompletedLongConstructionProject.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [outlander] csodálja ezt: [object_label].</CompletedLongConstructionProject.rulePack.rulesStrings.13>
+  <CompletedLongConstructionProject.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] [outlander] figyel döbbenettel.</CompletedLongConstructionProject.rulePack.rulesStrings.14>
 
   <CompletedLongCraftingProject.label>completed long crafting project</CompletedLongCraftingProject.label>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] finishing construction on a [object_label]</CompletedLongCraftingProject.rulePack.rulesStrings.0>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.1>image->[pawn_nameFull] assembling a complicated appartus inside a [object_label] [circumstance_group]</CompletedLongCraftingProject.rulePack.rulesStrings.1>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.2>image->[pawn_nameFull] polishing the surface of a [object_label] [circumstance_group]</CompletedLongCraftingProject.rulePack.rulesStrings.2>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.3>image->[pawn_nameFull] adding surface detail to a [object_label] [circumstance_group]</CompletedLongCraftingProject.rulePack.rulesStrings.3>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.4>image->[pawn_nameFull] inscribing their name on a [object_label] [circumstance_group]</CompletedLongCraftingProject.rulePack.rulesStrings.4>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.5>circumstance_phrase->with a gleam in [pawn_possessive] eye</CompletedLongCraftingProject.rulePack.rulesStrings.5>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.6>circumstance_phrase->while wiping the sweat from [pawn_possessive] forehead</CompletedLongCraftingProject.rulePack.rulesStrings.6>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.7>circumstance_phrase->while covered in grime</CompletedLongCraftingProject.rulePack.rulesStrings.7>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.8>circumstance_phrase->while smiling proudly</CompletedLongCraftingProject.rulePack.rulesStrings.8>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.9>circumstance_phrase->with a satisfied expression on [pawn_possessive] face</CompletedLongCraftingProject.rulePack.rulesStrings.9>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.10>desc_sentence->The [object_label] glows a soft [color].</CompletedLongCraftingProject.rulePack.rulesStrings.10>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.11>desc_sentence->The [object_label] is intricately detailed.</CompletedLongCraftingProject.rulePack.rulesStrings.11>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] lifts the [object_label] seemingly without effort.</CompletedLongCraftingProject.rulePack.rulesStrings.12>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [outlander]s marvel at the device.</CompletedLongCraftingProject.rulePack.rulesStrings.13>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] [outlander]s gaze in awe.</CompletedLongCraftingProject.rulePack.rulesStrings.14>
+  <CompletedLongCraftingProject.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] befejezi ezt: [object_label]</CompletedLongCraftingProject.rulePack.rulesStrings.0>
+  <CompletedLongCraftingProject.rulePack.rulesStrings.1>image->[pawn_nameFull] bonyolult szerkezetet szerel össze [object_label] belsejében [circumstance_group]</CompletedLongCraftingProject.rulePack.rulesStrings.1>
+  <CompletedLongCraftingProject.rulePack.rulesStrings.2>image->[pawn_nameFull] [object_label] felületét fényesíti [circumstance_group]</CompletedLongCraftingProject.rulePack.rulesStrings.2>
+  <CompletedLongCraftingProject.rulePack.rulesStrings.3>image->[pawn_nameFull] [object_label] felületét díszíti [circumstance_group]</CompletedLongCraftingProject.rulePack.rulesStrings.3>
+  <CompletedLongCraftingProject.rulePack.rulesStrings.4>image->[pawn_nameFull] [object_label] felületére vési a nevét [circumstance_group]</CompletedLongCraftingProject.rulePack.rulesStrings.4>
+  <CompletedLongCraftingProject.rulePack.rulesStrings.5>circumstance_phrase->csillogó szemmel</CompletedLongCraftingProject.rulePack.rulesStrings.5>
+  <CompletedLongCraftingProject.rulePack.rulesStrings.6>circumstance_phrase->homlokáról verejtéket törölve</CompletedLongCraftingProject.rulePack.rulesStrings.6>
+  <CompletedLongCraftingProject.rulePack.rulesStrings.7>circumstance_phrase->nyakig mocskosan</CompletedLongCraftingProject.rulePack.rulesStrings.7>
+  <CompletedLongCraftingProject.rulePack.rulesStrings.8>circumstance_phrase->büszkén mosolyogva</CompletedLongCraftingProject.rulePack.rulesStrings.8>
+  <CompletedLongCraftingProject.rulePack.rulesStrings.9>circumstance_phrase->elégedett kifejezéssel az arcán</CompletedLongCraftingProject.rulePack.rulesStrings.9>
+  <CompletedLongCraftingProject.rulePack.rulesStrings.10>desc_sentence->A(z) [object_label] [color] színben fénylik.</CompletedLongCraftingProject.rulePack.rulesStrings.10>
+  <CompletedLongCraftingProject.rulePack.rulesStrings.11>desc_sentence->A(z) [object_label] nagyon részletesen kidolgozott.</CompletedLongCraftingProject.rulePack.rulesStrings.11>
+  <CompletedLongCraftingProject.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] könnyedén felemeli ezt: [object_label].</CompletedLongCraftingProject.rulePack.rulesStrings.12>
+  <CompletedLongCraftingProject.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [outlander] csodálja ezt: [object_label].</CompletedLongCraftingProject.rulePack.rulesStrings.13>
+  <CompletedLongCraftingProject.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] [outlander] figyel döbbenettel.</CompletedLongCraftingProject.rulePack.rulesStrings.14>
 
-  <AttendedParty.label>attended party</AttendedParty.label>
-  <AttendedParty.rulePack.rulesStrings.0>tale_noun->[attender_nameShortDef] attending [organizer_nameShortDef]'s party</AttendedParty.rulePack.rulesStrings.0>
-  <AttendedParty.rulePack.rulesStrings.1>tale_noun->[attender_nameShortDef] relaxing with [organizer_nameShortDef] at a party</AttendedParty.rulePack.rulesStrings.1>
-  <AttendedParty.rulePack.rulesStrings.2>image->[attender_nameFull] having a conversation with [organizer_nameFull] [circumstance_group]</AttendedParty.rulePack.rulesStrings.2>
-  <AttendedParty.rulePack.rulesStrings.3>image->[attender_nameFull] getting a drink from [organizer_nameFull] [circumstance_group]</AttendedParty.rulePack.rulesStrings.3>
-  <AttendedParty.rulePack.rulesStrings.4>image->[attender_nameFull] chatting with [organizer_nameFull] [circumstance_group]</AttendedParty.rulePack.rulesStrings.4>
-  <AttendedParty.rulePack.rulesStrings.5>image->[organizer_nameFull] welcoming [attender_nameFull] [circumstance_group]</AttendedParty.rulePack.rulesStrings.5>
-  <AttendedParty.rulePack.rulesStrings.6>image->[organizer_nameFull] introducing [attender_nameFull] to a friend [circumstance_group]</AttendedParty.rulePack.rulesStrings.6>
-  <AttendedParty.rulePack.rulesStrings.7>circumstance_phrase->with a broad grin</AttendedParty.rulePack.rulesStrings.7>
-  <AttendedParty.rulePack.rulesStrings.8>circumstance_phrase->with a laugh</AttendedParty.rulePack.rulesStrings.8>
-  <AttendedParty.rulePack.rulesStrings.9>circumstance_phrase->with a [friendlyverb] smile</AttendedParty.rulePack.rulesStrings.9>
-  <AttendedParty.rulePack.rulesStrings.10>circumstance_phrase->while laughing uproariously</AttendedParty.rulePack.rulesStrings.10>
-  <AttendedParty.rulePack.rulesStrings.11>circumstance_phrase->while [friendlyadjective]</AttendedParty.rulePack.rulesStrings.11>
-  <AttendedParty.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [outlander]s are involved in the conversation.</AttendedParty.rulePack.rulesStrings.12>
-  <AttendedParty.rulePack.rulesStrings.13>desc_sentence->The area is decorated with [color] and [color].</AttendedParty.rulePack.rulesStrings.13>
-  <AttendedParty.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] [animal]s play nearby.</AttendedParty.rulePack.rulesStrings.14>
+  <AttendedParty.label>buli</AttendedParty.label>
+  <AttendedParty.rulePack.rulesStrings.0>tale_noun->[attender_nameShortDef] részt vesz [organizer_nameShortDef] buliján</AttendedParty.rulePack.rulesStrings.0>
+  <AttendedParty.rulePack.rulesStrings.1>tale_noun->[attender_nameShortDef] [organizer_nameShortDef] társaságában pihen egy bulin</AttendedParty.rulePack.rulesStrings.1>
+  <AttendedParty.rulePack.rulesStrings.2>image->[attender_nameFull] és [organizer_nameFull] beszélgetnek egymással [circumstance_group]</AttendedParty.rulePack.rulesStrings.2>
+  <AttendedParty.rulePack.rulesStrings.3>image->[attender_nameFull] italt kap [organizer_nameFull] buliján [circumstance_group]</AttendedParty.rulePack.rulesStrings.3>
+  <AttendedParty.rulePack.rulesStrings.4>image->[attender_nameFull] és [organizer_nameFull] beszélgetnek [circumstance_group]</AttendedParty.rulePack.rulesStrings.4>
+  <AttendedParty.rulePack.rulesStrings.5>image->[organizer_nameFull] és [attender_nameFull] üdvözlik egymást [circumstance_group]</AttendedParty.rulePack.rulesStrings.5>
+  <AttendedParty.rulePack.rulesStrings.6>image->[organizer_nameFull] bemutatja egy barátnak őt: [attender_nameFull] [circumstance_group]</AttendedParty.rulePack.rulesStrings.6>
+  <AttendedParty.rulePack.rulesStrings.7>circumstance_phrase->széles mosollyal</AttendedParty.rulePack.rulesStrings.7>
+  <AttendedParty.rulePack.rulesStrings.8>circumstance_phrase->nevetve</AttendedParty.rulePack.rulesStrings.8>
+  <AttendedParty.rulePack.rulesStrings.9>circumstance_phrase->[friendlyverb] mosollyal</AttendedParty.rulePack.rulesStrings.9>
+  <AttendedParty.rulePack.rulesStrings.10>circumstance_phrase->felröhögve</AttendedParty.rulePack.rulesStrings.10>
+  <AttendedParty.rulePack.rulesStrings.11>circumstance_phrase->[friendlyadjective] modorban</AttendedParty.rulePack.rulesStrings.11>
+  <AttendedParty.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [outlander] beszélget.</AttendedParty.rulePack.rulesStrings.12>
+  <AttendedParty.rulePack.rulesStrings.13>desc_sentence->A hely [color] és [color] színben pompázik.</AttendedParty.rulePack.rulesStrings.13>
+  <AttendedParty.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] [animal] játszik a közelben.</AttendedParty.rulePack.rulesStrings.14>
 
-  <Meditated.label>meditated</Meditated.label>
-  <Meditated.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] meditating</Meditated.rulePack.rulesStrings.0>
-  <Meditated.rulePack.rulesStrings.1>image->[pawn_nameFull] sitting under a [tree] tree, [circumstance_group]</Meditated.rulePack.rulesStrings.1>
-  <Meditated.rulePack.rulesStrings.2>image->[pawn_nameFull] sitting quietly, [circumstance_group]</Meditated.rulePack.rulesStrings.2>
-  <Meditated.rulePack.rulesStrings.3>image->[pawn_nameFull] gazing into the distance and [circumstance_group]</Meditated.rulePack.rulesStrings.3>
-  <Meditated.rulePack.rulesStrings.4>image->[pawn_nameFull] closing [pawn_possessive] eyes and [circumstance_group]</Meditated.rulePack.rulesStrings.4>
-  <Meditated.rulePack.rulesStrings.5>circumstance_phrase->radiating serenity</Meditated.rulePack.rulesStrings.5>
-  <Meditated.rulePack.rulesStrings.6>circumstance_phrase->with a tranquil smile</Meditated.rulePack.rulesStrings.6>
-  <Meditated.rulePack.rulesStrings.7>circumstance_phrase->with a [friendlyverb] smile</Meditated.rulePack.rulesStrings.7>
-  <Meditated.rulePack.rulesStrings.8>circumstance_phrase->glowing softly</Meditated.rulePack.rulesStrings.8>
-  <Meditated.rulePack.rulesStrings.9>circumstance_phrase->surrounded by a [color] aura</Meditated.rulePack.rulesStrings.9>
-  <Meditated.rulePack.rulesStrings.10>desc_sentence->[quantity_adjphrase] [outlander]s gaze upon [pawn_pronoun].</Meditated.rulePack.rulesStrings.10>
-  <Meditated.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] is surrounded by [quantity_adjphrase] [animal]s.</Meditated.rulePack.rulesStrings.11>
-  <Meditated.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [animal]s rest peacefully.</Meditated.rulePack.rulesStrings.12>
-  <Meditated.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [enemy]s are awestruck by the scene.</Meditated.rulePack.rulesStrings.13>
+  <Meditated.label>meditálás</Meditated.label>
+  <Meditated.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] meditál</Meditated.rulePack.rulesStrings.0>
+  <Meditated.rulePack.rulesStrings.1>image->[pawn_nameFull] egy [tree] alatt ül, [circumstance_group]</Meditated.rulePack.rulesStrings.1>
+  <Meditated.rulePack.rulesStrings.2>image->[pawn_nameFull] csendben ül, [circumstance_group]</Meditated.rulePack.rulesStrings.2>
+  <Meditated.rulePack.rulesStrings.3>image->[pawn_nameFull] a távolba néz, [circumstance_group]</Meditated.rulePack.rulesStrings.3>
+  <Meditated.rulePack.rulesStrings.4>image->[pawn_nameFull] becsukja szemét, [circumstance_group]</Meditated.rulePack.rulesStrings.4>
+  <Meditated.rulePack.rulesStrings.5>circumstance_phrase->nyugalmat sugározva</Meditated.rulePack.rulesStrings.5>
+  <Meditated.rulePack.rulesStrings.6>circumstance_phrase->nyugodt mosollyal</Meditated.rulePack.rulesStrings.6>
+  <Meditated.rulePack.rulesStrings.7>circumstance_phrase->[friendlyverb] mosollyal</Meditated.rulePack.rulesStrings.7>
+  <Meditated.rulePack.rulesStrings.8>circumstance_phrase->fény által körülvéve</Meditated.rulePack.rulesStrings.8>
+  <Meditated.rulePack.rulesStrings.9>circumstance_phrase->[color] színű aurával</Meditated.rulePack.rulesStrings.9>
+  <Meditated.rulePack.rulesStrings.10>desc_sentence->[quantity_adjphrase] [outlander] nézi őt.</Meditated.rulePack.rulesStrings.10>
+  <Meditated.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [animal] veszi őt körbe.</Meditated.rulePack.rulesStrings.11>
+  <Meditated.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [animal] pihen békésen.</Meditated.rulePack.rulesStrings.12>
+  <Meditated.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [enemy] nézi őt döbbenten.</Meditated.rulePack.rulesStrings.13>
 
-  <Prayed.label>prayed</Prayed.label>
-  <Prayed.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] praying</Prayed.rulePack.rulesStrings.0>
-  <Prayed.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] praying to a higher power</Prayed.rulePack.rulesStrings.1>
-  <Prayed.rulePack.rulesStrings.2>image->[pawn_nameFull] gazing into the distance and [circumstance_group]</Prayed.rulePack.rulesStrings.2>
-  <Prayed.rulePack.rulesStrings.3>image->[pawn_nameFull] closing [pawn_possessive] eyes and [circumstance_group]</Prayed.rulePack.rulesStrings.3>
-  <Prayed.rulePack.rulesStrings.4>image->[pawn_nameFull] clasping [pawn_possessive] hands and [circumstance_group]</Prayed.rulePack.rulesStrings.4>
-  <Prayed.rulePack.rulesStrings.5>image->[pawn_nameFull] looking into the sky and [circumstance_group]</Prayed.rulePack.rulesStrings.5>
-  <Prayed.rulePack.rulesStrings.6>circumstance_phrase->radiating serenity</Prayed.rulePack.rulesStrings.6>
-  <Prayed.rulePack.rulesStrings.7>circumstance_phrase->whispering softly</Prayed.rulePack.rulesStrings.7>
-  <Prayed.rulePack.rulesStrings.8>circumstance_phrase->wearing a hopeful expression</Prayed.rulePack.rulesStrings.8>
-  <Prayed.rulePack.rulesStrings.9>circumstance_phrase->glowing softly</Prayed.rulePack.rulesStrings.9>
-  <Prayed.rulePack.rulesStrings.10>circumstance_phrase->surrounded by a [color] aura</Prayed.rulePack.rulesStrings.10>
-  <Prayed.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [outlander]s gaze upon [pawn_pronoun].</Prayed.rulePack.rulesStrings.11>
-  <Prayed.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] is surrounded by [quantity_adjphrase] [animal]s.</Prayed.rulePack.rulesStrings.12>
-  <Prayed.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [animal]s rest peacefully.</Prayed.rulePack.rulesStrings.13>
-  <Prayed.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] [enemy]s are awestruck by the scene.</Prayed.rulePack.rulesStrings.14>
+  <Prayed.label>imádkozás</Prayed.label>
+  <Prayed.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] imádkozik</Prayed.rulePack.rulesStrings.0>
+  <Prayed.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] magasabb erőkhöz imádkozik</Prayed.rulePack.rulesStrings.1>
+  <Prayed.rulePack.rulesStrings.2>image->[pawn_nameFull] a távolba néz [circumstance_group]</Prayed.rulePack.rulesStrings.2>
+  <Prayed.rulePack.rulesStrings.3>image->[pawn_nameFull] becsukja szemeit [circumstance_group]</Prayed.rulePack.rulesStrings.3>
+  <Prayed.rulePack.rulesStrings.4>image->[pawn_nameFull] összekulcsolja kezeit [circumstance_group]</Prayed.rulePack.rulesStrings.4>
+  <Prayed.rulePack.rulesStrings.5>image->[pawn_nameFull] az égre néz [circumstance_group]</Prayed.rulePack.rulesStrings.5>
+  <Prayed.rulePack.rulesStrings.6>circumstance_phrase->nyugalmat sugározva</Prayed.rulePack.rulesStrings.6>
+  <Prayed.rulePack.rulesStrings.7>circumstance_phrase->halkan suttogva</Prayed.rulePack.rulesStrings.7>
+  <Prayed.rulePack.rulesStrings.8>circumstance_phrase->reményteli arcot vágva</Prayed.rulePack.rulesStrings.8>
+  <Prayed.rulePack.rulesStrings.9>circumstance_phrase->fény által körülvéve</Prayed.rulePack.rulesStrings.9>
+  <Prayed.rulePack.rulesStrings.10>circumstance_phrase->[color] színű aurával</Prayed.rulePack.rulesStrings.10>
+  <Prayed.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [outlander] nézi őt.</Prayed.rulePack.rulesStrings.11>
+  <Prayed.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [animal] veszi őt körbe.</Prayed.rulePack.rulesStrings.12>
+  <Prayed.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [animal] pihen békésen.</Prayed.rulePack.rulesStrings.13>
+  <Prayed.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] [enemy] nézi őt döbbenten.</Prayed.rulePack.rulesStrings.14>
 
-  <BuiltSnowman.label>built snowman</BuiltSnowman.label>
-  <BuiltSnowman.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] building a snowman</BuiltSnowman.rulePack.rulesStrings.0>
-  <BuiltSnowman.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] playing in the snow</BuiltSnowman.rulePack.rulesStrings.1>
-  <BuiltSnowman.rulePack.rulesStrings.2>image->[pawn_nameFull] forming a snowball [circumstance_group]</BuiltSnowman.rulePack.rulesStrings.2>
-  <BuiltSnowman.rulePack.rulesStrings.3>image->[pawn_nameFull] rolling a giant ball of snow on the ground [circumstance_group]</BuiltSnowman.rulePack.rulesStrings.3>
-  <BuiltSnowman.rulePack.rulesStrings.4>image->[pawn_nameFull] arranging [vegetable]s into a rough human face [circumstance_group]</BuiltSnowman.rulePack.rulesStrings.4>
-  <BuiltSnowman.rulePack.rulesStrings.5>image->[pawn_nameFull] lying down in the snow [circumstance_group]</BuiltSnowman.rulePack.rulesStrings.5>
-  <BuiltSnowman.rulePack.rulesStrings.6>circumstance_phrase->while enveloped in [quantity_adjphrase] parkas</BuiltSnowman.rulePack.rulesStrings.6>
-  <BuiltSnowman.rulePack.rulesStrings.7>circumstance_phrase->while obscured in a light snowstorm</BuiltSnowman.rulePack.rulesStrings.7>
-  <BuiltSnowman.rulePack.rulesStrings.8>circumstance_phrase->while [pawn_possessive] friends build a fort</BuiltSnowman.rulePack.rulesStrings.8>
-  <BuiltSnowman.rulePack.rulesStrings.9>circumstance_phrase->while [pawn_possessive] friends build a snowman family</BuiltSnowman.rulePack.rulesStrings.9>
-  <BuiltSnowman.rulePack.rulesStrings.10>desc_sentence->A [color] aurora shines in the background.</BuiltSnowman.rulePack.rulesStrings.10>
-  <BuiltSnowman.rulePack.rulesStrings.11>desc_sentence->In the distance, a [community] is covered with snow.</BuiltSnowman.rulePack.rulesStrings.11>
-  <BuiltSnowman.rulePack.rulesStrings.12>desc_sentence->A field of [vegetable]s is barely visible through the snow.</BuiltSnowman.rulePack.rulesStrings.12>
-  <BuiltSnowman.rulePack.rulesStrings.13>desc_sentence->A snow-covered [terrainfeature] can be seen far away.</BuiltSnowman.rulePack.rulesStrings.13>
+  <BuiltSnowman.label>hóember</BuiltSnowman.label>
+  <BuiltSnowman.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] hóembert épít</BuiltSnowman.rulePack.rulesStrings.0>
+  <BuiltSnowman.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] a hóban játszik</BuiltSnowman.rulePack.rulesStrings.1>
+  <BuiltSnowman.rulePack.rulesStrings.2>image->[pawn_nameFull] hógolyót gyúr [circumstance_group]</BuiltSnowman.rulePack.rulesStrings.2>
+  <BuiltSnowman.rulePack.rulesStrings.3>image->[pawn_nameFull] egy óriási hógolyót görget [circumstance_group]</BuiltSnowman.rulePack.rulesStrings.3>
+  <BuiltSnowman.rulePack.rulesStrings.4>image->[pawn_nameFull] a hóember arcához ezt használja: [vegetable] [circumstance_group]</BuiltSnowman.rulePack.rulesStrings.4>
+  <BuiltSnowman.rulePack.rulesStrings.5>image->[pawn_nameFull] a hóban fekszik [circumstance_group]</BuiltSnowman.rulePack.rulesStrings.5>
+  <BuiltSnowman.rulePack.rulesStrings.6>circumstance_phrase->[quantity_adjphrase] parkába burkolózva</BuiltSnowman.rulePack.rulesStrings.6>
+  <BuiltSnowman.rulePack.rulesStrings.7>circumstance_phrase->enyhe hóviharban</BuiltSnowman.rulePack.rulesStrings.7>
+  <BuiltSnowman.rulePack.rulesStrings.8>circumstance_phrase->míg barátai várat építenek</BuiltSnowman.rulePack.rulesStrings.8>
+  <BuiltSnowman.rulePack.rulesStrings.9>circumstance_phrase->míg barátai hóember családot építenek</BuiltSnowman.rulePack.rulesStrings.9>
+  <BuiltSnowman.rulePack.rulesStrings.10>desc_sentence->[color] színű sarki fény látszik a háttérben.</BuiltSnowman.rulePack.rulesStrings.10>
+  <BuiltSnowman.rulePack.rulesStrings.11>desc_sentence->A távolban egy hóval takart [community] látszik.</BuiltSnowman.rulePack.rulesStrings.11>
+  <BuiltSnowman.rulePack.rulesStrings.12>desc_sentence->A [vegetable] földek alig látszanak ki a hó alól.</BuiltSnowman.rulePack.rulesStrings.12>
+  <BuiltSnowman.rulePack.rulesStrings.13>desc_sentence->A távolban egy hóval takart [terrainfeature] látszik.</BuiltSnowman.rulePack.rulesStrings.13>
 
-  <VisitedGrave.label>visited grave</VisitedGrave.label>
-  <VisitedGrave.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] visiting the grave of [corpse_nameShortDef]</VisitedGrave.rulePack.rulesStrings.0>
-  <VisitedGrave.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] visiting [corpse_nameShortDef]'s grave</VisitedGrave.rulePack.rulesStrings.1>
-  <VisitedGrave.rulePack.rulesStrings.2>image->[pawn_nameFull] standing next to [corpse_nameFull]'s grave [circumstance_group]</VisitedGrave.rulePack.rulesStrings.2>
-  <VisitedGrave.rulePack.rulesStrings.3>image->[pawn_nameFull] sitting next to [corpse_nameFull]'s grave [circumstance_group]</VisitedGrave.rulePack.rulesStrings.3>
-  <VisitedGrave.rulePack.rulesStrings.4>image->[pawn_nameFull] leaning against [corpse_nameFull]'s grave [circumstance_group]</VisitedGrave.rulePack.rulesStrings.4>
-  <VisitedGrave.rulePack.rulesStrings.5>image->[pawn_nameFull] reading the text on [corpse_nameFull]'s grave [circumstance_group]</VisitedGrave.rulePack.rulesStrings.5>
-  <VisitedGrave.rulePack.rulesStrings.6>image->[pawn_nameFull] looking at the art on [corpse_nameFull]'s grave [circumstance_group]</VisitedGrave.rulePack.rulesStrings.6>
-  <VisitedGrave.rulePack.rulesStrings.7>circumstance_phrase->with a [angstyadjective] expression</VisitedGrave.rulePack.rulesStrings.7>
-  <VisitedGrave.rulePack.rulesStrings.8>circumstance_phrase->and consumed in thought</VisitedGrave.rulePack.rulesStrings.8>
-  <VisitedGrave.rulePack.rulesStrings.9>circumstance_phrase->while gazing at a faraway [terrainfeature]</VisitedGrave.rulePack.rulesStrings.9>
-  <VisitedGrave.rulePack.rulesStrings.10>circumstance_phrase->and talking quietly to the memorial</VisitedGrave.rulePack.rulesStrings.10>
-  <VisitedGrave.rulePack.rulesStrings.11>desc_sentence->A [color] aurora shines in the background.</VisitedGrave.rulePack.rulesStrings.11>
-  <VisitedGrave.rulePack.rulesStrings.12>desc_sentence->In the distance, a [community] is covered with snow.</VisitedGrave.rulePack.rulesStrings.12>
-  <VisitedGrave.rulePack.rulesStrings.13>desc_sentence->A spectral image of [corpse_nameShortDef] looks over the scene with a [friendlyadjective] expression.</VisitedGrave.rulePack.rulesStrings.13>
-  <VisitedGrave.rulePack.rulesStrings.14>desc_sentence->A spectral image of [corpse_nameShortDef] stands next to [pawn_nameShortDef], wearing a [friendlyadjective] expression.</VisitedGrave.rulePack.rulesStrings.14>
-  <VisitedGrave.rulePack.rulesStrings.15>desc_sentence->A spectral image of [corpse_nameShortDef] looks over the scene with a [angstyadjective] expression.</VisitedGrave.rulePack.rulesStrings.15>
-  <VisitedGrave.rulePack.rulesStrings.16>desc_sentence->A spectral image of [corpse_nameShortDef] stands next to [pawn_nameShortDef], wearing a [angstyadjective] expression.</VisitedGrave.rulePack.rulesStrings.16>
-  <VisitedGrave.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] [animal]s rest near the scene.</VisitedGrave.rulePack.rulesStrings.17>
+  <VisitedGrave.label>sírlátogatás</VisitedGrave.label>
+  <VisitedGrave.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] [corpse_nameShortDef] sírját keresi fel</VisitedGrave.rulePack.rulesStrings.0>
+  <VisitedGrave.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] [corpse_nameShortDef] sírját keresi fel</VisitedGrave.rulePack.rulesStrings.1>
+  <VisitedGrave.rulePack.rulesStrings.2>image->[pawn_nameFull] [corpse_nameFull] sírja mellett áll [circumstance_group]</VisitedGrave.rulePack.rulesStrings.2>
+  <VisitedGrave.rulePack.rulesStrings.3>image->[pawn_nameFull] [corpse_nameFull] sírja mellett ül [circumstance_group]</VisitedGrave.rulePack.rulesStrings.3>
+  <VisitedGrave.rulePack.rulesStrings.4>image->[pawn_nameFull] [corpse_nameFull] sírja mellett támaszkodik [circumstance_group]</VisitedGrave.rulePack.rulesStrings.4>
+  <VisitedGrave.rulePack.rulesStrings.5>image->[pawn_nameFull] [corpse_nameFull] sírjának feliratát olvassa [circumstance_group]</VisitedGrave.rulePack.rulesStrings.5>
+  <VisitedGrave.rulePack.rulesStrings.6>image->[pawn_nameFull] [corpse_nameFull] sírjának faragásait nézi [circumstance_group]</VisitedGrave.rulePack.rulesStrings.6>
+  <VisitedGrave.rulePack.rulesStrings.7>circumstance_phrase->[angstyadjective] arcot vágva</VisitedGrave.rulePack.rulesStrings.7>
+  <VisitedGrave.rulePack.rulesStrings.8>circumstance_phrase->a gondolataiba merülve</VisitedGrave.rulePack.rulesStrings.8>
+  <VisitedGrave.rulePack.rulesStrings.9>circumstance_phrase->miközben egy messzi [terrainfeature] felé néz</VisitedGrave.rulePack.rulesStrings.9>
+  <VisitedGrave.rulePack.rulesStrings.10>circumstance_phrase->csendesen beszélve hozzá</VisitedGrave.rulePack.rulesStrings.10>
+  <VisitedGrave.rulePack.rulesStrings.11>desc_sentence->[color] színű sarki fény látszik a háttérben.</VisitedGrave.rulePack.rulesStrings.11>
+  <VisitedGrave.rulePack.rulesStrings.12>desc_sentence->A távolban egy hóval takart [community] látszik.</VisitedGrave.rulePack.rulesStrings.12>
+  <VisitedGrave.rulePack.rulesStrings.13>desc_sentence->[corpse_nameShortDef] kísérteties alakja látható a hely felett [friendlyadjective] arcot vágva.</VisitedGrave.rulePack.rulesStrings.13>
+  <VisitedGrave.rulePack.rulesStrings.14>desc_sentence->[corpse_nameShortDef] kísérteties alakja áll a sír mellett [friendlyadjective] arcot vágva.</VisitedGrave.rulePack.rulesStrings.14>
+  <VisitedGrave.rulePack.rulesStrings.15>desc_sentence->[corpse_nameShortDef] kísérteties alakja figyeli a helyet [friendlyadjective] arcot vágva.</VisitedGrave.rulePack.rulesStrings.15>
+  <VisitedGrave.rulePack.rulesStrings.16>desc_sentence->[corpse_nameShortDef] kísérteties alakja áll [pawn_nameShortDef] mellett, [angstyadjective] arcot vágva.</VisitedGrave.rulePack.rulesStrings.16>
+  <VisitedGrave.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] [animal] pihen a közelben.</VisitedGrave.rulePack.rulesStrings.17>
 
-  <PlayedGame.label>played game</PlayedGame.label>
+  <PlayedGame.label>játék</PlayedGame.label>
   <PlayedGame.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] relaxing at a [object_label]</PlayedGame.rulePack.rulesStrings.0>
   <PlayedGame.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] playing games at a [object_label]</PlayedGame.rulePack.rulesStrings.1>
   <PlayedGame.rulePack.rulesStrings.2>image->[pawn_nameFull] waiting in a chair, [circumstance_group]</PlayedGame.rulePack.rulesStrings.2>
@@ -152,14 +152,14 @@
   <PlayedGame.rulePack.rulesStrings.8>circumstance_phrase->[pawn_possessive] body loose and relaxed</PlayedGame.rulePack.rulesStrings.8>
   <PlayedGame.rulePack.rulesStrings.9>circumstance_phrase->planning [pawn_possessive] next action</PlayedGame.rulePack.rulesStrings.9>
   <PlayedGame.rulePack.rulesStrings.10>circumstance_phrase->gently massaging [pawn_possessive] wrists</PlayedGame.rulePack.rulesStrings.10>
-  <PlayedGame.rulePack.rulesStrings.11>circumstance_phrase->[angstyverb] with a [angstyadjective] expression</PlayedGame.rulePack.rulesStrings.11>
+  <PlayedGame.rulePack.rulesStrings.11>circumstance_phrase->[angstyverb] [angstyadjective] arcot vágva</PlayedGame.rulePack.rulesStrings.11>
   <PlayedGame.rulePack.rulesStrings.12>circumstance_phrase->wearing a [angstyadjective] look</PlayedGame.rulePack.rulesStrings.12>
   <PlayedGame.rulePack.rulesStrings.13>circumstance_phrase->[angstyverb]</PlayedGame.rulePack.rulesStrings.13>
-  <PlayedGame.rulePack.rulesStrings.14>desc_sentence->A [color] aurora shines in the background.</PlayedGame.rulePack.rulesStrings.14>
+  <PlayedGame.rulePack.rulesStrings.14>desc_sentence->[color] színű sarki fény látszik a háttérben.</PlayedGame.rulePack.rulesStrings.14>
   <PlayedGame.rulePack.rulesStrings.15>desc_sentence->In the distance, a [community] is visible.</PlayedGame.rulePack.rulesStrings.15>
   <PlayedGame.rulePack.rulesStrings.16>desc_sentence->In the distance, a [terrainfeature] is visible.</PlayedGame.rulePack.rulesStrings.16>
   <PlayedGame.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] [outlander]s are playing as well.</PlayedGame.rulePack.rulesStrings.17>
-  <PlayedGame.rulePack.rulesStrings.18>desc_sentence->[quantity_adjphrase] [animal]s play nearby.</PlayedGame.rulePack.rulesStrings.18>
+  <PlayedGame.rulePack.rulesStrings.18>desc_sentence->[quantity_adjphrase] [animal] játszik a közelben.</PlayedGame.rulePack.rulesStrings.18>
   <PlayedGame.rulePack.rulesStrings.19>desc_sentence->[pawn_nameShortDef] is glowing with a [color] aura.</PlayedGame.rulePack.rulesStrings.19>
   <PlayedGame.rulePack.rulesStrings.20>desc_sentence->[pawn_nameShortDef]'s features are exaggerated.</PlayedGame.rulePack.rulesStrings.20>
   <PlayedGame.rulePack.rulesStrings.21>desc_sentence->[pawn_nameShortDef] towers above the scene.</PlayedGame.rulePack.rulesStrings.21>
@@ -174,17 +174,17 @@
   <BuriedCorpse.rulePack.rulesStrings.5>image->[pawn_nameFull] scribing text on [corpse_nameFull]'s grave [circumstance_group]</BuriedCorpse.rulePack.rulesStrings.5>
   <BuriedCorpse.rulePack.rulesStrings.6>image->[pawn_nameFull] drawing art on [corpse_nameFull]'s grave [circumstance_group]</BuriedCorpse.rulePack.rulesStrings.6>
   <BuriedCorpse.rulePack.rulesStrings.7>image->[pawn_nameFull] placing [corpse_nameFull]'s body within a grave [circumstance_group]</BuriedCorpse.rulePack.rulesStrings.7>
-  <BuriedCorpse.rulePack.rulesStrings.8>circumstance_phrase->with a [angstyadjective] expression</BuriedCorpse.rulePack.rulesStrings.8>
-  <BuriedCorpse.rulePack.rulesStrings.9>circumstance_phrase->and consumed in thought</BuriedCorpse.rulePack.rulesStrings.9>
-  <BuriedCorpse.rulePack.rulesStrings.10>circumstance_phrase->while gazing at a faraway [terrainfeature]</BuriedCorpse.rulePack.rulesStrings.10>
-  <BuriedCorpse.rulePack.rulesStrings.11>circumstance_phrase->and talking quietly to the memorial</BuriedCorpse.rulePack.rulesStrings.11>
-  <BuriedCorpse.rulePack.rulesStrings.12>desc_sentence->A [color] aurora shines in the background.</BuriedCorpse.rulePack.rulesStrings.12>
-  <BuriedCorpse.rulePack.rulesStrings.13>desc_sentence->In the distance, a [community] is covered with snow.</BuriedCorpse.rulePack.rulesStrings.13>
+  <BuriedCorpse.rulePack.rulesStrings.8>circumstance_phrase->[angstyadjective] arcot vágva</BuriedCorpse.rulePack.rulesStrings.8>
+  <BuriedCorpse.rulePack.rulesStrings.9>circumstance_phrase->a gondolataiba merülve</BuriedCorpse.rulePack.rulesStrings.9>
+  <BuriedCorpse.rulePack.rulesStrings.10>circumstance_phrase->miközben egy messzi [terrainfeature] felé néz</BuriedCorpse.rulePack.rulesStrings.10>
+  <BuriedCorpse.rulePack.rulesStrings.11>circumstance_phrase->csendesen beszélve hozzá</BuriedCorpse.rulePack.rulesStrings.11>
+  <BuriedCorpse.rulePack.rulesStrings.12>desc_sentence->[color] színű sarki fény látszik a háttérben.</BuriedCorpse.rulePack.rulesStrings.12>
+  <BuriedCorpse.rulePack.rulesStrings.13>desc_sentence->A távolban egy hóval takart [community] látszik.</BuriedCorpse.rulePack.rulesStrings.13>
   <BuriedCorpse.rulePack.rulesStrings.14>desc_sentence->A spectral image of [corpse_nameShortDef] looks over the scene with a [friendlyadjective] expression.</BuriedCorpse.rulePack.rulesStrings.14>
-  <BuriedCorpse.rulePack.rulesStrings.15>desc_sentence->A spectral image of [corpse_nameShortDef] stands next to [pawn_nameShortDef], wearing a [friendlyadjective] expression.</BuriedCorpse.rulePack.rulesStrings.15>
-  <BuriedCorpse.rulePack.rulesStrings.16>desc_sentence->A spectral image of [corpse_nameShortDef] looks over the scene with a [angstyadjective] expression.</BuriedCorpse.rulePack.rulesStrings.16>
+  <BuriedCorpse.rulePack.rulesStrings.15>desc_sentence->A spectral image of [corpse_nameShortDef] stands next to [pawn_nameShortDef], [friendlyadjective] arcot vágva.</BuriedCorpse.rulePack.rulesStrings.15>
+  <BuriedCorpse.rulePack.rulesStrings.16>desc_sentence->A spectral image of [corpse_nameShortDef] looks over the scene [angstyadjective] arcot vágva.</BuriedCorpse.rulePack.rulesStrings.16>
   <BuriedCorpse.rulePack.rulesStrings.17>desc_sentence->A spectral image of [corpse_nameShortDef] stands next to [pawn_nameShortDef], wearing a [angstyadjective] expression.</BuriedCorpse.rulePack.rulesStrings.17>
-  <BuriedCorpse.rulePack.rulesStrings.18>desc_sentence->[quantity_adjphrase] [animal]s rest near the scene.</BuriedCorpse.rulePack.rulesStrings.18>
+  <BuriedCorpse.rulePack.rulesStrings.18>desc_sentence->[quantity_adjphrase] [animal] pihen a közelben.</BuriedCorpse.rulePack.rulesStrings.18>
 
   <EnteredCryptosleep.label>entered cryptosleep</EnteredCryptosleep.label>
   <EnteredCryptosleep.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] entering cryptosleep</EnteredCryptosleep.rulePack.rulesStrings.0>
@@ -192,15 +192,15 @@
   <EnteredCryptosleep.rulePack.rulesStrings.2>image->[pawn_nameFull] opening an empty cryptosleep casket [circumstance_group]</EnteredCryptosleep.rulePack.rulesStrings.2>
   <EnteredCryptosleep.rulePack.rulesStrings.3>image->[pawn_nameFull] sealing themselves inside a cryptosleep casket [circumstance_group]</EnteredCryptosleep.rulePack.rulesStrings.3>
   <EnteredCryptosleep.rulePack.rulesStrings.4>image->[pawn_nameFull] looking through the wall of a cryptosleep casket at a world they're about to leave [circumstance_group]</EnteredCryptosleep.rulePack.rulesStrings.4>
-  <EnteredCryptosleep.rulePack.rulesStrings.5>circumstance_phrase->with a [angstyadjective] expression</EnteredCryptosleep.rulePack.rulesStrings.5>
+  <EnteredCryptosleep.rulePack.rulesStrings.5>circumstance_phrase->[angstyadjective] arcot vágva</EnteredCryptosleep.rulePack.rulesStrings.5>
   <EnteredCryptosleep.rulePack.rulesStrings.6>circumstance_phrase->while consumed in thought</EnteredCryptosleep.rulePack.rulesStrings.6>
-  <EnteredCryptosleep.rulePack.rulesStrings.7>circumstance_phrase->while gazing at a faraway [terrainfeature]</EnteredCryptosleep.rulePack.rulesStrings.7>
+  <EnteredCryptosleep.rulePack.rulesStrings.7>circumstance_phrase->miközben egy messzi [terrainfeature] felé néz</EnteredCryptosleep.rulePack.rulesStrings.7>
   <EnteredCryptosleep.rulePack.rulesStrings.8>circumstance_phrase->and talking quietly to themselves</EnteredCryptosleep.rulePack.rulesStrings.8>
-  <EnteredCryptosleep.rulePack.rulesStrings.9>desc_sentence->[quantity_adjphrase] [animal]s rest near the scene.</EnteredCryptosleep.rulePack.rulesStrings.9>
+  <EnteredCryptosleep.rulePack.rulesStrings.9>desc_sentence->[quantity_adjphrase] [animal] pihen a közelben.</EnteredCryptosleep.rulePack.rulesStrings.9>
   <EnteredCryptosleep.rulePack.rulesStrings.10>desc_sentence->[quantity_adjphrase] [enemy]s approach the area.</EnteredCryptosleep.rulePack.rulesStrings.10>
   <EnteredCryptosleep.rulePack.rulesStrings.11>desc_sentence->[pawn_nameShortDef] radiates determination.</EnteredCryptosleep.rulePack.rulesStrings.11>
   <EnteredCryptosleep.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] is visibly wounded.</EnteredCryptosleep.rulePack.rulesStrings.12>
-  <EnteredCryptosleep.rulePack.rulesStrings.13>desc_sentence->A [color] aurora shines in the background.</EnteredCryptosleep.rulePack.rulesStrings.13>
+  <EnteredCryptosleep.rulePack.rulesStrings.13>desc_sentence->[color] színű sarki fény látszik a háttérben.</EnteredCryptosleep.rulePack.rulesStrings.13>
   <EnteredCryptosleep.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] filled cryptosleep caskets surround the scene.</EnteredCryptosleep.rulePack.rulesStrings.14>
 
   <PutIntoCryptosleep.label>put into cryptosleep</PutIntoCryptosleep.label>
@@ -209,19 +209,19 @@
   <PutIntoCryptosleep.rulePack.rulesStrings.2>image->[pawn_nameFull] opening an empty cryptosleep casket while supporting [sleeper_nameShortDef] [circumstance_group]</PutIntoCryptosleep.rulePack.rulesStrings.2>
   <PutIntoCryptosleep.rulePack.rulesStrings.3>image->[pawn_nameFull] sealing [sleeper_nameShortDef] inside a cryptosleep casket [circumstance_group]</PutIntoCryptosleep.rulePack.rulesStrings.3>
   <PutIntoCryptosleep.rulePack.rulesStrings.4>image->[pawn_nameFull] walking away as [sleeper_nameShortDef] looks through the wall of a cryptosleep casket [circumstance_group]</PutIntoCryptosleep.rulePack.rulesStrings.4>
-  <PutIntoCryptosleep.rulePack.rulesStrings.5>circumstance_phrase->with a [angstyadjective] expression</PutIntoCryptosleep.rulePack.rulesStrings.5>
+  <PutIntoCryptosleep.rulePack.rulesStrings.5>circumstance_phrase->[angstyadjective] arcot vágva</PutIntoCryptosleep.rulePack.rulesStrings.5>
   <PutIntoCryptosleep.rulePack.rulesStrings.6>circumstance_phrase->with a [friendlyadjective] expression</PutIntoCryptosleep.rulePack.rulesStrings.6>
   <PutIntoCryptosleep.rulePack.rulesStrings.7>circumstance_phrase->with a [badassadjective] expression</PutIntoCryptosleep.rulePack.rulesStrings.7>
   <PutIntoCryptosleep.rulePack.rulesStrings.8>circumstance_phrase->while consumed in thought</PutIntoCryptosleep.rulePack.rulesStrings.8>
-  <PutIntoCryptosleep.rulePack.rulesStrings.9>circumstance_phrase->while gazing at a faraway [terrainfeature]</PutIntoCryptosleep.rulePack.rulesStrings.9>
+  <PutIntoCryptosleep.rulePack.rulesStrings.9>circumstance_phrase->miközben egy messzi [terrainfeature] felé néz</PutIntoCryptosleep.rulePack.rulesStrings.9>
   <PutIntoCryptosleep.rulePack.rulesStrings.10>circumstance_phrase->with visible tension between the two</PutIntoCryptosleep.rulePack.rulesStrings.10>
-  <PutIntoCryptosleep.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [animal]s rest near the scene.</PutIntoCryptosleep.rulePack.rulesStrings.11>
+  <PutIntoCryptosleep.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [animal] pihen a közelben.</PutIntoCryptosleep.rulePack.rulesStrings.11>
   <PutIntoCryptosleep.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [enemy]s approach the area.</PutIntoCryptosleep.rulePack.rulesStrings.12>
   <PutIntoCryptosleep.rulePack.rulesStrings.13>desc_sentence->[pawn_nameShortDef] radiates determination.</PutIntoCryptosleep.rulePack.rulesStrings.13>
   <PutIntoCryptosleep.rulePack.rulesStrings.14>desc_sentence->The sky is grey and overcast.</PutIntoCryptosleep.rulePack.rulesStrings.14>
   <PutIntoCryptosleep.rulePack.rulesStrings.15>desc_sentence->[sleeper_nameShortDef] is visibly wounded.</PutIntoCryptosleep.rulePack.rulesStrings.15>
   <PutIntoCryptosleep.rulePack.rulesStrings.16>desc_sentence->[sleeper_nameShortDef] looks exhausted.</PutIntoCryptosleep.rulePack.rulesStrings.16>
-  <PutIntoCryptosleep.rulePack.rulesStrings.17>desc_sentence->A [color] aurora shines in the background.</PutIntoCryptosleep.rulePack.rulesStrings.17>
+  <PutIntoCryptosleep.rulePack.rulesStrings.17>desc_sentence->[color] színű sarki fény látszik a háttérben.</PutIntoCryptosleep.rulePack.rulesStrings.17>
   <PutIntoCryptosleep.rulePack.rulesStrings.18>desc_sentence->[quantity_adjphrase] filled cryptosleep caskets surround the scene.</PutIntoCryptosleep.rulePack.rulesStrings.18>
 
   <Stripped.label>stripped</Stripped.label>
@@ -270,7 +270,7 @@
   <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.5>image->[pawn_nameFull] finishing a project [circumstance_group]</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.5>
   <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.6>circumstance_phrase->while covered in sweat</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.6>
   <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.7>circumstance_phrase->with visible exhaustion</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.7>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.8>circumstance_phrase->with a [angstyadjective] expression</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.8>
+  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.8>circumstance_phrase->[angstyadjective] arcot vágva</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.8>
   <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.9>circumstance_phrase->with a bored expression</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.9>
   <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.10>desc_sentence->The scene is surrounded by [quantity_adjphrase] failed experiments.</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.10>
   <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.11>desc_sentence->The scene is surrounded by [quantity_adjphrase] books.</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.11>
