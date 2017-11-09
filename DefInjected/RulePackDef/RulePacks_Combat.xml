@@ -19,7 +19,7 @@
   <Combat_MeleeIncludes.rulePack.rulesStrings.15>bodypart_adjective->hatalmas</Combat_MeleeIncludes.rulePack.rulesStrings.15>
   <Combat_MeleeIncludes.rulePack.rulesStrings.16>bodypart_adjective->göcsörtös</Combat_MeleeIncludes.rulePack.rulesStrings.16>
   <Combat_MeleeIncludes.rulePack.rulesStrings.17>bodypart_adjective->vaskos</Combat_MeleeIncludes.rulePack.rulesStrings.17>
-  <Combat_MeleeIncludes.rulePack.rulesStrings.18>bodypart_adjective->robosztus</Combat_MeleeIncludes.rulePack.rulesStrings.18>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.18>bodypart_adjective->robusztus</Combat_MeleeIncludes.rulePack.rulesStrings.18>
   <Combat_MeleeIncludes.rulePack.rulesStrings.19>bodypart_adjective->izmos</Combat_MeleeIncludes.rulePack.rulesStrings.19>
   <Combat_MeleeIncludes.rulePack.rulesStrings.20>bodypart_adjective->szívós</Combat_MeleeIncludes.rulePack.rulesStrings.20>
   <Combat_MeleeIncludes.rulePack.rulesStrings.21>bodypart_adjective(initiator_flesh==True)->kérges</Combat_MeleeIncludes.rulePack.rulesStrings.21>
@@ -170,7 +170,7 @@
   <Combat_FailIncludes.rulePack.rulesStrings.10>genericattackverb->suhintott</Combat_FailIncludes.rulePack.rulesStrings.10>
   <Combat_FailIncludes.rulePack.rulesStrings.11>genericattackverb->csapott</Combat_FailIncludes.rulePack.rulesStrings.11>
   <Combat_FailIncludes.rulePack.rulesStrings.12>tried->megpróbálta</Combat_FailIncludes.rulePack.rulesStrings.12>
-  <Combat_FailIncludes.rulePack.rulesStrings.13>tried->megkisérelte</Combat_FailIncludes.rulePack.rulesStrings.13>
+  <Combat_FailIncludes.rulePack.rulesStrings.13>tried->megkísérelte</Combat_FailIncludes.rulePack.rulesStrings.13>
 
   <Combat_Miss.rulePack.rulesStrings.0>logentry(p=0.2)->[recipient_definite] elkerülte ezt: [weapon_label] [damaged_inf], ettől: [initiator_definite].</Combat_Miss.rulePack.rulesStrings.0>
   <Combat_Miss.rulePack.rulesStrings.1>logentry(p=0.2)->[initiator_definite] elhibázta ezt: [recipient_definite], eközben: [damaged_inf], ezzel: [implement].</Combat_Miss.rulePack.rulesStrings.1>
@@ -310,7 +310,7 @@
   <Combat_RangedMiss.rulePack.rulesStrings.7>missed->a levegőbe szállt</Combat_RangedMiss.rulePack.rulesStrings.7>
   <Combat_RangedMiss.rulePack.rulesStrings.8>missed->magasan a levegőbe szállt</Combat_RangedMiss.rulePack.rulesStrings.8>
   <Combat_RangedMiss.rulePack.rulesStrings.9>missed->a földbe fúródott</Combat_RangedMiss.rulePack.rulesStrings.9>
-  <Combat_RangedMiss.rulePack.rulesStrings.10>missed->leppattant [originalTarget_definite] fedezékéről</Combat_RangedMiss.rulePack.rulesStrings.10>
+  <Combat_RangedMiss.rulePack.rulesStrings.10>missed->lepattant [originalTarget_definite] fedezékéről</Combat_RangedMiss.rulePack.rulesStrings.10>
   <Combat_RangedMiss.rulePack.rulesStrings.11>missed->a földről felpattanva eltűnt</Combat_RangedMiss.rulePack.rulesStrings.11>
   <Combat_RangedMiss.rulePack.rulesStrings.12>missed->egy darab földet szórt fel</Combat_RangedMiss.rulePack.rulesStrings.12>
   <Combat_RangedMiss.rulePack.rulesStrings.13>missed(p=0.2)->csak milliméterekkel ment el mellette: [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.13>
