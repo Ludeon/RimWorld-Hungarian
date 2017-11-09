@@ -156,6 +156,7 @@
   <Combat_Hit.rulePack.rulesStrings.12>action(p=0.3)->[initiator_definite] eltalálta ezt: [recipient_definite] így: [implement] [damaged_inf]</Combat_Hit.rulePack.rulesStrings.12>
   <Combat_Hit.rulePack.rulesStrings.13>action(p=0.3)->[initiator_definite] használta ezt: [implement], hogy [damaged_inf]t ejtsen rajta: [recipient_definite]</Combat_Hit.rulePack.rulesStrings.13>
   <Combat_Hit.rulePack.rulesStrings.14>action->[initiator_definite] [damaged_past] feléje: [recipient_definite], ezzel: [implement]</Combat_Hit.rulePack.rulesStrings.14>
+  <Combat_Hit.rulePack.rulesStrings.15>action(p=0.6)->[initiator_definite] [damaged_past] feléje: [recipient_definite]</Combat_Hit.rulePack.rulesStrings.15>
 
   <Combat_FailIncludes.rulePack.rulesStrings.0>action->[initiator_definite] [tried] ezt: [damaged_inf], cél: [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.0>
   <Combat_FailIncludes.rulePack.rulesStrings.1>action->[initiator_definite] [tried] ezt: [implement] [damaged_inf], cél: [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.1>

@@ -84,6 +84,9 @@
   <CommandStopForceAttack>Zárótűz leállítása</CommandStopForceAttack>
   <CommandStopForceAttackDesc>Az ágyú arra lő, akire gondolja.</CommandStopForceAttackDesc>
   <CommandStopAttackFailNotForceAttacking>Jelenleg nincs zárótűz mód aktiválva.</CommandStopAttackFailNotForceAttacking>
+  <CommandExtractShell>Lövedék eltávolítása</CommandExtractShell>
+  <CommandExtractShellDesc>Lövedék eltávolítása, hogy más fajtájút lehessen betölteni.</CommandExtractShellDesc>
+  <CommandExtractShellFailNoShell>Nincs betöltve lövedék.</CommandExtractShellFailNoShell>
   <MessageTargetBeyondMaximumRange>Célpont túl messze van.</MessageTargetBeyondMaximumRange>
   <MessageTargetBelowMinimumRange>Célpont túl közel van.</MessageTargetBelowMinimumRange>
   <MessageTurretWontFireBecauseHoldFire>Figyelem: az ágyú nem fog tüzelni, mert "Tüzet szüntess" módban van.</MessageTurretWontFireBecauseHoldFire>

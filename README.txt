@@ -17,21 +17,11 @@ Some text used from the old partial translation created by:
 - SjoCi
 - Moredoor
 
-Also kudos to German/Korean translators. I used their DefInjected XMLs as base.
-
 Status:
 ---------------------
 
-Game version: 0.17.1456
+Game version: 0.18.1717
 
-DefInjected:
-Old defs converted to new format and merged with German defs. Rest of the defs added from German translation. All done.
-
-Keyed:
-Done.
-
-Strings:
-Considered done. ColonyNames not translated, maybe later. Other strings could use some love to avoid really stupid faction names for example.
 
 ==================================================================================================================================================================
 
