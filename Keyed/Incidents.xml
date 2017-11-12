@@ -53,10 +53,10 @@
   <VisitorsLeaving>{0} tagjai elmennek.</VisitorsLeaving>
 
   <LetterLabelWandererJoin>Vándor csatlakozik</LetterLabelWandererJoin>
-  <WandererJoin>A NAME nevű {0} megérkezett és csatlakozik a kolóniához. Mestersége: {1}.</WandererJoin>
+  <WandererJoin>A NAME nevű {0} megérkezett és csatlakozik a kolóniához. Ő egy {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>Emberevő falka</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>Egy falka emberevő {0} jelent meg a környéken. A közelben kóborolva vadásznak emberhúsra.\n\nAjtókon nem törnek át, ha nem látják, mikor bemész. Kikapcsolt ágyúkat nem támadnak meg, ha nem akarod megölni őket, állítsd le ezeket.\n\nPár napig lesznek a környéken.</ManhunterPackArrived>
+  <ManhunterPackArrived>Emberevő {0} jelentek meg a környéken. A közelben kóborolva vadásznak emberhúsra.\n\nAjtókon nem törnek át, ha nem látják, mikor bemész. Kikapcsolt ágyúkat nem támadnak meg, ha nem akarod megölni őket, állítsd le ezeket.\n\nPár napig lesznek a környéken.</ManhunterPackArrived>
 
   <!-- Crashed ship part-->
   <MessageAnimalInsanityPulse>Egy ősi építmény pszichotikus hullámot bocsátott ki magából, amitől a közelben lévő állatok megvadultak.</MessageAnimalInsanityPulse>
@@ -95,11 +95,11 @@
   <!-- Self-tame -->
   <LetterLabelAnimalSelfTame>{0} megszelídült</LetterLabelAnimalSelfTame>
   <LetterAnimalSelfTame>{0} megszelídült.</LetterAnimalSelfTame>
-  <LetterAnimalSelfTameAndNameNumerical>{0} megszelídült. Mostantól a száma {1}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndNameNumerical>{0} megszelídült. A neve mostantól {1}.</LetterAnimalSelfTameAndNameNumerical>
   <LetterAnimalSelfTameAndName>{0} megszelídült. A gyarmatosok mostantól {1} néven szólítják.</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
-  <LetterLabelFarmAnimalsWanderIn>{0} csatlakozik</LetterLabelFarmAnimalsWanderIn>
+  <LetterLabelFarmAnimalsWanderIn>{0} csatlakoznak</LetterLabelFarmAnimalsWanderIn>
   <LetterFarmAnimalsWanderIn>Egy csapat elhagyott vagy elveszett {0} kóborolt a környékre.\n\nÚgy tűnik megszokták az ember közelségét és csatlakoznak a kolóniához.</LetterFarmAnimalsWanderIn>
 
   <!-- Thrumbo passes -->
@@ -128,8 +128,8 @@
   <EscapeShipLost>Charlon Whitestone üzenetet küldött.\n\nLátta, hogy elvesztetted az uralmat a hajótest felett. Hogy ne kerüljön rossz kezekbe, el kellett indítania az önmegsemmisítő rendszert. A hajó immár csak egy kráter.\n\nMás módot kell találnod a bolygó elhagyására.</EscapeShipLost>
 
   <!-- Caravan meeting -->
-  <CaravanMeetingTitle>Karaván találkozás itt(???): {0}</CaravanMeetingTitle>
-  <CaravanMeeting>Karavánod találkozott {0} barátságos karavánjával. Karavánjuk a következőkből áll:\n\n{1}</CaravanMeeting>
+  <CaravanMeetingTitle>{0} találkozója</CaravanMeetingTitle>
+  <CaravanMeeting>Karavánod találkozott {0} barátságos karavánjával. Tagjaik:\n\n{1}</CaravanMeeting>
   <CaravanMeeting_Trade>Kereskedés</CaravanMeeting_Trade>
   <CaravanMeeting_Attack>Támadás</CaravanMeeting_Attack>
   <CaravanMeeting_MoveOn>Továbbáll</CaravanMeeting_MoveOn>
@@ -141,8 +141,8 @@
   <CaravanRequestInfo>Igény: {0}, cserébe: {1} ({2} van hátra)</CaravanRequestInfo>
 
   <!-- Caravan demand -->
-  <CaravanDemandTitle>Karaván követelés általuk(???): {0}</CaravanDemandTitle>
-  <CaravanDemand>Egy csapat {1} {3} meglepte karavánod. {0} frakció tagjai(???). Megtámadnak, amennyiben nem adsz nekik ezt:\n\n{2}</CaravanDemand>
+  <CaravanDemandTitle>Karaván sarc: {0}</CaravanDemandTitle>
+  <CaravanDemand>Fegyveres {3} {1} tagú csoportja lepte meg karavánod, frakciójuk: {0}. Megtámadnak, amennyiben nem adod át ezeket:\n\n{2}</CaravanDemand>
   <CaravanDemand_Give>Átad és továbbhalad</CaravanDemand_Give>
   <CaravanDemand_Fight>Megtagad és harcol</CaravanDemand_Fight>
   
@@ -156,6 +156,6 @@
   <!-- <ItemStashSitePart_Outpost>{0} szerint egy ellenséges helyőrség van a közelben.</ItemStashSitePart_Outpost> -->
   <!-- <ItemStashSitePart_Turrets>{0} szerint ellenséges ágyúk őrzik a helyet.</ItemStashSitePart_Turrets> -->
   <!-- <ItemStashSitePart_Manhunters>{0} szerint egy csapat emberevő állat van a közelben.</ItemStashSitePart_Manhunters> -->
-  <ItemStashSitePart_Part>{0} azt mondja {1}.</ItemStashSitePart_Part>
+  <ItemStashSitePart_Part>{0} azt mondja, hogy {1}.</ItemStashSitePart_Part>
 
 </LanguageData>
