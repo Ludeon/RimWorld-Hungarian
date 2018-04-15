@@ -11,6 +11,7 @@ http://ludeon.com/forums/index.php?topic=2933.0
 Translators:
 ---------------------
 - pluhi
+- Laoka25
 
 Some text used from the old partial translation created by:
 - Jamesgt
@@ -18,6 +19,10 @@ Some text used from the old partial translation created by:
 - Moredoor
 
 Status:
+
+-Backstories                           [Started]
+-DefInjected:                          [Translated]
+-Keyed                                 [Translated]
 ---------------------
 
 Game version: 0.18.1717
