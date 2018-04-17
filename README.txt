@@ -23,6 +23,9 @@ Status:
 -Backstories                           [Started]
 -DefInjected:                          [Translated]
 -Keyed                                 [Translated]
+-Stings                                [-]
+-LangIcon.png                          [-]
+-LanguageInfo.xml                      [Translated]
 ---------------------
 
 Game version: 0.18.1717
