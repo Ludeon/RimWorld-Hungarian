@@ -12,11 +12,11 @@
   <QuestDownedRefugee.letterLabel>Mozgásképtelen menekült</QuestDownedRefugee.letterLabel>
 
   <QuestPrisonerWillingToJoin.label>fogoly kiszabadítás</QuestPrisonerWillingToJoin.label>
-  <QuestPrisonerWillingToJoin.letterText>{0} foglya valahogy rádióhoz jutott és most téged hív!\n\nNAME egy közeli táborban raboskodik, fegyveres őrökkel körülvéve. Ha megmented, csatlakozik a kolóniához. {1} éves {2}.</QuestPrisonerWillingToJoin.letterText>
+  <QuestPrisonerWillingToJoin.letterText>{0} foglya valahogy rádióhoz jutott és most téged hív!\n\n[PAWN_nameDef] egy közeli táborban raboskodik, fegyveres őrökkel körülvéve. Ha megmented, csatlakozik a kolóniához. {1} éves {2}.</QuestPrisonerWillingToJoin.letterText>
   <QuestPrisonerWillingToJoin.letterLabel>Fogoly kiszabadítás</QuestPrisonerWillingToJoin.letterLabel>
 
   <QuestPeaceTalks.label>béketárgyalás</QuestPeaceTalks.label>
-  <QuestPeaceTalks.letterText>NAME, aki {0} itt: {1}, üzenetet küldött. Tárgyalni akar veled egy közeli helyen.\n\nEz jó alkalom lehet a kapcsolat javítására, de ne feledd, egy rossz képességű küldött több kárt tehet, mint hasznot.\n\nAz ajánlat {2} napig él.</QuestPeaceTalks.letterText>
+  <QuestPeaceTalks.letterText>[PAWN_nameDef], aki {0} itt: {1}, üzenetet küldött. Tárgyalni akar veled egy közeli helyen.\n\nEz jó alkalom lehet a kapcsolat javítására, de ne feledd, egy rossz képességű küldött több kárt tehet, mint hasznot.\n\nAz ajánlat {2} napig él.</QuestPeaceTalks.letterText>
   <QuestPeaceTalks.letterLabel>Béketárgyalás</QuestPeaceTalks.letterLabel>
 
 </LanguageData>

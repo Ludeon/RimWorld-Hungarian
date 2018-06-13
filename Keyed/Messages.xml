@@ -250,7 +250,7 @@
   <MessageFailedToRescueRelative>Nem sikerült megmenteni őt: {0}. {1} szomorú lesz.</MessageFailedToRescueRelative>
   <MessageRescuedRelative>Megmentetted őt: {0}. {1} boldog lesz.</MessageRescuedRelative>
 
-  <MessagePrisonerRescued>Mivel megmentetted, NAME csatlakozott a kolóniádhoz.</MessagePrisonerRescued>
+  <MessagePrisonerRescued>Mivel megmentetted, [PAWN_nameDef] csatlakozott a kolóniádhoz.</MessagePrisonerRescued>
 
   <MessageTornadoLeftMap>A tornádó elhagyta a zónát.</MessageTornadoLeftMap>
   <MessageTornadoDissipated>A tornádó elenyészett.</MessageTornadoDissipated>
