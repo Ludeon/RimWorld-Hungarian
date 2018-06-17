@@ -30,7 +30,7 @@
   <RecruitSuccess>{0} sikeresen toborozta őt: {1} ({2} esély).</RecruitSuccess>
   <RecruitFail>{0} sikertelenül próbálta toborozni őt: {1} ({2} esély).</RecruitFail>
 
-  <RelatedPawnInvolvedInQuest>NAME és {0} kapcsoltban állnak: {1}. Ha NAME meghal, {0} sokáig gyászol majd. Viszont ha sikerül megmentened őt, {0} hosszú ideig boldog lesz.</RelatedPawnInvolvedInQuest>
+  <RelatedPawnInvolvedInQuest>[PAWN_nameDef] és {0} kapcsoltban állnak: {1}. Ha [PAWN_nameDef] meghal, {0} sokáig gyászol majd. Viszont ha sikerül megmentened őt, {0} hosszú ideig boldog lesz.</RelatedPawnInvolvedInQuest>
 
   <LetterLabelBirthday>Születésnap</LetterLabelBirthday>
   <BirthdayChronological>Ma van {0} naptári születésnapja! Biológiailag {1} {3} éves.\n\nNaptár szerint {1} most lett {2}.\n\nVedd figyelembe, hogy hibernáció alatt biológiailag nem öregszik a gyarmatos, ezért a naptári és a biológiai kor külön van nyilvántartva.</BirthdayChronological>
@@ -84,8 +84,8 @@
   <LetterRelatedPawnsTradingWithOtherCaravan>A karaván olyan embereket árul, akiknek kapcsolata van gyarmatosaiddal vagy foglyaiddal:</LetterRelatedPawnsTradingWithOtherCaravan>
 
   <RelationshipAppendedLetterSuffix>(kapcsolat)</RelationshipAppendedLetterSuffix>
-  <RelationshipAppendedLetterTextColonist>NAME kapcsolatban ({1}) áll az egyik gyarmatossal ({0}).</RelationshipAppendedLetterTextColonist>
-  <RelationshipAppendedLetterTextPrisoner>NAME kapcsolatban ({1}) áll az egyik fogollyal ({0}).</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] kapcsolatban ({1}) áll az egyik gyarmatossal ({0}).</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef] kapcsolatban ({1}) áll az egyik fogollyal ({0}).</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Viszony</LetterLabelAffair>
