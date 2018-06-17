@@ -353,6 +353,7 @@ Bár végül felépült és megszabadult, a tapasztalatai lerontják sok képess
 	<VRDesigner15>
 		<title>Játékfejlesztő</title>
 		<titleShort>Játékfejlesztő</titleShort>
+		<desc>[PAWN_nameDef] virtuális valóság szimulációkat tervezett fénylővilág polgárai számára. Ő nagy figyelmet fordtott a világainak részletességére, például megtanult a növények életéről annyit, amennyit csak lehet hogy valósághűbbé tegye a virtuális tájakat.</desc>
 		<desc>[PAWN_nameDef] designed virtual reality simulations for glitterworld citizens. [PAWN_pronoun] paid great attention to the details of [PAWN_possessive] worlds, including learning all [PAWN_pronoun] could about plant life to make [PAWN_possessive] landscapes more realistic.</desc>
 	</VRDesigner15>
 	<HumanComputer63>
@@ -363,6 +364,7 @@ Bár végül felépült és megszabadult, a tapasztalatai lerontják sok képess
 	<Architect11>
 		<title>Építész</title>
 		<titleShort>Építész</titleShort>
+		<desc>NAME épületeket tervezett és épített. Az ő hazájában, fénylővilágban, az építészet techikai részét legtöbb esetben egy AI (Mesterséges Inteligencia) kezelte. Ez lehetővé tette számára, hogy a szakma művészeti határait magasabbra rakja, de azt is jelentette, hogy soha nem kellett összepiszkolnia a kezét az építkezések helyszínein.</desc>
 		<desc>[PAWN_nameDef] designed and constructed buildings. On [PAWN_possessive] glitterworld home, most of the technical aspects of architecture were handled by an AI. This enabled [PAWN_objective] to push the artistic limits of the craft, but also meant [PAWN_pronoun] never had to get [PAWN_possessive] hands dirty at building sites.</desc>
 	</Architect11>
 	<MessageCarrier61>
@@ -797,20 +799,30 @@ Unfortunately this also lead to [PAWN_objective] being a loner as [PAWN_pronoun]
 		<desc>During the Zartha crisis, Bashkire fought across many worlds, providing the vital link between the ground and the air as a fighter controller. During the campaign, he saw friends injured and killed. This mental trauma haunts his dreams to this day, but his aim remains sharp.</desc>
 	</FighterController64>
 	<ReclusiveProdigy98>
-		<title>Reclusive prodigy</title>
-		<titleShort>Prodigy</titleShort>
+		<title>Visszavonult csodagyerek</title>
+		<titleShort>Csodagyerek</titleShort>
 		<desc>Growing up on a flourishing glitterworld afforded Holly the chance to fully devote herself to her studies.
 
 Having taken a keen interest in genetic modification and neural augmentation from a young age, she had little time (or desire) for a regular childhood.</desc>
 	</ReclusiveProdigy98>
 	<FerventResearcher44>
-		<title>Fervent researcher</title>
-		<titleShort>Researcher</titleShort>
+		<title>Buzgó kutató</title>
+		<titleShort>Kutató</titleShort>
 		<desc>As a young adult, Holly was sure that her planet and its people were nearing their time of transcendence.
 
 A firm belief that her research would be the catalyst drove her to increasingly alarming acts as bureaucrats and bioethics committees worked to stall her progress.</desc>
 	</FerventResearcher44>
 	<WarRefugee81>
+		<title>Háborús Menekült</title>
+		<titleShort>Menekült</titleShort>
+		<desc>Egy háború tört ki NAME bolygóján.
+
+Összegyőjtött annyi élelmet és egyéb cókmókot amennyit csak tudott, majd NAME és apja ellopott egy hajót és elmenekült az űrbe.</desc>
+	</WarRefugee81>
+	<VengefulExplorer48>
+		<title>Bosszúálló Felfedező</title>
+		<titleShort>Felfedező</titleShort>
+		<desc>A violent drifter without a home, NAME and his father fought many battles across hundreds of years. HECAP became a grizzled fighter and crack shot.
 		<title>War refugee</title>
 		<titleShort>Refugee</titleShort>
 		<desc>A war broke on out [PAWN_nameDef]'s home planet.
@@ -825,6 +837,9 @@ Gathering what little food and belongings they could, [PAWN_nameDef] and his fat
 After his father's death in battle, [PAWN_nameDef] began exploring the stars alone, seeking his father's killer, on the hunt for revenge.</desc>
 	</VengefulExplorer48>
 	<WorkCampSlave37>
+		<title>Munkatábori Rabszolga</title>
+		<titleShort>Rabszolga</titleShort>
+		<desc>NAME egy kölönösen csúnya nemes család rabszolgájaként nött fel egy középkori világban. 
 		<title>Work camp slave</title>
 		<titleShort>Slave</titleShort>
 		<desc>[PAWN_nameDef] grew up as a slave to a particularly nasty noble family on a medieval world. 
@@ -832,6 +847,9 @@ After his father's death in battle, [PAWN_nameDef] began exploring the stars alo
 While he received no formal education, the harsh labor regimen made his body strong.</desc>
 	</WorkCampSlave37>
 	<BanishedSoldier4>
+		<title>Száműzött katona</title>
+		<titleShort>Számkivetett</titleShort>
+		<desc>NAME became the most physically intimidating of the slaves, spending his little free time obsessively sculpting his body. His efforts eventually paid off when the lord offered him a job as a personal bodyguard.
 		<title>Banished soldier</title>
 		<titleShort>Outlaw</titleShort>
 		<desc>[PAWN_nameDef] became the most physically intimidating of the slaves, spending his little free time obsessively sculpting his body. His efforts eventually paid off when the lord offered him a job as a personal bodyguard.
@@ -839,8 +857,8 @@ While he received no formal education, the harsh labor regimen made his body str
 Later, when he plotted to use his position to kill the lord and free the slaves, he was discovered and barely escaped with his life.</desc>
 	</BanishedSoldier4>
 	<DisciplinedFarmer44>
-		<title>Disciplined farmer</title>
-		<titleShort>Farmer</titleShort>
+		<title>Fegyelmezett Gazda</title>
+		<titleShort>Gazda</titleShort>
 		<desc>Drew was the younger of two sons on the family farm, a frontier plot that struggled to turn a profit. Drew's father was a strict disciplinarian, constantly at his sons to work harder and keep quiet. Drew burnt his hand making breakfast once and swore to cook only when his life was in danger.</desc>
 	</DisciplinedFarmer44>
 	<StalwartFarmer89>
