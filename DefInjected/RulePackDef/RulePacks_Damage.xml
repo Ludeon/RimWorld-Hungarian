@@ -1,75 +1,87 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Damage_Bomb.rulePack.rulesStrings.0>damaged_past(p=2)->felrobbantotta</Damage_Bomb.rulePack.rulesStrings.0>
-  <Damage_Bomb.rulePack.rulesStrings.1>damaged_past(p=2)->felrobbantotta</Damage_Bomb.rulePack.rulesStrings.1>
-  <Damage_Bomb.rulePack.rulesStrings.2>damaged_past->megsebezte</Damage_Bomb.rulePack.rulesStrings.2>
-  <Damage_Bomb.rulePack.rulesStrings.3>damaged_past->megsebezte</Damage_Bomb.rulePack.rulesStrings.3>
-  <Damage_Bomb.rulePack.rulesStrings.4>damaged_past->megsebesítette</Damage_Bomb.rulePack.rulesStrings.4>
-  <Damage_Bomb.rulePack.rulesStrings.5>damaged_past->megsebezte</Damage_Bomb.rulePack.rulesStrings.5>
-  <Damage_Bomb.rulePack.rulesStrings.6>destroyed_past->összezúzta</Damage_Bomb.rulePack.rulesStrings.6>
-  <Damage_Bomb.rulePack.rulesStrings.7>destroyed_past->összetörte</Damage_Bomb.rulePack.rulesStrings.7>
-  <Damage_Bomb.rulePack.rulesStrings.8>destroyed_past->megsemmisítette</Damage_Bomb.rulePack.rulesStrings.8>
-  <Damage_Bomb.rulePack.rulesStrings.9>destroyed_past->megsemmisítette</Damage_Bomb.rulePack.rulesStrings.9>
-  <Damage_Bomb.rulePack.rulesStrings.10>destroyed_past->felrobbantotta</Damage_Bomb.rulePack.rulesStrings.10>
+	<Damage_Bomb.rulePack.rulesStrings>
+		<li>damaged_past(p=2)->felrobbantotta</li>
+		<li>damaged_past(p=2)->felrobbantotta</li>
+		<li>damaged_past->megsebezte</li>
+		<li>damaged_past->megsebezte</li>
+		<li>damaged_past->megsebesítette</li>
+		<li>damaged_past->megsebezte</li>
+		<li>destroyed_past->összezúzta</li>
+		<li>destroyed_past->összetörte</li>
+		<li>destroyed_past->megsemmisítette</li>
+		<li>destroyed_past->megsemmisítette</li>
+		<li>destroyed_past->felrobbantotta</li>
+	</Damage_Bomb.rulePack.rulesStrings>
 
-  <Damage_Flame.rulePack.rulesStrings.0>damaged_past(p=2)->felrobbantotta</Damage_Flame.rulePack.rulesStrings.0>
-  <Damage_Flame.rulePack.rulesStrings.1>damaged_past(p=2)->megperzselte</Damage_Flame.rulePack.rulesStrings.1>
-  <Damage_Flame.rulePack.rulesStrings.2>damaged_past(p=2)->megégette</Damage_Flame.rulePack.rulesStrings.2>
-  <Damage_Flame.rulePack.rulesStrings.3>damaged_past(p=2)->megégette</Damage_Flame.rulePack.rulesStrings.3>
-  <Damage_Flame.rulePack.rulesStrings.4>damaged_past(p=2)->meggyújtotta</Damage_Flame.rulePack.rulesStrings.4>
-  <Damage_Flame.rulePack.rulesStrings.5>damaged_past(p=2)->megégette</Damage_Flame.rulePack.rulesStrings.5>
-  <Damage_Flame.rulePack.rulesStrings.6>damaged_past->megsebezte</Damage_Flame.rulePack.rulesStrings.6>
-  <Damage_Flame.rulePack.rulesStrings.7>damaged_past->megsebezte</Damage_Flame.rulePack.rulesStrings.7>
-  <Damage_Flame.rulePack.rulesStrings.8>damaged_past->megsebesítette</Damage_Flame.rulePack.rulesStrings.8>
-  <Damage_Flame.rulePack.rulesStrings.9>damaged_past->megsebezte</Damage_Flame.rulePack.rulesStrings.9>
-  <Damage_Flame.rulePack.rulesStrings.10>damaged_present(p=2)->felrobbantva</Damage_Flame.rulePack.rulesStrings.10>
-  <Damage_Flame.rulePack.rulesStrings.11>damaged_present(p=2)->megégetve</Damage_Flame.rulePack.rulesStrings.11>
-  <Damage_Flame.rulePack.rulesStrings.12>damaged_present(p=2)->megégetve</Damage_Flame.rulePack.rulesStrings.12>
-  <Damage_Flame.rulePack.rulesStrings.13>damaged_present(p=2)->megégetve</Damage_Flame.rulePack.rulesStrings.13>
-  <Damage_Flame.rulePack.rulesStrings.14>damaged_present(p=2)->meggyújtva</Damage_Flame.rulePack.rulesStrings.14>
-  <Damage_Flame.rulePack.rulesStrings.15>damaged_present(p=2)->megégetve</Damage_Flame.rulePack.rulesStrings.15>
-  <Damage_Flame.rulePack.rulesStrings.16>damaged_present->megsebezve</Damage_Flame.rulePack.rulesStrings.16>
-  <Damage_Flame.rulePack.rulesStrings.17>damaged_present->megsebezve</Damage_Flame.rulePack.rulesStrings.17>
-  <Damage_Flame.rulePack.rulesStrings.18>damaged_present->megsebezve</Damage_Flame.rulePack.rulesStrings.18>
-  <Damage_Flame.rulePack.rulesStrings.19>damaged_present->megsebezve</Damage_Flame.rulePack.rulesStrings.19>
-  <Damage_Flame.rulePack.rulesStrings.20>destroyed_past->elhamvasztotta</Damage_Flame.rulePack.rulesStrings.20>
-  <Damage_Flame.rulePack.rulesStrings.21>destroyed_past->elégette</Damage_Flame.rulePack.rulesStrings.21>
-  <Damage_Flame.rulePack.rulesStrings.22>destroyed_past->elüszkösítette</Damage_Flame.rulePack.rulesStrings.22>
-  <Damage_Flame.rulePack.rulesStrings.23>destroyed_past->megsemmisítette</Damage_Flame.rulePack.rulesStrings.23>
-  <Damage_Flame.rulePack.rulesStrings.24>destroyed_past->megsemmisítette</Damage_Flame.rulePack.rulesStrings.24>
-  <Damage_Flame.rulePack.rulesStrings.25>destroyed_past->felrobbantotta</Damage_Flame.rulePack.rulesStrings.25>
-  <Damage_Flame.rulePack.rulesStrings.26>destroyed_present->elhamvasztva</Damage_Flame.rulePack.rulesStrings.26>
-  <Damage_Flame.rulePack.rulesStrings.27>destroyed_present->elégetve</Damage_Flame.rulePack.rulesStrings.27>
-  <Damage_Flame.rulePack.rulesStrings.28>destroyed_present->elégetve</Damage_Flame.rulePack.rulesStrings.28>
-  <Damage_Flame.rulePack.rulesStrings.29>destroyed_present->megsemmisítve</Damage_Flame.rulePack.rulesStrings.29>
-  <Damage_Flame.rulePack.rulesStrings.30>destroyed_present->megsemmisítve</Damage_Flame.rulePack.rulesStrings.30>
-  <Damage_Flame.rulePack.rulesStrings.31>destroyed_present->felrobbantva</Damage_Flame.rulePack.rulesStrings.31>
+	<Damage_Flame.rulePack.rulesStrings>
+		<li>damaged_past(p=2)->felrobbantotta</li>
+		<li>damaged_past(p=2)->megperzselte</li>
+		<li>damaged_past(p=2)->megégette</li>
+		<li>damaged_past(p=2)->megégette</li>
+		<li>damaged_past(p=2)->meggyújtotta</li>
+		<li>damaged_past(p=2)->megégette</li>
+		<li>damaged_past->megsebezte</li>
+		<li>damaged_past->megsebezte</li>
+		<li>damaged_past->megsebesítette</li>
+		<li>damaged_past->megsebezte</li>
+		<li>damaged_present(p=2)->felrobbantva</li>
+		<li>damaged_present(p=2)->megégetve</li>
+		<li>damaged_present(p=2)->megégetve</li>
+		<li>damaged_present(p=2)->megégetve</li>
+		<li>damaged_present(p=2)->meggyújtva</li>
+		<li>damaged_present(p=2)->megégetve</li>
+		<li>damaged_present->megsebezve</li>
+		<li>damaged_present->megsebezve</li>
+		<li>damaged_present->megsebezve</li>
+		<li>damaged_present->megsebezve</li>
+		<li>destroyed_past->elhamvasztotta</li>
+		<li>destroyed_past->elégette</li>
+		<li>destroyed_past->elüszkösítette</li>
+		<li>destroyed_past->megsemmisítette</li>
+		<li>destroyed_past->megsemmisítette</li>
+		<li>destroyed_past->felrobbantotta</li>
+		<li>destroyed_present->elhamvasztva</li>
+		<li>destroyed_present->elégetve</li>
+		<li>destroyed_present->elégetve</li>
+		<li>destroyed_present->megsemmisítve</li>
+		<li>destroyed_present->megsemmisítve</li>
+		<li>destroyed_present->felrobbantva</li>
+	</Damage_Flame.rulePack.rulesStrings>
 
 
   <!-- Weird damage types that don't really destroy anything -->
 
-  <Damage_Extinguish.rulePack.rulesStrings.0>damaged_past->eloltotta</Damage_Extinguish.rulePack.rulesStrings.0>
-  <Damage_Extinguish.rulePack.rulesStrings.1>damaged_past->elmerítette</Damage_Extinguish.rulePack.rulesStrings.1>
-  <Damage_Extinguish.rulePack.rulesStrings.2>damaged_past->habosította</Damage_Extinguish.rulePack.rulesStrings.2>
-  <Damage_Extinguish.rulePack.rulesStrings.3>damaged_past->eloltotta</Damage_Extinguish.rulePack.rulesStrings.3>
-  <Damage_Extinguish.rulePack.rulesStrings.4>destroyed_past->damaged_past</Damage_Extinguish.rulePack.rulesStrings.4>
+	<Damage_Extinguish.rulePack.rulesStrings>
+		<li>damaged_past->eloltotta</li>
+		<li>damaged_past->elmerítette</li>
+		<li>damaged_past->habosította</li>
+		<li>damaged_past->eloltotta</li>
+		<li>destroyed_past->damaged_past</li>
+	</Damage_Extinguish.rulePack.rulesStrings>
 
-  <Damage_Stun.rulePack.rulesStrings.0>damaged_past->lebénította</Damage_Stun.rulePack.rulesStrings.0>
-  <Damage_Stun.rulePack.rulesStrings.1>damaged_past->összezavarta</Damage_Stun.rulePack.rulesStrings.1>
-  <Damage_Stun.rulePack.rulesStrings.2>damaged_past->megállította</Damage_Stun.rulePack.rulesStrings.2>
-  <Damage_Stun.rulePack.rulesStrings.3>damaged_past->elszédítette</Damage_Stun.rulePack.rulesStrings.3>
-  <Damage_Stun.rulePack.rulesStrings.4>destroyed_past->damaged_past</Damage_Stun.rulePack.rulesStrings.4>
+	<Damage_Stun.rulePack.rulesStrings>
+		<li>damaged_past->lebénította</li>
+		<li>damaged_past->összezavarta</li>
+		<li>damaged_past->megállította</li>
+		<li>damaged_past->elszédítette</li>
+		<li>destroyed_past->damaged_past</li>
+	</Damage_Stun.rulePack.rulesStrings>
 
-  <Damage_EMP.rulePack.rulesStrings.0>damaged_past->megrázta</Damage_EMP.rulePack.rulesStrings.0>
-  <Damage_EMP.rulePack.rulesStrings.1>damaged_past->megrázta</Damage_EMP.rulePack.rulesStrings.1>
-  <Damage_EMP.rulePack.rulesStrings.2>damaged_past->megrázta</Damage_EMP.rulePack.rulesStrings.2>
-  <Damage_EMP.rulePack.rulesStrings.3>destroyed_past->damaged_past</Damage_EMP.rulePack.rulesStrings.3>
+	<Damage_EMP.rulePack.rulesStrings>
+		<li>damaged_past->megrázta</li>
+		<li>damaged_past->megrázta</li>
+		<li>damaged_past->megrázta</li>
+		<li>destroyed_past->damaged_past</li>
+	</Damage_EMP.rulePack.rulesStrings>
 
-  <Damage_Smoke.rulePack.rulesStrings.0>damaged_past->kifüstölte</Damage_Smoke.rulePack.rulesStrings.0>
-  <Damage_Smoke.rulePack.rulesStrings.1>damaged_past->beködölte</Damage_Smoke.rulePack.rulesStrings.1>
-  <Damage_Smoke.rulePack.rulesStrings.2>damaged_past->befelhősítette</Damage_Smoke.rulePack.rulesStrings.2>
-  <Damage_Smoke.rulePack.rulesStrings.3>destroyed_past->damaged_past</Damage_Smoke.rulePack.rulesStrings.3>
+	<Damage_Smoke.rulePack.rulesStrings>
+		<li>damaged_past->kifüstölte</li>
+		<li>damaged_past->beködölte</li>
+		<li>damaged_past->befelhősítette</li>
+		<li>destroyed_past->damaged_past</li>
+	</Damage_Smoke.rulePack.rulesStrings>
 
 
 </LanguageData>

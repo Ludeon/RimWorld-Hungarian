@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <BuildRapport.label>ismerkedés</BuildRapport.label>
-  <BuildRapport.logRulesInitiator.rulesStrings.0>logentry->Megpróbál megismerkedni vele:[other_nameShortIndef].</BuildRapport.logRulesInitiator.rulesStrings.0>
-  <BuildRapport.logRulesRecipient.rulesStrings.0>logentry->[other_nameShortIndef] ismerkedik vele.</BuildRapport.logRulesRecipient.rulesStrings.0>
+	<BuildRapport.logRulesInitiator.rulesStrings>
+		<li>logentry->Megpróbál megismerkedni vele:[other_nameShortIndef].</li>
+	</BuildRapport.logRulesInitiator.rulesStrings>
+	<BuildRapport.logRulesRecipient.rulesStrings>
+		<li>logentry->[other_nameShortIndef] ismerkedik vele.</li>
+	</BuildRapport.logRulesRecipient.rulesStrings>
   <RecruitAttempt.label>toborzás</RecruitAttempt.label>
-  <RecruitAttempt.logRulesInitiator.rulesStrings.0>logentry->Megpróbálja toborozni őt:[other_nameShortIndef].</RecruitAttempt.logRulesInitiator.rulesStrings.0>
-  <RecruitAttempt.logRulesRecipient.rulesStrings.0>logentry->[other_nameShortIndef] megpróbálja toborozni.</RecruitAttempt.logRulesRecipient.rulesStrings.0>
+	<RecruitAttempt.logRulesInitiator.rulesStrings>
+		<li>logentry->Megpróbálja toborozni őt:[other_nameShortIndef].</li>
+	</RecruitAttempt.logRulesInitiator.rulesStrings>
+	<RecruitAttempt.logRulesRecipient.rulesStrings>
+		<li>logentry->[other_nameShortIndef] megpróbálja toborozni.</li>
+	</RecruitAttempt.logRulesRecipient.rulesStrings>
   <SparkJailbreak.label>szökésre felbujtás</SparkJailbreak.label>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.0>logentry->Megpróbálja szökésre felbujtani őt:[other_nameShortIndef].</SparkJailbreak.logRulesInitiator.rulesStrings.0>
-  <SparkJailbreak.logRulesRecipient.rulesStrings.0>logentry->[other_nameShortIndef] megpróbálja szökésre felbujtani.</SparkJailbreak.logRulesRecipient.rulesStrings.0>
+	<SparkJailbreak.logRulesInitiator.rulesStrings>
+		<li>logentry->Megpróbálja szökésre felbujtani őt:[other_nameShortIndef].</li>
+	</SparkJailbreak.logRulesInitiator.rulesStrings>
+	<SparkJailbreak.logRulesRecipient.rulesStrings>
+		<li>logentry->[other_nameShortIndef] megpróbálja szökésre felbujtani.</li>
+	</SparkJailbreak.logRulesRecipient.rulesStrings>
 
  </LanguageData>

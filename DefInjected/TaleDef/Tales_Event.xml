@@ -2,75 +2,81 @@
 <LanguageData>
 
   <LaunchedShip.label>űrhajó kilövése</LaunchedShip.label>
-  <LaunchedShip.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] elmenekül a bolygóról</LaunchedShip.rulePack.rulesStrings.0>
-  <LaunchedShip.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] felszáll az űrhajóval</LaunchedShip.rulePack.rulesStrings.1>
-  <LaunchedShip.rulePack.rulesStrings.2>image->[pawn_nameFull] elindul a csillagok felé [circumstance_group]</LaunchedShip.rulePack.rulesStrings.2>
-  <LaunchedShip.rulePack.rulesStrings.3>image->[pawn_nameFull] repül az egekbe [circumstance_group]</LaunchedShip.rulePack.rulesStrings.3>
-  <LaunchedShip.rulePack.rulesStrings.4>image->[pawn_nameFull] szökési sebességre gyorsul [circumstance_group]</LaunchedShip.rulePack.rulesStrings.4>
-  <LaunchedShip.rulePack.rulesStrings.5>image->[pawn_nameFull] rakétát vezet [circumstance_group]</LaunchedShip.rulePack.rulesStrings.5>
-  <LaunchedShip.rulePack.rulesStrings.6>circumstance_phrase->egy [terrainfeature] előtt</LaunchedShip.rulePack.rulesStrings.6>
-  <LaunchedShip.rulePack.rulesStrings.7>circumstance_phrase->elképesztő erővel gyorsulva</LaunchedShip.rulePack.rulesStrings.7>
-  <LaunchedShip.rulePack.rulesStrings.8>circumstance_phrase->por és kavicsfelhő közepette</LaunchedShip.rulePack.rulesStrings.8>
-  <LaunchedShip.rulePack.rulesStrings.9>circumstance_phrase->drámaian induló rakétákkal</LaunchedShip.rulePack.rulesStrings.9>
-  <LaunchedShip.rulePack.rulesStrings.10>circumstance_phrase->precíziós felszállással</LaunchedShip.rulePack.rulesStrings.10>
-  <LaunchedShip.rulePack.rulesStrings.11>desc_sentence->A műszerekre koncentrál.</LaunchedShip.rulePack.rulesStrings.11>
-  <LaunchedShip.rulePack.rulesStrings.12>desc_sentence->A szemei csukva, magabiztosan ül a helyén.</LaunchedShip.rulePack.rulesStrings.12>
-  <LaunchedShip.rulePack.rulesStrings.13>desc_sentence->Alszik, szemei békésen csukva.</LaunchedShip.rulePack.rulesStrings.13>
-  <LaunchedShip.rulePack.rulesStrings.14>desc_sentence->Szélesen mosolyog.</LaunchedShip.rulePack.rulesStrings.14>
-  <LaunchedShip.rulePack.rulesStrings.15>desc_sentence->Teljesen irányítása alatt tartja a helyzetet.</LaunchedShip.rulePack.rulesStrings.15>
-  <LaunchedShip.rulePack.rulesStrings.16>desc_sentence->A hajó hátuljából lángnyelv csap ki.</LaunchedShip.rulePack.rulesStrings.16>
-  <LaunchedShip.rulePack.rulesStrings.17>desc_sentence->Egy közeli [animal] riadtan néz fel.</LaunchedShip.rulePack.rulesStrings.17>
-  <LaunchedShip.rulePack.rulesStrings.18>desc_sentence->Egy [animal] félve fut el a kilövés közeléből.</LaunchedShip.rulePack.rulesStrings.18>
-  <LaunchedShip.rulePack.rulesStrings.19>desc_sentence->A háttérben egy [terrainfeature] látható.</LaunchedShip.rulePack.rulesStrings.19>
-  <LaunchedShip.rulePack.rulesStrings.20>desc_sentence->Egy [outlander] csendben figyel messziről.</LaunchedShip.rulePack.rulesStrings.20>
+	<LaunchedShip.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] elmenekül a bolygóról</li>
+		<li>tale_noun->[pawn_nameShortDef] felszáll az űrhajóval</li>
+		<li>image->[pawn_nameFull] elindul a csillagok felé [circumstance_group]</li>
+		<li>image->[pawn_nameFull] repül az egekbe [circumstance_group]</li>
+		<li>image->[pawn_nameFull] szökési sebességre gyorsul [circumstance_group]</li>
+		<li>image->[pawn_nameFull] rakétát vezet [circumstance_group]</li>
+		<li>circumstance_phrase->egy [terrainfeature] előtt</li>
+		<li>circumstance_phrase->elképesztő erővel gyorsulva</li>
+		<li>circumstance_phrase->por és kavicsfelhő közepette</li>
+		<li>circumstance_phrase->drámaian induló rakétákkal</li>
+		<li>circumstance_phrase->precíziós felszállással</li>
+		<li>desc_sentence->A műszerekre koncentrál.</li>
+		<li>desc_sentence->A szemei csukva, magabiztosan ül a helyén.</li>
+		<li>desc_sentence->Alszik, szemei békésen csukva.</li>
+		<li>desc_sentence->Szélesen mosolyog.</li>
+		<li>desc_sentence->Teljesen irányítása alatt tartja a helyzetet.</li>
+		<li>desc_sentence->A hajó hátuljából lángnyelv csap ki.</li>
+		<li>desc_sentence->Egy közeli [animal] riadtan néz fel.</li>
+		<li>desc_sentence->Egy [animal] félve fut el a kilövés közeléből.</li>
+		<li>desc_sentence->A háttérben egy [terrainfeature] látható.</li>
+		<li>desc_sentence->Egy [outlander] csendben figyel messziről.</li>
+	</LaunchedShip.rulePack.rulesStrings>
 
   <SocialFight.label>verekedés</SocialFight.label>
-  <SocialFight.rulePack.rulesStrings.0>tale_noun->[pawna_nameShortDef] [fight_name_present] őt: [pawnb_nameShortDef]</SocialFight.rulePack.rulesStrings.0>
-  <SocialFight.rulePack.rulesStrings.1>image->[pawna_nameFull] sértegeti őt: [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.1>
-  <SocialFight.rulePack.rulesStrings.2>image->[pawna_nameFull] gúnyolja őt: [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.2>
-  <SocialFight.rulePack.rulesStrings.3>image->[pawna_nameFull] fenyegeti őt: [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.3>
-  <SocialFight.rulePack.rulesStrings.4>image->[pawna_nameFull] megfélemlíti őt: [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.4>
-  <SocialFight.rulePack.rulesStrings.5>image->[pawna_nameFull] megtámadja őt: [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.5>
-  <SocialFight.rulePack.rulesStrings.6>image->[pawna_nameFull] megrohamozza őt: [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.6>
-  <SocialFight.rulePack.rulesStrings.7>image->[pawna_nameFull] megüti őt: [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.7>
-  <SocialFight.rulePack.rulesStrings.8>image->[pawna_nameFull] megrúgja őt: [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.8>
-  <SocialFight.rulePack.rulesStrings.9>image->[pawna_nameFull] elbújik előle: [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.9>
-  <SocialFight.rulePack.rulesStrings.10>fight_name_present->megrohamozza</SocialFight.rulePack.rulesStrings.10>
-  <SocialFight.rulePack.rulesStrings.11>fight_name_present->megtámadja</SocialFight.rulePack.rulesStrings.11>
-  <SocialFight.rulePack.rulesStrings.12>fight_name_present->megveri</SocialFight.rulePack.rulesStrings.12>
-  <SocialFight.rulePack.rulesStrings.13>circumstance_phrase->miközben [pawnb_nameShortDef] sértegeti őt: [pawna_objective]</SocialFight.rulePack.rulesStrings.13>
-  <SocialFight.rulePack.rulesStrings.14>circumstance_phrase->miközben [pawnb_nameShortDef] gúnyolja őt: [pawna_objective]</SocialFight.rulePack.rulesStrings.14>
-  <SocialFight.rulePack.rulesStrings.15>circumstance_phrase->miközben [pawnb_nameShortDef] fenyegeti őt: [pawna_objective]</SocialFight.rulePack.rulesStrings.15>
-  <SocialFight.rulePack.rulesStrings.16>circumstance_phrase->miközben [pawnb_nameShortDef] megfélemlíti őt: [pawna_objective]</SocialFight.rulePack.rulesStrings.16>
-  <SocialFight.rulePack.rulesStrings.17>circumstance_phrase->miközben [pawnb_nameShortDef] megtámadja őt: [pawna_objective]</SocialFight.rulePack.rulesStrings.17>
-  <SocialFight.rulePack.rulesStrings.18>circumstance_phrase->miközben [pawnb_nameShortDef] megrohamozza őt: [pawna_objective]</SocialFight.rulePack.rulesStrings.18>
-  <SocialFight.rulePack.rulesStrings.19>circumstance_phrase->miközben [pawnb_nameShortDef] megüti őt: [pawna_objective]</SocialFight.rulePack.rulesStrings.19>
-  <SocialFight.rulePack.rulesStrings.20>circumstance_phrase->miközben [pawnb_nameShortDef] megrúgja őt: [pawna_objective]</SocialFight.rulePack.rulesStrings.20>
-  <SocialFight.rulePack.rulesStrings.21>circumstance_phrase->miközben [pawnb_nameShortDef] elbújik előle: őt: [pawna_objective]</SocialFight.rulePack.rulesStrings.21>
-  <SocialFight.rulePack.rulesStrings.22>desc_sentence->[target] nem mutat bűntudatot.</SocialFight.rulePack.rulesStrings.22>
-  <SocialFight.rulePack.rulesStrings.23>desc_sentence->[target] arcán szenvedélyes harag.</SocialFight.rulePack.rulesStrings.23>
-  <SocialFight.rulePack.rulesStrings.24>desc_sentence->[target] arcán nincs érzelem.</SocialFight.rulePack.rulesStrings.24>
-  <SocialFight.rulePack.rulesStrings.25>desc_sentence->[target] testét [gore] borítják.</SocialFight.rulePack.rulesStrings.25>
-  <SocialFight.rulePack.rulesStrings.26>desc_sentence->[target] dühösen üvölt.</SocialFight.rulePack.rulesStrings.26>
-  <SocialFight.rulePack.rulesStrings.27>desc_sentence->[target] láthatóan sérült.</SocialFight.rulePack.rulesStrings.27>
-  <SocialFight.rulePack.rulesStrings.28>desc_sentence->[target] [color] szemei fénylenek.</SocialFight.rulePack.rulesStrings.28>
-  <SocialFight.rulePack.rulesStrings.29>target->[pawna_nameShortDef]</SocialFight.rulePack.rulesStrings.29>
-  <SocialFight.rulePack.rulesStrings.30>target->[pawnb_nameShortDef]</SocialFight.rulePack.rulesStrings.30>
+	<SocialFight.rulePack.rulesStrings>
+		<li>tale_noun->[pawna_nameShortDef] [fight_name_present] őt: [pawnb_nameShortDef]</li>
+		<li>image->[pawna_nameFull] sértegeti őt: [pawnb_nameFull] [circumstance_group]</li>
+		<li>image->[pawna_nameFull] gúnyolja őt: [pawnb_nameFull] [circumstance_group]</li>
+		<li>image->[pawna_nameFull] fenyegeti őt: [pawnb_nameFull] [circumstance_group]</li>
+		<li>image->[pawna_nameFull] megfélemlíti őt: [pawnb_nameFull] [circumstance_group]</li>
+		<li>image->[pawna_nameFull] megtámadja őt: [pawnb_nameFull] [circumstance_group]</li>
+		<li>image->[pawna_nameFull] megrohamozza őt: [pawnb_nameFull] [circumstance_group]</li>
+		<li>image->[pawna_nameFull] megüti őt: [pawnb_nameFull] [circumstance_group]</li>
+		<li>image->[pawna_nameFull] megrúgja őt: [pawnb_nameFull] [circumstance_group]</li>
+		<li>image->[pawna_nameFull] elbújik előle: [pawnb_nameFull] [circumstance_group]</li>
+		<li>fight_name_present->megrohamozza</li>
+		<li>fight_name_present->megtámadja</li>
+		<li>fight_name_present->megveri</li>
+		<li>circumstance_phrase->miközben [pawnb_nameShortDef] sértegeti őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameShortDef] gúnyolja őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameShortDef] fenyegeti őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameShortDef] megfélemlíti őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameShortDef] megtámadja őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameShortDef] megrohamozza őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameShortDef] megüti őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameShortDef] megrúgja őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameShortDef] elbújik előle: őt: [pawna_objective]</li>
+		<li>desc_sentence->[target] nem mutat bűntudatot.</li>
+		<li>desc_sentence->[target] arcán szenvedélyes harag.</li>
+		<li>desc_sentence->[target] arcán nincs érzelem.</li>
+		<li>desc_sentence->[target] testét [gore] borítják.</li>
+		<li>desc_sentence->[target] dühösen üvölt.</li>
+		<li>desc_sentence->[target] láthatóan sérült.</li>
+		<li>desc_sentence->[target] [color] szemei fénylenek.</li>
+		<li>target->[pawna_nameShortDef]</li>
+		<li>target->[pawnb_nameShortDef]</li>
+	</SocialFight.rulePack.rulesStrings>
 
   <CollapseDodged.label>beomlás elkerülése</CollapseDodged.label>
-  <CollapseDodged.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] beomlást úszik meg</CollapseDodged.rulePack.rulesStrings.0>
-  <CollapseDodged.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] majdnem halálát leli a törmelék alatt</CollapseDodged.rulePack.rulesStrings.1>
-  <CollapseDodged.rulePack.rulesStrings.2>image->[pawn_nameFull] elugrik egy adag törmelék elől [circumstance_group]</CollapseDodged.rulePack.rulesStrings.2>
-  <CollapseDodged.rulePack.rulesStrings.3>image->[pawn_nameFull] alig kerüli el a beomlást [circumstance_group]</CollapseDodged.rulePack.rulesStrings.3>
-  <CollapseDodged.rulePack.rulesStrings.4>image->[pawn_nameFull] elkerül egy leomló plafont [circumstance_group]</CollapseDodged.rulePack.rulesStrings.4>
-  <CollapseDodged.rulePack.rulesStrings.5>image->[pawn_nameFull] a biztos halált jelentő leeső sziklát kerüli el [circumstance_group]</CollapseDodged.rulePack.rulesStrings.5>
-  <CollapseDodged.rulePack.rulesStrings.6>circumstance_phrase->ami porfelhőbe burkolózik</CollapseDodged.rulePack.rulesStrings.6>
-  <CollapseDodged.rulePack.rulesStrings.7>circumstance_phrase->ami mindent maga alá temet</CollapseDodged.rulePack.rulesStrings.7>
-  <CollapseDodged.rulePack.rulesStrings.8>circumstance_phrase->ami óriási erővel csapódik be</CollapseDodged.rulePack.rulesStrings.8>
-  <CollapseDodged.rulePack.rulesStrings.9>desc_sentence->Izzad a megerőltetéstől.</CollapseDodged.rulePack.rulesStrings.9>
-  <CollapseDodged.rulePack.rulesStrings.10>desc_sentence->Meg van rémülve.</CollapseDodged.rulePack.rulesStrings.10>
-  <CollapseDodged.rulePack.rulesStrings.11>desc_sentence->Tiszta horzsolás és vérzik.</CollapseDodged.rulePack.rulesStrings.11>
-  <CollapseDodged.rulePack.rulesStrings.12>desc_sentence->Kibillent egyensúlyából.</CollapseDodged.rulePack.rulesStrings.12>
+	<CollapseDodged.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] beomlást úszik meg</li>
+		<li>tale_noun->[pawn_nameShortDef] majdnem halálát leli a törmelék alatt</li>
+		<li>image->[pawn_nameFull] elugrik egy adag törmelék elől [circumstance_group]</li>
+		<li>image->[pawn_nameFull] alig kerüli el a beomlást [circumstance_group]</li>
+		<li>image->[pawn_nameFull] elkerül egy leomló plafont [circumstance_group]</li>
+		<li>image->[pawn_nameFull] a biztos halált jelentő leeső sziklát kerüli el [circumstance_group]</li>
+		<li>circumstance_phrase->ami porfelhőbe burkolózik</li>
+		<li>circumstance_phrase->ami mindent maga alá temet</li>
+		<li>circumstance_phrase->ami óriási erővel csapódik be</li>
+		<li>desc_sentence->Izzad a megerőltetéstől.</li>
+		<li>desc_sentence->Meg van rémülve.</li>
+		<li>desc_sentence->Tiszta horzsolás és vérzik.</li>
+		<li>desc_sentence->Kibillent egyensúlyából.</li>
+	</CollapseDodged.rulePack.rulesStrings>
 
 
 </LanguageData>

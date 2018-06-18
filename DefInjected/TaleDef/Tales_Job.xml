@@ -2,301 +2,333 @@
 <LanguageData>
 
   <MinedValuable.label>bányászat</MinedValuable.label>
-  <MinedValuable.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] egy gazdag [material_label] telért bányászik</MinedValuable.rulePack.rulesStrings.0>
-  <MinedValuable.rulePack.rulesStrings.1>image->[pawn_nameFull] egy [material_label] falon dolgozik szerszámaival, [circumstance_group]</MinedValuable.rulePack.rulesStrings.1>
-  <MinedValuable.rulePack.rulesStrings.2>image->[pawn_nameFull] egy [material_label] darabot tart a kezében, [circumstance_group]</MinedValuable.rulePack.rulesStrings.2>
-  <MinedValuable.rulePack.rulesStrings.3>image->[pawn_nameFull] [material_label] falnak dőlve pihen, [circumstance_group]</MinedValuable.rulePack.rulesStrings.3>
-  <MinedValuable.rulePack.rulesStrings.4>image->[pawn_nameFull] egy [material_label] kitermelő csapatot koordinál, [circumstance_group]</MinedValuable.rulePack.rulesStrings.4>
-  <MinedValuable.rulePack.rulesStrings.5>image->[pawn_nameFull] egy gazdag [material_label] telért vizsgál meg, [circumstance_group]</MinedValuable.rulePack.rulesStrings.5>
-  <MinedValuable.rulePack.rulesStrings.6>circumstance_phrase->erősen izzadva</MinedValuable.rulePack.rulesStrings.6>
-  <MinedValuable.rulePack.rulesStrings.7>circumstance_phrase->[friendlyadjective] arcot vágva</MinedValuable.rulePack.rulesStrings.7>
-  <MinedValuable.rulePack.rulesStrings.8>circumstance_phrase->[friendlyadjective] arcot vágva</MinedValuable.rulePack.rulesStrings.8>
-  <MinedValuable.rulePack.rulesStrings.9>circumstance_phrase->büszkén mosolyogva</MinedValuable.rulePack.rulesStrings.9>
-  <MinedValuable.rulePack.rulesStrings.10>circumstance_phrase->elégedett kifejezéssel az arcán</MinedValuable.rulePack.rulesStrings.10>
-  <MinedValuable.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [ally] segít.</MinedValuable.rulePack.rulesStrings.11>
-  <MinedValuable.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [animal] állat kóborol a közelben.</MinedValuable.rulePack.rulesStrings.12>
-  <MinedValuable.rulePack.rulesStrings.13>desc_sentence->A háttérben egy [community].</MinedValuable.rulePack.rulesStrings.13>
-  <MinedValuable.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] további telér látható arrébb.</MinedValuable.rulePack.rulesStrings.14>
-  <MinedValuable.rulePack.rulesStrings.15>desc_sentence->Egy [terrainfeature] látható a távolban.</MinedValuable.rulePack.rulesStrings.15>
-  <MinedValuable.rulePack.rulesStrings.16>desc_sentence->[pawn_nameShortDef] izzadt és mocskos a munkától.</MinedValuable.rulePack.rulesStrings.16>
+	<MinedValuable.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] egy gazdag [material_label] telért bányászik</li>
+		<li>image->[pawn_nameFull] egy [material_label] falon dolgozik szerszámaival, [circumstance_group]</li>
+		<li>image->[pawn_nameFull] egy [material_label] darabot tart a kezében, [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [material_label] falnak dőlve pihen, [circumstance_group]</li>
+		<li>image->[pawn_nameFull] egy [material_label] kitermelő csapatot koordinál, [circumstance_group]</li>
+		<li>image->[pawn_nameFull] egy gazdag [material_label] telért vizsgál meg, [circumstance_group]</li>
+		<li>circumstance_phrase->erősen izzadva</li>
+		<li>circumstance_phrase->[friendlyadjective] arcot vágva</li>
+		<li>circumstance_phrase->[friendlyadjective] arcot vágva</li>
+		<li>circumstance_phrase->büszkén mosolyogva</li>
+		<li>circumstance_phrase->elégedett kifejezéssel az arcán</li>
+		<li>desc_sentence->[quantity_adjphrase] [ally] segít.</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] állat kóborol a közelben.</li>
+		<li>desc_sentence->A háttérben egy [community].</li>
+		<li>desc_sentence->[quantity_adjphrase] további telér látható arrébb.</li>
+		<li>desc_sentence->Egy [terrainfeature] látható a távolban.</li>
+		<li>desc_sentence->[pawn_nameShortDef] izzadt és mocskos a munkától.</li>
+	</MinedValuable.rulePack.rulesStrings>
 
   <CompletedLongConstructionProject.label>hosszú építkezés befejezése</CompletedLongConstructionProject.label>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] befejezi ezt: [object_label]</CompletedLongConstructionProject.rulePack.rulesStrings.0>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.1>image->[pawn_nameFull] bonyolult szerkezetet szerel össze [object_label] belsejében [circumstance_group]</CompletedLongConstructionProject.rulePack.rulesStrings.1>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.2>image->[pawn_nameFull] [object_label] felületét fényesíti [circumstance_group]</CompletedLongConstructionProject.rulePack.rulesStrings.2>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.3>image->[pawn_nameFull] [object_label] felületét díszíti [circumstance_group]</CompletedLongConstructionProject.rulePack.rulesStrings.3>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.4>image->[pawn_nameFull] [object_label] felületére vési a nevét [circumstance_group]</CompletedLongConstructionProject.rulePack.rulesStrings.4>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.5>circumstance_phrase->csillogó szemmel</CompletedLongConstructionProject.rulePack.rulesStrings.5>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.6>circumstance_phrase->homlokáról verejtéket törölve</CompletedLongConstructionProject.rulePack.rulesStrings.6>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.7>circumstance_phrase->nyakig mocskosan</CompletedLongConstructionProject.rulePack.rulesStrings.7>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.8>circumstance_phrase->büszkén mosolyogva</CompletedLongConstructionProject.rulePack.rulesStrings.8>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.9>circumstance_phrase->elégedett kifejezéssel az arcán</CompletedLongConstructionProject.rulePack.rulesStrings.9>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.10>desc_sentence->[pawn_nameShortDef] fölé tornyosodik a(z) [object_label].</CompletedLongConstructionProject.rulePack.rulesStrings.10>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.11>desc_sentence->A(z) [object_label] [color] színben fénylik.</CompletedLongConstructionProject.rulePack.rulesStrings.11>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.12>desc_sentence->A(z) [object_label] nagyon részletesen kidolgozott.</CompletedLongConstructionProject.rulePack.rulesStrings.12>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [outlander] csodálja ezt: [object_label].</CompletedLongConstructionProject.rulePack.rulesStrings.13>
-  <CompletedLongConstructionProject.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] [outlander] figyel döbbenettel.</CompletedLongConstructionProject.rulePack.rulesStrings.14>
+	<CompletedLongConstructionProject.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] befejezi ezt: [object_label]</li>
+		<li>image->[pawn_nameFull] bonyolult szerkezetet szerel össze [object_label] belsejében [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [object_label] felületét fényesíti [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [object_label] felületét díszíti [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [object_label] felületére vési a nevét [circumstance_group]</li>
+		<li>circumstance_phrase->csillogó szemmel</li>
+		<li>circumstance_phrase->homlokáról verejtéket törölve</li>
+		<li>circumstance_phrase->nyakig mocskosan</li>
+		<li>circumstance_phrase->büszkén mosolyogva</li>
+		<li>circumstance_phrase->elégedett kifejezéssel az arcán</li>
+		<li>desc_sentence->[pawn_nameShortDef] fölé tornyosodik a(z) [object_label].</li>
+		<li>desc_sentence->A(z) [object_label] [color] színben fénylik.</li>
+		<li>desc_sentence->A(z) [object_label] nagyon részletesen kidolgozott.</li>
+		<li>desc_sentence->[quantity_adjphrase] [outlander] csodálja ezt: [object_label].</li>
+		<li>desc_sentence->[quantity_adjphrase] [outlander] figyel döbbenettel.</li>
+	</CompletedLongConstructionProject.rulePack.rulesStrings>
 
   <CompletedLongCraftingProject.label>hosszú gyártás befejezése</CompletedLongCraftingProject.label>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] befejezi ezt: [object_label]</CompletedLongCraftingProject.rulePack.rulesStrings.0>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.1>image->[pawn_nameFull] bonyolult szerkezetet szerel össze [object_label] belsejében [circumstance_group]</CompletedLongCraftingProject.rulePack.rulesStrings.1>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.2>image->[pawn_nameFull] [object_label] felületét fényesíti [circumstance_group]</CompletedLongCraftingProject.rulePack.rulesStrings.2>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.3>image->[pawn_nameFull] [object_label] felületét díszíti [circumstance_group]</CompletedLongCraftingProject.rulePack.rulesStrings.3>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.4>image->[pawn_nameFull] [object_label] felületére vési a nevét [circumstance_group]</CompletedLongCraftingProject.rulePack.rulesStrings.4>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.5>circumstance_phrase->csillogó szemmel</CompletedLongCraftingProject.rulePack.rulesStrings.5>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.6>circumstance_phrase->homlokáról verejtéket törölve</CompletedLongCraftingProject.rulePack.rulesStrings.6>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.7>circumstance_phrase->nyakig mocskosan</CompletedLongCraftingProject.rulePack.rulesStrings.7>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.8>circumstance_phrase->büszkén mosolyogva</CompletedLongCraftingProject.rulePack.rulesStrings.8>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.9>circumstance_phrase->elégedett kifejezéssel az arcán</CompletedLongCraftingProject.rulePack.rulesStrings.9>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.10>desc_sentence->A(z) [object_label] [color] színben fénylik.</CompletedLongCraftingProject.rulePack.rulesStrings.10>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.11>desc_sentence->A(z) [object_label] nagyon részletesen kidolgozott.</CompletedLongCraftingProject.rulePack.rulesStrings.11>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] könnyedén felemeli ezt: [object_label].</CompletedLongCraftingProject.rulePack.rulesStrings.12>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [outlander] csodálja ezt: [object_label].</CompletedLongCraftingProject.rulePack.rulesStrings.13>
-  <CompletedLongCraftingProject.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] [outlander] figyel döbbenettel.</CompletedLongCraftingProject.rulePack.rulesStrings.14>
+	<CompletedLongCraftingProject.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] befejezi ezt: [object_label]</li>
+		<li>image->[pawn_nameFull] bonyolult szerkezetet szerel össze [object_label] belsejében [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [object_label] felületét fényesíti [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [object_label] felületét díszíti [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [object_label] felületére vési a nevét [circumstance_group]</li>
+		<li>circumstance_phrase->csillogó szemmel</li>
+		<li>circumstance_phrase->homlokáról verejtéket törölve</li>
+		<li>circumstance_phrase->nyakig mocskosan</li>
+		<li>circumstance_phrase->büszkén mosolyogva</li>
+		<li>circumstance_phrase->elégedett kifejezéssel az arcán</li>
+		<li>desc_sentence->A(z) [object_label] [color] színben fénylik.</li>
+		<li>desc_sentence->A(z) [object_label] nagyon részletesen kidolgozott.</li>
+		<li>desc_sentence->[pawn_nameShortDef] könnyedén felemeli ezt: [object_label].</li>
+		<li>desc_sentence->[quantity_adjphrase] [outlander] csodálja ezt: [object_label].</li>
+		<li>desc_sentence->[quantity_adjphrase] [outlander] figyel döbbenettel.</li>
+	</CompletedLongCraftingProject.rulePack.rulesStrings>
 
   <AttendedParty.label>buli</AttendedParty.label>
-  <AttendedParty.rulePack.rulesStrings.0>tale_noun->[attender_nameShortDef] részt vesz [organizer_nameShortDef] buliján</AttendedParty.rulePack.rulesStrings.0>
-  <AttendedParty.rulePack.rulesStrings.1>tale_noun->[attender_nameShortDef] [organizer_nameShortDef] társaságában pihen egy bulin</AttendedParty.rulePack.rulesStrings.1>
-  <AttendedParty.rulePack.rulesStrings.2>image->[attender_nameFull] és [organizer_nameFull] beszélgetnek egymással [circumstance_group]</AttendedParty.rulePack.rulesStrings.2>
-  <AttendedParty.rulePack.rulesStrings.3>image->[attender_nameFull] italt kap [organizer_nameFull] buliján [circumstance_group]</AttendedParty.rulePack.rulesStrings.3>
-  <AttendedParty.rulePack.rulesStrings.4>image->[attender_nameFull] és [organizer_nameFull] beszélgetnek [circumstance_group]</AttendedParty.rulePack.rulesStrings.4>
-  <AttendedParty.rulePack.rulesStrings.5>image->[organizer_nameFull] és [attender_nameFull] üdvözlik egymást [circumstance_group]</AttendedParty.rulePack.rulesStrings.5>
-  <AttendedParty.rulePack.rulesStrings.6>image->[organizer_nameFull] bemutatja egy barátnak őt: [attender_nameFull] [circumstance_group]</AttendedParty.rulePack.rulesStrings.6>
-  <AttendedParty.rulePack.rulesStrings.7>circumstance_phrase->széles mosollyal</AttendedParty.rulePack.rulesStrings.7>
-  <AttendedParty.rulePack.rulesStrings.8>circumstance_phrase->nevetve</AttendedParty.rulePack.rulesStrings.8>
-  <AttendedParty.rulePack.rulesStrings.9>circumstance_phrase->[friendlyverb] mosollyal</AttendedParty.rulePack.rulesStrings.9>
-  <AttendedParty.rulePack.rulesStrings.10>circumstance_phrase->felröhögve</AttendedParty.rulePack.rulesStrings.10>
-  <AttendedParty.rulePack.rulesStrings.11>circumstance_phrase->[friendlyadjective] modorban</AttendedParty.rulePack.rulesStrings.11>
-  <AttendedParty.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [outlander] beszélget.</AttendedParty.rulePack.rulesStrings.12>
-  <AttendedParty.rulePack.rulesStrings.13>desc_sentence->A hely [color] és [color] színben pompázik.</AttendedParty.rulePack.rulesStrings.13>
-  <AttendedParty.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] [animal] játszik a közelben.</AttendedParty.rulePack.rulesStrings.14>
+	<AttendedParty.rulePack.rulesStrings>
+		<li>tale_noun->[attender_nameShortDef] részt vesz [organizer_nameShortDef] buliján</li>
+		<li>tale_noun->[attender_nameShortDef] [organizer_nameShortDef] társaságában pihen egy bulin</li>
+		<li>image->[attender_nameFull] és [organizer_nameFull] beszélgetnek egymással [circumstance_group]</li>
+		<li>image->[attender_nameFull] italt kap [organizer_nameFull] buliján [circumstance_group]</li>
+		<li>image->[attender_nameFull] és [organizer_nameFull] beszélgetnek [circumstance_group]</li>
+		<li>image->[organizer_nameFull] és [attender_nameFull] üdvözlik egymást [circumstance_group]</li>
+		<li>image->[organizer_nameFull] bemutatja egy barátnak őt: [attender_nameFull] [circumstance_group]</li>
+		<li>circumstance_phrase->széles mosollyal</li>
+		<li>circumstance_phrase->nevetve</li>
+		<li>circumstance_phrase->[friendlyverb] mosollyal</li>
+		<li>circumstance_phrase->felröhögve</li>
+		<li>circumstance_phrase->[friendlyadjective] modorban</li>
+		<li>desc_sentence->[quantity_adjphrase] [outlander] beszélget.</li>
+		<li>desc_sentence->A hely [color] és [color] színben pompázik.</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] játszik a közelben.</li>
+	</AttendedParty.rulePack.rulesStrings>
 
   <Meditated.label>meditálás</Meditated.label>
-  <Meditated.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] meditál</Meditated.rulePack.rulesStrings.0>
-  <Meditated.rulePack.rulesStrings.1>image->[pawn_nameFull] egy [tree] alatt ül, [circumstance_group]</Meditated.rulePack.rulesStrings.1>
-  <Meditated.rulePack.rulesStrings.2>image->[pawn_nameFull] csendben ül, [circumstance_group]</Meditated.rulePack.rulesStrings.2>
-  <Meditated.rulePack.rulesStrings.3>image->[pawn_nameFull] a távolba néz, [circumstance_group]</Meditated.rulePack.rulesStrings.3>
-  <Meditated.rulePack.rulesStrings.4>image->[pawn_nameFull] becsukja szemét, [circumstance_group]</Meditated.rulePack.rulesStrings.4>
-  <Meditated.rulePack.rulesStrings.5>circumstance_phrase->nyugalmat sugározva</Meditated.rulePack.rulesStrings.5>
-  <Meditated.rulePack.rulesStrings.6>circumstance_phrase->nyugodt mosollyal</Meditated.rulePack.rulesStrings.6>
-  <Meditated.rulePack.rulesStrings.7>circumstance_phrase->[friendlyverb] mosollyal</Meditated.rulePack.rulesStrings.7>
-  <Meditated.rulePack.rulesStrings.8>circumstance_phrase->fény által körülvéve</Meditated.rulePack.rulesStrings.8>
-  <Meditated.rulePack.rulesStrings.9>circumstance_phrase->[color] színű aurával</Meditated.rulePack.rulesStrings.9>
-  <Meditated.rulePack.rulesStrings.10>desc_sentence->[quantity_adjphrase] [outlander] nézi őt.</Meditated.rulePack.rulesStrings.10>
-  <Meditated.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [animal] veszi őt körbe.</Meditated.rulePack.rulesStrings.11>
-  <Meditated.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [animal] pihen békésen.</Meditated.rulePack.rulesStrings.12>
-  <Meditated.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [enemy] nézi őt döbbenten.</Meditated.rulePack.rulesStrings.13>
+	<Meditated.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] meditál</li>
+		<li>image->[pawn_nameFull] egy [tree] alatt ül, [circumstance_group]</li>
+		<li>image->[pawn_nameFull] csendben ül, [circumstance_group]</li>
+		<li>image->[pawn_nameFull] a távolba néz, [circumstance_group]</li>
+		<li>image->[pawn_nameFull] becsukja szemét, [circumstance_group]</li>
+		<li>circumstance_phrase->nyugalmat sugározva</li>
+		<li>circumstance_phrase->nyugodt mosollyal</li>
+		<li>circumstance_phrase->[friendlyverb] mosollyal</li>
+		<li>circumstance_phrase->fény által körülvéve</li>
+		<li>circumstance_phrase->[color] színű aurával</li>
+		<li>desc_sentence->[quantity_adjphrase] [outlander] nézi őt.</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] veszi őt körbe.</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] pihen békésen.</li>
+		<li>desc_sentence->[quantity_adjphrase] [enemy] nézi őt döbbenten.</li>
+	</Meditated.rulePack.rulesStrings>
 
   <Prayed.label>imádkozás</Prayed.label>
-  <Prayed.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] imádkozik</Prayed.rulePack.rulesStrings.0>
-  <Prayed.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] magasabb erőkhöz imádkozik</Prayed.rulePack.rulesStrings.1>
-  <Prayed.rulePack.rulesStrings.2>image->[pawn_nameFull] a távolba néz [circumstance_group]</Prayed.rulePack.rulesStrings.2>
-  <Prayed.rulePack.rulesStrings.3>image->[pawn_nameFull] becsukja szemeit [circumstance_group]</Prayed.rulePack.rulesStrings.3>
-  <Prayed.rulePack.rulesStrings.4>image->[pawn_nameFull] összekulcsolja kezeit [circumstance_group]</Prayed.rulePack.rulesStrings.4>
-  <Prayed.rulePack.rulesStrings.5>image->[pawn_nameFull] az égre néz [circumstance_group]</Prayed.rulePack.rulesStrings.5>
-  <Prayed.rulePack.rulesStrings.6>circumstance_phrase->nyugalmat sugározva</Prayed.rulePack.rulesStrings.6>
-  <Prayed.rulePack.rulesStrings.7>circumstance_phrase->halkan suttogva</Prayed.rulePack.rulesStrings.7>
-  <Prayed.rulePack.rulesStrings.8>circumstance_phrase->reményteli arcot vágva</Prayed.rulePack.rulesStrings.8>
-  <Prayed.rulePack.rulesStrings.9>circumstance_phrase->fény által körülvéve</Prayed.rulePack.rulesStrings.9>
-  <Prayed.rulePack.rulesStrings.10>circumstance_phrase->[color] színű aurával</Prayed.rulePack.rulesStrings.10>
-  <Prayed.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [outlander] nézi őt.</Prayed.rulePack.rulesStrings.11>
-  <Prayed.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [animal] veszi őt körbe.</Prayed.rulePack.rulesStrings.12>
-  <Prayed.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [animal] pihen békésen.</Prayed.rulePack.rulesStrings.13>
-  <Prayed.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] [enemy] nézi őt döbbenten.</Prayed.rulePack.rulesStrings.14>
+	<Prayed.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] imádkozik</li>
+		<li>tale_noun->[pawn_nameShortDef] magasabb erőkhöz imádkozik</li>
+		<li>image->[pawn_nameFull] a távolba néz [circumstance_group]</li>
+		<li>image->[pawn_nameFull] becsukja szemeit [circumstance_group]</li>
+		<li>image->[pawn_nameFull] összekulcsolja kezeit [circumstance_group]</li>
+		<li>image->[pawn_nameFull] az égre néz [circumstance_group]</li>
+		<li>circumstance_phrase->nyugalmat sugározva</li>
+		<li>circumstance_phrase->halkan suttogva</li>
+		<li>circumstance_phrase->reményteli arcot vágva</li>
+		<li>circumstance_phrase->fény által körülvéve</li>
+		<li>circumstance_phrase->[color] színű aurával</li>
+		<li>desc_sentence->[quantity_adjphrase] [outlander] nézi őt.</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] veszi őt körbe.</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] pihen békésen.</li>
+		<li>desc_sentence->[quantity_adjphrase] [enemy] nézi őt döbbenten.</li>
+	</Prayed.rulePack.rulesStrings>
 
   <BuiltSnowman.label>hóember</BuiltSnowman.label>
-  <BuiltSnowman.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] hóembert épít</BuiltSnowman.rulePack.rulesStrings.0>
-  <BuiltSnowman.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] a hóban játszik</BuiltSnowman.rulePack.rulesStrings.1>
-  <BuiltSnowman.rulePack.rulesStrings.2>image->[pawn_nameFull] hógolyót gyúr [circumstance_group]</BuiltSnowman.rulePack.rulesStrings.2>
-  <BuiltSnowman.rulePack.rulesStrings.3>image->[pawn_nameFull] egy óriási hógolyót görget [circumstance_group]</BuiltSnowman.rulePack.rulesStrings.3>
-  <BuiltSnowman.rulePack.rulesStrings.4>image->[pawn_nameFull] a hóember arcához ezt használja: [vegetable] [circumstance_group]</BuiltSnowman.rulePack.rulesStrings.4>
-  <BuiltSnowman.rulePack.rulesStrings.5>image->[pawn_nameFull] a hóban fekszik [circumstance_group]</BuiltSnowman.rulePack.rulesStrings.5>
-  <BuiltSnowman.rulePack.rulesStrings.6>circumstance_phrase->[quantity_adjphrase] parkába burkolózva</BuiltSnowman.rulePack.rulesStrings.6>
-  <BuiltSnowman.rulePack.rulesStrings.7>circumstance_phrase->enyhe hóviharban</BuiltSnowman.rulePack.rulesStrings.7>
-  <BuiltSnowman.rulePack.rulesStrings.8>circumstance_phrase->míg barátai várat építenek</BuiltSnowman.rulePack.rulesStrings.8>
-  <BuiltSnowman.rulePack.rulesStrings.9>circumstance_phrase->míg barátai hóember családot építenek</BuiltSnowman.rulePack.rulesStrings.9>
-  <BuiltSnowman.rulePack.rulesStrings.10>desc_sentence->[color] színű sarki fény látszik a háttérben.</BuiltSnowman.rulePack.rulesStrings.10>
-  <BuiltSnowman.rulePack.rulesStrings.11>desc_sentence->A távolban egy hóval takart [community] látszik.</BuiltSnowman.rulePack.rulesStrings.11>
-  <BuiltSnowman.rulePack.rulesStrings.12>desc_sentence->A [vegetable] földek alig látszanak ki a hó alól.</BuiltSnowman.rulePack.rulesStrings.12>
-  <BuiltSnowman.rulePack.rulesStrings.13>desc_sentence->A távolban egy hóval takart [terrainfeature] látszik.</BuiltSnowman.rulePack.rulesStrings.13>
+	<BuiltSnowman.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] hóembert épít</li>
+		<li>tale_noun->[pawn_nameShortDef] a hóban játszik</li>
+		<li>image->[pawn_nameFull] hógolyót gyúr [circumstance_group]</li>
+		<li>image->[pawn_nameFull] egy óriási hógolyót görget [circumstance_group]</li>
+		<li>image->[pawn_nameFull] a hóember arcához ezt használja: [vegetable] [circumstance_group]</li>
+		<li>image->[pawn_nameFull] a hóban fekszik [circumstance_group]</li>
+		<li>circumstance_phrase->[quantity_adjphrase] parkába burkolózva</li>
+		<li>circumstance_phrase->enyhe hóviharban</li>
+		<li>circumstance_phrase->míg barátai várat építenek</li>
+		<li>circumstance_phrase->míg barátai hóember családot építenek</li>
+		<li>desc_sentence->[color] színű sarki fény látszik a háttérben.</li>
+		<li>desc_sentence->A távolban egy hóval takart [community] látszik.</li>
+		<li>desc_sentence->A [vegetable] földek alig látszanak ki a hó alól.</li>
+		<li>desc_sentence->A távolban egy hóval takart [terrainfeature] látszik.</li>
+	</BuiltSnowman.rulePack.rulesStrings>
 
   <VisitedGrave.label>sírlátogatás</VisitedGrave.label>
-  <VisitedGrave.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] [corpse_nameShortDef] sírját keresi fel</VisitedGrave.rulePack.rulesStrings.0>
-  <VisitedGrave.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] [corpse_nameShortDef] sírját keresi fel</VisitedGrave.rulePack.rulesStrings.1>
-  <VisitedGrave.rulePack.rulesStrings.2>image->[pawn_nameFull] [corpse_nameFull] sírja mellett áll [circumstance_group]</VisitedGrave.rulePack.rulesStrings.2>
-  <VisitedGrave.rulePack.rulesStrings.3>image->[pawn_nameFull] [corpse_nameFull] sírja mellett ül [circumstance_group]</VisitedGrave.rulePack.rulesStrings.3>
-  <VisitedGrave.rulePack.rulesStrings.4>image->[pawn_nameFull] [corpse_nameFull] sírja mellett támaszkodik [circumstance_group]</VisitedGrave.rulePack.rulesStrings.4>
-  <VisitedGrave.rulePack.rulesStrings.5>image->[pawn_nameFull] [corpse_nameFull] sírjának feliratát olvassa [circumstance_group]</VisitedGrave.rulePack.rulesStrings.5>
-  <VisitedGrave.rulePack.rulesStrings.6>image->[pawn_nameFull] [corpse_nameFull] sírjának faragásait nézi [circumstance_group]</VisitedGrave.rulePack.rulesStrings.6>
-  <VisitedGrave.rulePack.rulesStrings.7>circumstance_phrase->[angstyadjective] arcot vágva</VisitedGrave.rulePack.rulesStrings.7>
-  <VisitedGrave.rulePack.rulesStrings.8>circumstance_phrase->a gondolataiba merülve</VisitedGrave.rulePack.rulesStrings.8>
-  <VisitedGrave.rulePack.rulesStrings.9>circumstance_phrase->miközben egy messzi [terrainfeature] felé néz</VisitedGrave.rulePack.rulesStrings.9>
-  <VisitedGrave.rulePack.rulesStrings.10>circumstance_phrase->csendesen beszélve hozzá</VisitedGrave.rulePack.rulesStrings.10>
-  <VisitedGrave.rulePack.rulesStrings.11>desc_sentence->[color] színű sarki fény látszik a háttérben.</VisitedGrave.rulePack.rulesStrings.11>
-  <VisitedGrave.rulePack.rulesStrings.12>desc_sentence->A távolban egy hóval takart [community] látszik.</VisitedGrave.rulePack.rulesStrings.12>
-  <VisitedGrave.rulePack.rulesStrings.13>desc_sentence->[corpse_nameShortDef] kísérteties alakja látható a hely felett [friendlyadjective] arcot vágva.</VisitedGrave.rulePack.rulesStrings.13>
-  <VisitedGrave.rulePack.rulesStrings.14>desc_sentence->[corpse_nameShortDef] kísérteties alakja áll a sír mellett [friendlyadjective] arcot vágva.</VisitedGrave.rulePack.rulesStrings.14>
-  <VisitedGrave.rulePack.rulesStrings.15>desc_sentence->[corpse_nameShortDef] kísérteties alakja figyeli a helyet [friendlyadjective] arcot vágva.</VisitedGrave.rulePack.rulesStrings.15>
-  <VisitedGrave.rulePack.rulesStrings.16>desc_sentence->[corpse_nameShortDef] kísérteties alakja áll [pawn_nameShortDef] mellett, [angstyadjective] arcot vágva.</VisitedGrave.rulePack.rulesStrings.16>
-  <VisitedGrave.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] [animal] pihen a közelben.</VisitedGrave.rulePack.rulesStrings.17>
+	<VisitedGrave.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] [corpse_nameShortDef] sírját keresi fel</li>
+		<li>tale_noun->[pawn_nameShortDef] [corpse_nameShortDef] sírját keresi fel</li>
+		<li>image->[pawn_nameFull] [corpse_nameFull] sírja mellett áll [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [corpse_nameFull] sírja mellett ül [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [corpse_nameFull] sírja mellett támaszkodik [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [corpse_nameFull] sírjának feliratát olvassa [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [corpse_nameFull] sírjának faragásait nézi [circumstance_group]</li>
+		<li>circumstance_phrase->[angstyadjective] arcot vágva</li>
+		<li>circumstance_phrase->a gondolataiba merülve</li>
+		<li>circumstance_phrase->miközben egy messzi [terrainfeature] felé néz</li>
+		<li>circumstance_phrase->csendesen beszélve hozzá</li>
+		<li>desc_sentence->[color] színű sarki fény látszik a háttérben.</li>
+		<li>desc_sentence->A távolban egy hóval takart [community] látszik.</li>
+		<li>desc_sentence->[corpse_nameShortDef] kísérteties alakja látható a hely felett [friendlyadjective] arcot vágva.</li>
+		<li>desc_sentence->[corpse_nameShortDef] kísérteties alakja áll a sír mellett [friendlyadjective] arcot vágva.</li>
+		<li>desc_sentence->[corpse_nameShortDef] kísérteties alakja figyeli a helyet [friendlyadjective] arcot vágva.</li>
+		<li>desc_sentence->[corpse_nameShortDef] kísérteties alakja áll [pawn_nameShortDef] mellett, [angstyadjective] arcot vágva.</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] pihen a közelben.</li>
+	</VisitedGrave.rulePack.rulesStrings>
 
   <PlayedGame.label>játék</PlayedGame.label>
-  <PlayedGame.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] [object_label] mellett pihen</PlayedGame.rulePack.rulesStrings.0>
-  <PlayedGame.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] [object_label] mellett játszik</PlayedGame.rulePack.rulesStrings.1>
-  <PlayedGame.rulePack.rulesStrings.2>image->[pawn_nameFull] székben ülve vár, [circumstance_group]</PlayedGame.rulePack.rulesStrings.2>
-  <PlayedGame.rulePack.rulesStrings.3>image->[pawn_nameFull] [object_label] felett lebeg, [circumstance_group]</PlayedGame.rulePack.rulesStrings.3>
-  <PlayedGame.rulePack.rulesStrings.4>image->[pawn_nameFull] [object_label] mellett ül, [circumstance_group]</PlayedGame.rulePack.rulesStrings.4>
-  <PlayedGame.rulePack.rulesStrings.5>image->[pawn_nameFull] [object_label] mellett nyer, [circumstance_group]</PlayedGame.rulePack.rulesStrings.5>
-  <PlayedGame.rulePack.rulesStrings.6>image->[pawn_nameFull] [object_label] mellett veszít, [circumstance_group]</PlayedGame.rulePack.rulesStrings.6>
-  <PlayedGame.rulePack.rulesStrings.7>circumstance_phrase->erőtől feszülve</PlayedGame.rulePack.rulesStrings.7>
-  <PlayedGame.rulePack.rulesStrings.8>circumstance_phrase->laza és pihent testtel</PlayedGame.rulePack.rulesStrings.8>
-  <PlayedGame.rulePack.rulesStrings.9>circumstance_phrase->a következő lépést tervezve</PlayedGame.rulePack.rulesStrings.9>
-  <PlayedGame.rulePack.rulesStrings.10>circumstance_phrase->a csuklóit dörzsölve</PlayedGame.rulePack.rulesStrings.10>
-  <PlayedGame.rulePack.rulesStrings.11>circumstance_phrase->[angstyverb] [angstyadjective] arcot vágva</PlayedGame.rulePack.rulesStrings.11>
-  <PlayedGame.rulePack.rulesStrings.12>circumstance_phrase->[angstyadjective] arcot vágva</PlayedGame.rulePack.rulesStrings.12>
-  <PlayedGame.rulePack.rulesStrings.13>circumstance_phrase->[angstyverb]</PlayedGame.rulePack.rulesStrings.13>
-  <PlayedGame.rulePack.rulesStrings.14>desc_sentence->[color] színű sarki fény látszik a háttérben.</PlayedGame.rulePack.rulesStrings.14>
-  <PlayedGame.rulePack.rulesStrings.15>desc_sentence->A távolban egy [community] látszik.</PlayedGame.rulePack.rulesStrings.15>
-  <PlayedGame.rulePack.rulesStrings.16>desc_sentence->A távolban egy [terrainfeature] látszik.</PlayedGame.rulePack.rulesStrings.16>
-  <PlayedGame.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] [outlander] is beszáll.</PlayedGame.rulePack.rulesStrings.17>
-  <PlayedGame.rulePack.rulesStrings.18>desc_sentence->[quantity_adjphrase] [animal] játszik a közelben.</PlayedGame.rulePack.rulesStrings.18>
-  <PlayedGame.rulePack.rulesStrings.19>desc_sentence->[pawn_nameShortDef] [color] színű aurája fénylik.</PlayedGame.rulePack.rulesStrings.19>
-  <PlayedGame.rulePack.rulesStrings.20>desc_sentence->[pawn_nameShortDef] ki van hangsúlyozva.</PlayedGame.rulePack.rulesStrings.20>
-  <PlayedGame.rulePack.rulesStrings.21>desc_sentence->[pawn_nameShortDef] uralja a jelenetet.</PlayedGame.rulePack.rulesStrings.21>
-  <PlayedGame.rulePack.rulesStrings.22>desc_sentence->[quantity_adjphrase] [outlander] magába roskad a vereségtől.</PlayedGame.rulePack.rulesStrings.22>
+	<PlayedGame.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] [object_label] mellett pihen</li>
+		<li>tale_noun->[pawn_nameShortDef] [object_label] mellett játszik</li>
+		<li>image->[pawn_nameFull] székben ülve vár, [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [object_label] felett lebeg, [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [object_label] mellett ül, [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [object_label] mellett nyer, [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [object_label] mellett veszít, [circumstance_group]</li>
+		<li>circumstance_phrase->erőtől feszülve</li>
+		<li>circumstance_phrase->laza és pihent testtel</li>
+		<li>circumstance_phrase->a következő lépést tervezve</li>
+		<li>circumstance_phrase->a csuklóit dörzsölve</li>
+		<li>circumstance_phrase->[angstyverb] [angstyadjective] arcot vágva</li>
+		<li>circumstance_phrase->[angstyadjective] arcot vágva</li>
+		<li>circumstance_phrase->[angstyverb]</li>
+		<li>desc_sentence->[color] színű sarki fény látszik a háttérben.</li>
+		<li>desc_sentence->A távolban egy [community] látszik.</li>
+		<li>desc_sentence->A távolban egy [terrainfeature] látszik.</li>
+		<li>desc_sentence->[quantity_adjphrase] [outlander] is beszáll.</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] játszik a közelben.</li>
+		<li>desc_sentence->[pawn_nameShortDef] [color] színű aurája fénylik.</li>
+		<li>desc_sentence->[pawn_nameShortDef] ki van hangsúlyozva.</li>
+		<li>desc_sentence->[pawn_nameShortDef] uralja a jelenetet.</li>
+		<li>desc_sentence->[quantity_adjphrase] [outlander] magába roskad a vereségtől.</li>
+	</PlayedGame.rulePack.rulesStrings>
 
   <BuriedCorpse.label>temetés</BuriedCorpse.label>
-  <BuriedCorpse.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] temeti őt: [corpse_nameShortDef]</BuriedCorpse.rulePack.rulesStrings.0>
-  <BuriedCorpse.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] nyugalomra helyezi őt: [corpse_nameShortDef]</BuriedCorpse.rulePack.rulesStrings.1>
-  <BuriedCorpse.rulePack.rulesStrings.2>image->[pawn_nameFull] [corpse_nameFull] sírja mellett áll [circumstance_group]</BuriedCorpse.rulePack.rulesStrings.2>
-  <BuriedCorpse.rulePack.rulesStrings.3>image->[pawn_nameFull] [corpse_nameFull] sírja mellett ül [circumstance_group]</BuriedCorpse.rulePack.rulesStrings.3>
-  <BuriedCorpse.rulePack.rulesStrings.4>image->[pawn_nameFull] [corpse_nameFull] sírja mellett támaszkodik [circumstance_group]</BuriedCorpse.rulePack.rulesStrings.4>
-  <BuriedCorpse.rulePack.rulesStrings.5>image->[pawn_nameFull] [corpse_nameFull] sírjára vés feliratot [circumstance_group]</BuriedCorpse.rulePack.rulesStrings.5>
-  <BuriedCorpse.rulePack.rulesStrings.6>image->[pawn_nameFull] [corpse_nameFull] sírjára farag díszítést [circumstance_group]</BuriedCorpse.rulePack.rulesStrings.6>
-  <BuriedCorpse.rulePack.rulesStrings.7>image->[pawn_nameFull] [corpse_nameFull] testét helyezi sírba [circumstance_group] [circumstance_group]</BuriedCorpse.rulePack.rulesStrings.7>
-  <BuriedCorpse.rulePack.rulesStrings.8>circumstance_phrase->[angstyadjective] arcot vágva</BuriedCorpse.rulePack.rulesStrings.8>
-  <BuriedCorpse.rulePack.rulesStrings.9>circumstance_phrase->a gondolataiba merülve</BuriedCorpse.rulePack.rulesStrings.9>
-  <BuriedCorpse.rulePack.rulesStrings.10>circumstance_phrase->miközben egy messzi [terrainfeature] felé néz</BuriedCorpse.rulePack.rulesStrings.10>
-  <BuriedCorpse.rulePack.rulesStrings.11>circumstance_phrase->csendesen beszélve hozzá</BuriedCorpse.rulePack.rulesStrings.11>
-  <BuriedCorpse.rulePack.rulesStrings.12>desc_sentence->[color] színű sarki fény látszik a háttérben.</BuriedCorpse.rulePack.rulesStrings.12>
-  <BuriedCorpse.rulePack.rulesStrings.13>desc_sentence->A távolban egy hóval takart [community] látszik.</BuriedCorpse.rulePack.rulesStrings.13>
-  <BuriedCorpse.rulePack.rulesStrings.14>desc_sentence->[corpse_nameShortDef] kísérteties alakja látható a hely felett [friendlyadjective] arcot vágva.</BuriedCorpse.rulePack.rulesStrings.14>
-  <BuriedCorpse.rulePack.rulesStrings.15>desc_sentence->[corpse_nameShortDef] kísérteties alakja áll a sír mellett [friendlyadjective] arcot vágva.</BuriedCorpse.rulePack.rulesStrings.15>
-  <BuriedCorpse.rulePack.rulesStrings.16>desc_sentence->[corpse_nameShortDef] kísérteties alakja figyeli a helyet [friendlyadjective] arcot vágva.</BuriedCorpse.rulePack.rulesStrings.16>
-  <BuriedCorpse.rulePack.rulesStrings.17>desc_sentence->[corpse_nameShortDef] kísérteties alakja áll [pawn_nameShortDef] mellett, [angstyadjective] arcot vágva.</BuriedCorpse.rulePack.rulesStrings.17>
-  <BuriedCorpse.rulePack.rulesStrings.18>desc_sentence->[quantity_adjphrase] [animal] pihen a közelben.</BuriedCorpse.rulePack.rulesStrings.18>
+	<BuriedCorpse.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] temeti őt: [corpse_nameShortDef]</li>
+		<li>tale_noun->[pawn_nameShortDef] nyugalomra helyezi őt: [corpse_nameShortDef]</li>
+		<li>image->[pawn_nameFull] [corpse_nameFull] sírja mellett áll [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [corpse_nameFull] sírja mellett ül [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [corpse_nameFull] sírja mellett támaszkodik [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [corpse_nameFull] sírjára vés feliratot [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [corpse_nameFull] sírjára farag díszítést [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [corpse_nameFull] testét helyezi sírba [circumstance_group] [circumstance_group]</li>
+		<li>circumstance_phrase->[angstyadjective] arcot vágva</li>
+		<li>circumstance_phrase->a gondolataiba merülve</li>
+		<li>circumstance_phrase->miközben egy messzi [terrainfeature] felé néz</li>
+		<li>circumstance_phrase->csendesen beszélve hozzá</li>
+		<li>desc_sentence->[color] színű sarki fény látszik a háttérben.</li>
+		<li>desc_sentence->A távolban egy hóval takart [community] látszik.</li>
+		<li>desc_sentence->[corpse_nameShortDef] kísérteties alakja látható a hely felett [friendlyadjective] arcot vágva.</li>
+		<li>desc_sentence->[corpse_nameShortDef] kísérteties alakja áll a sír mellett [friendlyadjective] arcot vágva.</li>
+		<li>desc_sentence->[corpse_nameShortDef] kísérteties alakja figyeli a helyet [friendlyadjective] arcot vágva.</li>
+		<li>desc_sentence->[corpse_nameShortDef] kísérteties alakja áll [pawn_nameShortDef] mellett, [angstyadjective] arcot vágva.</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] pihen a közelben.</li>
+	</BuriedCorpse.rulePack.rulesStrings>
 
   <EnteredCryptosleep.label>hibernálva</EnteredCryptosleep.label>
-  <EnteredCryptosleep.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] hibernáció alá kerül</EnteredCryptosleep.rulePack.rulesStrings.0>
-  <EnteredCryptosleep.rulePack.rulesStrings.1>image->[pawn_nameFull] befekszik a hibernálóba [circumstance_group]</EnteredCryptosleep.rulePack.rulesStrings.1>
-  <EnteredCryptosleep.rulePack.rulesStrings.2>image->[pawn_nameFull] egy üres hibernálót nyit ki [circumstance_group]</EnteredCryptosleep.rulePack.rulesStrings.2>
-  <EnteredCryptosleep.rulePack.rulesStrings.3>image->[pawn_nameFull] magára csukja a hibernálót [circumstance_group]</EnteredCryptosleep.rulePack.rulesStrings.3>
-  <EnteredCryptosleep.rulePack.rulesStrings.4>image->[pawn_nameFull] az elhagyni készült világra néz a hibernáló üvegen keresztül [circumstance_group]</EnteredCryptosleep.rulePack.rulesStrings.4>
-  <EnteredCryptosleep.rulePack.rulesStrings.5>circumstance_phrase->[angstyadjective] arcot vágva</EnteredCryptosleep.rulePack.rulesStrings.5>
-  <EnteredCryptosleep.rulePack.rulesStrings.6>circumstance_phrase->a gondolataiba merülve</EnteredCryptosleep.rulePack.rulesStrings.6>
-  <EnteredCryptosleep.rulePack.rulesStrings.7>circumstance_phrase->miközben egy messzi [terrainfeature] felé néz</EnteredCryptosleep.rulePack.rulesStrings.7>
-  <EnteredCryptosleep.rulePack.rulesStrings.8>circumstance_phrase->halkan magában beszélve</EnteredCryptosleep.rulePack.rulesStrings.8>
-  <EnteredCryptosleep.rulePack.rulesStrings.9>desc_sentence->[quantity_adjphrase] [animal] pihen a közelben.</EnteredCryptosleep.rulePack.rulesStrings.9>
-  <EnteredCryptosleep.rulePack.rulesStrings.10>desc_sentence->[quantity_adjphrase] [enemy] közelít.</EnteredCryptosleep.rulePack.rulesStrings.10>
-  <EnteredCryptosleep.rulePack.rulesStrings.11>desc_sentence->[pawn_nameShortDef] elszántságot sugároz.</EnteredCryptosleep.rulePack.rulesStrings.11>
-  <EnteredCryptosleep.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] láthatóan sérült.</EnteredCryptosleep.rulePack.rulesStrings.12>
-  <EnteredCryptosleep.rulePack.rulesStrings.13>desc_sentence->[color] színű sarki fény látszik a háttérben.</EnteredCryptosleep.rulePack.rulesStrings.13>
-  <EnteredCryptosleep.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] foglalt hibernáló látható mindenfelé.</EnteredCryptosleep.rulePack.rulesStrings.14>
+	<EnteredCryptosleep.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] hibernáció alá kerül</li>
+		<li>image->[pawn_nameFull] befekszik a hibernálóba [circumstance_group]</li>
+		<li>image->[pawn_nameFull] egy üres hibernálót nyit ki [circumstance_group]</li>
+		<li>image->[pawn_nameFull] magára csukja a hibernálót [circumstance_group]</li>
+		<li>image->[pawn_nameFull] az elhagyni készült világra néz a hibernáló üvegen keresztül [circumstance_group]</li>
+		<li>circumstance_phrase->[angstyadjective] arcot vágva</li>
+		<li>circumstance_phrase->a gondolataiba merülve</li>
+		<li>circumstance_phrase->miközben egy messzi [terrainfeature] felé néz</li>
+		<li>circumstance_phrase->halkan magában beszélve</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] pihen a közelben.</li>
+		<li>desc_sentence->[quantity_adjphrase] [enemy] közelít.</li>
+		<li>desc_sentence->[pawn_nameShortDef] elszántságot sugároz.</li>
+		<li>desc_sentence->[pawn_nameShortDef] láthatóan sérült.</li>
+		<li>desc_sentence->[color] színű sarki fény látszik a háttérben.</li>
+		<li>desc_sentence->[quantity_adjphrase] foglalt hibernáló látható mindenfelé.</li>
+	</EnteredCryptosleep.rulePack.rulesStrings>
 
   <PutIntoCryptosleep.label>hibernálva</PutIntoCryptosleep.label>
-  <PutIntoCryptosleep.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] hibernálóba helyezi [sleeper_nameShortDef] testét</PutIntoCryptosleep.rulePack.rulesStrings.0>
-  <PutIntoCryptosleep.rulePack.rulesStrings.1>image->[pawn_nameFull] hibernálóba teszi [sleeper_nameShortDef] testét [circumstance_group]</PutIntoCryptosleep.rulePack.rulesStrings.1>
-  <PutIntoCryptosleep.rulePack.rulesStrings.2>image->[pawn_nameFull] egy üres hibernálót nyit ki, miközben [sleeper_nameShortDef] testét tartja [circumstance_group]</PutIntoCryptosleep.rulePack.rulesStrings.2>
-  <PutIntoCryptosleep.rulePack.rulesStrings.3>image->[pawn_nameFull] lezárja [sleeper_nameShortDef] hibernálóját [circumstance_group]</PutIntoCryptosleep.rulePack.rulesStrings.3>
-  <PutIntoCryptosleep.rulePack.rulesStrings.4>image->[pawn_nameFull] elsétál, miközben  [sleeper_nameShortDef] a hibernálóból nézi [circumstance_group]</PutIntoCryptosleep.rulePack.rulesStrings.4>
-  <PutIntoCryptosleep.rulePack.rulesStrings.5>circumstance_phrase->[angstyadjective] arcot vágva</PutIntoCryptosleep.rulePack.rulesStrings.5>
-  <PutIntoCryptosleep.rulePack.rulesStrings.6>circumstance_phrase->[friendlyadjective] arcot vágva</PutIntoCryptosleep.rulePack.rulesStrings.6>
-  <PutIntoCryptosleep.rulePack.rulesStrings.7>circumstance_phrase->[badassadjective] arcot vágva</PutIntoCryptosleep.rulePack.rulesStrings.7>
-  <PutIntoCryptosleep.rulePack.rulesStrings.8>circumstance_phrase->a gondolataiba merülve</PutIntoCryptosleep.rulePack.rulesStrings.8>
-  <PutIntoCryptosleep.rulePack.rulesStrings.9>circumstance_phrase->miközben egy messzi [terrainfeature] felé néz</PutIntoCryptosleep.rulePack.rulesStrings.9>
-  <PutIntoCryptosleep.rulePack.rulesStrings.10>circumstance_phrase->a feszültség tapintható kettejük között</PutIntoCryptosleep.rulePack.rulesStrings.10>
-  <PutIntoCryptosleep.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [animal] pihen a közelben.</PutIntoCryptosleep.rulePack.rulesStrings.11>
-  <PutIntoCryptosleep.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [enemy] közelít.</PutIntoCryptosleep.rulePack.rulesStrings.12>
-  <PutIntoCryptosleep.rulePack.rulesStrings.13>desc_sentence->[pawn_nameShortDef] elszántságot sugároz.</PutIntoCryptosleep.rulePack.rulesStrings.13>
-  <PutIntoCryptosleep.rulePack.rulesStrings.14>desc_sentence->Az ég felhős és szürke.</PutIntoCryptosleep.rulePack.rulesStrings.14>
-  <PutIntoCryptosleep.rulePack.rulesStrings.15>desc_sentence->[sleeper_nameShortDef] láthatóan sérült.</PutIntoCryptosleep.rulePack.rulesStrings.15>
-  <PutIntoCryptosleep.rulePack.rulesStrings.16>desc_sentence->[sleeper_nameShortDef] kimerültnek látszik.</PutIntoCryptosleep.rulePack.rulesStrings.16>
-  <PutIntoCryptosleep.rulePack.rulesStrings.17>desc_sentence->[color] színű sarki fény látszik a háttérben.</PutIntoCryptosleep.rulePack.rulesStrings.17>
-  <PutIntoCryptosleep.rulePack.rulesStrings.18>desc_sentence->[quantity_adjphrase] foglalt hibernáló látható mindenfelé.</PutIntoCryptosleep.rulePack.rulesStrings.18>
+	<PutIntoCryptosleep.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] hibernálóba helyezi [sleeper_nameShortDef] testét</li>
+		<li>image->[pawn_nameFull] hibernálóba teszi [sleeper_nameShortDef] testét [circumstance_group]</li>
+		<li>image->[pawn_nameFull] egy üres hibernálót nyit ki, miközben [sleeper_nameShortDef] testét tartja [circumstance_group]</li>
+		<li>image->[pawn_nameFull] lezárja [sleeper_nameShortDef] hibernálóját [circumstance_group]</li>
+		<li>image->[pawn_nameFull] elsétál, miközben  [sleeper_nameShortDef] a hibernálóból nézi [circumstance_group]</li>
+		<li>circumstance_phrase->[angstyadjective] arcot vágva</li>
+		<li>circumstance_phrase->[friendlyadjective] arcot vágva</li>
+		<li>circumstance_phrase->[badassadjective] arcot vágva</li>
+		<li>circumstance_phrase->a gondolataiba merülve</li>
+		<li>circumstance_phrase->miközben egy messzi [terrainfeature] felé néz</li>
+		<li>circumstance_phrase->a feszültség tapintható kettejük között</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] pihen a közelben.</li>
+		<li>desc_sentence->[quantity_adjphrase] [enemy] közelít.</li>
+		<li>desc_sentence->[pawn_nameShortDef] elszántságot sugároz.</li>
+		<li>desc_sentence->Az ég felhős és szürke.</li>
+		<li>desc_sentence->[sleeper_nameShortDef] láthatóan sérült.</li>
+		<li>desc_sentence->[sleeper_nameShortDef] kimerültnek látszik.</li>
+		<li>desc_sentence->[color] színű sarki fény látszik a háttérben.</li>
+		<li>desc_sentence->[quantity_adjphrase] foglalt hibernáló látható mindenfelé.</li>
+	</PutIntoCryptosleep.rulePack.rulesStrings>
 
   <Stripped.label>levetkőztetve</Stripped.label>
-  <Stripped.rulePack.rulesStrings.0>tale_noun->[stripper_nameShortDef] levetkőzteti őt [stripped_nameShortDef]</Stripped.rulePack.rulesStrings.0>
-  <Stripped.rulePack.rulesStrings.1>image->[stripper_nameFull] nyilvános helyen levetkőzteti őt :[stripped_nameFull] [circumstance_group]</Stripped.rulePack.rulesStrings.1>
-  <Stripped.rulePack.rulesStrings.2>image->[stripper_nameFull] levetkőzteti őt: [stripped_nameFull] [circumstance_group]</Stripped.rulePack.rulesStrings.2>
-  <Stripped.rulePack.rulesStrings.3>image->[stripper_nameFull] kezében egy rakás [apparel], [stripped_nameFull] mellett állva, aki teljesen meztelen [circumstance_group]</Stripped.rulePack.rulesStrings.3>
-  <Stripped.rulePack.rulesStrings.4>image->[stripper_nameFull] türelmesen várja, hogy [stripped_nameFull] levegye ruháit [circumstance_group]</Stripped.rulePack.rulesStrings.4>
-  <Stripped.rulePack.rulesStrings.5>circumstance_phrase->tervszerűen</Stripped.rulePack.rulesStrings.5>
-  <Stripped.rulePack.rulesStrings.6>circumstance_phrase->szégyen nélkül</Stripped.rulePack.rulesStrings.6>
-  <Stripped.rulePack.rulesStrings.7>circumstance_phrase->miközben mások nézik</Stripped.rulePack.rulesStrings.7>
-  <Stripped.rulePack.rulesStrings.8>circumstance_phrase->minden ok nélkül</Stripped.rulePack.rulesStrings.8>
-  <Stripped.rulePack.rulesStrings.9>circumstance_phrase->miközben zavarodott állatok nézik őket</Stripped.rulePack.rulesStrings.9>
-  <Stripped.rulePack.rulesStrings.10>desc_sentence->[stripped_nameShortDef] láthatóan izgatott.</Stripped.rulePack.rulesStrings.10>
-  <Stripped.rulePack.rulesStrings.11>desc_sentence->[stripped_nameShortDef] valamiért nedves.</Stripped.rulePack.rulesStrings.11>
-  <Stripped.rulePack.rulesStrings.12>desc_sentence->[stripped_nameShortDef] nehezen lélegzik valamiért.</Stripped.rulePack.rulesStrings.12>
-  <Stripped.rulePack.rulesStrings.13>desc_sentence->[stripped_nameShortDef] egy bokrot ölel.</Stripped.rulePack.rulesStrings.13>
-  <Stripped.rulePack.rulesStrings.14>desc_sentence->[stripped_nameShortDef] [angstyadjective] arcot vág.</Stripped.rulePack.rulesStrings.14>
+	<Stripped.rulePack.rulesStrings>
+		<li>tale_noun->[stripper_nameShortDef] levetkőzteti őt [stripped_nameShortDef]</li>
+		<li>image->[stripper_nameFull] nyilvános helyen levetkőzteti őt :[stripped_nameFull] [circumstance_group]</li>
+		<li>image->[stripper_nameFull] levetkőzteti őt: [stripped_nameFull] [circumstance_group]</li>
+		<li>image->[stripper_nameFull] kezében egy rakás [apparel], [stripped_nameFull] mellett állva, aki teljesen meztelen [circumstance_group]</li>
+		<li>image->[stripper_nameFull] türelmesen várja, hogy [stripped_nameFull] levegye ruháit [circumstance_group]</li>
+		<li>circumstance_phrase->tervszerűen</li>
+		<li>circumstance_phrase->szégyen nélkül</li>
+		<li>circumstance_phrase->miközben mások nézik</li>
+		<li>circumstance_phrase->minden ok nélkül</li>
+		<li>circumstance_phrase->miközben zavarodott állatok nézik őket</li>
+		<li>desc_sentence->[stripped_nameShortDef] láthatóan izgatott.</li>
+		<li>desc_sentence->[stripped_nameShortDef] valamiért nedves.</li>
+		<li>desc_sentence->[stripped_nameShortDef] nehezen lélegzik valamiért.</li>
+		<li>desc_sentence->[stripped_nameShortDef] egy bokrot ölel.</li>
+		<li>desc_sentence->[stripped_nameShortDef] [angstyadjective] arcot vág.</li>
+	</Stripped.rulePack.rulesStrings>
 
   <GainedMasterSkillWithPassion.label>mester fokozat</GainedMasterSkillWithPassion.label>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] [skill_label] mestere lett</GainedMasterSkillWithPassion.rulePack.rulesStrings.0>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.1>image->[pawn_nameFull] ezt gyakorolja: [skill_label] [circumstance_group]</GainedMasterSkillWithPassion.rulePack.rulesStrings.1>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.2>image->[pawn_nameFull] könyvet olvas erről: [skill_label] [circumstance_group]</GainedMasterSkillWithPassion.rulePack.rulesStrings.2>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.3>image->[pawn_nameFull] képzést kap erről: [skill_label] [circumstance_group]</GainedMasterSkillWithPassion.rulePack.rulesStrings.3>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.4>image->[pawn_nameFull] lázasan dolgozik [circumstance_group]</GainedMasterSkillWithPassion.rulePack.rulesStrings.4>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.5>image->[pawn_nameFull] befejez egy projektet [circumstance_group]</GainedMasterSkillWithPassion.rulePack.rulesStrings.5>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.6>circumstance_phrase->[friendlyadjective] arccal</GainedMasterSkillWithPassion.rulePack.rulesStrings.6>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.7>circumstance_phrase->örömmel</GainedMasterSkillWithPassion.rulePack.rulesStrings.7>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.8>circumstance_phrase->[friendlyverb] arccal</GainedMasterSkillWithPassion.rulePack.rulesStrings.8>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.9>circumstance_phrase->áradozva</GainedMasterSkillWithPassion.rulePack.rulesStrings.9>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.10>circumstance_phrase->izzadtan</GainedMasterSkillWithPassion.rulePack.rulesStrings.10>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.11>circumstance_phrase->láthatóan kimerülve</GainedMasterSkillWithPassion.rulePack.rulesStrings.11>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.12>desc_sentence->A jelenet körül [quantity_adjphrase] meghiúsult kísérlet.</GainedMasterSkillWithPassion.rulePack.rulesStrings.12>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.13>desc_sentence->A jelenet körül [quantity_adjphrase] könyv látszik.</GainedMasterSkillWithPassion.rulePack.rulesStrings.13>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.14>desc_sentence->Látszik a szakértelem a munkán.</GainedMasterSkillWithPassion.rulePack.rulesStrings.14>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.15>desc_sentence->[quantity_adjphrase] [outlander] nézi elképedve.</GainedMasterSkillWithPassion.rulePack.rulesStrings.15>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase] [animal] nézi elképedve.</GainedMasterSkillWithPassion.rulePack.rulesStrings.16>
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] ősi mesterek szelleme figyeli fentről.</GainedMasterSkillWithPassion.rulePack.rulesStrings.17>
+	<GainedMasterSkillWithPassion.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] [skill_label] mestere lett</li>
+		<li>image->[pawn_nameFull] ezt gyakorolja: [skill_label] [circumstance_group]</li>
+		<li>image->[pawn_nameFull] könyvet olvas erről: [skill_label] [circumstance_group]</li>
+		<li>image->[pawn_nameFull] képzést kap erről: [skill_label] [circumstance_group]</li>
+		<li>image->[pawn_nameFull] lázasan dolgozik [circumstance_group]</li>
+		<li>image->[pawn_nameFull] befejez egy projektet [circumstance_group]</li>
+		<li>circumstance_phrase->[friendlyadjective] arccal</li>
+		<li>circumstance_phrase->örömmel</li>
+		<li>circumstance_phrase->[friendlyverb] arccal</li>
+		<li>circumstance_phrase->áradozva</li>
+		<li>circumstance_phrase->izzadtan</li>
+		<li>circumstance_phrase->láthatóan kimerülve</li>
+		<li>desc_sentence->A jelenet körül [quantity_adjphrase] meghiúsult kísérlet.</li>
+		<li>desc_sentence->A jelenet körül [quantity_adjphrase] könyv látszik.</li>
+		<li>desc_sentence->Látszik a szakértelem a munkán.</li>
+		<li>desc_sentence->[quantity_adjphrase] [outlander] nézi elképedve.</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] nézi elképedve.</li>
+		<li>desc_sentence->[quantity_adjphrase] ősi mesterek szelleme figyeli fentről.</li>
+	</GainedMasterSkillWithPassion.rulePack.rulesStrings>
 
   <GainedMasterSkillWithoutPassion.label>mester fokozat</GainedMasterSkillWithoutPassion.label>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] [skill_label] mestere lett</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.0>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.1>image->[pawn_nameFull] ezt gyakorolja: [skill_label] [circumstance_group]</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.1>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.2>image->[pawn_nameFull] könyvet olvas erről: [skill_label] [circumstance_group]</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.2>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.3>image->[pawn_nameFull] képzést kap erről: [skill_label] [circumstance_group]</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.3>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.4>image->[pawn_nameFull] lázasan dolgozik [circumstance_group]</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.4>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.5>image->[pawn_nameFull] befejez egy projektet [circumstance_group]</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.5>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.6>circumstance_phrase->izzadtan</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.6>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.7>circumstance_phrase->láthatóan kimerülve</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.7>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.8>circumstance_phrase->[angstyadjective] arcot vágva</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.8>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.9>circumstance_phrase->unatkozva</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.9>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.10>desc_sentence->A jelenet körül sok [quantity_adjphrase] meghiúsult kísérlet.</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.10>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.11>desc_sentence->A jelenet körül [quantity_adjphrase] könyv látszik.</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.11>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.12>desc_sentence->Látszik a szakértelem a munkán.</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.12>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [outlander] nézi elképedve.</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.13>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] [animal] nézi elképedve.</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.14>
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings.15>desc_sentence->[quantity_adjphrase] ősi mesterek szelleme figyeli fentről.</GainedMasterSkillWithoutPassion.rulePack.rulesStrings.15>
+	<GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] [skill_label] mestere lett</li>
+		<li>image->[pawn_nameFull] ezt gyakorolja: [skill_label] [circumstance_group]</li>
+		<li>image->[pawn_nameFull] könyvet olvas erről: [skill_label] [circumstance_group]</li>
+		<li>image->[pawn_nameFull] képzést kap erről: [skill_label] [circumstance_group]</li>
+		<li>image->[pawn_nameFull] lázasan dolgozik [circumstance_group]</li>
+		<li>image->[pawn_nameFull] befejez egy projektet [circumstance_group]</li>
+		<li>circumstance_phrase->izzadtan</li>
+		<li>circumstance_phrase->láthatóan kimerülve</li>
+		<li>circumstance_phrase->[angstyadjective] arcot vágva</li>
+		<li>circumstance_phrase->unatkozva</li>
+		<li>desc_sentence->A jelenet körül sok [quantity_adjphrase] meghiúsult kísérlet.</li>
+		<li>desc_sentence->A jelenet körül [quantity_adjphrase] könyv látszik.</li>
+		<li>desc_sentence->Látszik a szakértelem a munkán.</li>
+		<li>desc_sentence->[quantity_adjphrase] [outlander] nézi elképedve.</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] nézi elképedve.</li>
+		<li>desc_sentence->[quantity_adjphrase] ősi mesterek szelleme figyeli fentről.</li>
+	</GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
 
   <IncreasedMenagerie.label>nyáj szaporítása</IncreasedMenagerie.label>
-  <IncreasedMenagerie.rulePack.rulesStrings.0>tale_noun->[human_nameShortDef] újabb taggal bővíti ezt: [animalgroup]</IncreasedMenagerie.rulePack.rulesStrings.0>
-  <IncreasedMenagerie.rulePack.rulesStrings.1>tale_noun->[human_nameShortDef] újabb taggal bővíti ezt: [animalgroup]</IncreasedMenagerie.rulePack.rulesStrings.1>
-  <IncreasedMenagerie.rulePack.rulesStrings.2>tale_noun->[human_nameShortDef] újabb taggal bővíti ezt: [animalgroup]</IncreasedMenagerie.rulePack.rulesStrings.2>
-  <IncreasedMenagerie.rulePack.rulesStrings.3>tale_noun->[human_nameShortDef] [animalgroup] által követve</IncreasedMenagerie.rulePack.rulesStrings.3>
-  <IncreasedMenagerie.rulePack.rulesStrings.4>tale_noun->[human_nameShortDef] szelídíti ezt: [animal_nameShortDef]</IncreasedMenagerie.rulePack.rulesStrings.4>
-  <IncreasedMenagerie.rulePack.rulesStrings.5>image->[human_nameFull] szelídíti ezt: [animal_nameFull] [circumstance_group]</IncreasedMenagerie.rulePack.rulesStrings.5>
-  <IncreasedMenagerie.rulePack.rulesStrings.6>image->[human_nameFull] egy falat takarmányt ad neki: [animal_nameFull] [circumstance_group]</IncreasedMenagerie.rulePack.rulesStrings.6>
-  <IncreasedMenagerie.rulePack.rulesStrings.7>image->[human_nameFull] egy ijedt [animal_nameFull] fülébe suttog [circumstance_group]</IncreasedMenagerie.rulePack.rulesStrings.7>
-  <IncreasedMenagerie.rulePack.rulesStrings.8>image->[human_nameFull] egy vad [animal_nameFull] lenyugtatására készül [circumstance_group]</IncreasedMenagerie.rulePack.rulesStrings.8>
-  <IncreasedMenagerie.rulePack.rulesStrings.9>circumstance_phrase->nagy óvatossággal</IncreasedMenagerie.rulePack.rulesStrings.9>
-  <IncreasedMenagerie.rulePack.rulesStrings.10>circumstance_phrase->mosolyogva</IncreasedMenagerie.rulePack.rulesStrings.10>
-  <IncreasedMenagerie.rulePack.rulesStrings.11>circumstance_phrase->kimerülve, de boldogan</IncreasedMenagerie.rulePack.rulesStrings.11>
-  <IncreasedMenagerie.rulePack.rulesStrings.12>circumstance_phrase->a háttérben [animalgroup] látható</IncreasedMenagerie.rulePack.rulesStrings.12>
-  <IncreasedMenagerie.rulePack.rulesStrings.13>desc_sentence->[human_nameShortDef] számtalan [animal] által körülvéve.</IncreasedMenagerie.rulePack.rulesStrings.13>
-  <IncreasedMenagerie.rulePack.rulesStrings.14>desc_sentence->[animal_nameShortDef] csatlakozik a(z) [animalgroup] többi tagjához.</IncreasedMenagerie.rulePack.rulesStrings.14>
-  <IncreasedMenagerie.rulePack.rulesStrings.15>desc_sentence->A jelenetben sok a [animal] és a [animal].</IncreasedMenagerie.rulePack.rulesStrings.15>
-  <IncreasedMenagerie.rulePack.rulesStrings.16>desc_sentence->Számtalan [animal] állat várja, hogy [human_nameShortDef] megszelídítse.</IncreasedMenagerie.rulePack.rulesStrings.16>
+	<IncreasedMenagerie.rulePack.rulesStrings>
+		<li>tale_noun->[human_nameShortDef] újabb taggal bővíti ezt: [animalgroup]</li>
+		<li>tale_noun->[human_nameShortDef] újabb taggal bővíti ezt: [animalgroup]</li>
+		<li>tale_noun->[human_nameShortDef] újabb taggal bővíti ezt: [animalgroup]</li>
+		<li>tale_noun->[human_nameShortDef] [animalgroup] által követve</li>
+		<li>tale_noun->[human_nameShortDef] szelídíti ezt: [animal_nameShortDef]</li>
+		<li>image->[human_nameFull] szelídíti ezt: [animal_nameFull] [circumstance_group]</li>
+		<li>image->[human_nameFull] egy falat takarmányt ad neki: [animal_nameFull] [circumstance_group]</li>
+		<li>image->[human_nameFull] egy ijedt [animal_nameFull] fülébe suttog [circumstance_group]</li>
+		<li>image->[human_nameFull] egy vad [animal_nameFull] lenyugtatására készül [circumstance_group]</li>
+		<li>circumstance_phrase->nagy óvatossággal</li>
+		<li>circumstance_phrase->mosolyogva</li>
+		<li>circumstance_phrase->kimerülve, de boldogan</li>
+		<li>circumstance_phrase->a háttérben [animalgroup] látható</li>
+		<li>desc_sentence->[human_nameShortDef] számtalan [animal] által körülvéve.</li>
+		<li>desc_sentence->[animal_nameShortDef] csatlakozik a(z) [animalgroup] többi tagjához.</li>
+		<li>desc_sentence->A jelenetben sok a [animal] és a [animal].</li>
+		<li>desc_sentence->Számtalan [animal] állat várja, hogy [human_nameShortDef] megszelídítse.</li>
+	</IncreasedMenagerie.rulePack.rulesStrings>
 
 
 </LanguageData>

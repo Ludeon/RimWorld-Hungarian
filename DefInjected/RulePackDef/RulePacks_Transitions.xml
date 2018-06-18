@@ -1,90 +1,100 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Transition_Include.rulePack.rulesStrings.0>duetoa->emiatt:</Transition_Include.rulePack.rulesStrings.0>
-  <Transition_Include.rulePack.rulesStrings.1>duetoa(p=0.5)->emiatt:</Transition_Include.rulePack.rulesStrings.1>
-  <Transition_Include.rulePack.rulesStrings.2>duetoa(p=0.5)->ennek köszönhetően:</Transition_Include.rulePack.rulesStrings.2>
-  <Transition_Include.rulePack.rulesStrings.3>subject_definite->[subject_labelDefinite]</Transition_Include.rulePack.rulesStrings.3>
-  <Transition_Include.rulePack.rulesStrings.4>subject_definite->[subject_nameShortDef]</Transition_Include.rulePack.rulesStrings.4>
+	<Transition_Include.rulePack.rulesStrings>
+		<li>duetoa->emiatt:</li>
+		<li>duetoa(p=0.5)->emiatt:</li>
+		<li>duetoa(p=0.5)->ennek köszönhetően:</li>
+		<li>subject_definite->[subject_labelDefinite]</li>
+		<li>subject_definite->[subject_nameShortDef]</li>
+	</Transition_Include.rulePack.rulesStrings>
 
-  <Transition_Downed.rulePack.rulesStrings.0>logentry->[culpritHediff_labelNoun] ezt okozta: [collapsemeta], neki: [subject_definite].</Transition_Downed.rulePack.rulesStrings.0>
-  <Transition_Downed.rulePack.rulesStrings.1>logentry->[culpritHediff_labelNoun], cél: [subject_definite] [culpritHediff_target_label], ezt okozta: [collapsemeta].</Transition_Downed.rulePack.rulesStrings.1>
-  <Transition_Downed.rulePack.rulesStrings.2>logentry->[subject_definite] [collapsedmeta], [duetoa] [culpritHediff_labelNoun].</Transition_Downed.rulePack.rulesStrings.2>
-  <Transition_Downed.rulePack.rulesStrings.3>logentry->[subject_definite] [collapsedmeta], [duetoa] [culpritHediff_labelNoun], cél: [culpritHediff_target_label].</Transition_Downed.rulePack.rulesStrings.3>
-  <Transition_Downed.rulePack.rulesStrings.4>logentry->[subject_definite] [collapsedmeta], [duetoa] [culpritHediff_labelNoun], cél: [culpritHediff_target_label].</Transition_Downed.rulePack.rulesStrings.4>
-  <Transition_Downed.rulePack.rulesStrings.5>logentry(p=0.1)->[subject_definite] [collapsedmeta].</Transition_Downed.rulePack.rulesStrings.5>
-  <Transition_Downed.rulePack.rulesStrings.6>collapse->összeesik</Transition_Downed.rulePack.rulesStrings.6>
-  <Transition_Downed.rulePack.rulesStrings.7>collapse->összerogy</Transition_Downed.rulePack.rulesStrings.7>
-  <Transition_Downed.rulePack.rulesStrings.8>collapse->összeesik</Transition_Downed.rulePack.rulesStrings.8>
-  <Transition_Downed.rulePack.rulesStrings.9>collapse(subject_flesh!=Mechanoid)->elájul</Transition_Downed.rulePack.rulesStrings.9>
-  <Transition_Downed.rulePack.rulesStrings.10>collapse(subject_flesh==Mechanoid)->összeroskad</Transition_Downed.rulePack.rulesStrings.10>
-  <Transition_Downed.rulePack.rulesStrings.11>collapse(subject_flesh==Mechanoid)->lefagy</Transition_Downed.rulePack.rulesStrings.11>
-  <Transition_Downed.rulePack.rulesStrings.12>collapse(subject_flesh==Mechanoid)->összeomlik</Transition_Downed.rulePack.rulesStrings.12>
-  <Transition_Downed.rulePack.rulesStrings.13>collapsed->összeesett</Transition_Downed.rulePack.rulesStrings.13>
-  <Transition_Downed.rulePack.rulesStrings.14>collapsed->összerogyott</Transition_Downed.rulePack.rulesStrings.14>
-  <Transition_Downed.rulePack.rulesStrings.15>collapsed->összeesett</Transition_Downed.rulePack.rulesStrings.15>
-  <Transition_Downed.rulePack.rulesStrings.16>collapsed(subject_flesh!=Mechanoid)->elájult</Transition_Downed.rulePack.rulesStrings.16>
-  <Transition_Downed.rulePack.rulesStrings.17>collapsed(subject_flesh==Mechanoid)->összeroskadt</Transition_Downed.rulePack.rulesStrings.17>
-  <Transition_Downed.rulePack.rulesStrings.18>collapsed(subject_flesh==Mechanoid)->lefagyott</Transition_Downed.rulePack.rulesStrings.18>
-  <Transition_Downed.rulePack.rulesStrings.19>collapsed(subject_flesh==Mechanoid)->összeomlott</Transition_Downed.rulePack.rulesStrings.19>
-  <Transition_Downed.rulePack.rulesStrings.20>helplessly->tehetetlenül</Transition_Downed.rulePack.rulesStrings.20>
-  <Transition_Downed.rulePack.rulesStrings.21>helplessly(subject_flesh!=Mechanoid)->eszméletlenül</Transition_Downed.rulePack.rulesStrings.21>
-  <Transition_Downed.rulePack.rulesStrings.22>helplessly(subject_flesh!=Mechanoid)->kimerülve</Transition_Downed.rulePack.rulesStrings.22>
-  <Transition_Downed.rulePack.rulesStrings.23>helplessly(subject_flesh!=Mechanoid)->elgyengülve</Transition_Downed.rulePack.rulesStrings.23>
-  <Transition_Downed.rulePack.rulesStrings.24>helplessly(subject_flesh!=Mechanoid)->erőtlenül</Transition_Downed.rulePack.rulesStrings.24>
-  <Transition_Downed.rulePack.rulesStrings.25>helplessly(subject_flesh==Mechanoid)->magatehetetlenül</Transition_Downed.rulePack.rulesStrings.25>
-  <Transition_Downed.rulePack.rulesStrings.26>collapsemeta->[collapse]</Transition_Downed.rulePack.rulesStrings.26>
-  <Transition_Downed.rulePack.rulesStrings.27>collapsemeta(p=0.5)->[helplessly] [collapse]</Transition_Downed.rulePack.rulesStrings.27>
-  <Transition_Downed.rulePack.rulesStrings.28>collapsedmeta->[collapsed]</Transition_Downed.rulePack.rulesStrings.28>
-  <Transition_Downed.rulePack.rulesStrings.29>collapsedmeta(p=0.5)->[helplessly] [collapsed]</Transition_Downed.rulePack.rulesStrings.29>
+	<Transition_Downed.rulePack.rulesStrings>
+		<li>logentry->[culpritHediff_labelNoun] ezt okozta: [collapsemeta], neki: [subject_definite].</li>
+		<li>logentry->[culpritHediff_labelNoun], cél: [subject_definite] [culpritHediff_target_label], ezt okozta: [collapsemeta].</li>
+		<li>logentry->[subject_definite] [collapsedmeta], [duetoa] [culpritHediff_labelNoun].</li>
+		<li>logentry->[subject_definite] [collapsedmeta], [duetoa] [culpritHediff_labelNoun], cél: [culpritHediff_target_label].</li>
+		<li>logentry->[subject_definite] [collapsedmeta], [duetoa] [culpritHediff_labelNoun], cél: [culpritHediff_target_label].</li>
+		<li>logentry(p=0.1)->[subject_definite] [collapsedmeta].</li>
+		<li>collapse->összeesik</li>
+		<li>collapse->összerogy</li>
+		<li>collapse->összeesik</li>
+		<li>collapse(subject_flesh!=Mechanoid)->elájul</li>
+		<li>collapse(subject_flesh==Mechanoid)->összeroskad</li>
+		<li>collapse(subject_flesh==Mechanoid)->lefagy</li>
+		<li>collapse(subject_flesh==Mechanoid)->összeomlik</li>
+		<li>collapsed->összeesett</li>
+		<li>collapsed->összerogyott</li>
+		<li>collapsed->összeesett</li>
+		<li>collapsed(subject_flesh!=Mechanoid)->elájult</li>
+		<li>collapsed(subject_flesh==Mechanoid)->összeroskadt</li>
+		<li>collapsed(subject_flesh==Mechanoid)->lefagyott</li>
+		<li>collapsed(subject_flesh==Mechanoid)->összeomlott</li>
+		<li>helplessly->tehetetlenül</li>
+		<li>helplessly(subject_flesh!=Mechanoid)->eszméletlenül</li>
+		<li>helplessly(subject_flesh!=Mechanoid)->kimerülve</li>
+		<li>helplessly(subject_flesh!=Mechanoid)->elgyengülve</li>
+		<li>helplessly(subject_flesh!=Mechanoid)->erőtlenül</li>
+		<li>helplessly(subject_flesh==Mechanoid)->magatehetetlenül</li>
+		<li>collapsemeta->[collapse]</li>
+		<li>collapsemeta(p=0.5)->[helplessly] [collapse]</li>
+		<li>collapsedmeta->[collapsed]</li>
+		<li>collapsedmeta(p=0.5)->[helplessly] [collapsed]</li>
+	</Transition_Downed.rulePack.rulesStrings>
 
-  <Transition_DiedInclude.rulePack.rulesStrings.0>logentry(p=1.5)->[culpritHediff_labelNoun] miatt [subject_definite] [die].</Transition_DiedInclude.rulePack.rulesStrings.0>
-  <Transition_DiedInclude.rulePack.rulesStrings.1>logentry(p=1.5)->[culpritHediff_labelNoun] ([culpritHediff_target_label]) miatt [subject_definite] [die].</Transition_DiedInclude.rulePack.rulesStrings.1>
-  <Transition_DiedInclude.rulePack.rulesStrings.2>logentry->[subject_definite] [died] [duetoa] [culpritHediff_labelNoun] [flavorsuffix].</Transition_DiedInclude.rulePack.rulesStrings.2>
-  <Transition_DiedInclude.rulePack.rulesStrings.3>logentry->[subject_definite] [died] [duetoa] [culpritHediff_labelNoun], cél: [culpritHediff_target_label] [flavorsuffix].</Transition_DiedInclude.rulePack.rulesStrings.3>
-  <Transition_DiedInclude.rulePack.rulesStrings.4>logentry->[subject_definite] [died] [duetoa] [culpritHediff_labelNoun], cél: [culpritHediff_target_label] [flavorsuffix].</Transition_DiedInclude.rulePack.rulesStrings.4>
-  <Transition_DiedInclude.rulePack.rulesStrings.5>logentry->[subject_definite] [died].</Transition_DiedInclude.rulePack.rulesStrings.5>
-  <Transition_DiedInclude.rulePack.rulesStrings.6>logentry->[subject_definite] [died] [flavorsuffix].</Transition_DiedInclude.rulePack.rulesStrings.6>
+	<Transition_DiedInclude.rulePack.rulesStrings>
+		<li>logentry(p=1.5)->[culpritHediff_labelNoun] miatt [subject_definite] [die].</li>
+		<li>logentry(p=1.5)->[culpritHediff_labelNoun] ([culpritHediff_target_label]) miatt [subject_definite] [die].</li>
+		<li>logentry->[subject_definite] [died] [duetoa] [culpritHediff_labelNoun] [flavorsuffix].</li>
+		<li>logentry->[subject_definite] [died] [duetoa] [culpritHediff_labelNoun], cél: [culpritHediff_target_label] [flavorsuffix].</li>
+		<li>logentry->[subject_definite] [died] [duetoa] [culpritHediff_labelNoun], cél: [culpritHediff_target_label] [flavorsuffix].</li>
+		<li>logentry->[subject_definite] [died].</li>
+		<li>logentry->[subject_definite] [died] [flavorsuffix].</li>
+	</Transition_DiedInclude.rulePack.rulesStrings>
 
-  <Transition_Died.rulePack.rulesStrings.0>die(p=2)->meghalt</Transition_Died.rulePack.rulesStrings.0>
-  <Transition_Died.rulePack.rulesStrings.1>die->kimúlt</Transition_Died.rulePack.rulesStrings.1>
-  <Transition_Died.rulePack.rulesStrings.2>die->kinyúlt</Transition_Died.rulePack.rulesStrings.2>
-  <Transition_Died.rulePack.rulesStrings.3>die(subject_flesh!=Mechanoid,p=0.5)->belehalt sérüléseibe</Transition_Died.rulePack.rulesStrings.3>
-  <Transition_Died.rulePack.rulesStrings.4>die(subject_flesh==Mechanoid,p=0.5)->leállt</Transition_Died.rulePack.rulesStrings.4>
-  <Transition_Died.rulePack.rulesStrings.5>die(subject_flesh==Mechanoid,p=0.5)->működésképtelenné vált</Transition_Died.rulePack.rulesStrings.5>
-  <Transition_Died.rulePack.rulesStrings.6>died(p=2)->meghalt</Transition_Died.rulePack.rulesStrings.6>
-  <Transition_Died.rulePack.rulesStrings.7>died->kimúlt</Transition_Died.rulePack.rulesStrings.7>
-  <Transition_Died.rulePack.rulesStrings.8>died(subject_flesh!=Mechanoid)->kinyúlt</Transition_Died.rulePack.rulesStrings.8>
-  <Transition_Died.rulePack.rulesStrings.9>died(subject_flesh==Mechanoid)->leállt</Transition_Died.rulePack.rulesStrings.9>
-  <Transition_Died.rulePack.rulesStrings.10>died(subject_flesh==Mechanoid)->működésképtelenné vált</Transition_Died.rulePack.rulesStrings.10>
+	<Transition_Died.rulePack.rulesStrings>
+		<li>die(p=2)->meghalt</li>
+		<li>die->kimúlt</li>
+		<li>die->kinyúlt</li>
+		<li>die(subject_flesh!=Mechanoid,p=0.5)->belehalt sérüléseibe</li>
+		<li>die(subject_flesh==Mechanoid,p=0.5)->leállt</li>
+		<li>die(subject_flesh==Mechanoid,p=0.5)->működésképtelenné vált</li>
+		<li>died(p=2)->meghalt</li>
+		<li>died->kimúlt</li>
+		<li>died(subject_flesh!=Mechanoid)->kinyúlt</li>
+		<li>died(subject_flesh==Mechanoid)->leállt</li>
+		<li>died(subject_flesh==Mechanoid)->működésképtelenné vált</li>
+	</Transition_Died.rulePack.rulesStrings>
 
-  <Transition_DiedExplosive.rulePack.rulesStrings.0>die(p=3)->felrobbant [flavor]</Transition_DiedExplosive.rulePack.rulesStrings.0>
-  <Transition_DiedExplosive.rulePack.rulesStrings.1>die(p=3)->felrobbant [flavorsuffix]</Transition_DiedExplosive.rulePack.rulesStrings.1>
-  <Transition_DiedExplosive.rulePack.rulesStrings.2>die->szétrobbant [flavor]</Transition_DiedExplosive.rulePack.rulesStrings.2>
-  <Transition_DiedExplosive.rulePack.rulesStrings.3>die->szétrobbant [flavorsuffix]</Transition_DiedExplosive.rulePack.rulesStrings.3>
-  <Transition_DiedExplosive.rulePack.rulesStrings.4>die->kirobbant [flavor]</Transition_DiedExplosive.rulePack.rulesStrings.4>
-  <Transition_DiedExplosive.rulePack.rulesStrings.5>die->kirobbant [flavorsuffix]</Transition_DiedExplosive.rulePack.rulesStrings.5>
-  <Transition_DiedExplosive.rulePack.rulesStrings.6>died(p=3)->felrobbant [flavor]</Transition_DiedExplosive.rulePack.rulesStrings.6>
-  <Transition_DiedExplosive.rulePack.rulesStrings.7>died->szétrobbant [flavor]</Transition_DiedExplosive.rulePack.rulesStrings.7>
-  <Transition_DiedExplosive.rulePack.rulesStrings.8>died->kirobbant [flavor]</Transition_DiedExplosive.rulePack.rulesStrings.8>
-  <Transition_DiedExplosive.rulePack.rulesStrings.9>flavor(p=0.2)->, mint egy [fireball]</Transition_DiedExplosive.rulePack.rulesStrings.9>
-  <Transition_DiedExplosive.rulePack.rulesStrings.10>flavor->, mint egy [color] [fireball]</Transition_DiedExplosive.rulePack.rulesStrings.10>
-  <Transition_DiedExplosive.rulePack.rulesStrings.11>flavor->, mint egy [large] [fireball]</Transition_DiedExplosive.rulePack.rulesStrings.11>
-  <Transition_DiedExplosive.rulePack.rulesStrings.12>flavor(p=4)->, mint egy [fireball]</Transition_DiedExplosive.rulePack.rulesStrings.12>
-  <Transition_DiedExplosive.rulePack.rulesStrings.13>flavor(p=4)-></Transition_DiedExplosive.rulePack.rulesStrings.13>
-  <Transition_DiedExplosive.rulePack.rulesStrings.14>flavorsuffix->, szétszóródó [pieces] [everywhere]</Transition_DiedExplosive.rulePack.rulesStrings.14>
-  <Transition_DiedExplosive.rulePack.rulesStrings.15>flavorsuffix(subject_flesh!=Mechanoid,p=2)->, szétfröccsenő [gore] [everywhere]</Transition_DiedExplosive.rulePack.rulesStrings.15>
-  <Transition_DiedExplosive.rulePack.rulesStrings.16>flavorsuffix(subject_flesh!=Mechanoid)->, szétfröccsenő [gore] maradt utána</Transition_DiedExplosive.rulePack.rulesStrings.16>
-  <Transition_DiedExplosive.rulePack.rulesStrings.17>flavorsuffix->, kis krátert hagyva</Transition_DiedExplosive.rulePack.rulesStrings.17>
-  <Transition_DiedExplosive.rulePack.rulesStrings.18>flavorsuffix(p=4)-></Transition_DiedExplosive.rulePack.rulesStrings.18>
-  <Transition_DiedExplosive.rulePack.rulesStrings.19>fireball(p=3)->tűzgolyó</Transition_DiedExplosive.rulePack.rulesStrings.19>
-  <Transition_DiedExplosive.rulePack.rulesStrings.20>fireball->tűzgolyó</Transition_DiedExplosive.rulePack.rulesStrings.20>
-  <Transition_DiedExplosive.rulePack.rulesStrings.21>fireball->lökéshullám</Transition_DiedExplosive.rulePack.rulesStrings.21>
-  <Transition_DiedExplosive.rulePack.rulesStrings.22>fireball->tűz</Transition_DiedExplosive.rulePack.rulesStrings.22>
-  <Transition_DiedExplosive.rulePack.rulesStrings.23>pieces->darabok</Transition_DiedExplosive.rulePack.rulesStrings.23>
-  <Transition_DiedExplosive.rulePack.rulesStrings.24>pieces->darabkák</Transition_DiedExplosive.rulePack.rulesStrings.24>
-  <Transition_DiedExplosive.rulePack.rulesStrings.25>everywhere->mindenfelé</Transition_DiedExplosive.rulePack.rulesStrings.25>
-  <Transition_DiedExplosive.rulePack.rulesStrings.26>everywhere->mindenütt</Transition_DiedExplosive.rulePack.rulesStrings.26>
+	<Transition_DiedExplosive.rulePack.rulesStrings>
+		<li>die(p=3)->felrobbant [flavor]</li>
+		<li>die(p=3)->felrobbant [flavorsuffix]</li>
+		<li>die->szétrobbant [flavor]</li>
+		<li>die->szétrobbant [flavorsuffix]</li>
+		<li>die->kirobbant [flavor]</li>
+		<li>die->kirobbant [flavorsuffix]</li>
+		<li>died(p=3)->felrobbant [flavor]</li>
+		<li>died->szétrobbant [flavor]</li>
+		<li>died->kirobbant [flavor]</li>
+		<li>flavor(p=0.2)->, mint egy [fireball]</li>
+		<li>flavor->, mint egy [color] [fireball]</li>
+		<li>flavor->, mint egy [large] [fireball]</li>
+		<li>flavor(p=4)->, mint egy [fireball]</li>
+		<li>flavor(p=4)-></li>
+		<li>flavorsuffix->, szétszóródó [pieces] [everywhere]</li>
+		<li>flavorsuffix(subject_flesh!=Mechanoid,p=2)->, szétfröccsenő [gore] [everywhere]</li>
+		<li>flavorsuffix(subject_flesh!=Mechanoid)->, szétfröccsenő [gore] maradt utána</li>
+		<li>flavorsuffix->, kis krátert hagyva</li>
+		<li>flavorsuffix(p=4)-></li>
+		<li>fireball(p=3)->tűzgolyó</li>
+		<li>fireball->tűzgolyó</li>
+		<li>fireball->lökéshullám</li>
+		<li>fireball->tűz</li>
+		<li>pieces->darabok</li>
+		<li>pieces->darabkák</li>
+		<li>everywhere->mindenfelé</li>
+		<li>everywhere->mindenütt</li>
+	</Transition_DiedExplosive.rulePack.rulesStrings>
 
 
 </LanguageData>

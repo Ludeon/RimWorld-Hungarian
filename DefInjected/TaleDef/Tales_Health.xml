@@ -2,365 +2,391 @@
 <LanguageData>
 
   <Wounded.label>sebesülés</Wounded.label>
-  <Wounded.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</Wounded.rulePack.rulesStrings.0>
-  <Wounded.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef], ezzel: [weapon_label]</Wounded.rulePack.rulesStrings.1>
-  <Wounded.rulePack.rulesStrings.2>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</Wounded.rulePack.rulesStrings.2>
-  <Wounded.rulePack.rulesStrings.3>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef], ezzel: [weapon_label]</Wounded.rulePack.rulesStrings.3>
-  <Wounded.rulePack.rulesStrings.4>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</Wounded.rulePack.rulesStrings.4>
-  <Wounded.rulePack.rulesStrings.5>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</Wounded.rulePack.rulesStrings.5>
-  <Wounded.rulePack.rulesStrings.6>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</Wounded.rulePack.rulesStrings.6>
-  <Wounded.rulePack.rulesStrings.7>image->[killer_nameFull] brutálisan [wound_name_present] őt: [victim_nameFull] [weapon_optional]</Wounded.rulePack.rulesStrings.7>
-  <Wounded.rulePack.rulesStrings.8>image->[victim_nameFull] meg lett [wound_name_past] [weapon_optional]</Wounded.rulePack.rulesStrings.8>
-  <Wounded.rulePack.rulesStrings.9>wound_name_past->sebezve</Wounded.rulePack.rulesStrings.9>
-  <Wounded.rulePack.rulesStrings.10>wound_name_past->sebezve</Wounded.rulePack.rulesStrings.10>
-  <Wounded.rulePack.rulesStrings.11>wound_name_past->sebezve</Wounded.rulePack.rulesStrings.11>
-  <Wounded.rulePack.rulesStrings.12>wound_name_past->rohamozva</Wounded.rulePack.rulesStrings.12>
-  <Wounded.rulePack.rulesStrings.13>wound_name_past->támadva</Wounded.rulePack.rulesStrings.13>
-  <Wounded.rulePack.rulesStrings.14>wound_name_present->megsebesíti</Wounded.rulePack.rulesStrings.14>
-  <Wounded.rulePack.rulesStrings.15>wound_name_present->bántja</Wounded.rulePack.rulesStrings.15>
-  <Wounded.rulePack.rulesStrings.16>wound_name_present->megsebzi</Wounded.rulePack.rulesStrings.16>
-  <Wounded.rulePack.rulesStrings.17>wound_name_present->megrohamozza</Wounded.rulePack.rulesStrings.17>
-  <Wounded.rulePack.rulesStrings.18>wound_name_present->megtámadja</Wounded.rulePack.rulesStrings.18>
-  <Wounded.rulePack.rulesStrings.19>weapon_optional->ezzel: [weapon_label] [circumstance_group]</Wounded.rulePack.rulesStrings.19>
-  <Wounded.rulePack.rulesStrings.20>weapon_optional->[circumstance_group]</Wounded.rulePack.rulesStrings.20>
-  <Wounded.rulePack.rulesStrings.21>circumstance_phrase->minden bűntudat nélkül</Wounded.rulePack.rulesStrings.21>
-  <Wounded.rulePack.rulesStrings.22>circumstance_phrase->hideg hatékonysággal</Wounded.rulePack.rulesStrings.22>
-  <Wounded.rulePack.rulesStrings.23>circumstance_phrase->szenvedélyes haraggal</Wounded.rulePack.rulesStrings.23>
-  <Wounded.rulePack.rulesStrings.24>circumstance_phrase->gyors, hatékony mozdulatokkal</Wounded.rulePack.rulesStrings.24>
-  <Wounded.rulePack.rulesStrings.25>circumstance_phrase->érzelem nélkül</Wounded.rulePack.rulesStrings.25>
-  <Wounded.rulePack.rulesStrings.26>circumstance_phrase->puszta szükségszerűség miatt</Wounded.rulePack.rulesStrings.26>
-  <Wounded.rulePack.rulesStrings.27>circumstance_phrase->gyáva módon</Wounded.rulePack.rulesStrings.27>
-  <Wounded.rulePack.rulesStrings.28>desc_sentence->[quantity_adjphrase] [animal] nézi.</Wounded.rulePack.rulesStrings.28>
-  <Wounded.rulePack.rulesStrings.29>desc_sentence->Egy [outlander] csendben figyeli [side_position].</Wounded.rulePack.rulesStrings.29>
-  <Wounded.rulePack.rulesStrings.30>desc_sentence->Vértócsa alakul ki [victim_nameShortDef] teste körül.</Wounded.rulePack.rulesStrings.30>
-  <Wounded.rulePack.rulesStrings.31>desc_sentence->[victim_nameShortDef] testét [gore] borítják.</Wounded.rulePack.rulesStrings.31>
-  <Wounded.rulePack.rulesStrings.32>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</Wounded.rulePack.rulesStrings.32>
-  <Wounded.rulePack.rulesStrings.33>desc_sentence->[victim_nameShortDef] fájdalmában szűköl.</Wounded.rulePack.rulesStrings.33>
-  <Wounded.rulePack.rulesStrings.34>desc_sentence->[victim_nameShortDef] szenvedve szűköl.</Wounded.rulePack.rulesStrings.34>
-  <Wounded.rulePack.rulesStrings.35>desc_sentence->[killer_nameShortDef] vicsorog.</Wounded.rulePack.rulesStrings.35>
-  <Wounded.rulePack.rulesStrings.36>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</Wounded.rulePack.rulesStrings.36>
-  <Wounded.rulePack.rulesStrings.37>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</Wounded.rulePack.rulesStrings.37>
-  <Wounded.rulePack.rulesStrings.38>desc_sentence->[killer_nameShortDef] örül.</Wounded.rulePack.rulesStrings.38>
-  <Wounded.rulePack.rulesStrings.39>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</Wounded.rulePack.rulesStrings.39>
+	<Wounded.rulePack.rulesStrings>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef], ezzel: [weapon_label]</li>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef], ezzel: [weapon_label]</li>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
+		<li>image->[killer_nameFull] brutálisan [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
+		<li>image->[victim_nameFull] meg lett [wound_name_past] [weapon_optional]</li>
+		<li>wound_name_past->sebezve</li>
+		<li>wound_name_past->sebezve</li>
+		<li>wound_name_past->sebezve</li>
+		<li>wound_name_past->rohamozva</li>
+		<li>wound_name_past->támadva</li>
+		<li>wound_name_present->megsebesíti</li>
+		<li>wound_name_present->bántja</li>
+		<li>wound_name_present->megsebzi</li>
+		<li>wound_name_present->megrohamozza</li>
+		<li>wound_name_present->megtámadja</li>
+		<li>weapon_optional->ezzel: [weapon_label] [circumstance_group]</li>
+		<li>weapon_optional->[circumstance_group]</li>
+		<li>circumstance_phrase->minden bűntudat nélkül</li>
+		<li>circumstance_phrase->hideg hatékonysággal</li>
+		<li>circumstance_phrase->szenvedélyes haraggal</li>
+		<li>circumstance_phrase->gyors, hatékony mozdulatokkal</li>
+		<li>circumstance_phrase->érzelem nélkül</li>
+		<li>circumstance_phrase->puszta szükségszerűség miatt</li>
+		<li>circumstance_phrase->gyáva módon</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] nézi.</li>
+		<li>desc_sentence->Egy [outlander] csendben figyeli [side_position].</li>
+		<li>desc_sentence->Vértócsa alakul ki [victim_nameShortDef] teste körül.</li>
+		<li>desc_sentence->[victim_nameShortDef] testét [gore] borítják.</li>
+		<li>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</li>
+		<li>desc_sentence->[victim_nameShortDef] fájdalmában szűköl.</li>
+		<li>desc_sentence->[victim_nameShortDef] szenvedve szűköl.</li>
+		<li>desc_sentence->[killer_nameShortDef] vicsorog.</li>
+		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
+		<li>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</li>
+		<li>desc_sentence->[killer_nameShortDef] örül.</li>
+		<li>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</li>
+	</Wounded.rulePack.rulesStrings>
 
   <Downed.label>lepadlózva</Downed.label>
-  <Downed.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</Downed.rulePack.rulesStrings.0>
-  <Downed.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef], ezzel: [weapon_label]</Downed.rulePack.rulesStrings.1>
-  <Downed.rulePack.rulesStrings.2>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</Downed.rulePack.rulesStrings.2>
-  <Downed.rulePack.rulesStrings.3>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef], ezzel: [weapon_label]</Downed.rulePack.rulesStrings.3>
-  <Downed.rulePack.rulesStrings.4>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</Downed.rulePack.rulesStrings.4>
-  <Downed.rulePack.rulesStrings.5>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</Downed.rulePack.rulesStrings.5>
-  <Downed.rulePack.rulesStrings.6>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</Downed.rulePack.rulesStrings.6>
-  <Downed.rulePack.rulesStrings.7>image->[killer_nameFull] brutálisan [wound_name_present] őt: [victim_nameFull] [weapon_optional]</Downed.rulePack.rulesStrings.7>
-  <Downed.rulePack.rulesStrings.8>image->[victim_nameFull] meg lett [wound_name_past] [weapon_optional]</Downed.rulePack.rulesStrings.8>
-  <Downed.rulePack.rulesStrings.9>wound_name_past->bénítva</Downed.rulePack.rulesStrings.9>
-  <Downed.rulePack.rulesStrings.10>wound_name_past->nyomorítva</Downed.rulePack.rulesStrings.10>
-  <Downed.rulePack.rulesStrings.11>wound_name_past->padlóztatva</Downed.rulePack.rulesStrings.11>
-  <Downed.rulePack.rulesStrings.12>wound_name_past->bénítva</Downed.rulePack.rulesStrings.12>
-  <Downed.rulePack.rulesStrings.13>wound_name_present->megbénítja</Downed.rulePack.rulesStrings.13>
-  <Downed.rulePack.rulesStrings.14>wound_name_present->bántja</Downed.rulePack.rulesStrings.14>
-  <Downed.rulePack.rulesStrings.15>wound_name_present->kiüti</Downed.rulePack.rulesStrings.15>
-  <Downed.rulePack.rulesStrings.16>wound_name_present->lebénítja</Downed.rulePack.rulesStrings.16>
-  <Downed.rulePack.rulesStrings.17>weapon_optional->ezzel:  [weapon_label] [circumstance_group]</Downed.rulePack.rulesStrings.17>
-  <Downed.rulePack.rulesStrings.18>weapon_optional->[circumstance_group]</Downed.rulePack.rulesStrings.18>
-  <Downed.rulePack.rulesStrings.19>circumstance_phrase->minden bűntudat nélkül</Downed.rulePack.rulesStrings.19>
-  <Downed.rulePack.rulesStrings.20>circumstance_phrase->hideg hatékonysággal</Downed.rulePack.rulesStrings.20>
-  <Downed.rulePack.rulesStrings.21>circumstance_phrase->szenvedélyes haraggal</Downed.rulePack.rulesStrings.21>
-  <Downed.rulePack.rulesStrings.22>circumstance_phrase->gyors, hatékony mozdulatokkal</Downed.rulePack.rulesStrings.22>
-  <Downed.rulePack.rulesStrings.23>circumstance_phrase->érzelem nélkül</Downed.rulePack.rulesStrings.23>
-  <Downed.rulePack.rulesStrings.24>circumstance_phrase->puszta szükségszerűség miatt</Downed.rulePack.rulesStrings.24>
-  <Downed.rulePack.rulesStrings.25>circumstance_phrase->gyáva módon</Downed.rulePack.rulesStrings.25>
-  <Downed.rulePack.rulesStrings.26>desc_sentence->[quantity_adjphrase] [animal] nézi.</Downed.rulePack.rulesStrings.26>
-  <Downed.rulePack.rulesStrings.27>desc_sentence->Egy [outlander] csendben figyeli [side_position].</Downed.rulePack.rulesStrings.27>
-  <Downed.rulePack.rulesStrings.28>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</Downed.rulePack.rulesStrings.28>
-  <Downed.rulePack.rulesStrings.29>desc_sentence->[victim_nameShortDef] szemei csukva.</Downed.rulePack.rulesStrings.29>
-  <Downed.rulePack.rulesStrings.30>desc_sentence->[killer_nameShortDef] vicsorog.</Downed.rulePack.rulesStrings.30>
-  <Downed.rulePack.rulesStrings.31>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</Downed.rulePack.rulesStrings.31>
-  <Downed.rulePack.rulesStrings.32>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</Downed.rulePack.rulesStrings.32>
-  <Downed.rulePack.rulesStrings.33>desc_sentence->[killer_nameShortDef] örül.</Downed.rulePack.rulesStrings.33>
-  <Downed.rulePack.rulesStrings.34>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</Downed.rulePack.rulesStrings.34>
+	<Downed.rulePack.rulesStrings>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef], ezzel: [weapon_label]</li>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef], ezzel: [weapon_label]</li>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
+		<li>image->[killer_nameFull] brutálisan [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
+		<li>image->[victim_nameFull] meg lett [wound_name_past] [weapon_optional]</li>
+		<li>wound_name_past->bénítva</li>
+		<li>wound_name_past->nyomorítva</li>
+		<li>wound_name_past->padlóztatva</li>
+		<li>wound_name_past->bénítva</li>
+		<li>wound_name_present->megbénítja</li>
+		<li>wound_name_present->bántja</li>
+		<li>wound_name_present->kiüti</li>
+		<li>wound_name_present->lebénítja</li>
+		<li>weapon_optional->ezzel:  [weapon_label] [circumstance_group]</li>
+		<li>weapon_optional->[circumstance_group]</li>
+		<li>circumstance_phrase->minden bűntudat nélkül</li>
+		<li>circumstance_phrase->hideg hatékonysággal</li>
+		<li>circumstance_phrase->szenvedélyes haraggal</li>
+		<li>circumstance_phrase->gyors, hatékony mozdulatokkal</li>
+		<li>circumstance_phrase->érzelem nélkül</li>
+		<li>circumstance_phrase->puszta szükségszerűség miatt</li>
+		<li>circumstance_phrase->gyáva módon</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] nézi.</li>
+		<li>desc_sentence->Egy [outlander] csendben figyeli [side_position].</li>
+		<li>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</li>
+		<li>desc_sentence->[victim_nameShortDef] szemei csukva.</li>
+		<li>desc_sentence->[killer_nameShortDef] vicsorog.</li>
+		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
+		<li>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</li>
+		<li>desc_sentence->[killer_nameShortDef] örül.</li>
+		<li>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</li>
+	</Downed.rulePack.rulesStrings>
 
   <KilledLongRange.label>lelőve</KilledLongRange.label>
-  <KilledLongRange.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef] óriási távolságról [wound_name_present] őt: [victim_nameShortDef]</KilledLongRange.rulePack.rulesStrings.0>
-  <KilledLongRange.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef] óriási távolságról [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</KilledLongRange.rulePack.rulesStrings.1>
-  <KilledLongRange.rulePack.rulesStrings.2>tale_noun->[killer_nameShortDef] óriási távolságról [wound_name_present] őt: [victim_nameShortDef]</KilledLongRange.rulePack.rulesStrings.2>
-  <KilledLongRange.rulePack.rulesStrings.3>tale_noun->[killer_nameShortDef] óriási távolságról [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</KilledLongRange.rulePack.rulesStrings.3>
-  <KilledLongRange.rulePack.rulesStrings.4>image->[killer_nameFull] célba veszi őt: [victim_nameFull] [weapon_optional]</KilledLongRange.rulePack.rulesStrings.4>
-  <KilledLongRange.rulePack.rulesStrings.5>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</KilledLongRange.rulePack.rulesStrings.5>
-  <KilledLongRange.rulePack.rulesStrings.6>image->[killer_nameFull] hidegvérrel [wound_name_present] őt: [victim_nameFull] [weapon_optional]</KilledLongRange.rulePack.rulesStrings.6>
-  <KilledLongRange.rulePack.rulesStrings.7>wound_name_past->gyilkolva</KilledLongRange.rulePack.rulesStrings.7>
-  <KilledLongRange.rulePack.rulesStrings.8>wound_name_past->ölve</KilledLongRange.rulePack.rulesStrings.8>
-  <KilledLongRange.rulePack.rulesStrings.9>wound_name_past->gyilkolva</KilledLongRange.rulePack.rulesStrings.9>
-  <KilledLongRange.rulePack.rulesStrings.10>wound_name_past->ölve</KilledLongRange.rulePack.rulesStrings.10>
-  <KilledLongRange.rulePack.rulesStrings.11>wound_name_present->meggyilkolja</KilledLongRange.rulePack.rulesStrings.11>
-  <KilledLongRange.rulePack.rulesStrings.12>wound_name_present->lemészárolja</KilledLongRange.rulePack.rulesStrings.12>
-  <KilledLongRange.rulePack.rulesStrings.13>wound_name_present->megöli</KilledLongRange.rulePack.rulesStrings.13>
-  <KilledLongRange.rulePack.rulesStrings.14>wound_name_present->kinyírja</KilledLongRange.rulePack.rulesStrings.14>
-  <KilledLongRange.rulePack.rulesStrings.15>weapon_optional->ezzel: [weapon_label] [circumstance_group]</KilledLongRange.rulePack.rulesStrings.15>
-  <KilledLongRange.rulePack.rulesStrings.16>weapon_optional->[circumstance_group]</KilledLongRange.rulePack.rulesStrings.16>
-  <KilledLongRange.rulePack.rulesStrings.17>circumstance_phrase->minden bűntudat nélkül</KilledLongRange.rulePack.rulesStrings.17>
-  <KilledLongRange.rulePack.rulesStrings.18>circumstance_phrase->hideg hatékonysággal</KilledLongRange.rulePack.rulesStrings.18>
-  <KilledLongRange.rulePack.rulesStrings.19>circumstance_phrase->messziről</KilledLongRange.rulePack.rulesStrings.19>
-  <KilledLongRange.rulePack.rulesStrings.20>circumstance_phrase->nagy magasságból</KilledLongRange.rulePack.rulesStrings.20>
-  <KilledLongRange.rulePack.rulesStrings.21>circumstance_phrase->érzelem nélkül</KilledLongRange.rulePack.rulesStrings.21>
-  <KilledLongRange.rulePack.rulesStrings.22>circumstance_phrase->gyáva módon</KilledLongRange.rulePack.rulesStrings.22>
-  <KilledLongRange.rulePack.rulesStrings.23>desc_sentence->[quantity_adjphrase] [animal] nézi.</KilledLongRange.rulePack.rulesStrings.23>
-  <KilledLongRange.rulePack.rulesStrings.24>desc_sentence->Egy [outlander] csendben figyeli [side_position].</KilledLongRange.rulePack.rulesStrings.24>
-  <KilledLongRange.rulePack.rulesStrings.25>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</KilledLongRange.rulePack.rulesStrings.25>
-  <KilledLongRange.rulePack.rulesStrings.26>desc_sentence->[victim_nameShortDef] szemei csukva.</KilledLongRange.rulePack.rulesStrings.26>
-  <KilledLongRange.rulePack.rulesStrings.27>desc_sentence->[victim_nameShortDef] testét [gore] borítják.</KilledLongRange.rulePack.rulesStrings.27>
-  <KilledLongRange.rulePack.rulesStrings.28>desc_sentence->[killer_nameShortDef] vicsorog.</KilledLongRange.rulePack.rulesStrings.28>
-  <KilledLongRange.rulePack.rulesStrings.29>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</KilledLongRange.rulePack.rulesStrings.29>
-  <KilledLongRange.rulePack.rulesStrings.30>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</KilledLongRange.rulePack.rulesStrings.30>
-  <KilledLongRange.rulePack.rulesStrings.31>desc_sentence->[killer_nameShortDef] örül.</KilledLongRange.rulePack.rulesStrings.31>
-  <KilledLongRange.rulePack.rulesStrings.32>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</KilledLongRange.rulePack.rulesStrings.32>
+	<KilledLongRange.rulePack.rulesStrings>
+		<li>tale_noun->[killer_nameShortDef] óriási távolságról [wound_name_present] őt: [victim_nameShortDef]</li>
+		<li>tale_noun->[killer_nameShortDef] óriási távolságról [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</li>
+		<li>tale_noun->[killer_nameShortDef] óriási távolságról [wound_name_present] őt: [victim_nameShortDef]</li>
+		<li>tale_noun->[killer_nameShortDef] óriási távolságról [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</li>
+		<li>image->[killer_nameFull] célba veszi őt: [victim_nameFull] [weapon_optional]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
+		<li>image->[killer_nameFull] hidegvérrel [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
+		<li>wound_name_past->gyilkolva</li>
+		<li>wound_name_past->ölve</li>
+		<li>wound_name_past->gyilkolva</li>
+		<li>wound_name_past->ölve</li>
+		<li>wound_name_present->meggyilkolja</li>
+		<li>wound_name_present->lemészárolja</li>
+		<li>wound_name_present->megöli</li>
+		<li>wound_name_present->kinyírja</li>
+		<li>weapon_optional->ezzel: [weapon_label] [circumstance_group]</li>
+		<li>weapon_optional->[circumstance_group]</li>
+		<li>circumstance_phrase->minden bűntudat nélkül</li>
+		<li>circumstance_phrase->hideg hatékonysággal</li>
+		<li>circumstance_phrase->messziről</li>
+		<li>circumstance_phrase->nagy magasságból</li>
+		<li>circumstance_phrase->érzelem nélkül</li>
+		<li>circumstance_phrase->gyáva módon</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] nézi.</li>
+		<li>desc_sentence->Egy [outlander] csendben figyeli [side_position].</li>
+		<li>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</li>
+		<li>desc_sentence->[victim_nameShortDef] szemei csukva.</li>
+		<li>desc_sentence->[victim_nameShortDef] testét [gore] borítják.</li>
+		<li>desc_sentence->[killer_nameShortDef] vicsorog.</li>
+		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
+		<li>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</li>
+		<li>desc_sentence->[killer_nameShortDef] örül.</li>
+		<li>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</li>
+	</KilledLongRange.rulePack.rulesStrings>
 
   <KilledMelee.label>levágva</KilledMelee.label>
-  <KilledMelee.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef] közelharcban [wound_name_present] őt: [victim_nameShortDef]</KilledMelee.rulePack.rulesStrings.0>
-  <KilledMelee.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef] közelharcban [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</KilledMelee.rulePack.rulesStrings.1>
-  <KilledMelee.rulePack.rulesStrings.2>tale_noun->[killer_nameShortDef] közelharcban [wound_name_present] őt: [victim_nameShortDef]</KilledMelee.rulePack.rulesStrings.2>
-  <KilledMelee.rulePack.rulesStrings.3>tale_noun->[killer_nameShortDef] közelharcban [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</KilledMelee.rulePack.rulesStrings.3>
-  <KilledMelee.rulePack.rulesStrings.4>image->image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</KilledMelee.rulePack.rulesStrings.4>
-  <KilledMelee.rulePack.rulesStrings.5>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</KilledMelee.rulePack.rulesStrings.5>
-  <KilledMelee.rulePack.rulesStrings.6>image->[killer_nameFull] brutálisan [wound_name_present] őt: [victim_nameFull] [weapon_optional]</KilledMelee.rulePack.rulesStrings.6>
-  <KilledMelee.rulePack.rulesStrings.7>image->[victim_nameFull] meg lett [wound_name_past] [weapon_optional]</KilledMelee.rulePack.rulesStrings.7>
-  <KilledMelee.rulePack.rulesStrings.8>wound_name_past->gyilkolva</KilledMelee.rulePack.rulesStrings.8>
-  <KilledMelee.rulePack.rulesStrings.9>wound_name_past->ölve</KilledMelee.rulePack.rulesStrings.9>
-  <KilledMelee.rulePack.rulesStrings.10>wound_name_past->gyilkolva</KilledMelee.rulePack.rulesStrings.10>
-  <KilledMelee.rulePack.rulesStrings.11>wound_name_past->csonkítva</KilledMelee.rulePack.rulesStrings.11>
-  <KilledMelee.rulePack.rulesStrings.12>wound_name_present->meggyilkolja</KilledMelee.rulePack.rulesStrings.12>
-  <KilledMelee.rulePack.rulesStrings.13>wound_name_present->megöli</KilledMelee.rulePack.rulesStrings.13>
-  <KilledMelee.rulePack.rulesStrings.14>wound_name_present->lemészárolja</KilledMelee.rulePack.rulesStrings.14>
-  <KilledMelee.rulePack.rulesStrings.15>wound_name_present->megcsonkítja</KilledMelee.rulePack.rulesStrings.15>
-  <KilledMelee.rulePack.rulesStrings.16>weapon_optional->ezzel: [weapon_label] [circumstance_group]</KilledMelee.rulePack.rulesStrings.16>
-  <KilledMelee.rulePack.rulesStrings.17>weapon_optional->[circumstance_group]</KilledMelee.rulePack.rulesStrings.17>
-  <KilledMelee.rulePack.rulesStrings.18>circumstance_phrase->minden bűntudat nélkül</KilledMelee.rulePack.rulesStrings.18>
-  <KilledMelee.rulePack.rulesStrings.19>circumstance_phrase->hideg hatékonysággal</KilledMelee.rulePack.rulesStrings.19>
-  <KilledMelee.rulePack.rulesStrings.20>circumstance_phrase->gyors, hatékony mozdulatokkal</KilledMelee.rulePack.rulesStrings.20>
-  <KilledMelee.rulePack.rulesStrings.21>circumstance_phrase->érzelem nélkül</KilledMelee.rulePack.rulesStrings.21>
-  <KilledMelee.rulePack.rulesStrings.22>circumstance_phrase->gyáva módon</KilledMelee.rulePack.rulesStrings.22>
-  <KilledMelee.rulePack.rulesStrings.23>desc_sentence->[quantity_adjphrase] [animal] nézi.</KilledMelee.rulePack.rulesStrings.23>
-  <KilledMelee.rulePack.rulesStrings.24>desc_sentence->Egy [outlander] csendben figyeli [side_position].</KilledMelee.rulePack.rulesStrings.24>
-  <KilledMelee.rulePack.rulesStrings.25>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</KilledMelee.rulePack.rulesStrings.25>
-  <KilledMelee.rulePack.rulesStrings.26>desc_sentence->[victim_nameShortDef] szemei csukva.</KilledMelee.rulePack.rulesStrings.26>
-  <KilledMelee.rulePack.rulesStrings.27>desc_sentence->[victim_nameShortDef] testét [gore] borítják.</KilledMelee.rulePack.rulesStrings.27>
-  <KilledMelee.rulePack.rulesStrings.28>desc_sentence->[victim_nameShortDef] és [killer_nameShortDef] testét [gore] borítják.</KilledMelee.rulePack.rulesStrings.28>
-  <KilledMelee.rulePack.rulesStrings.29>desc_sentence->[killer_nameShortDef] testét [gore] borítják.</KilledMelee.rulePack.rulesStrings.29>
-  <KilledMelee.rulePack.rulesStrings.30>desc_sentence->[killer_nameShortDef] vicsorog.</KilledMelee.rulePack.rulesStrings.30>
-  <KilledMelee.rulePack.rulesStrings.31>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</KilledMelee.rulePack.rulesStrings.31>
-  <KilledMelee.rulePack.rulesStrings.32>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</KilledMelee.rulePack.rulesStrings.32>
-  <KilledMelee.rulePack.rulesStrings.33>desc_sentence->[killer_nameShortDef] örül.</KilledMelee.rulePack.rulesStrings.33>
-  <KilledMelee.rulePack.rulesStrings.34>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</KilledMelee.rulePack.rulesStrings.34>
-  <KilledMelee.rulePack.rulesStrings.35>desc_sentence->[killer_nameShortDef] állatias arcot vág.</KilledMelee.rulePack.rulesStrings.35>
+	<KilledMelee.rulePack.rulesStrings>
+		<li>tale_noun->[killer_nameShortDef] közelharcban [wound_name_present] őt: [victim_nameShortDef]</li>
+		<li>tale_noun->[killer_nameShortDef] közelharcban [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</li>
+		<li>tale_noun->[killer_nameShortDef] közelharcban [wound_name_present] őt: [victim_nameShortDef]</li>
+		<li>tale_noun->[killer_nameShortDef] közelharcban [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</li>
+		<li>image->image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
+		<li>image->[killer_nameFull] brutálisan [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
+		<li>image->[victim_nameFull] meg lett [wound_name_past] [weapon_optional]</li>
+		<li>wound_name_past->gyilkolva</li>
+		<li>wound_name_past->ölve</li>
+		<li>wound_name_past->gyilkolva</li>
+		<li>wound_name_past->csonkítva</li>
+		<li>wound_name_present->meggyilkolja</li>
+		<li>wound_name_present->megöli</li>
+		<li>wound_name_present->lemészárolja</li>
+		<li>wound_name_present->megcsonkítja</li>
+		<li>weapon_optional->ezzel: [weapon_label] [circumstance_group]</li>
+		<li>weapon_optional->[circumstance_group]</li>
+		<li>circumstance_phrase->minden bűntudat nélkül</li>
+		<li>circumstance_phrase->hideg hatékonysággal</li>
+		<li>circumstance_phrase->gyors, hatékony mozdulatokkal</li>
+		<li>circumstance_phrase->érzelem nélkül</li>
+		<li>circumstance_phrase->gyáva módon</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] nézi.</li>
+		<li>desc_sentence->Egy [outlander] csendben figyeli [side_position].</li>
+		<li>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</li>
+		<li>desc_sentence->[victim_nameShortDef] szemei csukva.</li>
+		<li>desc_sentence->[victim_nameShortDef] testét [gore] borítják.</li>
+		<li>desc_sentence->[victim_nameShortDef] és [killer_nameShortDef] testét [gore] borítják.</li>
+		<li>desc_sentence->[killer_nameShortDef] testét [gore] borítják.</li>
+		<li>desc_sentence->[killer_nameShortDef] vicsorog.</li>
+		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
+		<li>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</li>
+		<li>desc_sentence->[killer_nameShortDef] örül.</li>
+		<li>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</li>
+		<li>desc_sentence->[killer_nameShortDef] állatias arcot vág.</li>
+	</KilledMelee.rulePack.rulesStrings>
 
   <KilledMajorThreat.label>fő fenyegetés meggyilkolva</KilledMajorThreat.label>
-  <KilledMajorThreat.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</KilledMajorThreat.rulePack.rulesStrings.0>
-  <KilledMajorThreat.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</KilledMajorThreat.rulePack.rulesStrings.1>
-  <KilledMajorThreat.rulePack.rulesStrings.2>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</KilledMajorThreat.rulePack.rulesStrings.2>
-  <KilledMajorThreat.rulePack.rulesStrings.3>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</KilledMajorThreat.rulePack.rulesStrings.3>
-  <KilledMajorThreat.rulePack.rulesStrings.4>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</KilledMajorThreat.rulePack.rulesStrings.4>
-  <KilledMajorThreat.rulePack.rulesStrings.5>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</KilledMajorThreat.rulePack.rulesStrings.5>
-  <KilledMajorThreat.rulePack.rulesStrings.6>image->[killer_nameFull] brutálisan [wound_name_present] őt: [victim_nameFull] [weapon_optional]</KilledMajorThreat.rulePack.rulesStrings.6>
-  <KilledMajorThreat.rulePack.rulesStrings.7>image->[victim_nameFull] meg lett [wound_name_past] [weapon_optional]</KilledMajorThreat.rulePack.rulesStrings.7>
-  <KilledMajorThreat.rulePack.rulesStrings.8>wound_name_past->ölve</KilledMajorThreat.rulePack.rulesStrings.8>
-  <KilledMajorThreat.rulePack.rulesStrings.9>wound_name_past->semmisítve</KilledMajorThreat.rulePack.rulesStrings.9>
-  <KilledMajorThreat.rulePack.rulesStrings.10>wound_name_past->gyilkolva</KilledMajorThreat.rulePack.rulesStrings.10>
-  <KilledMajorThreat.rulePack.rulesStrings.11>wound_name_present->megöli</KilledMajorThreat.rulePack.rulesStrings.11>
-  <KilledMajorThreat.rulePack.rulesStrings.12>wound_name_present->legyőzi</KilledMajorThreat.rulePack.rulesStrings.12>
-  <KilledMajorThreat.rulePack.rulesStrings.13>wound_name_present->legyőzi</KilledMajorThreat.rulePack.rulesStrings.13>
-  <KilledMajorThreat.rulePack.rulesStrings.14>weapon_optional->ezzel: [weapon_label] [circumstance_group]</KilledMajorThreat.rulePack.rulesStrings.14>
-  <KilledMajorThreat.rulePack.rulesStrings.15>weapon_optional->[circumstance_group]</KilledMajorThreat.rulePack.rulesStrings.15>
-  <KilledMajorThreat.rulePack.rulesStrings.16>circumstance_phrase->hideg hatékonysággal</KilledMajorThreat.rulePack.rulesStrings.16>
-  <KilledMajorThreat.rulePack.rulesStrings.17>circumstance_phrase->gyors, hatékony mozdulatokkal</KilledMajorThreat.rulePack.rulesStrings.17>
-  <KilledMajorThreat.rulePack.rulesStrings.18>circumstance_phrase->érzelem nélkül</KilledMajorThreat.rulePack.rulesStrings.18>
-  <KilledMajorThreat.rulePack.rulesStrings.19>circumstance_phrase->hősiesen</KilledMajorThreat.rulePack.rulesStrings.19>
-  <KilledMajorThreat.rulePack.rulesStrings.20>circumstance_phrase->elképesztő erővel</KilledMajorThreat.rulePack.rulesStrings.20>
-  <KilledMajorThreat.rulePack.rulesStrings.21>desc_sentence->[quantity_adjphrase] [animal] nézi.</KilledMajorThreat.rulePack.rulesStrings.21>
-  <KilledMajorThreat.rulePack.rulesStrings.22>desc_sentence->Egy [outlander] csendben figyeli [side_position].</KilledMajorThreat.rulePack.rulesStrings.22>
-  <KilledMajorThreat.rulePack.rulesStrings.23>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</KilledMajorThreat.rulePack.rulesStrings.23>
-  <KilledMajorThreat.rulePack.rulesStrings.24>desc_sentence->[victim_nameShortDef] szemei csukva.</KilledMajorThreat.rulePack.rulesStrings.24>
-  <KilledMajorThreat.rulePack.rulesStrings.25>desc_sentence->[victim_nameShortDef] testét [gore] borítják.</KilledMajorThreat.rulePack.rulesStrings.25>
-  <KilledMajorThreat.rulePack.rulesStrings.26>desc_sentence->[victim_nameShortDef] és [killer_nameShortDef] testét [gore] borítják.</KilledMajorThreat.rulePack.rulesStrings.26>
-  <KilledMajorThreat.rulePack.rulesStrings.27>desc_sentence->[victim_nameShortDef] teteme [killer_nameShortDef] fölé magasodik.</KilledMajorThreat.rulePack.rulesStrings.27>
-  <KilledMajorThreat.rulePack.rulesStrings.28>desc_sentence->[victim_nameShortDef] óriási teteme eltakarja ezt: [terrainfeature].</KilledMajorThreat.rulePack.rulesStrings.28>
-  <KilledMajorThreat.rulePack.rulesStrings.29>desc_sentence->[victim_nameShortDef] szemei [color] színben ragyognak.</KilledMajorThreat.rulePack.rulesStrings.29>
-  <KilledMajorThreat.rulePack.rulesStrings.30>desc_sentence->[killer_nameShortDef] testét [gore] borítják.</KilledMajorThreat.rulePack.rulesStrings.30>
-  <KilledMajorThreat.rulePack.rulesStrings.31>desc_sentence->[killer_nameShortDef] vicsorog.</KilledMajorThreat.rulePack.rulesStrings.31>
-  <KilledMajorThreat.rulePack.rulesStrings.32>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</KilledMajorThreat.rulePack.rulesStrings.32>
-  <KilledMajorThreat.rulePack.rulesStrings.33>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</KilledMajorThreat.rulePack.rulesStrings.33>
-  <KilledMajorThreat.rulePack.rulesStrings.34>desc_sentence->[killer_nameShortDef] [badassadjective] arcot vág.</KilledMajorThreat.rulePack.rulesStrings.34>
-  <KilledMajorThreat.rulePack.rulesStrings.35>desc_sentence->[killer_nameShortDef] hősies aurája fénylik.</KilledMajorThreat.rulePack.rulesStrings.35>
+	<KilledMajorThreat.rulePack.rulesStrings>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</li>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
+		<li>image->[killer_nameFull] brutálisan [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
+		<li>image->[victim_nameFull] meg lett [wound_name_past] [weapon_optional]</li>
+		<li>wound_name_past->ölve</li>
+		<li>wound_name_past->semmisítve</li>
+		<li>wound_name_past->gyilkolva</li>
+		<li>wound_name_present->megöli</li>
+		<li>wound_name_present->legyőzi</li>
+		<li>wound_name_present->legyőzi</li>
+		<li>weapon_optional->ezzel: [weapon_label] [circumstance_group]</li>
+		<li>weapon_optional->[circumstance_group]</li>
+		<li>circumstance_phrase->hideg hatékonysággal</li>
+		<li>circumstance_phrase->gyors, hatékony mozdulatokkal</li>
+		<li>circumstance_phrase->érzelem nélkül</li>
+		<li>circumstance_phrase->hősiesen</li>
+		<li>circumstance_phrase->elképesztő erővel</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] nézi.</li>
+		<li>desc_sentence->Egy [outlander] csendben figyeli [side_position].</li>
+		<li>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</li>
+		<li>desc_sentence->[victim_nameShortDef] szemei csukva.</li>
+		<li>desc_sentence->[victim_nameShortDef] testét [gore] borítják.</li>
+		<li>desc_sentence->[victim_nameShortDef] és [killer_nameShortDef] testét [gore] borítják.</li>
+		<li>desc_sentence->[victim_nameShortDef] teteme [killer_nameShortDef] fölé magasodik.</li>
+		<li>desc_sentence->[victim_nameShortDef] óriási teteme eltakarja ezt: [terrainfeature].</li>
+		<li>desc_sentence->[victim_nameShortDef] szemei [color] színben ragyognak.</li>
+		<li>desc_sentence->[killer_nameShortDef] testét [gore] borítják.</li>
+		<li>desc_sentence->[killer_nameShortDef] vicsorog.</li>
+		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
+		<li>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</li>
+		<li>desc_sentence->[killer_nameShortDef] [badassadjective] arcot vág.</li>
+		<li>desc_sentence->[killer_nameShortDef] hősies aurája fénylik.</li>
+	</KilledMajorThreat.rulePack.rulesStrings>
 
   <KilledCapacity.label>meggyilkolva</KilledCapacity.label>
-  <KilledCapacity.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</KilledCapacity.rulePack.rulesStrings.0>
-  <KilledCapacity.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</KilledCapacity.rulePack.rulesStrings.1>
-  <KilledCapacity.rulePack.rulesStrings.2>image->[killer_nameFull] [cap_removal] [victim_nameFull] következő képességét: [capacity_label] [weapon_optional]</KilledCapacity.rulePack.rulesStrings.2>
-  <KilledCapacity.rulePack.rulesStrings.3>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] azzal, hogy [cap_removal] következő képességét: [capacity_label] [weapon_optional]</KilledCapacity.rulePack.rulesStrings.3>
-  <KilledCapacity.rulePack.rulesStrings.4>cap_removal->eliminálta</KilledCapacity.rulePack.rulesStrings.4>
-  <KilledCapacity.rulePack.rulesStrings.5>cap_removal->kivégezte</KilledCapacity.rulePack.rulesStrings.5>
-  <KilledCapacity.rulePack.rulesStrings.6>cap_removal->megszűntette</KilledCapacity.rulePack.rulesStrings.6>
-  <KilledCapacity.rulePack.rulesStrings.7>wound_name_past->ölve</KilledCapacity.rulePack.rulesStrings.7>
-  <KilledCapacity.rulePack.rulesStrings.8>wound_name_past->semmisítve</KilledCapacity.rulePack.rulesStrings.8>
-  <KilledCapacity.rulePack.rulesStrings.9>wound_name_past->ölve</KilledCapacity.rulePack.rulesStrings.9>
-  <KilledCapacity.rulePack.rulesStrings.10>wound_name_past->ölve</KilledCapacity.rulePack.rulesStrings.10>
-  <KilledCapacity.rulePack.rulesStrings.11>wound_name_present->megöli</KilledCapacity.rulePack.rulesStrings.11>
-  <KilledCapacity.rulePack.rulesStrings.12>wound_name_present->kivégzi</KilledCapacity.rulePack.rulesStrings.12>
-  <KilledCapacity.rulePack.rulesStrings.13>wound_name_present->megöli</KilledCapacity.rulePack.rulesStrings.13>
-  <KilledCapacity.rulePack.rulesStrings.14>wound_name_present->megsemmisíti</KilledCapacity.rulePack.rulesStrings.14>
-  <KilledCapacity.rulePack.rulesStrings.15>weapon_optional->ezzel: [weapon_label] [circumstance_group]</KilledCapacity.rulePack.rulesStrings.15>
-  <KilledCapacity.rulePack.rulesStrings.16>weapon_optional->[circumstance_group]</KilledCapacity.rulePack.rulesStrings.16>
-  <KilledCapacity.rulePack.rulesStrings.17>circumstance_phrase->minden bűntudat nélkül</KilledCapacity.rulePack.rulesStrings.17>
-  <KilledCapacity.rulePack.rulesStrings.18>circumstance_phrase->hideg hatékonysággal</KilledCapacity.rulePack.rulesStrings.18>
-  <KilledCapacity.rulePack.rulesStrings.19>circumstance_phrase->gyors, hatékony mozdulatokkal</KilledCapacity.rulePack.rulesStrings.19>
-  <KilledCapacity.rulePack.rulesStrings.20>circumstance_phrase->érzelem nélkül</KilledCapacity.rulePack.rulesStrings.20>
-  <KilledCapacity.rulePack.rulesStrings.21>desc_sentence->[quantity_adjphrase] [animal] nézi.</KilledCapacity.rulePack.rulesStrings.21>
-  <KilledCapacity.rulePack.rulesStrings.22>desc_sentence->Egy [outlander] csendben figyeli [side_position].</KilledCapacity.rulePack.rulesStrings.22>
-  <KilledCapacity.rulePack.rulesStrings.23>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</KilledCapacity.rulePack.rulesStrings.23>
-  <KilledCapacity.rulePack.rulesStrings.24>desc_sentence->[victim_nameShortDef] szemei csukva.</KilledCapacity.rulePack.rulesStrings.24>
-  <KilledCapacity.rulePack.rulesStrings.25>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</KilledCapacity.rulePack.rulesStrings.25>
-  <KilledCapacity.rulePack.rulesStrings.26>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</KilledCapacity.rulePack.rulesStrings.26>
-  <KilledCapacity.rulePack.rulesStrings.27>desc_sentence->[killer_nameShortDef] örül.</KilledCapacity.rulePack.rulesStrings.27>
-  <KilledCapacity.rulePack.rulesStrings.28>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</KilledCapacity.rulePack.rulesStrings.28>
+	<KilledCapacity.rulePack.rulesStrings>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</li>
+		<li>image->[killer_nameFull] [cap_removal] [victim_nameFull] következő képességét: [capacity_label] [weapon_optional]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] azzal, hogy [cap_removal] következő képességét: [capacity_label] [weapon_optional]</li>
+		<li>cap_removal->eliminálta</li>
+		<li>cap_removal->kivégezte</li>
+		<li>cap_removal->megszűntette</li>
+		<li>wound_name_past->ölve</li>
+		<li>wound_name_past->semmisítve</li>
+		<li>wound_name_past->ölve</li>
+		<li>wound_name_past->ölve</li>
+		<li>wound_name_present->megöli</li>
+		<li>wound_name_present->kivégzi</li>
+		<li>wound_name_present->megöli</li>
+		<li>wound_name_present->megsemmisíti</li>
+		<li>weapon_optional->ezzel: [weapon_label] [circumstance_group]</li>
+		<li>weapon_optional->[circumstance_group]</li>
+		<li>circumstance_phrase->minden bűntudat nélkül</li>
+		<li>circumstance_phrase->hideg hatékonysággal</li>
+		<li>circumstance_phrase->gyors, hatékony mozdulatokkal</li>
+		<li>circumstance_phrase->érzelem nélkül</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] nézi.</li>
+		<li>desc_sentence->Egy [outlander] csendben figyeli [side_position].</li>
+		<li>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</li>
+		<li>desc_sentence->[victim_nameShortDef] szemei csukva.</li>
+		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
+		<li>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</li>
+		<li>desc_sentence->[killer_nameShortDef] örül.</li>
+		<li>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</li>
+	</KilledCapacity.rulePack.rulesStrings>
 
   <KilledMortar.label>ágyúval meggyilkolva</KilledMortar.label>
-  <KilledMortar.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef] egy ágyúval</KilledMortar.rulePack.rulesStrings.0>
-  <KilledMortar.rulePack.rulesStrings.1>tale_noun->[victim_nameShortDef] halála [killer_nameShortDef] ágyúlövésétől</KilledMortar.rulePack.rulesStrings.1>
-  <KilledMortar.rulePack.rulesStrings.2>image->[killer_nameFull] gondosan céloz [circumstance_group]</KilledMortar.rulePack.rulesStrings.2>
-  <KilledMortar.rulePack.rulesStrings.3>image->[killer_nameFull] a távolba néz [circumstance_group]</KilledMortar.rulePack.rulesStrings.3>
-  <KilledMortar.rulePack.rulesStrings.4>image->[killer_nameFull] papíron számol [circumstance_group]</KilledMortar.rulePack.rulesStrings.4>
-  <KilledMortar.rulePack.rulesStrings.5>image->[killer_nameFull] szélirányt tesztel [circumstance_group]</KilledMortar.rulePack.rulesStrings.5>
-  <KilledMortar.rulePack.rulesStrings.6>circumstance_phrase->miközben [victim_nameFull] egy óriási robbanásban megsemmisül</KilledMortar.rulePack.rulesStrings.6>
-  <KilledMortar.rulePack.rulesStrings.7>circumstance_phrase->miközben a lövedék [victim_nameFull] felé száll</KilledMortar.rulePack.rulesStrings.7>
-  <KilledMortar.rulePack.rulesStrings.8>circumstance_phrase->miközben [victim_nameFull] sétálgat</KilledMortar.rulePack.rulesStrings.8>
-  <KilledMortar.rulePack.rulesStrings.9>circumstance_phrase->miközben [victim_nameFull] rohan</KilledMortar.rulePack.rulesStrings.9>
-  <KilledMortar.rulePack.rulesStrings.10>desc_sentence->[quantity_adjphrase] [animal] nézi.</KilledMortar.rulePack.rulesStrings.10>
-  <KilledMortar.rulePack.rulesStrings.11>desc_sentence->Egy [outlander] csendben figyeli [side_position].</KilledMortar.rulePack.rulesStrings.11>
-  <KilledMortar.rulePack.rulesStrings.12>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</KilledMortar.rulePack.rulesStrings.12>
-  <KilledMortar.rulePack.rulesStrings.13>desc_sentence->[victim_nameShortDef] testét [gore] borítják.</KilledMortar.rulePack.rulesStrings.13>
-  <KilledMortar.rulePack.rulesStrings.14>desc_sentence->[victim_nameShortDef] körül robbanások villannak.</KilledMortar.rulePack.rulesStrings.14>
-  <KilledMortar.rulePack.rulesStrings.15>desc_sentence->[victim_nameShortDef] körül kráterek lyuggatják a földet.</KilledMortar.rulePack.rulesStrings.15>
-  <KilledMortar.rulePack.rulesStrings.16>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</KilledMortar.rulePack.rulesStrings.16>
-  <KilledMortar.rulePack.rulesStrings.17>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</KilledMortar.rulePack.rulesStrings.17>
-  <KilledMortar.rulePack.rulesStrings.18>desc_sentence->[killer_nameShortDef] örül.</KilledMortar.rulePack.rulesStrings.18>
-  <KilledMortar.rulePack.rulesStrings.19>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</KilledMortar.rulePack.rulesStrings.19>
+	<KilledMortar.rulePack.rulesStrings>
+		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef] egy ágyúval</li>
+		<li>tale_noun->[victim_nameShortDef] halála [killer_nameShortDef] ágyúlövésétől</li>
+		<li>image->[killer_nameFull] gondosan céloz [circumstance_group]</li>
+		<li>image->[killer_nameFull] a távolba néz [circumstance_group]</li>
+		<li>image->[killer_nameFull] papíron számol [circumstance_group]</li>
+		<li>image->[killer_nameFull] szélirányt tesztel [circumstance_group]</li>
+		<li>circumstance_phrase->miközben [victim_nameFull] egy óriási robbanásban megsemmisül</li>
+		<li>circumstance_phrase->miközben a lövedék [victim_nameFull] felé száll</li>
+		<li>circumstance_phrase->miközben [victim_nameFull] sétálgat</li>
+		<li>circumstance_phrase->miközben [victim_nameFull] rohan</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] nézi.</li>
+		<li>desc_sentence->Egy [outlander] csendben figyeli [side_position].</li>
+		<li>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</li>
+		<li>desc_sentence->[victim_nameShortDef] testét [gore] borítják.</li>
+		<li>desc_sentence->[victim_nameShortDef] körül robbanások villannak.</li>
+		<li>desc_sentence->[victim_nameShortDef] körül kráterek lyuggatják a földet.</li>
+		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
+		<li>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</li>
+		<li>desc_sentence->[killer_nameShortDef] örül.</li>
+		<li>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</li>
+	</KilledMortar.rulePack.rulesStrings>
 
   <Exhausted.label>kimerülés</Exhausted.label>
-  <Exhausted.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] összeesik a kimerültségtől</Exhausted.rulePack.rulesStrings.0>
-  <Exhausted.rulePack.rulesStrings.1>image->[pawn_nameFull] a földre rogy [circumstance_group]</Exhausted.rulePack.rulesStrings.1>
-  <Exhausted.rulePack.rulesStrings.2>image->[pawn_nameFull] a földön fekszik [circumstance_group]</Exhausted.rulePack.rulesStrings.2>
-  <Exhausted.rulePack.rulesStrings.3>image->[pawn_nameFull] ágyban fekszik [circumstance_group]</Exhausted.rulePack.rulesStrings.3>
-  <Exhausted.rulePack.rulesStrings.4>image->[pawn_nameFull] székre rogy [circumstance_group]</Exhausted.rulePack.rulesStrings.4>
-  <Exhausted.rulePack.rulesStrings.5>image->[pawn_nameFull] békésen alszik [circumstance_group]</Exhausted.rulePack.rulesStrings.5>
-  <Exhausted.rulePack.rulesStrings.6>circumstance_phrase->csukott szemmel</Exhausted.rulePack.rulesStrings.6>
-  <Exhausted.rulePack.rulesStrings.7>circumstance_phrase->láthatóan kimerülve</Exhausted.rulePack.rulesStrings.7>
-  <Exhausted.rulePack.rulesStrings.8>circumstance_phrase->teljesen leizzadva</Exhausted.rulePack.rulesStrings.8>
-  <Exhausted.rulePack.rulesStrings.9>circumstance_phrase->hulla fáradtan</Exhausted.rulePack.rulesStrings.9>
-  <Exhausted.rulePack.rulesStrings.10>desc_sentence->[pawn_nameShortDef] legutóbbi elkészült projektje a közelben áll.</Exhausted.rulePack.rulesStrings.10>
-  <Exhausted.rulePack.rulesStrings.11>desc_sentence->[pawn_nameShortDef] mellett egy csodás építmény áll.</Exhausted.rulePack.rulesStrings.11>
-  <Exhausted.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [outlander] hálásan néz [pawn_nameShortDef] hősies erőfeszítéseire.</Exhausted.rulePack.rulesStrings.12>
-  <Exhausted.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [outlander] hasonlóan fáradtan fekszik mellette.</Exhausted.rulePack.rulesStrings.13>
-  <Exhausted.rulePack.rulesStrings.14>desc_sentence->A jelenet egy újonnan épült [community] belsejében játszódik.</Exhausted.rulePack.rulesStrings.14>
+	<Exhausted.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] összeesik a kimerültségtől</li>
+		<li>image->[pawn_nameFull] a földre rogy [circumstance_group]</li>
+		<li>image->[pawn_nameFull] a földön fekszik [circumstance_group]</li>
+		<li>image->[pawn_nameFull] ágyban fekszik [circumstance_group]</li>
+		<li>image->[pawn_nameFull] székre rogy [circumstance_group]</li>
+		<li>image->[pawn_nameFull] békésen alszik [circumstance_group]</li>
+		<li>circumstance_phrase->csukott szemmel</li>
+		<li>circumstance_phrase->láthatóan kimerülve</li>
+		<li>circumstance_phrase->teljesen leizzadva</li>
+		<li>circumstance_phrase->hulla fáradtan</li>
+		<li>desc_sentence->[pawn_nameShortDef] legutóbbi elkészült projektje a közelben áll.</li>
+		<li>desc_sentence->[pawn_nameShortDef] mellett egy csodás építmény áll.</li>
+		<li>desc_sentence->[quantity_adjphrase] [outlander] hálásan néz [pawn_nameShortDef] hősies erőfeszítéseire.</li>
+		<li>desc_sentence->[quantity_adjphrase] [outlander] hasonlóan fáradtan fekszik mellette.</li>
+		<li>desc_sentence->A jelenet egy újonnan épült [community] belsejében játszódik.</li>
+	</Exhausted.rulePack.rulesStrings>
 
   <IllnessRevealed.label>betegség</IllnessRevealed.label>
-  <IllnessRevealed.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] a következőtől szenved: [illness_label] </IllnessRevealed.rulePack.rulesStrings.0>
-  <IllnessRevealed.rulePack.rulesStrings.1>image->[pawn_nameFull] a mezőn tántorog [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.1>
-  <IllnessRevealed.rulePack.rulesStrings.2>image->[pawn_nameFull] a földön fekszik[circumstance_group]</IllnessRevealed.rulePack.rulesStrings.2>
-  <IllnessRevealed.rulePack.rulesStrings.3>image->[pawn_nameFull] ágyban fekszik [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.3>
-  <IllnessRevealed.rulePack.rulesStrings.4>image->[pawn_nameFull] kórházi ágyban fekszik [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.4>
-  <IllnessRevealed.rulePack.rulesStrings.5>image->[pawn_nameFull] székre rogy [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.5>
-  <IllnessRevealed.rulePack.rulesStrings.6>image->[pawn_nameFull] tűz mellett guggol [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.6>
-  <IllnessRevealed.rulePack.rulesStrings.7>circumstance_phrase->erősen izzadva</IllnessRevealed.rulePack.rulesStrings.7>
-  <IllnessRevealed.rulePack.rulesStrings.8>circumstance_phrase->erősen reszketve</IllnessRevealed.rulePack.rulesStrings.8>
-  <IllnessRevealed.rulePack.rulesStrings.9>circumstance_phrase->erősen reszketve és izzadva</IllnessRevealed.rulePack.rulesStrings.9>
-  <IllnessRevealed.rulePack.rulesStrings.10>circumstance_phrase->csontszáraz ajkakkal</IllnessRevealed.rulePack.rulesStrings.10>
-  <IllnessRevealed.rulePack.rulesStrings.11>circumstance_phrase->hányva</IllnessRevealed.rulePack.rulesStrings.11>
-  <IllnessRevealed.rulePack.rulesStrings.12>circumstance_phrase->kiütésekkel borított bőrrel</IllnessRevealed.rulePack.rulesStrings.12>
-  <IllnessRevealed.rulePack.rulesStrings.13>circumstance_phrase->miközben orvos látja el</IllnessRevealed.rulePack.rulesStrings.13>
-  <IllnessRevealed.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] döglegyektől körülvett [animal] fekszik mindenfelé.</IllnessRevealed.rulePack.rulesStrings.14>
-  <IllnessRevealed.rulePack.rulesStrings.15>desc_sentence->[quantity_adjphrase] fura [color] [terrainfeature] veszi körbe.</IllnessRevealed.rulePack.rulesStrings.15>
-  <IllnessRevealed.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase] [outlander] ugyanettől szenved.</IllnessRevealed.rulePack.rulesStrings.16>
-  <IllnessRevealed.rulePack.rulesStrings.17>desc_sentence->A jelenet egy [tree]erdőben játszódik.</IllnessRevealed.rulePack.rulesStrings.17>
-  <IllnessRevealed.rulePack.rulesStrings.18>desc_sentence->[quantity_adjphrase] haldokló [animal] fekszik mindenfelé.</IllnessRevealed.rulePack.rulesStrings.18>
+	<IllnessRevealed.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] a következőtől szenved: [illness_label] </li>
+		<li>image->[pawn_nameFull] a mezőn tántorog [circumstance_group]</li>
+		<li>image->[pawn_nameFull] a földön fekszik[circumstance_group]</li>
+		<li>image->[pawn_nameFull] ágyban fekszik [circumstance_group]</li>
+		<li>image->[pawn_nameFull] kórházi ágyban fekszik [circumstance_group]</li>
+		<li>image->[pawn_nameFull] székre rogy [circumstance_group]</li>
+		<li>image->[pawn_nameFull] tűz mellett guggol [circumstance_group]</li>
+		<li>circumstance_phrase->erősen izzadva</li>
+		<li>circumstance_phrase->erősen reszketve</li>
+		<li>circumstance_phrase->erősen reszketve és izzadva</li>
+		<li>circumstance_phrase->csontszáraz ajkakkal</li>
+		<li>circumstance_phrase->hányva</li>
+		<li>circumstance_phrase->kiütésekkel borított bőrrel</li>
+		<li>circumstance_phrase->miközben orvos látja el</li>
+		<li>desc_sentence->[quantity_adjphrase] döglegyektől körülvett [animal] fekszik mindenfelé.</li>
+		<li>desc_sentence->[quantity_adjphrase] fura [color] [terrainfeature] veszi körbe.</li>
+		<li>desc_sentence->[quantity_adjphrase] [outlander] ugyanettől szenved.</li>
+		<li>desc_sentence->A jelenet egy [tree]erdőben játszódik.</li>
+		<li>desc_sentence->[quantity_adjphrase] haldokló [animal] fekszik mindenfelé.</li>
+	</IllnessRevealed.rulePack.rulesStrings>
 
   <HeatstrokeRevealed.label>hőguta</HeatstrokeRevealed.label>
-  <HeatstrokeRevealed.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] hőgutát kap</HeatstrokeRevealed.rulePack.rulesStrings.0>
-  <HeatstrokeRevealed.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] túlhevül</HeatstrokeRevealed.rulePack.rulesStrings.1>
-  <HeatstrokeRevealed.rulePack.rulesStrings.2>image->[pawn_nameFull] homokban cammog [circumstance_group]</HeatstrokeRevealed.rulePack.rulesStrings.2>
-  <HeatstrokeRevealed.rulePack.rulesStrings.3>image->[pawn_nameFull] [terrainfeature] árnyékában lekuporodik [circumstance_group]</HeatstrokeRevealed.rulePack.rulesStrings.3>
-  <HeatstrokeRevealed.rulePack.rulesStrings.4>image->[pawn_nameFull] vizet keres [circumstance_group]</HeatstrokeRevealed.rulePack.rulesStrings.4>
-  <HeatstrokeRevealed.rulePack.rulesStrings.5>image->[pawn_nameFull] árnyékot keres [circumstance_group]</HeatstrokeRevealed.rulePack.rulesStrings.5>
-  <HeatstrokeRevealed.rulePack.rulesStrings.6>image->[pawn_nameFull] a napsütötte porban vánszorog [circumstance_group]</HeatstrokeRevealed.rulePack.rulesStrings.6>
-  <HeatstrokeRevealed.rulePack.rulesStrings.7>circumstance_phrase->vörös és száraz bőrrel</HeatstrokeRevealed.rulePack.rulesStrings.7>
-  <HeatstrokeRevealed.rulePack.rulesStrings.8>circumstance_phrase->izzadtságtól borítva</HeatstrokeRevealed.rulePack.rulesStrings.8>
-  <HeatstrokeRevealed.rulePack.rulesStrings.9>circumstance_phrase->csontszáraz ajkakkal</HeatstrokeRevealed.rulePack.rulesStrings.9>
-  <HeatstrokeRevealed.rulePack.rulesStrings.10>circumstance_phrase->hányva</HeatstrokeRevealed.rulePack.rulesStrings.10>
-  <HeatstrokeRevealed.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] kiszáradt [animal] fekszik mindenfelé.</HeatstrokeRevealed.rulePack.rulesStrings.11>
-  <HeatstrokeRevealed.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] ruhái rongyosak és szakadtak.</HeatstrokeRevealed.rulePack.rulesStrings.12>
-  <HeatstrokeRevealed.rulePack.rulesStrings.13>desc_sentence->Tűző nap látszik a háttérben.</HeatstrokeRevealed.rulePack.rulesStrings.13>
-  <HeatstrokeRevealed.rulePack.rulesStrings.14>desc_sentence->A jelenet egy forró sivatagban játszódik.</HeatstrokeRevealed.rulePack.rulesStrings.14>
-  <HeatstrokeRevealed.rulePack.rulesStrings.15>desc_sentence->A jelenet benn, egy fűtőtest mellett játszódik.</HeatstrokeRevealed.rulePack.rulesStrings.15>
-  <HeatstrokeRevealed.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase] mozdulatlan [animal] fekszik mindenfelé.</HeatstrokeRevealed.rulePack.rulesStrings.16>
-  <HeatstrokeRevealed.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] haldokló [animal] fekszik mindenfelé.</HeatstrokeRevealed.rulePack.rulesStrings.17>
+	<HeatstrokeRevealed.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] hőgutát kap</li>
+		<li>tale_noun->[pawn_nameShortDef] túlhevül</li>
+		<li>image->[pawn_nameFull] homokban cammog [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [terrainfeature] árnyékában lekuporodik [circumstance_group]</li>
+		<li>image->[pawn_nameFull] vizet keres [circumstance_group]</li>
+		<li>image->[pawn_nameFull] árnyékot keres [circumstance_group]</li>
+		<li>image->[pawn_nameFull] a napsütötte porban vánszorog [circumstance_group]</li>
+		<li>circumstance_phrase->vörös és száraz bőrrel</li>
+		<li>circumstance_phrase->izzadtságtól borítva</li>
+		<li>circumstance_phrase->csontszáraz ajkakkal</li>
+		<li>circumstance_phrase->hányva</li>
+		<li>desc_sentence->[quantity_adjphrase] kiszáradt [animal] fekszik mindenfelé.</li>
+		<li>desc_sentence->[pawn_nameShortDef] ruhái rongyosak és szakadtak.</li>
+		<li>desc_sentence->Tűző nap látszik a háttérben.</li>
+		<li>desc_sentence->A jelenet egy forró sivatagban játszódik.</li>
+		<li>desc_sentence->A jelenet benn, egy fűtőtest mellett játszódik.</li>
+		<li>desc_sentence->[quantity_adjphrase] mozdulatlan [animal] fekszik mindenfelé.</li>
+		<li>desc_sentence->[quantity_adjphrase] haldokló [animal] fekszik mindenfelé.</li>
+	</HeatstrokeRevealed.rulePack.rulesStrings>
 
   <HypothermiaRevealed.label>kihűlés</HypothermiaRevealed.label>
-  <HypothermiaRevealed.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] kihűl</HypothermiaRevealed.rulePack.rulesStrings.0>
-  <HypothermiaRevealed.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] halálra fagy</HypothermiaRevealed.rulePack.rulesStrings.1>
-  <HypothermiaRevealed.rulePack.rulesStrings.2>image->[pawn_nameFull] hóban cammog [circumstance_group]</HypothermiaRevealed.rulePack.rulesStrings.2>
-  <HypothermiaRevealed.rulePack.rulesStrings.3>image->[pawn_nameFull] [terrainfeature] mellett lekuporodik [circumstance_group]</HypothermiaRevealed.rulePack.rulesStrings.3>
-  <HypothermiaRevealed.rulePack.rulesStrings.4>image->[pawn_nameFull] meleg [apparel] után néz [circumstance_group]</HypothermiaRevealed.rulePack.rulesStrings.4>
-  <HypothermiaRevealed.rulePack.rulesStrings.5>image->[pawn_nameFull] tűz mellett guggol [circumstance_group]</HypothermiaRevealed.rulePack.rulesStrings.5>
-  <HypothermiaRevealed.rulePack.rulesStrings.6>image->[pawn_nameFull] tüzet próbál gyújtani [circumstance_group]</HypothermiaRevealed.rulePack.rulesStrings.6>
-  <HypothermiaRevealed.rulePack.rulesStrings.7>circumstance_phrase->miközben az arca lassan kékül</HypothermiaRevealed.rulePack.rulesStrings.7>
-  <HypothermiaRevealed.rulePack.rulesStrings.8>circumstance_phrase->és erősen reszket</HypothermiaRevealed.rulePack.rulesStrings.8>
-  <HypothermiaRevealed.rulePack.rulesStrings.9>circumstance_phrase->zúzmara borítja</HypothermiaRevealed.rulePack.rulesStrings.9>
-  <HypothermiaRevealed.rulePack.rulesStrings.10>circumstance_phrase->miközben látszik a lehelete</HypothermiaRevealed.rulePack.rulesStrings.10>
-  <HypothermiaRevealed.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] fagyott [animal] fekszik mindenfelé.</HypothermiaRevealed.rulePack.rulesStrings.11>
-  <HypothermiaRevealed.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] ruhái rongyosak és szakadtak.</HypothermiaRevealed.rulePack.rulesStrings.12>
-  <HypothermiaRevealed.rulePack.rulesStrings.13>desc_sentence->A háttérben egy hideg kék hold fénylik.</HypothermiaRevealed.rulePack.rulesStrings.13>
-  <HypothermiaRevealed.rulePack.rulesStrings.14>desc_sentence->A jelenet egy behavazott [tree]erdőben játszódik.</HypothermiaRevealed.rulePack.rulesStrings.14>
-  <HypothermiaRevealed.rulePack.rulesStrings.15>desc_sentence->A jelenet egy hűtőház belsejében játszódik.</HypothermiaRevealed.rulePack.rulesStrings.15>
-  <HypothermiaRevealed.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase] reszkető [animal] fekszik mindenfelé.</HypothermiaRevealed.rulePack.rulesStrings.16>
-  <HypothermiaRevealed.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] haldokló [animal] fekszik mindenfelé.</HypothermiaRevealed.rulePack.rulesStrings.17>
+	<HypothermiaRevealed.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] kihűl</li>
+		<li>tale_noun->[pawn_nameShortDef] halálra fagy</li>
+		<li>image->[pawn_nameFull] hóban cammog [circumstance_group]</li>
+		<li>image->[pawn_nameFull] [terrainfeature] mellett lekuporodik [circumstance_group]</li>
+		<li>image->[pawn_nameFull] meleg [apparel] után néz [circumstance_group]</li>
+		<li>image->[pawn_nameFull] tűz mellett guggol [circumstance_group]</li>
+		<li>image->[pawn_nameFull] tüzet próbál gyújtani [circumstance_group]</li>
+		<li>circumstance_phrase->miközben az arca lassan kékül</li>
+		<li>circumstance_phrase->és erősen reszket</li>
+		<li>circumstance_phrase->zúzmara borítja</li>
+		<li>circumstance_phrase->miközben látszik a lehelete</li>
+		<li>desc_sentence->[quantity_adjphrase] fagyott [animal] fekszik mindenfelé.</li>
+		<li>desc_sentence->[pawn_nameShortDef] ruhái rongyosak és szakadtak.</li>
+		<li>desc_sentence->A háttérben egy hideg kék hold fénylik.</li>
+		<li>desc_sentence->A jelenet egy behavazott [tree]erdőben játszódik.</li>
+		<li>desc_sentence->A jelenet egy hűtőház belsejében játszódik.</li>
+		<li>desc_sentence->[quantity_adjphrase] reszkető [animal] fekszik mindenfelé.</li>
+		<li>desc_sentence->[quantity_adjphrase] haldokló [animal] fekszik mindenfelé.</li>
+	</HypothermiaRevealed.rulePack.rulesStrings>
 
   <ToxicityRevealed.label>mérgezés</ToxicityRevealed.label>
-  <ToxicityRevealed.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] testét méreg eszi</ToxicityRevealed.rulePack.rulesStrings.0>
-  <ToxicityRevealed.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] méregnek van kitéve</ToxicityRevealed.rulePack.rulesStrings.1>
-  <ToxicityRevealed.rulePack.rulesStrings.2>image->[pawn_nameFull] a mezőn tántorog [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.2>
-  <ToxicityRevealed.rulePack.rulesStrings.3>image->[pawn_nameFull] a földön fekszik [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.3>
-  <ToxicityRevealed.rulePack.rulesStrings.4>image->[pawn_nameFull] ágyban fekszik [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.4>
-  <ToxicityRevealed.rulePack.rulesStrings.5>image->[pawn_nameFull] tűz mellett guggol [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.5>
-  <ToxicityRevealed.rulePack.rulesStrings.6>image->[pawn_nameFull] tüzet próbál gyújtani [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.6>
-  <ToxicityRevealed.rulePack.rulesStrings.7>image->[pawn_nameFull] esztelenül vetkőzik [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.7>
-  <ToxicityRevealed.rulePack.rulesStrings.8>circumstance_phrase->erősen izzadva</ToxicityRevealed.rulePack.rulesStrings.8>
-  <ToxicityRevealed.rulePack.rulesStrings.9>circumstance_phrase->erősen reszketve</ToxicityRevealed.rulePack.rulesStrings.9>
-  <ToxicityRevealed.rulePack.rulesStrings.10>circumstance_phrase->erősen reszketve és izzadva</ToxicityRevealed.rulePack.rulesStrings.10>
-  <ToxicityRevealed.rulePack.rulesStrings.11>circumstance_phrase->csontszáraz ajkakkal</ToxicityRevealed.rulePack.rulesStrings.11>
-  <ToxicityRevealed.rulePack.rulesStrings.12>circumstance_phrase->hányva</ToxicityRevealed.rulePack.rulesStrings.12>
-  <ToxicityRevealed.rulePack.rulesStrings.13>circumstance_phrase->kiütésekkel borított bőrrel</ToxicityRevealed.rulePack.rulesStrings.13>
-  <ToxicityRevealed.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] kifacsarodott [animal] fekszik mindenfelé.</ToxicityRevealed.rulePack.rulesStrings.14>
-  <ToxicityRevealed.rulePack.rulesStrings.15>desc_sentence->[pawn_nameShortDef] ruhái széthullanak.</ToxicityRevealed.rulePack.rulesStrings.15>
-  <ToxicityRevealed.rulePack.rulesStrings.16>desc_sentence->Az ég homályos [color].</ToxicityRevealed.rulePack.rulesStrings.16>
-  <ToxicityRevealed.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] fura [color] [terrainfeature] veszi körbe.</ToxicityRevealed.rulePack.rulesStrings.17>
-  <ToxicityRevealed.rulePack.rulesStrings.18>desc_sentence->A jelenet egy torz [tree]erdőben játszódik.</ToxicityRevealed.rulePack.rulesStrings.18>
-  <ToxicityRevealed.rulePack.rulesStrings.19>desc_sentence->[quantity_adjphrase] haldokló [animal] fekszik mindenfelé.</ToxicityRevealed.rulePack.rulesStrings.19>
+	<ToxicityRevealed.rulePack.rulesStrings>
+		<li>tale_noun->[pawn_nameShortDef] testét méreg eszi</li>
+		<li>tale_noun->[pawn_nameShortDef] méregnek van kitéve</li>
+		<li>image->[pawn_nameFull] a mezőn tántorog [circumstance_group]</li>
+		<li>image->[pawn_nameFull] a földön fekszik [circumstance_group]</li>
+		<li>image->[pawn_nameFull] ágyban fekszik [circumstance_group]</li>
+		<li>image->[pawn_nameFull] tűz mellett guggol [circumstance_group]</li>
+		<li>image->[pawn_nameFull] tüzet próbál gyújtani [circumstance_group]</li>
+		<li>image->[pawn_nameFull] esztelenül vetkőzik [circumstance_group]</li>
+		<li>circumstance_phrase->erősen izzadva</li>
+		<li>circumstance_phrase->erősen reszketve</li>
+		<li>circumstance_phrase->erősen reszketve és izzadva</li>
+		<li>circumstance_phrase->csontszáraz ajkakkal</li>
+		<li>circumstance_phrase->hányva</li>
+		<li>circumstance_phrase->kiütésekkel borított bőrrel</li>
+		<li>desc_sentence->[quantity_adjphrase] kifacsarodott [animal] fekszik mindenfelé.</li>
+		<li>desc_sentence->[pawn_nameShortDef] ruhái széthullanak.</li>
+		<li>desc_sentence->Az ég homályos [color].</li>
+		<li>desc_sentence->[quantity_adjphrase] fura [color] [terrainfeature] veszi körbe.</li>
+		<li>desc_sentence->A jelenet egy torz [tree]erdőben játszódik.</li>
+		<li>desc_sentence->[quantity_adjphrase] haldokló [animal] fekszik mindenfelé.</li>
+	</ToxicityRevealed.rulePack.rulesStrings>
 
   <GaveBirth.label>születés</GaveBirth.label>
-  <GaveBirth.rulePack.rulesStrings.0>tale_noun->[mother_nameShortDef] világra hozza őt: [child_nameShortDef]</GaveBirth.rulePack.rulesStrings.0>
-  <GaveBirth.rulePack.rulesStrings.1>image->[mother_nameFull] világra hozza őt [circumstance_group]</GaveBirth.rulePack.rulesStrings.1>
-  <GaveBirth.rulePack.rulesStrings.2>image->[mother_nameFull] kezében [baby], [circumstance_group]</GaveBirth.rulePack.rulesStrings.2>
-  <GaveBirth.rulePack.rulesStrings.3>image->[mother_nameFull] az ágyban fekszik a [baby], [circumstance_group]</GaveBirth.rulePack.rulesStrings.3>
-  <GaveBirth.rulePack.rulesStrings.4>image->[mother_nameFull] a székben ül, a karjában [baby] [circumstance_group]</GaveBirth.rulePack.rulesStrings.4>
-  <GaveBirth.rulePack.rulesStrings.5>baby->csecsemővel</GaveBirth.rulePack.rulesStrings.5>
-  <GaveBirth.rulePack.rulesStrings.6>baby->újszülöttel</GaveBirth.rulePack.rulesStrings.6>
-  <GaveBirth.rulePack.rulesStrings.7>baby->kisbabával</GaveBirth.rulePack.rulesStrings.7>
-  <GaveBirth.rulePack.rulesStrings.8>circumstance_phrase->[child_nameFull], aki véres és sír</GaveBirth.rulePack.rulesStrings.8>
-  <GaveBirth.rulePack.rulesStrings.9>circumstance_phrase->[child_nameFull], aki enyhe [color] színben fénylik</GaveBirth.rulePack.rulesStrings.9>
-  <GaveBirth.rulePack.rulesStrings.10>circumstance_phrase->[child_nameFull], aki máris megpróbál mozogni</GaveBirth.rulePack.rulesStrings.10>
-  <GaveBirth.rulePack.rulesStrings.11>circumstance_phrase->[child_nameFull], aki derűsen néz körbe</GaveBirth.rulePack.rulesStrings.11>
-  <GaveBirth.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [animal] alszik körülöttük.</GaveBirth.rulePack.rulesStrings.12>
-  <GaveBirth.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [outlander] nézi a jelenetet.</GaveBirth.rulePack.rulesStrings.13>
-  <GaveBirth.rulePack.rulesStrings.14>desc_sentence->Egy [outlander] távolról figyel.</GaveBirth.rulePack.rulesStrings.14>
-  <GaveBirth.rulePack.rulesStrings.15>desc_sentence->A jelenet egy újonnan épült [community] belsejében játszódik.</GaveBirth.rulePack.rulesStrings.15>
+	<GaveBirth.rulePack.rulesStrings>
+		<li>tale_noun->[mother_nameShortDef] világra hozza őt: [child_nameShortDef]</li>
+		<li>image->[mother_nameFull] világra hozza őt [circumstance_group]</li>
+		<li>image->[mother_nameFull] kezében [baby], [circumstance_group]</li>
+		<li>image->[mother_nameFull] az ágyban fekszik a [baby], [circumstance_group]</li>
+		<li>image->[mother_nameFull] a székben ül, a karjában [baby] [circumstance_group]</li>
+		<li>baby->csecsemővel</li>
+		<li>baby->újszülöttel</li>
+		<li>baby->kisbabával</li>
+		<li>circumstance_phrase->[child_nameFull], aki véres és sír</li>
+		<li>circumstance_phrase->[child_nameFull], aki enyhe [color] színben fénylik</li>
+		<li>circumstance_phrase->[child_nameFull], aki máris megpróbál mozogni</li>
+		<li>circumstance_phrase->[child_nameFull], aki derűsen néz körbe</li>
+		<li>desc_sentence->[quantity_adjphrase] [animal] alszik körülöttük.</li>
+		<li>desc_sentence->[quantity_adjphrase] [outlander] nézi a jelenetet.</li>
+		<li>desc_sentence->Egy [outlander] távolról figyel.</li>
+		<li>desc_sentence->A jelenet egy újonnan épült [community] belsejében játszódik.</li>
+	</GaveBirth.rulePack.rulesStrings>
 
 
 </LanguageData>
