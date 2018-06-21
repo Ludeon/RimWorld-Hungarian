@@ -41,20 +41,20 @@
 
   <!-- Quality category -->
   <QualityCategory_Awful>szörnyű</QualityCategory_Awful>
-  <QualityCategory_Shoddy>vacak</QualityCategory_Shoddy>
+  <!-- <QualityCategory_Shoddy>vacak</QualityCategory_Shoddy> -->
   <QualityCategory_Poor>silány</QualityCategory_Poor>
   <QualityCategory_Normal>normál</QualityCategory_Normal>
   <QualityCategory_Good>jó</QualityCategory_Good>
-  <QualityCategory_Superior>kiváló</QualityCategory_Superior>
+  <!-- <QualityCategory_Superior>kiváló</QualityCategory_Superior> -->
   <QualityCategory_Excellent>remek</QualityCategory_Excellent>
   <QualityCategory_Masterwork>mestermunka</QualityCategory_Masterwork>
   <QualityCategory_Legendary>legendás</QualityCategory_Legendary>
   <QualityCategoryShort_Awful>ször</QualityCategoryShort_Awful>
-  <QualityCategoryShort_Shoddy>vack</QualityCategoryShort_Shoddy>
+  <!-- <QualityCategoryShort_Shoddy>vack</QualityCategoryShort_Shoddy> -->
   <QualityCategoryShort_Poor>sil</QualityCategoryShort_Poor>
   <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
   <QualityCategoryShort_Good>jó</QualityCategoryShort_Good>
-  <QualityCategoryShort_Superior>kivl</QualityCategoryShort_Superior>
+  <!-- <QualityCategoryShort_Superior>kivl</QualityCategoryShort_Superior> -->
   <QualityCategoryShort_Excellent>remk</QualityCategoryShort_Excellent>
   <QualityCategoryShort_Masterwork>mest</QualityCategoryShort_Masterwork>
   <QualityCategoryShort_Legendary>lege</QualityCategoryShort_Legendary>
@@ -122,7 +122,8 @@
   <TechLevel_Industrial>ipari</TechLevel_Industrial>
   <TechLevel_Spacer>űr</TechLevel_Spacer>
   <TechLevel_Ultra>ultra</TechLevel_Ultra>
-  <TechLevel_Transcendent>felemelkedett</TechLevel_Transcendent>
+  <!-- <TechLevel_Transcendent>felemelkedett</TechLevel_Transcendent> -->
+  <TechLevel_Archotech>archotech</TechLevel_Archotech>
 
   <!-- Player pawns arrive method -->
   <PlayerPawnsArriveMethod_Standing>Állva</PlayerPawnsArriveMethod_Standing>
@@ -156,5 +157,19 @@
   <Direction8Way_SouthWest_Short>DNY</Direction8Way_SouthWest_Short>
   <Direction8Way_West_Short>NY</Direction8Way_West_Short>
   <Direction8Way_NorthWest_Short>ÉNY</Direction8Way_NorthWest_Short>
+  
+   <!-- Diet category -->
+  <DietCategory_NeverEats>Sosem eszik</DietCategory_NeverEats>
+  <DietCategory_Herbivorous>Növényevő</DietCategory_Herbivorous>
+  <DietCategory_Dendrovorous>Faevő</DietCategory_Dendrovorous>
+  <DietCategory_Ovivorous>Tojásevő</DietCategory_Ovivorous>
+  <DietCategory_Omnivorous>Mindenevő</DietCategory_Omnivorous>
+  <DietCategory_Carnivorous>Ragadozó</DietCategory_Carnivorous>
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
+  <DietCategory_Herbivorous_Short>N</DietCategory_Herbivorous_Short>
+  <DietCategory_Dendrovorous_Short>F</DietCategory_Dendrovorous_Short>
+  <DietCategory_Ovivorous_Short>T</DietCategory_Ovivorous_Short>
+  <DietCategory_Omnivorous_Short>M</DietCategory_Omnivorous_Short>
+  <DietCategory_Carnivorous_Short>R</DietCategory_Carnivorous_Short>
   
 </LanguageData>

@@ -29,14 +29,20 @@
   <DesignatorMine>Bányászat</DesignatorMine>
   <DesignatorMineDesc>Sziklás területek kijelölése bányászatra.</DesignatorMineDesc>
 
-  <DesignatorSmoothFloor>Padlót elegyenget</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Göröngyös területek kijelölése egyengetésre.</DesignatorSmoothFloorDesc>
+  <DesignatorSmoothSurface>Elegyenget</DesignatorSmoothSurface>
+  <DesignatorSmoothSurfaceDesc>Göröngyös területek kijelölése egyengetésre.</DesignatorSmoothSurfaceDesc>
 
   <DesignatorPlan>Terv</DesignatorPlan>
   <DesignatorPlanDesc>Tervezést segítő jelölők elhelyezése. Ezek nem csinálnak semmit, csak segítik a jövőbeni terjeszkedés megtervezését.</DesignatorPlanDesc>
 
   <DesignatorPlanRemove>Tervet eltávolít</DesignatorPlanRemove>
   <DesignatorPlanRemoveDesc>Terjeszkedési tervek jelölőinek eltávolítása.</DesignatorPlanRemoveDesc>
+  
+  <DesignatorForbid>Megtilt</DesignatorForbid>
+  <DesignatorForbidDesc>Tárgyak tiltottnak jelölése. A gyarmatosok nem fognak olyan dolgokhoz nyúlni amik "Tiltott"-ak.</DesignatorForbidDesc>
+
+  <DesignatorUnforbid>Felold</DesignatorUnforbid>
+  <DesignatorUnforbidDesc>Tárgyak tiltásának feloldása. A gyarmatosok nem fognak olyan dolgokhoz nyúlni amik "Tiltott"-ak.</DesignatorUnforbidDesc>
 
   <DesignatorAreaHomeExpand>Lakókörzet kiterjesztése</DesignatorAreaHomeExpand>
   <DesignatorAreaHomeExpandDesc>Gyarmatosok csak ezen belül végeznek javításokat, takarítást, illetve tűzoltást.</DesignatorAreaHomeExpandDesc>
@@ -74,14 +80,20 @@
 
   <DesignatorZoneCreateStorageDumpingDesc>Jelölj ki raktárterületet, ahol a gyarmatosok a szemetet tárolják.\nMeglévő raktárterület kiterjesztésére is alkalmas.</DesignatorZoneCreateStorageDumpingDesc>
 
-  <DesignatorZoneDelete>Körzet törlése</DesignatorZoneDelete>
+  <DesignatorZoneDelete>Körzet kicsinyítése</DesignatorZoneDelete>
+  <DesignatorZoneDeleteSingular>Körzet törlése</DesignatorZoneDeleteSingular>
   <DesignatorZoneDeleteDesc>Raktár-, illetve farmterület törlése.</DesignatorZoneDeleteDesc>
+  
+  <DesignatorZoneExpand>Körzet kiterjesztése</DesignatorZoneExpand>
 
   <DesignatorClaim>Foglal</DesignatorClaim>
   <DesignatorClaimDesc>Meglévő építmények elfoglalása a kolónia számára. Ezek lehetnek ősi romok vagy elhagyott bázisok. Az elfoglalt építményeket a gyarmatosok karbantartják.</DesignatorClaimDesc>
 
   <DesignatorRemoveFloor>Padló felszedése</DesignatorRemoveFloor>
   <DesignatorRemoveFloorDesc>A padló felszedése felfedi az alatta lévő talajt.</DesignatorRemoveFloorDesc>
+  
+  <DesignatorRemoveBridge>Híd törlése</DesignatorRemoveBridge>
+  <DesignatorRemoveBridgeDesc>Eltávolítja a hidat, ezzel láthatóvá téve a talajt alatta.</DesignatorRemoveBridgeDesc>
 
   <DesignatorStrip>Levetkőztet</DesignatorStrip>
   <DesignatorStripDesc>Ruházat eltávolítása tetemekről vagy sérültekről.</DesignatorStripDesc>
@@ -108,13 +120,14 @@
   <InteractionSpotWillBeBlocked>Az interakció helyét {0} fogja elzárni.</InteractionSpotWillBeBlocked>
   <WouldBlockInteractionSpot>{0} elzárná {1} interakciójának helyét.</WouldBlockInteractionSpot>
   <TerrainIsAlready>A talaj itt már {0}.</TerrainIsAlready>
-  <TerrainBeingSmoothed>A talaj itt már ki van jelölve egyengetésre.</TerrainBeingSmoothed>
+  <SurfaceBeingSmoothed>A felület itt már ki van jelölve egyengetésre.</SurfaceBeingSmoothed>
   <IdenticalThingExists>Ez már létezik itt.</IdenticalThingExists>
   <IdenticalBlueprintExists>Ugyanez a tervrajz már ide lett helyezve.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Itt a talaj nem megfelelő erre.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Foglalt hely.</SpaceAlreadyOccupied>
   <SpaceBeingSmoothed>Hely elegyengetés alatt.</SpaceBeingSmoothed>
   <TerrainMustBeRemovable>Csak eltávolítható padlóval lehetséges.</TerrainMustBeRemovable>
+  <MustBeOnMovingWater>A vízkereket folyóra kell telepíteni.</MustBeOnMovingWater>
 
   <!-- Mouse attachments -->
   <ExpandOrCreateZone>Kiterjeszt {0} vagy\nÚj {1}</ExpandOrCreateZone>
@@ -123,5 +136,7 @@
   <!-- Desc helpers -->
   <TransmitsPower>Vezeti az áramot</TransmitsPower>
   <ConstructionNeeded>Építkezés szükséges</ConstructionNeeded>
+  <NoColonistWithConstructionSkillTip>Egyik {0} sem rendelkezik ezzel a képzettséggel.</NoColonistWithConstructionSkillTip>
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Egyik {0} sincs ehhez rendelve: {1}, azok közül, akiknek megvan hozzá a képzettsége.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
 </LanguageData>

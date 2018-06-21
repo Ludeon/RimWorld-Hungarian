@@ -93,7 +93,8 @@
   <ZoneGainsName>A körzet neve mostantól {0}</ZoneGainsName>
 
   <!-- Pawn naming -->
-  <PawnGainsName>A gyarmatos beceneve mostantól {0}</PawnGainsName>
+  <PawnGainsName>A gyarmatos beceneve mostantól {0}. A rangja {1}.</PawnGainsName>
+  <AnimalGainsName>Az állat neve mostantól {0}.</AnimalGainsName>
 
   <!-- Save game incompatible warning -->
   <VersionMismatch>Verzióütközés</VersionMismatch>
@@ -107,6 +108,9 @@
   <ConfirmResolutionChange>Megváltoztattad a felbontást. Megfelelő az új?\n\nAutomatikus visszaállítás {0}...</ConfirmResolutionChange>
   <ResolutionKeep>Megtart</ResolutionKeep>
   <ResolutionRevert>Visszaállítás</ResolutionRevert>
+  
+   <!-- Confirm permanently disable dev mode -->
+  <ConfirmPermanentlyDisableDevMode>Biztosan végleg ki akarod kapcsolni a fejlesztői módot?</ConfirmPermanentlyDisableDevMode>
 
   <!-- Research -->
   <Research>Kutatás</Research>
@@ -131,6 +135,7 @@
   <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
   <MapStartSeason>Kezdeti évszak:</MapStartSeason>
   <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
+  <Notice>Figyelmeztetés</Notice>
   <PermadeathMode>"Valós halál" mód</PermadeathMode>
   <PermadeathModeInfo>"Valós halál" módban csak egy mentést lehet használni, azt is csak kilépéskor. Nem lehet állást visszatöltve rendbe hozni a hibákat, ha a kolónia kihal, ennyi volt.\n\nA RimWorld-öt ilyen játékmódra tervezték, minden drámai fordulatnak - legyen az tragikus vagy bíztató - maximális jelentősége van.</PermadeathModeInfo>
 
@@ -146,6 +151,9 @@
   <CountingProducts>Darabszám</CountingProducts>
   <Infinite>Végtelen</Infinite>
   <AllowedSkillRange>Megengedett készségszint: {0}</AllowedSkillRange>
+  <IncompatibleLower>Nem kompatibilis</IncompatibleLower>
+  <AnyWorker>Bármely munkás</AnyWorker>
+  <Unlimited>Végtelen</Unlimited>
 
   <RecipeCannotHaveTargetCount>(Ennek a receptnek nem lehet célösszege, mert megjósolhatatlan, hogy mennyi készül belőle.)</RecipeCannotHaveTargetCount>
   <WorkAmount>Szükséges munka</WorkAmount>
@@ -168,6 +176,12 @@
   <Paused>Szünetel</Paused>
   <Unpause>Folytat</Unpause>
   
+  <IncludeEquipped>Használatban lévő is</IncludeEquipped>
+  <IncludeTainted>Romlott(???) is</IncludeTainted>
+  <LimitToAllowedStuff>Csak megengedett hozzávaló</LimitToAllowedStuff>
+  <IncludeFromAll>Bárhol</IncludeFromAll>
+  <IncludeSpecific>Keresés itt: {0}</IncludeSpecific>
+  
   <!-- Info card -->
   <Damage>Sebzés</Damage>
   <Accuracy>Pontosság</Accuracy>
@@ -177,10 +191,13 @@
   <CooldownTime>Lövések közötti szünet</CooldownTime>
   <BurstShotFireRate>Tűzgyorsaság</BurstShotFireRate>
   <Range>Hatótáv</Range>
+  <StoppingPower>Megállító erő</StoppingPower>
+  <StoppingPowerExplanation>Ez a fegyver megtántorítja az ellenfelet, lelassítva a mozgásukat pár másodpercre. Ha az ellenfél testmérete nagyobb mint ez az érték, nem kerülnek a hatása alá.</StoppingPowerExplanation>
   <GrowsWild>Vadon termő</GrowsWild>
   <Harvestable>Begyűjthető</Harvestable>
   <LimitedLifespan>Korlátozott élettartam</LimitedLifespan>
   <GrowingTime>Teljes kifejlődés</GrowingTime>
+   <HarvestYield>Hozam</HarvestYield>
   <GrowingTimeDesc>A növények nem egész nap és csak fényben nőnek. Ez a szám mutatja meg mennyi tenyészidő szükséges a teljes kifejlődésig. Általában ennek kb. kétszerese szükséges, ha az eltelt időt nézzük. Az alacsony hőmérséklet is lassítja a növekedést.</GrowingTimeDesc>
   <Days>nap</Days>
   <MinGrowingSkillToSow>Min. földművelés</MinGrowingSkillToSow>
@@ -197,10 +214,12 @@
   <WalkSpeedProperty>Mozgás sebessége</WalkSpeedProperty>
   <MinFoodQuality>Min. étel minőség</MinFoodQuality>
   <Diet>Étrend</Diet>
+  <LeatherType>Bőr fajta</LeatherType>
   <BodySize>Testméret</BodySize>
   <RecruitDifficulty>Toborzási nehézség</RecruitDifficulty>
   <MarketValue>Alapár</MarketValue>
   <Covers>Befedi</Covers>
+  <Layer>Réteg</Layer>
   <CoverEffectiveness>Fedezék hatékonysága</CoverEffectiveness>
   <CoverEffectivenessExplanation>Mennyire hatékonyan fogja fel a lövéseket az adott fedezék. Nagyobb szám több elkerült lövést jelent.</CoverEffectivenessExplanation>
   <MedicineXpGainFactor>Tapasztalatszerzési faktor</MedicineXpGainFactor>
@@ -208,6 +227,8 @@
   <MoodChange>Hangulat változás</MoodChange>
   <Wildness>Vadság</Wildness>
   <WildnessExplanation>A vadabb állatokat nehezebb megszelídíteni, idomítani és tartani.</WildnessExplanation>
+  <TrainingDecayInterval>Képzés elavulása</TrainingDecayInterval>
+  <TamenessWillNotDecay>Örökké szelídített marad.</TamenessWillNotDecay>
   <AnimalFilthRate>Koszolás mértéke</AnimalFilthRate>
   <AnimalFilthRateExplanation>Az állatok koszt hagynak maguk után épített padlón. Ez az átlagos mennyiségű termelt kosz {0} cellánként, amit az állat bejár.\n\nNagyobb és nem "házi kedvenc" típusú állatok jobban koszolnak.</AnimalFilthRateExplanation>
   <TimeRecordsCategory>Idő</TimeRecordsCategory>
@@ -222,6 +243,13 @@
   <EfficiencyStat>Hatékonyság szabályozó</EfficiencyStat>
   <ConstructionSkillRequired>Építész készség szükséges</ConstructionSkillRequired>
   <ConstructionSkillRequiredExplanation>Ilyen magas építész készség szükséges hozzá.</ConstructionSkillRequiredExplanation>
+  <NuzzleInterval>Dörgölőzés gyakoriság</NuzzleInterval>
+  <NuzzleIntervalExplanation>Átlagosan milyen gyakorisággal dörgölőzik az állat a gyarmatosokhoz.\n\nA dörgölőzés sok állatfajnál megfigyelhető viselkedés, mely a barátság kimutatását szolgálja. A legtöbb ember cukinak találja ezt és egy ideig jobb hangulatuk lesz tőle.</NuzzleIntervalExplanation>
+  <HarmedRevengeChance>Megtorlás esély</HarmedRevengeChance>
+  <HarmedRevengeChanceExplanation>Annak az esélye, hogy az állat megtorolja az őt ért támadást.\n\nPuska lőtávra értendő. Az esély növekszik, ha a támadó közelebb van. Közelharcban az esély háromszoros.\n\nMinden sebződésnél bejöhet, ezért a lassú, nagyot ütő fegyverek kisebb valószínűséggel váltják ki.\n\nA megtorlás esélyének minimalizálásához használj lassú, nagy hatótávú fegyvereket.</HarmedRevengeChanceExplanation>
+  <TameFailedRevengeChance>Megtorlás esélye elrontott szelídítésnél</TameFailedRevengeChance>
+  <TerrainRequirement>Terep követelmény</TerrainRequirement>
+  <Supports>Támasztja(???)</Supports>
 
   <!-- Trade -->
   <PositiveBuysNegativeSells>Pozitív szám vételt jelent\nNegatív szám eladást</PositiveBuysNegativeSells>
@@ -255,14 +283,20 @@
   <TradeWithFactionBaseBonus>Saját frakció bónusz</TradeWithFactionBaseBonus>
   <minimum>minimum</minimum>
   <FinalPrice>Végső ár</FinalPrice>
-  <TradeMassUsageTooltip>Végső tömeg és fennmaradó kapacitás.</TradeMassUsageTooltip>
+  <GiftModeTip>Ajándékozás - felajánlás neki: {0}.</GiftModeTip>
+  <TradeModeTip>Vissza a kereskedéshez.</TradeModeTip>
+  <!-- <TradeMassUsageTooltip>Végső tömeg és fennmaradó kapacitás.</TradeMassUsageTooltip> -->
 
+   <!-- Sellable items -->
+  <SellableItemsTitle>Amit ez a kereskedő megvesz</SellableItemsTitle>
+  <PawnsTabShort>Lények</PawnsTabShort>
+  
   <!-- Form caravan -->
   <FormCaravan>Karaván létrehozása</FormCaravan>
   <FormCaravanColonyThingCountTip>Ebből a tárgyból ennyit rakhatunk a karavánra.</FormCaravanColonyThingCountTip>
   <PawnsTab>Személyek és állatok</PawnsTab>
   <ItemsTab>Tárgyak</ItemsTab>
-  <CaravanConfigTab>Konfiguráció</CaravanConfigTab>
+  <!-- <CaravanConfigTab>Konfiguráció</CaravanConfigTab> -->
   <CaravanMustHaveAtLeastOneColonist>Legalább egy járóképes gyarmatost a karavánhoz kell rendelni.</CaravanMustHaveAtLeastOneColonist>
   <CaravanCouldNotFindExitSpot>A kilépési pont ({0}) nem található.</CaravanCouldNotFindExitSpot>
   <CaravanCouldNotFindPackingSpot>Nem található érvényes rakodási hely. Győződj meg róla, hogy a kiválasztott kilépési pont elérhető: {0}.</CaravanCouldNotFindPackingSpot>
@@ -272,25 +306,41 @@
   <CaravanItemIsUnreachableMulti>{0}x {1} nem elérhető egyik hozzárendelt gyarmatos számára sem.</CaravanItemIsUnreachableMulti>
   <TooBigCaravanMassUsage>Nem fér ennyi a karavánra.</TooBigCaravanMassUsage>
   <CaravanMassUsageTooltip>Jelenlegi tömeg és kapacitás.\n\nA tömegbe beleszámít a szállított áru és a gyarmatosok felszerelése is.\n\nA karaván nem indítható útnak, ha túl van pakolva.</CaravanMassUsageTooltip>
-  <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
+  <CaravanVisibilityTip>Milyen könnyen veszik észre a karavánt.\n\nEttől függ milyen eséllyel állítanak meg útonállók.\n\nNincs hatással dolgok felfedezésére.\n\nAz állatok és emberek összes testtömegétől függ.</CaravanVisibilityTip>
+  
+  
+  <!-- <MassUsageInfo>{0} / {1} kg</MassUsageInfo> -->
   <InfiniteDaysWorthOfFoodInfo>Soha nem fogy ki az élelemből</InfiniteDaysWorthOfFoodInfo>
-  <DaysWorthOfFoodInfo>{0} napi élelem</DaysWorthOfFoodInfo>
-  <DaysWorthOfFoodInfoRot>{0} napi élelem fog elrohadni {1} nap múlva</DaysWorthOfFoodInfoRot>
+  <DaysWorthOfFood>Ennyi napi élelem</DaysWorthOfFood>
+  <DaysWorthOfFoodInfoRot>elrohad {0} nap múlva</DaysWorthOfFoodInfoRot>
   <DaysWorthOfFoodTooltip>Kb. ennyi nap után fog a karaván kifogyni az élelemből.\n\nEmberi és állati fogyasztás is bele van számítva, a legrosszabb eshetőséggel számolva. Ennyi nap elteltével legalább egy személy vagy állat éhezni fog.</DaysWorthOfFoodTooltip>
-  <DaysWorthOfFoodTooltip_CanEatLocalPlants>A jelenlegi évszak, hőfok, és környezet alapján kijelenthető, hogy a növényevő állatok képesek lesznek helyi táplálékot találni. Ez azonban bármikor változhat.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
-  <DaysWorthOfFoodTooltip_CantEatLocalPlants>A jelenlegi évszak, hőfok, és környezet alapján kijelenthető, hogy a növényevő állatok NEM lesznek képesek helyi táplálékot találni. Ez azonban bármikor változhat.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
+  <!-- <DaysWorthOfFoodTooltip_CanEatLocalPlants>A jelenlegi évszak, hőfok, és környezet alapján kijelenthető, hogy a növényevő állatok képesek lesznek helyi táplálékot találni. Ez azonban bármikor változhat.</DaysWorthOfFoodTooltip_CanEatLocalPlants> -->
+  <!-- <DaysWorthOfFoodTooltip_CantEatLocalPlants>A jelenlegi évszak, hőfok, és környezet alapján kijelenthető, hogy a növényevő állatok NEM lesznek képesek helyi táplálékot találni. Ez azonban bármikor változhat.</DaysWorthOfFoodTooltip_CantEatLocalPlants> -->
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>\n(csak az első állomásig számolva)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <DaysWorthOfFoodWarningDialog>A karavánod már csak {0} napi élelemmel rendelkezik, hamarosan éhezni kezd.\n\nBiztosan létre akarod hozni?</DaysWorthOfFoodWarningDialog>
   <DaysWorthOfFoodWarningDialog_NoFood>A karavánod kifogyott az élelemből, hamarosan éhezni kezd.\n\nBiztosan létre akarod hozni?</DaysWorthOfFoodWarningDialog_NoFood>
+  <ForagedFoodPerDayTip>Átlagosan ennyi élelmet gyűjtögetnek az emberek egy nap. Ez az érték változik, ahogy különböző hozamú életközösségeken halad keresztül a karaván.</ForagedFoodPerDayTip>
+  <ForagedFoodPerDay>Napi gyűjtögetés</ForagedFoodPerDay>
   <CaravanFoodWillRotSoonWarningDialog>A hozzárendelt élelem nagy része nemsoká elrohad.\n\nBiztosan meg akarod alakítani ezt a karavánt?</CaravanFoodWillRotSoonWarningDialog>
   <CaravanIncapableOfSocial>A karavánnak nincs kereskedelemre vagy diplomáciára alkalmas tagja.</CaravanIncapableOfSocial>
   <CaravanAreYouSure>Biztosan meg akarod alakítani ezt a karavánt?</CaravanAreYouSure>
-  <NoExitDirectionForCaravanChosen>Választanod kell egy kilépési irányt a karaván számára.</NoExitDirectionForCaravanChosen>
-  <NoCaravanExitDirectionAvailable>(kilépési irány nem érhető el)</NoCaravanExitDirectionAvailable>
-  <ExitDirection>Kilépési irány</ExitDirection>
-  <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
+  <!-- <NoExitDirectionForCaravanChosen>Választanod kell egy kilépési irányt a karaván számára.</NoExitDirectionForCaravanChosen> -->
+  <!-- <NoCaravanExitDirectionAvailable>(kilépési irány nem érhető el)</NoCaravanExitDirectionAvailable> -->
+  <!-- <ExitDirection>Kilépési irány</ExitDirection> -->
+  <!-- <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel> -->
+  
+  <MessageMustChooseRouteFirst>Előbb ki kell jelölnöd egy útvonalat a karaván számára.</MessageMustChooseRouteFirst>
+  <MessageNoValidExitTile>A karaván nem képes elhagyni a szektort. Bizonyosodj meg róla, hogy a térkép valamelyik széle elérhető legyen.</MessageNoValidExitTile>
+  
   <ItemWeightTip>A tárgy tömege.</ItemWeightTip>
   <MarketValueTip>Piaci ár</MarketValueTip>
   <DaysUntilRotTip>Az átlaghőmérséklet alapján ez a tárgy ennyi idő múlva kezd rohadni.</DaysUntilRotTip>
+  
+  <ItemNutritionTip>Mennyire tápláló az étel.\n\nEgy felnőttnek ennyi tápanyagra van szüksége naponta: {0}.</ItemNutritionTip>
+  <AnimalCanGrazeTip>Ez az állat legelhet, ahelyett, hogy a karaván készleteit fogyasztaná. Ez csak bizonyos életközösségeken és hőmérséklet mellett lehetséges.</AnimalCanGrazeTip>
+  <NutritionForagedPerDayTip>Napi gyűjtögetett élelem. Függ az életközösség típusától.\n\n{0}</NutritionForagedPerDayTip>
+  <NutritionEatenPerDayTip>Naponta elfogyasztott tápanyag. Egy egyszerű étel ennyi tápanyagot tartalmaz: {0}.\n\nCan eat(???): {2}\n\nLegend(???):\n{1}.</NutritionEatenPerDayTip>
+  <MassCarriedSimple>Cipelt tömeg</MassCarriedSimple>
   <MassCapacity>Kapacitás</MassCapacity>
   <Mass>Tömeg</Mass>
   <EquipmentAndApparelMass>Felszerelés és ruházat tömege</EquipmentAndApparelMass>
@@ -299,17 +349,34 @@
   <ReformCaravan>Karaván újjáalakítása</ReformCaravan>
   <ColonistsSection>Gyarmatosok</ColonistsSection>
   <PrisonersSection>Foglyok</PrisonersSection>
+  <CaptureSection>Elfog</CaptureSection>
   <AnimalsSection>Állatok</AnimalsSection>
-  <EstimatedTimeToDestinationButton>Becs. érkezési idő</EstimatedTimeToDestinationButton>
+  <ChooseRouteButton>Útvonal kiválasztása</ChooseRouteButton>
+  <!-- <EstimatedTimeToDestinationButton>Becs. érkezési idő</EstimatedTimeToDestinationButton> -->
   <AbandonButton>Elhagy</AbandonButton>
+  
+  <CaravanMovementSpeed>Sebesség</CaravanMovementSpeed>
+  <TilesPerDay>szektor/nap</TilesPerDay>
+  <CaravanMovementSpeedTip>A karaván sebessége függ az emberek és állatok átlagos mozgási sebességétől, a rakomány tömegétől és a tereptől is.</CaravanMovementSpeedTip>
+  <AnimalsWillBeAbleToGraze>Az állatok legelhetnek majd</AnimalsWillBeAbleToGraze>
+  <AnimalsCanGraze>Az állatok legelhetnek</AnimalsCanGraze>
+  <PossibleToGrazeFor>(még {0} napig)</PossibleToGrazeFor>
+  <PossibleToGrazeForever>(örökké)</PossibleToGrazeForever>
+  <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
+  <CantGrazeBecauseOfTemp>(még {0} napig túl hideg lesz)</CantGrazeBecauseOfTemp>
+  <TotalNutrition>Összes tápanyag</TotalNutrition>
+  <CaravanNotMoving>Nem mozog</CaravanNotMoving>
+  <ForagedNutritionPerDay>Napi gyűjtögetett tápanyag</ForagedNutritionPerDay>
+  <FactionType>Frakció típusa</FactionType>
+  <TotalBodySize>Összes testméret</TotalBodySize>
   
   <!-- Split caravan -->
   <SplitCaravan>Karaván felosztása</SplitCaravan>
   <SourceCaravanMustHaveAtLeastOneColonist>Legalább egy járóképes gyarmatos szükséges.</SourceCaravanMustHaveAtLeastOneColonist>
-  <CaravanSplitSourceLabel>Jelenlegi</CaravanSplitSourceLabel>
-  <CaravanSplitDestLabel>Új</CaravanSplitDestLabel>
+  <!-- <CaravanSplitSourceLabel>Jelenlegi</CaravanSplitSourceLabel> -->
+  <!-- <CaravanSplitDestLabel>Új</CaravanSplitDestLabel> -->
   <SplitCaravanThingCountTip>Ebből a tárgyból ennyi adható át az új karavánnak.</SplitCaravanThingCountTip>
-  <SplitCaravanMassUsageTooltip>Jelenlegi tömeg és kapacitás.</SplitCaravanMassUsageTooltip>
+  <!-- <SplitCaravanMassUsageTooltip>Jelenlegi tömeg és kapacitás.</SplitCaravanMassUsageTooltip> -->
 
   <!-- Load transporters -->
   <LoadTransporters>Feltölteni: {0}</LoadTransporters>
@@ -318,7 +385,7 @@
   <PawnCantReachTransporters>{0} nem fér a szállítókapszulához.</PawnCantReachTransporters>
   <TransporterItemIsUnreachableSingle>{0} nem szállítható a kapszulához.</TransporterItemIsUnreachableSingle>
   <TransporterItemIsUnreachableMulti>{0}x {1} nem szállítható a kapszulához.</TransporterItemIsUnreachableMulti>
-  <TransportersMassUsageTooltip>Jelenlegi tömeg és kapacitás.\n\nA karaván nem indítható útnak, ha túl van pakolva.</TransportersMassUsageTooltip>
+  <!-- <TransportersMassUsageTooltip>Jelenlegi tömeg és kapacitás.\n\nA karaván nem indítható útnak, ha túl van pakolva.</TransportersMassUsageTooltip> -->
   
   <!-- Comms -->
   <SocialSkillIs>Szociális készség: {0}</SocialSkillIs>
@@ -396,7 +463,7 @@
   <ConfirmAbandonHomeNegativeThoughts_Everyone>Mindenki:</ConfirmAbandonHomeNegativeThoughts_Everyone>
  
   <!-- Move caravan and leave prisoners and animals behind -->
-  <ConfirmLeavePrisonersOrAnimalsBehind>Még maradt itt fogoly vagy állat és az egyetlen karaván, amihez csatlakozhatnának.\n\nHa itt hagyod őket, nem viheted el őket, amíg vissza nem térsz. A foglyok meg fognak szökni, az állatok várnak rád.\n\nHa nem indulsz útnak, csatlakozni fognak hozzád, amint lehetséges.\n\nBiztosan el akarod indítani a karavánt?</ConfirmLeavePrisonersOrAnimalsBehind>
+  <ConfirmMoveAutoJoinableCaravan>Fogoly vagy állatok probálnak csatlakozni a karavánhoz.\n\nHa elindulsz, többé nem csatlakozhatnak hozzád. A foglyok, állatok és mozgásképtelen emberek elhagyottnak számítanak, ha nincs velük cselekvőképes ember, és az ellenség elfoghatja őket.\n\nBiztosan el akarod indítani a karavánt?</ConfirmMoveAutoJoinableCaravan>
 
   <!-- Abandon pawn -->
   <!-- <ConfirmAbandonPawnDialog>Biztosan magára akarod hagyni őt: {0}?</ConfirmAbandonPawnDialog> -->
@@ -412,4 +479,7 @@
   
   <!-- Send transport pods which are not completely loaded -->
   <ConfirmSendNotCompletelyLoadedPods>A kapszulába nem szállt még be mindenki. {0} hiányzik. Indítsuk?</ConfirmSendNotCompletelyLoadedPods>
+    <!-- Settle near a faction base -->
+  <ConfirmSettleNearFactionBase>Mivel ez a hely {0} szektor távolságnál közelebb van egy másik frakció bázisához, a letelepedést területsértésnek veszik. A kapcsolat ezzel a frakcióval {1} naponta csökkenni fog.\n\nBiztosan letelepedsz?</ConfirmSettleNearFactionBase>
+  
 </LanguageData>

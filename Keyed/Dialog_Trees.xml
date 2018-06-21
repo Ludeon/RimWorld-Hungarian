@@ -2,12 +2,15 @@
 <LanguageData>
 
   <FactionGreetingHostile>{0} odavet pár gúnyos jelzőt a monitorra és kikapcsolja.</FactionGreetingHostile>
+  <FactionGreetingHostileAppreciative>{0} követeli, hogy jó szándékod jeléül küldj ajándékot egyik településének vagy engedd szabadon frakciójának egy tagját. Amíg ennek eleget nem teszel, nem beszél veled.\n\nValami sértést motyogva kiszáll a vonalból.</FactionGreetingHostileAppreciative>
   <FactionGreetingWary>{0} óvatosan üdvözli őt: {1} és megkérdi, mi ügyben hívta.</FactionGreetingWary>
   <FactionGreetingWarm>{0} melegen üdvözli őt:{1} és kérdi, hogy halad a kolónia.</FactionGreetingWarm>
 
   <Disconnect>Kikapcsolás</Disconnect>
 
   <OfferGift>Ajándék felajánlása</OfferGift>
+  <MustBeAlly>szövetségesnek kell lennie</MustBeAlly>
+  <NeedGoodwill>{0} jó szándék kell</NeedGoodwill>
   <NeedSilverLaunchable>szükséges {0} küldhető ezüst</NeedSilverLaunchable>
   <NotEnoughSilver>Nincs elég ezüst.</NotEnoughSilver>
   <SilverForGoodwill>{0} ezüst kell, hogy a kapcsolat ennyit javuljon: {1}.</SilverForGoodwill>
@@ -18,11 +21,17 @@
   <ChooseTraderKind>{0} azt kérdezi, milyen fajta karavánt küldjön.</ChooseTraderKind>
   <TraderSent>{0} beleegyezett és küld egy karavánt. Pár nap múlva ideérnek.</TraderSent>
   <WaitTime>várjon? {0}</WaitTime>
+  
+   <!-- AI core request -->
+  <RequestAICoreInformation>Egy {0} helyéről kérsz információt (ár: {1} ezüst)</RequestAICoreInformation>
+  <RequestAICoreInformationResult>{0} elküldi a kért információt és jó szerencsét kíván.</RequestAICoreInformationResult>
+  <NoKnownAICore>nincs több ilyen helyszín</NoKnownAICore>
 
   <RequestMilitaryAid>Azonnali katonai segítség kérése ({0} kapcsolat)</RequestMilitaryAid>
   <MilitaryAidConfirmMutualEnemy>{0} nem fog harcban segíteni nektek olyan frakciókkal szemben, akik nem az ellenségei. Ide tartozik a {1} frakció is, ami éppen fenyeget titeket. Így is akarsz segítséget kérni?</MilitaryAidConfirmMutualEnemy>
   <CallConfirm>Igen, mindenképpen hívjuk őket.</CallConfirm>
   <CallCancel>Ne, hagyjuk.</CallCancel>
   <MilitaryAidSent>{0} küldöttje beleegyezik, hogy harcosokat küldjön segíteni nektek.</MilitaryAidSent>
+  <CantSendMilitaryAidInTime>{0} sajnálattal közli, hogy nem fognak időben ideérni.\n\n(Ennek a frakciónak nincs meg a szállítókapszula technológia.</CantSendMilitaryAidInTime>
 
 </LanguageData>

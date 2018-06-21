@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Stats report -->
+  <Tool>Szerszám</Tool>
+  <DamageLower>sebzés</DamageLower>
+  <SecondsPerAttackLower>mp. per támadás</SecondsPerAttackLower>
 
   <StatsReport_BaseValue>Alapérték</StatsReport_BaseValue>
   <StatsReport_RelevantTraits>Idevágó tulajdonság</StatsReport_RelevantTraits>
@@ -46,5 +48,13 @@
   <StatsReport_PermanentlyDisabled>Végleges rokkantság.</StatsReport_PermanentlyDisabled>
   <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
   <StatsReport_AddedBodyPartsMass>Beültetett szervek</StatsReport_AddedBodyPartsMass>
+  <StatsReport_StuffEffectMultiplier>Anyag hatás szorzó</StatsReport_StuffEffectMultiplier>
+  <StatsReport_Resting>Pihen</StatsReport_Resting>
+  <StatsReport_JoyKind>pihenés típusa</StatsReport_JoyKind>
+  <StatsReport_PlantGrowth>Fejlődés szorzója {0}</StatsReport_PlantGrowth>
+  <StatsReport_PlantGrowth_Wild>skálázva mert vad(???)</StatsReport_PlantGrowth_Wild>
+  <StatsReport_NotFlesh>Nem hús</StatsReport_NotFlesh>
+  <StatsReport_NotFresh>Nem friss</StatsReport_NotFresh>
+  <StatsReport_WildMan>Vadember</StatsReport_WildMan>
 
 </LanguageData>
