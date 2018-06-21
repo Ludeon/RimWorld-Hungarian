@@ -33,12 +33,23 @@
   <PregnantIconDesc>Vemhes ({0} / {1})</PregnantIconDesc>
  <!--  <FollowDraftedTip>Besorozott gazda követése.</FollowDraftedTip> -->
 <!--   <FollowFieldworkTip>Terepmunkát végző gazda követése (vadászat vagy szelídítés).</FollowFieldworkTip> -->
+  <BondedTo>Kötődés</BondedTo>
+  
+  <!-- Wildlife tab -->
+  <IsPredator>Ez a lény ragadozó. Ha éhes, kisebb állatokra vadászik - beleértve az embert is.</IsPredator>
 
   <!-- Factions tab -->
   <Hostile>Ellenséges</Hostile>
+  <Ally>Barát</Ally>
   <DefeatedLower>legyőzött</DefeatedLower>
   <HostileTo>{0} ellensége</HostileTo>
-  <CurrentGoodwill>A jelenlegi viszony ezzel a frakcióval.</CurrentGoodwill>
+  <!-- <CurrentGoodwill>A jelenlegi viszony ezzel a frakcióval.</CurrentGoodwill> -->
+  <CurrentGoodwillTip>A jelenlegi viszony ezzel a frakcióval.</CurrentGoodwillTip>
+  <CurrentGoodwillTip_PermanentEnemy>Ez a frakció végleg ellenséges. Meg fogják támadni a településeidet és a karavánjaidat. A kapcsolat velük már sosem fog javulni.</CurrentGoodwillTip_PermanentEnemy>
+  <CurrentGoodwillTip_Ally>Ez a frakció barát. Harcosokat fognak küldeni, hogy segítsenek, ha tudnak. Ha a kapcsolat {0} alá esik, semlegessé válnak.</CurrentGoodwillTip_Ally>
+  <CurrentGoodwillTip_Neutral>Ez a frakció semleges. Kereskedhetsz és beszélhetsz velük szabadon. Ha a kapcsolat {0} alá esik, ellenségessé válnak. Ha a kapcsolat {1} fölé emelkedik, baráttá válnak és aktívan segítenek majd.</CurrentGoodwillTip_Neutral>
+  <CurrentGoodwillTip_Hostile>Ez a frakció ellenséges. Meg fogják támadni a településeidet és a karavánjaidat. Ha a kapcsolat {0} fölé emelkedik, semlegessé válnak.</CurrentGoodwillTip_Hostile>
+  <CurrentGoodwillTip_NaturalGoodwill>Ez a frakció semleges {0} és {1} között. Ha a kapcsolat {1} feletti, naponta ennyit esik: {3}. Ha a kapcsolat {0} alatti, naponta ennyit emelkedik: {2}.</CurrentGoodwillTip_NaturalGoodwill>
   
   <!-- Social tab -->
   <Friend>Barát</Friend>
@@ -54,6 +65,7 @@
   <ThisMapColonyWealthTotal>Kolónia vagyona (ezen a térképen)</ThisMapColonyWealthTotal>
   <ThisMapColonyWealthItems>Kolónia vagyona (eszközök) (ezen a térképen)</ThisMapColonyWealthItems>
   <ThisMapColonyWealthBuildings>Kolónia vagyona (épületek) (ezen a térképen)</ThisMapColonyWealthBuildings>
+   <ThisMapColonyWealthTameAnimals>Kolónia vagyona (állatok) (ezen a térképen)</ThisMapColonyWealthTameAnimals>
   <NumThreatBigs>Komoly fenyegetések</NumThreatBigs>
   <NumEnemyRaids>Ellenséges támadások</NumEnemyRaids>
   <!-- <DamageTaken>Elszenvedett sebzés</DamageTaken> -->
@@ -65,6 +77,13 @@
 
   <Graph>Grafikon</Graph>
   <Statistics>Statisztika</Statistics>
+  <Messages>Üzenetek</Messages>
+  
+  <!-- History tab - Messages -->
+  <ShowLetters>Levelek mutatása</ShowLetters>
+  <ShowMessages>Üzenetek mutatása</ShowMessages>
+  <PinArchivableTip>Üzenet rögzítése és feloldása.\n\nA legrégebbi feloldott üzenet automatikusan eltűnik, ha már {0} meg van jelenítve.</PinArchivableTip>
+  <NoMessages>nincs üzenet</NoMessages>
 
   <!-- History tab -->
   <SelectGraph>Grafikon választása</SelectGraph>
@@ -72,7 +91,7 @@
   <Last100Days>Utolsó 100 nap</Last100Days>
   <Last300Days>Utolsó 300 nap</Last300Days>
   <AllDays>Mind</AllDays>
-  <Day>Nap</Day>
+  <!-- <Day>Nap</Day> -->
   <Value>Érték</Value>
   <External>Külső</External>
 

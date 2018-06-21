@@ -24,6 +24,7 @@
   <ResetModsConfigOnCrash>Modkonfig autoreset összeomlásnál</ResetModsConfigOnCrash>
   <LogVerbose>Bővebb naplózás</LogVerbose>
   <OpenSaveGameDataFolder>Mentett állások mappájának megnyitása</OpenSaveGameDataFolder>
+   <ShowSaveGameDataLocation>Mentett állások mappájának mutatása</ShowSaveGameDataLocation>
   <NamesYouWantToSee>Vezetéknevek, amiket a játékban vagy a háttértörténetben látni akarsz:</NamesYouWantToSee>
   <AddName>Név hozzáadása</AddName>
   <TypeFirstNickOrLastName>Keresztnév, becenév vagy családnév hozzáadása.</TypeFirstNickOrLastName>
@@ -34,8 +35,10 @@
   <ShowRealtimeClock>Valós idő mutatása</ShowRealtimeClock>
   <MaxNumberOfPlayerHomes>Kolóniák maximális száma: {0}</MaxNumberOfPlayerHomes>
   <PlantWindSway>Mozgó növényzet (szél)</PlantWindSway>
+  <EnableTestMapSizes>Teszt térkép méretek</EnableTestMapSizes>
   <MaxPermadeathAutosaveIntervalInfo>Maximális auto mentés időköze "Valós halál" módban {0} nap.</MaxPermadeathAutosaveIntervalInfo>
   <ModSettings>Mod beállítások</ModSettings>
+  <PermanentlyDisableDevMode>Fejlesztői mód állandó kikapcsolása</PermanentlyDisableDevMode>
 
   <!-- Resolution -->
   <Resolution>Felbontás</Resolution>
@@ -50,5 +53,9 @@
   <!-- Mods -->
   <SelectMod>Mod kiválasztása...</SelectMod>
   <NoConfigurableMods>Nincsen testreszabható mod betöltve.</NoConfigurableMods>
+  
+   <!-- Options reset -->
+  <RestoreToDefaultSettings>Alapértelmezett beállítások</RestoreToDefaultSettings>
+  <ResetAndRestart>A beállítások visszaálltak. A játék újraindul.</ResetAndRestart>
 
   </LanguageData>

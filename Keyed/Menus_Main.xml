@@ -11,6 +11,8 @@
   <LoadGame>Betöltés</LoadGame>
   <Options>Beállítások</Options>
   <Mods>Modok</Mods>
+  <SaveTranslationReport>Fordítás jelentés mentése</SaveTranslationReport>
+  <GeneratingTranslationReport>Fordítás jelentés létrehozása</GeneratingTranslationReport>
   <Credits>Stáblista</Credits>
   <QuitToMainMenu>Kilépés a főmenübe</QuitToMainMenu>
   <SaveAndQuitToMainMenu>Mentés és kilépés a főmenübe</SaveAndQuitToMainMenu>
@@ -63,6 +65,7 @@
   <OpenSteamWorkshop>Steam Workshop megnyitása</OpenSteamWorkshop>
   <GetModsFromForum>Keress modot a fórumon</GetModsFromForum>
   <OpenModsDataFolder>Mod adat mappa megnyitása</OpenModsDataFolder>
+  <ShowModsDataLocation>Mod adat mappa mutatása</ShowModsDataLocation>
   <ConfirmDisableCoreMod>Biztosan kikapcsolod az alapmodot? A játék működésképtelen lesz, hacsak nincs másik mod, ami kiváltja minden funkcióját.\n\nNe feledd, más modok felülírhatják a alapmod "def"-jeit, ha ugyanazt a "defName"-et használják.</ConfirmDisableCoreMod>
   <ConfirmDeleteMod>Biztos, hogy {0} minden tartalmát törölni akarod?</ConfirmDeleteMod>
   <Unsubscribe>Leiratkozás</Unsubscribe>
@@ -133,8 +136,8 @@
   <Elevation>Magasság</Elevation>
   <Fertility>Termékenység</Fertility>
   <AvgTemp>Átlaghőmérséklet</AvgTemp>
-  <AvgWinterTemp>Téli átlaghőmérséklet</AvgWinterTemp>
-  <AvgSummerTemp>Nyári átlaghőmérséklet</AvgSummerTemp>
+  <!-- <AvgWinterTemp>Téli átlaghőmérséklet</AvgWinterTemp> -->
+  <!-- <AvgSummerTemp>Nyári átlaghőmérséklet</AvgSummerTemp> -->
   <Rainfall>Esőzés</Rainfall>
   <SpecialFeatures>Különlegességek</SpecialFeatures>
   <HasCoast0>Északi part</HasCoast0>
@@ -145,12 +148,15 @@
   <FactionBase>Frakció bázisa</FactionBase>
   <StoneTypesHere>Sziklafajták</StoneTypesHere>
   <TimeZone>Időzóna</TimeZone>
-  <MovementTimeNow>Jelenlegi áthaladási idő</MovementTimeNow>
-  <MovementTimeSummer>Nyári áthaladási idő</MovementTimeSummer>
-  <MovementTimeWinter>Téli áthaladási idő</MovementTimeWinter>
+  <MovementDifficulty>Mozgás nehézsége</MovementDifficulty>
+  <!-- <MovementTimeNow>Jelenlegi áthaladási idő</MovementTimeNow> -->
+  <!-- <MovementTimeSummer>Nyári áthaladási idő</MovementTimeSummer> -->
+  <!-- <MovementTimeWinter>Téli áthaladási idő</MovementTimeWinter> -->
   <AnimalsCanGrazeNow>Az állatok legelhetnek</AnimalsCanGrazeNow>
   <AverageDiseaseFrequency>Átlagos megbetegedési gyakoriság</AverageDiseaseFrequency>
   <PerYear>évente</PerYear>
+  <Forageability>Gyűjtögetés</Forageability>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Egyik kiválasztott ember sem képes elvégezni a következő munká(ka)t:\n\n{0}\n\nEz a szokásosnál nehezebbé teheti a játékot. Biztosan folytatod?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
   <!--=========== Character chooser ==========-->
   <CreateCharacters>Karakterek létrehozása</CreateCharacters>
@@ -167,6 +173,7 @@
   <NoneLower>nincs</NoneLower>
   <Adulthood>Felnőttkor</Adulthood>
   <Childhood>Gyerekkor</Childhood>
+  <Current>Jelenlegi(???)</Current>
   <Male>hímnemű</Male>
   <Female>nőnemű</Female>
   <Pain>Fájdalom</Pain>
@@ -184,6 +191,7 @@
   <Gameplay>Játék</Gameplay>
   <ConfirmQuit>Biztosan kilépsz? A nem mentett változások elvesznek.</ConfirmQuit>
   <EveryoneNeedsValidName>Mindenkinek kell egy megfelelő név.</EveryoneNeedsValidName>
+  <RequiredWorkTypeDisabledForEveryone>Egyik kiválasztott ember sem képes elvégezni a következő munká(ka)t.</RequiredWorkTypeDisabledForEveryone>
   <Quit>Kilépés</Quit>
   <Ignore>Ignorál</Ignore>
 

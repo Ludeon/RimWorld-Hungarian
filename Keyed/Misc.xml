@@ -34,14 +34,23 @@
   <repeat>ismétlés</repeat>
   <default>alapérték</default>
   <distance>távolság</distance>
+  <YesUppercase>IGEN</YesUppercase>
+  <NoUppercase>NEM</NoUppercase>
+  <kg>kg</kg>
+  <Day>Nap</Day>
+  <day>nap</day>
+  <Default>Alapértelmezett</Default>
+  <Average>Átlag</Average>
 
   <!-- Content generation-->
 
   <MeatLabel>{0} hús</MeatLabel>
   <MeatDesc>Nyers hús. Étel készíthető belőle, de akár nyersen is fogyasztható.</MeatDesc>
+  <MeatInsectDesc>Nyers hús. Étel készíthető belőle, de akár nyersen is fogyasztható. Rendkívül gusztustalan.</MeatInsectDesc>
+  <MeatHumanDesc>Nyers hús. Étel készíthető belőle, de akár nyersen is fogyasztható, bár a legtöbb ember nem szívesen tenné...</MeatHumanDesc>
 
-  <LeatherLabel>{0} bőr</LeatherLabel>
-  <LeatherDesc>Cserzett bőr. Hagyományos alapanyaga ruháknak és táskáknak.</LeatherDesc>
+  <!-- <LeatherLabel>{0} bőr</LeatherLabel> -->
+  <!-- <LeatherDesc>Cserzett bőr. Hagyományos alapanyaga ruháknak és táskáknak.</LeatherDesc> -->
 
   <CorpseLabel>{0} teteme</CorpseLabel>
   <CorpseDesc>{0} teteme.</CorpseDesc>
