@@ -46,6 +46,7 @@
   <CommandGraveAssignColonistLabel>Gyarmatos hozzárendelése</CommandGraveAssignColonistLabel>
   <CommandGraveAssignColonistDesc>Hozzárendeli az adott sírt egy bizonyos gyarmatoshoz.</CommandGraveAssignColonistDesc>
   <BuildingAssign>Hozzárendel</BuildingAssign>
+  <BuildingReassign>Hozzárendelést módosít</BuildingReassign>
   <BuildingUnassign>Hozzárendelést töröl</BuildingUnassign>
   <CommandBedSetForPrisonersLabel>Fogolynak</CommandBedSetForPrisonersLabel>
   <CommandBedSetForPrisonersDesc>A szoba ágyainak kijelölése foglyok számára.</CommandBedSetForPrisonersDesc>
@@ -86,7 +87,7 @@
   <CommandStopAttackFailNotForceAttacking>Jelenleg nincs zárótűz mód aktiválva.</CommandStopAttackFailNotForceAttacking>
   <CommandExtractShell>Lövedék eltávolítása</CommandExtractShell>
   <CommandExtractShellDesc>Lövedék eltávolítása, hogy más fajtájút lehessen betölteni.</CommandExtractShellDesc>
-  <CommandExtractShellFailNoShell>Nincs betöltve lövedék.</CommandExtractShellFailNoShell>
+  <!-- <CommandExtractShellFailNoShell>Nincs betöltve lövedék.</CommandExtractShellFailNoShell> -->
   <MessageTargetBeyondMaximumRange>Célpont túl messze van.</MessageTargetBeyondMaximumRange>
   <MessageTargetBelowMinimumRange>Célpont túl közel van.</MessageTargetBelowMinimumRange>
   <MessageTurretWontFireBecauseHoldFire>Figyelem: az ágyú nem fog tüzelni, mert "Tüzet szüntess" módban van.</MessageTurretWontFireBecauseHoldFire>
@@ -195,6 +196,14 @@
   <!-- Cancel forming caravan -->
   <CommandCancelFormingCaravan>Karaván visszavonása</CommandCancelFormingCaravan>
   <CommandCancelFormingCaravanDesc>Karaván alakításának megszakítása.</CommandCancelFormingCaravanDesc>
+  
+   <!-- Remove from caravan -->
+  <CommandRemoveFromCaravan>Karavánból eltávolít</CommandRemoveFromCaravan>
+  <CommandRemoveFromCaravanDesc>Eltávolítja a karavánból ezt a személyt vagy állatot.</CommandRemoveFromCaravanDesc>
+
+  <!-- Add to caravan -->
+  <CommandAddToCaravan>Karavánhoz hozzáad</CommandAddToCaravan>
+  <CommandAddToCaravanDesc>Hozzáadja a karavánhoz ezt a személyt vagy állatot.</CommandAddToCaravanDesc>
 
   <!-- Show map -->
   <CommandShowMap>Közelítés</CommandShowMap>
@@ -204,6 +213,10 @@
   <CommandTrade>Kereskedés</CommandTrade>
   <CommandTradeDesc>Kereskedés ezzel a frakcióval.</CommandTradeDesc>
   <CommandTradeFailNoNegotiator>Nincs használható alkusz.</CommandTradeFailNoNegotiator>
+  
+   <!-- Offer gifts -->
+  <CommandOfferGifts>Ajándék felajánlás</CommandOfferGifts>
+  <CommandOfferGiftsDesc>Ajándékot ajánl fel ennek a frakciónak.</CommandOfferGiftsDesc>
   
   <!-- Fulfill request -->
   <CommandFulfillTradeOffer>Megrendelés teljesítése</CommandFulfillTradeOffer>
@@ -256,5 +269,17 @@
     <!-- Remove waypoint -->
   <CommandRemoveWaypointLabel>Eltávolítás</CommandRemoveWaypointLabel>
   <CommandRemoveWaypointDesc>Célállomás eltávolítása.</CommandRemoveWaypointDesc>
+  
+   <!-- Pause caravan -->
+  <CommandPauseCaravan>Pihenő</CommandPauseCaravan>
+  <CommandToggleCaravanPauseDesc>A karaván mozgásának szüneteltetése. Ennek előnyei:\n\n  - Az emberek szociálisan érintkezhetnek\n  - A gyűjtögetés sebessége ennyivel nő: {0}\n  - A láthatóság így változik: {1}</CommandToggleCaravanPauseDesc>
+
+  <!-- Show sellable items -->
+  <CommandShowSellableItems>Amit megvenne</CommandShowSellableItems>
+  <CommandShowSellableItemsDesc>Mindent mutat, amit ez a kereskedő megvenne.</CommandShowSellableItemsDesc>
+
+  <!-- Attack settlement -->
+  <CommandAttackSettlement>Támad</CommandAttackSettlement>
+  <CommandAttackSettlementDesc>Megtámadni ezt a települést.</CommandAttackSettlementDesc>
   
 </LanguageData>

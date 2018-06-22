@@ -34,14 +34,22 @@
   <PrisonerRoomLower>börtönszoba</PrisonerRoomLower> -->
   <BurningLower>ég</BurningLower>
   <NoEmptyPlaceLower>nincs engedélyezett üres hely</NoEmptyPlaceLower>
+  <NoMergeTarget>nincs másik rakás, amivel egyesíteni lehetne</NoMergeTarget>
   <AlreadyFilledLower>már eléggé tele van</AlreadyFilledLower>
   <MissingMaterials>nincs elég alapanyag</MissingMaterials>
-  <MissingSkill>túl alacsony készség</MissingSkill>
-  <NoEmptyGraveLower>nincs üres sírhely</NoEmptyGraveLower>
+  <!-- <MissingSkill>túl alacsony készség</MissingSkill> -->
+  <!-- <NoEmptyGraveLower>nincs üres sírhely</NoEmptyGraveLower> -->
+  <UnderRequiredSkill>szükséges készségszint legalább: {0}</UnderRequiredSkill>
+  <UnderAllowedSkill>megengedett készségszint legalább: {0}</UnderAllowedSkill>
+  <AboveAllowedSkill>megengedett készségszint legfeljebb: {0}</AboveAllowedSkill>
+  <MissingRequiredSkillLevel>nincs meg a szükséges készségszint</MissingRequiredSkillLevel>
   <AnimalInteractedTooRecently>az állattal nemrég foglalkoztak</AnimalInteractedTooRecently>
   <NoUsableFood>nincs felhasználható étel</NoUsableFood>
   <NoFood>nincs étel</NoFood>
   <AnimalsSkillTooLow>gondozás készség túl alacsony</AnimalsSkillTooLow>
+  <CantInteractAnimalDowned>mozgásképtelen állat</CantInteractAnimalDowned>
+  <CantInteractAnimalAsleep>alvó állat</CantInteractAnimalAsleep>
+  <CantInteractAnimalBusy>elfoglalt állat</CantInteractAnimalBusy>
   <ConstructionSkillTooLow>építész készség túl alacsony</ConstructionSkillTooLow>
   <NoComponentsToRepair>nincs elég alkatrész</NoComponentsToRepair>
   <NoFuelToRefuel>{0} szükséges</NoFuelToRefuel>
@@ -52,8 +60,10 @@
   <ReservedForPrisoners>foglyoknak fenntartva</ReservedForPrisoners>
   <CannotReach>nem elérhető</CannotReach>
   <NotSurgeryReady>nem kész operációra</NotSurgeryReady>
+  <SkillDisabled>készség nem használható(???)</SkillDisabled>
   <CantSowCavePlantBecauseOfLight>túl világos</CantSowCavePlantBecauseOfLight>
   <CantSowCavePlantBecauseUnroofed>fedetlen</CantSowCavePlantBecauseUnroofed>
+  <IncapableOfDeconstruction>bontásra képtelen</IncapableOfDeconstruction>
   
   <ConsumeThing>Elfogyaszt: {0}</ConsumeThing>
   <!-- <Teetotaler>antialkoholista</Teetotaler> -->
@@ -91,6 +101,7 @@
   <Equip>Használd ezt: {0}</Equip>
   <EquipWarningBrawler>(nem lesz boldog)</EquipWarningBrawler>
   <CannotEquip>Nem tudja használni ezt:{0}</CannotEquip>
+  <CannotManThing>Nem tudja működtetni ezt: {0}</CannotManThing>
 
   <ForceWear>Kényszerített viselet: {0}</ForceWear>
   <CannotWear>Nem viselheti ezt: {0}</CannotWear>
@@ -109,9 +120,18 @@
   <GiveToPackAnimalAll>Málhásra rakni az összest:{0}</GiveToPackAnimalAll>
   <GiveToPackAnimalSome>Málhásra rakni ebből: {0}</GiveToPackAnimalSome>
   <GiveToPackAnimalCount>{{0}}db-t ebből: {0}</GiveToPackAnimalCount>
+  
+  <CannotLoadIntoCaravan>Nem lehet a karavánra rakodni ezt: {0}</CannotLoadIntoCaravan>
+  <CannotLoadIntoCaravanAll>Nem lehet az összest a karavánra rakodni: {0}</CannotLoadIntoCaravanAll>
+  <LoadIntoCaravan>Karavánra rakodni ezt: {0}</LoadIntoCaravan>
+  <LoadIntoCaravanAll>Karavánra rakodni az összest: {0}</LoadIntoCaravanAll>
+  <LoadIntoCaravanSome>Karavánra rakodni ebből: {0}</LoadIntoCaravanSome>
+  <LoadIntoCaravanCount>Rakodni ezt: {0} x{{0}}</LoadIntoCaravanCount>
+  <OverweightLower>túlsúly</OverweightLower>
 
   <CannotCarryToExit>Nem lehet elhagyni a körzetet ezzel: {0}</CannotCarryToExit>
   <CarryToExit>Elhagyni a körzetet ezzel: {0}</CarryToExit>
+  <CarryToExitAndCapture>{0} elfogása és a körzet elhagyása</CarryToExitAndCapture>
 
   <Strip>Vetkőztesd le őt: {0}</Strip>
   <CannotStrip>Nem tudja levetkőztetni őt: {0}</CannotStrip>
@@ -135,10 +155,13 @@
   <AttackFactionBase>Megtámadni ezt: {0}</AttackFactionBase> -->
   <VisitSettlement>Meglátogatni ezt: {0}</VisitSettlement>
   <VisitPeaceTalks>Meglátogatni ezt: {0}</VisitPeaceTalks>
-  <VisitSite>Meglátogatni ezt: {0}</VisitSite>
+  <!-- <VisitSite>Meglátogatni ezt: {0}</VisitSite> -->
   <VisitEscapeShip>Meglátogatni ezt: {0}</VisitEscapeShip>
-  <AttackSite>Megtámadni ezt: {0}</AttackSite>
+  <!-- <AttackSite>Megtámadni ezt: {0}</AttackSite> -->
   <AttackSettlement>Megtámadni ezt: {0}</AttackSettlement>
+  <ApproachSite>Megközelíteni ezt: {0}</ApproachSite>
+  <ApproachingSite>Megközelíti ezt: {0}</ApproachingSite>
+  <OfferGifts>Ajándékozás</OfferGifts>
 
   <!-- Specific thing interactions -->
   <EnterCryptosleepCasket>Hibernálóba beszállni</EnterCryptosleepCasket>
@@ -146,6 +169,7 @@
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
   <CannotGenericWork>Nem lehet {0} ezt: {1}</CannotGenericWork>
+  <CannotGenericWorkCustom>Nem lehet {0}</CannotGenericWorkCustom>
 
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
   <CannotMissingHealthActivities>Nem lehet előre venni (alkalmatlan rá: {0})</CannotMissingHealthActivities>
@@ -154,12 +178,15 @@
 
  <!-- <CannotPrioritizeIsNotA>Nem tudja előre venni ({0} nem {1})</CannotPrioritizeIsNotA>-->
   <CannotPrioritizeWorkTypeDisabled>Nem tudja előre venni, nem teszi ezt: {0}</CannotPrioritizeWorkTypeDisabled>
-  <CannotPrioritizeWorkGiverDisabled>Nem tudja előre venni, nem képes rá: {0})</CannotPrioritizeWorkGiverDisabled>
+  <CannotPrioritizeWorkGiverDisabled>Nem tudja előre venni, nem képes rá: {0}</CannotPrioritizeWorkGiverDisabled>
+  <WillNever>sosem fog: {0}</WillNever>
   <CannotPrioritizeNotAssignedToWorkType>Nem tudja előre venni, nincs beosztva rá: {0}</CannotPrioritizeNotAssignedToWorkType>
+  <NotAssigned>nincs beosztva</NotAssigned>
 
   <CannotPrioritizeResearch>Nem tudja előre venni (a kutatás egy hosszú távú feladat)</CannotPrioritizeResearch>
 
   <CannotPrioritizeForbidden>Nem tudja előre venni ({0} tiltott)</CannotPrioritizeForbidden>
+  <CannotPrioritizeCellForbidden>Nem tudja előre venni (tiltott)</CannotPrioritizeCellForbidden>
   <CannotPrioritizeForbiddenOutsideAllowedArea>Nem lehet előre venni ({0} tiltott területen van)</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
@@ -167,11 +194,31 @@
   
   <DropAtEdge>Szélen eldobni</DropAtEdge>
   <DropInCenter>Középen eldobni</DropInCenter>
+  <AttackAndDropAtEdge>Megtámadni ezt: {0}, landolás szélen</AttackAndDropAtEdge>
+  <AttackAndDropInCenter>Megtámadni ezt: {0}, landolás középen</AttackAndDropInCenter>
   
   <VomitingLower>hány</VomitingLower>
   <NotInterruptibleLower>nem megszakítható</NotInterruptibleLower>
   
   <AddWaypoint>Új célállomás hozzáadása</AddWaypoint>
   <RemoveWaypoint>Célállomás eltávolítása</RemoveWaypoint>
+  
+  <RemoveAllDesignations>Minden kijelölés(???) törlése</RemoveAllDesignations>
+  <DesignateAll>Mindet kijelölni</DesignateAll>
+  <CountToDesignate>{0} érintett</CountToDesignate>
+  <ForbidAllItems>Minden tárgy tiltása</ForbidAllItems>
+  <UnforbidAllItems>Minden tárgy feloldása</UnforbidAllItems>
+  <RearmAllTraps>Minden csapda újraélesítése</RearmAllTraps>
+
+  <!-- Transport pods -->
+  <LandInExistingMap>Ráközelítés és landolási hely kiválasztása itt: {0}</LandInExistingMap>
+  <TransportPodsContentsWillBeLost>A rakomány el fog veszni</TransportPodsContentsWillBeLost>
+  <FormCaravanHere>Karaván alakítása itt</FormCaravanHere>
+  <GiveToCaravan>Odaadni ennek: {0}</GiveToCaravan>
+  <GiveGiftViaTransportPods>Ajándékozni neki: {0} ({1})</GiveGiftViaTransportPods>
+
+  <!-- Rescue quest -->
+  <FreePrisoner>Fogoly kiszabadítása</FreePrisoner>
+  <OfferHelp>Segítség felajánlása</OfferHelp>
 
 </LanguageData>

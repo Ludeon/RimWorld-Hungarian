@@ -13,15 +13,15 @@
   <MiracleHeal>{0} csodálatos módon felépült!</MiracleHeal>
 
   <!-- Enemy raids -->
-  <EnemyRaidWalkIn>{1} egy csoportja ({0}) érkezett a közelbe.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>{1} egy csoportja ({0}) érkezett a közelbe mentőkabinokban.</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>{1} egy csoportja ({0}) érkezett pontosan a kolóniára!</EnemyRaidCenterDrop>
+  <!-- <EnemyRaidWalkIn>{1} egy csoportja ({0}) érkezett a közelbe.</EnemyRaidWalkIn> -->
+  <!-- <EnemyRaidEdgeDrop>{1} egy csoportja ({0}) érkezett a közelbe mentőkabinokban.</EnemyRaidEdgeDrop> -->
+  <!-- <EnemyRaidCenterDrop>{1} egy csoportja ({0}) érkezett pontosan a kolóniára!</EnemyRaidCenterDrop> -->
   <EnemyRaidLeaderPresent>A {0} egyike a következő frakció vezetője: {1}.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
-  <FriendlyRaidWalkIn>{1} egy barátságos csoportja ({0}) érkezett a közelbe.</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>{1} egy barátságos csoportja ({0}) érkezett a közelbe földkörüli pályáról.</FriendlyRaidEdgeDrop>
-  <FriendlyRaidCenterDrop>{1} egy barátságos csoportja ({0}) érkezett földkörüli pályáról pontosan a kolóniára!</FriendlyRaidCenterDrop>
+  <!-- <FriendlyRaidWalkIn>{1} egy barátságos csoportja ({0}) érkezett a közelbe.</FriendlyRaidWalkIn> -->
+  <!-- <FriendlyRaidEdgeDrop>{1} egy barátságos csoportja ({0}) érkezett a közelbe földkörüli pályáról.</FriendlyRaidEdgeDrop> -->
+  <!-- <FriendlyRaidCenterDrop>{1} egy barátságos csoportja ({0}) érkezett földkörüli pályáról pontosan a kolóniára!</FriendlyRaidCenterDrop> -->
   <FriendlyRaidLeaderPresent>A {0} egyike a következő frakció vezetője: {1}.</FriendlyRaidLeaderPresent>
 
   <LetterLabelRefugeePodCrash>Mentőkabin</LetterLabelRefugeePodCrash>
@@ -147,15 +147,22 @@
   <CaravanDemand_Fight>Megtagad és harcol</CaravanDemand_Fight>
   
   <!-- Temporary item stash -->
-  <ItemStashQuestTitle>Rejtett készlet küldetés</ItemStashQuestTitle>
-  <ItemStashQuest_Accept>Elfogad</ItemStashQuest_Accept>
-  <ItemStashQuest_Reject>Elutasít</ItemStashQuest_Reject>
-  <ItemStashQuestFeeDemand>{0} elmondja a készlet helyét cserébe {1} ezüstért.</ItemStashQuestFeeDemand>
+  <!-- <ItemStashQuestTitle>Rejtett készlet küldetés</ItemStashQuestTitle> -->
+  <!-- <ItemStashQuest_Accept>Elfogad</ItemStashQuest_Accept> -->
+  <!-- <ItemStashQuest_Reject>Elutasít</ItemStashQuest_Reject> -->
+  <!-- <ItemStashQuestFeeDemand>{0} elmondja a készlet helyét cserébe {1} ezüstért.</ItemStashQuestFeeDemand> -->
   <ItemStashSitePart_Unknown>Sajnos {0} semmi információval nem rendelkezik arról, hogy ki vagy mi őrzi a helyet.</ItemStashSitePart_Unknown>
   <ItemStashSitePart_Nothing>{0} szerint a helyet nem őrzik.</ItemStashSitePart_Nothing>
   <!-- <ItemStashSitePart_Outpost>{0} szerint egy ellenséges helyőrség van a közelben.</ItemStashSitePart_Outpost> -->
   <!-- <ItemStashSitePart_Turrets>{0} szerint ellenséges ágyúk őrzik a helyet.</ItemStashSitePart_Turrets> -->
   <!-- <ItemStashSitePart_Manhunters>{0} szerint egy csapat emberevő állat van a közelben.</ItemStashSitePart_Manhunters> -->
   <ItemStashSitePart_Part>{0} azt mondja, hogy {1}.</ItemStashSitePart_Part>
+  
+   <!-- Site no longer hostile -->
+  <LetterLabelSiteNoLongerHostile>A küldetés már nem elérhető</LetterLabelSiteNoLongerHostile>
+  <LetterLabelSiteNoLongerHostileMulti>A küldetések már nem elérhetők</LetterLabelSiteNoLongerHostileMulti>
+  <LetterSiteNoLongerHostile>Mivel {0} már nem ellenséges, {1} már nem elérhető.</LetterSiteNoLongerHostile>
+  <LetterSiteNoLongerHostileMulti>Mivel {0} már nem ellenséges, a következő helyszínek már nem elérhetők</LetterSiteNoLongerHostileMulti>
+
 
 </LanguageData>

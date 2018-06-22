@@ -330,7 +330,7 @@
   <!-- <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel> -->
   
   <MessageMustChooseRouteFirst>Előbb ki kell jelölnöd egy útvonalat a karaván számára.</MessageMustChooseRouteFirst>
-  <MessageNoValidExitTile>A karaván nem képes elhagyni a szektort. Bizonyosodj meg róla, hogy a térkép valamelyik széle elérhető legyen.</MessageNoValidExitTile>
+  <MessageNoValidExitTile>A karaván nem képes elhagyni a körzetet. Bizonyosodj meg róla, hogy a térkép valamelyik széle elérhető legyen.</MessageNoValidExitTile>
   
   <ItemWeightTip>A tárgy tömege.</ItemWeightTip>
   <MarketValueTip>Piaci ár</MarketValueTip>
@@ -480,6 +480,6 @@
   <!-- Send transport pods which are not completely loaded -->
   <ConfirmSendNotCompletelyLoadedPods>A kapszulába nem szállt még be mindenki. {0} hiányzik. Indítsuk?</ConfirmSendNotCompletelyLoadedPods>
     <!-- Settle near a faction base -->
-  <ConfirmSettleNearFactionBase>Mivel ez a hely {0} szektor távolságnál közelebb van egy másik frakció bázisához, a letelepedést területsértésnek veszik. A kapcsolat ezzel a frakcióval {1} naponta csökkenni fog.\n\nBiztosan letelepedsz?</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>Mivel ez a hely {0} körzet távolságnál közelebb van egy másik frakció bázisához, a letelepedést területsértésnek veszik. A kapcsolat ezzel a frakcióval {1} naponta csökkenni fog.\n\nBiztosan letelepedsz?</ConfirmSettleNearFactionBase>
   
 </LanguageData>
