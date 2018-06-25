@@ -1,35 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
+  <!-- Added body parts -->
+  
   <PegLeg.label>faláb</PegLeg.label>
+  <PegLeg.labelNoun>faláb</PegLeg.labelNoun>
+  
+  <WoodenFoot.label>fa műláb</WoodenFoot.label>
+  <WoodenFoot.labelNoun>fa műláb</WoodenFoot.labelNoun>
   
   <Denture.label>műfogsor</Denture.label>
+  <Denture.labelNoun>műfogsor</Denture.labelNoun>
   
   <SimpleProstheticLeg.label>egyszerű műláb</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>egyszerű műláb</SimpleProstheticLeg.labelNoun>
+  
   <SimpleProstheticArm.label>egyszerű műkar</SimpleProstheticArm.label>
   <SimpleProstheticArm.comps.0.tools.0.label>ököl</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticArm.labelNoun>egyszerű műkar</SimpleProstheticArm.labelNoun>
+  
+  <SimpleProstheticHeart.label>műszív</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.labelNoun>műszív</SimpleProstheticHeart.labelNoun>
+  
+  <CochlearImplant.label>műfül</CochlearImplant.label>
+  <CochlearImplant.labelNoun>műfül</CochlearImplant.labelNoun>
 
   <BionicEye.label>bionikus szem</BionicEye.label>
+  <BionicEye.labelNoun>bionikus szem</BionicEye.labelNoun>
+  
   <BionicArm.label>bionikus kar</BionicArm.label>
+  <BionicArm.labelNoun>bionikus kar</BionicArm.labelNoun>
   <BionicArm.comps.0.tools.0.label>ököl</BionicArm.comps.0.tools.0.label>
 
   <BionicLeg.label>bionikus láb</BionicLeg.label>
+  <BionicLeg.labelNoun>bionikus láb</BionicLeg.labelNoun>
+  
+  <BionicSpine.label>bionikus gerinc</BionicSpine.label>
+  <BionicSpine.labelNoun>bionikus gerinc</BionicSpine.labelNoun>
+
+  <BionicHeart.label>bionikus szív</BionicHeart.label>
+  <BionicHeart.labelNoun>bionikus szív</BionicHeart.labelNoun>
+
+  <BionicStomach.label>bionikus gyomor</BionicStomach.label>
+  <BionicStomach.labelNoun>bionikus gyomor</BionicStomach.labelNoun>
+
+  <BionicEar.label>bionikus fül</BionicEar.label>
+  <BionicEar.labelNoun>bionikus fül</BionicEar.labelNoun>
   
   <PowerClaw.label>erőkarom</PowerClaw.label>
+  <PowerClaw.labelNoun>erőkarom</PowerClaw.labelNoun>
   <PowerClaw.comps.0.tools.0.label>karom</PowerClaw.comps.0.tools.0.label>
 
-  <ScytherBlade.label>kaszáspenge</ScytherBlade.label>
-  <ScytherBlade.comps.0.tools.0.label>penge</ScytherBlade.comps.0.tools.0.label>
-  <ScytherBlade.comps.0.tools.1.label>hegy</ScytherBlade.comps.0.tools.1.label>
+  <ArchotechEye.label>archotech szem</ArchotechEye.label>
+  <ArchotechEye.labelNoun>archotech szem</ArchotechEye.labelNoun>
 
-  <PegLeg.labelNoun>faláb</PegLeg.labelNoun>
-  <ScytherBlade.labelNoun>kaszáspenge</ScytherBlade.labelNoun>
-  <Denture.labelNoun>műfogsor</Denture.labelNoun>
-  <SimpleProstheticLeg.labelNoun>egyszerű műláb</SimpleProstheticLeg.labelNoun>
-  <SimpleProstheticArm.labelNoun>egyszerű műkar</SimpleProstheticArm.labelNoun>
-  <BionicEye.labelNoun>bionikus szem</BionicEye.labelNoun>
-  <BionicArm.labelNoun>bionikus kar</BionicArm.labelNoun>
-  <!-- <BionicArm.comps.0.tools.0.labelNoun>ököl</BionicArm.comps.0.tools.0.labelNoun> -->
-  <PowerClaw.labelNoun>erőkarom</PowerClaw.labelNoun>
-  <BionicLeg.labelNoun>bionikus láb</BionicLeg.labelNoun>
+  <ArchotechArm.label>archotech kar</ArchotechArm.label>
+  <ArchotechArm.comps.0.tools.0.label>ököl</ArchotechArm.comps.0.tools.0.label>
+  <ArchotechArm.labelNoun>archotech kar</ArchotechArm.labelNoun>
+
+  <ArchotechLeg.label>archotech láb</ArchotechLeg.label>
+  <ArchotechLeg.labelNoun>archotech láb</ArchotechLeg.labelNoun>
+  
   
 </LanguageData>

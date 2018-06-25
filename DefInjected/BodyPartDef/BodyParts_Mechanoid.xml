@@ -1,38 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MechanicalThorax.label>tor</MechanicalThorax.label>
-  <LeftBlade.label>bal penge</LeftBlade.label>
-  <RightBlade.label>jobb penge</RightBlade.label>
+  <!-- Common to various mechanoids -->
+
   <MechanicalNeck.label>nyak</MechanicalNeck.label>
   <MechanicalHead.label>fej</MechanicalHead.label>
-  <LeftSightSensor.label>bal látószenzor</LeftSightSensor.label>
-  <RightSightSensor.label>jobb látószenzor</RightSightSensor.label>
-  <LeftHearingSensor.label>bal hallószenzor</LeftHearingSensor.label>
-  <RightHearingSensor.label>jobb hallószenzor</RightHearingSensor.label>
-  <SmellSensor.label>szagszenzor</SmellSensor.label>
-  <LeftMechanicalShoulder.label>bal váll</LeftMechanicalShoulder.label>
-  <LeftMechanicalArm.label>bal kar</LeftMechanicalArm.label>
-  <LeftMechanicalHand.label>bal kéz</LeftMechanicalHand.label>
-  <LeftHandMechanicalPinky.label>kisujj (bal)</LeftHandMechanicalPinky.label>
-  <LeftHandMechanicalMiddleFinger.label>középső ujj (bal)</LeftHandMechanicalMiddleFinger.label>
-  <LeftHandMechanicalIndexFinger.label>mutatóujj (bal)</LeftHandMechanicalIndexFinger.label>
-  <LeftHandMechanicalThumb.label>hüvelykujj (bal)</LeftHandMechanicalThumb.label>
-  <RightMechanicalShoulder.label>jobb váll</RightMechanicalShoulder.label>
-  <RightMechanicalArm.label>jobb kar</RightMechanicalArm.label>
-  <RightMechanicalHand.label>jobb kéz</RightMechanicalHand.label>
-  <RightHandMechanicalPinky.label>kisujj (jobb)</RightHandMechanicalPinky.label>
-  <RightHandMechanicalMiddleFinger.label>középső ujj (jobb)</RightHandMechanicalMiddleFinger.label>
-  <RightHandMechanicalIndexFinger.label>hüvelykujj (jobb)</RightHandMechanicalIndexFinger.label>
-  <RightHandMechanicalThumb.label>hüvelykujj (jobb)</RightHandMechanicalThumb.label>
-  <LeftMechanicalLeg.label>bal láb</LeftMechanicalLeg.label>
-  <LeftMechanicalFoot.label>bal lábfej</LeftMechanicalFoot.label>
-  <RightMechanicalLeg.label>jobb láb</RightMechanicalLeg.label>
-  <RightMechanicalFoot.label>jobb lábfej</RightMechanicalFoot.label>
-  <MechanicalCentipedeBodyFirstRing.label>első szelvény</MechanicalCentipedeBodyFirstRing.label>
-  <MechanicalCentipedeBodySecondRing.label>második szelvény</MechanicalCentipedeBodySecondRing.label>
-  <MechanicalCentipedeBodyThirdRing.label>harmadik szelvény</MechanicalCentipedeBodyThirdRing.label>
-  <MechanicalCentipedeBodyFourthRing.label>negyedik szelvény</MechanicalCentipedeBodyFourthRing.label>
-  <MechanicalCentipedeBodyFifthRing.label>ötödik szelvény</MechanicalCentipedeBodyFifthRing.label>
-  <MechanicalCentipedeBodySixthRing.label>hatodik szelvény</MechanicalCentipedeBodySixthRing.label>
   <ArtificialBrain.label>mesterséges agy</ArtificialBrain.label>
+  <SightSensor.label>látószenzor</SightSensor.label>
+  <HearingSensor.label>hallószenzor</HearingSensor.label>
+  <SmellSensor.label>szagszenzor</SmellSensor.label>
+  <MechanicalShoulder.label>váll</MechanicalShoulder.label>
+  <MechanicalArm.label>kar</MechanicalArm.label>
+  <MechanicalHand.label>kéz</MechanicalHand.label>
+  <MechanicalFinger.label>ujj</MechanicalFinger.label>
+  <MechanicalLeg.label>láb</MechanicalLeg.label>
+  <MechanicalFoot.label>lábfej</MechanicalFoot.label>
+
+
+  <!-- Human-like specific (lancer, scyther) -->
+
+  <MechanicalThorax.label>tor</MechanicalThorax.label>
+
+
+  <!-- Scyther specific -->
+
+  <Blade.label>penge</Blade.label>
+
+
+  <!-- Centipede specific -->
+
+  <MechanicalCentipedeBodyFirstRing.label>első szelvény</MechanicalCentipedeBodyFirstRing.label>
+  <MechanicalCentipedeBodyFirstRing.labelShort>szelvény</MechanicalCentipedeBodyFirstRing.labelShort>
+
+  <MechanicalCentipedeBodySecondRing.label>második szelvény</MechanicalCentipedeBodySecondRing.label>
+  <MechanicalCentipedeBodySecondRing.labelShort>szelvény</MechanicalCentipedeBodySecondRing.labelShort>
+
+  <MechanicalCentipedeBodyThirdRing.label>harmadik szelvény</MechanicalCentipedeBodyThirdRing.label>
+  <MechanicalCentipedeBodyThirdRing.labelShort>szelvény</MechanicalCentipedeBodyThirdRing.labelShort>
+
+  <MechanicalCentipedeBodyFourthRing.label>negyedik szelvény</MechanicalCentipedeBodyFourthRing.label>
+  <MechanicalCentipedeBodyFourthRing.labelShort>szelvény</MechanicalCentipedeBodyFourthRing.labelShort>
+
+  <MechanicalCentipedeBodyFifthRing.label>ötödik szelvény</MechanicalCentipedeBodyFifthRing.label>
+  <MechanicalCentipedeBodyFifthRing.labelShort>szelvény</MechanicalCentipedeBodyFifthRing.labelShort>
+
+  <MechanicalCentipedeBodySixthRing.label>hatodik szelvény</MechanicalCentipedeBodySixthRing.label>
+  <MechanicalCentipedeBodySixthRing.labelShort>szelvény</MechanicalCentipedeBodySixthRing.labelShort>
 </LanguageData>

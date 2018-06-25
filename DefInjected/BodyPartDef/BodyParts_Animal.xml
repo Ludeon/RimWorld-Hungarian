@@ -12,14 +12,11 @@
   <AnimalJaw.label>állkapocs</AnimalJaw.label>
   <Jowl.label>állkapocs</Jowl.label>
   <Tail.label>farok</Tail.label>
-  <LeftAntenna.label>bal csáp</LeftAntenna.label>
-  <RightAntenna.label>jobb csáp</RightAntenna.label>
+  <Antenna.label>csáp</Antenna.label>
   <Pronotum.label>tor</Pronotum.label>
   <Shell.label>ház</Shell.label>
-  <LeftElytra.label>bal szárnyfedő</LeftElytra.label>
-  <RightElytra.label>jobb szárnyfedő</RightElytra.label>
-  <LeftTusk.label>bal agyar</LeftTusk.label>
-  <RightTusk.label>jobb agyar</RightTusk.label>
+  <Elytra.label>szárnyfedő</Elytra.label>
+  <Tusk.label>agyar</Tusk.label>
   <Trunk.label>törzs</Trunk.label>
   <Horn.label>szarv</Horn.label>
   <HeadClaw.label>fejkarom</HeadClaw.label>
@@ -27,44 +24,28 @@
   <TurtleShell.label>páncél</TurtleShell.label>
   <Plastron.label>haspáncél</Plastron.label>
   <TurtleBeak.label>csőr</TurtleBeak.label>
-  <FrontLeftLeg.label>mellső bal láb</FrontLeftLeg.label>
-  <FrontRightLeg.label>mellső jobb láb</FrontRightLeg.label>
-  <MiddleLeftLeg.label>középső bal láb</MiddleLeftLeg.label>
-  <MiddleRightLeg.label>középső jobb láb</MiddleRightLeg.label>
-  <RearLeftLeg.label>hátsó bal láb</RearLeftLeg.label>
-  <RearRightLeg.label>hátsó jobb láb</RearRightLeg.label>
-  <FrontLeftInsectLeg.label>mellső bal láb</FrontLeftInsectLeg.label>
-  <FrontRightInsectLeg.label>mellső jobb láb</FrontRightInsectLeg.label>
-  <MiddleLeftInsectLeg.label>középső bal láb</MiddleLeftInsectLeg.label>
-  <MiddleRightInsectLeg.label>középső jobb láb</MiddleRightInsectLeg.label>
-  <RearLeftInsectLeg.label>hátsó bal láb</RearLeftInsectLeg.label>
-  <RearRightInsectLeg.label>hátsó jobb láb</RearRightInsectLeg.label>
-  <FrontLeftPaw.label>mellső bal mancs</FrontLeftPaw.label>
-  <FrontRightPaw.label>mellső bal mancs</FrontRightPaw.label>
-  <RearLeftPaw.label>hátsó bal mancs</RearLeftPaw.label>
-  <RearRightPaw.label>hátsó bal mancs</RearRightPaw.label>
-  <FrontLeftHoof.label>mellső bal pata</FrontLeftHoof.label>
-  <FrontRightHoof.label>mellső bal pata</FrontRightHoof.label>
-  <RearLeftHoof.label>hátsó bal pata</RearLeftHoof.label>
-  <RearRightHoof.label>hátsó bal pata</RearRightHoof.label>
-  <FrontLeftLegFirstClaw.label>mellső bal láb, első karom</FrontLeftLegFirstClaw.label>
-  <FrontLeftLegSecondClaw.label>mellső bal láb, második karom</FrontLeftLegSecondClaw.label>
-  <FrontLeftLegThirdClaw.label>mellső bal láb, harmadik karom</FrontLeftLegThirdClaw.label>
-  <FrontLeftLegFourthClaw.label>mellső bal láb, negyedik karom</FrontLeftLegFourthClaw.label>
-  <FrontLeftLegFifthClaw.label>mellső bal láb, ötödik karom</FrontLeftLegFifthClaw.label>
-  <FrontRightLegFirstClaw.label>mellső jobb láb, első karom</FrontRightLegFirstClaw.label>
-  <FrontRightLegSecondClaw.label>mellső jobb láb, második karom</FrontRightLegSecondClaw.label>
-  <FrontRightLegThirdClaw.label>mellső jobb láb, harmadik karom</FrontRightLegThirdClaw.label>
-  <FrontRightLegFourthClaw.label>mellső jobb láb, negyedik karom</FrontRightLegFourthClaw.label>
-  <FrontRightLegFifthClaw.label>mellső jobb láb, ötödik karom</FrontRightLegFifthClaw.label>
-  <RearLeftLegFirstClaw.label>hátsó bal láb, első karom</RearLeftLegFirstClaw.label>
-  <RearLeftLegSecondClaw.label>hátsó bal láb, második karom</RearLeftLegSecondClaw.label>
-  <RearLeftLegThirdClaw.label>hátsó bal láb, harmadik karom</RearLeftLegThirdClaw.label>
-  <RearLeftLegFourthClaw.label>hátsó bal láb, negyedik karom</RearLeftLegFourthClaw.label>
-  <RearLeftLegFifthClaw.label>hátsó bal láb, ötödik karom</RearLeftLegFifthClaw.label>
-  <RearRightLegFirstClaw.label>hátsó jobb láb, első karom</RearRightLegFirstClaw.label>
-  <RearRightLegSecondClaw.label>hátsó jobb láb, második karom</RearRightLegSecondClaw.label>
-  <RearRightLegThirdClaw.label>hátsó jobb láb, harmadik karom</RearRightLegThirdClaw.label>
-  <RearRightLegFourthClaw.label>hátsó jobb láb, negyedik karom</RearRightLegFourthClaw.label>
-  <RearRightLegFifthClaw.label>hátsó jobb láb, ötödik karom</RearRightLegFifthClaw.label>
+  
+   <!-- Insect legs -->
+
+  <InsectLeg.label>láb</InsectLeg.label>
+
+
+  <!-- Paws -->
+
+  <Paw.label>mancs</Paw.label>
+
+
+  <!-- Hoofs -->
+
+  <Hoof.label>pata</Hoof.label>
+
+
+  <!-- Claws -->
+
+  <FrontClaw.label>mellső karom</FrontClaw.label>
+  <FrontClaw.labelShort>karom</FrontClaw.labelShort>
+
+  <RearClaw.label>hátsó karom</RearClaw.label>
+  <RearClaw.labelShort>karom</RearClaw.labelShort>
+  
 </LanguageData>
