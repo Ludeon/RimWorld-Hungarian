@@ -56,18 +56,23 @@
   <MessageMustDesignateHuntable>Vadászható állatot kell kijelölni.</MessageMustDesignateHuntable>
   <MessageMustDesignateTameable>Szelídíthető állatot kell kijelölni.</MessageMustDesignateTameable>
   <MessageMustDesignateClaimable>Elhagyott mesterséges képződményt kell kijelölni.</MessageMustDesignateClaimable>
-  <MessageMustDesignateSmoothableFloor>Göröngyös talajt kell kijelölni.</MessageMustDesignateSmoothableFloor>
+  <!-- <MessageMustDesignateSmoothableFloor>Göröngyös talajt kell kijelölni.</MessageMustDesignateSmoothableFloor> -->
+  <MessageMustDesignateSmoothableSurface>Göröngyös kőfelületet kell kijelölni.</MessageMustDesignateSmoothableSurface>
   <MessageNothingCanRemoveThickRoofs>Ilyen vastag tetőt nem lehet elbontani.</MessageNothingCanRemoveThickRoofs>
   <MessageAlreadyInStorage>Ezt már raktározzuk és a magas prioritású raktárba lesz mozgatva, ha szükséges.</MessageAlreadyInStorage>
   <MessageMustDesignateStrippable>Tetemet vagy kiütött személyt kell kijelölni.</MessageMustDesignateStrippable>
   <MessageMustDesignateSlaughterable>A kolóniához tartozó szelídített állatot kell kijelölni.</MessageMustDesignateSlaughterable>
   <MessageMustDesignateOpenable>Nem üres sírt vagy tárolót kell kijelölni.</MessageMustDesignateOpenable>
+  <MessageMustDesignateForbiddable>Feloldott tárgyat kell kijelölni.</MessageMustDesignateForbiddable>
+  <MessageMustDesignateUnforbiddable>Tiltott tárgyat kell kijelölni.</MessageMustDesignateUnforbiddable>
 
   <MessageRefusedArrest>{0} nem hagyja magát!</MessageRefusedArrest>
 
   <MessageNoMedicalBeds>Nincs szabad betegágy.</MessageNoMedicalBeds>
   <MessageNoAnimalBeds>Nincs szabad állat fekhely.</MessageNoAnimalBeds>
   <MessageTooLowMedCare>Ehhez {0} vagy jobb kell, de {1} jelenlegi ellátási szintje {2}.</MessageTooLowMedCare>
+  <PawnDiedBecauseOf>{0} meghalt. Ok: {1}.</PawnDiedBecauseOf>
+  <PawnDied>{0} meghalt.</PawnDied>
 
   <PawnDiedBecauseOf>{0} meghalt {1} miatt.</PawnDiedBecauseOf>
 
@@ -82,7 +87,7 @@
 
   <MessageMedicalOperationWillAngerFaction>Ettől az műtéttől {0} mérges lesz.</MessageMedicalOperationWillAngerFaction>
 
-  <MessagePawnExitMapRelationsGain>Mivel {0} egészségesen távozott, {1} viszonya velünk ennyivel javult: {2}.</MessagePawnExitMapRelationsGain>
+  <!-- <MessagePawnExitMapRelationsGain>Mivel {0} egészségesen távozott, {1} viszonya velünk ennyivel javult: {2}.</MessagePawnExitMapRelationsGain> -->
 
   <MessageMiscarriedStarvation>{0} elvetélt éhezés miatt.</MessageMiscarriedStarvation>
   <MessageMiscarriedPoorHealth>{0} elvetélt rossz egészségi állapota miatt.</MessageMiscarriedPoorHealth>
@@ -139,9 +144,12 @@
   <MessageRottedAwayInStorage>Némi {0} elrohadt a raktárban.</MessageRottedAwayInStorage>
 
   <MessageFoodPoisoning>{0} ételmérgezést kapott. Oka: {1}.</MessageFoodPoisoning>
+  
+  <MessagePawnLostWhileFormingCaravan>{0} el lett távolítva a karavánból.</MessagePawnLostWhileFormingCaravan>
+  <MessagePawnLostWhileFormingCaravan_AllLost>Karaván alakítás megszakítva.</MessagePawnLostWhileFormingCaravan_AllLost>
 
   
-  <MessageFailedToSendCaravanBecausePawnLost>A karavánt nem lehet elküldeni, mert egy gyarmatos, állat vagy fogoly elveszett.</MessageFailedToSendCaravanBecausePawnLost>
+  <!-- <MessageFailedToSendCaravanBecausePawnLost>A karavánt nem lehet elküldeni, mert egy gyarmatos, állat vagy fogoly elveszett.</MessageFailedToSendCaravanBecausePawnLost> -->
   <MessageCaravanFormationPaused>A karaván alakítása folytatódik, amint mindenki újra normális mentális állapotba kerül.</MessageCaravanFormationPaused>
   <MessageCaravanFormationUnpaused>A gyarmatosok folytatják a karaván alakítását.</MessageCaravanFormationUnpaused>
 
@@ -168,20 +176,24 @@
   <MessageCaravanEnteredWorldObject>{0} megérkezett ide: {1}.</MessageCaravanEnteredWorldObject>
 
   <MessagePawnLeftMapAndCreatedCaravan>{0} elhagyta a területet és karavánt alakított.</MessagePawnLeftMapAndCreatedCaravan>
+  
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>A csatlakozó állatok úton vannak.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
 
   <MessageSettledInExistingMap>Sikeresen letelepedtél egy új területen.</MessageSettledInExistingMap>
+  
+  <MessagePermanentWoundHealed>{2} meggyógyult ({1}). Ok: {0}</MessagePermanentWoundHealed>
 
-  <MessageAmbushVictory>Győzelem! {0} óra múlva a karaván automatikusan újraalakul. A világtérképen újraalakíthatod most is.</MessageAmbushVictory>
+  <!-- <MessageAmbushVictory>Győzelem! {0} óra múlva a karaván automatikusan újraalakul. A világtérképen újraalakíthatod most is.</MessageAmbushVictory> -->
 
-  <MessageAutomaticallyReformedCaravan>Gyarmatosaid újraalakították a karavánt.</MessageAutomaticallyReformedCaravan>
+  <!-- <MessageAutomaticallyReformedCaravan>Gyarmatosaid újraalakították a karavánt.</MessageAutomaticallyReformedCaravan> -->
 
-  <MessageOldWoundHealed>{0} segítségével elmúlt {1} következő problémája: {2}.</MessageOldWoundHealed>
+  <!-- <MessageOldWoundHealed>{0} segítségével elmúlt {1} következő problémája: {2}.</MessageOldWoundHealed> -->
 
   <MessageRescueeJoined>Mivel megmentetted, {0} csatlakozott hozzád!</MessageRescueeJoined>
 
-  <MessageAttackedCaravanIsNowHostile>Mivel megtámadtad {0} karavánját, mostantól ellenségek vagytok.</MessageAttackedCaravanIsNowHostile>
-  <MessageFactionPawnCrushed>{0} emberveszteség beomlás miatt. Frakció kapcsolat: {1}</MessageFactionPawnCrushed>
-  <MessageFactionPawnLost>{0} elvesztette őt: {1}. Frakció kapcsolat: {2}</MessageFactionPawnLost>
+  <!-- <MessageAttackedCaravanIsNowHostile>Mivel megtámadtad {0} karavánját, mostantól ellenségek vagytok.</MessageAttackedCaravanIsNowHostile> -->
+  <!-- <MessageFactionPawnCrushed>{0} emberveszteség beomlás miatt. Frakció kapcsolat: {1}</MessageFactionPawnCrushed> -->
+  <!-- <MessageFactionPawnLost>{0} elvesztette őt: {1}. Frakció kapcsolat: {2}</MessageFactionPawnLost> -->
  
   <MessageTransporterUnreachable>Némely szállítókapszula elérhetetlen.</MessageTransporterUnreachable>
   <MessageTransportersNotAdjacent>A kiválasztott kapszulák kilövőállásainak szomszédosoknak kell lenniük.</MessageTransportersNotAdjacent>
@@ -194,7 +206,7 @@
   <MessageTransportPodsArrived>A kapszulák megérkeztek.</MessageTransportPodsArrived>
   <MessageTransportPodsArrivedAndLost>A kapszulák megérkeztek, de mivel nem volt velük gyarmatos, a tartalmuk elveszett.</MessageTransportPodsArrivedAndLost>
   <MessageTransportPodsArrivedAndAddedToCaravan>A kapszulák megérkeztek. Tartalmukat felpakolták a karavánra.</MessageTransportPodsArrivedAndAddedToCaravan>
-  <MessageTransportPodsArrived_BecameHostile>{0} mostantól ellenség.</MessageTransportPodsArrived_BecameHostile>
+  <!-- <MessageTransportPodsArrived_BecameHostile>{0} mostantól ellenség.</MessageTransportPodsArrived_BecameHostile> -->
 
   <MessageFailedToLoadTransportersBecauseColonistLost>A berakodási folyamat leállt, mert legalább egy gyarmatos eltűnt.</MessageFailedToLoadTransportersBecauseColonistLost>
 
@@ -212,7 +224,7 @@
 
   <MessageSlaughteringBondedAnimal>Kötődésük miatt {0} levágása boldogtalanná teszi őt: {1}.</MessageSlaughteringBondedAnimal>
 
-  <MessageCaravanRunOutOfFood>{0} kifogyott az ételből ({1}).</MessageCaravanRunOutOfFood>
+  <MessageCaravanRanOutOfFood>{0} kifogyott az ételből ({1}).</MessageCaravanRanOutOfFood>
 
   <MessageSelectOwnBaseToFormCaravan>Karaván alakításához válaszd ki a saját kolóniád vagy egy olyan helyet, ahol embereid vannak.</MessageSelectOwnBaseToFormCaravan>
 
@@ -250,7 +262,7 @@
   <MessageFailedToRescueRelative>Nem sikerült megmenteni őt: {0}. {1} szomorú lesz.</MessageFailedToRescueRelative>
   <MessageRescuedRelative>Megmentetted őt: {0}. {1} boldog lesz.</MessageRescuedRelative>
 
-  <MessagePrisonerRescued>Mivel megmentetted, [PAWN_nameDef] csatlakozott a kolóniádhoz.</MessagePrisonerRescued>
+  <!-- <MessagePrisonerRescued>Mivel megmentetted, [PAWN_nameDef] csatlakozott a kolóniádhoz.</MessagePrisonerRescued> -->
 
   <MessageTornadoLeftMap>A tornádó elhagyta a zónát.</MessageTornadoLeftMap>
   <MessageTornadoDissipated>A tornádó elenyészett.</MessageTornadoDissipated>
@@ -262,5 +274,58 @@
   <MessageTargetedTantrumChangedTarget>{0} nem tudott {1} közelébe férkőzni, ezért a haragját rajta töltötte ki: {2}.</MessageTargetedTantrumChangedTarget>
 
   <MessageTargetedInsultingSpreeChangedTarget>{0} nem tudott {1} közelébe férkőzni, ezért a haragját rajta töltötte ki: {2}.</MessageTargetedInsultingSpreeChangedTarget>
+  
+  <MessageMurderousRageChangedTarget>{0} úgy döntött, a haragját rajta tölti ki: {1}.</MessageMurderousRageChangedTarget>
+
+  <MessagePlantIncompatibleWithRoof>{0} nem terem tető alatt.</MessagePlantIncompatibleWithRoof>
+  <MessageRoofIncompatibleWithPlant>{0} fölé nem építhető tető.</MessageRoofIncompatibleWithPlant>
+
+  <MessageChoseRoute>A karaván automatikusan elindul az első célállomás felé.</MessageChoseRoute>
+
+  <MessageBlockedHediff>{0} eltorlaszolja(???) ezt: {1} on(???): {2}.</MessageBlockedHediff>
+
+  <MessageCraftedMasterwork>{0} létrehozott egyet ebből: {1}.</MessageCraftedMasterwork>
+
+  <MessagePlayerTriedToLeaveMapViaExitGrid>A körzet elhagyásához használd a "Karaván újjáalakítása" gombot a világtérképen.</MessagePlayerTriedToLeaveMapViaExitGrid>
+
+  <MessageGoodwillChanged>A viszony vele: ({0}), erről: ({1}), erre változott: ({2}).</MessageGoodwillChanged>
+  <MessageGoodwillChangedWithReason>A viszony vele: ({0}), erről: ({1}), erre változott: ({2}), ({3}).</MessageGoodwillChangedWithReason>
+  <GoodwillChangedReason_AttackedPawn>megtámadta őt: {0}</GoodwillChangedReason_AttackedPawn>
+  <GoodwillChangedReason_UsedItem>használta ezt: {0}, rajta: {1}</GoodwillChangedReason_UsedItem>
+  <GoodwillChangedReason_RemovedBodyPart>begyűjtötte ezt: {0}</GoodwillChangedReason_RemovedBodyPart>
+  <GoodwillChangedReason_CapturedPawn>elfogta őt: {0}</GoodwillChangedReason_CapturedPawn>
+  <GoodwillChangedReason_PawnCrushed>{0} összezúzódott</GoodwillChangedReason_PawnCrushed>
+  <GoodwillChangedReason_PawnDied>{0} meghalt</GoodwillChangedReason_PawnDied>
+  <GoodwillChangedReason_Traded>kereskedett</GoodwillChangedReason_Traded>
+  <GoodwillChangedReason_AttackedCaravan>megtámadott egy karavánt</GoodwillChangedReason_AttackedCaravan>
+  <GoodwillChangedReason_NaturallyOverTime>természetes haladás efelé: {0}</GoodwillChangedReason_NaturallyOverTime>
+  <GoodwillChangedReason_ExitedMapHealthy>{0} egészségesen elhagyta a térképet</GoodwillChangedReason_ExitedMapHealthy>
+  <GoodwillChangedReason_Tended>hajlamos erre: {0}</GoodwillChangedReason_Tended>
+  <GoodwillChangedReason_ReceivedGift>ajándékot kapott</GoodwillChangedReason_ReceivedGift>
+  <GoodwillChangedReason_FulfilledTradeRequest>kereskedelmi kérést teljesített</GoodwillChangedReason_FulfilledTradeRequest>
+
+  <MessageGiftGivenButNotAppreciated>{0} elfogadja az ajándékod, de nem értékeli nagyra.</MessageGiftGivenButNotAppreciated>
+
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>A karaván már túl van terhelve, nem tud semmit mást elvinni.</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <MessageCantGiveGiftBecauseCantCarry>A karaván nem bír el ennyit. Az ajándékok tömege {0}, de a karavánra már csak {1} fér.</MessageCantGiveGiftBecauseCantCarry>
+
+  <MessageFormedCaravan>{0} megalakult és a világtérképen halad.</MessageFormedCaravan>
+  <MessageFormedCaravan_Orders>Utasítások</MessageFormedCaravan_Orders>
+
+  <MessageBillValidationStoreZoneDeleted>{1} "{0}" (???) nem tud erre a törölt raktárterületre cipelni: {2}.</MessageBillValidationStoreZoneDeleted>
+  <MessageBillValidationStoreZoneUnavailable>{1} "{0}" (???) nem tud erre a nem elérhető raktárterületre cipelni: {2}.</MessageBillValidationStoreZoneUnavailable>
+  <MessageBillValidationPawnUnavailable>{0} nem tud többé ezen dolgozni:"{1}" itt: {2}. A korlátozás feloldva(???).</MessageBillValidationPawnUnavailable>
+  <MessageBillValidationIncludeZoneDeleted>{1} "{0}" (???) nem tud ezen a törölt raktárterületen számlálni (???): {2}.</MessageBillValidationIncludeZoneDeleted>
+  <MessageBillValidationIncludeZoneUnavailable>{1} "{0}" (???) nem tud ezen a nem elérhető raktárterületen számlálni (???): {2}.</MessageBillValidationIncludeZoneUnavailable>
+  <MessageBillValidationStoreZoneInsufficient>{1} "{0}" (???) már nem tud mindent erre a raktárterületre cipelni: {2}.</MessageBillValidationStoreZoneInsufficient>
+
+  <MessageAnimalReturnedWild>Foglalkozás hiánya miatt {0} újra elvadult.</MessageAnimalReturnedWild>
+  <MessageAnimalLostSkill>Foglalkozás hiánya miatt {0} elvesztette a következő készséget: {1}</MessageAnimalLostSkill>
+
+  <MessageTranslationReportSaved>Fordítási jelentés megírva ide: {0}</MessageTranslationReportSaved>
+
+  <MessageCaravanArrivalActionNoLongerValid>{0} nem tudta elérni a célpontját.</MessageCaravanArrivalActionNoLongerValid>
+
+  <MessageEnterCooldownBlocksEntering>Még további {0} napig nem léphetsz be.</MessageEnterCooldownBlocksEntering>
   
 </LanguageData>

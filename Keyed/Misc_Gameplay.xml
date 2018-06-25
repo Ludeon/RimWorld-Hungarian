@@ -7,11 +7,13 @@
   <Contents>Tartalom</Contents>
   <ContainedResources>Tartalmazott anyagok</ContainedResources>
   <ForPrisonerUse>Fogoly számára</ForPrisonerUse>
+  <InPrisonCell>Fogoly számára(???)</InPrisonCell>
   <ForColonistUse>Gyarmatos számára</ForColonistUse>
   <MedicalBed>Betegágy</MedicalBed>
   <Owner>Tulajdonos</Owner>
   <Owners>Tulajdonosok</Owners>
   <AssignedColonist>Beosztott gyarmatos</AssignedColonist>
+  <DiedOn>Meghalt ekkor(???): {0}</DiedOn>
   <Nobody>Senki</Nobody>
   <Unowned>Gazdátlan</Unowned>
   <DeadTime>Mióta halott: {0}</DeadTime>
@@ -26,9 +28,12 @@
   <!-- <UntreatedLower>kezeletlen</UntreatedLower> -->
   <DevelopedImmunityLower>kialakult immunitás</DevelopedImmunityLower>
   <NeedsTendingNow>Ápolásra van szüksége</NeedsTendingNow>
+  <CanTendNow>Ápolhat</CanTendNow>
+  <TreatmentExpiresIn>Ápolás elavul ekkor: {0}</TreatmentExpiresIn>
   <!-- <InjuryRequiresTreatment>Kezelés szükséges</InjuryRequiresTreatment> -->
 <!--   <NextTreatmentIn>Következő kezelés: {0}</NextTreatmentIn> -->
   <NextTendIn>Kezelés szükséges ekkor: {0}</NextTendIn> 
+  <TendQuality>Ápolás minősége</TendQuality>
   <MissingMedicalBillIngredient>nincs {0}</MissingMedicalBillIngredient>
   <Immunity>Immunitás</Immunity>
   <Race>Faj</Race>
@@ -39,6 +44,7 @@
   <ThingInfo>Információ</ThingInfo>
   <DropThing>Eldob</DropThing>
   <Rename>Átnevez</Rename>
+  <RenameAnimal>Állatot átnevez</RenameAnimal>
   <RenameColonist>Gyarmatost átnevez</RenameColonist>
   <UnknownLower>ismeretlen</UnknownLower>
   <On>Be</On>
@@ -73,19 +79,29 @@
   <Permanent>állandó</Permanent>
   <CaravanResting>Pihen.</CaravanResting>
   <CaravanEstimatedTimeToDestination>Becsült érkezés: {0}</CaravanEstimatedTimeToDestination>
+  <CaravanEstimatedDaysToDestination>Becsült érkezés: {0} nap</CaravanEstimatedDaysToDestination> 
   <CaravanImmobilizedByMass>Leállt: túlterhelés.</CaravanImmobilizedByMass>
   <CaravanOutOfFood>Nincs élelem.</CaravanOutOfFood>
   <CaravanDaysOfFood>Élelem készlet: {0} nap</CaravanDaysOfFood>
   <CaravanDaysOfFoodRot>Ennyi napi élelem: {0}, elrohad ekkor: {1} </CaravanDaysOfFoodRot>
-  <CaravanMemberMentalBreak>Leállt: {0} összeomlott.</CaravanMemberMentalBreak>
+  <!-- <CaravanMemberMentalBreak>Leállt: {0} összeomlott.</CaravanMemberMentalBreak> -->
   <AllCaravanMembersDowned>Leállt: mindenki járóképtelen.</AllCaravanMembersDowned>
   <AllCaravanMembersMentalBreak>Leállás oka: mindenki összeomlott.</AllCaravanMembersMentalBreak>
+  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
+  <CaravanAnimal>1 állat</CaravanAnimal>
+  <CaravanAnimalsCount>{0} állat</CaravanAnimalsCount>
+  <CaravanPrisoner>1 fogoly</CaravanPrisoner>
+  <CaravanPrisonersCount>{0} fogoly</CaravanPrisonersCount>
+  <CaravanPawnsInMentalState>{0} idegállapotban</CaravanPawnsInMentalState>
+  <CaravanPawnsDowned>{0} földre került</CaravanPawnsDowned>
   <CaravanTraveling>Utazik.</CaravanTraveling>
+  <CaravanPaused>Leállt.</CaravanPaused>
   <CaravanWaiting>Várakozik.</CaravanWaiting>
-  <CaravanHoursPerTile>ó/mező</CaravanHoursPerTile>
-  <CaravanBaseMovementTime>Alap sebesség</CaravanBaseMovementTime>
+  <!-- <CaravanHoursPerTile>ó/mező</CaravanHoursPerTile> -->
+  <!-- <CaravanBaseMovementTime>Alap sebesség</CaravanBaseMovementTime> -->
   <CurrentTileMovementTime>Jelenlegi sebesség</CurrentTileMovementTime>
-  <StealthFactor>Leplezés</StealthFactor>
+  <Visibility>Láthatóság</Visibility>
+  <!-- <StealthFactor>Leplezés</StealthFactor> -->
   <Temperature>Hőmérséklet</Temperature>
   <BadTemperature>rossz hőmérséklet</BadTemperature>
   <IdealFermentingTemperature>Ideális erjesztési hőmérséklet</IdealFermentingTemperature>
@@ -93,9 +109,13 @@
   <CaravanVisiting>Meglátogatja: {0}.</CaravanVisiting>
   <CaravanEntering>Belép: {0}.</CaravanEntering>
   <CaravanAttacking>Megtámadja: {0}.</CaravanAttacking>
+  <CaravanOfferingGifts>Ajándékoz neki: {0}.</CaravanOfferingGifts>
   <WasWornByCorpse>Tetem viselte.</WasWornByCorpse>
-  <WornByCorpseChar>T?</WornByCorpseChar>
-  <DeterioratingDueToBeingUnroofed>Szabad ég alatt romlik.</DeterioratingDueToBeingUnroofed>
+  <WornByCorpseChar>T(???)</WornByCorpseChar>
+  <!-- <DeterioratingDueToBeingUnroofed>Szabad ég alatt romlik.</DeterioratingDueToBeingUnroofed> -->
+  <DeterioratingUnroofed>szabad ég alatt</DeterioratingUnroofed>
+  <DeterioratingOutdoors>kinn</DeterioratingOutdoors>
+  <DeterioratingBecauseOf>Avul a következő miatt</DeterioratingBecauseOf>
   <Map>Térkép</Map>
   <ForceExitAndRemoveMapCountdown>{0} óra múlva indul</ForceExitAndRemoveMapCountdown>
   <ForceExitAndRemoveMapCountdownTip>A gyarmatosok maguktól újraalakítják a karavánt és elindulnak {0} óra múlva.</ForceExitAndRemoveMapCountdownTip>
@@ -133,10 +153,34 @@
   <KnownSiteThreatsNone>Fenyegetés: semmi.</KnownSiteThreatsNone>
   <SkillRequirements>Készség követelmény</SkillRequirements>
   <Products>Termékek</Products>
-  <DeepDrillExhausted>Mélyfúró erőforrások kimerültek.</DeepDrillExhausted>
   <Relationship>{0} neki: {1}</Relationship>
   <Prisoner>Fogoly</Prisoner>
   <Refugee>Menekült</Refugee>
+  
+  <TileMovementDifficulty>Terep nehézség</TileMovementDifficulty>
+  <Impassable>Járhatatlan</Impassable>
+  <CaravanMovementSpeedFull>Karaván sebesség</CaravanMovementSpeedFull>
+  <DownedLower>földön</DownedLower>
+  <AverageCaravanMemberMoveSpeed>Átlagos sebesség (személyek)</AverageCaravanMemberMoveSpeed>
+  <MultiplierForCarriedMass>Teher szorzó: {0}</MultiplierForCarriedMass>
+  <FinalCaravanPawnsMovementSpeed>Karaván tagok sebessége</FinalCaravanPawnsMovementSpeed>
+  <FinalCaravanMovementSpeed>Végső sebesség</FinalCaravanMovementSpeed>
+  <Winter>Tél</Winter>
+  <MovementDifficultyOffsetInWinter>Télen {0}</MovementDifficultyOffsetInWinter>
+  <RangeTo>ide</RangeTo>
+  <NoDietCategoryLetter>Nincs levél(???)</NoDietCategoryLetter>
+  <ExpiresIn>Lejár ekkor</ExpiresIn>
+  <CaravanLeaderCaravanName>{0} karavánja</CaravanLeaderCaravanName>
+  <Reason>Ok</Reason>
+  <RelationsWith>Viszony vele: {0}</RelationsWith>
+  <capturedBy>{0} foglya</capturedBy>
+  <yourCaravan>a karavánod</yourCaravan>
+  <CreatureWildness>{0} vadság</CreatureWildness>
+  <CreatureTrainability>{0} szelídíthetőség</CreatureTrainability>
+  <ProximitySingleGoodwillChange>{0} (???) {1}</ProximitySingleGoodwillChange>
+  <EnterCooldown>Még további {0} napig nem léphetsz be.</EnterCooldown>
+  <Caravan>Karaván</Caravan>
+  
   
   <!-- Fermentation barrel -->
   <ContainsWort>Tartalma {0} / {1} söralap.</ContainsWort>
@@ -168,10 +212,10 @@
   <NoRoof>Fedetlen</NoRoof>
   <SnowClear>Hómentes</SnowClear>
   <AreaDefaultLabel>Körzet: {0}</AreaDefaultLabel>
-  <AreaAnimalDefaultLabel>Állatkörzet: {0}</AreaAnimalDefaultLabel>
+  <!-- <AreaAnimalDefaultLabel>Állatkörzet: {0}</AreaAnimalDefaultLabel> -->
   <NoAreaAllowed>Korlátozatlan</NoAreaAllowed>
   <NewArea>Új körzet</NewArea>
-  <NewAreaAnimal>Új állatkörzet</NewAreaAnimal>
+  <!-- <NewAreaAnimal>Új állatkörzet</NewAreaAnimal> -->
   <InvertArea>Invertálás</InvertArea>
 
   <!-- Control -->
@@ -191,6 +235,8 @@
   <GunInstalled>Telepítve</GunInstalled>
   <MinimumRange>Minimum hatótáv</MinimumRange>
   <CanFireIn>Tűzkész</CanFireIn>
+  <CannotFire>Nem tüzelhet</CannotFire>
+  <Roofed>tető alatt</Roofed>
   <ShellLoaded>Betöltve: {0}</ShellLoaded>
   <ShellNotLoaded>Nincs betöltve</ShellNotLoaded>
 
@@ -265,6 +311,8 @@
   <Carrying>Cipeli</Carrying>
   <AffectedBy>Ezek miatt:</AffectedBy>
   <Queued>Sorban</Queued>
+  <State>Állapot</State>
+  <StunLower>bénít</StunLower>
   
   <!-- Inspector general stuff -->
   <SelectNextInSquareTip>Következő dolog ugyanazon a cellán.\n\nGyorsbillentyű: {0}\n\nÚjra kattintva ugyanarra a cellára ugyanezt eredményezi.</SelectNextInSquareTip>
@@ -305,6 +353,7 @@
   <!-- Shooting tooltip -->
   <ShotBy>{0} lövése</ShotBy>
   <CannotHit>Nem lőhet rá.</CannotHit>
+  <ManhunterPerHit>Emberevővé válás esélye per találat</ManhunterPerHit>
 
   <!-- Rotting -->
   <CurrentlyFrozen>Fagyott (nem romlik)</CurrentlyFrozen>
@@ -355,11 +404,12 @@
 
   <!-- Buttons -->
   <ZoneVisibilityToggleButton>Körzetek láthatósága</ZoneVisibilityToggleButton>
-  <!-- <ShowBeautyToggleButton>Szépség kijelzése\n\nMegjeleníti az adott hely szépségére vonatkozó információkat, mintha egy ember épp ott állna, ahová a kurzor mutat.</ShowBeautyToggleButton> -->
-  <!-- <ShowRoomStatsToggleButton>Szoba statisztikák kijelzése\n\nMegjeleníti az adott szoba szépségére vonatkozó információkat.</ShowRoomStatsToggleButton> -->
-  <ShowEnvironmentToggleButton>Környezeti info.\n\nMegjeleníti az adott hely/szoba szépségére vonatkozó információkat, mintha egy ember épp ott állna, ahová a kurzor mutat.</ShowEnvironmentToggleButton>
+  <ShowBeautyToggleButton>Szépség kijelzése\n\nMegjeleníti az adott hely szépségére vonatkozó információkat, mintha egy ember épp ott állna, ahová a kurzor mutat.</ShowBeautyToggleButton>
+  <ShowRoomStatsToggleButton>Szoba statisztikák kijelzése\n\nMegjeleníti az adott szoba szépségére vonatkozó információkat.</ShowRoomStatsToggleButton>
+  <!-- <ShowEnvironmentToggleButton>Környezeti info.\n\nMegjeleníti az adott hely/szoba szépségére vonatkozó információkat, mintha egy ember épp ott állna, ahová a kurzor mutat.</ShowEnvironmentToggleButton> -->
   <ShowColonistBarToggleButton>Gyarmatos állapotsáv\n\nIkonok és alapstátusz minden gyarmatosról a kép tetején.</ShowColonistBarToggleButton>
   <AutoHomeAreaToggleButton>Lakókörzet automatikus kiterjesztése új épületnél</AutoHomeAreaToggleButton>
+  <AutoRebuildButton>Elpusztított építmények automatikus újjáépítése.</AutoRebuildButton>
   <CategorizedResourceReadoutToggleButton>Kategorizált nyersanyag lista</CategorizedResourceReadoutToggleButton>
   <ShowAnimalNamesToggleButton>Elnevezett állatok nevének kijelzése</ShowAnimalNamesToggleButton>
   <ShowLearningHelperWhenEmptyToggleButton>Az oktató ki/bekapcsolása akkor is, ha nincs téma.\n\nA oktató automatikusan bekapcsol, ha van új téma. Ezzel a kapcsolóval eltüntetheted, ha épp nincs tanulnivaló.</ShowLearningHelperWhenEmptyToggleButton>
@@ -395,6 +445,7 @@
   <MustPlaceVentWithFreeSpaces>Mindkét oldalnak szabad levegőáramlásban kell lennie.</MustPlaceVentWithFreeSpaces>
   <MustPlaceAdjacentStandable>Körben szabad helynek kell lennie.</MustPlaceAdjacentStandable>
   <MustPlaceNearFuelingPort>Kilövőállás üzemanyagcsapja mellé kell telepíteni.</MustPlaceNearFuelingPort>
+  <MustPlaceOnDrillable>Bányászható nyersanyag fölé kell helyezni.</MustPlaceOnDrillable>
 
   <!-- Wind Turbine -->
   <WindTurbine_WindPathIsBlockedBy>Akadályozza:</WindTurbine_WindPathIsBlockedBy>
@@ -413,8 +464,12 @@
   <ShipReportHibernating>Hibernáló komponens</ShipReportHibernating>
   <ShipReportNotReady>Komponens nem kész</ShipReportNotReady>
   <HibernateWarning>Charlon Whitestone kész rá, hogy elkezdje a reaktor felélesztését.\n\nCharlon Whitestone figyelmeztet, hogy az indítási folyamat 15 napot vesz igénybe, és a felszabaduló energia messziről érzékelhető lesz. Az ilyen energiakitörés csillagközi utazásra képes eszközt jelent, ami ide fogja vonzani a banditákat és kincsvadászokat. Készülj fel a fogadásukra.</HibernateWarning>
-  <HibernateCompleteLabel>Reaktor kész</HibernateCompleteLabel>
-  <HibernateComplete>Charlon Whitestone befejezte a reaktor felélesztését. Készen áll a felszállásra.</HibernateComplete>
+  <!-- <HibernateCompleteLabel>Reaktor kész</HibernateCompleteLabel> -->
+  <!-- <HibernateComplete>Charlon Whitestone befejezte a reaktor felélesztését. Készen áll a felszállásra.</HibernateComplete> -->
+  <HibernateWarningStandalone>The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and treasure hunters. Make sure your defenses are prepared first.</HibernateWarningStandalone>
+  <HibernateWarningPacifist>Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days.</HibernateWarningPacifist>
+  <HibernateWarningStandalonePacifist>The reactor is ready to power up. The process will take about 15 days.</HibernateWarningStandalonePacifist>
+  
 
   <!-- Neurotrainer -->
   <NeurotrainerUsed>{0} neuroképzőt ({1}) használt, hogy szintet lépjen {2} -> {3}.</NeurotrainerUsed>
@@ -487,6 +542,7 @@
   <ActivityIconAttacking>Harcol</ActivityIconAttacking>
   <ActivityIconIdle>Tétlen</ActivityIconIdle>
   <ActivityIconBurning>Ég</ActivityIconBurning>
+  <ActivityIconFormingCaravan>Karavánt alapít</ActivityIconFormingCaravan>
 
   <!-- Maintainable -->
   <DueForMaintenance>Karbantartás szükséges.</DueForMaintenance>
@@ -495,7 +551,10 @@
   <!-- Deep drill -->
   <ProgressToNextLump>Kitermelés állapota</ProgressToNextLump>
   <ResourceBelow>Nyersanyag alattunk</ResourceBelow>
-
+  <DeepDrillNoResources>Nincs nyersanyag alattunk.</DeepDrillNoResources>
+  <DeepDrillExhausted>Mélyfúrható erőforrások kimerültek, a fúró automatikusan tiltva lett. Old fel a tiltást, hogy megkezdődjön {0} bányászata.</DeepDrillExhausted>
+  <DeepDrillExhaustedNoFallback>Mélyfúrható erőforrások kimerültek.</DeepDrillExhaustedNoFallback>
+  
   <!-- Learning helper -->
   <LearningHelper>Oktató</LearningHelper>
   <MarkLearned>Ismertnek jelölni</MarkLearned>
@@ -515,8 +574,12 @@
   <RoutePlannerPressRMBToAddAndRemoveWaypoints>Jobb klikk: állomás hozzáadás/eltávolítás.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
   <RoutePlannerPressEscapeToExit>ESC: kilépés tervező módból.</RoutePlannerPressEscapeToExit>
   <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: vissza karaván alakításhoz.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
-  <EstimatedTimeToThisWaypoint>Becsült idő az állomásig: {0}</EstimatedTimeToThisWaypoint>
-  <EstimatedTimeToThisWaypointFromPrevious>Becsült idő ez és az előző állomás között: {0}</EstimatedTimeToThisWaypointFromPrevious>
+  <!-- <EstimatedTimeToThisWaypoint>Becsült idő az állomásig: {0}</EstimatedTimeToThisWaypoint> -->
+  <!-- <EstimatedTimeToThisWaypointFromPrevious>Becsült idő ez és az előző állomás között: {0}</EstimatedTimeToThisWaypointFromPrevious> -->
+   <EstimatedTimeToWaypoint>Becsült idő az állomásig: {0}</EstimatedTimeToWaypoint>
+  <EstimatedTimeToWaypointFromPrevious>Becsült idő az előző és a következő állomás között: {0}</EstimatedTimeToWaypointFromPrevious>
+  <EstimatedTimeToTile>Becsült idő az állomásig: {0}</EstimatedTimeToTile>
+  <ForagedFoodAmount>Begyűjtött táplálék</ForagedFoodAmount>
  
  <!-- Outfits -->
   <OutfitAnything>Bármi</OutfitAnything>
@@ -527,5 +590,9 @@
   <!-- Hibernatable -->
   <HibernatableHibernating>Hibernálva</HibernatableHibernating>
   <HibernatableStartingUp>Felébresztés alatt</HibernatableStartingUp>
+  
+   <!-- Transport pods -->
+  <ClickToSeeAvailableOrders_WorldObject>{0}: elérhető parancsok...</ClickToSeeAvailableOrders_WorldObject>
+  <ClickToSeeAvailableOrders_Empty>Elérhető parancsok...</ClickToSeeAvailableOrders_Empty>
 
 </LanguageData>
