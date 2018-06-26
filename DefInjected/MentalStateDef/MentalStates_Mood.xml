@@ -15,8 +15,8 @@
   <GiveUpExit.beginLetterLabel>Lelépés</GiveUpExit.beginLetterLabel>
   <GiveUpExit.recoveryMessage>{0} meggondolta magát és marad.</GiveUpExit.recoveryMessage>
   <GiveUpExit.baseInspectLine>Idegállapot: lelépés</GiveUpExit.baseInspectLine>
-  <BingingDrugExtreme.label>Durva drog habzsolás</BingingDrugExtreme.label>
-  <BingingDrugExtreme.baseInspectLine>Idegállapot: ezt habzsolja:</BingingDrugExtreme.baseInspectLine>
+  <Binging_DrugExtreme.label>Durva drog habzsolás</Binging_DrugExtreme.label>
+  <Binging_DrugExtreme.baseInspectLine>Idegállapot: ezt habzsolja:</Binging_DrugExtreme.baseInspectLine>
 
   <Jailbreaker.label>szökésre bujtogás</Jailbreaker.label>
   <Jailbreaker.beginLetter>{0} idegileg összeomlott és szökésre kezdett bujtogatni másokat.</Jailbreaker.beginLetter>
@@ -38,13 +38,13 @@
 
     <!-- Mental breaks: major -->
   
-  <BingingDrugMajor.label>Drog habzsolás</BingingDrugMajor.label>
-  <BingingDrugMajor.baseInspectLine>Idegállapot: ezt habzsolja:</BingingDrugMajor.baseInspectLine>
-  <WanderPsychotic.label>pszichotikus ténfergés</WanderPsychotic.label>
-  <WanderPsychotic.beginLetter>{0} összeomlott és zavarodottan járkál.</WanderPsychotic.beginLetter>
-  <WanderPsychotic.beginLetterLabel>Zavarodottság</WanderPsychotic.beginLetterLabel>
-  <WanderPsychotic.recoveryMessage>{0} zavarodottsága elmúlt.</WanderPsychotic.recoveryMessage>
-  <WanderPsychotic.baseInspectLine>Idegállapot: zavarodott járkálás</WanderPsychotic.baseInspectLine>
+  <Binging_DrugMajor.label>Drog habzsolás</Binging_DrugMajor.label>
+  <Binging_DrugMajor.baseInspectLine>Idegállapot: ezt habzsolja:</Binging_DrugMajor.baseInspectLine>
+  <Wander_Psychotic.label>pszichotikus ténfergés</Wander_Psychotic.label>
+  <Wander_Psychotic.beginLetter>{0} összeomlott és zavarodottan járkál.</Wander_Psychotic.beginLetter>
+  <Wander_Psychotic.beginLetterLabel>Zavarodottság</Wander_Psychotic.beginLetterLabel>
+  <Wander_Psychotic.recoveryMessage>{0} zavarodottsága elmúlt.</Wander_Psychotic.recoveryMessage>
+  <Wander_Psychotic.baseInspectLine>Idegállapot: zavarodott járkálás</Wander_Psychotic.baseInspectLine>
 
   <Tantrum.label>dühroham</Tantrum.label>
   <Tantrum.beginLetter>{0} dührohamot kapott.</Tantrum.beginLetter>
@@ -78,21 +78,21 @@
   
     <!-- Mental breaks: minor -->
   
-  <BingingFood.label>zabálás</BingingFood.label>
-  <BingingFood.beginLetter>{0} bezabálja a készleteket.</BingingFood.beginLetter>
-  <BingingFood.beginLetterLabel>Zabálás</BingingFood.beginLetterLabel>
-  <BingingFood.recoveryMessage>{0} már nem habzsol.</BingingFood.recoveryMessage>
-  <BingingFood.baseInspectLine>Idegállapot: zabálás</BingingFood.baseInspectLine>
-  <WanderSad.label>szomorú ténfergés</WanderSad.label>
-  <WanderSad.beginLetter>{0} szomorúan járkál.</WanderSad.beginLetter>
-  <WanderSad.beginLetterLabel>Szomorúság</WanderSad.beginLetterLabel>
-  <WanderSad.recoveryMessage>{0} jobb kedvre derült.</WanderSad.recoveryMessage>
-  <WanderSad.baseInspectLine>Idegállapot: szomorú ténfergés</WanderSad.baseInspectLine>
-  <WanderOwnRoom.label>szobában ténfergés</WanderOwnRoom.label>
-  <WanderOwnRoom.beginLetter>{0} bezárkózott a szobájába.</WanderOwnRoom.beginLetter>
-  <WanderOwnRoom.beginLetterLabel>Bezárkózás</WanderOwnRoom.beginLetterLabel>
-  <WanderOwnRoom.recoveryMessage>{0} már nem bujkál a szobájában.</WanderOwnRoom.recoveryMessage>
-  <WanderOwnRoom.baseInspectLine>Idegállapot: szobában ténfergés</WanderOwnRoom.baseInspectLine>
+  <Binging_Food.label>zabálás</Binging_Food.label>
+  <Binging_Food.beginLetter>{0} bezabálja a készleteket.</Binging_Food.beginLetter>
+  <Binging_Food.beginLetterLabel>Zabálás</Binging_Food.beginLetterLabel>
+  <Binging_Food.recoveryMessage>{0} már nem habzsol.</Binging_Food.recoveryMessage>
+  <Binging_Food.baseInspectLine>Idegállapot: zabálás</Binging_Food.baseInspectLine>
+  <Wander_Sad.label>szomorú ténfergés</Wander_Sad.label>
+  <Wander_Sad.beginLetter>{0} szomorúan járkál.</Wander_Sad.beginLetter>
+  <Wander_Sad.beginLetterLabel>Szomorúság</Wander_Sad.beginLetterLabel>
+  <Wander_Sad.recoveryMessage>{0} jobb kedvre derült.</Wander_Sad.recoveryMessage>
+  <Wander_Sad.baseInspectLine>Idegállapot: szomorú ténfergés</Wander_Sad.baseInspectLine>
+  <Wander_OwnRoom.label>szobában ténfergés</Wander_OwnRoom.label>
+  <Wander_OwnRoom.beginLetter>{0} bezárkózott a szobájába.</Wander_OwnRoom.beginLetter>
+  <Wander_OwnRoom.beginLetterLabel>Bezárkózás</Wander_OwnRoom.beginLetterLabel>
+  <Wander_OwnRoom.recoveryMessage>{0} már nem bujkál a szobájában.</Wander_OwnRoom.recoveryMessage>
+  <Wander_OwnRoom.baseInspectLine>Idegállapot: szobában ténfergés</Wander_OwnRoom.baseInspectLine>
 
   <InsultingSpree.label>tahósági roham</InsultingSpree.label>
   <InsultingSpree.beginLetter>{0} tahó módon sérteget mindenkit.</InsultingSpree.beginLetter>

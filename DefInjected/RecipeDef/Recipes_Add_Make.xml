@@ -30,9 +30,66 @@
   <Make_SculptureGrand.label>óriás szobor</Make_SculptureGrand.label>
   <Make_SculptureGrand.description>Óriás szobor készítése</Make_SculptureGrand.description>
   <Make_SculptureGrand.jobString>óriás szobrot készít</Make_SculptureGrand.jobString>
-  <Make_Medicine.label>gyógyszer</Make_Medicine.label>
-  <Make_Medicine.description>Az orvosok ezzel kezelik a betegeket.</Make_Medicine.description>
-  <Make_Medicine.jobString>gyógyszert gyárt</Make_Medicine.jobString>
+  <!-- <Make_Medicine.label>gyógyszer</Make_Medicine.label> -->
+  <!-- <Make_Medicine.description>Az orvosok ezzel kezelik a betegeket.</Make_Medicine.description> -->
+  <!-- <Make_Medicine.jobString>gyógyszert gyárt</Make_Medicine.jobString> -->
+  
+  <!-- Recipe Users: TableMachining -->
+
+  <Make_SimpleProstheticLeg.label>műláb</Make_SimpleProstheticLeg.label>
+  <Make_SimpleProstheticLeg.description>Műláb készítése.</Make_SimpleProstheticLeg.description>
+  <Make_SimpleProstheticLeg.jobString>műlábat készít</Make_SimpleProstheticLeg.jobString>
+
+  <Make_SimpleProstheticArm.label>műkéz</Make_SimpleProstheticArm.label>
+  <Make_SimpleProstheticArm.description>Műkéz készítése.</Make_SimpleProstheticArm.description>
+  <Make_SimpleProstheticArm.jobString>műkezet készít</Make_SimpleProstheticArm.jobString>
+
+  <Make_SimpleProstheticHeart.label>műszív</Make_SimpleProstheticHeart.label>
+  <Make_SimpleProstheticHeart.description>Műszív készítése.</Make_SimpleProstheticHeart.description>
+  <Make_SimpleProstheticHeart.jobString>műszívet készít.</Make_SimpleProstheticHeart.jobString>
+
+  <Make_CochlearImplant.label>műfül</Make_CochlearImplant.label>
+  <Make_CochlearImplant.description>Műfül készítése.</Make_CochlearImplant.description>
+  <Make_CochlearImplant.jobString>műfület készít</Make_CochlearImplant.jobString>
+
+
+  <!-- Recipe Users: TableMachining, FabricationBench -->
+
+  <Make_BionicEye.label>bionikus szem</Make_BionicEye.label>
+  <Make_BionicEye.description>Bionikus szem készítése.</Make_BionicEye.description>
+  <Make_BionicEye.jobString>bionikus szemet készít</Make_BionicEye.jobString>
+
+  <Make_BionicArm.label>bionikus kar</Make_BionicArm.label>
+  <Make_BionicArm.description>Bionikus kar készítése.</Make_BionicArm.description>
+  <Make_BionicArm.jobString>bionikus kart készít</Make_BionicArm.jobString>
+
+  <Make_BionicLeg.label>bionikus láb</Make_BionicLeg.label>
+  <Make_BionicLeg.description>Bionikus láb készítése.</Make_BionicLeg.description>
+  <Make_BionicLeg.jobString>bionikus lábat készít</Make_BionicLeg.jobString>
+
+  <Make_BionicSpine.label>bionikus gerinc</Make_BionicSpine.label>
+  <Make_BionicSpine.description>Bionikus gerinc készítése.</Make_BionicSpine.description>
+  <Make_BionicSpine.jobString>bionikus gerincet készít</Make_BionicSpine.jobString>
+
+  <Make_BionicHeart.label>bionikus szív</Make_BionicHeart.label>
+  <Make_BionicHeart.description>Bionikus szív készítése.</Make_BionicHeart.description>
+  <Make_BionicHeart.jobString>bionikus szívet készít</Make_BionicHeart.jobString>
+
+  <Make_BionicStomach.label>bionikus gyomor</Make_BionicStomach.label>
+  <Make_BionicStomach.description>Bionikus gyomor készítése.</Make_BionicStomach.description>
+  <Make_BionicStomach.jobString>bionikus gyomrot készít</Make_BionicStomach.jobString>
+
+  <Make_BionicEar.label>bionikus fül</Make_BionicEar.label>
+  <Make_BionicEar.description>Bionikus fül készítése.</Make_BionicEar.description>
+  <Make_BionicEar.jobString>bionikus fület készít</Make_BionicEar.jobString>
+
+
+  <!-- Recipe Users: DrugLab -->
+
+  <Make_MedicineIndustrial.label>gyógyszer</Make_MedicineIndustrial.label>
+  <Make_MedicineIndustrial.description>Gyógyszer készítése.</Make_MedicineIndustrial.description>
+  <Make_MedicineIndustrial.jobString>gyógyszert készít</Make_MedicineIndustrial.jobString>
+    
   <Make_Shell_HighExplosive.label>repeszromboló lövedék</Make_Shell_HighExplosive.label>
   <Make_Shell_HighExplosive.description>Repeszromboló lövedék készítése.</Make_Shell_HighExplosive.description>
   <Make_Shell_HighExplosive.jobString>repeszromboló lövedéket készít</Make_Shell_HighExplosive.jobString>
@@ -47,7 +104,7 @@
 
   <Make_Shell_Firefoam.label>oltóhab lövedék</Make_Shell_Firefoam.label>
   <Make_Shell_Firefoam.description>Oltóhab lövedék készítése.</Make_Shell_Firefoam.description>
-  <Make_Shell_Firefoam.jobString>oltóhab lövedéket készít.</Make_Shell_Firefoam.jobString>
+  <Make_Shell_Firefoam.jobString>oltóhab lövedéket készít</Make_Shell_Firefoam.jobString>
  
  <Make_Apparel_ShieldBelt.label>energiapajzs öv</Make_Apparel_ShieldBelt.label>
   <Make_Apparel_ShieldBelt.description>Energiapajzs öv készítése.</Make_Apparel_ShieldBelt.description>
@@ -101,14 +158,35 @@
   <Make_Apparel_CollarShirt.description>Csinos, gombos ing.</Make_Apparel_CollarShirt.description>
   <Make_Apparel_CollarShirt.jobString>inget varr</Make_Apparel_CollarShirt.jobString>
   <Make_Apparel_Duster.label>western kabát</Make_Apparel_Duster.label>
-  <Make_Apparel_Duster.description>Hosszúkabát, mely nap és por ellen véd.</Make_Apparel_Duster.description>
+  <Make_Apparel_Duster.description>Hosszú kabát, mely nap és por ellen véd.</Make_Apparel_Duster.description>
   <Make_Apparel_Duster.jobString>western kabátot varr</Make_Apparel_Duster.jobString>
   <Make_Apparel_Jacket.label>kabát</Make_Apparel_Jacket.label>
   <Make_Apparel_Jacket.description>Kabát varrása</Make_Apparel_Jacket.description>
   <Make_Apparel_Jacket.jobString>kabátot varr</Make_Apparel_Jacket.jobString>
-  <Make_Apparel_VestPlate.label>golyóálló mellény</Make_Apparel_VestPlate.label>
-  <Make_Apparel_VestPlate.description>Mellény, amibe elöl és hátul páncélbetétet varrtak. Golyóálló.</Make_Apparel_VestPlate.description>
-  <Make_Apparel_VestPlate.jobString>golyóálló mellényt gyárt</Make_Apparel_VestPlate.jobString>
+  
+   <!-- Recipe Users: TableMachining, ElectricSmithy, FueledSmithy -->
+
+  <Make_Apparel_PlateArmor.label>páncél</Make_Apparel_PlateArmor.label>
+  <Make_Apparel_PlateArmor.description>Páncél készítése.</Make_Apparel_PlateArmor.description>
+  <Make_Apparel_PlateArmor.jobString>páncélt készít</Make_Apparel_PlateArmor.jobString>
+
+
+  <!-- Recipe Users: TableMachining -->
+
+  <Make_Apparel_FlakVest.label>repeszmellény</Make_Apparel_FlakVest.label>
+  <Make_Apparel_FlakVest.description>Repeszmellény készítése.</Make_Apparel_FlakVest.description>
+  <Make_Apparel_FlakVest.jobString>repeszmellényt készít</Make_Apparel_FlakVest.jobString>
+
+  <Make_Apparel_FlakPants.label>repesznadrág</Make_Apparel_FlakPants.label>
+  <Make_Apparel_FlakPants.description>Repesznadrág készítése.</Make_Apparel_FlakPants.description>
+  <Make_Apparel_FlakPants.jobString>repesznadrágot készít</Make_Apparel_FlakPants.jobString>
+  
+  <!-- <Make_Apparel_VestPlate.label>golyóálló mellény</Make_Apparel_VestPlate.label> -->
+  <!-- <Make_Apparel_VestPlate.description>Mellény, amibe elöl és hátul páncélbetétet varrtak. Golyóálló.</Make_Apparel_VestPlate.description> -->
+  <!-- <Make_Apparel_VestPlate.jobString>golyóálló mellényt gyárt</Make_Apparel_VestPlate.jobString> -->
+  
+  
+  
   <Make_Apparel_PowerArmor.label>erőpáncél</Make_Apparel_PowerArmor.label>
   <Make_Apparel_PowerArmor.description>Szervomotorokkal hajtott páncélzat, amely általában csak a legfejlettebb világok gyalogosainak felszerelése.</Make_Apparel_PowerArmor.description>
   <Make_Apparel_PowerArmor.jobString>erőpáncélt gyárt</Make_Apparel_PowerArmor.jobString>
@@ -154,9 +232,9 @@
   <Make_Gun_Minigun.label>miniágyú</Make_Gun_Minigun.label>
   <Make_Gun_Minigun.description>Több csöves géppuska nagyon magas tűzgyorsasággal. Mechanoidok készítették.</Make_Gun_Minigun.description>
   <Make_Gun_Minigun.jobString>miniágyút gyárt</Make_Gun_Minigun.jobString>
-  <Make_MeleeWeapon_Shiv.label>bökő</Make_MeleeWeapon_Shiv.label>
-  <Make_MeleeWeapon_Shiv.description>Rögtönzött kés-szerű eszköz.</Make_MeleeWeapon_Shiv.description>
-  <Make_MeleeWeapon_Shiv.jobString>bökőt gyárt</Make_MeleeWeapon_Shiv.jobString>
+  <!-- <Make_MeleeWeapon_Shiv.label>bökő</Make_MeleeWeapon_Shiv.label> -->
+  <!-- <Make_MeleeWeapon_Shiv.description>Rögtönzött kés-szerű eszköz.</Make_MeleeWeapon_Shiv.description> -->
+  <!-- <Make_MeleeWeapon_Shiv.jobString>bökőt gyárt</Make_MeleeWeapon_Shiv.jobString> -->
   <Make_MeleeWeapon_Knife.label>kés</Make_MeleeWeapon_Knife.label>
   <Make_MeleeWeapon_Knife.description>Az ember egyik legrégebbi szerszáma, a kés, éppúgy mindennapi tárgy, mint gyilkos eszköz.</Make_MeleeWeapon_Knife.description>
   <Make_MeleeWeapon_Knife.jobString>kést gyárt</Make_MeleeWeapon_Knife.jobString>
@@ -178,6 +256,19 @@
   <Make_MeleeWeapon_LongSword.label>hosszúkard</Make_MeleeWeapon_LongSword.label>
   <Make_MeleeWeapon_LongSword.description>A hosszúkard a királyok ősi fegyvere. Jó szúró-, és vágófegyver, a megfelelő kézben halálos.</Make_MeleeWeapon_LongSword.description>
   <Make_MeleeWeapon_LongSword.jobString>hosszúkardot gyárt</Make_MeleeWeapon_LongSword.jobString>
+  
+  <Make_Weapon_GrenadeFrag.label>repeszgránát</Make_Weapon_GrenadeFrag.label>
+  <Make_Weapon_GrenadeFrag.description>Repeszgránát készítése.</Make_Weapon_GrenadeFrag.description>
+  <Make_Weapon_GrenadeFrag.jobString>repeszgránátot készít</Make_Weapon_GrenadeFrag.jobString>
+
+  <Make_Weapon_GrenadeMolotov.label>molotov koktél</Make_Weapon_GrenadeMolotov.label>
+  <Make_Weapon_GrenadeMolotov.description>Molotov koktél készítése.</Make_Weapon_GrenadeMolotov.description>
+  <Make_Weapon_GrenadeMolotov.jobString>molotov koktélt készít</Make_Weapon_GrenadeMolotov.jobString>
+
+  <Make_Weapon_GrenadeEMP.label>EMP gránát</Make_Weapon_GrenadeEMP.label>
+  <Make_Weapon_GrenadeEMP.description>EMP gránát készítése.</Make_Weapon_GrenadeEMP.description>
+  <Make_Weapon_GrenadeEMP.jobString>EMP gránátot készít</Make_Weapon_GrenadeEMP.jobString>
+  
   <Make_Bow_Short.label>íj</Make_Bow_Short.label>
   <Make_Bow_Short.description>Egyszerű íj, aminek előállításához alacsony fejlettség, ám sok ügyesség szükséges.</Make_Bow_Short.description>
   <Make_Bow_Short.jobString>íjat gyárt</Make_Bow_Short.jobString>
@@ -190,5 +281,9 @@
   <Make_Bow_Recurve.label>reflex íj</Make_Bow_Recurve.label>
   <Make_Bow_Recurve.description>reflex íj gyártása.</Make_Bow_Recurve.description>
   <Make_Bow_Recurve.jobString>reflex íjat gyárt</Make_Bow_Recurve.jobString>
+  
+  <Make_Gun_ChargeLance.label>energialándzsa</Make_Gun_ChargeLance.label>
+  <Make_Gun_ChargeLance.description>Energialándzsa készítése.</Make_Gun_ChargeLance.description>
+  <Make_Gun_ChargeLance.jobString>energialándzsát készít</Make_Gun_ChargeLance.jobString>
 
 </LanguageData>

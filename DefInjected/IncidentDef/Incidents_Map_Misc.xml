@@ -4,7 +4,7 @@
   <PsychicSoothe.label>pszichotikus nyugalom</PsychicSoothe.label>
   <SelfTame.label>megszelídülés</SelfTame.label>
   <AmbrosiaSprout.label>ambrózia sarj</AmbrosiaSprout.label>
-  <AmbrosiaSprout.letterText>Misztikus ambrózialiget sarjad a közelben! Ha kifejlődtek a növények, learathatod a finom és kellemes, kicsit addiktív gyömölcsöket.</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterText>Misztikus ambrózialiget sarjad a közelben! Ha kifejlődtek a növények, learathatod a finom és kellemes, kicsit addiktív gyümölcsöket.</AmbrosiaSprout.letterText>
   <AmbrosiaSprout.letterLabel>Ambrózia sarj</AmbrosiaSprout.letterLabel>
   <FarmAnimalsWanderIn.label>háziállatok tévednek be</FarmAnimalsWanderIn.label>
   <WandererJoin.label>vándor csatlakozik</WandererJoin.label>
@@ -13,7 +13,7 @@
   <ThrumboPasses.label>trumbok vonulnak</ThrumboPasses.label>
   <RansomDemand.label>váltságdíj követelés</RansomDemand.label>
   <RansomDemand.letterLabel>Váltságdíj követelés</RansomDemand.letterLabel>
-  <CaravanRequest.label>Karaván igény</CaravanRequest.label>
+  <!-- <CaravanRequest.label>Karaván igény</CaravanRequest.label> -->
   
   <MeteoriteImpact.label>meteorit becsapódás</MeteoriteImpact.label>
   <MeteoriteImpact.letterText>Nagy meteorit csapódott a földbe a közelben. A helyén a következőt találhatod: {0}.</MeteoriteImpact.letterText>
@@ -22,6 +22,10 @@
   <HerdMigration.label>vonuló csorda</HerdMigration.label>
   <HerdMigration.letterText>Békés {0} vonulnak át a területen. Nem támadnak, ha nem zaklatják őket.</HerdMigration.letterText>
   <HerdMigration.letterLabel>Vonuló csorda: {0}</HerdMigration.letterLabel>
+  
+  <WildManWandersIn.label>vadember a környéken</WildManWandersIn.label>
+  <WildManWandersIn.letterText>Egy vadállatok között élő ember tévedt a környékre. A neve {0}.\n\nMegpróbálhatod megszelídíteni.</WildManWandersIn.letterText>
+  <WildManWandersIn.letterLabel>Vadember a környéken</WildManWandersIn.letterLabel>
 
   
   <PsychicDrone.label>pszichotikus hullámok</PsychicDrone.label>
@@ -38,18 +42,18 @@
   <ColdSnap.letterText>Szokatlanul erős hideghullám kezdődött. Figyelj a kihűlésre és a sorvadó növényekre!</ColdSnap.letterText>
   <ColdSnap.letterLabel>Hideghullám</ColdSnap.letterLabel>
   
-  <Aurora.label>sarki fény</Aurora.label>
-  <Aurora.letterText>Sarki fény ragyogja be az eget. A hullámzó színáradat mindenki hangulatát javítja, aki látja. Világosabb tőle az éjszaka.</Aurora.letterText>
-  <Aurora.letterLabel>Sarki fény</Aurora.letterLabel>
+  <!-- <Aurora.label>sarki fény</Aurora.label> -->
+  <!-- <Aurora.letterText>Sarki fény ragyogja be az eget. A hullámzó színáradat mindenki hangulatát javítja, aki látja. Világosabb tőle az éjszaka.</Aurora.letterText> -->
+  <!-- <Aurora.letterLabel>Sarki fény</Aurora.letterLabel> -->
 
   
   <Flashstorm.label>ménkűvihar</Flashstorm.label>
   <Flashstorm.letterText>Rengeteg villám csap le egy kis területre. Ez nagy tüzeket okozhat.</Flashstorm.letterText>
   <Flashstorm.letterLabel>Ménkűvihar</Flashstorm.letterLabel>
   
-  <Tornado.label>tornádó</Tornado.label>
-  <Tornado.letterText>Tornádó alakult ki!\n\nAmerre halad, nagy pusztítást fog végezni.</Tornado.letterText>
-  <Tornado.letterLabel>Tornádó</Tornado.letterLabel>
+  <!-- <Tornado.label>tornádó</Tornado.label> -->
+  <!-- <Tornado.letterText>Tornádó alakult ki!\n\nAmerre halad, nagy pusztítást fog végezni.</Tornado.letterText> -->
+  <!-- <Tornado.letterLabel>Tornádó</Tornado.letterLabel> -->
 
   <ShortCircuit.label>rövidzárlat</ShortCircuit.label>
   <CropBlight.label>penész</CropBlight.label>

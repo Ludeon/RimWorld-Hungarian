@@ -5,10 +5,18 @@
 
   <Pemmican.label>Pemmikán</Pemmican.label>
   <Pemmican.description>Pemmikán készítése, ami hús és növények tartósított keveréke. Nagyon sokáig nem romlik meg, utazóknak tökéletes.</Pemmican.description>
+  
+  <ComplexFurniture.label>Komplex bútorok</ComplexFurniture.label>
+  <ComplexFurniture.description>Lehetővé teszi komplex bútorok készítését, mint ágyak, asztalok, étkező székek, karosszékek, szekrények, szerszámos szekrények, billiárd asztalok, póker asztalok, szellőzők, koporsók, stb.</ComplexFurniture.description>
+  
   <PassiveCooler.label>Passzív hűtés</PassiveCooler.label>
   <PassiveCooler.description>Lehetővé teszi passzív hűtők építését, ami elektromosság nélkül hűt le belső tereket.</PassiveCooler.description>
   <Devilstrand.label>Ördögfonálgomba</Devilstrand.label>
   <Devilstrand.description>Lehetővé teszi ördögfonálgomba termesztését, ami egy lassan növő gombafajta. Értékes selyemszerű szál nyerhető belőle.</Devilstrand.description>
+  
+  <Bridges.label>Hidak</Bridges.label>
+  <Bridges.description>Lehetővé teszi útvonal létrehozását víz felett, illetve nem nehéz építmények készítését amúgy nem beépíthető terepen.</Bridges.description>
+  
   <PsychoidBrewing.label>Kábító tea</PsychoidBrewing.label>
   <PsychoidBrewing.description>Gondos előkészületekkel, a megfelelő levelekből forró vízzel enyhén euforikus hangulatot gerjesztő, némi függőséget okozó tea készíthető.</PsychoidBrewing.description>
  
@@ -17,11 +25,15 @@
   <Bedrolls.label>Hálózsák</Bedrolls.label>
   <Bedrolls.description>Lehetővé teszi hálózsák varrását.</Bedrolls.description>
 
-  <Beds.label>Ágyak</Beds.label>
-  <Beds.description>Lehetővé teszi ágyak készítését.</Beds.description>
+  <!-- <Beds.label>Ágyak</Beds.label> -->
+  <!-- <Beds.description>Lehetővé teszi ágyak készítését.</Beds.description> -->
 
   <CarpetMaking.label>Szőnyegkészítés</CarpetMaking.label>
   <CarpetMaking.description>Lehetővé teszi szőnyeg szövését, ami javítja az élőhely minőségét.</CarpetMaking.description>
+  
+  <TreeSowing.label>Fatelepítés</TreeSowing.label>
+  <TreeSowing.description>A helyi életközösségben őshonos fafajták telepítése.</TreeSowing.description>
+    
   <Smithing.label>Kovácsolás</Smithing.label>
   <Smithing.description>Lehetővé teszi kovácsműhely építését, ahol fémből készült fegyverek és szerszámok gyárthatók.</Smithing.description>
   <Stonecutting.label>Kőfaragás</Stonecutting.label>

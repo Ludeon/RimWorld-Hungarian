@@ -34,4 +34,7 @@
   <DrugBurning.helpText>A drogok hasznosak lehetnek, ám függőséget okozhatnak.\n\nHa el akarod kerülni használatukat, elégetheted őket a tábortűznél.</DrugBurning.helpText>
   <DoorOpenSpeed.label>Nyitási sebesség</DoorOpenSpeed.label>
   <DoorOpenSpeed.helpText>Az ajtók különböző sebességgel nyílnak attól függően, hogy miből készültek.\n\nFigyelem: a kőajtók nagyon lassúak, nagyban akadályozzák az áthaladást.</DoorOpenSpeed.helpText>
+  
+  <QueueOrders.label>Parancs sor</QueueOrders.label>
+  <QueueOrders.helpText>Parancsok kiadásakor több utasítást is kiadhatsz a "shift" lenyomásával, ezeket sorban teljesíteni fogják. Ez a munkák kijelölésénél is működik, a nem besorozott gyarmatosoknál.</QueueOrders.helpText>
 </LanguageData>

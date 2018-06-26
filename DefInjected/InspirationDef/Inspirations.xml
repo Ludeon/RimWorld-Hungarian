@@ -1,47 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WorkFrenzy.label>bepörgés (munka)</WorkFrenzy.label>
-  <WorkFrenzy.beginLetter>{0} ihletet kapott. A következő 24 órában 2.5-szer gyorsabban fog dolgozni.</WorkFrenzy.beginLetter>
-  <WorkFrenzy.beginLetterLabel>Ihlet: munka</WorkFrenzy.beginLetterLabel>
-  <WorkFrenzy.endMessage>{0} már nem pörög (munka).</WorkFrenzy.endMessage>
-  <WorkFrenzy.baseInspectLine>Ihletett: munka</WorkFrenzy.baseInspectLine>
+  <Frenzy_Work.label>ihlet (munka)</Frenzy_Work.label>
+  <Frenzy_Work.beginLetter>{0} ihletet kapott. A következő 24 órában 2.5-szer gyorsabban fog dolgozni.</Frenzy_Work.beginLetter>
+  <Frenzy_Work.beginLetterLabel>Ihlet: munka</Frenzy_Work.beginLetterLabel>
+  <Frenzy_Work.endMessage>{0} már nem pörög (munka).</Frenzy_Work.endMessage>
+  <Frenzy_Work.baseInspectLine>Ihletett: munka</Frenzy_Work.baseInspectLine>
 
-  <GoFrenzy.label>bepörgés (közlekedés)</GoFrenzy.label>
-  <GoFrenzy.beginLetter>{0} ihletet kapott. A következő 24 órában 1.5-szer gyorsabban fog közlekedni.</GoFrenzy.beginLetter>
-  <GoFrenzy.beginLetterLabel>Ihlet: közlekedés</GoFrenzy.beginLetterLabel>
-  <GoFrenzy.endMessage>{0} már nem pörög (közlekedés).</GoFrenzy.endMessage>
-  <GoFrenzy.baseInspectLine>Ihletett: közlekedés</GoFrenzy.baseInspectLine>
+  <Frenzy_Go.label>ihlet (közlekedés)</Frenzy_Go.label>
+  <Frenzy_Go.beginLetter>{0} ihletet kapott. A következő 24 órában 1.5-szer gyorsabban fog közlekedni.</Frenzy_Go.beginLetter>
+  <Frenzy_Go.beginLetterLabel>Ihlet: közlekedés</Frenzy_Go.beginLetterLabel>
+  <Frenzy_Go.endMessage>{0} már nem pörög (közlekedés).</Frenzy_Go.endMessage>
+  <Frenzy_Go.baseInspectLine>Ihletett: közlekedés</Frenzy_Go.baseInspectLine>
 
-  <ShootFrenzy.label>bepörgés (lövés)</ShootFrenzy.label>
-  <ShootFrenzy.beginLetter>{0} ihletet kapott. A következő 3 napban pontosabban fog lőni.</ShootFrenzy.beginLetter>
-  <ShootFrenzy.beginLetterLabel>Ihlet: lövés</ShootFrenzy.beginLetterLabel>
-  <ShootFrenzy.endMessage>{0} már nem pörög (lövés).</ShootFrenzy.endMessage>
-  <ShootFrenzy.baseInspectLine>Ihletett: lövés</ShootFrenzy.baseInspectLine>
+  <Frenzy_Shoot.label>ihlet (lövés)</Frenzy_Shoot.label>
+  <Frenzy_Shoot.beginLetter>{0} ihletet kapott. A következő 3 napban pontosabban fog lőni.</Frenzy_Shoot.beginLetter>
+  <Frenzy_Shoot.beginLetterLabel>Ihlet: lövés</Frenzy_Shoot.beginLetterLabel>
+  <Frenzy_Shoot.endMessage>{0} már nem pörög (lövés).</Frenzy_Shoot.endMessage>
+  <Frenzy_Shoot.baseInspectLine>Ihletett: lövés</Frenzy_Shoot.baseInspectLine>
 
-  <InspiredTrade.label>bepörgés (seftelés)</InspiredTrade.label>
-  <InspiredTrade.beginLetter>{0} ihletet kapott. A következő üzlet megkötésénél jelentős engedményt fog kapni.\n\nAz ihlet 8 napig vagy az üzlet nyélbe ütéséig tart.</InspiredTrade.beginLetter>
-  <InspiredTrade.beginLetterLabel>Ihlet: seftelés</InspiredTrade.beginLetterLabel>
-  <InspiredTrade.endMessage>{0} már nem pörög (seftelés).</InspiredTrade.endMessage>
-  <InspiredTrade.baseInspectLine>Ihletett: Ihletett seftelés</InspiredTrade.baseInspectLine>
+  <Inspired_Trade.label>ihlet (seftelés)</Inspired_Trade.label>
+  <Inspired_Trade.beginLetter>{0} ihletet kapott. A következő üzlet megkötésénél jelentős engedményt fog kapni.\n\nAz ihlet 8 napig vagy az üzlet nyélbe ütéséig tart.</Inspired_Trade.beginLetter>
+  <Inspired_Trade.beginLetterLabel>Ihlet: seftelés</Inspired_Trade.beginLetterLabel>
+  <Inspired_Trade.endMessage>{0} már nem pörög (seftelés).</Inspired_Trade.endMessage>
+  <Inspired_Trade.baseInspectLine>Ihletett: Ihletett seftelés</Inspired_Trade.baseInspectLine>
 
-  <InspiredRecruitment.label>bepörgés (toborzás)</InspiredRecruitment.label>
-  <InspiredRecruitment.beginLetter>{0} ihletet kapott. A következő foglyot sikeresen toborozza majd, nehézségtől függetlenül.\n\nAz ihlet 8 napig vagy a fogoly sikeres toborzásáig tart.</InspiredRecruitment.beginLetter>
-  <InspiredRecruitment.beginLetterLabel>Ihlet: toborzás</InspiredRecruitment.beginLetterLabel>
-  <InspiredRecruitment.endMessage>{0} már nem pörög (toborzás).</InspiredRecruitment.endMessage>
-  <InspiredRecruitment.baseInspectLine>Ihletett: toborzás</InspiredRecruitment.baseInspectLine>
+  <Inspired_Recruitment.label>ihlet (toborzás)</Inspired_Recruitment.label>
+  <Inspired_Recruitment.beginLetter>{0} ihletet kapott. A következő foglyot sikeresen toborozza majd, nehézségtől függetlenül.\n\nAz ihlet 8 napig vagy a fogoly sikeres toborzásáig tart.</Inspired_Recruitment.beginLetter>
+  <Inspired_Recruitment.beginLetterLabel>Ihlet: toborzás</Inspired_Recruitment.beginLetterLabel>
+  <Inspired_Recruitment.endMessage>{0} már nem pörög (toborzás).</Inspired_Recruitment.endMessage>
+  <Inspired_Recruitment.baseInspectLine>Ihletett: toborzás</Inspired_Recruitment.baseInspectLine>
 
-  <InspiredSurgery.label>bepörgés (műtét)</InspiredSurgery.label>
-  <InspiredSurgery.beginLetter>{0} ihletet kapott. A műtéti kudarc esélye a következő beavatkozásnál tizede a normálisnak.\n\nAz ihlet 8 napig vagy a műtét elvégzéséig tart.</InspiredSurgery.beginLetter>
-  <InspiredSurgery.beginLetterLabel>Ihlet: műtét</InspiredSurgery.beginLetterLabel>
-  <InspiredSurgery.endMessage>{0} már nem pörög (műtét).</InspiredSurgery.endMessage>
-  <InspiredSurgery.baseInspectLine>Ihletett: műtét</InspiredSurgery.baseInspectLine>
+  <Inspired_Surgery.label>ihlet (műtét)</Inspired_Surgery.label>
+  <Inspired_Surgery.beginLetter>{0} ihletet kapott. A műtéti kudarc esélye a következő beavatkozásnál tizede a normálisnak.\n\nAz ihlet 8 napig vagy a műtét elvégzéséig tart.</Inspired_Surgery.beginLetter>
+  <Inspired_Surgery.beginLetterLabel>Ihlet: műtét</Inspired_Surgery.beginLetterLabel>
+  <Inspired_Surgery.endMessage>{0} már nem pörög (műtét).</Inspired_Surgery.endMessage>
+  <Inspired_Surgery.baseInspectLine>Ihletett: műtét</Inspired_Surgery.baseInspectLine>
 
-  <InspiredArt.label>bepörgés (művészet)</InspiredArt.label>
-  <InspiredArt.beginLetter>{0} ihletet kapott. A következő mű 3 minőségosztállyal magasabb besorolású lesz, mint amilyen amúgy lenne.\n\nAz ihlet 8 napig vagy a mű befejezéséig tart.</InspiredArt.beginLetter>
-  <InspiredArt.beginLetterLabel>Ihlet: művészet</InspiredArt.beginLetterLabel>
-  <InspiredArt.endMessage>{0} már nem pörög (művészet).</InspiredArt.endMessage>
-  <InspiredArt.baseInspectLine>Ihletett: művészet</InspiredArt.baseInspectLine>
+  <Inspired_Creativity.label>ihlet (művészet)</Inspired_Creativity.label>
+  <Inspired_Creativity.beginLetter>{0} ihletet kapott. A következő mű 2 minőségosztállyal magasabb besorolású lesz, mint amilyen amúgy lenne.\n\nAz ihlet 8 napig vagy a mű befejezéséig tart.</Inspired_Creativity.beginLetter>
+  <Inspired_Creativity.beginLetterLabel>Ihlet: művészet</Inspired_Creativity.beginLetterLabel>
+  <Inspired_Creativity.endMessage>{0} már nem pörög (művészet).</Inspired_Creativity.endMessage>
+  <Inspired_Creativity.baseInspectLine>Ihletett: művészet</Inspired_Creativity.baseInspectLine>
 
 
 </LanguageData>

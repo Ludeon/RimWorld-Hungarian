@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MakeStoneBlocksAny.label>kőtömb faragás</MakeStoneBlocksAny.label>
-  <MakeStoneBlocksAny.description>Kődarabok tömbbé alakítása.</MakeStoneBlocksAny.description>
-  <MakeStoneBlocksAny.jobString>Kőtömböt farag.</MakeStoneBlocksAny.jobString>
+  <Make_StoneBlocksAny.label>kőtömb faragás</Make_StoneBlocksAny.label>
+  <Make_StoneBlocksAny.description>Kődarabok tömbbé alakítása.</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.jobString>Kőtömböt farag.</Make_StoneBlocksAny.jobString>
   <ExtractMetalFromSlag.label>salak olvasztás</ExtractMetalFromSlag.label>
   <ExtractMetalFromSlag.description>Kivonja a fémet a salakból egy erős elektromágnessel fűtött kohóban.</ExtractMetalFromSlag.description>
   <ExtractMetalFromSlag.jobString>Salakból fémet von ki.</ExtractMetalFromSlag.jobString>
@@ -12,20 +12,24 @@
   <DestroyWeapon.label>fegyver megsemmisítés</DestroyWeapon.label>
   <DestroyWeapon.description>Fegyverek elégetése. Gyorsabb, mint a beolvasztás, és nem olvasztható tárgyakon is működik, de nem ad nyersanyagot.</DestroyWeapon.description>
   <DestroyWeapon.jobString>Fegyvert semmisít meg.</DestroyWeapon.jobString>
-  <!-- <MakeMortarShell.label>ágyúlövedék</MakeMortarShell.label> -->
-  <!-- <MakeMortarShell.description>Lövedék készítése tarackok számára.</MakeMortarShell.description> -->
-  <!-- <MakeMortarShell.jobString>Ágyúlövedéket gyárt.</MakeMortarShell.jobString> -->
-  <MakeChemfuelFromWood.label>kémiai üzemanyag fából</MakeChemfuelFromWood.label>
-  <MakeChemfuelFromWood.description>Kémiai üzemanyag készítése fa elpárologtatásával.</MakeChemfuelFromWood.description>
-  <MakeChemfuelFromWood.jobString>Fából kémiai üzemanyagot gyárt.</MakeChemfuelFromWood.jobString>
-  <MakeChemfuelFromOrganics.label>kémiai üzemanyag szerves anyagból</MakeChemfuelFromOrganics.label>
-  <MakeChemfuelFromOrganics.description>Kémiai üzemanyag készítése szerves anyagokból kinyert biogázokkal.</MakeChemfuelFromOrganics.description>
-  <MakeChemfuelFromOrganics.jobString>Szerves anyagból kémiai üzemanyagot gyárt.</MakeChemfuelFromOrganics.jobString>
-  <MakeComponent.label>alkatrész gyártás</MakeComponent.label>
-  <MakeComponent.description>Alkatrész legyártása.</MakeComponent.description>
-  <MakeComponent.jobString>Alkatrészt gyárt.</MakeComponent.jobString>
-  <MakeAdvancedComponent.label>fejlett alkatrész</MakeAdvancedComponent.label>
-  <MakeAdvancedComponent.description>Fejlett alkatrész gyártása.</MakeAdvancedComponent.description>
-  <MakeAdvancedComponent.jobString>Fejlett alkatrészt gyárt.</MakeAdvancedComponent.jobString>
+  <!-- <Make_MortarShell.label>ágyúlövedék</Make_MortarShell.label> -->
+  <!-- <Make_MortarShell.description>Lövedék készítése tarackok számára.</Make_MortarShell.description> -->
+  <!-- <Make_MortarShell.jobString>Ágyúlövedéket gyárt.</Make_MortarShell.jobString> -->
+  <Make_ChemfuelFromWood.label>kémiai üzemanyag fából</Make_ChemfuelFromWood.label>
+  <Make_ChemfuelFromWood.description>Kémiai üzemanyag készítése fa elpárologtatásával.</Make_ChemfuelFromWood.description>
+  <Make_ChemfuelFromWood.jobString>Fából kémiai üzemanyagot gyárt.</Make_ChemfuelFromWood.jobString>
+  <Make_ChemfuelFromOrganics.label>kémiai üzemanyag szerves anyagból</Make_ChemfuelFromOrganics.label>
+  <Make_ChemfuelFromOrganics.description>Kémiai üzemanyag készítése szerves anyagokból kinyert biogázokkal.</Make_ChemfuelFromOrganics.description>
+  <Make_ChemfuelFromOrganics.jobString>Szerves anyagból kémiai üzemanyagot gyárt.</Make_ChemfuelFromOrganics.jobString>
+  <Make_Component.label>alkatrész gyártás</Make_Component.label>
+  <Make_Component.description>Alkatrész legyártása.</Make_Component.description>
+  <Make_Component.jobString>Alkatrészt gyárt.</Make_Component.jobString>
+  <Make_AdvancedComponent.label>fejlett alkatrész</Make_AdvancedComponent.label>
+  <Make_AdvancedComponent.description>Fejlett alkatrész gyártása.</Make_AdvancedComponent.description>
+  <Make_AdvancedComponent.jobString>Fejlett alkatrészt gyárt.</Make_AdvancedComponent.jobString>
+  
+  <Make_Patchleather.label>fércelt bőr</Make_Patchleather.label>
+  <Make_Patchleather.description>Maradék bőrökből összeállított gyenge bőr.</Make_Patchleather.description>
+  <Make_Patchleather.jobString>fércelt bőrt készít</Make_Patchleather.jobString>
 
 </LanguageData>

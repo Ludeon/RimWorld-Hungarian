@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Goto.reportString>megy.</Goto.reportString>
+  <Follow.reportString>követi őt: TargetA.</Follow.reportString>
+  <FollowClose.reportString>követi őt: TargetA.</FollowClose.reportString>
   <GotoSafeTemperature.reportString>biztonságos hőmérsékletet keres.</GotoSafeTemperature.reportString>
   <GotoWander.reportString>sétál.</GotoWander.reportString>
-  <Wait.reportString>várakozik.</Wait.reportString>
-  <WaitMaintainPosture.reportString>álldogál.</WaitMaintainPosture.reportString>
-  <WaitDowned.reportString>földre került.</WaitDowned.reportString>
-  <WaitSafeTemperature.reportString>biztonságos hőmérsékleten várakozik.</WaitSafeTemperature.reportString>
-  <WaitWander.reportString>sétál.</WaitWander.reportString>
-  <WaitCombat.reportString>célpontra vár.</WaitCombat.reportString>
+  <Wait_.reportString>várakozik.</Wait_.reportString>
+  <Wait_MaintainPosture.reportString>álldogál.</Wait_MaintainPosture.reportString>
+  <Wait_Downed.reportString>földre került.</Wait_Downed.reportString>
+  <Wait_SafeTemperature.reportString>biztonságos hőmérsékleten várakozik.</Wait_SafeTemperature.reportString>
+  <Wait_Wander.reportString>sétál.</Wait_Wander.reportString>
+  <Wait_Combat.reportString>célpontra vár.</Wait_Combat.reportString>
   <AttackStatic.reportString>megtámadja őt: TargetA.</AttackStatic.reportString>
   <AttackMelee.reportString>megtámadja őt: TargetA.</AttackMelee.reportString>
   <SocialFight.reportString>verekszik vele: TargetA.</SocialFight.reportString>
@@ -22,7 +24,10 @@
   <Strip.reportString>levetkőzteti őt: TargetA.</Strip.reportString>
   <Open.reportString>kinyitja ezt: TargetA.</Open.reportString>
   <RearmTrap.reportString>újraélesíti ezt: TargetA.</RearmTrap.reportString>
+  <RearmTurret.reportString>újraélesíti ezt: TargetA.</RearmTurret.reportString>
+  <RearmTurretAtomic.reportString>újraélesíti ezt: TargetA.</RearmTurretAtomic.reportString>
   <Refuel.reportString>újratölti ezt: TargetA.</Refuel.reportString>
+  <RefuelAtomic.reportString>újratölti ezt: TargetA.</RefuelAtomic.reportString>
   <FillFermentingBarrel.reportString>megtölti ezt: TargetA.</FillFermentingBarrel.reportString>
   <TakeBeerOutOfFermentingBarrel.reportString>sört csapol innen: TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
   <UnloadInventory.reportString>kipakolja ezt: TargetA.</UnloadInventory.reportString>
