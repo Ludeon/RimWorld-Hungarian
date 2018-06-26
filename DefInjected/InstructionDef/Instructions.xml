@@ -8,10 +8,10 @@
   <RandomizeCharacter.text>Most létrehozzuk a karaktereidet!\n\nPróbálj meg véletlenszerűen létrehozni egyet a "Véletlenszerű" gombbal.</RandomizeCharacter.text>
   <RandomizeCharacter.rejectInputMessage>Kérlek próbáld ki a "Véletlenszerű" gombot!</RandomizeCharacter.rejectInputMessage>
   <AcceptStartingPawns.text>Nagyszerű!\n\nTöbbször is próbálkozhatsz, de ne akarj tökéletes karaktert kapni! Mindenkinek vannak hibái, ez teszi a történetet érdekessé.\n\nÁt is nevezheted a karaktert a nevére kattintva.\n\nNyomd meg a kezdés gombot, ha kész vagy!</AcceptStartingPawns.text>
-  <MapCameraDolly.text>Megérkeztünk a felszínre.\n\nPróbáld mozgatni a kamerát!\n\nHasználd a {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} billentyűkkel, vagy a középső egérgombot nyomva tartva húzd a kamerát!\n\nPróbáld ki!</MapCameraDolly.text>
-  <MapCameraZoom.text>Nagyszerű!\n\nKözelítheted és távolíthatod a kamerát az egérgörgővel vagy a {Key:MapZoomIn} és a {Key:MapZoomOut} billentyűvel.\n\nPróbáld ki!</MapCameraZoom.text>
+  <MapCameraDolly.text>Megérkeztünk a felszínre.\n\nPróbáld mozgatni a kamerát!\n\nHasználd a {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} billentyűkkel, vagy a középső egérgombot nyomva tartva húzd a kamerát!\n\nPróbáld ki!</MapCameraDolly.text>
+  <MapCameraZoom.text>Nagyszerű!\n\nKözelítheted és távolíthatod a kamerát az egérgörgővel vagy a {Key:MapZoom_In} és a {Key:MapZoom_Out} billentyűvel.\n\nPróbáld ki!</MapCameraZoom.text>
   <Pause.text>Az időt is megállíthatod.\n\nÍgy sosem kell kapkodnod, nyugodtan kiadhatod a parancsokat.\n\nPróbáld leállítani az időt a {Key:TogglePause} billentyűvel, vagy a jobb alsó sarokban lévő felületen.</Pause.text>
-  <TimeControls.text>Az idő fel is gyorsítható.\n\nPróbáld felgyorsítani az időt a {Key:TimeSpeedNormal}, {Key:TimeSpeedFast} és {Key:TimeSpeedSuperfast} billentyűkkel, vagy a jobb alsó sarokban lévő felületen.</TimeControls.text>
+  <TimeControls.text>Az idő fel is gyorsítható.\n\nPróbáld felgyorsítani az időt a {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast} és {Key:TimeSpeed_Superfast} billentyűkkel, vagy a jobb alsó sarokban lévő felületen.</TimeControls.text>
   <MakeStockpile.text>Nagyszerű!\n\nKészíts egy raktárterületet, hogy a gyarmatosoknak legyen hol tárolni a dolgaikat!\n\n1. Kattints az "Építés" gombra\n2. Válaszd az "Körzetek" kategóriát\n3. Válaszd ki a "Raktárterület" eszközt\n4. Fess be vele egy négyzet alakú területet, ahogy a térképen látod</MakeStockpile.text>
   <MakeStockpile.rejectInputMessage>Kérlek, a kijelölt helyen csináld a raktárterület!</MakeStockpile.rejectInputMessage>
   <MakeStockpile.onMapInstruction>Ide tedd a raktárterületet\n(saroktól-sarokig húzd)</MakeStockpile.onMapInstruction>
