@@ -2,4 +2,11 @@
 <LanguageData>
   <MedicalPotency.label>gyógyító potenciál</MedicalPotency.label>
   <MedicalPotency.description>Sérülések és betegségek gyógyításának hatékonysága vagy a műtétre gyakorolt hatás. Magasabb gyógyító potenciál növeli az esélyét annak, hogy a doktor helyesen kezeli a sebesülést és csökkenti az esélyét annak, hogy műtét közben komplikáció lép fel.</MedicalPotency.description>
+  
+  <MedicalQualityMax.label>ellátás max. minősége</MedicalQualityMax.label>
+  <MedicalQualityMax.description>Az ellátás legmagasabb elérhető szintje e tárgy használata mellett. Magasabb minőség segíti az orvosokat, hogy jobban és megbízhatóbban lássák el a sérüléseket.</MedicalQualityMax.description>
+
+  <ConstructionSpeedFactor.label>építés sebessége</ConstructionSpeedFactor.label>
+  <ConstructionSpeedFactor.description>Befolyásolja az ebből készült építmények elkészülésének sebességét. Némely anyag, pl. kő, csak lassú építést tesz lehetővé. Fával sokkal gyorsabban lehet haladni.</ConstructionSpeedFactor.description>
+  
 </LanguageData>

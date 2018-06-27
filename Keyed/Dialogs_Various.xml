@@ -159,7 +159,7 @@
   <WorkAmount>Szükséges munka</WorkAmount>
   <MinimumSkills>Minimum készség:</MinimumSkills>
   <BillRequires>Szükséges: {0}db {1}</BillRequires>
-  <BillRequiresNutrition>Szükséges tápanyag: {0}</BillRequiresNutrition>
+  <BillRequiresNutrition>Szükséges tápérték: {0}</BillRequiresNutrition>
   <BillRequiresMayVary>Megj.: kis helyet foglaló hozzávalókból, mint pl. az arany, {0}x annyi kell.</BillRequiresMayVary>
   <ThisIsSmallVolume>Ez egy kis térfogatú hozzávaló. Ez azt jelenti, hogy minden "egység" csak 1/{0}-a normál térfogatú hozzávalóknak. Így ezekből {0}x annyi szükséges az adott recepthez.</ThisIsSmallVolume>
   <UsableIngredients>hozzávaló</UsableIngredients>
@@ -366,7 +366,7 @@
   <PossibleToGrazeForever>(örökké)</PossibleToGrazeForever>
   <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
   <CantGrazeBecauseOfTemp>(még {0} napig túl hideg lesz)</CantGrazeBecauseOfTemp>
-  <TotalNutrition>Összes tápanyag</TotalNutrition>
+  <TotalNutrition>Összes tápérték</TotalNutrition>
   <CaravanNotMoving>Nem mozog</CaravanNotMoving>
   <ForagedNutritionPerDay>Napi gyűjtögetett tápanyag</ForagedNutritionPerDay>
   <FactionType>Frakció típusa</FactionType>

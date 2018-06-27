@@ -5,15 +5,28 @@
   <Sandbags_Blueprint.label>homokzsák (tervrajz)</Sandbags_Blueprint.label>
   <Sandbags_Frame.label>homokzsák (építmény)</Sandbags_Frame.label>
   <Sandbags_Frame.description>Fedezék lövések ellen.</Sandbags_Frame.description>
-  <TurretGun.label>robotágyú</TurretGun.label>
-  <TurretGun.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</TurretGun.description>
-  <TurretGun_Blueprint.label>robotágyú (tervrajz)</TurretGun_Blueprint.label>
-  <TurretGun_Blueprint_Install.label>robotágyú (tervrajz)</TurretGun_Blueprint_Install.label>
-  <TurretGun_Frame.label>robotágyú (építmény)</TurretGun_Frame.label>
-  <TurretGun_Frame.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</TurretGun_Frame.description>
-  <Bullet_TurretImprovised.label>robotágyú lőszer</Bullet_TurretImprovised.label>
-  <Gun_TurretImprovised.label>robotágyú</Gun_TurretImprovised.label>
-  <Gun_TurretImprovised.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</Gun_TurretImprovised.description>
+  <Turret_MiniTurret.label>robotágyú</Turret_MiniTurret.label>
+  <Turret_MiniTurret.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</Turret_MiniTurret.description>
+  <Turret_MiniTurret_Blueprint.label>robotágyú (tervrajz)</Turret_MiniTurret_Blueprint.label>
+  <Turret_MiniTurret_Blueprint_Install.label>robotágyú (tervrajz)</Turret_MiniTurret_Blueprint_Install.label>
+  <Turret_MiniTurret_Frame.label>robotágyú (építmény)</Turret_MiniTurret_Frame.label>
+  <Turret_MiniTurret_Frame.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</Turret_MiniTurret_Frame.description>
+  <Bullet_MiniTurret.label>robotágyú lőszer </Bullet_MiniTurret.label>
+  <Gun_MiniTurret.label>robotágyú</Gun_MiniTurret.label>
+  <Gun_MiniTurret.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</Gun_MiniTurret.description>
+  
+   <!-- Autocannon turret -->
+
+  <Turret_Autocannon.label>nehéz robotágyú</Turret_Autocannon.label>
+  <Turret_Autocannon.description>Nagy hatótávú nehéz robotágyú. Nagy kaliberű lövedéke súlyos sebeket ejt nagy távolságra lévő célpontokon, ám sűrűn kell cserélni a csövét, ami drága. Közelre nem tüzel. Ha megsérül, felrobbanhat.</Turret_Autocannon.description>
+  <Turret_Autocannon_Blueprint.label>nehéz robotágyú (tervrajz)</Turret_Autocannon_Blueprint.label>
+  <Turret_Autocannon_Frame.label>nehéz robotágyú (építmény)</Turret_Autocannon_Frame.label>
+  <Turret_Autocannon_Frame.description>Nagy hatótávú nehéz robotágyú. Nagy kaliberű lövedéke súlyos sebeket ejt nagy távolságra lévő célpontokon, ám sűrűn kell cserélni a csövét, ami drága. Közelre nem tüzel. Ha megsérül, felrobbanhat.</Turret_Autocannon_Frame.description>
+
+  <Bullet_AutocannonTurret.label>nehéz robotágyú lőszer </Bullet_AutocannonTurret.label>
+
+  <Gun_AutocannonTurret.label>nehéz robotágyú</Gun_AutocannonTurret.label>
+  <Gun_AutocannonTurret.description>Öntöltő nagy kaliberű ágyú, állványra szerelhető.</Gun_AutocannonTurret.description>
   
   <Turret_Mortar.label>tarack (robbanó)</Turret_Mortar.label>
   <Turret_Mortar.description>Tarack, mely robbanó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_Mortar.description>

@@ -10,15 +10,23 @@
   <PenoxycylineProduction.description>Lehetővé teszi penoxycline előállítását, ami egy betegség megelőző gyógyszer.</PenoxycylineProduction.description>
   <LongBlades.label>Hosszú pengék</LongBlades.label>
   <LongBlades.description>Lehetővé teszi hosszúkard és lándzsa gyártását.</LongBlades.description>
+  
+  <PlateArmor.label>Páncél</PlateArmor.label>
+  <PlateArmor.description>Fából vagy fémből készült vértezet.</PlateArmor.description>
 
-  <Greatbows.label>Hosszúíj</Greatbows.label>
-  <Greatbows.description>Lehetővé teszi erősebb hosszúíj gyártását.</Greatbows.description>
+  <Greatbow.label>Hosszúíj</Greatbow.label>
+  <Greatbow.description>Lehetővé teszi erősebb hosszúíj gyártását.</Greatbow.description>
  
 
   <Batteries.label>Akkumulátor</Batteries.label>
   <Batteries.description>Lehetővé teszi akkumulátor építését, amivel elektromos energia tárolható.</Batteries.description>
-  <Refining.label>Finomítás</Refining.label>
-  <Refining.description>Lehetővé teszi finomító építését, ahol kémiai üzemanyag állítható elő.</Refining.description>
+  <!-- <Refining.label>Finomítás</Refining.label> -->
+  <!-- <Refining.description>Lehetővé teszi finomító építését, ahol kémiai üzemanyag állítható elő.</Refining.description> -->
+  <BiofuelRefining.label>Bioüzemanyag</BiofuelRefining.label>
+  <BiofuelRefining.description>Lehetővé teszi finomító építését, ahol kémiai üzemanyag állítható elő szerves anyagokból, mint pl. fa vagy élelem.</BiofuelRefining.description>
+
+  <Waterproofing.label>Vízálló vezeték</Waterproofing.label>
+  <Waterproofing.description>Lehetővé teszi elektromos áram víz alatti továbbítását.</Waterproofing.description>
   <NutrientPaste.label>Tápanyagpaszta</NutrientPaste.label>
   <NutrientPaste.description>Lehetővé teszi tápanyag ellátó készítését, ami hatékonyan állít elő ehető ételt nyersanyagokból.</NutrientPaste.description>
   <SolarPanels.label>Napelem</SolarPanels.label>
@@ -41,8 +49,10 @@
   <Machining.description>Lehetővé teszi gépészasztal építését, ahol fegyverek és szerszámok készíthetők, illetve mechanoidok szerelhetők szét.</Machining.description>
   <IEDs.label>Rögtönzött robbanószer</IEDs.label>
   <IEDs.description>Lehetővé teszi rögtönzött robbanószerkezet (csapda) építését ágyúlövedékből.</IEDs.description>
-  <IEDIncendiary.label>Rögtönzött gyújtóbomba</IEDIncendiary.label>
-  <IEDIncendiary.description>Lehetővé teszi rögtönzött gyújtóbomba (csapda) építését ágyúlövedékből.</IEDIncendiary.description>
+  <GeothermalPower.label>Geotermikus energia</GeothermalPower.label>
+  <GeothermalPower.description>Lehetővé teszi geotermikus erőmű építését, ami gejzírre helyezve kiesés nélkül szolgáltat áramot.</GeothermalPower.description>
+  <!-- <IEDIncendiary.label>Rögtönzött gyújtóbomba</IEDIncendiary.label> -->
+  <!-- <IEDIncendiary.description>Lehetővé teszi rögtönzött gyújtóbomba (csapda) építését ágyúlövedékből.</IEDIncendiary.description> -->
   <Mortars.label>Tarack</Mortars.label>
   <Mortars.description>Lehetővé teszi tarack építését, amivel messzire juttathatsz lövedékeket, akár falakon túl is.</Mortars.description>
   <Gunsmithing.label>Fegyverkovácsolás</Gunsmithing.label>
@@ -65,4 +75,9 @@
   <TubeTelevision.description>Lehetővé teszi képcsöves tévék gyártását.</TubeTelevision.description>
   <GunTurrets.label>Robotágyú</GunTurrets.label>
   <GunTurrets.description>Lehetővé teszi automata robotágyú gyártását.</GunTurrets.description>
+   <Prosthetics.label>Művégtagok</Prosthetics.label>
+  <Prosthetics.description>Lehetővé teszi egyszerű művégtagok gyártását az elvesztettek pótlására. Képzett orvos szükséges a felhelyezésükhöz.</Prosthetics.description>
+  <HeavyTurrets.label>Nehéz robotágyú</HeavyTurrets.label>
+  <HeavyTurrets.description>Lehetővé teszi nehéz, nagy hatótávú robotágyú gyártását.</HeavyTurrets.description>
+  
 </LanguageData>

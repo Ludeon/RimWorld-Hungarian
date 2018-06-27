@@ -5,6 +5,10 @@
 
   <Sandstone.label>homokkő</Sandstone.label>
   <Sandstone.description>Üledékes kőzet, mely összetömörített homokból áll.</Sandstone.description>
+  
+  <SmoothedSandstone.label>csiszolt homokkő</SmoothedSandstone.label>
+  <SmoothedSandstone.description>Üledékes kőzet, mely összetömörített homokból áll. Felülete simára lett csiszolva.</SmoothedSandstone.description>
+  
   <ChunkSandstone.label>homokkő darab</ChunkSandstone.label>
   <ChunkSandstone.description>Egy darab kő. Hasznos kőtömb faragható belőle.</ChunkSandstone.description>
 
@@ -13,6 +17,10 @@
   <BlocksSandstone.stuffProps.stuffAdjective>homokkő</BlocksSandstone.stuffProps.stuffAdjective>
   <Granite.label>gránit</Granite.label>
   <Granite.description>Nagyon kemény vulkanikus kőzet.</Granite.description>
+  
+  <SmoothedGranite.label>csiszolt gránit</SmoothedGranite.label>
+  <SmoothedGranite.description>Nagyon kemény vulkanikus kőzet. Csillogó felületét fekete, fehér és rózsaszín darabkák mozaikja adja.</SmoothedGranite.description>
+  
   <ChunkGranite.label>gránit darab</ChunkGranite.label>
   <ChunkGranite.description>Egy darab kő. Hasznos kőtömb faragható belőle.</ChunkGranite.description>
 
@@ -21,6 +29,9 @@
   <BlocksGranite.stuffProps.stuffAdjective>gránit</BlocksGranite.stuffProps.stuffAdjective>
   <Limestone.label>mészkő</Limestone.label>
   <Limestone.description>Tengeri élőlények meszes vázából képződött üledékes kőzet.</Limestone.description>
+  
+  <SmoothedLimestone.label>csiszoTengeri élőlények meszes vázából képződött üledékes kőzet. Selymes fehér fénye van, melyet a kőben lévő tökéletlenségek törnek meg.</SmoothedLimestone.description>
+  
   <ChunkLimestone.label>mészkő darab</ChunkLimestone.label>
   <ChunkLimestone.description>Egy darab kő. Hasznos kőtömb faragható belőle.</ChunkLimestone.description>
 
@@ -29,6 +40,10 @@
   <BlocksLimestone.stuffProps.stuffAdjective>mészkő</BlocksLimestone.stuffProps.stuffAdjective>
   <Slate.label>pala</Slate.label>
   <Slate.description>Sötét színű átalakult kőzet. Rétegei könnyen elválnak egymástól.</Slate.description>
+  
+  <SmoothedSlate.label>csiszolt pala</SmoothedSlate.label>
+  <SmoothedSlate.description>Sötét színű átalakult kőzet. Rétegei könnyen elválnak egymástól. Belső szerkezete tisztán kivehető a csiszolt felületen.</SmoothedSlate.description>
+  
   <ChunkSlate.label>pala darab</ChunkSlate.label>
   <ChunkSlate.description>Egy darab kő. Hasznos kőtömb faragható belőle.</ChunkSlate.description>
 
@@ -37,6 +52,10 @@
   <BlocksSlate.stuffProps.stuffAdjective>pala</BlocksSlate.stuffProps.stuffAdjective>
   <Marble.label>márvány</Marble.label>
   <Marble.description>Fehér színű, puha átalakult kőzet.</Marble.description>
+  
+  <SmoothedMarble.label>csiszolt márvány</SmoothedMarble.label>
+  <SmoothedMarble.description>Fehér színű, puha átalakult kőzet. Félig átlátszó, és mintha saját belső fénye lenne.</SmoothedMarble.description>
+  
   <ChunkMarble.label>márvány darab</ChunkMarble.label>
   <ChunkMarble.description>Egy darab kő. Hasznos kőtömb faragható belőle.</ChunkMarble.description>
 

@@ -17,8 +17,15 @@
   <ImmunityGainSpeedFactor.description>A betegek immunitásának kifejlődését befolyásolja.</ImmunityGainSpeedFactor.description>
   <WorkTableWorkSpeedFactor.label>munkatempó szorzó</WorkTableWorkSpeedFactor.label>
   <WorkTableWorkSpeedFactor.description>A munka sebességét befolyásolja.</WorkTableWorkSpeedFactor.description>
-  <EntertainmentStrengthFactor.label>szórakoztatási szorzó</EntertainmentStrengthFactor.label>
-  <EntertainmentStrengthFactor.description>Mennyire hatékonyan javítja az emberek hangulatát.</EntertainmentStrengthFactor.description>
+  <!-- <EntertainmentStrengthFactor.label>szórakoztatási szorzó</EntertainmentStrengthFactor.label> -->
+  <!-- <EntertainmentStrengthFactor.description>Mennyire hatékonyan javítja az emberek hangulatát.</EntertainmentStrengthFactor.description> -->
+  
+   <WorkTableEfficiencyFactor.label>munkahatékonyság szorzó</WorkTableEfficiencyFactor.label>
+  <WorkTableEfficiencyFactor.description>A munka hatékonyságát befolyásolja.</WorkTableEfficiencyFactor.description>
+
+  <JoyGainFactor.label>pihentetés szorzó</JoyGainFactor.label>
+  <JoyGainFactor.description>Mennyire hatékonyan javítja az emberek hangulatát és pihenteti őket.</JoyGainFactor.description>
+  
   <SurgerySuccessChanceFactor.label>sikeres műtét esélye</SurgerySuccessChanceFactor.label>
   <SurgerySuccessChanceFactor.description>Az itt elvégzett műtétek sikerességi szorzója. A sikert az orvos készsége és a használt gyógyszer is befolyásolja.</SurgerySuccessChanceFactor.description>
   <SurgerySuccessChanceFactor.parts.0.customLabel>Szoba tisztasága</SurgerySuccessChanceFactor.parts.0.customLabel>

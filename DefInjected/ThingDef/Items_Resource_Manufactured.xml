@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <HerbalMedicine.label>gyógynövény-kivonat</HerbalMedicine.label>
-  <HerbalMedicine.description>A csomag gyógynövény főzeteket tartalmaz. Kevésbé hatásos, mint az ipari gyógyszer, de sokkal jobb, mint a semmi.</HerbalMedicine.description>
-  <Medicine.label>gyógyszer</Medicine.label>
-  <Medicine.description>Az orvosok ezzel kezelik a betegeket.</Medicine.description>
-  <GlitterworldMedicine.label>szupergyógyszer</GlitterworldMedicine.label>
-  <GlitterworldMedicine.description>Fejlett orvosi ellátmány egy csúcstechnológiával rendelkező világról.</GlitterworldMedicine.description>
+  <MedicineHerbal.label>gyógynövény-kivonat</MedicineHerbal.label>
+  <MedicineHerbal.description>A csomag gyógynövény főzeteket tartalmaz. Kevésbé hatásos, mint az ipari gyógyszer, de sokkal jobb, mint a semmi.</MedicineHerbal.description>
+  <MedicineIndustrial.label>gyógyszer</MedicineIndustrial.label>
+  <MedicineIndustrial.description>Az orvosok ezzel kezelik a betegeket.</MedicineIndustrial.description>
+  <MedicineUltratech.label>szupergyógyszer</MedicineUltratech.label>
+  <MedicineUltratech.description>Fejlett orvosi ellátmány egy csúcstechnológiával rendelkező világról.</MedicineUltratech.description>
   <!-- <MortarShell.label>ágyúlövedék</MortarShell.label> -->
   <!-- <MortarShell.description>Ágyúk ezt a robbanótöltetet lövik ki. Ha megsérül, felrobban.</MortarShell.description> -->
-  <Component.label>alkatrész</Component.label>
-  <Component.description>Mindenféle fogaskerekek, kondenzátorok, áramköri lapok, csövek, kerekek, érzékelők, vezetékek, chipek, feldolgozók, és egyéb elektronikai és ipari alkatrészek. Komplex gépek vagy elektronika szereléshez szükséges.</Component.description>
+  <ComponentIndustrial.label>alkatrész</ComponentIndustrial.label>
+  <ComponentIndustrial.description>Mindenféle fogaskerekek, kondenzátorok, áramköri lapok, csövek, kerekek, érzékelők, vezetékek, chipek, feldolgozók, és egyéb elektronikai és ipari alkatrészek. Komplex gépek vagy elektronika szereléshez szükséges.</ComponentIndustrial.description>
   
-  <AdvancedComponent.label>fejlett alkatrész</AdvancedComponent.label>
-  <AdvancedComponent.description>Magas minőségű elektronikus alkatrész, miniatürizált és helyt áll a legnehezebb körülmények között is.</AdvancedComponent.description>
+  <ComponentSpacer.label>fejlett alkatrész</ComponentSpacer.label>
+  <ComponentSpacer.description>Magas minőségű elektronikus alkatrész, miniatürizált és helyt áll a legnehezebb körülmények között is.</ComponentSpacer.description>
  
   <Neutroamine.label>neutroamin</Neutroamine.label>
   <Neutroamine.description>Szintetikus alapanyag. Önmagában haszontalan, de sok drog hozzávalója.</Neutroamine.description>

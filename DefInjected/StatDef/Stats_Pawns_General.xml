@@ -29,5 +29,14 @@
   <MinimumHandlingSkill.description>Ennél kisebb gondozás készséggel ez a teremtmény nem szelídíthető vagy idomítható.</MinimumHandlingSkill.description>
   <PainShockThreshold.label>fájdalomküszöb</PainShockThreshold.label>
   <PainShockThreshold.description>Az az érték, aminél az alany földre kerül a fájdalomtól.</PainShockThreshold.description>
+  
+  <HungerRateMultiplier.label>éhség szorzó</HungerRateMultiplier.label>
+  <HungerRateMultiplier.description>Befolyásolja, hogy milyen gyorsan lesz újra éhes az alany.</HungerRateMultiplier.description>
+
+  <RestRateMultiplier.label>pihenés szorzó</RestRateMultiplier.label>
+  <RestRateMultiplier.description>Befolyásolja, hogy mennyi alvás szükséges adott mennyiségű pihenéshez.</RestRateMultiplier.description>
+  
+  <ForagedNutritionPerDay.label>gyűjtögetés</ForagedNutritionPerDay.label>
+  <ForagedNutritionPerDay.description>Ennyi élelmet gyűjt az alany automatikusan, miközben karavánnal utazik.</ForagedNutritionPerDay.description>
 
 </LanguageData>

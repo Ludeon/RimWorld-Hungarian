@@ -19,8 +19,8 @@
   <PlantMatter.label>növényi anyagok</PlantMatter.label>
   <StoneBlocks.label>kőtömbök</StoneBlocks.label>
   <Items.label>tárgyak</Items.label>
-  <Art.label>műtárgyak</Art.label>
-  <Furniture.label>bútorok</Furniture.label>
+  <!-- <Art.label>műtárgyak</Art.label> -->
+  <!-- <Furniture.label>bútorok</Furniture.label> -->
   <Unfinished.label>félkész</Unfinished.label>
   <Artifacts.label>relikviák</Artifacts.label>
   <BodyParts.label>testrészek</BodyParts.label>
@@ -39,4 +39,19 @@
   <CorpsesAnimal.label>állat tetemek</CorpsesAnimal.label>
   <CorpsesInsect.label>rovar tetemek</CorpsesInsect.label>
   <CorpsesMechanoid.label>mechanoid tetemek</CorpsesMechanoid.label>
+  
+  <!-- Buildings -->
+
+  <Buildings.label>építmények</Buildings.label>
+  <BuildingsArt.label>művészet</BuildingsArt.label>
+  <BuildingsProduction.label>gyártás</BuildingsProduction.label>
+  <BuildingsFurniture.label>bútor</BuildingsFurniture.label>
+  <BuildingsPower.label>áram</BuildingsPower.label>
+  <BuildingsSecurity.label>biztonság</BuildingsSecurity.label>
+  <BuildingsMisc.label>egyéb</BuildingsMisc.label>
+  <BuildingsJoy.label>pihenés</BuildingsJoy.label>
+  <BuildingsTemperature.label>hőmérséklet</BuildingsTemperature.label>
+  <BuildingsSpecial.label>speciális</BuildingsSpecial.label>
+
+  
 </LanguageData>

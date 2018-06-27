@@ -5,6 +5,13 @@
   <PowerConduit_Blueprint.label>vezeték (tervrajz)</PowerConduit_Blueprint.label>
   <PowerConduit_Frame.label>vezeték (építmény)</PowerConduit_Frame.label>
   <PowerConduit_Frame.description>Eljuttatja az áramot felhasználási helyéhez. Falak és egyéb tárgyak alatt átvezethető.</PowerConduit_Frame.description>
+  
+  <WaterproofConduit.label>vízálló vezeték</WaterproofConduit.label>
+  <WaterproofConduit.description>Szigetelt vezeték elektromos áram sekély víz alatti vezetéséhez.</WaterproofConduit.description>
+  <WaterproofConduit_Blueprint.label>vízálló vezeték (tervrajz)</WaterproofConduit_Blueprint.label>
+  <WaterproofConduit_Frame.label>vízálló vezeték (építmény)</WaterproofConduit_Frame.label>
+  <WaterproofConduit_Frame.description>Szigetelt vezeték elektromos áram sekély víz alatti vezetéséhez.</WaterproofConduit_Frame.description>
+  
   <PowerSwitch.label>kapcsoló</PowerSwitch.label>
   <PowerSwitch.description>Ki/bekapcsolja az áramot.</PowerSwitch.description>
   <PowerSwitch_Blueprint.label>kapcsoló (tervrajz)</PowerSwitch_Blueprint.label>
@@ -44,4 +51,11 @@
   <GeothermalGenerator_Blueprint.label>geotermikus generátor (tervrajz)</GeothermalGenerator_Blueprint.label>
   <GeothermalGenerator_Frame.label>geotermikus generátor (építmény)</GeothermalGenerator_Frame.label>
   <GeothermalGenerator_Frame.description>Gejzírek segítségével állít elő áramot, mindenképp egy ilyenre kell telepíteni.</GeothermalGenerator_Frame.description>
+  
+  <WatermillGenerator.label>vízkerék generátor</WatermillGenerator.label>
+  <WatermillGenerator.description>Folyó segítségével állít elő áramot. A kereket folyóvízen kell elhelyezni.</WatermillGenerator.description>
+  <WatermillGenerator_Blueprint.label>vízkerék generátor (tervrajz)</WatermillGenerator_Blueprint.label>
+  <WatermillGenerator_Frame.label>vízkerék generátor (építmény)</WatermillGenerator_Frame.label>
+  <WatermillGenerator_Frame.description>Folyó segítségével állít elő áramot. A kereket folyóvízen kell elhelyezni.</WatermillGenerator_Frame.description>
+  
 </LanguageData>
