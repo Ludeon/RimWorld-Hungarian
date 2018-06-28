@@ -12,21 +12,21 @@
 	<Slight.logRulesInitiator.rulesStrings>
 		<li>logentry->Megbántotta őt:[other_nameShortIndef].</li>
 	</Slight.logRulesInitiator.rulesStrings>
-	<Slight.logRulesRecipient.rulesStrings>
-		<li>logentry->Megbántódott miatta:[other_nameShortIndef].</li>
-	</Slight.logRulesRecipient.rulesStrings>
+	<!-- <Slight.logRulesRecipient.rulesStrings> -->
+		<!-- <li>logentry->Megbántódott miatta:[other_nameShortIndef].</li> -->
+	<!-- </Slight.logRulesRecipient.rulesStrings> -->
   <Insult.label>sértés</Insult.label>
 	<Insult.logRulesInitiator.rulesStrings>
 		<li>logentry->Megsértette őt:[other_nameShortIndef].</li>
 	</Insult.logRulesInitiator.rulesStrings>
-	<Insult.logRulesRecipient.rulesStrings>
-		<li>logentry->Megsértődött miatta:[other_nameShortIndef].</li>
-	</Insult.logRulesRecipient.rulesStrings>
+	<!-- <Insult.logRulesRecipient.rulesStrings> -->
+		<!-- <li>logentry->Megsértődött miatta:[other_nameShortIndef].</li> -->
+	<!-- </Insult.logRulesRecipient.rulesStrings> -->
   <KindWords.label>kedves szavak</KindWords.label>
 	<KindWords.logRulesInitiator.rulesStrings>
 		<li>logentry->Kedvesen szólt hozzá: [other_nameShortIndef].</li>
 	</KindWords.logRulesInitiator.rulesStrings>
-	<KindWords.logRulesRecipient.rulesStrings>
-		<li>logentry->[other_nameShortIndef] kedvesen szólt hozzá.</li>
-	</KindWords.logRulesRecipient.rulesStrings>
+	<!-- <KindWords.logRulesRecipient.rulesStrings> -->
+		<!-- <li>logentry->[other_nameShortIndef] kedvesen szólt hozzá.</li> -->
+	<!-- </KindWords.logRulesRecipient.rulesStrings> -->
 </LanguageData>

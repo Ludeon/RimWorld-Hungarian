@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+
+  <RefugeePodCrash_NonHostileOrFactionless>Megmentheted és útjára engedheted őt. Vagy el is foghatod, hogy besorozd vagy rabszolgáddá tedd.</RefugeePodCrash_NonHostileOrFactionless>
+  <RefugeePodCrash_Hostile>Elfoghatod, hogy besorozd vagy rabszolgáddá tedd. Ennek a frakciónak a tagja: [PAWN_factionName].</RefugeePodCrash_Hostile>
+  <RefugeePodCrash_NonHostile>Figyelem: [PAWN_nameDef] [PAWN_factionName] frakció tagja. Az elfogása fel fogja bosszantani őket, de a megmentése és ellátása javítja a frakciók viszonyát.</RefugeePodCrash_NonHostile>
+  <NormalQualityOrBetter>normál minőség vagy jobb</NormalQualityOrBetter>
+
   <LetterLabelAnimalInsanitySingle>Megvadult állat</LetterLabelAnimalInsanitySingle>
   <AnimalInsanitySingle>Egy helyi {0} megvadult. Akit meglát, megtámadja.</AnimalInsanitySingle>
   <LetterLabelAnimalInsanityMultiple>Megvadult állatok!</LetterLabelAnimalInsanityMultiple>
@@ -26,7 +32,7 @@
 
   <LetterLabelRefugeePodCrash>Mentőkabin</LetterLabelRefugeePodCrash>
   <RefugeePodCrash>A közelben lezuhant egy mentőkabin.\n\nHa túl is élte valaki a zuhanást, az súlyosan meg lesz sérülve.</RefugeePodCrash>
-  <RefugeePodCrashFactionWarning>Figyelem: [PAWN_nameDef] [PAWN_factionName] tagja. Az elfogása fel fogja bosszantani őket, de a megmentése és ellátása javítja a frakciók viszonyát.</RefugeePodCrashFactionWarning>
+  <!-- <RefugeePodCrashFactionWarning>Figyelem: [PAWN_nameDef] [PAWN_factionName] tagja. Az elfogása fel fogja bosszantani őket, de a megmentése és ellátása javítja a frakciók viszonyát.</RefugeePodCrashFactionWarning> -->
 
   <LetterLabelCargoPodCrash>Szállítmány</LetterLabelCargoPodCrash>
   <CargoPodCrash>Egy szállítmány áru zuhant le a közelben.\n\nTalán lesz közte valami használható.</CargoPodCrash>

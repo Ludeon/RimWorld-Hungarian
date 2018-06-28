@@ -24,12 +24,21 @@
   <PatientBedRest.pawnLabel>Pihen</PatientBedRest.pawnLabel>
   <PatientBedRest.gerundLabel>pihenés</PatientBedRest.gerundLabel>
   <PatientBedRest.verb>pihenni</PatientBedRest.verb>
-  <Flicker.label>Átkapcsolás</Flicker.label>
-  <Flicker.description>Az erre beosztott gyarmatos átállítja az eszköz (pl. ágyú) áramellátó kapcsolóját.</Flicker.description>
-  <Flicker.labelShort>Átkapcsolás</Flicker.labelShort>
-  <Flicker.pawnLabel>Átkapcsolás</Flicker.pawnLabel>
-  <Flicker.gerundLabel>átkapcsolás</Flicker.gerundLabel>
-  <Flicker.verb>átkapcsolni</Flicker.verb>
+  
+  <BasicWorker.label>Egyszerű</BasicWorker.label>
+  <BasicWorker.description>Készséget nem igénylő munkák. Foglyok elengedése, kapcsolók működtetése, gépek ki/bekapcsolása.</BasicWorker.description>
+  <BasicWorker.labelShort>Egyszerű</BasicWorker.labelShort>
+  <BasicWorker.pawnLabel>Munkás</BasicWorker.pawnLabel>
+  <BasicWorker.gerundLabel>működtetés</BasicWorker.gerundLabel>
+  <BasicWorker.verb>működtetni</BasicWorker.verb>
+  
+  
+  <!-- <Flicker.label>Átkapcsolás</Flicker.label> -->
+  <!-- <Flicker.description>Az erre beosztott gyarmatos átállítja az eszköz (pl. ágyú) áramellátó kapcsolóját.</Flicker.description> -->
+  <!-- <Flicker.labelShort>Átkapcsolás</Flicker.labelShort> -->
+  <!-- <Flicker.pawnLabel>Átkapcsolás</Flicker.pawnLabel> -->
+  <!-- <Flicker.gerundLabel>átkapcsolás</Flicker.gerundLabel> -->
+  <!-- <Flicker.verb>átkapcsolni</Flicker.verb> -->
   <Warden.label>Felügyelő</Warden.label>
   <Warden.description>Ellátja, eteti a rabot. Beszélget vele és besorozza.</Warden.description>
   <Warden.labelShort>Felügyelő</Warden.labelShort>

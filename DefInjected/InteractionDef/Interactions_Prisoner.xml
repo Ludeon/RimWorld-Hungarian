@@ -4,22 +4,22 @@
 	<BuildRapport.logRulesInitiator.rulesStrings>
 		<li>logentry->Megpróbál megismerkedni vele:[other_nameShortIndef].</li>
 	</BuildRapport.logRulesInitiator.rulesStrings>
-	<BuildRapport.logRulesRecipient.rulesStrings>
-		<li>logentry->[other_nameShortIndef] ismerkedik vele.</li>
-	</BuildRapport.logRulesRecipient.rulesStrings>
+	<!-- <BuildRapport.logRulesRecipient.rulesStrings> -->
+		<!-- <li>logentry->[other_nameShortIndef] ismerkedik vele.</li> -->
+	<!-- </BuildRapport.logRulesRecipient.rulesStrings> -->
   <RecruitAttempt.label>toborzás</RecruitAttempt.label>
 	<RecruitAttempt.logRulesInitiator.rulesStrings>
 		<li>logentry->Megpróbálja toborozni őt:[other_nameShortIndef].</li>
 	</RecruitAttempt.logRulesInitiator.rulesStrings>
-	<RecruitAttempt.logRulesRecipient.rulesStrings>
-		<li>logentry->[other_nameShortIndef] megpróbálja toborozni.</li>
-	</RecruitAttempt.logRulesRecipient.rulesStrings>
+	<!-- <RecruitAttempt.logRulesRecipient.rulesStrings> -->
+		<!-- <li>logentry->[other_nameShortIndef] megpróbálja toborozni.</li> -->
+	<!-- </RecruitAttempt.logRulesRecipient.rulesStrings> -->
   <SparkJailbreak.label>szökésre felbujtás</SparkJailbreak.label>
 	<SparkJailbreak.logRulesInitiator.rulesStrings>
 		<li>logentry->Megpróbálja szökésre felbujtani őt:[other_nameShortIndef].</li>
 	</SparkJailbreak.logRulesInitiator.rulesStrings>
-	<SparkJailbreak.logRulesRecipient.rulesStrings>
-		<li>logentry->[other_nameShortIndef] megpróbálja szökésre felbujtani.</li>
-	</SparkJailbreak.logRulesRecipient.rulesStrings>
+	<!-- <SparkJailbreak.logRulesRecipient.rulesStrings> -->
+		<!-- <li>logentry->[other_nameShortIndef] megpróbálja szökésre felbujtani.</li> -->
+	<!-- </SparkJailbreak.logRulesRecipient.rulesStrings> -->
 
  </LanguageData>

@@ -4,21 +4,21 @@
 	<RomanceAttempt.logRulesInitiator.rulesStrings>
 		<li>logentry->Megpróbál románcot kezdeni vele:[other_nameShortIndef].</li>
 	</RomanceAttempt.logRulesInitiator.rulesStrings>
-	<RomanceAttempt.logRulesRecipient.rulesStrings>
-		<li>logentry->[other_nameShortIndef] megpróbált románcot kezdeni.</li>
-	</RomanceAttempt.logRulesRecipient.rulesStrings>
+	<!-- <RomanceAttempt.logRulesRecipient.rulesStrings> -->
+		<!-- <li>logentry->[other_nameShortIndef] megpróbált románcot kezdeni.</li> -->
+	<!-- </RomanceAttempt.logRulesRecipient.rulesStrings> -->
   <Breakup.label>szakítás</Breakup.label>
 	<Breakup.logRulesInitiator.rulesStrings>
 		<li>logentry->Szakít vele:[other_nameShortIndef].</li>
 	</Breakup.logRulesInitiator.rulesStrings>
-	<Breakup.logRulesRecipient.rulesStrings>
-		<li>logentry->[other_nameShortIndef] szakított vele.</li>
-	</Breakup.logRulesRecipient.rulesStrings>
+	<!-- <Breakup.logRulesRecipient.rulesStrings> -->
+		<!-- <li>logentry->[other_nameShortIndef] szakított vele.</li> -->
+	<!-- </Breakup.logRulesRecipient.rulesStrings> -->
   <MarriageProposal.label>házassági ajánlat</MarriageProposal.label>
 	<MarriageProposal.logRulesInitiator.rulesStrings>
 		<li>logentry->Megkérte [other_nameShortIndef] kezét.</li>
 	</MarriageProposal.logRulesInitiator.rulesStrings>
-	<MarriageProposal.logRulesRecipient.rulesStrings>
-		<li>logentry->[other_nameShortIndef] megkérte a kezét.</li>
-	</MarriageProposal.logRulesRecipient.rulesStrings>
+	<!-- <MarriageProposal.logRulesRecipient.rulesStrings> -->
+		<!-- <li>logentry->[other_nameShortIndef] megkérte a kezét.</li> -->
+	<!-- </MarriageProposal.logRulesRecipient.rulesStrings> -->
 </LanguageData>

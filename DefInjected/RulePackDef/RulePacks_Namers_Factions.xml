@@ -6,9 +6,9 @@
   
   <!-- Player suggestion namers - used for default name in the 'name faction and/or base' dialogs -->
 
-	<NamerFactionPlayerColonyRandomized.rulePack.rulesStrings>
-		<li>name->[colonyname]</li>
-	</NamerFactionPlayerColonyRandomized.rulePack.rulesStrings>
+	<!-- <NamerFactionPlayerColonyRandomized.rulePack.rulesStrings> -->
+		<!-- <li>name->[colonyname]</li> -->
+	<!-- </NamerFactionPlayerColonyRandomized.rulePack.rulesStrings> -->
 
 	<NamerFactionBasePlayerColony.rulePack.rulesStrings>
 		<li>name->Kolónia</li>
@@ -46,14 +46,14 @@
 	</NamerFactionBasePirate.rulePack.rulesStrings>
   <!-- Outlander -->
 
-	<OutlanderWord.rulePack.rulesStrings>
-		<li>outlanderword->[olsyl][olendsyl]</li>
-		<li>outlanderword->[olsyl][olendsyl]</li>
-		<li>outlanderword->[olsyl][olendsyl]</li>
-		<li>outlanderword->[olsyl][olsyl][olendsyl]</li>
-		<li>outlanderword->[olsyl][olsyl][olendsyl]</li>
-		<li>outlanderword->[olsyl][olsyl][olsyl][olendsyl]</li>
-	</OutlanderWord.rulePack.rulesStrings>
+	<!-- <OutlanderWord.rulePack.rulesStrings> -->
+		<!-- <li>outlanderword->[olsyl][olendsyl]</li> -->
+		<!-- <li>outlanderword->[olsyl][olendsyl]</li> -->
+		<!-- <li>outlanderword->[olsyl][olendsyl]</li> -->
+		<!-- <li>outlanderword->[olsyl][olsyl][olendsyl]</li> -->
+		<!-- <li>outlanderword->[olsyl][olsyl][olendsyl]</li> -->
+		<!-- <li>outlanderword->[olsyl][olsyl][olsyl][olendsyl]</li> -->
+	<!-- </OutlanderWord.rulePack.rulesStrings> -->
 
  
 	<NamerFactionOutlander.rulePack.rulesStrings>
@@ -106,15 +106,15 @@
   
   <!-- Tribe -->
 
-	<TribalWord.rulePack.rulesStrings>
-		<li>tribalword->[tribalwordfile]</li>
-		<li>tribalword->[trsyl][trsyl]</li>
-		<li>tribalword->[trsyl][trsyl]</li>
-		<li>tribalword->[trsyl][trsyl]</li>
-		<li>tribalword->[trsyl][trsyl][trsyl]</li>
-		<li>tribalword->[trsyl][trsyl][trsyl]</li>
-		<li>tribalword->[trsyl][trsyl][trsyl][trsyl]</li>
-	</TribalWord.rulePack.rulesStrings>
+	<!-- <TribalWord.rulePack.rulesStrings> -->
+		<!-- <li>tribalword->[tribalwordfile]</li> -->
+		<!-- <li>tribalword->[trsyl][trsyl]</li> -->
+		<!-- <li>tribalword->[trsyl][trsyl]</li> -->
+		<!-- <li>tribalword->[trsyl][trsyl]</li> -->
+		<!-- <li>tribalword->[trsyl][trsyl][trsyl]</li> -->
+		<!-- <li>tribalword->[trsyl][trsyl][trsyl]</li> -->
+		<!-- <li>tribalword->[trsyl][trsyl][trsyl][trsyl]</li> -->
+	<!-- </TribalWord.rulePack.rulesStrings> -->
 
   
 	<NamerFactionTribal.rulePack.rulesStrings>
@@ -142,7 +142,7 @@
 		<li>tribalword->[syl][syl]</li>
 		<li>tribalword->[syl][syl][syl]</li>
 	</NamerFactionBaseTribal.rulePack.rulesStrings>
-	<NamerFactionSpacer.rulePack.rulesStrings>
-		<li>name->Űrhajós</li>
-	</NamerFactionSpacer.rulePack.rulesStrings>
+	<!-- <NamerFactionSpacer.rulePack.rulesStrings> -->
+		<!-- <li>name->Űrhajós</li> -->
+	<!-- </NamerFactionSpacer.rulePack.rulesStrings> -->
 </LanguageData>

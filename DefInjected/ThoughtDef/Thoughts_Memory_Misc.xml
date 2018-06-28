@@ -26,14 +26,18 @@
   <MyOrganHarvested.stages.0.description>A kolónia kivette egy szervemet! Úgy szednek szét, mint egy öreg motort!</MyOrganHarvested.stages.0.description>
   <WasImprisoned.stages.0.label>bebörtönözve</WasImprisoned.stages.0.label>
   <WasImprisoned.stages.0.description>A kolónia bebörtönzött egy időre. Mint egy ketrecbe zárt állat!</WasImprisoned.stages.0.description>
-  <GreenThumbHappy.stages.0.label>elvetett egy magot</GreenThumbHappy.stages.0.label>
-  <GreenThumbHappy.stages.0.description>A világnak több növényre van szüksége!</GreenThumbHappy.stages.0.description>
+  <!-- <GreenThumbHappy.stages.0.label>elvetett egy magot</GreenThumbHappy.stages.0.label> -->
+  <!-- <GreenThumbHappy.stages.0.description>A világnak több növényre van szüksége!</GreenThumbHappy.stages.0.description> -->
   <Catharsis.stages.0.label>katarzis</Catharsis.stages.0.label>
   <Catharsis.stages.0.description>Jó volt egy kicsit szabadjára engedni az érzéseimet.</Catharsis.stages.0.description>
   <Nuzzled.stages.0.label>hozzá dörgölőztek</Nuzzled.stages.0.label>
   <Nuzzled.stages.0.description>Egy aranyos állat hozzám dörgölőzött.</Nuzzled.stages.0.description>
   <KnowBuriedInSarcophagus.stages.0.label>szarkofágba temették</KnowBuriedInSarcophagus.stages.0.label>
   <KnowBuriedInSarcophagus.stages.0.description>Díszes szarkofágba temettünk valakit. Nyugodjon békében!</KnowBuriedInSarcophagus.stages.0.description>
+  
+  <SoakingWet.stages.0.label>csurom víz</SoakingWet.stages.0.label>
+  <SoakingWet.stages.0.description>Belementem a vízbe és teljesen nedves lettem.</SoakingWet.stages.0.description>
+  
   <ButcheredHumanlikeCorpse.stages.0.label>lemészároltam egy embert</ButcheredHumanlikeCorpse.stages.0.label>
   <ButcheredHumanlikeCorpse.stages.0.description>Lemészároltam valakit, mint egy állatot.</ButcheredHumanlikeCorpse.stages.0.description>
   <KnowButcheredHumanlikeCorpse.stages.0.label>lemészároltunk egy embert</KnowButcheredHumanlikeCorpse.stages.0.label>
@@ -54,8 +58,9 @@
   <KilledHumanlikeBloodlust.stages.0.description>Valakit megöltem! Micsoda érzés!</KilledHumanlikeBloodlust.stages.0.description>
   <DefeatedHostileFactionLeader.stages.0.label>ellenséges vezért ölt ({0})</DefeatedHostileFactionLeader.stages.0.label>
   <DefeatedHostileFactionLeader.stages.0.description>Megpróbáltak elpusztítani minket, de nem hagytuk magunkat!</DefeatedHostileFactionLeader.stages.0.description>
-  <DefeatedMajorEnemy.stages.0.label>legyőzte ezt: {0}</DefeatedMajorEnemy.stages.0.label>
-  <DefeatedMajorEnemy.stages.0.description>Nagy fenyegetést győztem le! Hős vagyok!</DefeatedMajorEnemy.stages.0.description>
+   <DefeatedHostileFactionLeaderOpinion.stages.0.label>ellenséges vezért ölt</DefeatedHostileFactionLeaderOpinion.stages.0.label>
+  <!-- <DefeatedMajorEnemy.stages.0.label>legyőzte ezt: {0}</DefeatedMajorEnemy.stages.0.label> -->
+  <!-- <DefeatedMajorEnemy.stages.0.description>Nagy fenyegetést győztem le! Hős vagyok!</DefeatedMajorEnemy.stages.0.description> -->
   <!-- <ColonistAbandoned.stages.0.label>gyarmatos hátrahagyva</ColonistAbandoned.stages.0.label> -->
   <!-- <ColonistAbandoned.stages.0.description>Valakit hátrahagytunk. Remélem túléli, de aggódom miatta.</ColonistAbandoned.stages.0.description> -->
   <!-- <ColonistAbandonedToDie.stages.0.label>gyarmatos hátrahagyva</ColonistAbandonedToDie.stages.0.label> -->

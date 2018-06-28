@@ -60,6 +60,12 @@
   <Flick.label>kapcsolót vált át</Flick.label>
   <Flick.verb>átkapcsolni</Flick.verb>
   <Flick.gerund>átkapcsolás</Flick.gerund>
+  
+  <BasicReleasePrisoner.label>foglyot kienged</BasicReleasePrisoner.label>
+  <BasicReleasePrisoner.verb>kiengedni</BasicReleasePrisoner.verb>
+  <BasicReleasePrisoner.gerund>kiengedés</BasicReleasePrisoner.gerund>
+
+  
   <DoExecution.label>kivégez</DoExecution.label>
   <DoExecution.verb>kivégezni</DoExecution.verb>
   <DoExecution.gerund>kivégzés</DoExecution.gerund>
@@ -78,6 +84,11 @@
   <ChatWithPrisoner.label>fogollyal beszélget</ChatWithPrisoner.label>
   <ChatWithPrisoner.verb>beszélgetni</ChatWithPrisoner.verb>
   <ChatWithPrisoner.gerund>beszélgetés vele</ChatWithPrisoner.gerund>
+  
+  <HandlingFeedPatientAnimals.label>állatot etet</HandlingFeedPatientAnimals.label>
+  <HandlingFeedPatientAnimals.verb>etetni</HandlingFeedPatientAnimals.verb>
+  <HandlingFeedPatientAnimals.gerund>etetés</HandlingFeedPatientAnimals.gerund>
+  
   <Slaughter.label>állatot öl le</Slaughter.label>
   <Slaughter.verb>leölni</Slaughter.verb>
   <Slaughter.gerund>leölés</Slaughter.gerund>
@@ -141,6 +152,11 @@
   <ConstructRemoveFloors.label>padlót szed fel</ConstructRemoveFloors.label>
   <ConstructRemoveFloors.verb>felszedni</ConstructRemoveFloors.verb>
   <ConstructRemoveFloors.gerund>felszedés</ConstructRemoveFloors.gerund>
+  
+  <ConstructSmoothWalls.label>falat simít</ConstructSmoothWalls.label>
+  <ConstructSmoothWalls.verb>simítani</ConstructSmoothWalls.verb>
+  <ConstructSmoothWalls.gerund>simítás</ConstructSmoothWalls.gerund>
+  
   <ConstructSmoothFloors.label>padlót simít</ConstructSmoothFloors.label>
   <ConstructSmoothFloors.verb>simítani</ConstructSmoothFloors.verb>
   <ConstructSmoothFloors.gerund>simítás</ConstructSmoothFloors.gerund>
@@ -165,18 +181,18 @@
   <DoBillsMachiningTable.label>gépészasztalnál gyárt</DoBillsMachiningTable.label>
   <DoBillsMachiningTable.verb>gyártani</DoBillsMachiningTable.verb>
   <DoBillsMachiningTable.gerund>gyártás</DoBillsMachiningTable.gerund>
-  <DoBillsComponentAssemblyBench.label>alkatrészt gyárt</DoBillsComponentAssemblyBench.label>
-  <DoBillsComponentAssemblyBench.verb>gyártani</DoBillsComponentAssemblyBench.verb>
-  <DoBillsComponentAssemblyBench.gerund>gyártás</DoBillsComponentAssemblyBench.gerund>
+  <DoBillsFabricationBench.label>dolgokat gyárt</DoBillsFabricationBench.label>
+  <DoBillsFabricationBench.verb>gyártani</DoBillsFabricationBench.verb>
+  <DoBillsFabricationBench.gerund>gyártás</DoBillsFabricationBench.gerund>
   <DoBillsMakeApparel.label>ruhát varr</DoBillsMakeApparel.label>
   <DoBillsMakeApparel.verb>varrni</DoBillsMakeApparel.verb>
   <DoBillsMakeApparel.gerund>varrás</DoBillsMakeApparel.gerund>
   <DoBillsSculpt.label>műtárgyat készít</DoBillsSculpt.label>
   <DoBillsSculpt.verb>készíteni</DoBillsSculpt.verb>
   <DoBillsSculpt.gerund>készítés</DoBillsSculpt.gerund>
-  <DoBillsMedicalMechanoidOperation.label>mechanoidot műt</DoBillsMedicalMechanoidOperation.label>
-  <DoBillsMedicalMechanoidOperation.verb>műteni</DoBillsMedicalMechanoidOperation.verb>
-  <DoBillsMedicalMechanoidOperation.gerund>műtés</DoBillsMedicalMechanoidOperation.gerund>
+  <!-- <DoBillsMedicalMechanoidOperation.label>mechanoidot műt</DoBillsMedicalMechanoidOperation.label> -->
+  <!-- <DoBillsMedicalMechanoidOperation.verb>műteni</DoBillsMedicalMechanoidOperation.verb> -->
+  <!-- <DoBillsMedicalMechanoidOperation.gerund>műtés</DoBillsMedicalMechanoidOperation.gerund> -->
   <DoBillsUseCraftingSpot.label>munkahelyen gyárt</DoBillsUseCraftingSpot.label>
   <DoBillsUseCraftingSpot.verb>gyártani</DoBillsUseCraftingSpot.verb>
   <DoBillsUseCraftingSpot.gerund>gyártás</DoBillsUseCraftingSpot.gerund>
@@ -192,6 +208,11 @@
   <DoBillsSmelter.label>kohóban beolvaszt</DoBillsSmelter.label>
   <DoBillsSmelter.verb>beolvasztani</DoBillsSmelter.verb>
   <DoBillsSmelter.gerund>beolvasztás</DoBillsSmelter.gerund>
+ 
+  <RearmTurrets.label>agyút újraélesít</RearmTurrets.label>
+  <RearmTurrets.verb>újraélesíteni</RearmTurrets.verb>
+  <RearmTurrets.gerund>újraélesítés</RearmTurrets.gerund>
+
   <UnloadCarriers.label>szállítót kipakol</UnloadCarriers.label>
   <UnloadCarriers.verb>kipakolni</UnloadCarriers.verb>
   <UnloadCarriers.gerund>kipakolás</UnloadCarriers.gerund>
@@ -204,9 +225,9 @@
   <Strip.label>levetkőztet</Strip.label>
   <Strip.verb>levetkőztetni</Strip.verb>
   <Strip.gerund>levetkőztetés</Strip.gerund>
-  <BuryCorpses.label>tetemet eltemet</BuryCorpses.label>
-  <BuryCorpses.verb>eltemetni</BuryCorpses.verb>
-  <BuryCorpses.gerund>eltemetés</BuryCorpses.gerund>
+  <!-- <BuryCorpses.label>tetemet eltemet</BuryCorpses.label> -->
+  <!-- <BuryCorpses.verb>eltemetni</BuryCorpses.verb> -->
+  <!-- <BuryCorpses.gerund>eltemetés</BuryCorpses.gerund> -->
   <HaulCorpses.label>tetemet cipel</HaulCorpses.label>
   <HaulCorpses.verb>cipelni</HaulCorpses.verb>
   <HaulCorpses.gerund>cipelés</HaulCorpses.gerund>
@@ -234,6 +255,19 @@
   <HaulGeneral.label>mindenfélét cipel</HaulGeneral.label>
   <HaulGeneral.verb>cipelni</HaulGeneral.verb>
   <HaulGeneral.gerund>cipelés</HaulGeneral.gerund>
+  
+  <DeliverResourcesToFrames.label>állványhoz anyagot visz</DeliverResourcesToFrames.label>
+  <DeliverResourcesToFrames.verb>csinálni</DeliverResourcesToFrames.verb>
+  <DeliverResourcesToFrames.gerund>készítés</DeliverResourcesToFrames.gerund>
+
+  <DeliverResourcesToBlueprints.label>tervrajzhoz anyagot visz</DeliverResourcesToBlueprints.label>
+  <DeliverResourcesToBlueprints.verb>csinálni</DeliverResourcesToBlueprints.verb>
+  <DeliverResourcesToBlueprints.gerund>készítés</DeliverResourcesToBlueprints.gerund>
+
+  <HaulMerge.label>egyesít</HaulMerge.label>
+  <HaulMerge.verb>egyesíteni</HaulMerge.verb>
+  <HaulMerge.gerund>egyesítés</HaulMerge.gerund>
+  
   <CleanClearSnow.label>havat lapátol</CleanClearSnow.label>
   <CleanClearSnow.verb>lapátolni</CleanClearSnow.verb>
   <CleanClearSnow.gerund>lapátolás</CleanClearSnow.gerund>

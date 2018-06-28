@@ -1,81 +1,81 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<NamerUtility.rulePack.rulesStrings>
-		<li>name->[metaprefix] [standardname]</li>
-		<li>name(p=0.05)->[storyname] [suffix]</li>
-		<li>standardname->[prefix] [suffix]</li>
-		<li>metaprefix(p=10)-></li>
-		<li>metaprefix->[direction]</li>
-		<li>metaprefix->[derivative]</li>
-		<li>derivative->nagy</li>
-		<li>derivative->nagyobb</li>
-		<li>derivative->kisebb</li>
-		<li>derivative->óriás</li>
-		<li>derivative->új</li>
-		<li>derivative->öreg</li>
-		<li>prefix(p=0.5)->[animal]</li>
-		<li>prefix(p=0.5)->[color]</li>
-		<li>prefix(p=0.3)->[color][animal]</li>
-		<li>prefix(p=0.2)->[color] [animal]</li>
-		<li>prefix(p=0.3)->[naturaladjective][animal]</li>
-		<li>prefix(p=0.2)->[naturaladjective] [animal]</li>
-		<li>prefix(p=0.3)->[animal][bodypart]</li>
-		<li>prefix(p=0.2)->[animal] [bodypart]</li>
-		<li>prefix->[color][naturalobject]</li>
-		<li>prefix->[naturaladjective][bodypart]</li>
-		<li>prefix(p=2)->[tribalword]</li>
-		<li>prefix(p=2)->[outlanderword]</li>
-		<li>storyname->[subject] [storyderivative] butasága</li>
-		<li>storyname->[subject] [storyderivative] bűne</li>
-		<li>storyname->[subject] [storyderivative] őrülete</li>
-		<li>storyname->[subject] [storyderivative] hibája</li>
-		<li>storyname->[subject] [storyderivative] vétsége</li>
-		<li>storyname->[subject] [storyderivative] botlása</li>
-		<li>storyname->[subject] [storyderivative] tévedése</li>
-		<li>storyname->[subject] [storyderivative] öröme</li>
-		<li>storyname(p=0.5)->[subject] öröme</li>
-		<li>storyname->[subject] [storyderivative] gyönyörűsége</li>
-		<li>storyname->[subject] [storyderivative] csodája</li>
-		<li>storyname->[subject] [storyderivative] büszkesége</li>
-		<li>storyname(p=0.5)->[subject] büszkesége</li>
-		<li>storyname->[subject] [storyderivative] ékköve</li>
-		<li>storyname->[subject] [storyderivative] jutalma</li>
-		<li>storyname->[subject] [storyderivative] vérdíja</li>
-		<li>storyname->[subject] [storyderivative] becsülete</li>
-		<li>storyname->[subject] [storyderivative] nyereménye</li>
-		<li>storyname->[subject] [storyderivative] trófeája</li>
-		<li>storyname->[subject] [storyderivative] gőgje</li>
-		<li>storyname->[subject] [storyderivative] önteltsége</li>
-		<li>storyname->[subject] [storyderivative] padja</li>
-		<li>storyname->[subject] [storyderivative] vesztesége</li>
-		<li>storyname->[subject] [storyderivative] adóssága</li>
-		<li>storyname->[subject] [storyderivative] összeomlása</li>
-		<li>storyname->[subject] [storyderivative] pusztulása</li>
-		<li>storyname->[subject] [storyderivative] kataklizmája</li>
-		<li>storyname->[subject] [storyderivative] romjai</li>
-		<li>storyname->[subject] [storyderivative] összeomlása</li>
-		<li>storyname->[subject] [storyderivative] végzete</li>
-		<li>storyname->[subject] [storyderivative] bukása</li>
-		<li>storyname->[subject] [storyderivative] end</li>
-		<li>storyname(p=0.5)->[subject] vége</li>
-		<li>storyname->[subject] [storyderivative] visszavonulása</li>
-		<li>storyname->[subject] [storyderivative] vívmánya</li>
-		<li>storyname->[subject] [storyderivative] fináléja</li>
-		<li>storyname->[subject] [storyderivative] blöffje</li>
-		<li>storyname->[subject] [storyderivative] trükkje</li>
-		<li>storyname->[subject] [storyderivative] megtévesztése</li>
-		<li>storyname->[subject] [storyderivative] látszata</li>
-		<li>storyname->[subject] [storyderivative] csalása</li>
-		<li>storyname(p=0.5)->[subject] [gore]</li>
-		<li>storyname->[subject] [bodypart]</li>
-		<li>storyderivative-></li>
-		<li>storyderivative(p=0.1)->[derivative]</li>
-		<li>subject(p=5)->[personname]</li>
-		<li>subject(p=1)->[animal]</li>
-		<li>subject(p=1)->[tribalword]</li>
-		<li>subject(p=1)->[outlanderword]</li>
-	</NamerUtility.rulePack.rulesStrings>
+	<!-- <NamerUtility.rulePack.rulesStrings> -->
+		<!-- <li>name->[metaprefix] [standardname]</li> -->
+		<!-- <li>name(p=0.05)->[storyname] [suffix]</li> -->
+		<!-- <li>standardname->[prefix] [suffix]</li> -->
+		<!-- <li>metaprefix(p=10)-></li> -->
+		<!-- <li>metaprefix->[direction]</li> -->
+		<!-- <li>metaprefix->[derivative]</li> -->
+		<!-- <li>derivative->nagy</li> -->
+		<!-- <li>derivative->nagyobb</li> -->
+		<!-- <li>derivative->kisebb</li> -->
+		<!-- <li>derivative->óriás</li> -->
+		<!-- <li>derivative->új</li> -->
+		<!-- <li>derivative->öreg</li> -->
+		<!-- <li>prefix(p=0.5)->[animal]</li> -->
+		<!-- <li>prefix(p=0.5)->[color]</li> -->
+		<!-- <li>prefix(p=0.3)->[color][animal]</li> -->
+		<!-- <li>prefix(p=0.2)->[color] [animal]</li> -->
+		<!-- <li>prefix(p=0.3)->[naturaladjective][animal]</li> -->
+		<!-- <li>prefix(p=0.2)->[naturaladjective] [animal]</li> -->
+		<!-- <li>prefix(p=0.3)->[animal][bodypart]</li> -->
+		<!-- <li>prefix(p=0.2)->[animal] [bodypart]</li> -->
+		<!-- <li>prefix->[color][naturalobject]</li> -->
+		<!-- <li>prefix->[naturaladjective][bodypart]</li> -->
+		<!-- <li>prefix(p=2)->[tribalword]</li> -->
+		<!-- <li>prefix(p=2)->[outlanderword]</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] butasága</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] bűne</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] őrülete</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] hibája</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] vétsége</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] botlása</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] tévedése</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] öröme</li> -->
+		<!-- <li>storyname(p=0.5)->[subject] öröme</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] gyönyörűsége</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] csodája</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] büszkesége</li> -->
+		<!-- <li>storyname(p=0.5)->[subject] büszkesége</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] ékköve</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] jutalma</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] vérdíja</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] becsülete</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] nyereménye</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] trófeája</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] gőgje</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] önteltsége</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] padja</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] vesztesége</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] adóssága</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] összeomlása</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] pusztulása</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] kataklizmája</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] romjai</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] összeomlása</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] végzete</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] bukása</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] end</li> -->
+		<!-- <li>storyname(p=0.5)->[subject] vége</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] visszavonulása</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] vívmánya</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] fináléja</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] blöffje</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] trükkje</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] megtévesztése</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] látszata</li> -->
+		<!-- <li>storyname->[subject] [storyderivative] csalása</li> -->
+		<!-- <li>storyname(p=0.5)->[subject] [gore]</li> -->
+		<!-- <li>storyname->[subject] [bodypart]</li> -->
+		<!-- <li>storyderivative-></li> -->
+		<!-- <li>storyderivative(p=0.1)->[derivative]</li> -->
+		<!-- <li>subject(p=5)->[personname]</li> -->
+		<!-- <li>subject(p=1)->[animal]</li> -->
+		<!-- <li>subject(p=1)->[tribalword]</li> -->
+		<!-- <li>subject(p=1)->[outlanderword]</li> -->
+	<!-- </NamerUtility.rulePack.rulesStrings> -->
 
 	<NamerMountainRange.rulePack.rulesStrings>
 		<li>standardname(p=0.2)->hegy [prefix]</li>

@@ -18,12 +18,12 @@
   <Brawler.degreeDatas.0.description>[PAWN_nameDef] szereti a harcot közvetlen közelről intézni. Pontossága nagyban megnövekszik, ha közelharcos fegyvert használhat, de boldogtalan lesz, ha lőfegyvert adnak a kezébe.</Brawler.degreeDatas.0.description>
   <Masochist.degreeDatas.0.label>mazochista</Masochist.degreeDatas.0.label>
   <Masochist.degreeDatas.0.description>[PAWN_nameDef] számára van valami izgalmas abban, ha fájdalmat okoznak neki. Nem tudja miért van ez, egyszerűen így működik.</Masochist.degreeDatas.0.description>
-  <Prosthophile.degreeDatas.0.label>protézis imádó</Prosthophile.degreeDatas.0.label>
-  <Prosthophile.degreeDatas.0.description>[PAWN_nameDef] korlátozva érzi magát törékeny emberi testében. Gyakran álmodik róla, hogy bionikus testrészt szerez.</Prosthophile.degreeDatas.0.description>
-  <Prosthophobe.degreeDatas.0.label>protézis fóbiás</Prosthophobe.degreeDatas.0.label>
-  <Prosthophobe.degreeDatas.0.description>[PAWN_nameDef] úgy hiszi, hogy az emberi test okkal korlátozott képességű. Számára a bionikus testrészek nem etikusak.</Prosthophobe.degreeDatas.0.description>
-  <GreenThumb.degreeDatas.0.label>földtúró</GreenThumb.degreeDatas.0.label>
-  <GreenThumb.degreeDatas.0.description>[PAWN_nameDef] szenvedélyes kertész. Hangulati bónuszt kap minden egyes növényért, amit ő ültet el.</GreenThumb.degreeDatas.0.description>
+  <Transhumanist.degreeDatas.0.label>protézis imádó</Transhumanist.degreeDatas.0.label>
+  <Transhumanist.degreeDatas.0.description>[PAWN_nameDef] korlátozva érzi magát törékeny emberi testében. Gyakran álmodik róla, hogy bionikus testrészt szerez.</Transhumanist.degreeDatas.0.description>
+  <BodyPurist.degreeDatas.0.label>protézis fóbiás</BodyPurist.degreeDatas.0.label>
+  <BodyPurist.degreeDatas.0.description>[PAWN_nameDef] úgy hiszi, hogy az emberi test okkal korlátozott képességű. Számára a bionikus testrészek nem etikusak.</BodyPurist.degreeDatas.0.description>
+  <!-- <GreenThumb.degreeDatas.0.label>földtúró</GreenThumb.degreeDatas.0.label> -->
+  <!-- <GreenThumb.degreeDatas.0.description>[PAWN_nameDef] szenvedélyes kertész. Hangulati bónuszt kap minden egyes növényért, amit ő ültet el.</GreenThumb.degreeDatas.0.description> -->
   <NightOwl.degreeDatas.0.label>éjjeli bagoly</NightOwl.degreeDatas.0.label>
   <NightOwl.degreeDatas.0.description>[PAWN_nameDef] szeret éjjel dolgozni. Hangulata javul, ha éjjel ébren lehet és romlik, ha nappal kell fent lennie.</NightOwl.degreeDatas.0.description>
   <Greedy.degreeDatas.0.label>kapzsi</Greedy.degreeDatas.0.label>
@@ -52,8 +52,21 @@
 
   <FastLearner.degreeDatas.0.label>gyorsan tanuló</FastLearner.degreeDatas.0.label>
   <FastLearner.degreeDatas.0.description>[PAWN_nameDef] nagyon gyorsan megérti a dolgokat. Másoknál sokkal hamarabb elsajátít bármit.</FastLearner.degreeDatas.0.description>
+  
+  <Tunneler.degreeDatas.0.label>barlangi</Tunneler.degreeDatas.0.label>
+  <Tunneler.degreeDatas.0.description>[PAWN_nameDef] nem igényli a teret. Sosem érez bezártságot vagy kabinlázat, akármennyit is van bezárva a négy fal közé.</Tunneler.degreeDatas.0.description>
 
-  <SuperImmune.degreeDatas.0.label>szuper-immúnis</SuperImmune.degreeDatas.0.label>
-  <SuperImmune.degreeDatas.0.description>[PAWN_nameDef] immunrendszere nagyon erős. Sokkal gyorsabban lesz immúnis betegségekre, mint mások és túlél olyan nyavalyákat, amik másokat megölnének.</SuperImmune.degreeDatas.0.description>
+   
+  <GreatMemory.degreeDatas.0.label>remek memóriájú</GreatMemory.degreeDatas.0.label>
+  <GreatMemory.degreeDatas.0.description>[PAWN_nameDef] emlékezőképessége remek. Nem használt készségeit fele olyan gyorsan veszíti el, mint mások.</GreatMemory.degreeDatas.0.description>
+
+  <Tough.degreeDatas.0.label>szívós</Tough.degreeDatas.0.label>
+  <Tough.degreeDatas.0.description>[PAWN_nameDef] vastag bőrű, zömök, erős csontozatú. Kevesebbet sebződik, mint mások. Rendkívül nehéz megölni.</Tough.degreeDatas.0.description>
+
+  <Gourmand.degreeDatas.0.label>ínyenc</Gourmand.degreeDatas.0.label>
+  <Gourmand.degreeDatas.0.description>[PAWN_nameDef] élete az ételek körül forog. Hamar éhes lesz, és ha rossz hangulata van, gyakran vidítja fel magát evéssel.</Gourmand.degreeDatas.0.description>
+
+  <QuickSleeper.degreeDatas.0.label>gyors alvó</QuickSleeper.degreeDatas.0.label>
+  <QuickSleeper.degreeDatas.0.description>[PAWN_nameDef] kevesebb alvással is beéri, mint mások. Akár ágyon vagy földön alszik, az átlagos alvásmennyiség kétharmada is elég neki a teljes pihentséghez.</QuickSleeper.degreeDatas.0.description>
 
 </LanguageData>
