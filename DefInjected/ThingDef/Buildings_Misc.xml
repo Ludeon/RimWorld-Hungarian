@@ -3,7 +3,7 @@
   <OrbitalTradeBeacon.label>orbitális jeladó</OrbitalTradeBeacon.label>
   <OrbitalTradeBeacon.description>Orbitális kereskedéshez szükséges. csak olyan árucikkeket lehet eladni, amik a jeladó közelében vannak. Beltérben is el lehet helyezni.</OrbitalTradeBeacon.description>
   <Blueprint_OrbitalTradeBeacon.label>orbitális jeladó (tervrajz)</Blueprint_OrbitalTradeBeacon.label>
-  <Blueprint_OrbitalTradeBeacon_Install.label>orbitális jeladó (tervrajz)</Blueprint_OrbitalTradeBeacon_Install.label>
+<!--   <Blueprint_OrbitalTradeBeacon_Install.label>orbitális jeladó (tervrajz)</Blueprint_OrbitalTradeBeacon_Install.label> -->
   <Frame_OrbitalTradeBeacon.label>orbitális jeladó (építmény)</Frame_OrbitalTradeBeacon.label>
   <Frame_OrbitalTradeBeacon.description>Orbitális kereskedéshez szükséges. csak olyan árucikkeket lehet eladni, amik a jeladó közelében vannak. Beltérben is el lehet helyezni.</Frame_OrbitalTradeBeacon.description>
   <CommsConsole.label>komm. konzol</CommsConsole.label>
@@ -15,7 +15,7 @@
   <FirefoamPopper.description>Tűzzel való érintkezésre vagy kézi aktiválásra habot locsol szét egy kör alakú területen maga körül.</FirefoamPopper.description>
   <FirefoamPopper.comps.CompUsable.useLabel>Habot kiereszt</FirefoamPopper.comps.CompUsable.useLabel>
   <Blueprint_FirefoamPopper.label>habbal oltó (tervrajz)</Blueprint_FirefoamPopper.label>
-  <Blueprint_FirefoamPopper_Install.label>habbal oltó (tervrajz)</Blueprint_FirefoamPopper_Install.label>
+<!--   <Blueprint_FirefoamPopper_Install.label>habbal oltó (tervrajz)</Blueprint_FirefoamPopper_Install.label> -->
   <Frame_FirefoamPopper.label>habbal oltó (építmény)</Frame_FirefoamPopper.label>
   <Frame_FirefoamPopper.description>Tűzzel való érintkezésre vagy kézi aktiválásra habot locsol szét egy kör alakú területen maga körül.</Frame_FirefoamPopper.description>
   <MoisturePump.label>talajvíz pumpa</MoisturePump.label>
@@ -46,19 +46,19 @@
   <MultiAnalyzer.label>multi analizátor</MultiAnalyzer.label>
   <MultiAnalyzer.description>Növeli a kutatás sebességét. Fejlett laborasztal mellé kell telepíteni. Egy multianalizátort csak egy laborasztallal lehet összekötni.</MultiAnalyzer.description>
   <Blueprint_MultiAnalyzer.label>multi analizátor (tervrajz)</Blueprint_MultiAnalyzer.label>
-  <Blueprint_MultiAnalyzer_Install.label>multi analizátor (tervrajz)</Blueprint_MultiAnalyzer_Install.label>
+<!--   <Blueprint_MultiAnalyzer_Install.label>multi analizátor (tervrajz)</Blueprint_MultiAnalyzer_Install.label> -->
   <Frame_MultiAnalyzer.label>multi analizátor (építmény)</Frame_MultiAnalyzer.label>
   <Frame_MultiAnalyzer.description>Növeli a kutatás sebességét. Fejlett laborasztal mellé kell telepíteni. Egy multianalizátort csak egy laborasztallal lehet összekötni.</Frame_MultiAnalyzer.description>
   <VitalsMonitor.label>életfunkció monitor</VitalsMonitor.label>
   <VitalsMonitor.description>Növeli a betegellátás minőségét. Betegágy mellé kell telepíteni. Egy életfunkció monitor csak egy betegággyal lehet összekötve.</VitalsMonitor.description>
   <Blueprint_VitalsMonitor.label>életfunkció monitor (tervrajz)</Blueprint_VitalsMonitor.label>
-  <Blueprint_VitalsMonitor_Install.label>életfunkció monitor (tervrajz)</Blueprint_VitalsMonitor_Install.label>
+<!--   <Blueprint_VitalsMonitor_Install.label>életfunkció monitor (tervrajz)</Blueprint_VitalsMonitor_Install.label> -->
   <Frame_VitalsMonitor.label>életfunkció monitor (építmény)</Frame_VitalsMonitor.label>
   <Frame_VitalsMonitor.description>Növeli a betegellátás minőségét. Betegágy mellé kell telepíteni. Egy életfunkció monitor csak egy betegággyal lehet összekötve.</Frame_VitalsMonitor.description>
   <ToolCabinet.label>szerszám szekrény</ToolCabinet.label>
   <ToolCabinet.description>Növeli az előállítás sebességét. Munkaasztal mellé kell telepíteni. Egy munkaasztal két szerszámszekrénnyel lehet összeköttetésben.</ToolCabinet.description>
   <Blueprint_ToolCabinet.label>szerszám szekrény (tervrajz)</Blueprint_ToolCabinet.label>
-  <Blueprint_ToolCabinet_Install.label>szerszám szekrény (tervrajz)</Blueprint_ToolCabinet_Install.label>
+<!--   <Blueprint_ToolCabinet_Install.label>szerszám szekrény (tervrajz)</Blueprint_ToolCabinet_Install.label> -->
   <Frame_ToolCabinet.label>szerszám szekrény (építmény)</Frame_ToolCabinet.label>
   <Frame_ToolCabinet.description>Növeli az előállítás sebességét. Munkaasztal mellé kell telepíteni. Egy munkaasztal két szerszámszekrénnyel lehet összeköttetésben.</Frame_ToolCabinet.description>
   <Grave.label>sír</Grave.label>

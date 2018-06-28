@@ -8,7 +8,7 @@
   <Turret_MiniTurret.label>robotágyú</Turret_MiniTurret.label>
   <Turret_MiniTurret.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</Turret_MiniTurret.description>
   <Blueprint_Turret_MiniTurret.label>robotágyú (tervrajz)</Blueprint_Turret_MiniTurret.label>
-  <Blueprint_Turret_MiniTurret_Install.label>robotágyú (tervrajz)</Blueprint_Turret_MiniTurret_Install.label>
+<!--   <Blueprint_Turret_MiniTurret_Install.label>robotágyú (tervrajz)</Blueprint_Turret_MiniTurret_Install.label> -->
   <Frame_Turret_MiniTurret.label>robotágyú (építmény)</Frame_Turret_MiniTurret.label>
   <Frame_Turret_MiniTurret.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</Frame_Turret_MiniTurret.description>
   <Bullet_MiniTurret.label>robotágyú lőszer </Bullet_MiniTurret.label>
@@ -31,7 +31,7 @@
   <Turret_Mortar.label>tarack (robbanó)</Turret_Mortar.label>
   <Turret_Mortar.description>Tarack, mely robbanó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_Mortar.description>
   <Blueprint_Turret_Mortar.label>tarack (tervrajz)</Blueprint_Turret_Mortar.label>
-  <Blueprint_Turret_Mortar_Install.label>tarack (tervrajz)</Blueprint_Turret_Mortar_Install.label>
+<!--   <Blueprint_Turret_Mortar_Install.label>tarack (tervrajz)</Blueprint_Turret_Mortar_Install.label> -->
   <Frame_Turret_Mortar.label>tarack (építmény)</Frame_Turret_Mortar.label>
   <Frame_Turret_Mortar.description>Tarack, mely robbanó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Frame_Turret_Mortar.description>
   <Artillery_Mortar.label>tarack</Artillery_Mortar.label>
@@ -41,7 +41,7 @@
   <!-- <Turret_MortarIncendiary.label>gyújtótarack</Turret_MortarIncendiary.label> -->
   <!-- <Turret_MortarIncendiary.description>Tarack, mely gyújtó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarIncendiary.description> -->
   <!-- <Turret_MortarIncendiary_Blueprint.label>gyújtótarack (tervrajz)</Turret_MortarIncendiary_Blueprint.label> -->
-  <!-- <Turret_MortarIncendiary_Blueprint_Install.label>gyújtótarack (tervrajz)</Turret_MortarIncendiary_Blueprint_Install.label> -->
+ <!-- <Turret_MortarIncendiary_Blueprint_Install.label>gyújtótarack (tervrajz)</Turret_MortarIncendiary_Blueprint_Install.label> -->
   <!-- <Turret_MortarIncendiary_Frame.label>gyújtótarack (építmény)</Turret_MortarIncendiary_Frame.label> -->
   <!-- <Turret_MortarIncendiary_Frame.description>Tarack, mely gyújtó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarIncendiary_Frame.description> -->
   <!-- <Artillery_MortarIncendiary.label>gyújtótarack</Artillery_MortarIncendiary.label> -->
@@ -50,7 +50,7 @@
   <!-- <Turret_MortarEMP.label>EMP-tarack</Turret_MortarEMP.label> -->
   <!-- <Turret_MortarEMP.description>Tarack, mely EMP töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarEMP.description> -->
   <!-- <Turret_MortarEMP_Blueprint.label>EMP-tarack (tervrajz)</Turret_MortarEMP_Blueprint.label> -->
-  <!-- <Turret_MortarEMP_Blueprint_Install.label>EMP-tarack (tervrajz)</Turret_MortarEMP_Blueprint_Install.label> -->
+ <!-- <Turret_MortarEMP_Blueprint_Install.label>EMP-tarack (tervrajz)</Turret_MortarEMP_Blueprint_Install.label> -->
   <!-- <Turret_MortarEMP_Frame.label>EMP-tarack (építmény)</Turret_MortarEMP_Frame.label> -->
   <!-- <Turret_MortarEMP_Frame.description>Tarack, mely EMP töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_MortarEMP_Frame.description> -->
   <!-- <Artillery_MortarEMP.label>EMP-tarack</Artillery_MortarEMP.label> -->
