@@ -1,91 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AteWithoutTable.stages.0.label>asztal nélkül evett</AteWithoutTable.stages.0.label>
-  <AteWithoutTable.stages.0.description>A padlóról kellett egyek. Kaphatnék egy asztalt esetleg?</AteWithoutTable.stages.0.description>
-  <SleepDisturbed.stages.0.label>rosszul aludt</SleepDisturbed.stages.0.label>
-  <SleepDisturbed.stages.0.description>Nem tudtam nyugodtan aludni, folyamatosan mászkáltak körülöttem. Egy saját szoba megoldaná ezt a problémát.</SleepDisturbed.stages.0.description>
-  <NewColonyOptimism.stages.0.label>új kolónia optimizmus</NewColonyOptimism.stages.0.label>
-  <NewColonyOptimism.stages.0.description>Most érkeztünk. Kemény helyzet, de izgalmas új kolóniát alapítani.</NewColonyOptimism.stages.0.description>
-  <NewColonyHope.stages.0.label>új kolónia remény</NewColonyHope.stages.0.label>
-  <NewColonyHope.stages.0.description>Kezdek hozzászokni, de még mindig érdekes a helyzet. Remélem összejönnek a dolgok...</NewColonyHope.stages.0.description>
-  <SleptOutside.stages.0.label>kültérben aludt</SleptOutside.stages.0.label>
-  <SleptOutside.stages.0.description>A szabad ég alatt kellett aludnom, kitéve az elemeknek.</SleptOutside.stages.0.description>
-  <SleptOnGround.stages.0.label>a padlón aludt</SleptOnGround.stages.0.label>
-  <SleptOnGround.stages.0.description>A padlón kellett aludnom, akár egy állatnak.</SleptOnGround.stages.0.description>
-  <SleptInCold.stages.0.label>hidegben aludt</SleptInCold.stages.0.label>
-  <SleptInCold.stages.0.description>Hidegben kellett aludnom, nagyon kéne egy fűtőtest.</SleptInCold.stages.0.description>
-  <SleptInHeat.stages.0.label>hőségben aludt</SleptInHeat.stages.0.label>
-  <SleptInHeat.stages.0.description>Hőségben kellett aludnom. Kaphatnék légkondicionálót?</SleptInHeat.stages.0.description>
-  <KnowPrisonerSold.stages.0.label>fogoly eladva</KnowPrisonerSold.stages.0.label>
-  <KnowPrisonerSold.stages.0.description>A kolónia eladott egy foglyot rabszolgának. Nyugtalanító gondolat.</KnowPrisonerSold.stages.0.description>
-  <KnowGuestOrganHarvested.stages.0.label>külső szervdonor</KnowGuestOrganHarvested.stages.0.label>
-  <KnowGuestOrganHarvested.stages.0.description>Valaki eltávolította egy idegen testrészét. Szörnyű valakit így szétbontani, ha nincsen választási lehetősége.</KnowGuestOrganHarvested.stages.0.description>
-  <KnowColonistOrganHarvested.stages.0.label>gyarmatos szervdonor</KnowColonistOrganHarvested.stages.0.label>
-  <KnowColonistOrganHarvested.stages.0.description>Valaki eltávolította egy gyarmatos testrészét. Szörnyű valakit így szétbontani, ha nincsen választási lehetősége.</KnowColonistOrganHarvested.stages.0.description>
-  <MyOrganHarvested.stages.0.label>én, mint szervdonor</MyOrganHarvested.stages.0.label>
-  <MyOrganHarvested.stages.0.description>A kolónia kivette egy szervemet! Úgy szednek szét, mint egy öreg motort!</MyOrganHarvested.stages.0.description>
-  <WasImprisoned.stages.0.label>bebörtönözve</WasImprisoned.stages.0.label>
-  <WasImprisoned.stages.0.description>A kolónia bebörtönzött egy időre. Mint egy ketrecbe zárt állat!</WasImprisoned.stages.0.description>
+  <AteWithoutTable.stages.ate_without_table.label>asztal nélkül evett</AteWithoutTable.stages.ate_without_table.label>
+  <AteWithoutTable.stages.ate_without_table.description>A padlóról kellett egyek. Kaphatnék egy asztalt esetleg?</AteWithoutTable.stages.ate_without_table.description>
+  <SleepDisturbed.stages.disturbed_sleep.label>rosszul aludt</SleepDisturbed.stages.disturbed_sleep.label>
+  <SleepDisturbed.stages.disturbed_sleep.description>Nem tudtam nyugodtan aludni, folyamatosan mászkáltak körülöttem. Egy saját szoba megoldaná ezt a problémát.</SleepDisturbed.stages.disturbed_sleep.description>
+  <NewColonyOptimism.stages.initial_optimism.label>új kolónia optimizmus</NewColonyOptimism.stages.initial_optimism.label>
+  <NewColonyOptimism.stages.initial_optimism.description>Most érkeztünk. Kemény helyzet, de izgalmas új kolóniát alapítani.</NewColonyOptimism.stages.initial_optimism.description>
+  <NewColonyHope.stages.initial_hope.label>új kolónia remény</NewColonyHope.stages.initial_hope.label>
+  <NewColonyHope.stages.initial_hope.description>Kezdek hozzászokni, de még mindig érdekes a helyzet. Remélem összejönnek a dolgok...</NewColonyHope.stages.initial_hope.description>
+  <SleptOutside.stages.slept_outside.label>kültérben aludt</SleptOutside.stages.slept_outside.label>
+  <SleptOutside.stages.slept_outside.description>A szabad ég alatt kellett aludnom, kitéve az elemeknek.</SleptOutside.stages.slept_outside.description>
+  <SleptOnGround.stages.slept_on_ground.label>a padlón aludt</SleptOnGround.stages.slept_on_ground.label>
+  <SleptOnGround.stages.slept_on_ground.description>A padlón kellett aludnom, akár egy állatnak.</SleptOnGround.stages.slept_on_ground.description>
+  <SleptInCold.stages.slept_in_the_cold.label>hidegben aludt</SleptInCold.stages.slept_in_the_cold.label>
+  <SleptInCold.stages.slept_in_the_cold.description>Hidegben kellett aludnom, nagyon kéne egy fűtőtest.</SleptInCold.stages.slept_in_the_cold.description>
+  <SleptInHeat.stages.slept_in_the_heat.label>hőségben aludt</SleptInHeat.stages.slept_in_the_heat.label>
+  <SleptInHeat.stages.slept_in_the_heat.description>Hőségben kellett aludnom. Kaphatnék légkondicionálót?</SleptInHeat.stages.slept_in_the_heat.description>
+  <KnowPrisonerSold.stages.a_prisoner_was_sold.label>fogoly eladva</KnowPrisonerSold.stages.a_prisoner_was_sold.label>
+  <KnowPrisonerSold.stages.a_prisoner_was_sold.description>A kolónia eladott egy foglyot rabszolgának. Nyugtalanító gondolat.</KnowPrisonerSold.stages.a_prisoner_was_sold.description>
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.label>külső szervdonor</KnowGuestOrganHarvested.stages.someones_organ_harvested.label>
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>Valaki eltávolította egy idegen testrészét. Szörnyű valakit így szétbontani, ha nincsen választási lehetősége.</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>gyarmatos szervdonor</KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>Valaki eltávolította egy gyarmatos testrészét. Szörnyű valakit így szétbontani, ha nincsen választási lehetősége.</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
+  <MyOrganHarvested.stages.my_organ_harvested.label>én, mint szervdonor</MyOrganHarvested.stages.my_organ_harvested.label>
+  <MyOrganHarvested.stages.my_organ_harvested.description>A kolónia kivette egy szervemet! Úgy szednek szét, mint egy öreg motort!</MyOrganHarvested.stages.my_organ_harvested.description>
+  <WasImprisoned.stages.imprisoned.label>bebörtönözve</WasImprisoned.stages.imprisoned.label>
+  <WasImprisoned.stages.imprisoned.description>A kolónia bebörtönzött egy időre. Mint egy ketrecbe zárt állat!</WasImprisoned.stages.imprisoned.description>
   <!-- <GreenThumbHappy.stages.0.label>elvetett egy magot</GreenThumbHappy.stages.0.label> -->
   <!-- <GreenThumbHappy.stages.0.description>A világnak több növényre van szüksége!</GreenThumbHappy.stages.0.description> -->
-  <Catharsis.stages.0.label>katarzis</Catharsis.stages.0.label>
-  <Catharsis.stages.0.description>Jó volt egy kicsit szabadjára engedni az érzéseimet.</Catharsis.stages.0.description>
-  <Nuzzled.stages.0.label>hozzá dörgölőztek</Nuzzled.stages.0.label>
-  <Nuzzled.stages.0.description>Egy aranyos állat hozzám dörgölőzött.</Nuzzled.stages.0.description>
-  <KnowBuriedInSarcophagus.stages.0.label>szarkofágba temették</KnowBuriedInSarcophagus.stages.0.label>
-  <KnowBuriedInSarcophagus.stages.0.description>Díszes szarkofágba temettünk valakit. Nyugodjon békében!</KnowBuriedInSarcophagus.stages.0.description>
+  <Catharsis.stages.catharsis.label>katarzis</Catharsis.stages.catharsis.label>
+  <Catharsis.stages.catharsis.description>Jó volt egy kicsit szabadjára engedni az érzéseimet.</Catharsis.stages.catharsis.description>
+  <Nuzzled.stages.nuzzled.label>hozzá dörgölőztek</Nuzzled.stages.nuzzled.label>
+  <Nuzzled.stages.nuzzled.description>Egy aranyos állat hozzám dörgölőzött.</Nuzzled.stages.nuzzled.description>
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>szarkofágba temették</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>Díszes szarkofágba temettünk valakit. Nyugodjon békében!</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
   
-  <SoakingWet.stages.0.label>csurom víz</SoakingWet.stages.0.label>
-  <SoakingWet.stages.0.description>Belementem a vízbe és teljesen nedves lettem.</SoakingWet.stages.0.description>
+  <SoakingWet.stages.soaking_wet.label>csurom víz</SoakingWet.stages.soaking_wet.label>
+  <SoakingWet.stages.soaking_wet.description>Belementem a vízbe és teljesen nedves lettem.</SoakingWet.stages.soaking_wet.description>
   
-  <ButcheredHumanlikeCorpse.stages.0.label>lemészároltam egy embert</ButcheredHumanlikeCorpse.stages.0.label>
-  <ButcheredHumanlikeCorpse.stages.0.description>Lemészároltam valakit, mint egy állatot.</ButcheredHumanlikeCorpse.stages.0.description>
-  <KnowButcheredHumanlikeCorpse.stages.0.label>lemészároltunk egy embert</KnowButcheredHumanlikeCorpse.stages.0.label>
-  <KnowButcheredHumanlikeCorpse.stages.0.description>Lemészároltunk valakit, mint egy állatot.</KnowButcheredHumanlikeCorpse.stages.0.description>
-  <ObservedLayingCorpse.stages.0.label>tetemet látott</ObservedLayingCorpse.stages.0.label>
-  <ObservedLayingCorpse.stages.0.description>Hullát láttam feküdni a földön. Felkavaró élmény volt.</ObservedLayingCorpse.stages.0.description>
-  <ObservedLayingRottingCorpse.stages.0.label>rothadó tetemet látott</ObservedLayingRottingCorpse.stages.0.label>
-  <ObservedLayingRottingCorpse.stages.0.description>Rothadó hullát láttam feküdni a földön. Undorító volt.</ObservedLayingRottingCorpse.stages.0.description>
-  <WitnessedDeathAlly.stages.0.label>társa halálát látta</WitnessedDeathAlly.stages.0.label>
-  <WitnessedDeathAlly.stages.0.description>Láttam egy társam halálát. Az egyik pillanatban még élt, a másikban már nem...</WitnessedDeathAlly.stages.0.description>
-  <WitnessedDeathNonAlly.stages.0.label>idegen halálát látta</WitnessedDeathNonAlly.stages.0.label>
-  <WitnessedDeathNonAlly.stages.0.description>Láttam egy idegen halálát. Az egyik pillanatban még élt, a másikban már nem...</WitnessedDeathNonAlly.stages.0.description>
-  <WitnessedDeathFamily.stages.0.label>családtag halálát látta</WitnessedDeathFamily.stages.0.label>
-  <WitnessedDeathFamily.stages.0.description>Láttam, ahogy a családom egy tagja meghal. Az én húsom és vérem...</WitnessedDeathFamily.stages.0.description>
-  <WitnessedDeathBloodlust.stages.0.label>valakit látott meghalni (vérszomj)</WitnessedDeathBloodlust.stages.0.label>
-  <WitnessedDeathBloodlust.stages.0.description>Láttam valakit meghalni! Micsoda élmény!</WitnessedDeathBloodlust.stages.0.description>
-  <KilledHumanlikeBloodlust.stages.0.label>valakit megölt (vérszomj)</KilledHumanlikeBloodlust.stages.0.label>
-  <KilledHumanlikeBloodlust.stages.0.description>Valakit megöltem! Micsoda érzés!</KilledHumanlikeBloodlust.stages.0.description>
-  <DefeatedHostileFactionLeader.stages.0.label>ellenséges vezért ölt ({0})</DefeatedHostileFactionLeader.stages.0.label>
-  <DefeatedHostileFactionLeader.stages.0.description>Megpróbáltak elpusztítani minket, de nem hagytuk magunkat!</DefeatedHostileFactionLeader.stages.0.description>
-   <DefeatedHostileFactionLeaderOpinion.stages.0.label>ellenséges vezért ölt</DefeatedHostileFactionLeaderOpinion.stages.0.label>
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>lemészároltam egy embert</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Lemészároltam valakit, mint egy állatot.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
+  <KnowButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>lemészároltunk egy embert</KnowButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
+  <KnowButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Lemészároltunk valakit, mint egy állatot.</KnowButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
+  <ObservedLayingCorpse.stages.observed_corpse.label>tetemet látott</ObservedLayingCorpse.stages.observed_corpse.label>
+  <ObservedLayingCorpse.stages.observed_corpse.description>Hullát láttam feküdni a földön. Felkavaró élmény volt.</ObservedLayingCorpse.stages.observed_corpse.description>
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>rothadó tetemet látott</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>Rothadó hullát láttam feküdni a földön. Undorító volt.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
+  <WitnessedDeathAlly.stages.witnessed_allys_death.label>társa halálát látta</WitnessedDeathAlly.stages.witnessed_allys_death.label>
+  <WitnessedDeathAlly.stages.witnessed_allys_death.description>Láttam egy társam halálát. Az egyik pillanatban még élt, a másikban már nem...</WitnessedDeathAlly.stages.witnessed_allys_death.description>
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>idegen halálát látta</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>Láttam egy idegen halálát. Az egyik pillanatban még élt, a másikban már nem...</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.label>családtag halálát látta</WitnessedDeathFamily.stages.witnessed_family_members_death.label>
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.description>Láttam, ahogy a családom egy tagja meghal. Az én húsom és vérem...</WitnessedDeathFamily.stages.witnessed_family_members_death.description>
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>valakit látott meghalni (vérszomj)</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>Láttam valakit meghalni! Micsoda élmény!</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
+  <KilledHumanlikeBloodlust.stages.killed_someone.label>valakit megölt (vérszomj)</KilledHumanlikeBloodlust.stages.killed_someone.label>
+  <KilledHumanlikeBloodlust.stages.killed_someone.description>Valakit megöltem! Micsoda érzés!</KilledHumanlikeBloodlust.stages.killed_someone.description>
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>ellenséges vezért ölt ({0})</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>Megpróbáltak elpusztítani minket, de nem hagytuk magunkat!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
+   <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>ellenséges vezért ölt</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   <!-- <DefeatedMajorEnemy.stages.0.label>legyőzte ezt: {0}</DefeatedMajorEnemy.stages.0.label> -->
   <!-- <DefeatedMajorEnemy.stages.0.description>Nagy fenyegetést győztem le! Hős vagyok!</DefeatedMajorEnemy.stages.0.description> -->
   <!-- <ColonistAbandoned.stages.0.label>gyarmatos hátrahagyva</ColonistAbandoned.stages.0.label> -->
   <!-- <ColonistAbandoned.stages.0.description>Valakit hátrahagytunk. Remélem túléli, de aggódom miatta.</ColonistAbandoned.stages.0.description> -->
   <!-- <ColonistAbandonedToDie.stages.0.label>gyarmatos hátrahagyva</ColonistAbandonedToDie.stages.0.label> -->
   <!-- <ColonistAbandonedToDie.stages.0.description>Hátrahagytunk valakit, akinek szinte semmi esélye sincs a túlélésre.</ColonistAbandonedToDie.stages.0.description> -->
-  <ColonistBanished.stages.0.label>gyarmatos száműzve</ColonistBanished.stages.0.label>
-  <ColonistBanished.stages.0.description>Valakit száműztünk. Remélem túléli, de aggódom miatta.</ColonistBanished.stages.0.description>
-  <ColonistBanishedToDie.stages.0.label>gyarmatos száműzve</ColonistBanishedToDie.stages.0.label>
-  <ColonistBanishedToDie.stages.0.description>Száműztünk valakit, akinek szinte semmi esélye sincs a túlélésre.</ColonistBanishedToDie.stages.0.description>
+  <ColonistBanished.stages.colonist_banished.label>gyarmatos száműzve</ColonistBanished.stages.colonist_banished.label>
+  <ColonistBanished.stages.colonist_banished.description>Valakit száműztünk. Remélem túléli, de aggódom miatta.</ColonistBanished.stages.colonist_banished.description>
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>gyarmatos száműzve</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>Száműztünk valakit, akinek szinte semmi esélye sincs a túlélésre.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
  
   <!-- <PrisonerAbandonedToDie.stages.0.label>fogoly hátrahagyva</PrisonerAbandonedToDie.stages.0.label> -->
   <!-- <PrisonerAbandonedToDie.stages.0.description>Hátrahagytunk egy foglyot, akinek szinte semmi esélye sincs a túlélésre.</PrisonerAbandonedToDie.stages.0.description> -->
-  <PrisonerBanishedToDie.stages.0.label>fogoly száműzve</PrisonerBanishedToDie.stages.0.label>
-  <PrisonerBanishedToDie.stages.0.description>Száműztünk egy foglyot, akinek szinte semmi esélye sincs a túlélésre.</PrisonerBanishedToDie.stages.0.description>
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>fogoly száműzve</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>Száműztünk egy foglyot, akinek szinte semmi esélye sincs a túlélésre.</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
   
   <!-- <BondedAnimalAbandoned.stages.0.label>kötődő állat {0} hátrahagyva</BondedAnimalAbandoned.stages.0.label> -->
   <!-- <BondedAnimalAbandoned.stages.0.description>A háziállatomat hátrahagytuk a semmi közepén!</BondedAnimalAbandoned.stages.0.description> -->
-  <BondedAnimalBanished.stages.0.label>kötődő állat {0} száműzve</BondedAnimalBanished.stages.0.label>
-  <BondedAnimalBanished.stages.0.description>A háziállatomat száműztük a semmi közepén!</BondedAnimalBanished.stages.0.description>
+  <BondedAnimalBanished.stages.bonded_animal_banished.label>kötődő állat {0} száműzve</BondedAnimalBanished.stages.bonded_animal_banished.label>
+  <BondedAnimalBanished.stages.bonded_animal_banished.description>A háziállatomat száműztük a semmi közepén!</BondedAnimalBanished.stages.bonded_animal_banished.description>
 
    <!-- Rescue quest -->
 
-  <FailedToRescueRelative.stages.0.label>nem sikerült megmenteni őt: {0}</FailedToRescueRelative.stages.0.label>
-  <FailedToRescueRelative.stages.0.description>Nem sikerült megmenteni a rokonomat. Tudván, hogy volt esélyem segíteni neki, még nehezebbé teszi halálának feldolgozását.</FailedToRescueRelative.stages.0.description>
+  <FailedToRescueRelative.stages.failed_to_rescue.label>nem sikerült megmenteni őt: {0}</FailedToRescueRelative.stages.failed_to_rescue.label>
+  <FailedToRescueRelative.stages.failed_to_rescue.description>Nem sikerült megmenteni a rokonomat. Tudván, hogy volt esélyem segíteni neki, még nehezebbé teszi halálának feldolgozását.</FailedToRescueRelative.stages.failed_to_rescue.description>
 
-  <RescuedRelative.stages.0.label>megmentettük őt: {0}</RescuedRelative.stages.0.label>
-  <RescuedRelative.stages.0.description>Megmentettük a rokonomat. Most, hogy biztonságban van, újra fellélegezhetek.</RescuedRelative.stages.0.description>
+  <RescuedRelative.stages.rescued.label>megmentettük őt: {0}</RescuedRelative.stages.rescued.label>
+  <RescuedRelative.stages.rescued.description>Megmentettük a rokonomat. Most, hogy biztonságban van, újra fellélegezhetek.</RescuedRelative.stages.rescued.description>
 
 </LanguageData>

@@ -9,43 +9,43 @@
   <!-- <FeelingRandom.stages.3.label>szörnyen érzem magam</FeelingRandom.stages.3.label> -->
   <!-- <FeelingRandom.stages.3.description>Minden különösebb ok nélkül szörnyen érzem magam.</FeelingRandom.stages.3.description> -->
 
-  <Imprisoned.stages.0.label>bezárva</Imprisoned.stages.0.label>
-  <Imprisoned.stages.0.description>Utálok elzárva lenni.</Imprisoned.stages.0.description>
-  <SharedBed.stages.0.label>közös ágy</SharedBed.stages.0.label>
-  <SharedBed.stages.0.description>Meg kell osztanom az ágyat valaki olyannal, akivel nem igazán szeretném.</SharedBed.stages.0.description>
-  <ColonistLeftUnburied.stages.0.label>temetetlen gyarmatos</ColonistLeftUnburied.stages.0.label>
-  <ColonistLeftUnburied.stages.0.description>Egyikünk meghalt és mi hagyjuk feküdni a szabad ég alatt. Senkivel nem kéne így bánni. Az emberek megérdemelnek egy tisztes temetést.</ColonistLeftUnburied.stages.0.description>
-  <Naked.stages.0.label>meztelenség</Naked.stages.0.label>
-  <Naked.stages.0.description>Meztelen vagyok. Ez annyira megalázó.</Naked.stages.0.description>
-  <Pain.stages.0.label>enyhe fájdalom</Pain.stages.0.label>
-  <Pain.stages.0.description>Aú... Ez fáj.</Pain.stages.0.description>
-  <Pain.stages.1.label>közepes fájdalom</Pain.stages.1.label>
-  <Pain.stages.1.description>Uhhh... Mikor lesz már vége?</Pain.stages.1.description>
-  <Pain.stages.2.label>erős fájdalom</Pain.stages.2.label>
-  <Pain.stages.2.description>Szüntesd meg... szüntesd meg... szüntesd meg!</Pain.stages.2.description>
-  <Pain.stages.3.label>fájdalom sokk</Pain.stages.3.label>
-  <Pain.stages.3.description>AAAAAHHH! Kérlek, ölj meg!</Pain.stages.3.description>
-  <Joywire.stages.0.label>örömchip</Joywire.stages.0.label>
-  <Joywire.stages.0.description>Elképesztő érzés.</Joywire.stages.0.description>
-  <PsychicEmanatorSoothe.stages.0.label>pszichotikus sugárzás</PsychicEmanatorSoothe.stages.0.label>
-  <PsychicEmanatorSoothe.stages.0.description>A pszichotikus sugárzástól furán érzem magam, de ugyanakkor nagyon nyugtató.</PsychicEmanatorSoothe.stages.0.description>
+  <Imprisoned.stages.imprisoned.label>bezárva</Imprisoned.stages.imprisoned.label>
+  <Imprisoned.stages.imprisoned.description>Utálok elzárva lenni.</Imprisoned.stages.imprisoned.description>
+  <SharedBed.stages.sharing_bed.label>közös ágy</SharedBed.stages.sharing_bed.label>
+  <SharedBed.stages.sharing_bed.description>Meg kell osztanom az ágyat valaki olyannal, akivel nem igazán szeretném.</SharedBed.stages.sharing_bed.description>
+  <ColonistLeftUnburied.stages.colonist_left_unburied.label>temetetlen gyarmatos</ColonistLeftUnburied.stages.colonist_left_unburied.label>
+  <ColonistLeftUnburied.stages.colonist_left_unburied.description>Egyikünk meghalt és mi hagyjuk feküdni a szabad ég alatt. Senkivel nem kéne így bánni. Az emberek megérdemelnek egy tisztes temetést.</ColonistLeftUnburied.stages.colonist_left_unburied.description>
+  <Naked.stages.naked.label>meztelenség</Naked.stages.naked.label>
+  <Naked.stages.naked.description>Meztelen vagyok. Ez annyira megalázó.</Naked.stages.naked.description>
+  <Pain.stages.minor_pain.label>enyhe fájdalom</Pain.stages.minor_pain.label>
+  <Pain.stages.minor_pain.description>Aú... Ez fáj.</Pain.stages.minor_pain.description>
+  <Pain.stages.serious_pain.label>közepes fájdalom</Pain.stages.serious_pain.label>
+  <Pain.stages.serious_pain.description>Uhhh... Mikor lesz már vége?</Pain.stages.serious_pain.description>
+  <Pain.stages.intense_pain.label>erős fájdalom</Pain.stages.intense_pain.label>
+  <Pain.stages.intense_pain.description>Szüntesd meg... szüntesd meg... szüntesd meg!</Pain.stages.intense_pain.description>
+  <Pain.stages.mindshattering_pain.label>fájdalom sokk</Pain.stages.mindshattering_pain.label>
+  <Pain.stages.mindshattering_pain.description>AAAAAHHH! Kérlek, ölj meg!</Pain.stages.mindshattering_pain.description>
+  <Joywire.stages.joywire.label>örömchip</Joywire.stages.joywire.label>
+  <Joywire.stages.joywire.description>Elképesztő érzés.</Joywire.stages.joywire.description>
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>pszichotikus sugárzás</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>A pszichotikus sugárzástól furán érzem magam, de ugyanakkor nagyon nyugtató.</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
 
-  <PsychicDrone.stages.0.label>pszichotikus nyugalom (közepes)</PsychicDrone.stages.0.label>
-  <PsychicDrone.stages.0.description>Mint egy nyugtató hang az elmém mélyén, lecsillapítja az idegeket.</PsychicDrone.stages.0.description>
-  <PsychicDrone.stages.1.label>pszichotikus hullám (enyhe)</PsychicDrone.stages.1.label>
-  <PsychicDrone.stages.1.description>Viszkető érzés az elmém mélyén. Egy hang suttog. Csak néhány szót értek, de nem tetszenek.</PsychicDrone.stages.1.description>
-  <PsychicDrone.stages.2.label>pszichotikus hullám (közepes)</PsychicDrone.stages.2.label>
-  <PsychicDrone.stages.2.description>Mintha valaki láthatatlan beszélne hozzám. A hang változik, de az üzenet nem. Bántanom kell másokat. Állítsd le!</PsychicDrone.stages.2.description>
-  <PsychicDrone.stages.3.label>pszichotikus hullám (erős)</PsychicDrone.stages.3.label>
-  <PsychicDrone.stages.3.description>A hang elviselhetetlenül hangos. Nehéz koncentrálnom. Azt veszem észre, hogy válaszolok neki, kiabálok vele. De nem hagyja abba az üvöltözést!</PsychicDrone.stages.3.description>
-  <PsychicDrone.stages.4.label>pszichotikus hullám (rendkívüli)</PsychicDrone.stages.4.label>
-  <PsychicDrone.stages.4.description>A szívem zakatol, folyamatosan izzadok. Csak arra tudok gondolni, hogy másoknak fájdalmat és szenvedést okozzak. Ellenség mindenhol, ők a rémálmom, a rémálmom, a rémálmom...</PsychicDrone.stages.4.description>
-  <Aurora.stages.0.label>gyönyörű sarki fény</Aurora.stages.0.label>
-  <Aurora.stages.0.description>Elképesztő látvány.</Aurora.stages.0.description>
+  <PsychicDrone.stages.psychic_soothe.label>pszichotikus nyugalom (közepes)</PsychicDrone.stages.psychic_soothe.label>
+  <PsychicDrone.stages.psychic_soothe.description>Mint egy nyugtató hang az elmém mélyén, lecsillapítja az idegeket.</PsychicDrone.stages.psychic_soothe.description>
+  <PsychicDrone.stages.low_psychic_drone.label>pszichotikus hullám (enyhe)</PsychicDrone.stages.low_psychic_drone.label>
+  <PsychicDrone.stages.low_psychic_drone.description>Viszkető érzés az elmém mélyén. Egy hang suttog. Csak néhány szót értek, de nem tetszenek.</PsychicDrone.stages.low_psychic_drone.description>
+  <PsychicDrone.stages.moderate_psychic_drone.label>pszichotikus hullám (közepes)</PsychicDrone.stages.moderate_psychic_drone.label>
+  <PsychicDrone.stages.moderate_psychic_drone.description>Mintha valaki láthatatlan beszélne hozzám. A hang változik, de az üzenet nem. Bántanom kell másokat. Állítsd le!</PsychicDrone.stages.moderate_psychic_drone.description>
+  <PsychicDrone.stages.high_psychic_drone.label>pszichotikus hullám (erős)</PsychicDrone.stages.high_psychic_drone.label>
+  <PsychicDrone.stages.high_psychic_drone.description>A hang elviselhetetlenül hangos. Nehéz koncentrálnom. Azt veszem észre, hogy válaszolok neki, kiabálok vele. De nem hagyja abba az üvöltözést!</PsychicDrone.stages.high_psychic_drone.description>
+  <PsychicDrone.stages.extreme_psychic_drone.label>pszichotikus hullám (rendkívüli)</PsychicDrone.stages.extreme_psychic_drone.label>
+  <PsychicDrone.stages.extreme_psychic_drone.description>A szívem zakatol, folyamatosan izzadok. Csak arra tudok gondolni, hogy másoknak fájdalmat és szenvedést okozzak. Ellenség mindenhol, ők a rémálmom, a rémálmom, a rémálmom...</PsychicDrone.stages.extreme_psychic_drone.description>
+  <Aurora.stages.beautiful_aurora.label>gyönyörű sarki fény</Aurora.stages.beautiful_aurora.label>
+  <Aurora.stages.beautiful_aurora.description>Elképesztő látvány.</Aurora.stages.beautiful_aurora.description>
 
-  <DoingPassionateWork.stages.0.label>Kedvelem a munkám.</DoingPassionateWork.stages.0.label>
-  <DoingPassionateWork.stages.0.description>Élvezem a munkám.</DoingPassionateWork.stages.0.description>
-  <DoingPassionateWork.stages.1.label>Nagyon élvezem a munkám.</DoingPassionateWork.stages.1.label>
-  <DoingPassionateWork.stages.1.description>Imádom a munkám! Minden nap tudnám csinálni, egész nap!</DoingPassionateWork.stages.1.description>
+  <DoingPassionateWork.stages.minor_passion_for_my_work.label>Kedvelem a munkám.</DoingPassionateWork.stages.minor_passion_for_my_work.label>
+  <DoingPassionateWork.stages.minor_passion_for_my_work.description>Élvezem a munkám.</DoingPassionateWork.stages.minor_passion_for_my_work.description>
+  <DoingPassionateWork.stages.burning_passion_for_my_work.label>Nagyon élvezem a munkám.</DoingPassionateWork.stages.burning_passion_for_my_work.label>
+  <DoingPassionateWork.stages.burning_passion_for_my_work.description>Imádom a munkám! Minden nap tudnám csinálni, egész nap!</DoingPassionateWork.stages.burning_passion_for_my_work.description>
   
   </LanguageData>

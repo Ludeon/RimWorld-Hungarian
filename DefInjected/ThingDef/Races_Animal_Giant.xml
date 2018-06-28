@@ -2,43 +2,43 @@
 <LanguageData>
   <Elephant.label>elefánt</Elephant.label>
   <Elephant.description>A legnagyobb szárazföldi állat. Agyarait tárgyak mozgatására vagy fegyverként használja.</Elephant.description>
-  <Elephant.tools.0.label>agyar</Elephant.tools.0.label>
-  <Elephant.tools.1.label>bal láb</Elephant.tools.1.label>
-  <Elephant.tools.2.label>jobb láb</Elephant.tools.2.label>
-  <Elephant.tools.3.label>fej</Elephant.tools.3.label>
+  <Elephant.tools.tusk.label>agyar</Elephant.tools.tusk.label>
+  <Elephant.tools.left_foot.label>bal láb</Elephant.tools.left_foot.label>
+  <Elephant.tools.right_foot.label>jobb láb</Elephant.tools.right_foot.label>
+  <Elephant.tools.head.label>fej</Elephant.tools.head.label>
   
 <!--   <Elephant_Leather.label>elefántbőr</Elephant_Leather.label> -->
 <!--   <Elephant_Leather.description>Egy elefánt bőre.</Elephant_Leather.description> -->
 <!--   <Elephant_Leather.stuffProps.stuffAdjective>elefántbőr</Elephant_Leather.stuffProps.stuffAdjective> -->
-  <Elephant_Meat.label>elefánthús</Elephant_Meat.label>
-  <Elephant_Meat.description>Egy elefánt húsa.</Elephant_Meat.description>
-  <Elephant_Corpse.label>elefánt tetem</Elephant_Corpse.label>
-  <Elephant_Corpse.description>Egy elefánt teteme.</Elephant_Corpse.description>
+  <Meat_Elephant.label>elefánthús</Meat_Elephant.label>
+  <Meat_Elephant.description>Egy elefánt húsa.</Meat_Elephant.description>
+  <Corpse_Elephant.label>elefánt tetem</Corpse_Elephant.label>
+  <Corpse_Elephant.description>Egy elefánt teteme.</Corpse_Elephant.description>
   <Megasloth.label>óriáslajhár</Megasloth.label>
   <Megasloth.description>Az óriáslajhár egy földi lajhár fajta. Magányos növényevő, melyet a Földön régen kipusztítottak. Később a fejlett klónozási technológiának köszönhetően újra életre kelt.</Megasloth.description>
-  <Megasloth.tools.0.label>bal mancs</Megasloth.tools.0.label>
-  <Megasloth.tools.1.label>jobb mancs</Megasloth.tools.1.label>
-  <Megasloth.tools.3.label>fej</Megasloth.tools.3.label>
+  <Megasloth.tools.left_claw.label>bal mancs</Megasloth.tools.left_claw.label>
+  <Megasloth.tools.right_claw.label>jobb mancs</Megasloth.tools.right_claw.label>
+  <Megasloth.tools.head.label>fej</Megasloth.tools.head.label>
   
 <!--   <Megasloth_Leather.label>lajhárbőr</Megasloth_Leather.label> -->
 <!--   <Megasloth_Leather.description>Egy lajhár bőre.</Megasloth_Leather.description> -->
 <!--   <Megasloth_Leather.stuffProps.stuffAdjective>lajhárbőr</Megasloth_Leather.stuffProps.stuffAdjective> -->
-  <Megasloth_Meat.label>lajhárhús</Megasloth_Meat.label>
-  <Megasloth_Meat.description>Egy lajhár húsa.</Megasloth_Meat.description>
-  <Megasloth_Corpse.label>lajhár tetem</Megasloth_Corpse.label>
-  <Megasloth_Corpse.description>Egy lajhár teteme.</Megasloth_Corpse.description>
+  <Meat_Megasloth.label>lajhárhús</Meat_Megasloth.label>
+  <Meat_Megasloth.description>Egy lajhár húsa.</Meat_Megasloth.description>
+  <Corpse_Megasloth.label>lajhár tetem</Corpse_Megasloth.label>
+  <Corpse_Megasloth.description>Egy lajhár teteme.</Corpse_Megasloth.description>
   <Thrumbo.label>trumbo</Thrumbo.label>
   <Thrumbo.description>Ismeretlen eredetű gigantikus teremtmény. A trumbo alapjában véve szelíd, de nagyon veszélyes, ha megvadul. Hosszú szőrméje gyönyörű és értékes, borotvaéles szarva ugyancsak keresett a legtöbb piacon. A legenda szerint az öreg trumbo az univerzum legbölcsebb teremtménye. Csak azért nem beszél, mert nem akar.</Thrumbo.description>
-  <Thrumbo.tools.0.label>szarv</Thrumbo.tools.0.label>
-  <Thrumbo.tools.2.label>bal láb</Thrumbo.tools.2.label>
-  <Thrumbo.tools.3.label>jobb láb</Thrumbo.tools.3.label>
-  <Thrumbo.tools.4.label>fej</Thrumbo.tools.4.label>
+  <Thrumbo.tools.horn.label>szarv</Thrumbo.tools.horn.label>
+  <Thrumbo.tools.left_foot.label>bal láb</Thrumbo.tools.left_foot.label>
+  <Thrumbo.tools.right_foot.label>jobb láb</Thrumbo.tools.right_foot.label>
+  <Thrumbo.tools.head.label>fej</Thrumbo.tools.head.label>
   
 <!--   <Thrumbo_Leather.label>trumbobőr</Thrumbo_Leather.label> -->
 <!--   <Thrumbo_Leather.description>Egy trumbo bőre.</Thrumbo_Leather.description> -->
 <!--   <Thrumbo_Leather.stuffProps.stuffAdjective>trumbobőr</Thrumbo_Leather.stuffProps.stuffAdjective> -->
-  <Thrumbo_Meat.label>trumbohús</Thrumbo_Meat.label>
-  <Thrumbo_Meat.description>Egy trumbo húsa.</Thrumbo_Meat.description>
-  <Thrumbo_Corpse.label>trumbo tetem</Thrumbo_Corpse.label>
-  <Thrumbo_Corpse.description>Egy trumbo teteme.</Thrumbo_Corpse.description>
+  <Meat_Thrumbo.label>trumbohús</Meat_Thrumbo.label>
+  <Meat_Thrumbo.description>Egy trumbo húsa.</Meat_Thrumbo.description>
+  <Corpse_Thrumbo.label>trumbo tetem</Corpse_Thrumbo.label>
+  <Corpse_Thrumbo.description>Egy trumbo teteme.</Corpse_Thrumbo.description>
 </LanguageData>

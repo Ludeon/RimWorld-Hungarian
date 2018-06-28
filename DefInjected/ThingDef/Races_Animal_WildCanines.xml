@@ -2,74 +2,74 @@
 <LanguageData>
   <Warg.label>warg</Warg.label>
   <Warg.description>Izmos testű, farkas-szerű lények. A tudósok szerint a warg azon hadi állatoknak leszármazottja, amiket populáció szabályzásra tenyésztettek. A babonásak az istenek haragjának eszközeit látják bennük. Csak húst vagy dögöt esznek.</Warg.description>
-  <Warg.tools.0.label>bal mancs</Warg.tools.0.label>
-  <Warg.tools.1.label>jobb mancs</Warg.tools.1.label>
-  <Warg.tools.3.label>fej</Warg.tools.3.label>
+  <Warg.tools.left_claw.label>bal mancs</Warg.tools.left_claw.label>
+  <Warg.tools.right_claw.label>jobb mancs</Warg.tools.right_claw.label>
+  <Warg.tools.head.label>fej</Warg.tools.head.label>
 
 <!--   <Warg_Leather.label>wargbőr</Warg_Leather.label> -->
 <!--   <Warg_Leather.description>Egy warg bőre.</Warg_Leather.description> -->
 <!--   <Warg_Leather.stuffProps.stuffAdjective>wargbőr</Warg_Leather.stuffProps.stuffAdjective> -->
-  <Warg_Meat.label>warghús</Warg_Meat.label>
-  <Warg_Meat.description>Egy warg húsa.</Warg_Meat.description>
-  <Warg_Corpse.label>warg tetem</Warg_Corpse.label>
-  <Warg_Corpse.description>Egy warg teteme.</Warg_Corpse.description>
+  <Meat_Warg.label>warghús</Meat_Warg.label>
+  <Meat_Warg.description>Egy warg húsa.</Meat_Warg.description>
+  <Corpse_Warg.label>warg tetem</Corpse_Warg.label>
+  <Corpse_Warg.description>Egy warg teteme.</Corpse_Warg.description>
   <Wolf_Timber.label>erdei farkas</Wolf_Timber.label>
   <Wolf_Timber.description>Életerős ragadozó, melyet sok földi kultúra fél. Bonyolult hierarchiájú falkában vadászik. Igen intelligens állat.</Wolf_Timber.description>
-  <Wolf_Timber.tools.0.label>bal mancs</Wolf_Timber.tools.0.label>
-  <Wolf_Timber.tools.1.label>jobb mancs</Wolf_Timber.tools.1.label>
-  <Wolf_Timber.tools.3.label>fej</Wolf_Timber.tools.3.label>
+  <Wolf_Timber.tools.left_claw.label>bal mancs</Wolf_Timber.tools.left_claw.label>
+  <Wolf_Timber.tools.right_claw.label>jobb mancs</Wolf_Timber.tools.right_claw.label>
+  <Wolf_Timber.tools.head.label>fej</Wolf_Timber.tools.head.label>
  
 <!--   <Wolf_Timber_Leather.label>erdei farkasbőr</Wolf_Timber_Leather.label> -->
 <!--   <Wolf_Timber_Leather.description>Egy erdei farkas bőre.</Wolf_Timber_Leather.description> -->
 <!--   <Wolf_Timber_Leather.stuffProps.stuffAdjective>erdei farkasbőr</Wolf_Timber_Leather.stuffProps.stuffAdjective> -->
-  <Wolf_Timber_Meat.label>farkashús</Wolf_Timber_Meat.label>
-  <Wolf_Timber_Meat.description>Egy farkas húsa.</Wolf_Timber_Meat.description>
-  <Wolf_Timber_Corpse.label>erdei farkas tetem</Wolf_Timber_Corpse.label>
-  <Wolf_Timber_Corpse.description>Egy erdei farkas teteme.</Wolf_Timber_Corpse.description>
+  <Meat_Wolf_Timber.label>farkashús</Meat_Wolf_Timber.label>
+  <Meat_Wolf_Timber.description>Egy farkas húsa.</Meat_Wolf_Timber.description>
+  <Corpse_Wolf_Timber.label>erdei farkas tetem</Corpse_Wolf_Timber.label>
+  <Corpse_Wolf_Timber.description>Egy erdei farkas teteme.</Corpse_Wolf_Timber.description>
   <Wolf_Arctic.label>sarki farkas</Wolf_Arctic.label>
-  <Wolf_Arctic.tools.0.label>bal mancs</Wolf_Arctic.tools.0.label>
-  <Wolf_Arctic.tools.1.label>jobb mancs</Wolf_Arctic.tools.1.label>
-  <Wolf_Arctic.tools.3.label>fej</Wolf_Arctic.tools.3.label>
+  <Wolf_Arctic.tools.left_claw.label>bal mancs</Wolf_Arctic.tools.left_claw.label>
+  <Wolf_Arctic.tools.right_claw.label>jobb mancs</Wolf_Arctic.tools.right_claw.label>
+  <Wolf_Arctic.tools.head.label>fej</Wolf_Arctic.tools.head.label>
   
   <Wolf_Arctic.description>A földi farkas sarki változata. Bonyolult hierarchiájú falkában vadászik. Igen intelligens állat.</Wolf_Arctic.description>
 <!--   <Wolf_Arctic_Leather.label>sarki farkasbőr</Wolf_Arctic_Leather.label> -->
 <!--   <Wolf_Arctic_Leather.description>Egy sarki farkas bőre.</Wolf_Arctic_Leather.description> -->
 <!--   <Wolf_Arctic_Leather.stuffProps.stuffAdjective>sarki farkasbőr</Wolf_Arctic_Leather.stuffProps.stuffAdjective> -->
-  <Wolf_Arctic_Corpse.label>sarki farkas tetem</Wolf_Arctic_Corpse.label>
-  <Wolf_Arctic_Corpse.description>Egy sarki farkas teteme.</Wolf_Arctic_Corpse.description>
+  <Corpse_Wolf_Arctic.label>sarki farkas tetem</Corpse_Wolf_Arctic.label>
+  <Corpse_Wolf_Arctic.description>Egy sarki farkas teteme.</Corpse_Wolf_Arctic.description>
   <Fox_Fennec.label>sivatagi róka</Fox_Fennec.label>
   <Fox_Fennec.description>Ez a kis termetű róka eredetileg a földi afrika északi részéről származik. Apró állatokra vadászik. Nagyon nagy fülei vannak.</Fox_Fennec.description>
-  <Fox_Fennec.tools.0.label>bal mancs</Fox_Fennec.tools.0.label>
-  <Fox_Fennec.tools.1.label>jobb mancs</Fox_Fennec.tools.1.label>
-  <Fox_Fennec.tools.3.label>fej</Fox_Fennec.tools.3.label>
+  <Fox_Fennec.tools.left_claw.label>bal mancs</Fox_Fennec.tools.left_claw.label>
+  <Fox_Fennec.tools.right_claw.label>jobb mancs</Fox_Fennec.tools.right_claw.label>
+  <Fox_Fennec.tools.head.label>fej</Fox_Fennec.tools.head.label>
   
 <!--   <Fox_Fennec_Leather.label>sivatagi rókabőr</Fox_Fennec_Leather.label> -->
 <!--   <Fox_Fennec_Leather.description>Egy sivatagi róka bőre.</Fox_Fennec_Leather.description> -->
 <!--   <Fox_Fennec_Leather.stuffProps.stuffAdjective>sivatagi rókabőr</Fox_Fennec_Leather.stuffProps.stuffAdjective> -->
-  <Fox_Fennec_Meat.label>sivatagi rókahús</Fox_Fennec_Meat.label>
-  <Fox_Fennec_Meat.description>Egy sivatagi róka húsa.</Fox_Fennec_Meat.description>
-  <Fox_Fennec_Corpse.label>sivatagi róka tetem</Fox_Fennec_Corpse.label>
-  <Fox_Fennec_Corpse.description>Egy sivatagi róka teteme.</Fox_Fennec_Corpse.description>
-  <FoxRed.label>róka</FoxRed.label>
-  <FoxRed.description>Kistermetű, mérsékelt égövi, magányos kutyaféle. Apró állatokra vadászik.</FoxRed.description>
-  <FoxRed.tools.0.label>bal mancs</FoxRed.tools.0.label>
-  <FoxRed.tools.1.label>jobb mancs</FoxRed.tools.1.label>
-  <FoxRed.tools.3.label>fej</FoxRed.tools.3.label>
+  <Meat_Fox_Fennec.label>sivatagi rókahús</Meat_Fox_Fennec.label>
+  <Meat_Fox_Fennec.description>Egy sivatagi róka húsa.</Meat_Fox_Fennec.description>
+  <Corpse_Fox_Fennec.label>sivatagi róka tetem</Corpse_Fox_Fennec.label>
+  <Corpse_Fox_Fennec.description>Egy sivatagi róka teteme.</Corpse_Fox_Fennec.description>
+  <Fox_Red.label>róka</Fox_Red.label>
+  <Fox_Red.description>Kistermetű, mérsékelt égövi, magányos kutyaféle. Apró állatokra vadászik.</Fox_Red.description>
+  <Fox_Red.tools.left_claw.label>bal mancs</Fox_Red.tools.left_claw.label>
+  <Fox_Red.tools.right_claw.label>jobb mancs</Fox_Red.tools.right_claw.label>
+  <Fox_Red.tools.head.label>fej</Fox_Red.tools.head.label>
   
-<!--   <FoxRed_Leather.label>rókabőr</FoxRed_Leather.label> -->
-<!--   <FoxRed_Leather.description>Egy róka bőre.</FoxRed_Leather.description> -->
-<!--   <FoxRed_Leather.stuffProps.stuffAdjective>rókabőr</FoxRed_Leather.stuffProps.stuffAdjective> -->
-  <FoxRed_Corpse.label>róka tetem</FoxRed_Corpse.label>
-  <FoxRed_Corpse.description>Egy róka teteme.</FoxRed_Corpse.description>
-  <FoxArctic.label>sarki róka</FoxArctic.label>
-  <FoxArctic.description>Kis termetű ragadozó, mely az északi klímához alkalmazkodott. Általában egerekre és pockokra vadászik, olykor méteres havon fúrja át magát, hogy elérje prédáját.</FoxArctic.description>
-  <FoxArctic.tools.0.label>bal mancs</FoxArctic.tools.0.label>
-  <FoxArctic.tools.1.label>jobb mancs</FoxArctic.tools.1.label>
-  <FoxArctic.tools.3.label>fej</FoxArctic.tools.3.label>
+<!--   <Fox_Red_Leather.label>rókabőr</Fox_Red_Leather.label> -->
+<!--   <Fox_Red_Leather.description>Egy róka bőre.</Fox_Red_Leather.description> -->
+<!--   <Fox_Red_Leather.stuffProps.stuffAdjective>rókabőr</Fox_Red_Leather.stuffProps.stuffAdjective> -->
+  <Corpse_Fox_Red.label>róka tetem</Corpse_Fox_Red.label>
+  <Corpse_Fox_Red.description>Egy róka teteme.</Corpse_Fox_Red.description>
+  <Fox_Arctic.label>sarki róka</Fox_Arctic.label>
+  <Fox_Arctic.description>Kis termetű ragadozó, mely az északi klímához alkalmazkodott. Általában egerekre és pockokra vadászik, olykor méteres havon fúrja át magát, hogy elérje prédáját.</Fox_Arctic.description>
+  <Fox_Arctic.tools.left_claw.label>bal mancs</Fox_Arctic.tools.left_claw.label>
+  <Fox_Arctic.tools.right_claw.label>jobb mancs</Fox_Arctic.tools.right_claw.label>
+  <Fox_Arctic.tools.head.label>fej</Fox_Arctic.tools.head.label>
   
-<!--   <FoxArctic_Leather.label>sarki rókabőr</FoxArctic_Leather.label> -->
-<!--   <FoxArctic_Leather.description>Egy sarki róka bőre.</FoxArctic_Leather.description> -->
-<!--   <FoxArctic_Leather.stuffProps.stuffAdjective>sarki rókabőr</FoxArctic_Leather.stuffProps.stuffAdjective> -->
-  <FoxArctic_Corpse.label>sarki róka tetem</FoxArctic_Corpse.label>
-  <FoxArctic_Corpse.description>Egy sarki róka teteme.</FoxArctic_Corpse.description>
+<!--   <Fox_Arctic_Leather.label>sarki rókabőr</Fox_Arctic_Leather.label> -->
+<!--   <Fox_Arctic_Leather.description>Egy sarki róka bőre.</Fox_Arctic_Leather.description> -->
+<!--   <Fox_Arctic_Leather.stuffProps.stuffAdjective>sarki rókabőr</Fox_Arctic_Leather.stuffProps.stuffAdjective> -->
+  <Corpse_Fox_Arctic.label>sarki róka tetem</Corpse_Fox_Arctic.label>
+  <Corpse_Fox_Arctic.description>Egy sarki róka teteme.</Corpse_Fox_Arctic.description>
 </LanguageData>

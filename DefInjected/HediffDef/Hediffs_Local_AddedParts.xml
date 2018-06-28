@@ -16,7 +16,7 @@
   <SimpleProstheticLeg.labelNoun>egyszerű műláb</SimpleProstheticLeg.labelNoun>
   
   <SimpleProstheticArm.label>egyszerű műkar</SimpleProstheticArm.label>
-  <SimpleProstheticArm.comps.0.tools.0.label>ököl</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>ököl</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <SimpleProstheticArm.labelNoun>egyszerű műkar</SimpleProstheticArm.labelNoun>
   
   <SimpleProstheticHeart.label>műszív</SimpleProstheticHeart.label>
@@ -30,7 +30,7 @@
   
   <BionicArm.label>bionikus kar</BionicArm.label>
   <BionicArm.labelNoun>bionikus kar</BionicArm.labelNoun>
-  <BionicArm.comps.0.tools.0.label>ököl</BionicArm.comps.0.tools.0.label>
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>ököl</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
 
   <BionicLeg.label>bionikus láb</BionicLeg.label>
   <BionicLeg.labelNoun>bionikus láb</BionicLeg.labelNoun>
@@ -49,13 +49,13 @@
   
   <PowerClaw.label>erőkarom</PowerClaw.label>
   <PowerClaw.labelNoun>erőkarom</PowerClaw.labelNoun>
-  <PowerClaw.comps.0.tools.0.label>karom</PowerClaw.comps.0.tools.0.label>
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>karom</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
 
   <ArchotechEye.label>archotech szem</ArchotechEye.label>
   <ArchotechEye.labelNoun>archotech szem</ArchotechEye.labelNoun>
 
   <ArchotechArm.label>archotech kar</ArchotechArm.label>
-  <ArchotechArm.comps.0.tools.0.label>ököl</ArchotechArm.comps.0.tools.0.label>
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>ököl</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <ArchotechArm.labelNoun>archotech kar</ArchotechArm.labelNoun>
 
   <ArchotechLeg.label>archotech láb</ArchotechLeg.label>

@@ -2,26 +2,26 @@
 <LanguageData>
   <Mech_Centipede.label>százlábú</Mech_Centipede.label>
   <Mech_Centipede.description>Nehéz harci mechanoid, ami tucatnyi apró lábon halad. A nehéz páncélzat és tűzerő teszi őket nagyon hatásossá egy csomóban álló ellenfelek ellen. Üsd-és-fuss taktikával szemben védtelenebbek.</Mech_Centipede.description>
-  <Mech_Centipede.tools.0.label>fej</Mech_Centipede.tools.0.label>
-  <Mech_Centipede_Corpse.label>százlábú tetem</Mech_Centipede_Corpse.label>
-  <Mech_Centipede_Corpse.description>Deaktivált harci százlábú.</Mech_Centipede_Corpse.description>
+  <Mech_Centipede.tools.head.label>fej</Mech_Centipede.tools.head.label>
+  <Corpse_Mech_Centipede.label>százlábú tetem</Corpse_Mech_Centipede.label>
+  <Corpse_Mech_Centipede.description>Deaktivált harci százlábú.</Corpse_Mech_Centipede.description>
   
   <Mech_Scyther.label>kaszás</Mech_Scyther.label>
   <Mech_Scyther.description>Gyors, nyurga, ember méretű harci mechanoid. Általában fel vannak szerelve egy elsődleges távolsági fegyverrel, és a testükön van két penge, ami közelharcban halálossá teszi őket. Nem használnak fedezéket. Legjobb koncentrált túlerővel leküzdeni őket.</Mech_Scyther.description>
-  <Mech_Scyther.tools.0.label>bal penge</Mech_Scyther.tools.0.label>
-  <Mech_Scyther.tools.1.label>jobb penge</Mech_Scyther.tools.1.label>
-  <Mech_Scyther.tools.2.label>fej</Mech_Scyther.tools.2.label>
-  <Mech_Scyther_Corpse.label>kaszás tetem</Mech_Scyther_Corpse.label>
-  <Mech_Scyther_Corpse.description>"Kaszás" típusú deaktivált harci mechanoid.</Mech_Scyther_Corpse.description>
+  <Mech_Scyther.tools.left_blade.label>bal penge</Mech_Scyther.tools.left_blade.label>
+  <Mech_Scyther.tools.right_blade.label>jobb penge</Mech_Scyther.tools.right_blade.label>
+  <Mech_Scyther.tools.head.label>fej</Mech_Scyther.tools.head.label>
+  <Corpse_Mech_Scyther.label>kaszás tetem</Corpse_Mech_Scyther.label>
+  <Corpse_Mech_Scyther.description>"Kaszás" típusú deaktivált harci mechanoid.</Corpse_Mech_Scyther.description>
   
   <Mech_Lancer.label>lándzsás</Mech_Lancer.label>
   <Mech_Lancer.description>Ember méretű harci mechanoid óriási optikai érzékelőkkel a távolsági célzáshoz. Messzire hatékony, de közelharcban gyenge. A mechanoid háborúk veteránjai tudják, hogy a legjobb taktika ellenük a rohamozás.</Mech_Lancer.description>
-  <Mech_Lancer.tools.0.label>bal ököl</Mech_Lancer.tools.0.label>
-  <Mech_Lancer.tools.1.label>jobb ököl</Mech_Lancer.tools.1.label>
-  <Mech_Lancer.tools.2.label>fej</Mech_Lancer.tools.2.label>
+  <Mech_Lancer.tools.left_fist.label>bal ököl</Mech_Lancer.tools.left_fist.label>
+  <Mech_Lancer.tools.right_fist.label>jobb ököl</Mech_Lancer.tools.right_fist.label>
+  <Mech_Lancer.tools.head.label>fej</Mech_Lancer.tools.head.label>
   <!-- Flesh Type: Mechanoid -->
-  <Mech_Lancer_Corpse.label>lándzsás tetem</Mech_Lancer_Corpse.label>
-  <Mech_Lancer_Corpse.description>lándzsás tetem</Mech_Lancer_Corpse.description>
+  <Corpse_Mech_Lancer.label>lándzsás tetem</Corpse_Mech_Lancer.label>
+  <Corpse_Mech_Lancer.description>lándzsás tetem</Corpse_Mech_Lancer.description>
   
   
 </LanguageData>

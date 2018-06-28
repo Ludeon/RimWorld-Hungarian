@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <KnowGuestExecuted.stages.0.label>Jogos kivégzés</KnowGuestExecuted.stages.0.label>
-  <KnowGuestExecuted.stages.0.description>Egy idegent jogosan kivégeztek. Szomorú eset.</KnowGuestExecuted.stages.0.description>
-  <KnowGuestExecuted.stages.1.label>Eutanáziát hajtottak végre valakin</KnowGuestExecuted.stages.1.label>
-  <KnowGuestExecuted.stages.1.description>Egy idegenen eutanáziát hajtottak végre.</KnowGuestExecuted.stages.1.description>
-  <KnowGuestExecuted.stages.2.label>Valakit kivégeztek</KnowGuestExecuted.stages.2.label>
-  <KnowGuestExecuted.stages.2.description>Egy idegent hidegvérrel kivégeztek. Ez kissé gonosz húzás volt.</KnowGuestExecuted.stages.2.description>
-  <KnowGuestExecuted.stages.3.label>Valaki szerveltávolítás miatt meghalt</KnowGuestExecuted.stages.3.label>
-  <KnowGuestExecuted.stages.3.description>Egy idegen belehalt abba, hogy eltávolították egy szervét. Szörnyű.</KnowGuestExecuted.stages.3.description>
-  <KnowColonistExecuted.stages.0.label>Jogos kivégzés</KnowColonistExecuted.stages.0.label>
-  <KnowColonistExecuted.stages.0.description>Egy gyarmatost jogosan kivégeztek. Szomorú eset.</KnowColonistExecuted.stages.0.description>
-  <KnowColonistExecuted.stages.1.label>Gyarmatos eutanázia</KnowColonistExecuted.stages.1.label>
-  <KnowColonistExecuted.stages.1.description>Egy gyarmatoson eutanáziát hajtottak végre. Humánus lépés, de akkor is szomorú.</KnowColonistExecuted.stages.1.description>
-  <KnowColonistExecuted.stages.2.label>Gyarmatos kivégezve</KnowColonistExecuted.stages.2.label>
-  <KnowColonistExecuted.stages.2.description>Egy gyarmatost hidegvérrel kivégeztek. Ez kissé gonosz húzás volt.</KnowColonistExecuted.stages.2.description>
-  <KnowColonistExecuted.stages.3.label>Egy gyarmatos szerveltávolítás miatt meghalt</KnowColonistExecuted.stages.3.label>
-  <KnowColonistExecuted.stages.3.description>Egy gyarmatos belehalt abba, hogy eltávolították egy szervét. Szörnyű.</KnowColonistExecuted.stages.3.description>
-  <KnowPrisonerDiedInnocent.stages.0.label>Ártalmatlan fogoly meghalt</KnowPrisonerDiedInnocent.stages.0.label>
-  <KnowPrisonerDiedInnocent.stages.0.description>Az egyik ártalmatlan foglyunk meghalt. Jobban kéne gondoskodnunk róluk. Ha a halálát akarjuk, legalább kapjon egy rendes kivégzést. Ez így barbárság.</KnowPrisonerDiedInnocent.stages.0.description>
-  <KnowColonistDied.stages.0.label>Gyarmatos meghalt</KnowColonistDied.stages.0.label>
-  <KnowColonistDied.stages.0.description>Egyik társunk meghalt. Nem kéne problémát okozzon, hogy gondoskodjunk róluk.</KnowColonistDied.stages.0.description>
-  <BondedAnimalDied.stages.0.label>A háziállatom meghalt</BondedAnimalDied.stages.0.label>
-  <BondedAnimalDied.stages.0.description>Micsoda szerethető, egyedi teremtés volt! Az univerzum gonosz!</BondedAnimalDied.stages.0.description>
-  <PawnWithGoodOpinionDied.stages.0.label>A barátom meghalt</PawnWithGoodOpinionDied.stages.0.label>
-  <PawnWithGoodOpinionDied.stages.0.description>Csodálatos személyiség volt. A világ sötétebb hely lett.</PawnWithGoodOpinionDied.stages.0.description>
-  <PawnWithBadOpinionDied.stages.0.label>Az ellenfelem meghalt</PawnWithBadOpinionDied.stages.0.label>
-  <PawnWithBadOpinionDied.stages.0.description>Megérdemelte! Alakulnak a dolgok!</PawnWithBadOpinionDied.stages.0.description>
-  <MySonDied.stages.0.label>A fiam, {0}, meghalt</MySonDied.stages.0.label>
-  <MySonDied.stages.0.description>A fiam halott. Az én húsom és vérem...</MySonDied.stages.0.description>
-  <MyDaughterDied.stages.0.label>A lányom, {0}, meghalt</MyDaughterDied.stages.0.label>
-  <MyDaughterDied.stages.0.description>A lányom halott. Az én húsom és vérem...</MyDaughterDied.stages.0.description>
-  <MyHusbandDied.stages.0.label>A férjem, {0}, meghalt</MyHusbandDied.stages.0.label>
-  <MyHusbandDied.stages.0.description>A férjem halott. Egyedül maradtam...</MyHusbandDied.stages.0.description>
-  <MyWifeDied.stages.0.label>A feleségem, {0}, meghalt</MyWifeDied.stages.0.label>
-  <MyWifeDied.stages.0.description>A feleségem halott. Egyedül maradtam...</MyWifeDied.stages.0.description>
-  <MyFianceDied.stages.0.label>A vőlegényem, {0}, meghalt</MyFianceDied.stages.0.label>
-  <MyFianceDied.stages.0.description>A szerelmem halott. Micsoda férfi... A jövőm oda.</MyFianceDied.stages.0.description>
-  <MyFianceeDied.stages.0.label>A menyasszonyom, {0}, meghalt</MyFianceeDied.stages.0.label>
-  <MyFianceeDied.stages.0.description>A szerelmem halott. Micsoda nő... A jövőm oda.</MyFianceeDied.stages.0.description>
-  <MyLoverDied.stages.0.label>A szeretőm, {0}, meghalt</MyLoverDied.stages.0.label>
-  <MyLoverDied.stages.0.description>A szeretőm halott. Olyan egyedül érzem magam...</MyLoverDied.stages.0.description>
-  <MyBrotherDied.stages.0.label>A fivérem, {0}, meghalt</MyBrotherDied.stages.0.label>
-  <MyBrotherDied.stages.0.description>A fivérem halott. Az én húsom és vérem...</MyBrotherDied.stages.0.description>
-  <MySisterDied.stages.0.label>A nővérem, {0}, meghalt</MySisterDied.stages.0.label>
-  <MySisterDied.stages.0.description>A nővérem halott. Az én húsom és vérem...</MySisterDied.stages.0.description>
-  <MyGrandchildDied.stages.0.label>Az unokám, {0}, meghalt</MyGrandchildDied.stages.0.label>
-  <MyGrandchildDied.stages.0.description>Az unokám halott. Az én húsom és vérem...</MyGrandchildDied.stages.0.description>
-  <MyFatherDied.stages.0.label>Az apám, {0}, meghalt</MyFatherDied.stages.0.label>
-  <MyFatherDied.stages.0.description>Az apám meghalt. Örökre itt hagyott.</MyFatherDied.stages.0.description>
-  <MyMotherDied.stages.0.label>Az anyám, {0}, meghalt</MyMotherDied.stages.0.label>
-  <MyMotherDied.stages.0.description>Az anyám meghalt. Örökre itt hagyott.</MyMotherDied.stages.0.description>
-  <MyNieceDied.stages.0.label>Az unokahúgom, {0}, meghalt</MyNieceDied.stages.0.label>
-  <MyNieceDied.stages.0.description>Az unokahúgom meghalt. Nagyszerű gyerek volt.</MyNieceDied.stages.0.description>
-  <MyNephewDied.stages.0.label>Az unokaöcsém, {0}, meghalt</MyNephewDied.stages.0.label>
-  <MyNephewDied.stages.0.description>Az unokaöcsém meghalt. Nagyszerű gyerek volt.</MyNephewDied.stages.0.description>
-  <MyHalfSiblingDied.stages.0.label>A féltestvérem, {0}, meghalt</MyHalfSiblingDied.stages.0.label>
-  <MyHalfSiblingDied.stages.0.description>A féltestvérem halott. Az én húsom és vérem...</MyHalfSiblingDied.stages.0.description>
-  <MyAuntDied.stages.0.label>A nagynéném, {0}, meghalt</MyAuntDied.stages.0.label>
-  <MyAuntDied.stages.0.description>A nagynéném meghalt.</MyAuntDied.stages.0.description>
-  <MyUncleDied.stages.0.label>A nagybácsim, {0}, meghalt</MyUncleDied.stages.0.label>
-  <MyUncleDied.stages.0.description>A nagybácsim meghalt.</MyUncleDied.stages.0.description>
-  <MyGrandparentDied.stages.0.label>Egyik nagyszülőm, {0}, meghalt</MyGrandparentDied.stages.0.label>
-  <MyGrandparentDied.stages.0.description>Egyik nagyszülőm meghalt.</MyGrandparentDied.stages.0.description>
-  <MyCousinDied.stages.0.label>Az unokatestvérem, {0}, meghalt</MyCousinDied.stages.0.label>
-  <MyCousinDied.stages.0.description>Az unokatestvérem halott. Az én húsom és vérem...</MyCousinDied.stages.0.description>
-  <MyKinDied.stages.0.label>Egy hozzátartozóm, {0}, meghalt</MyKinDied.stages.0.label>
-  <MyKinDied.stages.0.description>Egy hozzátartozóm meghalt.</MyKinDied.stages.0.description>
+  <KnowGuestExecuted.stages.justified_execution.label>Jogos kivégzés</KnowGuestExecuted.stages.justified_execution.label>
+  <KnowGuestExecuted.stages.justified_execution.description>Egy idegent jogosan kivégeztek. Szomorú eset.</KnowGuestExecuted.stages.justified_execution.description>
+  <KnowGuestExecuted.stages.someone_was_euthanized.label>Eutanáziát hajtottak végre valakin</KnowGuestExecuted.stages.someone_was_euthanized.label>
+  <KnowGuestExecuted.stages.someone_was_euthanized.description>Egy idegenen eutanáziát hajtottak végre.</KnowGuestExecuted.stages.someone_was_euthanized.description>
+  <KnowGuestExecuted.stages.someone_was_executed.label>Valakit kivégeztek</KnowGuestExecuted.stages.someone_was_executed.label>
+  <KnowGuestExecuted.stages.someone_was_executed.description>Egy idegent hidegvérrel kivégeztek. Ez kissé gonosz húzás volt.</KnowGuestExecuted.stages.someone_was_executed.description>
+  <KnowGuestExecuted.stages.someone_organharvested.label>Valaki szerveltávolítás miatt meghalt</KnowGuestExecuted.stages.someone_organharvested.label>
+  <KnowGuestExecuted.stages.someone_organharvested.description>Egy idegen belehalt abba, hogy eltávolították egy szervét. Szörnyű.</KnowGuestExecuted.stages.someone_organharvested.description>
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.label>Jogos kivégzés</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.description>Egy gyarmatost jogosan kivégeztek. Szomorú eset.</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
+  <KnowColonistExecuted.stages.colonist_euthanized.label>Gyarmatos eutanázia</KnowColonistExecuted.stages.colonist_euthanized.label>
+  <KnowColonistExecuted.stages.colonist_euthanized.description>Egy gyarmatoson eutanáziát hajtottak végre. Humánus lépés, de akkor is szomorú.</KnowColonistExecuted.stages.colonist_euthanized.description>
+  <KnowColonistExecuted.stages.colonist_executed.label>Gyarmatos kivégezve</KnowColonistExecuted.stages.colonist_executed.label>
+  <KnowColonistExecuted.stages.colonist_executed.description>Egy gyarmatost hidegvérrel kivégeztek. Ez kissé gonosz húzás volt.</KnowColonistExecuted.stages.colonist_executed.description>
+  <KnowColonistExecuted.stages.colonist_organharvested.label>Egy gyarmatos szerveltávolítás miatt meghalt</KnowColonistExecuted.stages.colonist_organharvested.label>
+  <KnowColonistExecuted.stages.colonist_organharvested.description>Egy gyarmatos belehalt abba, hogy eltávolították egy szervét. Szörnyű.</KnowColonistExecuted.stages.colonist_organharvested.description>
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>Ártalmatlan fogoly meghalt</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>Az egyik ártalmatlan foglyunk meghalt. Jobban kéne gondoskodnunk róluk. Ha a halálát akarjuk, legalább kapjon egy rendes kivégzést. Ez így barbárság.</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
+  <KnowColonistDied.stages.colonist_died.label>Gyarmatos meghalt</KnowColonistDied.stages.colonist_died.label>
+  <KnowColonistDied.stages.colonist_died.description>Egyik társunk meghalt. Nem kéne problémát okozzon, hogy gondoskodjunk róluk.</KnowColonistDied.stages.colonist_died.description>
+  <BondedAnimalDied.stages.bonded_animal_died.label>A háziállatom meghalt</BondedAnimalDied.stages.bonded_animal_died.label>
+  <BondedAnimalDied.stages.bonded_animal_died.description>Micsoda szerethető, egyedi teremtés volt! Az univerzum gonosz!</BondedAnimalDied.stages.bonded_animal_died.description>
+  <PawnWithGoodOpinionDied.stages.my_friend_died.label>A barátom meghalt</PawnWithGoodOpinionDied.stages.my_friend_died.label>
+  <PawnWithGoodOpinionDied.stages.my_friend_died.description>Csodálatos személyiség volt. A világ sötétebb hely lett.</PawnWithGoodOpinionDied.stages.my_friend_died.description>
+  <PawnWithBadOpinionDied.stages.my_rival_died.label>Az ellenfelem meghalt</PawnWithBadOpinionDied.stages.my_rival_died.label>
+  <PawnWithBadOpinionDied.stages.my_rival_died.description>Megérdemelte! Alakulnak a dolgok!</PawnWithBadOpinionDied.stages.my_rival_died.description>
+  <MySonDied.stages.my_son_died.label>A fiam, {0}, meghalt</MySonDied.stages.my_son_died.label>
+  <MySonDied.stages.my_son_died.description>A fiam halott. Az én húsom és vérem...</MySonDied.stages.my_son_died.description>
+  <MyDaughterDied.stages.my_daughter_died.label>A lányom, {0}, meghalt</MyDaughterDied.stages.my_daughter_died.label>
+  <MyDaughterDied.stages.my_daughter_died.description>A lányom halott. Az én húsom és vérem...</MyDaughterDied.stages.my_daughter_died.description>
+  <MyHusbandDied.stages.my_husband_died.label>A férjem, {0}, meghalt</MyHusbandDied.stages.my_husband_died.label>
+  <MyHusbandDied.stages.my_husband_died.description>A férjem halott. Egyedül maradtam...</MyHusbandDied.stages.my_husband_died.description>
+  <MyWifeDied.stages.my_wife_died.label>A feleségem, {0}, meghalt</MyWifeDied.stages.my_wife_died.label>
+  <MyWifeDied.stages.my_wife_died.description>A feleségem halott. Egyedül maradtam...</MyWifeDied.stages.my_wife_died.description>
+  <MyFianceDied.stages.my_fiance_died.label>A vőlegényem, {0}, meghalt</MyFianceDied.stages.my_fiance_died.label>
+  <MyFianceDied.stages.my_fiance_died.description>A szerelmem halott. Micsoda férfi... A jövőm oda.</MyFianceDied.stages.my_fiance_died.description>
+  <MyFianceeDied.stages.my_fiancée_died.label>A menyasszonyom, {0}, meghalt</MyFianceeDied.stages.my_fiancée_died.label>
+  <MyFianceeDied.stages.my_fiancée_died.description>A szerelmem halott. Micsoda nő... A jövőm oda.</MyFianceeDied.stages.my_fiancée_died.description>
+  <MyLoverDied.stages.my_lover_died.label>A szeretőm, {0}, meghalt</MyLoverDied.stages.my_lover_died.label>
+  <MyLoverDied.stages.my_lover_died.description>A szeretőm halott. Olyan egyedül érzem magam...</MyLoverDied.stages.my_lover_died.description>
+  <MyBrotherDied.stages.my_brother_died.label>A fivérem, {0}, meghalt</MyBrotherDied.stages.my_brother_died.label>
+  <MyBrotherDied.stages.my_brother_died.description>A fivérem halott. Az én húsom és vérem...</MyBrotherDied.stages.my_brother_died.description>
+  <MySisterDied.stages.my_sister_died.label>A nővérem, {0}, meghalt</MySisterDied.stages.my_sister_died.label>
+  <MySisterDied.stages.my_sister_died.description>A nővérem halott. Az én húsom és vérem...</MySisterDied.stages.my_sister_died.description>
+  <MyGrandchildDied.stages.my_grandchild_died.label>Az unokám, {0}, meghalt</MyGrandchildDied.stages.my_grandchild_died.label>
+  <MyGrandchildDied.stages.my_grandchild_died.description>Az unokám halott. Az én húsom és vérem...</MyGrandchildDied.stages.my_grandchild_died.description>
+  <MyFatherDied.stages.my_father_died.label>Az apám, {0}, meghalt</MyFatherDied.stages.my_father_died.label>
+  <MyFatherDied.stages.my_father_died.description>Az apám meghalt. Örökre itt hagyott.</MyFatherDied.stages.my_father_died.description>
+  <MyMotherDied.stages.my_mother_died.label>Az anyám, {0}, meghalt</MyMotherDied.stages.my_mother_died.label>
+  <MyMotherDied.stages.my_mother_died.description>Az anyám meghalt. Örökre itt hagyott.</MyMotherDied.stages.my_mother_died.description>
+  <MyNieceDied.stages.my_niece_died.label>Az unokahúgom, {0}, meghalt</MyNieceDied.stages.my_niece_died.label>
+  <MyNieceDied.stages.my_niece_died.description>Az unokahúgom meghalt. Nagyszerű gyerek volt.</MyNieceDied.stages.my_niece_died.description>
+  <MyNephewDied.stages.my_nephew_died.label>Az unokaöcsém, {0}, meghalt</MyNephewDied.stages.my_nephew_died.label>
+  <MyNephewDied.stages.my_nephew_died.description>Az unokaöcsém meghalt. Nagyszerű gyerek volt.</MyNephewDied.stages.my_nephew_died.description>
+  <MyHalfSiblingDied.stages.my_halfsibling_died.label>A féltestvérem, {0}, meghalt</MyHalfSiblingDied.stages.my_halfsibling_died.label>
+  <MyHalfSiblingDied.stages.my_halfsibling_died.description>A féltestvérem halott. Az én húsom és vérem...</MyHalfSiblingDied.stages.my_halfsibling_died.description>
+  <MyAuntDied.stages.my_aunt_died.label>A nagynéném, {0}, meghalt</MyAuntDied.stages.my_aunt_died.label>
+  <MyAuntDied.stages.my_aunt_died.description>A nagynéném meghalt.</MyAuntDied.stages.my_aunt_died.description>
+  <MyUncleDied.stages.my_uncle_died.label>A nagybácsim, {0}, meghalt</MyUncleDied.stages.my_uncle_died.label>
+  <MyUncleDied.stages.my_uncle_died.description>A nagybácsim meghalt.</MyUncleDied.stages.my_uncle_died.description>
+  <MyGrandparentDied.stages.my_grandparent_died.label>Egyik nagyszülőm, {0}, meghalt</MyGrandparentDied.stages.my_grandparent_died.label>
+  <MyGrandparentDied.stages.my_grandparent_died.description>Egyik nagyszülőm meghalt.</MyGrandparentDied.stages.my_grandparent_died.description>
+  <MyCousinDied.stages.my_cousin_died.label>Az unokatestvérem, {0}, meghalt</MyCousinDied.stages.my_cousin_died.label>
+  <MyCousinDied.stages.my_cousin_died.description>Az unokatestvérem halott. Az én húsom és vérem...</MyCousinDied.stages.my_cousin_died.description>
+  <MyKinDied.stages.my_kin_died.label>Egy hozzátartozóm, {0}, meghalt</MyKinDied.stages.my_kin_died.label>
+  <MyKinDied.stages.my_kin_died.description>Egy hozzátartozóm meghalt.</MyKinDied.stages.my_kin_died.description>
 </LanguageData>

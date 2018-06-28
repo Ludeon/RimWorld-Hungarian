@@ -2,21 +2,21 @@
 <LanguageData>
   <PowerConduit.label>vezeték</PowerConduit.label>
   <PowerConduit.description>Eljuttatja az áramot felhasználási helyéhez. Falak és egyéb tárgyak alatt átvezethető.</PowerConduit.description>
-  <PowerConduit_Blueprint.label>vezeték (tervrajz)</PowerConduit_Blueprint.label>
-  <PowerConduit_Frame.label>vezeték (építmény)</PowerConduit_Frame.label>
-  <PowerConduit_Frame.description>Eljuttatja az áramot felhasználási helyéhez. Falak és egyéb tárgyak alatt átvezethető.</PowerConduit_Frame.description>
+  <Blueprint_PowerConduit.label>vezeték (tervrajz)</Blueprint_PowerConduit.label>
+  <Frame_PowerConduit.label>vezeték (építmény)</Frame_PowerConduit.label>
+  <Frame_PowerConduit.description>Eljuttatja az áramot felhasználási helyéhez. Falak és egyéb tárgyak alatt átvezethető.</Frame_PowerConduit.description>
   
   <WaterproofConduit.label>vízálló vezeték</WaterproofConduit.label>
   <WaterproofConduit.description>Szigetelt vezeték elektromos áram sekély víz alatti vezetéséhez.</WaterproofConduit.description>
-  <WaterproofConduit_Blueprint.label>vízálló vezeték (tervrajz)</WaterproofConduit_Blueprint.label>
-  <WaterproofConduit_Frame.label>vízálló vezeték (építmény)</WaterproofConduit_Frame.label>
-  <WaterproofConduit_Frame.description>Szigetelt vezeték elektromos áram sekély víz alatti vezetéséhez.</WaterproofConduit_Frame.description>
+  <Blueprint_WaterproofConduit.label>vízálló vezeték (tervrajz)</Blueprint_WaterproofConduit.label>
+  <Frame_WaterproofConduit.label>vízálló vezeték (építmény)</Frame_WaterproofConduit.label>
+  <Frame_WaterproofConduit.description>Szigetelt vezeték elektromos áram sekély víz alatti vezetéséhez.</Frame_WaterproofConduit.description>
   
   <PowerSwitch.label>kapcsoló</PowerSwitch.label>
   <PowerSwitch.description>Ki/bekapcsolja az áramot.</PowerSwitch.description>
-  <PowerSwitch_Blueprint.label>kapcsoló (tervrajz)</PowerSwitch_Blueprint.label>
-  <PowerSwitch_Frame.label>kapcsoló (építmény)</PowerSwitch_Frame.label>
-  <PowerSwitch_Frame.description>Ki/bekapcsolja az áramot.</PowerSwitch_Frame.description>
+  <Blueprint_PowerSwitch.label>kapcsoló (tervrajz)</Blueprint_PowerSwitch.label>
+  <Frame_PowerSwitch.label>kapcsoló (építmény)</Frame_PowerSwitch.label>
+  <Frame_PowerSwitch.description>Ki/bekapcsolja az áramot.</Frame_PowerSwitch.description>
   <!-- <FueledGenerator.label>mini hőerőmű</FueledGenerator.label> -->
   <!-- <FueledGenerator.description>Fa elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</FueledGenerator.description> -->
   <!-- <FueledGenerator_Blueprint.label>mini hőerőmű (tervrajz)</FueledGenerator_Blueprint.label> -->
@@ -24,38 +24,38 @@
   <!-- <FueledGenerator_Frame.description>Fa elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</FueledGenerator_Frame.description> -->
   <WoodFiredGenerator.label>fatüzelésű hőerőmű</WoodFiredGenerator.label>
   <WoodFiredGenerator.description>Fa elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</WoodFiredGenerator.description>
-  <WoodFiredGenerator_Blueprint.label>fatüzelésű hőerőmű (tervrajz)</WoodFiredGenerator_Blueprint.label>
-  <WoodFiredGenerator_Frame.label>fatüzelésű hőerőmű (építmény)</WoodFiredGenerator_Frame.label>
-  <WoodFiredGenerator_Frame.description>Fa elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</WoodFiredGenerator_Frame.description>
+  <Blueprint_WoodFiredGenerator.label>fatüzelésű hőerőmű (tervrajz)</Blueprint_WoodFiredGenerator.label>
+  <Frame_WoodFiredGenerator.label>fatüzelésű hőerőmű (építmény)</Frame_WoodFiredGenerator.label>
+  <Frame_WoodFiredGenerator.description>Fa elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</Frame_WoodFiredGenerator.description>
 
   <ChemfuelPoweredGenerator.label>kémiai hőerőmű</ChemfuelPoweredGenerator.label>
   <ChemfuelPoweredGenerator.description>Kémiai üzemanyag elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</ChemfuelPoweredGenerator.description>
-  <ChemfuelPoweredGenerator_Blueprint.label>kémiai hőerőmű (tervrajz)</ChemfuelPoweredGenerator_Blueprint.label>
-  <ChemfuelPoweredGenerator_Frame.label>kémiai hőerőmű (építmény)</ChemfuelPoweredGenerator_Frame.label>
-  <ChemfuelPoweredGenerator_Frame.description>Kémiai üzemanyag elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</ChemfuelPoweredGenerator_Frame.description>
+  <Blueprint_ChemfuelPoweredGenerator.label>kémiai hőerőmű (tervrajz)</Blueprint_ChemfuelPoweredGenerator.label>
+  <Frame_ChemfuelPoweredGenerator.label>kémiai hőerőmű (építmény)</Frame_ChemfuelPoweredGenerator.label>
+  <Frame_ChemfuelPoweredGenerator.description>Kémiai üzemanyag elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni.</Frame_ChemfuelPoweredGenerator.description>
  
 
   <Battery.label>akkumulátor</Battery.label>
   <Battery.description>Elektromos töltést tárol, ha felesleg termelődik, és leadja azt, ha hiány van. Vigyázat - a feltöltött akkumulátorok berobbanhatnak a nagy melegben vagy ha víz éri őket.</Battery.description>
-  <Battery_Blueprint.label>akkumulátor (tervrajz)</Battery_Blueprint.label>
-  <Battery_Blueprint_Install.label>akkumulátor (tervrajz)</Battery_Blueprint_Install.label>
-  <Battery_Frame.label>akkumulátor (építmény)</Battery_Frame.label>
-  <Battery_Frame.description>Elektromos töltést tárol, ha felesleg termelődik, és leadja azt, ha hiány van. Vigyázat - a feltöltött akkumulátorok berobbanhatnak a nagy melegben vagy ha víz éri őket.</Battery_Frame.description>
+  <Blueprint_Battery.label>akkumulátor (tervrajz)</Blueprint_Battery.label>
+  <Blueprint_Battery_Install.label>akkumulátor (tervrajz)</Blueprint_Battery_Install.label>
+  <Frame_Battery.label>akkumulátor (építmény)</Frame_Battery.label>
+  <Frame_Battery.description>Elektromos töltést tárol, ha felesleg termelődik, és leadja azt, ha hiány van. Vigyázat - a feltöltött akkumulátorok berobbanhatnak a nagy melegben vagy ha víz éri őket.</Frame_Battery.description>
   <SolarGenerator.label>napelem</SolarGenerator.label>
   <SolarGenerator.description>Napfény segítségével állít elő áramot. Sötétben hasztalan.</SolarGenerator.description>
-  <SolarGenerator_Blueprint.label>napelem (tervrajz)</SolarGenerator_Blueprint.label>
-  <SolarGenerator_Frame.label>napelem (építmény)</SolarGenerator_Frame.label>
-  <SolarGenerator_Frame.description>Napfény segítségével állít elő áramot. Sötétben hasztalan.</SolarGenerator_Frame.description>
+  <Blueprint_SolarGenerator.label>napelem (tervrajz)</Blueprint_SolarGenerator.label>
+  <Frame_SolarGenerator.label>napelem (építmény)</Frame_SolarGenerator.label>
+  <Frame_SolarGenerator.description>Napfény segítségével állít elő áramot. Sötétben hasztalan.</Frame_SolarGenerator.description>
   <GeothermalGenerator.label>geotermikus generátor</GeothermalGenerator.label>
   <GeothermalGenerator.description>Gejzírek segítségével állít elő áramot, mindenképp egy ilyenre kell telepíteni.</GeothermalGenerator.description>
-  <GeothermalGenerator_Blueprint.label>geotermikus generátor (tervrajz)</GeothermalGenerator_Blueprint.label>
-  <GeothermalGenerator_Frame.label>geotermikus generátor (építmény)</GeothermalGenerator_Frame.label>
-  <GeothermalGenerator_Frame.description>Gejzírek segítségével állít elő áramot, mindenképp egy ilyenre kell telepíteni.</GeothermalGenerator_Frame.description>
+  <Blueprint_GeothermalGenerator.label>geotermikus generátor (tervrajz)</Blueprint_GeothermalGenerator.label>
+  <Frame_GeothermalGenerator.label>geotermikus generátor (építmény)</Frame_GeothermalGenerator.label>
+  <Frame_GeothermalGenerator.description>Gejzírek segítségével állít elő áramot, mindenképp egy ilyenre kell telepíteni.</Frame_GeothermalGenerator.description>
   
   <WatermillGenerator.label>vízkerék generátor</WatermillGenerator.label>
   <WatermillGenerator.description>Folyó segítségével állít elő áramot. A kereket folyóvízen kell elhelyezni.</WatermillGenerator.description>
-  <WatermillGenerator_Blueprint.label>vízkerék generátor (tervrajz)</WatermillGenerator_Blueprint.label>
-  <WatermillGenerator_Frame.label>vízkerék generátor (építmény)</WatermillGenerator_Frame.label>
-  <WatermillGenerator_Frame.description>Folyó segítségével állít elő áramot. A kereket folyóvízen kell elhelyezni.</WatermillGenerator_Frame.description>
+  <Blueprint_WatermillGenerator.label>vízkerék generátor (tervrajz)</Blueprint_WatermillGenerator.label>
+  <Frame_WatermillGenerator.label>vízkerék generátor (építmény)</Frame_WatermillGenerator.label>
+  <Frame_WatermillGenerator.description>Folyó segítségével állít elő áramot. A kereket folyóvízen kell elhelyezni.</Frame_WatermillGenerator.description>
   
 </LanguageData>

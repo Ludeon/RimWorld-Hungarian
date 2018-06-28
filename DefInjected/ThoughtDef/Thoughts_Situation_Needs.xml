@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <NeedFood.stages.0.label>éhes</NeedFood.stages.0.label>
-  <NeedFood.stages.0.description>Éhes vagyok.</NeedFood.stages.0.description>
-  <NeedFood.stages.1.label>nagyon éhes</NeedFood.stages.1.label>
-  <NeedFood.stages.1.description>Elég nehéz figyelmen kívül hagynom a gyomron korgását.</NeedFood.stages.1.description>
-  <NeedFood.stages.2.label>éhezik (alig)</NeedFood.stages.2.label>
-  <NeedFood.stages.2.description>Olyan rég ettem. Nehezemre esik koncentrálni.</NeedFood.stages.2.description>
-  <NeedFood.stages.3.label>éhezik (kissé)</NeedFood.stages.3.label>
-  <NeedFood.stages.3.description>Érzem, ahogy lassan elfogy a testem. Úgy mar az éhség, mint még soha.</NeedFood.stages.3.description>
-  <NeedFood.stages.4.label>éhezik (közepesen)</NeedFood.stages.4.label>
-  <NeedFood.stages.4.description>Érzem, ahogy lassan elfogy a testem. Úgy mar az éhség, mint még soha. El fogok ájulni.</NeedFood.stages.4.description>
-  <NeedFood.stages.5.label>éhezik (súlyosan)</NeedFood.stages.5.label>
-  <NeedFood.stages.5.description>Szinte képtelen vagyok ételen kívül bármi másra gondolni. Csont és bőr vagyok. Meg fogok halni?</NeedFood.stages.5.description>
-  <NeedFood.stages.6.label>éhezik (rendkívül)</NeedFood.stages.6.label>
-  <NeedFood.stages.6.description>Étel... étel... csak egy falatot... bármit... kérlek...</NeedFood.stages.6.description>
+  <NeedFood.stages.hungry.label>éhes</NeedFood.stages.hungry.label>
+  <NeedFood.stages.hungry.description>Éhes vagyok.</NeedFood.stages.hungry.description>
+  <NeedFood.stages.ravenously_hungry.label>nagyon éhes</NeedFood.stages.ravenously_hungry.label>
+  <NeedFood.stages.ravenously_hungry.description>Elég nehéz figyelmen kívül hagynom a gyomron korgását.</NeedFood.stages.ravenously_hungry.description>
+  <NeedFood.stages.malnourished.label>éhezik (alig)</NeedFood.stages.malnourished.label>
+  <NeedFood.stages.malnourished.description>Olyan rég ettem. Nehezemre esik koncentrálni.</NeedFood.stages.malnourished.description>
+  <NeedFood.stages.badly_malnourished.label>éhezik (kissé)</NeedFood.stages.badly_malnourished.label>
+  <NeedFood.stages.badly_malnourished.description>Érzem, ahogy lassan elfogy a testem. Úgy mar az éhség, mint még soha.</NeedFood.stages.badly_malnourished.description>
+  <NeedFood.stages.starving.label>éhezik (közepesen)</NeedFood.stages.starving.label>
+  <NeedFood.stages.starving.description>Érzem, ahogy lassan elfogy a testem. Úgy mar az éhség, mint még soha. El fogok ájulni.</NeedFood.stages.starving.description>
+  <NeedFood.stages.advanced_starvation.label>éhezik (súlyosan)</NeedFood.stages.advanced_starvation.label>
+  <NeedFood.stages.advanced_starvation.description>Szinte képtelen vagyok ételen kívül bármi másra gondolni. Csont és bőr vagyok. Meg fogok halni?</NeedFood.stages.advanced_starvation.description>
+  <NeedFood.stages.extreme_starvation.label>éhezik (rendkívül)</NeedFood.stages.extreme_starvation.label>
+  <NeedFood.stages.extreme_starvation.description>Étel... étel... csak egy falatot... bármit... kérlek...</NeedFood.stages.extreme_starvation.description>
   
-  <NeedRest.stages.0.label>fáradt</NeedRest.stages.0.label>
-  <NeedRest.stages.0.description>Egy ideje nem aludtam.</NeedRest.stages.0.description>
-  <NeedRest.stages.1.label>nagyon fáradt</NeedRest.stages.1.label>
-  <NeedRest.stages.1.description>Nagyon fáradt vagyok. Muszáj ledőlnöm pár percre...</NeedRest.stages.1.description>
-  <NeedRest.stages.2.label>kimerült</NeedRest.stages.2.label>
-  <NeedRest.stages.2.description>Annyira kimerültem, alig tudok állni. Szemhéjaim mintha ólomból volnának. Hagyj aludni...</NeedRest.stages.2.description>
+  <NeedRest.stages.drowsy.label>fáradt</NeedRest.stages.drowsy.label>
+  <NeedRest.stages.drowsy.description>Egy ideje nem aludtam.</NeedRest.stages.drowsy.description>
+  <NeedRest.stages.tired.label>nagyon fáradt</NeedRest.stages.tired.label>
+  <NeedRest.stages.tired.description>Nagyon fáradt vagyok. Muszáj ledőlnöm pár percre...</NeedRest.stages.tired.description>
+  <NeedRest.stages.exhausted.label>kimerült</NeedRest.stages.exhausted.label>
+  <NeedRest.stages.exhausted.description>Annyira kimerültem, alig tudok állni. Szemhéjaim mintha ólomból volnának. Hagyj aludni...</NeedRest.stages.exhausted.description>
   
-  <NeedJoy.stages.0.label>rendkívül bánatos</NeedJoy.stages.0.label>
-  <NeedJoy.stages.0.description>Olyan régen volt, mikor utoljára jól szórakoztam.</NeedJoy.stages.0.description>
-  <NeedJoy.stages.1.label>nagyon bánatos</NeedJoy.stages.1.label>
-  <NeedJoy.stages.1.description>Errefelé képtelenség lazítani vagy szórakozni.</NeedJoy.stages.1.description>
-  <NeedJoy.stages.2.label>bánatos</NeedJoy.stages.2.label>
-  <NeedJoy.stages.2.description>Nagyon rám férne egy kis pihenés és szórakozás.</NeedJoy.stages.2.description>
-  <NeedJoy.stages.3.label>örül</NeedJoy.stages.3.label>
-  <NeedJoy.stages.3.description>Mostanában remekül érzem magam.</NeedJoy.stages.3.description>
-  <NeedJoy.stages.4.label>nagyon örül</NeedJoy.stages.4.label>
-  <NeedJoy.stages.4.description>Annyira jól szórakozom, imádom!</NeedJoy.stages.4.description>
+  <NeedJoy.stages.recreationstarved.label>rendkívül bánatos</NeedJoy.stages.recreationstarved.label>
+  <NeedJoy.stages.recreationstarved.description>Olyan régen volt, mikor utoljára jól szórakoztam.</NeedJoy.stages.recreationstarved.description>
+  <NeedJoy.stages.recreationdeprived.label>nagyon bánatos</NeedJoy.stages.recreationdeprived.label>
+  <NeedJoy.stages.recreationdeprived.description>Errefelé képtelenség lazítani vagy szórakozni.</NeedJoy.stages.recreationdeprived.description>
+  <NeedJoy.stages.recreation_unfulfilled.label>bánatos</NeedJoy.stages.recreation_unfulfilled.label>
+  <NeedJoy.stages.recreation_unfulfilled.description>Nagyon rám férne egy kis pihenés és szórakozás.</NeedJoy.stages.recreation_unfulfilled.description>
+  <NeedJoy.stages.recreation_satisfied.label>örül</NeedJoy.stages.recreation_satisfied.label>
+  <NeedJoy.stages.recreation_satisfied.description>Mostanában remekül érzem magam.</NeedJoy.stages.recreation_satisfied.description>
+  <NeedJoy.stages.recreation_fully_satisfied.label>nagyon örül</NeedJoy.stages.recreation_fully_satisfied.label>
+  <NeedJoy.stages.recreation_fully_satisfied.description>Annyira jól szórakozom, imádom!</NeedJoy.stages.recreation_fully_satisfied.description>
   
-  <NeedComfort.stages.0.label>kényelmetlenség</NeedComfort.stages.0.label>
-  <NeedComfort.stages.0.description>Nem túl kényelemes ez a hely. Kéne ide valami puha ülőalkalmatosság.</NeedComfort.stages.0.description>
-  <NeedComfort.stages.1.label>kényelem</NeedComfort.stages.1.label>
-  <NeedComfort.stages.1.description>Utóbbi időben nincs gond a kényelemmel.</NeedComfort.stages.1.description>
-  <NeedComfort.stages.2.label>nagy kényelem</NeedComfort.stages.2.label>
-  <NeedComfort.stages.2.description>Nagyon kényelmes a hely.</NeedComfort.stages.2.description>
-  <NeedComfort.stages.3.label>rendkívüli kényelem</NeedComfort.stages.3.label>
-  <NeedComfort.stages.3.description>Rendkívül kényelmes a hely.</NeedComfort.stages.3.description>
-  <NeedComfort.stages.4.label>pazar kényelem</NeedComfort.stages.4.label>
-  <NeedComfort.stages.4.description>Hihetetlen kényelmes itt, minden pihe puha!</NeedComfort.stages.4.description>
+  <NeedComfort.stages.uncomfortable.label>kényelmetlenség</NeedComfort.stages.uncomfortable.label>
+  <NeedComfort.stages.uncomfortable.description>Nem túl kényelemes ez a hely. Kéne ide valami puha ülőalkalmatosság.</NeedComfort.stages.uncomfortable.description>
+  <NeedComfort.stages.comfortable.label>kényelem</NeedComfort.stages.comfortable.label>
+  <NeedComfort.stages.comfortable.description>Utóbbi időben nincs gond a kényelemmel.</NeedComfort.stages.comfortable.description>
+  <NeedComfort.stages.quite_comfortable.label>nagy kényelem</NeedComfort.stages.quite_comfortable.label>
+  <NeedComfort.stages.quite_comfortable.description>Nagyon kényelmes a hely.</NeedComfort.stages.quite_comfortable.description>
+  <NeedComfort.stages.extremely_comfortable.label>rendkívüli kényelem</NeedComfort.stages.extremely_comfortable.label>
+  <NeedComfort.stages.extremely_comfortable.description>Rendkívül kényelmes a hely.</NeedComfort.stages.extremely_comfortable.description>
+  <NeedComfort.stages.luxuriantly_comfortable.label>pazar kényelem</NeedComfort.stages.luxuriantly_comfortable.label>
+  <NeedComfort.stages.luxuriantly_comfortable.description>Hihetetlen kényelmes itt, minden pihe puha!</NeedComfort.stages.luxuriantly_comfortable.description>
   
-  <NeedBeauty.stages.0.label>csúnya környezet</NeedBeauty.stages.0.label>
-  <NeedBeauty.stages.0.description>Kellemetlen érzés itt lenni.</NeedBeauty.stages.0.description>
-  <NeedBeauty.stages.1.label>nagyon csúnya környezet</NeedBeauty.stages.1.label>
-  <NeedBeauty.stages.1.description>Nagyon kellemetlen ez a hely. Nem akarok itt lenni.</NeedBeauty.stages.1.description>
-  <NeedBeauty.stages.2.label>ocsmány környezet</NeedBeauty.stages.2.label>
-  <NeedBeauty.stages.2.description>Ez a hely elviselhetetlen! Vigyél el innen...</NeedBeauty.stages.2.description>
-  <NeedBeauty.stages.3.label>kellemes környezet</NeedBeauty.stages.3.label>
-  <NeedBeauty.stages.3.description>Szép ez a hely.</NeedBeauty.stages.3.description>
-  <NeedBeauty.stages.4.label>nagyon kellemes környezet</NeedBeauty.stages.4.label>
-  <NeedBeauty.stages.4.description>Nagyon tetszik ez a hely, igazán gyönyörű.</NeedBeauty.stages.4.description>
-  <NeedBeauty.stages.5.label>gyönyörű környezet</NeedBeauty.stages.5.label>
-  <NeedBeauty.stages.5.description>Ez a hely egyszerűen gyönyörű, meghozza az életkedvem!</NeedBeauty.stages.5.description>
+  <NeedBeauty.stages.hideous_environment.label>csúnya környezet</NeedBeauty.stages.hideous_environment.label>
+  <NeedBeauty.stages.hideous_environment.description>Kellemetlen érzés itt lenni.</NeedBeauty.stages.hideous_environment.description>
+  <NeedBeauty.stages.ugly_environment.label>nagyon csúnya környezet</NeedBeauty.stages.ugly_environment.label>
+  <NeedBeauty.stages.ugly_environment.description>Nagyon kellemetlen ez a hely. Nem akarok itt lenni.</NeedBeauty.stages.ugly_environment.description>
+  <NeedBeauty.stages.unsightly_environment.label>ocsmány környezet</NeedBeauty.stages.unsightly_environment.label>
+  <NeedBeauty.stages.unsightly_environment.description>Ez a hely elviselhetetlen! Vigyél el innen...</NeedBeauty.stages.unsightly_environment.description>
+  <NeedBeauty.stages.pretty_environment.label>kellemes környezet</NeedBeauty.stages.pretty_environment.label>
+  <NeedBeauty.stages.pretty_environment.description>Szép ez a hely.</NeedBeauty.stages.pretty_environment.description>
+  <NeedBeauty.stages.beautiful_environment.label>nagyon kellemes környezet</NeedBeauty.stages.beautiful_environment.label>
+  <NeedBeauty.stages.beautiful_environment.description>Nagyon tetszik ez a hely, igazán gyönyörű.</NeedBeauty.stages.beautiful_environment.description>
+  <NeedBeauty.stages.gorgeous_environment.label>gyönyörű környezet</NeedBeauty.stages.gorgeous_environment.label>
+  <NeedBeauty.stages.gorgeous_environment.description>Ez a hely egyszerűen gyönyörű, meghozza az életkedvem!</NeedBeauty.stages.gorgeous_environment.description>
   
-  <NeedRoomSize.stages.1.label>szűkös környezet</NeedRoomSize.stages.1.label>
-  <NeedRoomSize.stages.1.description>Ez a hely nagyon szűkös, szinte alig kapok levegőt.</NeedRoomSize.stages.1.description>
-  <NeedRoomSize.stages.0.label>nagyon szűkös környezet</NeedRoomSize.stages.0.label>
-  <NeedRoomSize.stages.0.description>Klausztrofóbiát kapok itt. Nem tudok mozogni, úgy érzem magam, mint egy patkány a ketrecben.</NeedRoomSize.stages.0.description>
-  <NeedRoomSize.stages.2.label>tágas környezet</NeedRoomSize.stages.2.label>
-  <NeedRoomSize.stages.2.description>Kényelmesen tágas ez a beltér.</NeedRoomSize.stages.2.description>
+  <NeedRoomSize.stages.cramped_interior.label>szűkös környezet</NeedRoomSize.stages.cramped_interior.label>
+  <NeedRoomSize.stages.cramped_interior.description>Ez a hely nagyon szűkös, szinte alig kapok levegőt.</NeedRoomSize.stages.cramped_interior.description>
+  <NeedRoomSize.stages.confined_interior.label>nagyon szűkös környezet</NeedRoomSize.stages.confined_interior.label>
+  <NeedRoomSize.stages.confined_interior.description>Klausztrofóbiát kapok itt. Nem tudok mozogni, úgy érzem magam, mint egy patkány a ketrecben.</NeedRoomSize.stages.confined_interior.description>
+  <NeedRoomSize.stages.spacious_interior.label>tágas környezet</NeedRoomSize.stages.spacious_interior.label>
+  <NeedRoomSize.stages.spacious_interior.description>Kényelmesen tágas ez a beltér.</NeedRoomSize.stages.spacious_interior.description>
   
-  <NeedOutdoors.stages.0.label>szinte elásva</NeedOutdoors.stages.0.label>
-  <NeedOutdoors.stages.0.description>Túl régen vagyok már a föld alatt. Úgy érzem a hegy súlya összenyom. Látnom kell az eget és érezni a szelet az arcomon.</NeedOutdoors.stages.0.description>
-  <NeedOutdoors.stages.1.label>föld alatt</NeedOutdoors.stages.1.label>
-  <NeedOutdoors.stages.1.description>Mióta vagyok a föld alatt? Ki kell mennem egy kicsit, hogy lássam az eget.</NeedOutdoors.stages.1.description>
-  <NeedOutdoors.stages.2.label>kabin láz</NeedOutdoors.stages.2.label>
-  <NeedOutdoors.stages.2.description>Olyan régen vagyok benn, hogy szinte érzem a plafon nyomását. Ki kell mennem egy kicsit, hogy lássam az eget.</NeedOutdoors.stages.2.description>
-  <NeedOutdoors.stages.3.label>bezárva</NeedOutdoors.stages.3.label>
-  <NeedOutdoors.stages.3.description>Olyan régen láttam már az eget.</NeedOutdoors.stages.3.description>
-  <NeedOutdoors.stages.4.label>négy fal között</NeedOutdoors.stages.4.label>
-  <NeedOutdoors.stages.4.description>Jó lenne kimenni egy kis friss levegőt szívni.</NeedOutdoors.stages.4.description>
+  <NeedOutdoors.stages.entombed_underground.label>szinte elásva</NeedOutdoors.stages.entombed_underground.label>
+  <NeedOutdoors.stages.entombed_underground.description>Túl régen vagyok már a föld alatt. Úgy érzem a hegy súlya összenyom. Látnom kell az eget és érezni a szelet az arcomon.</NeedOutdoors.stages.entombed_underground.description>
+  <NeedOutdoors.stages.trapped_underground.label>föld alatt</NeedOutdoors.stages.trapped_underground.label>
+  <NeedOutdoors.stages.trapped_underground.description>Mióta vagyok a föld alatt? Ki kell mennem egy kicsit, hogy lássam az eget.</NeedOutdoors.stages.trapped_underground.description>
+  <NeedOutdoors.stages.cabin_fever.label>kabin láz</NeedOutdoors.stages.cabin_fever.label>
+  <NeedOutdoors.stages.cabin_fever.description>Olyan régen vagyok benn, hogy szinte érzem a plafon nyomását. Ki kell mennem egy kicsit, hogy lássam az eget.</NeedOutdoors.stages.cabin_fever.description>
+  <NeedOutdoors.stages.trapped_indoors.label>bezárva</NeedOutdoors.stages.trapped_indoors.label>
+  <NeedOutdoors.stages.trapped_indoors.description>Olyan régen láttam már az eget.</NeedOutdoors.stages.trapped_indoors.description>
+  <NeedOutdoors.stages.stuck_indoors.label>négy fal között</NeedOutdoors.stages.stuck_indoors.label>
+  <NeedOutdoors.stages.stuck_indoors.description>Jó lenne kimenni egy kis friss levegőt szívni.</NeedOutdoors.stages.stuck_indoors.description>
   
 </LanguageData>

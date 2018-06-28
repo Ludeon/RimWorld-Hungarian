@@ -7,104 +7,104 @@
 
   <Gun_Revolver.label>forgópisztoly</Gun_Revolver.label>
   <Gun_Revolver.description>Ősi kakasos forgópisztoly. Nem túl erős, közepes hatótáv, gyors.</Gun_Revolver.description>
-  <Gun_Revolver.tools.0.label>markolat</Gun_Revolver.tools.0.label>
-  <Gun_Revolver.tools.1.label>cső</Gun_Revolver.tools.1.label>
+  <Gun_Revolver.tools.grip.label>markolat</Gun_Revolver.tools.grip.label>
+  <Gun_Revolver.tools.barrel.label>cső</Gun_Revolver.tools.barrel.label>
 
   <Bullet_Autopistol.label>automata pisztoly lőszer</Bullet_Autopistol.label>
 
   <Gun_Autopistol.label>automata pisztoly</Gun_Autopistol.label>
   <Gun_Autopistol.description>Ősi automata pisztoly. Gyenge és rövid a hatótávja, de gyors.</Gun_Autopistol.description>
-  <Gun_Autopistol.tools.0.label>markolat</Gun_Autopistol.tools.0.label>
-  <Gun_Autopistol.tools.1.label>cső</Gun_Autopistol.tools.1.label>
+  <Gun_Autopistol.tools.grip.label>markolat</Gun_Autopistol.tools.grip.label>
+  <Gun_Autopistol.tools.barrel.label>cső</Gun_Autopistol.tools.barrel.label>
 
   <Bullet_IncendiaryLauncher.label>gyújtótöltet</Bullet_IncendiaryLauncher.label>
   <Gun_IncendiaryLauncher.label>tűzvető</Gun_IncendiaryLauncher.label>
   <Gun_IncendiaryLauncher.description>Egy tűzvető. Felgyújtja a célpontot.</Gun_IncendiaryLauncher.description>
-  <Gun_IncendiaryLauncher.tools.0.label>tus</Gun_IncendiaryLauncher.tools.0.label>
-  <Gun_IncendiaryLauncher.tools.1.label>cső</Gun_IncendiaryLauncher.tools.1.label>
+  <Gun_IncendiaryLauncher.tools.stock.label>tus</Gun_IncendiaryLauncher.tools.stock.label>
+  <Gun_IncendiaryLauncher.tools.barrel.label>cső</Gun_IncendiaryLauncher.tools.barrel.label>
 
   <!-- <Bullet_PumpShotgun.label>sörétes lőszer</Bullet_PumpShotgun.label> -->
   <Gun_PumpShotgun.label>sörétes puska</Gun_PumpShotgun.label>
   <Gun_PumpShotgun.description>Ősi tervek alapján. Közelre halálos.</Gun_PumpShotgun.description>
-  <Gun_PumpShotgun.tools.0.label>tus</Gun_PumpShotgun.tools.0.label>
-  <Gun_PumpShotgun.tools.1.label>cső</Gun_PumpShotgun.tools.1.label>
+  <Gun_PumpShotgun.tools.stock.label>tus</Gun_PumpShotgun.tools.stock.label>
+  <Gun_PumpShotgun.tools.barrel.label>cső</Gun_PumpShotgun.tools.barrel.label>
 
   <!-- <Bullet_ChainShotgun.label>sörétes lőszer</Bullet_ChainShotgun.label> -->
   <Gun_ChainShotgun.label>automata sörétes puska</Gun_ChainShotgun.label>
   <Gun_ChainShotgun.description>Automata sörétes puska tárral. Rövid hatótávú és pontatlan fegyver, de nagyon veszélyes.</Gun_ChainShotgun.description>
-  <Gun_ChainShotgun.tools.0.label>tus</Gun_ChainShotgun.tools.0.label>
-  <Gun_ChainShotgun.tools.1.label>cső</Gun_ChainShotgun.tools.1.label>
+  <Gun_ChainShotgun.tools.stock.label>tus</Gun_ChainShotgun.tools.stock.label>
+  <Gun_ChainShotgun.tools.barrel.label>cső</Gun_ChainShotgun.tools.barrel.label>
 
   <Bullet_BoltActionRifle.label>vadászpuska lőszer</Bullet_BoltActionRifle.label>
   <Gun_BoltActionRifle.label>vadászpuska</Gun_BoltActionRifle.label>
   <Gun_BoltActionRifle.description>Antik tolózáras puska. Jó hatótáv, nagy torkolati energia, de lassú újratöltés.</Gun_BoltActionRifle.description>
-  <Gun_BoltActionRifle.tools.0.label>tus</Gun_BoltActionRifle.tools.0.label>
-  <Gun_BoltActionRifle.tools.1.label>cső</Gun_BoltActionRifle.tools.1.label>
+  <Gun_BoltActionRifle.tools.stock.label>tus</Gun_BoltActionRifle.tools.stock.label>
+  <Gun_BoltActionRifle.tools.barrel.label>cső</Gun_BoltActionRifle.tools.barrel.label>
 
   <Bullet_MachinePistol.label>géppisztoly lőszer (kis)</Bullet_MachinePistol.label>
   <Gun_MachinePistol.label>könnyű géppisztoly</Gun_MachinePistol.label>
   <Gun_MachinePistol.description>Rövid hatótáv, alacsony torkolati energia, nagy tűzsebesség jellemzi. Gyorsan előrántható.</Gun_MachinePistol.description>
-  <Gun_MachinePistol.tools.0.label>markolat</Gun_MachinePistol.tools.0.label>
-  <Gun_MachinePistol.tools.1.label>cső</Gun_MachinePistol.tools.1.label>
+  <Gun_MachinePistol.tools.grip.label>markolat</Gun_MachinePistol.tools.grip.label>
+  <Gun_MachinePistol.tools.barrel.label>cső</Gun_MachinePistol.tools.barrel.label>
 
   <Bullet_HeavySMG.label>géppisztoly lőszer (nehéz)</Bullet_HeavySMG.label>
   <Gun_HeavySMG.label>nehéz géppisztoly</Gun_HeavySMG.label>
   <Gun_HeavySMG.description>Kompakt, nagyobb kaliberű ólomköpködő. Nagyon rövid a hatótávja, de jó megállító ereje van és könnyű kezelni.</Gun_HeavySMG.description>
-  <Gun_HeavySMG.tools.0.label>markolat</Gun_HeavySMG.tools.0.label>
-  <Gun_HeavySMG.tools.1.label>cső</Gun_HeavySMG.tools.1.label>
+  <Gun_HeavySMG.tools.grip.label>markolat</Gun_HeavySMG.tools.grip.label>
+  <Gun_HeavySMG.tools.barrel.label>cső</Gun_HeavySMG.tools.barrel.label>
 
   <Bullet_LMG.label>géppuska lőszer</Bullet_LMG.label>
   <Gun_LMG.label>könnyű géppuska</Gun_LMG.label>
   <Gun_LMG.description>Egy könnyű géppuska.</Gun_LMG.description>
-  <Gun_LMG.tools.0.label>tus</Gun_LMG.tools.0.label>
-  <Gun_LMG.tools.1.label>cső</Gun_LMG.tools.1.label>
+  <Gun_LMG.tools.stock.label>tus</Gun_LMG.tools.stock.label>
+  <Gun_LMG.tools.barrel.label>cső</Gun_LMG.tools.barrel.label>
 
   <Bullet_AssaultRifle.label>gépkarabély lőszer</Bullet_AssaultRifle.label>
   <Gun_AssaultRifle.label>gépkarabély</Gun_AssaultRifle.label>
   <Gun_AssaultRifle.description>Általános hadászati fegyver városi vagy nyílt terepre. Három lövéses rövid sorozat, jó hatótáv, kis torkolati energia, nagy tűzsebesség jellemzi.</Gun_AssaultRifle.description>
-  <Gun_AssaultRifle.tools.0.label>tus</Gun_AssaultRifle.tools.0.label>
-  <Gun_AssaultRifle.tools.1.label>cső</Gun_AssaultRifle.tools.1.label>
+  <Gun_AssaultRifle.tools.stock.label>tus</Gun_AssaultRifle.tools.stock.label>
+  <Gun_AssaultRifle.tools.barrel.label>cső</Gun_AssaultRifle.tools.barrel.label>
 
   <!-- <Bullet_ChargeRifle.label>energiatöltet</Bullet_ChargeRifle.label> -->
   <!-- <Gun_ChargeRifle.label>energiafegyver</Gun_ChargeRifle.label> -->
   <!-- <Gun_ChargeRifle.description>Feltöltődött energialövedéket kilövő fegyver.</Gun_ChargeRifle.description> -->
-  <!-- <Gun_ChargeRifle.tools.0.label>tus</Gun_ChargeRifle.tools.0.label> -->
-  <!-- <Gun_ChargeRifle.tools.1.label>cső</Gun_ChargeRifle.tools.1.label> -->
+  <!-- <Gun_ChargeRifle.tools.stock.label>tus</Gun_ChargeRifle.tools.stock.label> -->
+  <!-- <Gun_ChargeRifle.tools.barrel.label>cső</Gun_ChargeRifle.tools.barrel.label> -->
 
   <Bullet_SniperRifle.label>mesterlövész puska lőszer</Bullet_SniperRifle.label>
   <Gun_SniperRifle.label>mesterlövész puska</Gun_SniperRifle.label>
   <Gun_SniperRifle.description>Antik katonai mesterlövész puska. Tolózár, nagy hatótáv, remek pontosság, nagy torkolati energia jellemzi.</Gun_SniperRifle.description>
-  <Gun_SniperRifle.tools.0.label>tus</Gun_SniperRifle.tools.0.label>
-  <Gun_SniperRifle.tools.1.label>cső</Gun_SniperRifle.tools.1.label>
+  <Gun_SniperRifle.tools.stock.label>tus</Gun_SniperRifle.tools.stock.label>
+  <Gun_SniperRifle.tools.barrel.label>cső</Gun_SniperRifle.tools.barrel.label>
 
   <Bullet_Minigun.label>miniágyú lőszer</Bullet_Minigun.label>
   <Gun_Minigun.label>miniágyú</Gun_Minigun.label>
   <Gun_Minigun.description>Több csöves géppuska nagyon magas tűzgyorsasággal. Mechanoidok készítették.</Gun_Minigun.description>
-  <Gun_Minigun.tools.0.label>csövek</Gun_Minigun.tools.0.label>
+  <Gun_Minigun.tools.barrels.label>csövek</Gun_Minigun.tools.barrels.label>
 
   <!-- <Bullet_Rocket.label>rakéta</Bullet_Rocket.label> -->
   <!-- <Gun_TripleRocket.label>tripla rakétavető</Gun_TripleRocket.label> -->
   <!-- <Gun_TripleRocket.description>Egyszer használatos rakétavető, ami három lövedéket lő ki gyors egymásutánban.</Gun_TripleRocket.description> -->
-  <!-- <Gun_TripleRocket.tools.0.label>cső</Gun_TripleRocket.tools.0.label> -->
+  <!-- <Gun_TripleRocket.tools.barrel.label>cső</Gun_TripleRocket.tools.barrel.label> -->
 
   <!-- <Bullet_DoomsdayRocket.label>ítéletnap rakéta</Bullet_DoomsdayRocket.label> -->
   <!-- <Gun_DoomsdayRocket.label>ítéletnap rakétavető</Gun_DoomsdayRocket.label> -->
   <!-- <Gun_DoomsdayRocket.description>Egyszer használatos rakétavető gyors megtorláshoz.</Gun_DoomsdayRocket.description> -->
-  <!-- <Gun_DoomsdayRocket.tools.0.label>cső</Gun_DoomsdayRocket.tools.0.label> -->
+  <!-- <Gun_DoomsdayRocket.tools.barrel.label>cső</Gun_DoomsdayRocket.tools.barrel.label> -->
 
   <!-- <Bullet_ChargeLance.label>energialándzsa lőszer</Bullet_ChargeLance.label> -->
   <!-- <Gun_ChargeLance.label>energialándzsa</Gun_ChargeLance.label> -->
   <!-- <Gun_ChargeLance.description>Energialövedéket használó lándzsa, mely feltöltődött lövedéket lő ki nagy sebességgel.</Gun_ChargeLance.description> -->
-  <!-- <Gun_ChargeLance.tools.0.label>cső</Gun_ChargeLance.tools.0.label> -->
+  <!-- <Gun_ChargeLance.tools.barrel.label>cső</Gun_ChargeLance.tools.barrel.label> -->
 
   <!-- <Bullet_InfernoCannon.label>infernoágyú lőszer</Bullet_InfernoCannon.label> -->
   <!-- <Gun_InfernoCannon.label>infernoágyú</Gun_InfernoCannon.label> -->
   <!-- <Gun_InfernoCannon.description>Gyújtó lövedéket használó mini ágyú. Mechanoidok készítették.</Gun_InfernoCannon.description> -->
-  <!-- <Gun_InfernoCannon.tools.0.label>cső</Gun_InfernoCannon.tools.0.label> -->
+  <!-- <Gun_InfernoCannon.tools.barrel.label>cső</Gun_InfernoCannon.tools.barrel.label> -->
 
   <!-- <Bullet_ChargeBlasterHeavy.label>energiaüteg lőszer</Bullet_ChargeBlasterHeavy.label> -->
   <!-- <Gun_ChargeBlasterHeavy.label>energiaüteg</Gun_ChargeBlasterHeavy.label> -->
   <!-- <Gun_ChargeBlasterHeavy.description>Nehéz üteg egy terület zárótűz alá való helyezéséhez. Mechanoidok készítették.</Gun_ChargeBlasterHeavy.description> -->
-  <!-- <Gun_ChargeBlasterHeavy.tools.0.label>cső</Gun_ChargeBlasterHeavy.tools.0.label> -->
+  <!-- <Gun_ChargeBlasterHeavy.tools.barrel.label>cső</Gun_ChargeBlasterHeavy.tools.barrel.label> -->
 
 </LanguageData>

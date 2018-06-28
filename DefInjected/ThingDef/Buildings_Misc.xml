@@ -2,95 +2,95 @@
 <LanguageData>
   <OrbitalTradeBeacon.label>orbitális jeladó</OrbitalTradeBeacon.label>
   <OrbitalTradeBeacon.description>Orbitális kereskedéshez szükséges. csak olyan árucikkeket lehet eladni, amik a jeladó közelében vannak. Beltérben is el lehet helyezni.</OrbitalTradeBeacon.description>
-  <OrbitalTradeBeacon_Blueprint.label>orbitális jeladó (tervrajz)</OrbitalTradeBeacon_Blueprint.label>
-  <OrbitalTradeBeacon_Blueprint_Install.label>orbitális jeladó (tervrajz)</OrbitalTradeBeacon_Blueprint_Install.label>
-  <OrbitalTradeBeacon_Frame.label>orbitális jeladó (építmény)</OrbitalTradeBeacon_Frame.label>
-  <OrbitalTradeBeacon_Frame.description>Orbitális kereskedéshez szükséges. csak olyan árucikkeket lehet eladni, amik a jeladó közelében vannak. Beltérben is el lehet helyezni.</OrbitalTradeBeacon_Frame.description>
+  <Blueprint_OrbitalTradeBeacon.label>orbitális jeladó (tervrajz)</Blueprint_OrbitalTradeBeacon.label>
+  <Blueprint_OrbitalTradeBeacon_Install.label>orbitális jeladó (tervrajz)</Blueprint_OrbitalTradeBeacon_Install.label>
+  <Frame_OrbitalTradeBeacon.label>orbitális jeladó (építmény)</Frame_OrbitalTradeBeacon.label>
+  <Frame_OrbitalTradeBeacon.description>Orbitális kereskedéshez szükséges. csak olyan árucikkeket lehet eladni, amik a jeladó közelében vannak. Beltérben is el lehet helyezni.</Frame_OrbitalTradeBeacon.description>
   <CommsConsole.label>komm. konzol</CommsConsole.label>
   <CommsConsole.description>Ezzel az eszközzel más frakciókkal és távoli kereskedőkkel lehet rádiókapcsolatot létesíteni árucsere és diplomácia ügyében.</CommsConsole.description>
-  <CommsConsole_Blueprint.label>komm. konzol (tervrajz)</CommsConsole_Blueprint.label>
-  <CommsConsole_Frame.label>komm. konzol (építmény)</CommsConsole_Frame.label>
-  <CommsConsole_Frame.description>Ezzel az eszközzel más frakciókkal és távoli kereskedőkkel lehet rádiókapcsolatot létesíteni árucsere és diplomácia ügyében.</CommsConsole_Frame.description>
+  <Blueprint_CommsConsole.label>komm. konzol (tervrajz)</Blueprint_CommsConsole.label>
+  <Frame_CommsConsole.label>komm. konzol (építmény)</Frame_CommsConsole.label>
+  <Frame_CommsConsole.description>Ezzel az eszközzel más frakciókkal és távoli kereskedőkkel lehet rádiókapcsolatot létesíteni árucsere és diplomácia ügyében.</Frame_CommsConsole.description>
   <FirefoamPopper.label>habbal oltó</FirefoamPopper.label>
   <FirefoamPopper.description>Tűzzel való érintkezésre vagy kézi aktiválásra habot locsol szét egy kör alakú területen maga körül.</FirefoamPopper.description>
-  <FirefoamPopper.comps.1.useLabel>Habot kiereszt</FirefoamPopper.comps.1.useLabel>
-  <FirefoamPopper_Blueprint.label>habbal oltó (tervrajz)</FirefoamPopper_Blueprint.label>
-  <FirefoamPopper_Blueprint_Install.label>habbal oltó (tervrajz)</FirefoamPopper_Blueprint_Install.label>
-  <FirefoamPopper_Frame.label>habbal oltó (építmény)</FirefoamPopper_Frame.label>
-  <FirefoamPopper_Frame.description>Tűzzel való érintkezésre vagy kézi aktiválásra habot locsol szét egy kör alakú területen maga körül.</FirefoamPopper_Frame.description>
+  <FirefoamPopper.comps.CompUsable.useLabel>Habot kiereszt</FirefoamPopper.comps.CompUsable.useLabel>
+  <Blueprint_FirefoamPopper.label>habbal oltó (tervrajz)</Blueprint_FirefoamPopper.label>
+  <Blueprint_FirefoamPopper_Install.label>habbal oltó (tervrajz)</Blueprint_FirefoamPopper_Install.label>
+  <Frame_FirefoamPopper.label>habbal oltó (építmény)</Frame_FirefoamPopper.label>
+  <Frame_FirefoamPopper.description>Tűzzel való érintkezésre vagy kézi aktiválásra habot locsol szét egy kör alakú területen maga körül.</Frame_FirefoamPopper.description>
   <MoisturePump.label>talajvíz pumpa</MoisturePump.label>
   <MoisturePump.description>Nagyon lassan eltávolítja a nedvességet a talajból, mocsárból illetve sekély vízből száraz talajt készít. Mély vízre nincs hatással.</MoisturePump.description>
-  <MoisturePump_Blueprint.label>talajvíz pumpa (tervrajz)</MoisturePump_Blueprint.label>
-  <MoisturePump_Frame.label>talajvíz pumpa (építmény)</MoisturePump_Frame.label>
-  <MoisturePump_Frame.description>Nagyon lassan eltávolítja a nedvességet a talajból, mocsárból illetve sekély vízből száraz talajt készít. Mély vízre nincs hatással.</MoisturePump_Frame.description>
+  <Blueprint_MoisturePump.label>talajvíz pumpa (tervrajz)</Blueprint_MoisturePump.label>
+  <Frame_MoisturePump.label>talajvíz pumpa (építmény)</Frame_MoisturePump.label>
+  <Frame_MoisturePump.description>Nagyon lassan eltávolítja a nedvességet a talajból, mocsárból illetve sekély vízből száraz talajt készít. Mély vízre nincs hatással.</Frame_MoisturePump.description>
   <GroundPenetratingScanner.label>talaj letapogató</GroundPenetratingScanner.label>
   <GroundPenetratingScanner.description>Lefelé néző radar, szonárral kombinálva. Lehetővé teszi föld alatti ásványok detektálását, de azonosításukat nem. Rengeteg energiát igényel.</GroundPenetratingScanner.description>
-  <GroundPenetratingScanner_Blueprint.label>talaj letapogató (tervrajz)</GroundPenetratingScanner_Blueprint.label>
-  <GroundPenetratingScanner_Frame.label>talaj letapogató (építmény)</GroundPenetratingScanner_Frame.label>
-  <GroundPenetratingScanner_Frame.description>Lefelé néző radar, szonárral kombinálva. Lehetővé teszi föld alatti ásványok detektálását, de azonosításukat nem. Rengeteg energiát igényel.</GroundPenetratingScanner_Frame.description>
+  <Blueprint_GroundPenetratingScanner.label>talaj letapogató (tervrajz)</Blueprint_GroundPenetratingScanner.label>
+  <Frame_GroundPenetratingScanner.label>talaj letapogató (építmény)</Frame_GroundPenetratingScanner.label>
+  <Frame_GroundPenetratingScanner.description>Lefelé néző radar, szonárral kombinálva. Lehetővé teszi föld alatti ásványok detektálását, de azonosításukat nem. Rengeteg energiát igényel.</Frame_GroundPenetratingScanner.description>
   <LongRangeMineralScanner.label>ásvány letapogató</LongRangeMineralScanner.label>
   <LongRangeMineralScanner.description>Automatikusan képes az értékes anyagok (jáde, arany) detektálására közeli körzetekben (kivéve, ahol a letapogató áll).\n\nÁtlagosan 30 naponta van találat, 30 egységnyi körzetben.\n\nTöbb letapogató építése ugyanoda nem növeli a találatok számát.</LongRangeMineralScanner.description>
-  <LongRangeMineralScanner_Blueprint.label>ásvány letapogató (tervrajz)</LongRangeMineralScanner_Blueprint.label>
-  <LongRangeMineralScanner_Frame.label>ásvány letapogató (építmény)</LongRangeMineralScanner_Frame.label>
-  <LongRangeMineralScanner_Frame.description>Automatikusan képes az értékes anyagok (jáde, arany) detektálására közeli körzetekben (kivéve, ahol a letapogató áll).\n\nÁtlagosan 30 naponta van találat, 30 egységnyi körzetben.\n\nTöbb letapogató építése ugyanoda nem növeli a találatok számát.</LongRangeMineralScanner_Frame.description>
+  <Blueprint_LongRangeMineralScanner.label>ásvány letapogató (tervrajz)</Blueprint_LongRangeMineralScanner.label>
+  <Frame_LongRangeMineralScanner.label>ásvány letapogató (építmény)</Frame_LongRangeMineralScanner.label>
+  <Frame_LongRangeMineralScanner.description>Automatikusan képes az értékes anyagok (jáde, arany) detektálására közeli körzetekben (kivéve, ahol a letapogató áll).\n\nÁtlagosan 30 naponta van találat, 30 egységnyi körzetben.\n\nTöbb letapogató építése ugyanoda nem növeli a találatok számát.</Frame_LongRangeMineralScanner.description>
   <PodLauncher.label>szállító kapszula kilövő</PodLauncher.label>
   <PodLauncher.description>Üzemanyagtöltő állás egy szállítókapszula kilövéséhez. Lehet egyszerre többet indítani, de ehhez szomszédosoknak kell lenniük.</PodLauncher.description>
-  <PodLauncher_Blueprint.label>szállítókapszula kilövő (tervrajz)</PodLauncher_Blueprint.label>
-  <PodLauncher_Frame.label>szállítókapszula kilövő (építmény)</PodLauncher_Frame.label>
-  <PodLauncher_Frame.description>Üzemanyagtöltő állás egy szállítókapszula kilövéséhez. Lehet egyszerre többet indítani, de ehhez szomszédosoknak kell lenniük.</PodLauncher_Frame.description>
+  <Blueprint_PodLauncher.label>szállítókapszula kilövő (tervrajz)</Blueprint_PodLauncher.label>
+  <Frame_PodLauncher.label>szállítókapszula kilövő (építmény)</Frame_PodLauncher.label>
+  <Frame_PodLauncher.description>Üzemanyagtöltő állás egy szállítókapszula kilövéséhez. Lehet egyszerre többet indítani, de ehhez szomszédosoknak kell lenniük.</Frame_PodLauncher.description>
   <TransportPod.label>szállító kapszula</TransportPod.label>
   <TransportPod.description>Rakétahajtású szállítókapszula emberek, tárgyak vagy állatok szuborbitális szállítására. Szállítás mellett használható támadásokhoz vagy utánpótlás biztosítására.</TransportPod.description>
-  <TransportPod_Blueprint.label>szállítókapszula (tervrajz)</TransportPod_Blueprint.label>
-  <TransportPod_Frame.label>szállítókapszula (építmény)</TransportPod_Frame.label>
-  <TransportPod_Frame.description>Rakétahajtású szállítókapszula emberek, tárgyak vagy állatok szuborbitális szállítására. Szállítás mellett használható támadásokhoz vagy utánpótlás biztosítására.</TransportPod_Frame.description>
+  <Blueprint_TransportPod.label>szállítókapszula (tervrajz)</Blueprint_TransportPod.label>
+  <Frame_TransportPod.label>szállítókapszula (építmény)</Frame_TransportPod.label>
+  <Frame_TransportPod.description>Rakétahajtású szállítókapszula emberek, tárgyak vagy állatok szuborbitális szállítására. Szállítás mellett használható támadásokhoz vagy utánpótlás biztosítására.</Frame_TransportPod.description>
   <MultiAnalyzer.label>multi analizátor</MultiAnalyzer.label>
   <MultiAnalyzer.description>Növeli a kutatás sebességét. Fejlett laborasztal mellé kell telepíteni. Egy multianalizátort csak egy laborasztallal lehet összekötni.</MultiAnalyzer.description>
-  <MultiAnalyzer_Blueprint.label>multi analizátor (tervrajz)</MultiAnalyzer_Blueprint.label>
-  <MultiAnalyzer_Blueprint_Install.label>multi analizátor (tervrajz)</MultiAnalyzer_Blueprint_Install.label>
-  <MultiAnalyzer_Frame.label>multi analizátor (építmény)</MultiAnalyzer_Frame.label>
-  <MultiAnalyzer_Frame.description>Növeli a kutatás sebességét. Fejlett laborasztal mellé kell telepíteni. Egy multianalizátort csak egy laborasztallal lehet összekötni.</MultiAnalyzer_Frame.description>
+  <Blueprint_MultiAnalyzer.label>multi analizátor (tervrajz)</Blueprint_MultiAnalyzer.label>
+  <Blueprint_MultiAnalyzer_Install.label>multi analizátor (tervrajz)</Blueprint_MultiAnalyzer_Install.label>
+  <Frame_MultiAnalyzer.label>multi analizátor (építmény)</Frame_MultiAnalyzer.label>
+  <Frame_MultiAnalyzer.description>Növeli a kutatás sebességét. Fejlett laborasztal mellé kell telepíteni. Egy multianalizátort csak egy laborasztallal lehet összekötni.</Frame_MultiAnalyzer.description>
   <VitalsMonitor.label>életfunkció monitor</VitalsMonitor.label>
   <VitalsMonitor.description>Növeli a betegellátás minőségét. Betegágy mellé kell telepíteni. Egy életfunkció monitor csak egy betegággyal lehet összekötve.</VitalsMonitor.description>
-  <VitalsMonitor_Blueprint.label>életfunkció monitor (tervrajz)</VitalsMonitor_Blueprint.label>
-  <VitalsMonitor_Blueprint_Install.label>életfunkció monitor (tervrajz)</VitalsMonitor_Blueprint_Install.label>
-  <VitalsMonitor_Frame.label>életfunkció monitor (építmény)</VitalsMonitor_Frame.label>
-  <VitalsMonitor_Frame.description>Növeli a betegellátás minőségét. Betegágy mellé kell telepíteni. Egy életfunkció monitor csak egy betegággyal lehet összekötve.</VitalsMonitor_Frame.description>
+  <Blueprint_VitalsMonitor.label>életfunkció monitor (tervrajz)</Blueprint_VitalsMonitor.label>
+  <Blueprint_VitalsMonitor_Install.label>életfunkció monitor (tervrajz)</Blueprint_VitalsMonitor_Install.label>
+  <Frame_VitalsMonitor.label>életfunkció monitor (építmény)</Frame_VitalsMonitor.label>
+  <Frame_VitalsMonitor.description>Növeli a betegellátás minőségét. Betegágy mellé kell telepíteni. Egy életfunkció monitor csak egy betegággyal lehet összekötve.</Frame_VitalsMonitor.description>
   <ToolCabinet.label>szerszám szekrény</ToolCabinet.label>
   <ToolCabinet.description>Növeli az előállítás sebességét. Munkaasztal mellé kell telepíteni. Egy munkaasztal két szerszámszekrénnyel lehet összeköttetésben.</ToolCabinet.description>
-  <ToolCabinet_Blueprint.label>szerszám szekrény (tervrajz)</ToolCabinet_Blueprint.label>
-  <ToolCabinet_Blueprint_Install.label>szerszám szekrény (tervrajz)</ToolCabinet_Blueprint_Install.label>
-  <ToolCabinet_Frame.label>szerszám szekrény (építmény)</ToolCabinet_Frame.label>
-  <ToolCabinet_Frame.description>Növeli az előállítás sebességét. Munkaasztal mellé kell telepíteni. Egy munkaasztal két szerszámszekrénnyel lehet összeköttetésben.</ToolCabinet_Frame.description>
+  <Blueprint_ToolCabinet.label>szerszám szekrény (tervrajz)</Blueprint_ToolCabinet.label>
+  <Blueprint_ToolCabinet_Install.label>szerszám szekrény (tervrajz)</Blueprint_ToolCabinet_Install.label>
+  <Frame_ToolCabinet.label>szerszám szekrény (építmény)</Frame_ToolCabinet.label>
+  <Frame_ToolCabinet.description>Növeli az előállítás sebességét. Munkaasztal mellé kell telepíteni. Egy munkaasztal két szerszámszekrénnyel lehet összeköttetésben.</Frame_ToolCabinet.description>
   <Grave.label>sír</Grave.label>
   <Grave.description>Helyezd a holtakat sírba, hogy megfelelő végső nyughelyet biztosít nekik. A gyarmatosok néha meglátogatják a foglalt sírhelyeket, meditatív elfoglaltságként.</Grave.description>
-  <Grave_Blueprint.label>sír (tervrajz)</Grave_Blueprint.label>
-  <Grave_Frame.label>sír (építmény)</Grave_Frame.label>
-  <Grave_Frame.description>Helyezd a holtakat sírba, hogy megfelelő végső nyughelyet biztosít nekik. A gyarmatosok néha meglátogatják a foglalt sírhelyeket, meditatív elfoglaltságként.</Grave_Frame.description>
+  <Blueprint_Grave.label>sír (tervrajz)</Blueprint_Grave.label>
+  <Frame_Grave.label>sír (építmény)</Frame_Grave.label>
+  <Frame_Grave.description>Helyezd a holtakat sírba, hogy megfelelő végső nyughelyet biztosít nekik. A gyarmatosok néha meglátogatják a foglalt sírhelyeket, meditatív elfoglaltságként.</Frame_Grave.description>
   <Sarcophagus.label>szarkofág</Sarcophagus.label>
   <Sarcophagus.description>Díszes sírhely a köztiszteletben álló halottnak.</Sarcophagus.description>
-  <Sarcophagus_Blueprint.label>szarkofág (tervrajz)</Sarcophagus_Blueprint.label>
-  <Sarcophagus_Frame.label>szarkofág (építmény)</Sarcophagus_Frame.label>
-  <Sarcophagus_Frame.description>Díszes sírhely a köztiszteletben álló halottnak.</Sarcophagus_Frame.description>
+  <Blueprint_Sarcophagus.label>szarkofág (tervrajz)</Blueprint_Sarcophagus.label>
+  <Frame_Sarcophagus.label>szarkofág (építmény)</Frame_Sarcophagus.label>
+  <Frame_Sarcophagus.description>Díszes sírhely a köztiszteletben álló halottnak.</Frame_Sarcophagus.description>
   <CryptosleepCasket.label>hibernáló</CryptosleepCasket.label>
   <CryptosleepCasket.description>Önfenntartó kapszula, ami egy személyt képes hosszú évekig hibernációban tartani.</CryptosleepCasket.description>
-  <CryptosleepCasket_Blueprint.label>hibernáló (tervrajz)</CryptosleepCasket_Blueprint.label>
-  <CryptosleepCasket_Frame.label>hibernáló (építmény)</CryptosleepCasket_Frame.label>
-  <CryptosleepCasket_Frame.description>Önfenntartó kapszula, ami egy személyt képes hosszú évekig hibernációban tartani.</CryptosleepCasket_Frame.description>
+  <Blueprint_CryptosleepCasket.label>hibernáló (tervrajz)</Blueprint_CryptosleepCasket.label>
+  <Frame_CryptosleepCasket.label>hibernáló (építmény)</Frame_CryptosleepCasket.label>
+  <Frame_CryptosleepCasket.description>Önfenntartó kapszula, ami egy személyt képes hosszú évekig hibernációban tartani.</Frame_CryptosleepCasket.description>
   <AncientCryptosleepCasket.label>ősi hibernáló</AncientCryptosleepCasket.label>
   <AncientCryptosleepCasket.description>Ősi önfenntartó kapszula, ami egy személyt képes hosszú évekig hibernációban tartani.</AncientCryptosleepCasket.description>
   <MarriageSpot.label>ceremónia hely</MarriageSpot.label>
   <MarriageSpot.description>Kijelöl egy helyet, ahol házassági ceremónia rendezhető. Nézők bármelyik oldalra állhatnak.</MarriageSpot.description>
-  <MarriageSpot_Blueprint.label>ceremónia hely (tervrajz)</MarriageSpot_Blueprint.label>
-  <MarriageSpot_Frame.label>ceremónia hely (építmény)</MarriageSpot_Frame.label>
-  <MarriageSpot_Frame.description>Kijelöl egy helyet, ahol házassági ceremónia rendezhető. Nézők bármelyik oldalra állhatnak.</MarriageSpot_Frame.description>
+  <Blueprint_MarriageSpot.label>ceremónia hely (tervrajz)</Blueprint_MarriageSpot.label>
+  <Frame_MarriageSpot.label>ceremónia hely (építmény)</Frame_MarriageSpot.label>
+  <Frame_MarriageSpot.description>Kijelöl egy helyet, ahol házassági ceremónia rendezhető. Nézők bármelyik oldalra állhatnak.</Frame_MarriageSpot.description>
   <PartySpot.label>buli hely</PartySpot.label>
   <PartySpot.description>Kijelöl egy helyet, ahol a bulik megrendezhetők. Az adott pont körül szabad területnek kell lennie.</PartySpot.description>
-  <PartySpot_Blueprint.label>buli hely (tervrajz)</PartySpot_Blueprint.label>
-  <PartySpot_Frame.label>buli hely (építmény)</PartySpot_Frame.label>
-  <PartySpot_Frame.description>Kijelöl egy helyet, ahol a bulik megrendezhetők. Az adott pont körül szabad területnek kell lennie.</PartySpot_Frame.description>
+  <Blueprint_PartySpot.label>buli hely (tervrajz)</Blueprint_PartySpot.label>
+  <Frame_PartySpot.label>buli hely (építmény)</Frame_PartySpot.label>
+  <Frame_PartySpot.description>Kijelöl egy helyet, ahol a bulik megrendezhetők. Az adott pont körül szabad területnek kell lennie.</Frame_PartySpot.description>
   <CaravanPackingSpot.label>karaván rakodóhely</CaravanPackingSpot.label>
   <CaravanPackingSpot.description>Kijelöl egy helyet, ahol karavánok alakíthatók.</CaravanPackingSpot.description>
-  <CaravanPackingSpot_Blueprint.label>karaván rakodóhely (tervrajz)</CaravanPackingSpot_Blueprint.label>
-  <CaravanPackingSpot_Frame.label>karaván rakodóhely (építmény)</CaravanPackingSpot_Frame.label>
-  <CaravanPackingSpot_Frame.description>Kijelöl egy helyet, ahol karavánok alakíthatók.</CaravanPackingSpot_Frame.description>
+  <Blueprint_CaravanPackingSpot.label>karaván rakodóhely (tervrajz)</Blueprint_CaravanPackingSpot.label>
+  <Frame_CaravanPackingSpot.label>karaván rakodóhely (építmény)</Frame_CaravanPackingSpot.label>
+  <Frame_CaravanPackingSpot.description>Kijelöl egy helyet, ahol karavánok alakíthatók.</Frame_CaravanPackingSpot.description>
 </LanguageData>

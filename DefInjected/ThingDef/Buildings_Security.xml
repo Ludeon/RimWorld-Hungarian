@@ -2,15 +2,15 @@
 <LanguageData>
   <Sandbags.label>homokzsák</Sandbags.label>
   <Sandbags.description>Fedezék lövések ellen.</Sandbags.description>
-  <Sandbags_Blueprint.label>homokzsák (tervrajz)</Sandbags_Blueprint.label>
-  <Sandbags_Frame.label>homokzsák (építmény)</Sandbags_Frame.label>
-  <Sandbags_Frame.description>Fedezék lövések ellen.</Sandbags_Frame.description>
+  <Blueprint_Sandbags.label>homokzsák (tervrajz)</Blueprint_Sandbags.label>
+  <Frame_Sandbags.label>homokzsák (építmény)</Frame_Sandbags.label>
+  <Frame_Sandbags.description>Fedezék lövések ellen.</Frame_Sandbags.description>
   <Turret_MiniTurret.label>robotágyú</Turret_MiniTurret.label>
   <Turret_MiniTurret.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</Turret_MiniTurret.description>
-  <Turret_MiniTurret_Blueprint.label>robotágyú (tervrajz)</Turret_MiniTurret_Blueprint.label>
-  <Turret_MiniTurret_Blueprint_Install.label>robotágyú (tervrajz)</Turret_MiniTurret_Blueprint_Install.label>
-  <Turret_MiniTurret_Frame.label>robotágyú (építmény)</Turret_MiniTurret_Frame.label>
-  <Turret_MiniTurret_Frame.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</Turret_MiniTurret_Frame.description>
+  <Blueprint_Turret_MiniTurret.label>robotágyú (tervrajz)</Blueprint_Turret_MiniTurret.label>
+  <Blueprint_Turret_MiniTurret_Install.label>robotágyú (tervrajz)</Blueprint_Turret_MiniTurret_Install.label>
+  <Frame_Turret_MiniTurret.label>robotágyú (építmény)</Frame_Turret_MiniTurret.label>
+  <Frame_Turret_MiniTurret.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</Frame_Turret_MiniTurret.description>
   <Bullet_MiniTurret.label>robotágyú lőszer </Bullet_MiniTurret.label>
   <Gun_MiniTurret.label>robotágyú</Gun_MiniTurret.label>
   <Gun_MiniTurret.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</Gun_MiniTurret.description>
@@ -19,9 +19,9 @@
 
   <Turret_Autocannon.label>nehéz robotágyú</Turret_Autocannon.label>
   <Turret_Autocannon.description>Nagy hatótávú nehéz robotágyú. Nagy kaliberű lövedéke súlyos sebeket ejt nagy távolságra lévő célpontokon, ám sűrűn kell cserélni a csövét, ami drága. Közelre nem tüzel. Ha megsérül, felrobbanhat.</Turret_Autocannon.description>
-  <Turret_Autocannon_Blueprint.label>nehéz robotágyú (tervrajz)</Turret_Autocannon_Blueprint.label>
-  <Turret_Autocannon_Frame.label>nehéz robotágyú (építmény)</Turret_Autocannon_Frame.label>
-  <Turret_Autocannon_Frame.description>Nagy hatótávú nehéz robotágyú. Nagy kaliberű lövedéke súlyos sebeket ejt nagy távolságra lévő célpontokon, ám sűrűn kell cserélni a csövét, ami drága. Közelre nem tüzel. Ha megsérül, felrobbanhat.</Turret_Autocannon_Frame.description>
+  <Blueprint_Turret_Autocannon.label>nehéz robotágyú (tervrajz)</Blueprint_Turret_Autocannon.label>
+  <Frame_Turret_Autocannon.label>nehéz robotágyú (építmény)</Frame_Turret_Autocannon.label>
+  <Frame_Turret_Autocannon.description>Nagy hatótávú nehéz robotágyú. Nagy kaliberű lövedéke súlyos sebeket ejt nagy távolságra lévő célpontokon, ám sűrűn kell cserélni a csövét, ami drága. Közelre nem tüzel. Ha megsérül, felrobbanhat.</Frame_Turret_Autocannon.description>
 
   <Bullet_AutocannonTurret.label>nehéz robotágyú lőszer </Bullet_AutocannonTurret.label>
 
@@ -30,10 +30,10 @@
   
   <Turret_Mortar.label>tarack (robbanó)</Turret_Mortar.label>
   <Turret_Mortar.description>Tarack, mely robbanó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_Mortar.description>
-  <Turret_Mortar_Blueprint.label>tarack (tervrajz)</Turret_Mortar_Blueprint.label>
-  <Turret_Mortar_Blueprint_Install.label>tarack (tervrajz)</Turret_Mortar_Blueprint_Install.label>
-  <Turret_Mortar_Frame.label>tarack (építmény)</Turret_Mortar_Frame.label>
-  <Turret_Mortar_Frame.description>Tarack, mely robbanó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_Mortar_Frame.description>
+  <Blueprint_Turret_Mortar.label>tarack (tervrajz)</Blueprint_Turret_Mortar.label>
+  <Blueprint_Turret_Mortar_Install.label>tarack (tervrajz)</Blueprint_Turret_Mortar_Install.label>
+  <Frame_Turret_Mortar.label>tarack (építmény)</Frame_Turret_Mortar.label>
+  <Frame_Turret_Mortar.description>Tarack, mely robbanó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Frame_Turret_Mortar.description>
   <Artillery_Mortar.label>tarack</Artillery_Mortar.label>
   <Artillery_Mortar.description>Gránátvető. Repeszgránátjait falakon túlra is ellövi. Nagyon pontatlan, de hatósugara méretes.</Artillery_Mortar.description>
  
@@ -58,38 +58,38 @@
   <!-- <Bullet_MortarEMP.label>EMP-gránát</Bullet_MortarEMP.label> -->
   <TrapDeadfall.label>sújtócsapda</TrapDeadfall.label>
   <TrapDeadfall.description>Felfüggesztett tüskés súly, melyet botlózsinór old ki. Ha valaki belép, a súly a fejére vagy a mellkasára esik.</TrapDeadfall.description>
-  <TrapDeadfall_Blueprint.label>sújtócsapda (tervrajz)</TrapDeadfall_Blueprint.label>
-  <TrapDeadfall_Frame.label>sújtócsapda (építmény)</TrapDeadfall_Frame.label>
-  <TrapDeadfall_Frame.description>Felfüggesztett tüskés súly, melyet botlózsinór old ki. Ha valaki belép, a súly a fejére vagy a mellkasára esik.</TrapDeadfall_Frame.description>
+  <Blueprint_TrapDeadfall.label>sújtócsapda (tervrajz)</Blueprint_TrapDeadfall.label>
+  <Frame_TrapDeadfall.label>sújtócsapda (építmény)</Frame_TrapDeadfall.label>
+  <Frame_TrapDeadfall.description>Felfüggesztett tüskés súly, melyet botlózsinór old ki. Ha valaki belép, a súly a fejére vagy a mellkasára esik.</Frame_TrapDeadfall.description>
  
   <TrapIED_HighExplosive.label>robbanószer csapda</TrapIED_HighExplosive.label>
   <TrapIED_HighExplosive.description>Ágyúlövedék házi készítésű elsütőszerkezettel, aminek véletlenszerű késleltetése van. Ez fürgébb ellenség számára lehetővé teheti a robbanás elkerülését.</TrapIED_HighExplosive.description>
-  <TrapIED_HighExplosive_Blueprint.label>robbanószer csapda (tervrajz)</TrapIED_HighExplosive_Blueprint.label>
-  <TrapIED_HighExplosive_Frame.label>robbanószer csapda (építmény)</TrapIED_HighExplosive_Frame.label>
-  <TrapIED_HighExplosive_Frame.description>Ágyúlövedék házi készítésű elsütőszerkezettel, aminek véletlenszerű késleltetése van. Ez fürgébb ellenség számára lehetővé teheti a robbanás elkerülését.</TrapIED_HighExplosive_Frame.description>
+  <Blueprint_TrapIED_HighExplosive.label>robbanószer csapda (tervrajz)</Blueprint_TrapIED_HighExplosive.label>
+  <Frame_TrapIED_HighExplosive.label>robbanószer csapda (építmény)</Frame_TrapIED_HighExplosive.label>
+  <Frame_TrapIED_HighExplosive.description>Ágyúlövedék házi készítésű elsütőszerkezettel, aminek véletlenszerű késleltetése van. Ez fürgébb ellenség számára lehetővé teheti a robbanás elkerülését.</Frame_TrapIED_HighExplosive.description>
  
   <TrapIED_Incendiary.label>gyújtóbomba csapda</TrapIED_Incendiary.label>
   <TrapIED_Incendiary.description>Robbanószer gyújtópasztával keverve, kémiai elsütőszerkezettel, ami egyszerű és megbízható.</TrapIED_Incendiary.description>
-  <TrapIED_Incendiary_Blueprint.label>gyújtóbomba csapda (tervrajz)</TrapIED_Incendiary_Blueprint.label>
-  <TrapIED_Incendiary_Frame.label>gyújtóbomba csapda (építmény)</TrapIED_Incendiary_Frame.label>
-  <TrapIED_Incendiary_Frame.description>Robbanószer gyújtópasztával keverve, kémiai elsütőszerkezettel, ami egyszerű és megbízható.</TrapIED_Incendiary_Frame.description>
+  <Blueprint_TrapIED_Incendiary.label>gyújtóbomba csapda (tervrajz)</Blueprint_TrapIED_Incendiary.label>
+  <Frame_TrapIED_Incendiary.label>gyújtóbomba csapda (építmény)</Frame_TrapIED_Incendiary.label>
+  <Frame_TrapIED_Incendiary.description>Robbanószer gyújtópasztával keverve, kémiai elsütőszerkezettel, ami egyszerű és megbízható.</Frame_TrapIED_Incendiary.description>
   
   <TrapIED_EMP.label>EMP csapda</TrapIED_EMP.label>
   <TrapIED_EMP.description>Egyszerű csapda EMP lövedékből házi készítésű elsütőszerkezettel. Robbanása megbénítja az elektronikus szerkezeteket pár másodpercre. Azok is beindíthatják, akikre nem hat.</TrapIED_EMP.description>
-  <TrapIED_EMP_Blueprint.label>EMP csapda (tervrajz)</TrapIED_EMP_Blueprint.label>
-  <TrapIED_EMP_Frame.label>EMP csapda (építmény)</TrapIED_EMP_Frame.label>
-  <TrapIED_EMP_Frame.description>Egyszerű csapda EMP lövedékből házi készítésű elsütőszerkezettel. Robbanása megbénítja az elektronikus szerkezeteket pár másodpercre. Azok is beindíthatják, akikre nem hat.</TrapIED_EMP_Frame.description>
+  <Blueprint_TrapIED_EMP.label>EMP csapda (tervrajz)</Blueprint_TrapIED_EMP.label>
+  <Frame_TrapIED_EMP.label>EMP csapda (építmény)</Frame_TrapIED_EMP.label>
+  <Frame_TrapIED_EMP.description>Egyszerű csapda EMP lövedékből házi készítésű elsütőszerkezettel. Robbanása megbénítja az elektronikus szerkezeteket pár másodpercre. Azok is beindíthatják, akikre nem hat.</Frame_TrapIED_EMP.description>
 
   <TrapIED_Firefoam.label>oltóhab csapda</TrapIED_Firefoam.label>
   <TrapIED_Firefoam.description>Ha valaki kioldja, a csapda felrobban és oltóhabot szór maga köré.</TrapIED_Firefoam.description>
-  <TrapIED_Firefoam_Blueprint.label>oltóhab csapda (tervrajz)</TrapIED_Firefoam_Blueprint.label>
-  <TrapIED_Firefoam_Frame.label>oltóhab csapda (építmény)</TrapIED_Firefoam_Frame.label>
-  <TrapIED_Firefoam_Frame.description>Ha valaki kioldja, a csapda felrobban és oltóhabot szór maga köré.</TrapIED_Firefoam_Frame.description>
+  <Blueprint_TrapIED_Firefoam.label>oltóhab csapda (tervrajz)</Blueprint_TrapIED_Firefoam.label>
+  <Frame_TrapIED_Firefoam.label>oltóhab csapda (építmény)</Frame_TrapIED_Firefoam.label>
+  <Frame_TrapIED_Firefoam.description>Ha valaki kioldja, a csapda felrobban és oltóhabot szór maga köré.</Frame_TrapIED_Firefoam.description>
 
   <TrapIED_AntigrainWarhead.label>antianyag robbanófej csapda</TrapIED_AntigrainWarhead.label>
   <TrapIED_AntigrainWarhead.description>Kis méretű antianyag robbanófej házi készítésű elsütőszerkezettel. Kioldáskor óriásit robban és tüzet gyújt maga körül.</TrapIED_AntigrainWarhead.description>
-  <TrapIED_AntigrainWarhead_Blueprint.label>antianyag robbanófej csapda (tervrajz)</TrapIED_AntigrainWarhead_Blueprint.label>
-  <TrapIED_AntigrainWarhead_Frame.label>antianyag robbanófej csapda (építmény)</TrapIED_AntigrainWarhead_Frame.label>
-  <TrapIED_AntigrainWarhead_Frame.description>Kis méretű antianyag robbanófej házi készítésű elsütőszerkezettel. Kioldáskor óriásit robban és tüzet gyújt maga körül.</TrapIED_AntigrainWarhead_Frame.description>
+  <Blueprint_TrapIED_AntigrainWarhead.label>antianyag robbanófej csapda (tervrajz)</Blueprint_TrapIED_AntigrainWarhead.label>
+  <Frame_TrapIED_AntigrainWarhead.label>antianyag robbanófej csapda (építmény)</Frame_TrapIED_AntigrainWarhead.label>
+  <Frame_TrapIED_AntigrainWarhead.description>Kis méretű antianyag robbanófej házi készítésű elsütőszerkezettel. Kioldáskor óriásit robban és tüzet gyújt maga körül.</Frame_TrapIED_AntigrainWarhead.description>
   
 </LanguageData>

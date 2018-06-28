@@ -10,7 +10,7 @@
   <TrapSpringChance.description>Ekkora eséllyel oldják ki ezt a csapdát, ha belelépnek.</TrapSpringChance.description>
   <ResearchSpeedFactor.label>kutatási sebesség szorzó</ResearchSpeedFactor.label>
   <ResearchSpeedFactor.description>Adott projekt kutatási sebességét befolyásolja ez az érték.</ResearchSpeedFactor.description>
-  <ResearchSpeedFactor.parts.1.customLabel>szoba tisztasága</ResearchSpeedFactor.parts.1.customLabel>
+  <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>szoba tisztasága</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
   <MedicalTendQualityOffset.label>ellátás minőség módosító</MedicalTendQualityOffset.label>
   <MedicalTendQualityOffset.description>Az ellátás minőségét befolyásolja.</MedicalTendQualityOffset.description>
   <ImmunityGainSpeedFactor.label>immunitás elérés szorzó</ImmunityGainSpeedFactor.label>
@@ -28,6 +28,6 @@
   
   <SurgerySuccessChanceFactor.label>sikeres műtét esélye</SurgerySuccessChanceFactor.label>
   <SurgerySuccessChanceFactor.description>Az itt elvégzett műtétek sikerességi szorzója. A sikert az orvos készsége és a használt gyógyszer is befolyásolja.</SurgerySuccessChanceFactor.description>
-  <SurgerySuccessChanceFactor.parts.0.customLabel>Szoba tisztasága</SurgerySuccessChanceFactor.parts.0.customLabel>
+  <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>Szoba tisztasága</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
 
 </LanguageData>

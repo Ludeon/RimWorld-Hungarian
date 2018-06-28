@@ -10,12 +10,12 @@
 		<!-- <li>name->[colonyname]</li> -->
 	<!-- </NamerFactionPlayerColonyRandomized.rulePack.rulesStrings> -->
 
-	<NamerFactionBasePlayerColony.rulePack.rulesStrings>
+	<NamerSettlementPlayerColony.rulePack.rulesStrings>
 		<li>name->Kolónia</li>
-	</NamerFactionBasePlayerColony.rulePack.rulesStrings>
-	<NamerFactionBasePlayerTribe.rulePack.rulesStrings>
+	</NamerSettlementPlayerColony.rulePack.rulesStrings>
+	<NamerSettlementPlayerTribe.rulePack.rulesStrings>
 		<li>name->Falva</li>
-	</NamerFactionBasePlayerTribe.rulePack.rulesStrings>
+	</NamerSettlementPlayerTribe.rulePack.rulesStrings>
 	<NamerFactionPirate.rulePack.rulesStrings>
 		<li>name->A [badassanimal]</li>
 		<li>name->[badassanimal] banda</li>
@@ -36,14 +36,14 @@
 		<li>name->[badassconcept] [groupname]</li>
 		<li>name->[badassconcept] [groupname]</li>
 	</NamerFactionPirate.rulePack.rulesStrings>
-	<NamerFactionBasePirate.rulePack.rulesStrings>
+	<NamerSettlementPirate.rulePack.rulesStrings>
 		<li>name->[badassanimal] [geography]</li>
 		<li>name->[badassconcept] [geography]</li>
 		<li>name->[badassanimal] [geography]</li>
 		<li>name->[badassperson] [geography]</li>
 		<li>geography->[terrainfeature]</li>
 		<li>geography->[community]</li>
-	</NamerFactionBasePirate.rulePack.rulesStrings>
+	</NamerSettlementPirate.rulePack.rulesStrings>
   <!-- Outlander -->
 
 	<!-- <OutlanderWord.rulePack.rulesStrings> -->
@@ -75,7 +75,7 @@
   <!--		<li>wordname->[syl][syl][endsyl]</li> -->
   <!--		<li>wordname->[syl][syl][endsyl]</li> -->
   <!--		<li>wordname->[syl][syl][syl][endsyl]</li> -->
-	<NamerFactionBaseOutlander.rulePack.rulesStrings>
+	<NamerSettlementOutlander.rulePack.rulesStrings>
 		<li>name->[positiveconcept] [terrainfeature]</li>
 		<li>name->[outlander] [terrainfeature]</li>
 		<li>name->[outlander] [community]</li>
@@ -102,7 +102,7 @@
 		<li>townend->mere</li>
 		<li>townend->shaw</li>
 		<li>townend->wick</li>
-	</NamerFactionBaseOutlander.rulePack.rulesStrings>
+	</NamerSettlementOutlander.rulePack.rulesStrings>
   
   <!-- Tribe -->
 
@@ -132,7 +132,7 @@
 		<li>tribalword->[syl][syl][syl]</li>
 		<li>tribalword->[syl][syl][syl][syl]</li>
 	</NamerFactionTribal.rulePack.rulesStrings>
-	<NamerFactionBaseTribal.rulePack.rulesStrings>
+	<NamerSettlementTribal.rulePack.rulesStrings>
 		<li>name->[tribalword]</li>
 		<li>name->[tribalword]</li>
 		<li>name->[color] [tribalword]</li>
@@ -141,7 +141,7 @@
 		<li>tribalword->[tribalwordfile]</li>
 		<li>tribalword->[syl][syl]</li>
 		<li>tribalword->[syl][syl][syl]</li>
-	</NamerFactionBaseTribal.rulePack.rulesStrings>
+	</NamerSettlementTribal.rulePack.rulesStrings>
 	<!-- <NamerFactionSpacer.rulePack.rulesStrings> -->
 		<!-- <li>name->Űrhajós</li> -->
 	<!-- </NamerFactionSpacer.rulePack.rulesStrings> -->
