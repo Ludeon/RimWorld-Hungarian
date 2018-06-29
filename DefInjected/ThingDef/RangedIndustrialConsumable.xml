@@ -1,17 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Gun_TripleRocket.label>triple rocket launcher</Gun_TripleRocket.label>
-  <Gun_TripleRocket.description>A single-use rocket launcher that fires a cluster of three large-bore explosive rockets. Because of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon.</Gun_TripleRocket.description>
-  <Gun_TripleRocket.tools.barrel.label>barrel</Gun_TripleRocket.tools.barrel.label>
-
-  <Bullet_Rocket.label>rocket</Bullet_Rocket.label>
-
-  <Gun_DoomsdayRocket.label>doomsday rocket launcher</Gun_DoomsdayRocket.label>
-  <Gun_DoomsdayRocket.description>A single-use rocket launcher that fires a massive explosive projectile. Because of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon.</Gun_DoomsdayRocket.description>
-  <Gun_DoomsdayRocket.tools.barrel.label>barrel</Gun_DoomsdayRocket.tools.barrel.label>
-
-  <Bullet_DoomsdayRocket.label>doomsday rocket</Bullet_DoomsdayRocket.label>
+ 
+  <Bullet_Rocket.label>rakéta</Bullet_Rocket.label>
+  <Gun_TripleRocket.label>tripla rakétavető</Gun_TripleRocket.label>
+  <Gun_TripleRocket.description>Egyszer használatos rakétavető, ami három lövedéket lő ki gyors egymásutánban. Kissé őrültnek kell lenni, hogy használatba vegyük.</Gun_TripleRocket.description>
+  <Gun_TripleRocket.tools.barrel.label>cső</Gun_TripleRocket.tools.barrel.label>
+  <Gun_TripleRocket.verbs.Verb_ShootOneUse.label>tripla rakétavető</Gun_TripleRocket.verbs.Verb_ShootOneUse.label>
+  
+  <Bullet_DoomsdayRocket.label>ítéletnap rakéta</Bullet_DoomsdayRocket.label>
+  <Gun_DoomsdayRocket.label>ítéletnap rakétavető</Gun_DoomsdayRocket.label>
+  <Gun_DoomsdayRocket.description>Egyszer használatos rakétavető gyors megtorláshoz. Kissé őrültnek kell lenni, hogy használatba vegyük.</Gun_DoomsdayRocket.description>
+  <Gun_DoomsdayRocket.tools.barrel.label>cső</Gun_DoomsdayRocket.tools.barrel.label>
+  <Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>ítéletnap rakétavető</Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>
+ 
+ 
 
 
 </LanguageData>

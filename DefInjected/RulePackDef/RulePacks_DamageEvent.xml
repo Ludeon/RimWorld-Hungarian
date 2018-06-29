@@ -2,10 +2,10 @@
 <LanguageData>
 
 	<DamageEvent_Include.rulePack.rulesStrings>
-		<li>logentry->[damageSource] [recipient_nameShortDef], [destroyed_present] [destroyed_targets].</li>
-		<li>logentry->[damageSource] [recipient_nameShortDef], [destroyed_present] [destroyed_targets] és [damaged_present] [damaged_targets].</li>
-		<li>logentry(recipient_part_destroyed_count==0)->[damageSource] [recipient_nameShortDef], [damaged_present] [damaged_targets].</li>
-		<li>logentry(p=0.1)->[damageSource] [recipient_nameShortDef].</li>
+		<li>r_logentry->[damageSource] [RECIPIENT_nameDef], [destroyed_present] [destroyed_targets].</li>
+		<li>r_logentry->[damageSource] [RECIPIENT_nameDef], [destroyed_present] [destroyed_targets] és [damaged_present] [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)->[damageSource] [RECIPIENT_nameDef], [damaged_present] [damaged_targets].</li>
+		<li>r_logentry(p=0.1)->[damageSource] [RECIPIENT_nameDef].</li>
 	</DamageEvent_Include.rulePack.rulesStrings>
 
 	<DamageEvent_Ceiling.rulePack.rulesStrings>

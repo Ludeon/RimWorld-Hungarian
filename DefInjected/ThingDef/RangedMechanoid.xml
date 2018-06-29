@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Bullet_InfernoCannon.label>inferno cannon shell</Bullet_InfernoCannon.label>
+  <Bullet_InfernoCannon.label>infernoágyú lőszer</Bullet_InfernoCannon.label>
+  <Gun_InfernoCannon.label>infernoágyú</Gun_InfernoCannon.label>
+  <Gun_InfernoCannon.description>Gyújtó lövedéket használó mini ágyú. Mechanoidok készítették.</Gun_InfernoCannon.description>
+  <Gun_InfernoCannon.tools.barrel.label>cső</Gun_InfernoCannon.tools.barrel.label>
+  <Gun_InfernoCannon.verbs.Verb_Shoot.label>infernoágyú</Gun_InfernoCannon.verbs.Verb_Shoot.label>
 
-  <Gun_InfernoCannon.label>inferno cannon</Gun_InfernoCannon.label>
-  <Gun_InfernoCannon.description>An incendiary-shot mini-artillery device. It fires a large incendiary warhead.</Gun_InfernoCannon.description>
-  <Gun_InfernoCannon.tools.barrel.label>barrel</Gun_InfernoCannon.tools.barrel.label>
-
-  <Bullet_ChargeBlasterHeavy.label>charge blaster shot</Bullet_ChargeBlasterHeavy.label>
-
-  <Gun_ChargeBlasterHeavy.label>heavy charge blaster</Gun_ChargeBlasterHeavy.label>
-  <Gun_ChargeBlasterHeavy.description>A pulse-charged rapid-fire blaster for area suppressive fire.</Gun_ChargeBlasterHeavy.description>
-  <Gun_ChargeBlasterHeavy.tools.barrel.label>barrel</Gun_ChargeBlasterHeavy.tools.barrel.label>
+  <Bullet_ChargeBlasterHeavy.label>energiaüteg lőszer</Bullet_ChargeBlasterHeavy.label>
+  <Gun_ChargeBlasterHeavy.label>energiaüteg</Gun_ChargeBlasterHeavy.label>
+  <Gun_ChargeBlasterHeavy.description>Nehéz üteg egy terület zárótűz alá való helyezéséhez. Mechanoidok készítették.</Gun_ChargeBlasterHeavy.description>
+  <Gun_ChargeBlasterHeavy.tools.barrel.label>cső</Gun_ChargeBlasterHeavy.tools.barrel.label>
+  <Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>energiaüteg</Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>
 
 
 </LanguageData>

@@ -156,74 +156,81 @@
 		<li>destroyed_suffix(recipient_flesh!=Mechanoid)->véres kupacra</li>
 	</Maneuver_Scratch.rulePack.rulesStrings>
 
-	<!-- <Poke.rulePack.rulesStrings> -->
-		<!-- <li>damaged_inf(p=2)->bökés</li> -->
-		<!-- <li>damaged_inf(p=2)->szúrás</li> -->
-		<!-- <li>damaged_inf->döfés</li> -->
-		<!-- <li>damaged_inf->szúrás</li> -->
-		<!-- <li>damaged_inf->döfés</li> -->
-		<!-- <li>damaged_past(p=2)->bökött</li> -->
-		<!-- <li>damaged_past(p=2)->szúrt</li> -->
-		<!-- <li>damaged_past->döfött</li> -->
-		<!-- <li>damaged_past->szúrt</li> -->
-		<!-- <li>damaged_past->döfött</li> -->
-		<!-- <li>maneuver_present(p=2)->bökve</li> -->
-		<!-- <li>maneuver_present(p=2)->szúrva</li> -->
-		<!-- <li>maneuver_present->döfve</li> -->
-		<!-- <li>maneuver_present->szúrva</li> -->
-		<!-- <li>maneuver_present->döfve</li> -->
-		<!-- <li>flavortextconsequence(recipient_flesh!=Mechanoid)->óriási horzsolást hagyva</li> -->
-		<!-- <li>flavortextconsequence->egyértelmű elváltozást hagyva</li> -->
-		<!-- <li>flavortextconsequence->kibillentve egyensúlyából ezt: [recipient_objective]</li> -->
-		<!-- <li>flavortextconsequence->kibillentve oldalra ezt: [recipient_objective]</li> -->
-		<!-- <li>destroyed_past->zúzott</li> -->
-		<!-- <li>destroyed_past->összetört</li> -->
-		<!-- <li>destroyed_past->megsemmisült</li> -->
-		<!-- <li>destroyed_past->megsemmisült</li> -->
-		<!-- <li>destroyed_past->összetört</li> -->
-		<!-- <li>destroyed_present->szétzúzva</li> -->
-		<!-- <li>destroyed_present->összetörve</li> -->
-		<!-- <li>destroyed_present->megsemmisítve</li> -->
-		<!-- <li>destroyed_present->megsemmisítve</li> -->
-		<!-- <li>destroyed_present->összetörve</li> -->
-		<!-- <li>destroyed_suffix->darabokra</li> -->
-		<!-- <li>destroyed_suffix->darabkákra</li> -->
-		<!-- <li>destroyed_suffix(recipient_flesh!=Mechanoid)->köddé</li> -->
-		<!-- <li>destroyed_suffix->darabkákra</li> -->
-	<!-- </Poke.rulePack.rulesStrings> -->
+	<Maneuver_Poke.rulePack.rulesStrings>
+		<li>damaged_inf(p=2)->bökés</li>
+		<li>damaged_inf(p=2)->szúrás</li>
+		<li>damaged_inf->döfés</li>
+		<li>damaged_inf->szúrás</li>
+		<li>damaged_inf->döfés</li>
+		<li>damaged_past(p=2)->bökött</li>
+		<li>damaged_past(p=2)->szúrt</li>
+		<li>damaged_past->döfött</li>
+		<li>damaged_past->szúrt</li>
+		<li>damaged_past->döfött</li>
+		<li>maneuver_present(p=2)->bökve</li>
+		<li>maneuver_present(p=2)->szúrva</li>
+		<li>maneuver_present->döfve</li>
+		<li>maneuver_present->szúrva</li>
+		<li>maneuver_present->döfve</li>
+		<li>flavortextconsequence(recipient_flesh!=Mechanoid)->óriási horzsolást hagyva</li>
+		<li>flavortextconsequence->egyértelmű elváltozást hagyva</li>
+		<li>flavortextconsequence->kibillentve egyensúlyából ezt: [recipient_objective]</li>
+		<li>flavortextconsequence->kibillentve oldalra ezt: [recipient_objective]</li>
+		<li>destroyed_past->zúzott</li>
+		<li>destroyed_past->összetört</li>
+		<li>destroyed_past->megsemmisült</li>
+		<li>destroyed_past->megsemmisült</li>
+		<li>destroyed_past->összetört</li>
+		<li>destroyed_present->szétzúzva</li>
+		<li>destroyed_present->összetörve</li>
+		<li>destroyed_present->megsemmisítve</li>
+		<li>destroyed_present->megsemmisítve</li>
+		<li>destroyed_present->összetörve</li>
+		<li>destroyed_suffix->darabokra</li>
+		<li>destroyed_suffix->darabkákra</li>
+		<li>destroyed_suffix(recipient_flesh!=Mechanoid)->köddé</li>
+		<li>destroyed_suffix->darabkákra</li>
+	</Maneuver_Poke.rulePack.rulesStrings>
 
-	<!-- <Bite.rulePack.rulesStrings> -->
-		<!-- <li>damaged_inf->harapás</li> -->
-		<!-- <li>damaged_inf->harapás</li> -->
-		<!-- <li>damaged_inf(p=0.5)->harapás</li> -->
-		<!-- <li>damaged_past->harapott</li> -->
-		<!-- <li>damaged_past->harapott</li> -->
-		<!-- <li>damaged_past->megkapott</li> -->
-		<!-- <li>damaged_past->rágott</li> -->
-		<!-- <li>damaged_past->tépett</li> -->
-		<!-- <li>maneuver_present->harapva</li> -->
-		<!-- <li>maneuver_present->harapva</li> -->
-		<!-- <li>maneuver_present->harapva</li> -->
-		<!-- <li>maneuver_present->rágva</li> -->
-		<!-- <li>maneuver_present->tépve</li> -->
-		<!-- <li>flavortextconsequence(recipient_flesh!=Mechanoid)->amin keresztül látszik a hús</li> -->
-		<!-- <li>flavortextconsequence(recipient_flesh==Mechanoid)->amin keresztül látszik a gépezet</li> -->
-		<!-- <li>flavortextconsequence(recipient_flesh!=Mechanoid)->rémes tépéseket hagyva a bőrön</li> -->
-		<!-- <li>flavortextconsequence(recipient_flesh==Mechanoid)->rémes tépéseket hagyva a fémen</li> -->
-		<!-- <li>destroyed_past->bekebelezett</li> -->
-		<!-- <li>destroyed_past->szétszedett</li> -->
-		<!-- <li>destroyed_past->tépett</li> -->
-		<!-- <li>destroyed_past->elpusztított</li> -->
-		<!-- <li>destroyed_present->bekebelezve</li> -->
-		<!-- <li>destroyed_present->szétszedve</li> -->
-		<!-- <li>destroyed_present->széttépve</li> -->
-		<!-- <li>destroyed_present->elpusztítva</li> -->
-		<!-- <li>destroyed_suffix->ronggyá</li> -->
-		<!-- <li>destroyed_suffix->darabokra</li> -->
-		<!-- <li>destroyed_suffix->csíkokra</li> -->
-		<!-- <li>destroyed_suffix(recipient_flesh!=Mechanoid)->mocskos csíkokra</li> -->
-		<!-- <li>destroyed_suffix(recipient_flesh!=Mechanoid)->felismerhetetlen kupacra</li> -->
-	<!-- </Bite.rulePack.rulesStrings> -->
+	<Maneuver_Bite.rulePack.rulesStrings>
+		<li>damaged_inf->harapás</li>
+		<li>damaged_inf->harapás</li>
+		<li>damaged_inf(p=0.5)->harapás</li>
+		<li>damaged_past->harapott</li>
+		<li>damaged_past->harapott</li>
+		<li>damaged_past->megkapott</li>
+		<li>damaged_past->rágott</li>
+		<li>damaged_past->tépett</li>
+		<li>maneuver_present->harapva</li>
+		<li>maneuver_present->harapva</li>
+		<li>maneuver_present->harapva</li>
+		<li>maneuver_present->rágva</li>
+		<li>maneuver_present->tépve</li>
+		<li>flavortextconsequence(recipient_flesh!=Mechanoid)->amin keresztül látszik a hús</li>
+		<li>flavortextconsequence(recipient_flesh==Mechanoid)->amin keresztül látszik a gépezet</li>
+		<li>flavortextconsequence(recipient_flesh!=Mechanoid)->rémes tépéseket hagyva a bőrön</li>
+		<li>flavortextconsequence(recipient_flesh==Mechanoid)->rémes tépéseket hagyva a fémen</li>
+		<li>destroyed_past->bekebelezett</li>
+		<li>destroyed_past->szétszedett</li>
+		<li>destroyed_past->tépett</li>
+		<li>destroyed_past->elpusztított</li>
+		<li>destroyed_present->bekebelezve</li>
+		<li>destroyed_present->szétszedve</li>
+		<li>destroyed_present->széttépve</li>
+		<li>destroyed_present->elpusztítva</li>
+		<li>destroyed_suffix->ronggyá</li>
+		<li>destroyed_suffix->darabokra</li>
+		<li>destroyed_suffix->csíkokra</li>
+		<li>destroyed_suffix(recipient_flesh!=Mechanoid)->mocskos csíkokra</li>
+		<li>destroyed_suffix(recipient_flesh!=Mechanoid)->felismerhetetlen kupacra</li>
+	</Maneuver_Bite.rulePack.rulesStrings>
 
+  <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] belerúgta ezt: [TOOL_label] [RECIPIENT_definite] szemébe.</Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings.0>
+  <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings.1>r_logentry(p=0.2)->[INITIATOR_definite] belerúgott egy adagot ebből: [TOOL_label] in [RECIPIENT_definite] szemébe.</Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings.1>
+
+  <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] megpróbálta belerúgni ezt: [TOOL_label] [RECIPIENT_definite] szemébe, de elhibázta.</Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings.0>
+
+  <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] megpróbálta belerúgni ezt: [TOOL_label] [RECIPIENT_definite] szemébe, de [RECIPIENT_definite] elugrott.</Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings.0>
+  <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings.1>r_logentry->[INITIATOR_definite] megpróbálta belerúgni ezt: [TOOL_label] [RECIPIENT_definite] szemébe, de [RECIPIENT_definite] hárított.</Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings.1>
 
 </LanguageData>

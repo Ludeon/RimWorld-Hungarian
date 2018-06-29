@@ -5,17 +5,18 @@
 		<li>duetoa->emiatt:</li>
 		<li>duetoa(p=0.5)->emiatt:</li>
 		<li>duetoa(p=0.5)->ennek köszönhetően:</li>
-		<li>subject_definite->[subject_labelDefinite]</li>
-		<li>subject_definite->[subject_nameShortDef]</li>
+		<!-- <li>subject_definite->[subject_labelDefinite]</li> -->
+		<!-- <li>subject_definite->[subject_nameShortDef]</li> -->
 	</Transition_Include.rulePack.rulesStrings>
 
 	<Transition_Downed.rulePack.rulesStrings>
-		<li>logentry->[culpritHediff_labelNoun] ezt okozta: [collapsemeta], neki: [subject_definite].</li>
-		<li>logentry->[culpritHediff_labelNoun], cél: [subject_definite] [culpritHediff_target_label], ezt okozta: [collapsemeta].</li>
-		<li>logentry->[subject_definite] [collapsedmeta], [duetoa] [culpritHediff_labelNoun].</li>
-		<li>logentry->[subject_definite] [collapsedmeta], [duetoa] [culpritHediff_labelNoun], cél: [culpritHediff_target_label].</li>
-		<li>logentry->[subject_definite] [collapsedmeta], [duetoa] [culpritHediff_labelNoun], cél: [culpritHediff_target_label].</li>
-		<li>logentry(p=0.1)->[subject_definite] [collapsedmeta].</li>
+		<li>r_logentry->[culpritHediff_labelNoun] ezt okozta: [collapsemeta], neki: [SUBJECT_definite].</li>
+		<li>r_logentry->[CULPRITHEDIFF_labelNounPretty] ezt okozta: [collapsemeta], neki: [SUBJECT_definite].</li>
+		<li>r_logentry->[culpritHediff_labelNoun], cél: [subject_definite] [culpritHediff_target_label], ezt okozta: [collapsemeta].</li>
+		<li>r_logentry->[subject_definite] [collapsedmeta], [duetoa] [culpritHediff_labelNoun].</li>
+		<li>r_logentry->[subject_definite] [collapsedmeta], [duetoa] [CULPRITHEDIFF_labelNounPretty], cél: [culpritHediff_target_label].</li>
+		<li>r_logentry->[subject_definite] [collapsedmeta], [duetoa] [culpritHediff_labelNoun], cél: [culpritHediff_target_label].</li>
+		<li>r_logentry(p=0.1)->[subject_definite] [collapsedmeta].</li>
 		<li>collapse->összeesik</li>
 		<li>collapse->összerogy</li>
 		<li>collapse->összeesik</li>
@@ -43,13 +44,13 @@
 	</Transition_Downed.rulePack.rulesStrings>
 
 	<Transition_DiedInclude.rulePack.rulesStrings>
-		<li>logentry(p=1.5)->[culpritHediff_labelNoun] miatt [subject_definite] [die].</li>
-		<li>logentry(p=1.5)->[culpritHediff_labelNoun] ([culpritHediff_target_label]) miatt [subject_definite] [die].</li>
-		<li>logentry->[subject_definite] [died] [duetoa] [culpritHediff_labelNoun] [flavorsuffix].</li>
-		<li>logentry->[subject_definite] [died] [duetoa] [culpritHediff_labelNoun], cél: [culpritHediff_target_label] [flavorsuffix].</li>
-		<li>logentry->[subject_definite] [died] [duetoa] [culpritHediff_labelNoun], cél: [culpritHediff_target_label] [flavorsuffix].</li>
-		<li>logentry->[subject_definite] [died].</li>
-		<li>logentry->[subject_definite] [died] [flavorsuffix].</li>
+		<li>r_logentry(p=1.5)->[culpritHediff_labelNoun] miatt [subject_definite] [die].</li>
+		<li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNounPretty] ([culpritHediff_target_label]) miatt [subject_definite] [die].</li>
+		<li>r_logentry->[subject_definite] [died] [duetoa] [culpritHediff_labelNoun] [flavorsuffix].</li>
+		<li>r_logentry->[subject_definite] [died] [duetoa] [culpritHediff_labelNoun], cél: [culpritHediff_target_label] [flavorsuffix].</li>
+		<li>r_logentry->[subject_definite] [died] [duetoa] [CULPRITHEDIFF_labelNounPretty], cél: [culpritHediff_target_label] [flavorsuffix].</li>
+		<li>r_logentry->[subject_definite] [died].</li>
+		<li>r_logentry->[subject_definite] [died] [flavorsuffix].</li>
 	</Transition_DiedInclude.rulePack.rulesStrings>
 
 	<Transition_Died.rulePack.rulesStrings>

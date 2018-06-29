@@ -3,11 +3,15 @@
 
   <OrbitalTargeterBombardment.label>orbitális bomba célzó</OrbitalTargeterBombardment.label>
   <OrbitalTargeterBombardment.description>Ősi célzóeszköz egy bolygó körüli pályán keringő bombázórendszerhez. Az egység elküldi a kijelölt célpont koordinátáit egy szatellit hálózatnak, ami eztán lebombázza azt. Az eszköz át lett programozva, hogy jogosulatlan felhasználók parancsait is elfogadja, ám használat után a rendszer felismeri a behatolót és örökre kizárja.</OrbitalTargeterBombardment.description>
+  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>orbitális bomba célzó</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
+  
 
   <OrbitalTargeterPowerBeam.label>orbitális energiasugár célzó</OrbitalTargeterPowerBeam.label>
   <OrbitalTargeterPowerBeam.description>Ősi célzóeszköz egy bolygó körüli pályán keringő energiagyűjtő rendszerhez. Az egység elküldi a kijelölt célpont koordinátáit egy szatellit hálózatnak, ami aztán erős energiasugarat küld oda. Ez az energia begyűjthető egy óriási gyűjtőtányérral. Mivel neked ilyened nincs, az ellenségre fogod irányítani, ahol az energianyaláb ezer fokos poklot generál. Ez addig tart, amíg a rendszer nem detektálja a kártékony célzást. Ekkor leállítja magát és a felhasználót örökre kizárja.</OrbitalTargeterPowerBeam.description>
+  <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>orbitális energiasugár célzó</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
 
   <TornadoGenerator.label>tornádo generátor</TornadoGenerator.label>
   <TornadoGenerator.description>Ősi vezérlő egy időjárás szabályozó szatellit rendszerhez. Az eszközön a megfelelő biztonsági rendszerek ki lettek iktatva, így erős légköri zavarokat lehet vele okozni, amik tornádót eredményeznek a cél körül. Használat után a rendszer felismeri a biztonsági problémát és örökre kizárja az eszközt, de a tornádó bejárja útját és energiáját leadja.</TornadoGenerator.description>
+  <TornadoGenerator.verbs.Verb_Spawn.label>tornádo generátor</TornadoGenerator.verbs.Verb_Spawn.label>
 
 </LanguageData>

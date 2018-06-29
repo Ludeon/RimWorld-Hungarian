@@ -1,223 +1,265 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<!-- <NamerUtility.rulePack.rulesStrings> -->
-		<!-- <li>name->[metaprefix] [standardname]</li> -->
-		<!-- <li>name(p=0.05)->[storyname] [suffix]</li> -->
-		<!-- <li>standardname->[prefix] [suffix]</li> -->
-		<!-- <li>metaprefix(p=10)-></li> -->
-		<!-- <li>metaprefix->[direction]</li> -->
-		<!-- <li>metaprefix->[derivative]</li> -->
-		<!-- <li>derivative->nagy</li> -->
-		<!-- <li>derivative->nagyobb</li> -->
-		<!-- <li>derivative->kisebb</li> -->
-		<!-- <li>derivative->óriás</li> -->
-		<!-- <li>derivative->új</li> -->
-		<!-- <li>derivative->öreg</li> -->
-		<!-- <li>prefix(p=0.5)->[animal]</li> -->
-		<!-- <li>prefix(p=0.5)->[color]</li> -->
-		<!-- <li>prefix(p=0.3)->[color][animal]</li> -->
-		<!-- <li>prefix(p=0.2)->[color] [animal]</li> -->
-		<!-- <li>prefix(p=0.3)->[naturaladjective][animal]</li> -->
-		<!-- <li>prefix(p=0.2)->[naturaladjective] [animal]</li> -->
-		<!-- <li>prefix(p=0.3)->[animal][bodypart]</li> -->
-		<!-- <li>prefix(p=0.2)->[animal] [bodypart]</li> -->
-		<!-- <li>prefix->[color][naturalobject]</li> -->
-		<!-- <li>prefix->[naturaladjective][bodypart]</li> -->
-		<!-- <li>prefix(p=2)->[tribalword]</li> -->
-		<!-- <li>prefix(p=2)->[outlanderword]</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] butasága</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] bűne</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] őrülete</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] hibája</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] vétsége</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] botlása</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] tévedése</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] öröme</li> -->
-		<!-- <li>storyname(p=0.5)->[subject] öröme</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] gyönyörűsége</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] csodája</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] büszkesége</li> -->
-		<!-- <li>storyname(p=0.5)->[subject] büszkesége</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] ékköve</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] jutalma</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] vérdíja</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] becsülete</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] nyereménye</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] trófeája</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] gőgje</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] önteltsége</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] padja</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] vesztesége</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] adóssága</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] összeomlása</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] pusztulása</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] kataklizmája</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] romjai</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] összeomlása</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] végzete</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] bukása</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] end</li> -->
-		<!-- <li>storyname(p=0.5)->[subject] vége</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] visszavonulása</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] vívmánya</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] fináléja</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] blöffje</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] trükkje</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] megtévesztése</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] látszata</li> -->
-		<!-- <li>storyname->[subject] [storyderivative] csalása</li> -->
-		<!-- <li>storyname(p=0.5)->[subject] [gore]</li> -->
-		<!-- <li>storyname->[subject] [bodypart]</li> -->
-		<!-- <li>storyderivative-></li> -->
-		<!-- <li>storyderivative(p=0.1)->[derivative]</li> -->
-		<!-- <li>subject(p=5)->[personname]</li> -->
-		<!-- <li>subject(p=1)->[animal]</li> -->
-		<!-- <li>subject(p=1)->[tribalword]</li> -->
-		<!-- <li>subject(p=1)->[outlanderword]</li> -->
-	<!-- </NamerUtility.rulePack.rulesStrings> -->
+	<WorldFeatureNamerCommon.rulePack.rulesStrings>
+		<li>r_name->[metaprefix] [standardname]</li>
+		<li>r_name(p=0.05)->[storyname] [terrain_word]</li>
+		<li>standardname->[narrative_name] [terrain_word]</li>
+		<li>metaprefix(p=10)-></li>
+		<li>metaprefix->[Direction]</li>
+		<li>metaprefix->[basic_adjective]</li>
+		<li>derivative->nagy</li>
+		<li>derivative->nagyobb</li>
+		<li>derivative->kisebb</li>
+		<li>derivative->óriás</li>
+		<li>derivative->új</li>
+		<li>derivative->öreg</li>
+		<li>narrative_name(p=12)->[WordTribal]</li>
+		<li>narrative_name(p=12)->[PlaceOutlander]</li>
+		<li>narrative_name->[Color][NaturalObject]</li>
+		<li>narrative_name->[AdjectiveNatural][BodyPart]</li>
+		<li>narrative_name->[Animal]</li>
+		<li>narrative_name->[Color]</li>
+		<li>narrative_name->[Color][Animal]</li>
+		<li>narrative_name->[AdjectiveNatural][Animal]</li>
+		<li>narrative_name->[Animal][BodyPart]</li>
+		<li>narrative_name->[Color] [Animal]</li>
+		<li>narrative_name->[AdjectiveNatural] [Animal]</li>
+		<li>narrative_name->[Animal] [BodyPart]</li>
+		<li>storyname(p=50)->[subject] [maybe_basic_adjective] [story_result]</li>
+		<li>storyname(p=2)->[subject] [BodyPart]</li>
+		<li>storyname->[subject] [Gore]</li>
+		<li>maybe_basic_adjective-></li>
+		<li>maybe_basic_adjective(p=0.1)->[basic_adjective]</li>
+		<li>subject(p=5)->[NamePerson]</li>
+		<li>subject->[Animal]</li>
+		<li>subject->[WordTribal]</li>
+		<li>subject->[PlaceOutlander]</li>
+		<li>story_result->butasága</li>
+		<li>story_result->bűne</li>
+		<li>story_result->őrülete</li>
+		<li>story_result->hibája</li>
+		<li>story_result->vétsége</li>
+		<li>story_result->botlása</li>
+		<li>story_result->tévedése</li>
+		<li>story_result->öröme</li>
+		<li>story_result->gyönyörűsége</li>
+		<li>story_result->csodája</li>
+		<li>story_result->büszkesége</li>
+		<li>story_result->ékköve</li>
+		<li>story_result->jutalma</li>
+		<li>story_result->vérdíja</li>
+		<li>story_result->becsülete</li>
+		<li>story_result->nyereménye</li>
+		<li>story_result->trófeája</li>
+		<li>story_result->gőgje</li>
+		<li>story_result->önteltsége</li>
+		<li>story_result->padja</li>
+		<li>story_result->vesztesége</li>
+		<li>story_result->adóssága</li>
+		<li>story_result->összeomlása</li>
+		<li>story_result->pusztulása</li>
+		<li>story_result->kataklizmája</li>
+		<li>story_result->romjai</li>
+		<li>story_result->összeomlása</li>
+		<li>story_result->végzete</li>
+		<li>story_result->bukása</li>
+		<li>story_result->end</li>
+		<li>story_result->visszavonulása</li>
+		<li>story_result->vívmánya</li>
+		<li>story_result->fináléja</li>
+		<li>story_result->blöffje</li>
+		<li>story_result->trükkje</li>
+		<li>story_result->megtévesztése</li>
+		<li>story_result->látszata</li>
+		<li>story_result->csalása</li>
+	</WorldFeatureNamerCommon.rulePack.rulesStrings>
 
 	<NamerMountainRange.rulePack.rulesStrings>
-		<li>standardname(p=0.2)->hegy [prefix]</li>
-		<li>suffix(p=5)->hegység</li>
-		<li>suffix(p=2)->legelő</li>
-		<li>suffix->csúcsok</li>
-		<li>suffix->dombság</li>
-		<li>suffix->hegység</li>
+		<li>standardname(p=0.2)->hegy [narrative_name]</li>
+		<li>terrain_word(p=5)->hegység</li>
+		<li>terrain_word(p=2)->legelő</li>
+		<li>terrain_word->csúcsok</li>
+		<li>terrain_word->dombság</li>
+		<li>terrain_word->hegység</li>
 	</NamerMountainRange.rulePack.rulesStrings>
 
 	<NamerArchipelago.rulePack.rulesStrings>
-		<li>standardname(p=0.2)->sziget [prefix]</li>
-		<li>suffix(p=4)->szigetek</li>
-		<li>suffix(p=3)->szigetek</li>
-		<li>suffix(p=3)->szigetvilág</li>
-		<li>suffix->zátony</li>
-		<li>suffix->atoll</li>
-		<li>suffix->sziklák</li>
-		<li>suffix->földek</li>
+		<li>standardname(p=0.2)->sziget [narrative_name]</li>
+		<li>terrain_word(p=4)->szigetek</li>
+		<li>terrain_word(p=3)->szigetek</li>
+		<li>terrain_word(p=3)->szigetvilág</li>
+		<li>terrain_word->zátony</li>
+		<li>terrain_word->atoll</li>
+		<li>terrain_word->sziklák</li>
+		<li>terrain_word->földek</li>
 	</NamerArchipelago.rulePack.rulesStrings>
 
 	<NamerIsland.rulePack.rulesStrings>
-		<li>mainname(p=0.2)->sziget [prefix]</li>
-		<li>suffix(p=4)->sziget</li>
-		<li>suffix(p=2)->sziget</li>
-		<li>suffix->zátony</li>
-		<li>suffix->szikla</li>
-		<li>suffix->pont</li>
+		<li>standardname(p=0.2)->sziget [narrative_name]</li>
+		<li>terrain_word(p=4)->sziget</li>
+		<li>terrain_word(p=2)->sziget</li>
+		<li>terrain_word->zátony</li>
+		<li>terrain_word->szikla</li>
+		<li>terrain_word->pont</li>
 	</NamerIsland.rulePack.rulesStrings>
 
 	<NamerPeninsula.rulePack.rulesStrings>
-		<li>standardname(p=0.2)->pont [prefix]</li>
-		<li>standardname(p=0.2)->fok [prefix]</li>
-		<li>suffix(p=8)->félsziget</li>
-		<li>suffix(p=2)->pont</li>
-		<li>suffix->fok</li>
-		<li>suffix->hegyfok</li>
-		<li>suffix->szarv</li>
+		<li>standardname(p=0.2)->pont [narrative_name]</li>
+		<li>standardname(p=0.2)->fok [narrative_name]</li>
+		<li>terrain_word(p=8)->félsziget</li>
+		<li>terrain_word(p=2)->pont</li>
+		<li>terrain_word->fok</li>
+		<li>terrain_word->hegyfok</li>
+		<li>terrain_word->szarv</li>
 	</NamerPeninsula.rulePack.rulesStrings>
 
 	<NamerBay.rulePack.rulesStrings>
-		<li>standardname(p=0.2)->[prefix] öble</li>
-		<li>suffix(p=6)->öböl</li>
-		<li>suffix->öböl</li>
-		<li>suffix->öböl</li>
-		<li>suffix->rév</li>
-		<li>suffix->szoros</li>
+		<li>standardname(p=0.2)->[narrative_name] öble</li>
+		<li>terrain_word(p=6)->öböl</li>
+		<li>terrain_word->öböl</li>
+		<li>terrain_word->öböl</li>
+		<li>terrain_word->rév</li>
+		<li>terrain_word->szoros</li>
 	</NamerBay.rulePack.rulesStrings>
 
 	<NamerLake.rulePack.rulesStrings>
-		<li>standardname->tó [prefix]</li>
-		<li>suffix(p=2)->tó</li>
-		<li>suffix->tenger</li>
+		<li>standardname->tó [narrative_name]</li>
+		<li>terrain_word(p=2)->tó</li>
+		<li>terrain_word->tenger</li>
 	</NamerLake.rulePack.rulesStrings>
 
 	<NamerSea.rulePack.rulesStrings>
-		<li>standardname(p=0.1)->tó [prefix]</li>
-		<li>suffix(p=6)->tenger</li>
-		<li>suffix->óceán</li>
-		<li>suffix->tó</li>
+		<li>standardname(p=0.1)->tó [narrative_name]</li>
+		<li>terrain_word(p=6)->tenger</li>
+		<li>terrain_word->óceán</li>
+		<li>terrain_word->tó</li>
 	</NamerSea.rulePack.rulesStrings>
 
-	<NamerOcean.rulePack.rulesStrings>
-		<li>standardname(p=0.1)->mélység [prefix]</li>
-		<li>suffix(p=6)->óceán</li>
-		<li>suffix->óceán</li>
-	</NamerOcean.rulePack.rulesStrings>
+	<NamerOcean.rulePack.rulesStrings.0>standardname(p=0.4)->[ocean_adjective] [narrative_name]</NamerOcean.rulePack.rulesStrings.0>
+  <NamerOcean.rulePack.rulesStrings.1>ocean_adjective->kék</NamerOcean.rulePack.rulesStrings.1>
+  <NamerOcean.rulePack.rulesStrings.2>ocean_adjective->fehér</NamerOcean.rulePack.rulesStrings.2>
+  <NamerOcean.rulePack.rulesStrings.3>ocean_adjective->szürke</NamerOcean.rulePack.rulesStrings.3>
+  <NamerOcean.rulePack.rulesStrings.4>ocean_adjective->tiszta</NamerOcean.rulePack.rulesStrings.4>
+  <NamerOcean.rulePack.rulesStrings.5>ocean_adjective->szeles</NamerOcean.rulePack.rulesStrings.5>
+  <NamerOcean.rulePack.rulesStrings.6>ocean_adjective->viharos</NamerOcean.rulePack.rulesStrings.6>
+  <NamerOcean.rulePack.rulesStrings.7>ocean_adjective->nyugodt</NamerOcean.rulePack.rulesStrings.7>
+  <NamerOcean.rulePack.rulesStrings.8>ocean_adjective->széles</NamerOcean.rulePack.rulesStrings.8>
+  <NamerOcean.rulePack.rulesStrings.9>ocean_adjective->végtelen</NamerOcean.rulePack.rulesStrings.9>
+  <NamerOcean.rulePack.rulesStrings.10>ocean_adjective->sima</NamerOcean.rulePack.rulesStrings.10>
+  <NamerOcean.rulePack.rulesStrings.11>ocean_adjective->csendes</NamerOcean.rulePack.rulesStrings.11>
+  <NamerOcean.rulePack.rulesStrings.12>ocean_adjective->hullámos</NamerOcean.rulePack.rulesStrings.12>
+  <NamerOcean.rulePack.rulesStrings.13>ocean_adjective->gentle</NamerOcean.rulePack.rulesStrings.13>
+  <NamerOcean.rulePack.rulesStrings.14>terrain_word(p=6)->óceán</NamerOcean.rulePack.rulesStrings.14>
+  <NamerOcean.rulePack.rulesStrings.15>terrain_word(p=3)->tenger</NamerOcean.rulePack.rulesStrings.15>
+  <NamerOcean.rulePack.rulesStrings.16>terrain_word->terület</NamerOcean.rulePack.rulesStrings.16>
 
-	<NamerDesert.rulePack.rulesStrings>
-		<li>suffix(p=6)->sivatag</li>
-		<li>suffix->fennsík</li>
-		<li>suffix->síkság</li>
-		<li>suffix->medence</li>
-		<li>suffix->puszta</li>
-		<li>suffix->pusztaság</li>
-		<li>suffix->meddő</li>
-	</NamerDesert.rulePack.rulesStrings>
+  <NamerDesert.rulePack.rulesStrings.0>standardname(p=0.4)->[desert_adjective] [narrative_name]</NamerDesert.rulePack.rulesStrings.0>
+  <NamerDesert.rulePack.rulesStrings.1>desert_adjective->sík</NamerDesert.rulePack.rulesStrings.1>
+  <NamerDesert.rulePack.rulesStrings.2>desert_adjective->fehér</NamerDesert.rulePack.rulesStrings.2>
+  <NamerDesert.rulePack.rulesStrings.3>desert_adjective->végtelen</NamerDesert.rulePack.rulesStrings.3>
+  <NamerDesert.rulePack.rulesStrings.4>desert_adjective->szívtelen</NamerDesert.rulePack.rulesStrings.4>
+  <NamerDesert.rulePack.rulesStrings.5>desert_adjective->sivár</NamerDesert.rulePack.rulesStrings.5>
+  <NamerDesert.rulePack.rulesStrings.6>desert_adjective->száraz</NamerDesert.rulePack.rulesStrings.6>
+  <NamerDesert.rulePack.rulesStrings.7>desert_adjective->hosszú</NamerDesert.rulePack.rulesStrings.7>
+  <NamerDesert.rulePack.rulesStrings.8>desert_adjective->napégette</NamerDesert.rulePack.rulesStrings.8>
+  <NamerDesert.rulePack.rulesStrings.9>desert_adjective->napos</NamerDesert.rulePack.rulesStrings.9>
+  <NamerDesert.rulePack.rulesStrings.10>desert_adjective->szédítő</NamerDesert.rulePack.rulesStrings.10>
+  <NamerDesert.rulePack.rulesStrings.11>desert_adjective->forró</NamerDesert.rulePack.rulesStrings.11>
+  <NamerDesert.rulePack.rulesStrings.12>desert_adjective->izzadt</NamerDesert.rulePack.rulesStrings.12>
+  <NamerDesert.rulePack.rulesStrings.13>desert_adjective->homokos</NamerDesert.rulePack.rulesStrings.13>
+  <NamerDesert.rulePack.rulesStrings.14>desert_adjective->köves</NamerDesert.rulePack.rulesStrings.14>
+  <NamerDesert.rulePack.rulesStrings.15>terrain_word(p=6)->sivatag</NamerDesert.rulePack.rulesStrings.15>
+  <NamerDesert.rulePack.rulesStrings.16>terrain_word->fennsík</NamerDesert.rulePack.rulesStrings.16>
+  <NamerDesert.rulePack.rulesStrings.17>terrain_word->síkság</NamerDesert.rulePack.rulesStrings.17>
+  <NamerDesert.rulePack.rulesStrings.18>terrain_word->medence</NamerDesert.rulePack.rulesStrings.18>
+  <NamerDesert.rulePack.rulesStrings.19>terrain_word->puszta</NamerDesert.rulePack.rulesStrings.19>
+  <NamerDesert.rulePack.rulesStrings.20>terrain_word->pusztaság</NamerDesert.rulePack.rulesStrings.20>
+  <NamerDesert.rulePack.rulesStrings.21>terrain_word->meddő</NamerDesert.rulePack.rulesStrings.21>
 
-	<NamerSwamp.rulePack.rulesStrings>
-		<li>standardname(p=0.1)->láp [prefix]</li>
-		<li>suffix(p=6)->mocsár</li>
-		<li>suffix->medence</li>
-		<li>suffix->vizenyő</li>
-		<li>suffix->holtág</li>
-		<li>suffix->láp</li>
-		<li>suffix->mocsár</li>
-		<li>suffix->láp</li>
-	</NamerSwamp.rulePack.rulesStrings>
+  <NamerSwamp.rulePack.rulesStrings.0>standardname(p=0.1)->fen [narrative_name]</NamerSwamp.rulePack.rulesStrings.0>
+  <NamerSwamp.rulePack.rulesStrings.1>standardname(p=0.3)->[swamp_adjective] [narrative_name]</NamerSwamp.rulePack.rulesStrings.1>
+  <NamerSwamp.rulePack.rulesStrings.2>swamp_adjective->nedves</NamerSwamp.rulePack.rulesStrings.2>
+  <NamerSwamp.rulePack.rulesStrings.3>swamp_adjective->párás</NamerSwamp.rulePack.rulesStrings.3>
+  <NamerSwamp.rulePack.rulesStrings.4>swamp_adjective->fojtó</NamerSwamp.rulePack.rulesStrings.4>
+  <NamerSwamp.rulePack.rulesStrings.5>swamp_adjective->rohadt</NamerSwamp.rulePack.rulesStrings.5>
+  <NamerSwamp.rulePack.rulesStrings.6>swamp_adjective->rohadó</NamerSwamp.rulePack.rulesStrings.6>
+  <NamerSwamp.rulePack.rulesStrings.7>swamp_adjective->buja</NamerSwamp.rulePack.rulesStrings.7>
+  <NamerSwamp.rulePack.rulesStrings.8>swamp_adjective->sűrű</NamerSwamp.rulePack.rulesStrings.8>
+  <NamerSwamp.rulePack.rulesStrings.9>swamp_adjective->indás</NamerSwamp.rulePack.rulesStrings.9>
+  <NamerSwamp.rulePack.rulesStrings.10>swamp_adjective->tüskés</NamerSwamp.rulePack.rulesStrings.10>
+  <NamerSwamp.rulePack.rulesStrings.11>terrain_word(p=6)->mocsár</NamerSwamp.rulePack.rulesStrings.11>
+  <NamerSwamp.rulePack.rulesStrings.12>terrain_word->medence</NamerSwamp.rulePack.rulesStrings.12>
+  <NamerSwamp.rulePack.rulesStrings.13>terrain_word->láp</NamerSwamp.rulePack.rulesStrings.13>
+  <NamerSwamp.rulePack.rulesStrings.14>terrain_word->ingovány</NamerSwamp.rulePack.rulesStrings.14>
+  <NamerSwamp.rulePack.rulesStrings.15>terrain_word->dágvány</NamerSwamp.rulePack.rulesStrings.15>
+  <NamerSwamp.rulePack.rulesStrings.16>terrain_word->semlyék</NamerSwamp.rulePack.rulesStrings.16>
+  <NamerSwamp.rulePack.rulesStrings.17>terrain_word->fen</NamerSwamp.rulePack.rulesStrings.17>
 
-	<NamerTropicalRainforest.rulePack.rulesStrings>
-		<li>suffix(p=6)->esőerdő</li>
-		<li>suffix(p=3)->dzsungel</li>
-		<li>suffix->erdő</li>
-		<li>suffix->liget</li>
-		<li>suffix->erdőség</li>
-		<li>suffix->bokros</li>
-	</NamerTropicalRainforest.rulePack.rulesStrings>
+  <NamerTropicalRainforest.rulePack.rulesStrings.0>standardname(p=0.3)->[rainforest_adjective] [narrative_name]</NamerTropicalRainforest.rulePack.rulesStrings.0>
+  <NamerTropicalRainforest.rulePack.rulesStrings.1>rainforest_adjective->nedves</NamerTropicalRainforest.rulePack.rulesStrings.1>
+  <NamerTropicalRainforest.rulePack.rulesStrings.2>rainforest_adjective->párás</NamerTropicalRainforest.rulePack.rulesStrings.2>
+  <NamerTropicalRainforest.rulePack.rulesStrings.3>rainforest_adjective->fojtó</NamerTropicalRainforest.rulePack.rulesStrings.3>
+  <NamerTropicalRainforest.rulePack.rulesStrings.4>rainforest_adjective->buja</NamerTropicalRainforest.rulePack.rulesStrings.4>
+  <NamerTropicalRainforest.rulePack.rulesStrings.5>rainforest_adjective->sűrű</NamerTropicalRainforest.rulePack.rulesStrings.5>
+  <NamerTropicalRainforest.rulePack.rulesStrings.6>rainforest_adjective->indás</NamerTropicalRainforest.rulePack.rulesStrings.6>
+  <NamerTropicalRainforest.rulePack.rulesStrings.7>rainforest_adjective->tüskés</NamerTropicalRainforest.rulePack.rulesStrings.7>
+  <NamerTropicalRainforest.rulePack.rulesStrings.8>terrain_word(p=6)->esőerdő</NamerTropicalRainforest.rulePack.rulesStrings.8>
+  <NamerTropicalRainforest.rulePack.rulesStrings.9>terrain_word(p=3)->dzsungel</NamerTropicalRainforest.rulePack.rulesStrings.9>
+  <NamerTropicalRainforest.rulePack.rulesStrings.10>terrain_word->erdő</NamerTropicalRainforest.rulePack.rulesStrings.10>
+  <NamerTropicalRainforest.rulePack.rulesStrings.11>terrain_word->berek</NamerTropicalRainforest.rulePack.rulesStrings.11>
+  <NamerTropicalRainforest.rulePack.rulesStrings.12>terrain_word->erdőség</NamerTropicalRainforest.rulePack.rulesStrings.12>
+  <NamerTropicalRainforest.rulePack.rulesStrings.13>terrain_word->dzsungel</NamerTropicalRainforest.rulePack.rulesStrings.13>
 
 	<NamerForest.rulePack.rulesStrings>
-		<li>suffix(p=6)->erdő</li>
-		<li>suffix->liget</li>
-		<li>suffix->erdőség</li>
-		<li>suffix->bozótos</li>
+		<li>terrain_word(p=6)->erdő</li>
+		<li>terrain_word->liget</li>
+		<li>terrain_word->erdőség</li>
+		<li>terrain_word->bozótos</li>
 	</NamerForest.rulePack.rulesStrings>
 
 	<NamerBorealForest.rulePack.rulesStrings>
-		<li>suffix(p=6)->erdő</li>
-		<li>suffix(p=3)->tajga</li>
-		<li>suffix->liget</li>
-		<li>suffix->erdőség</li>
-		<li>suffix->bokros</li>
-		<li>suffix->bozótos</li>
+		<li>terrain_word(p=6)->erdő</li>
+		<li>terrain_word(p=3)->tajga</li>
+		<li>terrain_word->liget</li>
+		<li>terrain_word->erdőség</li>
+		<li>terrain_word->bokros</li>
+		<li>terrain_word->bozótos</li>
 	</NamerBorealForest.rulePack.rulesStrings>
 
 	<NamerAridShrubland.rulePack.rulesStrings>
-		<li>suffix(p=4)->bokros</li>
-		<li>suffix(p=4)->cserjés</li>
-		<li>suffix(p=2)->fennsík</li>
-		<li>suffix(p=2)->cserje</li>
-		<li>suffix->sivatag</li>
-		<li>suffix->bokor</li>
-		<li>suffix->csalitos</li>
-		<li>suffix->puszta</li>
+		<li>terrain_word(p=4)->bokros</li>
+		<li>terrain_word(p=4)->cserjés</li>
+		<li>terrain_word(p=2)->fennsík</li>
+		<li>terrain_word(p=2)->cserje</li>
+		<li>terrain_word->sivatag</li>
+		<li>terrain_word->bokor</li>
+		<li>terrain_word->csalitos</li>
+		<li>terrain_word->puszta</li>
 	</NamerAridShrubland.rulePack.rulesStrings>
 
-	<NamerIceSheet.rulePack.rulesStrings>
-		<li>suffix->mező</li>
-	</NamerIceSheet.rulePack.rulesStrings>
+	<NamerIceSheet.rulePack.rulesStrings.0>terrain_word->tábla</NamerIceSheet.rulePack.rulesStrings.0>
+  <NamerIceSheet.rulePack.rulesStrings.1>terrain_word->mező</NamerIceSheet.rulePack.rulesStrings.1>
+  <NamerIceSheet.rulePack.rulesStrings.2>terrain_word(p=0.5)->tábla</NamerIceSheet.rulePack.rulesStrings.2>
+  <NamerIceSheet.rulePack.rulesStrings.3>terrain_word(p=0.3)->mező</NamerIceSheet.rulePack.rulesStrings.3>
+  <NamerIceSheet.rulePack.rulesStrings.4>terrain_word(p=0.3)->tábla</NamerIceSheet.rulePack.rulesStrings.4>
+  <NamerIceSheet.rulePack.rulesStrings.5>terrain_word(p=0.3)->mező</NamerIceSheet.rulePack.rulesStrings.5>
+  <NamerIceSheet.rulePack.rulesStrings.6>terrain_word(p=0.3)->tábla</NamerIceSheet.rulePack.rulesStrings.6>
+  <NamerIceSheet.rulePack.rulesStrings.7>terrain_word(p=0.3)->tábla</NamerIceSheet.rulePack.rulesStrings.7>
 
 	<NamerTundra.rulePack.rulesStrings>
-		<li>suffix(p=4)->fennsík</li>
-		<li>suffix(p=4)->puszta</li>
-		<li>suffix(p=2)->tajga</li>
-		<li>suffix->cserje</li>
-		<li>suffix->cserjés</li>
-		<li>suffix->csalitos</li>
-		<li>suffix->bokor</li>
-		<li>suffix->bokros</li>
-		<li>suffix->puszta</li>
-		<li>suffix->alföld</li>
-		<li>suffix->péri</li>
-		<li>suffix->síkság</li>
+		<li>terrain_word(p=4)->fennsík</li>
+		<li>terrain_word(p=4)->puszta</li>
+		<li>terrain_word(p=2)->tajga</li>
+		<li>terrain_word->cserje</li>
+		<li>terrain_word->cserjés</li>
+		<li>terrain_word->csalitos</li>
+		<li>terrain_word->bokor</li>
+		<li>terrain_word->bokros</li>
+		<li>terrain_word->puszta</li>
+		<li>terrain_word->alföld</li>
+		<li>terrain_word->péri</li>
+		<li>terrain_word->síkság</li>
 	</NamerTundra.rulePack.rulesStrings>
 
 

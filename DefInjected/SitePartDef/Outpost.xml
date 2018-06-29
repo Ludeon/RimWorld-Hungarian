@@ -2,6 +2,10 @@
 <LanguageData>
   <Outpost.label>őrhely</Outpost.label>
   <Outpost.description>Egy kicsi, őrzött telep.</Outpost.description>
-   <Outpost.descriptionDialogue>ellenséges őrhely van a helyen</Outpost.descriptionDialogue>
+  <Outpost.descriptionDialogue>ellenséges őrhely van a helyen</Outpost.descriptionDialogue>
+  <Outpost.approachOrderString>Megtámadni ezt: {0}</Outpost.approachOrderString>
+  <Outpost.approachingReportString>Támadja ezt: {0}</Outpost.approachingReportString>
+  <Outpost.arrivedLetter>Ellenséges őrhely van a körzetben.</Outpost.arrivedLetter>
+  <Outpost.arrivedLetterLabel>Ellenséges őrhely</Outpost.arrivedLetterLabel>  
 
 </LanguageData>

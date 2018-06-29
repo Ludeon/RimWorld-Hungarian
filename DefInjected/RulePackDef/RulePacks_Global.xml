@@ -1,19 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-	<GlobalUtility.rulePack.rulesStrings>
-		<li>quantity_adjphrase->egy csoport</li>
-		<li>quantity_adjphrase->néhány</li>
-		<li>quantity_adjphrase->tucatnyi</li>
-		<li>quantity_adjphrase->kettő</li>
-		<li>quantity_adjphrase->három</li>
-		<li>quantity_adjphrase->négy</li>
-		<li>quantity_adjphrase->öt</li>
-		<li>quantity_adjphrase->hat</li>
-		<li>quantity_adjphrase->számolatlan</li>
-		<li>quantity_adjphrase->sok</li>
-		<li>trans->-ból</li>
-		<li>trans->-nak</li>
-		<li>trans->-tól</li>
-		<li>trans->-vel</li>
-	</GlobalUtility.rulePack.rulesStrings>
+
+  <GlobalUtility.rulePack.rulesStrings.0>Trans->-ból</GlobalUtility.rulePack.rulesStrings.0>
+  <GlobalUtility.rulePack.rulesStrings.1>Trans->-nak</GlobalUtility.rulePack.rulesStrings.1>
+  <GlobalUtility.rulePack.rulesStrings.2>Trans->-tól</GlobalUtility.rulePack.rulesStrings.2>
+  <GlobalUtility.rulePack.rulesStrings.3>Trans->-vel</GlobalUtility.rulePack.rulesStrings.3>
+  <GlobalUtility.rulePack.rulesStrings.4>Character(p=6)->[PersonJob]</GlobalUtility.rulePack.rulesStrings.4>
+  <GlobalUtility.rulePack.rulesStrings.5>Character(p=4)->[Animal]</GlobalUtility.rulePack.rulesStrings.5>
+  <GlobalUtility.rulePack.rulesStrings.6>Character(p=3)->[Enemy]</GlobalUtility.rulePack.rulesStrings.6>
+  <GlobalUtility.rulePack.rulesStrings.7>Character->[Mechanoid]</GlobalUtility.rulePack.rulesStrings.7>
+  <GlobalUtility.rulePack.rulesStrings.8>Quantity_adjphrase->kettő</GlobalUtility.rulePack.rulesStrings.8>
+  <GlobalUtility.rulePack.rulesStrings.9>Quantity_adjphrase->három</GlobalUtility.rulePack.rulesStrings.9>
+  <GlobalUtility.rulePack.rulesStrings.10>Quantity_adjphrase->négy</GlobalUtility.rulePack.rulesStrings.10>
+  <GlobalUtility.rulePack.rulesStrings.11>Quantity_adjphrase->öt</GlobalUtility.rulePack.rulesStrings.11>
+  <GlobalUtility.rulePack.rulesStrings.12>Quantity_adjphrase->hat</GlobalUtility.rulePack.rulesStrings.12>
+  <GlobalUtility.rulePack.rulesStrings.13>Quantity_adjphrase->hét</GlobalUtility.rulePack.rulesStrings.13>
+  <GlobalUtility.rulePack.rulesStrings.14>Quantity_adjphrase->nyolc</GlobalUtility.rulePack.rulesStrings.14>
+  <GlobalUtility.rulePack.rulesStrings.15>Quantity_adjphrase->kilenc</GlobalUtility.rulePack.rulesStrings.15>
+  <GlobalUtility.rulePack.rulesStrings.16>Quantity_adjphrase->tíz</GlobalUtility.rulePack.rulesStrings.16>
+  <GlobalUtility.rulePack.rulesStrings.17>Quantity_adjphrase->néhány</GlobalUtility.rulePack.rulesStrings.17>
+  <GlobalUtility.rulePack.rulesStrings.18>Quantity_adjphrase->egy csoport</GlobalUtility.rulePack.rulesStrings.18>
+  <GlobalUtility.rulePack.rulesStrings.19>Quantity_adjphrase->nagy csoport</GlobalUtility.rulePack.rulesStrings.19>
+  <GlobalUtility.rulePack.rulesStrings.20>Quantity_adjphrase->tucatnyi</GlobalUtility.rulePack.rulesStrings.20>
+  <GlobalUtility.rulePack.rulesStrings.21>Quantity_adjphrase->százak</GlobalUtility.rulePack.rulesStrings.21>
+  <GlobalUtility.rulePack.rulesStrings.22>Quantity_adjphrase->ezer</GlobalUtility.rulePack.rulesStrings.22>
+  <GlobalUtility.rulePack.rulesStrings.23>Quantity_adjphrase->ezrek</GlobalUtility.rulePack.rulesStrings.23>
+  <GlobalUtility.rulePack.rulesStrings.24>Shape->háromszög</GlobalUtility.rulePack.rulesStrings.24>
+  <GlobalUtility.rulePack.rulesStrings.25>Shape->négyzet</GlobalUtility.rulePack.rulesStrings.25>
+  <GlobalUtility.rulePack.rulesStrings.26>Shape->négyszög</GlobalUtility.rulePack.rulesStrings.26>
+  <GlobalUtility.rulePack.rulesStrings.27>Shape->kúp</GlobalUtility.rulePack.rulesStrings.27>
+  <GlobalUtility.rulePack.rulesStrings.28>Shape->vonal</GlobalUtility.rulePack.rulesStrings.28>
+  <GlobalUtility.rulePack.rulesStrings.29>Shape->szív</GlobalUtility.rulePack.rulesStrings.29>
+  <GlobalUtility.rulePack.rulesStrings.30>Shape->csillag</GlobalUtility.rulePack.rulesStrings.30>
+  <GlobalUtility.rulePack.rulesStrings.31>Shape->kör</GlobalUtility.rulePack.rulesStrings.31>
+  <GlobalUtility.rulePack.rulesStrings.32>Shape->ellipszis</GlobalUtility.rulePack.rulesStrings.32>
+  <GlobalUtility.rulePack.rulesStrings.33>AdjectiveAny->[AdjectiveBadass]</GlobalUtility.rulePack.rulesStrings.33>
+  <GlobalUtility.rulePack.rulesStrings.34>AdjectiveAny->[AdjectiveAngsty]</GlobalUtility.rulePack.rulesStrings.34>
+  <GlobalUtility.rulePack.rulesStrings.35>AdjectiveAny->[AdjectiveFriendly]</GlobalUtility.rulePack.rulesStrings.35>
+  <GlobalUtility.rulePack.rulesStrings.36>AdjectiveAny->[AdjectiveNatural]</GlobalUtility.rulePack.rulesStrings.36>
+  <GlobalUtility.rulePack.rulesStrings.37>ConceptAny->[ConceptPositive]</GlobalUtility.rulePack.rulesStrings.37>
+  <GlobalUtility.rulePack.rulesStrings.38>ConceptAny->[ConceptBadass]</GlobalUtility.rulePack.rulesStrings.38>
+  <GlobalUtility.rulePack.rulesStrings.39>ConceptAny->[ConceptAngsty]</GlobalUtility.rulePack.rulesStrings.39>
+
+  <TalkTopicsUtility.rulePack.rulesStrings.0>TalkTopicAny->[TalkTopicLight]</TalkTopicsUtility.rulePack.rulesStrings.0>
+  <TalkTopicsUtility.rulePack.rulesStrings.1>TalkTopicAny->[TalkTopicHeavy]</TalkTopicsUtility.rulePack.rulesStrings.1>
+  <TalkTopicsUtility.rulePack.rulesStrings.2>TalkTopicLight->[Vegetable]</TalkTopicsUtility.rulePack.rulesStrings.2>
+  <TalkTopicsUtility.rulePack.rulesStrings.3>TalkTopicLight->[Vegetable] evés</TalkTopicsUtility.rulePack.rulesStrings.3>
+  <TalkTopicsUtility.rulePack.rulesStrings.4>TalkTopicLight->[Vegetable] főzés</TalkTopicsUtility.rulePack.rulesStrings.4>
+  <TalkTopicsUtility.rulePack.rulesStrings.5>TalkTopicLight->[Game]</TalkTopicsUtility.rulePack.rulesStrings.5>
+  <TalkTopicsUtility.rulePack.rulesStrings.6>TalkTopicLight->[Game] játszás</TalkTopicsUtility.rulePack.rulesStrings.6>
+  <TalkTopicsUtility.rulePack.rulesStrings.7>TalkTopicLight->[Game] gyakorlás</TalkTopicsUtility.rulePack.rulesStrings.7>
+  <TalkTopicsUtility.rulePack.rulesStrings.8>TalkTopicLight->[Game] tanulás</TalkTopicsUtility.rulePack.rulesStrings.8>
+  <TalkTopicsUtility.rulePack.rulesStrings.9>TalkTopicLight->[Animal]</TalkTopicsUtility.rulePack.rulesStrings.9>
+  <TalkTopicsUtility.rulePack.rulesStrings.10>TalkTopicLight->[Animal] idomítás</TalkTopicsUtility.rulePack.rulesStrings.10>
+  <TalkTopicsUtility.rulePack.rulesStrings.11>TalkTopicLight->[Animal] szelídítés</TalkTopicsUtility.rulePack.rulesStrings.11>
+  <TalkTopicsUtility.rulePack.rulesStrings.12>TalkTopicLight->[Animal] harc</TalkTopicsUtility.rulePack.rulesStrings.12>
+  <TalkTopicsUtility.rulePack.rulesStrings.13>TalkTopicLight->őrült [Animal]</TalkTopicsUtility.rulePack.rulesStrings.13>
+  <TalkTopicsUtility.rulePack.rulesStrings.14>TalkTopicLight->[Weapon]</TalkTopicsUtility.rulePack.rulesStrings.14>
+  <TalkTopicsUtility.rulePack.rulesStrings.15>TalkTopicLight->[Weapon] használat</TalkTopicsUtility.rulePack.rulesStrings.15>
+  <TalkTopicsUtility.rulePack.rulesStrings.16>TalkTopicLight->[Weapon] lövészet</TalkTopicsUtility.rulePack.rulesStrings.16>
+  <TalkTopicsUtility.rulePack.rulesStrings.17>TalkTopicLight->[TerrainFeature]</TalkTopicsUtility.rulePack.rulesStrings.17>
+  <TalkTopicsUtility.rulePack.rulesStrings.18>TalkTopicLight->[NaturalObject]</TalkTopicsUtility.rulePack.rulesStrings.18>
+  <TalkTopicsUtility.rulePack.rulesStrings.19>TalkTopicLight->[TreeType] fák</TalkTopicsUtility.rulePack.rulesStrings.19>
+  <TalkTopicsUtility.rulePack.rulesStrings.20>TalkTopicLight->[PersonJob]</TalkTopicsUtility.rulePack.rulesStrings.20>
+  <TalkTopicsUtility.rulePack.rulesStrings.21>TalkTopicLight->barátságos [PersonJob]</TalkTopicsUtility.rulePack.rulesStrings.21>
+  <TalkTopicsUtility.rulePack.rulesStrings.22>TalkTopicLight->ellenséges [PersonJob]s</TalkTopicsUtility.rulePack.rulesStrings.22>
+  <TalkTopicsUtility.rulePack.rulesStrings.23>TalkTopicLight->[Enemy]</TalkTopicsUtility.rulePack.rulesStrings.23>
+  <TalkTopicsUtility.rulePack.rulesStrings.24>TalkTopicLight->[Enemy] harc</TalkTopicsUtility.rulePack.rulesStrings.24>
+  <TalkTopicsUtility.rulePack.rulesStrings.25>TalkTopicLight->[Apparel]</TalkTopicsUtility.rulePack.rulesStrings.25>
+  <TalkTopicsUtility.rulePack.rulesStrings.26>TalkTopicLight->[Apparel] viselése</TalkTopicsUtility.rulePack.rulesStrings.26>
+  <TalkTopicsUtility.rulePack.rulesStrings.27>TalkTopicLight->[Apparel] készítése</TalkTopicsUtility.rulePack.rulesStrings.27>
+  <TalkTopicsUtility.rulePack.rulesStrings.28>TalkTopicLight->[Enemy]</TalkTopicsUtility.rulePack.rulesStrings.28>
+  <TalkTopicsUtility.rulePack.rulesStrings.29>TalkTopicLight->[Enemy] harc</TalkTopicsUtility.rulePack.rulesStrings.29>
+  <TalkTopicsUtility.rulePack.rulesStrings.30>TalkTopicLight->[Apparel]</TalkTopicsUtility.rulePack.rulesStrings.30>
+  <TalkTopicsUtility.rulePack.rulesStrings.31>TalkTopicLight->[Apparel] viselése</TalkTopicsUtility.rulePack.rulesStrings.31>
+  <TalkTopicsUtility.rulePack.rulesStrings.32>TalkTopicLight->[Apparel] készítése</TalkTopicsUtility.rulePack.rulesStrings.32>
+	
+	
+	
 </LanguageData>

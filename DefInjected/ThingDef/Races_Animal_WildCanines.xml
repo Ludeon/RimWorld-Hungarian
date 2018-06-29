@@ -13,11 +13,14 @@
   <Meat_Warg.description>Egy warg húsa.</Meat_Warg.description>
   <Corpse_Warg.label>warg tetem</Corpse_Warg.label>
   <Corpse_Warg.description>Egy warg teteme.</Corpse_Warg.description>
+  
   <Wolf_Timber.label>erdei farkas</Wolf_Timber.label>
   <Wolf_Timber.description>Életerős ragadozó, melyet sok földi kultúra fél. Bonyolult hierarchiájú falkában vadászik. Igen intelligens állat.</Wolf_Timber.description>
   <Wolf_Timber.tools.left_claw.label>bal mancs</Wolf_Timber.tools.left_claw.label>
   <Wolf_Timber.tools.right_claw.label>jobb mancs</Wolf_Timber.tools.right_claw.label>
   <Wolf_Timber.tools.head.label>fej</Wolf_Timber.tools.head.label>
+  <Wolf_Timber.race.meatLabel>farkashús</Wolf_Timber.race.meatLabel>
+  
  
 <!--   <Wolf_Timber_Leather.label>erdei farkasbőr</Wolf_Timber_Leather.label> -->
 <!--   <Wolf_Timber_Leather.description>Egy erdei farkas bőre.</Wolf_Timber_Leather.description> -->
@@ -50,11 +53,15 @@
   <Meat_Fox_Fennec.description>Egy sivatagi róka húsa.</Meat_Fox_Fennec.description>
   <Corpse_Fox_Fennec.label>sivatagi róka tetem</Corpse_Fox_Fennec.label>
   <Corpse_Fox_Fennec.description>Egy sivatagi róka teteme.</Corpse_Fox_Fennec.description>
+  <Fox_Fennec.race.meatLabel>rókahús</Fox_Fennec.race.meatLabel>
+  
+  
   <Fox_Red.label>róka</Fox_Red.label>
   <Fox_Red.description>Kistermetű, mérsékelt égövi, magányos kutyaféle. Apró állatokra vadászik.</Fox_Red.description>
   <Fox_Red.tools.left_claw.label>bal mancs</Fox_Red.tools.left_claw.label>
   <Fox_Red.tools.right_claw.label>jobb mancs</Fox_Red.tools.right_claw.label>
   <Fox_Red.tools.head.label>fej</Fox_Red.tools.head.label>
+ 
   
 <!--   <Fox_Red_Leather.label>rókabőr</Fox_Red_Leather.label> -->
 <!--   <Fox_Red_Leather.description>Egy róka bőre.</Fox_Red_Leather.description> -->

@@ -1,18 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Gun_ChargeRifle.label>charge rifle</Gun_ChargeRifle.label>
-  <Gun_ChargeRifle.description>A charged-shot assault rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.</Gun_ChargeRifle.description>
-  <Gun_ChargeRifle.tools.stock.label>stock</Gun_ChargeRifle.tools.stock.label>
-  <Gun_ChargeRifle.tools.barrel.label>barrel</Gun_ChargeRifle.tools.barrel.label>
+  <Bullet_ChargeLance.label>energialándzsa lőszer</Bullet_ChargeLance.label>
+  <Gun_ChargeLance.label>energialándzsa</Gun_ChargeLance.label>
+  <Gun_ChargeLance.description>Energialövedéket használó lándzsa, mely feltöltődött lövedéket lő ki nagy sebességgel.</Gun_ChargeLance.description>
+  <Gun_ChargeLance.tools.barrel.label>cső</Gun_ChargeLance.tools.barrel.label>
+  <Gun_ChargeLance.verbs.Verb_Shoot.label>energialándzsa</Gun_ChargeLance.verbs.Verb_Shoot.label>
+  
+  
+   <Bullet_ChargeRifle.label>energiatöltet</Bullet_ChargeRifle.label>
+  <Gun_ChargeRifle.label>energiafegyver</Gun_ChargeRifle.label>
+  <Gun_ChargeRifle.description>Feltöltődött energialövedéket kilövő fegyver.</Gun_ChargeRifle.description>
+  <Gun_ChargeRifle.tools.stock.label>tus</Gun_ChargeRifle.tools.stock.label>
+  <Gun_ChargeRifle.tools.barrel.label>cső</Gun_ChargeRifle.tools.barrel.label>
+  <Gun_ChargeRifle.verbs.Verb_Shoot.label>energiafegyver</Gun_ChargeRifle.verbs.Verb_Shoot.label>
 
-  <Bullet_ChargeRifle.label>charge shot</Bullet_ChargeRifle.label>
 
-  <Gun_ChargeLance.label>charge lance</Gun_ChargeLance.label>
-  <Gun_ChargeLance.description>A pulse-charged rail-assisted lance weapon. It fires a single shot at high velocity, charging it with unstable energy as it leaves the acceleration rail.</Gun_ChargeLance.description>
-  <Gun_ChargeLance.tools.barrel.label>barrel</Gun_ChargeLance.tools.barrel.label>
-
-  <Bullet_ChargeLance.label>charge lance shot</Bullet_ChargeLance.label>
 
 
 </LanguageData>
