@@ -216,13 +216,13 @@
 		<li>desc_sentence->Eltúlozva van ábrázolva, hogy erőteljesebbnek tűnjön.</li>
 		<li>desc_sentence->[item_labelDefinite] mérete el van túlozva, hogy fontosabbnak tűnjön.</li>
 		<li>desc_sentence->[item_labelDefinite] dicsfényben úszik, szinte mint egy angyal.</li>
-		<li>desc_sentence->[pawn_nameShortDefinite] a háttérben áll, hogy a figyelem a műre irányuljon.</li>
+		<li>desc_sentence->[pawn_nameDefinite] a háttérben áll, hogy a figyelem a műre irányuljon.</li>
 		<li>desc_sentence->Egy csoport néző veszi körbe.</li>
 		<li>desc_sentence->A háttérben egy csapat ujjong.</li>
 		<li>quality_sentence->[thing_labelDefinite] [thing_quality] minőségűnek látszik</li>
 		<li>quality_sentence->[thing_labelDefinite] [thing_quality] minőségű</li>
-		<li>quality_sentence->[pawn_nameShortDefinite] munkája [thing_quality] minőségű</li>
-		<li>title_sentence->Alul látszik [pawn_nameShortDefinite] által választott cím: [thing_title]</li>
+		<li>quality_sentence->[pawn_nameDefinite] munkája [thing_quality] minőségű</li>
+		<li>title_sentence->Alul látszik [pawn_nameDefinite] által választott cím: [thing_title]</li>
 		<li>title_sentence->[thing_labelDefinite] címe: [thing_title]</li>
 		<li>title_sentence->A háttérben lóg [thing_labelDefinite] címe: [thing_title]</li>
 	</CraftedArt.rulePack.rulesStrings>
@@ -235,13 +235,13 @@
 		<li>circumstance_phrase->alagútásás közben</li>
 		<li>circumstance_phrase->csodálkozva</li>
 		<li>circumstance_phrase->elégedetten</li>
-		<li>desc_sentence->[pawn_nameShortDefinite] letörli az izzadságot a homlokáról.</li>
-		<li>desc_sentence->[pawn_nameShortDefinite] a levegőbe ugrik örömében.</li>
-		<li>desc_sentence->[pawn_nameShortDefinite] pacsizik egy baráttal.</li>
-		<li>desc_sentence->[pawn_nameShortDefinite] boldogan kiált fel.</li>
-		<li>desc_sentence->[pawn_nameShortDefinite] vadul nevet.</li>
-		<li>desc_sentence->[pawn_nameShortDefinite] koszos és izzadt a munkától.</li>
-		<li>desc_sentence->[pawn_nameShortDefinite] koszos és izzadt a munkától.</li>
+		<li>desc_sentence->[pawn_nameDefinite] letörli az izzadságot a homlokáról.</li>
+		<li>desc_sentence->[pawn_nameDefinite] a levegőbe ugrik örömében.</li>
+		<li>desc_sentence->[pawn_nameDefinite] pacsizik egy baráttal.</li>
+		<li>desc_sentence->[pawn_nameDefinite] boldogan kiált fel.</li>
+		<li>desc_sentence->[pawn_nameDefinite] vadul nevet.</li>
+		<li>desc_sentence->[pawn_nameDefinite] koszos és izzadt a munkától.</li>
+		<li>desc_sentence->[pawn_nameDefinite] koszos és izzadt a munkától.</li>
 	</StruckMineable.rulePack.rulesStrings>
   <FinishedResearchProject.label>kutatás befejezve</FinishedResearchProject.label>
 	<FinishedResearchProject.rulePack.rulesStrings>

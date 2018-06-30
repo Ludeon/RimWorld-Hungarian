@@ -18,10 +18,10 @@
   <!-- <StatsReport_HealthFactors>Egészségi tényezők</StatsReport_HealthFactors> -->
   <HealthFactorMaxImpact>{0} max.</HealthFactorMaxImpact>
   <HealthFactorAllowedDefect>ha ez alá esik: {0}</HealthFactorAllowedDefect>
-  <HealthFactorPercentImpact>{0} fontosság</HealthFactorPercentImpact>
+  <HealthFactorPercentImpact>{0} súly</HealthFactorPercentImpact>
   <HealthOffsetScale>{0} hatás</HealthOffsetScale>
   <StatsReport_PostProcessed>Utófeldolgozott</StatsReport_PostProcessed>
-  <StatsReport_FinalValue>Végső érték</StatsReport_FinalValue>
+  <StatsReport_FinalValue>Végeredmény</StatsReport_FinalValue>
   <StatsReport_MarketValueFromStuffsAndWork>A piaci alapár az alapanyag és a szükséges munka függvénye.</StatsReport_MarketValueFromStuffsAndWork>
   <StatsReport_QualityMultiplier>Minőségi szorzó</StatsReport_QualityMultiplier>
   <StatsReport_AgeMultiplier>{0} kor szorzó</StatsReport_AgeMultiplier>
@@ -32,7 +32,7 @@
   <StatsReport_InBed>Ágyban</StatsReport_InBed>
   <StatsReport_Facilities>Létesítmények</StatsReport_Facilities>
   <StatsReport_BodySize>{0} testméret szorzó</StatsReport_BodySize>
-  <StatsReport_MeleeDPSExplanation>Az érték a következő formátumban látható:\nDPS ( Közelharci sebzés / Cooldown mp-ben / Közelharci találati esély )\n\nDPS = Közelharci sebzés * Közelharci találati esély / Cooldown mp-ben</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDPSExplanation>Az érték a következő formátumban látható:\nDPS ( Közelharci sebzés / Felkészülés mp-ben / Közelharci találati esély )\n\nDPS = Közelharci sebzés * Közelharci találati esély / Cooldown mp-ben</StatsReport_MeleeDPSExplanation>
   <StatsReport_MeleeDamage>Közelharci sebzés</StatsReport_MeleeDamage>
   <StatsReport_Cooldown>Felkészülés</StatsReport_Cooldown>
   <StatsReport_MeleeHitChance>Közelharci találati esély</StatsReport_MeleeHitChance>

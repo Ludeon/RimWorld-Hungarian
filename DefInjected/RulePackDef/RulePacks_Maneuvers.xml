@@ -22,11 +22,11 @@
 		<li>damaged_present->felszakítva</li>
 		<li>woundname->seb</li>
 		<li>woundname(p=0.3)->sebesülés</li>
-		<li>flavortextsituation(recipient_flesh!=Mechanoid)->a [woundname] vérzik</li>
-		<li>flavortextsituation->a [woundname] folyadékban úszik</li>
-		<li>flavortextconsequence(recipient_flesh!=Mechanoid)->láthatóvá vált a hús</li>
-		<li>flavortextconsequence(recipient_flesh==Mechanoid)->láthatóvá vált a gépezet</li>
-		<li>flavortextconsequence(recipient_flesh!=Mechanoid)->véres [woundname] maradt utána</li>
+		<li>flavortext_situation(recipient_flesh!=Mechanoid)->a [woundname] vérzik</li>
+		<li>flavortext_situation->a [woundname] folyadékban úszik</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->láthatóvá vált a hús</li>
+		<li>flavortext_consequence(recipient_flesh==Mechanoid)->láthatóvá vált a gépezet</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->véres [woundname] maradt utána</li>
 		<li>destroyed_past->kettévágott</li>
 		<li>destroyed_past->szétvágott</li>
 		<li>destroyed_past->kettészelt</li>
@@ -61,9 +61,9 @@
 		<li>woundname->vágás</li>
 		<li>woundname->seb</li>
 		<li>woundname->heg</li>
-		<li>flavortextconsequence(recipient_flesh!=Mechanoid)->véres [woundname] maradt utána</li>
-		<li>flavortextconsequence(recipient_flesh!=Mechanoid)->tépett [woundname] maradt utána</li>
-		<li>flavortextconsequence(recipient_flesh!=Mechanoid)->vérző [woundname] maradt utána</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->véres [woundname] maradt utána</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->tépett [woundname] maradt utána</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->vérző [woundname] maradt utána</li>
 		<li>destroyed_past->felnyársalt</li>
 		<li>destroyed_past->kilyukadt</li>
 		<li>destroyed_past->megszúrt</li>
@@ -105,10 +105,10 @@
 	</Maneuver_Smash_Damage.rulePack.rulesStrings>
 
 	<Maneuver_Smash.rulePack.rulesStrings>
-		<li>flavortextconsequence(recipient_flesh!=Mechanoid)->óriási horzsolást hagyva</li>
-		<li>flavortextconsequence->egyértelmű elváltozást hagyva</li>
-		<li>flavortextconsequence->kibillentve egyensúlyából ezt: [recipient_objective]</li>
-		<li>flavortextconsequence->kibillentve oldalra ezt: [recipient_objective]</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->óriási horzsolást hagyva</li>
+		<li>flavortext_consequence->egyértelmű elváltozást hagyva</li>
+		<li>flavortext_consequence->kibillentve egyensúlyából ezt: [recipient_objective]</li>
+		<li>flavortext_consequence->kibillentve oldalra ezt: [recipient_objective]</li>
 		<li>destroyed_suffix->darabokra</li>
 		<li>destroyed_suffix->darabkákra</li>
 		<li>destroyed_suffix(recipient_flesh!=Mechanoid)->köddé</li>
@@ -143,11 +143,11 @@
 	<Maneuver_Scratch.rulePack.rulesStrings>
 		<li>woundname->seb</li>
 		<li>woundname(p=0.3)->sebesülés</li>
-		<li>flavortextsituation(recipient_flesh!=Mechanoid)->a [woundname] vérzik</li>
-		<li>flavortextsituation->a [woundname] folyadékban úszik</li>
-		<li>flavortextconsequence(recipient_flesh!=Mechanoid)->láthatóvá vált a hús</li>
-		<li>flavortextconsequence(recipient_flesh==Mechanoid)->láthatóvá vált a gépezet</li>
-		<li>flavortextconsequence(recipient_flesh!=Mechanoid)->véres [woundname] maradt utána</li>
+		<li>flavortext_situation(recipient_flesh!=Mechanoid)->a [woundname] vérzik</li>
+		<li>flavortext_situation->a [woundname] folyadékban úszik</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->láthatóvá vált a hús</li>
+		<li>flavortext_consequence(recipient_flesh==Mechanoid)->láthatóvá vált a gépezet</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->véres [woundname] maradt utána</li>
 		<li>destroyed_suffix(recipient_flesh!=Mechanoid)->mocskos csíkokra</li>
 		<li>destroyed_suffix->csíkokra</li>
 		<li>destroyed_suffix(recipient_flesh!=Mechanoid)->mocskos darabokra</li>
@@ -172,10 +172,10 @@
 		<li>maneuver_present->döfve</li>
 		<li>maneuver_present->szúrva</li>
 		<li>maneuver_present->döfve</li>
-		<li>flavortextconsequence(recipient_flesh!=Mechanoid)->óriási horzsolást hagyva</li>
-		<li>flavortextconsequence->egyértelmű elváltozást hagyva</li>
-		<li>flavortextconsequence->kibillentve egyensúlyából ezt: [recipient_objective]</li>
-		<li>flavortextconsequence->kibillentve oldalra ezt: [recipient_objective]</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->óriási horzsolást hagyva</li>
+		<li>flavortext_consequence->egyértelmű elváltozást hagyva</li>
+		<li>flavortext_consequence->kibillentve egyensúlyából ezt: [recipient_objective]</li>
+		<li>flavortext_consequence->kibillentve oldalra ezt: [recipient_objective]</li>
 		<li>destroyed_past->zúzott</li>
 		<li>destroyed_past->összetört</li>
 		<li>destroyed_past->megsemmisült</li>
@@ -206,10 +206,10 @@
 		<li>maneuver_present->harapva</li>
 		<li>maneuver_present->rágva</li>
 		<li>maneuver_present->tépve</li>
-		<li>flavortextconsequence(recipient_flesh!=Mechanoid)->amin keresztül látszik a hús</li>
-		<li>flavortextconsequence(recipient_flesh==Mechanoid)->amin keresztül látszik a gépezet</li>
-		<li>flavortextconsequence(recipient_flesh!=Mechanoid)->rémes tépéseket hagyva a bőrön</li>
-		<li>flavortextconsequence(recipient_flesh==Mechanoid)->rémes tépéseket hagyva a fémen</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->amin keresztül látszik a hús</li>
+		<li>flavortext_consequence(recipient_flesh==Mechanoid)->amin keresztül látszik a gépezet</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->rémes tépéseket hagyva a bőrön</li>
+		<li>flavortext_consequence(recipient_flesh==Mechanoid)->rémes tépéseket hagyva a fémen</li>
 		<li>destroyed_past->bekebelezett</li>
 		<li>destroyed_past->szétszedett</li>
 		<li>destroyed_past->tépett</li>

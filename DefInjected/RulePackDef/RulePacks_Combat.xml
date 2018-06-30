@@ -4,14 +4,14 @@
 	<Combat_MeleeIncludes.rulePack.rulesStrings>
 		<li>r_logentry->[action], [result].</li>
 		<li>r_logentry(p=0.2)->[action].</li>
-		<li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[weapon_label][tool_label]</li>
-		<li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[weapon_label]</li>
-		<li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[weapon_label][tool_label]</li>
-		<li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->[weapon_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[WEAPON_label][tool_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[WEAPON_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[WEAPON_label][tool_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->[WEAPON_label]</li>
 		<li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[tool_label]</li>
 		<li>implement(IMPLEMENTOWNER_type==bodypart,p=1)->[adjective_bodypart][tool_label]</li>
-		<li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[weapon_label][tool_label]</li>
-		<li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[weapon_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[WEAPON_label][tool_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[WEAPON_label]</li>
 		<li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[tool_label]</li>
 		<li>adjective_bodypart->kemény</li>
 		<li>adjective_bodypart->erős</li>
@@ -25,43 +25,16 @@
 		<li>adjective_bodypart->szívós</li>
 		<li>adjective_bodypart(initiator_flesh==True)->kérges</li>
 		<li>adjective_bodypart->szilárd</li>
-		<li>targetlist(recipient_part_count==1)->[recipient_part0_label]</li>
-		<li>targetlist(recipient_part_count==2)->[recipient_part0_label] és [recipient_part1_label]</li>
-		<li>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label] és [recipient_part2_label]</li>
-		<li>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label] és [recipient_part3_label]</li>
+		<li>targetlist(recipient_part_count==1)->[RECIPIENT_part0_label]</li>
+		<li>targetlist(recipient_part_count==2)->[RECIPIENT_part0_label] és [RECIPIENT_part1_label]</li>
+		<li>targetlist(recipient_part_count==3)->[RECIPIENT_part0_label], [RECIPIENT_part1_label] és [RECIPIENT_part2_label]</li>
+		<li>targetlist->[RECIPIENT_part0_label], [RECIPIENT_part1_label], [RECIPIENT_part2_label] és [RECIPIENT_part3_label]</li>
 		<li>damaged_present->megsebezve</li>
 		<li>damaged_present->megsebezve</li>
 		<li>destroyed(p=0.5)->elpusztult</li>
 		<li>destroyed(p=0.5)->meghalt</li>
 		<li>destroyed(p=0.5)->elpusztult</li>
 		<li>destroyed(p=0.5)->kinyúlt</li>
-		<li>result(p=0.5)->[damaged_present] ezt: [targetlist]</li>
-		<li>result(p=0.2)->[flavortextadverb] [damaged_present] ezt: [targetlist]</li>
-		<li>result(p=10000)->[damaged_present] ezt: [targetlist], [flavortextsituation]</li>
-		<li>result(p=0.2)->[damaged_present] ezt: [targetlist], [flavortextconsequence]</li>
-		<li>flavortextadverb->fájdalmasan</li>
-		<li>flavortextadverb->brutálisan</li>
-		<li>flavortextadverb->szörnyen</li>
-		<li>flavortextadverb->gyötrelmesen</li>
-		<li>flavortextadverb->vadul</li>
-		<li>flavortextadverb->kegyetlenül</li>
-		<li>flavortextadverb->vadul</li>
-		<li>flavortextadverb->gonoszul</li>
-		<li>flavortextadverb->irgalmatlanul</li>
-		<li>flavortextadverb->szívtelenül</li>
-		<li>flavortextsituation(recipient_flesh!=Mechanoid)->vér fröccsen</li>
-		<li>flavortextsituation(recipient_flesh==Mechanoid)->alkatrészek repülnek szét</li>
-		<li>flavortextsituation->érzelem nélkül</li>
-		<li>flavortextsituation->fapofával</li>
-		<li>flavortextsituation(initiator_flesh==Normal)->vad tekintettel</li>
-		<li>flavortextsituation(initiator_flesh==Normal)->[AdjectiveBadass] tekintettel</li>
-		<li>flavortextsituation(initiator_flesh==Normal)->grimaszolva</li>
-		<li>flavortextsituation(initiator_flesh==Normal)->nevetve</li>
-		<li>flavortextsituation(initiator_flesh==Normal)->vigyorogva</li>
-		<li>flavortextconsequence(recipient_flesh!=Mechanoid)->undorító sebet hagyva</li>
-		<li>flavortextconsequence->szörnyű sebet hagyva</li>
-		<li>flavortextconsequence(recipient_flesh!=Mechanoid)->[recipient_objective] [painevent] [wince]</li>
-		<li>flavortextconsequence(p=0.2)->kibillentve egyensúlyából ezt: [recipient_objective]</li>
 		<li>wince(recipient_flesh==Normal)->megrezzen</li>
 		<li>wince(recipient_flesh==Normal)->grimaszol</li>
 		<li>wince(recipient_flesh==Normal)->meggörnyed</li>
@@ -78,49 +51,51 @@
 		<li>painevent(recipient_flesh==Normal)->gyötrelmében</li>
 		<li>painevent->sebesülése miatt</li>
 		<li>painevent->sebesülése miatt</li>
-		<li>mortarshell->lövedék</li>
-		<li>mortarshell->lövés</li>
-		<li>mortarshell->lövedék</li>
-		<li>mortarshell->repesz</li>
-		<li>mortarshell->bomba</li>
-		<li>mortarshell(p=0.3)->ballisztikus lövedék</li>
-		<li>mortarshell(p=0.3)->ballisztikus lövés</li>
-		<li>mortarshell(p=0.3)->ballisztikus lövedék</li>
+		<!-- <li>mortarshell->lövedék</li> -->
+		<!-- <li>mortarshell->lövés</li> -->
+		<!-- <li>mortarshell->lövedék</li> -->
+		<!-- <li>mortarshell->repesz</li> -->
+		<!-- <li>mortarshell->bomba</li> -->
+		<!-- <li>mortarshell(p=0.3)->ballisztikus lövedék</li> -->
+		<!-- <li>mortarshell(p=0.3)->ballisztikus lövés</li> -->
+		<!-- <li>mortarshell(p=0.3)->ballisztikus lövedék</li> -->
 		<li>to->oda</li>
 		<li>to->bele</li>
-		<li>initiator_definite->[initiator_labelDefinite]</li>
-		<li>initiator_definite->[initiator_nameShortDef]</li>
-		<li>recipient_definite->[recipient_labelDefinite]</li>
-		<li>recipient_definite->[recipient_nameShortDef]</li>
+		<!-- <li>initiator_definite->[initiator_labelDefinite]</li> -->
+		<!-- <li>initiator_definite->[initiator_nameDef]</li> -->
+		<!-- <li>recipient_definite->[recipient_labelDefinite]</li> -->
+		<!-- <li>recipient_definite->[recipient_nameDef]</li> -->
 	</Combat_MeleeIncludes.rulePack.rulesStrings>
 	
-	 <Combat_MeleeDamageIncludes.rulePack.rulesStrings.0>result(p=0.5)->[damaged_present] [RECIPIENT_possessive] [targetlist]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.0>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.1>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [adverb_flavortext]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.1>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.2>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [flavortext_situation]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.2>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.3>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] and [flavortext_consequence]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.3>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.4>adverb_flavortext->painfully</Combat_MeleeDamageIncludes.rulePack.rulesStrings.4>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.5>adverb_flavortext->brutally</Combat_MeleeDamageIncludes.rulePack.rulesStrings.5>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.6>adverb_flavortext->horribly</Combat_MeleeDamageIncludes.rulePack.rulesStrings.6>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.7>adverb_flavortext->agonizingly</Combat_MeleeDamageIncludes.rulePack.rulesStrings.7>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.8>adverb_flavortext->fiercely</Combat_MeleeDamageIncludes.rulePack.rulesStrings.8>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.9>adverb_flavortext->ruthlessly</Combat_MeleeDamageIncludes.rulePack.rulesStrings.9>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.10>adverb_flavortext->savagely</Combat_MeleeDamageIncludes.rulePack.rulesStrings.10>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.11>adverb_flavortext->viciously</Combat_MeleeDamageIncludes.rulePack.rulesStrings.11>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.12>adverb_flavortext->mercilessly</Combat_MeleeDamageIncludes.rulePack.rulesStrings.12>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.13>adverb_flavortext->heartlessly</Combat_MeleeDamageIncludes.rulePack.rulesStrings.13>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.14>flavortext_situation(recipient_flesh!=Mechanoid)->in an explosion of gore</Combat_MeleeDamageIncludes.rulePack.rulesStrings.14>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.15>flavortext_situation(recipient_flesh==Mechanoid)->in an explosion of scrap</Combat_MeleeDamageIncludes.rulePack.rulesStrings.15>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.16>flavortext_situation->without emotion</Combat_MeleeDamageIncludes.rulePack.rulesStrings.16>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.17>flavortext_situation(p=0.4)->while wearing a blank look</Combat_MeleeDamageIncludes.rulePack.rulesStrings.17>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.18>flavortext_situation(p=0.2,initiator_flesh==Normal)->while wearing a savage look</Combat_MeleeDamageIncludes.rulePack.rulesStrings.18>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.19>flavortext_situation(p=0.2,initiator_flesh==Normal)->while wearing a [AdjectiveBadass] look</Combat_MeleeDamageIncludes.rulePack.rulesStrings.19>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.20>flavortext_situation(p=0.2,initiator_flesh==Normal)->while grimacing</Combat_MeleeDamageIncludes.rulePack.rulesStrings.20>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.21>flavortext_situation(p=0.2,initiator_flesh==Normal)->while laughing</Combat_MeleeDamageIncludes.rulePack.rulesStrings.21>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.22>flavortext_situation(p=0.2,initiator_flesh==Normal)->while smirking</Combat_MeleeDamageIncludes.rulePack.rulesStrings.22>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.23>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a disgusting wound</Combat_MeleeDamageIncludes.rulePack.rulesStrings.23>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.24>flavortext_consequence->leaving a horrific wound</Combat_MeleeDamageIncludes.rulePack.rulesStrings.24>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.25>flavortext_consequence(recipient_flesh!=Mechanoid)->making [RECIPIENT_objective] [wince] [painevent]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.25>
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.26>flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance</Combat_MeleeDamageIncludes.rulePack.rulesStrings.26>
+	 <Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+	 	<li>result(p=0.5)->[damaged_present] ezt: [targetlist]</li>
+		<li>result(p=0.1)->[adverb_flavortext] [damaged_present] ezt: [targetlist]</li>
+		<li>result(p=0.1)->[damaged_present] ezt: [targetlist], [flavortext_situation]</li>
+		<li>result(p=0.1)->[damaged_present] ezt: [targetlist], [flavortext_consequence]</li>
+		<li>adverb_flavortext->fájdalmasan</li>
+		<li>adverb_flavortext->brutálisan</li>
+		<li>adverb_flavortext->szörnyen</li>
+		<li>adverb_flavortext->gyötrelmesen</li>
+		<li>adverb_flavortext->vadul</li>
+		<li>adverb_flavortext->kegyetlenül</li>
+		<li>adverb_flavortext->vadul</li>
+		<li>adverb_flavortext->gonoszul</li>
+		<li>adverb_flavortext->irgalmatlanul</li>
+		<li>adverb_flavortext->szívtelenül</li>
+		<li>flavortext_situation(recipient_flesh!=Mechanoid)->vér fröccsen</li>
+		<li>flavortext_situation(recipient_flesh==Mechanoid)->alkatrészek repülnek szét</li>
+		<li>flavortext_situation->érzelem nélkül</li>
+		<li>flavortext_situation(p=0.4)->fapofával</li>
+		<li>flavortext_situation(p=0.2,initiator_flesh==Normal)->vad tekintettel</li>
+		<li>flavortext_situation(p=0.2,initiator_flesh==Normal)->[AdjectiveBadass] tekintettel</li>
+		<li>flavortext_situation(p=0.2,initiator_flesh==Normal)->grimaszolva</li>
+		<li>flavortext_situation(p=0.2,initiator_flesh==Normal)->nevetve</li>
+		<li>flavortext_situation(p=0.2,initiator_flesh==Normal)->vigyorogva</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->undorító sebet hagyva</li>
+		<li>flavortext_consequence->szörnyű sebet hagyva</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->[recipient_objective] [painevent] [wince]</li>
+		<li>flavortext_consequence(p=0.2)->kibillentve egyensúlyából ezt: [recipient_objective]</li>
+	</Combat_MeleeDamageIncludes.rulePack.rulesStrings>
 	
 
 	<Combat_WoundIncludes.rulePack.rulesStrings>
@@ -188,22 +163,22 @@
   <Combat_DeflectIncludes.rulePack.rulesStrings.11>scraped_past->skated</Combat_DeflectIncludes.rulePack.rulesStrings.11>
 
 	<Combat_Hit.rulePack.rulesStrings>
-		<li>r_logentry(p=0.3)->[initiator_definite] [damaged_past] efelé: [recipient_definite] [recipient_part0_label].</li>
-		<li>r_logentry(p=0.1)->[initiator_definite] [flavortextadverb] [damaged_past] efelé: [recipient_definite] [recipient_part0_label].</li>
-		<li>r_logentry(p=0.1)->[initiator_definite] [damaged_past] efelé: [recipient_definite] [recipient_part0_label], [flavortextsituation].</li>
-		<li>r_logentry(p=0.1)->[initiator_definite] [damaged_past] efelé: [recipient_definite] [recipient_part0_label], [flavortextconsequence].</li>
-		<li>r_logentry(p=0.4)->[initiator_definite], [expertly] használva ezt: [weapon_label], [flavortextadverb] [damaged_past], cél: [recipient_definite] [recipient_part0_label].</li>
-		<li>r_logentry(p=0.3)->[initiator_definite] [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</li>
-		<li>r_logentry(p=0.3)->[initiator_definite] [destroyed_past] ezt: [recipient_definite] [destroyed_targets] [destroyed_suffix].</li>
-		<li>r_logentry(p=0.3)->[initiator_definite] [expertly] [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</li>
-		<li>r_logentry(p=0.3)->[initiator_definite] [destroyed_past] ezt: [recipient_definite] [destroyed_targets], ezzel: [implement].</li>
+		<li>r_logentry(p=0.3)->[INITIATOR_definite] [damaged_past] efelé: [RECIPIENT_definite] [RECIPIENT_part0_label].</li>
+		<li>r_logentry(p=0.1)->[INITIATOR_definite] [adverb_flavortext] [damaged_past] efelé: [RECIPIENT_definite] [RECIPIENT_part0_label].</li>
+		<li>r_logentry(p=0.1)->[INITIATOR_definite] [damaged_past] efelé: [RECIPIENT_definite] [RECIPIENT_part0_label], [flavortext_situation].</li>
+		<li>r_logentry(p=0.1)->[INITIATOR_definite] [damaged_past] efelé: [RECIPIENT_definite] [RECIPIENT_part0_label], [flavortext_consequence].</li>
+		<li>r_logentry(p=0.4)->[INITIATOR_definite], [expertly] használva ezt: [WEAPON_label], [adverb_flavortext] [damaged_past], cél: [RECIPIENT_definite] [RECIPIENT_part0_label].</li>
+		<li>r_logentry(p=0.3)->[INITIATOR_definite] [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets].</li>
+		<li>r_logentry(p=0.3)->[INITIATOR_definite] [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets] [destroyed_suffix].</li>
+		<li>r_logentry(p=0.3)->[INITIATOR_definite] [expertly] [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets].</li>
+		<li>r_logentry(p=0.3)->[INITIATOR_definite] [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets], ezzel: [implement].</li>
 		<li>result(p=1,recipient_part_damaged_count==0)->[destroyed_present] [destroyed_targets]</li>
 		<li>result(p=1,recipient_part_destroyed_count==0)->[damaged_present] [damaged_targets]</li>
 		<li>result(p=1)->[destroyed_present] [destroyed_targets] és [damaged_present] [damaged_targets]</li>
-		<li>action(p=0.3)->[initiator_definite] eltalálta ezt: [recipient_definite] így: [implement] [damaged_inf]</li>
-		<li>action(p=0.3)->[initiator_definite] használta ezt: [implement], hogy [damaged_inf]t ejtsen rajta: [recipient_definite]</li>
-		<li>action->[initiator_definite] [damaged_past] feléje: [recipient_definite], ezzel: [implement]</li>
-		<li>action(p=0.6)->[initiator_definite] [damaged_past] feléje: [recipient_definite]</li>
+		<li>action(p=0.3)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite] így: [implement] [damaged_inf]</li>
+		<li>action(p=0.3)->[INITIATOR_definite] használta ezt: [implement], hogy [damaged_inf]t ejtsen rajta: [RECIPIENT_definite]</li>
+		<li>action->[INITIATOR_definite] [damaged_past] feléje: [RECIPIENT_definite], ezzel: [implement]</li>
+		<li>action(p=0.6)->[INITIATOR_definite] [damaged_past] feléje: [RECIPIENT_definite]</li>
 	</Combat_Hit.rulePack.rulesStrings>
 	
 	  <Combat_Deflect.rulePack.rulesStrings.0>r_logentry(p=1)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] in the [RECIPIENT_part0_label] [deflected_result].</Combat_Deflect.rulePack.rulesStrings.0>
@@ -228,28 +203,28 @@
   <Combat_Deflect.rulePack.rulesStrings.19>scraped_past->slid</Combat_Deflect.rulePack.rulesStrings.19>
 
 	<Combat_FailIncludes.rulePack.rulesStrings>
-		<li>action->[initiator_definite] [tried] ezt: [damaged_inf], cél: [recipient_definite]</li>
-		<li>action->[initiator_definite] [tried] ezt: [implement] [damaged_inf], cél: [recipient_definite]</li>
-		<li>action->[initiator_definite] [tried] ezt: [implement] [damaged_inf], cél: [recipient_definite]</li>
-		<li>action->[initiator_definite] meglendítette ezt: [weapon_label], cél: [recipient_definite]</li>
-		<li>action(p=0.3)->[initiator_definite] [genericattackverb] [towardsat] [recipient_definite] [implement]</li>
-		<li>action(p=0.3)->[initiator_definite] [genericattackverb] [towardsat] [recipient_definite]</li>
-		<li>action(p=0.3)->[initiator_definite] [genericattackverb] [implement]</li>
+		<li>action->[INITIATOR_definite] [tried] ezt: [damaged_inf], cél: [RECIPIENT_definite]</li>
+		<li>action->[INITIATOR_definite] [tried] ezt: [implement] [damaged_inf], cél: [RECIPIENT_definite]</li>
+		<li>action->[INITIATOR_definite] [tried] ezt: [implement] [damaged_inf], cél: [RECIPIENT_definite]</li>
+		<li>action->[INITIATOR_definite] meglendítette ezt: [WEAPON_label], cél: [RECIPIENT_definite]</li>
+		<li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite] [implement]</li>
+		<li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite]</li>
+		<li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [implement]</li>
 		<li>towardsat->felé</li>
 		<li>towardsat->neki</li>
-		<li>genericattackverb->lendített</li>
-		<li>genericattackverb->suhintott</li>
-		<li>genericattackverb->csapott</li>
+		<li>verb_genericattack->lendített</li>
+		<li>verb_genericattack->suhintott</li>
+		<li>verb_genericattack->csapott</li>
 		<li>tried->megpróbálta</li>
 		<li>tried->megkísérelte</li>
 	</Combat_FailIncludes.rulePack.rulesStrings>
 
 	<Combat_Miss.rulePack.rulesStrings>
-		<li>r_logentry(p=0.2)->[recipient_definite] elkerülte ezt: [weapon_label] [damaged_inf], ettől: [initiator_definite].</li>
-		<li>r_logentry(p=0.2)->[initiator_definite] elhibázta ezt: [recipient_definite], eközben: [damaged_inf], ezzel: [implement].</li>
-		<li>r_logentry(p=0.2)->[initiator_definite] [failtype] eközben: [damaged_inf], cél: [recipient_definite], ezzel: [implement].</li>
-		<li>r_logentry(p=0.2)->[initiator_definite] [failtype] eközben: [damaged_inf], cél: [recipient_definite].</li>
-		<li>r_logentry(p=0.2)->[initiator_definite] [failtype].</li>
+		<li>r_logentry(p=0.2)->[RECIPIENT_definite] elkerülte ezt: [WEAPON_label] [damaged_inf], ettől: [INITIATOR_definite].</li>
+		<li>r_logentry(p=0.2)->[INITIATOR_definite] elhibázta ezt: [RECIPIENT_definite], eközben: [damaged_inf], ezzel: [implement].</li>
+		<li>r_logentry(p=0.2)->[INITIATOR_definite] [failtype] eközben: [damaged_inf], cél: [RECIPIENT_definite], ezzel: [implement].</li>
+		<li>r_logentry(p=0.2)->[INITIATOR_definite] [failtype] eközben: [damaged_inf], cél: [RECIPIENT_definite].</li>
+		<li>r_logentry(p=0.2)->[INITIATOR_definite] [failtype].</li>
 		<li>failtype->megbotlott</li>
 		<li>failtype->felbukott</li>
 		<li>failtype->ügyetlenkedett</li>
@@ -263,61 +238,61 @@
 	</Combat_Miss.rulePack.rulesStrings>
 
 	<Combat_Dodge.rulePack.rulesStrings>
-		<li>r_logentry(p=0.2)->[recipient_definite] kitért ez elől: [initiator_definite] [implement] [damaged_inf].</li>
-		<li>r_logentry(p=0.2)->[recipient_definite] kitért ez elől: [initiator_definite] [damaged_inf].</li>
-		<li>result->de [recipient_definite] ellépett előle</li>
-		<li>result->de [recipient_definite] csele megtévesztette</li>
+		<li>r_logentry(p=0.2)->[RECIPIENT_definite] kitért ez elől: [INITIATOR_definite] [implement] [damaged_inf].</li>
+		<li>r_logentry(p=0.2)->[RECIPIENT_definite] kitért ez elől: [INITIATOR_definite] [damaged_inf].</li>
+		<li>result->de [RECIPIENT_definite] ellépett előle</li>
+		<li>result->de [RECIPIENT_definite] csele megtévesztette</li>
 		<li>result->de a támadást okosan elkerülték</li>
 	</Combat_Dodge.rulePack.rulesStrings>
 
 	<!-- <Combat_RangedIncludes.rulePack.rulesStrings> -->
 		<!-- <li>initiator_definite->[initiator_labelDefinite]</li> -->
-		<!-- <li>initiator_definite->[initiator_nameShortDef]</li> -->
+		<!-- <li>initiator_definite->[initiator_nameDef]</li> -->
 		<!-- <li>recipient_definite->[recipient_labelDefinite]</li> -->
-		<!-- <li>recipient_definite->[recipient_nameShortDef]</li> -->
-		<!-- <li>originalTarget_definite->[originalTarget_labelDefinite]</li> -->
-		<!-- <li>originalTarget_definite->[originalTarget_nameShortDef]</li> -->
+		<!-- <li>recipient_definite->[recipient_nameDef]</li> -->
+		<!-- <li>ORIGINALTARGET_definite->[ORIGINALTARGET_labelDefinite]</li> -->
+		<!-- <li>ORIGINALTARGET_definite->[ORIGINALTARGET_nameDef]</li> -->
 	<!-- </Combat_RangedIncludes.rulePack.rulesStrings> -->
 
 	<Combat_RangedFire.rulePack.rulesStrings>
-		<li>r_logentry->[initiator_definite] [shotat], cél: [recipient_definite], ezzel: [weapon_label].</li>
-		<li>r_logentry->[initiator_definite] [shot], ezzel: [weapon_label], cél: [recipient_definite].</li>
-		<li>r_logentry->[initiator_definite] [shotat], cél: [recipient_definite].</li>
-		<li>r_logentry->[initiator_definite] [shot_a] [weapon_projectile_label] [burst], cél:[recipient_definite].</li>
-		<li>r_logentry(recipient_missing==True)->[initiator_definite] [shot_a] ilyet: [weapon_projectile_label].</li>
-		<li>r_logentry(recipient_missing==True)->[initiator_definite] [shot], ezzel: [weapon_label].</li>
-		<li>shot_a->[shotadverb] [shotverb] egy</li>
-		<li>shot_a(p=2)->[shotverb] egy</li>
-		<li>shot(p=2)->[shotverb]</li>
-		<li>shot->[shotadverb] [shotverb]</li>
+		<li>r_logentry->[INITIATOR_definite] [shotat], cél: [RECIPIENT_definite], ezzel: [WEAPON_label].</li>
+		<li>r_logentry->[INITIATOR_definite] [shot], ezzel: [WEAPON_label], cél: [RECIPIENT_definite].</li>
+		<li>r_logentry->[INITIATOR_definite] [shotat], cél: [RECIPIENT_definite].</li>
+		<li>r_logentry->[INITIATOR_definite] [shot_a] [WEAPON_projectile_label] [burst], cél:[RECIPIENT_definite].</li>
+		<li>r_logentry(recipient_missing==True)->[INITIATOR_definite] [shot_a] ilyet: [WEAPON_projectile_label].</li>
+		<li>r_logentry(recipient_missing==True)->[INITIATOR_definite] [shot], ezzel: [WEAPON_label].</li>
+		<li>shot_a->[adverb_shot] [verb_shot] egy</li>
+		<li>shot_a(p=2)->[verb_shot] egy</li>
+		<li>shot(p=2)->[verb_shot]</li>
+		<li>shot->[adverb_shot] [verb_shot]</li>
 		<li>shotat->rálőtt [aburst]</li>
-		<li>shotat->[shotadverb] rálőtt [aburst]</li>
+		<li>shotat->[adverb_shot] rálőtt [aburst]</li>
 		<li>shotat(p=0.5)->rá próbált lőni [aburst]</li>
 		<li>shotat(p=0.3)->rálőtt</li>
-		<li>shotat(p=0.2)->[shotadjective] lövést eresztett meg</li>
+		<li>shotat(p=0.2)->[adjective_shot] lövést eresztett meg</li>
 		<li>shotat->lőtt [aburst]</li>
-		<li>shotat->[shotadverb] lőtt [aburst]</li>
+		<li>shotat->[adverb_shot] lőtt [aburst]</li>
 		<li>shotat(p=0.5)->célzott és lőtt [aburst]</li>
 		<li>shotat(p=0.3)->tüzett nyitott</li>
 		<li>aburst-></li>
 		<li>aburst(burst==True,p=3)->egy sorozatot</li>
 		<li>burst-></li>
 		<li>burst(burst==True,p=3)->sorozatot</li>
-		<li>shotverb->lőtt</li>
-		<li>shotverb->elindított</li>
-		<li>shotverb->lőtt</li>
-		<li>shotadverb->gondosan</li>
-		<li>shotadverb->gyorsan</li>
-		<li>shotadverb->precízen</li>
-		<li>shotadverb->megfontoltan</li>
-		<li>shotadverb(initiator_flesh!=Mechanoid)->gondosan</li>
-		<li>shotadverb->precízen</li>
-		<li>shotadverb(initiator_flesh!=Mechanoid)->gondosan</li>
-		<li>shotadjective->gondos</li>
-		<li>shotadjective->gyors</li>
-		<li>shotadjective->megfontolt</li>
-		<li>shotadjective->precíz</li>
-		<li>shotadjective(initiator_flesh!=Mechanoid)->gondos</li>
+		<li>verb_shot->lőtt</li>
+		<li>verb_shot->elindított</li>
+		<li>verb_shot->lőtt</li>
+		<li>adverb_shot->gondosan</li>
+		<li>adverb_shot->gyorsan</li>
+		<li>adverb_shot->precízen</li>
+		<li>adverb_shot->megfontoltan</li>
+		<li>adverb_shot(initiator_flesh!=Mechanoid)->gondosan</li>
+		<li>adverb_shot->precízen</li>
+		<li>adverb_shot(initiator_flesh!=Mechanoid)->gondosan</li>
+		<li>adjective_shot->gondos</li>
+		<li>adjective_shot->gyors</li>
+		<li>adjective_shot->megfontolt</li>
+		<li>adjective_shot->precíz</li>
+		<li>adjective_shot(initiator_flesh!=Mechanoid)->gondos</li>
 	</Combat_RangedFire.rulePack.rulesStrings>
 	
 	  <Combat_RangedFire_Thrown.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] [threw] [INITIATOR_possessive] [WEAPON_projectile_label] at [RECIPIENT_definite].</Combat_RangedFire_Thrown.rulePack.rulesStrings.0>
@@ -346,27 +321,27 @@
 	
 
 	<Combat_RangedDamage.rulePack.rulesStrings>
-		<li>r_logentry->[initiator_definite] [weapon_projectile_label] találata [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</li>
-		<li>r_logentry->[initiator_definite] [weapon_projectile_label] találata [destroyed_past] ezt: [recipient_definite] [destroyed_targets], így: [destroyed_suffix].</li>
-		<li>r_logentry->[initiator_definite] [weapon_projectile_label] [expertly] [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</li>
-		<li>r_logentry(p=2)->[initiator_definite] [weapon_projectile_label] lövése [missed] ezt: [originalTarget_definite], és [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</li>
-		<li>r_logentry(p=2)->[initiator_definite] [weapon_projectile_label] lövése [missed] [originalTarget_definite], [destroyed_present] ezt: [recipient_definite] [destroyed_targets].</li>
-		<li>r_logentry->[initiator_definite] [weapon_projectile_label] találata [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</li>
-		<li>r_logentry->[initiator_definite] [weapon_projectile_label] [expertly] [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</li>
-		<li>r_logentry->[initiator_definite] [weapon_projectile_label] találata [destroyed_past] ezt: [recipient_definite] [destroyed_targets], így: [destroyed_suffix].</li>
-		<li>r_logentry(recipient_partDestroyed_count==0)->[initiator_definite] [weapon_projectile_label] találata [damaged_past] ezt: [recipient_definite] [damaged_targets].</li>
-		<li>r_logentry(recipient_partDestroyed_count==0)->[initiator_definite] [weapon_projectile_label] [expertly] [damaged_past] ezt: [recipient_definite] [damaged_targets].</li>
-		<li>r_logentry(recipient_partDestroyed_count==0,p=2)->[initiator_definite] [weapon_projectile_label] lövése [missed] ezt: [originalTarget_definite], és [damaged_past] ezt: [recipient_definite] [damaged_targets].</li>
-		<li>r_logentry(recipient_partDestroyed_count==0,p=2)->[initiator_definite] [weapon_projectile_label] lövése [missed] [originalTarget_definite], [damaged_present] ezt: [recipient_definite] [damaged_targets].</li>
-		<li>r_logentry(recipient_partDestroyed_count==0)->[initiator_definite] [weapon_projectile_label] találata [damaged_past] ezt: [recipient_definite] [damaged_targets].</li>
-		<li>r_logentry(recipient_partDestroyed_count==0)->[initiator_definite] [weapon_projectile_label] [expertly] [damaged_past] ezt: [recipient_definite] [damaged_targets].</li>
-		<li>r_logentry(p=3)->[initiator_definite] [weapon_projectile_label] találata [destroyed_past] ezt: [recipient_definite] [destroyed_targets] és [damaged_past] ezt: [damaged_targets].</li>
-		<li>r_logentry(p=6)->[initiator_definite] [weapon_projectile_label] lövése [missed] [originalTarget_definite], [destroyed_present] ezt: [recipient_definite] [destroyed_targets] és [damaged_present] ezt: [damaged_targets].</li>
-		<li>r_logentry(p=0.2)->[initiator_definite] eltalálta ezt: [recipient_definite], ezzel: [weapon_projectile_label].</li>
-		<li>r_logentry(p=0.2)->[initiator_definite] [weapon_projectile_label] eltalálta ezt: [recipient_definite].</li>
-		<li>r_logentry(p=0.4)->[initiator_definite] [missed] ezt: [originalTarget_definite] és eltalálta ezt: [recipient_definite], ezzel: [weapon_projectile_label].</li>
-		<li>r_logentry(p=0.4)->[initiator_definite] [weapon_projectile_label] [missed] ezt: [originalTarget_definite] és eltalálta ezt: [recipient_definite].</li>
-		<li>r_logentry(p=0.2)->[initiator_definite] eltalálta ezt: [recipient_definite], ezzel: [weapon_projectile_label], amit neki szánt: [originalTarget_definite].</li>
+		<li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] találata [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets].</li>
+		<li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] találata [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets], így: [destroyed_suffix].</li>
+		<li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] [expertly] [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets].</li>
+		<li>r_logentry(p=2)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] ezt: [ORIGINALTARGET_definite], és [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets].</li>
+		<li>r_logentry(p=2)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] [ORIGINALTARGET_definite], [destroyed_present] ezt: [RECIPIENT_definite] [destroyed_targets].</li>
+		<li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] találata [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets].</li>
+		<li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] [expertly] [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets].</li>
+		<li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] találata [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets], így: [destroyed_suffix].</li>
+		<li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite] [WEAPON_projectile_label] találata [damaged_past] ezt: [RECIPIENT_definite] [damaged_targets].</li>
+		<li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite] [WEAPON_projectile_label] [expertly] [damaged_past] ezt: [RECIPIENT_definite] [damaged_targets].</li>
+		<li>r_logentry(recipient_partDestroyed_count==0,p=2)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] ezt: [ORIGINALTARGET_definite], és [damaged_past] ezt: [RECIPIENT_definite] [damaged_targets].</li>
+		<li>r_logentry(recipient_partDestroyed_count==0,p=2)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] [ORIGINALTARGET_definite], [damaged_present] ezt: [RECIPIENT_definite] [damaged_targets].</li>
+		<li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite] [WEAPON_projectile_label] találata [damaged_past] ezt: [RECIPIENT_definite] [damaged_targets].</li>
+		<li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite] [WEAPON_projectile_label] [expertly] [damaged_past] ezt: [RECIPIENT_definite] [damaged_targets].</li>
+		<li>r_logentry(p=3)->[INITIATOR_definite] [WEAPON_projectile_label] találata [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets] és [damaged_past] ezt: [damaged_targets].</li>
+		<li>r_logentry(p=6)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] [ORIGINALTARGET_definite], [destroyed_present] ezt: [RECIPIENT_definite] [destroyed_targets] és [damaged_present] ezt: [damaged_targets].</li>
+		<li>r_logentry(p=0.2)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite], ezzel: [WEAPON_projectile_label].</li>
+		<li>r_logentry(p=0.2)->[INITIATOR_definite] [WEAPON_projectile_label] eltalálta ezt: [RECIPIENT_definite].</li>
+		<li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] ezt: [ORIGINALTARGET_definite] és eltalálta ezt: [RECIPIENT_definite], ezzel: [WEAPON_projectile_label].</li>
+		<li>r_logentry(p=0.4)->[INITIATOR_definite] [WEAPON_projectile_label] [missed] ezt: [ORIGINALTARGET_definite] és eltalálta ezt: [RECIPIENT_definite].</li>
+		<li>r_logentry(p=0.2)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite], ezzel: [WEAPON_projectile_label], amit neki szánt: [ORIGINALTARGET_definite].</li>
 		<li>weapon_projectile_label(p=0.05)->lövedék</li>
 		<li>destroyed_past->szétlőtte</li>
 		<li>destroyed_past->összezúzta</li>
@@ -432,9 +407,9 @@
   <Combat_RangedDeflect.rulePack.rulesStrings.22>missed->narrowly missed</Combat_RangedDeflect.rulePack.rulesStrings.22>
 
 	<Combat_RangedMiss.rulePack.rulesStrings>
-		<li>r_logentry->[initiator_definite] [weapon_projectile_label] [missed].</li>
-		<li>r_logentry->[initiator_definite] elhibázta ezt: [originalTarget_definite].</li>
-		<li>r_logentry->[originalTarget_definite] [avoidance], [initiator_definite] [weapon_projectile_label] [missing].</li>
+		<li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] [missed].</li>
+		<li>r_logentry->[INITIATOR_definite] elhibázta ezt: [ORIGINALTARGET_definite].</li>
+		<li>r_logentry->[ORIGINALTARGET_definite] [avoidance], [INITIATOR_definite] [WEAPON_projectile_label] [missing].</li>
 		<li>missed(p=4)->elhibázta</li>
 		<li>missed(p=2)->kissé elhibázta</li>
 		<li>missed(p=2)->nagyon elhibázta</li>
@@ -442,12 +417,12 @@
 		<li>missed->a levegőbe szállt</li>
 		<li>missed->magasan a levegőbe szállt</li>
 		<li>missed->a földbe fúródott</li>
-		<li>missed->lepattant [originalTarget_definite] fedezékéről</li>
+		<li>missed->lepattant [ORIGINALTARGET_definite] fedezékéről</li>
 		<li>missed->a földről felpattanva eltűnt</li>
 		<li>missed->egy darab földet szórt fel</li>
-		<li>missed(p=0.2)->csak milliméterekkel ment el mellette: [originalTarget_definite]</li>
-		<li>missed->csak centikre ment el mellette: [originalTarget_definite]</li>
-		<li>missed->egy méterrel ment el mellette: [originalTarget_definite]</li>
+		<li>missed(p=0.2)->csak milliméterekkel ment el mellette: [ORIGINALTARGET_definite]</li>
+		<li>missed->csak centikre ment el mellette: [ORIGINALTARGET_definite]</li>
+		<li>missed->egy méterrel ment el mellette: [ORIGINALTARGET_definite]</li>
 		<li>missed->rossz felé ment</li>
 		<li>missing->elhibázta</li>
 		<li>missing->kissé elhibázta</li>
@@ -458,44 +433,40 @@
 		<li>missing->a földbe fúródott</li>
 		<li>missing->a földről felpattanva eltűnt</li>
 		<li>missing->egy darab földet szórt fel</li>
-		<li>missing(p=0.2)->csak milliméterekkel ment el mellette: [originalTarget_definite]</li>
-		<li>missing->csak centikre ment el mellette: [originalTarget_definite]</li>
-		<li>missing->egy méterrel ment el mellette: [originalTarget_definite]</li>
+		<li>missing(p=0.2)->csak milliméterekkel ment el mellette: [ORIGINALTARGET_definite]</li>
+		<li>missing->csak centikre ment el mellette: [ORIGINALTARGET_definite]</li>
+		<li>missing->egy méterrel ment el mellette: [ORIGINALTARGET_definite]</li>
 		<li>missing->rossz felé ment</li>
-		<li>avoidance(originalTarget_mobile==True)->az utolsó pillanatban félreugrott</li>
-		<li>avoidance(originalTarget_mobile==True)->menekülés közben elbotlott</li>
-		<li>avoidance(originalTarget_mobile==True)->földre vetette magát</li>
-		<li>avoidance(originalTarget_mobile==True,p=0.3)->lebukott a legközelebbi fedezék mögé</li>
-		<li>avoidance(originalTarget_mobile==True,p=0.3)->beugrott a legközelebbi fedezék mögé</li>
+		<li>avoidance(ORIGINALTARGET_mobile==True)->az utolsó pillanatban félreugrott</li>
+		<li>avoidance(ORIGINALTARGET_mobile==True)->menekülés közben elbotlott</li>
+		<li>avoidance(ORIGINALTARGET_mobile==True)->földre vetette magát</li>
+		<li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->lebukott a legközelebbi fedezék mögé</li>
+		<li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->beugrott a legközelebbi fedezék mögé</li>
 	</Combat_RangedMiss.rulePack.rulesStrings>
 
 	<Combat_ExplosionImpact.rulePack.rulesStrings>
-		<li>prefix->[initiator_definite] [weapon_projectile_label] által okozott [blast]</li>
-		<li>prefix->[initiator_definite] [weapon_label] által okozott [blast]</li>
-		<li>prefix->[initiator_definite] [mortarshell] által okozott [blast]</li>
-		<li>prefix->[initiator_definite] [weapon_projectile_label] által okozott [blast]</li>
-		<li>prefix->[initiator_definite] [weapon_label] által okozott [blast]</li>
-		<li>prefix->[initiator_definite] [mortarshell] által okozott [blast]</li>
-		<li>prefix->[initiator_definite] által okozott [blast]</li>
-		<li>prefix->[initiator_definite] [weapon_projectile_label] által okozott [blast]</li>
-		<li>prefix->[initiator_definite] [mortarshell] által okozott [blast]</li>
-		<li>prefix->[initiator_definite] [weapon_label] által okozott [blast]</li>
-		<li>prefix->[initiator_definite] [weapon_projectile_label]</li>
-		<li>prefix->[initiator_definite] [mortarshell]</li>
-		<li>prefix->[initiator_definite] [weapon_label]</li>
-		<li>r_logentry->[prefix] [injured] [recipient_definite].</li>
-		<li>r_logentry->[prefix] [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</li>
-		<li>r_logentry->[prefix] [destroyed_past] ezt: [recipient_definite] [destroyed_targets], [flavortextadverb].</li>
-		<li>r_logentry->[prefix] [flavortextadverb] [destroyed_past] ezt: [recipient_definite] [destroyed_targets].</li>
-		<li>r_logentry->[prefix] [destroyed_past] ezt: [recipient_definite] [destroyed_targets] és [damaged_past] ezt: [damaged_targets].</li>
-		<li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] ezt: [recipient_definite] [damaged_targets].</li>
-		<li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] ezt: [recipient_definite] [damaged_targets], [flavortextadverb].</li>
-		<li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [flavortextadverb] [damaged_past] ezt: [recipient_definite] [damaged_targets].</li>
-		<li>r_logentry->[initiator_definite] [damaged_past] ezt: [recipient_definite].</li>
-		<li>r_logentry->[initiator_definite] [flavortextadverb] [damaged_past] ezt: [recipient_definite].</li>
-		<li>r_logentry->[recipient_definite] [damaged_past] lett.</li>
-		<li>r_logentry(p=0.001)->Elkapta egy robbanás ezt: [recipient_definite].</li>
-		<li>r_logentry(p=0.001)->Elérte egy robbanás ezt: [recipient_definite].</li>
+		<li>prefix->[INITIATOR_definite] [WEAPON_projectile_label] által okozott [blast]</li>
+		<li>prefix->[INITIATOR_definite] [WEAPON_label] által okozott [blast]</li>
+		<li>prefix->[INITIATOR_definite] [WEAPON_projectile_label] által okozott [blast]</li>
+		<li>prefix->[INITIATOR_definite] [WEAPON_label] által okozott [blast]</li>
+		<li>prefix->[INITIATOR_definite] által okozott [blast]</li>
+		<li>prefix->[INITIATOR_definite] [WEAPON_projectile_label] által okozott [blast]</li>
+		<li>prefix->[INITIATOR_definite] [WEAPON_label] által okozott [blast]</li>
+		<li>prefix->[INITIATOR_definite] [WEAPON_projectile_label]</li>
+		<li>prefix->[INITIATOR_definite] [WEAPON_label]</li>
+		<li>r_logentry->[prefix] [injured] [RECIPIENT_definite].</li>
+		<li>r_logentry->[prefix] [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets].</li>
+		<li>r_logentry->[prefix] [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets], [adverb_flavortext].</li>
+		<li>r_logentry->[prefix] [adverb_flavortext] [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets].</li>
+		<li>r_logentry->[prefix] [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets] és [damaged_past] ezt: [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] ezt: [RECIPIENT_definite] [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] ezt: [RECIPIENT_definite] [damaged_targets], [adverb_flavortext].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [adverb_flavortext] [damaged_past] ezt: [RECIPIENT_definite] [damaged_targets].</li>
+		<li>r_logentry->[INITIATOR_definite] [damaged_past] ezt: [RECIPIENT_definite].</li>
+		<li>r_logentry->[INITIATOR_definite] [adverb_flavortext] [damaged_past] ezt: [RECIPIENT_definite].</li>
+		<li>r_logentry->[RECIPIENT_definite] [damaged_past] lett.</li>
+		<li>r_logentry(p=0.001)->Elkapta egy robbanás ezt: [RECIPIENT_definite].</li>
+		<li>r_logentry(p=0.001)->Elérte egy robbanás ezt: [RECIPIENT_definite].</li>
 		<li>blast->robbanás</li>
 		<li>blast->robbanás</li>
 		<li>blast->lökéshullám</li>

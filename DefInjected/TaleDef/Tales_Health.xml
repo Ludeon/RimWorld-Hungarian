@@ -3,15 +3,15 @@
 
   <Wounded.label>sebesülés</Wounded.label>
 	<Wounded.rulePack.rulesStrings>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef], ezzel: [weapon_label]</li>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef], ezzel: [weapon_label]</li>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
-		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
-		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
-		<li>image->[killer_nameFull] brutálisan [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
-		<li>image->[victim_nameFull] meg lett [wound_name_past] [weapon_optional]</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef]</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef], ezzel: [WEAPON_label]</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef]</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef], ezzel: [WEAPON_label]</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [WEAPON_optional]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [WEAPON_optional]</li>
+		<li>image->[killer_nameFull] brutálisan [wound_name_present] őt: [victim_nameFull] [WEAPON_optional]</li>
+		<li>image->[victim_nameFull] meg lett [wound_name_past] [WEAPON_optional]</li>
 		<li>wound_name_past->sebezve</li>
 		<li>wound_name_past->sebezve</li>
 		<li>wound_name_past->sebezve</li>
@@ -22,7 +22,7 @@
 		<li>wound_name_present->megsebzi</li>
 		<li>wound_name_present->megrohamozza</li>
 		<li>wound_name_present->megtámadja</li>
-		<li>weapon_optional->ezzel: [weapon_label] [circumstance_group]</li>
+		<li>weapon_optional->ezzel: [WEAPON_label] [circumstance_group]</li>
 		<li>weapon_optional->[circumstance_group]</li>
 		<li>circumstance_phrase->minden bűntudat nélkül</li>
 		<li>circumstance_phrase->hideg hatékonysággal</li>
@@ -33,29 +33,29 @@
 		<li>circumstance_phrase->gyáva módon</li>
 		<li>desc_sentence->[Quantity_adjphrase] [Animal] nézi.</li>
 		<li>desc_sentence->Egy [PersonJob] csendben figyeli [side_position].</li>
-		<li>desc_sentence->Vértócsa alakul ki [victim_nameShortDef] teste körül.</li>
-		<li>desc_sentence->[victim_nameShortDef] testét [Gore] borítják.</li>
-		<li>desc_sentence->[victim_nameShortDef] [AdjectiveAngsty] arcot vág.</li>
-		<li>desc_sentence->[victim_nameShortDef] fájdalmában szűköl.</li>
-		<li>desc_sentence->[victim_nameShortDef] szenvedve szűköl.</li>
-		<li>desc_sentence->[killer_nameShortDef] vicsorog.</li>
-		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
-		<li>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</li>
-		<li>desc_sentence->[killer_nameShortDef] örül.</li>
-		<li>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</li>
+		<li>desc_sentence->Vértócsa alakul ki [victim_nameDef] teste körül.</li>
+		<li>desc_sentence->[victim_nameDef] testét [Gore] borítják.</li>
+		<li>desc_sentence->[victim_nameDef] [AdjectiveAngsty] arcot vág.</li>
+		<li>desc_sentence->[victim_nameDef] fájdalmában szűköl.</li>
+		<li>desc_sentence->[victim_nameDef] szenvedve szűköl.</li>
+		<li>desc_sentence->[killer_nameDef] vicsorog.</li>
+		<li>desc_sentence->[killer_nameDef] elégedettnek tűnik.</li>
+		<li>desc_sentence->[killer_nameDef] szomorúnak tűnik.</li>
+		<li>desc_sentence->[killer_nameDef] örül.</li>
+		<li>desc_sentence->[killer_nameDef] győzedelmes arcot vág.</li>
 	</Wounded.rulePack.rulesStrings>
 
   <Downed.label>lepadlózva</Downed.label>
 	<Downed.rulePack.rulesStrings>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef], ezzel: [weapon_label]</li>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef], ezzel: [weapon_label]</li>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
-		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
-		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
-		<li>image->[killer_nameFull] brutálisan [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
-		<li>image->[victim_nameFull] meg lett [wound_name_past] [weapon_optional]</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef]</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef], ezzel: [WEAPON_label]</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef]</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef], ezzel: [WEAPON_label]</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [WEAPON_optional]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [WEAPON_optional]</li>
+		<li>image->[killer_nameFull] brutálisan [wound_name_present] őt: [victim_nameFull] [WEAPON_optional]</li>
+		<li>image->[victim_nameFull] meg lett [wound_name_past] [WEAPON_optional]</li>
 		<li>wound_name_past->bénítva</li>
 		<li>wound_name_past->nyomorítva</li>
 		<li>wound_name_past->padlóztatva</li>
@@ -64,7 +64,7 @@
 		<li>wound_name_present->bántja</li>
 		<li>wound_name_present->kiüti</li>
 		<li>wound_name_present->lebénítja</li>
-		<li>weapon_optional->ezzel:  [weapon_label] [circumstance_group]</li>
+		<li>weapon_optional->ezzel:  [WEAPON_label] [circumstance_group]</li>
 		<li>weapon_optional->[circumstance_group]</li>
 		<li>circumstance_phrase->minden bűntudat nélkül</li>
 		<li>circumstance_phrase->hideg hatékonysággal</li>
@@ -75,24 +75,24 @@
 		<li>circumstance_phrase->gyáva módon</li>
 		<li>desc_sentence->[Quantity_adjphrase] [Animal] nézi.</li>
 		<li>desc_sentence->Egy [PersonJob] csendben figyeli [side_position].</li>
-		<li>desc_sentence->[victim_nameShortDef] [AdjectiveAngsty] arcot vág.</li>
-		<li>desc_sentence->[victim_nameShortDef] szemei csukva.</li>
-		<li>desc_sentence->[killer_nameShortDef] vicsorog.</li>
-		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
-		<li>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</li>
-		<li>desc_sentence->[killer_nameShortDef] örül.</li>
-		<li>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</li>
+		<li>desc_sentence->[victim_nameDef] [AdjectiveAngsty] arcot vág.</li>
+		<li>desc_sentence->[victim_nameDef] szemei csukva.</li>
+		<li>desc_sentence->[killer_nameDef] vicsorog.</li>
+		<li>desc_sentence->[killer_nameDef] elégedettnek tűnik.</li>
+		<li>desc_sentence->[killer_nameDef] szomorúnak tűnik.</li>
+		<li>desc_sentence->[killer_nameDef] örül.</li>
+		<li>desc_sentence->[killer_nameDef] győzedelmes arcot vág.</li>
 	</Downed.rulePack.rulesStrings>
 
   <KilledLongRange.label>lelőve</KilledLongRange.label>
 	<KilledLongRange.rulePack.rulesStrings>
-		<li>tale_noun->[killer_nameShortDef] óriási távolságról [wound_name_present] őt: [victim_nameShortDef]</li>
-		<li>tale_noun->[killer_nameShortDef] óriási távolságról [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</li>
-		<li>tale_noun->[killer_nameShortDef] óriási távolságról [wound_name_present] őt: [victim_nameShortDef]</li>
-		<li>tale_noun->[killer_nameShortDef] óriási távolságról [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</li>
-		<li>image->[killer_nameFull] célba veszi őt: [victim_nameFull] [weapon_optional]</li>
-		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
-		<li>image->[killer_nameFull] hidegvérrel [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
+		<li>tale_noun->[killer_nameDef] óriási távolságról [wound_name_present] őt: [victim_nameDef]</li>
+		<li>tale_noun->[killer_nameDef] óriási távolságról [wound_name_present] őt: [victim_nameDef] ezzel: [WEAPON_label]</li>
+		<li>tale_noun->[killer_nameDef] óriási távolságról [wound_name_present] őt: [victim_nameDef]</li>
+		<li>tale_noun->[killer_nameDef] óriási távolságról [wound_name_present] őt: [victim_nameDef] ezzel: [WEAPON_label]</li>
+		<li>image->[killer_nameFull] célba veszi őt: [victim_nameFull] [WEAPON_optional]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [WEAPON_optional]</li>
+		<li>image->[killer_nameFull] hidegvérrel [wound_name_present] őt: [victim_nameFull] [WEAPON_optional]</li>
 		<li>wound_name_past->gyilkolva</li>
 		<li>wound_name_past->ölve</li>
 		<li>wound_name_past->gyilkolva</li>
@@ -101,7 +101,7 @@
 		<li>wound_name_present->lemészárolja</li>
 		<li>wound_name_present->megöli</li>
 		<li>wound_name_present->kinyírja</li>
-		<li>weapon_optional->ezzel: [weapon_label] [circumstance_group]</li>
+		<li>weapon_optional->ezzel: [WEAPON_label] [circumstance_group]</li>
 		<li>weapon_optional->[circumstance_group]</li>
 		<li>circumstance_phrase->minden bűntudat nélkül</li>
 		<li>circumstance_phrase->hideg hatékonysággal</li>
@@ -111,26 +111,26 @@
 		<li>circumstance_phrase->gyáva módon</li>
 		<li>desc_sentence->[Quantity_adjphrase] [Animal] nézi.</li>
 		<li>desc_sentence->Egy [PersonJob] csendben figyeli [side_position].</li>
-		<li>desc_sentence->[victim_nameShortDef] [AdjectiveAngsty] arcot vág.</li>
-		<li>desc_sentence->[victim_nameShortDef] szemei csukva.</li>
-		<li>desc_sentence->[victim_nameShortDef] testét [Gore] borítják.</li>
-		<li>desc_sentence->[killer_nameShortDef] vicsorog.</li>
-		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
-		<li>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</li>
-		<li>desc_sentence->[killer_nameShortDef] örül.</li>
-		<li>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</li>
+		<li>desc_sentence->[victim_nameDef] [AdjectiveAngsty] arcot vág.</li>
+		<li>desc_sentence->[victim_nameDef] szemei csukva.</li>
+		<li>desc_sentence->[victim_nameDef] testét [Gore] borítják.</li>
+		<li>desc_sentence->[killer_nameDef] vicsorog.</li>
+		<li>desc_sentence->[killer_nameDef] elégedettnek tűnik.</li>
+		<li>desc_sentence->[killer_nameDef] szomorúnak tűnik.</li>
+		<li>desc_sentence->[killer_nameDef] örül.</li>
+		<li>desc_sentence->[killer_nameDef] győzedelmes arcot vág.</li>
 	</KilledLongRange.rulePack.rulesStrings>
 
   <KilledMelee.label>levágva</KilledMelee.label>
 	<KilledMelee.rulePack.rulesStrings>
-		<li>tale_noun->[killer_nameShortDef] közelharcban [wound_name_present] őt: [victim_nameShortDef]</li>
-		<li>tale_noun->[killer_nameShortDef] közelharcban [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</li>
-		<li>tale_noun->[killer_nameShortDef] közelharcban [wound_name_present] őt: [victim_nameShortDef]</li>
-		<li>tale_noun->[killer_nameShortDef] közelharcban [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</li>
-		<li>image->image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
-		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
-		<li>image->[killer_nameFull] brutálisan [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
-		<li>image->[victim_nameFull] meg lett [wound_name_past] [weapon_optional]</li>
+		<li>tale_noun->[killer_nameDef] közelharcban [wound_name_present] őt: [victim_nameDef]</li>
+		<li>tale_noun->[killer_nameDef] közelharcban [wound_name_present] őt: [victim_nameDef] ezzel: [WEAPON_label]</li>
+		<li>tale_noun->[killer_nameDef] közelharcban [wound_name_present] őt: [victim_nameDef]</li>
+		<li>tale_noun->[killer_nameDef] közelharcban [wound_name_present] őt: [victim_nameDef] ezzel: [WEAPON_label]</li>
+		<li>image->image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [WEAPON_optional]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [WEAPON_optional]</li>
+		<li>image->[killer_nameFull] brutálisan [wound_name_present] őt: [victim_nameFull] [WEAPON_optional]</li>
+		<li>image->[victim_nameFull] meg lett [wound_name_past] [WEAPON_optional]</li>
 		<li>wound_name_past->gyilkolva</li>
 		<li>wound_name_past->ölve</li>
 		<li>wound_name_past->gyilkolva</li>
@@ -139,7 +139,7 @@
 		<li>wound_name_present->megöli</li>
 		<li>wound_name_present->lemészárolja</li>
 		<li>wound_name_present->megcsonkítja</li>
-		<li>weapon_optional->ezzel: [weapon_label] [circumstance_group]</li>
+		<li>weapon_optional->ezzel: [WEAPON_label] [circumstance_group]</li>
 		<li>weapon_optional->[circumstance_group]</li>
 		<li>circumstance_phrase->minden bűntudat nélkül</li>
 		<li>circumstance_phrase->hideg hatékonysággal</li>
@@ -148,36 +148,36 @@
 		<li>circumstance_phrase->gyáva módon</li>
 		<li>desc_sentence->[Quantity_adjphrase] [Animal] nézi.</li>
 		<li>desc_sentence->Egy [PersonJob] csendben figyeli [side_position].</li>
-		<li>desc_sentence->[victim_nameShortDef] [AdjectiveAngsty] arcot vág.</li>
-		<li>desc_sentence->[victim_nameShortDef] szemei csukva.</li>
-		<li>desc_sentence->[victim_nameShortDef] testét [Gore] borítják.</li>
-		<li>desc_sentence->[victim_nameShortDef] és [killer_nameShortDef] testét [Gore] borítják.</li>
-		<li>desc_sentence->[killer_nameShortDef] testét [Gore] borítják.</li>
-		<li>desc_sentence->[killer_nameShortDef] vicsorog.</li>
-		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
-		<li>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</li>
-		<li>desc_sentence->[killer_nameShortDef] örül.</li>
-		<li>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</li>
-		<li>desc_sentence->[killer_nameShortDef] állatias arcot vág.</li>
+		<li>desc_sentence->[victim_nameDef] [AdjectiveAngsty] arcot vág.</li>
+		<li>desc_sentence->[victim_nameDef] szemei csukva.</li>
+		<li>desc_sentence->[victim_nameDef] testét [Gore] borítják.</li>
+		<li>desc_sentence->[victim_nameDef] és [killer_nameDef] testét [Gore] borítják.</li>
+		<li>desc_sentence->[killer_nameDef] testét [Gore] borítják.</li>
+		<li>desc_sentence->[killer_nameDef] vicsorog.</li>
+		<li>desc_sentence->[killer_nameDef] elégedettnek tűnik.</li>
+		<li>desc_sentence->[killer_nameDef] szomorúnak tűnik.</li>
+		<li>desc_sentence->[killer_nameDef] örül.</li>
+		<li>desc_sentence->[killer_nameDef] győzedelmes arcot vág.</li>
+		<li>desc_sentence->[killer_nameDef] állatias arcot vág.</li>
 	</KilledMelee.rulePack.rulesStrings>
 
   <KilledMajorThreat.label>fő fenyegetés meggyilkolva</KilledMajorThreat.label>
 	<KilledMajorThreat.rulePack.rulesStrings>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</li>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</li>
-		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
-		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
-		<li>image->[killer_nameFull] brutálisan [wound_name_present] őt: [victim_nameFull] [weapon_optional]</li>
-		<li>image->[victim_nameFull] meg lett [wound_name_past] [weapon_optional]</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef]</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef] ezzel: [WEAPON_label]</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef]</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef] ezzel: [WEAPON_label]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [WEAPON_optional]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] [WEAPON_optional]</li>
+		<li>image->[killer_nameFull] brutálisan [wound_name_present] őt: [victim_nameFull] [WEAPON_optional]</li>
+		<li>image->[victim_nameFull] meg lett [wound_name_past] [WEAPON_optional]</li>
 		<li>wound_name_past->ölve</li>
 		<li>wound_name_past->semmisítve</li>
 		<li>wound_name_past->gyilkolva</li>
 		<li>wound_name_present->megöli</li>
 		<li>wound_name_present->legyőzi</li>
 		<li>wound_name_present->legyőzi</li>
-		<li>weapon_optional->ezzel: [weapon_label] [circumstance_group]</li>
+		<li>weapon_optional->ezzel: [WEAPON_label] [circumstance_group]</li>
 		<li>weapon_optional->[circumstance_group]</li>
 		<li>circumstance_phrase->hideg hatékonysággal</li>
 		<li>circumstance_phrase->gyors, hatékony mozdulatokkal</li>
@@ -186,27 +186,27 @@
 		<li>circumstance_phrase->elképesztő erővel</li>
 		<li>desc_sentence->[Quantity_adjphrase] [Animal] nézi.</li>
 		<li>desc_sentence->Egy [PersonJob] csendben figyeli [side_position].</li>
-		<li>desc_sentence->[victim_nameShortDef] [AdjectiveAngsty] arcot vág.</li>
-		<li>desc_sentence->[victim_nameShortDef] szemei csukva.</li>
-		<li>desc_sentence->[victim_nameShortDef] testét [Gore] borítják.</li>
-		<li>desc_sentence->[victim_nameShortDef] és [killer_nameShortDef] testét [Gore] borítják.</li>
-		<li>desc_sentence->[victim_nameShortDef] teteme [killer_nameShortDef] fölé magasodik.</li>
-		<li>desc_sentence->[victim_nameShortDef] óriási teteme eltakarja ezt: [TerrainFeature].</li>
-		<li>desc_sentence->[victim_nameShortDef] szemei [Color] színben ragyognak.</li>
-		<li>desc_sentence->[killer_nameShortDef] testét [Gore] borítják.</li>
-		<li>desc_sentence->[killer_nameShortDef] vicsorog.</li>
-		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
-		<li>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</li>
-		<li>desc_sentence->[killer_nameShortDef] [AdjectiveBadass] arcot vág.</li>
-		<li>desc_sentence->[killer_nameShortDef] hősies aurája fénylik.</li>
+		<li>desc_sentence->[victim_nameDef] [AdjectiveAngsty] arcot vág.</li>
+		<li>desc_sentence->[victim_nameDef] szemei csukva.</li>
+		<li>desc_sentence->[victim_nameDef] testét [Gore] borítják.</li>
+		<li>desc_sentence->[victim_nameDef] és [killer_nameDef] testét [Gore] borítják.</li>
+		<li>desc_sentence->[victim_nameDef] teteme [killer_nameDef] fölé magasodik.</li>
+		<li>desc_sentence->[victim_nameDef] óriási teteme eltakarja ezt: [TerrainFeature].</li>
+		<li>desc_sentence->[victim_nameDef] szemei [Color] színben ragyognak.</li>
+		<li>desc_sentence->[killer_nameDef] testét [Gore] borítják.</li>
+		<li>desc_sentence->[killer_nameDef] vicsorog.</li>
+		<li>desc_sentence->[killer_nameDef] elégedettnek tűnik.</li>
+		<li>desc_sentence->[killer_nameDef] győzedelmes arcot vág.</li>
+		<li>desc_sentence->[killer_nameDef] [AdjectiveBadass] arcot vág.</li>
+		<li>desc_sentence->[killer_nameDef] hősies aurája fénylik.</li>
 	</KilledMajorThreat.rulePack.rulesStrings>
 
   <KilledCapacity.label>meggyilkolva</KilledCapacity.label>
 	<KilledCapacity.rulePack.rulesStrings>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef]</li>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef] ezzel: [weapon_label]</li>
-		<li>image->[killer_nameFull] [cap_removal] [victim_nameFull] következő képességét: [capacity_label] [weapon_optional]</li>
-		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] azzal, hogy [cap_removal] következő képességét: [capacity_label] [weapon_optional]</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef]</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef] ezzel: [WEAPON_label]</li>
+		<li>image->[killer_nameFull] [cap_removal] [victim_nameFull] következő képességét: [capacity_label] [WEAPON_optional]</li>
+		<li>image->[killer_nameFull] [wound_name_present] őt: [victim_nameFull] azzal, hogy [cap_removal] következő képességét: [capacity_label] [WEAPON_optional]</li>
 		<li>cap_removal->eliminálta</li>
 		<li>cap_removal->kivégezte</li>
 		<li>cap_removal->megszűntette</li>
@@ -218,7 +218,7 @@
 		<li>wound_name_present->kivégzi</li>
 		<li>wound_name_present->megöli</li>
 		<li>wound_name_present->megsemmisíti</li>
-		<li>weapon_optional->ezzel: [weapon_label] [circumstance_group]</li>
+		<li>weapon_optional->ezzel: [WEAPON_label] [circumstance_group]</li>
 		<li>weapon_optional->[circumstance_group]</li>
 		<li>circumstance_phrase->minden bűntudat nélkül</li>
 		<li>circumstance_phrase->hideg hatékonysággal</li>
@@ -226,18 +226,18 @@
 		<li>circumstance_phrase->érzelem nélkül</li>
 		<li>desc_sentence->[Quantity_adjphrase] [Animal] nézi.</li>
 		<li>desc_sentence->Egy [PersonJob] csendben figyeli [side_position].</li>
-		<li>desc_sentence->[victim_nameShortDef] [AdjectiveAngsty] arcot vág.</li>
-		<li>desc_sentence->[victim_nameShortDef] szemei csukva.</li>
-		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
-		<li>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</li>
-		<li>desc_sentence->[killer_nameShortDef] örül.</li>
-		<li>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</li>
+		<li>desc_sentence->[victim_nameDef] [AdjectiveAngsty] arcot vág.</li>
+		<li>desc_sentence->[victim_nameDef] szemei csukva.</li>
+		<li>desc_sentence->[killer_nameDef] elégedettnek tűnik.</li>
+		<li>desc_sentence->[killer_nameDef] szomorúnak tűnik.</li>
+		<li>desc_sentence->[killer_nameDef] örül.</li>
+		<li>desc_sentence->[killer_nameDef] győzedelmes arcot vág.</li>
 	</KilledCapacity.rulePack.rulesStrings>
 
   <KilledMortar.label>ágyúval meggyilkolva</KilledMortar.label>
 	<KilledMortar.rulePack.rulesStrings>
-		<li>tale_noun->[killer_nameShortDef] [wound_name_present] őt: [victim_nameShortDef] egy ágyúval</li>
-		<li>tale_noun->[victim_nameShortDef] halála [killer_nameShortDef] ágyúlövésétől</li>
+		<li>tale_noun->[killer_nameDef] [wound_name_present] őt: [victim_nameDef] egy ágyúval</li>
+		<li>tale_noun->[victim_nameDef] halála [killer_nameDef] ágyúlövésétől</li>
 		<li>image->[killer_nameFull] gondosan céloz [circumstance_group]</li>
 		<li>image->[killer_nameFull] a távolba néz [circumstance_group]</li>
 		<li>image->[killer_nameFull] papíron számol [circumstance_group]</li>
@@ -248,14 +248,14 @@
 		<li>circumstance_phrase->miközben [victim_nameFull] rohan</li>
 		<li>desc_sentence->[Quantity_adjphrase] [Animal] nézi.</li>
 		<li>desc_sentence->Egy [PersonJob] csendben figyeli [side_position].</li>
-		<li>desc_sentence->[victim_nameShortDef] [AdjectiveAngsty] arcot vág.</li>
-		<li>desc_sentence->[victim_nameShortDef] testét [Gore] borítják.</li>
-		<li>desc_sentence->[victim_nameShortDef] körül robbanások villannak.</li>
-		<li>desc_sentence->[victim_nameShortDef] körül kráterek lyuggatják a földet.</li>
-		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
-		<li>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</li>
-		<li>desc_sentence->[killer_nameShortDef] örül.</li>
-		<li>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</li>
+		<li>desc_sentence->[victim_nameDef] [AdjectiveAngsty] arcot vág.</li>
+		<li>desc_sentence->[victim_nameDef] testét [Gore] borítják.</li>
+		<li>desc_sentence->[victim_nameDef] körül robbanások villannak.</li>
+		<li>desc_sentence->[victim_nameDef] körül kráterek lyuggatják a földet.</li>
+		<li>desc_sentence->[killer_nameDef] elégedettnek tűnik.</li>
+		<li>desc_sentence->[killer_nameDef] szomorúnak tűnik.</li>
+		<li>desc_sentence->[killer_nameDef] örül.</li>
+		<li>desc_sentence->[killer_nameDef] győzedelmes arcot vág.</li>
 	</KilledMortar.rulePack.rulesStrings>
 
   <Exhausted.label>kimerülés</Exhausted.label>
@@ -370,7 +370,7 @@
 
   <GaveBirth.label>születés</GaveBirth.label>
 	<GaveBirth.rulePack.rulesStrings>
-		<li>tale_noun->[mother_nameShortDef] világra hozza őt: [child_nameShortDef]</li>
+		<li>tale_noun->[mother_nameDef] világra hozza őt: [child_nameDef]</li>
 		<li>image->[mother_nameFull] világra hozza őt [circumstance_group]</li>
 		<li>image->[mother_nameFull] kezében [baby], [circumstance_group]</li>
 		<li>image->[mother_nameFull] az ágyban fekszik a [baby], [circumstance_group]</li>

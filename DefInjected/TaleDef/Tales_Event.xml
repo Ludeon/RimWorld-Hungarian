@@ -28,7 +28,7 @@
 
   <SocialFight.label>verekedés</SocialFight.label>
 	<SocialFight.rulePack.rulesStrings>
-		<li>tale_noun->[pawna_nameShortDef] [fight_name_present] őt: [pawnb_nameShortDef]</li>
+		<li>tale_noun->[pawna_nameDef] [fight_name_present] őt: [pawnb_nameDef]</li>
 		<li>image->[pawna_nameFull] sértegeti őt: [pawnb_nameFull] [circumstance_group]</li>
 		<li>image->[pawna_nameFull] gúnyolja őt: [pawnb_nameFull] [circumstance_group]</li>
 		<li>image->[pawna_nameFull] fenyegeti őt: [pawnb_nameFull] [circumstance_group]</li>
@@ -41,15 +41,15 @@
 		<li>fight_name_present->megrohamozza</li>
 		<li>fight_name_present->megtámadja</li>
 		<li>fight_name_present->megveri</li>
-		<li>circumstance_phrase->miközben [pawnb_nameShortDef] sértegeti őt: [pawna_objective]</li>
-		<li>circumstance_phrase->miközben [pawnb_nameShortDef] gúnyolja őt: [pawna_objective]</li>
-		<li>circumstance_phrase->miközben [pawnb_nameShortDef] fenyegeti őt: [pawna_objective]</li>
-		<li>circumstance_phrase->miközben [pawnb_nameShortDef] megfélemlíti őt: [pawna_objective]</li>
-		<li>circumstance_phrase->miközben [pawnb_nameShortDef] megtámadja őt: [pawna_objective]</li>
-		<li>circumstance_phrase->miközben [pawnb_nameShortDef] megrohamozza őt: [pawna_objective]</li>
-		<li>circumstance_phrase->miközben [pawnb_nameShortDef] megüti őt: [pawna_objective]</li>
-		<li>circumstance_phrase->miközben [pawnb_nameShortDef] megrúgja őt: [pawna_objective]</li>
-		<li>circumstance_phrase->miközben [pawnb_nameShortDef] elbújik előle: őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameDef] sértegeti őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameDef] gúnyolja őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameDef] fenyegeti őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameDef] megfélemlíti őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameDef] megtámadja őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameDef] megrohamozza őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameDef] megüti őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameDef] megrúgja őt: [pawna_objective]</li>
+		<li>circumstance_phrase->miközben [pawnb_nameDef] elbújik előle: őt: [pawna_objective]</li>
 		<li>desc_sentence->[target] nem mutat bűntudatot.</li>
 		<li>desc_sentence->[target] arcán szenvedélyes harag.</li>
 		<li>desc_sentence->[target] arcán nincs érzelem.</li>
@@ -57,8 +57,8 @@
 		<li>desc_sentence->[target] dühösen üvölt.</li>
 		<li>desc_sentence->[target] láthatóan sérült.</li>
 		<li>desc_sentence->[target] [Color] szemei fénylenek.</li>
-		<li>target->[pawna_nameShortDef]</li>
-		<li>target->[pawnb_nameShortDef]</li>
+		<li>target->[pawna_nameDef]</li>
+		<li>target->[pawnb_nameDef]</li>
 	</SocialFight.rulePack.rulesStrings>
 
   <CollapseDodged.label>beomlás elkerülése</CollapseDodged.label>

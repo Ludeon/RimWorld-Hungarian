@@ -4,7 +4,7 @@
   <Confirm>Jóváhagyás</Confirm>
   <GoBack>Vissza</GoBack>
   <OK>OK</OK>
-  <Dismiss>Elbocsát</Dismiss>
+  <Dismiss>Bezár</Dismiss>
   
   <ArmorPenetration>Védelem átütés</ArmorPenetration>
   <ArmorPenetrationExplanation>Ez a fegyver ennyi védelmet hagy figyelmen kívül minden támadásnál.\n\nHa az érték nagyobb, mint az ellenfél védelme, akkor mintha nem is lenne a célponton páncél. Ha az érték kisebb, levonásra kerül az ellenfél védelméből.</ArmorPenetrationExplanation>
@@ -252,8 +252,8 @@
   <NuzzleInterval>Dörgölőzés gyakoriság</NuzzleInterval>
   <NuzzleIntervalExplanation>Átlagosan milyen gyakorisággal dörgölőzik az állat a gyarmatosokhoz.\n\nA dörgölőzés sok állatfajnál megfigyelhető viselkedés, mely a barátság kimutatását szolgálja. A legtöbb ember cukinak találja ezt és egy ideig jobb hangulatuk lesz tőle.</NuzzleIntervalExplanation>
   <HarmedRevengeChance>Megtorlás esély</HarmedRevengeChance>
-  <HarmedRevengeChanceExplanation>Annak az esélye, hogy az állat megtorolja az őt ért támadást.\n\nPuska lőtávra értendő. Az esély növekszik, ha a támadó közelebb van. Közelharcban az esély háromszoros.\n\nMinden sebződésnél bejöhet, ezért a lassú, nagyot ütő fegyverek kisebb valószínűséggel váltják ki.\n\nA megtorlás esélyének minimalizálásához használj lassú, nagy hatótávú fegyvereket.</HarmedRevengeChanceExplanation>
-  <TameFailedRevengeChance>Megtorlás esélye elrontott szelídítésnél</TameFailedRevengeChance>
+  <HarmedRevengeChanceExplanation>Annak esélye, hogy az alany megtorolja az őt ért támadást.\n\nPuska lőtávra értendő. Az esély növekszik, ha a támadó közelebb van. Közelharcban az esély háromszoros.\n\nMinden sebződésnél bejöhet, ezért a lassú, nagyot ütő fegyverek kisebb valószínűséggel váltják ki.\n\nA megtorlás esélyének minimalizálásához használj lassú, nagy hatótávú fegyvereket.</HarmedRevengeChanceExplanation>
+  <TameFailedRevengeChance>Megtorlás szelídítésnél</TameFailedRevengeChance>
   <TerrainRequirement>Terep követelmény</TerrainRequirement>
   <Supports>Támasztja(???)</Supports>
 
