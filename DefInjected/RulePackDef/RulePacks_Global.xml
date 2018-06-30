@@ -42,40 +42,42 @@
   <GlobalUtility.rulePack.rulesStrings.38>ConceptAny->[ConceptBadass]</GlobalUtility.rulePack.rulesStrings.38>
   <GlobalUtility.rulePack.rulesStrings.39>ConceptAny->[ConceptAngsty]</GlobalUtility.rulePack.rulesStrings.39>
 
-  <TalkTopicsUtility.rulePack.rulesStrings.0>TalkTopicAny->[TalkTopicLight]</TalkTopicsUtility.rulePack.rulesStrings.0>
-  <TalkTopicsUtility.rulePack.rulesStrings.1>TalkTopicAny->[TalkTopicHeavy]</TalkTopicsUtility.rulePack.rulesStrings.1>
-  <TalkTopicsUtility.rulePack.rulesStrings.2>TalkTopicLight->[Vegetable]</TalkTopicsUtility.rulePack.rulesStrings.2>
-  <TalkTopicsUtility.rulePack.rulesStrings.3>TalkTopicLight->[Vegetable] evés</TalkTopicsUtility.rulePack.rulesStrings.3>
-  <TalkTopicsUtility.rulePack.rulesStrings.4>TalkTopicLight->[Vegetable] főzés</TalkTopicsUtility.rulePack.rulesStrings.4>
-  <TalkTopicsUtility.rulePack.rulesStrings.5>TalkTopicLight->[Game]</TalkTopicsUtility.rulePack.rulesStrings.5>
-  <TalkTopicsUtility.rulePack.rulesStrings.6>TalkTopicLight->[Game] játszás</TalkTopicsUtility.rulePack.rulesStrings.6>
-  <TalkTopicsUtility.rulePack.rulesStrings.7>TalkTopicLight->[Game] gyakorlás</TalkTopicsUtility.rulePack.rulesStrings.7>
-  <TalkTopicsUtility.rulePack.rulesStrings.8>TalkTopicLight->[Game] tanulás</TalkTopicsUtility.rulePack.rulesStrings.8>
-  <TalkTopicsUtility.rulePack.rulesStrings.9>TalkTopicLight->[Animal]</TalkTopicsUtility.rulePack.rulesStrings.9>
-  <TalkTopicsUtility.rulePack.rulesStrings.10>TalkTopicLight->[Animal] idomítás</TalkTopicsUtility.rulePack.rulesStrings.10>
-  <TalkTopicsUtility.rulePack.rulesStrings.11>TalkTopicLight->[Animal] szelídítés</TalkTopicsUtility.rulePack.rulesStrings.11>
-  <TalkTopicsUtility.rulePack.rulesStrings.12>TalkTopicLight->[Animal] harc</TalkTopicsUtility.rulePack.rulesStrings.12>
-  <TalkTopicsUtility.rulePack.rulesStrings.13>TalkTopicLight->őrült [Animal]</TalkTopicsUtility.rulePack.rulesStrings.13>
-  <TalkTopicsUtility.rulePack.rulesStrings.14>TalkTopicLight->[Weapon]</TalkTopicsUtility.rulePack.rulesStrings.14>
-  <TalkTopicsUtility.rulePack.rulesStrings.15>TalkTopicLight->[Weapon] használat</TalkTopicsUtility.rulePack.rulesStrings.15>
-  <TalkTopicsUtility.rulePack.rulesStrings.16>TalkTopicLight->[Weapon] lövészet</TalkTopicsUtility.rulePack.rulesStrings.16>
-  <TalkTopicsUtility.rulePack.rulesStrings.17>TalkTopicLight->[TerrainFeature]</TalkTopicsUtility.rulePack.rulesStrings.17>
-  <TalkTopicsUtility.rulePack.rulesStrings.18>TalkTopicLight->[NaturalObject]</TalkTopicsUtility.rulePack.rulesStrings.18>
-  <TalkTopicsUtility.rulePack.rulesStrings.19>TalkTopicLight->[TreeType] fák</TalkTopicsUtility.rulePack.rulesStrings.19>
-  <TalkTopicsUtility.rulePack.rulesStrings.20>TalkTopicLight->[PersonJob]</TalkTopicsUtility.rulePack.rulesStrings.20>
-  <TalkTopicsUtility.rulePack.rulesStrings.21>TalkTopicLight->barátságos [PersonJob]</TalkTopicsUtility.rulePack.rulesStrings.21>
-  <TalkTopicsUtility.rulePack.rulesStrings.22>TalkTopicLight->ellenséges [PersonJob]s</TalkTopicsUtility.rulePack.rulesStrings.22>
-  <TalkTopicsUtility.rulePack.rulesStrings.23>TalkTopicLight->[Enemy]</TalkTopicsUtility.rulePack.rulesStrings.23>
-  <TalkTopicsUtility.rulePack.rulesStrings.24>TalkTopicLight->[Enemy] harc</TalkTopicsUtility.rulePack.rulesStrings.24>
-  <TalkTopicsUtility.rulePack.rulesStrings.25>TalkTopicLight->[Apparel]</TalkTopicsUtility.rulePack.rulesStrings.25>
-  <TalkTopicsUtility.rulePack.rulesStrings.26>TalkTopicLight->[Apparel] viselése</TalkTopicsUtility.rulePack.rulesStrings.26>
-  <TalkTopicsUtility.rulePack.rulesStrings.27>TalkTopicLight->[Apparel] készítése</TalkTopicsUtility.rulePack.rulesStrings.27>
-  <TalkTopicsUtility.rulePack.rulesStrings.28>TalkTopicLight->[Enemy]</TalkTopicsUtility.rulePack.rulesStrings.28>
-  <TalkTopicsUtility.rulePack.rulesStrings.29>TalkTopicLight->[Enemy] harc</TalkTopicsUtility.rulePack.rulesStrings.29>
-  <TalkTopicsUtility.rulePack.rulesStrings.30>TalkTopicLight->[Apparel]</TalkTopicsUtility.rulePack.rulesStrings.30>
-  <TalkTopicsUtility.rulePack.rulesStrings.31>TalkTopicLight->[Apparel] viselése</TalkTopicsUtility.rulePack.rulesStrings.31>
-  <TalkTopicsUtility.rulePack.rulesStrings.32>TalkTopicLight->[Apparel] készítése</TalkTopicsUtility.rulePack.rulesStrings.32>
-	
+  
+  <TalkTopicsUtility.rulePack.rulesStrings>
+  <li>TalkTopicAny->[TalkTopicLight]</li>
+  <li>TalkTopicAny->[TalkTopicHeavy]</li>
+  <li>TalkTopicHeavy->[talktopicheavyfile]</li>
+  <li>TalkTopicHeavy(p=0.08)->[talktopicheavyfile] és [talktopicheavyfile] kapcsolatát</li>
+  <li>TalkTopicHeavy(p=0.08)->[talktopicheavyfile] és [talktopicheavyfile] kapcsolatát</li>
+  <li>TalkTopicHeavy(p=0.08)->[talktopicheavyfile] és [talktopicheavyfile] viszonyát</li>
+  <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
+  <li>TalkTopicLight->[Vegetable]</li>
+  <li>TalkTopicLight->[Vegetable] evés</li>
+  <li>TalkTopicLight->[Vegetable] főzés</li>
+  <li>TalkTopicLight->[Game]</li>
+  <li>TalkTopicLight->[Game] játszás</li>
+  <li>TalkTopicLight->[Game] gyakorlás</li>
+  <li>TalkTopicLight->[Game] tanulás</li>
+  <li>TalkTopicLight->[Animal]</li>
+  <li>TalkTopicLight->[Animal] idomítás</li>
+  <li>TalkTopicLight->[Animal] szelídítés</li>
+  <li>TalkTopicLight->[Animal] harc</li>
+  <li>TalkTopicLight->őrült [Animal]</li>
+  <li>TalkTopicLight->[Weapon]</li>
+  <li>TalkTopicLight->[Weapon] használat</li>
+  <li>TalkTopicLight->[Weapon] lövészet</li>
+  <li>TalkTopicLight->[TerrainFeature]</li>
+  <li>TalkTopicLight->[NaturalObject]</li>
+  <li>TalkTopicLight->[TreeType] fák</li>
+  <li>TalkTopicLight->[PersonJob]</li>
+  <li>TalkTopicLight->barátságos [PersonJob]</li>
+  <li>TalkTopicLight->ellenséges [PersonJob]</li>
+  <li>TalkTopicLight->[Enemy]</li>
+  <li>TalkTopicLight->[Enemy] harc</li>
+  <li>TalkTopicLight->[Apparel]</li>
+  <li>TalkTopicLight->[Apparel] viselése</li>
+  <li>TalkTopicLight->[Apparel] készítése</li>
+</TalkTopicsUtility.rulePack.rulesStrings>
 	
 	
 </LanguageData>
