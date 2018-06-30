@@ -38,6 +38,12 @@
   <FoodTypeFlags_Processed>feldolgozott étel</FoodTypeFlags_Processed>
   <FoodTypeFlags_Liquor>alkohol</FoodTypeFlags_Liquor>
   <FoodTypeFlags_Kibble>száraztáp</FoodTypeFlags_Kibble>
+  
+  <FoodPoisonCause_Unknown>ismeretlen</FoodPoisonCause_Unknown>
+  <FoodPoisonCause_IncompetentCook>kókler szakács</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_FilthyKitchen>mocskos konyha</FoodPoisonCause_FilthyKitchen>
+  <FoodPoisonCause_Rotten>romlott áru</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_DangerousFoodType>veszélyes étel</FoodPoisonCause_DangerousFoodType>
 
   <!-- Quality category -->
   <QualityCategory_Awful>szörnyű</QualityCategory_Awful>

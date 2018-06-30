@@ -46,7 +46,7 @@
   <AnimalInteractedTooRecently>az állattal nemrég foglalkoztak</AnimalInteractedTooRecently>
   <NoUsableFood>nincs felhasználható étel</NoUsableFood>
   <NoFood>nincs étel</NoFood>
-  <AnimalsSkillTooLow>gondozás készség túl alacsony</AnimalsSkillTooLow>
+  <AnimalsSkillTooLow>gondozás készség túl alacsony, {0} kell</AnimalsSkillTooLow>
   <CantInteractAnimalDowned>mozgásképtelen állat</CantInteractAnimalDowned>
   <CantInteractAnimalAsleep>alvó állat</CantInteractAnimalAsleep>
   <CantInteractAnimalBusy>elfoglalt állat</CantInteractAnimalBusy>
@@ -187,7 +187,7 @@
 
   <CannotPrioritizeForbidden>Nem tudja előre venni ({0} tiltott)</CannotPrioritizeForbidden>
   <CannotPrioritizeCellForbidden>Nem tudja előre venni (tiltott)</CannotPrioritizeCellForbidden>
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Nem lehet előre venni ({0} tiltott területen van)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Tiltott területen van</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Vedd előre: {1} {0}</PrioritizeGeneric>

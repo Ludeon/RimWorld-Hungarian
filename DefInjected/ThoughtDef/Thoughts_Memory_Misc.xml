@@ -24,10 +24,13 @@
   <KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>Valaki eltávolította egy gyarmatos testrészét. Szörnyű valakit így szétbontani, ha nincsen választási lehetősége.</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
   <MyOrganHarvested.stages.my_organ_harvested.label>én, mint szervdonor</MyOrganHarvested.stages.my_organ_harvested.label>
   <MyOrganHarvested.stages.my_organ_harvested.description>A kolónia kivette egy szervemet! Úgy szednek szét, mint egy öreg motort!</MyOrganHarvested.stages.my_organ_harvested.description>
-  <!-- <WasImprisoned.stages.imprisoned.label>bebörtönözve</WasImprisoned.stages.imprisoned.label> -->
-  <!-- <WasImprisoned.stages.imprisoned.description>A kolónia bebörtönzött egy időre. Mint egy ketrecbe zárt állat!</WasImprisoned.stages.imprisoned.description> -->
+  
+  <WasImprisoned.stages.was_imprisoned.label>bebörtönözve</WasImprisoned.stages.was_imprisoned.label>
+  <WasImprisoned.stages.was_imprisoned.description>A kolónia bebörtönzött egy időre. Mint egy ketrecbe zárt állat!</WasImprisoned.stages.was_imprisoned.description>
+
   <!-- <GreenThumbHappy.stages.0.label>elvetett egy magot</GreenThumbHappy.stages.0.label> -->
   <!-- <GreenThumbHappy.stages.0.description>A világnak több növényre van szüksége!</GreenThumbHappy.stages.0.description> -->
+  
   <Catharsis.stages.catharsis.label>katarzis</Catharsis.stages.catharsis.label>
   <Catharsis.stages.catharsis.description>Jó volt egy kicsit szabadjára engedni az érzéseimet.</Catharsis.stages.catharsis.description>
   <Nuzzled.stages.nuzzled.label>hozzá dörgölőztek</Nuzzled.stages.nuzzled.label>
@@ -40,8 +43,10 @@
   
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>lemészároltam egy embert</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Lemészároltam valakit, mint egy állatot.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
-  <!-- <KnowButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>lemészároltunk egy embert</KnowButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label> -->
-  <!-- <KnowButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Lemészároltunk valakit, mint egy állatot.</KnowButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description> -->
+  
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>lemészároltunk egy embert</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>Lemészároltunk valakit, mint egy állatot.</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
+  
   <ObservedLayingCorpse.stages.observed_corpse.label>tetemet látott</ObservedLayingCorpse.stages.observed_corpse.label>
   <ObservedLayingCorpse.stages.observed_corpse.description>Hullát láttam feküdni a földön. Felkavaró élmény volt.</ObservedLayingCorpse.stages.observed_corpse.description>
   <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>rothadó tetemet látott</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
@@ -56,7 +61,9 @@
   <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>Láttam valakit meghalni! Micsoda élmény!</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
   <KilledHumanlikeBloodlust.stages.killed_someone.label>valakit megölt (vérszomj)</KilledHumanlikeBloodlust.stages.killed_someone.label>
   <KilledHumanlikeBloodlust.stages.killed_someone.description>Valakit megöltem! Micsoda érzés!</KilledHumanlikeBloodlust.stages.killed_someone.description>
-  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>ellenséges vezért ölt ({0})</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
+ 
+ <DefeatedHostileFactionLeader.label>ellenséges vezért ölt</DefeatedHostileFactionLeader.label>
+ <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>ellenséges vezért ölt ({0})</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
   <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>Megpróbáltak elpusztítani minket, de nem hagytuk magunkat!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
    <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>ellenséges vezért ölt</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   <!-- <DefeatedMajorEnemy.stages.0.label>legyőzte ezt: {0}</DefeatedMajorEnemy.stages.0.label> -->
@@ -87,5 +94,9 @@
 
   <RescuedRelative.stages.rescued.label>megmentettük őt: {0}</RescuedRelative.stages.rescued.label>
   <RescuedRelative.stages.rescued.description>Megmentettük a rokonomat. Most, hogy biztonságban van, újra fellélegezhetek.</RescuedRelative.stages.rescued.description>
+  
+  <Rescued.stages.rescued.label>megmentettek</Rescued.stages.rescued.label>
+  <Rescued.stages.rescued.description>Megmentettek! Már azt hittem végem. Nagyon hálás vagyok!</Rescued.stages.rescued.description>
+  
 
 </LanguageData>

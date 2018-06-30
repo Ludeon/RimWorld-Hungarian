@@ -4,6 +4,9 @@
   <AvailableRecreationTypes>Elérhető pihenésformák</AvailableRecreationTypes> 
   <CurrentExpectationsAndRecreation>A jelenlegi elvárások mellett ({0}), minden tolerancia ennyit esik naponta: {1}. {2} pihenésforma megléte ajánlott.</CurrentExpectationsAndRecreation>
   <bored>unott</bored>
+  <Boredom>Unalom</Boredom>
+  <BoredomDesc>Ezeknek az embereknek pihenésre van szükségük, vagy hiába vannak pihenésre beosztva, mivel az összes elérhető pihenésformát unják:\n\n{0}\n\nBiztosíts nagyobb változatosságot.\n\nA jelenleg elérhető pihenésformák {1} számára:\n\n{2}</BoredomDesc>
+  <MissingRecreationTypes>Hiányzó pihenésformák</MissingRecreationTypes>
 
 
   <ClickToJumpToProblem>Kattints ide a problémára ugráshoz</ClickToJumpToProblem>
@@ -104,7 +107,7 @@
   <HunterHasShieldAndRangedWeaponDesc>Az egyik vadászodnak ugyan távolsági fegyvere, de személyi pajzsa is van, ami megakadályozza a távolsági célra tüzelést.\n\nNem fog tudni vadászni, amíg el nem távolítod a pajzsot.</HunterHasShieldAndRangedWeaponDesc>
 
   <NeedJoySource>nincs örömforrás</NeedJoySource>
-  <NeedJoySourceDesc>A gyarmatosoknak szüksége van kikapcsolódásra, de nincs rá semmi lehetőségük.\n\nÉpíts nekik patkó játékot, sakktáblát vagy más szórakoztató eszközt.</NeedJoySourceDesc>
+  <NeedJoySourceDesc>Csak {0} féle pihenési lehetőség adott itt: {1}, de a jelenlegi elvárási szint mellett ({2}), a gyarmatosoknak {3} különböző pihenésfprma szükséges. Növeld a változatosságot újfajta pihenési lehetőségek bevezetésével!\n\n{4}\n\n{5}\n\nFigyelem: bármelyik tárgynál megnézheted, melyik kategóriába tartozik, az 'i' gomb lenyomásával.</NeedJoySourceDesc>
 
   <NeedWarmClothes>Nincs meleg ruha</NeedWarmClothes>
   <!-- <NeedWarmClothesDesc>Legalább {0} gyarmatosnak nincsen a hidegre megfelelő ruházata.</NeedWarmClothesDesc>

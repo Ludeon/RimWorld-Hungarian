@@ -136,7 +136,7 @@
 
   <!-- Caravan meeting -->
   <CaravanMeetingTitle>{0} találkozója</CaravanMeetingTitle>
-  <CaravanMeeting>Karavánod találkozott {0} barátságos karavánjával. Tagjaik:\n\n{1}</CaravanMeeting>
+  <CaravanMeeting>{0} találkozott {1} barátságos karavánjával. Tagjaik:\n\n{2}</CaravanMeeting>
   <CaravanMeeting_Trade>Kereskedés</CaravanMeeting_Trade>
   <CaravanMeeting_Attack>Támadás</CaravanMeeting_Attack>
   <CaravanMeeting_MoveOn>Továbbáll</CaravanMeeting_MoveOn>
@@ -144,12 +144,12 @@
  
     <!-- Caravan request -->
   <LetterLabelCaravanRequest>Karaván igény</LetterLabelCaravanRequest>
-  <LetterCaravanRequest>Egy közeli település, {0}, egy különleges ajánlattal keresett meg. Ezt szeretnének venni:\n\n  {1}\n\nEzt adnák érte:\n\n  {2}\n\nAz ajánlat eddig érvényes: {3} \n\nHa érdekel az ajánlat, küldj karavánt az igényelt áruval. Az ajánlat megtekinthető, ha kiválasztod ezt a világtérképen: {0}</LetterCaravanRequest>
+  <LetterCaravanRequest>Egy közeli település, {0}, egy különleges ajánlattal keresett meg. Ezt szeretnének venni:\n\n  {1} (értéke {2})\n\nEzt adnák érte:\n\n  {3} (értéke {4})\n\nAz ajánlat eddig érvényes: {5} \n\nHa érdekel az ajánlat, küldj karavánt az igényelt áruval. Becsült érkezési idő {6}. Az ajánlat megtekinthető, ha kiválasztod ezt a világtérképen: {0}</LetterCaravanRequest>
   <CaravanRequestInfo>Igény: {0}, cserébe: {1} ({2} van hátra)</CaravanRequestInfo>
 
   <!-- Caravan demand -->
   <CaravanDemandTitle>Karaván sarc: {0}</CaravanDemandTitle>
-  <CaravanDemand>Fegyveres {3} {1} tagú csoportja lepte meg karavánod, frakciójuk: {0}. Megtámadnak, amennyiben nem adod át ezeket:\n\n{2}</CaravanDemand>
+  <CaravanDemand>Fegyveres {4} {2} tagú csoportja lepte meg őt: {0}, frakciójuk: {1}. Megtámadnak, amennyiben nem adod át ezeket:\n\n{3}</CaravanDemand>
   <CaravanDemand_Give>Átad és továbbhalad</CaravanDemand_Give>
   <CaravanDemand_Fight>Megtagad és harcol</CaravanDemand_Fight>
   
@@ -158,12 +158,12 @@
   <!-- <ItemStashQuest_Accept>Elfogad</ItemStashQuest_Accept> -->
   <!-- <ItemStashQuest_Reject>Elutasít</ItemStashQuest_Reject> -->
   <!-- <ItemStashQuestFeeDemand>{0} elmondja a készlet helyét cserébe {1} ezüstért.</ItemStashQuestFeeDemand> -->
-  <ItemStashSitePart_Unknown>Sajnos {0} semmi információval nem rendelkezik arról, hogy ki vagy mi őrzi a helyet.</ItemStashSitePart_Unknown>
-  <ItemStashSitePart_Nothing>{0} szerint a helyet nem őrzik.</ItemStashSitePart_Nothing>
+  <!-- <ItemStashSitePart_Unknown>Sajnos {0} semmi információval nem rendelkezik arról, hogy ki vagy mi őrzi a helyet.</ItemStashSitePart_Unknown> -->
+  <!-- <ItemStashSitePart_Nothing>{0} szerint a helyet nem őrzik.</ItemStashSitePart_Nothing> -->
   <!-- <ItemStashSitePart_Outpost>{0} szerint egy ellenséges helyőrség van a közelben.</ItemStashSitePart_Outpost> -->
   <!-- <ItemStashSitePart_Turrets>{0} szerint ellenséges ágyúk őrzik a helyet.</ItemStashSitePart_Turrets> -->
   <!-- <ItemStashSitePart_Manhunters>{0} szerint egy csapat emberevő állat van a közelben.</ItemStashSitePart_Manhunters> -->
-  <ItemStashSitePart_Part>{0} azt mondja, hogy {1}.</ItemStashSitePart_Part>
+  <!-- <ItemStashSitePart_Part>{0} azt mondja, hogy {1}.</ItemStashSitePart_Part> -->
   
    <!-- Site no longer hostile -->
   <LetterLabelSiteNoLongerHostile>A küldetés már nem elérhető</LetterLabelSiteNoLongerHostile>

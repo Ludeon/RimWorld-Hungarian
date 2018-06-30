@@ -89,18 +89,18 @@
 
   <!-- Related pawns -->
   <LetterLabelNoticedRelatedPawns>Rokonság</LetterLabelNoticedRelatedPawns>
-  <LetterRelatedPawnsRaidEnemy>Az érkező csoportban ({0}) olyan személy van, aki rokona valamelyik gyarmatosodnak.\n\nNe feledd, hogy ettől függetlenül megtámadhatják egymást a frakciók rossz viszonya miatt.\n\nA személyek:</LetterRelatedPawnsRaidEnemy>
-  <LetterRelatedPawnsRaidFriendly>Az érkező baráti csoportban ({0}) olyan személy van, aki rokona valamelyik gyarmatosodnak:</LetterRelatedPawnsRaidFriendly>
-  <LetterRelatedPawnsNeutralGroup>Az érkező csoportban olyan személy van, aki rokona valamelyik gyarmatosodnak:</LetterRelatedPawnsNeutralGroup>
-  <LetterRelatedPawnsTradeShip>Az űrkereskedő olyan személyt árul, aki rokona valamelyik gyarmatosodnak:</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsRaidEnemy>Az érkező csoportban ({1}) olyan személy van, aki rokona neki: {0}, vagy egy foglyodnak.\n\nNe feledd, hogy ettől függetlenül megtámadhatják egymást a frakciók rossz viszonya miatt.\n\nA személyek:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>Az érkező baráti csoportban ({1}) olyan személy van, aki rokona neki: {0}, vagy egy foglyodnak:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>Az érkező csoportban olyan személy van, aki rokona neki: {0}, vagy egy foglyodnak:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>Az űrkereskedő olyan személyt árul, aki rokona neki: {0}, vagy egy foglyodnak:</LetterRelatedPawnsTradeShip>
 <!--   <LetterRelatedPawnsTradingWithFactionBase>A frakció bázisa olyan embereket árul, akiknek kapcsolata van gyarmatosaiddal vagy foglyaiddal:</LetterRelatedPawnsTradingWithFactionBase> -->
-  <LetterRelatedPawnsTradingWithSettlement>A frakció bázisa olyan embereket árul, akiknek kapcsolata van gyarmatosaiddal vagy foglyaiddal:</LetterRelatedPawnsTradingWithSettlement>
-  <LetterRelatedPawnsTradingWithOtherCaravan>A karaván olyan embereket árul, akiknek kapcsolata van gyarmatosaiddal vagy foglyaiddal:</LetterRelatedPawnsTradingWithOtherCaravan>
+  <LetterRelatedPawnsTradingWithSettlement>A frakció bázisa olyan ember(eke)t árul, aki(k) rokona neki: {0}, vagy egy foglyodnak:</LetterRelatedPawnsTradingWithSettlement>
+  <LetterRelatedPawnsTradingWithOtherCaravan>A karaván olyan ember(eke)t árul, aki(k) rokona neki: {0}, vagy egy foglyodnak:</LetterRelatedPawnsTradingWithOtherCaravan>
   
-  <LetterRelatedPawnsGroupGeneric>A csoportban van valaki, aki rokona egy fogolynak vagy neki(???): {0}:</LetterRelatedPawnsGroupGeneric>
+  <LetterRelatedPawnsGroupGeneric>A csoportban van valaki, aki rokona egy fogolynak vagy neki: {0}:</LetterRelatedPawnsGroupGeneric>
   <LetterRelatedPawnsInMapWherePlayerLanded>A helyen, ahová {0} leszállt, van valaki, aki rokona neki: {0} vagy egy fogolynak.</LetterRelatedPawnsInMapWherePlayerLanded>
-  <LetterRelatedPawnsSettlement>A településen van valaki, aki rokona egy fogolynak vagy neki(???): {0}:</LetterRelatedPawnsSettlement>
-  <LetterRelatedPawnsSite>A körzetben van valaki, aki rokona egy fogolynak vagy neki(???): {0}:</LetterRelatedPawnsSite>
+  <LetterRelatedPawnsSettlement>A településen van valaki, aki rokona egy fogolynak vagy neki: {0}:</LetterRelatedPawnsSettlement>
+  <LetterRelatedPawnsSite>A körzetben van valaki, aki rokona egy fogolynak vagy neki: {0}:</LetterRelatedPawnsSite>
 
   <RelationshipAppendedLetterSuffix>(kapcsolat)</RelationshipAppendedLetterSuffix>
   <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] kapcsolatban ({1}) áll az egyik gyarmatossal ({0}).</RelationshipAppendedLetterTextColonist>
@@ -115,8 +115,8 @@
   <LetterLabelBreakup>Szakítás</LetterLabelBreakup>
   <LetterLabelAcceptedProposal>Igent mondott!</LetterLabelAcceptedProposal>
   <LetterLabelRejectedProposal>Kikosarazva!</LetterLabelRejectedProposal>
-  <LetterAcceptedProposal>{1} elfogadta {0} házassági ajánlatát.\n\nValamikor a közeli jövőben megtartják a ceremóniát, ahová minden gyarmatost meghívnak. Helyezz el házasságkötő pontot, ha befolyásolni akarod az ünnepség helyét.</LetterAcceptedProposal>
-  <LetterRejectedProposal>{1} visszautasította {0} házassági ajánlatát. {0} le lesz lombozva ettől.</LetterRejectedProposal>
+  <LetterAcceptedProposal>Valamikor a közeli jövőben megtartják a ceremóniát, ahová minden gyarmatost meghívnak. Helyezz el házasságkötő pontot, ha befolyásolni akarod az ünnepség helyét.</LetterAcceptedProposal>
+  <LetterRejectedProposal>{0} le lesz lombozva ettől.</LetterRejectedProposal>
 
   <!-- Generalized letter labels -->
   <!-- <LetterLabelRelationsChangeGood>Jókívánság</LetterLabelRelationsChangeGood> -->
@@ -162,7 +162,7 @@
 
   <!-- Caravan destroyed -->
   <LetterLabelAllCaravanColonistsDied>Karaván elpusztult</LetterLabelAllCaravanColonistsDied>
-  <LetterAllCaravanColonistsDied>Karavánod minden tagja meghalt.</LetterAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>{0} minden tagja meghalt.</LetterAllCaravanColonistsDied>
 
   <!-- Caravan entered ambush map -->
   <LetterLabelCaravanEnteredAmbushMap>Karaván rajtaütés</LetterLabelCaravanEnteredAmbushMap>
@@ -192,7 +192,7 @@
 
   <!-- Found lump of precious resources -->
   <LetterLabelFoundPreciousLump>Értékes ásványok</LetterLabelFoundPreciousLump>
-  <LetterFoundPreciousLump>Nagy hatótávú ásvány-letapogatód talált egy telér értékes alapanyagot.\n\nNem lehet tudni, hogy őrzik-e, ha egyáltalán.</LetterFoundPreciousLump>
+  <LetterFoundPreciousLump>Nagy hatótávú ásvány-letapogatód talált egy értékes {0} telért.\n\nSajnos nem lesz elérhető örökké, {1} nap múlva mások teszik rá a kezüket.\n\n{2}.</LetterFoundPreciousLump>
  
   <!-- Sleeping mechanoids -->
   <!-- <LetterLabelSleepingMechanoids>Alvó mechanoidok</LetterLabelSleepingMechanoids> -->

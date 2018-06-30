@@ -78,13 +78,13 @@
 		<li>died->szétrobbant [flavor]</li>
 		<li>died->kirobbant [flavor]</li>
 		<li>flavor(p=0.2)->, mint egy [fireball]</li>
-		<li>flavor->, mint egy [color] [fireball]</li>
-		<li>flavor->, mint egy [large] [fireball]</li>
+		<li>flavor->, mint egy [Color] [fireball]</li>
+		<li>flavor->, mint egy [AdjectiveLarge] [fireball]</li>
 		<li>flavor(p=4)->, mint egy [fireball]</li>
 		<li>flavor(p=4)-></li>
 		<li>flavorsuffix->, szétszóródó [pieces] [everywhere]</li>
-		<li>flavorsuffix(subject_flesh!=Mechanoid,p=2)->, szétfröccsenő [gore] [everywhere]</li>
-		<li>flavorsuffix(subject_flesh!=Mechanoid)->, szétfröccsenő [gore] maradt utána</li>
+		<li>flavorsuffix(subject_flesh!=Mechanoid,p=2)->, szétfröccsenő [Gore] [everywhere]</li>
+		<li>flavorsuffix(subject_flesh!=Mechanoid)->, szétfröccsenő [Gore] maradt utána</li>
 		<li>flavorsuffix->, kis krátert hagyva</li>
 		<li>flavorsuffix(p=4)-></li>
 		<li>fireball(p=3)->tűzgolyó</li>

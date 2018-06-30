@@ -152,8 +152,8 @@
 		<li>circumstance_phrase->egyszerűen szükségből</li>
 		<li>circumstance_phrase->gyáva módon</li>
 		<li>desc_sentence->A nap lenyugszik az esemény szimbolikus visszhangjaként.</li>
-		<li>desc_sentence->[quantity_adjphrase] [animal] nézi az esetet.</li>
-		<li>desc_sentence->Egy [outlander] [side_position] csendben néz .</li>
+		<li>desc_sentence->[Quantity_adjphrase] [Animal] nézi az esetet.</li>
+		<li>desc_sentence->Egy [PersonJob] [side_position] csendben néz .</li>
 		<li>desc_sentence->[victim_nameShortDef] teste körül vértócsa keletkezik.</li>
 		<li>desc_sentence->[victim_nameShortDef] szemei realisztikusan élettelennek vannak ábrázolva.</li>
 		<li>desc_sentence->[killer_nameShortDef] kivillantja fogait.</li>
@@ -195,7 +195,7 @@
 		<li>train_syn->vezeti</li>
 		<li>train_syn->oktatja</li>
 		<li>circumstance_phrase->miközben mások figyelik őket</li>
-		<li>circumstance_phrase->miközben több [animal] undorodva nézi őket</li>
+		<li>circumstance_phrase->miközben több [Animal] undorodva nézi őket</li>
 		<li>circumstance_phrase->miközben [animal_nameShortDef] a szebb napokra gondol, mikor még vadállat volt</li>
 		<li>circumstance_phrase->miközben [human_nameShortDef] arra gondol, vajon mi lesz vacsorára</li>
 		<li>circumstance_phrase->miközben más gyarmatosok rendes munkát végeznek</li>
@@ -211,14 +211,14 @@
 		<li>desc_sentence->[animal_nameShortDef] reszket a félelemtől.</li>
 		<li>desc_sentence->[animal_nameShortDef] úgy tűnik mintha [vegetable] formát venne fel.</li>
 		<li>desc_sentence->[animal_nameShortDef] egy rakás szerszámként van ábrázolva.</li>
-		<li>desc_sentence->[animal_nameShortDef] félig [color] és félig [color].</li>
+		<li>desc_sentence->[animal_nameShortDef] félig [Color] és félig [Color].</li>
 		<li>desc_sentence->[animal_nameShortDef] tiszta pikkely.</li>
 		<li>desc_sentence->[human_nameShortDef] [quantity] karokkal van ábrázolva.</li>
 		<li>desc_sentence->[human_nameShortDef] mintha [animal_ShortDefinite] formáját venné fel.</li>
 	</TrainedAnimal.rulePack.rulesStrings>
   <KilledColonist.label>gyarmatos meggyilkolva</KilledColonist.label>
   <KilledColonyAnimal.label>állat megölve</KilledColonyAnimal.label>
-  <!-- <KilledMajorColonyEnemy.label>főellenfél megölve</KilledMajorColonyEnemy.label> -->
+  <DefeatedHostileFactionLeader.label>ellenséges vezér megölve</DefeatedHostileFactionLeader.label>
   <TradedWith.label>kereskedett</TradedWith.label>
 	<TradedWith.rulePack.rulesStrings>
 		<li>tale_noun->egy üzlet létrejötte [seller_fullName] és [buyer_fullName] között</li>

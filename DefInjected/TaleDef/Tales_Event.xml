@@ -3,13 +3,13 @@
 
   <LaunchedShip.label>űrhajó kilövése</LaunchedShip.label>
 	<LaunchedShip.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef] elmenekül a bolygóról</li>
-		<li>tale_noun->[pawn_nameShortDef] felszáll az űrhajóval</li>
-		<li>image->[pawn_nameFull] elindul a csillagok felé [circumstance_group]</li>
-		<li>image->[pawn_nameFull] repül az egekbe [circumstance_group]</li>
-		<li>image->[pawn_nameFull] szökési sebességre gyorsul [circumstance_group]</li>
-		<li>image->[pawn_nameFull] rakétát vezet [circumstance_group]</li>
-		<li>circumstance_phrase->egy [terrainfeature] előtt</li>
+		<li>tale_noun->[PAWN_nameDef] elmenekül a bolygóról</li>
+		<li>tale_noun->[PAWN_nameDef] felszáll az űrhajóval</li>
+		<li>image->[PAWN_nameFull] elindul a csillagok felé [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] repül az egekbe [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] szökési sebességre gyorsul [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] rakétát vezet [circumstance_group]</li>
+		<li>circumstance_phrase->egy [TerrainFeature] előtt</li>
 		<li>circumstance_phrase->elképesztő erővel gyorsulva</li>
 		<li>circumstance_phrase->por és kavicsfelhő közepette</li>
 		<li>circumstance_phrase->drámaian induló rakétákkal</li>
@@ -20,10 +20,10 @@
 		<li>desc_sentence->Szélesen mosolyog.</li>
 		<li>desc_sentence->Teljesen irányítása alatt tartja a helyzetet.</li>
 		<li>desc_sentence->A hajó hátuljából lángnyelv csap ki.</li>
-		<li>desc_sentence->Egy közeli [animal] riadtan néz fel.</li>
-		<li>desc_sentence->Egy [animal] félve fut el a kilövés közeléből.</li>
-		<li>desc_sentence->A háttérben egy [terrainfeature] látható.</li>
-		<li>desc_sentence->Egy [outlander] csendben figyel messziről.</li>
+		<li>desc_sentence->Egy közeli [Animal] riadtan néz fel.</li>
+		<li>desc_sentence->Egy [Animal] félve fut el a kilövés közeléből.</li>
+		<li>desc_sentence->A háttérben egy [TerrainFeature] látható.</li>
+		<li>desc_sentence->Egy [PersonJob] csendben figyel messziről.</li>
 	</LaunchedShip.rulePack.rulesStrings>
 
   <SocialFight.label>verekedés</SocialFight.label>
@@ -53,22 +53,22 @@
 		<li>desc_sentence->[target] nem mutat bűntudatot.</li>
 		<li>desc_sentence->[target] arcán szenvedélyes harag.</li>
 		<li>desc_sentence->[target] arcán nincs érzelem.</li>
-		<li>desc_sentence->[target] testét [gore] borítják.</li>
+		<li>desc_sentence->[target] testét [Gore] borítják.</li>
 		<li>desc_sentence->[target] dühösen üvölt.</li>
 		<li>desc_sentence->[target] láthatóan sérült.</li>
-		<li>desc_sentence->[target] [color] szemei fénylenek.</li>
+		<li>desc_sentence->[target] [Color] szemei fénylenek.</li>
 		<li>target->[pawna_nameShortDef]</li>
 		<li>target->[pawnb_nameShortDef]</li>
 	</SocialFight.rulePack.rulesStrings>
 
   <CollapseDodged.label>beomlás elkerülése</CollapseDodged.label>
 	<CollapseDodged.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef] beomlást úszik meg</li>
-		<li>tale_noun->[pawn_nameShortDef] majdnem halálát leli a törmelék alatt</li>
-		<li>image->[pawn_nameFull] elugrik egy adag törmelék elől [circumstance_group]</li>
-		<li>image->[pawn_nameFull] alig kerüli el a beomlást [circumstance_group]</li>
-		<li>image->[pawn_nameFull] elkerül egy leomló plafont [circumstance_group]</li>
-		<li>image->[pawn_nameFull] a biztos halált jelentő leeső sziklát kerüli el [circumstance_group]</li>
+		<li>tale_noun->[PAWN_nameDef] beomlást úszik meg</li>
+		<li>tale_noun->[PAWN_nameDef] majdnem halálát leli a törmelék alatt</li>
+		<li>image->[PAWN_nameFull] elugrik egy adag törmelék elől [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] alig kerüli el a beomlást [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] elkerül egy leomló plafont [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] a biztos halált jelentő leeső sziklát kerüli el [circumstance_group]</li>
 		<li>circumstance_phrase->ami porfelhőbe burkolózik</li>
 		<li>circumstance_phrase->ami mindent maga alá temet</li>
 		<li>circumstance_phrase->ami óriási erővel csapódik be</li>

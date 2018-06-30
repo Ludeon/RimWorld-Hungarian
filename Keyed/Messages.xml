@@ -35,7 +35,7 @@
 
   <MessageOutOfNearbyShellsFor>{0} nem talált szabad lövedéket {1} számára.</MessageOutOfNearbyShellsFor>
 
-  <MessageAnimalsGoPsychoHunted>Figyelem: a {0} gyakran támad, ha bántják.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalsGoPsychoHunted>Figyelem: a {0} gyakran támad, ha bántják ({1} esély lőtávon, közelebb több).</MessageAnimalsGoPsychoHunted>
   <MessageAnimalManhuntsOnTameFailed>Figyelem: a {0} támadhat, ha nem sikerül megszelídíteni ({1} esély).</MessageAnimalManhuntsOnTameFailed>
 
   <LetterLabelMessageRecruitSuccess>Újonc</LetterLabelMessageRecruitSuccess>
@@ -143,7 +143,7 @@
  
   <MessageRottedAwayInStorage>Némi {0} elrohadt a raktárban.</MessageRottedAwayInStorage>
 
-  <MessageFoodPoisoning>{0} ételmérgezést kapott. Oka: {1}.</MessageFoodPoisoning>
+  <MessageFoodPoisoning>{0} ételmérgezést kapott ettől: {1}. Oka: {2}.</MessageFoodPoisoning>
   
   <MessagePawnLostWhileFormingCaravan>{0} el lett távolítva a karavánból.</MessagePawnLostWhileFormingCaravan>
   <MessagePawnLostWhileFormingCaravan_AllLost>Karaván alakítás megszakítva.</MessagePawnLostWhileFormingCaravan_AllLost>
@@ -205,7 +205,7 @@
 
   <MessageTransportPodsArrived>A kapszulák megérkeztek.</MessageTransportPodsArrived>
   <MessageTransportPodsArrivedAndLost>A kapszulák megérkeztek, de mivel nem volt velük gyarmatos, a tartalmuk elveszett.</MessageTransportPodsArrivedAndLost>
-  <MessageTransportPodsArrivedAndAddedToCaravan>A kapszulák megérkeztek. Tartalmukat felpakolták a karavánra.</MessageTransportPodsArrivedAndAddedToCaravan>
+  <MessageTransportPodsArrivedAndAddedToCaravan>A kapszulák megérkeztek. Tartalmukat felpakolták ide: {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
   <!-- <MessageTransportPodsArrived_BecameHostile>{0} mostantól ellenség.</MessageTransportPodsArrived_BecameHostile> -->
 
   <MessageFailedToLoadTransportersBecauseColonistLost>A berakodási folyamat leállt, mert legalább egy gyarmatos eltűnt.</MessageFailedToLoadTransportersBecauseColonistLost>

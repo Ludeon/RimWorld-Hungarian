@@ -31,11 +31,11 @@
 		<li>circumstance_phrase->érzelem nélkül</li>
 		<li>circumstance_phrase->puszta szükségszerűség miatt</li>
 		<li>circumstance_phrase->gyáva módon</li>
-		<li>desc_sentence->[quantity_adjphrase] [animal] nézi.</li>
-		<li>desc_sentence->Egy [outlander] csendben figyeli [side_position].</li>
+		<li>desc_sentence->[Quantity_adjphrase] [Animal] nézi.</li>
+		<li>desc_sentence->Egy [PersonJob] csendben figyeli [side_position].</li>
 		<li>desc_sentence->Vértócsa alakul ki [victim_nameShortDef] teste körül.</li>
-		<li>desc_sentence->[victim_nameShortDef] testét [gore] borítják.</li>
-		<li>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</li>
+		<li>desc_sentence->[victim_nameShortDef] testét [Gore] borítják.</li>
+		<li>desc_sentence->[victim_nameShortDef] [AdjectiveAngsty] arcot vág.</li>
 		<li>desc_sentence->[victim_nameShortDef] fájdalmában szűköl.</li>
 		<li>desc_sentence->[victim_nameShortDef] szenvedve szűköl.</li>
 		<li>desc_sentence->[killer_nameShortDef] vicsorog.</li>
@@ -73,9 +73,9 @@
 		<li>circumstance_phrase->érzelem nélkül</li>
 		<li>circumstance_phrase->puszta szükségszerűség miatt</li>
 		<li>circumstance_phrase->gyáva módon</li>
-		<li>desc_sentence->[quantity_adjphrase] [animal] nézi.</li>
-		<li>desc_sentence->Egy [outlander] csendben figyeli [side_position].</li>
-		<li>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</li>
+		<li>desc_sentence->[Quantity_adjphrase] [Animal] nézi.</li>
+		<li>desc_sentence->Egy [PersonJob] csendben figyeli [side_position].</li>
+		<li>desc_sentence->[victim_nameShortDef] [AdjectiveAngsty] arcot vág.</li>
 		<li>desc_sentence->[victim_nameShortDef] szemei csukva.</li>
 		<li>desc_sentence->[killer_nameShortDef] vicsorog.</li>
 		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
@@ -109,11 +109,11 @@
 		<li>circumstance_phrase->nagy magasságból</li>
 		<li>circumstance_phrase->érzelem nélkül</li>
 		<li>circumstance_phrase->gyáva módon</li>
-		<li>desc_sentence->[quantity_adjphrase] [animal] nézi.</li>
-		<li>desc_sentence->Egy [outlander] csendben figyeli [side_position].</li>
-		<li>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</li>
+		<li>desc_sentence->[Quantity_adjphrase] [Animal] nézi.</li>
+		<li>desc_sentence->Egy [PersonJob] csendben figyeli [side_position].</li>
+		<li>desc_sentence->[victim_nameShortDef] [AdjectiveAngsty] arcot vág.</li>
 		<li>desc_sentence->[victim_nameShortDef] szemei csukva.</li>
-		<li>desc_sentence->[victim_nameShortDef] testét [gore] borítják.</li>
+		<li>desc_sentence->[victim_nameShortDef] testét [Gore] borítják.</li>
 		<li>desc_sentence->[killer_nameShortDef] vicsorog.</li>
 		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
 		<li>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</li>
@@ -146,13 +146,13 @@
 		<li>circumstance_phrase->gyors, hatékony mozdulatokkal</li>
 		<li>circumstance_phrase->érzelem nélkül</li>
 		<li>circumstance_phrase->gyáva módon</li>
-		<li>desc_sentence->[quantity_adjphrase] [animal] nézi.</li>
-		<li>desc_sentence->Egy [outlander] csendben figyeli [side_position].</li>
-		<li>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</li>
+		<li>desc_sentence->[Quantity_adjphrase] [Animal] nézi.</li>
+		<li>desc_sentence->Egy [PersonJob] csendben figyeli [side_position].</li>
+		<li>desc_sentence->[victim_nameShortDef] [AdjectiveAngsty] arcot vág.</li>
 		<li>desc_sentence->[victim_nameShortDef] szemei csukva.</li>
-		<li>desc_sentence->[victim_nameShortDef] testét [gore] borítják.</li>
-		<li>desc_sentence->[victim_nameShortDef] és [killer_nameShortDef] testét [gore] borítják.</li>
-		<li>desc_sentence->[killer_nameShortDef] testét [gore] borítják.</li>
+		<li>desc_sentence->[victim_nameShortDef] testét [Gore] borítják.</li>
+		<li>desc_sentence->[victim_nameShortDef] és [killer_nameShortDef] testét [Gore] borítják.</li>
+		<li>desc_sentence->[killer_nameShortDef] testét [Gore] borítják.</li>
 		<li>desc_sentence->[killer_nameShortDef] vicsorog.</li>
 		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
 		<li>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</li>
@@ -184,20 +184,20 @@
 		<li>circumstance_phrase->érzelem nélkül</li>
 		<li>circumstance_phrase->hősiesen</li>
 		<li>circumstance_phrase->elképesztő erővel</li>
-		<li>desc_sentence->[quantity_adjphrase] [animal] nézi.</li>
-		<li>desc_sentence->Egy [outlander] csendben figyeli [side_position].</li>
-		<li>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</li>
+		<li>desc_sentence->[Quantity_adjphrase] [Animal] nézi.</li>
+		<li>desc_sentence->Egy [PersonJob] csendben figyeli [side_position].</li>
+		<li>desc_sentence->[victim_nameShortDef] [AdjectiveAngsty] arcot vág.</li>
 		<li>desc_sentence->[victim_nameShortDef] szemei csukva.</li>
-		<li>desc_sentence->[victim_nameShortDef] testét [gore] borítják.</li>
-		<li>desc_sentence->[victim_nameShortDef] és [killer_nameShortDef] testét [gore] borítják.</li>
+		<li>desc_sentence->[victim_nameShortDef] testét [Gore] borítják.</li>
+		<li>desc_sentence->[victim_nameShortDef] és [killer_nameShortDef] testét [Gore] borítják.</li>
 		<li>desc_sentence->[victim_nameShortDef] teteme [killer_nameShortDef] fölé magasodik.</li>
-		<li>desc_sentence->[victim_nameShortDef] óriási teteme eltakarja ezt: [terrainfeature].</li>
-		<li>desc_sentence->[victim_nameShortDef] szemei [color] színben ragyognak.</li>
-		<li>desc_sentence->[killer_nameShortDef] testét [gore] borítják.</li>
+		<li>desc_sentence->[victim_nameShortDef] óriási teteme eltakarja ezt: [TerrainFeature].</li>
+		<li>desc_sentence->[victim_nameShortDef] szemei [Color] színben ragyognak.</li>
+		<li>desc_sentence->[killer_nameShortDef] testét [Gore] borítják.</li>
 		<li>desc_sentence->[killer_nameShortDef] vicsorog.</li>
 		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
 		<li>desc_sentence->[killer_nameShortDef] győzedelmes arcot vág.</li>
-		<li>desc_sentence->[killer_nameShortDef] [badassadjective] arcot vág.</li>
+		<li>desc_sentence->[killer_nameShortDef] [AdjectiveBadass] arcot vág.</li>
 		<li>desc_sentence->[killer_nameShortDef] hősies aurája fénylik.</li>
 	</KilledMajorThreat.rulePack.rulesStrings>
 
@@ -224,9 +224,9 @@
 		<li>circumstance_phrase->hideg hatékonysággal</li>
 		<li>circumstance_phrase->gyors, hatékony mozdulatokkal</li>
 		<li>circumstance_phrase->érzelem nélkül</li>
-		<li>desc_sentence->[quantity_adjphrase] [animal] nézi.</li>
-		<li>desc_sentence->Egy [outlander] csendben figyeli [side_position].</li>
-		<li>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</li>
+		<li>desc_sentence->[Quantity_adjphrase] [Animal] nézi.</li>
+		<li>desc_sentence->Egy [PersonJob] csendben figyeli [side_position].</li>
+		<li>desc_sentence->[victim_nameShortDef] [AdjectiveAngsty] arcot vág.</li>
 		<li>desc_sentence->[victim_nameShortDef] szemei csukva.</li>
 		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
 		<li>desc_sentence->[killer_nameShortDef] szomorúnak tűnik.</li>
@@ -246,10 +246,10 @@
 		<li>circumstance_phrase->miközben a lövedék [victim_nameFull] felé száll</li>
 		<li>circumstance_phrase->miközben [victim_nameFull] sétálgat</li>
 		<li>circumstance_phrase->miközben [victim_nameFull] rohan</li>
-		<li>desc_sentence->[quantity_adjphrase] [animal] nézi.</li>
-		<li>desc_sentence->Egy [outlander] csendben figyeli [side_position].</li>
-		<li>desc_sentence->[victim_nameShortDef] [angstyadjective] arcot vág.</li>
-		<li>desc_sentence->[victim_nameShortDef] testét [gore] borítják.</li>
+		<li>desc_sentence->[Quantity_adjphrase] [Animal] nézi.</li>
+		<li>desc_sentence->Egy [PersonJob] csendben figyeli [side_position].</li>
+		<li>desc_sentence->[victim_nameShortDef] [AdjectiveAngsty] arcot vág.</li>
+		<li>desc_sentence->[victim_nameShortDef] testét [Gore] borítják.</li>
 		<li>desc_sentence->[victim_nameShortDef] körül robbanások villannak.</li>
 		<li>desc_sentence->[victim_nameShortDef] körül kráterek lyuggatják a földet.</li>
 		<li>desc_sentence->[killer_nameShortDef] elégedettnek tűnik.</li>
@@ -260,32 +260,32 @@
 
   <Exhausted.label>kimerülés</Exhausted.label>
 	<Exhausted.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef] összeesik a kimerültségtől</li>
-		<li>image->[pawn_nameFull] a földre rogy [circumstance_group]</li>
-		<li>image->[pawn_nameFull] a földön fekszik [circumstance_group]</li>
-		<li>image->[pawn_nameFull] ágyban fekszik [circumstance_group]</li>
-		<li>image->[pawn_nameFull] székre rogy [circumstance_group]</li>
-		<li>image->[pawn_nameFull] békésen alszik [circumstance_group]</li>
+		<li>tale_noun->[PAWN_nameDef] összeesik a kimerültségtől</li>
+		<li>image->[PAWN_nameFull] a földre rogy [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] a földön fekszik [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] ágyban fekszik [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] székre rogy [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] békésen alszik [circumstance_group]</li>
 		<li>circumstance_phrase->csukott szemmel</li>
 		<li>circumstance_phrase->láthatóan kimerülve</li>
 		<li>circumstance_phrase->teljesen leizzadva</li>
 		<li>circumstance_phrase->hulla fáradtan</li>
-		<li>desc_sentence->[pawn_nameShortDef] legutóbbi elkészült projektje a közelben áll.</li>
-		<li>desc_sentence->[pawn_nameShortDef] mellett egy csodás építmény áll.</li>
-		<li>desc_sentence->[quantity_adjphrase] [outlander] hálásan néz [pawn_nameShortDef] hősies erőfeszítéseire.</li>
-		<li>desc_sentence->[quantity_adjphrase] [outlander] hasonlóan fáradtan fekszik mellette.</li>
-		<li>desc_sentence->A jelenet egy újonnan épült [community] belsejében játszódik.</li>
+		<li>desc_sentence->[PAWN_nameDef] legutóbbi elkészült projektje a közelben áll.</li>
+		<li>desc_sentence->[PAWN_nameDef] mellett egy csodás építmény áll.</li>
+		<li>desc_sentence->[Quantity_adjphrase] [PersonJob] hálásan néz [PAWN_nameDef] hősies erőfeszítéseire.</li>
+		<li>desc_sentence->[Quantity_adjphrase] [PersonJob] hasonlóan fáradtan fekszik mellette.</li>
+		<li>desc_sentence->A jelenet egy újonnan épült [Community] belsejében játszódik.</li>
 	</Exhausted.rulePack.rulesStrings>
 
   <IllnessRevealed.label>betegség</IllnessRevealed.label>
 	<IllnessRevealed.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef] a következőtől szenved: [illness_label] </li>
-		<li>image->[pawn_nameFull] a mezőn tántorog [circumstance_group]</li>
-		<li>image->[pawn_nameFull] a földön fekszik[circumstance_group]</li>
-		<li>image->[pawn_nameFull] ágyban fekszik [circumstance_group]</li>
-		<li>image->[pawn_nameFull] kórházi ágyban fekszik [circumstance_group]</li>
-		<li>image->[pawn_nameFull] székre rogy [circumstance_group]</li>
-		<li>image->[pawn_nameFull] tűz mellett guggol [circumstance_group]</li>
+		<li>tale_noun->[PAWN_nameDef] a következőtől szenved: [illness_label] </li>
+		<li>image->[PAWN_nameFull] a mezőn tántorog [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] a földön fekszik[circumstance_group]</li>
+		<li>image->[PAWN_nameFull] ágyban fekszik [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] kórházi ágyban fekszik [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] székre rogy [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] tűz mellett guggol [circumstance_group]</li>
 		<li>circumstance_phrase->erősen izzadva</li>
 		<li>circumstance_phrase->erősen reszketve</li>
 		<li>circumstance_phrase->erősen reszketve és izzadva</li>
@@ -293,79 +293,79 @@
 		<li>circumstance_phrase->hányva</li>
 		<li>circumstance_phrase->kiütésekkel borított bőrrel</li>
 		<li>circumstance_phrase->miközben orvos látja el</li>
-		<li>desc_sentence->[quantity_adjphrase] döglegyektől körülvett [animal] fekszik mindenfelé.</li>
-		<li>desc_sentence->[quantity_adjphrase] fura [color] [terrainfeature] veszi körbe.</li>
-		<li>desc_sentence->[quantity_adjphrase] [outlander] ugyanettől szenved.</li>
+		<li>desc_sentence->[Quantity_adjphrase] döglegyektől körülvett [Animal] fekszik mindenfelé.</li>
+		<li>desc_sentence->[Quantity_adjphrase] fura [Color] [TerrainFeature] veszi körbe.</li>
+		<li>desc_sentence->[Quantity_adjphrase] [PersonJob] ugyanettől szenved.</li>
 		<li>desc_sentence->A jelenet egy [tree]erdőben játszódik.</li>
-		<li>desc_sentence->[quantity_adjphrase] haldokló [animal] fekszik mindenfelé.</li>
+		<li>desc_sentence->[Quantity_adjphrase] haldokló [Animal] fekszik mindenfelé.</li>
 	</IllnessRevealed.rulePack.rulesStrings>
 
   <HeatstrokeRevealed.label>hőguta</HeatstrokeRevealed.label>
 	<HeatstrokeRevealed.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef] hőgutát kap</li>
-		<li>tale_noun->[pawn_nameShortDef] túlhevül</li>
-		<li>image->[pawn_nameFull] homokban cammog [circumstance_group]</li>
-		<li>image->[pawn_nameFull] [terrainfeature] árnyékában lekuporodik [circumstance_group]</li>
-		<li>image->[pawn_nameFull] vizet keres [circumstance_group]</li>
-		<li>image->[pawn_nameFull] árnyékot keres [circumstance_group]</li>
-		<li>image->[pawn_nameFull] a napsütötte porban vánszorog [circumstance_group]</li>
+		<li>tale_noun->[PAWN_nameDef] hőgutát kap</li>
+		<li>tale_noun->[PAWN_nameDef] túlhevül</li>
+		<li>image->[PAWN_nameFull] homokban cammog [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] [TerrainFeature] árnyékában lekuporodik [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] vizet keres [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] árnyékot keres [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] a napsütötte porban vánszorog [circumstance_group]</li>
 		<li>circumstance_phrase->vörös és száraz bőrrel</li>
 		<li>circumstance_phrase->izzadtságtól borítva</li>
 		<li>circumstance_phrase->csontszáraz ajkakkal</li>
 		<li>circumstance_phrase->hányva</li>
-		<li>desc_sentence->[quantity_adjphrase] kiszáradt [animal] fekszik mindenfelé.</li>
-		<li>desc_sentence->[pawn_nameShortDef] ruhái rongyosak és szakadtak.</li>
+		<li>desc_sentence->[Quantity_adjphrase] kiszáradt [Animal] fekszik mindenfelé.</li>
+		<li>desc_sentence->[PAWN_nameDef] ruhái rongyosak és szakadtak.</li>
 		<li>desc_sentence->Tűző nap látszik a háttérben.</li>
 		<li>desc_sentence->A jelenet egy forró sivatagban játszódik.</li>
 		<li>desc_sentence->A jelenet benn, egy fűtőtest mellett játszódik.</li>
-		<li>desc_sentence->[quantity_adjphrase] mozdulatlan [animal] fekszik mindenfelé.</li>
-		<li>desc_sentence->[quantity_adjphrase] haldokló [animal] fekszik mindenfelé.</li>
+		<li>desc_sentence->[Quantity_adjphrase] mozdulatlan [Animal] fekszik mindenfelé.</li>
+		<li>desc_sentence->[Quantity_adjphrase] haldokló [Animal] fekszik mindenfelé.</li>
 	</HeatstrokeRevealed.rulePack.rulesStrings>
 
   <HypothermiaRevealed.label>kihűlés</HypothermiaRevealed.label>
 	<HypothermiaRevealed.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef] kihűl</li>
-		<li>tale_noun->[pawn_nameShortDef] halálra fagy</li>
-		<li>image->[pawn_nameFull] hóban cammog [circumstance_group]</li>
-		<li>image->[pawn_nameFull] [terrainfeature] mellett lekuporodik [circumstance_group]</li>
-		<li>image->[pawn_nameFull] meleg [apparel] után néz [circumstance_group]</li>
-		<li>image->[pawn_nameFull] tűz mellett guggol [circumstance_group]</li>
-		<li>image->[pawn_nameFull] tüzet próbál gyújtani [circumstance_group]</li>
+		<li>tale_noun->[PAWN_nameDef] kihűl</li>
+		<li>tale_noun->[PAWN_nameDef] halálra fagy</li>
+		<li>image->[PAWN_nameFull] hóban cammog [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] [TerrainFeature] mellett lekuporodik [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] meleg [apparel] után néz [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] tűz mellett guggol [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] tüzet próbál gyújtani [circumstance_group]</li>
 		<li>circumstance_phrase->miközben az arca lassan kékül</li>
 		<li>circumstance_phrase->és erősen reszket</li>
 		<li>circumstance_phrase->zúzmara borítja</li>
 		<li>circumstance_phrase->miközben látszik a lehelete</li>
-		<li>desc_sentence->[quantity_adjphrase] fagyott [animal] fekszik mindenfelé.</li>
-		<li>desc_sentence->[pawn_nameShortDef] ruhái rongyosak és szakadtak.</li>
+		<li>desc_sentence->[Quantity_adjphrase] fagyott [Animal] fekszik mindenfelé.</li>
+		<li>desc_sentence->[PAWN_nameDef] ruhái rongyosak és szakadtak.</li>
 		<li>desc_sentence->A háttérben egy hideg kék hold fénylik.</li>
 		<li>desc_sentence->A jelenet egy behavazott [tree]erdőben játszódik.</li>
 		<li>desc_sentence->A jelenet egy hűtőház belsejében játszódik.</li>
-		<li>desc_sentence->[quantity_adjphrase] reszkető [animal] fekszik mindenfelé.</li>
-		<li>desc_sentence->[quantity_adjphrase] haldokló [animal] fekszik mindenfelé.</li>
+		<li>desc_sentence->[Quantity_adjphrase] reszkető [Animal] fekszik mindenfelé.</li>
+		<li>desc_sentence->[Quantity_adjphrase] haldokló [Animal] fekszik mindenfelé.</li>
 	</HypothermiaRevealed.rulePack.rulesStrings>
 
   <ToxicityRevealed.label>mérgezés</ToxicityRevealed.label>
 	<ToxicityRevealed.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef] testét méreg eszi</li>
-		<li>tale_noun->[pawn_nameShortDef] méregnek van kitéve</li>
-		<li>image->[pawn_nameFull] a mezőn tántorog [circumstance_group]</li>
-		<li>image->[pawn_nameFull] a földön fekszik [circumstance_group]</li>
-		<li>image->[pawn_nameFull] ágyban fekszik [circumstance_group]</li>
-		<li>image->[pawn_nameFull] tűz mellett guggol [circumstance_group]</li>
-		<li>image->[pawn_nameFull] tüzet próbál gyújtani [circumstance_group]</li>
-		<li>image->[pawn_nameFull] esztelenül vetkőzik [circumstance_group]</li>
+		<li>tale_noun->[PAWN_nameDef] testét méreg eszi</li>
+		<li>tale_noun->[PAWN_nameDef] méregnek van kitéve</li>
+		<li>image->[PAWN_nameFull] a mezőn tántorog [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] a földön fekszik [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] ágyban fekszik [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] tűz mellett guggol [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] tüzet próbál gyújtani [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] esztelenül vetkőzik [circumstance_group]</li>
 		<li>circumstance_phrase->erősen izzadva</li>
 		<li>circumstance_phrase->erősen reszketve</li>
 		<li>circumstance_phrase->erősen reszketve és izzadva</li>
 		<li>circumstance_phrase->csontszáraz ajkakkal</li>
 		<li>circumstance_phrase->hányva</li>
 		<li>circumstance_phrase->kiütésekkel borított bőrrel</li>
-		<li>desc_sentence->[quantity_adjphrase] kifacsarodott [animal] fekszik mindenfelé.</li>
-		<li>desc_sentence->[pawn_nameShortDef] ruhái széthullanak.</li>
-		<li>desc_sentence->Az ég homályos [color].</li>
-		<li>desc_sentence->[quantity_adjphrase] fura [color] [terrainfeature] veszi körbe.</li>
+		<li>desc_sentence->[Quantity_adjphrase] kifacsarodott [Animal] fekszik mindenfelé.</li>
+		<li>desc_sentence->[PAWN_nameDef] ruhái széthullanak.</li>
+		<li>desc_sentence->Az ég homályos [Color].</li>
+		<li>desc_sentence->[Quantity_adjphrase] fura [Color] [TerrainFeature] veszi körbe.</li>
 		<li>desc_sentence->A jelenet egy torz [tree]erdőben játszódik.</li>
-		<li>desc_sentence->[quantity_adjphrase] haldokló [animal] fekszik mindenfelé.</li>
+		<li>desc_sentence->[Quantity_adjphrase] haldokló [Animal] fekszik mindenfelé.</li>
 	</ToxicityRevealed.rulePack.rulesStrings>
 
   <GaveBirth.label>születés</GaveBirth.label>
@@ -379,13 +379,13 @@
 		<li>baby->újszülöttel</li>
 		<li>baby->kisbabával</li>
 		<li>circumstance_phrase->[child_nameFull], aki véres és sír</li>
-		<li>circumstance_phrase->[child_nameFull], aki enyhe [color] színben fénylik</li>
+		<li>circumstance_phrase->[child_nameFull], aki enyhe [Color] színben fénylik</li>
 		<li>circumstance_phrase->[child_nameFull], aki máris megpróbál mozogni</li>
 		<li>circumstance_phrase->[child_nameFull], aki derűsen néz körbe</li>
-		<li>desc_sentence->[quantity_adjphrase] [animal] alszik körülöttük.</li>
-		<li>desc_sentence->[quantity_adjphrase] [outlander] nézi a jelenetet.</li>
-		<li>desc_sentence->Egy [outlander] távolról figyel.</li>
-		<li>desc_sentence->A jelenet egy újonnan épült [community] belsejében játszódik.</li>
+		<li>desc_sentence->[Quantity_adjphrase] [Animal] alszik körülöttük.</li>
+		<li>desc_sentence->[Quantity_adjphrase] [PersonJob] nézi a jelenetet.</li>
+		<li>desc_sentence->Egy [PersonJob] távolról figyel.</li>
+		<li>desc_sentence->A jelenet egy újonnan épült [Community] belsejében játszódik.</li>
 	</GaveBirth.rulePack.rulesStrings>
 
 
