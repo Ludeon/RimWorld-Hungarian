@@ -238,29 +238,31 @@
 	</Tornado.rulePack.rulesStrings>
 	
   <TornadoFromItem.label>tornádó</TornadoFromItem.label>
-  <TornadoFromItem.rulePack.rulesStrings.0>tale_noun->tornádó a [Community] felett, ahol [COLONIST_nameDef] él</TornadoFromItem.rulePack.rulesStrings.0>
-  <TornadoFromItem.rulePack.rulesStrings.1>tale_noun->fenyegető tornádó a [Community] felett, ahol [COLONIST_nameDef] él</TornadoFromItem.rulePack.rulesStrings.1>
-  <TornadoFromItem.rulePack.rulesStrings.2>image->[behavior] széltölcsér [circumstance_phrase]</TornadoFromItem.rulePack.rulesStrings.2>
-  <TornadoFromItem.rulePack.rulesStrings.3>image->[behavior] tornádó [circumstance_phrase]</TornadoFromItem.rulePack.rulesStrings.3>
-  <TornadoFromItem.rulePack.rulesStrings.4>image->[behavior] hurrikán [circumstance_phrase]</TornadoFromItem.rulePack.rulesStrings.4>
-  <TornadoFromItem.rulePack.rulesStrings.5>image->[behavior] [Color] színű felhőalak [circumstance_phrase]</TornadoFromItem.rulePack.rulesStrings.5>
-  <TornadoFromItem.rulePack.rulesStrings.6>behavior->egy mozgó</TornadoFromItem.rulePack.rulesStrings.6>
-  <TornadoFromItem.rulePack.rulesStrings.7>behavior->egy közeledő</TornadoFromItem.rulePack.rulesStrings.7>
-  <TornadoFromItem.rulePack.rulesStrings.8>behavior->egy gyorsan mozgó</TornadoFromItem.rulePack.rulesStrings.8>
-  <TornadoFromItem.rulePack.rulesStrings.9>behavior->egy forgó</TornadoFromItem.rulePack.rulesStrings.9>
-  <TornadoFromItem.rulePack.rulesStrings.10>circumstance_phrase->törmeléket hordozva</TornadoFromItem.rulePack.rulesStrings.10>
-  <TornadoFromItem.rulePack.rulesStrings.11>circumstance_phrase->[TerrainFeature] felett elhaladva</TornadoFromItem.rulePack.rulesStrings.11>
-  <TornadoFromItem.rulePack.rulesStrings.12>circumstance_phrase->[TerrainFeature] alakját elsötétítve</TornadoFromItem.rulePack.rulesStrings.12>
-  <TornadoFromItem.rulePack.rulesStrings.13>circumstance_phrase->[TerrainFeature] alakját betakarva</TornadoFromItem.rulePack.rulesStrings.13>
-  <TornadoFromItem.rulePack.rulesStrings.14>desc_sentence->[COLONIST_nameDef] látható rettenettel nézi.</TornadoFromItem.rulePack.rulesStrings.14>
-  <TornadoFromItem.rulePack.rulesStrings.15>desc_sentence(p=0.5)->[COLONIST_nameDef] bámulattal nézi.</TornadoFromItem.rulePack.rulesStrings.15>
-  <TornadoFromItem.rulePack.rulesStrings.16>desc_sentence(p=0.5)->[ATTACKER_nameDef] bámulattal nézi.</TornadoFromItem.rulePack.rulesStrings.16>
-  <TornadoFromItem.rulePack.rulesStrings.17>desc_sentence->[COLONIST_nameDef] a védelmet szervezi.</TornadoFromItem.rulePack.rulesStrings.17>
-  <TornadoFromItem.rulePack.rulesStrings.18>desc_sentence->[ATTACKER_nameDef] vihogva ujjong.</TornadoFromItem.rulePack.rulesStrings.18>
-  <TornadoFromItem.rulePack.rulesStrings.19>desc_sentence->[Quantity_adjphrase] [PersonJob] sietve felkészül..</TornadoFromItem.rulePack.rulesStrings.19>
-  <TornadoFromItem.rulePack.rulesStrings.20>desc_sentence->[Quantity_adjphrase] [Animal] menekül a helyszínről.</TornadoFromItem.rulePack.rulesStrings.20>
-  <TornadoFromItem.rulePack.rulesStrings.21>desc_sentence->Minden állat elhagyta a környéket.</TornadoFromItem.rulePack.rulesStrings.21>
-
+  
+  <TornadoFromItem.rulePack.rulesStrings>
+  <li>tale_noun->tornádó a [Community] felett, ahol [COLONIST_nameDef] él</li>
+  <li>tale_noun->fenyegető tornádó a [Community] felett, ahol [COLONIST_nameDef] él</li>
+  <li>image->[behavior] széltölcsér [circumstance_phrase]</li>
+  <li>image->[behavior] tornádó [circumstance_phrase]</li>
+  <li>image->[behavior] hurrikán [circumstance_phrase]</li>
+  <li>image->[behavior] [Color] színű felhőalak [circumstance_phrase]</li>
+  <li>behavior->egy mozgó</li>
+  <li>behavior->egy közeledő</li>
+  <li>behavior->egy gyorsan mozgó</li>
+  <li>behavior->egy forgó</li>
+  <li>circumstance_phrase->törmeléket hordozva</li>
+  <li>circumstance_phrase->[TerrainFeature] felett elhaladva</li>
+  <li>circumstance_phrase->[TerrainFeature] alakját elsötétítve</li>
+  <li>circumstance_phrase->[TerrainFeature] alakját betakarva</li>
+  <li>desc_sentence->[COLONIST_nameDef] látható rettenettel nézi.</li>
+  <li>desc_sentence(p=0.5)->[COLONIST_nameDef] bámulattal nézi.</li>
+  <li>desc_sentence(p=0.5)->[ATTACKER_nameDef] bámulattal nézi.</li>
+  <li>desc_sentence->[COLONIST_nameDef] a védelmet szervezi.</li>
+  <li>desc_sentence->[ATTACKER_nameDef] vihogva ujjong.</li>
+  <li>desc_sentence->[Quantity_adjphrase] [PersonJob] sietve felkészül..</li>
+  <li>desc_sentence->[Quantity_adjphrase] [Animal] menekül a helyszínről.</li>
+  <li>desc_sentence->Minden állat elhagyta a környéket.</li>
+</TornadoFromItem.rulePack.rulesStrings>
   <Raid.label>rajtaütés</Raid.label>
 	<Raid.rulePack.rulesStrings>
 		<li>tale_noun->a [Community] , ahol [PAWN_nameDef] él, rajtaütést szenved</li>
