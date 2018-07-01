@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Event_Stun.rulePack.rulesStrings.0>r_logentry->[SUBJECT_definite] a támadás miatt [stunned].</Event_Stun.rulePack.rulesStrings.0>
-  <Event_Stun.rulePack.rulesStrings.1>r_logentry->[SUBJECT_definite] [stunned] [INITIATOR_definite] támadásától.</Event_Stun.rulePack.rulesStrings.1>
-  <Event_Stun.rulePack.rulesStrings.2>stunned(p=3)->lebénult</Event_Stun.rulePack.rulesStrings.2>
-  <Event_Stun.rulePack.rulesStrings.3>stunned->megtántorodott</Event_Stun.rulePack.rulesStrings.3>
-  <Event_Stun.rulePack.rulesStrings.4>stunned->elkábult</Event_Stun.rulePack.rulesStrings.4>
-  <Event_Stun.rulePack.rulesStrings.5>stunned->megzavarodott</Event_Stun.rulePack.rulesStrings.5>
-  <Event_Stun.rulePack.rulesStrings.6>r_logentry->[SUBJECT_definite] [staggered].</Event_Stun.rulePack.rulesStrings.6>
-  <Event_Stun.rulePack.rulesStrings.7>r_logentry->[SUBJECT_definite] a támadás miatt [staggered].</Event_Stun.rulePack.rulesStrings.7>
-  <Event_Stun.rulePack.rulesStrings.8>r_logentry->[SUBJECT_definite] [staggered] [INITIATOR_definite] támadásától.</Event_Stun.rulePack.rulesStrings.8>
-  <Event_Stun.rulePack.rulesStrings.9>staggered(p=3)->megtántorodott</Event_Stun.rulePack.rulesStrings.9>
-  <Event_Stun.rulePack.rulesStrings.10>staggered->megbotlott</Event_Stun.rulePack.rulesStrings.10>
-  <Event_Stun.rulePack.rulesStrings.11>staggered->megingott</Event_Stun.rulePack.rulesStrings.11>
-  <Event_Stun.rulePack.rulesStrings.12>staggered->megzavarodott</Event_Stun.rulePack.rulesStrings.12>
-  <Event_Stun.rulePack.rulesStrings.13>r_logentry->[SUBJECT_definite] bizonytalanul [stumbled].</Event_Stun.rulePack.rulesStrings.13>
-  <Event_Stun.rulePack.rulesStrings.14>r_logentry->[SUBJECT_definite] összezavarodva [stumbled].</Event_Stun.rulePack.rulesStrings.14>
-  <Event_Stun.rulePack.rulesStrings.15>stumbled(p=3)->botladozott</Event_Stun.rulePack.rulesStrings.15>
-  <Event_Stun.rulePack.rulesStrings.16>stumbled->ingadozott</Event_Stun.rulePack.rulesStrings.16>
-  <Event_Stun.rulePack.rulesStrings.17>stumbled->rogyadozott</Event_Stun.rulePack.rulesStrings.17>
-  <Event_Stun.rulePack.rulesStrings.18>stumbled->tántorgott</Event_Stun.rulePack.rulesStrings.18>
-
+<Event_Stun.rulePack.rulesStrings>
+  <li>r_logentry->[SUBJECT_definite] a támadás miatt [stunned].</li>
+  <li>r_logentry->[SUBJECT_definite] [stunned] [INITIATOR_definite] támadásától.</li>
+  <li>stunned(p=3)->lebénult</li>
+  <li>stunned->megtántorodott</li>
+  <li>stunned->elkábult</li>
+  <li>stunned->megzavarodott</li>
+  <li>r_logentry->[SUBJECT_definite] [staggered].</li>
+  <li>r_logentry->[SUBJECT_definite] a támadás miatt [staggered].</li>
+  <li>r_logentry->[SUBJECT_definite] [staggered] [INITIATOR_definite] támadásától.</li>
+  <li>staggered(p=3)->megtántorodott</li>
+  <li>staggered->megbotlott</li>
+  <li>staggered->megingott</li>
+  <li>staggered->megzavarodott</li>
+  <li>r_logentry->[SUBJECT_definite] bizonytalanul [stumbled].</li>
+  <li>r_logentry->[SUBJECT_definite] összezavarodva [stumbled].</li>
+  <li>stumbled(p=3)->botladozott</li>
+  <li>stumbled->ingadozott</li>
+  <li>stumbled->rogyadozott</li>
+  <li>stumbled->tántorgott</li>
+</Event_Stun.rulePack.rulesStrings>
 
 </LanguageData>

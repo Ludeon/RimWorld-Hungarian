@@ -2,82 +2,82 @@
 <LanguageData>
  <!-- Random social interactions -->
 
-  <Chitchat.label>chitchat</Chitchat.label>
-  <Chitchat.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameIndef] and [RECIPIENT_nameIndef] [talkedabout] [TalkTopicLight].</Chitchat.logRulesInitiator.rulesStrings.0>
-  <Chitchat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameIndef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameIndef].</Chitchat.logRulesInitiator.rulesStrings.1>
-  <Chitchat.logRulesInitiator.rulesStrings.2>talkedabout(p=4)->chatted about</Chitchat.logRulesInitiator.rulesStrings.2>
-  <Chitchat.logRulesInitiator.rulesStrings.3>talkedabout->shared a word about</Chitchat.logRulesInitiator.rulesStrings.3>
-  <Chitchat.logRulesInitiator.rulesStrings.4>talkedabout->spoke about</Chitchat.logRulesInitiator.rulesStrings.4>
-  <Chitchat.logRulesInitiator.rulesStrings.5>talkedabout->gabbed about</Chitchat.logRulesInitiator.rulesStrings.5>
-  <Chitchat.logRulesInitiator.rulesStrings.6>talkedabout->talked about</Chitchat.logRulesInitiator.rulesStrings.6>
-  <Chitchat.logRulesInitiator.rulesStrings.7>talkedabout->joked about</Chitchat.logRulesInitiator.rulesStrings.7>
-  <Chitchat.logRulesInitiator.rulesStrings.8>talkedabout->quipped about</Chitchat.logRulesInitiator.rulesStrings.8>
+  <Chitchat.label>csevegés</Chitchat.label>
+<Chitchat.logRulesInitiator.rulesStrings>  
+  <li>r_logentry->[INITIATOR_nameIndef] és [RECIPIENT_nameIndef] [talkedabout], erről: [TalkTopicLight].</li>
+  <li>r_logentry->[INITIATOR_nameIndef] [talkedabout] erről: [TalkTopicLight], vele: [RECIPIENT_nameIndef].</li>
+  <li>talkedabout(p=4)->beszélgetett</li>
+  <li>talkedabout->pár szót váltott</li>
+  <li>talkedabout->csevegett</li>
+  <li>talkedabout->dumált</li>
+  <li>talkedabout->beszélt</li>
+  <li>talkedabout->viccelődött</li>
+</Chitchat.logRulesInitiator.rulesStrings>
 
-  <DeepTalk.label>deep talk</DeepTalk.label>
-  <DeepTalk.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameIndef] and [RECIPIENT_nameIndef] [talkedabout] [subject].</DeepTalk.logRulesInitiator.rulesStrings.0>
-  <DeepTalk.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameIndef] [talkedabout] [subject] with [RECIPIENT_nameIndef].</DeepTalk.logRulesInitiator.rulesStrings.1>
-  <DeepTalk.logRulesInitiator.rulesStrings.2>talkedabout->communicated thoughts about</DeepTalk.logRulesInitiator.rulesStrings.2>
-  <DeepTalk.logRulesInitiator.rulesStrings.3>talkedabout->exchanged thoughts about</DeepTalk.logRulesInitiator.rulesStrings.3>
-  <DeepTalk.logRulesInitiator.rulesStrings.4>talkedabout->exchanged ideas about</DeepTalk.logRulesInitiator.rulesStrings.4>
-  <DeepTalk.logRulesInitiator.rulesStrings.5>talkedabout->shared views on</DeepTalk.logRulesInitiator.rulesStrings.5>
-  <DeepTalk.logRulesInitiator.rulesStrings.6>talkedabout->shared beliefs on</DeepTalk.logRulesInitiator.rulesStrings.6>
-  <DeepTalk.logRulesInitiator.rulesStrings.7>talkedabout->discussed the topic of</DeepTalk.logRulesInitiator.rulesStrings.7>
-  <DeepTalk.logRulesInitiator.rulesStrings.8>talkedabout->had a heartfelt conversation about</DeepTalk.logRulesInitiator.rulesStrings.8>
-  <DeepTalk.logRulesInitiator.rulesStrings.9>talkedabout->talked quietly about</DeepTalk.logRulesInitiator.rulesStrings.9>
-  <DeepTalk.logRulesInitiator.rulesStrings.10>talkedabout->talked deeply about</DeepTalk.logRulesInitiator.rulesStrings.10>
-  <DeepTalk.logRulesInitiator.rulesStrings.11>talkedabout->connected on the topic of</DeepTalk.logRulesInitiator.rulesStrings.11>
-  <DeepTalk.logRulesInitiator.rulesStrings.12>subject->[TalkTopicHeavy]</DeepTalk.logRulesInitiator.rulesStrings.12>
-  <DeepTalk.logRulesInitiator.rulesStrings.13>subject->[TalkTopicLight]</DeepTalk.logRulesInitiator.rulesStrings.13>
-
-  <Slight.label>slight</Slight.label>
-  <Slight.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameIndef] [madefunof] [target]'s [PersonalCharacteristic].</Slight.logRulesInitiator.rulesStrings.0>
-  <Slight.logRulesInitiator.rulesStrings.1>target(p=4)->[RECIPIENT_nameIndef]</Slight.logRulesInitiator.rulesStrings.1>
-  <Slight.logRulesInitiator.rulesStrings.2>target->[RECIPIENT_nameIndef]'s [PersonFamily]</Slight.logRulesInitiator.rulesStrings.2>
-  <Slight.logRulesInitiator.rulesStrings.3>madefunof->made fun of</Slight.logRulesInitiator.rulesStrings.3>
-  <Slight.logRulesInitiator.rulesStrings.4>madefunof->disrespected</Slight.logRulesInitiator.rulesStrings.4>
-  <Slight.logRulesInitiator.rulesStrings.5>madefunof->subtly scorned</Slight.logRulesInitiator.rulesStrings.5>
-  <Slight.logRulesInitiator.rulesStrings.6>madefunof->subtly shamed</Slight.logRulesInitiator.rulesStrings.6>
-  <Slight.logRulesInitiator.rulesStrings.7>madefunof->spoke badly of</Slight.logRulesInitiator.rulesStrings.7>
-  <Slight.logRulesInitiator.rulesStrings.8>madefunof->spoke negatively of</Slight.logRulesInitiator.rulesStrings.8>
-  <Slight.logRulesInitiator.rulesStrings.9>madefunof->laughed at</Slight.logRulesInitiator.rulesStrings.9>
-  <Slight.logRulesInitiator.rulesStrings.10>madefunof->sniggered at</Slight.logRulesInitiator.rulesStrings.10>
-  <Slight.logRulesInitiator.rulesStrings.11>madefunof->implied negative things about</Slight.logRulesInitiator.rulesStrings.11>
-  <Slight.logRulesInitiator.rulesStrings.12>madefunof->belittled</Slight.logRulesInitiator.rulesStrings.12>
-  <Slight.logRulesInitiator.rulesStrings.13>madefunof->made a contemptuous remark about</Slight.logRulesInitiator.rulesStrings.13>
-  <Slight.logRulesInitiator.rulesStrings.14>madefunof->offered a backhanded compliment about</Slight.logRulesInitiator.rulesStrings.14>
-
-  <Insult.label>insult</Insult.label>
-  <Insult.logRulesInitiator.rulesStrings.0>r_logentry(p=3)->[INITIATOR_nameIndef] [insulted] [target]'s [PersonalCharacteristic].</Insult.logRulesInitiator.rulesStrings.0>
-  <Insult.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameIndef] compared [target] to a [insultcomparison].</Insult.logRulesInitiator.rulesStrings.1>
-  <Insult.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameIndef] called [target] a [insultcomparison].</Insult.logRulesInitiator.rulesStrings.2>
-  <Insult.logRulesInitiator.rulesStrings.3>target(p=4)->[RECIPIENT_nameIndef]</Insult.logRulesInitiator.rulesStrings.3>
-  <Insult.logRulesInitiator.rulesStrings.4>target->[RECIPIENT_nameIndef]'s [PersonFamily]</Insult.logRulesInitiator.rulesStrings.4>
-  <Insult.logRulesInitiator.rulesStrings.5>insulted(p=3)->insulted</Insult.logRulesInitiator.rulesStrings.5>
-  <Insult.logRulesInitiator.rulesStrings.6>insulted->openly insulted</Insult.logRulesInitiator.rulesStrings.6>
-  <Insult.logRulesInitiator.rulesStrings.7>insulted->loudly insulted</Insult.logRulesInitiator.rulesStrings.7>
-  <Insult.logRulesInitiator.rulesStrings.8>insulted->flagrantly insulted</Insult.logRulesInitiator.rulesStrings.8>
-  <Insult.logRulesInitiator.rulesStrings.9>insulted->directly insulted</Insult.logRulesInitiator.rulesStrings.9>
-  <Insult.logRulesInitiator.rulesStrings.10>insulted->viciously insulted</Insult.logRulesInitiator.rulesStrings.10>
-  <Insult.logRulesInitiator.rulesStrings.11>insulted->flagrantly disrespected</Insult.logRulesInitiator.rulesStrings.11>
-  <Insult.logRulesInitiator.rulesStrings.12>insulted->slandered</Insult.logRulesInitiator.rulesStrings.12>
-  <Insult.logRulesInitiator.rulesStrings.13>insulted->hurled invective about</Insult.logRulesInitiator.rulesStrings.13>
-  <Insult.logRulesInitiator.rulesStrings.14>insulted->derided</Insult.logRulesInitiator.rulesStrings.14>
-  <Insult.logRulesInitiator.rulesStrings.15>insultcomparison(p=2)->[Animal]</Insult.logRulesInitiator.rulesStrings.15>
-  <Insult.logRulesInitiator.rulesStrings.16>insultcomparison->[Enemy]</Insult.logRulesInitiator.rulesStrings.16>
-
-  <KindWords.label>kind words</KindWords.label>
-  <KindWords.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameIndef] [complimented] [RECIPIENT_nameIndef]'s [PersonalCharacteristic].</KindWords.logRulesInitiator.rulesStrings.0>
-  <KindWords.logRulesInitiator.rulesStrings.1>complimented(p=3)->complimented</KindWords.logRulesInitiator.rulesStrings.1>
-  <KindWords.logRulesInitiator.rulesStrings.2>complimented->praised</KindWords.logRulesInitiator.rulesStrings.2>
-  <KindWords.logRulesInitiator.rulesStrings.3>complimented->commended</KindWords.logRulesInitiator.rulesStrings.3>
-  <KindWords.logRulesInitiator.rulesStrings.4>complimented->lauded</KindWords.logRulesInitiator.rulesStrings.4>
-  <KindWords.logRulesInitiator.rulesStrings.5>complimented->applauded</KindWords.logRulesInitiator.rulesStrings.5>
-  <KindWords.logRulesInitiator.rulesStrings.6>complimented->celebrated</KindWords.logRulesInitiator.rulesStrings.6>
-  <KindWords.logRulesInitiator.rulesStrings.7>complimented->saluted</KindWords.logRulesInitiator.rulesStrings.7>
-  <KindWords.logRulesInitiator.rulesStrings.8>complimented->spoke kindly of</KindWords.logRulesInitiator.rulesStrings.8>
-  <KindWords.logRulesInitiator.rulesStrings.9>complimented->expressed good things about</KindWords.logRulesInitiator.rulesStrings.9>
-  <KindWords.logRulesInitiator.rulesStrings.10>complimented->offered kinds words about</KindWords.logRulesInitiator.rulesStrings.10>
-  <KindWords.logRulesInitiator.rulesStrings.11>complimented->verbally appreciated</KindWords.logRulesInitiator.rulesStrings.11>
-  <KindWords.logRulesInitiator.rulesStrings.12>complimented->expressed appreciation for</KindWords.logRulesInitiator.rulesStrings.12>
-  <KindWords.logRulesInitiator.rulesStrings.13>complimented->said good things about</KindWords.logRulesInitiator.rulesStrings.13>
+  <DeepTalk.label>komoly beszélgetés</DeepTalk.label>
+ <DeepTalk.logRulesInitiator.rulesStrings>  
+  <li>r_logentry->[INITIATOR_nameIndef] és [RECIPIENT_nameIndef] [talkedabout], erről: [subject].</li>
+  <li>r_logentry->[INITIATOR_nameIndef] [talkedabout] erről: [subject], vele: [RECIPIENT_nameIndef].</li>
+  <li>talkedabout->gondolatokat csréltek</li>
+  <li>talkedabout->ötleteltek</li>
+  <li>talkedabout->megosztották nézeteiket</li>
+  <li>talkedabout->megosztották véleményüket</li>
+  <li>talkedabout->tárgyaltak</li>
+  <li>talkedabout->őszintén beszélgettek</li>
+  <li>talkedabout->csendesen beszélgettek</li>
+  <li>talkedabout->komolyan beszélgettek</li>
+  <li>subject->[TalkTopicHeavy]</li>
+  <li>subject->[TalkTopicLight]</li>
+ </DeepTalk.logRulesInitiator.rulesStrings>
+ 
+ 
+  <Slight.label>megbántás</Slight.label>
+  <Slight.logRulesInitiator.rulesStrings> 
+  <li>r_logentry->[INITIATOR_nameIndef] [madefunof] őt: [target], téma: [PersonalCharacteristic].</li>
+  <li>target(p=4)->[RECIPIENT_nameIndef]</li>
+  <li>target->[RECIPIENT_nameIndef] rokona: [PersonFamily]</li>
+  <li>madefunof->kigyúnyolta</li>
+  <li>madefunof->szégyenbe hozta</li>
+  <li>madefunof->megvetette</li>
+  <li>madefunof->leégette</li>
+  <li>madefunof->rossz hírbe hozta</li>
+  <li>madefunof->kinevette</li>
+  <li>madefunof->kiröhögte</li>
+  <li>madefunof->megalázta</li>
+ </Slight.logRulesInitiator.rulesStrings>
+  
+  <Insult.label>sértés</Insult.label>
+   <Insult.logRulesInitiator.rulesStrings>
+  <li>r_logentry(p=3)->[INITIATOR_nameIndef] [insulted] őt: [target], téma: [PersonalCharacteristic].</li>
+  <li>r_logentry->[INITIATOR_nameIndef] ehhez hasonlította: [insultcomparison], őt: [target].</li>
+  <li>r_logentry->[INITIATOR_nameIndef] ennek nevezte: [insultcomparison] őt: [target].</li>
+  <li>target(p=4)->[RECIPIENT_nameIndef]</li>
+  <li>target->[RECIPIENT_nameIndef] rokona: [PersonFamily]</li>
+  <li>insulted(p=3)->megsértette</li>
+  <li>insulted->nyíltan megsértette</li>
+  <li>insulted->hangosan megsértette</li>
+  <li>insulted->kirívóan megsértette</li>
+  <li>insulted->direkt megsértette</li>
+  <li>insulted->gonoszul megsértette</li>
+  <li>insulted->kirívóan megalázta</li>
+  <li>insulted->rágalmazta</li>
+  <li>insulted->kigyúnyolta</li>
+  <li>insultcomparison(p=2)->[Animal]</li>
+  <li>insultcomparison->[Enemy]</li>
+ </Insult.logRulesInitiator.rulesStrings>
+ 
+  <KindWords.label>kedves szavak</KindWords.label>
+<KindWords.logRulesInitiator.rulesStrings>  
+  <li>r_logentry->[INITIATOR_nameIndef] [complimented] őt: [RECIPIENT_nameIndef], téma: [PersonalCharacteristic].</li>
+  <li>complimented(p=3)->megdícsérte</li>
+  <li>complimented->magasztalta</li>
+  <li>complimented->megdícsérte</li>
+  <li>complimented->megtapsolta</li>
+  <li>complimented->ünnepelte</li>
+  <li>complimented->kedves szavakkal illette</li>
+  <li>complimented->áradozva megdícsérte</li>
+  <li>complimented->ömlengve megdícsérte</li>
+  <li>complimented->lelkendezve magasztalta</li>
+  <li>complimented->jó szóval illette</li>
+</KindWords.logRulesInitiator.rulesStrings>  
 </LanguageData>

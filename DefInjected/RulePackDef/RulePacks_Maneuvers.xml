@@ -7,19 +7,19 @@
 		<li>damaged_inf->csapás</li>
 		<li>damaged_inf->nyiszálás</li>
 		<li>damaged_inf->vágás</li>
-		<li>damaged_inf->hasítás</li>
+		<li>damaged_inf(deflected!=True)->hasítás</li>
 		<li>damaged_past(p=4)->suhintott</li>
 		<li>damaged_past->vágott</li>
 		<li>damaged_past->csapott</li>
 		<li>damaged_past->nyiszált</li>
 		<li>damaged_past->vágott</li>
-		<li>damaged_past->hasított</li>
+		<li>damaged_past(deflected!=True)->hasított</li>
 		<li>damaged_present->megsuhintva</li>
 		<li>damaged_present->megvágva</li>
 		<li>damaged_present->megcsapva</li>
-		<li>damaged_present->meghasítva</li>
-		<li>damaged_present->megtépve</li>
-		<li>damaged_present->felszakítva</li>
+		<li>damaged_present(deflected!=True)->meghasítva</li>
+		<li>damaged_present(deflected!=True)->megtépve</li>
+		<li>damaged_present(deflected!=True)->felszakítva</li>
 		<li>woundname->seb</li>
 		<li>woundname(p=0.3)->sebesülés</li>
 		<li>flavortext_situation(recipient_flesh!=Mechanoid)->a [woundname] vérzik</li>
@@ -46,18 +46,18 @@
 	<Maneuver_Stab.rulePack.rulesStrings>
 		<li>damaged_inf(p=4)->döfés</li>
 		<li>damaged_inf->szúrás</li>
-		<li>damaged_inf->bökés</li>
-		<li>damaged_inf->döfés</li>
-		<li>damaged_inf->nyársalás</li>
+		<li>damaged_inf(deflected!=True)->bökés</li>
+		<li>damaged_inf(deflected!=True)->döfés</li>
+		<li>damaged_inf(deflected!=True)->nyársalás</li>
 		<li>damaged_past(p=4)->döfött</li>
 		<li>damaged_past->szúrt</li>
-		<li>damaged_past->bökött</li>
-		<li>damaged_past->döfött</li>
-		<li>damaged_past->nyársalt</li>
-		<li>damaged_present->megdöfve</li>
-		<li>damaged_present->megszúrva</li>
-		<li>damaged_present->megbökve</li>
-		<li>damaged_present->felnyársalva</li>
+		<li>damaged_past(deflected!=True)->bökött</li>
+		<li>damaged_past(deflected!=True)->döfött</li>
+		<li>damaged_past(deflected!=True)->nyársalt</li>
+		<li>damaged_present(deflected!=True)->megdöfve</li>
+		<li>damaged_present(deflected!=True)->megszúrva</li>
+		<li>damaged_present(deflected!=True)->megbökve</li>
+		<li>damaged_present(deflected!=True)->felnyársalva</li>
 		<li>woundname->vágás</li>
 		<li>woundname->seb</li>
 		<li>woundname->heg</li>
@@ -90,8 +90,8 @@
 		<li>damaged_present->megsuhintva</li>
 		<li>damaged_present->megütve</li>
 		<li>damaged_present->megcsapva</li>
-		<li>damaged_present->szétzúzva</li>
-		<li>damaged_present->megtépve</li>
+		<li>damaged_present(deflected!=True)->szétzúzva</li>
+		<li>damaged_present(deflected!=True)->megtépve</li>
 		<li>destroyed_past->zúzott</li>
 		<li>destroyed_past->összetört</li>
 		<li>destroyed_past->megsemmisült</li>
@@ -117,16 +117,16 @@
 
 	<Maneuver_Scratch_Damage.rulePack.rulesStrings>
 		<li>damaged_inf(p=4)->horzsolás</li>
-		<li>damaged_inf->tépés</li>
-		<li>damaged_inf->szakítás</li>
+		<li>damaged_inf(deflected!=True)->tépés</li>
+		<li>damaged_inf(deflected!=True)->szakítás</li>
 		<li>damaged_inf->vágás</li>
 		<li>damaged_past(p=4)->horzsolt</li>
-		<li>damaged_past->tépett</li>
-		<li>damaged_past->szakított</li>
+		<li>damaged_past(deflected!=True)->tépett</li>
+		<li>damaged_past(deflected!=True)->szakított</li>
 		<li>damaged_past->vágott</li>
 		<li>damaged_present->felhorzsolva</li>
-		<li>damaged_present->megtépve</li>
-		<li>damaged_present->felszakítva</li>
+		<li>damaged_present(deflected!=True)->megtépve</li>
+		<li>damaged_present(deflected!=True)->felszakítva</li>
 		<li>damaged_present->megvágva</li>
 		<li>destroyed_past->sulykolt</li>
 		<li>destroyed_past->tépett</li>
@@ -200,12 +200,12 @@
 		<li>damaged_past->harapott</li>
 		<li>damaged_past->megkapott</li>
 		<li>damaged_past->rágott</li>
-		<li>damaged_past->tépett</li>
+		<li>damaged_past(deflected!=True)->tépett</li>
 		<li>maneuver_present->harapva</li>
 		<li>maneuver_present->harapva</li>
 		<li>maneuver_present->harapva</li>
 		<li>maneuver_present->rágva</li>
-		<li>maneuver_present->tépve</li>
+		<li>maneuver_present(deflected!=True)->tépve</li>
 		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->amin keresztül látszik a hús</li>
 		<li>flavortext_consequence(recipient_flesh==Mechanoid)->amin keresztül látszik a gépezet</li>
 		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->rémes tépéseket hagyva a bőrön</li>
@@ -226,7 +226,7 @@
 	</Maneuver_Bite.rulePack.rulesStrings>
 
   <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] belerúgta ezt: [TOOL_label] [RECIPIENT_definite] szemébe.</Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings.0>
-  <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings.1>r_logentry(p=0.2)->[INITIATOR_definite] belerúgott egy adagot ebből: [TOOL_label] in [RECIPIENT_definite] szemébe.</Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings.1>
+  <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings.1>r_logentry(p=0.2)->[INITIATOR_definite] belerúgott egy adagot ebből: [TOOL_label] [RECIPIENT_definite] szemébe.</Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings.1>
 
   <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] megpróbálta belerúgni ezt: [TOOL_label] [RECIPIENT_definite] szemébe, de elhibázta.</Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings.0>
 

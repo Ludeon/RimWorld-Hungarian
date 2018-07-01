@@ -4,15 +4,15 @@
 	<Combat_MeleeIncludes.rulePack.rulesStrings>
 		<li>r_logentry->[action], [result].</li>
 		<li>r_logentry(p=0.2)->[action].</li>
-		<li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[WEAPON_label][tool_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[WEAPON_label][TOOL_label]</li>
 		<li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[WEAPON_label]</li>
-		<li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[WEAPON_label][tool_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[WEAPON_label][TOOL_label]</li>
 		<li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->[WEAPON_label]</li>
-		<li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[tool_label]</li>
-		<li>implement(IMPLEMENTOWNER_type==bodypart,p=1)->[adjective_bodypart][tool_label]</li>
-		<li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[WEAPON_label][tool_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[TOOL_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==bodypart,p=1)->[adjective_bodypart][TOOL_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[WEAPON_label][TOOL_label]</li>
 		<li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[WEAPON_label]</li>
-		<li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[tool_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[TOOL_label]</li>
 		<li>adjective_bodypart->kemény</li>
 		<li>adjective_bodypart->erős</li>
 		<li>adjective_bodypart->erőteljes</li>
@@ -51,20 +51,8 @@
 		<li>painevent(recipient_flesh==Normal)->gyötrelmében</li>
 		<li>painevent->sebesülése miatt</li>
 		<li>painevent->sebesülése miatt</li>
-		<!-- <li>mortarshell->lövedék</li> -->
-		<!-- <li>mortarshell->lövés</li> -->
-		<!-- <li>mortarshell->lövedék</li> -->
-		<!-- <li>mortarshell->repesz</li> -->
-		<!-- <li>mortarshell->bomba</li> -->
-		<!-- <li>mortarshell(p=0.3)->ballisztikus lövedék</li> -->
-		<!-- <li>mortarshell(p=0.3)->ballisztikus lövés</li> -->
-		<!-- <li>mortarshell(p=0.3)->ballisztikus lövedék</li> -->
 		<li>to->oda</li>
 		<li>to->bele</li>
-		<!-- <li>initiator_definite->[initiator_labelDefinite]</li> -->
-		<!-- <li>initiator_definite->[initiator_nameDef]</li> -->
-		<!-- <li>recipient_definite->[recipient_labelDefinite]</li> -->
-		<!-- <li>recipient_definite->[recipient_nameDef]</li> -->
 	</Combat_MeleeIncludes.rulePack.rulesStrings>
 	
 	 <Combat_MeleeDamageIncludes.rulePack.rulesStrings>
@@ -149,25 +137,21 @@
 		<li>expert->művész</li>
 	</Combat_WoundIncludes.rulePack.rulesStrings>
 	
-	<Combat_DeflectIncludes.rulePack.rulesStrings.0>scraped_present->glancing</Combat_DeflectIncludes.rulePack.rulesStrings.0>
-  <Combat_DeflectIncludes.rulePack.rulesStrings.1>scraped_present->bouncing</Combat_DeflectIncludes.rulePack.rulesStrings.1>
-  <Combat_DeflectIncludes.rulePack.rulesStrings.2>scraped_present->grazing</Combat_DeflectIncludes.rulePack.rulesStrings.2>
-  <Combat_DeflectIncludes.rulePack.rulesStrings.3>scraped_present->caroming</Combat_DeflectIncludes.rulePack.rulesStrings.3>
-  <Combat_DeflectIncludes.rulePack.rulesStrings.4>scraped_present->skipping</Combat_DeflectIncludes.rulePack.rulesStrings.4>
-  <Combat_DeflectIncludes.rulePack.rulesStrings.5>scraped_present->skating</Combat_DeflectIncludes.rulePack.rulesStrings.5>
-  <Combat_DeflectIncludes.rulePack.rulesStrings.6>scraped_past->glanced</Combat_DeflectIncludes.rulePack.rulesStrings.6>
-  <Combat_DeflectIncludes.rulePack.rulesStrings.7>scraped_past->bounced</Combat_DeflectIncludes.rulePack.rulesStrings.7>
-  <Combat_DeflectIncludes.rulePack.rulesStrings.8>scraped_past->grazed</Combat_DeflectIncludes.rulePack.rulesStrings.8>
-  <Combat_DeflectIncludes.rulePack.rulesStrings.9>scraped_past->caromed</Combat_DeflectIncludes.rulePack.rulesStrings.9>
-  <Combat_DeflectIncludes.rulePack.rulesStrings.10>scraped_past->skipped</Combat_DeflectIncludes.rulePack.rulesStrings.10>
-  <Combat_DeflectIncludes.rulePack.rulesStrings.11>scraped_past->skated</Combat_DeflectIncludes.rulePack.rulesStrings.11>
-
+	<Combat_DeflectIncludes.rulePack.rulesStrings>
+	  <li>scraped_present->lecsúszó</li>
+      <li>scraped_present->lepattanó</li>
+	  <li>scraped_present->súroló</li>
+      <li>scraped_past->lecsúszott</li>
+      <li>scraped_past->lepattant</li>
+    </Combat_DeflectIncludes.rulePack.rulesStrings>
+	
 	<Combat_Hit.rulePack.rulesStrings>
 		<li>r_logentry(p=0.3)->[INITIATOR_definite] [damaged_past] efelé: [RECIPIENT_definite] [RECIPIENT_part0_label].</li>
 		<li>r_logentry(p=0.1)->[INITIATOR_definite] [adverb_flavortext] [damaged_past] efelé: [RECIPIENT_definite] [RECIPIENT_part0_label].</li>
 		<li>r_logentry(p=0.1)->[INITIATOR_definite] [damaged_past] efelé: [RECIPIENT_definite] [RECIPIENT_part0_label], [flavortext_situation].</li>
 		<li>r_logentry(p=0.1)->[INITIATOR_definite] [damaged_past] efelé: [RECIPIENT_definite] [RECIPIENT_part0_label], [flavortext_consequence].</li>
-		<li>r_logentry(p=0.4)->[INITIATOR_definite], [expertly] használva ezt: [WEAPON_label], [adverb_flavortext] [damaged_past], cél: [RECIPIENT_definite] [RECIPIENT_part0_label].</li>
+		<li>r_logentry(p=0.07)->[INITIATOR_definite], [expertly] használva ezt: [WEAPON_label], [damaged_past], cél: [RECIPIENT_definite] [RECIPIENT_part0_label].</li>
+		<li>r_logentry(p=0.03)->[INITIATOR_definite], [expertly] használva ezt: [WEAPON_label], [adverb_flavortext] [damaged_past], cél: [RECIPIENT_definite] [RECIPIENT_part0_label].</li>
 		<li>r_logentry(p=0.3)->[INITIATOR_definite] [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets].</li>
 		<li>r_logentry(p=0.3)->[INITIATOR_definite] [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets] [destroyed_suffix].</li>
 		<li>r_logentry(p=0.3)->[INITIATOR_definite] [expertly] [destroyed_past] ezt: [RECIPIENT_definite] [destroyed_targets].</li>
@@ -181,26 +165,28 @@
 		<li>action(p=0.6)->[INITIATOR_definite] [damaged_past] feléje: [RECIPIENT_definite]</li>
 	</Combat_Hit.rulePack.rulesStrings>
 	
-	  <Combat_Deflect.rulePack.rulesStrings.0>r_logentry(p=1)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] in the [RECIPIENT_part0_label] [deflected_result].</Combat_Deflect.rulePack.rulesStrings.0>
-  <Combat_Deflect.rulePack.rulesStrings.1>r_logentry(p=0.3)->[INITIATOR_definite], wielding [INITIATOR_possessive] [WEAPON_label] [expertly], [damaged_past] [RECIPIENT_definite] in the [RECIPIENT_part0_label] [deflected_result].</Combat_Deflect.rulePack.rulesStrings.1>
-  <Combat_Deflect.rulePack.rulesStrings.2>r_logentry(p=0.3)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [damaged_inf] from [implement] [deflected_result].</Combat_Deflect.rulePack.rulesStrings.2>
-  <Combat_Deflect.rulePack.rulesStrings.3>r_logentry(p=0.3)->[INITIATOR_definite] used [implement] to [damaged_inf] [RECIPIENT_definite] [deflected_result].</Combat_Deflect.rulePack.rulesStrings.3>
-  <Combat_Deflect.rulePack.rulesStrings.4>r_logentry(p=0.6)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] with [implement] [deflected_result].</Combat_Deflect.rulePack.rulesStrings.4>
-  <Combat_Deflect.rulePack.rulesStrings.5>r_logentry(p=0.6)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] [deflected_result].</Combat_Deflect.rulePack.rulesStrings.5>
-  <Combat_Deflect.rulePack.rulesStrings.6>at-></Combat_Deflect.rulePack.rulesStrings.6>
-  <Combat_Deflect.rulePack.rulesStrings.7>at->at</Combat_Deflect.rulePack.rulesStrings.7>
-  <Combat_Deflect.rulePack.rulesStrings.8>deflected_result-> [adverb_deflected]</Combat_Deflect.rulePack.rulesStrings.8>
-  <Combat_Deflect.rulePack.rulesStrings.9>deflected_result->, [deflected_consequence]</Combat_Deflect.rulePack.rulesStrings.9>
-  <Combat_Deflect.rulePack.rulesStrings.10>adverb_deflected_opt(p=4)-></Combat_Deflect.rulePack.rulesStrings.10>
-  <Combat_Deflect.rulePack.rulesStrings.11>adverb_deflected_opt->[adverb_deflected]</Combat_Deflect.rulePack.rulesStrings.11>
-  <Combat_Deflect.rulePack.rulesStrings.12>adverb_deflected->harmlessly</Combat_Deflect.rulePack.rulesStrings.12>
-  <Combat_Deflect.rulePack.rulesStrings.13>adverb_deflected->uselessly</Combat_Deflect.rulePack.rulesStrings.13>
-  <Combat_Deflect.rulePack.rulesStrings.14>deflected_consequence->but the [TOOL_label] [scraped_past] off [adverb_deflected_opt]</Combat_Deflect.rulePack.rulesStrings.14>
-  <Combat_Deflect.rulePack.rulesStrings.15>deflected_consequence->[scraped_present] off [RECIPIENT_possessive] armor [adverb_deflected_opt]</Combat_Deflect.rulePack.rulesStrings.15>
-  <Combat_Deflect.rulePack.rulesStrings.16>scraped_present->scraping</Combat_Deflect.rulePack.rulesStrings.16>
-  <Combat_Deflect.rulePack.rulesStrings.17>scraped_present->sliding</Combat_Deflect.rulePack.rulesStrings.17>
-  <Combat_Deflect.rulePack.rulesStrings.18>scraped_past->scraped</Combat_Deflect.rulePack.rulesStrings.18>
-  <Combat_Deflect.rulePack.rulesStrings.19>scraped_past->slid</Combat_Deflect.rulePack.rulesStrings.19>
+	<Combat_Deflect.rulePack.rulesStrings>
+	    <li>r_logentry(p=1)->[INITIATOR_definite] [damaged_past] efelé: [RECIPIENT_definite] [RECIPIENT_part0_label] [deflected_result].</li>
+		<li>r_logentry(p=0.3)->[INITIATOR_definite], [expertly] használva ezt: [WEAPON_label], [damaged_past], cél: [RECIPIENT_definite] [RECIPIENT_part0_label] [deflected_result].</li>
+		<li>r_logentry(p=0.3)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite] így: [implement] [damaged_inf] [deflected_result].</li>
+		<li>r_logentry(p=0.3)->[INITIATOR_definite] használta ezt: [implement], hogy [damaged_inf]t ejtsen rajta: [RECIPIENT_definite] [deflected_result].</li>
+		<li>r_logentry(p=0.6)->[INITIATOR_definite] [damaged_past] feléje: [RECIPIENT_definite], ezzel: [implement] [deflected_result].</li>
+		<li>r_logentry(p=0.6)->[INITIATOR_definite] [damaged_past] feléje: [RECIPIENT_definite] [deflected_result].</li>
+		<li>at-></li>
+		<li>at->at</li>
+		<li>deflected_result-> [adverb_deflected]</li>
+		<li>deflected_result->, [deflected_consequence]</li>
+		<li>adverb_deflected_opt(p=4)-></li>
+		<li>adverb_deflected_opt->[adverb_deflected]</li>
+		<li>adverb_deflected->, ártalmatlanul</li>
+	    <li>adverb_deflected->, haszontalanul</li>
+	    <li>deflected_consequence->de [TOOL_label] [adverb_deflected_opt] [scraped_past]</li>
+	    <li>deflected_consequence->[scraped_present] a páncélzatról [adverb_deflected_opt]</li>
+	    <li>scraped_present->súrolva</li>
+	    <li>scraped_present->lecsúszva</li>
+	    <li>scraped_past->súrolta</li>
+	    <li>scraped_past->lecsúszott</li>
+   </Combat_Deflect.rulePack.rulesStrings>
 
 	<Combat_FailIncludes.rulePack.rulesStrings>
 		<li>action->[INITIATOR_definite] [tried] ezt: [damaged_inf], cél: [RECIPIENT_definite]</li>
@@ -245,15 +231,6 @@
 		<li>result->de a támadást okosan elkerülték</li>
 	</Combat_Dodge.rulePack.rulesStrings>
 
-	<!-- <Combat_RangedIncludes.rulePack.rulesStrings> -->
-		<!-- <li>initiator_definite->[initiator_labelDefinite]</li> -->
-		<!-- <li>initiator_definite->[initiator_nameDef]</li> -->
-		<!-- <li>recipient_definite->[recipient_labelDefinite]</li> -->
-		<!-- <li>recipient_definite->[recipient_nameDef]</li> -->
-		<!-- <li>ORIGINALTARGET_definite->[ORIGINALTARGET_labelDefinite]</li> -->
-		<!-- <li>ORIGINALTARGET_definite->[ORIGINALTARGET_nameDef]</li> -->
-	<!-- </Combat_RangedIncludes.rulePack.rulesStrings> -->
-
 	<Combat_RangedFire.rulePack.rulesStrings>
 		<li>r_logentry->[INITIATOR_definite] [shotat], cél: [RECIPIENT_definite], ezzel: [WEAPON_label].</li>
 		<li>r_logentry->[INITIATOR_definite] [shot], ezzel: [WEAPON_label], cél: [RECIPIENT_definite].</li>
@@ -295,29 +272,30 @@
 		<li>adjective_shot(initiator_flesh!=Mechanoid)->gondos</li>
 	</Combat_RangedFire.rulePack.rulesStrings>
 	
-	  <Combat_RangedFire_Thrown.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] [threw] [INITIATOR_possessive] [WEAPON_projectile_label] at [RECIPIENT_definite].</Combat_RangedFire_Thrown.rulePack.rulesStrings.0>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.1>r_logentry->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label] at [RECIPIENT_definite].</Combat_RangedFire_Thrown.rulePack.rulesStrings.1>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.2>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw] [INITIATOR_possessive] [WEAPON_projectile_label].</Combat_RangedFire_Thrown.rulePack.rulesStrings.2>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.3>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label].</Combat_RangedFire_Thrown.rulePack.rulesStrings.3>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.4>threw_a->[adverb_threw] [verb_threw] a</Combat_RangedFire_Thrown.rulePack.rulesStrings.4>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.5>threw_a(p=2)->[verb_threw] a</Combat_RangedFire_Thrown.rulePack.rulesStrings.5>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.6>threw(p=2)->[verb_threw]</Combat_RangedFire_Thrown.rulePack.rulesStrings.6>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.7>threw->[adverb_threw] [verb_threw]</Combat_RangedFire_Thrown.rulePack.rulesStrings.7>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.8>verb_threw->threw</Combat_RangedFire_Thrown.rulePack.rulesStrings.8>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.9>verb_threw->flung</Combat_RangedFire_Thrown.rulePack.rulesStrings.9>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.10>verb_threw->launched</Combat_RangedFire_Thrown.rulePack.rulesStrings.10>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.11>adverb_threw->carefully</Combat_RangedFire_Thrown.rulePack.rulesStrings.11>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.12>adverb_threw->quickly</Combat_RangedFire_Thrown.rulePack.rulesStrings.12>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.13>adverb_threw->precisely</Combat_RangedFire_Thrown.rulePack.rulesStrings.13>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.14>adverb_threw->deliberately</Combat_RangedFire_Thrown.rulePack.rulesStrings.14>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.15>adverb_threw(initiator_flesh!=Mechanoid)->gingerly</Combat_RangedFire_Thrown.rulePack.rulesStrings.15>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.16>adverb_threw->precisely</Combat_RangedFire_Thrown.rulePack.rulesStrings.16>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.17>adverb_threw(initiator_flesh!=Mechanoid)->warily</Combat_RangedFire_Thrown.rulePack.rulesStrings.17>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.18>adjective_threw->careful</Combat_RangedFire_Thrown.rulePack.rulesStrings.18>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.19>adjective_threw->quick</Combat_RangedFire_Thrown.rulePack.rulesStrings.19>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.20>adjective_threw->deliberate</Combat_RangedFire_Thrown.rulePack.rulesStrings.20>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.21>adjective_threw->precise</Combat_RangedFire_Thrown.rulePack.rulesStrings.21>
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings.22>adjective_threw(initiator_flesh!=Mechanoid)->wary</Combat_RangedFire_Thrown.rulePack.rulesStrings.22>
+	<Combat_RangedFire_Thrown.rulePack.rulesStrings>
+	  <li>r_logentry->[INITIATOR_definite] [threw], cél: [RECIPIENT_definite], ezzel: [WEAPON_projectile_label].</li>
+	  <li>r_logentry->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label], cél: [RECIPIENT_definite].</li>
+	  <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw] [WEAPON_projectile_label].</li>
+	  <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label].</li>
+	  <li>threw_a->[adverb_threw] [verb_threw] a</li>
+	  <li>threw_a(p=2)->[verb_threw] a</li>
+	  <li>threw(p=2)->[verb_threw]</li>
+	  <li>threw->[adverb_threw] [verb_threw]</li>
+	  <li>verb_threw->dobott</li>
+	  <li>verb_threw->hajított</li>
+	  <li>adverb_threw->óvatosan</li>
+	  <li>adverb_threw->gyorsan</li>
+	  <li>adverb_threw->pontosan</li>
+	  <li>adverb_threw->szándékosan</li>
+	  <li>adverb_threw(initiator_flesh!=Mechanoid)->óvatosan</li>
+	  <li>adverb_threw->precisely</li>
+	  <li>adverb_threw(initiator_flesh!=Mechanoid)->vigyázva</li>
+	  <li>adjective_threw->óvatos</li>
+	  <li>adjective_threw->gyors</li>
+	  <li>adjective_threw->szándékos</li>
+	  <li>adjective_threw->pontos</li>
+	  <li>adjective_threw(initiator_flesh!=Mechanoid)->óvatos</li>
+  </Combat_RangedFire_Thrown.rulePack.rulesStrings>
 	
 
 	<Combat_RangedDamage.rulePack.rulesStrings>
@@ -382,30 +360,31 @@
 		<li>missed->kissé elhibázta</li>
 	</Combat_RangedDamage.rulePack.rulesStrings>
 	
-	  <Combat_RangedDeflect.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [damaged_past] [RECIPIENT_definite][damaged_target] [deflected_result].</Combat_RangedDeflect.rulePack.rulesStrings.0>
-  <Combat_RangedDeflect.rulePack.rulesStrings.1>r_logentry(p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and [damaged_past] [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</Combat_RangedDeflect.rulePack.rulesStrings.1>
-  <Combat_RangedDeflect.rulePack.rulesStrings.2>r_logentry->[RECIPIENT_definite][damaged_target_possessive_opt] was [damaged_past] by [INITIATOR_definite]'s [WEAPON_projectile_label] [deflected_result].</Combat_RangedDeflect.rulePack.rulesStrings.2>
-  <Combat_RangedDeflect.rulePack.rulesStrings.3>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [WEAPON_projectile_label] [deflected_result].</Combat_RangedDeflect.rulePack.rulesStrings.3>
-  <Combat_RangedDeflect.rulePack.rulesStrings.4>r_logentry(p=0.2)->[INITIATOR_definite]'s [WEAPON_projectile_label] hit [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</Combat_RangedDeflect.rulePack.rulesStrings.4>
-  <Combat_RangedDeflect.rulePack.rulesStrings.5>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [WEAPON_projectile_label] [deflected_result].</Combat_RangedDeflect.rulePack.rulesStrings.5>
-  <Combat_RangedDeflect.rulePack.rulesStrings.6>r_logentry(p=0.4)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</Combat_RangedDeflect.rulePack.rulesStrings.6>
-  <Combat_RangedDeflect.rulePack.rulesStrings.7>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [WEAPON_projectile_label] intended for [ORIGINALTARGET_definite] [deflected_result].</Combat_RangedDeflect.rulePack.rulesStrings.7>
-  <Combat_RangedDeflect.rulePack.rulesStrings.8>weapon_projectile_label(p=0.05)->shot</Combat_RangedDeflect.rulePack.rulesStrings.8>
-  <Combat_RangedDeflect.rulePack.rulesStrings.9>damaged_target_possessive_opt-></Combat_RangedDeflect.rulePack.rulesStrings.9>
-  <Combat_RangedDeflect.rulePack.rulesStrings.10>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->'s [RECIPIENT_part_damaged0_label]</Combat_RangedDeflect.rulePack.rulesStrings.10>
-  <Combat_RangedDeflect.rulePack.rulesStrings.11>deflected_result-> [adverb_deflected]</Combat_RangedDeflect.rulePack.rulesStrings.11>
-  <Combat_RangedDeflect.rulePack.rulesStrings.12>deflected_result->, [deflected_consequence]</Combat_RangedDeflect.rulePack.rulesStrings.12>
-  <Combat_RangedDeflect.rulePack.rulesStrings.13>adverb_deflected_opt(p=4)-></Combat_RangedDeflect.rulePack.rulesStrings.13>
-  <Combat_RangedDeflect.rulePack.rulesStrings.14>adverb_deflected_opt->[adverb_deflected]</Combat_RangedDeflect.rulePack.rulesStrings.14>
-  <Combat_RangedDeflect.rulePack.rulesStrings.15>adverb_deflected->harmlessly</Combat_RangedDeflect.rulePack.rulesStrings.15>
-  <Combat_RangedDeflect.rulePack.rulesStrings.16>adverb_deflected->uselessly</Combat_RangedDeflect.rulePack.rulesStrings.16>
-  <Combat_RangedDeflect.rulePack.rulesStrings.17>deflected_consequence->but it [scraped_past] off [adverb_deflected_opt]</Combat_RangedDeflect.rulePack.rulesStrings.17>
-  <Combat_RangedDeflect.rulePack.rulesStrings.18>deflected_consequence->[scraped_present] off [RECIPIENT_possessive] armor [adverb_deflected_opt]</Combat_RangedDeflect.rulePack.rulesStrings.18>
-  <Combat_RangedDeflect.rulePack.rulesStrings.19>scraped_past->ricocheted</Combat_RangedDeflect.rulePack.rulesStrings.19>
-  <Combat_RangedDeflect.rulePack.rulesStrings.20>scraped_present->ricocheting</Combat_RangedDeflect.rulePack.rulesStrings.20>
-  <Combat_RangedDeflect.rulePack.rulesStrings.21>missed->missed</Combat_RangedDeflect.rulePack.rulesStrings.21>
-  <Combat_RangedDeflect.rulePack.rulesStrings.22>missed->narrowly missed</Combat_RangedDeflect.rulePack.rulesStrings.22>
-
+	 <Combat_RangedDeflect.rulePack.rulesStrings>
+	  <li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] találata [damaged_past] ezt: [RECIPIENT_definite] [damaged_target] [deflected_result].</li>
+	  <li>r_logentry(p=2)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] [ORIGINALTARGET_definite] és [damaged_past] ezt: [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
+	  <li>r_logentry(p=0.2)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite][damaged_target_possessive_opt] ezzel: [WEAPON_projectile_label] [deflected_result].</li>
+	  <li>r_logentry(p=0.2)->[INITIATOR_definite] [WEAPON_projectile_label] eltalálta ezt: [RECIPIENT_definite] [damaged_target_possessive_opt] [deflected_result].</li>
+	  <li>r_logentry(p=0.4)->[INITIATOR_definite] lövése [missed] [ORIGINALTARGET_definite] és eltalálta ezt: [RECIPIENT_definite][damaged_target_possessive_opt] ezzel: [WEAPON_projectile_label] [deflected_result].</li>
+	  <li>r_logentry(p=0.4)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] [ORIGINALTARGET_definite] és eltalálta  ezt: [RECIPIENT_definite] [damaged_target_possessive_opt] [deflected_result].</li>
+	  <li>r_logentry(p=0.2)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite][damaged_target_possessive_opt] ezzel: [WEAPON_projectile_label], amit neki szánt: [ORIGINALTARGET_definite] [deflected_result].</li>
+	  <li>weapon_projectile_label(p=0.05)->lövedék</li>
+	  <li>damaged_target_possessive_opt-></li>
+	  <li>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->[RECIPIENT_part_damaged0_label]</li>
+	  <li>deflected_result-> [adverb_deflected]</li>
+	  <li>deflected_result->, [deflected_consequence]</li>
+	  <li>adverb_deflected_opt(p=4)-></li>
+	  <li>adverb_deflected_opt->[adverb_deflected]</li>
+	  <li>adverb_deflected->, ártalmatlanul</li>
+	  <li>adverb_deflected->, haszontalanul</li>
+	  <li>deflected_consequence->de [scraped_past] [adverb_deflected_opt]</li>
+	  <li>deflected_consequence->[scraped_present] a páncélzatról [adverb_deflected_opt]</li>
+	  <li>scraped_past->lepattant</li>
+	  <li>scraped_present->lepattan</li>
+	  <li>missed->elhibázta</li>
+	  <li>missed->kissé elhibázta</li>
+	</Combat_RangedDeflect.rulePack.rulesStrings>
+	
 	<Combat_RangedMiss.rulePack.rulesStrings>
 		<li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] [missed].</li>
 		<li>r_logentry->[INITIATOR_definite] elhibázta ezt: [ORIGINALTARGET_definite].</li>
