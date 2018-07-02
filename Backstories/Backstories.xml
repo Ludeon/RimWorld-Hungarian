@@ -247,8 +247,8 @@ Sosem ért rá magának főzni a sok meló miatt, inkább gyors-éttermekben eve
 		<desc>[PAWN_nameDef] egyszerű, szakértelmet nem igénylő munkákat végzett egy iparosodott világ gyárában. Munkája része volt a málhások és lovak gondozása, amik az árut szállították.</desc>
 	</FactoryWorker27>
 	<RanchOwner43>
-		<title>Farmer</title>
-		<titleShort>Farmer</titleShort>
+		<title>Gazda</title>
+		<titleShort>Gazda</titleShort>
 		<desc>[PAWN_nameDef] saját farmján tenyésztett állatokat húsukért és gyapjújukért.
 
 Sosem végezte a legegyszerűbb munkákat, mindig megfizetett valakit, hogy elvégezze azokat helyette.</desc>
@@ -706,8 +706,8 @@ Nem volt mit veszítenie, folytatta a kutatásait, és szolgákat hozott létre 
 		<desc>[PAWN_nameDef] ismert építőmérnök volt. A munkája része volt kőből készült erődítmények tervezése és építése. Sok statikai számítást végzett, amik élesen tartották az eszét.</desc>
 	</CivilEngineer23>
 	<FarmerBoy89>
-		<title>Farmer</title>
-		<titleShort>Farmer</titleShort>
+		<title>Gazda</title>
+		<titleShort>Gazda</titleShort>
 		<desc>Benjamin szülei hét évesen haltak meg egy tűzben. Nagybátyja farmján nőtt fel, földeket szántva és kétkezi munkát végezve.
 
 Sosem bírta a szüleire vonatkozó kérdéseket, ezért kemény munkával helyettesítette a társadalmi kapcsolatokat.</desc>
@@ -771,7 +771,9 @@ A hatóságok végül elengedték, annak fejében, hogy a kormány űrprogramjá
 	<CombatEngineer48>
 		<title>Utász</title>
 		<titleShort>Utász</titleShort>
-		<desc>[PAWN_nameDef] utász volt. Bázisokat épített, fegyvereket  és járműveket javított a hadsereg számára, már amikor nem emberekre lövöldözött.</desc>
+		<desc>[PAWN_nameDef] a hadsereg mérnöke volt, a haditengerészet űrhajóit fejlesztette. A kemény kiképzés megtanította neki, hogyan kell építeni és javítani katonai járműveket és épületeket.
+
+Egy küldetés után [PAWN_nameDef] pirofóbiás lett, és a növényektől is iszonyodni kezdett.</desc>
 	</CombatEngineer48>
 	<MechanoidNerd23>
 		<title>Mechanoid kocka</title>
@@ -784,101 +786,101 @@ Sajnos ez arra vezetett, hogy magányos maradt, mivel inkább a műszaki könyve
 	<MilitaryEngineer71>
 		<title>Katonai mérnök</title>
 		<titleShort>Mérnök</titleShort>
-		<desc>[PAWN_nameDef] worked as an engineer for a colonial military. [] got to play with weapons, murder-drones, and other 'fun' stuff.
+		<desc>[PAWN_nameDef] mérnökként dolgozott egy gyarmati hadseregnek. Eljátszadozhatott fegyverekkel, gyilkos drónokkal és egyéb "mókás" cuccokkal.
 
-[] specialized in repairing and modifying mechanoids' tools. Sometimes [] tested them [PAWN_objective]self.</desc>
+Mechanoid szerszámok javítására és fejlesztésére szakosodott. Néha saját magán tesztelte őket.</desc>
 	</MilitaryEngineer71>
 	<ColiseumCleaner54>
 		<title>Kolosszeumi takarító</title>
 		<titleShort>Takarító</titleShort>
-		<desc>During the 'Inner Destrian War' fallout, [PAWN_possessive] parents were captured and [] was born into a life of slavery. Forced to clean coliseums after bloody battles for money. Watching, waiting, and learning. Coliseums were the only thing [] ever knew. One night while cleaning the coliseum, [PAWN_possessive] family was murdered.</desc>
+		<desc>Szüleit elfogták, és rabszolgasorba kényszerítették a "Belső destriani háború" során. Véres gladiátor harcok után kellett kitakarítania. Figyelt, várakozott és tanult. A Kolosszeum volt az egyetlen dolog, amit valaha ismert. Egy éjszaka, takarítás közben meggyilkolták a családját.</desc>
 	</ColiseumCleaner54>
 	<ColiseumFighter12>
 		<title>Gladiátor</title>
 		<titleShort>Gladiátor</titleShort>
-		<desc>Applying the knowledge that he gained from years around fighters, [] became a successful gladiator in the coliseum that he once cleaned.</desc>
+		<desc>Az évek során a harcosok körében szerzett tudás alkalmazásával annak a Kolosszeumnak lett sikeres gladiátora, amelyet anno takarított.</desc>
 	</ColiseumFighter12>
 	<OfficerCadet81>
-		<title>Officer cadet</title>
-		<titleShort>Cadet</titleShort>
-		<desc>From a young age, Bashkire trained to be a leader of men. He enrolled in the Vanu Defense College when he was a boy and became proficient with a range of weapons and survival techniques.</desc>
+		<title>Tiszt kadét</title>
+		<titleShort>Kadét</titleShort>
+		<desc>Bashkire fiatal kora óta arra készült, hogy vezér legyen. Még kisfiúként beiratkozott a Vanu Védelmi Főiskolára, ahol számos fegyverrel és túlélési technikával megismerkedett.</desc>
 	</OfficerCadet81>
 	<FighterController64>
-		<title>Harci vezető</title>
-		<titleShort>Vezető</titleShort>
-		<desc>During the Zartha crisis, Bashkire fought across many worlds, providing the vital link between the ground and the air as a fighter controller. During the campaign, he saw friends injured and killed. This mental trauma haunts his dreams to this day, but his aim remains sharp.</desc>
+		<title>Harci irányító</title>
+		<titleShort>Irányító</titleShort>
+		<desc>A Zartha-válság idején Bashkire számos világban harcolt, a föld és a levegő közötti létfontosságú kapcsolatot biztosítva, harci irányítóként. A hadjárat során barátait megsebesítették és megölték. Ez a lelki trauma álmaiban kísért, de a célzása még mindig ugyanolyan kiváló.</desc>
 	</FighterController64>
 	<ReclusiveProdigy20>
 		<title>Visszavonult csodagyerek</title>
 		<titleShort>Csodagyerek</titleShort>
-		<desc>Growing up on a flourishing glitterworld afforded Holly the chance to fully devote herself to her studies.
+		<desc>Holly egy virágzó szupervilágban nőtt fel. Megvolt az lehetősége, hogy teljes mértékben tanulmányaival foglalkozzon.
 
-Having taken a keen interest in genetic modification and neural augmentation from a young age, she had little time (or desire) for a regular childhood.</desc>
+Fiatal kora óta a genetikai módosítások és idegi kiterjesztés iránt érdeklődött. Emiatt nagyon kevés ideje (vagy vágya) volt egy normális gyermekkorra.</desc>
 	</ReclusiveProdigy20>
 	<FerventResearcher2>
 		<title>Buzgó kutató</title>
 		<titleShort>Kutató</titleShort>
-		<desc>As a young adult, Holly was sure that her planet and its people were nearing their time of transcendence.
+		<desc>Fiatal felnőttként Holly biztos volt benne, hogy bolygója és népe közeledik a felemelkedés idejéhez.
 
-A firm belief that her research would be the catalyst drove her to increasingly alarming acts as bureaucrats and bioethics committees worked to stall her progress.</desc>
+Az a szilárd meggyőződés, hogy kutatása ennek katalizátora, egyre aggasztóbb tettekre sarkallta, miközben a bürokraták és a bioetikai bizottságok megpróbálták hátráltatni.</desc>
 	</FerventResearcher2>
 	<WarRefugee43>
-		<title>war refugee</title>
-		<titleShort>refugee</titleShort>
-		<desc>A war broke on out [PAWN_nameDef]'s home planet.
+		<title>Háborús menekült</title>
+		<titleShort>Menekült</titleShort>
+		<desc>Háború tört ki a [PAWN_nameDef] bolygóján.
 
-Gathering what little food and belongings they could, [PAWN_nameDef] and his father stole a ship and escaped into space.</desc>
+Összegyűjtve, ami kis ételt és holmit tudtak, [PAWN_nameDef] és az apja ellopott egy hajót, és elmenekült az űrbe.</desc>
 	</WarRefugee43>
 	<VengefulExplorer31>
-		<title>Bosszúálló Felfedező</title>
-		<titleShort>Felfedező</titleShort>
-		<desc>A violent drifter without a home, [PAWN_nameDef] and his father fought many battles across hundreds of years. [] became a grizzled fighter and crack shot.
+		<title>Bosszúálló csavargó</title>
+		<titleShort>Csavargó</titleShort>
+		<desc>Otthontalan erőszakos csavargóként, [PAWN_nameDef] és az apja több száz éven keresztül harcolt sok csatában. Őszülő harcossá vált és fegyverzsonglőrré.
 
-After his father's death in battle, [PAWN_nameDef] began exploring the stars alone, seeking his father's killer, on the hunt for revenge.</desc>
+Apja halála után [PAWN_nameDef] elkezdte felfedezni a csillagokat egyedül, keresve apja gyilkosát, bosszúra szomjasan.</desc>
 	</VengefulExplorer31>
 	<WorkCampSlave93>
 		<title>Munkatábori Rabszolga</title>
 		<titleShort>Rabszolga</titleShort>
-		<desc>[PAWN_nameDef] egy kölönösen csúnya nemes család rabszolgájaként nött fel egy középkori világban. 
+		<desc>[PAWN_nameDef] egy különösen undok nemesi család rabszolgájaként nőtt fel egy középkori világban. 
 		
-While he received no formal education, the harsh labor regimen made his body strong.</desc>
+Nem kapott formális oktatást, de a kemény munka megerősítette testét.</desc>
 	</WorkCampSlave93>
 	<BanishedSoldier50>
 		<title>Száműzött katona</title>
-		<titleShort>Számkivetett</titleShort>
-		<desc>[PAWN_nameDef] became the most physically intimidating of the slaves, spending his little free time obsessively sculpting his body. His efforts eventually paid off when the lord offered him a job as a personal bodyguard.
-		
-Later, when he plotted to use his position to kill the lord and free the slaves, he was discovered and barely escaped with his life.</desc>
+		<titleShort>Száműzött</titleShort>
+		<desc>[PAWN_nameDef] lett a fizikailag legmegfélemlítőbb rabszolga, aki minden szabadidejét testének megszállott gyúrásával töltötte. Erőfeszítései végül kifizetődtek, amikor az urasága személyi testőrnek alkalmazta.
+
+Később, amikor arra akarta használni pozícióját, hogy megölje a lordot és kiszabadítsa a rabszolgákat, lebukott, és alig tudott élve elmenekülni.</desc>
 	</BanishedSoldier50>
 	<DisciplinedFarmer44>
 		<title>Fegyelmezett Gazda</title>
 		<titleShort>Gazda</titleShort>
-		<desc>Drew was the younger of two sons on the family farm, a frontier plot that struggled to turn a profit. Drew's father was a strict disciplinarian, constantly at his sons to work harder and keep quiet. Drew burnt his hand making breakfast once and swore to cook only when his life was in danger.</desc>
+		<desc>Drew volt a fiatalabb két fiú közül a családi farmon, egy határ menti helyen, amely alig termelt hasznot. Drew apja szigorú fegyelmező volt, állandóan a fiai nyakán, hogy keményebben dolgozzanak és csöndben maradjanak. Drew egyszer megégette a kezét reggeli készítés közben, és megfogadta, hogy csak akkor főz, ha az élete múlik rajta.</desc>
 	</DisciplinedFarmer44>
 	<StalwartFarmer89>
-		<title>Stalwart farmer</title>
-		<titleShort>Farmer</titleShort>
-		<desc>With the farm under constant threat from brigands, [PAWN_nameDef] learned to defend himself with his father's rifle. [] also mastered how to construct walls to keep livestock in and predators out.
+		<title>Rendíthetetlen Gazda</title>
+		<titleShort>Gazda</titleShort>
+		<desc>A rablóktól folyamatosan veszélyeztetett farmon [PAWN_nameDef] megtanulta megvédeni magát apja puskájával. Azt is elsajátította, hogyan építsen falakat, hogy benn tartsa állatait és a kinn a ragadozókat.
 
-He once tried to paint a picture of his home, but discovered that he could only draw scribbles and ducks.</desc>
+Egyszer megpróbált festeni egy képet az otthonáról, de rájött, hogy firkálni és kacsát rajzolni tud.</desc>
 	</StalwartFarmer89>
 	<VoyagerChild68>
 		<title>Voyager child</title>
 		<titleShort>Voyager</titleShort>
-		<desc>[PAWN_nameDef] was raised on an R&amp;D starship, and spent most of [PAWN_possessive] childhood travelling through the void.
+		<desc>[PAWN_nameDef] egy R&amp;D csillaghajón nevelkedett, és gyermekkorának nagy részét az űrben utazva töltötte.
 
-Approaching a mysterious planetoid, the ship was severely damaged. [PAWN_possessive] next memory is of the ship heading out of orbit, fully repaired. [] soon developed an unnatural gift for technological research.</desc>
+Egy rejtélyes kisbolygóhoz közeledve a hajó súlyosan megsérült. Következő emléke, hogy a hajó a keringő pályát elhagyja, teljesen megjavítva. Hamarosan természetellenes tehetséget fedezett fel magában a technológiai kutatás iránt.</desc>
 	</VoyagerChild68>
 	<SpaceResearcher22>
-		<title>Space researcher</title>
-		<titleShort>Researcher</titleShort>
-		<desc>[PAWN_nameDef] inherited [PAWN_possessive] parents' ship and carried on their research.
+		<title>Űrkutató</title>
+		<titleShort>Űrkutató</titleShort>
+		<desc>[PAWN_nameDef] örökölte szülei hajóját, és folytatta kutatásaikat.
 
-[PAWN_possessive] childhood experiences with diverse cultures allowed [PAWN_objective] to preserve his caring nature despite spending most of [PAWN_possessive] life isolated in space.</desc>
+Gyermekkori tapasztalatai a különböző kultúrákkal lehetővé tették számára, hogy megőrizze gondoskodó természetét, annak ellenére, hogy életének legnagyobb részét az űrben elszigetelve töltötte.</desc>
 	</SpaceResearcher22>
 	<VatgrownMedic46>
-		<title>Vatgrown medic</title>
-		<titleShort>Medic</titleShort>
+		<title>Medikus klón</title>
+		<titleShort>Medikus</titleShort>
 		<desc>Raised to be a combat medic, [PAWN_nameDef] was trained in firearms as well as medicine. His favorite phrase when coming upon a wounded soldier was "Life or death?" Most chose life.</desc>
 	</VatgrownMedic46>
 	<GeneticScientist4>
@@ -1608,7 +1610,7 @@ Though [] mostly controlled his competition by masterful political maneuvering, 
 	<CombatEngineer4>
 		<title>Utász</title>
 		<titleShort>Utász</titleShort>
-		<desc>[PAWN_nameDef] became a combat engineer. [] built bases, fixed guns, and repaired vehicles for the army - when [] wasn't shooting at people, that is.</desc>
+		<desc>[PAWN_nameDef] utász volt. Bázisokat épített, fegyvereket  és járműveket javított a hadsereg számára, már amikor nem emberekre lövöldözött.</desc>
 	</CombatEngineer4>
 	<PrivilegedProdigy55>
 		<title>Privileged prodigy</title>
