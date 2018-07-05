@@ -5,7 +5,8 @@
   <Blueprint_Sandbags.label>homokzsák (tervrajz)</Blueprint_Sandbags.label>
   <Frame_Sandbags.label>homokzsák (építmény)</Frame_Sandbags.label>
   <Frame_Sandbags.description>Fedezék lövések ellen.</Frame_Sandbags.description>
-  <Turret_MiniTurret.label>robotágyú</Turret_MiniTurret.label>
+ 
+ <Turret_MiniTurret.label>robotágyú</Turret_MiniTurret.label>
   <Turret_MiniTurret.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</Turret_MiniTurret.description>
   <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>Csőcseréig tüzel</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
   <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>Cső állapot</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
@@ -18,6 +19,21 @@
   <Gun_MiniTurret.label>robotágyú</Gun_MiniTurret.label>
   <Gun_MiniTurret.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</Gun_MiniTurret.description>
   <Gun_MiniTurret.verbs.Verb_Shoot.label>robotágyú</Gun_MiniTurret.verbs.Verb_Shoot.label>
+  
+  <!-- Sniper turret -->
+  
+  <Turret_Sniper.label>mesterlövész ágyú</Turret_Sniper.label>
+  <Turret_Sniper.description>Nagy hatótávú mesterlövész ágyú. Nagy sebességű lövedéke súlyos sebeket ejt nagy távolságra lévő célpontokon, ám sűrűn kell cserélni a csövét, ami drága. Közelre nem tüzel. Ha megsérül, felrobbanhat.</Turret_Sniper.description>
+  <Turret_Sniper.comps.CompRefuelable.fuelLabel>Csőcseréig tüzel</Turret_Sniper.comps.CompRefuelable.fuelLabel>
+  <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>Cső állapot</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>Nem lő: csőcsere kell</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
+  <Bullet_TurretSniper.label>robotágyú lőszer </Bullet_TurretSniper.label>
+  <Gun_TurretSniper.label>robotágyú</Gun_TurretSniper.label>
+  <Gun_TurretSniper.description>Öntöltő mesterlövész puska, automata toronyra szerelhető.</Gun_TurretSniper.description>
+  <Gun_TurretSniper.verbs.Verb_Shoot.label>mesterlövész ágyú</Gun_TurretSniper.verbs.Verb_Shoot.label>
+  
+  
+   
    <!-- Autocannon turret -->
 
   <Turret_Autocannon.label>nehéz robotágyú</Turret_Autocannon.label>

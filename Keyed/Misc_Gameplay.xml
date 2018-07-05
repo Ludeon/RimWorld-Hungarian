@@ -5,6 +5,13 @@
   <Watermill_WaterUsedTwice>Áramlat gyengült: egy másik vízikerék turbulenciája</Watermill_WaterUsedTwice>
   <HitPointsBasic>életerő</HitPointsBasic>
   <WorkLeft>Hátralévő munka</WorkLeft>
+  <Carried>cipelt</Carried>
+  <ProgressToNextPortion>Haladás a köv. adagig(???)</ProgressToNextPortion>
+  <BeCarriedIfSickTip>Cipelhetik-e ezt az személyt vagy állatot más karavántagok betegség esetén.\n\nCipelt tagok pihenhetnek akkor is, ha a karaván mozog, ám lelassítják azt.</BeCarriedIfSickTip>
+  <UsingBedroll>1 hálózsákot használ</UsingBedroll>
+  <UsingBedrolls>{0} hálózsákot használ</UsingBedrolls>
+  <BeingCarriedDueToIllness>Betegség miatt cipelik</BeingCarriedDueToIllness>
+  <UsingBedrollsDueToIllness>Betegség miatt hálózsákban</UsingBedrollsDueToIllness>
   <Contents>Tartalom</Contents>
   <ContainedResources>Tartalmazott anyagok</ContainedResources>
   <ForPrisonerUse>Fogoly számára</ForPrisonerUse>
@@ -159,7 +166,7 @@
   <Refugee>Menekült</Refugee>
   <HiddenOrNoSitePartDescription>ez a hely veszélyt rejthet</HiddenOrNoSitePartDescription>
   <PreciousLumpLabel>{0} telér</PreciousLumpLabel>
-  <EnemiesCount>{0} ellenség</EnemiesCount>  
+  <!-- <EnemiesCount>{0} ellenség</EnemiesCount>   -->
   
   
   
