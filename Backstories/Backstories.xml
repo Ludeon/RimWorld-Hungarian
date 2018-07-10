@@ -1539,80 +1539,84 @@ Egy napon anya azt mondta, hogy az utolsó próbája a piros ajtón túl van, é
 	<SpaceshipSalesman6>
 		<title>Űrkereskedő</title>
 		<titleShort>Kereskedő</titleShort>
-		<desc>Duster tried his hand at various jobs, including building space rabbit cages and working at a mutant wheat research project. Finally, he found his true calling as a spacecraft salesman. Specializing in recreational spacecraft, his smooth talk and charming nature served him well.</desc>
+		<desc>Duster sok munkakörben kipróbálta magát, beleértve az űrnyúl ketrecek építését és egy mutáns búza kutatási projektben való részvételt is. Végül megtalálta valódi hívatását, mint űrhajó kereskedő. Szabadidős űrhajókra szakosodott, simulékony szövege és sármja remekül szolgálta.</desc>
 	</SpaceshipSalesman6>
 	<TechEnthusiast65>
 		<title>Tech rajongó</title>
 		<titleShort>Kocka</titleShort>
-		<desc>Michael had all the latest gadgets as a child. He spent all his time playing games with AIs instead of with other children. He always felt awkward around new people.</desc>
+		<desc>Michael-nek gyerekként minden kütyü megvolt. Idejét mesterséges intelligenciák elleni játékkal töltötte, ahelyett, hogy a többi gyerekkel lett volna. Mindig is kényelmetlenül érezte magát emberek között.</desc>
 	</TechEnthusiast65>
 	<AIProgrammer85>
 		<title>MI programozó</title>
 		<titleShort>Programozó</titleShort>
-		<desc>Michael enlisted in the military's robotics division, developing smarter combat AI.
+		<desc>Michael-t a hadsereg robotika részlegéhez sorozták be, hogy jobb harci intelligenciákat fejlesszen.
 
-The whole time he was there, he never spoke with another human. He spent all his time conversing with the AI he was developing.</desc>
+Minden idejét ott töltötte, soha nem beszélt emberekkel. Csak az általa fejlesztett MI-vel volt kapcsolata.
+</desc>
 	</AIProgrammer85>
 	<DiplomatsChild81>
 		<title>Diplomaták gyermeke</title>
 		<titleShort>Diplomata</titleShort>
-		<desc>[PAWN_nameDef] was born in diplomatic family.
+		<desc>[PAWN_nameDef] diplomata családba született.
 
-Travelling often, he was home-schooled and saw the world mostly through a computer.</desc>
+Sokat utazott, magántanuló volt és a világot csak egy számítógépen keresztül láthatta.</desc>
 	</DiplomatsChild81>
 	<WhiteHatHacker82>
 		<title>Etikus hacker</title>
 		<titleShort>Hacker</titleShort>
-		<desc>From his computer, [PAWN_nameDef] helped rid the online world of bad people.</desc>
+		<desc>[PAWN_nameDef] számítógépével segített megszabadulni az online világ rossztevőitől.</desc>
 	</WhiteHatHacker82>
 	<Winerunner41>
 		<title>Borbeszerző</title>
 		<titleShort>Borbeszerző</titleShort>
-		<desc>Abandoned by his parents, [PAWN_nameDef] was raised by the monks of the Novo Mosteiro dos Jerónimos monastery on Aracena VI.
+		<desc>Szüleitől elhagyatva, [PAWN_nameDef] a Novo Mosteiro dos Jerónimos kolostor szerzetesei között nőtt fel az Aracena VI-on.
 
-The monks taught him discipline and hard work. In return, he would go into the city and 'acquire' exotic wines for the monks' nightly tastings.</desc>
+Megtanították a fegyelemre és a kemény munkára, cserébe szerzett a barátoknak egzotikus bort a városból, az éjszakai italozásokhoz.
+</desc>
 	</Winerunner41>
 	<VinhoKing12>
 		<title>Borkirály</title>
 		<titleShort>Borkirály</titleShort>
-		<desc>After prohibition came to Aracena VI, [PAWN_nameDef] expanded his underground liquor business until it dominated the market on two continents. They called him the Vinho King.
+		<desc>Miután bevezették a szesztilalmat az Aracena VI-en, [PAWN_nameDef] kiterjesztette földalatti likőr hálózatát, végül ő uralta két kontinens piacát is. Borkirálynak nevezték el.
 
-Though he mostly controlled his competition by masterful political maneuvering, he was not above the occasional beat-down or stiletto assassination.</desc>
+Bár versenytársait többnyire mesteri politikai manőverezésével tartotta kordában, nem vetette meg verés vagy bérgyilkos alkalmazását sem.</desc>
 	</VinhoKing12>
 	<StreetChild0>
 		<title>Utcagyerek</title>
 		<titleShort>Utcagyerek</titleShort>
-		<desc>[PAWN_nameDef]'s drug addict mother died, leaving him an orphan at a young age. To stay alive, he resorted to theft, and when necessary, prostitution. When [PAWN_nameDef] was caught stealing from a church, the priestess saw a wounded but smart child, and took him in to give him a second chance at life.</desc>
+		<desc>[PAWN_nameDef] drogfüggő anyja halála miatt már fiatal korban elárvult. Hogy életben maradjon, lopott és szükség esetén a testét is árulta. Amikor [PAWN_nameDef] lebukott egy templom kirablásánál, a papnő egy sérült, de okos gyermeket látott benne, és befogadta, hogy adjon neki egy második esélyt az életre.</desc>
 	</StreetChild0>
 	<SlaveChemist84>
 		<title>Vegyész rabszolga</title>
 		<titleShort>Vegyész</titleShort>
-		<desc>[PAWN_nameDef] became a gifted pharmaceutical scientist, but was captured by slavers. he was sold to a warlord and forced to create drugs to test on other slaves. This left him with deep and troubling questions on the ethics of scientific research and medicine.</desc>
+		<desc>[PAWN_nameDef] tehetséges gyógyszerész kutató lett, de rabszolgatartók elfogták. Átadták egy hadúrnak, és arra kényszerítettek, hogy kábítószereket hozzon létre, amiket más rabszolgákon teszteltek. Ez aggasztó kérdéseket vetett fel benne a tudományos kutatás és gyógyászat etikájával kapcsolatban.</desc>
 	</SlaveChemist84>
 	<SlaveFarmer35>
 		<title>Földműves rabszolga</title>
 		<titleShort>Rabszolga</titleShort>
-		<desc>Abandoned as a little girl, [PAWN_nameDef] was found by a farmer. Being infertile himself, the farmer kept her as a slave. The constant beatings left her scarred and unable to handle violence. After many years, she ran away.</desc>
+		<desc>Kislányként elhagyatva [PAWN_nameDef] egy farmerhez került. Mivel nem lehetett gyermeke, a gazda megtartotta őt rabszolgának. A folyamatos verések miatt lelki sérült lett, aki képtelen kezelni az erőszakot. Sok év után szökött meg.</desc>
 	</SlaveFarmer35>
 	<RocketEngineer31>
 		<title>Rakéta mérnök</title>
 		<titleShort>Mérnök</titleShort>
-		<desc>[PAWN_nameDef] won a grant to a top school and earned a degree in rocket engineering. After several years working for a space mining company she left to travel and see the universe.</desc>
+		<desc>[PAWN_nameDef] felvételt nyert egy elit iskolába, és diplomát szerzett rakétatechnikából. Több évet töltött egy űrbányászati ​​cégnél, majd elindult utazni és világot látni.
+		</desc>
 	</RocketEngineer31>
 	<MedievalSlave34>
 		<title>Középkori rabszolga</title>
 		<titleShort>Rabszolga</titleShort>
-		<desc>Born into slavery, Soren never knew his parents. He eventually escaped from his masters and boarded a military cargo ship, where he was pressed into military service.</desc>
+		<desc>A rabszolgaságba született Soren sosem ismerte szüleit. Végül kiszabadult gazdái kezei közül, és egy katonai szállítóhajóra szállt, ahol katonai szolgálatra kényszerítették.</desc>
 	</MedievalSlave34>
 	<SpaceMarine27>
 		<title>Tengerész</title>
 		<titleShort>Tengerész</titleShort>
-		<desc>Soren joined a squad of space marines known for their brutal efficiency at killing. His last name and his lack of emotion during combat inspired his nickname: Grim.</desc>
+		<desc>Soren csatlakozott egy tengerész szakaszhoz, akiket brutális gyilkolási hatékonyságukról ismertek. Keresztneve és érzelemmentes harcmodora ihlette becenevét: Zord.</desc>
 	</SpaceMarine27>
 	<FoundryApprentice76>
 		<title>Öntő inas</title>
 		<titleShort>Öntő</titleShort>
-		<desc>[PAWN_nameDef] grew up as an apprentice in the foundries of an industrial world. This experience gave him metalworking skills and strong muscles, but stunted his artistic development.</desc>
+		<desc>[PAWN_nameDef] egy ipari világ öntödéiben nőtt fel inasként. Tapasztalt kováccsá vált és erős izomzatú lett, de a művészi fejlődése visszamaradt.
+		</desc>
 	</FoundryApprentice76>
 	<CombatEngineer4>
 		<title>Utász</title>
@@ -1621,67 +1625,70 @@ Though he mostly controlled his competition by masterful political maneuvering, 
 	</CombatEngineer4>
 	<PrivilegedProdigy55>
 		<title>Kiváltságos csodagyerek</title>
-		<titleShort>Ssodagyerek</titleShort>
-		<desc>[PAWN_nameDef] was recognized as gifted early in his glitterworld upbringing. Luckily, his family was in a position to cultivate that genius through advanced education. his training included science, leadership, and the arts.</desc>
+		<titleShort>Csodagyerek</titleShort>
+		<desc>[PAWN_nameDef] tehetségét már szupervilági nevelésének korai szakaszában felismerték. Szerencsére családja olyan helyzetben volt, hogy megfelelően fejleszthették képességeit magas szintű oktatással. A tudomány, a vezetés és a művészet terén is kiművelték.</desc>
 	</PrivilegedProdigy55>
 	<PlanetaryDiplomat7>
 		<title>Bolygóközi diplomata</title>
 		<titleShort>Diplomata</titleShort>
-		<desc>[PAWN_nameDef]'s passion and profession was interplanetary politics. he was a master of social manipulation and negotiation and devoted himself to working towards peace, compromise and mutual benefit.</desc>
+		<desc>[PAWN_nameDef] szenvedélye és szakmája a bolygóközi politika volt. A társadalmi manipuláció és tárgyalás mestere volt. A békének, kompromisszumnak és kölcsönös előnyöknek szentelte életet.</desc>
 	</PlanetaryDiplomat7>
 	<PrivilegedChild4>
 		<title>Kiváltságos gyermek</title>
 		<titleShort>Kiváltságos</titleShort>
-		<desc>Born to an upper-class family, [PAWN_nameDef] grew up with all the best things - the best education, the best social contacts, and of course the best technology money could buy.
+		<desc>Egy felső tízezerhez tartozó családba születve, [PAWN_nameDef] a legjobb dolgokkal volt körülvéve - a legjobb neveléssel, a legjobb társadalmi kapcsolatokkal, és természetesen a legjobb elérhető technológiákkal.
 
-Unfortunately, living in such decadence left [PAWN_nameDef] rather spoiled when it came to labor.</desc>
+Sajnálatos módon ez a dekadencia meglehetősen elkényeztette őt, amikor munkáról volt szó.</desc>
 	</PrivilegedChild4>
 	<Guardian97>
-		<title>Védelmező</title>
-		<titleShort>Védelmező</titleShort>
-		<desc>After he learned what truly matters in life, [PAWN_nameDef] changed for the better. he learned to work hard and protect the things that matter - not money or material things, but friends and loved ones.
+		<title>Oltalmazó</title>
+		<titleShort>Oltalmazó</titleShort>
+		<desc>Miután rájött, mi számít igazán az életben, [PAWN_nameDef] megjavult. Megtanult keményen dolgozni és megvédeni a fontos dolgokat - nem a pénzt vagy az anyagias dolgokat, hanem a barátokat és szeretteket.
 
-he became a professional guardian.</desc>
+Hivatásos oltalmazó lett.
+</desc>
 	</Guardian97>
 	<ChildProdigy22>
 		<title>Csodagyerek</title>
 		<titleShort>Csodagyerek</titleShort>
-		<desc>After graduating college at age twelve, Jered devoted his life to becoming immortal.  However his research crossed the line when he tried to modify his body using gene therapy and mechanical augmentation.  He was arrested and condemned to a prison planet.</desc>
+		<desc>Miután tizenkét évesen végzett a főiskolán, Jered arra tette fel az életet, hogy halhatatlanná válik. A kutatása átlépett egy határt, amikor testét génterápiával és mechanikával is megpróbálta módosítani. Letartóztatták és egy börtönbolygóra került.
+		</desc>
 	</ChildProdigy22>
 	<RenegadeEngineer65>
 		<title>Renegát mérnök</title>
 		<titleShort>Mérnök</titleShort>
-		<desc>After a daring escape from the prison planet with a small crew of fellow inmates, Jered set his gaze on his homeworld.
+		<desc>Miután merész tervvel sikerült elmenekülnie a börtönbolygóról néhány társával együtt, Jered hazatért.
 
-He travelled there, recruited more followers, hijacked a space cruiser, and launched into the void.</desc>
+Követőket toborzott, eltérített egy űrcirkálót, és elindult a végtelen űrbe.
+</desc>
 	</RenegadeEngineer65>
 	<BoneCollector52>
-		<title>Csontgyűjtő</title>
+		<title>Kincsvadász</title>
 		<titleShort>Tanítvány</titleShort>
-		<desc>Born to a family of fortune hunters, [PAWN_nameDef] always had a passion for ancient history.
+		<desc>Kincsvadászok családjába születve, [PAWN_nameDef] mindig is imádta az ősi történelmet.
 
-Though never a tough or social boy, he loved to dig through history books as well as dirt piles.</desc>
+Bár soha nem volt vagány vagy barátkozó fiú, a történelemkönyveket éppúgy szerette bújni, mint a szemétdombokat túrni.</desc>
 	</BoneCollector52>
 	<Osteologist66>
 		<title>Oszteológus</title>
 		<titleShort>Tudós</titleShort>
-		<desc>After graduating university at the top of his class, [PAWN_nameDef] quickly became a well-known and athletic college professor.
+		<desc>Osztályelsőként diplomázva az egyetemen, [PAWN_nameDef] gyorsan elismert és sportos egyetemi professzor lett.
 
-With his new found fame and fitness came a sudden reluctance to preform menial labor - such tasks are better left to graduate students.</desc>
+Újonnan felfedezett hírnevével és fittségével hirtelen vonakodni kezdett a kétkezi munkától - az ilyen feladatokat inkább a végzős hallgatókra hagyta.</desc>
 	</Osteologist66>
 	<GNomeSculptor45>
 		<title>G-nome szobrász</title>
 		<titleShort>Szobrász</titleShort>
-		<desc>[PAWN_nameDef] was engineered in a lab as part of the G-nome Project. He was implanted at birth with encyclopedic knowledge of all aspects of xenobiology.
+		<desc>[PAWN_nameDef] egy laborban készült a G-nome projekt részeként. A születéskor beültették neki a xenobiológiával kapcsolatos összes enciklopédikus tudást.
 
-The G-nome scientists nicknamed him Gizmo and occupied him with sculpting. He developed a love of sculpting gnomes and gnome accessories.</desc>
+A G-nome tudósai Gizmónak becézték és szobrászattal foglalták le. Imádott kerti törpéket faragni.</desc>
 	</GNomeSculptor45>
 	<Gnomebiologist50>
 		<title>G-nome biológus</title>
 		<titleShort>Biológus</titleShort>
-		<desc>Gizmo was a xenobiology professor in a glitterworld university. He went to conferences and managed an art gallery.
+		<desc>Gizmo a xenobiológia professzora volt egy szupervilági egyetemen. Konferenciákat látogatott és művészeti galériát vezetett.
 
-However, he never stopped sculpting yard gnomes, and considers this to be his true profession.</desc>
+Soha nem hagyta abba a kerti törpék faragását, és úgy véli, hogy ez igazi hivatása.</desc>
 	</Gnomebiologist50>
 	<CircusPerformer87>
 		<title>Cirkuszi előadó</title>
