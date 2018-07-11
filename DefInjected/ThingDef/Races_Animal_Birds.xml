@@ -3,6 +3,7 @@
   <Cassowary.label>kazuár</Cassowary.label>
   <Cassowary.description>Nagyméretű röpképtelen madár, színes tollakkal. Gyönyörűen néz ki, ám keményet rúg.</Cassowary.description>
   <Cassowary.tools.claws.label>karom</Cassowary.tools.claws.label>
+  <Cassowary.tools.beak.label>csőr</Cassowary.tools.beak.label>
   <Cassowary.tools.head.label>fej</Cassowary.tools.head.label>
   <Cassowary.race.meatLabel>madárhús</Cassowary.race.meatLabel>
 <!--   <Cassowary_Leather.label>kazuárbőr</Cassowary_Leather.label> -->
@@ -16,17 +17,18 @@
   <Emu.description>Nagy, röpképtelen madár, ronda fején gombszerű szemekkel. Rossz viselkedése miatt kiérdemli az "állatvilág suttyója" címet.</Emu.description>
   <Emu.tools.claws.label>karom</Emu.tools.claws.label>
   <Emu.tools.head.label>fej</Emu.tools.head.label>
-  
+   <Emu.tools.beak.label>csőr</Emu.tools.beak.label>
 <!--   <Emu_Leather.label>emubőr</Emu_Leather.label> -->
 <!--   <Emu_Leather.description>Egy emu bőre.</Emu_Leather.description> -->
 <!--   <Emu_Leather.stuffProps.stuffAdjective>emubőr</Emu_Leather.stuffProps.stuffAdjective> -->
   <Corpse_Emu.label>emu tetem</Corpse_Emu.label>
   <Corpse_Emu.description>Egy emu teteme.</Corpse_Emu.description>
+  
   <Ostrich.label>strucc</Ostrich.label>
   <Ostrich.description>A legnagyobb természetes madárfaj. A strucc gyors futásáról, óriási tojásáról és erős rúgásáról ismert.</Ostrich.description>
   <Ostrich.tools.claws.label>karom</Ostrich.tools.claws.label>
   <Ostrich.tools.head.label>fej</Ostrich.tools.head.label>
- 
+  <Ostrich.tools.beak.label>csőr</Ostrich.tools.beak.label>
 <!--   <Ostrich_Leather.label>struccbőr</Ostrich_Leather.label> -->
 <!--   <Ostrich_Leather.description>Egy strucc bőre.</Ostrich_Leather.description> -->
 <!--   <Ostrich_Leather.stuffProps.stuffAdjective>struccbőr</Ostrich_Leather.stuffProps.stuffAdjective> -->
@@ -36,7 +38,7 @@
   <Turkey.description>Kicsi, kövér, röpképtelen madár, mely vicces turbékolásáról ismert. Régóta háziasított, de vadon is él.</Turkey.description>
   <Turkey.tools.claws.label>karom</Turkey.tools.claws.label>
   <Turkey.tools.head.label>fej</Turkey.tools.head.label>
-  
+  <Turkey.tools.beak.label>csőr</Turkey.tools.beak.label>
 <!--   <Turkey_Leather.label>pulykabőr</Turkey_Leather.label> -->
 <!--   <Turkey_Leather.description>Egy pulyka bőre.</Turkey_Leather.description> -->
 <!--   <Turkey_Leather.stuffProps.stuffAdjective>pulykabőr</Turkey_Leather.stuffProps.stuffAdjective> -->

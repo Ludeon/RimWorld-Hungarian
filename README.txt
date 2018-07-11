@@ -12,6 +12,7 @@ Translators:
 ---------------------
 - pluhi
 - Laoka25
+- mosszo
 
 Some text used from the old partial translation created by:
 - Jamesgt
@@ -28,7 +29,7 @@ Status:
 -LanguageInfo.xml                      [Translated]
 ---------------------
 
-Game version: 1.0.1957
+Game version: 1.0.1961
 
 
 ==================================================================================================================================================================
