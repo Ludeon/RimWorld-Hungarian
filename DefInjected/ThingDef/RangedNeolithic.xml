@@ -3,6 +3,7 @@
   <Arrow_Short.label>nyíl</Arrow_Short.label>
   <Bow_Short.label>íj</Bow_Short.label>
   <Bow_Short.description>Egyszerű íj, aminek előállításához alacsony fejlettség, ám sok ügyesség szükséges.</Bow_Short.description>
+  <Bow_Short.tools.limb.label>kar</Bow_Short.tools.limb.label>
   <Bow_Short.verbs.Verb_Shoot.label>íj</Bow_Short.verbs.Verb_Shoot.label>
  
   <Pilum_Thrown.label>dobódárda</Pilum_Thrown.label>
@@ -17,10 +18,12 @@
 
   <Bow_Recurve.label>reflex íj</Bow_Recurve.label>
   <Bow_Recurve.description>Fejlett reflex íj. Felépítésének köszönhetően hatékonyabban tárolja az energiát, így nagyobb erővel lövi ki a nyilat.</Bow_Recurve.description>
+  <Bow_Recurve.tools.limb.label>kar</Bow_Recurve.tools.limb.label>
   <Bow_Recurve.verbs.Verb_Shoot.label>reflex íj</Bow_Recurve.verbs.Verb_Shoot.label>
   
   <Arrow_Great.label>nyíl</Arrow_Great.label>
   <Bow_Great.label>hosszúíj</Bow_Great.label>
   <Bow_Great.description>Erős hosszúíj. Nagyobb nyilat tud messzebb lőni.</Bow_Great.description>
+  <Bow_Great.tools.limb.label>kar</Bow_Great.tools.limb.label>
   <Bow_Great.verbs.Verb_Shoot.label>hosszúíj</Bow_Great.verbs.Verb_Shoot.label>
 </LanguageData>

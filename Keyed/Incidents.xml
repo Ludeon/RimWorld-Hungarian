@@ -69,11 +69,8 @@
   <MessageAnimalInsanityPulse>Egy ősi építmény pszichotikus hullámot bocsátott ki magából, amitől a közelben lévő állatok megvadultak.</MessageAnimalInsanityPulse>
   <LetterShipPartDroveColonistInsane>A lezuhant hajó egy darabja koncentrált pszichotikus hullámot bocsátott ki, ettől {0} megőrült.</LetterShipPartDroveColonistInsane>
   <AwokeDaysAgo>{0} napja ébren</AwokeDaysAgo>
+  
   <PsychicDroneLevel>Pszichotikus hullám szintje: {0}</PsychicDroneLevel>
-  <PsychicDroneLevelLow>Alacsony</PsychicDroneLevelLow>
-  <PsychicDroneLevelMedium>Közepes</PsychicDroneLevelMedium>
-  <PsychicDroneLevelHigh>Magas</PsychicDroneLevelHigh>
-  <PsychicDroneLevelExtreme>Extrém</PsychicDroneLevelExtreme>
   <LetterLabelPsychicDroneLevelIncreased>Hullámok erősödnek</LetterLabelPsychicDroneLevelIncreased>
   <LetterPsychicDroneLevelIncreased>A lezuhant hajó darabja erősebb hullámokat kezdett kibocsájtani. Minden ember zavartabb, ijedtebb, paranoidabb lett.</LetterPsychicDroneLevelIncreased>
 
@@ -83,7 +80,7 @@
 
   <!-- Distant psychic drone -->
   <LetterLabelPsychicDrone>Pszichotikus hullámok</LetterLabelPsychicDrone>
-  <LetterIncidentPsychicDrone>A {0} gyarmatosok fájdalomtól rezzennek össze!\n\nValami gyűlöletgenerátor dolgozik a távolban. Erős pszichotikus hullámot bocsájt ki az egész régióra, olyan frekvencián, ami csak a {0} nemet érinti. Némelyek hangulata igencsak rosszabb lesz pár napig.</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>A {0} gyarmatosok fájdalomtól rezzennek össze!\n\nValami gyűlöletgenerátor dolgozik a távolban. Erős pszichotikus hullámot bocsájt ki az egész régióra, olyan frekvencián, ami csak a {0} nemet érinti. Némelyek hangulata igencsak rosszabb lesz pár napig.\n\nA hullám erőssége: {1}.</LetterIncidentPsychicDrone>
 
   <LetterLabelPsychicSoothe>Pszichotikus nyugalom</LetterLabelPsychicSoothe>
   <LetterIncidentPsychicSoothe>A {0} gyarmatosok elégedetten mosolyognak!\n\nValami boldogsággenerátor dolgozik a távolban. Erős pszichotikus hullámot bocsájt ki az egész régióra, olyan frekvencián, ami csak a {0} nemet érinti. Némelyek hangulata igencsak jobb lesz pár napig.</LetterIncidentPsychicSoothe>

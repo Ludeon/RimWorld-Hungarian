@@ -11,8 +11,12 @@
   <MeleeWeapon_AverageArmorPenetration.label>közelharci védelem átütés</MeleeWeapon_AverageArmorPenetration.label>
   <MeleeWeapon_AverageArmorPenetration.description>Átlagos védelem átütés közelharcban.</MeleeWeapon_AverageArmorPenetration.description>
   
-  <ShootingAccuracy.label>lövési pontosság</ShootingAccuracy.label>
-  <ShootingAccuracy.description>Találat esélye százalékban.</ShootingAccuracy.description>
+  <ShootingAccuracyTurret.label>lövési pontosság</ShootingAccuracyTurret.label>
+  <ShootingAccuracyTurret.description>Cellában kifejezett lőtávra vonatkozó találati esély. A találat esélyét sok más tényező is befolyásolja. Ennek kifejtett magyarázata megtekinthető, ha kiválasztjuk a lövészt és a célpont fölé visszük az egeret.</ShootingAccuracyTurret.description>
+   <ShootingAccuracyPawn.label>lövési pontosság</ShootingAccuracyPawn.label>
+  <ShootingAccuracyPawn.description>Cellában kifejezett lőtávra vonatkozó találati esély. A találat esélyét sok más tényező is befolyásolja. Ennek kifejtett magyarázata megtekinthető, ha kiválasztjuk a lövészt és a célpont fölé visszük az egeret.</ShootingAccuracyPawn.description>
+  
+  
   <AimingDelayFactor.label>célzásidő</AimingDelayFactor.label>
   <AimingDelayFactor.description>Mennyi ideig tart befogni a célpontot.</AimingDelayFactor.description>
 </LanguageData>
