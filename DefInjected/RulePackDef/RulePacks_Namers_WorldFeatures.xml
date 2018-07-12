@@ -64,7 +64,7 @@
 		<li>story_result->összeomlása</li>
 		<li>story_result->végzete</li>
 		<li>story_result->bukása</li>
-		<li>story_result->end</li>
+		<li>story_result->vége</li>
 		<li>story_result->visszavonulása</li>
 		<li>story_result->vívmánya</li>
 		<li>story_result->fináléja</li>
@@ -76,46 +76,46 @@
 	</WorldFeatureNamerCommon.rulePack.rulesStrings>
 
 	<NamerMountainRange.rulePack.rulesStrings>
-		<li>standardname(p=0.2)->hegy [narrative_name]</li>
+		<li>standardname(p=0.2)->[narrative_name] hegy</li>
 		<li>terrain_word(p=5)->hegység</li>
-		<li>terrain_word(p=2)->legelő</li>
+		<li>terrain_word(p=2)->régió</li>
 		<li>terrain_word->csúcsok</li>
 		<li>terrain_word->dombság</li>
 		<li>terrain_word->hegység</li>
 	</NamerMountainRange.rulePack.rulesStrings>
 
 	<NamerArchipelago.rulePack.rulesStrings>
-		<li>standardname(p=0.2)->sziget [narrative_name]</li>
+		<li>standardname(p=0.2)->[narrative_name] sziget</li>
 		<li>terrain_word(p=4)->szigetek</li>
 		<li>terrain_word(p=3)->szigetek</li>
 		<li>terrain_word(p=3)->szigetvilág</li>
 		<li>terrain_word->zátony</li>
 		<li>terrain_word->atoll</li>
 		<li>terrain_word->sziklák</li>
-		<li>terrain_word->földek</li>
+		<li>terrain_word->szigetek</li>
 	</NamerArchipelago.rulePack.rulesStrings>
 
 	<NamerIsland.rulePack.rulesStrings>
-		<li>standardname(p=0.2)->sziget [narrative_name]</li>
+		<li>standardname(p=0.2)->[narrative_name] sziget</li>
 		<li>terrain_word(p=4)->sziget</li>
 		<li>terrain_word(p=2)->sziget</li>
 		<li>terrain_word->zátony</li>
-		<li>terrain_word->szikla</li>
+		<li>terrain_word->sziklák</li>
 		<li>terrain_word->pont</li>
 	</NamerIsland.rulePack.rulesStrings>
 
 	<NamerPeninsula.rulePack.rulesStrings>
-		<li>standardname(p=0.2)->pont [narrative_name]</li>
-		<li>standardname(p=0.2)->fok [narrative_name]</li>
+		<li>standardname(p=0.2)->[narrative_name] pont</li>
+		<li>standardname(p=0.2)->[narrative_name] fok</li>
 		<li>terrain_word(p=5)->félsziget</li>
 		<li>terrain_word(p=2)->pont</li>
 		<li>terrain_word->fok</li>
 		<li>terrain_word->hegyfok</li>
-		<li>terrain_word->szarv</li>
+		<li>terrain_word->földnyelv</li>
 	</NamerPeninsula.rulePack.rulesStrings>
 
 	<NamerBay.rulePack.rulesStrings>
-		<li>standardname(p=0.2)->[narrative_name] öble</li>
+		<li>standardname(p=0.2)->[narrative_name] öböl</li>
 		<li>terrain_word(p=6)->öböl</li>
 		<li>terrain_word->öböl</li>
 		<li>terrain_word->öböl</li>
@@ -124,7 +124,7 @@
 	</NamerBay.rulePack.rulesStrings>
 
 	<NamerLake.rulePack.rulesStrings>
-		<li>standardname->tó [narrative_name]</li>
+		<li>standardname->[narrative_name] tó</li>
 		<li>terrain_word(p=6)->tó</li>
 		<li>terrain_word->tenger</li>
 		<li>terrain_word->tavacska</li>
@@ -136,7 +136,7 @@
 	</NamerLake.rulePack.rulesStrings>
 
 	<NamerSea.rulePack.rulesStrings>
-		<li>standardname(p=0.1)->tó [narrative_name]</li>
+		<li>standardname(p=0.1)->[narrative_name] tó</li>
 		<li>terrain_word(p=6)->tenger</li>
 		<li>terrain_word->óceán</li>
 		<li>terrain_word->tó</li>
@@ -159,7 +159,7 @@
 	  <li>ocean_adjective->gentle</li>
 	  <li>terrain_word(p=6)->óceán</li>
 	  <li>terrain_word(p=3)->tenger</li>
-	  <li>terrain_word->terület</li>
+	  <li>terrain_word->tenger</li>
  </NamerOcean.rulePack.rulesStrings>
 
 <NamerDesert.rulePack.rulesStrings> 
@@ -187,7 +187,7 @@
   <li>terrain_word->meddő</li>
 </NamerDesert.rulePack.rulesStrings>
  <NamerSwamp.rulePack.rulesStrings>
-  <li>standardname(p=0.1)->fen [narrative_name]</li>
+  <li>standardname(p=0.1)->[narrative_name] mocsár</li>
   <li>standardname(p=0.3)->[swamp_adjective] [narrative_name]</li>
   <li>swamp_adjective->nedves</li>
   <li>swamp_adjective->párás</li>
@@ -242,34 +242,34 @@
 		<li>terrain_word(p=4)->bokros</li>
 		<li>terrain_word(p=4)->cserjés</li>
 		<li>terrain_word(p=2)->fennsík</li>
-		<li>terrain_word(p=2)->cserje</li>
+		<li>terrain_word(p=2)->rekettyés</li>
 		<li>terrain_word->sivatag</li>
-		<li>terrain_word->bokor</li>
+		<li>terrain_word->bokros</li>
 		<li>terrain_word->csalitos</li>
 		<li>terrain_word->puszta</li>
 	</NamerAridShrubland.rulePack.rulesStrings>
 <NamerIceSheet.rulePack.rulesStrings>
 	  <li>terrain_word->tábla</li>
-	  <li>terrain_word->mező</li>
-	  <li>terrain_word(p=0.5)->tábla</li>
-	  <li>terrain_word(p=0.3)->mező</li>
+	  <li>terrain_word->jégmező</li>
+	  <li>terrain_word(p=0.5)->táblák</li>
+	  <li>terrain_word(p=0.3)->jégmező</li>
 	  <li>terrain_word(p=0.3)->tábla</li>
-	  <li>terrain_word(p=0.3)->mező</li>
-	  <li>terrain_word(p=0.3)->tábla</li>
-	  <li>terrain_word(p=0.3)->tábla</li>
+	  <li>terrain_word(p=0.3)->mezők</li>
+	  <li>terrain_word(p=0.3)->jégmezők</li>
+	  <li>terrain_word(p=0.3)->jégmező</li>
 </NamerIceSheet.rulePack.rulesStrings>
 	<NamerTundra.rulePack.rulesStrings>
 		<li>terrain_word(p=4)->fennsík</li>
 		<li>terrain_word(p=4)->puszta</li>
 		<li>terrain_word(p=2)->tajga</li>
-		<li>terrain_word->cserje</li>
+		<li>terrain_word->rekettyés</li>
 		<li>terrain_word->cserjés</li>
 		<li>terrain_word->csalitos</li>
-		<li>terrain_word->bokor</li>
 		<li>terrain_word->bokros</li>
-		<li>terrain_word->puszta</li>
+		<li>terrain_word->bokros</li>
+		<li>terrain_word->pusztaság</li>
 		<li>terrain_word->alföld</li>
-		<li>terrain_word->péri</li>
+		<li>terrain_word->préri</li>
 		<li>terrain_word->síkság</li>
 	</NamerTundra.rulePack.rulesStrings>
 
