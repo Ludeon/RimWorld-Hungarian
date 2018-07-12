@@ -2,8 +2,8 @@
 <LanguageData>
 <TalelessImages.rulePack.rulesStrings>  
   <li>image->magányos [Character], amint [desc_pawn]</li>
-  <li>image->magányos [Character], amint [desc_pawn] [TerrainFeature] közelében</li>
-  <li>image->magányos [Character], amint [desc_pawn] [Community] közelében</li>
+  <li>image->magányos [Character], amint [desc_pawn] egy [TerrainFeature] közelében</li>
+  <li>image->magányos [Character], amint [desc_pawn] egy [Community] közelében</li>
   <li>image->[Character], amint [desc_pawn], több [Character] által körbevéve</li>
   <li>image->Több [Character] [Game] parti közben</li>
   <li>image->[Character], amint [desc_pawn] és [Quantity_adjphrase] [Character] [Game] parti közben</li>
@@ -15,7 +15,7 @@
   <li>image->egy [Community]</li>
   <li>image->egy [TerrainFeature]</li>
   <li>image->egy [Weapon]</li>
-  <li>image->egy [TreeType] tree</li>
+  <li>image->egy [TreeType]</li>
   <li>image->egy [NaturalObject]</li>
   <li>image->[Quantity_adjphrase] [Weapon]</li>
   <li>image->[Quantity_adjphrase] [Vegetable]</li>
@@ -24,7 +24,7 @@
   <li>image->egy [Shape] több [Shape] által körbevéve</li>
   <li>image->[ConceptAny] absztrakt megjelenítése</li>
   <li>image->egy [AdjectiveAny] absztrakt forma</li>
-  <li>desc_pawn(p=12)-></li>
+  <li>desc_pawn(p=12)->áll</li>
   <li>desc_pawn->a levegőben repül</li>
   <li>desc_pawn->a levegőben lebeg</li>
   <li>desc_pawn->balra mozog</li>
