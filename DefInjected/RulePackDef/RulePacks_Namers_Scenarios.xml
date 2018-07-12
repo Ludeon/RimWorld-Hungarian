@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
  <NamerScenario.rulePack.rulesStrings>
-	 <li>r_name->[story] [Trans] a(z) [Weapon]</li>
-  <li>r_name->[story] [Trans] a(z) [Animal]</li>
-  <li>r_name->[story] [Trans] a(z) [TerrainFeature]</li>
-  <li>r_name->[story] [Trans] [PersonJob]</li>
-  <li>r_name->[story] [Trans] [ConceptAny]</li>
+	 <li>r_name->[story] a(z) [Weapon]</li>
+  <li>r_name->[story] a(z) [Animal]</li>
+  <li>r_name->[story] a(z) [TerrainFeature]</li>
+  <li>r_name->[story] [PersonJob]</li>
+  <li>r_name->[story] [ConceptAny]</li>
   <li>r_name->[ConceptAny] [story]</li>
-  <li>r_name->[story] [Trans] [Community]</li>
+  <li>r_name->[story] [Community]</li>
   <li>r_name->a [AdjectiveAny] [story]</li>
-  <li>r_name->[story] [Trans] a(z) [Game]</li>
+  <li>r_name->[story] a(z) [Game]</li>
   <li>r_name->[story] [Color] és [Color]</li>
   <li>r_name->[Color] [story]</li>
   <li>r_name->[story] [RomanNumeral]</li>
