@@ -2,30 +2,27 @@
 <LanguageData>
 
 	<DamageEvent_Include.rulePack.rulesStrings>
-		<li>r_logentry->[RECIPIENT_nameDef] [damageSource], [destroyed_present] ezt: [destroyed_targets].</li>
-		<li>r_logentry->[RECIPIENT_nameDef] [damageSource], [destroyed_present] ezt: [destroyed_targets] és [damaged_present] ezt: [damaged_targets].</li>
-		<li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_nameDef] [damageSource], [damaged_present] ezt: [damaged_targets].</li>
+		<li>r_logentry->[RECIPIENT_nameDef] [damageSource], [destroyed_present] ez(eke)t: [destroyed_targets].</li>
+		<li>r_logentry->[RECIPIENT_nameDef] [damageSource], [destroyed_present] ez(eke)t: [destroyed_targets] és [damaged_present] ez(eke)t: [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_nameDef] [damageSource], [damaged_present] ez(eke)t: [damaged_targets].</li>
 		<li>r_logentry(p=0.1)->[RECIPIENT_nameDef] [damageSource].</li>
 	</DamageEvent_Include.rulePack.rulesStrings>
 
 	<DamageEvent_Ceiling.rulePack.rulesStrings>
-		<li>damageSource->a [roof] [collapsed]</li>
+		<li>damageSource->[collapsed] a [roof]</li>
 		<li>roof->tető</li>
 		<li>roof->tetőzet</li>
 		<li>roof->plafon</li>
-		<li>collapsed->ráomlott</li>
-		<li>collapsed->ráesett</li>
-		<li>collapsed->rázuhant</li>
-		<li>damaged_present->összetör</li>
-		<li>damaged_present->betör</li>
-		<li>damaged_present->megver</li>
-		<li>damaged_present->elver</li>
-		<li>damaged_present->megtép</li>
-		<li>destroyed_present->összezúz</li>
-		<li>destroyed_present->összetör</li>
-		<li>destroyed_present->megsemmisít</li>
-		<li>destroyed_present->megsemmisít</li>
-		<li>destroyed_present->eltör</li>
+		<li>collapsed->fejére omlott</li>
+		<li>collapsed->fejére esett</li>
+		<li>collapsed->fejére zuhant</li>
+		<li>damaged_present->megroppantva</li>
+		<li>damaged_present->eltörve</li>
+		<li>damaged_present->megzúzva</li>
+		<li>destroyed_present->összezúzva</li>
+		<li>destroyed_present->összetörve</li>
+		<li>destroyed_present->megsemmisítve</li>
+		<li>destroyed_present->péppé zúzva</li>
 	</DamageEvent_Ceiling.rulePack.rulesStrings>
 
 	<DamageEvent_Fire.rulePack.rulesStrings>
@@ -44,23 +41,22 @@
 	</DamageEvent_Fire.rulePack.rulesStrings>
 
 	<DamageEvent_PowerBeam.rulePack.rulesStrings>
-		<li>damageSource->A(z) [sky] megnyílt</li>
-		<li>damageSource->Egy elképesztő [power] sugár [damaged_past]</li>
-		<li>damageSource->[light] oszlop [damaged_past]</li>
+		<li>damageSource->felett megnyílt az [sky]</li>
+		<li>damageSource->testét egy elképesztő [power]sugár [damaged_past]</li>
+		<li>damageSource->testét egy [light]oszlop [damaged_past]</li>
 		<li>sky->égbolt</li>
-		<li>sky->felhők</li>
-		<li>sky->menny</li>
-		<li>power->erő</li>
+		<li>sky->ég</li>
+		<li>power->fény</li>
 		<li>power->energia</li>
 		<li>power->hő</li>
 		<li>light->fény</li>
-		<li>light->hő</li>
+		<li>light->energia</li>
 		<li>light->láng</li>
-		<li>light(p=0.2)->izzás</li>
+		<li>light(p=0.2)->tűz</li>
 	</DamageEvent_PowerBeam.rulePack.rulesStrings>
 
 	<DamageEvent_Tornado.rulePack.rulesStrings>
-		<li>damageSource->Egy [spiraling] tornádó [enveloped]</li>
+		<li>damageSource->testét [enveloped] egy [spiraling] tornádó</li>
 		<li>destroyed_present(p=3)->széttépi</li>
 		<li>spiraling->pörgő</li>
 		<li>spiraling->kavargó</li>
