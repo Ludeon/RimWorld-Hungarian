@@ -27,11 +27,9 @@
 		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->láthatóvá vált a hús</li>
 		<li>flavortext_consequence(recipient_flesh==Mechanoid)->láthatóvá vált a gépezet</li>
 		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->véres [woundname] maradt utána</li>
-		<li>destroyed_past->kettévágott</li>
-		<li>destroyed_past->szétvágott</li>
-		<li>destroyed_past->kettészelt</li>
-		<li>destroyed_past->elkülönült</li>
-		<li>destroyed_past->kettévágott</li>
+		<li>destroyed_past->kettévágta</li>
+		<li>destroyed_past->szétvágta</li>
+		<li>destroyed_past->kettészelte</li>
 		<li>destroyed_present->kettévágva</li>
 		<li>destroyed_present->szétvágva</li>
 		<li>destroyed_present->kettészelve</li>
@@ -64,9 +62,9 @@
 		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->véres [woundname] maradt utána</li>
 		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->tépett [woundname] maradt utána</li>
 		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->vérző [woundname] maradt utána</li>
-		<li>destroyed_past->felnyársalt</li>
-		<li>destroyed_past->kilyukadt</li>
-		<li>destroyed_past->megszúrt</li>
+		<li>destroyed_past->felnyársalta</li>
+		<li>destroyed_past->kilyuggatta</li>
+		<li>destroyed_past->leszúrta</li>
 		<li>destroyed_present->felnyársalva</li>
 		<li>destroyed_present->kilyukasztva</li>
 		<li>destroyed_present->leszúrva</li>
@@ -92,11 +90,9 @@
 		<li>damaged_present->megcsapva</li>
 		<li>damaged_present(deflected!=True)->szétzúzva</li>
 		<li>damaged_present(deflected!=True)->megtépve</li>
-		<li>destroyed_past->zúzott</li>
-		<li>destroyed_past->összetört</li>
-		<li>destroyed_past->megsemmisült</li>
-		<li>destroyed_past->megsemmisült</li>
-		<li>destroyed_past->összetört</li>
+		<li>destroyed_past->összezúzta</li>
+		<li>destroyed_past->összetörte</li>
+		<li>destroyed_past->megsemmisítette</li>
 		<li>destroyed_present->szétzúzva</li>
 		<li>destroyed_present->összetörve</li>
 		<li>destroyed_present->megsemmisítve</li>
@@ -130,9 +126,9 @@
 		<li>damaged_present->megvágva</li>
 		<li>destroyed_past->sulykolt</li>
 		<li>destroyed_past->tépett</li>
-		<li>destroyed_past->szakított</li>
-		<li>destroyed_past->aprított</li>
-		<li>destroyed_past->tépett</li>
+		<li>destroyed_past->szétszakította</li>
+		<li>destroyed_past->felaprította</li>
+		<li>destroyed_past->széttépte</li>
 		<li>destroyed_present->letaglózva</li>
 		<li>destroyed_present->széttépve</li>
 		<li>destroyed_present->szétszakítva</li>
@@ -176,11 +172,9 @@
 		<li>flavortext_consequence->egyértelmű elváltozást hagyva</li>
 		<li>flavortext_consequence->kibillentve egyensúlyából ezt: [recipient_objective]</li>
 		<li>flavortext_consequence->kibillentve oldalra ezt: [recipient_objective]</li>
-		<li>destroyed_past->zúzott</li>
-		<li>destroyed_past->összetört</li>
-		<li>destroyed_past->megsemmisült</li>
-		<li>destroyed_past->megsemmisült</li>
-		<li>destroyed_past->összetört</li>
+		<li>destroyed_past->összezúzta</li>
+		<li>destroyed_past->összetörte</li>
+		<li>destroyed_past->megsemmisítette</li>
 		<li>destroyed_present->szétzúzva</li>
 		<li>destroyed_present->összetörve</li>
 		<li>destroyed_present->megsemmisítve</li>
@@ -210,10 +204,10 @@
 		<li>flavortext_consequence(recipient_flesh==Mechanoid)->amin keresztül látszik a gépezet</li>
 		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->rémes tépéseket hagyva a bőrön</li>
 		<li>flavortext_consequence(recipient_flesh==Mechanoid)->rémes tépéseket hagyva a fémen</li>
-		<li>destroyed_past->bekebelezett</li>
-		<li>destroyed_past->szétszedett</li>
-		<li>destroyed_past->tépett</li>
-		<li>destroyed_past->elpusztított</li>
+		<li>destroyed_past->bekebelezte</li>
+		<li>destroyed_past->szétszedte</li>
+		<li>destroyed_past->széttépte</li>
+		<li>destroyed_past->elpusztította</li>
 		<li>destroyed_present->bekebelezve</li>
 		<li>destroyed_present->szétszedve</li>
 		<li>destroyed_present->széttépve</li>

@@ -2,11 +2,11 @@
 <LanguageData>
   <MissingBodyPart.label>hiányzó testrész</MissingBodyPart.label>
   <MissingBodyPart.labelNoun>hiányzó testrész</MissingBodyPart.labelNoun>
-  <MissingBodyPart.labelNounPretty>hiányzik: {1}</MissingBodyPart.labelNounPretty>
+  <MissingBodyPart.labelNounPretty>hiányzó {1}</MissingBodyPart.labelNounPretty>
   
   <Misc.label>egyéb</Misc.label>
   <Misc.labelNoun>egyéb</Misc.labelNoun>
-  <Misc.labelNounPretty>{0} ebben: {1}</Misc.labelNounPretty>
+  <Misc.labelNounPretty>{1} {0}</Misc.labelNounPretty>
   <Misc.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Misc.comps.HediffComp_TendDuration.labelTendedWell>
   <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>
@@ -14,7 +14,7 @@
   
   <Burn.label>égés</Burn.label>
   <Burn.labelNoun>égetés</Burn.labelNoun>
-  <Burn.labelNounPretty>{0} ebben: {1}</Burn.labelNounPretty>
+  <Burn.labelNounPretty>{1} {0}</Burn.labelNounPretty>
   <Burn.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Burn.comps.HediffComp_TendDuration.labelTendedWell>
   <Burn.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Burn.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>
@@ -24,7 +24,7 @@
   <Burn.injuryProps.destroyedOutLabel>kiégett</Burn.injuryProps.destroyedOutLabel>
   
   <Crush.label>törés</Crush.label>
-  <Crush.labelNounPretty>{0} ebben: {1}</Crush.labelNounPretty>
+  <Crush.labelNounPretty>{1} {0}</Crush.labelNounPretty>
   <Crush.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Crush.comps.HediffComp_TendDuration.labelTendedWell>
   <Crush.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Crush.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>
@@ -32,7 +32,7 @@
   <Crush.injuryProps.destroyedLabel>összetört</Crush.injuryProps.destroyedLabel>
   
   <Crack.label>repedés</Crack.label>
-  <Crack.labelNounPretty>{0} ebben: {1}</Crack.labelNounPretty>
+  <Crack.labelNounPretty>{1} {0}</Crack.labelNounPretty>
   <Crack.comps.HediffComp_TendDuration.labelTendedWell>gyógyult</Crack.comps.HediffComp_TendDuration.labelTendedWell>
   <Crack.comps.HediffComp_TendDuration.labelTendedWellInner>gyógyult</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>
@@ -40,7 +40,7 @@
  
   <Cut.label>vágás</Cut.label>
   <Cut.labelNoun>vágás</Cut.labelNoun>
-  <Cut.labelNounPretty>{0} ebben: {1}</Cut.labelNounPretty>
+  <Cut.labelNounPretty>{1} {0}</Cut.labelNounPretty>
   <Cut.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Cut.comps.HediffComp_TendDuration.labelTendedWell>
   <Cut.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Cut.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>
@@ -50,7 +50,7 @@
   <Cut.injuryProps.destroyedOutLabel>kivágott</Cut.injuryProps.destroyedOutLabel>
   
   <SurgicalCut.label>sebészi vágás</SurgicalCut.label>
-  <SurgicalCut.labelNounPretty>{0} ebben: {1}</SurgicalCut.labelNounPretty>
+  <SurgicalCut.labelNounPretty>{1} {0}</SurgicalCut.labelNounPretty>
   <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>
   <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>
   <SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>
@@ -58,7 +58,7 @@
   <!-- <SurgicalCut.comps.1.oldLabel>műtéti heg</SurgicalCut.comps.1.oldLabel> -->
   
   <Scratch.label>horzsolás</Scratch.label>
-  <Scratch.labelNounPretty>{0} ebben: {1}</Scratch.labelNounPretty>
+  <Scratch.labelNounPretty>{1} {0}</Scratch.labelNounPretty>
   <Scratch.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Scratch.comps.HediffComp_TendDuration.labelTendedWell>
   <Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>
@@ -68,7 +68,7 @@
   <Scratch.injuryProps.destroyedOutLabel>kiszakított</Scratch.injuryProps.destroyedOutLabel>
   
   <Bite.label>harapás</Bite.label>
-  <Bite.labelNounPretty>{0} ebben: {1}</Bite.labelNounPretty>
+  <Bite.labelNounPretty>{1} {0}</Bite.labelNounPretty>
   <Bite.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Bite.comps.HediffComp_TendDuration.labelTendedWell>
   <Bite.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Bite.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>
@@ -78,7 +78,7 @@
   <Bite.injuryProps.destroyedOutLabel>kiharapott</Bite.injuryProps.destroyedOutLabel>
   
   <Stab.label>szúrás</Stab.label>
-  <Stab.labelNounPretty>{0} ebben: {1}</Stab.labelNounPretty> 
+  <Stab.labelNounPretty>{1} {0}</Stab.labelNounPretty> 
   <Stab.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Stab.comps.HediffComp_TendDuration.labelTendedWell>
   <Stab.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Stab.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>
@@ -88,7 +88,7 @@
   <Stab.injuryProps.destroyedOutLabel>kivágott</Stab.injuryProps.destroyedOutLabel>
   
   <Gunshot.label>lövés</Gunshot.label>
-  <Gunshot.labelNounPretty>{0} ebben: {1}</Gunshot.labelNounPretty> 
+  <Gunshot.labelNounPretty>{1} {0}</Gunshot.labelNounPretty> 
   <Gunshot.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Gunshot.comps.HediffComp_TendDuration.labelTendedWell>
   <Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>
@@ -99,7 +99,7 @@
   <Gunshot.injuryProps.destroyedOutLabel>kilőtt</Gunshot.injuryProps.destroyedOutLabel>
   
   <Shredded.label>robbanás</Shredded.label>
-  <Shredded.labelNounPretty>{0} ebben: {1}</Shredded.labelNounPretty> 
+  <Shredded.labelNounPretty>{1} {0}</Shredded.labelNounPretty> 
   <Shredded.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Shredded.comps.HediffComp_TendDuration.labelTendedWell>
   <Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>
@@ -109,14 +109,14 @@
  
   <Bruise.label>zúzódás</Bruise.label>
   <Bruise.labelNoun>zúzás</Bruise.labelNoun>
-  <Bruise.labelNounPretty>{0} ebben: {1}</Bruise.labelNounPretty>
+  <Bruise.labelNounPretty>{1} {0}</Bruise.labelNounPretty>
   <Bruise.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Bruise.comps.HediffComp_TendDuration.labelTendedWell>
   <Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <Bruise.injuryProps.destroyedLabel>leütött</Bruise.injuryProps.destroyedLabel>
  
   <Frostbite.label>fagyás</Frostbite.label>
-  <Frostbite.labelNounPretty>{0} ebben: {1}</Frostbite.labelNounPretty> 
+  <Frostbite.labelNounPretty>{1} {0}</Frostbite.labelNounPretty> 
   <Frostbite.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Frostbite.comps.HediffComp_TendDuration.labelTendedWell>
   <Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>

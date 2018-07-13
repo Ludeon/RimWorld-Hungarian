@@ -2,18 +2,18 @@
 <LanguageData>
 
 	<Transition_Include.rulePack.rulesStrings>
-		<li>duetoa->emiatt:</li>
-		<li>duetoa(p=0.5)->emiatt:</li>
-		<li>duetoa(p=0.5)->ennek köszönhetően:</li>
+		<li>duetoa->miatt</li>
+		<li>duetoa(p=0.5)->miatt</li>
+		<li>duetoa(p=0.5)->következtében</li>
 		<!-- <li>subject_definite->[subject_labelDefinite]</li> -->
 		<!-- <li>subject_definite->[subject_nameDef]</li> -->
 	</Transition_Include.rulePack.rulesStrings>
 
 	<Transition_Downed.rulePack.rulesStrings>
-		<li>r_logentry->[CULPRITHEDIFF_labelNoun] ezt okozta: [collapsemeta], neki: [SUBJECT_definite].</li>
-		<li>r_logentry->[CULPRITHEDIFF_labelNounPretty] ezt okozta: [collapsemeta], neki: [SUBJECT_definite].</li>
-		<li>r_logentry->[SUBJECT_definite] [collapsedmeta], [duetoa] [CULPRITHEDIFF_labelNoun].</li>
-		<li>r_logentry->[SUBJECT_definite] [collapsedmeta], [duetoa] [CULPRITHEDIFF_labelNounPretty].</li>
+		<li>r_logentry->[CULPRITHEDIFF_labelNoun] miatt [SUBJECT_definite] [collapsemeta].</li>
+		<li>r_logentry->[CULPRITHEDIFF_labelNounPretty] miatt [SUBJECT_definite] [collapsemeta].</li>
+		<li>r_logentry->[SUBJECT_definite] [collapsedmeta], [CULPRITHEDIFF_labelNoun] [duetoa].</li>
+		<li>r_logentry->[SUBJECT_definite] [collapsedmeta], [CULPRITHEDIFF_labelNounPretty] [duetoa].</li>
 		<li>r_logentry(p=0.1)->[SUBJECT_definite] [collapsedmeta].</li>
 		<li>collapse->összeesik</li>
 		<li>collapse->összerogy</li>
@@ -44,8 +44,8 @@
 	<Transition_DiedInclude.rulePack.rulesStrings>
 		<li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] miatt [SUBJECT_definite] [die].</li>
 		<li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNounPretty] miatt [SUBJECT_definite] [die].</li>
-		<li>r_logentry->[SUBJECT_definite] [died] [duetoa] [CULPRITHEDIFF_labelNoun] [flavorsuffix].</li>
-		<li>r_logentry->[SUBJECT_definite] [died] [duetoa] [CULPRITHEDIFF_labelNounPretty] [flavorsuffix].</li>
+		<li>r_logentry->[SUBJECT_definite] [died] [CULPRITHEDIFF_labelNoun] [duetoa] [flavorsuffix].</li>
+		<li>r_logentry->[SUBJECT_definite] [died] [CULPRITHEDIFF_labelNounPretty] [duetoa] [flavorsuffix].</li>
 		<li>r_logentry->[SUBJECT_definite] [died].</li>
 		<li>r_logentry->[SUBJECT_definite] [died] [flavorsuffix].</li>
 	</Transition_DiedInclude.rulePack.rulesStrings>
