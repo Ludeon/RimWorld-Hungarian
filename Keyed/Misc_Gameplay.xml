@@ -148,7 +148,7 @@
   <EquippedBy>{0} használja</EquippedBy>
   <QuestTargetDestroyInspectString>{0} el akarja pusztítani.\n    Jutalom: {1}.</QuestTargetDestroyInspectString>
   <WorldObjectTimeout>Határidő: {0}</WorldObjectTimeout>
-  <LongRangeMineralScannerEfficiency>Hatékonyság: {0}</LongRangeMineralScannerEfficiency>
+  <!-- <LongRangeMineralScannerEfficiency>Hatékonyság: {0}</LongRangeMineralScannerEfficiency> -->
   <ItemStashContents>Tartalom: {0}.</ItemStashContents>
   <!-- <SomeItemStashContents>Tartalom: {0}.</SomeItemStashContents> -->
   <ClickToSortByThisColumn>Kattints a sorba rendezéshez eszerint.</ClickToSortByThisColumn>
@@ -567,6 +567,8 @@
   <DeepDrillNoResources>Nincs nyersanyag alattunk.</DeepDrillNoResources>
   <DeepDrillExhausted>Mélyfúrható erőforrások kimerültek, a fúró automatikusan tiltva lett. Old fel a tiltást, hogy megkezdődjön {0} bányászata.</DeepDrillExhausted>
   <DeepDrillExhaustedNoFallback>Mélyfúrható erőforrások kimerültek.</DeepDrillExhaustedNoFallback>
+  
+  <NoActiveResearchProjectToFinish>Nincs folyamatban lévő kutatás</NoActiveResearchProjectToFinish>
   
   <!-- Learning helper -->
   <LearningHelper>Oktató</LearningHelper>
