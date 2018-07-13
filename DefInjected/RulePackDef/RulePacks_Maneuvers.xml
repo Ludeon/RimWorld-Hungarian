@@ -9,11 +9,10 @@
 		<li>damaged_inf->vágás</li>
 		<li>damaged_inf(deflected!=True)->hasítás</li>
 		<li>damaged_past(p=4)->suhintott</li>
-		<li>damaged_past->vágott</li>
-		<li>damaged_past->csapott</li>
-		<li>damaged_past->nyiszált</li>
-		<li>damaged_past->vágott</li>
-		<li>damaged_past(deflected!=True)->hasított</li>
+		<li>damaged_past->vágta</li>
+		<li>damaged_past->csapta</li>
+		<li>damaged_past->nyiszálta</li>
+		<li>damaged_past(deflected!=True)->hasította</li>
 		<li>damaged_present->megsuhintva</li>
 		<li>damaged_present->megvágva</li>
 		<li>damaged_present->megcsapva</li>
@@ -49,9 +48,9 @@
 		<li>damaged_inf(deflected!=True)->nyársalás</li>
 		<li>damaged_past(p=4)->döfött</li>
 		<li>damaged_past->szúrt</li>
-		<li>damaged_past(deflected!=True)->bökött</li>
-		<li>damaged_past(deflected!=True)->döfött</li>
-		<li>damaged_past(deflected!=True)->nyársalt</li>
+		<li>damaged_past(deflected!=True)->bökte</li>
+		<li>damaged_past(deflected!=True)->döfte</li>
+		<li>damaged_past(deflected!=True)->nyársalta</li>
 		<li>damaged_present(deflected!=True)->megdöfve</li>
 		<li>damaged_present(deflected!=True)->megszúrva</li>
 		<li>damaged_present(deflected!=True)->megbökve</li>
@@ -80,11 +79,11 @@
 		<li>damaged_inf->csapás</li>
 		<li>damaged_inf->zúzás</li>
 		<li>damaged_inf->csapás</li>
-		<li>damaged_past(p=4)->suhintott</li>
-		<li>damaged_past->ütött</li>
-		<li>damaged_past->csapott</li>
-		<li>damaged_past->zúzott</li>
-		<li>damaged_past->csapott</li>
+		<li>damaged_past(p=4)->suhintotta</li>
+		<li>damaged_past->ütötte</li>
+		<li>damaged_past->csapta</li>
+		<li>damaged_past->zúzta</li>
+		<li>damaged_past->csapta</li>
 		<li>damaged_present->megsuhintva</li>
 		<li>damaged_present->megütve</li>
 		<li>damaged_present->megcsapva</li>
@@ -116,10 +115,10 @@
 		<li>damaged_inf(deflected!=True)->tépés</li>
 		<li>damaged_inf(deflected!=True)->szakítás</li>
 		<li>damaged_inf->vágás</li>
-		<li>damaged_past(p=4)->horzsolt</li>
-		<li>damaged_past(deflected!=True)->tépett</li>
-		<li>damaged_past(deflected!=True)->szakított</li>
-		<li>damaged_past->vágott</li>
+		<li>damaged_past(p=4)->horzsolta</li>
+		<li>damaged_past(deflected!=True)->tépte</li>
+		<li>damaged_past(deflected!=True)->szakította</li>
+		<li>damaged_past->vágta</li>
 		<li>damaged_present->felhorzsolva</li>
 		<li>damaged_present(deflected!=True)->megtépve</li>
 		<li>damaged_present(deflected!=True)->felszakítva</li>
@@ -158,11 +157,11 @@
 		<li>damaged_inf->döfés</li>
 		<li>damaged_inf->szúrás</li>
 		<li>damaged_inf->döfés</li>
-		<li>damaged_past(p=2)->bökött</li>
-		<li>damaged_past(p=2)->szúrt</li>
-		<li>damaged_past->döfött</li>
-		<li>damaged_past->szúrt</li>
-		<li>damaged_past->döfött</li>
+		<li>damaged_past(p=2)->bökte</li>
+		<li>damaged_past(p=2)->szúrta</li>
+		<li>damaged_past->döfte</li>
+		<li>damaged_past->szúrta</li>
+		<li>damaged_past->döfte</li>
 		<li>maneuver_present(p=2)->bökve</li>
 		<li>maneuver_present(p=2)->szúrva</li>
 		<li>maneuver_present->döfve</li>
@@ -190,11 +189,10 @@
 		<li>damaged_inf->harapás</li>
 		<li>damaged_inf->harapás</li>
 		<li>damaged_inf(p=0.5)->harapás</li>
-		<li>damaged_past->harapott</li>
-		<li>damaged_past->harapott</li>
-		<li>damaged_past->megkapott</li>
-		<li>damaged_past->rágott</li>
-		<li>damaged_past(deflected!=True)->tépett</li>
+		<li>damaged_past->harapta</li>
+		<li>damaged_past->megkapta</li>
+		<li>damaged_past->rágta</li>
+		<li>damaged_past(deflected!=True)->tépte</li>
 		<li>maneuver_present->harapva</li>
 		<li>maneuver_present->harapva</li>
 		<li>maneuver_present->harapva</li>
