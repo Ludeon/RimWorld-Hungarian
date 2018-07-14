@@ -130,13 +130,13 @@
 
   <!-- Advanced game start options -->
   <MapTemperatureDangerWarning>FIGYELEM: Fagyott környezetbe érkezik. Nagyon nehéz, akár lehetetlen is lehet a túlélés. Ha nem akar extrém kihívást állítani maga elé, válasszon más leszállóhelyet vagy évszakot!</MapTemperatureDangerWarning>
-  <MapSizePerformanceWarning>FIGYELEM: A teljesítmény leromolhat nagyobb térkép méreteknél, ha számítógéped nem kimondottan erős.\n\nHa gyenge géped van, válaszd a "Kicsi" méretet.\n\nA "Ludeonicrous" méret nincs tesztelve és szinte teljesen biztosan nem lesz jól játszható.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>FIGYELEM: A játékot közepes méretű térképekre tervezték, ami bőven elég helyet biztosít. A teljesítmény leromolhat nagyobb térkép méreteknél, ha számítógéped nem kimondottan erős.\n\nHa gyenge géped van, válaszd a "Kicsi" méretet.\n\nA nagy térképek nincsenek tesztelve és szinte teljesen biztosan nem lesz jól játszható velük a játék. Az AI buta döntéseket fog hozni, és egyéb negatív hatások is felléphetnek.</MapSizePerformanceWarning>
   <MapSize>Térkép méret</MapSize>
   <MapSizeDesc>{0}x{0} ({1} cella)</MapSizeDesc>
   <MapSizeSmall>Kicsi</MapSizeSmall>
   <MapSizeMedium>Közepes</MapSizeMedium>
   <MapSizeLarge>Nagy</MapSizeLarge>
-  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+  <MapSizeExtreme>Extrém (teszt)</MapSizeExtreme>
   <MapStartSeason>Kezdeti évszak:</MapStartSeason>
   <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
   <Notice>Figyelmeztetés</Notice>
