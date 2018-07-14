@@ -9,7 +9,7 @@
 		<li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[WEAPON_label][TOOL_label]</li>
 		<li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->[WEAPON_label]</li>
 		<li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[TOOL_label]</li>
-		<li>implement(IMPLEMENTOWNER_type==bodypart,p=1)->[adjective_bodypart][TOOL_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==bodypart,p=1)->[adjective_bodypart] [TOOL_label]</li>
 		<li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[WEAPON_label][TOOL_label]</li>
 		<li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[WEAPON_label]</li>
 		<li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[TOOL_label]</li>
@@ -348,12 +348,12 @@
 	
 	 <Combat_RangedDeflect.rulePack.rulesStrings>
 	  <li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] találata [damaged_past] ezt: [RECIPIENT_definite] [damaged_target], [deflected_result].</li>
-	  <li>r_logentry(p=2)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] [ORIGINALTARGET_definite] és [damaged_past] ezt: [RECIPIENT_definite][damaged_target_possessive_opt], [deflected_result].</li>
-	  <li>r_logentry(p=0.2)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite][damaged_target_possessive_opt] ezzel: [WEAPON_projectile_label], [deflected_result].</li>
+	  <li>r_logentry(p=2)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] [ORIGINALTARGET_definite] és [damaged_past] ezt: [RECIPIENT_definite] [damaged_target_possessive_opt], [deflected_result].</li>
+	  <li>r_logentry(p=0.2)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite] [damaged_target_possessive_opt] ezzel: [WEAPON_projectile_label], [deflected_result].</li>
 	  <li>r_logentry(p=0.2)->[INITIATOR_definite] [WEAPON_projectile_label] lövése eltalálta ezt: [RECIPIENT_definite] [damaged_target_possessive_opt], [deflected_result].</li>
-	  <li>r_logentry(p=0.4)->[INITIATOR_definite] lövése [missed] [ORIGINALTARGET_definite] és eltalálta ezt: [RECIPIENT_definite][damaged_target_possessive_opt] ezzel: [WEAPON_projectile_label], [deflected_result].</li>
+	  <li>r_logentry(p=0.4)->[INITIATOR_definite] lövése [missed] [ORIGINALTARGET_definite] és eltalálta ezt: [RECIPIENT_definite] [damaged_target_possessive_opt] ezzel: [WEAPON_projectile_label], [deflected_result].</li>
 	  <li>r_logentry(p=0.4)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] [ORIGINALTARGET_definite] és eltalálta  ezt: [RECIPIENT_definite] [damaged_target_possessive_opt], [deflected_result].</li>
-	  <li>r_logentry(p=0.2)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite][damaged_target_possessive_opt] ezzel: [WEAPON_projectile_label], amit neki szánt: [ORIGINALTARGET_definite], [deflected_result].</li>
+	  <li>r_logentry(p=0.2)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite] [damaged_target_possessive_opt] ezzel: [WEAPON_projectile_label], amit neki szánt: [ORIGINALTARGET_definite], [deflected_result].</li>
 	  <li>weapon_projectile_label(p=0.05)->lövedék</li>
 	  <li>damaged_target_possessive_opt-></li>
 	  <li>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->[RECIPIENT_part_damaged0_label]</li>

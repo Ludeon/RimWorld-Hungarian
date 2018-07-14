@@ -12,8 +12,6 @@
   <li>r_name(p=3)->[nearnameinitial]</li>
   <li>r_name->[nearnameinitial] [political_union_outlander]</li>
   <li>r_name->[nearnameinitial] [political_adjective] [political_union_outlander]</li>
-  <li>r_name->[political_union_outlander] [nearnameinitial]</li>
-  <li>r_name->[political_adjective] [political_union_outlander] [nearnameinitial]</li>
   <li>nearnameinitial(p=3)->[PlaceOutlander]</li>
   <li>nearnameinitial->[Direction] [PlaceOutlander]</li>
 </NamerFactionOutlander.rulePack.rulesStrings>
@@ -74,11 +72,11 @@
   <!-- Tribe -->
  <NamerFactionTribal.rulePack.rulesStrings>
   <li>r_name->[tribalworld] [political_union_tribal]</li>
-  <li>r_name->A(z) [tribalworld] [political_union_tribal]</li>
-  <li>r_name->A(z) [Color] [TerrainFeature] [political_union_tribal]</li>
-  <li>r_name->[political_union_tribal] [WordTribal]</li>
-  <li>r_name->A(z) [Color] [Animal] [WordTribal]</li>
-  <li>r_name->A(z) [WordTribal] [TerrainFeature]</li>
+  <li>r_name->[tribalworld] [political_union_tribal]</li>
+  <li>r_name->[Color] [TerrainFeature] [political_union_tribal]</li>
+  <li>r_name->[WordTribal] [political_union_tribal]</li>
+  <li>r_name->[Color] [Animal] [WordTribal]</li>
+  <li>r_name->[WordTribal] [TerrainFeature]</li>
 </NamerFactionTribal.rulePack.rulesStrings>
 <NamerSettlementTribal.rulePack.rulesStrings>
   <li>r_name(p=2)->[WordTribal]</li>
@@ -89,28 +87,26 @@
 
   <!-- Pirate -->
 <NamerFactionPirate.rulePack.rulesStrings>
-  <li>r_name->A(z) [AnimalBadass]</li>
-  <li>r_name->A(z) [AnimalBadass] Emberek</li>
-  <li>r_name->A(z) [AnimalBadass] [ConceptBadass]</li>
-  <li>r_name->A(z) [PersonBadass] [ConceptBadass]</li>
-  <li>r_name->A(z) [PersonBadass]</li>
-  <li>r_name->A(z) [Enemy]</li>
-  <li>r_name->A(z) [Weapon] Emberek</li>
-  <li>r_name->A(z) [Weapon]</li>
-  <li>r_name->A(z) [Weapon] [AnimalBadass]</li>
-  <li>r_name->A(z) [Weapon] [Enemy]</li>
-  <li>r_name->A(z) [ColorBadass] [Weapon]</li>
-  <li>r_name->A(z) [ColorBadass] [AnimalBadass]</li>
-  <li>r_name->A(z) [ColorBadass] [PersonBadass]</li>
-  <li>r_name->A(z) [ColorBadass] [Enemy]</li>
-  <li>r_name->A(z) [PersonBadass] [groupname]</li>
-  <li>r_name->A(z) [Enemy] [Enemy]</li>
-  <li>r_name->A(z) [AdjectiveBadass] [groupname]</li>
-  <li>r_name->A(z) [AdjectiveBadass] [AnimalBadass]</li>
-  <li>r_name->A(z) [AdjectiveBadass] [Enemy]</li>
-  <li>r_name->A(z) [AdjectiveBadass] [PersonBadass]</li>
-  <li>r_name->A(z) [PersonAlly] [ConceptBadass]</li>
-  <li>r_name(p=0.4)->A(z) [Gore] evők</li>
+  <li>r_name->[AnimalBadass]</li>
+  <li>r_name->[AnimalBadass] Banda</li>
+  <li>r_name->[AnimalBadass] [ConceptBadass]</li>
+  <li>r_name->[PersonBadass] [ConceptBadass]</li>
+  <li>r_name->[PersonBadass]</li>
+  <li>r_name->[Weapon] Banda</li>
+  <li>r_name->[Weapon]</li>
+  <li>r_name->[Weapon] [AnimalBadass]</li>
+  <li>r_name->[Weapon] [Enemy]</li>
+  <li>r_name->[ColorBadass] [Weapon]</li>
+  <li>r_name->[ColorBadass] [AnimalBadass]</li>
+  <li>r_name->[ColorBadass] [PersonBadass]</li>
+  <li>r_name->[ColorBadass] [Enemy]</li>
+  <li>r_name->[PersonBadass] [groupname]</li>
+  <li>r_name->[AdjectiveBadass] [groupname]</li>
+  <li>r_name->[AdjectiveBadass] [AnimalBadass]</li>
+  <li>r_name->[AdjectiveBadass] [Enemy]</li>
+  <li>r_name->[AdjectiveBadass] [PersonBadass]</li>
+  <li>r_name->[PersonAlly] [ConceptBadass]</li>
+  <li>r_name(p=0.4)->[Gore] Evők</li>
   <li>r_name->[NamePerson] [Enemy]</li>
   <li>r_name->[NamePerson] [AnimalBadass]</li>
   <li>r_name->[NamePerson] [Weapon]</li>
