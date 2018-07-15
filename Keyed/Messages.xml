@@ -283,7 +283,7 @@
 
   <MessageChoseRoute>A karaván automatikusan elindul az első célállomás felé.</MessageChoseRoute>
 
-  <MessageBlockedHediff>{0} eltorlaszolja(???) ezt: {1} on(???): {2}.</MessageBlockedHediff>
+  <MessageBlockedHediff>{0} eltorlaszolja ezt: {1} itt: {2}.</MessageBlockedHediff>
 
   <MessageCraftedMasterwork>{0} létrehozott egyet ebből: {1}.</MessageCraftedMasterwork>
 
@@ -313,12 +313,12 @@
   <MessageFormedCaravan>{0} megalakult és a világtérképen halad.</MessageFormedCaravan>
   <MessageFormedCaravan_Orders>Utasítások</MessageFormedCaravan_Orders>
 
-  <MessageBillValidationStoreZoneDeleted>{1} "{0}" (???) nem tud erre a törölt raktárterületre cipelni: {2}.</MessageBillValidationStoreZoneDeleted>
-  <MessageBillValidationStoreZoneUnavailable>{1} "{0}" (???) nem tud erre a nem elérhető raktárterületre cipelni: {2}.</MessageBillValidationStoreZoneUnavailable>
-  <MessageBillValidationPawnUnavailable>{0} nem tud többé ezen dolgozni:"{1}" itt: {2}. A korlátozás feloldva(???).</MessageBillValidationPawnUnavailable>
-  <MessageBillValidationIncludeZoneDeleted>{1} "{0}" (???) nem tud ezen a törölt raktárterületen számlálni (???): {2}.</MessageBillValidationIncludeZoneDeleted>
-  <MessageBillValidationIncludeZoneUnavailable>{1} "{0}" (???) nem tud ezen a nem elérhető raktárterületen számlálni (???): {2}.</MessageBillValidationIncludeZoneUnavailable>
-  <MessageBillValidationStoreZoneInsufficient>{1} "{0}" (???) már nem tud mindent erre a raktárterületre cipelni: {2}.</MessageBillValidationStoreZoneInsufficient>
+  <MessageBillValidationStoreZoneDeleted>{1} segítségével végzett "{0}" terméke nem szállítható a törölt raktárterületre: {2}.</MessageBillValidationStoreZoneDeleted>
+  <MessageBillValidationStoreZoneUnavailable>1} segítségével végzett "{0}" terméke nem szállítható az elérhetetlen raktárterületre: {2}.</MessageBillValidationStoreZoneUnavailable>
+  <MessageBillValidationPawnUnavailable>Mivel {0} nem tud többé ezen dolgozni:"{1}" itt: {2}, a korlátozás feloldva.</MessageBillValidationPawnUnavailable>
+  <MessageBillValidationIncludeZoneDeleted>{1} segítségével végzett "{0}" termékét nem lehet ezen a törölt raktárterületen számlálni: {2}.</MessageBillValidationIncludeZoneDeleted>
+  <MessageBillValidationIncludeZoneUnavailable>{1} segítségével végzett "{0}" termékét nem lehet ezen a nem elérhető raktárterületen számlálni: {2}.</MessageBillValidationIncludeZoneUnavailable>
+  <MessageBillValidationStoreZoneInsufficient>{1} segítségével végzett "{0}" terméke már nem fér erre a raktárterületre: {2}.</MessageBillValidationStoreZoneInsufficient>
 
   <MessageAnimalReturnedWild>Foglalkozás hiánya miatt {0} újra elvadult.</MessageAnimalReturnedWild>
   <MessageAnimalLostSkill>Foglalkozás hiánya miatt {0} elvesztette a következő készséget: {1}</MessageAnimalLostSkill>

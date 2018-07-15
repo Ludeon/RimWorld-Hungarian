@@ -15,13 +15,13 @@
   <Contents>Tartalom</Contents>
   <ContainedResources>Tartalmazott anyagok</ContainedResources>
   <ForPrisonerUse>Fogoly számára</ForPrisonerUse>
-  <InPrisonCell>Fogoly számára(???)</InPrisonCell>
+  <InPrisonCell>Fogoly számára</InPrisonCell>
   <ForColonistUse>Gyarmatos számára</ForColonistUse>
   <MedicalBed>Betegágy</MedicalBed>
   <Owner>Tulajdonos</Owner>
   <Owners>Tulajdonosok</Owners>
   <AssignedColonist>Beosztott gyarmatos</AssignedColonist>
-  <DiedOn>Meghalt ekkor(???): {0}</DiedOn>
+  <DiedOn>Meghalt ekkor: {0}</DiedOn>
   <Nobody>Senki</Nobody>
   <Unowned>Gazdátlan</Unowned>
   <DeadTime>Mióta halott: {0}</DeadTime>
@@ -119,7 +119,7 @@
   <CaravanAttacking>Megtámadja: {0}.</CaravanAttacking>
   <CaravanOfferingGifts>Ajándékoz neki: {0}.</CaravanOfferingGifts>
   <WasWornByCorpse>Tetem viselte.</WasWornByCorpse>
-  <WornByCorpseChar>T(???)</WornByCorpseChar>
+  <WornByCorpseChar>T</WornByCorpseChar>
   <!-- <DeterioratingDueToBeingUnroofed>Szabad ég alatt romlik.</DeterioratingDueToBeingUnroofed> -->
   <DeterioratingUnroofed>szabad ég alatt</DeterioratingUnroofed>
   <DeterioratingOutdoors>kinn</DeterioratingOutdoors>
@@ -181,7 +181,7 @@
   <Winter>Tél</Winter>
   <MovementDifficultyOffsetInWinter>Télen {0}</MovementDifficultyOffsetInWinter>
   <RangeTo>min, max</RangeTo>
-  <NoDietCategoryLetter>Nincs levél(???)</NoDietCategoryLetter>
+  <NoDietCategoryLetter>Nincs jelölés</NoDietCategoryLetter>
   <ExpiresIn>Lejár ekkor</ExpiresIn>
   <CaravanLeaderCaravanName>{0} karavánja</CaravanLeaderCaravanName>
   <Reason>Ok</Reason>
@@ -404,11 +404,11 @@
   <Stockpile>Raktárterület</Stockpile>
   <DumpingStockpile>Szemétdomb</DumpingStockpile>
   <Priority>Prioritás</Priority>
-  <ClearAll>Összes törlése</ClearAll>
-  <AllowAll>Összes engedélyezése</AllowAll>
+  <ClearAll>Semmi</ClearAll>
+  <AllowAll>Mind</AllowAll>
 
   <!-- ThingFilter -->
-  <HitPoints>{0} életerő pont</HitPoints>
+  <HitPoints>{0} állapot</HitPoints>
   <AnyQuality>bármilyen minőség</AnyQuality>
   <OnlyQuality>kizárólag {0}</OnlyQuality>
 
