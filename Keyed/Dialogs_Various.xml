@@ -156,14 +156,14 @@
   <Infinite>Végtelen</Infinite>
   <AllowedSkillRange>Megengedett készségszint: {0}</AllowedSkillRange>
   <IncompatibleLower>Nem kompatibilis</IncompatibleLower>
-  <AnyWorker>Bármely munkás</AnyWorker>
+  <AnyWorker>Bárki</AnyWorker>
   <Unlimited>Végtelen</Unlimited>
 
   <RecipeCannotHaveTargetCount>(Ennek a receptnek nem lehet célösszege, mert megjósolhatatlan, hogy mennyi készül belőle.)</RecipeCannotHaveTargetCount>
   <WorkAmount>Szükséges munka</WorkAmount>
   <MinimumSkills>Minimum készség:</MinimumSkills>
   <BillRequires>Szükséges: {0}db {1}</BillRequires>
-  <BillRequiresNutrition>Szükséges tápérték: {0}</BillRequiresNutrition>
+  <BillRequiresNutrition>Szükséges tápanyag: {0}</BillRequiresNutrition>
   <BillRequiresMayVary>Megj.: kis helyet foglaló hozzávalókból, mint pl. az arany, {0}x annyi kell.</BillRequiresMayVary>
   <ThisIsSmallVolume>Ez egy kis térfogatú hozzávaló. Ez azt jelenti, hogy minden "egység" csak 1/{0}-a normál térfogatú hozzávalóknak. Így ezekből {0}x annyi szükséges az adott recepthez.</ThisIsSmallVolume>
   <UsableIngredients>hozzávaló</UsableIngredients>
@@ -175,16 +175,16 @@
   <!-- <BillStoreMode_BestStockpile>Kerüljön a legjobb raktárba</BillStoreMode_BestStockpile> -->
   <!-- <BillStoreMode_NearestStockpileAnyPriority>Kerüljön a legközelebbi raktárba</BillStoreMode_NearestStockpileAnyPriority> -->
 
-  <PauseWhenSatisfied>Szünetel ekkor</PauseWhenSatisfied>
-  <UnpauseWhenYouHave>Folytat ekkor</UnpauseWhenYouHave>
+  <PauseWhenSatisfied>Leáll, ha kész</PauseWhenSatisfied>
+  <UnpauseWhenYouHave>Újrakezd ennyinél</UnpauseWhenYouHave>
   <Paused>Szünetel</Paused>
   <Unpause>Folytat</Unpause>
   
   <IncludeEquipped>Használatban lévő is</IncludeEquipped>
-  <IncludeTainted>Romlott(???) is</IncludeTainted>
+  <IncludeTainted>Tisztátalan is</IncludeTainted>
   <LimitToAllowedStuff>Csak megengedett hozzávaló</LimitToAllowedStuff>
   <IncludeFromAll>Bárhol</IncludeFromAll>
-  <IncludeSpecific>Keresés itt: {0}</IncludeSpecific>
+  <IncludeSpecific>Számlálás itt: {0}</IncludeSpecific>
   
   <!-- Info card -->
   <Damage>Sebzés</Damage>
@@ -214,7 +214,7 @@
   <LightRequirement>Fény igény</LightRequirement>
   <Attributes>Tulajdonságok</Attributes>
   <LifeSpan>Élettartam</LifeSpan>
-  <Nutrition>Tápérték</Nutrition>
+  <Nutrition>Tápanyag</Nutrition>
   <Joy>Élvezeti érték</Joy>
   <FoodQuality>Étel minősége</FoodQuality>
   <WalkSpeedProperty>Mozgás sebessége</WalkSpeedProperty>
@@ -255,7 +255,7 @@
   <HarmedRevengeChanceExplanation>Annak esélye, hogy az alany megtorolja az őt ért támadást.\n\nPuska lőtávra értendő. Az esély növekszik, ha a támadó közelebb van. Közelharcban az esély háromszoros.\n\nMinden sebződésnél bejöhet, ezért a lassú, nagyot ütő fegyverek kisebb valószínűséggel váltják ki.\n\nA megtorlás esélyének minimalizálásához használj lassú, nagy hatótávú fegyvereket.</HarmedRevengeChanceExplanation>
   <TameFailedRevengeChance>Megtorlás szelídítésnél</TameFailedRevengeChance>
   <TerrainRequirement>Terep követelmény</TerrainRequirement>
-  <Supports>Támasztja(???)</Supports>
+  <Supports>Építhető rá</Supports>
 
   <!-- Trade -->
   <PositiveBuysNegativeSells>Pozitív szám vételt jelent\nNegatív szám eladást</PositiveBuysNegativeSells>
@@ -345,7 +345,7 @@
   <ItemNutritionTip>Mennyire tápláló az étel.\n\nEgy felnőttnek ennyi tápanyagra van szüksége naponta: {0}.</ItemNutritionTip>
   <AnimalCanGrazeTip>Ez az állat legelhet, ahelyett, hogy a karaván készleteit fogyasztaná. Ez csak bizonyos életközösségeken és hőmérséklet mellett lehetséges.</AnimalCanGrazeTip>
   <NutritionForagedPerDayTip>Napi gyűjtögetett élelem. Függ az életközösség típusától.\n\n{0}</NutritionForagedPerDayTip>
-  <NutritionEatenPerDayTip>Naponta elfogyasztott tápanyag. Egy egyszerű étel ennyi tápanyagot tartalmaz: {0}.\n\nCan eat(???): {2}\n\nLegend(???):\n{1}.</NutritionEatenPerDayTip>
+  <NutritionEatenPerDayTip>Naponta elfogyasztott tápanyag. Egy egyszerű étel ennyi tápanyagot tartalmaz: {0}.\n\nÉtrend: {2}\n\nJelölések:\n{1}.</NutritionEatenPerDayTip>
   <MassCarriedSimple>Cipelt tömeg</MassCarriedSimple>
   <MassCapacity>Kapacitás</MassCapacity>
   <Mass>Tömeg</Mass>
@@ -370,7 +370,7 @@
   <PossibleToGrazeForever>(örökké)</PossibleToGrazeForever>
   <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
   <CantGrazeBecauseOfTemp>(még {0} napig túl hideg lesz)</CantGrazeBecauseOfTemp>
-  <TotalNutrition>Összes tápérték</TotalNutrition>
+  <TotalNutrition>Összes tápanyag</TotalNutrition>
   <CaravanNotMoving>Nem mozog</CaravanNotMoving>
   <ForagedNutritionPerDay>Napi gyűjtögetett tápanyag</ForagedNutritionPerDay>
   <FactionType>Frakció típusa</FactionType>

@@ -11,7 +11,7 @@
   <ToxicSensitivity.description>Mérgező jelenségek befolyása erre a személyre.</ToxicSensitivity.description>
   <GlobalLearningFactor.label>tanulási képesség</GlobalLearningFactor.label>
   <GlobalLearningFactor.description>Milyen gyorsan képes a személy valamit megtanulni.</GlobalLearningFactor.description>
-  <EatingSpeed.label>fogyasztási sebesség</EatingSpeed.label>
+  <EatingSpeed.label>evés sebessége</EatingSpeed.label>
   <EatingSpeed.description>Milyen gyorsan képes a személy enni.</EatingSpeed.description>
   <ComfyTemperatureMin.label>min. optimális hőmérséklet</ComfyTemperatureMin.label>
   <ComfyTemperatureMin.description>E hőmérséklet alatt a személy rosszul érzi magát. Szignifikánsan e hőmérséklet alatt hipotermia alakul ki, majd fagyás, ami halálhoz vezet.</ComfyTemperatureMin.description>
@@ -37,6 +37,6 @@
   <RestRateMultiplier.description>Befolyásolja, hogy mennyi alvás szükséges adott mennyiségű pihenéshez.</RestRateMultiplier.description>
   
   <ForagedNutritionPerDay.label>gyűjtögetés</ForagedNutritionPerDay.label>
-  <ForagedNutritionPerDay.description>Ennyi élelmet gyűjt az alany automatikusan, miközben karavánnal utazik.</ForagedNutritionPerDay.description>
+  <ForagedNutritionPerDay.description>Ennyi tápanyagot gyűjt az alany automatikusan, miközben karavánnal utazik.</ForagedNutritionPerDay.description>
 
 </LanguageData>
