@@ -226,29 +226,29 @@
 	</Combat_Dodge.rulePack.rulesStrings>
 
 	<Combat_RangedFire.rulePack.rulesStrings>
-		<li>r_logentry->[INITIATOR_definite] [shotat], cél: [RECIPIENT_definite], ezzel: [WEAPON_label].</li>
+			<li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite] felé, ezzel: [WEAPON_label].</li>
 		<li>r_logentry->[INITIATOR_definite] [shot], ezzel: [WEAPON_label], cél: [RECIPIENT_definite].</li>
-		<li>r_logentry->[INITIATOR_definite] [shotat], cél: [RECIPIENT_definite].</li>
-		<li>r_logentry->[INITIATOR_definite] [shot_a] [WEAPON_projectile_label] [burst], cél:[RECIPIENT_definite].</li>
+			<li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite] felé.</li>
+		<li>r_logentry->[INITIATOR_definite] [shot_a] [WEAPON_projectile_label][burst], cél:[RECIPIENT_definite].</li>
 		<li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot_a] ilyet: [WEAPON_projectile_label].</li>
 		<li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot], ezzel: [WEAPON_label].</li>
 		<li>shot_a->[adverb_shot] [verb_shot] egy</li>
 		<li>shot_a(p=2)->[verb_shot] egy</li>
 		<li>shot(p=2)->[verb_shot]</li>
 		<li>shot->[adverb_shot] [verb_shot]</li>
-		<li>shotat->rálőtt [aburst]</li>
-		<li>shotat->[adverb_shot] rálőtt [aburst]</li>
-		<li>shotat(p=0.5)->rá próbált lőni [aburst]</li>
-		<li>shotat(p=0.3)->rálőtt</li>
+				<li>shotat->ellőtt [aburst]</li>
+				<li>shotat->eleresztett egy lövést</li>
+				<li>shotat(p=0.5)->eleresztett [aburst]</li>
+				<li>shotat(p=0.3)->lőtt egyet</li>
 		<li>shotat(p=0.2)->[adjective_shot] lövést eresztett meg</li>
 		<li>shotat->lőtt [aburst]</li>
 		<li>shotat->[adverb_shot] lőtt [aburst]</li>
 		<li>shotat(p=0.5)->célzott és lőtt [aburst]</li>
-		<li>shotat(p=0.3)->tüzett nyitott</li>
-		<li>aburst-></li>
-		<li>aburst(burst==True,p=3)->egy sorozatot</li>
-		<li>burst-></li>
-		<li>burst(burst==True,p=3)->sorozatot</li>
+		<li>shotat(p=0.3)->tüzet nyitott</li>
+		<li>aburst->egyet</li>
+		<li>aburst(BURST==True,p=3)->egy sorozatot</li>
+		<li>burst->t</li>
+		<li>burst(BURST==True,p=3)-> sorozatot</li>
 		<li>verb_shot->lőtt</li>
 		<li>adverb_shot->gondosan</li>
 		<li>adverb_shot->gyorsan</li>
