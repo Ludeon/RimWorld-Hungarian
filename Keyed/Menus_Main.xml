@@ -109,7 +109,13 @@
   <HowStorytellersWork>Az MI (mesterséges intelligencia) mesélő olyan eseményeket idéz elő, mint a fosztogatás, ellátmány érkezése, vagy állatok támadása. Rajta múlik kolóniád története.</HowStorytellersWork>
   <MustChooseDifficulty>Kérlek válassz nehézségi fokot.</MustChooseDifficulty>
   <Difficulty>Nehézség</Difficulty>
-
+  
+  <CommittmentMode>"Valós Halál" mód</CommittmentMode>
+  <ReloadAnytimeMode>Szabad állás betöltés</ReloadAnytimeMode>
+  <MustChoosePermadeath>Kérlek válassz a "Valós Halál" és a "Szabad visszatöltés" módok közül!</MustChoosePermadeath>
+  <ReloadAnytimeModeInfo>Bármikor elmentheted és betöltheted a játékállást.\n\nNem rossz választás azoknak, akik még tanulják a játékot, vagy ha ez illik az egyén játékstílusához.</ReloadAnytimeModeInfo>
+  <CanChangeStorytellerSettingsDuringPlay>A mesélő és a nehézség bármikor változtatható.</CanChangeStorytellerSettingsDuringPlay>
+  
   <!--=========== Landing site select =========-->
   <SelectLandingSite>Válassz landolási helyet</SelectLandingSite>
   <SelectRandomSite>Véletlen landolási hely</SelectRandomSite>
