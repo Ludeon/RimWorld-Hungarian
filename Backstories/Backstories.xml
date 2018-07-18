@@ -824,13 +824,13 @@ Fiatal kora óta a genetikai módosítások és idegi kiterjesztés iránt érde
 
 Az a szilárd meggyőződés, hogy kutatása ennek katalizátora, egyre aggasztóbb tettekre sarkallta, miközben a bürokraták és a bioetikai bizottságok megpróbálták hátráltatni.</desc>
 	</FerventResearcher2>
-	<WarRefugee43>
+	<WarRefugee81>
 		<title>Háborús menekült</title>
 		<titleShort>Menekült</titleShort>
 		<desc>Háború tört ki a [PAWN_nameDef] bolygóján.
 
 Összegyűjtve, ami kis ételt és holmit tudtak, [PAWN_nameDef] és az apja ellopott egy hajót, és elmenekült az űrbe.</desc>
-	</WarRefugee43>
+	</WarRefugee81>
 	<VengefulExplorer31>
 		<title>Bosszúálló csavargó</title>
 		<titleShort>Csavargó</titleShort>
@@ -1151,20 +1151,20 @@ Amikor a macskák után többé nem volt hajlandó kitakarítani, átkerült a t
 		<titleShort>Tudós</titleShort>
 		<desc>[PAWN_nameDef] a macskafélék elismert tudósa lett. Mivel az állatoknak a legjobbat akarta, különös tekintettel a szelektív tenyésztésre, elindult, hogy megtalálja a macskák számára tökéletes tenyésztő helyet.</desc>
 	</FelineScientist97>
-	<Scavenger76>
+	<Scavenger62>
 		<title>Guberáló</title>
 		<titleShort>Guberáló</titleShort>
 		<desc>[PAWN_nameDef] a néhány megmaradt város egyikében nőtt fel egy nukleáris háború által feldúlt világon.
 
 Megtanult túlélni ezen a poszt-apokaliptikus pusztán. Készletek és technológiák gyűjtögetésével tartotta fenn magát.</desc>
-	</Scavenger76>
-	<SpaceMarine61>
+	</Scavenger62>
+	<SpaceMarine51>
 		<title>Tengerész</title>
 		<titleShort>Tengerész</titleShort>
 		<desc>[PAWN_nameDef] egy bolygóközi vállalat biztonsági erőihez nyert felvételt.
 
 Megvédte hajóikat a kalózok ellen és magáncélú űrhadviselési munkákat vállalt.</desc>
-	</SpaceMarine61>
+	</SpaceMarine51>
 	<VatgrownAssassin17>
 		<title>Bérgyilkos klón</title>
 		<titleShort>Klón</titleShort>
@@ -1222,13 +1222,13 @@ Mire felnőtt, [PAWN_nameDef] elegendő pénzt rakott félre, hogy egy űrkeresk
 
 Hamarosan ügyesen bánt a lőfegyverekkel és késekkel, valamint a szavakkal is.</desc>
 	</ArtfulDodger29>
-	<Assassin22>
+	<Assassin16>
 		<title>Bérgyilkos</title>
 		<titleShort>Bérgyilkos</titleShort>
 		<desc>Robint különlegesen képzett operatívként használták fel nagy kockázatú gyilkosságokhoz. Puskával páratlanul ügyesen bánt.
 
 Végül elárulták őt felettesei, amikor egy célpont rájött mire készül, és felajánlotta, hogy finanszírozza a megbízók jövőbeli projektjeit. Robin megesküdött, hogy soha többé nem bízik senkiben.</desc>
-	</Assassin22>
+	</Assassin16>
 	<Pickpocket65>
 		<title>Zsebmetsző</title>
 		<titleShort>Zsebmetsző</titleShort>
@@ -1351,13 +1351,13 @@ Egy kísérleti nano-genetikai terápiával hozták rendbe a testét. Izmai foly
 
 A kormányzati szabályok túl szigorúnak bizonyultak neki, saját szakállára kezdett dolgozni. Nem tudni, mit csinál jelenleg.</desc>
 	</IntelligenceAgent82>
-	<MadScientist48>
+	<MadScientist70>
 		<title>Őrült tudós</title>
 		<titleShort>Tudós</titleShort>
 		<desc>[PAWN_nameDef] nyomorúságban nőtt egy neolitikus bolygó síkságain. Egy öreg, megtört tudós tanításai szerint találta meg az erőt, hogy harcoljon.
 
 Gyorsan megtanult játszani mások félelmeivel. "Őrült tudósnak" nevezték el.</desc>
-	</MadScientist48>
+	</MadScientist70>
 	<WarChief2>
 		<title>Törzsfőnök</title>
 		<titleShort>Törzsfőnök</titleShort>
@@ -1517,20 +1517,20 @@ Nem számított, mennyire volt nehéz az élet, soha nem adta fel.
 Amikor megtudta, hogy ki akarják iktatni, [PAWN_nameDef] megbízói ellen fordult. Megölt többeket és elmenekült a bolygóról.
 </desc>
 	</MindwipedAssassin89>
-	<TestSubject32>
+	<TestSubject90>
 		<title>Tesztalany</title>
 		<titleShort>Tesztalany</titleShort>
 		<desc>Az 56048 számú kísérlet 11529914 számú vizsgálati alanya gyermekkorát fehér szobákban töltötte, szellemi és fizikai teszteket végezve.
 
 Az egyetlen társa egy hang volt, amely magát anyának nevezte. Anya dicsérettel jutalmazta a sikert - és kemény büntetéssel a kudarcot.</desc>
-	</TestSubject32>
-	<TestSubject84>
+	</TestSubject90>
+	<TestSubject6>
 		<title>Tesztalany</title>
 		<titleShort>Tesztalany</titleShort>
 		<desc>[PAWN_nameDef] tesztjei a geometriától eljutottak a kvantumfizikáig, és képes volt egy vesszőfutást karcolás nélkül megcsinálni.
 
 Egy napon anya azt mondta, hogy az utolsó próbája a piros ajtón túl van, és még ha nem is hallja majd a hangját, anya mindig ott lesz.</desc>
-	</TestSubject84>
+	</TestSubject6>
 	<FireScarredChild32>
 		<title>Megégett gyermek</title>
 		<titleShort>Megégett</titleShort>
@@ -2028,13 +2028,13 @@ he was put in a Civil Academics Program. While pretending to be like his father,
 
 When not working, he would make mechanical figurines, read old books, or occasionally travel to uncharted worlds. Being introverted, he did these things mostly alone.</desc>
 	</SystemsEngineer17>
-	<Orphan63>
+	<Orphan91>
 		<title>Árva</title>
 		<titleShort>Árva</titleShort>
 		<desc>Left alone in the world without parents, Kevin did the best he could to adapt.
 
 Having to take care both of himself and younger kids at the orphanage, he learned a lot about humans and how to interact with them.</desc>
-	</Orphan63>
+	</Orphan91>
 	<NeuroScientist34>
 		<title>Neurotudós</title>
 		<titleShort>Tudós</titleShort>
@@ -2190,13 +2190,13 @@ Aided by his small size, Tater became very adept at carrying out his parents' mi
 		<titleShort>Űrfosztogató</titleShort>
 		<desc>Tater was the leader of a spaceborne pirate crew. Skipping between the rim worlds, he became the feared enemy of many settlements.</desc>
 	</SpaceRaider65>
-	<Abductee38>
+	<Abductee80>
 		<title>Elrabolt</title>
 		<titleShort>Elrabolt</titleShort>
 		<desc>[PAWN_nameDef] was abducted by xenohumans when he was still a baby. They experimented on him to understand his genetic structure.
 
 As he grew up, [PAWN_nameDef] grew a little bit too big and strong for his captors and eventually escaped.</desc>
-	</Abductee38>
+	</Abductee80>
 	<Spy58>
 		<title>Kém</title>
 		<titleShort>Kém</titleShort>
@@ -2244,32 +2244,32 @@ In his teens, he ran away from home, seeking a quieter life.</desc>
 
 After some painful cosmetic modification, Chaz barely resembles his former self. Having been forced to work for the lab until he was rescued, Chaz is now too afraid to lash out at anyone.</desc>
 	</CosmeticReject25>
-	<FeralChild1>
+	<FeralChild17>
 		<title>Vad gyermek</title>
 		<titleShort>Túlélő</titleShort>
 		<desc>[PAWN_nameDef] and his family lived a hard but prosperous lives along with their fellow colonists on a distant rimworld.
 
 One day a group of mechanoids attacked, killing everyone aside from Robert. He then lived alone in the desert until a group of raiders found him.</desc>
-	</FeralChild1>
+	</FeralChild17>
 	<RaiderKing46>
 		<title>Fosztogató király</title>
 		<titleShort>Fosztogató</titleShort>
 		<desc>Starting as nothing more than a slave, [PAWN_nameDef] rose quickly among the raider ranks until all knew his name and his ruthlessness.</desc>
 	</RaiderKing46>
-	<Scout80>
+	<Scout66>
 		<title>Felderítő</title>
 		<titleShort>Felderítő</titleShort>
 		<desc>Nate loved being outdoors. His parents enrolled him in a program that taught military scouting skills. He thrived when he was left alone in the wilderness.
 
 Due to this upbringing, however, [PAWN_nameDef] did not learn the basic technological skills that are taken for granted by many others.</desc>
-	</Scout80>
-	<FrontierMarshal24>
+	</Scout66>
+	<FrontierMarshal26>
 		<title>Határmenti marsall</title>
 		<titleShort>Marsall</titleShort>
 		<desc>Nate was the marshal of his colony. He tried to honorably uphold the law, but the corrupt local mayor killed his family and left him for dead.
 
 After regaining his health, Nate arrested the mayor. he left his homeworld and started a new life working to make a difference in the universe.</desc>
-	</FrontierMarshal24>
+	</FrontierMarshal26>
 	<TraineeAlchemist86>
 		<title>Alkimista gyakornok</title>
 		<titleShort>Alkimista</titleShort>
@@ -2571,13 +2571,13 @@ Over time, he collected a small crew of robots to do his bidding. He became prof
 
 He eventually blew up the facility and escaped the planet in a stolen cargo ship.</desc>
 	</ToxicChild43>
-	<StalwartFarmer92>
+	<StalwartFarmer98>
 		<title>Rendíthetetlen gazda</title>
 		<titleShort>Gazda</titleShort>
 		<desc>With the farm under constant threat from brigands, [PAWN_nameDef] learned to defend himself with his father's rifle. he also mastered how to construct walls to keep livestock in and predators out.
 
 He once tried to paint a picture of his home, but discovered that he could only draw scribbles and ducks.</desc>
-	</StalwartFarmer92>
+	</StalwartFarmer98>
 	<BoyScout85>
 		<title>Cserkész</title>
 		<titleShort>Cserkész</titleShort>
@@ -2654,13 +2654,13 @@ Watching pedestrians and listening to the taxi passengers all day long, he soon 
 
 For fun, he gathered them and lead them to a certain death. he knew then that he had the talent to realize his ambitions of leadership.</desc>
 	</FactionLeader4>
-	<Tinkerer0>
+	<Tinkerer54>
 		<title>Bütykölő</title>
 		<titleShort>Bütykölő</titleShort>
 		<desc>[PAWN_nameDef] spent his spare time creating things from his imagination out of scrap metal and discarded machinery.
 
 he created simple robots and small tools, for both for fun and for utility.</desc>
-	</Tinkerer0>
+	</Tinkerer54>
 	<ProstheticSurgeon0>
 		<title>Sebész</title>
 		<titleShort>Sebész</titleShort>
@@ -2673,25 +2673,25 @@ he created simple robots and small tools, for both for fun and for utility.</des
 
 his childhood was filled with books and one-on-one tutoring. He was awkward, shy, and naive to the true nature of humanity.</desc>
 	</LabGrownChild37>
-	<CorpResearcher21>
+	<CorpResearcher85>
 		<title>Vállalati kutató</title>
 		<titleShort>Kutató</titleShort>
 		<desc>[PAWN_nameDef] was sold to a corporation and put to work as a corporate slave doing scientific research.
 
 Unable to adapt to the social politics of his workplace, he buried himself in his work and failed to progress up the corporate ladder. Every day, he yearned to be left alone.</desc>
-	</CorpResearcher21>
+	</CorpResearcher85>
 	<Orphan11>
 		<title>Árva</title>
 		<titleShort>Árva</titleShort>
 		<desc>Born in a brothel on a harsh world, [PAWN_nameDef] never really had a childhood. he did odd jobs to survive, and became distant from others.</desc>
 	</Orphan11>
-	<SpaceMarine97>
+	<SpaceMarine9>
 		<title>Tengerész</title>
 		<titleShort>Tengerész</titleShort>
 		<desc>[PAWN_nameDef] was a member of an elite imperial space warrior unit. Subjected to intense training, he developed remarkable combat skills.
 
 his unit's quasi-religious ceremonies and beliefs helped him stay more-or-less sane through the horrors of the war.</desc>
-	</SpaceMarine97>
+	</SpaceMarine9>
 	<TechScholar50>
 		<title>Tudós</title>
 		<titleShort>Tudós</titleShort>
@@ -2720,13 +2720,13 @@ he showed an affinity for the sport, and eventually bought his own freedom. Howe
 
 Though his combat experience made him a good fighter, the ruthlessness of the job left him cold-hearted and unenthusiastic about social interaction.</desc>
 	</PirateTrooper46>
-	<FactoryWorker64>
+	<FactoryWorker58>
 		<title>Gyári munkás</title>
 		<titleShort>Munkás</titleShort>
 		<desc>Felix egy gyár munkásaként nőtt fel egy ipari bolygón.
 
 Nagy volt a szegénység, az élelem pedig kevés. Bármit elfogadott munkáért cserébe. Nem volt könnyű élet, de Felix sosem kerülte a nehéz munkát sem.</desc>
-	</FactoryWorker64>
+	</FactoryWorker58>
 	<CombatMedic42>
 		<title>Felcser</title>
 		<titleShort>Felcser</titleShort>
@@ -2762,13 +2762,13 @@ Because of her demanding schedule and introverted nature, she became socially in
 
 After realizing her talents, she became one of the most efficient assassins in the system.</desc>
 	</StilettoAssassin36>
-	<SoleSurvivor11>
+	<SoleSurvivor99>
 		<title>Magányos túlélő</title>
 		<titleShort>Túlélő</titleShort>
 		<desc>Hawke's entire tribe was wiped out by a mysterious disease.
 
 Found alone and adopted by another band, he never became close with the other tribe members. He preferred to stay away from his new home, wandering the woods and tending the animals.</desc>
-	</SoleSurvivor11>
+	</SoleSurvivor99>
 	<Hunter95>
 		<title>Vadász</title>
 		<titleShort>Vadász</titleShort>
@@ -2823,13 +2823,13 @@ his quest for ingredients has brought him into some close calls with local flora
 
 he watched his friends die, and his compassion for humanity died with them. In its place a new thirst for knowledge emerged.</desc>
 	</PlagueProdigy51>
-	<MadScientist3>
+	<MadScientist1>
 		<title>Őrült tudós</title>
 		<titleShort>Tudós</titleShort>
 		<desc>[PAWN_nameDef]'s lust for knowledge was only matched by his disdain for anyone who would stand in the way of his research.
 
 Traveling from world to world, he sought answers to questions few dared to ask.</desc>
-	</MadScientist3>
+	</MadScientist1>
 	<PoorKid84>
 		<title>Szegény gyerek</title>
 		<titleShort>Szegény gyerek</titleShort>
@@ -2854,13 +2854,13 @@ he hated fighting, but when made angry, he could be dangerous. his temper was qu
 
 This long period alone left him without close friends. his heart is sensitive, but he learned to hide his emotions very well.</desc>
 	</SpaceExplorer37>
-	<UrbworldUrchin29>
+	<UrbworldUrchin13>
 		<title>Urbánusvilági utcagyerek</title>
 		<titleShort>Utcagyerek</titleShort>
 		<desc>Meredith was born in the darkest slums of her urban homeworld. Neglected by her mother, she learned to survive on her own, battling for every scrap of food she saw.
 
 Eventually, as her talents exceeded her peers, she ascended from the depths to the surface streets and left her mother behind.</desc>
-	</UrbworldUrchin29>
+	</UrbworldUrchin13>
 	<Smuggler68>
 		<title>Csempész</title>
 		<titleShort>Csempész</titleShort>
@@ -2882,13 +2882,13 @@ From a young age, he was trained to be a good soldier. They taught him how to us
 
 he was known for his mastery of weapons, and was also a good ship pilot.</desc>
 	</DestroyerGeneral23>
-	<StreetUrchin43>
+	<StreetUrchin67>
 		<title>Utcai csibész</title>
 		<titleShort>Csibész</titleShort>
 		<desc>Born to a poor family on an urbworld, [PAWN_nameDef] was abandoned on the streets at a young age.
 
 He learned to steal and kill to survive the ruthless streets, gaining skills in melee and ranged combat. There was little time for talk in his life.</desc>
-	</StreetUrchin43>
+	</StreetUrchin67>
 	<SerialMurderer98>
 		<title>Sorozatgyilkos</title>
 		<titleShort>Gyilkos</titleShort>
@@ -2901,13 +2901,13 @@ He enjoyed making artworks of his victims, and was known for leaving his signatu
 		<titleShort>Tudós</titleShort>
 		<desc>Born into an influential family, [PAWN_nameDef] received the best education money could buy. Her intellect soon proved to be superior to many. However, her lack of empathy quickly put her at odds with her teachers and her parents.</desc>
 	</KidScientist28>
-	<MadScientist27>
+	<MadScientist89>
 		<title>Őrült tudós</title>
 		<titleShort>Tudós</titleShort>
 		<desc>After finishing her education, [PAWN_nameDef] was hired by the planet's leading genetic researcher. Later, she was caught running illegal, inhumane experiments.
 
 Despite her family's influence, she was convicted and sentenced to hard labor on a penal colony.</desc>
-	</MadScientist27>
+	</MadScientist89>
 	<HelpDeskWorker1>
 		<title>Ügyfélszolgálatos</title>
 		<titleShort>Ügyfélszolgálatos</titleShort>
@@ -2948,20 +2948,20 @@ his prosthophobe mother fell sick with heart disease. In desperation, [PAWN_name
 
 he was eventually released, but he retained his emotional distance, his curiosity about human anatomy, and his namesake manic giggling.</desc>
 	</MentalPatient75>
-	<YouthSoldier59>
+	<YouthSoldier99>
 		<title>Újonc katona</title>
 		<titleShort>Katona</titleShort>
 		<desc>Born to a long line of soldiers, [PAWN_nameDef] joined a military training program.
 
 he excelled in physical training, and even passed most of the intellectual exams. While he was never particularly bright or nimble, [PAWN_nameDef] learned the value of hard work and suffering.</desc>
-	</YouthSoldier59>
-	<SpaceMarine36>
+	</YouthSoldier99>
+	<SpaceMarine94>
 		<title>Tengerész</title>
 		<titleShort>Tengerész</titleShort>
 		<desc>[PAWN_nameDef] was a warrior in an Imperial navy.
 
 his job was to punch into enemy starships, gun down the crew, and capture the ship intact. And he was good at it.</desc>
-	</SpaceMarine36>
+	</SpaceMarine94>
 	<GalacticPage52>
 		<title>Galaktikus inas</title>
 		<titleShort>Inas</titleShort>
@@ -3000,13 +3000,13 @@ Sometimes, after work, [PAWN_nameDef] would practice using the swords he forged.
 		<titleShort>Klónozó</titleShort>
 		<desc>Harvesting the products of clone farms is mostly done by the clones themselves -particularly to those whose sims tended towards the social. This clone was one such, who escaped from the farms and headed out to the stars.</desc>
 	</CloneFarmer72>
-	<GangMember23>
+	<GangMember11>
 		<title>Bandatag</title>
 		<titleShort>Bandatag</titleShort>
 		<desc>[PAWN_nameDef] grew up without parents. his whole life was spent alone, fighting for survival on the streets.
 
 No matter how hard it became to survive, he never gave up.</desc>
-	</GangMember23>
+	</GangMember11>
 	<GangBoss42>
 		<title>Bandavezér</title>
 		<titleShort>Vezér</titleShort>
@@ -3035,13 +3035,13 @@ Later, he reappeared at the head of his own military force. No one knows why he 
 
 After watching how her human father betrayed and murdered her mother, she longed to see how many more humans she could get to fall into her hands.</desc>
 	</Killer92>
-	<Healer24>
+	<Healer62>
 		<title>Gyógyító</title>
 		<titleShort>Gyógyító</titleShort>
 		<desc>[PAWN_nameDef] took the time to admire the beauty of the world.
 
 Her passive aggressiveness surfaced once in a while, but she tried to adapt to her changing life.</desc>
-	</Healer24>
+	</Healer62>
 	<ProfessionalGamer45>
 		<title>Profi játékos</title>
 		<titleShort>Profi játékos</titleShort>
@@ -3206,13 +3206,13 @@ he was always a bit of a pyromaniac, and was banned from the kitchen after an un
 
 After a life spent around dangerous machinery and flammable chemicals, he learned how to patch himself up pretty well. Despite the pain, he never learned to dislike fire.</desc>
 	</MachineFixer15>
-	<StreetUrchin73>
+	<StreetUrchin87>
 		<title>Utcagyerek</title>
 		<titleShort>Szélhámos</titleShort>
 		<desc>After running away from home, [PAWN_nameDef] had to live on the streets.
 
 She grew up fast, and learned early that she had to figure out how to fool people into connecting with her.</desc>
-	</StreetUrchin73>
+	</StreetUrchin87>
 	<SpaceMerchant75>
 		<title>Űrkereskedő</title>
 		<titleShort>Kereskedő</titleShort>
@@ -3340,13 +3340,13 @@ A sok-sok órányi magányos bütykölés profivá tette a gépek kezelésében,
 
 Különösképpen megszállottan gyűjtögette a legjobb kütyüket, és rendszeresen alakította át eredeti módon saját felszerelését.</desc>
 	</BattleMechanic73>
-	<VideoGamer63>
+	<VideoGamer7>
 		<title>Videojátékos</title>
 		<titleShort>Gamer</titleShort>
 		<desc>[PAWN_nameDef] felnővén egy fejlett világban, jobbára bezárkózott a szobájába, és videojátékot játszott. Melegszívű volt, mély gyengédséggel az állatok iránt.
 
 Felnővén a kábítószerek felé fordult, hogy kiterjessze valóságát. Ezen próbálkozások alatt az edzőteremben talált szenvedélyt és menedéket.</desc>
-	</VideoGamer63>
+	</VideoGamer7>
 	<DischargedSoldier14>
 		<title>Elbocsátott katona</title>
 		<titleShort>Katona</titleShort>
@@ -3373,13 +3373,13 @@ Másokat könnyen meggyőzött arról, hogy végezzék el helyette a fizikai mun
 
 A legtöbb csecsemő meghalt, de [PAWN_nameDef] túlélte. Hat évesen ölt először embert, és nem sokkal később már éles bevetésre küldték.</desc>
 	</SuperSoldier47>
-	<SuperSoldier64>
+	<SuperSoldier14>
 		<title>Szuperkatona</title>
 		<titleShort>Katona</titleShort>
 		<desc>Egy frissen leváltott kormány által pénzelt szuperkatona-program termékeként [PAWN_nameDef] elveszett. Túlélte az utolsó, ellenséges anyahajó elleni öngyilkos támadását. Most mi legyen?
 
 Életében először nem volt parancs, nem volt célpont. Kimászott a romok alól, és elindult a bizonytalan jövő, a szabadság felé.</desc>
-	</SuperSoldier64>
+	</SuperSoldier14>
 	<HeadjackAddict4>
 		<title>Fejhallgató függő</title>
 		<titleShort>Fejhallgató függő</titleShort>
@@ -3479,13 +3479,13 @@ Később egysége a "Kivételes" becenevet adta neki, miután porig égette a ko
 
 [PAWN_nameDef] tiszta, steril környezetben nőtt fel, soha nem látott farmot és haszonállatot.</desc>
 	</WealthyStudent75>
-	<Roboticist75>
+	<Roboticist41>
 		<title>Robotszakértő</title>
 		<titleShort>Robotszakértő</titleShort>
 		<desc>[PAWN_nameDef] jobban érezte magát a robotok és a mesterséges intelligencia, mint a hús-vér emberek társaságában, ezért robotszakértőként dolgozott. Valamelyest érdekelték a mechanitok és az ősi technológia.  
 
 [PAWN_nameDef] alapvető szükségleteinek kielégítéséhez másokra támaszkodott.</desc>
-	</Roboticist75>
+	</Roboticist41>
 	<StreetPeddler39>
 		<title>Utcai házaló</title>
 		<titleShort>Házaló</titleShort>
@@ -3512,13 +3512,13 @@ Már korán megtanulta, hogy nem mindig úgy vannak a dolgok, ahogy ő tudja, de
 
 Egy idő után [PAWN_nameDef] növényi ismereteinek segítségével saját főzeteket készített ügyfeleinek.</desc>
 	</SpaceBartender66>
-	<SpoiledChild90>
+	<SpoiledChild80>
 		<title>Elkényeztetett gyerek</title>
 		<titleShort>Elkényeztetett</titleShort>
 		<desc>[PAWN_nameDef] űripari mérnök gyermeke volt. Szülei megtiltották neki a legtöbb kétkezi és veszélyes tevékenységet, így helyette művészetet és zenét tanult.
 
 Imádta az állatokat, de szülei sohasem engedtek meg neki saját háziállatot - így másokéval játszott sokat.</desc>
-	</SpoiledChild90>
+	</SpoiledChild80>
 	<CosmeticSurgeon46>
 		<title>Plasztikai sebész</title>
 		<titleShort>Sebész</titleShort>
@@ -3540,13 +3540,13 @@ Mindig próbált távolságot tartani ezektől az helyzetektől, állandóan meg
 
 Abban reménykedett, hogy véget ér az állandó háborúskodás, amíg konzuli hajóját, a Szent Anthemet meg nem támadta egy fosztogató flotta.</desc>
 	</UprightDiplomat39>
-	<CaveChild39>
+	<CaveChild17>
 		<title>Barlangi gyermek</title>
 		<titleShort>Barlangi gyermek</titleShort>
 		<desc>[PAWN_nameDef] egy tundrás bolygó barlangjában nőtt fel, és befogadta őt a Varázslóknak nevezett szórakoztató csoport. Egyszer ez a világutazó csapat csodálatos történetek mesélt neki a világegyetemről.
 
 Egy nap a Varázslók nem tértek vissza az útjukról. Több évnyi várakozás után [PAWN_nameDef] elindult, hogy megkeresse őket.</desc>
-	</CaveChild39>
+	</CaveChild17>
 	<VideoProducer32>
 		<title>Videó producer</title>
 		<titleShort>Producer</titleShort>
@@ -3687,13 +3687,13 @@ Végül átvette az irányítást egy erőszakos banda felett.</desc>
 		<titleShort>Vidéki gyermek</titleShort>
 		<desc>[PAWN_nameDef] istenfélő volt és szerette hazáját, s távol élt a civilizációtól. Nem a szükség, hanem az elismerés miatt dolgozott mindig keményen.</desc>
 	</CountryChild95>
-	<SpaceMarine81>
+	<SpaceMarine17>
 		<title>Tengerész</title>
 		<titleShort>Tengerész</titleShort>
 		<desc>[PAWN_nameDef] csatlakozott a csillagközi haditengerészethez, hogy harcoljon bolygójáért a világegyetem minden pontját bejárva. Néhány csatában ki is tűnt társai közül.
 
 Az átéltek miatt érzéketlenné vált a körülötte lévőkre, szociálisan visszafejlődött, cserébe nagyon megtanult harcolni.</desc>
-	</SpaceMarine81>
+	</SpaceMarine17>
 	<RebelWriter82>
 		<title>Lázadó író</title>
 		<titleShort>Író</titleShort>
@@ -3769,13 +3769,13 @@ Néhány évvel később karrierje váratlanul véget ért, amikor valaki megmé
 
 Ilyen reménytelen körülmények között, minden esély ellenére túlélte - és felnőtt.</desc>
 	</DiscardedYouth13>
-	<Mercenary9>
+	<Mercenary11>
 		<title>Zsoldos</title>
 		<titleShort>Zsoldos</titleShort>
 		<desc>Szülőbolygójáról elmenekülvén, [PAWN_nameDef] összebarátkozott egy csapat zsoldossal. Éveken keresztül bajtársai oldalán harcolt.
 
 Egy nap olyan harcba keveredtek, amit nem lehetett megnyerni. Elutasítván a visszavonulást, lelőtte őket az ellenség. Egy halom holttest alatt ébredt, csodálatos módos sértetlenül.</desc>
-	</Mercenary9>
+	</Mercenary11>
 	<DisasterSurvivor9>
 		<title>Katasztrófa túlélő</title>
 		<titleShort>Túlélő</titleShort>
@@ -4005,13 +4005,13 @@ Sok ellensége miatt titokban kiképeztette magát a lövés és a kézitusa rej
 
 Azt a mitikus anyagot keresték, amely egy tudatmódosító kinyilatkoztatáson keresztül szabadítja fel őket a tudatlanságból - és elhozza a csillagközi béke új korszakát.</desc>
 	</DesertRat41>
-	<Philosopher15>
+	<Philosopher97>
 		<title>Filozófus</title>
 		<titleShort>Bölcs</titleShort>
 		<desc>[PAWN_nameDef] ősi technológiák iránti tudásvágya hatására éveket töltsön elhagyatott adatközpontok felderítésével és rég elfeledett programozási nyelvek elsajátításával.
 
 Azt állította magáról, hogy ő azon kevesek egyike, aki fel tudja deríteni a múlt hibáit - és irányt tud mutatni a jövőre vonatkozóan.</desc>
-	</Philosopher15>
+	</Philosopher97>
 	<ArtisticWeirdo34>
 		<title>Művészlélek</title>
 		<titleShort>Különc</titleShort>
@@ -4246,20 +4246,20 @@ Hitvány alávalóvá, eszes bajkeverővé cseperedett.</desc>
 
 Büszkeséggel és hazafias szeretettel szolgálta bolygóját.</desc>
 	</SpaceNavyTech66>
-	<ChildSpy42>
+	<ChildSpy96>
 		<title>Gyermek kém</title>
 		<titleShort>Kém</titleShort>
 		<desc>A gyermekek ideális kémek, mert az emberek szemében ártatlannak tűnnek. [PAWN_nameDef] még nagyon fiatal volt, amikor elsajátította a beszivárgás és információ gyűjtés művészetét.
 
 Éveket töltött el az ellenségnél katonai információkat gyűjtve egy brutális bolygóközi háborúban. Ez idő alatt csak kevés ideje maradt tanulni.</desc>
-	</ChildSpy42>
-	<Defector99>
+	</ChildSpy96>
+	<Defector95>
 		<title>Disszidens</title>
 		<titleShort>Disszidens</titleShort>
 		<desc>[PAWN_nameDef] úgy döntött, hogy elhagyja az elnyomó diktatúrát, ahol addig élt. Távozását rossz néven vették, és egy ügynököt küldtek utána.
 
 Éveket töltött meneküléssel. Az orvosokban nem bízott, így kénytelen volt sérüléseit önmaga gyógyítani. A megpróbáltatások keserűvé és bizalmatlanná tették.</desc>
-	</Defector99>
+	</Defector95>
 	<TurtleHerder92>
 		<title>Teknős pásztor</title>
 		<titleShort>Pásztor</titleShort>

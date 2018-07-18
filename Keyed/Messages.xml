@@ -331,4 +331,8 @@
 
   <MessageEnterCooldownBlocksEntering>Még további {0} napig nem léphetsz be.</MessageEnterCooldownBlocksEntering>
   
+  <MessageDisableModsBeforeCleaningTranslationFiles>Kapcsolj ki minden modot az eszköz használata előtt.</MessageDisableModsBeforeCleaningTranslationFiles>
+  <MessageTranslationFilesCleanupDone>Kész. Érintett mappa: {0}</MessageTranslationFilesCleanupDone>
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>Az egyik fordítás fájl ({0}) nem tölthető be. Előbb minden XML betöltési hibát javítani kell.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+  
 </LanguageData>

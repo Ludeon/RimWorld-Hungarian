@@ -19,6 +19,9 @@
   
   <FlakArmor.label>Repesz elleni védelem</FlakArmor.label>
   <FlakArmor.description>Lehetővé teszi páncélzattal megerősített ruházat gyártását, ami véd lövedékek és repeszek ellen. Tömege miatt némileg lassítja a mozgást.</FlakArmor.description>
+  
+  <WatermillGenerator.label>Vízkerék generátor</WatermillGenerator.label>
+  <WatermillGenerator.description>Lehetővé teszi vízkerék generátor építését, ami kiesés nélkül szolgáltat áramot.</WatermillGenerator.description>
 
   <Batteries.label>Akkumulátor</Batteries.label>
   <Batteries.description>Lehetővé teszi akkumulátor építését, amivel elektromos energia tárolható.</Batteries.description>
@@ -27,8 +30,8 @@
   <BiofuelRefining.label>Kémiai üzemanyag</BiofuelRefining.label>
   <BiofuelRefining.description>Lehetővé teszi finomító építését, ahol kémiai üzemanyag állítható elő szerves anyagokból, mint pl. fa vagy élelem.</BiofuelRefining.description>
 
-  <Waterproofing.label>Vízálló vezeték</Waterproofing.label>
-  <Waterproofing.description>Lehetővé teszi elektromos áram víz alatti továbbítását.</Waterproofing.description>
+  <!-- <Waterproofing.label>Vízálló vezeték</Waterproofing.label> -->
+  <!-- <Waterproofing.description>Lehetővé teszi elektromos áram víz alatti továbbítását.</Waterproofing.description> -->
   <NutrientPaste.label>Tápanyagpaszta</NutrientPaste.label>
   <NutrientPaste.description>Lehetővé teszi tápanyag ellátó készítését, ami hatékonyan állít elő ehető ételt nyersanyagokból.</NutrientPaste.description>
   <SolarPanels.label>Napelem</SolarPanels.label>
