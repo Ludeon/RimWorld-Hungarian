@@ -28,7 +28,7 @@
   <Crush.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Crush.comps.HediffComp_TendDuration.labelTendedWell>
   <Crush.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Crush.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <!-- <Crush.comps.2.oldLabel>heg</Crush.comps.2.oldLabel> -->
+  <Crush.comps.HediffComp_GetsPermanent.permanentLabel>heg</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
   <Crush.injuryProps.destroyedLabel>összetört</Crush.injuryProps.destroyedLabel>
   
   <Crack.label>repedés</Crack.label>
@@ -36,6 +36,7 @@
   <Crack.comps.HediffComp_TendDuration.labelTendedWell>gyógyult</Crack.comps.HediffComp_TendDuration.labelTendedWell>
   <Crack.comps.HediffComp_TendDuration.labelTendedWellInner>gyógyult</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Crack.comps.HediffComp_GetsPermanent.permanentLabel>heg</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
   <Crack.injuryProps.destroyedLabel>repedt</Crack.injuryProps.destroyedLabel>
  
   <Cut.label>vágás</Cut.label>
@@ -103,7 +104,7 @@
   <Shredded.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Shredded.comps.HediffComp_TendDuration.labelTendedWell>
   <Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <!-- <Shredded.comps.2.oldLabel>heg</Shredded.comps.2.oldLabel> -->
+  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>heg</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
   <Shredded.injuryProps.destroyedLabel>leszakított</Shredded.injuryProps.destroyedLabel>
   <Shredded.injuryProps.destroyedOutLabel>kiszakított</Shredded.injuryProps.destroyedOutLabel>
  

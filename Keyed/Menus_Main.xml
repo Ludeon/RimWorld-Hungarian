@@ -110,7 +110,7 @@
   <MustChooseDifficulty>Kérlek válassz nehézségi fokot.</MustChooseDifficulty>
   <Difficulty>Nehézség</Difficulty>
   
-  <CommittmentMode>"Valós Halál" mód</CommittmentMode>
+  <CommitmentMode>"Valós Halál" mód</CommitmentMode>
   <ReloadAnytimeMode>Szabad állás betöltés</ReloadAnytimeMode>
   <MustChoosePermadeath>Kérlek válassz a "Valós Halál" és a "Szabad visszatöltés" módok közül!</MustChoosePermadeath>
   <ReloadAnytimeModeInfo>Bármikor elmentheted és betöltheted a játékállást.\n\nNem rossz választás azoknak, akik még tanulják a játékot, vagy ha ez illik az egyén játékstílusához.</ReloadAnytimeModeInfo>
@@ -200,6 +200,9 @@
   <RequiredWorkTypeDisabledForEveryone>Egyik kiválasztott ember sem képes elvégezni a következő munká(ka)t.</RequiredWorkTypeDisabledForEveryone>
   <Quit>Kilépés</Quit>
   <Ignore>Ignorál</Ignore>
+  
+  <CleanupTranslationFiles>Fordítás fájlok tisztázása</CleanupTranslationFiles>
+  <CleaningTranslationFiles>Fordítás fájljainak tisztázása</CleaningTranslationFiles>
 
   <!--============ Progress bar==============-->
   <GeneratingWorld>Világ létrehozása</GeneratingWorld>
