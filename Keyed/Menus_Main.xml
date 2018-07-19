@@ -180,8 +180,10 @@
   <Adulthood>Felnőttkor</Adulthood>
   <Childhood>Gyerekkor</Childhood>
   <Current>Jelenlegi</Current>
-  <Male>hímnemű</Male>
-  <Female>nőnemű</Female>
+  <Male>férfi</Male>
+  <Female>nő</Female>
+  <MaleAnimal>Hím</MaleAnimal>
+  <FemaleAnimal>Nőstény</FemaleAnimal>
   <Pain>Fájdalom</Pain>
   <Health>Egészség</Health>
   <Relations>Kapcsolatok</Relations>
@@ -200,6 +202,7 @@
   <RequiredWorkTypeDisabledForEveryone>Egyik kiválasztott ember sem képes elvégezni a következő munká(ka)t.</RequiredWorkTypeDisabledForEveryone>
   <Quit>Kilépés</Quit>
   <Ignore>Ignorál</Ignore>
+  
   
   <CleanupTranslationFiles>Fordítás fájlok tisztázása</CleanupTranslationFiles>
   <CleaningTranslationFiles>Fordítás fájljainak tisztázása</CleaningTranslationFiles>
