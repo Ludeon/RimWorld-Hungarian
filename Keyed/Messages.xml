@@ -37,13 +37,13 @@
 
   <MessageOutOfNearbyShellsFor>{0} nem talált szabad lövedéket {1} számára.</MessageOutOfNearbyShellsFor>
 
-  <MessageAnimalsGoPsychoHunted>Figyelem: a {0} gyakran támadnak, ha bántják őket. ({1} esély lőtávon, közelebb több).</MessageAnimalsGoPsychoHunted>
-  <MessageAnimalManhuntsOnTameFailed>Figyelem: a {0} támadhatnak, ha nem sikerül megszelídíteni őket. ({1} esély).</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalsGoPsychoHunted>Figyelem: a(z) {0} gyakran támadnak, ha bántják őket. ({1} esély lőtávon, közelebb több).</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalManhuntsOnTameFailed>Figyelem: a(z) {0} támadhatnak, ha nem sikerül megszelídíteni őket. ({1} esély).</MessageAnimalManhuntsOnTameFailed>
 
   <LetterLabelMessageRecruitSuccess>Újonc</LetterLabelMessageRecruitSuccess>
   <MessageRecruitSuccess>{0} sikeresen toborozta őt:{1} ({2} esély).</MessageRecruitSuccess>
   <MessageTameSuccess>{0} sikeresen megszelídítette őt: {1} ({2} esély).</MessageTameSuccess>
-  <MessageTameAndNameSuccess>{0} sikeresen megszelídítette őt: {1} ({2} esély) és a {3} nevet adta neki.</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>{0} sikeresen megszelídítette őt: {1} ({2} esély) és a(z) {3} nevet adta neki.</MessageTameAndNameSuccess>
 
   <MessageColonyCannotAfford>A kolónia nem engedheti meg magának ezt a vásárlást.</MessageColonyCannotAfford>
   <MessageColonyNotEnoughSilver>Nincs elég ezüstöd a vásárláshoz.</MessageColonyNotEnoughSilver>
@@ -95,7 +95,7 @@
   <MessageMiscarriedPoorHealth>{0} elvetélt rossz egészségi állapota miatt.</MessageMiscarriedPoorHealth>
   <MessageGaveBirth>{0} gyereke megszületett.</MessageGaveBirth>
 
-  <MessageNuzzledPawnGaveNameTo>{0} a {2} nevet adta neki: {1}, miután az hozzá dörgölőzött.</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{0} a(z) {2} nevet adta neki: {1}, miután az hozzá dörgölőzött.</MessageNuzzledPawnGaveNameTo>
 
   <MessageNoHandlerSkilledEnough>Senki nem képes megszelídíteni őt: {0}. (szükséges {2} szint: {1}, legjobb idomárnak ({3}) {4} van).</MessageNoHandlerSkilledEnough>
 
