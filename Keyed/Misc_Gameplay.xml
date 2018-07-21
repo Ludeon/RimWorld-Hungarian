@@ -298,8 +298,8 @@
   <Execution>Kivégzés</Execution>
 
   <!-- Generated recipes -->
-  <RecipeMake>Gyártani: {0}</RecipeMake>
-  <RecipeMakeJobString>Gyártás: {0}.</RecipeMakeJobString>
+  <RecipeMake>{0} gyártás</RecipeMake>
+  <RecipeMakeJobString>{0} gyártás.</RecipeMakeJobString>
   <RecipeAdminister>adagol: {0}</RecipeAdminister>
   <RecipeAdministerJobString>Adagolja: {0}.</RecipeAdministerJobString>
   <TeetotalerUnhappy>antialkoholista boldogtalan lesz</TeetotalerUnhappy>
