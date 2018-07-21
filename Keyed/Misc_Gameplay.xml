@@ -2,10 +2,10 @@
 <LanguageData>
 
   <!-- Various -->
-   <TextMote_ResistanceReduced>Ellenállás\n{0}-ról {1}-ra (???)</TextMote_ResistanceReduced>
-   <lowMood>rossz hangulat</lowMood>
-   <lowOpinion>rossz vélemény</lowOpinion>
-  
+  <TextMote_ResistanceReduced>Ellenállás\n{0}-ról {1}-ra (???)</TextMote_ResistanceReduced>
+  <lowMood>rossz hangulat</lowMood>
+  <lowOpinion>rossz vélemény</lowOpinion>
+  <CannotPlaceAdjacentTrap>Csapda mellé nem helyezhető</CannotPlaceAdjacentTrap>
   
   <Watermill_WaterUsedTwice>Áramlat gyengült: egy másik vízikerék turbulenciája</Watermill_WaterUsedTwice>
   <HitPointsBasic>életerő</HitPointsBasic>
@@ -298,8 +298,8 @@
   <Execution>Kivégzés</Execution>
 
   <!-- Generated recipes -->
-  <RecipeMake>Gyártani: {0}</RecipeMake>
-  <RecipeMakeJobString>Gyártás: {0}.</RecipeMakeJobString>
+  <RecipeMake>{0} gyártás</RecipeMake>
+  <RecipeMakeJobString>{0} gyártás.</RecipeMakeJobString>
   <RecipeAdminister>adagol: {0}</RecipeAdminister>
   <RecipeAdministerJobString>Adagolja: {0}.</RecipeAdministerJobString>
   <TeetotalerUnhappy>antialkoholista boldogtalan lesz</TeetotalerUnhappy>
