@@ -88,6 +88,8 @@
   <MessageMedicalOperationFailureFatal>{0} {1} operációja közben végzetes hibát vétett a következő különleges körülmény miatt: {2}</MessageMedicalOperationFailureFatal>
 
   <MessageMedicalOperationWillAngerFaction>Ettől az műtéttől {0} mérges lesz.</MessageMedicalOperationWillAngerFaction>
+  
+  <MessageCapturingWillAngerFaction>Figyelem: [PAWN_nameDef] elfogása fel fogja bőszíteni a frakcióját ([PAWN_factionName])!</MessageCapturingWillAngerFaction>
 
   <!-- <MessagePawnExitMapRelationsGain>Mivel {0} egészségesen távozott, {1} viszonya velünk ennyivel javult: {2}.</MessagePawnExitMapRelationsGain> -->
 

@@ -16,6 +16,9 @@
    <ShootingAccuracyPawn.label>lövési pontosság</ShootingAccuracyPawn.label>
   <ShootingAccuracyPawn.description>Cellában kifejezett lőtávra vonatkozó találati esély. A találat esélyét sok más tényező is befolyásolja. Ennek kifejtett magyarázata megtekinthető, ha kiválasztjuk a lövészt és a célpont fölé visszük az egeret.</ShootingAccuracyPawn.description>
   
+  <HuntingStealth.label>lopakodó vadászat</HuntingStealth.label>
+  <HuntingStealth.description>Csökkenti a vadászat közbeni megtorlás esélyét. 0% azt jelenti nincs javulás. 100%-nál az állat sosem támad.</HuntingStealth.description>
+  
   
   <AimingDelayFactor.label>célzásidő</AimingDelayFactor.label>
   <AimingDelayFactor.description>Mennyi ideig tart befogni a célpontot.</AimingDelayFactor.description>
