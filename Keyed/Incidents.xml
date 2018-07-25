@@ -91,7 +91,7 @@
 
   <!-- Refugee chased -->
   <RefugeeChasedTitle>Üldözött menekül itt: {0}</RefugeeChasedTitle>
-  <RefugeeChasedInitial>Egy {0} nevű {1} hív a közelből. A nyomában {2} a(z) {3} frakcióból!\n\nMenedékért könyörög és felajánlja, hogy csatlakozik hozzád. Biológiailag {4} éves.\n\nFigyelem - ha befogadod, el kell kergetned az üldözőit.</RefugeeChasedInitial>
+  <RefugeeChasedInitial>Egy [PAWN_nameDef] nevű [PAWN_title] hív a közelből. A nyomában {2} a(z) {3} frakcióból!\n\nMenedékért könyörög és felajánlja, hogy csatlakozik hozzád. Biológiailag {4} éves.\n\nFigyelem - ha befogadod, el kell kergetned az üldözőit ({2}). A csapatuk ebből áll:\n\n{5}.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Befogad</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Figyelmen kívül hagy</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} pánikba esve üvölt a rádióból, ahogy megszakítod az adást.</RefugeeChasedRejected>
@@ -142,7 +142,7 @@
     <!-- Caravan request -->
   <LetterLabelCaravanRequest>Karaván igény</LetterLabelCaravanRequest>
   <LetterCaravanRequest>Egy közeli település, {0}, egy különleges ajánlattal keresett meg. Ezt szeretnének venni:\n\n  {1} (értéke {2})\n\nEzt adnák érte:\n\n  {3} (értéke {4})\n\nAz ajánlat eddig érvényes: {5} \n\nHa érdekel az ajánlat, küldj karavánt az igényelt áruval. Becsült érkezési idő {6}. Az ajánlat megtekinthető, ha kiválasztod ezt a világtérképen: {0}</LetterCaravanRequest>
-  <CaravanRequestInfo>Igény: {0}, cserébe: {1} ({2} van hátra)</CaravanRequestInfo>
+  <CaravanRequestInfo>Igény: {0} ({3}), cserébe: {1} ({4}) ({2} maradt)</CaravanRequestInfo>
 
   <!-- Caravan demand -->
   <CaravanDemandTitle>Karaván sarc: {0}</CaravanDemandTitle>

@@ -151,10 +151,10 @@
   <VentClosed>Zárva</VentClosed>
   <WornBy>{0} viseli</WornBy>
   <EquippedBy>{0} használja</EquippedBy>
-  <QuestTargetDestroyInspectString>{0} el akarja pusztítani.\n    Jutalom: {1}.</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectString>{0} el akarja pusztítani.\n    Jutalom: {1} ({2}).</QuestTargetDestroyInspectString>
   <WorldObjectTimeout>Határidő: {0}</WorldObjectTimeout>
   <!-- <LongRangeMineralScannerEfficiency>Hatékonyság: {0}</LongRangeMineralScannerEfficiency> -->
-  <ItemStashContents>Tartalom: {0}.</ItemStashContents>
+  <ItemStashContents>Tartalom: {0} ({1}).</ItemStashContents>
   <!-- <SomeItemStashContents>Tartalom: {0}.</SomeItemStashContents> -->
   <ClickToSortByThisColumn>Kattints a sorba rendezéshez eszerint.</ClickToSortByThisColumn>
   <WorkPriorityShiftClickTip>Shift + klikk: prioritás növelése\nShift + jobb klikk: prioritás csökkentése</WorkPriorityShiftClickTip>
