@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- Various -->
-  <TextMote_ResistanceReduced>Ellenállás\n{0}-ról {1}-ra (???)</TextMote_ResistanceReduced>
+  <TextMote_ResistanceReduced>Ellenállás\nKezdeti érték: {0}, végérték: {1}</TextMote_ResistanceReduced>
   <lowMood>rossz hangulat</lowMood>
   <lowOpinion>rossz vélemény</lowOpinion>
   <CannotPlaceAdjacentTrap>Csapda mellé nem helyezhető</CannotPlaceAdjacentTrap>
@@ -11,7 +11,7 @@
   <HitPointsBasic>életerő</HitPointsBasic>
   <WorkLeft>Hátralévő munka</WorkLeft>
   <Carried>cipelt</Carried>
-  <ProgressToNextPortion>Haladás a köv. adagig(???)</ProgressToNextPortion>
+  <ProgressToNextPortion>Haladás a köv. adagig</ProgressToNextPortion>
   <BeCarriedIfSickTip>Cipelhetik-e ezt az személyt vagy állatot más karavántagok betegség esetén.\n\nCipelt tagok pihenhetnek akkor is, ha a karaván mozog, ám lelassítják azt.</BeCarriedIfSickTip>
   <UsingBedroll>1 hálózsákot használ</UsingBedroll>
   <UsingBedrolls>{0} hálózsákot használ</UsingBedrolls>

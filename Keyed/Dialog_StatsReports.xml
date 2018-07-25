@@ -21,19 +21,19 @@
   <HealthFactorAllowedDefect>ha ez alá esik: {0}</HealthFactorAllowedDefect>
   <HealthFactorPercentImpact>{0} súly</HealthFactorPercentImpact>
   <HealthOffsetScale>{0} hatás</HealthOffsetScale>
-  <StatsReport_PostProcessed>Utófeldolgozott</StatsReport_PostProcessed>
+  <StatsReport_PostProcessed>Utófeldolgozás</StatsReport_PostProcessed>
   <StatsReport_FinalValue>Végeredmény</StatsReport_FinalValue>
   <StatsReport_MarketValueFromStuffsAndWork>A piaci alapár az alapanyag és a szükséges munka függvénye.</StatsReport_MarketValueFromStuffsAndWork>
   <StatsReport_QualityMultiplier>Minőségi szorzó</StatsReport_QualityMultiplier>
-  <StatsReport_AgeMultiplier>{0} kor szorzó</StatsReport_AgeMultiplier>
+  <StatsReport_AgeMultiplier>Kor ({0}) szorzó</StatsReport_AgeMultiplier>
   <StatsReport_HealthMultiplier>{0} állapot szorzó</StatsReport_HealthMultiplier>
   <StatsReport_MoodMultiplier>{0} hangulat szorzó</StatsReport_MoodMultiplier>
-  <StatsReport_LightMultiplier>{0} fény(???) szorzó</StatsReport_LightMultiplier>
+  <StatsReport_LightMultiplier>{0} megvilágítás</StatsReport_LightMultiplier>
   <StatsReport_DifficultyMultiplier>{0} nehézség szorzó</StatsReport_DifficultyMultiplier>
   <StatsReport_InBed>Ágyban</StatsReport_InBed>
   <StatsReport_Facilities>Létesítmények</StatsReport_Facilities>
   <StatsReport_BodySize>{0} testméret szorzó</StatsReport_BodySize>
-  <StatsReport_MeleeDPSExplanation>Az érték a következő formátumban látható:\nDPS ( Közelharci sebzés / Felkészülés mp-ben / Közelharci találati esély )\n\nDPS = Közelharci sebzés * Közelharci találati esély / Cooldown mp-ben</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDPSExplanation>DPS = Közelharci sebzés * Közelharci találati esély / Felkészülés mp-ben</StatsReport_MeleeDPSExplanation>
   <StatsReport_MeleeDamage>Közelharci sebzés</StatsReport_MeleeDamage>
   <StatsReport_Cooldown>Felkészülés</StatsReport_Cooldown>
   <StatsReport_MeleeHitChance>Közelharci találati esély</StatsReport_MeleeHitChance>

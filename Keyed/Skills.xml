@@ -2,12 +2,12 @@
 <LanguageData>
 
   <Level>Szint</Level>
-  <ProgressToNextLevel>Gyűjtött/Szükséges</ProgressToNextLevel>
+  <ProgressToNextLevel>Gyűjtött/Szükséges TP</ProgressToNextLevel>
   <Experience>Tapasztalat</Experience>
   <Passion>Tehetség</Passion>
-  <PassionNone>Tehetségtelen (tanulás {0}x)</PassionNone>
-  <PassionMinor>Átlagos (tanulás {0}x)</PassionMinor>
-  <PassionMajor>Tehetséges (tanulás {0}x)</PassionMajor>
+  <PassionNone>Tehetségtelen (fejlődés: {0})</PassionNone>
+  <PassionMinor>Átlagos (fejlődés: {0})</PassionMinor>
+  <PassionMajor>Tehetséges (fejlődés: {0})</PassionMajor>
   <LearnedMaxToday>Ma nem tanulhat többet ({0}/{1}, további tanulás szorzója {2})</LearnedMaxToday>
   <EffectsAtLevel>Hatása a szinten {0}</EffectsAtLevel>
   <SkillMax>MAX</SkillMax>
