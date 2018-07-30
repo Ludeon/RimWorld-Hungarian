@@ -27,8 +27,7 @@
   <HelpTranslate>Segíts a fordításban</HelpTranslate>
   <BuySoundtrack>Zene megvásárlása</BuySoundtrack>
   <DevBuildWarning>Figyelem: ez egy instabil fejlesztői verzió. Ez annyit jelent, hogy kísérleti játékmechanikák szerepelnek és különféle technikai fejlesztések vannak folyamatban. Néhány dolog szándékosan kiegyensúlyozatlan lesz. Ez egy klasszikus fejlesztői módszer, amikor egyes elemek súlyát túlzottan megnöveljük, hogy jobban lássuk a játékmechanikák kiegyensúlyozásának korlátait. Ennek segítségével érhetjük el, hogy a végső állapot megfelelő legyen.\n\nProgramhibák is előfordulnak, olyanok is, amik játszhatatlan állapothoz vezetnek. A mentett állások bármikor inkompatibilissé válhatnak.\n\nHa ez számodra nem probléma, köszönjük, hogy tesztelsz! Ha nem szeretnél kísérleteink alanya lenni, kérlek használd a legfrissebb stabil verziót!</DevBuildWarning>
-  
-  
+
   
   <!--=========== Create/review world ================-->
   <ReviewWorld>Világ áttekintése</ReviewWorld>
@@ -205,7 +204,8 @@
   <RequiredWorkTypeDisabledForEveryone>Egyik kiválasztott ember sem képes elvégezni a következő munká(ka)t.</RequiredWorkTypeDisabledForEveryone>
   <Quit>Kilépés</Quit>
   <Ignore>Ignorál</Ignore>
-  
+  <UnlockExtremeDifficulty>Kegyetlen mód</UnlockExtremeDifficulty>
+  <ConfirmUnlockExtremeDifficulty>A "kegyetlen mód" egy különleges játékbeállítás, ahol a kihívásokat extrém mértékűre kapcsoljuk.\n\nEz magától is elérhetővé válik, ha elérsz bizonyos mérföldköveket, de most is aktiválhatod.\n\nCsak akkor ajánljuk, ha már megnyertél pár nehéz játékot, mert jó eséllyel akkor is meghalsz, ha mindent remekül csinálsz.</ConfirmUnlockExtremeDifficulty>
   
   <CleanupTranslationFiles>Fordítás fájlok tisztázása</CleanupTranslationFiles>
   <CleaningTranslationFiles>Fordítás fájljainak tisztázása</CleaningTranslationFiles>
