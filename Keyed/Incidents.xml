@@ -59,8 +59,8 @@
   <GroupVisitorsArriveLeaderInfo>\n\nAz egyik látogató, {0}, a frakció vezetője.</GroupVisitorsArriveLeaderInfo>
   <VisitorsLeaving>{0} tagjai elmennek.</VisitorsLeaving>
 
-  <LetterLabelWandererJoin>Vándor csatlakozik</LetterLabelWandererJoin>
-  <WandererJoin>A [PAWN_nameDef] nevű {0} megérkezett és csatlakozik a kolóniához. Ő egy {1}.</WandererJoin>
+  <!-- <LetterLabelWandererJoin>Vándor csatlakozik</LetterLabelWandererJoin> -->
+  <!-- <WandererJoin>A [PAWN_nameDef] nevű {0} megérkezett és csatlakozik a kolóniához. Ő egy {1}.</WandererJoin> -->
 
   <LetterLabelManhunterPackArrived>Emberevő falka</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>Emberevő {0} jelentek meg a környéken. A közelben kóborolva vadásznak emberhúsra.\n\nAjtókon nem törnek át, ha nem látják, mikor bemész. Kikapcsolt ágyúkat nem támadnak meg, ha nem akarod megölni őket, állítsd le ezeket.\n\nPár napig lesznek a környéken.</ManhunterPackArrived>
@@ -115,8 +115,8 @@
   <LetterTraderCaravanArrival>{0} {1} karavánja érkezik.\n\nPár napig maradnak a kolónia közelében. Megtámadhatod őket, de ez fel fogja bőszíteni a frakciójukat!</LetterTraderCaravanArrival>
 
   <!-- Building breaks down -->
-  <LetterLabelBuildingBrokenDown>Meghibásodás: {0}</LetterLabelBuildingBrokenDown>
-  <LetterBuildingBrokenDown>Az egyik {0} meghibásodott. Addig nem fog működni, amíg egy karbantartó gyarmatos meg nem javítja.</LetterBuildingBrokenDown>
+  <!-- <LetterLabelBuildingBrokenDown>Meghibásodás: {0}</LetterLabelBuildingBrokenDown> -->
+  <!-- <LetterBuildingBrokenDown>Az egyik {0} meghibásodott. Addig nem fog működni, amíg egy karbantartó gyarmatos meg nem javítja.</LetterBuildingBrokenDown> -->
 
   <!-- Ransom demand -->
   <RansomDemandTitle>Váltságdíj követelés itt: {0}</RansomDemandTitle>

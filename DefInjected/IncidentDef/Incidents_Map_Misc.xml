@@ -7,7 +7,16 @@
   <AmbrosiaSprout.letterText>Misztikus ambrózialiget sarjad a közelben! Ha kifejlődtek a növények, learathatod a finom és kellemes, kicsit addiktív gyümölcsöket.</AmbrosiaSprout.letterText>
   <AmbrosiaSprout.letterLabel>Ambrózia sarj</AmbrosiaSprout.letterLabel>
   <FarmAnimalsWanderIn.label>háziállatok tévednek be</FarmAnimalsWanderIn.label>
+  
   <WandererJoin.label>vándor csatlakozik</WandererJoin.label>
+  <WandererJoin.letterLabel>Vándor csatlakozik</WandererJoin.letterLabel>
+  <WandererJoin.letterText>Egy [PAWN_nameDef] nevű [PAWN_kind] érkezett és csatlakozott a kolóniához. A titulusa [PAWN_title].\n\nHajlandó dolgozni, de magától nem fog elmenni. Ha nincs szükséged rá, száműzheted, eladhatod rabszolgának, vagy egyszerűen megölheted. Ezt a többi gyarmatos felkavarónak fogja találni.</WandererJoin.letterText>
+  
+  <StrangerInBlackJoin.label>fekete ruhás</StrangerInBlackJoin.label>
+  <StrangerInBlackJoin.letterLabel>Fekete ruhás</StrangerInBlackJoin.letterLabel>
+  <StrangerInBlackJoin.letterText>Veszélyt érezve, egy misztikus [PAWN_kind] érkezett.\n\nVajon megtalálja a számítását errefelé?</StrangerInBlackJoin.letterText>
+  
+  
   <RefugeePodCrash.label>lezuhant mentőkapszula</RefugeePodCrash.label>
   <RefugeeChased.label>üldözött menekült</RefugeeChased.label>
   <ThrumboPasses.label>trumbok vonulnak</ThrumboPasses.label>
