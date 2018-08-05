@@ -108,7 +108,7 @@
   <CaravanPawnsInMentalState>{0} idegállapotban</CaravanPawnsInMentalState>
   <CaravanPawnsDowned>{0} földre került</CaravanPawnsDowned>
   <CaravanTraveling>Utazik.</CaravanTraveling>
-  <CaravanPaused>Leállt.</CaravanPaused>
+  <!-- <CaravanPaused>Leállt.</CaravanPaused> -->
   <CaravanWaiting>Várakozik.</CaravanWaiting>
   <!-- <CaravanHoursPerTile>ó/mező</CaravanHoursPerTile> -->
   <!-- <CaravanBaseMovementTime>Alap sebesség</CaravanBaseMovementTime> -->
@@ -250,6 +250,13 @@
   <SnowThick>Hó (mély)</SnowThick>
 
   <!-- Turrets -->
+   <Turret>ágyú</Turret>
+   <Turrets>ágyúk</Turrets>
+   <Mortar>tarack</Mortar>
+   <Mortars>tarackok</Mortars>
+   <Enemy>ellenség</Enemy>
+  
+  
   <GunInstalled>Telepítve</GunInstalled>
   <MinimumRange>Minimum hatótáv</MinimumRange>
   <CanFireIn>Tűzkész</CanFireIn>

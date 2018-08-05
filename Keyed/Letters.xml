@@ -29,6 +29,10 @@
   <Neutral>Semleges</Neutral>
   <Death>Halál</Death>
   
+   <LetterDisease_Blocked>{0} blokkolta ezt: {1} rajta: {2}.</LetterDisease_Blocked>
+   <LetterLabelTraitDisease>Betegség ({0})</LetterLabelTraitDisease>
+   <LetterTraitDisease>{0} elkapta ezt a betegséget: {1}.\n\nEnsure you have a medical bed and a doctor. Biztosíts neki betegágyat és ellátást! Győződj meg róla, hogy gondját viselik és elég időt tölt ágyban!</LetterTraitDisease>
+  
   
   <ShortCircuitRain>Egy {0} rövidzárlatos lett az esőben és tüzet okozott.</ShortCircuitRain>
 
