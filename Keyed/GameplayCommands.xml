@@ -138,7 +138,8 @@
   <!-- Animal control -->
   <CommandReleaseAnimalsLabel>Állatok elengedése</CommandReleaseAnimalsLabel>
   <CommandReleaseAnimalsDesc>Bekapcsolt állapotban a befogott állatok távolabbi célpontokat is támadhatnak. Ha kikapcsolod, a gazdájukat védik.</CommandReleaseAnimalsDesc>
-
+  <CommandReleaseAnimalsFail_NoAnimals>Nincs állatod.</CommandReleaseAnimalsFail_NoAnimals>
+  
   <!-- Squad attack -->
   <CommandSquadAttack>Támad</CommandSquadAttack>
   <CommandSquadAttackDesc>Utasítja a kijelölt gyarmatosokat, hogy támadják meg a kiválasztott célpontot.</CommandSquadAttackDesc>
