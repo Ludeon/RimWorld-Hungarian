@@ -214,7 +214,7 @@
   <MessageTransportPodsArrivedAndAddedToCaravan>A kapszulák megérkeztek. Tartalmukat felpakolták ide: {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
   <!-- <MessageTransportPodsArrived_BecameHostile>{0} mostantól ellenség.</MessageTransportPodsArrived_BecameHostile> -->
 
-  <MessageFailedToLoadTransportersBecauseColonistLost>A berakodási folyamat leállt, mert legalább egy gyarmatos eltűnt.</MessageFailedToLoadTransportersBecauseColonistLost>
+  <!-- <MessageFailedToLoadTransportersBecauseColonistLost>A berakodási folyamat leállt, mert legalább egy gyarmatos eltűnt.</MessageFailedToLoadTransportersBecauseColonistLost> -->
 
   <MessageFinishedLoadingTransporters>A berakodási folyamat befejeződött.</MessageFinishedLoadingTransporters>
 
@@ -309,7 +309,8 @@
   <GoodwillChangedReason_Tended>hajlamos erre: {0}</GoodwillChangedReason_Tended>
   <GoodwillChangedReason_ReceivedGift>ajándékot kapott</GoodwillChangedReason_ReceivedGift>
   <GoodwillChangedReason_FulfilledTradeRequest>kereskedelmi kérést teljesített</GoodwillChangedReason_FulfilledTradeRequest>
-
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>feleslegesen beültetett {0}</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  
   <MessageGiftGivenButNotAppreciated>{0} elfogadja az ajándékod, de nem értékeli nagyra.</MessageGiftGivenButNotAppreciated>
 
   <MessageCantGiveGiftBecauseCantCarryEncumbered>A karaván már túl van terhelve, nem tud semmit mást elvinni.</MessageCantGiveGiftBecauseCantCarryEncumbered>

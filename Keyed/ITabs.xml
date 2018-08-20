@@ -22,6 +22,7 @@
   <!-- <TabCombat>Harc</TabCombat> -->
   <TabLog>Napló</TabLog>
   <TabFormingCaravan>Karaván</TabFormingCaravan>
+  <TabTransporterContents>Rakomány</TabTransporterContents>
 
   <!-- Bills tab  -->
   <AddBill>Megrendelés</AddBill>
@@ -166,5 +167,7 @@
   <LoadedItems>Rakomány</LoadedItems>
   <PackAnimalsCountLower>málhások</PackAnimalsCountLower>
   <InMentalStateCountLower>idegbetegek</InMentalStateCountLower>
-
+  
+  <RemoveSliderText>Eltávolít: {{0}}x {0}</RemoveSliderText>
+  <ConfirmRemoveItemDialog>Biztosan eltávolítod ezt: {0}?</ConfirmRemoveItemDialog>
 </LanguageData>

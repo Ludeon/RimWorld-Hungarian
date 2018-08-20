@@ -19,17 +19,9 @@ Some text used from the old partial translation created by:
 - SjoCi
 - Moredoor
 
-Status:
-
--Backstories                           [Started]
--DefInjected:                          [Translated]
--Keyed                                 [Translated]
--Stings                                [-]
--LangIcon.png                          [-]
--LanguageInfo.xml                      [Translated]
 ---------------------
 
-Game version: 0.19.1987
+Game version: 0.19.1998
 
 
 ==================================================================================================================================================================
