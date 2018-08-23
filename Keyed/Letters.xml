@@ -249,8 +249,8 @@
   <LetterHibernateCompleteStandalone>A reaktor felélesztési procedúrája befejezve. Immár kész egy felszálló űrhajót meghajtani.</LetterHibernateCompleteStandalone>
 
   <!-- Visitors gave gift -->
-  <LetterLabelVisitorsGaveGift>Ajándék</LetterLabelVisitorsGaveGift>
-  <LetterVisitorsGaveGift>Nehéz idők járnak rád, ezért segítünk rajtad.</LetterVisitorsGaveGift>
+  <LetterLabelVisitorsGaveGift>Ajándék tőle: {0}</LetterLabelVisitorsGaveGift>
+  <LetterVisitorsGaveGift>{0}, aki [PAWN_factionName] frakció tagja, a következő ajándékot hagyta itt neked:\n\n{1}.</LetterVisitorsGaveGift>
 
   <!-- Faction base proximity -->
   <LetterLabelFactionBaseProximity>Közeli frakcióbázis</LetterLabelFactionBaseProximity>

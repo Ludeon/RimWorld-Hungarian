@@ -25,10 +25,19 @@
   <!-- <KilledMajorColonyEnemy.stages.0.label>megölt egy főellenfelet</KilledMajorColonyEnemy.stages.0.label> -->
   <OpinionOfMyLover.stages.opinion_of_my.label>vélemény róla ({0}): {1}</OpinionOfMyLover.stages.opinion_of_my.label>
   <OpinionOfMyLover.stages.opinion_of_my.description>Ilyen érzés a szerelmemmel lenni.</OpinionOfMyLover.stages.opinion_of_my.description>
+  
+  <BondedAnimalMaster.stages.master_of.label>{0} gazdája</BondedAnimalMaster.stages.master_of.label>
+  <BondedAnimalMaster.stages.master_of.description>A hozzám kötődő állattal lenni jó érzés.</BondedAnimalMaster.stages.master_of.description>
+  
   <BondedAnimalMaster.stages.s_master.label>{0} gazdája</BondedAnimalMaster.stages.s_master.label>
   <BondedAnimalMaster.stages.s_master.description>A hozzám kötődő állattal lenni jó érzés.</BondedAnimalMaster.stages.s_master.description>
+  
   <NotBondedAnimalMaster.stages.not_s_master.label>nem {0} gazdája</NotBondedAnimalMaster.stages.not_s_master.label>
   <NotBondedAnimalMaster.stages.not_s_master.description>Együtt kéne lennem a hozzám kötődő állattal.</NotBondedAnimalMaster.stages.not_s_master.description>
+  
+  <NotBondedAnimalMaster.stages.not_master_of.label>nem {0} gazdája</NotBondedAnimalMaster.stages.not_master_of.label>
+  <NotBondedAnimalMaster.stages.not_master_of.description>Együtt kéne lennem a hozzám kötődő állattal.</NotBondedAnimalMaster.stages.not_master_of.description>
+  
   <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>szeretne együtt aludni vele: {0}</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>
   <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>Nem szeretek külön aludni a páromtól.</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>
 </LanguageData>
