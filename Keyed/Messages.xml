@@ -214,7 +214,7 @@
   <MessageTransportPodsArrivedAndAddedToCaravan>A kapszulák megérkeztek. Tartalmukat felpakolták ide: {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
   <!-- <MessageTransportPodsArrived_BecameHostile>{0} mostantól ellenség.</MessageTransportPodsArrived_BecameHostile> -->
 
-  <!-- <MessageFailedToLoadTransportersBecauseColonistLost>A berakodási folyamat leállt, mert legalább egy gyarmatos eltűnt.</MessageFailedToLoadTransportersBecauseColonistLost> -->
+  <MessageCantLoadMoreIntoTransporters>{1} berakodási folyamata leállt, mert legalább egy gyarmatos vagy tárgy elérhetetlenné vált ({0}).</MessageCantLoadMoreIntoTransporters>
 
   <MessageFinishedLoadingTransporters>A berakodási folyamat befejeződött.</MessageFinishedLoadingTransporters>
 
