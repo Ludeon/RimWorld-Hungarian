@@ -3,8 +3,8 @@
 
   <FactionGreetingHostile>{0} odavet pár gúnyos jelzőt a monitorra és kikapcsolja.</FactionGreetingHostile>
   <FactionGreetingHostileAppreciative>{0} követeli, hogy jó szándékod jeléül küldj ajándékot egyik településének vagy engedd szabadon frakciójának egy tagját. Amíg ennek eleget nem teszel, nem beszél veled.\n\nValami sértést motyogva kiszáll a vonalból.</FactionGreetingHostileAppreciative>
-  <FactionGreetingWary>{0} óvatosan üdvözli őt: {1} és megkérdi, mi ügyben hívta.</FactionGreetingWary>
-  <FactionGreetingWarm>{0} melegen üdvözli őt:{1} és kérdi, hogy halad a kolónia.</FactionGreetingWarm>
+  <FactionGreetingWary>{0} óvatosan üdvözli őt: {NEGOTIATOR_labelShort} és megkérdi, mi ügyben hívta.</FactionGreetingWary>
+  <FactionGreetingWarm>{0} melegen üdvözli őt: {NEGOTIATOR_labelShort} és kérdi, hogy halad a kolónia.</FactionGreetingWarm>
 
   <Disconnect>Kikapcsolás</Disconnect>
 

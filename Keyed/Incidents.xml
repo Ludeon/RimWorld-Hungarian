@@ -7,8 +7,8 @@
   <RefugeePodCrash_NonHostile>Figyelem: [PAWN_nameDef] [PAWN_factionName] frakció tagja. Az elfogása fel fogja bosszantani őket, de a megmentése és ellátása javítja a frakciók viszonyát.</RefugeePodCrash_NonHostile>
   <NormalQualityOrBetter>normál minőség vagy jobb</NormalQualityOrBetter>
 
-  <LetterLabelAnimalInsanitySingle>Megvadult állat: {0}!</LetterLabelAnimalInsanitySingle>
-  <AnimalInsanitySingle>Egy helyi {0} megvadult. Akit meglát, megtámadja.</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanitySingle>Megvadult állat: {ANIMAL_labelShort}!</LetterLabelAnimalInsanitySingle>
+  <AnimalInsanitySingle>Egy helyi {ANIMAL_label} megvadult. Akit meglát, megtámadja.</AnimalInsanitySingle>
   <LetterLabelAnimalInsanityMultiple>Megvadult állatok: {0}!</LetterLabelAnimalInsanityMultiple>
   <AnimalInsanityMultiple>Valamiféle pszichotikus hullám söpört végig a tájon. A gyarmatosok jól vannak, de...\n\nÚgy tűnik sok {0} megőrült a környéken.</AnimalInsanityMultiple>
 
@@ -22,13 +22,13 @@
   <!-- <EnemyRaidWalkIn>{1} egy csoportja ({0}) érkezett a közelbe.</EnemyRaidWalkIn> -->
   <!-- <EnemyRaidEdgeDrop>{1} egy csoportja ({0}) érkezett a közelbe mentőkabinokban.</EnemyRaidEdgeDrop> -->
   <!-- <EnemyRaidCenterDrop>{1} egy csoportja ({0}) érkezett pontosan a kolóniára!</EnemyRaidCenterDrop> -->
-  <EnemyRaidLeaderPresent>A {0} egyike a következő frakció vezetője: {1}.</EnemyRaidLeaderPresent>
+  <EnemyRaidLeaderPresent>A {LEADER_labelShort} egyike a következő frakció vezetője: {LEADER_factionPawnsPlural}.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
   <!-- <FriendlyRaidWalkIn>{1} egy barátságos csoportja ({0}) érkezett a közelbe.</FriendlyRaidWalkIn> -->
   <!-- <FriendlyRaidEdgeDrop>{1} egy barátságos csoportja ({0}) érkezett a közelbe földkörüli pályáról.</FriendlyRaidEdgeDrop> -->
   <!-- <FriendlyRaidCenterDrop>{1} egy barátságos csoportja ({0}) érkezett földkörüli pályáról pontosan a kolóniára!</FriendlyRaidCenterDrop> -->
-  <FriendlyRaidLeaderPresent>A {0} egyike a következő frakció vezetője: {1}.</FriendlyRaidLeaderPresent>
+  <FriendlyRaidLeaderPresent>A {LEADER_labelShort} egyike a következő frakció vezetője: {LEADER_factionPawnsPlural}.</FriendlyRaidLeaderPresent>
 
   <LetterLabelRefugeePodCrash>Mentőkabin</LetterLabelRefugeePodCrash>
   <RefugeePodCrash>A közelben lezuhant egy mentőkabin.\n\nHa túl is élte valaki a zuhanást, az súlyosan meg lesz sérülve.</RefugeePodCrash>
@@ -46,7 +46,7 @@
 
   <TraderArrival>Kereskedőhajó halad el a közelben.\n\n{0} néven ismertek. Besorolásuk: {1}.</TraderArrival>
 
-  <SingleTravelerPassing>{1} egy tagja ({0}) halad el a közelben. A neve {2}.</SingleTravelerPassing>
+  <SingleTravelerPassing>{1} egy tagja ({PAWN_title}) halad el a közelben. A neve {PAWN_nameFull}.</SingleTravelerPassing>
   <GroupTravelersPassing>Utazók haladnak el a közelben ({0}).</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>Látogató</LetterLabelSingleVisitorArrives>
@@ -56,7 +56,7 @@
   <LetterLabelGroupVisitorsArrive>Látogatók</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>{0} egy csoportja látogatja meg a kolóniát.{1}{2}</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nÚgy tűnik van náluk pár eladni való.</GroupVisitorsArriveTraderInfo>
-  <GroupVisitorsArriveLeaderInfo>\n\nAz egyik látogató, {0}, a frakció vezetője.</GroupVisitorsArriveLeaderInfo>
+  <GroupVisitorsArriveLeaderInfo>\n\nAz egyik látogató, {1_labelShort}, a frakció vezetője.</GroupVisitorsArriveLeaderInfo>
   <VisitorsLeaving>{0} tagjai elmennek.</VisitorsLeaving>
 
   <!-- <LetterLabelWandererJoin>Vándor csatlakozik</LetterLabelWandererJoin> -->
@@ -94,13 +94,13 @@
   <RefugeeChasedInitial>Egy [PAWN_nameDef] nevű [PAWN_title] hív a közelből. A nyomában {2} a(z) {3} frakcióból!\n\nMenedékért könyörög és felajánlja, hogy csatlakozik hozzád. Biológiailag {4} éves.\n\nFigyelem - ha befogadod, el kell kergetned az üldözőit ({2}). A csapatuk ebből áll:\n\n{5}.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Befogad</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Figyelmen kívül hagy</RefugeeChasedInitial_Reject>
-  <RefugeeChasedRejected>{0} pánikba esve üvölt a rádióból, ahogy megszakítod az adást.</RefugeeChasedRejected>
+  <RefugeeChasedRejected>{1_labelShort} pánikba esve üvölt a rádióból, ahogy megszakítod az adást.</RefugeeChasedRejected>
 
   <!-- Self-tame -->
-  <LetterLabelAnimalSelfTame>{0} megszelídült</LetterLabelAnimalSelfTame>
+  <LetterLabelAnimalSelfTame>{1_kind} megszelídült</LetterLabelAnimalSelfTame>
   <LetterAnimalSelfTame>{0} megszelídült.</LetterAnimalSelfTame>
-  <LetterAnimalSelfTameAndNameNumerical>{0} megszelídült. A neve mostantól {1}.</LetterAnimalSelfTameAndNameNumerical>
-  <LetterAnimalSelfTameAndName>{0} megszelídült. A gyarmatosok mostantól {1} néven szólítják.</LetterAnimalSelfTameAndName>
+  <LetterAnimalSelfTameAndNameNumerical>{0} megszelídült. A neve mostantól {ANIMAL_nameFull}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>{0} megszelídült. A gyarmatosok mostantól {ANIMAL_nameFull} néven szólítják.</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
   <LetterLabelFarmAnimalsWanderIn>{0} csatlakoznak</LetterLabelFarmAnimalsWanderIn>

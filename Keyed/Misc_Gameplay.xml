@@ -149,8 +149,8 @@
   <RoomSurgerySuccessChanceFactor>Szoba műtét sikerességi esély</RoomSurgerySuccessChanceFactor>
   <RoomInfectionChanceFactor>Szoba fertőzés kezelési esély</RoomInfectionChanceFactor>
   <VentClosed>Zárva</VentClosed>
-  <WornBy>{0} viseli</WornBy>
-  <EquippedBy>{0} használja</EquippedBy>
+  <WornBy>{1_labelShort} viseli</WornBy>
+  <EquippedBy>{1_labelShort} használja</EquippedBy>
   <QuestTargetDestroyInspectString>{0} el akarja pusztítani.\n    Jutalom: {1} ({2}).</QuestTargetDestroyInspectString>
   <WorldObjectTimeout>Határidő: {0}</WorldObjectTimeout>
   <!-- <LongRangeMineralScannerEfficiency>Hatékonyság: {0}</LongRangeMineralScannerEfficiency> -->
@@ -188,7 +188,7 @@
   <RangeTo>min, max</RangeTo>
   <NoDietCategoryLetter>Nincs jelölés</NoDietCategoryLetter>
   <ExpiresIn>Lejár ekkor</ExpiresIn>
-  <CaravanLeaderCaravanName>{0} karavánja</CaravanLeaderCaravanName>
+  <CaravanLeaderCaravanName>{1_labelShort} karavánja</CaravanLeaderCaravanName>
   <Reason>Ok</Reason>
   <RelationsWith>Viszony vele: {0}</RelationsWith>
   <capturedBy>{0} foglya</capturedBy>
@@ -238,9 +238,9 @@
 
   <!-- Control -->
   <CannotOrderNonControlled>Nem lehet parancsot adni nem irányított egységnek.</CannotOrderNonControlled>
-  <IsIncapableOfViolence>{0} nem képes erőszakra.</IsIncapableOfViolence>
+  <IsIncapableOfViolence>{1_labelShort} nem képes erőszakra.</IsIncapableOfViolence>
   <IsIncapableOfViolenceShort>nem képes erőszakra</IsIncapableOfViolenceShort>
-  <IsNotDrafted>{0} nincs besorozva.</IsNotDrafted>
+  <IsNotDrafted>{1_labelShort} nincs besorozva.</IsNotDrafted>
 
   <!-- Snow -->
   <SnowNone>Nincs hó</SnowNone>
@@ -262,12 +262,12 @@
   <CanFireIn>Tűzkész</CanFireIn>
   <CannotFire>Nem tüzelhet</CannotFire>
   <Roofed>tető alatt</Roofed>
-  <ShellLoaded>Betöltve: {0}</ShellLoaded>
+  <ShellLoaded>Betöltve: {1_label}</ShellLoaded>
   <ShellNotLoaded>Nincs betöltve</ShellNotLoaded>
 
   <!-- Job reports -->
-  <ReportHaulingTo>{0} cipelése ide: {1}.</ReportHaulingTo>
-  <ReportHauling>{0} cipelése.</ReportHauling>
+  <ReportHaulingTo>{THING_label} cipelése ide: {DESTINATION}.</ReportHaulingTo>
+  <ReportHauling>{1_label} cipelése.</ReportHauling>
   <ReportHaulingUnknown>cipekedik.</ReportHaulingUnknown>
   <ReportSleeping>alszik.</ReportSleeping>
   <ReportResting>pihen.</ReportResting>
@@ -282,7 +282,7 @@
   <ReportCowering>fedezékben van.</ReportCowering>
   <ReportStanding>áll.</ReportStanding>
   <ReportExtinguishingFire>tüzet olt.</ReportExtinguishingFire>
-  <ReportExtinguishingFireOn>{0} tüzét oltja.</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>{TARGET_label} tüzét oltja.</ReportExtinguishingFireOn>
   <ReportDiggingUpCorpse>tetemet ás ki.</ReportDiggingUpCorpse>
 
   <!-- Lord job reports -->
@@ -323,7 +323,7 @@
   <!-- Pawn info readout -->
   <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
   <PawnMainDescFactionedWrap>{0}, {1} tagja</PawnMainDescFactionedWrap>
-  <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
+  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <Faction>Frakció</Faction>
   <Equipped>Felszerelés</Equipped>
   <EquippedNothing>semmi</EquippedNothing>
@@ -376,7 +376,7 @@
   <RotStateDessicated>Kiszáradt</RotStateDessicated>
 
   <!-- Shooting tooltip -->
-  <ShotBy>{0} lövése</ShotBy>
+  <ShotBy>{1_labelShort} lövése</ShotBy>
   <CannotHit>Nem lőhet rá.</CannotHit>
   <ManhunterPerHit>Emberevővé válás esélye per találat</ManhunterPerHit>
 
@@ -447,7 +447,7 @@
 
   <!-- Fire -->
   <Fire>Tűz</Fire>
-  <FireOn>{0} ég</FireOn>
+  <FireOn>{1_label} ég</FireOn>
   <Burning>Ég</Burning>
   <FireSizeLower>Tűz nagysága: {0}</FireSizeLower>
 
@@ -553,10 +553,10 @@
   <MarriageSpotUsable>Használható.</MarriageSpotUsable>
   <MarriageSpotNotUsable>Nem használható: {0}.</MarriageSpotNotUsable>
   <MarriageSpotNotStandable>elzárt</MarriageSpotNotStandable>
-  <MarriageSpotDangerous>túl veszélyes {0} számára</MarriageSpotDangerous>
-  <MarriageSpotForbidden>tiltott {0} számára</MarriageSpotForbidden>
+  <MarriageSpotDangerous>túl veszélyes {1_labelShort} számára</MarriageSpotDangerous>
+  <MarriageSpotForbidden>tiltott {1_labelShort} számára</MarriageSpotForbidden>
   <MarriageSpotReserved>foglalt</MarriageSpotReserved>
-  <MarriageSpotUnreachable>elérhetetlen {0} számára</MarriageSpotUnreachable>
+  <MarriageSpotUnreachable>elérhetetlen {1_labelShort} számára</MarriageSpotUnreachable>
   <MarriageSpotInPrisonCell>fogdában</MarriageSpotInPrisonCell>
   <NotEnjoyableOutsideTemperature>nem optimális hőmérséklet</NotEnjoyableOutsideTemperature>
 

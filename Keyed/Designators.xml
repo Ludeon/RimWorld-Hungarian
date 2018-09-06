@@ -115,9 +115,9 @@
   <TooCloseToMapEdge>Túl közel van a térkép széléhez.</TooCloseToMapEdge>
   <OutOfBounds>Tiltott terület.</OutOfBounds>
   <CannotPlaceInUndiscovered>Nem helyezhető fel nem fedezett területre.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>Az interakció helyét {0} elzárja.</InteractionSpotBlocked>
+  <InteractionSpotBlocked>Az interakció helyét {1_labelShort} elzárja.</InteractionSpotBlocked>
   <InteractionSpotOutOfBounds>Az interakció helye tiltott terület.</InteractionSpotOutOfBounds>
-  <InteractionSpotWillBeBlocked>Az interakció helyét {0} fogja elzárni.</InteractionSpotWillBeBlocked>
+  <InteractionSpotWillBeBlocked>Az interakció helyét {1_labelShort} fogja elzárni.</InteractionSpotWillBeBlocked>
   <WouldBlockInteractionSpot>{0} elzárná {1} interakciójának helyét.</WouldBlockInteractionSpot>
   <TerrainIsAlready>A talaj itt már {0}.</TerrainIsAlready>
   <SurfaceBeingSmoothed>A felület itt már ki van jelölve egyengetésre.</SurfaceBeingSmoothed>

@@ -11,15 +11,15 @@
   <TabCaravanItems>Tárgyak</TabCaravanItems>
 
   <!-- Misc -->
-  <AbandonSliderText>Hátrahagy {{0}}x {0}</AbandonSliderText>
-  <ConfirmAbandonItemDialog>Biztosan hátra akarod hagyni ezt: {0}?\n\nA hátrahagyott tárgyak eltűnnek, sosem kaphatod vissza őket.</ConfirmAbandonItemDialog>
+  <AbandonSliderText>Hátrahagy {{1_labelShort}}x {1_labelShort}</AbandonSliderText>
+  <ConfirmAbandonItemDialog>Biztosan hátra akarod hagyni ezt: {1_label}?\n\nA hátrahagyott tárgyak eltűnnek, sosem kaphatod vissza őket.</ConfirmAbandonItemDialog>
   <AbandonTip>Hátrahagy</AbandonTip>
   <BanishTip>Száműz</BanishTip>
   <AbandonSpecificCountTip>Megadott mennyiséget hátrahagy</AbandonSpecificCountTip>
   <AbandonAllTip>Hátrahagy (mind)</AbandonAllTip>
   <AbandonItemTipExtraText>A hátrahagyott tárgyak eltűnnek, sosem kaphatod vissza őket.</AbandonItemTipExtraText>
   <!-- <AbandonTipWillDie>{0} szinte biztosan meghal.</AbandonTipWillDie> -->
-  <BanishTipWillDie>{0} nagy valószínűséggel meg fog halni.</BanishTipWillDie>
+  <BanishTipWillDie>{1_labelShort} nagy valószínűséggel meg fog halni.</BanishTipWillDie>
 
   <!-- Caravan inspect -->
   <CaravanColonists>Gyarmatosok</CaravanColonists>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <MessagePrisonerResistanceBroken>{1} megtörte {0} nevű fogoly ellenállását. Mostantól meg lehet próbálni toborozni.</MessagePrisonerResistanceBroken>
+  <MessagePrisonerResistanceBroken>{WARDEN_labelShort} megtörte {PRISONER_labelShort} nevű fogoly ellenállását. Mostantól meg lehet próbálni toborozni.</MessagePrisonerResistanceBroken>
 
   <MessageSiegersAssaulting>{1} tagjai ({0}) megrohamozzák a kolóniát.</MessageSiegersAssaulting>
 
@@ -31,11 +31,11 @@
 
   <MessageBillComplete>Feladat végrehajtva: {0}.</MessageBillComplete>
 
-  <MessageFullyHealed>{0} teljesen felépült.</MessageFullyHealed>
+  <MessageFullyHealed>{1_label} teljesen felépült.</MessageFullyHealed>
 
-  <MessagePrisonerIsEscaping>A következő fogoly szökésben: {0}.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>A következő fogoly szökésben: {1_labelShort}.</MessagePrisonerIsEscaping>
 
-  <MessageOutOfNearbyShellsFor>{0} nem talált szabad lövedéket {1} számára.</MessageOutOfNearbyShellsFor>
+  <MessageOutOfNearbyShellsFor>{PAWN_labelShort} nem talált szabad lövedéket {GUN_label} számára.</MessageOutOfNearbyShellsFor>
 
   <MessageAnimalsGoPsychoHunted>Figyelem: a(z) {0} gyakran támadnak, ha bántják őket. ({1} esély lőtávon, közelebb több).</MessageAnimalsGoPsychoHunted>
   <MessageAnimalManhuntsOnTameFailed>Figyelem: a(z) {0} támadhatnak, ha nem sikerül megszelídíteni őket. ({1} esély).</MessageAnimalManhuntsOnTameFailed>
@@ -43,7 +43,7 @@
   <LetterLabelMessageRecruitSuccess>Újonc</LetterLabelMessageRecruitSuccess>
   <MessageRecruitSuccess>{0} sikeresen toborozta őt:{1} ({2} esély).</MessageRecruitSuccess>
   <MessageTameSuccess>{0} sikeresen megszelídítette őt: {1} ({2} esély).</MessageTameSuccess>
-  <MessageTameAndNameSuccess>{0} sikeresen megszelídítette őt: {1} ({2} esély) és a(z) {3} nevet adta neki.</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort} sikeresen megszelídítette őt: {1} ({2} esély) és a(z) {RECRUITEE_nameFull} nevet adta neki.</MessageTameAndNameSuccess>
   <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>Elkezdődik a toborzás</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
 
   <MessageColonyCannotAfford>A kolónia nem engedheti meg magának ezt a vásárlást.</MessageColonyCannotAfford>
@@ -69,23 +69,23 @@
   <MessageMustDesignateForbiddable>Feloldott tárgyat kell kijelölni.</MessageMustDesignateForbiddable>
   <MessageMustDesignateUnforbiddable>Tiltott tárgyat kell kijelölni.</MessageMustDesignateUnforbiddable>
 
-  <MessageRefusedArrest>{0} nem hagyja magát!</MessageRefusedArrest>
+  <MessageRefusedArrest>{1_labelShort} nem hagyja magát!</MessageRefusedArrest>
 
   <MessageNoMedicalBeds>Nincs szabad betegágy.</MessageNoMedicalBeds>
   <MessageNoAnimalBeds>Nincs szabad állat fekhely.</MessageNoAnimalBeds>
   <MessageTooLowMedCare>Ehhez {0} vagy jobb kell, de {1} jelenlegi ellátási szintje {2}.</MessageTooLowMedCare>
   <!-- <PawnDiedBecauseOf>{0} meghalt. Ok: {1}.</PawnDiedBecauseOf> -->
-  <PawnDied>{0} meghalt.</PawnDied>
+  <PawnDied>{1_labelShort} meghalt.</PawnDied>
 
   <PawnDiedBecauseOf>{0} meghalt {1} miatt.</PawnDiedBecauseOf>
 
-  <MessageNoLongerDowned>{0} már képes járni.</MessageNoLongerDowned>
+  <MessageNoLongerDowned>{1_label} már képes járni.</MessageNoLongerDowned>
 
-  <MessageInvoluntarySleep>{0} összeesett, túlzott kimerültség miatt.</MessageInvoluntarySleep>
+  <MessageInvoluntarySleep>{1_labelShort} összeesett, túlzott kimerültség miatt.</MessageInvoluntarySleep>
 
-  <MessageMedicalOperationFailureCatastrophic>{0} katasztrofális hibát vétett {1} műtétje közben.</MessageMedicalOperationFailureCatastrophic>
-  <MessageMedicalOperationFailureMinor>{0} kisebb hibát vétett {1} műtétje közben.</MessageMedicalOperationFailureMinor>
-  <MessageMedicalOperationFailureRidiculous>{0} nevetséges hibát vétett {1} műtétje közben.</MessageMedicalOperationFailureRidiculous>
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} katasztrofális hibát vétett {PATIENT_labelShort} műtétje közben.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} kisebb hibát vétett {PATIENT_labelShort} műtétje közben.</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} nevetséges hibát vétett {PATIENT_labelShort} műtétje közben.</MessageMedicalOperationFailureRidiculous>
   <MessageMedicalOperationFailureFatal>{0} {1} operációja közben végzetes hibát vétett a következő különleges körülmény miatt: {2}</MessageMedicalOperationFailureFatal>
 
   <MessageMedicalOperationWillAngerFaction>Ettől az műtéttől {0} mérges lesz.</MessageMedicalOperationWillAngerFaction>
@@ -98,37 +98,37 @@
   <MessageMiscarriedPoorHealth>{0} elvetélt rossz egészségi állapota miatt.</MessageMiscarriedPoorHealth>
   <MessageGaveBirth>{0} gyereke megszületett.</MessageGaveBirth>
 
-  <MessageNuzzledPawnGaveNameTo>{0} a(z) {2} nevet adta neki: {1}, miután az hozzá dörgölőzött.</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} a(z) {NAMEE_nameFull} nevet adta neki: {1}, miután az hozzá dörgölőzött.</MessageNuzzledPawnGaveNameTo>
 
   <MessageNoHandlerSkilledEnough>Senki nem képes megszelídíteni őt: {0}. (szükséges {2} szint: {1}, legjobb idomárnak ({3}) {4} van).</MessageNoHandlerSkilledEnough>
 
-  <MessageEatenByPredator>{1} megette őt: {0}.</MessageEatenByPredator>
-  <MessageAttackedByPredator>{1} megtámadta őt: {0}!</MessageAttackedByPredator>
-  <MessagePredatorHuntingPlayerAnimal>{0} vadászik rá: {1}!</MessagePredatorHuntingPlayerAnimal>
+  <MessageEatenByPredator>{PREDATOR} megette őt: {EATEN_labelShort}.</MessageEatenByPredator>
+  <MessageAttackedByPredator>{PREDATOR} megtámadta őt: {PREY_labelShort}!</MessageAttackedByPredator>
+  <MessagePredatorHuntingPlayerAnimal>{PREDATOR} vadászik rá: {PREY_definite}!</MessagePredatorHuntingPlayerAnimal>
 
   <MessageHiveReproduced>Egy kaptár reprodukálta magát.</MessageHiveReproduced>
 
   <MessageTraderCaravanLeaving>{0} karavánja elmegy.</MessageTraderCaravanLeaving>
 
-  <MessageCantSelectDeadPawn>{0} meghalt.</MessageCantSelectDeadPawn>
-  <MessageCantSelectOffMapPawn>{0} nincs a térképen.</MessageCantSelectOffMapPawn>
+  <MessageCantSelectDeadPawn>{1_labelShort} meghalt.</MessageCantSelectDeadPawn>
+  <MessageCantSelectOffMapPawn>{1_labelShort} nincs a térképen.</MessageCantSelectOffMapPawn>
 
-  <MessageSocialFight>{0} és {1} verekszik.</MessageSocialFight>
+  <MessageSocialFight>{PAWN1_labelShort} és {PAWN2_labelShort} verekszik.</MessageSocialFight>
 
-  <MessageNewMarriageCeremony>A gyarmatosok összegyűlnek, hogy {0} és {1} házasságát ünnepeljék.</MessageNewMarriageCeremony>
-  <MessageMarriageCeremonyStarts>{0} és {1} megkezdik az esküvői ceremóniát!</MessageMarriageCeremonyStarts>
-  <MessageMarriageCeremonyCalledOff>{0} és {1} házassági ceremóniája lefújva.</MessageMarriageCeremonyCalledOff>
-  <MessageNewlyMarried>{0} és {1} megházasodtak. A gyarmatosok ünneplik őket.</MessageNewlyMarried>
-  <MessageMarriageCeremonyAfterPartyFinished>{0} és {1} esküvői ceremóniája véget ért.</MessageMarriageCeremonyAfterPartyFinished>
+  <MessageNewMarriageCeremony>A gyarmatosok összegyűlnek, hogy {PAWN1_labelShort} és {PAWN2_labelShort} házasságát ünnepeljék.</MessageNewMarriageCeremony>
+  <MessageMarriageCeremonyStarts>{PAWN1_labelShort} és {PAWN2_labelShort} megkezdik az esküvői ceremóniát!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyCalledOff>{PAWN1_labelShort} és {PAWN2_labelShort} házassági ceremóniája lefújva.</MessageMarriageCeremonyCalledOff>
+  <MessageNewlyMarried>{PAWN1_labelShort} és {PAWN2_labelShort} megházasodtak. A gyarmatosok ünneplik őket.</MessageNewlyMarried>
+  <MessageMarriageCeremonyAfterPartyFinished>{PAWN1_labelShort} és {PAWN2_labelShort} esküvői ceremóniája véget ért.</MessageMarriageCeremonyAfterPartyFinished>
 
-  <MessageNewBondRelation>{0} és {1} kötődnek egymáshoz.</MessageNewBondRelation>
-  <MessageNewBondRelationNewName>{0} és {1} kötődnek egymáshoz. {1} {0} által adott neve {2} lett.</MessageNewBondRelationNewName>
+  <MessageNewBondRelation>{HUMAN_labelShort} és {ANIMAL_labelShort} kötődnek egymáshoz.</MessageNewBondRelation>
+  <MessageNewBondRelationNewName>{HUMAN_labelShort} és {1} kötődnek egymáshoz. {1} {HUMAN_labelShort} által adott neve {ANIMAL_nameFull} lett.</MessageNewBondRelationNewName>
 
-  <MessageBondedAnimalMentalBreak>{0} idegösszeroppanást kapott {1} halála miatt.</MessageBondedAnimalMentalBreak>
-  <MessageNamedBondedAnimalMentalBreak>{1} nevű {0} idegösszeroppanást kapott {2} halála miatt.</MessageNamedBondedAnimalMentalBreak>
-  <MessageBondedAnimalsMentalBreak>{0} állat kapott idegösszeroppanást {1} halála miatt.</MessageBondedAnimalsMentalBreak>
+  <MessageBondedAnimalMentalBreak>{ANIMAL} idegösszeroppanást kapott {HUMAN_labelShort} halála miatt.</MessageBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_label} nevű {ANIMAL_kindIndef} idegösszeroppanást kapott {HUMAN_labelShort} halála miatt.</MessageNamedBondedAnimalMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{0} állat kapott idegösszeroppanást {HUMAN_labelShort} halála miatt.</MessageBondedAnimalsMentalBreak>
 
-  <MessageSuccessfullyRemovedHediff>{0} sikeresen meggyógyította őt: {1} ({2}).</MessageSuccessfullyRemovedHediff>
+  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} sikeresen meggyógyította őt: {PATIENT_labelShort} ({HEDIFF}).</MessageSuccessfullyRemovedHediff>
 
   <MessageShipChunkDrop>Egy űrjármű darabja zuhant le a közelben.</MessageShipChunkDrop>
 
@@ -137,17 +137,17 @@
 
   <MessageCannotSellItemsReason>Néhány tárgy nem adható el mert: </MessageCannotSellItemsReason>
 
-  <MessageConstructionFailed>{1} hibát vétett {0} építése közben. Némi alapanyag kárba ment.</MessageConstructionFailed>
+  <MessageConstructionFailed>{WORKER_labelShort} hibát vétett {0} építése közben. Némi alapanyag kárba ment.</MessageConstructionFailed>
 
   <MessageScreenshotSavedAs>Pillanatkép elmentve mint: {0}</MessageScreenshotSavedAs>
 
-  <MessageNoLongerSocialFighting>{0} és {1} már nem verekszik.</MessageNoLongerSocialFighting>
+  <MessageNoLongerSocialFighting>{PAWN1_labelShort} és {PAWN2_labelShort} már nem verekszik.</MessageNoLongerSocialFighting>
 
-  <MessageNoLongerBingingOnDrug>{0} már nem habzsolja ezt: {1}.</MessageNoLongerBingingOnDrug>
+  <MessageNoLongerBingingOnDrug>{2_labelShort} már nem habzsolja ezt: {1}.</MessageNoLongerBingingOnDrug>
 
-  <MessageNoLongerOnTargetedInsultingSpree>{0} leszállt róla: {1}, felhagyott az állandó sértegetéssel.</MessageNoLongerOnTargetedInsultingSpree>
+  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} leszállt róla: {TARGET_label}, felhagyott az állandó sértegetéssel.</MessageNoLongerOnTargetedInsultingSpree>
  
-  <MessageRottedAwayInStorage>Némi {0} elrohadt a raktárban.</MessageRottedAwayInStorage>
+  <MessageRottedAwayInStorage>Némi {1_label} elrohadt a raktárban.</MessageRottedAwayInStorage>
 
   <MessageFoodPoisoning>{0} ételmérgezést kapott ettől: {1}. Oka: {2}.</MessageFoodPoisoning>
   
@@ -168,11 +168,11 @@
   <MessagePlantDiedOfRot_LeftUnharvested>{0} elrohadt, mert nem lett betakarítva.</MessagePlantDiedOfRot_LeftUnharvested>
   <MessagePlantDiedOfRot_ExposedToLight>{0} elhalt, mert fénynek lett kitéve.</MessagePlantDiedOfRot_ExposedToLight>
   <MessagePlantDiedOfPoison>{0} elhalt, mert méreg érte.</MessagePlantDiedOfPoison>
-  <MessagePlantDiedOfBlight>{0} elhalt, mert penész fertőzte meg.</MessagePlantDiedOfBlight>
+  <MessagePlantDiedOfBlight>{1_label} elhalt, mert penész fertőzte meg.</MessagePlantDiedOfBlight>
 
-  <MessagePawnBeingBurned>{0} megégett szuperforró levegő miatt!</MessagePawnBeingBurned>
+  <MessagePawnBeingBurned>{1_labelShort} megégett szuperforró levegő miatt!</MessagePawnBeingBurned>
 
-  <MessageAccidentalOverdose>{0} véletlenül túladagolta ezt: {1}!</MessageAccidentalOverdose>
+  <MessageAccidentalOverdose>{INGESTER} véletlenül túladagolta ezt: {DRUG_labelShort}!</MessageAccidentalOverdose>
 
   <MessageCaravanArrivedAtDestination>{0} megérkezett a célhoz.</MessageCaravanArrivedAtDestination>
   <MessageCaravanIsVisitingSettlement>{0} megérkezett ide: {1}.</MessageCaravanIsVisitingSettlement>
@@ -181,7 +181,7 @@
 
   <MessageCaravanEnteredWorldObject>{0} megérkezett ide: {1}.</MessageCaravanEnteredWorldObject>
 
-  <MessagePawnLeftMapAndCreatedCaravan>{0} elhagyta a területet és karavánt alakított.</MessagePawnLeftMapAndCreatedCaravan>
+  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} elhagyta a területet és karavánt alakított.</MessagePawnLeftMapAndCreatedCaravan>
   
   <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>A csatlakozó állatok úton vannak.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
 
@@ -195,7 +195,7 @@
 
   <!-- <MessageOldWoundHealed>{0} segítségével elmúlt {1} következő problémája: {2}.</MessageOldWoundHealed> -->
 
-  <MessageRescueeJoined>Mivel megmentetted, {0} csatlakozott hozzád!</MessageRescueeJoined>
+  <MessageRescueeJoined>Mivel megmentetted, {1_labelShort} csatlakozott hozzád!</MessageRescueeJoined>
 
   <!-- <MessageAttackedCaravanIsNowHostile>Mivel megtámadtad {0} karavánját, mostantól ellenségek vagytok.</MessageAttackedCaravanIsNowHostile> -->
   <!-- <MessageFactionPawnCrushed>{0} emberveszteség beomlás miatt. Frakció kapcsolat: {1}</MessageFactionPawnCrushed> -->
@@ -214,7 +214,7 @@
   <MessageTransportPodsArrivedAndAddedToCaravan>A kapszulák megérkeztek. Tartalmukat felpakolták ide: {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
   <!-- <MessageTransportPodsArrived_BecameHostile>{0} mostantól ellenség.</MessageTransportPodsArrived_BecameHostile> -->
 
-  <MessageCantLoadMoreIntoTransporters>{1} berakodási folyamata leállt, mert legalább egy gyarmatos vagy tárgy elérhetetlenné vált ({0}).</MessageCantLoadMoreIntoTransporters>
+  <MessageCantLoadMoreIntoTransporters>{1} berakodási folyamata leállt, mert legalább egy gyarmatos vagy tárgy elérhetetlenné vált ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
 
   <MessageFinishedLoadingTransporters>A berakodási folyamat befejeződött.</MessageFinishedLoadingTransporters>
 
@@ -225,12 +225,12 @@
 
   <MessageCantBanishLastColonist>Az utolsó gyarmatost nem lehet száműzni.</MessageCantBanishLastColonist>
 
-  <MessageCantEquipIncapableOfViolence>Nem felvehető: {0} nem képes erőszakra.</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfViolence>Nem felvehető: {1_labelShort} nem képes erőszakra.</MessageCantEquipIncapableOfViolence>
   <MessageCantEquipIncapableOfManipulation>Nem felvehető: nem lehetséges.</MessageCantEquipIncapableOfManipulation>
 
-  <MessageSlaughteringBondedAnimal>Kötődésük miatt {0} levágása boldogtalanná teszi őt: {1}.</MessageSlaughteringBondedAnimal>
+  <MessageSlaughteringBondedAnimal>Kötődésük miatt {DESIGNATED_labelShort} levágása boldogtalanná teszi őt: {BONDED_labelShort}.</MessageSlaughteringBondedAnimal>
 
-  <MessageCaravanRanOutOfFood>{0} kifogyott az ételből ({1}).</MessageCaravanRanOutOfFood>
+  <MessageCaravanRanOutOfFood>{0} kifogyott az ételből ({PAWN_label}).</MessageCaravanRanOutOfFood>
 
   <MessageSelectOwnBaseToFormCaravan>Karaván alakításához válaszd ki a saját kolóniád vagy egy olyan helyet, ahol embereid vannak.</MessageSelectOwnBaseToFormCaravan>
 
@@ -240,8 +240,8 @@
 	
   <MessageDefendersAttacking>{1} tagja: {0} megtámadja ezt: {2}.</MessageDefendersAttacking>
 
-  <MessageSelfTendUnsatisfied>Az önellátáshoz {0} be kell legyen osztva orvosnak.</MessageSelfTendUnsatisfied>
-  <MessageCannotSelfTendEver>{0} nem képes orvosi munkára, ezért nem lehet önellátó.</MessageCannotSelfTendEver>
+  <MessageSelfTendUnsatisfied>Az önellátáshoz {1_labelShort} be kell legyen osztva orvosnak.</MessageSelfTendUnsatisfied>
+  <MessageCannotSelfTendEver>{1_labelShort} nem képes orvosi munkára, ezért nem lehet önellátó.</MessageCannotSelfTendEver>
 	
   <MessageCantAddWaypointBecauseImpassable>Ez a terület járhatatlan.</MessageCantAddWaypointBecauseImpassable>
   <MessageCantAddWaypointBecauseUnreachable>Ez a terület nem elérhető az előző állomás felől.</MessageCantAddWaypointBecauseUnreachable>
@@ -253,7 +253,7 @@
   <MessageSiteCountdownBecauseNoMoreEnemies>Minden ellenséget legyőztél. {0} múlva a karaván magától újjáalakul.</MessageSiteCountdownBecauseNoMoreEnemies>
   <MessageSiteCountdownBecauseNoEnemiesInitially>{0} múlva a karaván magától újjáalakul. A világtérképen újjáalakíthatod most is.</MessageSiteCountdownBecauseNoEnemiesInitially>
 
-  <MessageCantBanishDownedPawn>{0} nem száműzhető, mivel nem képes járni.</MessageCantBanishDownedPawn>
+  <MessageCantBanishDownedPawn>{1_labelShort} nem száműzhető, mivel nem képes járni.</MessageCantBanishDownedPawn>
 
   <MessageSleepingPawnsWokenUp>{0} felébredt.</MessageSleepingPawnsWokenUp>
 
@@ -265,8 +265,8 @@
 
   <MessagePawnResurrected>{0} feléledt!</MessagePawnResurrected>
 
-  <MessageFailedToRescueRelative>Nem sikerült megmenteni őt: {0}. {1} szomorú lesz.</MessageFailedToRescueRelative>
-  <MessageRescuedRelative>Megmentetted őt: {0}. {1} boldog lesz.</MessageRescuedRelative>
+  <MessageFailedToRescueRelative>Nem sikerült megmenteni őt: {PAWN_labelShort}. {RELATIVE_labelShort} szomorú lesz.</MessageFailedToRescueRelative>
+  <MessageRescuedRelative>Megmentetted őt: {PAWN_labelShort}. {RELATIVE_labelShort} boldog lesz.</MessageRescuedRelative>
 
   <!-- <MessagePrisonerRescued>Mivel megmentetted, [PAWN_nameDef] csatlakozott a kolóniádhoz.</MessagePrisonerRescued> -->
 
@@ -277,11 +277,11 @@
 
   <MessageWarningCavePlantsExposedToLight>Figyelem: {0} elhal, ha fény éri.</MessageWarningCavePlantsExposedToLight>
 
-  <MessageTargetedTantrumChangedTarget>{0} nem tudott {1} közelébe férkőzni, ezért a haragját rajta töltötte ki: {2}.</MessageTargetedTantrumChangedTarget>
+  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} nem tudott {OLDTARGET_label} közelébe férkőzni, ezért a haragját rajta töltötte ki: {TARGET_label}.</MessageTargetedTantrumChangedTarget>
 
-  <MessageTargetedInsultingSpreeChangedTarget>{0} nem tudott {1} közelébe férkőzni, ezért a haragját rajta töltötte ki: {2}.</MessageTargetedInsultingSpreeChangedTarget>
+  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} nem tudott {OLDTARGET_label} közelébe férkőzni, ezért a haragját rajta töltötte ki: {TARGET_label}.</MessageTargetedInsultingSpreeChangedTarget>
   
-  <MessageMurderousRageChangedTarget>{0} úgy döntött, a haragját rajta tölti ki: {1}.</MessageMurderousRageChangedTarget>
+  <MessageMurderousRageChangedTarget>{PAWN_labelShort} úgy döntött, a haragját rajta tölti ki: {TARGET_label}.</MessageMurderousRageChangedTarget>
 
   <MessagePlantIncompatibleWithRoof>{0} nem terem tető alatt.</MessagePlantIncompatibleWithRoof>
   <MessageRoofIncompatibleWithPlant>{0} fölé nem építhető tető.</MessageRoofIncompatibleWithPlant>
@@ -290,23 +290,23 @@
 
   <!-- <MessageBlockedHediff>{0} eltorlaszolja ezt: {1} itt: {2}.</MessageBlockedHediff> -->
 
-  <MessageCraftedMasterwork>{0} létrehozott egyet ebből: {1}.</MessageCraftedMasterwork>
+  <MessageCraftedMasterwork>{WORKER_labelShort} létrehozott egyet ebből: {CRAFTED_labelShort}.</MessageCraftedMasterwork>
 
   <MessagePlayerTriedToLeaveMapViaExitGrid>A körzet elhagyásához használd a "Karaván újjáalakítása" gombot a világtérképen.</MessagePlayerTriedToLeaveMapViaExitGrid>
 
   <MessageGoodwillChanged>A viszony vele: ({0}), erről: ({1}), erre változott: ({2}).</MessageGoodwillChanged>
   <MessageGoodwillChangedWithReason>A viszony vele: ({0}), erről: ({1}), erre változott: ({2}), ({3}).</MessageGoodwillChangedWithReason>
-  <GoodwillChangedReason_AttackedPawn>megtámadta őt: {0}</GoodwillChangedReason_AttackedPawn>
-  <GoodwillChangedReason_UsedItem>használta ezt: {0}, rajta: {1}</GoodwillChangedReason_UsedItem>
+  <GoodwillChangedReason_AttackedPawn>megtámadta őt: {1_labelShort}</GoodwillChangedReason_AttackedPawn>
+  <GoodwillChangedReason_UsedItem>használta ezt: {ITEM_labelShort}, rajta: {TARGET_labelShort}</GoodwillChangedReason_UsedItem>
   <GoodwillChangedReason_RemovedBodyPart>begyűjtötte ezt: {0}</GoodwillChangedReason_RemovedBodyPart>
-  <GoodwillChangedReason_CapturedPawn>elfogta őt: {0}</GoodwillChangedReason_CapturedPawn>
-  <GoodwillChangedReason_PawnCrushed>{0} összezúzódott</GoodwillChangedReason_PawnCrushed>
-  <GoodwillChangedReason_PawnDied>{0} meghalt</GoodwillChangedReason_PawnDied>
+  <GoodwillChangedReason_CapturedPawn>elfogta őt: {1_labelShort}</GoodwillChangedReason_CapturedPawn>
+  <GoodwillChangedReason_PawnCrushed>{1_labelShort} összezúzódott</GoodwillChangedReason_PawnCrushed>
+  <GoodwillChangedReason_PawnDied>{1_labelShort} meghalt</GoodwillChangedReason_PawnDied>
   <GoodwillChangedReason_Traded>kereskedett</GoodwillChangedReason_Traded>
   <GoodwillChangedReason_AttackedCaravan>megtámadott egy karavánt</GoodwillChangedReason_AttackedCaravan>
   <GoodwillChangedReason_NaturallyOverTime>természetes haladás efelé: {0}</GoodwillChangedReason_NaturallyOverTime>
-  <GoodwillChangedReason_ExitedMapHealthy>{0} egészségesen elhagyta a térképet</GoodwillChangedReason_ExitedMapHealthy>
-  <GoodwillChangedReason_Tended>hajlamos erre: {0}</GoodwillChangedReason_Tended>
+  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} egészségesen elhagyta a térképet</GoodwillChangedReason_ExitedMapHealthy>
+  <GoodwillChangedReason_Tended>hajlamos erre: {1_labelShort}</GoodwillChangedReason_Tended>
   <GoodwillChangedReason_ReceivedGift>ajándékot kapott</GoodwillChangedReason_ReceivedGift>
   <GoodwillChangedReason_FulfilledTradeRequest>kereskedelmi kérést teljesített</GoodwillChangedReason_FulfilledTradeRequest>
   <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>feleslegesen beültetett {0}</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
@@ -326,7 +326,7 @@
   <MessageBillValidationIncludeZoneUnavailable>{1} segítségével végzett "{0}" termékét nem lehet ezen a nem elérhető raktárterületen számlálni: {2}.</MessageBillValidationIncludeZoneUnavailable>
   <MessageBillValidationStoreZoneInsufficient>{1} segítségével végzett "{0}" terméke már nem fér erre a raktárterületre: {2}.</MessageBillValidationStoreZoneInsufficient>
 
-  <MessageAnimalReturnedWild>Foglalkozás hiánya miatt {0} újra elvadult.</MessageAnimalReturnedWild>
+  <MessageAnimalReturnedWild>Foglalkozás hiánya miatt {1_labelShort} újra elvadult.</MessageAnimalReturnedWild>
   <MessageAnimalLostSkill>Foglalkozás hiánya miatt {0} elvesztette a következő készséget: {1}</MessageAnimalLostSkill>
 
   <MessageTranslationReportSaved>Fordítási jelentés megírva ide: {0}</MessageTranslationReportSaved>

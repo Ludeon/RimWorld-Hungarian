@@ -5,8 +5,8 @@
   <PostponeLetter>Halaszt</PostponeLetter>
   <RejectLetter>Elutasít</RejectLetter>
   
-   <LetterLabelPredatorHuntingColonist>{0} vadászik rá: {1}</LetterLabelPredatorHuntingColonist>
-   <LetterPredatorHuntingColonist>{0} vadászik rá: {1}!</LetterPredatorHuntingColonist>
+   <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort} vadászik rá: {PREY_definite}</LetterLabelPredatorHuntingColonist>
+   <LetterPredatorHuntingColonist>{PREDATOR} vadászik rá: {PREY_definite}!</LetterPredatorHuntingColonist>
    <TranslationThanks>Minden RimWorld fordítás rajongók által készül. Ezt a magyarítást a következő rajongók készítették:\n\n{0}</TranslationThanks>
    <TranslationHowToContribute>Te is segíthetsz! Hogy többet megtudj, klikkelj az alábbi gombra (böngészőt nyit meg)!</TranslationHowToContribute>
    <LearnMore>További info</LearnMore>
@@ -34,7 +34,7 @@
    <LetterTraitDisease>{0} elkapta ezt a betegséget: {1}.\n\nEnsure you have a medical bed and a doctor. Biztosíts neki betegágyat és ellátást! Győződj meg róla, hogy gondját viselik és elég időt tölt ágyban!</LetterTraitDisease>
   
   
-  <ShortCircuitRain>Egy {0} rövidzárlatos lett az esőben és tüzet okozott.</ShortCircuitRain>
+  <ShortCircuitRain>Egy {1_label} rövidzárlatos lett az esőben és tüzet okozott.</ShortCircuitRain>
 
   <LetterLabelAreaRevealed>Felfedezés</LetterLabelAreaRevealed>
   <AreaRevealed>Egy új terület lett felfedezve.</AreaRevealed>
@@ -55,14 +55,14 @@
   <BirthdayBiologicalAgeInjuries>{0} biológiai kora {1} lett.\n\nSajnos {0} a következő betegségeket szedte össze a kora miatt:\n{2}</BirthdayBiologicalAgeInjuries>
 
   <LetterLabelNewDisease>Betegség</LetterLabelNewDisease>
-  <NewDisease>{0} beteg lett ({1}). Győződj meg róla, hogy {2} megfelelő ellátást kap és annyi időt tölt ágyban, amennyit csak lehetséges, hogy gyorsan felépüljön.</NewDisease>
+  <NewDisease>{PAWN} beteg lett ({1}). Győződj meg róla, hogy {PAWN_definite} megfelelő ellátást kap és annyi időt tölt ágyban, amennyit csak lehetséges, hogy gyorsan felépüljön.</NewDisease>
   <NewPartDisease>{0} {1} fertőzést kapott ({3}). Győződj meg róla, hogy {2} megfelelő ellátást kap és annyi időt tölt ágyban, amennyit csak lehetséges, hogy gyorsan felépüljön.</NewPartDisease>
   <NewDiseaseAnimal>{0} beteg lett ({1})</NewDiseaseAnimal>
   <NewPartDiseaseAnimal>{0} {1} fertőzést kapott ({3})</NewPartDiseaseAnimal>
 
-  <PawnWasFormerlyColonist>{0} korábban a frakciód tagja volt.</PawnWasFormerlyColonist>
-  <PawnHasTheseRelationshipsWithColonists>{0} ezekkel a gyarmatosokkal áll kapcsolatban:</PawnHasTheseRelationshipsWithColonists>
-  <PrisonerRescueTimeout>A táborhely megszűnik {0} nap múlva. Ha elszalasztod ezt a lehetőséget, talán soha többé nem hallasz {1} felől.</PrisonerRescueTimeout>
+  <PawnWasFormerlyColonist>{1_labelShort} korábban a frakciód tagja volt.</PawnWasFormerlyColonist>
+  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} ezekkel a gyarmatosokkal áll kapcsolatban:</PawnHasTheseRelationshipsWithColonists>
+  <PrisonerRescueTimeout>A táborhely megszűnik {0} nap múlva. Ha elszalasztod ezt a lehetőséget, talán soha többé nem hallasz {PRISONER_labelShort} felől.</PrisonerRescueTimeout>
 
   <LetterLabelAncientShrineWarning>Ősveszély</LetterLabelAncientShrineWarning>
   <AncientShrineWarning>Ahogy {0} közeledik az ősi falhoz, rossz előérzete támad. Nem biztos benne miért, de úgy érzi, ez a poros épület nagy veszélyt rejteget.</AncientShrineWarning>
@@ -70,12 +70,12 @@
   <StruckMineable>A következőbe ütköztünk: {0}!</StruckMineable>
 
   <LetterLabelAnimalManhunterRevenge>{0} bosszú</LetterLabelAnimalManhunterRevenge>
-  <AnimalManhunterFromDamage>[PAWN_indefinite] támad, mert bántották!</AnimalManhunterFromDamage>
-  <AnimalManhunterFromTaming>[PAWN_indefinite] támad, mert megpróbálták megszelídíteni!</AnimalManhunterFromTaming>
-  <AnimalManhunterOthers>Egy másik {0} a közelben szintén megvadult!</AnimalManhunterOthers>
+  <AnimalManhunterFromDamage>{1_indefinite} támad, mert bántották!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>{1_indefinite} támad, mert megpróbálták megszelídíteni!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>Egy másik {1_kindBasePlural} a közelben szintén megvadult!</AnimalManhunterOthers>
 
-  <LetterFriendlyTrapSprungLabel>{0} csapdába esett</LetterFriendlyTrapSprungLabel>
-  <LetterFriendlyTrapSprung>{0} véletlenül csapdába esett és megsérült.</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprungLabel>{1_labelShort} csapdába esett</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{1_labelShort} véletlenül csapdába esett és megsérült.</LetterFriendlyTrapSprung>
 
   <LetterHealthComplications>{0} betegséget szedett össze: {1}\n\nEz a következő komplikációja: {2}.</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
@@ -95,7 +95,7 @@
   <LastFactionRelationsEvent>Az utolsó esemény</LastFactionRelationsEvent>
 
   <ReadMore>Tovább olvas</ReadMore>
-  <LastEventsInLife>Az utolsó esemény {0} életében</LastEventsInLife>
+  <LastEventsInLife>Az utolsó esemény {PAWN_definite} életében</LastEventsInLife>
 
   <!-- Related pawns -->
   <LetterLabelNoticedRelatedPawns>Rokonság</LetterLabelNoticedRelatedPawns>
@@ -118,15 +118,15 @@
 
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Viszony</LetterLabelAffair>
-  <LetterAffair>{0} és {1} bár házasok, {0} és {2} viszonyt kezdett.</LetterAffair>
+  <LetterAffair>{PAWN1_labelShort} és {SPOUSE_labelShort} bár házasok, {PAWN1_labelShort} és {PAWN2_labelShort} viszonyt kezdett.</LetterAffair>
   <LetterLabelNewLovers>Új szerelmes pár</LetterLabelNewLovers>
   <!-- <LetterNewLovers>{0} és {1} összejöttek és egy pár lettek.</LetterNewLovers> -->
-  <LetterNoLongerLovers>{0} és {1} szakítottak egymással.</LetterNoLongerLovers>
+  <LetterNoLongerLovers>{PAWN1_labelShort} és {PAWN2_labelShort} szakítottak egymással.</LetterNoLongerLovers>
   <LetterLabelBreakup>Szakítás</LetterLabelBreakup>
   <LetterLabelAcceptedProposal>Igent mondott!</LetterLabelAcceptedProposal>
   <LetterLabelRejectedProposal>Kikosarazva!</LetterLabelRejectedProposal>
   <LetterAcceptedProposal>Valamikor a közeli jövőben megtartják a ceremóniát, ahová minden gyarmatost meghívnak. Helyezz el házasságkötő pontot, ha befolyásolni akarod az ünnepség helyét.</LetterAcceptedProposal>
-  <LetterRejectedProposal>{0} le lesz lombozva ettől.</LetterRejectedProposal>
+  <LetterRejectedProposal>{INITIATOR_nameFull} le lesz lombozva ettől.</LetterRejectedProposal>
 
   <!-- Generalized letter labels -->
   <!-- <LetterLabelRelationsChangeGood>Jókívánság</LetterLabelRelationsChangeGood> -->
@@ -145,7 +145,7 @@
   <!-- <LetterBondedAnimalDiedMulti>{0} kimúlt. Ez a következő emberek hangulatát befolyásolja:\n\n{1}</LetterBondedAnimalDiedMulti> -->
   <!-- <LetterNamedBondedAnimalDiedMulti>{1} nevű {0} kimúlt. Ez a következő emberek hangulatát befolyásolja:\n\n{2}</LetterNamedBondedAnimalDiedMulti> -->
   <LetterLabelSuffixBondedAnimalDied>kötődő állat</LetterLabelSuffixBondedAnimalDied>
-  <LetterPartBondedAnimalDied>{0}, {1} állata kimúlt. Ez befolyásolja {1} hangulatát.</LetterPartBondedAnimalDied>
+  <LetterPartBondedAnimalDied>{ANIMAL_definite}, {HUMAN_labelShort} állata kimúlt. Ez befolyásolja {HUMAN_labelShort} hangulatát.</LetterPartBondedAnimalDied>
   <LetterPartBondedAnimalDiedMulti>Ez a következő emberek hangulatát befolyásolja:\n\n{0}</LetterPartBondedAnimalDiedMulti>
 
   <!-- Prison break -->
@@ -154,7 +154,7 @@
 
   <!-- Party -->
   <LetterLabelNewParty>Buli!</LetterLabelNewParty>
-  <LetterNewParty>{0} bulit rendez! Aki elmegy élvezni fogja, hosszan tartó hangulatjavulást eredményezve.</LetterNewParty>
+  <LetterNewParty>{1_labelShort} bulit rendez! Aki elmegy élvezni fogja, hosszan tartó hangulatjavulást eredményezve.</LetterNewParty>
 
   <!-- Newly addicted -->
 
@@ -164,7 +164,7 @@
   <!-- Drug binge -->
 
   <LetterLabelDrugBinge>{0} tivornyázik</LetterLabelDrugBinge>
-  <LetterDrugBinge>{0} ezt habzsolja: {1}.</LetterDrugBinge>
+  <LetterDrugBinge>{2_label} ezt habzsolja: {1}.</LetterDrugBinge>
   
   <!-- Formed caravan -->
   <!-- <LetterLabelFormedCaravan>Karaván kész</LetterLabelFormedCaravan> -->
@@ -202,7 +202,7 @@
 
   <!-- Found lump of precious resources -->
   <LetterLabelFoundPreciousLump>Értékes ásványok</LetterLabelFoundPreciousLump>
-  <LetterFoundPreciousLump>Nagy hatótávú ásvány-letapogatód segítségével {3} talált egy értékes {0} telért.\n\nSajnos nem lesz elérhető örökké, {1} nap múlva mások teszik rá a kezüket.\n\n{2}.</LetterFoundPreciousLump>
+  <LetterFoundPreciousLump>Nagy hatótávú ásvány-letapogatód segítségével {WORKER_labelShort} talált egy értékes {0} telért.\n\nSajnos nem lesz elérhető örökké, {1} nap múlva mások teszik rá a kezüket.\n\n{2}.</LetterFoundPreciousLump>
  
   <!-- Sleeping mechanoids -->
   <!-- <LetterLabelSleepingMechanoids>Alvó mechanoidok</LetterLabelSleepingMechanoids> -->
@@ -235,7 +235,7 @@
   <LetterAICoreOffer>{0} aki {1} tagja, információt szeretne átadni neked: egy MI személyiségközpont helyét, amire szükséged lesz az űrhajó építéséhez. Azt is megosztják veled, hogy ez egy igen ritka és értékes tárgy, emiatt a tulajdonosai biztosan erősen védik.\n\nHívd vissza őt a kommunikációs konzollal, ha érdekel az ajánlat.</LetterAICoreOffer>
 
   <LetterCraftedLegendaryLabel>Legendás mű</LetterCraftedLegendaryLabel>
-  <LetterCraftedLegendaryMessage>{0} létrehozta ezt: {1}.\n\nAz értékes ereklye híre be fogja járni a világot.</LetterCraftedLegendaryMessage>
+  <LetterCraftedLegendaryMessage>{WORKER_labelShort} létrehozta ezt: {CRAFTED_labelShort}.\n\nAz értékes ereklye híre be fogja járni a világot.</LetterCraftedLegendaryMessage>
 
   <!-- Pawns lost because map closed -->
   <LetterLabelPawnsLostBecauseMapClosed_Caravan>Eltűnt karaván</LetterLabelPawnsLostBecauseMapClosed_Caravan>

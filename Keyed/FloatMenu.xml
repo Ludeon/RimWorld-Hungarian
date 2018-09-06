@@ -8,23 +8,23 @@
   <CannotUseNoPath>Nem lehetséges (nem megközelíthető)</CannotUseNoPath>
   <CannotUseReserved>Nem használható (fenntartott)</CannotUseReserved>
   <CannotUseFull>Nem használható (tele van)</CannotUseFull>
-  <LeaderUnavailable>{0} vezér nem elérhető</LeaderUnavailable>
+  <LeaderUnavailable>{1_labelShort} vezér nem elérhető</LeaderUnavailable>
   <LeaderUnavailableNoLeader>vezér nem elérhető</LeaderUnavailableNoLeader>
 
-  <FireAt>Tüzelni erre: {0} </FireAt>
+  <FireAt>Tüzelni erre: {1_labelShort} </FireAt>
 
   <OutOfRange>túl messze van</OutOfRange>
   <CannotHitTarget>nem lehet eltalálni</CannotHitTarget>
-  <IsIncapableOfViolenceLower>{0} nem képes erőszakra</IsIncapableOfViolenceLower>
+  <IsIncapableOfViolenceLower>{1_labelShort} nem képes erőszakra</IsIncapableOfViolenceLower>
   <IncapableOfViolenceLower>nem képes erőszakra</IncapableOfViolenceLower>
-  <IsNotDraftedLower>{0} nincs besorozva</IsNotDraftedLower>
+  <IsNotDraftedLower>{1_labelShort} nincs besorozva</IsNotDraftedLower>
   <CannotOrderNonControlledLower>nem adható parancs nem irányítható egységnek</CannotOrderNonControlledLower>
   <CannotAttackSelf>nem támadhatod meg magad</CannotAttackSelf>
   
-  <OrderManThing>{0} működtetése</OrderManThing>
+  <OrderManThing>{1_labelShort} működtetése</OrderManThing>
 
-  <MeleeAttack>Támadd közelharcban ezt: {0}</MeleeAttack>
-  <MeleeAttackToDeath>Támadd közelharcban {0} míg meg nem hal</MeleeAttackToDeath>
+  <MeleeAttack>Támadd közelharcban ezt: {1_label}</MeleeAttack>
+  <MeleeAttackToDeath>Támadd közelharcban ezt: {1_label}, míg meg nem hal</MeleeAttackToDeath>
   <NoPath>nem megközelíthető</NoPath>
 
   <ForbiddenLower>tilos</ForbiddenLower>
@@ -65,23 +65,23 @@
   <CantSowCavePlantBecauseUnroofed>fedetlen</CantSowCavePlantBecauseUnroofed>
   <IncapableOfDeconstruction>bontásra képtelen</IncapableOfDeconstruction>
   
-  <ConsumeThing>Elfogyaszt: {0}</ConsumeThing>
+  <ConsumeThing>Elfogyaszt: {1_labelShort}</ConsumeThing>
   <!-- <Teetotaler>antialkoholista</Teetotaler> -->
 
   <CannotGoNoPath>Nem lehet ide eljutni (nem megközelíthető)</CannotGoNoPath>
   <GoHere>Menj ide</GoHere>
 
   <Arrest>Tartóztasd le őt: {0}</Arrest>
-  <TryToArrest>Próbáld meg letartóztatni őt: {0}</TryToArrest>
+  <TryToArrest>Próbáld meg letartóztatni őt: {1_label}</TryToArrest>
   <CannotArrest>Nem tudja letartóztatni</CannotArrest>
 
-  <Capture>Fogd el őt: {0}</Capture>
+  <Capture>Fogd el őt: {1_label}</Capture>
   <CannotCapture>Nem tudja elfogni</CannotCapture>
 
-  <Rescue>Mentsd meg őt: {0}</Rescue>
+  <Rescue>Mentsd meg őt: {1_label}</Rescue>
   <CannotRescue>Nem tudja megmenteni</CannotRescue>
 
-  <CarryToCryptosleepCasket>Vidd el a hibernálóba őt: {0}</CarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>Vidd el a hibernálóba őt: {1_label}</CarryToCryptosleepCasket>
   <CannotCarryToCryptosleepCasket>Nem lehet a hibernálóba vinni</CannotCarryToCryptosleepCasket>
 
   <NoCryptosleepCasket>Nincs szabad hibernáló.</NoCryptosleepCasket>
@@ -89,7 +89,7 @@
   <NoNonPrisonerBed>Nincs használható, nem rabnak szánt ágy.</NoNonPrisonerBed>
   <NoAnimalBed>Nincs elérhető, nem foglalt fekhely.</NoAnimalBed>
   <Reserved>Másnak van fenntartva.</Reserved>
-  <ReservedBy>Fenntartva neki: {0}.</ReservedBy>
+  <ReservedBy>Fenntartva neki: {1_labelShort}.</ReservedBy>
   <IsReservedBy>{0} fenntartva neki: {1}.</IsReservedBy>
   <TooHeavy>Túl nehéz</TooHeavy>
 
@@ -102,47 +102,47 @@
   <Equip>Használd ezt: {0}</Equip>
   <EquipWarningBrawler>(nem lesz boldog)</EquipWarningBrawler>
   <CannotEquip>Nem tudja használni ezt:{0}</CannotEquip>
-  <CannotManThing>Nem tudja működtetni ezt: {0}</CannotManThing>
+  <CannotManThing>Nem tudja működtetni ezt: {1_labelShort}</CannotManThing>
 
-  <ForceWear>Kényszerített viselet: {0}</ForceWear>
-  <CannotWear>Nem viselheti ezt: {0}</CannotWear>
+  <ForceWear>Kényszerített viselet: {1_labelShort}</ForceWear>
+  <CannotWear>Nem viselheti ezt: {1_label}</CannotWear>
   <CannotWearBecauseOfMissingBodyParts>hiányzó testrész</CannotWearBecauseOfMissingBodyParts>
   
-  <CannotPickUp>Nem lehet felvenni ezt: {0}</CannotPickUp>
-  <CannotPickUpAll>Nem lehet felvenni az összest: {0}</CannotPickUpAll>
-  <PickUp>Felvenni ezt: {0}</PickUp>
-  <PickUpAll>Felvenni az összest: {0}</PickUpAll>
-  <PickUpSome>Felvenni ebből: {0}</PickUpSome>
-  <PickUpCount>Felvenni {{0}}db-t ebből: {0}</PickUpCount>
+  <CannotPickUp>Nem lehet felvenni ezt: {1_label}</CannotPickUp>
+  <CannotPickUpAll>Nem lehet felvenni az összest: {1_label}</CannotPickUpAll>
+  <PickUp>Felvenni ezt: {1_label}</PickUp>
+  <PickUpAll>Felvenni az összest: {1_label}</PickUpAll>
+  <PickUpSome>Felvenni ebből: {1_labelShort}</PickUpSome>
+  <PickUpCount>Felvenni {{1_labelShort}}db-t ebből: {1_labelShort}</PickUpCount>
 
-  <CannotGiveToPackAnimal>Nem lehet a málhásra rakni ezt: {0}</CannotGiveToPackAnimal>
-  <CannotGiveToPackAnimalAll>Nem lehet az összest a málhásra rakni: {0}</CannotGiveToPackAnimalAll>
-  <GiveToPackAnimal>Málhásra rakni ezt: {0}</GiveToPackAnimal>
-  <GiveToPackAnimalAll>Málhásra rakni az összest:{0}</GiveToPackAnimalAll>
-  <GiveToPackAnimalSome>Málhásra rakni ebből: {0}</GiveToPackAnimalSome>
-  <GiveToPackAnimalCount>{{0}}db-t ebből: {0}</GiveToPackAnimalCount>
+  <CannotGiveToPackAnimal>Nem lehet a málhásra rakni ezt: {1_label}</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>Nem lehet az összest a málhásra rakni: {1_label}</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>Málhásra rakni ezt: {1_label}</GiveToPackAnimal>
+  <GiveToPackAnimalAll>Málhásra rakni az összest:{1_label}</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>Málhásra rakni ebből: {1_labelShort}</GiveToPackAnimalSome>
+  <GiveToPackAnimalCount>{{1_labelShort}}db-t ebből: {1_labelShort}</GiveToPackAnimalCount>
   
-  <CannotLoadIntoCaravan>Nem lehet a karavánra rakodni ezt: {0}</CannotLoadIntoCaravan>
-  <CannotLoadIntoCaravanAll>Nem lehet az összest a karavánra rakodni: {0}</CannotLoadIntoCaravanAll>
-  <LoadIntoCaravan>Karavánra rakodni ezt: {0}</LoadIntoCaravan>
-  <LoadIntoCaravanAll>Karavánra rakodni az összest: {0}</LoadIntoCaravanAll>
-  <LoadIntoCaravanSome>Karavánra rakodni ebből: {0}</LoadIntoCaravanSome>
-  <LoadIntoCaravanCount>Rakodni ezt: {0} x{{0}}</LoadIntoCaravanCount>
+  <CannotLoadIntoCaravan>Nem lehet a karavánra rakodni ezt: {1_label}</CannotLoadIntoCaravan>
+  <CannotLoadIntoCaravanAll>Nem lehet az összest a karavánra rakodni: {1_label}</CannotLoadIntoCaravanAll>
+  <LoadIntoCaravan>Karavánra rakodni ezt: {1_label}</LoadIntoCaravan>
+  <LoadIntoCaravanAll>Karavánra rakodni az összest: {1_label}</LoadIntoCaravanAll>
+  <LoadIntoCaravanSome>Karavánra rakodni ebből: {1_labelShort}</LoadIntoCaravanSome>
+  <LoadIntoCaravanCount>Rakodni ezt: {1_labelShort} x{{1_labelShort}}</LoadIntoCaravanCount>
   <OverweightLower>túlsúly</OverweightLower>
 
-  <CannotCarryToExit>Nem lehet elhagyni a körzetet ezzel: {0}</CannotCarryToExit>
-  <CarryToExit>Elhagyni a körzetet ezzel: {0}</CarryToExit>
-  <CarryToExitAndCapture>{0} elfogása és a körzet elhagyása</CarryToExitAndCapture>
+  <CannotCarryToExit>Nem lehet elhagyni a körzetet ezzel: {1_label}</CannotCarryToExit>
+  <CarryToExit>Elhagyni a körzetet ezzel: {1_label}</CarryToExit>
+  <CarryToExitAndCapture>{1_label} elfogása és a körzet elhagyása</CarryToExitAndCapture>
 
-  <Strip>Vetkőztesd le őt: {0}</Strip>
-  <CannotStrip>Nem tudja levetkőztetni őt: {0}</CannotStrip>
+  <Strip>Vetkőztesd le őt: {1_label}</Strip>
+  <CannotStrip>Nem tudja levetkőztetni őt: {1_label}</CannotStrip>
 
   <!-- <Deposit>{0} kerüljön ide: {1}</Deposit> -->
   <!-- <CannotDeposit>{0} nem tehető ide: {1}</CannotDeposit> -->
 
   <SelfDestructHere>Önmegsemmisítés itt</SelfDestructHere>
 
-  <Drop>Dobd el ezt: {0}</Drop>
+  <Drop>Dobd el ezt: {1_label}</Drop>
 
   <UseMedicalBed>Pihenj teljes felgyógyulásig</UseMedicalBed>
   <NotInjured>Nem sérült</NotInjured>
@@ -170,13 +170,13 @@
   <OpenCryptosleepCasket>Hibernáló kinyitása</OpenCryptosleepCasket>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-  <CannotGenericWork>Nem lehet {0} ezt: {1}</CannotGenericWork>
+  <CannotGenericWork>Nem lehet {0} ezt: {2_labelShort}</CannotGenericWork>
   <CannotGenericWorkCustom>Nem lehet {0}</CannotGenericWorkCustom>
 
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
   <CannotMissingHealthActivities>Nem lehet előre venni (alkalmatlan rá: {0})</CannotMissingHealthActivities>
 
-  <CannotGenericAlreadyAm>Már ezt csinálja: {1} {0} </CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>Már ezt csinálja: {2_labelShort} {0} </CannotGenericAlreadyAm>
 
  <!-- <CannotPrioritizeIsNotA>Nem tudja előre venni ({0} nem {1})</CannotPrioritizeIsNotA>-->
   <CannotPrioritizeWorkTypeDisabled>Nem tudja előre venni, nem teszi ezt: {0}</CannotPrioritizeWorkTypeDisabled>
@@ -187,12 +187,12 @@
 
   <CannotPrioritizeResearch>Nem tudja előre venni (a kutatás egy hosszú távú feladat)</CannotPrioritizeResearch>
 
-  <CannotPrioritizeForbidden>Nem tudja előre venni ({0} tiltott)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>Nem tudja előre venni ({1_label} tiltott)</CannotPrioritizeForbidden>
   <CannotPrioritizeCellForbidden>Nem tudja előre venni (tiltott)</CannotPrioritizeCellForbidden>
   <CannotPrioritizeForbiddenOutsideAllowedArea>Tiltott területen van</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-  <PrioritizeGeneric>Vedd előre: {1} {0}</PrioritizeGeneric>
+  <PrioritizeGeneric>Vedd előre: {2_label} {0}</PrioritizeGeneric>
   
   <DropAtEdge>Szélen eldobni</DropAtEdge>
   <DropInCenter>Középen eldobni</DropInCenter>

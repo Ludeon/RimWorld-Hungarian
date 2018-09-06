@@ -100,7 +100,7 @@
   <ZoneGainsName>A körzet neve mostantól {0}</ZoneGainsName>
 
   <!-- Pawn naming -->
-  <PawnGainsName>A gyarmatos beceneve mostantól {0}. A rangja {1}.</PawnGainsName>
+  <PawnGainsName>A gyarmatos beceneve mostantól {0}. A rangja {PAWN_title}.</PawnGainsName>
   <AnimalGainsName>Az állat neve mostantól {0}.</AnimalGainsName>
 
   <!-- Save game incompatible warning -->
@@ -279,8 +279,8 @@
   <ColonyHasNoMore>Nincs több nálad</ColonyHasNoMore>
   <TraderWillNotTrade>Nem érdekli</TraderWillNotTrade>
   <Negotiator>Alkusz</Negotiator>
-  <NegotiatorTalkingImpaired>Az alkuszod, {0}, egészségi állapota miatt nem tud rendesen beszélni.</NegotiatorTalkingImpaired>
-  <NegotiatorHearingImpaired>Az alkuszod, {0}, egészségi állapota miatt nem hall rendesen.</NegotiatorHearingImpaired>
+  <NegotiatorTalkingImpaired>Az alkuszod, {1_labelShort}, egészségi állapota miatt nem tud rendesen beszélni.</NegotiatorTalkingImpaired>
+  <NegotiatorHearingImpaired>Az alkuszod, {1_labelShort}, egészségi állapota miatt nem hall rendesen.</NegotiatorHearingImpaired>
   <NegotiatorCapacityImpaired>\n\nEz befolyásolja az árakat.\n\nHasználj egészségesebb alkuszt.</NegotiatorCapacityImpaired>
   <ConfirmTraderShortFunds>A kereskedőnek nincs elég ezüstje ehhez az egyezséghez. Mindenképp megkötöd?</ConfirmTraderShortFunds>
   <SortBy>Rendezés</SortBy>
@@ -312,7 +312,7 @@
   <CaravanCouldNotFindExitSpot>A kilépési pont ({0}) nem található.</CaravanCouldNotFindExitSpot>
   <CaravanCouldNotFindPackingSpot>Nem található érvényes rakodási hely. Győződj meg róla, hogy a kiválasztott kilépési pont elérhető: {0}.</CaravanCouldNotFindPackingSpot>
   <CaravanCouldNotFindReachableExitSpot>Figyelem: némelyik gyarmatos nem éri el a ({0}) kilépési pontot.</CaravanCouldNotFindReachableExitSpot>
-  <CaravanPawnIsUnreachable>{0} nem elérhető egyik hozzárendelt gyarmatos számára sem.</CaravanPawnIsUnreachable>
+  <CaravanPawnIsUnreachable>{1_labelShort} nem elérhető egyik hozzárendelt gyarmatos számára sem.</CaravanPawnIsUnreachable>
   <CaravanItemIsUnreachableSingle>{0} nem elérhető egyik hozzárendelt gyarmatos számára sem.</CaravanItemIsUnreachableSingle>
   <CaravanItemIsUnreachableMulti>{0}x {1} nem elérhető egyik hozzárendelt gyarmatos számára sem.</CaravanItemIsUnreachableMulti>
   <TooBigCaravanMassUsage>Nem fér ennyi a karavánra.</TooBigCaravanMassUsage>
@@ -394,7 +394,7 @@
   <LoadTransporters>Feltölteni: {0}</LoadTransporters>
   <TooBigTransportersMassUsage>A személyek és tárgyak együttes tömege túl nagy.</TooBigTransportersMassUsage>
   <CantSendEmptyTransportPods>Üres szállítókapszulát nem lehet útnak indítani.</CantSendEmptyTransportPods>
-  <PawnCantReachTransporters>{0} nem fér a szállítókapszulához.</PawnCantReachTransporters>
+  <PawnCantReachTransporters>{1_labelShort} nem fér a szállítókapszulához.</PawnCantReachTransporters>
   <TransporterItemIsUnreachableSingle>{0} nem szállítható a kapszulához.</TransporterItemIsUnreachableSingle>
   <TransporterItemIsUnreachableMulti>{0}x {1} nem szállítható a kapszulához.</TransporterItemIsUnreachableMulti>
   <!-- <TransportersMassUsageTooltip>Jelenlegi tömeg és kapacitás.\n\nA karaván nem indítható útnak, ha túl van pakolva.</TransportersMassUsageTooltip> -->
@@ -483,14 +483,14 @@
   <!-- <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} magával viszi a következő felszerelést:</ConfirmAbandonPawnDialog_EquipmentAndApparel> -->
   <!-- <ConfirmAbandonPawnDialog_AllColonistsThoughts>Minden gyarmatos a következőt fogja gondolni:</ConfirmAbandonPawnDialog_AllColonistsThoughts> -->
   <!-- <ConfirmAbandonPawnDialog_IndividualThoughts>{0} elhagyása a következőt fogja eredményezni a következő gyarmatosoknál:</ConfirmAbandonPawnDialog_IndividualThoughts> -->
-  <ConfirmBanishPawnDialog>Biztosan száműzöd őt: {0}?</ConfirmBanishPawnDialog>
-  <ConfirmBanishPawnDialog_LeftToDie>{0} szinte biztosan meghal.</ConfirmBanishPawnDialog_LeftToDie>
-  <ConfirmBanishPawnDialog_Items>{0} magával viszi a következő felszerelést:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog>Biztosan száműzöd őt: {1_label}?</ConfirmBanishPawnDialog>
+  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} szinte biztosan meghal.</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_Items>{1_labelShort} magával viszi a következő felszerelést:</ConfirmBanishPawnDialog_Items>
   <ConfirmBanishPawnDialog_AllColonistsThoughts>Minden gyarmatos a következőt fogja gondolni:</ConfirmBanishPawnDialog_AllColonistsThoughts>
-  <ConfirmBanishPawnDialog_IndividualThoughts>{0} száműzése a következőt fogja eredményezni a következő gyarmatosoknál:</ConfirmBanishPawnDialog_IndividualThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort} száműzése a következőt fogja eredményezni a következő gyarmatosoknál:</ConfirmBanishPawnDialog_IndividualThoughts>
   
   <!-- Send transport pods which are not completely loaded -->
-  <ConfirmSendNotCompletelyLoadedPods>A kapszulába nem szállt még be mindenki. {0} hiányzik. Indítsuk?</ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>A kapszulába nem szállt még be mindenki. {1_labelShort} hiányzik. Indítsuk?</ConfirmSendNotCompletelyLoadedPods>
     <!-- Settle near a faction base -->
   <ConfirmSettleNearFactionBase>Mivel ez a hely {0} körzet távolságnál közelebb van egy másik frakció bázisához, a letelepedést területsértésnek veszik. A kapcsolat ezzel a frakcióval {1} naponta csökkenni fog.\n\nBiztosan letelepedsz?</ConfirmSettleNearFactionBase>
   

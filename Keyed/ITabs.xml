@@ -29,7 +29,7 @@
   <RecipeRequiresSkills>A {0} recepthez az alábbi készség szükséges. Nincs gyarmatosod ilyen készséggel, senki sem fogja legyártani.</RecipeRequiresSkills>
   <MinimumSkill>Minimális készség</MinimumSkill>
   <SuspendedCaps>LEÁLLÍTVA</SuspendedCaps>
-  <BoundWorkerIs>Munkás: {0}</BoundWorkerIs>
+  <BoundWorkerIs>Munkás: {1_labelShort}</BoundWorkerIs>
   <PlantVerb>ültetni</PlantVerb>
   <ClipboardBillNotAvailableHere>A másolt megrendelés nem illeszthető be.</ClipboardBillNotAvailableHere>
   <ReorderBillUpTip>Fel</ReorderBillUpTip>
@@ -119,7 +119,7 @@
   <!-- <TrainableIntelligence>Idomítható intelligencia</TrainableIntelligence> -->
   <Trainability>Idomíthatóság</Trainability>
   <CannotTrainNotSmartEnough>{0} intelligenciaszint szükséges</CannotTrainNotSmartEnough>
-  <CannotTrainTooSmall>{0} túl kicsi ennek betanulásához</CannotTrainTooSmall>
+  <CannotTrainTooSmall>{1_labelShort} túl kicsi ennek betanulásához</CannotTrainTooSmall>
 
   <TrainingNeedsPrerequisite>Előfeltétel szükséges: {0}</TrainingNeedsPrerequisite>
 
@@ -129,8 +129,8 @@
   <Missing>Eltűnt</Missing>
   <Slave>Rabszolga</Slave>
   <FactionLeader>Frakcióvezér</FactionLeader>
-  <OpinionOf>{0} értékelése</OpinionOf>
-  <SomeonesOpinionOfMe>{0} értékelése rólam</SomeonesOpinionOfMe>
+  <OpinionOf>{1_labelShort} értékelése</OpinionOf>
+  <SomeonesOpinionOfMe>{1_labelShort} értékelése rólam</SomeonesOpinionOfMe>
   <IAmDead>Halott vagyok</IAmDead>
   <IAmPsychopath>Pszichopata vagyok</IAmPsychopath>
   
