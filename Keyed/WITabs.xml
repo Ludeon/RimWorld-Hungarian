@@ -1,44 +1,74 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- WITab titles -->
+  <!-- EN: Terrain -->
   <TabTerrain>Terep</TabTerrain>
+  <!-- EN: Planet -->
   <TabPlanet>Bolygó</TabPlanet>
+  <!-- EN: Social -->
   <TabCaravanSocial>Szociális</TabCaravanSocial>
+  <!-- EN: Health -->
   <TabCaravanHealth>Egészség</TabCaravanHealth>
+  <!-- EN: Needs -->
   <TabCaravanNeeds>Szükség</TabCaravanNeeds>
+  <!-- EN: Gear -->
   <TabCaravanGear>Holmi</TabCaravanGear>
+  <!-- EN: Items -->
   <TabCaravanItems>Tárgyak</TabCaravanItems>
-
+  
   <!-- Misc -->
+  <!-- EN: Abandon {{1_labelShort}}x {1_labelShort} -->
   <AbandonSliderText>Hátrahagy {{1_labelShort}}x {1_labelShort}</AbandonSliderText>
+  <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
   <ConfirmAbandonItemDialog>Biztosan hátra akarod hagyni ezt: {1_label}?\n\nA hátrahagyott tárgyak eltűnnek, sosem kaphatod vissza őket.</ConfirmAbandonItemDialog>
+  <!-- EN: Abandon -->
   <AbandonTip>Hátrahagy</AbandonTip>
+  <!-- EN: Banish -->
   <BanishTip>Száműz</BanishTip>
+  <!-- EN: Abandon specific count -->
   <AbandonSpecificCountTip>Megadott mennyiséget hátrahagy</AbandonSpecificCountTip>
+  <!-- EN: Abandon (all) -->
   <AbandonAllTip>Hátrahagy (mind)</AbandonAllTip>
+  <!-- EN: Abandoned items vanish and can never be recovered. -->
   <AbandonItemTipExtraText>A hátrahagyott tárgyak eltűnnek, sosem kaphatod vissza őket.</AbandonItemTipExtraText>
-  <!-- <AbandonTipWillDie>{0} szinte biztosan meghal.</AbandonTipWillDie> -->
+  <!-- EN: {1_labelShort} will most likely die. -->
   <BanishTipWillDie>{1_labelShort} nagy valószínűséggel meg fog halni.</BanishTipWillDie>
-
+  
   <!-- Caravan inspect -->
+  <!-- EN: Colonists -->
   <CaravanColonists>Gyarmatosok</CaravanColonists>
+  <!-- EN: Prisoners and animals -->
   <CaravanPrisonersAndAnimals>Foglyok és állatok</CaravanPrisonersAndAnimals>
+  <!-- EN: Inventory -->
   <CaravanItems>Tárgyak</CaravanItems>
+  <!-- EN: Click to open a tab with more details. -->
   <OpenSpecificTabButtonTip>Kattints a részletekért!</OpenSpecificTabButtonTip>
+  <!-- EN: Prisoners -->
   <CaravanPrisoners>Foglyok</CaravanPrisoners>
+  <!-- EN: Inventory -->
   <CaravanWeaponsAndApparel>Felszerelés</CaravanWeaponsAndApparel>
+  <!-- EN: None capable -->
   <NoneCapable>Senki nem képes rá</NoneCapable>
+  <!-- EN: Caravan not moving -->
   <GainingJoyBecauseCaravanNotMoving>Karaván áll</GainingJoyBecauseCaravanNotMoving>
-
+  
   <!-- Caravan gear -->
+  <!-- EN: Drag to rearrange. -->
   <DragToRearrange>Húzással átrendezhető.</DragToRearrange>
 
-   <!-- Caravan items -->
+  <!-- Caravan items -->
+  <!-- EN: Assign drug policies -->
   <AssignDrugPolicies>Drogszabály hozzárendelés</AssignDrugPolicies>
+
+  <!-- Caravan health -->
+  <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
+  <BeCarriedIfSickTip>Cipelhetik-e ezt az személyt vagy állatot más karavántagok betegség esetén.\n\nCipelt tagok pihenhetnek akkor is, ha a karaván mozog, ám lelassítják azt.</BeCarriedIfSickTip>
   
   <!-- Planet -->
+  <!-- EN: Seed -->
   <PlanetSeed>Alapkód</PlanetSeed>
+  <!-- EN: Coverage -->
   <PlanetCoverageShort>Kiterjedés</PlanetCoverageShort>
 
 </LanguageData>

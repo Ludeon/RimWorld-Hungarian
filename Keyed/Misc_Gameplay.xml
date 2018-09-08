@@ -1,625 +1,1054 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Various -->
-  <TextMote_ResistanceReduced>Ellenállás\nKezdeti érték: {0}, végérték: {1}</TextMote_ResistanceReduced>
-  <lowMood>rossz hangulat</lowMood>
-  <lowOpinion>rossz vélemény</lowOpinion>
-  <CannotPlaceAdjacentTrap>Csapda mellé nem helyezhető</CannotPlaceAdjacentTrap>
-  
-  <Watermill_WaterUsedTwice>Áramlat gyengült: egy másik vízikerék turbulenciája</Watermill_WaterUsedTwice>
+  <!-- EN: hit points -->
   <HitPointsBasic>életerő</HitPointsBasic>
+  <!-- EN: Work left -->
   <WorkLeft>Hátralévő munka</WorkLeft>
-  <Carried>cipelt</Carried>
-  <ProgressToNextPortion>Haladás a köv. adagig</ProgressToNextPortion>
-  <BeCarriedIfSickTip>Cipelhetik-e ezt az személyt vagy állatot más karavántagok betegség esetén.\n\nCipelt tagok pihenhetnek akkor is, ha a karaván mozog, ám lelassítják azt.</BeCarriedIfSickTip>
-  <UsingBedroll>1 hálózsákot használ</UsingBedroll>
-  <UsingBedrolls>{0} hálózsákot használ</UsingBedrolls>
-  <BeingCarriedDueToIllness>Betegség miatt cipelik</BeingCarriedDueToIllness>
-  <UsingBedrollsDueToIllness>Betegség miatt hálózsákban</UsingBedrollsDueToIllness>
+  <!-- EN: Contents -->
   <Contents>Tartalom</Contents>
+  <!-- EN: Contained resources -->
   <ContainedResources>Tartalmazott anyagok</ContainedResources>
+  <!-- EN: For prisoner use -->
   <ForPrisonerUse>Fogoly számára</ForPrisonerUse>
+  <!-- EN: In prison cell: For prisoner use -->
   <InPrisonCell>Fogoly számára</InPrisonCell>
+  <!-- EN: For colonist use -->
   <ForColonistUse>Gyarmatos számára</ForColonistUse>
+  <!-- EN: Medical -->
   <MedicalBed>Betegágy</MedicalBed>
+  <!-- EN: Owner -->
   <Owner>Tulajdonos</Owner>
+  <!-- EN: Owners -->
   <Owners>Tulajdonosok</Owners>
+  <!-- EN: Assigned colonist -->
   <AssignedColonist>Beosztott gyarmatos</AssignedColonist>
+  <!-- EN: Died on the {0} -->
   <DiedOn>Meghalt ekkor: {0}</DiedOn>
+  <!-- EN: Nobody -->
   <Nobody>Senki</Nobody>
+  <!-- EN: Unowned -->
   <Unowned>Gazdátlan</Unowned>
+  <!-- EN: Dead for {0} -->
   <DeadTime>Mióta halott: {0}</DeadTime>
+  <!-- EN: walk speed {0} -->
   <WalkSpeed>gyaloglási sebesség: {0}</WalkSpeed>
+  <!-- EN: fert. -->
   <FertShort>term.</FertShort>
+  <!-- EN: dying -->
   <DyingLower>haldoklik</DyingLower>
+  <!-- EN: Filth on feet: -->
   <FilthOnFeet>Mocskos láb:</FilthOnFeet>
+  <!-- EN: not enough stored -->
   <NotEnoughStoredLower>nincs elég raktáron</NotEnoughStoredLower>
+  <!-- EN: nothing -->
   <NothingLower>semmi</NothingLower>
+  <!-- EN: Adapted -->
   <Adapted>Átalakított</Adapted>
+  <!-- EN: fresh -->
   <FreshMissingBodyPart>friss</FreshMissingBodyPart>
-  <!-- <UntreatedLower>kezeletlen</UntreatedLower> -->
+  <!-- EN: developed immunity -->
   <DevelopedImmunityLower>kialakult immunitás</DevelopedImmunityLower>
+  <!-- EN: Needs tending now -->
   <NeedsTendingNow>Ápolásra van szüksége</NeedsTendingNow>
+  <!-- EN: Can tend now -->
   <CanTendNow>Ápolhat</CanTendNow>
+  <!-- EN: Tending expires in {0} -->
   <TreatmentExpiresIn>Ápolás elavul ekkor: {0}</TreatmentExpiresIn>
-  <!-- <InjuryRequiresTreatment>Kezelés szükséges</InjuryRequiresTreatment> -->
-<!--   <NextTreatmentIn>Következő kezelés: {0}</NextTreatmentIn> -->
-  <NextTendIn>Kezelés szükséges ekkor: {0}</NextTendIn> 
+  <!-- EN: Can be tended in {0} -->
+  <NextTendIn>Kezelés szükséges ekkor: {0}</NextTendIn>
+  <!-- EN: Tend quality -->
   <TendQuality>Ápolás minősége</TendQuality>
+  <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>nincs {0}</MissingMedicalBillIngredient>
+  <!-- EN: Immunity -->
   <Immunity>Immunitás</Immunity>
+  <!-- EN: Race -->
   <Race>Faj</Race>
+  <!-- EN: Description -->
   <Description>Leírás</Description>
+  <!-- EN: Equipment -->
   <Equipment>Felszerelés</Equipment>
+  <!-- EN: Apparel -->
   <Apparel>Ruházat</Apparel>
+  <!-- EN: Inventory -->
   <Inventory>Leltár</Inventory>
+  <!-- EN: Information -->
   <ThingInfo>Információ</ThingInfo>
+  <!-- EN: Drop -->
   <DropThing>Eldob</DropThing>
+  <!-- EN: Rename -->
   <Rename>Átnevez</Rename>
+  <!-- EN: Rename animal -->
   <RenameAnimal>Állatot átnevez</RenameAnimal>
+  <!-- EN: Rename colonist -->
   <RenameColonist>Gyarmatost átnevez</RenameColonist>
+  <!-- EN: unknown -->
   <UnknownLower>ismeretlen</UnknownLower>
+  <!-- EN: On -->
   <On>Be</On>
+  <!-- EN: Off -->
   <Off>Ki</Off>
+  <!-- EN: Power -->
   <PowerSwitch_Power>Áram</PowerSwitch_Power>
+  <!-- EN: Recreation type tolerances -->
   <JoyTolerances>Élvezeti tolerancia</JoyTolerances>
+  <!-- EN: Milk fullness -->
   <MilkFullness>Tejszint</MilkFullness>
+  <!-- EN: Wool growth -->
   <WoolGrowth>Gyapjúhozam</WoolGrowth>
+  <!-- EN: Egg progress -->
   <EggProgress>Keltetési stádium</EggProgress>
+  <!-- EN: Fertilized -->
   <Fertilized>Megtermékenyített</Fertilized>
+  <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>Megtermékenyítésre vár</ProgressStoppedUntilFertilized>
+  <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>{2} szintű {0} szükséges, jelenlegi: {1}</SkillTooLow>
+  <!-- EN: Freezing -->
   <Freezing>Fagy</Freezing>
+  <!-- EN: Overheating -->
   <Overheating>Túlmelegszik</Overheating>
+  <!-- EN: Ruined by temperature. -->
   <RuinedByTemperature>Hőmérséklet miatt megromlott.</RuinedByTemperature>
-  <!-- <EggDamagedEmbryo>sérült embrió</EggDamagedEmbryo> -->
+  <!-- EN: Missing body parts -->
   <CorpsePercentMissing>Hiányzó testrész</CorpsePercentMissing>
+  <!-- EN: Reproduces in -->
   <HiveReproducesIn>Reprodukció ideje</HiveReproducesIn>
-  <DormantHiveNotReproducing>Alvó: nem reprodukál.</DormantHiveNotReproducing> 
+  <!-- EN: Dormant: Not reproducing. -->
+  <DormantHiveNotReproducing>Alvó: nem reprodukál.</DormantHiveNotReproducing>
+  <!-- EN: Next {0} in -->
   <NextSpawnedItemIn>Következő {0} ekkor:</NextSpawnedItemIn>
+  <!-- EN: Broken down -->
   <BrokenDown>Elromlott</BrokenDown>
+  <!-- EN: (bond) -->
   <BondBrackets>(kötődés)</BondBrackets>
+  <!-- EN: Fuel -->
   <Fuel>Üzemanyag</Fuel>
+  <!-- EN: Fuel -->
   <FuelLevelGizmoLabel>Üzemanyag</FuelLevelGizmoLabel>
+  <!-- EN: Set target fuel level to {0} -->
   <SetTargetFuelLevel>Célszint beállítása: {0}</SetTargetFuelLevel>
+  <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
   <SetPodLauncherTargetFuelLevel>Célszint beállítása: {0}\nMaximális hatótáv: {1} mező</SetPodLauncherTargetFuelLevel>
+  <!-- EN: Target fuel level: {0} -->
   <ConfiguredTargetFuelLevel>Célszint: {0}</ConfiguredTargetFuelLevel>
+  <!-- EN: enemies -->
   <Enemies>ellenségek</Enemies>
+  <!-- EN: time passed -->
   <TimePassed>eltelt idő</TimePassed>
+  <!-- EN: current radius -->
   <CurrentRadius>jelenlegi sugár</CurrentRadius>
+  <!-- EN: radius expands in -->
   <RadiusExpandsIn>sugárnövekedés ideje</RadiusExpandsIn>
+  <!-- EN: permanent -->
   <Permanent>állandó</Permanent>
+  <!-- EN: Resting -->
   <CaravanResting>Pihen.</CaravanResting>
+  <!-- EN: using 1 bedroll -->
+  <UsingBedroll>1 hálózsákot használ</UsingBedroll>
+  <!-- EN: using {0} bedrolls -->
+  <UsingBedrolls>{0} hálózsákot használ</UsingBedrolls>
+  <!-- EN: Est. time to destination: {0} days -->
   <CaravanEstimatedTimeToDestination>Becsült érkezés: {0}</CaravanEstimatedTimeToDestination>
-  <CaravanEstimatedDaysToDestination>Becsült érkezés: {0} nap</CaravanEstimatedDaysToDestination> 
+  <!-- EN: Estimated days to arrive: {0} -->
+  <CaravanEstimatedDaysToDestination>Becsült érkezés: {0} nap</CaravanEstimatedDaysToDestination>
+  <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>Leállt: túlterhelés.</CaravanImmobilizedByMass>
+  <!-- EN: Out of food. -->
   <CaravanOutOfFood>Nincs élelem.</CaravanOutOfFood>
+  <!-- EN: Days of food: {0} -->
   <CaravanDaysOfFood>Élelem készlet: {0} nap</CaravanDaysOfFood>
+  <!-- EN: Days of food: {0} (rot in {1} days) -->
   <CaravanDaysOfFoodRot>Ennyi napi élelem: {0}, elrohad ekkor: {1} </CaravanDaysOfFoodRot>
-  <!-- <CaravanMemberMentalBreak>Leállt: {0} összeomlott.</CaravanMemberMentalBreak> -->
+  <!-- EN: Stopped because: Everyone is downed. -->
   <AllCaravanMembersDowned>Leállt: mindenki járóképtelen.</AllCaravanMembersDowned>
+  <!-- EN: Stopped because: Everyone has a mental break. -->
   <AllCaravanMembersMentalBreak>Leállás oka: mindenki összeomlott.</AllCaravanMembersMentalBreak>
+  <!-- EN: {0} {1} -->
   <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
+  <!-- EN: 1 animal -->
   <CaravanAnimal>1 állat</CaravanAnimal>
+  <!-- EN: {0} animals -->
   <CaravanAnimalsCount>{0} állat</CaravanAnimalsCount>
+  <!-- EN: 1 prisoner -->
   <CaravanPrisoner>1 fogoly</CaravanPrisoner>
+  <!-- EN: {0} prisoners -->
   <CaravanPrisonersCount>{0} fogoly</CaravanPrisonersCount>
+  <!-- EN: {0} in mental state -->
   <CaravanPawnsInMentalState>{0} idegállapotban</CaravanPawnsInMentalState>
+  <!-- EN: {0} downed -->
   <CaravanPawnsDowned>{0} földre került</CaravanPawnsDowned>
+  <!-- EN: Traveling. -->
   <CaravanTraveling>Utazik.</CaravanTraveling>
-  <!-- <CaravanPaused>Leállt.</CaravanPaused> -->
+  <!-- EN: Waiting. -->
   <CaravanWaiting>Várakozik.</CaravanWaiting>
-  <!-- <CaravanHoursPerTile>ó/mező</CaravanHoursPerTile> -->
-  <!-- <CaravanBaseMovementTime>Alap sebesség</CaravanBaseMovementTime> -->
+  <!-- EN: Being carried due to illness -->
+  <BeingCarriedDueToIllness>Betegség miatt cipelik</BeingCarriedDueToIllness>
+  <!-- EN: Using bedrolls due to illness -->
+  <UsingBedrollsDueToIllness>Betegség miatt hálózsákban</UsingBedrollsDueToIllness>
+  <!-- EN: Current tile movement time -->
   <CurrentTileMovementTime>Jelenlegi sebesség</CurrentTileMovementTime>
+  <!-- EN: Visibility -->
   <Visibility>Láthatóság</Visibility>
-  <!-- <StealthFactor>Leplezés</StealthFactor> -->
+  <!-- EN: Temperature -->
   <Temperature>Hőmérséklet</Temperature>
+  <!-- EN: bad temperature -->
   <BadTemperature>rossz hőmérséklet</BadTemperature>
+  <!-- EN: Ideal fermenting temperature -->
   <IdealFermentingTemperature>Ideális erjesztési hőmérséklet</IdealFermentingTemperature>
+  <!-- EN: {0} effect multiplier: {1} -->
   <DrugEffectMultiplier>{0} hatás szorzója: {1}</DrugEffectMultiplier>
+  <!-- EN: Visiting {0}. -->
   <CaravanVisiting>Meglátogatja: {0}.</CaravanVisiting>
+  <!-- EN: Entering {0}. -->
   <CaravanEntering>Belép: {0}.</CaravanEntering>
+  <!-- EN: Attacking {0}. -->
   <CaravanAttacking>Megtámadja: {0}.</CaravanAttacking>
+  <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>Ajándékoz neki: {0}.</CaravanOfferingGifts>
+  <!-- EN: Tainted from being worn by a corpse. -->
   <WasWornByCorpse>Tetem viselte.</WasWornByCorpse>
+  <!-- EN: T -->
   <WornByCorpseChar>T</WornByCorpseChar>
-  <!-- <DeterioratingDueToBeingUnroofed>Szabad ég alatt romlik.</DeterioratingDueToBeingUnroofed> -->
+  <!-- EN: unroofed -->
   <DeterioratingUnroofed>szabad ég alatt</DeterioratingUnroofed>
+  <!-- EN: outdoors -->
   <DeterioratingOutdoors>kinn</DeterioratingOutdoors>
+  <!-- EN: Deteriorating because of -->
   <DeterioratingBecauseOf>Avul a következő miatt</DeterioratingBecauseOf>
+  <!-- EN: Map -->
   <Map>Térkép</Map>
+  <!-- EN: {0} until leaving -->
   <ForceExitAndRemoveMapCountdown>{0} óra múlva indul</ForceExitAndRemoveMapCountdown>
+  <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
   <ForceExitAndRemoveMapCountdownTip>A gyarmatosok maguktól újraalakítják a karavánt és elindulnak {0} óra múlva.</ForceExitAndRemoveMapCountdownTip>
+  <!-- EN: Room -->
   <Room>Szoba</Room>
+  <!-- EN: Beauty here -->
   <BeautyHere>Szépségindex</BeautyHere>
+  <!-- EN: No power -->
   <NoPower>Nincs áram</NoPower>
+  <!-- EN: Work speed penalty -->
   <WorkSpeedPenalty>Lassabb munkasebesség</WorkSpeedPenalty>
+  <!-- EN: DISABLED -->
   <DisabledCommand>KIKAPCSOLVA</DisabledCommand>
+  <!-- EN: Ready for launch. -->
   <ReadyForLaunch>Kilövésre kész.</ReadyForLaunch>
+  <!-- EN: Not ready for launch -->
   <NotReadyForLaunch>Kilövésre nem kész.</NotReadyForLaunch>
+  <!-- EN: no fueling port -->
   <NotAllInGroupConnectedToFuelingPort>nincs feltöltőállomás</NotAllInGroupConnectedToFuelingPort>
+  <!-- EN: no fuel -->
   <NotAllFuelingPortSourcesInGroupHaveAnyFuel>nincs üzemanyag</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <!-- EN: loading in progress -->
   <TransportPodInGroupHasSomethingLeftToLoad>berakodás alatt</TransportPodInGroupHasSomethingLeftToLoad>
+  <!-- EN: Beyond maximum range -->
   <TransportPodDestinationBeyondMaximumRange>túl messzi cél</TransportPodDestinationBeyondMaximumRange>
+  <!-- EN: Not enough fuel -->
   <TransportPodNotEnoughFuel>Nincs elég üzemanyag</TransportPodNotEnoughFuel>
-<!--   <FactionBaseTrader>{0} innen: {1}</FactionBaseTrader> -->
+  <!-- EN: {0} of {1} -->
   <SettlementTrader>{0} innen: {1}</SettlementTrader>
+  <!-- EN: Surgery success chance multiplier from room -->
   <RoomSurgerySuccessChanceFactor>Szoba műtét sikerességi esély</RoomSurgerySuccessChanceFactor>
+  <!-- EN: Infection chance multiplier from room -->
   <RoomInfectionChanceFactor>Szoba fertőzés kezelési esély</RoomInfectionChanceFactor>
+  <!-- EN: Closed -->
   <VentClosed>Zárva</VentClosed>
+  <!-- EN: worn by {1_labelShort} -->
   <WornBy>{1_labelShort} viseli</WornBy>
+  <!-- EN: equipped by {1_labelShort} -->
   <EquippedBy>{1_labelShort} használja</EquippedBy>
+  <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
   <QuestTargetDestroyInspectString>{0} el akarja pusztítani.\n    Jutalom: {1} ({2}).</QuestTargetDestroyInspectString>
+  <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>Határidő: {0}</WorldObjectTimeout>
-  <!-- <LongRangeMineralScannerEfficiency>Hatékonyság: {0}</LongRangeMineralScannerEfficiency> -->
+  <!-- EN: Contents: {0} ({1}) -->
   <ItemStashContents>Tartalom: {0} ({1}).</ItemStashContents>
-  <!-- <SomeItemStashContents>Tartalom: {0}.</SomeItemStashContents> -->
+  <!-- EN: Click to sort by this column. -->
   <ClickToSortByThisColumn>Kattints a sorba rendezéshez eszerint.</ClickToSortByThisColumn>
+  <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
   <WorkPriorityShiftClickTip>Shift + klikk: prioritás növelése\nShift + jobb klikk: prioritás csökkentése</WorkPriorityShiftClickTip>
+  <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
   <WorkPriorityShiftClickEnableDisableTip>Shift + klikk: Összes engedélyezése\nShift + jobb klikk: Összes tiltása</WorkPriorityShiftClickEnableDisableTip>
+  <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
   <AllowedAreaShiftClickTip>Shift + klikk: mindenki csak lakókörzet\nShift + jobb klikk: mindenki korlátozatlan</AllowedAreaShiftClickTip>
+  <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
   <CheckboxShiftClickTip>Shift + klikk: Összes kijelöl\nShift + jobb klikk: Kijelölés törlése</CheckboxShiftClickTip>
+  <!-- EN: Known threat: {0} -->
   <KnownSiteThreat>Fenyegetés: {0}.</KnownSiteThreat>
+  <!-- EN: Known threats: {0} -->
   <KnownSiteThreats>Fenyegetések: {0}.</KnownSiteThreats>
+  <!-- EN: Known threats: None -->
   <KnownSiteThreatsNone>Fenyegetés: semmi.</KnownSiteThreatsNone>
+  <!-- EN: Skill Requirements -->
   <SkillRequirements>Készség követelmény</SkillRequirements>
+  <!-- EN: Products -->
   <Products>Termékek</Products>
+  <!-- EN: {0} of {1} -->
   <Relationship>{0} neki: {1}</Relationship>
+  <!-- EN: Prisoner -->
   <Prisoner>Fogoly</Prisoner>
+  <!-- EN: Refugee -->
   <Refugee>Menekült</Refugee>
-  <HiddenOrNoSitePartDescription>ez a hely veszélyt rejthet</HiddenOrNoSitePartDescription>
-  <PreciousLumpLabel>{0} telér</PreciousLumpLabel>
-  <!-- <EnemiesCount>{0} ellenség</EnemiesCount>   -->
-  
-  
-  
+  <!-- EN: Terrain movement difficulty -->
   <TileMovementDifficulty>Terep nehézség</TileMovementDifficulty>
+  <!-- EN: Impassable -->
   <Impassable>Járhatatlan</Impassable>
+  <!-- EN: Caravan movement speed -->
   <CaravanMovementSpeedFull>Karaván sebesség</CaravanMovementSpeedFull>
+  <!-- EN: downed -->
   <DownedLower>földön</DownedLower>
+  <!-- EN: carried -->
+  <Carried>cipelt</Carried>
+  <!-- EN: Avg. person move speed -->
   <AverageCaravanMemberMoveSpeed>Átlagos sebesség (személyek)</AverageCaravanMemberMoveSpeed>
+  <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>Teher szorzó: {0}</MultiplierForCarriedMass>
+  <!-- EN: Caravan members speed -->
   <FinalCaravanPawnsMovementSpeed>Karaván tagok sebessége</FinalCaravanPawnsMovementSpeed>
+  <!-- EN: Final speed -->
   <FinalCaravanMovementSpeed>Végső sebesség</FinalCaravanMovementSpeed>
+  <!-- EN: Winter -->
   <Winter>Tél</Winter>
+  <!-- EN: {0} in winter -->
   <MovementDifficultyOffsetInWinter>Télen {0}</MovementDifficultyOffsetInWinter>
+  <!-- EN: to -->
   <RangeTo>min, max</RangeTo>
+  <!-- EN: No letter -->
   <NoDietCategoryLetter>Nincs jelölés</NoDietCategoryLetter>
+  <!-- EN: Expires in -->
   <ExpiresIn>Lejár ekkor</ExpiresIn>
+  <!-- EN: {1_labelShort}'s caravan -->
   <CaravanLeaderCaravanName>{1_labelShort} karavánja</CaravanLeaderCaravanName>
+  <!-- EN: Reason -->
   <Reason>Ok</Reason>
+  <!-- EN: Relations with {0} -->
   <RelationsWith>Viszony vele: {0}</RelationsWith>
+  <!-- EN: captured by {0} -->
   <capturedBy>{0} foglya</capturedBy>
+  <!-- EN: your caravan -->
   <yourCaravan>a karavánod</yourCaravan>
+  <!-- EN: {0} wildness -->
   <CreatureWildness>{0} vadság</CreatureWildness>
+  <!-- EN: {0} trainability -->
   <CreatureTrainability>{0} szelídíthetőség</CreatureTrainability>
+  <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{0} viszony ezzel a frakcióval: {1}</ProximitySingleGoodwillChange>
+  <!-- EN: You can't re-enter for another {0} days. -->
   <EnterCooldown>Még további {0} napig nem léphetsz be.</EnterCooldown>
+  <!-- EN: Caravan -->
   <Caravan>Karaván</Caravan>
-  
-  
+  <!-- EN: there may be danger there -->
+  <HiddenOrNoSitePartDescription>ez a hely veszélyt rejthet</HiddenOrNoSitePartDescription>
+  <!-- EN: lump of {0} -->
+  <PreciousLumpLabel>{0} telér</PreciousLumpLabel>
+  <!-- EN: no active research project -->
+  <NoActiveResearchProjectToFinish>Nincs folyamatban lévő kutatás</NoActiveResearchProjectToFinish>
+  <!-- EN: turret -->
+  <Turret>ágyú</Turret>
+  <!-- EN: turrets -->
+  <Turrets>ágyúk</Turrets>
+  <!-- EN: mortar -->
+  <Mortar>tarack</Mortar>
+  <!-- EN: mortars -->
+  <Mortars>tarackok</Mortars>
+  <!-- EN: enemy -->
+  <Enemy>ellenség</Enemy>
+
   <!-- Fermentation barrel -->
+  <!-- EN: Contains {0} / {1} wort. -->
   <ContainsWort>Tartalma {0} / {1} söralap.</ContainsWort>
+  <!-- EN: Contains {0} / {1} beer. -->
   <ContainsBeer>Tartalma {0} / {1} sör.</ContainsBeer>
+  <!-- EN: Fermented -->
   <Fermented>Erjesztett</Fermented>
+  <!-- EN: Progress: {0} ({1} left) -->
   <FermentationProgress>Állapot: {0} (kb. {1} múlva kész).</FermentationProgress>
+  <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
   <FermentationBarrelOutOfIdealTemperature>Nem ideális hőmérséklet. Erjedés szorzója: {0}</FermentationBarrelOutOfIdealTemperature>
 
-  <!--TextMotes-->
+  <!-- TextMotes -->
+  <!-- EN: Headshot -->
   <Headshot>Fejlövés</Headshot>
+  <!-- EN: Treatment success!\n{0} chance -->
   <TextMote_TreatSuccess>Sikeres ellátás!\n{0} esély</TextMote_TreatSuccess>
+  <!-- EN: Treatment failed\n{0} chance -->
   <TextMote_TreatFailed>Sikertelen ellátás\n{0} esély</TextMote_TreatFailed>
-  <TextMote_HarvestFailed>Betakarítás\nsikertelen</TextMote_HarvestFailed> 
+  <!-- EN: Harvest\nbotched -->
+  <TextMote_HarvestFailed>Betakarítás\nsikertelen</TextMote_HarvestFailed>
+  <!-- EN: Yield\nwasted -->
   <TextMote_YieldWasted>Hozam\nkárba veszett</TextMote_YieldWasted>
-  <TextMote_ProductWasted>Termék\nkárba veszett</TextMote_ProductWasted> 
+  <!-- EN: Product\nwasted -->
+  <TextMote_ProductWasted>Termék\nkárba veszett</TextMote_ProductWasted>
+  <!-- EN: Recruit failed!\n{0} chance -->
   <TextMote_RecruitFail>Toborzás sikertelen!\n{0} esély</TextMote_RecruitFail>
+  <!-- EN: Resistance\n{0} to {1} -->
+  <TextMote_ResistanceReduced>Ellenállás\nKezdeti érték: {0}, végérték: {1}</TextMote_ResistanceReduced>
+  <!-- EN: Tame failed\n{0} chance -->
   <TextMote_TameFail>Szelídítés sikertelen\n{0} esély</TextMote_TameFail>
+  <!-- EN: Tamed!\n{0} chance -->
   <TextMote_TameSuccess>Megszelídítve!\n{0} esély</TextMote_TameSuccess>
+  <!-- EN: Failed training: {0}\n{1} chance -->
   <TextMote_TrainFail>Betanítás sikertelen: {0}\n{1} esély</TextMote_TrainFail>
+  <!-- EN: Trained: {0}\n{1} chance -->
   <TextMote_TrainSuccess>Betanítva: {0}\n{1} esély</TextMote_TrainSuccess>
+  <!-- EN: Repair\nbotched -->
   <TextMote_FixBrokenDownBuildingFail>Javítás\nsikertelen</TextMote_FixBrokenDownBuildingFail>
+  <!-- EN: Construction\nbotched -->
   <TextMote_ConstructionFail>Építés\nsikertelen</TextMote_ConstructionFail>
+  <!-- EN: Dodge -->
   <TextMote_Dodge>Kitérés</TextMote_Dodge>
+  <!-- EN: {0} tended -->
   <TextMote_Tended>{0} ellátva</TextMote_Tended>
-  
+  <!-- EN: low mood -->
+  <lowMood>rossz hangulat</lowMood>
+  <!-- EN: low opinion -->
+  <lowOpinion>rossz vélemény</lowOpinion>
+
   <!-- Areas -->
+  <!-- EN: Home -->
   <Home>Lakó</Home>
+  <!-- EN: Build roof -->
   <BuildRoof>Fedett</BuildRoof>
+  <!-- EN: No roof -->
   <NoRoof>Fedetlen</NoRoof>
+  <!-- EN: Snow clear -->
   <SnowClear>Hómentes</SnowClear>
+  <!-- EN: Area {0} -->
   <AreaDefaultLabel>Körzet: {0}</AreaDefaultLabel>
-  <!-- <AreaAnimalDefaultLabel>Állatkörzet: {0}</AreaAnimalDefaultLabel> -->
+  <!-- EN: Unrestricted -->
   <NoAreaAllowed>Korlátozatlan</NoAreaAllowed>
+  <!-- EN: New area -->
   <NewArea>Új körzet</NewArea>
-  <!-- <NewAreaAnimal>Új állatkörzet</NewAreaAnimal> -->
+  <!-- EN: Invert -->
   <InvertArea>Invertálás</InvertArea>
 
   <!-- Control -->
+  <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>Nem lehet parancsot adni nem irányított egységnek.</CannotOrderNonControlled>
+  <!-- EN: {1_labelShort} is incapable of violence. -->
   <IsIncapableOfViolence>{1_labelShort} nem képes erőszakra.</IsIncapableOfViolence>
+  <!-- EN: incapable of violence -->
   <IsIncapableOfViolenceShort>nem képes erőszakra</IsIncapableOfViolenceShort>
+  <!-- EN: {1_labelShort} is not drafted. -->
   <IsNotDrafted>{1_labelShort} nincs besorozva.</IsNotDrafted>
 
   <!-- Snow -->
+  <!-- EN: No snow -->
   <SnowNone>Nincs hó</SnowNone>
+  <!-- EN: Snow (dusting) -->
   <SnowDusting>Hó (por)</SnowDusting>
+  <!-- EN: Snow (thin) -->
   <SnowThin>Hó (kevés)</SnowThin>
+  <!-- EN: Snow (medium) -->
   <SnowMedium>Hó (közepes)</SnowMedium>
+  <!-- EN: Snow (thick) -->
   <SnowThick>Hó (mély)</SnowThick>
 
   <!-- Turrets -->
-   <Turret>ágyú</Turret>
-   <Turrets>ágyúk</Turrets>
-   <Mortar>tarack</Mortar>
-   <Mortars>tarackok</Mortars>
-   <Enemy>ellenség</Enemy>
-  
-  
+  <!-- EN: Installed -->
   <GunInstalled>Telepítve</GunInstalled>
+  <!-- EN: Minimum range -->
   <MinimumRange>Minimum hatótáv</MinimumRange>
+  <!-- EN: Can fire in -->
   <CanFireIn>Tűzkész</CanFireIn>
+  <!-- EN: Cannot fire -->
   <CannotFire>Nem tüzelhet</CannotFire>
+  <!-- EN: roofed -->
   <Roofed>tető alatt</Roofed>
+  <!-- EN: Shell loaded: {1_label} -->
   <ShellLoaded>Betöltve: {1_label}</ShellLoaded>
+  <!-- EN: Not loaded -->
   <ShellNotLoaded>Nincs betöltve</ShellNotLoaded>
 
   <!-- Job reports -->
+  <!-- EN: hauling {THING_label} to {DESTINATION}. -->
   <ReportHaulingTo>{THING_label} cipelése ide: {DESTINATION}.</ReportHaulingTo>
+  <!-- EN: hauling {1_label}. -->
   <ReportHauling>{1_label} cipelése.</ReportHauling>
+  <!-- EN: hauling. -->
   <ReportHaulingUnknown>cipekedik.</ReportHaulingUnknown>
+  <!-- EN: sleeping. -->
   <ReportSleeping>alszik.</ReportSleeping>
+  <!-- EN: resting. -->
   <ReportResting>pihen.</ReportResting>
+  <!-- EN: watching the sunrise. -->
   <WatchingSunrise>napkeltét nézi</WatchingSunrise>
+  <!-- EN: cloudwatching. -->
   <CloudWatching>felhőket nézi</CloudWatching>
+  <!-- EN: watching the sunset. -->
   <WatchingSunset>napnyugtát nézi</WatchingSunset>
+  <!-- EN: stargazing. -->
   <Stargazing>csillagokat nézi</Stargazing>
+  <!-- EN: watching the eclipse. -->
   <WatchingEclipse>napfogyatkozást nézi</WatchingEclipse>
+  <!-- EN: watching the aurora. -->
   <WatchingAurora>sarki fényt nézi.</WatchingAurora>
+  <!-- EN: using {0} on {1}. -->
   <UsingVerb>{0} használata ezen: {1}.</UsingVerb>
+  <!-- EN: area -->
   <AreaLower>körzet</AreaLower>
+  <!-- EN: cowering. -->
   <ReportCowering>fedezékben van.</ReportCowering>
+  <!-- EN: standing. -->
   <ReportStanding>áll.</ReportStanding>
+  <!-- EN: extinguishing fire. -->
   <ReportExtinguishingFire>tüzet olt.</ReportExtinguishingFire>
+  <!-- EN: extinguishing fire on {TARGET_label}. -->
   <ReportExtinguishingFireOn>{TARGET_label} tüzét oltja.</ReportExtinguishingFireOn>
+  <!-- EN: digging up corpse. -->
   <ReportDiggingUpCorpse>tetemet ás ki.</ReportDiggingUpCorpse>
 
   <!-- Lord job reports -->
+  <!-- EN: Attending marriage ceremony -->
   <LordReportAttendingMarriageCeremony>Esküvőn vesz részt</LordReportAttendingMarriageCeremony>
+  <!-- EN: Attending party -->
   <LordReportAttendingParty>Bulin vesz részt</LordReportAttendingParty>
+  <!-- EN: Forming caravan -->
   <LordReportFormingCaravan>Karaván alakítás</LordReportFormingCaravan>
 
   <!-- Shooting report -->
+  <!-- EN: Weapon miss radius -->
   <WeaponMissRadius>Pontatlanság mértéke</WeaponMissRadius>
+  <!-- EN: Shooter -->
   <ShootReportShooterAbility>Lövész</ShootReportShooterAbility>
+  <!-- EN: Weapon -->
   <ShootReportWeapon>Fegyver</ShootReportWeapon>
-  <!-- <RangeSlashEquipment>Hatótáv/Felszerelés</RangeSlashEquipment> -->
+  <!-- EN: Darkness -->
   <Darkness>Sötétség</Darkness>
+  <!-- EN: Target lying down -->
   <TargetProne>Célpont fekszik</TargetProne>
+  <!-- EN: Target size -->
   <TargetSize>Célpont mérete</TargetSize>
+  <!-- EN: Weather -->
   <Weather>Időjárás</Weather>
+  <!-- EN: Cover -->
   <ShootingCover>Fedezék</ShootingCover>
+  <!-- EN: {COVER_label} stops {1} -->
   <CoverThingBlocksPercentOfShots>{COVER_label} kivédi ezt: {1}</CoverThingBlocksPercentOfShots>
+  <!-- EN: no cover -->
   <NoCoverLower>nincs fedezék</NoCoverLower>
+  <!-- EN: Execution -->
   <Execution>Kivégzés</Execution>
 
   <!-- Generated recipes -->
+  <!-- EN: make {0} -->
   <RecipeMake>{0} gyártás</RecipeMake>
+  <!-- EN: Making {0}. -->
   <RecipeMakeJobString>{0} gyártás.</RecipeMakeJobString>
+  <!-- EN: administer {0} -->
   <RecipeAdminister>adagol: {0}</RecipeAdminister>
+  <!-- EN: Administering {0}. -->
   <RecipeAdministerJobString>Adagolja: {0}.</RecipeAdministerJobString>
+  <!-- EN: teetotaler will be unhappy -->
   <TeetotalerUnhappy>antialkoholista boldogtalan lesz</TeetotalerUnhappy>
+  <!-- EN: body purist will be unhappy -->
   <ProsthophobeUnhappy>protézis fóbiás boldogtalan lesz</ProsthophobeUnhappy>
 
   <!-- Thoughts -->
+  <!-- EN: Expires in: {0} -->
   <ThoughtExpiresIn>Elmúlik: {0}</ThoughtExpiresIn>
+  <!-- EN: Starts expiring in: {0} -->
   <ThoughtStartsExpiringIn>Elkezd elmúlni: {0}</ThoughtStartsExpiringIn>
+  <!-- EN: Finishes expiring in: {0} -->
   <ThoughtFinishesExpiringIn>Teljesen elmúlik: {0}</ThoughtFinishesExpiringIn>
+  <!-- EN: Extreme break threshold -->
   <MentalBreakThresholdExtreme>Extrém összeomlás küszöbe</MentalBreakThresholdExtreme>
+  <!-- EN: Major break threshold -->
   <MentalBreakThresholdMajor>Súlyos összeomlás küszöbe</MentalBreakThresholdMajor>
+  <!-- EN: Minor break threshold -->
   <MentalBreakThresholdMinor>Enyhe összeomlás küszöbe</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
+  <!-- EN: {PAWN_gender} {1} -->
   <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
+  <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{0}, {1} tagja</PawnMainDescFactionedWrap>
+  <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
+  <!-- EN: Faction -->
   <Faction>Frakció</Faction>
+  <!-- EN: Equipped -->
   <Equipped>Felszerelés</Equipped>
+  <!-- EN: nothing -->
   <EquippedNothing>semmi</EquippedNothing>
+  <!-- EN: Dead -->
   <Dead>Halott</Dead>
+  <!-- EN: Unconscious -->
   <Unconscious>Eszméletlen</Unconscious>
+  <!-- EN: In shock due to pain -->
   <PainShock>Sokkos állapot</PainShock>
+  <!-- EN: Pain shock -->
   <PainShockShort>Sokk</PainShockShort>
+  <!-- EN: Incapacitated -->
   <Incapacitated>Magatehetetlen</Incapacitated>
+  <!-- EN: In restraints (slowed) -->
   <InRestraints>Mozgáskorlátozott (lelassítva)</InRestraints>
+  <!-- EN: Carrying -->
   <Carrying>Cipeli</Carrying>
+  <!-- EN: Affected by: -->
   <AffectedBy>Ezek miatt:</AffectedBy>
+  <!-- EN: Queued -->
   <Queued>Sorban</Queued>
+  <!-- EN: State -->
   <State>Állapot</State>
+  <!-- EN: stun -->
   <StunLower>bénít</StunLower>
-  
+
   <!-- Inspector general stuff -->
+  <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
   <SelectNextInSquareTip>Következő dolog ugyanazon a cellán.\n\nGyorsbillentyű: {0}\n\nÚjra kattintva ugyanarra a cellára ugyanezt eredményezi.</SelectNextInSquareTip>
+  <!-- EN: View information about this object. -->
   <DefInfoTip>Információ a tárgyról.</DefInfoTip>
 
   <!-- Hostility response -->
+  <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
   <HostilityReponseTip>Nem besorozott gyarmatos viselkedése ellenség közelében.</HostilityReponseTip>
+  <!-- EN: Current mode -->
   <HostilityResponseCurrentMode>Jelenlegi mód</HostilityResponseCurrentMode>
 
   <!-- like 'Blood of John' -->
+  <!-- EN: of -->
   <OfLower>ettől:</OfLower>
 
   <!-- Power readout -->
+  <!-- EN: Not connected to power. -->
   <PowerNotConnected>Nincs áramellátása.</PowerNotConnected>
+  <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
   <PowerConnectedRateStored>Feles/tárolt: {0} W / {1} Wd</PowerConnectedRateStored>
+  <!-- EN: Power needed -->
   <PowerNeeded>Szükséges energia</PowerNeeded>
+  <!-- EN: Power output -->
   <PowerOutput>Termelt energia</PowerOutput>
+  <!-- EN: Stored -->
   <PowerBatteryStored>Tárolt</PowerBatteryStored>
+  <!-- EN: Efficiency -->
   <PowerBatteryEfficiency>Hatékonyság</PowerBatteryEfficiency>
+  <!-- EN: Self-discharging -->
   <SelfDischarging>Önkisülés</SelfDischarging>
 
   <!-- Temperature control -->
+  <!-- EN: Target temperature -->
   <TargetTemperature>Célhőmérséklet</TargetTemperature>
+  <!-- EN: Current power use -->
   <PowerConsumptionMode>Jelenlegi áramfogyasztás</PowerConsumptionMode>
+  <!-- EN: high -->
   <PowerConsumptionHigh>magas</PowerConsumptionHigh>
+  <!-- EN: low -->
   <PowerConsumptionLow>alacsony</PowerConsumptionLow>
 
   <!-- Temperature readout -->
+  <!-- EN: Indoors -->
   <Indoors>Benn</Indoors>
+  <!-- EN: Unroofed -->
   <IndoorsUnroofed>Fedetlen</IndoorsUnroofed>
+  <!-- EN: Outdoors -->
   <Outdoors>Kinn</Outdoors>
 
-  <!--Rotting-->
-  <RotStateFresh>Friss</RotStateFresh>
-  <RotStateRotting>Rohadó</RotStateRotting>
-  <RotStateDessicated>Kiszáradt</RotStateDessicated>
-
-  <!-- Shooting tooltip -->
-  <ShotBy>{1_labelShort} lövése</ShotBy>
-  <CannotHit>Nem lőhet rá.</CannotHit>
-  <ManhunterPerHit>Emberevővé válás esélye per találat</ManhunterPerHit>
-
   <!-- Rotting -->
+  <!-- EN: Fresh -->
+  <RotStateFresh>Friss</RotStateFresh>
+  <!-- EN: Rotting -->
+  <RotStateRotting>Rohadó</RotStateRotting>
+  <!-- EN: Dessicated -->
+  <RotStateDessicated>Kiszáradt</RotStateDessicated>
+  <!-- EN: Frozen (won't spoil) -->
   <CurrentlyFrozen>Fagyott (nem romlik)</CurrentlyFrozen>
+  <!-- EN: Refrigerated (spoils in {0}) -->
   <CurrentlyRefrigerated>Hűtött ({0} múlva megromlik)</CurrentlyRefrigerated>
+  <!-- EN: Not refrigerated (spoils in {0}) -->
   <NotRefrigerated>Nem hűtött ({0} múlva megromlik)</NotRefrigerated>
+  <!-- EN: over a decade -->
   <OverADecade>több, mint egy évtized</OverADecade>
+  <!-- EN: less than a day -->
   <LessThanADay>kevesebb, mint egy nap</LessThanADay>
 
+  <!-- Shooting tooltip -->
+  <!-- EN: Shot by {1_labelShort} -->
+  <ShotBy>{1_labelShort} lövése</ShotBy>
+  <!-- EN: Cannot hit target. -->
+  <CannotHit>Nem lőhet rá.</CannotHit>
+  <!-- EN: Manhunter chance per hit -->
+  <ManhunterPerHit>Emberevővé válás esélye per találat</ManhunterPerHit>
+
   <!-- Meal -->
+  <!-- EN: Ingredients -->
   <Ingredients>Hozzávalók</Ingredients>
 
   <!-- Plants -->
+  <!-- EN: {0} grown -->
   <PercentGrowth>{0} kifejlett</PercentGrowth>
+  <!-- EN: Growth rate -->
   <GrowthRate>Növekedési sebesség</GrowthRate>
+  <!-- EN: Fully grown in {0} of growth. -->
   <FullyGrownIn>Kifejlett {0} múlva.</FullyGrownIn>
+  <!-- EN: Needs light level -->
   <PlantNeedsLightLevel>Szükséges fényszint</PlantNeedsLightLevel>
+  <!-- EN: Resting -->
   <PlantResting>Stagnál</PlantResting>
+  <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
   <OutOfIdealTemperatureRange>Nem ideális hőmérséklet. Hőmérséklet-növekedésszorzó: {0}%</OutOfIdealTemperatureRange>
+  <!-- EN: Non-ideal temperature. Not growing. -->
   <OutOfIdealTemperatureRangeNotGrowing>Nem ideális hőmérséklet. Nem nő.</OutOfIdealTemperatureRangeNotGrowing>
+  <!-- EN: Ready to harvest. -->
   <ReadyToHarvest>Betakarításra kész.</ReadyToHarvest>
+  <!-- EN: Mature. -->
   <Mature>Kifejlett.</Mature>
-  <!-- <SeedLabel>{0} mag</SeedLabel> -->
+  <!-- EN: Growing period -->
   <OutdoorGrowingPeriod>Tenyészidőszak</OutdoorGrowingPeriod>
+  <!-- EN: Never -->
   <NoGrowingPeriod>Soha</NoGrowingPeriod>
+  <!-- EN: Year-round -->
   <GrowYearRound>Egész év</GrowYearRound>
+  <!-- EN: Growing season here now. -->
   <GrowSeasonHereNow>Elérkezett a tenyészidőszak.</GrowSeasonHereNow>
-  <!-- <CannotGrowTooCold>Nem nő - hideg évszak.</CannotGrowTooCold> -->
+  <!-- EN: Cannot grow (bad seasonal temperature). -->
   <CannotGrowBadSeasonTemperature>Nem nő (hideg évszak).</CannotGrowBadSeasonTemperature>
+  <!-- EN: Blighted -->
   <Blighted>Penészes</Blighted>
+  <!-- EN: Dying because exposed to light -->
   <DyingBecauseExposedToLight>Fény miatt haldoklik</DyingBecauseExposedToLight>
 
   <!-- Zones -->
+  <!-- EN: Zone -->
   <Zone>Körzet</Zone>
+  <!-- EN: Growing zone -->
   <GrowingZone>Kert</GrowingZone>
+  <!-- EN: Stockpile zone -->
   <Stockpile>Raktárterület</Stockpile>
+  <!-- EN: Dumping stockpile zone -->
   <DumpingStockpile>Szemétdomb</DumpingStockpile>
+  <!-- EN: Priority -->
   <Priority>Prioritás</Priority>
+  <!-- EN: Clear all -->
   <ClearAll>Semmi</ClearAll>
+  <!-- EN: Allow all -->
   <AllowAll>Mind</AllowAll>
 
   <!-- ThingFilter -->
+  <!-- EN: {0} hit points -->
   <HitPoints>{0} állapot</HitPoints>
+  <!-- EN: any quality -->
   <AnyQuality>bármilyen minőség</AnyQuality>
+  <!-- EN: {0} only -->
   <OnlyQuality>kizárólag {0}</OnlyQuality>
 
   <!-- Mouseover indicator -->
+  <!-- EN: Undiscovered -->
   <Undiscovered>Felfedezetlen</Undiscovered>
 
   <!-- Buttons -->
-  <ZoneVisibilityToggleButton>Körzetek láthatósága</ZoneVisibilityToggleButton>
-  <ShowBeautyToggleButton>Szépség kijelzése\n\nMegjeleníti az adott hely szépségére vonatkozó információkat, mintha egy ember épp ott állna, ahová a kurzor mutat.</ShowBeautyToggleButton>
-  <ShowRoomStatsToggleButton>Szoba statisztikák kijelzése\n\nMegjeleníti az adott szoba szépségére vonatkozó információkat.</ShowRoomStatsToggleButton>
-  <!-- <ShowEnvironmentToggleButton>Környezeti info.\n\nMegjeleníti az adott hely/szoba szépségére vonatkozó információkat, mintha egy ember épp ott állna, ahová a kurzor mutat.</ShowEnvironmentToggleButton> -->
-  <ShowColonistBarToggleButton>Gyarmatos állapotsáv\n\nIkonok és alapstátusz minden gyarmatosról a kép tetején.</ShowColonistBarToggleButton>
-  <AutoHomeAreaToggleButton>Lakókörzet automatikus kiterjesztése új épületnél</AutoHomeAreaToggleButton>
-  <AutoRebuildButton>Elpusztított építmények automatikus újjáépítése.</AutoRebuildButton>
-  <CategorizedResourceReadoutToggleButton>Kategorizált nyersanyag lista</CategorizedResourceReadoutToggleButton>
-  <ShowAnimalNamesToggleButton>Elnevezett állatok nevének kijelzése</ShowAnimalNamesToggleButton>
+  <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
   <ShowLearningHelperWhenEmptyToggleButton>Az oktató ki/bekapcsolása akkor is, ha nincs téma.\n\nA oktató automatikusan bekapcsol, ha van új téma. Ezzel a kapcsolóval eltüntetheted, ha épp nincs tanulnivaló.</ShowLearningHelperWhenEmptyToggleButton>
+  <!-- EN: Toggle visiblity of zones. -->
+  <ZoneVisibilityToggleButton>Körzetek láthatósága</ZoneVisibilityToggleButton>
+  <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
+  <ShowBeautyToggleButton>Szépség kijelzése\n\nMegjeleníti az adott hely szépségére vonatkozó információkat, mintha egy ember épp ott állna, ahová a kurzor mutat.</ShowBeautyToggleButton>
+  <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
+  <ShowRoomStatsToggleButton>Szoba statisztikák kijelzése\n\nMegjeleníti az adott szoba szépségére vonatkozó információkat.</ShowRoomStatsToggleButton>
+  <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
+  <ShowColonistBarToggleButton>Gyarmatos állapotsáv\n\nIkonok és alapstátusz minden gyarmatosról a kép tetején.</ShowColonistBarToggleButton>
+  <!-- EN: Toggle automatically expanding the home area around new constructions. -->
+  <AutoHomeAreaToggleButton>Lakókörzet automatikus kiterjesztése új épületnél</AutoHomeAreaToggleButton>
+  <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
+  <AutoRebuildButton>Elpusztított építmények automatikus újjáépítése.</AutoRebuildButton>
+  <!-- EN: Toggle categorized mode on the resource readout. -->
+  <CategorizedResourceReadoutToggleButton>Kategorizált nyersanyag lista</CategorizedResourceReadoutToggleButton>
+  <!-- EN: Toggle displaying animal names for tame named animals. -->
+  <ShowAnimalNamesToggleButton>Elnevezett állatok nevének kijelzése</ShowAnimalNamesToggleButton>
+  <!-- EN: Toggle visibility of roofs. -->
   <ShowRoofOverlayToggleButton>Tetők láthatósága be/ki.</ShowRoofOverlayToggleButton>
+  <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
   <LockNorthUpToggleButton>Kamera forgatásának tiltása, hogy észak mindig felfelé legyen.</LockNorthUpToggleButton>
+  <!-- EN: Toggle day/night lighting system. -->
   <UsePlanetDayNightSystemToggleButton>Napszakváltó rendszer ki/bekapcsolása.</UsePlanetDayNightSystemToggleButton>
-  <!-- <ExpandingIconsToggleButton>Távoli objektumoknál dinamikus ikonok megjelenítése.</ExpandingIconsToggleButton> -->
+  <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
   <ShowExpandingIconsToggleButton>Nagyobbodó ikonok távoli objektumoknál.</ShowExpandingIconsToggleButton>
+  <!-- EN: Toggle visibility of names of landforms. -->
   <ShowWorldFeaturesToggleButton>Természeti képződmények neve látható a térképen.</ShowWorldFeaturesToggleButton>
 
   <!-- Fire -->
+  <!-- EN: Fire -->
   <Fire>Tűz</Fire>
+  <!-- EN: Fire on {1_label} -->
   <FireOn>{1_label} ég</FireOn>
+  <!-- EN: Burning -->
   <Burning>Ég</Burning>
+  <!-- EN: fire size {0} -->
   <FireSizeLower>Tűz nagysága: {0}</FireSizeLower>
 
   <!-- Game conditions -->
- <!--  <MapConditionsTip>Különleges körülmények, amik a térképet jelenleg befolyásolják.</MapConditionsTip> -->
+  <!-- EN: Special conditions affecting the area right now. -->
   <GameConditionsTip>Különleges körülmények, amik a területet jelenleg befolyásolják.</GameConditionsTip>
+  <!-- EN: time left -->
   <TimeLeft>hátralévő idő</TimeLeft>
+  <!-- EN: impact date -->
   <ImpactDate>kezdet dátuma</ImpactDate>
 
   <!-- Building placement -->
+  <!-- EN: You have no usable materials from which to build this. -->
   <NoStuffsToBuildWith>Nincs alapanyagod hozzá, hogy ezt megépítsd.</NoStuffsToBuildWith>
 
   <!-- Building placement restricters -->
+  <!-- EN: {0} will have work speed penalty -->
   <WillGetWorkSpeedPenalty>{0} lassabban fog dolgozni</WillGetWorkSpeedPenalty>
+  <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>Tető alá nem tehető.</MustPlaceUnroofed>
+  <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>A fejének csatlakoznia kell a hajó gerincéhez.</MustPlaceHeadOnShipBeam>
+  <!-- EN: Must be placed next to something that needs a hopper. -->
   <MustPlaceNextToHopperAccepter>Valami olyan mellé kell helyezni, aminek adagolóra van szüksége.</MustPlaceNextToHopperAccepter>
+  <!-- EN: Must be placed directly on a steam geyser. -->
   <MustPlaceOnSteamGeyser>Közvetlenül gejzírre kell helyezni.</MustPlaceOnSteamGeyser>
+  <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
   <MustPlaceCoolerWithFreeSpaces>A hűtött és a fűtött oldalnak is szabadnak kell lennie.</MustPlaceCoolerWithFreeSpaces>
+  <!-- EN: Both the sides must be exposed for air to pass through. -->
   <MustPlaceVentWithFreeSpaces>Mindkét oldalnak szabad levegőáramlásban kell lennie.</MustPlaceVentWithFreeSpaces>
+  <!-- EN: Must be placed with standable space on all sides. -->
   <MustPlaceAdjacentStandable>Körben szabad helynek kell lennie.</MustPlaceAdjacentStandable>
+  <!-- EN: Must be placed next to a pod launcher's fueling port. -->
   <MustPlaceNearFuelingPort>Kilövőállás üzemanyagcsapja mellé kell telepíteni.</MustPlaceNearFuelingPort>
+  <!-- EN: Must be placed on drillable resources. -->
   <MustPlaceOnDrillable>Bányászható nyersanyag fölé kell helyezni.</MustPlaceOnDrillable>
+  <!-- EN: Cannot be placed next to traps. -->
+  <CannotPlaceAdjacentTrap>Csapda mellé nem helyezhető</CannotPlaceAdjacentTrap>
 
   <!-- Wind Turbine -->
+  <!-- EN: Blocked by -->
   <WindTurbine_WindPathIsBlockedBy>Akadályozza:</WindTurbine_WindPathIsBlockedBy>
+  <!-- EN: Blocked by roof -->
   <WindTurbine_WindPathIsBlockedByRoof>Tető akadályozza</WindTurbine_WindPathIsBlockedByRoof>
 
+  <!-- Watermill generator -->
+  <!-- EN: Flow reduced: Turbulence from other watermill -->
+  <Watermill_WaterUsedTwice>Áramlat gyengült: egy másik vízikerék turbulenciája</Watermill_WaterUsedTwice>
+
   <!-- Cryptosleep casket -->
+  <!-- EN: Contains -->
   <CasketContains>Tartalom</CasketContains>
+  <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
   <CasketWarning>Figyelem!\n\n{PAWN_nameDef} az utolsó dolgozó gyarmatosod! Ha beszáll a hibernálóba lehet, hogy nem tudsz tovább játszani. Biztos, hogy folytatod?</CasketWarning>
 
   <!-- Ship launch report -->
+  <!-- EN: Cannot launch. -->
   <ShipReportCannotLaunch>Kilövés nem lehetséges.</ShipReportCannotLaunch>
+  <!-- EN: Ready for launch. -->
   <ShipReportCanLaunch>Kilövésre kész.</ShipReportCanLaunch>
+  <!-- EN: Missing critical component -->
   <ShipReportMissingPart>Kötelező alkatrész hiányzik</ShipReportMissingPart>
+  <!-- EN: requires -->
   <ShipReportMissingPartRequires>szükséges</ShipReportMissingPartRequires>
+  <!-- EN: No full cryptosleep caskets -->
   <ShipReportNoFullPods>Nincs foglalt hibernáló</ShipReportNoFullPods>
+  <!-- EN: Hibernating component -->
   <ShipReportHibernating>Hibernáló komponens</ShipReportHibernating>
+  <!-- EN: Component not yet ready -->
   <ShipReportNotReady>Komponens nem kész</ShipReportNotReady>
+  <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarning>Charlon Whitestone kész rá, hogy elkezdje a reaktor felélesztését.\n\nCharlon Whitestone figyelmeztet, hogy az indítási folyamat 15 napot vesz igénybe, és a felszabaduló energia messziről érzékelhető lesz. Az ilyen energiakitörés csillagközi utazásra képes eszközt jelent, ami ide fogja vonzani a banditákat és kincsvadászokat. Készülj fel a fogadásukra.</HibernateWarning>
-  <!-- <HibernateCompleteLabel>Reaktor kész</HibernateCompleteLabel> -->
-  <!-- <HibernateComplete>Charlon Whitestone befejezte a reaktor felélesztését. Készen áll a felszállásra.</HibernateComplete> -->
+  <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarningStandalone>A reaktor kész az indulásra.\n\nA folyamat kb. 15 napig tart, és a felszabaduló energia messziről érzékelhető lesz. Az ilyen energiakitörés csillagközi utazásra képes eszközt jelent, ami ide fogja vonzani a banditákat és kincsvadászokat. Készülj fel a fogadásukra.</HibernateWarningStandalone>
+  <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
   <HibernateWarningPacifist>Charlon Whitestone kész elinditani a reaktor felélesztési procedúrát. Figyelmeztet, hogy kb. 15 napba fog telni a folyamat.</HibernateWarningPacifist>
+  <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
   <HibernateWarningStandalonePacifist>A reaktor kész az indulásra. A folyamat kb. 15 napig tart.</HibernateWarningStandalonePacifist>
-  
 
   <!-- Neurotrainer -->
+  <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
   <NeurotrainerUsed>{USER_labelShort} neuroképzőt ({1}) használt, hogy szintet lépjen {2} -> {3}.</NeurotrainerUsed>
 
   <!-- Minification -->
+  <!-- EN: Installed -->
   <Installed>Telepített</Installed>
+  <!-- EN: Not installed -->
   <NotInstalled>Nem telepített</NotInstalled>
 
   <!-- Art -->
+  <!-- EN: Title -->
   <Title>Cím</Title>
+  <!-- EN: Untitled -->
   <Untitled>Nincs címe</Untitled>
 
   <!-- Unfinished thing -->
+  <!-- EN: Unfinished {0} -->
   <UnfinishedItem>Befejezetlen {0}</UnfinishedItem>
+  <!-- EN: Unfinished {0} {1} -->
   <UnfinishedItemWithStuff>Befejezetlen {0} {1}</UnfinishedItemWithStuff>
 
   <!-- Quality -->
+  <!-- EN: Quality -->
   <Quality>Minőség</Quality>
+  <!-- EN: An item's quality is how well-made it is. -->
   <QualityDescription>Egy tárgy minősége határozza meg, milyen jól készítették el.</QualityDescription>
+  <!-- EN: Quality: {0} -->
   <QualityIs>Minőség: {0}</QualityIs>
 
   <!-- Mood descriptions -->
+  <!-- EN: mental state -->
   <Mood_MentalState>mentális állapot</Mood_MentalState>
+  <!-- EN: about to break -->
   <Mood_AboutToBreak>összeomlás határán</Mood_AboutToBreak>
+  <!-- EN: on edge -->
   <Mood_OnEdge>izgatott</Mood_OnEdge>
+  <!-- EN: stressed -->
   <Mood_Stressed>feszült</Mood_Stressed>
+  <!-- EN: neutral -->
   <Mood_Neutral>semleges</Mood_Neutral>
+  <!-- EN: content -->
   <Mood_Content>elégedett</Mood_Content>
+  <!-- EN: happy -->
   <Mood_Happy>boldog</Mood_Happy>
 
   <!-- Game over -->
+  <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
   <GameOverEveryoneDead>Mindenki halott vagy eltávozott. Ennek a történetnek vége.\n\nTalán valaki más hasznosnak találja majd ezeket a romokat.</GameOverEveryoneDead>
+  <!-- EN: You've launched the ship! These colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nYour AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
   <GameOverShipLaunched>Kilőtted az űrhajót! A következő gyarmatosok menekültek meg:\n\n{0}\nA következő gyarmatosok maradtak hátra:\n\n{1}\nAz MI megpróbálja biztonságos helyre irányítani a hajót. Lehet, hogy talál egy virágzó bolygót ebben a rendszerben. Az is lehet, hogy évszázados útra indul egy másik csillag felé. Dönthet úgy is, hogy egy aszteroida jege alatt pihen pár ezer évig várva, hogy valaki új világot építsen itt.\n\nHa felébredsz, kiderül...</GameOverShipLaunched>
+  <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
   <GameOverPlanetkillerImpact>Fénysebességhez közeli tempóban csapódott be a bolygógyilkos fegyver, trillió hidrogénbomba energiáját felszabadítva. Bolygód megolvadó anyaga szétspriccelt a kozmoszban, mint egy meglőtt, vízzel teli lufi.\n\n{0} egy része most egy kis aszteroidaövet képez. A többi olvadt, rádióaktív pokol, melyen állandóan kilométer magas földrengéshullámok futnak végig.\n\nNem élted túl.</GameOverPlanetkillerImpact>
+  <!-- EN: As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up. -->
   <GameOverArrivedAtJourneyDestination>A legénység tárt karokkal fogad, ahogy a fedélzetre lépsz. Örülnek, hogy legalább még egy embert magukkal vihetnek.\n\nA következő gyarmatosok menekültek meg:\n\n{0}\nA következő gyarmatosok maradtak hátra:\n\n{1}\nAz MI megpróbálja biztonságos helyre irányítani a hajót. Lehet, hogy talál egy virágzó bolygót ebben a rendszerben. Az is lehet, hogy évszázados útra indul egy másik csillag felé. Dönthet úgy is, hogy egy aszteroida jege alatt pihen pár ezer évig várva, hogy valaki új világot építsen itt.\n\nAhogy belépsz a hibernálóba, kissé bizonytalanná válsz, vajon megbízhatsz-e ezekben az emberekben?\n\nHa felébredsz, kiderül...</GameOverArrivedAtJourneyDestination>
+  <!-- EN: Keep playing -->
   <GameOverKeepPlaying>Játék folytatása</GameOverKeepPlaying>
+  <!-- EN: Main menu -->
   <GameOverMainMenu>Főmenü</GameOverMainMenu>
 
   <!-- Generic lifespan -->
+  <!-- EN: Expires in: -->
   <LifespanExpiry>Lejárat ideje:</LifespanExpiry>
 
-  <!-- Traps -->
-  <!-- <TrapArmed>Élesített</TrapArmed> -->
-  <!-- <TrapNotArmed>Nem élesített</TrapNotArmed> -->
-  <!-- <TrapRearmingCost>Élesítés ára: {0}</TrapRearmingCost> -->
-
   <!-- Facilities -->
+  <!-- EN: inactive -->
   <InactiveFacility>inaktív</InactiveFacility>
 
   <!-- Hediffs growth modes -->
+  <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
   <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort} állapota: {1} növekszik.</DiseaseGrowthModeChanged_Growing>
+  <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
   <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort} állapota: {1} stagnál.</DiseaseGrowthModeChanged_Stable>
+  <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
   <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort} állapota: {1} sorvad.</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
+  <!-- EN: Usable now. -->
   <MarriageSpotUsable>Használható.</MarriageSpotUsable>
+  <!-- EN: Not usable: {0}. -->
   <MarriageSpotNotUsable>Nem használható: {0}.</MarriageSpotNotUsable>
+  <!-- EN: blocked -->
   <MarriageSpotNotStandable>elzárt</MarriageSpotNotStandable>
+  <!-- EN: too dangerous for {1_labelShort} -->
   <MarriageSpotDangerous>túl veszélyes {1_labelShort} számára</MarriageSpotDangerous>
+  <!-- EN: forbidden for {1_labelShort} -->
   <MarriageSpotForbidden>tiltott {1_labelShort} számára</MarriageSpotForbidden>
+  <!-- EN: reserved -->
   <MarriageSpotReserved>foglalt</MarriageSpotReserved>
+  <!-- EN: unreachable for {1_labelShort} -->
   <MarriageSpotUnreachable>elérhetetlen {1_labelShort} számára</MarriageSpotUnreachable>
+  <!-- EN: in prison cell -->
   <MarriageSpotInPrisonCell>fogdában</MarriageSpotInPrisonCell>
+  <!-- EN: uncomfortable temperature -->
   <NotEnjoyableOutsideTemperature>nem optimális hőmérséklet</NotEnjoyableOutsideTemperature>
 
   <!-- Colonist bar -->
+  <!-- EN: Medical rest -->
   <ActivityIconMedicalRest>Lábadozik</ActivityIconMedicalRest>
+  <!-- EN: Sleeping -->
   <ActivityIconSleeping>Alszik</ActivityIconSleeping>
+  <!-- EN: Fleeing -->
   <ActivityIconFleeing>Menekül</ActivityIconFleeing>
+  <!-- EN: Fighting -->
   <ActivityIconAttacking>Harcol</ActivityIconAttacking>
+  <!-- EN: Idle -->
   <ActivityIconIdle>Tétlen</ActivityIconIdle>
+  <!-- EN: Burning -->
   <ActivityIconBurning>Ég</ActivityIconBurning>
+  <!-- EN: Forming a caravan -->
   <ActivityIconFormingCaravan>Karavánt alapít</ActivityIconFormingCaravan>
 
   <!-- Maintainable -->
+  <!-- EN: Due for maintenance. -->
   <DueForMaintenance>Karbantartás szükséges.</DueForMaintenance>
+  <!-- EN: Deteriorating due to lack of maintenance. -->
   <DeterioratingDueToLackOfMaintenance>Karbantartás hiánya miatti állag romlás.</DeterioratingDueToLackOfMaintenance>
 
   <!-- Deep drill -->
+  <!-- EN: Progress to next lump -->
   <ProgressToNextLump>Kitermelés állapota</ProgressToNextLump>
+  <!-- EN: Resource below -->
   <ResourceBelow>Nyersanyag alattunk</ResourceBelow>
+  <!-- EN: Progress to next portion -->
+  <ProgressToNextPortion>Haladás a köv. adagig</ProgressToNextPortion>
+  <!-- EN: No resources below. -->
   <DeepDrillNoResources>Nincs nyersanyag alattunk.</DeepDrillNoResources>
+  <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
   <DeepDrillExhausted>Mélyfúrható erőforrások kimerültek, a fúró automatikusan tiltva lett. Old fel a tiltást, hogy megkezdődjön {0} bányászata.</DeepDrillExhausted>
+  <!-- EN: Deep drill resources exhausted. -->
   <DeepDrillExhaustedNoFallback>Mélyfúrható erőforrások kimerültek.</DeepDrillExhaustedNoFallback>
-  
-  <NoActiveResearchProjectToFinish>Nincs folyamatban lévő kutatás</NoActiveResearchProjectToFinish>
-  
+
   <!-- Learning helper -->
+  <!-- EN: Learning helper -->
   <LearningHelper>Oktató</LearningHelper>
+  <!-- EN: Mark as learned -->
   <MarkLearned>Ismertnek jelölni</MarkLearned>
+  <!-- EN: Already learned -->
   <AlreadyLearned>Már ismert</AlreadyLearned>
+  <!-- EN: Filter -->
   <Filter>Szűrő</Filter>
-  
+
   <!-- Compass -->
+  <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
   <CompassTip>Az északi irányt mutatja. Kattintásra beállítja a kamerát, hogy az északi irány legyen fölfelé.</CompassTip>
-  
-    <!-- Distance measure -->
+
+  <!-- World route planner -->
+  <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
   <RoutePlannerButtonTip>Tervező mód megnyitása, ahol kijelölheted az út állomásait és kiszámíthatod a köztük lévő távolságot.</RoutePlannerButtonTip>
+  <!-- EN: Add two or more waypoints. -->
   <RoutePlannerAddTwoOrMoreWaypoints>Adj hozzá kettő vagy több állomást.</RoutePlannerAddTwoOrMoreWaypoints>
+  <!-- EN: Add one or more waypoints. -->
   <RoutePlannerAddOneOrMoreWaypoints>Adj hozzá még legalább egy állomást.</RoutePlannerAddOneOrMoreWaypoints>
+  <!-- EN: Total route time: {0} -->
   <RoutePlannerEstTimeToFinalDest>Teljes út ideje: {0}</RoutePlannerEstTimeToFinalDest>
+  <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
   <RoutePlannerUsingAverageTicksPerMoveWarning>A tervező mód az alap karaván sebességgel számol. A valós ettől eltérhet.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <!-- EN: Calculating for: {0} -->
   <RoutePlannerUsingTicksPerMoveOfCaravan>Számításhoz használt sebesség: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <!-- EN: Right mouse button: Add/remove waypoints. -->
   <RoutePlannerPressRMBToAddAndRemoveWaypoints>Jobb klikk: állomás hozzáadás/eltávolítás.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <!-- EN: ESC: Exit planning mode. -->
   <RoutePlannerPressEscapeToExit>ESC: kilépés tervező módból.</RoutePlannerPressEscapeToExit>
+  <!-- EN: ESC: Return to the caravan formation dialog. -->
   <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: vissza karaván alakításhoz.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
-  <!-- <EstimatedTimeToThisWaypoint>Becsült idő az állomásig: {0}</EstimatedTimeToThisWaypoint> -->
-  <!-- <EstimatedTimeToThisWaypointFromPrevious>Becsült idő ez és az előző állomás között: {0}</EstimatedTimeToThisWaypointFromPrevious> -->
-   <EstimatedTimeToWaypoint>Becsült idő az állomásig: {0}</EstimatedTimeToWaypoint>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToWaypoint>Becsült idő az állomásig: {0}</EstimatedTimeToWaypoint>
+  <!-- EN: Est. travel time (from previous waypoint): {0} -->
   <EstimatedTimeToWaypointFromPrevious>Becsült idő az előző és a következő állomás között: {0}</EstimatedTimeToWaypointFromPrevious>
+  <!-- EN: Est. travel time: {0} -->
   <EstimatedTimeToTile>Becsült idő az állomásig: {0}</EstimatedTimeToTile>
+  <!-- EN: Foraged food amount -->
   <ForagedFoodAmount>Begyűjtött táplálék</ForagedFoodAmount>
- 
- <!-- Outfits -->
+
+  <!-- Outfits -->
+  <!-- EN: Anything -->
   <OutfitAnything>Bármi</OutfitAnything>
+  <!-- EN: Worker -->
   <OutfitWorker>Munka</OutfitWorker>
+  <!-- EN: Soldier -->
   <OutfitSoldier>Katona</OutfitSoldier>
+  <!-- EN: Nudist -->
   <OutfitNudist>Nudista</OutfitNudist>
 
   <!-- Hibernatable -->
+  <!-- EN: Hibernating -->
   <HibernatableHibernating>Hibernálva</HibernatableHibernating>
+  <!-- EN: Starting up -->
   <HibernatableStartingUp>Felébresztés alatt</HibernatableStartingUp>
-  
-   <!-- Transport pods -->
+
+  <!-- Transport pods -->
+  <!-- EN: {0}: See available orders... -->
   <ClickToSeeAvailableOrders_WorldObject>{0}: elérhető parancsok...</ClickToSeeAvailableOrders_WorldObject>
+  <!-- EN: See available orders... -->
   <ClickToSeeAvailableOrders_Empty>Elérhető parancsok...</ClickToSeeAvailableOrders_Empty>
 
 </LanguageData>

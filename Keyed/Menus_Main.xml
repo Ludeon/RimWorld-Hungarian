@@ -1,219 +1,388 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!--=========== Main menu ==========-->
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
   <Tutorial>Oktatás</Tutorial>
-  <CreateWorld>Új világ</CreateWorld>
+  <!-- EN: New colony -->
   <NewColony>Új kolónia</NewColony>
+  <!-- EN: Back to game -->
   <BackToGame>Vissza a játékba</BackToGame>
+  <!-- EN: Review scenario -->
   <ReviewScenario>Forgatókönyv</ReviewScenario>
+  <!-- EN: Save -->
   <Save>Mentés</Save>
+  <!-- EN: Load game -->
   <LoadGame>Betöltés</LoadGame>
+  <!-- EN: Options -->
   <Options>Beállítások</Options>
+  <!-- EN: Mods -->
   <Mods>Modok</Mods>
+  <!-- EN: Save translation report -->
   <SaveTranslationReport>Fordítás hibalista</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
   <GeneratingTranslationReport>Fordítás jelentés létrehozása</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>Fordítás fájlok tisztázása</CleanupTranslationFiles>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>Fordítás fájljainak tisztázása</CleaningTranslationFiles>
+  <!-- EN: Credits -->
   <Credits>Stáblista</Credits>
+  <!-- EN: Quit to main menu -->
   <QuitToMainMenu>Kilépés a főmenübe</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
   <SaveAndQuitToMainMenu>Mentés és kilépés a főmenübe</SaveAndQuitToMainMenu>
+  <!-- EN: Quit to OS -->
   <QuitToOS>Kilépés a játékból</QuitToOS>
+  <!-- EN: Save and quit to OS -->
   <SaveAndQuitToOS>Mentés és kilépés a játékból</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
   <FictionPrimer>Fiction primer</FictionPrimer>
+  <!-- EN: Ludeon blog -->
   <LudeonBlog>Ludeon blog</LudeonBlog>
+  <!-- EN: Forums -->
   <Forums>Fórumok</Forums>
+  <!-- EN: Official wiki -->
   <OfficialWiki>Hivatalos wiki</OfficialWiki>
+  <!-- EN: Tynan's twitter -->
   <TynansTwitter>Tynan twittere</TynansTwitter>
+  <!-- EN: Tynan's design book -->
   <TynansDesignBook>Tynan design könyve</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
   <HelpTranslate>Segíts a fordításban</HelpTranslate>
+  <!-- EN: Buy soundtrack -->
   <BuySoundtrack>Zene megvásárlása</BuySoundtrack>
+  <!-- EN: Create world -->
+  <CreateWorld>Új világ</CreateWorld>
+
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>Minden RimWorld fordítás rajongók által készül. Ezt a magyarítást a következő rajongók készítették:\n\n{0}</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>Te is segíthetsz! Hogy többet megtudj, klikkelj az alábbi gombra (böngészőt nyit meg)!</TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>További info</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
   <DevBuildWarning>Figyelem: ez egy instabil fejlesztői verzió. Ez annyit jelent, hogy kísérleti játékmechanikák szerepelnek és különféle technikai fejlesztések vannak folyamatban. Néhány dolog szándékosan kiegyensúlyozatlan lesz. Ez egy klasszikus fejlesztői módszer, amikor egyes elemek súlyát túlzottan megnöveljük, hogy jobban lássuk a játékmechanikák kiegyensúlyozásának korlátait. Ennek segítségével érhetjük el, hogy a végső állapot megfelelő legyen.\n\nProgramhibák is előfordulnak, olyanok is, amik játszhatatlan állapothoz vezetnek. A mentett állások bármikor inkompatibilissé válhatnak.\n\nHa ez számodra nem probléma, köszönjük, hogy tesztelsz! Ha nem szeretnél kísérleteink alanya lenni, kérlek használd a legfrissebb stabil verziót!</DevBuildWarning>
 
-  
-  <!--=========== Create/review world ================-->
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
   <ReviewWorld>Világ áttekintése</ReviewWorld>
+  <!-- EN: Generate -->
   <WorldGenerate>Létrehoz</WorldGenerate>
+  <!-- EN: Save and finish -->
   <WorldSaveAndFinish>Mentés és kész</WorldSaveAndFinish>
+  <!-- EN: Reset -->
   <Reset>Alapállás</Reset>
-  <!-- <WorldSize>Méret</WorldSize> -->
+  <!-- EN: Globe coverage -->
   <PlanetCoverage>Szárazföld kiterjedése</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
   <PlanetRainfall>Esőzés mértéke</PlanetRainfall>
+  <!-- EN: Overall temperature -->
   <PlanetTemperature>Átlaghőmérséklet</PlanetTemperature>
+  <!-- EN: Low -->
   <PlanetRainfall_Low>Alacsony</PlanetRainfall_Low>
+  <!-- EN: Normal -->
   <PlanetRainfall_Normal>Normál</PlanetRainfall_Normal>
+  <!-- EN: High -->
   <PlanetRainfall_High>Magas</PlanetRainfall_High>
+  <!-- EN: Low -->
   <PlanetTemperature_Low>Alacsony</PlanetTemperature_Low>
+  <!-- EN: Normal -->
   <PlanetTemperature_Normal>Normál</PlanetTemperature_Normal>
+  <!-- EN: High -->
   <PlanetTemperature_High>Magas</PlanetTemperature_High>
+  <!-- EN: Seed -->
   <WorldSeed>Alapkód</WorldSeed>
+  <!-- EN: Randomize seed -->
   <RandomizeSeed>Véletlenszerű alapkód</RandomizeSeed>
+  <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
   <PlanetCoverageTip>A bolygó átmérője állandó, de mivel sokkal nagyobb a mérete, mint ami a játékhoz szükséges, nem generálódik le az egész felszín. Ez túl sok időt venne igénybe. Ez a szám adja meg, hogy a felszín mekkora része legyen legenerálva.</PlanetCoverageTip>
+  <!-- EN: Factions -->
   <WorldFactionsTab>Frakciók</WorldFactionsTab>
-  
-  <!--=========== Select world ===================-->
-  <SelectWorld>Világ kiválasztása</SelectWorld>
-  <WorldChooseButton>Kiválasztás</WorldChooseButton>
-  <NoWorldsFilesFound>Nincsen világ. Hozz létre egyet!</NoWorldsFilesFound>
 
-  <!--=========== Version info ==========-->
+  <!-- Select world -->
+  <!-- EN: Select world -->
+  <SelectWorld>Világ kiválasztása</SelectWorld>
+  <!-- EN: Select -->
+  <WorldChooseButton>Kiválasztás</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
+  <NoWorldsFilesFound>Nincsen világ. Hozz létre egyet!</NoWorldsFilesFound>
+  
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
   <BuildNowAvailable>{0} verzió elérhető. Látogass el a ludeon.com-ra több információért!</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
   <BuildUpToDate>Ez a legfrissebb verzió.</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
   <ErrorGettingVersionInfo>Hiba verzió lekérésekor: {0}</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
   <LoadingVersionInfo>Verzióinformáció betöltése...</LoadingVersionInfo>
 
-  <!--=========== World generator =========-->
+  <!-- World generator -->
+  <!-- EN: Generate world -->
   <GenerateWorld>Világ létrehozása</GenerateWorld>
 
-  <!--=========== Mods config ==========-->
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
   <OpenSteamWorkshop>Steam Workshop megnyitása</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
   <GetModsFromForum>Keress modot a fórumon</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
   <OpenModsDataFolder>Mod adat mappa megnyitása</OpenModsDataFolder>
+  <!-- EN: Show mods data location -->
   <ShowModsDataLocation>Mod adat mappa mutatása</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
   <ConfirmDisableCoreMod>Biztosan kikapcsolod az alapmodot? A játék működésképtelen lesz, hacsak nincs másik mod, ami kiváltja minden funkcióját.\n\nNe feledd, más modok felülírhatják a alapmod "def"-jeit, ha ugyanazt a "defName"-et használják.</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>Biztos, hogy {0} minden tartalmát törölni akarod?</ConfirmDeleteMod>
+  <!-- EN: Unsubscribe -->
   <Unsubscribe>Leiratkozás</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
   <ConfirmUnsubscribe>Biztos, hogy le akarsz iratkozni erről: {0}?</ConfirmUnsubscribe>
+  <!-- EN: Author -->
   <Author>Készítő</Author>
+  <!-- EN: Workshop page -->
   <WorkshopPage>Workshop oldal</WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
   <UploadToSteamWorkshop>Feltöltés a Steam Workshopra</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
   <UpdateOnSteamWorkshop>Frissítés a Steam Workshopon</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
   <UploadAlreadyInProgress>Már megy a feltöltés.</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
   <WorkshopSubmissionFailed>Workshop benyújtás hiba.\n\nOk: {0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
   <WorkshopUploadSucceeded>{0} sikeresen feltöltve.</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
   <Downloading>Letöltés</Downloading>
+  <!-- EN: Source -->
   <Source>Forrás</Source>
+  <!-- EN: For version: {0} -->
   <ModTargetVersion>{0} verzióhoz</ModTargetVersion>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Ez a mod a RimWorld más verziójához készült, nem fog megfelelően működni.</ModNotMadeForThisVersion>
+  <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
   <MessageModNeedsWellFormattedTargetVersion>A modnak szüksége van egy jól formázott verziószámra az About.xml-ben. Pl.: &lt;targetVersion>{0}&lt;/targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Drag to reorder -->
   <DragToReorder>Egérrel húzhatók az elemek</DragToReorder>
-
-  <!--=========== Select scenario =============-->
+  
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
   <ChooseScenario>Forgatókönyv</ChooseScenario>
+  <!-- EN: Custom -->
   <ScenariosCustom>Egyedi</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <!-- EN: Scenario editor -->
   <ScenarioEditor>Forgatókönyv szerkesztő</ScenarioEditor>
+  <!-- EN: Delete -->
   <Delete>Törlés</Delete>
-
-  <!--============ Scenario editor ===============-->
+  
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
   <Seed>alapkód</Seed>
+  <!-- EN: Load -->
   <Load>Betöltés</Load>
+  <!-- EN: edit mode -->
   <EditMode>szerkesztő mód</EditMode>
+  <!-- EN: Summary -->
   <Summary>Összegzés</Summary>
+  <!-- EN: Add part -->
   <AddPart>Hozzáadás</AddPart>
+  <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>Minden szövegmező kitöltendő.</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
   <ConfirmSteamWorkshopUpload>Biztos, hogy fel akarod tölteni a Steam Workshopba?\n\nEl kell fogadnod a Steam Workshop feltételeit. Megtalálható itt:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
   <ConfirmContentAuthor>Nyilvánvaló, hogy csak saját munkát töltenél fel.\n\nEz a sajátod?</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
   <Incompatible>Nem kompatibilis</Incompatible>
+  <!-- EN: Too many (max {0}):  -->
   <TooMany>Túl sok (max. {0}): </TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>Frissíthető a Workshop-on, mivel te vagy a szerző.</CanBeUpdatedOnWorkshop>
-
-  <!--=========== Select storyteller ==========-->
+  
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>Válassz MI mesélőt</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
   <HowStorytellersWork>Az MI (mesterséges intelligencia) mesélő olyan eseményeket idéz elő, mint a fosztogatás, ellátmány érkezése, vagy állatok támadása. Rajta múlik kolóniád története.</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
   <MustChooseDifficulty>Kérlek válassz nehézségi fokot.</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
   <Difficulty>Nehézség</Difficulty>
-  
+  <!-- EN: Commitment mode -->
   <CommitmentMode>"Valós Halál" mód</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
   <ReloadAnytimeMode>Szabad állás betöltés</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
   <MustChoosePermadeath>Kérlek válassz a "Valós Halál" és a "Szabad visszatöltés" módok közül!</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
   <ReloadAnytimeModeInfo>Bármikor elmentheted és betöltheted a játékállást.\n\nNem rossz választás azoknak, akik még tanulják a játékot, vagy ha ez illik az egyén játékstílusához.</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>"Valós halál" módban csak egy mentést lehet használni, azt is csak kilépéskor. Nem lehet állást visszatöltve rendbe hozni a hibákat, ha a kolónia kihal, ennyi volt.\n\nA RimWorld-öt ilyen játékmódra tervezték, minden drámai fordulatnak - legyen az tragikus vagy bíztató - maximális jelentősége van.</PermadeathModeInfo>
+  <!-- EN: Storyteller and difficulty can be changed any time. -->
   <CanChangeStorytellerSettingsDuringPlay>A mesélő és a nehézség bármikor változtatható.</CanChangeStorytellerSettingsDuringPlay>
-  
-  <!--=========== Landing site select =========-->
+  <!-- EN: Merciless mode -->
+  <UnlockExtremeDifficulty>Kegyetlen mód</UnlockExtremeDifficulty>
+  <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
+  <ConfirmUnlockExtremeDifficulty>A "kegyetlen mód" egy különleges játékbeállítás, ahol a kihívásokat extrém mértékűre kapcsoljuk.\n\nEz magától is elérhetővé válik, ha elérsz bizonyos mérföldköveket, de most is aktiválhatod.\n\nCsak akkor ajánljuk, ha már megnyertél pár nehéz játékot, mert jó eséllyel akkor is meghalsz, ha mindent remekül csinálsz.</ConfirmUnlockExtremeDifficulty>
+
+  <!-- Landing site select -->
+  <!-- EN: Select landing site -->
   <SelectLandingSite>Válassz landolási helyet</SelectLandingSite>
+  <!-- EN: Select random site -->
   <SelectRandomSite>Véletlen landolási hely</SelectRandomSite>
+  <!-- EN: Select site -->
   <SelectSite>Jóváhagyás</SelectSite>
+  <!-- EN: Please select a landing site. -->
   <MustSelectLandingSite>Kérlek válassz landolási helyet.</MustSelectLandingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
   <CannotLandBiome>Ezen a életközösségen nem landolhatsz: {0}</CannotLandBiome>
-  <!-- <WorldRenderMode>Mód</WorldRenderMode> -->
-  <!-- <WorldRenderModeFull>Teljes</WorldRenderModeFull> -->
-  <!-- <WorldRenderModeTemperature>Hőmérséklet</WorldRenderModeTemperature> -->
-  <!-- <WorldRenderModeElevation>Magasság</WorldRenderModeElevation> -->
-  <!-- <WorldRenderModeFertility>Termékenység</WorldRenderModeFertility> -->
-  <!-- <WorldRenderModeRainfall>Esőzés</WorldRenderModeRainfall> -->
-  <!-- <WorldRenderModeBiomes>Életközösségek</WorldRenderModeBiomes> -->
+  <!-- EN: Biome not implemented -->
   <BiomeNotImplemented>Nincs életközösség</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
   <CannotLandImpassableMountains>Áthatolhatatlan hegyen nem lehet leszállni.</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
   <BaseAlreadyThere>Itt már van bázisa nekik: {0}.</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
   <YourBaseAlreadyThere>Már van itt településed.</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
   <TileOccupied>Foglalt terület.</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
   <FactionBaseAdjacent>A települések nem lehetnek szomszédosak.</FactionBaseAdjacent>
+  <!-- EN: Biome -->
   <Biome>Életközösség</Biome>
+  <!-- EN: Terrain -->
   <Terrain>Terep</Terrain>
+  <!-- EN: Road -->
   <Road>Út</Road>
+  <!-- EN: River -->
   <River>Folyó</River>
+  <!-- EN: Elevation -->
   <Elevation>Magasság</Elevation>
+  <!-- EN: Fertility -->
   <Fertility>Termékenység</Fertility>
+  <!-- EN: Average temperature -->
   <AvgTemp>Átlaghőmérséklet</AvgTemp>
-  <!-- <AvgWinterTemp>Téli átlaghőmérséklet</AvgWinterTemp> -->
-  <!-- <AvgSummerTemp>Nyári átlaghőmérséklet</AvgSummerTemp> -->
+  <!-- EN: Rainfall -->
   <Rainfall>Esőzés</Rainfall>
+  <!-- EN: Special features -->
   <SpecialFeatures>Különlegességek</SpecialFeatures>
+  <!-- EN: northern coast -->
   <HasCoast0>Északi part</HasCoast0>
+  <!-- EN: eastern coast -->
   <HasCoast1>Keleti part</HasCoast1>
+  <!-- EN: southern coast -->
   <HasCoast2>Déli part</HasCoast2>
+  <!-- EN: western coast -->
   <HasCoast3>Nyugati part</HasCoast3>
+  <!-- EN: caves -->
   <HasCaves>barlangok</HasCaves>
+  <!-- EN: Faction base -->
   <FactionBase>Frakció bázisa</FactionBase>
+  <!-- EN: Stone types -->
   <StoneTypesHere>Sziklafajták</StoneTypesHere>
+  <!-- EN: Time zone -->
   <TimeZone>Időzóna</TimeZone>
+  <!-- EN: Movement difficulty -->
   <MovementDifficulty>Mozgás nehézsége</MovementDifficulty>
-  <!-- <MovementTimeNow>Jelenlegi áthaladási idő</MovementTimeNow> -->
-  <!-- <MovementTimeSummer>Nyári áthaladási idő</MovementTimeSummer> -->
-  <!-- <MovementTimeWinter>Téli áthaladási idő</MovementTimeWinter> -->
+  <!-- EN: Animals can graze now -->
   <AnimalsCanGrazeNow>Az állatok legelhetnek</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
   <AverageDiseaseFrequency>Átlagos megbetegedési gyakoriság</AverageDiseaseFrequency>
+  <!-- EN: per year -->
   <PerYear>évente</PerYear>
+  <!-- EN: Forageability -->
   <Forageability>Gyűjtögetés</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
   <ConfirmRequiredWorkTypeDisabledForEveryone>Egyik kiválasztott ember sem képes elvégezni a következő munká(ka)t:\n\n{0}\n\nEz a szokásosnál nehezebbé teheti a játékot. Biztosan folytatod?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
-  <!--=========== Character chooser ==========-->
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
   <CreateCharacters>Karakterek létrehozása</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
   <FirstNameDesc>A karakter keresztneve.\n\nEz csak bizonyos menükben látszik.</FirstNameDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
   <ShortIdentifierDesc>A karakter rövid azonosítója.\n\nEz mindig látszik. Lehet a kereszt-, vagy a vezetéknév, de akár külön becenév is.</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
   <LastNameDesc>A karakter vezetékneve.\n\nEz csak bizonyos menükben látszik.</LastNameDesc>
+  <!-- EN: Randomize -->
   <Randomize>Véletlenszerű</Randomize>
+  <!-- EN: age {0} -->
   <AgeIndicator>kor {0}</AgeIndicator>
+  <!-- EN: Backstory -->
   <Backstory>Háttértörténet</Backstory>
+  <!-- EN: Incapable of -->
   <IncapableOf>Alkalmatlan rá</IncapableOf>
+  <!-- EN: Traits -->
   <Traits>Jellemvonás</Traits>
+  <!-- EN: Permanent mood effect -->
   <PermanentMoodEffect>Állandó hangulatmódosító</PermanentMoodEffect>
+  <!-- EN: Skills -->
   <Skills>Készségek</Skills>
+  <!-- EN: none -->
   <NoneLower>nincs</NoneLower>
+  <!-- EN: Adulthood -->
   <Adulthood>Felnőttkor</Adulthood>
+  <!-- EN: Childhood -->
   <Childhood>Gyerekkor</Childhood>
+  <!-- EN: Current -->
   <Current>Jelenlegi</Current>
+  <!-- EN: male -->
   <Male>férfi</Male>
+  <!-- EN: female -->
   <Female>nő</Female>
+  <!-- EN: male -->
   <MaleAnimal>Hím</MaleAnimal>
+  <!-- EN: female -->
   <FemaleAnimal>Nőstény</FemaleAnimal>
+  <!-- EN: Pain -->
   <Pain>Fájdalom</Pain>
+  <!-- EN: Health -->
   <Health>Egészség</Health>
+  <!-- EN: Relations -->
   <Relations>Kapcsolatok</Relations>
+  <!-- EN: Team skills -->
   <TeamSkills>Csapat készségek</TeamSkills>
+  <!-- EN: Selected -->
   <StartingPawnsSelected>Kiválasztott</StartingPawnsSelected>
+  <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>Hátrahagyott</StartingPawnsLeftBehind>
-
-  <!--=========== Misc ==========-->
-  <Start>Kezdés</Start>
-  <Advanced>További...</Advanced>
-  <Next>Következő</Next>
-  <Back>Vissza</Back>
-  <Gameplay>Játék</Gameplay>
-  <ConfirmQuit>Biztosan kilépsz? A nem mentett változások elvesznek.</ConfirmQuit>
-  <EveryoneNeedsValidName>Mindenkinek kell egy megfelelő név.</EveryoneNeedsValidName>
-  <RequiredWorkTypeDisabledForEveryone>Egyik kiválasztott ember sem képes elvégezni a következő munká(ka)t.</RequiredWorkTypeDisabledForEveryone>
-  <Quit>Kilépés</Quit>
-  <Ignore>Ignorál</Ignore>
-  <UnlockExtremeDifficulty>Kegyetlen mód</UnlockExtremeDifficulty>
-  <ConfirmUnlockExtremeDifficulty>A "kegyetlen mód" egy különleges játékbeállítás, ahol a kihívásokat extrém mértékűre kapcsoljuk.\n\nEz magától is elérhetővé válik, ha elérsz bizonyos mérföldköveket, de most is aktiválhatod.\n\nCsak akkor ajánljuk, ha már megnyertél pár nehéz játékot, mert jó eséllyel akkor is meghalsz, ha mindent remekül csinálsz.</ConfirmUnlockExtremeDifficulty>
   
-  <CleanupTranslationFiles>Fordítás fájlok tisztázása</CleanupTranslationFiles>
-  <CleaningTranslationFiles>Fordítás fájljainak tisztázása</CleaningTranslationFiles>
-
-  <!--============ Progress bar==============-->
+  <!-- Misc -->
+  <!-- EN: Start -->
+  <Start>Kezdés</Start>
+  <!-- EN: Advanced -->
+  <Advanced>További...</Advanced>
+  <!-- EN: Next -->
+  <Next>Következő</Next>
+  <!-- EN: Back -->
+  <Back>Vissza</Back>
+  <!-- EN: Gameplay -->
+  <Gameplay>Játék</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
+  <ConfirmQuit>Biztosan kilépsz? A nem mentett változások elvesznek.</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
+  <EveryoneNeedsValidName>Mindenkinek kell egy megfelelő név.</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>Egyik kiválasztott ember sem képes elvégezni a következő munká(ka)t.</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
+  <Quit>Kilépés</Quit>
+  <!-- EN: Ignore -->
+  <Ignore>Ignorál</Ignore>
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
   <GeneratingWorld>Világ létrehozása</GeneratingWorld>
+  <!-- EN: Generating planet -->
   <GeneratingPlanet>Bolygó létrehozása</GeneratingPlanet>
+  <!-- EN: Generating map -->
   <GeneratingMap>Térkép létrehozása</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
   <GeneratingMapForNewEncounter>Térkép létrehozása új találkozáshoz</GeneratingMapForNewEncounter>
 
 </LanguageData>

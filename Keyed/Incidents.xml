@@ -1,172 +1,235 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-
-  <RefugeePodCrash_Factionless>{PAWN_nameDef} nem tagja egyetlen frakciónak sem. Megmentheted és útjára engedheted őt. Vagy el is foghatod, hogy besorozd vagy rabszolgáddá tedd.</RefugeePodCrash_Factionless>
-  <RefugeePodCrash_Hostile>{PAWN_nameDef} egy ellenséges frakció tagja ({PAWN_factionName}). Elfoghatod, hogy besorozd vagy rabszolgáddá tedd.</RefugeePodCrash_Hostile>
-  <RefugeePodCrash_NonHostile>Figyelem: {PAWN_nameDef} {PAWN_factionName} frakció tagja. Az elfogása fel fogja bosszantani őket, de a megmentése és ellátása javítja a frakciók viszonyát.</RefugeePodCrash_NonHostile>
-  <NormalQualityOrBetter>normál minőség vagy jobb</NormalQualityOrBetter>
-
+  <!-- EN: Mad {ANIMAL_labelShort} -->
   <LetterLabelAnimalInsanitySingle>Megvadult állat: {ANIMAL_labelShort}!</LetterLabelAnimalInsanitySingle>
+  <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
   <AnimalInsanitySingle>Egy helyi {ANIMAL_label} megvadult. Akit meglát, megtámadja.</AnimalInsanitySingle>
+  <!-- EN: Mad {0} -->
   <LetterLabelAnimalInsanityMultiple>Megvadult állatok: {0}!</LetterLabelAnimalInsanityMultiple>
+  <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
   <AnimalInsanityMultiple>Valamiféle pszichotikus hullám söpört végig a tájon. A gyarmatosok jól vannak, de...\n\nÚgy tűnik sok {0} megőrült a környéken.</AnimalInsanityMultiple>
 
+  <!-- EN: Blight -->
   <LetterLabelCropBlight>Penész</LetterLabelCropBlight>
+  <!-- EN: A colonist has noticed blight on your crops! You should cut or burn the blighted plants before the blight spreads. -->
   <LetterCropBlight>Az egyik gyarmatos penészedő növényeket talált. Ki kellene vágni vagy elégetni őket, mielőtt a fertőzés tovább terjed!</LetterCropBlight>
 
+  <!-- EN: Miracle -->
   <LetterLabelMiracleHeal>Csoda</LetterLabelMiracleHeal>
+  <!-- EN: {0} has experienced a miraculous recovery! -->
   <MiracleHeal>{0} csodálatos módon felépült!</MiracleHeal>
 
   <!-- Enemy raids -->
-  <!-- <EnemyRaidWalkIn>{1} egy csoportja ({0}) érkezett a közelbe.</EnemyRaidWalkIn> -->
-  <!-- <EnemyRaidEdgeDrop>{1} egy csoportja ({0}) érkezett a közelbe mentőkabinokban.</EnemyRaidEdgeDrop> -->
-  <!-- <EnemyRaidCenterDrop>{1} egy csoportja ({0}) érkezett pontosan a kolóniára!</EnemyRaidCenterDrop> -->
+  <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
   <EnemyRaidLeaderPresent>A {LEADER_labelShort} egyike a következő frakció vezetője: {LEADER_factionPawnsPlural}.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
-  <!-- <FriendlyRaidWalkIn>{1} egy barátságos csoportja ({0}) érkezett a közelbe.</FriendlyRaidWalkIn> -->
-  <!-- <FriendlyRaidEdgeDrop>{1} egy barátságos csoportja ({0}) érkezett a közelbe földkörüli pályáról.</FriendlyRaidEdgeDrop> -->
-  <!-- <FriendlyRaidCenterDrop>{1} egy barátságos csoportja ({0}) érkezett földkörüli pályáról pontosan a kolóniára!</FriendlyRaidCenterDrop> -->
+  <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
   <FriendlyRaidLeaderPresent>A {LEADER_labelShort} egyike a következő frakció vezetője: {LEADER_factionPawnsPlural}.</FriendlyRaidLeaderPresent>
 
+  <!-- EN: Transport pod crash -->
   <LetterLabelRefugeePodCrash>Mentőkabin</LetterLabelRefugeePodCrash>
+  <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
   <RefugeePodCrash>A közelben lezuhant egy mentőkabin, benne {PAWN_nameDef}, aki {PAWN_titleIndef}.\n\nHa túl is élte a zuhanást, súlyosan meg lesz sérülve.</RefugeePodCrash>
-  <!-- <RefugeePodCrashFactionWarning>Figyelem: [PAWN_nameDef] [PAWN_factionName] tagja. Az elfogása fel fogja bosszantani őket, de a megmentése és ellátása javítja a frakciók viszonyát.</RefugeePodCrashFactionWarning> -->
+  <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
+  <RefugeePodCrash_Factionless>{PAWN_nameDef} nem tagja egyetlen frakciónak sem. Megmentheted és útjára engedheted őt. Vagy el is foghatod, hogy besorozd vagy rabszolgáddá tedd.</RefugeePodCrash_Factionless>
+  <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
+  <RefugeePodCrash_Hostile>{PAWN_nameDef} egy ellenséges frakció tagja ({PAWN_factionName}). Elfoghatod, hogy besorozd vagy rabszolgáddá tedd.</RefugeePodCrash_Hostile>
+  <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
+  <RefugeePodCrash_NonHostile>Figyelem: {PAWN_nameDef} {PAWN_factionName} frakció tagja. Az elfogása fel fogja bosszantani őket, de a megmentése és ellátása javítja a frakciók viszonyát.</RefugeePodCrash_NonHostile>
 
+  <!-- EN: Cargo pods -->
   <LetterLabelCargoPodCrash>Szállítmány</LetterLabelCargoPodCrash>
+  <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage. -->
   <CargoPodCrash>Egy szállítmány áru zuhant le a közelben.\n\nTalán lesz közte valami használható.</CargoPodCrash>
 
+  <!-- EN: an electrical conduit -->
   <AnElectricalConduit>elektromos vezeték</AnElectricalConduit>
+  <!-- EN: A fault in {0} has caused a short circuit. -->
   <ShortCircuit>Egy {0} rövidzár alá került meghibásodás miatt.</ShortCircuit>
+  <!-- EN: A fault in {0} has caused a short circuit which started a fire. -->
   <ShortCircuitStartedFire>Egy {0} meghibásodása rövidzárlathoz vezetett, ami tüzet okozott.</ShortCircuitStartedFire>
+  <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
   <ShortCircuitDischargedEnergy>Az ehhez kötött összes akkumulátorban tárolt {0} Wd energia felszabadult egy robbanás formájában.</ShortCircuitDischargedEnergy>
+  <!-- EN: This large amount of power has created an explosion of considerable size. -->
   <ShortCircuitWasLarge>A nagy mennyiségű energia tekintélyes robbanást okozott.</ShortCircuitWasLarge>
+  <!-- EN: That really is a huge explosion. Wow. -->
   <ShortCircuitWasHuge>Ez aztán a robbanás. Hűha!</ShortCircuitWasHuge>
 
+  <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}. -->
   <TraderArrival>Kereskedőhajó halad el a közelben.\n\n{0} néven ismertek. Besorolásuk: {1}.</TraderArrival>
 
+  <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
   <SingleTravelerPassing>{1} egy tagja ({PAWN_title}) halad el a közelben. A neve {PAWN_nameFull}.</SingleTravelerPassing>
+  <!-- EN: A group of travelers from {0} are passing by. -->
   <GroupTravelersPassing>Utazók haladnak el a közelben ({0}).</GroupTravelersPassing>
 
+  <!-- EN: Visitor -->
   <LetterLabelSingleVisitorArrives>Látogató</LetterLabelSingleVisitorArrives>
+  <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
   <SingleVisitorArrives>{1} egy tagja látogat meg minket ({PAWN_titleIndef}).\n\nA neve {PAWN_nameFull}.{3}{4}</SingleVisitorArrives>
+  <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
   <SingleVisitorArrivesTraderInfo>\n\nÚgy tűnik van pár eladó cucca.</SingleVisitorArrivesTraderInfo>
+  <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
   <SingleVisitorArrivesLeaderInfo>\n\nŐ a frakciója vezetője.</SingleVisitorArrivesLeaderInfo>
+  <!-- EN: Visitors -->
   <LetterLabelGroupVisitorsArrive>Látogatók</LetterLabelGroupVisitorsArrive>
+  <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
   <GroupVisitorsArrive>{0} egy csoportja látogatja meg a kolóniát.{1}{2}</GroupVisitorsArrive>
+  <!-- EN: They seem to have a few items to trade. -->
   <GroupVisitorsArriveTraderInfo>\n\nÚgy tűnik van náluk pár eladni való.</GroupVisitorsArriveTraderInfo>
+  <!-- EN: One of the visitors - {1_labelShort}, is the leader of the faction. -->
   <GroupVisitorsArriveLeaderInfo>\n\nAz egyik látogató, {1_labelShort}, a frakció vezetője.</GroupVisitorsArriveLeaderInfo>
+  <!-- EN: Visitors from {0} are leaving. -->
   <VisitorsLeaving>{0} tagjai elmennek.</VisitorsLeaving>
 
-  <!-- <LetterLabelWandererJoin>Vándor csatlakozik</LetterLabelWandererJoin> -->
-  <!-- <WandererJoin>A [PAWN_nameDef] nevű {0} megérkezett és csatlakozik a kolóniához. Ő egy {1}.</WandererJoin> -->
-
+  <!-- EN: Manhunter pack -->
   <LetterLabelManhunterPackArrived>Emberevő falka</LetterLabelManhunterPackArrived>
+  <!-- EN: A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
   <ManhunterPackArrived>Emberevő {0} jelentek meg a környéken. A közelben kóborolva vadásznak emberhúsra.\n\nAjtókon nem törnek át, ha nem látják, mikor bemész. Kikapcsolt ágyúkat nem támadnak meg, ha nem akarod megölni őket, állítsd le ezeket.\n\nPár napig lesznek a környéken.</ManhunterPackArrived>
-
-  <!-- Crashed ship part-->
-  <MessageAnimalInsanityPulse>Egy ősi építmény pszichotikus hullámot bocsátott ki magából, amitől a közelben lévő állatok megvadultak.</MessageAnimalInsanityPulse>
-  <LetterShipPartDroveColonistInsane>A lezuhant hajó egy darabja koncentrált pszichotikus hullámot bocsátott ki, ettől {0} megőrült.</LetterShipPartDroveColonistInsane>
-  <AwokeDaysAgo>{0} napja ébren</AwokeDaysAgo>
   
+  <!-- Crashed ship part-->
+  <!-- EN: The ancient structure has emitted a psychic pulse that has driven nearby animals mad. -->
+  <MessageAnimalInsanityPulse>Egy ősi építmény pszichotikus hullámot bocsátott ki magából, amitől a közelben lévő állatok megvadultak.</MessageAnimalInsanityPulse>
+  <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
+  <LetterShipPartDroveColonistInsane>A lezuhant hajó egy darabja koncentrált pszichotikus hullámot bocsátott ki, ettől {0} megőrült.</LetterShipPartDroveColonistInsane>
+  <!-- EN: Awoke {0} days ago -->
+  <AwokeDaysAgo>{0} napja ébren</AwokeDaysAgo>
+  <!-- EN: Psychic drone level: {0} -->
   <PsychicDroneLevel>Pszichotikus hullám szintje: {0}</PsychicDroneLevel>
+  <!-- EN: Drone intensifies -->
   <LetterLabelPsychicDroneLevelIncreased>Hullámok erősödnek</LetterLabelPsychicDroneLevelIncreased>
+  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid. -->
   <LetterPsychicDroneLevelIncreased>A lezuhant hajó darabja erősebb hullámokat kezdett kibocsájtani. Minden ember zavartabb, ijedtebb, paranoidabb lett.</LetterPsychicDroneLevelIncreased>
-
+  
   <!-- Agent revealed -->
+  <!-- EN: Agent -->
   <LetterLabelAgentRevealed>Ügynök</LetterLabelAgentRevealed>
+  <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
   <LetterAgentRevealed>Kiderült, hogy {0} az ellenséged {1} ügynöke.\n\nMegpróbál megszökni.</LetterAgentRevealed>
 
   <!-- Distant psychic drone -->
+  <!-- EN: Psychic drone -->
   <LetterLabelPsychicDrone>Pszichotikus hullámok</LetterLabelPsychicDrone>
+  <!-- EN: Every colonist of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
   <LetterIncidentPsychicDrone>A {0} gyarmatosok fájdalomtól rezzennek össze!\n\nValami gyűlöletgenerátor dolgozik a távolban. Erős pszichotikus hullámot bocsájt ki az egész régióra, olyan frekvencián, ami csak a {0} nemet érinti. Némelyek hangulata igencsak rosszabb lesz pár napig.\n\nA hullám erőssége: {1}.</LetterIncidentPsychicDrone>
 
+  <!-- EN: Psychic soothe -->
   <LetterLabelPsychicSoothe>Pszichotikus nyugalom</LetterLabelPsychicSoothe>
+  <!-- EN: Every colonist of the {0} gender smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit better. -->
   <LetterIncidentPsychicSoothe>A {0} gyarmatosok elégedetten mosolyognak!\n\nValami boldogsággenerátor dolgozik a távolban. Erős pszichotikus hullámot bocsájt ki az egész régióra, olyan frekvencián, ami csak a {0} nemet érinti. Némelyek hangulata igencsak jobb lesz pár napig.</LetterIncidentPsychicSoothe>
 
   <!-- Beavers -->
+  <!-- EN: Beavers! -->
   <LetterLabelBeaversArrived>Hódok!</LetterLabelBeaversArrived>
+  <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
   <BeaversArrived>Egy csapat éhes alfahód érkezett.\n\nPróbáld kiiktatni őket, mielőtt megesznek minden fát.</BeaversArrived>
-
+  
   <!-- Refugee chased -->
+  <!-- EN: Refugee chased at {0} -->
   <RefugeeChasedTitle>Üldözött menekül itt: {0}</RefugeeChasedTitle>
+  <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} calls you from nearby. {PAWN_pronoun} is being chased by {2} from {3}!\n\n{PAWN_pronoun} begs for safety and offers to join your colony. {PAWN_pronoun} tells you {PAWN_pronoun} is {4} years old, but there's no time to collect more information.\n\nBe warned - if you accept, you'll have to fight off the {2} on {PAWN_possessive} tail. Their group is composed of:\n\n{5} -->
   <RefugeeChasedInitial>Egy {PAWN_nameDef} nevű {PAWN_title} hív a közelből. A nyomában {2} a(z) {3} frakcióból!\n\nMenedékért könyörög és felajánlja, hogy csatlakozik hozzád. Biológiailag {4} éves.\n\nFigyelem - ha befogadod, el kell kergetned az üldözőit ({2}). A csapatuk ebből áll:\n\n{5}.</RefugeeChasedInitial>
+  <!-- EN: Offer safety -->
   <RefugeeChasedInitial_Accept>Befogad</RefugeeChasedInitial_Accept>
+  <!-- EN: Ignore the message -->
   <RefugeeChasedInitial_Reject>Figyelmen kívül hagy</RefugeeChasedInitial_Reject>
+  <!-- EN: {1_labelShort} screams in panic through the tinny speaker before you cut off the transmission. -->
   <RefugeeChasedRejected>{1_labelShort} pánikba esve üvölt a rádióból, ahogy megszakítod az adást.</RefugeeChasedRejected>
 
   <!-- Self-tame -->
+  <!-- EN: {1_kind} self-tamed -->
   <LetterLabelAnimalSelfTame>{1_kind} megszelídült</LetterLabelAnimalSelfTame>
+  <!-- EN: {0} has become tame. -->
   <LetterAnimalSelfTame>{0} megszelídült.</LetterAnimalSelfTame>
+  <!-- EN: {0} has become tame. It is now designated {ANIMAL_nameFull}. -->
   <LetterAnimalSelfTameAndNameNumerical>{0} megszelídült. A neve mostantól {ANIMAL_nameFull}.</LetterAnimalSelfTameAndNameNumerical>
+  <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
   <LetterAnimalSelfTameAndName>{0} megszelídült. A gyarmatosok mostantól {ANIMAL_nameFull} néven szólítják.</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
+  <!-- EN: {0} join -->
   <LetterLabelFarmAnimalsWanderIn>{0} csatlakoznak</LetterLabelFarmAnimalsWanderIn>
+  <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
   <LetterFarmAnimalsWanderIn>Egy csapat elhagyott vagy elveszett {0} kóborolt a környékre.\n\nÚgy tűnik megszokták az ember közelségét és csatlakoznak a kolóniához.</LetterFarmAnimalsWanderIn>
-
+  
   <!-- Thrumbo passes -->
+  <!-- EN: Rare thrumbos -->
   <LetterLabelThrumboPasses>Ritka trumbok</LetterLabelThrumboPasses>
+  <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
   <LetterThrumboPasses>Egy kis csorda trumbo kóborol a környéken.\n\nBár békés természetűek, ezek a ritka állatok nagyon veszélyesek, ha szembeszállnak velük. Némely kereskedő sokat fizet a bőrükért és szarvukért.\n\nPár napig maradnak a környéken.</LetterThrumboPasses>
-
+  
   <!-- Trader caravan -->
+  <!-- EN: {1} from {0} -->
   <LetterLabelTraderCaravanArrival>{0} {1} karavánja érkezik.</LetterLabelTraderCaravanArrival>
+  <!-- EN: A caravan from {0} is approaching. They are a {1}.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction! -->
   <LetterTraderCaravanArrival>{0} {1} karavánja érkezik.\n\nPár napig maradnak a kolónia közelében. Megtámadhatod őket, de ez fel fogja bőszíteni a frakciójukat!</LetterTraderCaravanArrival>
-
-  <!-- Building breaks down -->
-  <!-- <LetterLabelBuildingBrokenDown>Meghibásodás: {0}</LetterLabelBuildingBrokenDown> -->
-  <!-- <LetterBuildingBrokenDown>Az egyik {0} meghibásodott. Addig nem fog működni, amíg egy karbantartó gyarmatos meg nem javítja.</LetterBuildingBrokenDown> -->
-
+  
   <!-- Ransom demand -->
+  <!-- EN: Ransom demand at {0} -->
   <RansomDemandTitle>Váltságdíj követelés itt: {0}</RansomDemandTitle>
+  <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
   <RansomDemand>{1} lépett veled kapcsolatba rádión. Korábbi gyarmatosod, {PAWN_labelShort}, a fogjuk.\n\nSzabadon engedik, {2} ezüstért cserébe.</RansomDemand>
+  <!-- EN: Accept -->
   <RansomDemand_Accept>Elfogad</RansomDemand_Accept>
+  <!-- EN: Reject -->
   <RansomDemand_Reject>Elutasít</RansomDemand_Reject>
-
-  <!-- Journey -->
+  
+  <!-- Journey-related -->
+  <!-- EN: A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nThe starship is currently in deep hibernation mode. You'll have to start it up when you arrive, then defend it from raiders trying to steal it until the startup sequence completes.\n\nIf you can get the ship off the ground, Charlon will take you off this rimworld, to the stars. -->
   <JourneyOffer>Charlon Whitestone, egy barátságos MI, akit régről ismersz, üzenetet küldött neked!\n\nVan egy űrhajója elrejtve ezen a bolygón, megadja a koordinátáit.\n\nHa elutazol oda, Charlon elvisz erről a bolygóról a csillagok közé.</JourneyOffer>
+  <!-- EN: Ship found -->
   <EscapeShipFoundLabel>Felfedezett hajó</EscapeShipFoundLabel>
+  <!-- EN: You've reached the coordinates sent by Charlon Whitestone and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\nCharlon Whitestone warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <EscapeShipFound>Odaértél a Charlon Whitestone által megadott koordinátákra és megtaláltad a hajót.\n\nA reaktor még mindig hibernálva van, emiatt nem röpképes. A számítógépközpontot használva indíthatod be.\n\nCharlon Whitestone figyelmeztet, hogy az indítási folyamat 15 napot vesz igénybe, és a felszabaduló energia messziről érzékelhető lesz. Az ilyen energiakitörés csillagközi utazásra képes eszközt jelent, ami ide fogja vonzani a banditákat és kincsvadászokat. Készülj fel a fogadásukra.</EscapeShipFound>
+  <!-- EN: Ship destroyed -->
   <EscapeShipLostLabel>Hajó elpusztítva</EscapeShipLostLabel>
+  <!-- EN: Charlon Whitestone sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
   <EscapeShipLost>Charlon Whitestone üzenetet küldött.\n\nLátta, hogy elvesztetted az uralmat a hajótest felett. Hogy ne kerüljön rossz kezekbe, el kellett indítania az önmegsemmisítő rendszert. A hajó immár csak egy kráter.\n\nMás módot kell találnod a bolygó elhagyására.</EscapeShipLost>
 
   <!-- Caravan meeting -->
+  <!-- EN: Caravan meeting by {0} -->
   <CaravanMeetingTitle>{0} találkozója</CaravanMeetingTitle>
+  <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
   <CaravanMeeting>{0} találkozott {1} barátságos karavánjával. Tagjaik:\n\n{2}</CaravanMeeting>
+  <!-- EN: Trade -->
   <CaravanMeeting_Trade>Kereskedés</CaravanMeeting_Trade>
+  <!-- EN: Attack -->
   <CaravanMeeting_Attack>Támadás</CaravanMeeting_Attack>
+  <!-- EN: Move on -->
   <CaravanMeeting_MoveOn>Továbbáll</CaravanMeeting_MoveOn>
+  <!-- EN: no caravan members capable of trading -->
   <CaravanMeeting_TradeIncapable>a karavánodnak nincs kereskedésre alkalmas tagja</CaravanMeeting_TradeIncapable>
- 
-    <!-- Caravan request -->
+  
+  <!-- Caravan request -->
+  <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>Karaván igény</LetterLabelCaravanRequest>
+  <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
   <LetterCaravanRequest>Egy közeli település, {0}, egy különleges ajánlattal keresett meg. Ezt szeretnének venni:\n\n  {1} (értéke {2})\n\nEzt adnák érte:\n\n  {3} (értéke {4})\n\nAz ajánlat eddig érvényes: {5} \n\nHa érdekel az ajánlat, küldj karavánt az igényelt áruval. Becsült érkezési idő {6}. Az ajánlat megtekinthető, ha kiválasztod ezt a világtérképen: {0}</LetterCaravanRequest>
+  <!-- EN: Requesting: {0} ({3}), Reward: {1} ({4}) ({2} left) -->
   <CaravanRequestInfo>Igény: {0} ({3}), cserébe: {1} ({4}) ({2} maradt)</CaravanRequestInfo>
+  <!-- EN: normal quality or better -->
+  <NormalQualityOrBetter>normál minőség vagy jobb</NormalQualityOrBetter>
 
   <!-- Caravan demand -->
+  <!-- EN: Caravan demand by {0} -->
   <CaravanDemandTitle>Karaván sarc: {0}</CaravanDemandTitle>
+  <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
   <CaravanDemand>Fegyveres {4} {2} tagú csoportja lepte meg őt: {0}, frakciójuk: {1}. Megtámadnak, amennyiben nem adod át ezeket:\n\n{3}</CaravanDemand>
+  <!-- EN: Give and pass -->
   <CaravanDemand_Give>Átad és továbbhalad</CaravanDemand_Give>
+  <!-- EN: Refuse and fight -->
   <CaravanDemand_Fight>Megtagad és harcol</CaravanDemand_Fight>
-  
-  <!-- Temporary item stash -->
-  <!-- <ItemStashQuestTitle>Rejtett készlet küldetés</ItemStashQuestTitle> -->
-  <!-- <ItemStashQuest_Accept>Elfogad</ItemStashQuest_Accept> -->
-  <!-- <ItemStashQuest_Reject>Elutasít</ItemStashQuest_Reject> -->
-  <!-- <ItemStashQuestFeeDemand>{0} elmondja a készlet helyét cserébe {1} ezüstért.</ItemStashQuestFeeDemand> -->
-  <!-- <ItemStashSitePart_Unknown>Sajnos {0} semmi információval nem rendelkezik arról, hogy ki vagy mi őrzi a helyet.</ItemStashSitePart_Unknown> -->
-  <!-- <ItemStashSitePart_Nothing>{0} szerint a helyet nem őrzik.</ItemStashSitePart_Nothing> -->
-  <!-- <ItemStashSitePart_Outpost>{0} szerint egy ellenséges helyőrség van a közelben.</ItemStashSitePart_Outpost> -->
-  <!-- <ItemStashSitePart_Turrets>{0} szerint ellenséges ágyúk őrzik a helyet.</ItemStashSitePart_Turrets> -->
-  <!-- <ItemStashSitePart_Manhunters>{0} szerint egy csapat emberevő állat van a közelben.</ItemStashSitePart_Manhunters> -->
-  <!-- <ItemStashSitePart_Part>{0} azt mondja, hogy {1}.</ItemStashSitePart_Part> -->
-  
-   <!-- Site no longer hostile -->
-  <LetterLabelSiteNoLongerHostile>A küldetés már nem elérhető</LetterLabelSiteNoLongerHostile>
-  <LetterLabelSiteNoLongerHostileMulti>A küldetések már nem elérhetők</LetterLabelSiteNoLongerHostileMulti>
-  <LetterSiteNoLongerHostile>Mivel {0} már nem ellenséges, {1} már nem elérhető.</LetterSiteNoLongerHostile>
-  <LetterSiteNoLongerHostileMulti>Mivel {0} már nem ellenséges, a következő helyszínek már nem elérhetők</LetterSiteNoLongerHostileMulti>
 
+  <!-- Site no longer hostile -->
+  <!-- EN: Quest no longer available -->
+  <LetterLabelSiteNoLongerHostile>A küldetés már nem elérhető</LetterLabelSiteNoLongerHostile>
+  <!-- EN: Quests no longer available -->
+  <LetterLabelSiteNoLongerHostileMulti>A küldetések már nem elérhetők</LetterLabelSiteNoLongerHostileMulti>
+  <!-- EN: Because you are no longer hostile with {0}, the {1} site is no longer available. -->
+  <LetterSiteNoLongerHostile>Mivel {0} már nem ellenséges, {1} már nem elérhető.</LetterSiteNoLongerHostile>
+  <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
+  <LetterSiteNoLongerHostileMulti>Mivel {0} már nem ellenséges, a következő helyszínek már nem elérhetők</LetterSiteNoLongerHostileMulti>
 
 </LanguageData>

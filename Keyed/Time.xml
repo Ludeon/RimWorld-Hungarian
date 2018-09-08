@@ -1,47 +1,77 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: d -->
   <LetterDay>n</LetterDay>
+  <!-- EN: h -->
   <LetterHour>ó</LetterHour>
+  <!-- EN: m -->
   <LetterMinute>p</LetterMinute>
+  <!-- EN: s -->
   <LetterSecond>mp</LetterSecond>
-
+  
+  <!-- EN: days -->
   <DaysLower>nap</DaysLower>
+  <!-- EN: seconds -->
   <SecondsLower>másodperc</SecondsLower>
 
+  <!-- EN: spring -->
   <SeasonSpring>tavasz</SeasonSpring>
+  <!-- EN: summer -->
   <SeasonSummer>nyár</SeasonSummer>
+  <!-- EN: fall -->
   <SeasonFall>ősz</SeasonFall>
+  <!-- EN: winter -->
   <SeasonWinter>tél</SeasonWinter>
+  <!-- EN: permanent summer -->
   <SeasonPermanentSummer>állandó nyár</SeasonPermanentSummer>
+  <!-- EN: permanent winter -->
   <SeasonPermanentWinter>állandó tél</SeasonPermanentWinter>
-  
-  <QuadrumAprimay>Áprijus</QuadrumAprimay>
-  <QuadrumJugust>Júguszt</QuadrumJugust>
-  <QuadrumSeptober>Szeptober</QuadrumSeptober>
-  <QuadrumDecembary>Decembár</QuadrumDecembary>
 
+  <!-- EN: Aprimay -->
+  <QuadrumAprimay>Áprijus</QuadrumAprimay>
+  <!-- EN: Jugust -->
+  <QuadrumJugust>Júguszt</QuadrumJugust>
+  <!-- EN: Septober -->
+  <QuadrumSeptober>Szeptober</QuadrumSeptober>
+  <!-- EN: Decembary -->
+  <QuadrumDecembary>Decembár</QuadrumDecembary>
+  
+  <!-- EN: Born: {0} -->
   <Born>Született: {0}</Born>
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
   <AgeChronological>Naptári életkor: {0} év, {1} évszak, {2} nap</AgeChronological>
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
   <AgeBiological>Biológiai életkor: {0} év, {1} évszak, {2} nap</AgeBiological>
 
   <!-- Date periods -->
+  <!-- EN: 1 year -->
   <Period1Year>1 év</Period1Year>
+  <!-- EN: {0} years -->
   <PeriodYears>{0} év</PeriodYears>
+  <!-- EN: 1 quadrum -->
   <Period1Quadrum>1 negyed</Period1Quadrum>
+  <!-- EN: {0} quadrums -->
   <PeriodQuadrums>{0} negyed</PeriodQuadrums>
-<!--   <Period1Season>1 évszak</Period1Season>
-  <PeriodSeasons>{0} évszak</PeriodSeasons> -->
+  <!-- EN: 1 day -->
   <Period1Day>1 nap</Period1Day>
+  <!-- EN: {0} days -->
   <PeriodDays>{0} nap</PeriodDays>
+  <!-- EN: 1 hour -->
   <Period1Hour>1 óra</Period1Hour>
+  <!-- EN: {0} hours -->
   <PeriodHours>{0} óra</PeriodHours>
-   <Period1Second>1 mp</Period1Second>
+  <!-- EN: 1 second -->
+  <Period1Second>1 mp</Period1Second>
+  <!-- EN: {0} seconds -->
   <PeriodSeconds>{0} mp</PeriodSeconds>
 
   <!-- Misc -->
+  <!-- EN: Started -->
   <Started>Elkezdődött</Started>
+  <!-- EN: Lasted -->
   <Lasted>Véget ért</Lasted>
+  <!-- EN: occurred {0} ago -->
   <OccurredTimeAgo>{0} ideje történt</OccurredTimeAgo>
-
+  
 </LanguageData>

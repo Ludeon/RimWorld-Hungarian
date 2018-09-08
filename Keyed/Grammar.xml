@@ -1,30 +1,52 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: a -->
   <IndefiniteArticle>egy</IndefiniteArticle>
+  <!-- EN: the -->
   <DefiniteArticle>a</DefiniteArticle>
+  <!-- EN: a {0} -->
   <IndefiniteForm>egy {0}</IndefiniteForm>
+  <!-- EN: the {0} -->
   <DefiniteForm>a {0}</DefiniteForm>
 
+  <!-- EN: its -->
   <Proits>azé</Proits>
+  <!-- EN: his -->
   <Prohis>övé</Prohis>
+  <!-- EN: her -->
   <Proher>övé</Proher>
+  <!-- EN: Its -->
   <ProitsCap>Azé</ProitsCap>
+  <!-- EN: His -->
   <ProhisCap>Övé</ProhisCap>
+  <!-- EN: Her -->
   <ProherCap>Övé</ProherCap>
 
+  <!-- EN: it -->
   <ProitObj>azt</ProitObj>
+  <!-- EN: him -->
   <ProhimObj>őt</ProhimObj>
+  <!-- EN: her -->
   <ProherObj>őt</ProherObj>
+  <!-- EN: It -->
   <ProitObjCap>Azt</ProitObjCap>
+  <!-- EN: Him -->
   <ProhimObjCap>Őt</ProhimObjCap>
+  <!-- EN: Her -->
   <ProherObjCap>Őt</ProherObjCap>
 
+  <!-- EN: he -->
   <Prohe>ő</Prohe>
+  <!-- EN: she -->
   <Proshe>ő</Proshe>
+  <!-- EN: it -->
   <Proit>az</Proit>
+  <!-- EN: He -->
   <ProheCap>Ő</ProheCap>
+  <!-- EN: She -->
   <ProsheCap>Ő</ProsheCap>
+  <!-- EN: It -->
   <ProitCap>Az</ProitCap>
 
 </LanguageData>

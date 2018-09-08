@@ -1,89 +1,136 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Autosaving -->
   <Autosaving>Automentés</Autosaving>
-
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
   <GameStartDialog>Recsegő fém és szirénák hangja ébreszt fel a hibernációból két társaddal együtt. Alig éritek el a mentőkabinokat, mielőtt a hajó szétszakad.\n\nNem sokkal később ezen az ismeretlen peremvilágon landoltok.\n\nMiközben a szétszaggatott hajó darabjai hullanak rátok, elkezdtek terveket szőni a túlélésről.</GameStartDialog>
-
+  <!-- EN: Colony -->
   <Colony>Kolónia</Colony>
-
+  <!-- EN: You can only change language from the options screen on the main menu. -->
   <ChangeLanguageFromMainMenu>Csak a főmenüben tudsz nyelvet változtatni.</ChangeLanguageFromMainMenu>
-
+  <!-- EN: and -->
   <AndLower>és</AndLower>
+  <!-- EN: disabled -->
   <DisabledLower>letiltva</DisabledLower>
 
-  <!-- <CloseButton>Bezárás</CloseButton> -->
-
+  <!-- EN: Version {0} -->
   <VersionIndicator>Verzió: {0}</VersionIndicator>
+  <!-- EN: development build -->
   <DevelopmentBuildLower>fejlesztő kiadás</DevelopmentBuildLower>
+  <!-- EN: Compiled {0} -->
   <CompiledOn>Kiadva: {0}</CompiledOn>
+  <!-- EN: Logged into Steam as {0} -->
   <LoggedIntoSteamAs>Bejelentkezve a Steambe mint: {0}</LoggedIntoSteamAs>
 
   <!-- General-use words -->
+  <!-- EN: Yes -->
   <Yes>Igen</Yes>
+  <!-- EN: No -->
   <No>Nem</No>
+  <!-- EN: min -->
   <min>min</min>
+  <!-- EN: max -->
   <max>max</max>
+  <!-- EN: chance -->
   <chance>esély</chance>
+  <!-- EN: context -->
   <context>kontextus</context>
+  <!-- EN: multiplier -->
   <multiplier>szorzó</multiplier>
+  <!-- EN: damage -->
   <damage>sebzés</damage>
+  <!-- EN: radius -->
   <radius>sugár</radius>
+  <!-- EN: duration (days) -->
   <durationDays>időtartam (nap)</durationDays>
+  <!-- EN: interval (days) -->
   <intervalDays>intervallum (napok)</intervalDays>
+  <!-- EN: repeat -->
   <repeat>ismétlés</repeat>
+  <!-- EN: default -->
   <default>alapérték</default>
+  <!-- EN: distance -->
   <distance>távolság</distance>
+  <!-- EN: YES -->
   <YesUppercase>IGEN</YesUppercase>
+  <!-- EN: NO -->
   <NoUppercase>NEM</NoUppercase>
+  <!-- EN: kg -->
   <kg>kg</kg>
+  <!-- EN: Day -->
   <Day>Nap</Day>
+  <!-- EN: day -->
   <day>nap</day>
+  <!-- EN: Default -->
   <Default>Alapértelmezett</Default>
+  <!-- EN: Average -->
   <Average>Átlag</Average>
 
   <!-- Content generation-->
-
+  
+  <!-- EN: {0} meat -->
   <MeatLabel>{0} hús</MeatLabel>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <MeatDesc>Nyers hús. Étel készíthető belőle, de akár nyersen is fogyasztható.</MeatDesc>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
   <MeatInsectDesc>Nyers hús. Étel készíthető belőle, de akár nyersen is fogyasztható. Rendkívül gusztustalan.</MeatInsectDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
   <MeatHumanDesc>Nyers hús. Étel készíthető belőle, de akár nyersen is fogyasztható, bár a legtöbb ember nem szívesen tenné...</MeatHumanDesc>
 
-  <!-- <LeatherLabel>{0} bőr</LeatherLabel> -->
-  <!-- <LeatherDesc>Cserzett bőr. Hagyományos alapanyaga ruháknak és táskáknak.</LeatherDesc> -->
-
+  <!-- EN: {0} corpse -->
   <CorpseLabel>{0} teteme</CorpseLabel>
+  <!-- EN: Dead body of a {0}. -->
   <CorpseDesc>{0} teteme.</CorpseDesc>
+  <!-- EN: {1_label} (dead) -->
   <DeadLabel>{1_label} (halott)</DeadLabel>
 
+  <!-- EN: rough {0} -->
   <RoughStoneTerrainLabel>göröngyös {0}</RoughStoneTerrainLabel>
+  <!-- EN: Rough, natural {0} ground. -->
   <RoughStoneTerrainDesc>Göröngyös, természetes {0} felület.</RoughStoneTerrainDesc>
+  <!-- EN: rough-hewn {0} -->
   <RoughHewnStoneTerrainLabel>Durván faragott {0}</RoughHewnStoneTerrainLabel>
+  <!-- EN: Roughly cut natural {0} floor. -->
   <RoughHewnStoneTerrainDesc>Durván faragott {0} felület.</RoughHewnStoneTerrainDesc>
+  <!-- EN: smooth {0} -->
   <SmoothStoneTerrainLabel>sima {0}</SmoothStoneTerrainLabel>
+  <!-- EN: Smoothed natural {0} floor. -->
   <SmoothStoneTerrainDesc>Lesimított {0} felület.</SmoothStoneTerrainDesc>
 
+  <!-- EN:  (blueprint) -->
   <BlueprintLabelExtra>(tervrajz)</BlueprintLabelExtra>
+  <!-- EN:  (building) -->
   <FrameLabelExtra>(állvány)</FrameLabelExtra>
-  
+
+  <!-- EN: Unaffiliated -->
   <FactionUnaffiliated>Nincs kapcsolatban</FactionUnaffiliated>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- EN: {0} {1} -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
+  <!-- EN: {PAWN_labelShort}'s {1} -->
   <SomeonesRoom>{1} tulajdonosa: {PAWN_labelShort}</SomeonesRoom>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
   <CouplesRoom>{2} tulajdonosai: {PAWN1_labelShort} és {PAWN2_labelShort}</CouplesRoom>
-
+  
+  <!-- EN: (various) -->
   <VariousLabel>(többféle)</VariousLabel>
 
   <!-- History events -->
+  <!-- EN: Colonist died -->
   <ColonistDied>Gyarmatos meghalt</ColonistDied>
   
   <!-- Rotation -->
+  <!-- EN: North -->
   <North>Észak</North>
+  <!-- EN: South -->
   <South>Dél</South>
+  <!-- EN: West -->
   <West>Nyugat</West>
+  <!-- EN: East -->
   <East>Kelet</East>
-
+  
 </LanguageData>

@@ -1,173 +1,289 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- ITab titles -->
+  <!-- EN: Bills -->
   <TabBills>Rendelés</TabBills>
+  <!-- EN: Growing -->
   <TabGrowing>Növekszik</TabGrowing>
+  <!-- EN: Bio -->
   <TabCharacter>Karakter</TabCharacter>
+  <!-- EN: Training -->
   <TabTraining>Idomít</TabTraining>
+  <!-- EN: Prisoner -->
   <TabPrisoner>Fogoly</TabPrisoner>
+  <!-- EN: Guest -->
   <TabGuest>Vendég</TabGuest>
+  <!-- EN: Gear -->
   <TabGear>Holmi</TabGear>
+  <!-- EN: Needs -->
   <TabNeeds>Szükség</TabNeeds>
+  <!-- EN: Storage -->
   <TabStorage>Raktár</TabStorage>
+  <!-- EN: Shells -->
   <TabShells>Lövedékek</TabShells>
+  <!-- EN: Health -->
   <TabHealth>Egészség</TabHealth>
+  <!-- EN: Race -->
   <TabRace>Faj</TabRace>
+  <!-- EN: Basics -->
   <TabBasics>Alapok</TabBasics>
+  <!-- EN: Stats -->
   <TabStats>Tulajdonságok</TabStats>
+  <!-- EN: Records -->
   <TabRecords>Statisztika</TabRecords>
+  <!-- EN: Art -->
   <TabArt>Művészet</TabArt>
+  <!-- EN: Social -->
   <TabSocial>Szociális</TabSocial>
-  <!-- <TabCombat>Harc</TabCombat> -->
+  <!-- EN: Log -->
   <TabLog>Napló</TabLog>
+  <!-- EN: Caravan -->
   <TabFormingCaravan>Karaván</TabFormingCaravan>
+  <!-- EN: Contents -->
   <TabTransporterContents>Rakomány</TabTransporterContents>
 
   <!-- Bills tab  -->
+  <!-- EN: Add bill -->
   <AddBill>Megrendelés</AddBill>
+  <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
   <RecipeRequiresSkills>A {0} recepthez az alábbi készség szükséges. Nincs gyarmatosod ilyen készséggel, senki sem fogja legyártani.</RecipeRequiresSkills>
+  <!-- EN: Min skill -->
   <MinimumSkill>Minimális készség</MinimumSkill>
+  <!-- EN: SUSPENDED -->
   <SuspendedCaps>LEÁLLÍTVA</SuspendedCaps>
+  <!-- EN: Worker: {1_labelShort} -->
   <BoundWorkerIs>Munkás: {1_labelShort}</BoundWorkerIs>
+  <!-- EN: Plant -->
   <PlantVerb>ültetni</PlantVerb>
+  <!-- EN: Copied bill cannot be pasted here. -->
   <ClipboardBillNotAvailableHere>A másolt megrendelés nem illeszthető be.</ClipboardBillNotAvailableHere>
+  <!-- EN: Move up -->
   <ReorderBillUpTip>Fel</ReorderBillUpTip>
+  <!-- EN: Move down -->
   <ReorderBillDownTip>Le</ReorderBillDownTip>
+  <!-- EN: Delete -->
   <DeleteBillTip>Töröl</DeleteBillTip>
+  <!-- EN: Copy to the clipboard -->
   <CopyBillTip>Vágólapra másol</CopyBillTip>
+  <!-- EN: Suspend -->
   <SuspendBillTip>Leállít</SuspendBillTip>
+  <!-- EN: Paste -->
   <PasteBillTip>Beilleszt</PasteBillTip>
+  <!-- EN: can't add more -->
   <PasteBillTip_LimitReached>nem lehet ennél több</PasteBillTip_LimitReached>
 
   <!-- Guest/prisoner tab -->
-  <RecruitmentDifficulty>Toborzás nehézsége</RecruitmentDifficulty>
-  <GetsFood>Kapjon ételt</GetsFood>
-  <DoctorsCare>Orvosi ellátás</DoctorsCare>
-  <GetsMedicine>Kapjon gyógyszert</GetsMedicine>
-  <ShouldTryToRecruit>Toborzandó</ShouldTryToRecruit>
+  <!-- EN: Resistance remaining -->
   <RecruitmentResistance>Maradék ellenállás</RecruitmentResistance>
-  <!-- <PrisonerNoInteraction>Nincs érintkezés</PrisonerNoInteraction> -->
-  <!-- <PrisonerFriendlyChat>Baráti társalgás</PrisonerFriendlyChat> -->
-  <!-- <PrisonerAttemptRecruit>Társalgás és toborzás</PrisonerAttemptRecruit> -->
-  <!-- <PrisonerRelease>Elengedni</PrisonerRelease> -->
-  <!-- <PrisonerExecution>Kivégezni</PrisonerExecution> -->
+  <!-- EN: Recruitment difficulty -->
+  <RecruitmentDifficulty>Toborzás nehézsége</RecruitmentDifficulty>
+  <!-- EN: Gets food -->
+  <GetsFood>Kapjon ételt</GetsFood>
+  <!-- EN: Doctors care -->
+  <DoctorsCare>Orvosi ellátás</DoctorsCare>
+  <!-- EN: Gets medicine -->
+  <GetsMedicine>Kapjon gyógyszert</GetsMedicine>
+  <!-- EN: Try to recruit -->
+  <ShouldTryToRecruit>Toborzandó</ShouldTryToRecruit>
+  <!-- EN: Considered guilty (expires in {0}) -->
   <ConsideredGuilty>Bűnösnek tekintve (elavul {0} múlva)</ConsideredGuilty>
-  
 
   <!-- Medical - general -->
+  <!-- EN: Move speed -->
   <MoveSpeed>Mozgási sebesség</MoveSpeed>
+  <!-- EN: Efficiency -->
   <Efficiency>Hatékonyság</Efficiency>
+  <!-- EN: Part efficiency -->
   <PartEfficiency>Testrész hatékonyság</PartEfficiency>
+  <!-- EN: Body part efficiency -->
   <BodyPartEfficiency>Testrész hatékonyság</BodyPartEfficiency>
+  <!-- EN: Gone -->
   <MissingBodyPart>Eltűnt</MissingBodyPart>
+  <!-- EN: Destroyed -->
   <DestroyedBodyPart>Tönkrement</DestroyedBodyPart>
+  <!-- EN: Shattered -->
   <ShatteredBodyPart>Törött</ShatteredBodyPart>
+  <!-- EN: Removed -->
   <RemovedBodyPart>Eltávolított</RemovedBodyPart>
+  <!-- EN: Healthy -->
   <Healthy>Egészséges</Healthy>
+  <!-- EN: In pain -->
   <InPain>Fájdalmai vannak</InPain>
+  <!-- EN: Pain -->
   <PainLevel>Fájdalomszint</PainLevel>
-  <!-- <Dead>Halott</Dead> -->
-  <!-- <Unconscious>Eszméletlen</Unconscious> -->
-  <!-- <PainShock>Sokkos állapot</PainShock> -->
+  <!-- EN: Injured -->
   <Injured>Sebesült</Injured>
-  <!-- <NoInjuries>(nincs sérülése)</NoInjuries> -->
+  <!-- EN: no health conditions -->
   <NoHealthConditions>sértetlen</NoHealthConditions>
+  <!-- EN: Whole body -->
   <WholeBody>Teljes test</WholeBody>
+  <!-- EN: Data processing -->
   <DataProcessing>Adatfeldolgozás</DataProcessing>
+  <!-- EN: Communication -->
   <Communication>Kommunikáció</Communication>
+  <!-- EN: Affects -->
   <Affects>Kihatás</Affects>
+  <!-- EN: Bleeding -->
   <BleedingRate>Vérzés mértéke</BleedingRate>
+  <!-- EN: death in {0} -->
   <TimeToDeath>halott {0} múlva</TimeToDeath>
+  <!-- EN: no immediate danger -->
   <WontBleedOutSoon>nincs közvetlen életveszély</WontBleedOutSoon>
+  <!-- EN: Overview -->
   <HealthOverview>Áttekintés</HealthOverview>
+  <!-- EN: Operations ({0}) -->
   <MedicalOperationsShort>Műtétek ({0})</MedicalOperationsShort>
+  <!-- EN: Modifications ({0}) -->
   <MedicalOperationsMechanoidsShort>Módosítások ({0})</MedicalOperationsMechanoidsShort>
+  <!-- EN: Medical operations -->
   <MedicalOperations>Orvosi műtétek</MedicalOperations>
+  <!-- EN: amputate -->
   <Amputate>Amputálni</Amputate>
+  <!-- EN: harvest -->
   <HarvestOrgan>Begyűjteni</HarvestOrgan>
-  <!-- <Harvest>Begyűjteni</Harvest> -->
+  <!-- EN: remove -->
   <RemoveOrgan>Eltávolítani</RemoveOrgan>
+  <!-- EN: memory -->
   <MemoryLower>memória</MemoryLower>
+  <!-- EN: social interactions -->
   <SocialInteractionsLower>szociális érintkezés</SocialInteractionsLower>
+  <!-- EN: Hunger rate -->
   <HungerRate>Éhség mértéke</HungerRate>
+  <!-- EN: Tiredness -->
   <Tiredness>Fáradtság</Tiredness>
+  <!-- EN: Pain -->
   <PainFactor>Fájdalom</PainFactor>
+  <!-- EN: Prevents infection -->
   <PreventsInfection>Fertőzés megelőzése</PreventsInfection>
+  <!-- EN: Self-tend -->
   <SelfTend>Önellátás</SelfTend>
+  <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
   <SelfTendTip>{0}, akiknél az önellátás engedélyezve van, {1} hatékonysággal látják el magukat.</SelfTendTip>
   
-
   <!-- Medical - Body and activities condition -->
+  <!-- EN: None -->
   <None>Semmi</None>
+  <!-- EN: Very poor -->
   <VeryPoor>Nagyon rossz</VeryPoor>
+  <!-- EN: Poor -->
   <Poor>Rossz</Poor>
+  <!-- EN: Weakened -->
   <Weakened>Legyengült</Weakened>
+  <!-- EN: OK -->
   <GoodCondition>Jó</GoodCondition>
+  <!-- EN: Enhanced -->
   <Enhanced>Javított</Enhanced>
+  <!-- EN: Seriously impaired -->
   <SeriouslyImpaired>Súlyosan fogyatékos</SeriouslyImpaired>
+  <!-- EN: Impaired -->
   <Impaired>Fogyatékos</Impaired>
+  <!-- EN: Slightly impaired -->
   <SlightlyImpaired>Kissé fogyatékos</SlightlyImpaired>
+  <!-- EN: None -->
   <NoPain>Nincs</NoPain>
+  <!-- EN: Little -->
   <LittlePain>Kis</LittlePain>
+  <!-- EN: Medium -->
   <MediumPain>Közepes</MediumPain>
+  <!-- EN: Severe -->
   <SeverePain>Súlyos</SeverePain>
+  <!-- EN: Extreme -->
   <ExtremePain>Extrém</ExtremePain>
-  
 
-  <!-- Training tab-->
-  <!-- <TrainableIntelligence>Idomítható intelligencia</TrainableIntelligence> -->
+  <!-- Training tab -->
+  <!-- EN: Trainability -->
   <Trainability>Idomíthatóság</Trainability>
+  <!-- EN: Requires trainability {0}. -->
   <CannotTrainNotSmartEnough>{0} intelligenciaszint szükséges</CannotTrainNotSmartEnough>
+  <!-- EN: {1_labelShort} is too small to train this. -->
   <CannotTrainTooSmall>{1_labelShort} túl kicsi ennek betanulásához</CannotTrainTooSmall>
 
+  <!-- EN: Prerequisite needed: {0} -->
   <TrainingNeedsPrerequisite>Előfeltétel szükséges: {0}</TrainingNeedsPrerequisite>
-
+  
   <!-- Social tab -->
+  <!-- EN: (no relationships) -->
   <NoRelationships>(nincs kapcsolata)</NoRelationships>
+  <!-- EN: Kidnapped -->
   <Kidnapped>Elrabolva</Kidnapped>
+  <!-- EN: Missing -->
   <Missing>Eltűnt</Missing>
+  <!-- EN: Slave -->
   <Slave>Rabszolga</Slave>
+  <!-- EN: Faction leader -->
   <FactionLeader>Frakcióvezér</FactionLeader>
+  <!-- EN: Opinion of {1_labelShort} -->
   <OpinionOf>{1_labelShort} értékelése</OpinionOf>
+  <!-- EN: {1_labelShort}'s opinion of me -->
   <SomeonesOpinionOfMe>{1_labelShort} értékelése rólam</SomeonesOpinionOfMe>
+  <!-- EN: I'm dead -->
   <IAmDead>Halott vagyok</IAmDead>
+  <!-- EN: I'm a psychopath -->
   <IAmPsychopath>Pszichopata vagyok</IAmPsychopath>
   
   <!-- Gear tab -->
-  <!-- <AverageArmor>Átlagos páncélzat</AverageArmor> -->
+  <!-- EN: Overall armor -->
   <OverallArmor>Védelem összegzés</OverallArmor>
+  <!-- EN: Mass carried: {0} / {1} kg -->
   <MassCarried>Cipelt tömeg: {0} / {1} kg</MassCarried>
+  <!-- EN: Comfortable temperature range -->
   <ComfyTemperatureRange>Optimális hőmérséklet</ComfyTemperatureRange>
+  <!-- EN: Blunt -->
   <ArmorBlunt>Ütés</ArmorBlunt>
+  <!-- EN: Sharp -->
   <ArmorSharp>Vágás</ArmorSharp>
+  <!-- EN: Heat -->
   <ArmorHeat>Hő</ArmorHeat>
-  <!-- <ArmorElectric>Elektromos</ArmorElectric> -->
   
-   <!-- Log tab -->
+  <!-- Log tab -->
+  <!-- EN: Show all -->
   <ShowAll>Mind</ShowAll>
+  <!-- EN: Show combat -->
   <ShowCombat>Harc</ShowCombat>
+  <!-- EN: Show social -->
   <ShowSocial>Szociális</ShowSocial>
+  <!-- EN: no recent entries -->
   <NoRecentEntries>nincs friss bejegyzés</NoRecentEntries>
+  <!-- EN: Copy log to the clipboard. -->
   <CopyLogTip>Napló másolása a vágólapra.</CopyLogTip>
 
   <!-- Forming caravan tab -->
+  <!-- EN: Gathering animals -->
   <FormingCaravanStatus_GatheringAnimals>Állatok összeszedése</FormingCaravanStatus_GatheringAnimals>
+  <!-- EN: Gathering animals (waiting) -->
   <FormingCaravanStatus_GatheringAnimals_Pause>Állatok összeszedése (várakozik)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <!-- EN: Gathering items -->
   <FormingCaravanStatus_GatheringItems>Tárgyak összeszedése</FormingCaravanStatus_GatheringItems>
+  <!-- EN: Gathering items (waiting) -->
   <FormingCaravanStatus_GatheringItems_Pause>Tárgyak összeszedése (várakozik)</FormingCaravanStatus_GatheringItems_Pause>
+  <!-- EN: Gathering slaves -->
   <FormingCaravanStatus_GatheringSlaves>Rabszolgák összeszedése</FormingCaravanStatus_GatheringSlaves>
+  <!-- EN: Gathering slaves (waiting) -->
   <FormingCaravanStatus_GatheringSlaves_Pause>Rabszolgák összeszedése (várakozik)</FormingCaravanStatus_GatheringSlaves_Pause>
+  <!-- EN: Leaving -->
   <FormingCaravanStatus_Leaving>Indulás</FormingCaravanStatus_Leaving>
+  <!-- EN: Leaving (waiting) -->
   <FormingCaravanStatus_Leaving_Pause>Indulás (várakozik)</FormingCaravanStatus_Leaving_Pause>
+  <!-- EN: Waiting -->
   <FormingCaravanStatus_Waiting>Várakozik</FormingCaravanStatus_Waiting>
+  <!-- EN: Members -->
   <CaravanMembers>Tagok</CaravanMembers>
+  <!-- EN: Animals -->
   <CaravanAnimals>Állatok</CaravanAnimals>
+  <!-- EN: Items to load -->
   <ItemsToLoad>Berakodni való tárgyak</ItemsToLoad>
+  <!-- EN: Loaded items -->
   <LoadedItems>Rakomány</LoadedItems>
+  <!-- EN: pack animals -->
   <PackAnimalsCountLower>málhások</PackAnimalsCountLower>
+  <!-- EN: mentally broken -->
   <InMentalStateCountLower>idegbetegek</InMentalStateCountLower>
-  
+
+  <!-- Transporter contents -->
+  <!-- EN: Remove {{0}}x {0} -->
   <RemoveSliderText>Eltávolít: {{0}}x {0}</RemoveSliderText>
+  <!-- EN: Do you really want to remove {0}? -->
   <ConfirmRemoveItemDialog>Biztosan eltávolítod ezt: {0}?</ConfirmRemoveItemDialog>
+
 </LanguageData>

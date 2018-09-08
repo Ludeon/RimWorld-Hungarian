@@ -1,63 +1,116 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Tool -->
   <Tool>Szerszám</Tool>
+  <!-- EN: damage -->
   <DamageLower>sebzés</DamageLower>
+  <!-- EN: seconds per attack -->
   <SecondsPerAttackLower>mp. per támadás</SecondsPerAttackLower>
-  <StatsReport_MaxGain>Max. hozam</StatsReport_MaxGain>
 
+  <!-- EN: Base value -->
   <StatsReport_BaseValue>Alapérték</StatsReport_BaseValue>
+  <!-- EN: Relevant traits -->
   <StatsReport_RelevantTraits>Idevágó tulajdonság</StatsReport_RelevantTraits>
+  <!-- EN: Relevant gear -->
   <StatsReport_RelevantGear>Idevágó felszerelés</StatsReport_RelevantGear>
+  <!-- EN: Relevant health conditions -->
   <StatsReport_RelevantHediffs>Idevágó egészségi állapot</StatsReport_RelevantHediffs>
+  <!-- EN: Life stage -->
   <StatsReport_LifeStage>Életszakasz</StatsReport_LifeStage>
+  <!-- EN: Material -->
   <StatsReport_Material>Anyag</StatsReport_Material>
+  <!-- EN: Character quality -->
   <StatsReport_CharacterQuality>Karakter minősége</StatsReport_CharacterQuality>
+  <!-- EN: Skills -->
   <StatsReport_Skills>Készség tényezők</StatsReport_Skills>
+  <!-- EN: Other stats -->
   <StatsReport_OtherStats>Más tényezők</StatsReport_OtherStats>
+  <!-- EN: Health -->
   <StatsReport_Health>Egészség</StatsReport_Health>
-  <!-- <StatsReport_HealthFactors>Egészségi tényezők</StatsReport_HealthFactors> -->
-  <HealthFactorMaxImpact>{0} max.</HealthFactorMaxImpact>
-  <HealthFactorAllowedDefect>ha ez alá esik: {0}</HealthFactorAllowedDefect>
+  <!-- EN: {0} importance -->
   <HealthFactorPercentImpact>{0} súly</HealthFactorPercentImpact>
+  <!-- EN: {0} impact -->
   <HealthOffsetScale>{0} hatás</HealthOffsetScale>
+  <!-- EN: {0} max -->
+  <HealthFactorMaxImpact>{0} max.</HealthFactorMaxImpact>
+  <!-- EN: if below {0} -->
+  <HealthFactorAllowedDefect>ha ez alá esik: {0}</HealthFactorAllowedDefect>
+  <!-- EN: Post-process curve -->
   <StatsReport_PostProcessed>Utófeldolgozás</StatsReport_PostProcessed>
+  <!-- EN: Final value -->
   <StatsReport_FinalValue>Végeredmény</StatsReport_FinalValue>
+  <!-- EN: Materials and labor -->
   <StatsReport_MarketValueFromStuffsAndWork>A piaci alapár az alapanyag és a szükséges munka függvénye.</StatsReport_MarketValueFromStuffsAndWork>
+  <!-- EN: Quality multiplier -->
   <StatsReport_QualityMultiplier>Minőségi szorzó</StatsReport_QualityMultiplier>
+  <!-- EN: Max gain -->
+  <StatsReport_MaxGain>Max. hozam</StatsReport_MaxGain>
+  <!-- EN: Multiplier for age {0} -->
   <StatsReport_AgeMultiplier>Kor ({0}) szorzó</StatsReport_AgeMultiplier>
+  <!-- EN: Multiplier for health {0} -->
   <StatsReport_HealthMultiplier>{0} állapot szorzó</StatsReport_HealthMultiplier>
+  <!-- EN: Multiplier for mood {0} -->
   <StatsReport_MoodMultiplier>{0} hangulat szorzó</StatsReport_MoodMultiplier>
+  <!-- EN: Multiplier for light {0} -->
   <StatsReport_LightMultiplier>{0} megvilágítás</StatsReport_LightMultiplier>
+  <!-- EN: Multiplier for difficulty {0} -->
   <StatsReport_DifficultyMultiplier>{0} nehézség szorzó</StatsReport_DifficultyMultiplier>
+  <!-- EN: In bed -->
   <StatsReport_InBed>Ágyban</StatsReport_InBed>
+  <!-- EN: Facilities -->
   <StatsReport_Facilities>Létesítmények</StatsReport_Facilities>
+  <!-- EN: Multiplier for body size {0} -->
   <StatsReport_BodySize>{0} testméret szorzó</StatsReport_BodySize>
+  <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
   <StatsReport_MeleeDPSExplanation>DPS = Közelharci sebzés * Közelharci találati esély / Felkészülés mp-ben</StatsReport_MeleeDPSExplanation>
+  <!-- EN: Melee damage -->
   <StatsReport_MeleeDamage>Közelharci sebzés</StatsReport_MeleeDamage>
+  <!-- EN: Cooldown -->
   <StatsReport_Cooldown>Felkészülés</StatsReport_Cooldown>
+  <!-- EN: Melee hit chance -->
   <StatsReport_MeleeHitChance>Közelharci találati esély</StatsReport_MeleeHitChance>
+  <!-- EN: {0} s -->
   <StatsReport_CooldownFormat>{0} mp</StatsReport_CooldownFormat>
+  <!-- EN: Life expectancy -->
   <StatsReport_LifeExpectancy>Várható életkor</StatsReport_LifeExpectancy>
+  <!-- EN: Multiplier for missing body parts -->
   <StatsReport_MissingBodyParts>Hiányzó testrészek utáni szorzó</StatsReport_MissingBodyParts>
+  <!-- EN: Gear and inventory -->
   <StatsReport_GearAndInventoryMass>Felszerelés tömeg</StatsReport_GearAndInventoryMass>
+  <!-- EN: Multiplier for worn by corpse -->
   <StatsReport_WornByCorpse>"Tetemről lehúzva" szorzó</StatsReport_WornByCorpse>
+  <!-- EN: average of all attacks -->
   <AverageOfAllAttacks>Támadások átlaga</AverageOfAllAttacks>
-  <StatsReport_NonToolAttack>Támadás</StatsReport_NonToolAttack>
-  <!-- <StatsReport_UnpoweredWorkTable>Nincs áram alatt</StatsReport_UnpoweredWorkTable> -->
+  <!-- EN: Scenario -->
   <StatsReport_ScenarioFactor>Forgatókönyv</StatsReport_ScenarioFactor>
+  <!-- EN: Ingredients -->
   <StatsReport_IngredientsMass>Hozzávalók</StatsReport_IngredientsMass>
+  <!-- EN: Permanently disabled. -->
   <StatsReport_PermanentlyDisabled>Végleges rokkantság.</StatsReport_PermanentlyDisabled>
+  <!-- EN: {0} -->
   <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <!-- EN: Added body parts -->
   <StatsReport_AddedBodyPartsMass>Beültetett szervek</StatsReport_AddedBodyPartsMass>
+  <!-- EN: Material effect multiplier -->
   <StatsReport_StuffEffectMultiplier>Anyag hatás szorzó</StatsReport_StuffEffectMultiplier>
+  <!-- EN: Resting -->
   <StatsReport_Resting>Pihen</StatsReport_Resting>
+  <!-- EN: recreation type -->
   <StatsReport_JoyKind>pihenés típusa</StatsReport_JoyKind>
-  <StatsReport_PlantGrowth>Fejlődés szorzója {0}</StatsReport_PlantGrowth>
-  <StatsReport_PlantGrowth_Wild>vad faj szorzó</StatsReport_PlantGrowth_Wild>
-  <StatsReport_NotFlesh>Nem hús</StatsReport_NotFlesh>
-  <StatsReport_NotFresh>Nem friss</StatsReport_NotFresh>
-  <StatsReport_WildMan>Vadember</StatsReport_WildMan>
+  <!-- EN: work to uninstall -->
   <StatsReport_WorkToUninstall>lebontás munkaigénye</StatsReport_WorkToUninstall>
+  <!-- EN: Multiplier for growth {0} -->
+  <StatsReport_PlantGrowth>Fejlődés szorzója {0}</StatsReport_PlantGrowth>
+  <!-- EN: scaled because wild -->
+  <StatsReport_PlantGrowth_Wild>vad faj szorzó</StatsReport_PlantGrowth_Wild>
+  <!-- EN: Not flesh -->
+  <StatsReport_NotFlesh>Nem hús</StatsReport_NotFlesh>
+  <!-- EN: Not fresh -->
+  <StatsReport_NotFresh>Nem friss</StatsReport_NotFresh>
+  <!-- EN: Wild man -->
+  <StatsReport_WildMan>Vadember</StatsReport_WildMan>
+  <!-- EN: Attack -->
+  <StatsReport_NonToolAttack>Támadás</StatsReport_NonToolAttack>
 
 </LanguageData>

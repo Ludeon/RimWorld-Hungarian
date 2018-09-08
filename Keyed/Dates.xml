@@ -1,14 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Time -->
   <ClockTime>Idő</ClockTime>
+  <!-- EN: Date -->
   <ClockDate>Nap</ClockDate>
+  <!-- EN: Year -->
   <ClockYear>Év</ClockYear>
+  <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
   <DateReadoutTip>Az érkezés óta eltelt napok: {0}\nJelenlegi quadrum: {4}\nHelyi évszak: {2}\n\nAz év 4 quadrumból áll melyek {3} naposak. A quadrumok mindenhol egyformák, míg az évszakok helyfüggők.\n\nA quadrumhoz tartozó helyi évszakok:\n{5}</DateReadoutTip>
 
+  <!-- EN: {0} of {1}, {2} -->
   <FullDate>{2}. {1} {0}. nap</FullDate>
+  <!-- EN: {0} of {1}, {2} -->
   <DateReadout>{1} {0}. nap, {2}</DateReadout>
+  <!-- EN: {0} of {1} -->
   <SeasonFullDate>{1} {0}. nap</SeasonFullDate>
+  <!-- EN: Whole year -->
   <WholeYear>Egész év</WholeYear>
-
+  
 </LanguageData>
