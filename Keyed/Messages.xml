@@ -41,8 +41,8 @@
   <MessageAnimalManhuntsOnTameFailed>Figyelem: a(z) {ANIMAL_kindBasePlural} támadhatnak, ha nem sikerül megszelídíteni őket. ({1} esély).</MessageAnimalManhuntsOnTameFailed>
 
   <LetterLabelMessageRecruitSuccess>Újonc</LetterLabelMessageRecruitSuccess>
-  <MessageRecruitSuccess>{0} sikeresen toborozta őt:{1} ({2} esély).</MessageRecruitSuccess>
-  <MessageTameSuccess>{0} sikeresen megszelídítette őt: {1} ({2} esély).</MessageTameSuccess>
+  <MessageRecruitSuccess>{RECRUITER_nameFull} sikeresen toborozta őt:{RECRUITEE_nameFull} ({2} esély).</MessageRecruitSuccess>
+  <MessageTameSuccess>{RECRUITER_labelShort} sikeresen megszelídítette őt: {1} ({2} esély).</MessageTameSuccess>
   <MessageTameAndNameSuccess>{RECRUITER_labelShort} sikeresen megszelídítette őt: {1} ({2} esély) és a(z) {RECRUITEE_nameFull} nevet adta neki.</MessageTameAndNameSuccess>
   <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>Elkezdődik a toborzás</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
 
@@ -73,24 +73,23 @@
 
   <MessageNoMedicalBeds>Nincs szabad betegágy.</MessageNoMedicalBeds>
   <MessageNoAnimalBeds>Nincs szabad állat fekhely.</MessageNoAnimalBeds>
-  <MessageTooLowMedCare>Ehhez {0} vagy jobb kell, de {1} jelenlegi ellátási szintje {2}.</MessageTooLowMedCare>
-  <!-- <PawnDiedBecauseOf>{0} meghalt. Ok: {1}.</PawnDiedBecauseOf> -->
+  <MessageTooLowMedCare>Ehhez {0} vagy jobb kell, de {PAWN_labelShort} jelenlegi ellátási szintje {2}.</MessageTooLowMedCare>
   <PawnDied>{1_labelShort} meghalt.</PawnDied>
 
-  <PawnDiedBecauseOf>{0} meghalt {1} miatt.</PawnDiedBecauseOf>
+  <PawnDiedBecauseOf>{PAWN_labelShort} meghalt {1} miatt.</PawnDiedBecauseOf>
 
   <MessageNoLongerDowned>{1_label} már képes járni.</MessageNoLongerDowned>
 
   <MessageInvoluntarySleep>{1_labelShort} összeesett, túlzott kimerültség miatt.</MessageInvoluntarySleep>
 
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} katasztrofális hibát vétett {PATIENT_labelShort} műtétje közben.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} katasztrofális hibát vétett {patient.LabelShort} műtétje közben.</MessageMedicalOperationFailureCatastrophic>
   <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} kisebb hibát vétett {PATIENT_labelShort} műtétje közben.</MessageMedicalOperationFailureMinor>
   <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} nevetséges hibát vétett {PATIENT_labelShort} műtétje közben.</MessageMedicalOperationFailureRidiculous>
-  <MessageMedicalOperationFailureFatal>{0} {1} operációja közben végzetes hibát vétett a következő különleges körülmény miatt: {2}</MessageMedicalOperationFailureFatal>
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} {PATIENT_labelShort} operációja közben végzetes hibát vétett a következő különleges körülmény miatt: {2}</MessageMedicalOperationFailureFatal>
 
   <MessageMedicalOperationWillAngerFaction>Ettől az műtéttől {0} mérges lesz.</MessageMedicalOperationWillAngerFaction>
   
-  <MessageCapturingWillAngerFaction>Figyelem: [PAWN_nameDef] elfogása fel fogja bőszíteni a frakcióját ([PAWN_factionName])!</MessageCapturingWillAngerFaction>
+  <MessageCapturingWillAngerFaction>Figyelem: {PAWN_nameDef} elfogása fel fogja bőszíteni a frakcióját ({PAWN_factionName})!</MessageCapturingWillAngerFaction>
 
   <!-- <MessagePawnExitMapRelationsGain>Mivel {0} egészségesen távozott, {1} viszonya velünk ennyivel javult: {2}.</MessagePawnExitMapRelationsGain> -->
 
@@ -100,7 +99,7 @@
 
   <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} a(z) {NAMEE_nameFull} nevet adta neki: {1}, miután az hozzá dörgölőzött.</MessageNuzzledPawnGaveNameTo>
 
-  <MessageNoHandlerSkilledEnough>Senki nem képes megszelídíteni őt: {0}. (szükséges {2} szint: {1}, legjobb idomárnak ({3}) {4} van).</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>Senki nem képes megszelídíteni őt: {ANIMAL_kindBase}. (szükséges {2} szint: {1}, legjobb idomárnak ({HANDLER_labelShort}) {4} van).</MessageNoHandlerSkilledEnough>
 
   <MessageEatenByPredator>{PREDATOR} megette őt: {EATEN_labelShort}.</MessageEatenByPredator>
   <MessageAttackedByPredator>{PREDATOR} megtámadta őt: {PREY_labelShort}!</MessageAttackedByPredator>
@@ -149,7 +148,7 @@
  
   <MessageRottedAwayInStorage>Némi {1_label} elrohadt a raktárban.</MessageRottedAwayInStorage>
 
-  <MessageFoodPoisoning>{0} ételmérgezést kapott ettől: {1}. Oka: {2}.</MessageFoodPoisoning>
+  <MessageFoodPoisoning>{PAWN_labelShort} ételmérgezést kapott ettől: {FOOD_labelShort}. Oka: {2}.</MessageFoodPoisoning>
   
   <MessagePawnLostWhileFormingCaravan>{0} el lett távolítva a karavánból.</MessagePawnLostWhileFormingCaravan>
   <MessagePawnLostWhileFormingCaravan_AllLost>Karaván alakítás megszakítva.</MessagePawnLostWhileFormingCaravan_AllLost>
@@ -187,7 +186,7 @@
 
   <MessageSettledInExistingMap>Sikeresen letelepedtél egy új területen.</MessageSettledInExistingMap>
   
-  <MessagePermanentWoundHealed>{2} meggyógyult ({1}). Ok: {0}</MessagePermanentWoundHealed>
+  <MessagePermanentWoundHealed>{2} meggyógyult ({PAWN_labelShort}). Ok: {0}</MessagePermanentWoundHealed>
 
   <!-- <MessageAmbushVictory>Győzelem! {0} óra múlva a karaván automatikusan újraalakul. A világtérképen újraalakíthatod most is.</MessageAmbushVictory> -->
 
@@ -320,14 +319,14 @@
   <MessageFormedCaravan_Orders>Utasítások</MessageFormedCaravan_Orders>
 
   <MessageBillValidationStoreZoneDeleted>{1} segítségével végzett "{0}" terméke nem szállítható a törölt raktárterületre: {2}.</MessageBillValidationStoreZoneDeleted>
-  <MessageBillValidationStoreZoneUnavailable>1} segítségével végzett "{0}" terméke nem szállítható az elérhetetlen raktárterületre: {2}.</MessageBillValidationStoreZoneUnavailable>
+  <MessageBillValidationStoreZoneUnavailable>{1} segítségével végzett "{0}" terméke nem szállítható az elérhetetlen raktárterületre: {2}.</MessageBillValidationStoreZoneUnavailable>
   <MessageBillValidationPawnUnavailable>Mivel {0} nem tud többé ezen dolgozni:"{1}" itt: {2}, a korlátozás feloldva.</MessageBillValidationPawnUnavailable>
   <MessageBillValidationIncludeZoneDeleted>{1} segítségével végzett "{0}" termékét nem lehet ezen a törölt raktárterületen számlálni: {2}.</MessageBillValidationIncludeZoneDeleted>
   <MessageBillValidationIncludeZoneUnavailable>{1} segítségével végzett "{0}" termékét nem lehet ezen a nem elérhető raktárterületen számlálni: {2}.</MessageBillValidationIncludeZoneUnavailable>
   <MessageBillValidationStoreZoneInsufficient>{1} segítségével végzett "{0}" terméke már nem fér erre a raktárterületre: {2}.</MessageBillValidationStoreZoneInsufficient>
 
   <MessageAnimalReturnedWild>Foglalkozás hiánya miatt {1_labelShort} újra elvadult.</MessageAnimalReturnedWild>
-  <MessageAnimalLostSkill>Foglalkozás hiánya miatt {0} elvesztette a következő készséget: {1}</MessageAnimalLostSkill>
+  <MessageAnimalLostSkill>Foglalkozás hiánya miatt {ANIMAL_labelShort} elvesztette a következő készséget: {1}</MessageAnimalLostSkill>
 
   <MessageTranslationReportSaved>Fordítási jelentés megírva ide: {0}</MessageTranslationReportSaved>
 

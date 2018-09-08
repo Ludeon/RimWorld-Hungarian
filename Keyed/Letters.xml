@@ -31,7 +31,7 @@
   
    <LetterDisease_Blocked>{0} blokkolta ezt: {1} rajta: {2}.</LetterDisease_Blocked>
    <LetterLabelTraitDisease>Betegség ({0})</LetterLabelTraitDisease>
-   <LetterTraitDisease>{0} elkapta ezt a betegséget: {1}.\n\nEnsure you have a medical bed and a doctor. Biztosíts neki betegágyat és ellátást! Győződj meg róla, hogy gondját viselik és elég időt tölt ágyban!</LetterTraitDisease>
+   <LetterTraitDisease>{PAWN_label} elkapta ezt a betegséget: {1}.\n\nEnsure you have a medical bed and a doctor. Biztosíts neki betegágyat és ellátást! Győződj meg róla, hogy gondját viselik és elég időt tölt ágyban!</LetterTraitDisease>
   
   
   <ShortCircuitRain>Egy {1_label} rövidzárlatos lett az esőben és tüzet okozott.</ShortCircuitRain>
@@ -48,7 +48,7 @@
   <RecruitSuccess>{0} sikeresen toborozta őt: {1} ({2} esély).</RecruitSuccess>
   <RecruitFail>{0} sikertelenül próbálta toborozni őt: {1} ({2} esély).</RecruitFail>
 
-  <RelatedPawnInvolvedInQuest>[PAWN_nameDef] és {0} kapcsoltban állnak: {1}. Ha [PAWN_nameDef] meghal, {0} sokáig gyászol majd. Viszont ha sikerül megmentened őt, {0} hosszú ideig boldog lesz.</RelatedPawnInvolvedInQuest>
+  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} és {RELATIVE_labelShort} kapcsoltban állnak: {1}. Ha {PAWN_nameDef} meghal, {RELATIVE_labelShort} sokáig gyászol majd. Viszont ha sikerül megmentened őt, {RELATIVE_labelShort} hosszú ideig boldog lesz.</RelatedPawnInvolvedInQuest>
 
   <LetterLabelBirthday>Születésnap</LetterLabelBirthday>
   <BirthdayChronological>Ma van {0} naptári születésnapja! Biológiailag {1} {3} éves.\n\nNaptár szerint {1} most lett {2}.\n\nVedd figyelembe, hogy hibernáció alatt biológiailag nem öregszik a gyarmatos, ezért a naptári és a biológiai kor külön van nyilvántartva.</BirthdayChronological>
@@ -56,9 +56,9 @@
 
   <LetterLabelNewDisease>Betegség</LetterLabelNewDisease>
   <NewDisease>{PAWN} beteg lett ({1}). Győződj meg róla, hogy {PAWN_definite} megfelelő ellátást kap és annyi időt tölt ágyban, amennyit csak lehetséges, hogy gyorsan felépüljön.</NewDisease>
-  <NewPartDisease>{0} {1} fertőzést kapott ({3}). Győződj meg róla, hogy {2} megfelelő ellátást kap és annyi időt tölt ágyban, amennyit csak lehetséges, hogy gyorsan felépüljön.</NewPartDisease>
-  <NewDiseaseAnimal>{0} beteg lett ({1})</NewDiseaseAnimal>
-  <NewPartDiseaseAnimal>{0} {1} fertőzést kapott ({3})</NewPartDiseaseAnimal>
+  <NewPartDisease>{PAWN} {1} fertőzést kapott ({3}). Győződj meg róla, hogy {PAWN_definite} megfelelő ellátást kap és annyi időt tölt ágyban, amennyit csak lehetséges, hogy gyorsan felépüljön.</NewPartDisease>
+  <NewDiseaseAnimal>{PAWN_labelShort} beteg lett ({1})</NewDiseaseAnimal>
+  <NewPartDiseaseAnimal>{PAWN_labelShort} {1} fertőzést kapott ({3})</NewPartDiseaseAnimal>
 
   <PawnWasFormerlyColonist>{1_labelShort} korábban a frakciód tagja volt.</PawnWasFormerlyColonist>
   <PawnHasTheseRelationshipsWithColonists>{1_labelShort} ezekkel a gyarmatosokkal áll kapcsolatban:</PawnHasTheseRelationshipsWithColonists>
@@ -77,17 +77,17 @@
   <LetterFriendlyTrapSprungLabel>{1_labelShort} csapdába esett</LetterFriendlyTrapSprungLabel>
   <LetterFriendlyTrapSprung>{1_labelShort} véletlenül csapdába esett és megsérült.</LetterFriendlyTrapSprung>
 
-  <LetterHealthComplications>{0} betegséget szedett össze: {1}\n\nEz a következő komplikációja: {2}.</LetterHealthComplications>
-  <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
+  <LetterHealthComplications>{PAWN_labelShort} betegséget szedett össze: {1}\n\nEz a következő komplikációja: {2}.</LetterHealthComplications>
+  <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
 
-  <LetterHediffFromRandomHediffGiver>{0} betegséget szedett össze: {1}.</LetterHediffFromRandomHediffGiver>
-  <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
+  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort} betegséget szedett össze: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
 
   <LetterLeadersDeathLabel>{1} halál: {0}</LetterLeadersDeathLabel>
-  <LetterLeadersDeath>{1} frakciónál meghalt {3}: {0}</LetterLeadersDeath>
+  <LetterLeadersDeath>{1} frakciónál meghalt {3}: {OLDLEADER_nameFull}\n\nAz új {3}: {NEWLEADER_nameFull}.</LetterLeadersDeath>
   
   <LetterLeaderChangedLabel>Új {1}: {0}</LetterLeaderChangedLabel>
-  <LetterLeaderChanged>{0} már nem {3} ennek:{1}.\n\nAz új {3}:{2}.</LetterLeaderChanged>
+  <LetterLeaderChanged>{OLDLEADER_nameFull} már nem {3} ennek:{1}.\n\nAz új {3}:{NEWLEADER_nameFull}.</LetterLeaderChanged>
 
   <!-- <MentalBreakLetterLabel>Idegösszeomlás</MentalBreakLetterLabel> -->
 <!--   <MentalBreakReason>Oka: {0}.</MentalBreakReason> -->
@@ -113,8 +113,8 @@
   <LetterRelatedPawnsSite>A körzetben van valaki, aki rokona egy fogolynak vagy neki: {0}:</LetterRelatedPawnsSite>
 
   <RelationshipAppendedLetterSuffix>(kapcsolat)</RelationshipAppendedLetterSuffix>
-  <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] kapcsolatban ({1}) áll az egyik gyarmatossal ({0}).</RelationshipAppendedLetterTextColonist>
-  <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef] kapcsolatban ({1}) áll az egyik fogollyal ({0}).</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} kapcsolatban ({1}) áll az egyik gyarmatossal ({RELATIVE_labelShort}).</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} kapcsolatban ({1}) áll az egyik fogollyal ({RELATIVE_labelShort}).</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Viszony</LetterLabelAffair>
@@ -159,7 +159,7 @@
   <!-- Newly addicted -->
 
   <LetterLabelNewlyAddicted>{0} függő lett</LetterLabelNewlyAddicted>
-  <LetterNewlyAddicted>{0} {1} függő lett.\n\nMostantól szüksége van erre: {1}. Ez mostantól a "Szükség" fülön is látható lesz. Automatikusan magához fogja venni a szert. Ha nem jut hozzá, elvonása lesz.</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{PAWN_labelShort} {1} függő lett.\n\nMostantól szüksége van erre: {1}. Ez mostantól a "Szükség" fülön is látható lesz. Automatikusan magához fogja venni a szert. Ha nem jut hozzá, elvonása lesz.</LetterNewlyAddicted>
 
   <!-- Drug binge -->
 
@@ -223,7 +223,7 @@
   <LetterPeaceTalks_Success>A tárgyalások sikeresek voltak. A küldötteknek sikerült közös nevezőre jutni a fő kérdésekben.\n\nKapcsolat velük: {0}, ennyit javult: {1}.</LetterPeaceTalks_Success>
   <LetterLabelPeaceTalks_Triumph>Béketárgyalás diadal</LetterLabelPeaceTalks_Triumph>
   <LetterPeaceTalks_Triumph>A tárgyalások óriási sikert hoztak! A küldöttek hamar jó személyes viszonyt alakítottak ki egymással és megértették a másik nézőpontját az összes fő problémánál.\n\nKapcsolat velük: {0}, ennyit javult: {1}.\n\nA karavánod induláskor ajándékot ({2}) kapott tőlük: {0}.</LetterPeaceTalks_Triumph>
-  <PeaceTalksSocialXPGain>{0}, az alkuszod, {1} szociális tapasztalati pontot szerzett.</PeaceTalksSocialXPGain>
+  <PeaceTalksSocialXPGain>{PAWN_labelShort}, az alkuszod, {1} szociális tapasztalati pontot szerzett.</PeaceTalksSocialXPGain>
 
   <!-- Run wild mental break -->
   <LetterRunWildMentalBreak>{0} úgy döntött elhagy téged és az állatokkal él tovább.</LetterRunWildMentalBreak>
@@ -232,7 +232,7 @@
   <LetterCatatonicMentalBreak>{0} katatón összeomlást szenvedett, ami napokig fog tartani.</LetterCatatonicMentalBreak>
   
   <LetterLabelAICoreOffer>MI központ ajánlat</LetterLabelAICoreOffer>
-  <LetterAICoreOffer>{0} aki {1} tagja, információt szeretne átadni neked: egy MI személyiségközpont helyét, amire szükséged lesz az űrhajó építéséhez. Azt is megosztják veled, hogy ez egy igen ritka és értékes tárgy, emiatt a tulajdonosai biztosan erősen védik.\n\nHívd vissza őt a kommunikációs konzollal, ha érdekel az ajánlat.</LetterAICoreOffer>
+  <LetterAICoreOffer>{PAWN_definite} aki {1} tagja, információt szeretne átadni neked: egy MI személyiségközpont helyét, amire szükséged lesz az űrhajó építéséhez. Azt is megosztják veled, hogy ez egy igen ritka és értékes tárgy, emiatt a tulajdonosai biztosan erősen védik.\n\nHívd vissza őt a kommunikációs konzollal, ha érdekel az ajánlat.</LetterAICoreOffer>
 
   <LetterCraftedLegendaryLabel>Legendás mű</LetterCraftedLegendaryLabel>
   <LetterCraftedLegendaryMessage>{WORKER_labelShort} létrehozta ezt: {CRAFTED_labelShort}.\n\nAz értékes ereklye híre be fogja járni a világot.</LetterCraftedLegendaryMessage>
@@ -250,7 +250,7 @@
 
   <!-- Visitors gave gift -->
   <LetterLabelVisitorsGaveGift>Ajándék tőle: {0}</LetterLabelVisitorsGaveGift>
-  <LetterVisitorsGaveGift>{0}, aki [PAWN_factionName] frakció tagja, a következő ajándékot hagyta itt neked:\n\n{1}.</LetterVisitorsGaveGift>
+  <LetterVisitorsGaveGift>{0}, aki {PAWN_factionName} frakció tagja, a következő ajándékot hagyta itt neked:\n\n{1}.</LetterVisitorsGaveGift>
 
   <!-- Faction base proximity -->
   <LetterLabelFactionBaseProximity>Közeli frakcióbázis</LetterLabelFactionBaseProximity>
@@ -262,7 +262,7 @@
 
   <!-- Rescue quest -->
   <LetterLabelRescueQuestFinished>Megmentett csatlakozik</LetterLabelRescueQuestFinished>
-  <LetterRescueQuestFinished>Megmentetted őt:[PAWN_nameDef], aki csatlakozott hozzád.\n\nMagaddal viheted, ha újjá alakítod a karavánt  világtérképen a "Karaván újjáalakítása" gombbal.</LetterRescueQuestFinished>
+  <LetterRescueQuestFinished>Megmentetted őt:{PAWN_nameDef}, aki csatlakozott hozzád.\n\nMagaddal viheted, ha újjá alakítod a karavánt  világtérképen a "Karaván újjáalakítása" gombbal.</LetterRescueQuestFinished>
 
   <!-- Player entered site (generic label) -->
   <LetterLabelPlayerEnteredNewSiteGeneric>Érkezés a helyszínre</LetterLabelPlayerEnteredNewSiteGeneric>

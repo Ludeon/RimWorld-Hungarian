@@ -192,7 +192,7 @@
   <CannotPrioritizeForbiddenOutsideAllowedArea>Tiltott területen van</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-  <PrioritizeGeneric>Vedd előre: {2_label} {0}</PrioritizeGeneric>
+  <PrioritizeGeneric>Vedd előre: {1} {0}</PrioritizeGeneric>
   
   <DropAtEdge>Szélen eldobni</DropAtEdge>
   <DropInCenter>Középen eldobni</DropInCenter>

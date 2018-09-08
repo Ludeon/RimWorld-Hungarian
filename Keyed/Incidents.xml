@@ -2,9 +2,9 @@
 <LanguageData>
 
 
-  <RefugeePodCrash_Factionless>[PAWN_nameDef] nem tagja egyetlen frakciónak sem. Megmentheted és útjára engedheted őt. Vagy el is foghatod, hogy besorozd vagy rabszolgáddá tedd.</RefugeePodCrash_Factionless>
-  <RefugeePodCrash_Hostile>Elfoghatod, hogy besorozd vagy rabszolgáddá tedd. Ennek a frakciónak a tagja: [PAWN_factionName].</RefugeePodCrash_Hostile>
-  <RefugeePodCrash_NonHostile>Figyelem: [PAWN_nameDef] [PAWN_factionName] frakció tagja. Az elfogása fel fogja bosszantani őket, de a megmentése és ellátása javítja a frakciók viszonyát.</RefugeePodCrash_NonHostile>
+  <RefugeePodCrash_Factionless>{PAWN_nameDef} nem tagja egyetlen frakciónak sem. Megmentheted és útjára engedheted őt. Vagy el is foghatod, hogy besorozd vagy rabszolgáddá tedd.</RefugeePodCrash_Factionless>
+  <RefugeePodCrash_Hostile>{PAWN_nameDef} egy ellenséges frakció tagja ({PAWN_factionName}). Elfoghatod, hogy besorozd vagy rabszolgáddá tedd.</RefugeePodCrash_Hostile>
+  <RefugeePodCrash_NonHostile>Figyelem: {PAWN_nameDef} {PAWN_factionName} frakció tagja. Az elfogása fel fogja bosszantani őket, de a megmentése és ellátása javítja a frakciók viszonyát.</RefugeePodCrash_NonHostile>
   <NormalQualityOrBetter>normál minőség vagy jobb</NormalQualityOrBetter>
 
   <LetterLabelAnimalInsanitySingle>Megvadult állat: {ANIMAL_labelShort}!</LetterLabelAnimalInsanitySingle>
@@ -31,7 +31,7 @@
   <FriendlyRaidLeaderPresent>A {LEADER_labelShort} egyike a következő frakció vezetője: {LEADER_factionPawnsPlural}.</FriendlyRaidLeaderPresent>
 
   <LetterLabelRefugeePodCrash>Mentőkabin</LetterLabelRefugeePodCrash>
-  <RefugeePodCrash>A közelben lezuhant egy mentőkabin.\n\nHa túl is élte valaki a zuhanást, az súlyosan meg lesz sérülve.</RefugeePodCrash>
+  <RefugeePodCrash>A közelben lezuhant egy mentőkabin, benne {PAWN_nameDef}, aki {PAWN_titleIndef}.\n\nHa túl is élte a zuhanást, súlyosan meg lesz sérülve.</RefugeePodCrash>
   <!-- <RefugeePodCrashFactionWarning>Figyelem: [PAWN_nameDef] [PAWN_factionName] tagja. Az elfogása fel fogja bosszantani őket, de a megmentése és ellátása javítja a frakciók viszonyát.</RefugeePodCrashFactionWarning> -->
 
   <LetterLabelCargoPodCrash>Szállítmány</LetterLabelCargoPodCrash>
@@ -50,7 +50,7 @@
   <GroupTravelersPassing>Utazók haladnak el a közelben ({0}).</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>Látogató</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives>{1} egy tagja látogat meg minket ({0}).\n\nA neve {2}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrives>{1} egy tagja látogat meg minket ({PAWN_titleIndef}).\n\nA neve {PAWN_nameFull}.{3}{4}</SingleVisitorArrives>
   <SingleVisitorArrivesTraderInfo>\n\nÚgy tűnik van pár eladó cucca.</SingleVisitorArrivesTraderInfo>
   <SingleVisitorArrivesLeaderInfo>\n\nŐ a frakciója vezetője.</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>Látogatók</LetterLabelGroupVisitorsArrive>
@@ -91,7 +91,7 @@
 
   <!-- Refugee chased -->
   <RefugeeChasedTitle>Üldözött menekül itt: {0}</RefugeeChasedTitle>
-  <RefugeeChasedInitial>Egy [PAWN_nameDef] nevű [PAWN_title] hív a közelből. A nyomában {2} a(z) {3} frakcióból!\n\nMenedékért könyörög és felajánlja, hogy csatlakozik hozzád. Biológiailag {4} éves.\n\nFigyelem - ha befogadod, el kell kergetned az üldözőit ({2}). A csapatuk ebből áll:\n\n{5}.</RefugeeChasedInitial>
+  <RefugeeChasedInitial>Egy {PAWN_nameDef} nevű {PAWN_title} hív a közelből. A nyomában {2} a(z) {3} frakcióból!\n\nMenedékért könyörög és felajánlja, hogy csatlakozik hozzád. Biológiailag {4} éves.\n\nFigyelem - ha befogadod, el kell kergetned az üldözőit ({2}). A csapatuk ebből áll:\n\n{5}.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Befogad</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Figyelmen kívül hagy</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{1_labelShort} pánikba esve üvölt a rádióból, ahogy megszakítod az adást.</RefugeeChasedRejected>
@@ -120,7 +120,7 @@
 
   <!-- Ransom demand -->
   <RansomDemandTitle>Váltságdíj követelés itt: {0}</RansomDemandTitle>
-  <RansomDemand>{1} lépett veled kapcsolatba rádión. Korábbi gyarmatosod, {0}, a fogjuk.\n\nSzabadon lesz engedve, {2} ezüstért cserébe.</RansomDemand>
+  <RansomDemand>{1} lépett veled kapcsolatba rádión. Korábbi gyarmatosod, {PAWN_labelShort}, a fogjuk.\n\nSzabadon engedik, {2} ezüstért cserébe.</RansomDemand>
   <RansomDemand_Accept>Elfogad</RansomDemand_Accept>
   <RansomDemand_Reject>Elutasít</RansomDemand_Reject>
 

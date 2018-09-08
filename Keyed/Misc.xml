@@ -72,8 +72,8 @@
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
-  <SomeonesRoom>{1} tulajdonosa: {0}</SomeonesRoom>
-  <CouplesRoom>{2} tulajdonosai: {0} és {1}</CouplesRoom>
+  <SomeonesRoom>{1} tulajdonosa: {PAWN_labelShort}</SomeonesRoom>
+  <CouplesRoom>{2} tulajdonosai: {PAWN1_labelShort} és {PAWN2_labelShort}</CouplesRoom>
 
   <VariousLabel>(többféle)</VariousLabel>
 

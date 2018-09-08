@@ -300,7 +300,7 @@
   <TargetSize>Célpont mérete</TargetSize>
   <Weather>Időjárás</Weather>
   <ShootingCover>Fedezék</ShootingCover>
-  <CoverThingBlocksPercentOfShots>{0} kivéd {1}</CoverThingBlocksPercentOfShots>
+  <CoverThingBlocksPercentOfShots>{COVER_label} kivédi ezt: {1}</CoverThingBlocksPercentOfShots>
   <NoCoverLower>nincs fedezék</NoCoverLower>
   <Execution>Kivégzés</Execution>
 
@@ -321,7 +321,7 @@
   <MentalBreakThresholdMinor>Enyhe összeomlás küszöbe</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
-  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
   <PawnMainDescFactionedWrap>{0}, {1} tagja</PawnMainDescFactionedWrap>
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <Faction>Frakció</Faction>
@@ -478,7 +478,7 @@
 
   <!-- Cryptosleep casket -->
   <CasketContains>Tartalom</CasketContains>
-  <CasketWarning>Figyelem!\n\n[PAWN_nameDef] az utolsó dolgozó gyarmatosod! Ha beszáll a hibernálóba lehet, hogy nem tudsz tovább játszani. Biztos, hogy folytatod?</CasketWarning>
+  <CasketWarning>Figyelem!\n\n{PAWN_nameDef} az utolsó dolgozó gyarmatosod! Ha beszáll a hibernálóba lehet, hogy nem tudsz tovább játszani. Biztos, hogy folytatod?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Kilövés nem lehetséges.</ShipReportCannotLaunch>
@@ -497,7 +497,7 @@
   
 
   <!-- Neurotrainer -->
-  <NeurotrainerUsed>{0} neuroképzőt ({1}) használt, hogy szintet lépjen {2} -> {3}.</NeurotrainerUsed>
+  <NeurotrainerUsed>{USER_labelShort} neuroképzőt ({1}) használt, hogy szintet lépjen {2} -> {3}.</NeurotrainerUsed>
 
   <!-- Minification -->
   <Installed>Telepített</Installed>
@@ -545,9 +545,9 @@
   <InactiveFacility>inaktív</InactiveFacility>
 
   <!-- Hediffs growth modes -->
-  <DiseaseGrowthModeChanged_Growing>{0} állapota: {1} növekszik.</DiseaseGrowthModeChanged_Growing>
-  <DiseaseGrowthModeChanged_Stable>{0} állapota: {1} stagnál.</DiseaseGrowthModeChanged_Stable>
-  <DiseaseGrowthModeChanged_Remission>{0} állapota: {1} sorvad.</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort} állapota: {1} növekszik.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort} állapota: {1} stagnál.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort} állapota: {1} sorvad.</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <MarriageSpotUsable>Használható.</MarriageSpotUsable>
