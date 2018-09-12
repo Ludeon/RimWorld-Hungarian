@@ -238,9 +238,9 @@
   
   <!-- Caravan entered ambush map -->
   <!-- EN: Caravan arrived at ambush -->
-  <LetterLabelCaravanEnteredAmbushMap>Karaván rajtaütés</LetterLabelCaravanEnteredAmbushMap>
+  <LetterLabelCaravanEnteredMap>Karaván megérkezett ide: {0_label}</LetterLabelCaravanEnteredMap>
   <!-- EN: {0} has arrived at the ambush site. -->
-  <LetterCaravanEnteredAmbushMap>{0} megérkezett egy rajtaütés helyszínére.</LetterCaravanEnteredAmbushMap>
+  <LetterCaravanEnteredMap>{0} megérkezett ide: {1_definite}.</LetterCaravanEnteredMap>
   
   <!-- Caravan entered enemy base -->
   <!-- EN: Attack begun -->
@@ -366,7 +366,7 @@
 
   <!-- Player entered site (generic label) -->
   <!-- EN: Arrived at site -->
-  <LetterLabelPlayerEnteredNewSiteGeneric>Érkezés a helyszínre</LetterLabelPlayerEnteredNewSiteGeneric>
+  <!-- <LetterLabelPlayerEnteredNewSiteGeneric>Érkezés a helyszínre</LetterLabelPlayerEnteredNewSiteGeneric> -->
 
   <!-- Predator hunting colonist -->
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->

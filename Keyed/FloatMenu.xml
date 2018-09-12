@@ -203,7 +203,7 @@
   <!-- EN: Pick up {1_labelShort}... -->
   <PickUpSome>Felvenni ebből: {1_labelShort}</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{1_labelShort}} -->
-  <PickUpCount>Felvenni {{1_labelShort}}db-t ebből: {1_labelShort}</PickUpCount>
+  <PickUpCount>Felvenni {0} darabot ebből: {1_labelShort}</PickUpCount>
   
   <!-- EN: Cannot give {1_label} to pack animal -->
   <CannotGiveToPackAnimal>Nem lehet a málhásra rakni ezt: {1_label}</CannotGiveToPackAnimal>
@@ -216,7 +216,7 @@
   <!-- EN: Give {1_labelShort} to pack animal... -->
   <GiveToPackAnimalSome>Málhásra rakni ebből: {1_labelShort}</GiveToPackAnimalSome>
   <!-- EN: Take {1_labelShort} x{{1_labelShort}} -->
-  <GiveToPackAnimalCount>{{1_labelShort}}db-t ebből: {1_labelShort}</GiveToPackAnimalCount>
+  <GiveToPackAnimalCount>Málhásra rakni {0} darabot ebből: {1_labelShort}</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
   <CannotLoadIntoCaravan>Nem lehet a karavánra rakodni ezt: {1_label}</CannotLoadIntoCaravan>
@@ -229,7 +229,7 @@
   <!-- EN: Load {1_labelShort} into caravan... -->
   <LoadIntoCaravanSome>Karavánra rakodni ebből: {1_labelShort}</LoadIntoCaravanSome>
   <!-- EN: Load {1_labelShort} x{{1_labelShort}} -->
-  <LoadIntoCaravanCount>Rakodni ezt: {1_labelShort} x{{1_labelShort}}</LoadIntoCaravanCount>
+  <LoadIntoCaravanCount>Rakodni {0} darabot ebből: {1_labelShort}</LoadIntoCaravanCount>
   <!-- EN: overweight -->
   <OverweightLower>túlsúly</OverweightLower>
 
