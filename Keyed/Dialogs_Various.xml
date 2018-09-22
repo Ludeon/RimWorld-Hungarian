@@ -824,5 +824,18 @@
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
   <TransportersCaravanWillBeImmobile>A karaván mozgásképtelen lesz, ha a szállítókapszulákat üres szektorba küldöd. Mindenképp menjen?</TransportersCaravanWillBeImmobile>
-
+  
+  <FoodRestrictionInUse>Étel korlátozás érvényes: {0}.</FoodRestrictionInUse>
+  <FoodRestriction>Étel korlátozás</FoodRestriction>
+  <FoodRestrictionLavish>Lakoma</FoodRestrictionLavish>
+  <FoodRestrictionFine>Finom</FoodRestrictionFine>
+  <FoodRestrictionSimple>Egyszerű</FoodRestrictionSimple>
+  <FoodRestrictionPaste>Pép</FoodRestrictionPaste>
+  <FoodRestrictionRaw>Nyers</FoodRestrictionRaw>
+  <FoodRestrictionNothing>Semmi</FoodRestrictionNothing>
+  <SelectFoodRestriction>Étel korlátozás kiválasztás</SelectFoodRestriction>
+  <NewFoodRestriction>Új étel korlátozás</NewFoodRestriction>
+  <DeleteFoodRestriction>Étel korlátozás törlés</DeleteFoodRestriction>
+  <NoFoodRestrictionSelected>Nincs étel korlátozás</NoFoodRestrictionSelected>
+  
 </LanguageData>
