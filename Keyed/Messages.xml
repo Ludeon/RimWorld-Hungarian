@@ -429,7 +429,8 @@
   <MessageCraftedMasterwork>{WORKER_labelShort} létrehozott egyet ebből: {CRAFTED_labelShort}.</MessageCraftedMasterwork>
 
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
-  <MessagePlayerTriedToLeaveMapViaExitGrid>A körzet elhagyásához használd a "Karaván újjáalakítása" gombot a világtérképen.</MessagePlayerTriedToLeaveMapViaExitGrid>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>A körzet elhagyásához használd a "Karaván újjáalakítása" gombot a világtérképen.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>Jelenleg nem hagyhatod el a térképet.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
 
   <!-- EN: Relations with {0} have changed from {1} to {2}. -->
   <MessageGoodwillChanged>A viszony vele: ({0}), erről: ({1}), erre változott: ({2}).</MessageGoodwillChanged>
@@ -522,5 +523,9 @@
 
   <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
   <MessageCapturingWillAngerFaction>Figyelem: {PAWN_nameDef} elfogása fel fogja bőszíteni a frakcióját ({PAWN_factionName})!</MessageCapturingWillAngerFaction>
+  
+   <MessageCantShootInMelee>Közelharcban nem lőhetsz</MessageCantShootInMelee>
+  
+  
 
 </LanguageData>

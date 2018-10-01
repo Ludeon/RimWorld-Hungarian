@@ -5,6 +5,8 @@
   <DesignatorCancel>Visszavonás</DesignatorCancel>
   <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
   <DesignatorCancelDesc>Visszavon minden parancsot.</DesignatorCancelDesc>
+  
+   <TerrainCannotSupport_TerrainAffordance>{0_label} olyan talajt igényel, ami kibírja ezt: {1_label}</TerrainCannotSupport_TerrainAffordance>
 
   <!-- EN: Cut plants -->
   <DesignatorCutPlants>Növényt vág</DesignatorCutPlants>

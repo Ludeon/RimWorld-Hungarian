@@ -171,6 +171,7 @@
   <LetterAffair>{PAWN1_labelShort} és {SPOUSE_labelShort} bár házasok, {PAWN1_labelShort} és {PAWN2_labelShort} viszonyt kezdett.</LetterAffair>
   <!-- EN: New lovers -->
   <LetterLabelNewLovers>Új szerelmes pár</LetterLabelNewLovers>
+  <LetterNewLovers>{PAWN1_labelShort} és {PAWN2_labelShort} mostantól együtt szeretnének aludni. Rendelj hozzájuk dupla ágyat!</LetterNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
   <LetterNoLongerLovers>{PAWN1_labelShort} és {PAWN2_labelShort} szakítottak egymással.</LetterNoLongerLovers>
   <!-- EN: Breakup -->
@@ -197,6 +198,7 @@
   <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
   <!-- EN: Mental break -->
   <LetterLabelMentalBreakdown>Idegösszeomlás</LetterLabelMentalBreakdown>
+  <MentalStateCausedByMood>Ennek oka az alacsony morál.</MentalStateCausedByMood>
   
   <!-- Bonded animals -->
   <!-- EN: bonded animal -->

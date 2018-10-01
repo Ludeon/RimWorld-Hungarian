@@ -66,6 +66,26 @@
 		<li>enveloped->elnyelte</li>
 		<li>enveloped->körbevette</li>
 	</DamageEvent_Tornado.rulePack.rulesStrings>
+	
+	<DamageEvent_TrapSpike.rulePack.rulesStrings>
+		<li>damage_source->[spiketrap] leszúrta</li>
+		<li>damage_source->[spiketrap] megszúrta</li>
+		<li>damage_source->[spiketrap] megcsapta</li>
+		<li>spiketrap(p=3)->egy tüskecsapda</li>
+		<li>spiketrap(p=3)->a tüskecsapda</li>
+		<li>spiketrap->egy tüske</li>
+		<li>spiketrap->egy hegyes csapda</li>
+		<li>spiketrap->egy hegyes csapda</li>
+		<li>damaged_present->átszúrva</li>
+		<li>damaged_present->felnyársalva</li>
+		<li>damaged_present->átszúrva</li>
+		<li>damaged_present->leszúrva</li>
+		<li>destroyed_present->széttépve</li>
+		<li>destroyed_present->szétszaggatva</li>
+		<li>destroyed_present->kizsigerelve</li>
+		<li>destroyed_present->felrobbantva</li>
+	</DamageEvent_TrapSpike.rulePack.rulesStrings>
+	
 
 
 </LanguageData>
