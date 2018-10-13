@@ -198,7 +198,11 @@
   <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
   <!-- EN: Mental break -->
   <LetterLabelMentalBreakdown>Idegösszeomlás</LetterLabelMentalBreakdown>
-  <MentalStateCausedByMood>Ennek oka az alacsony morál.</MentalStateCausedByMood>
+  <MentalStateReason_Mood>Ennek oka az alacsony morál.</MentalStateReason_Mood>
+  <MentalStateReason_Trait>Ennek oka a következő tulajdonság: {0}.</MentalStateReason_Trait>
+  <MentalStateReason_Hediff>Ennek oka: {0}.</MentalStateReason_Hediff>
+  <MentalStateReason_BondedHumanDeath>Ennek oka {0_definite} halála.</MentalStateReason_BondedHumanDeath>
+  
   
   <!-- Bonded animals -->
   <!-- EN: bonded animal -->

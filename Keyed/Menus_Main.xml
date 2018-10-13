@@ -168,6 +168,8 @@
   <MessageModNeedsWellFormattedTargetVersion>A modnak szüksége van egy jól formázott verziószámra az About.xml-ben. Pl.: &lt;targetVersion>{0}&lt;/targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>Egérrel húzhatók az elemek</DragToReorder>
+  <ModNotMadeForThisVersion_Newer>Ez a mod a RimWorld újabb verziójához készült, lehetséges, hogy nem fog megfelelően működni.</ModNotMadeForThisVersion_Newer>
+
   
   <!-- Select scenario -->
   <!-- EN: Choose scenario -->
@@ -384,5 +386,6 @@
   <GeneratingMap>Térkép létrehozása</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
   <GeneratingMapForNewEncounter>Térkép létrehozása új találkozáshoz</GeneratingMapForNewEncounter>
+    
 
 </LanguageData>
