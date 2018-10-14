@@ -1,14 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <TornadoScratch.label>tornádó</TornadoScratch.label>
-  <TornadoScratch.deathMessage>{0} meghalt egy tornádóban.</TornadoScratch.deathMessage>
-  <Flame.label>láng</Flame.label>
-  <Flame.deathMessage>{0} elégett.</Flame.deathMessage>
+  
+  <!-- EN: burn -->
   <Burn.label>égés</Burn.label>
+  <!-- EN: {0} has burned to death. -->
   <Burn.deathMessage>{0} halálra égett.</Burn.deathMessage>
+  
+  <!-- EN: flame -->
+  <Flame.label>láng</Flame.label>
+  <!-- EN: {0} has burned to death. -->
+  <Flame.deathMessage>{0} elégett.</Flame.deathMessage>
+  
+  <!-- EN: frostbite -->
   <Frostbite.label>fagyás</Frostbite.label>
+  <!-- EN: {0} has succumbed to frostbite. -->
   <Frostbite.deathMessage>{0} megfagyott.</Frostbite.deathMessage>
-
-
+  
+  <!-- EN: scratch -->
+  <TornadoScratch.label>tornádó</TornadoScratch.label>
+  <!-- EN: {0} has been killed by a tornado. -->
+  <TornadoScratch.deathMessage>{0} meghalt egy tornádóban.</TornadoScratch.deathMessage>
+  
 </LanguageData>

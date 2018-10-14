@@ -1,195 +1,146 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SleepingSpot.label>fekhely</SleepingSpot.label>
-  <SleepingSpot.description>Alvásra kijelölt hely a padlón. Nem kényelmes.</SleepingSpot.description>
-  <Blueprint_SleepingSpot.label>fekhely (tervrajz)</Blueprint_SleepingSpot.label>
-  <Frame_SleepingSpot.label>fekhely (építmény)</Frame_SleepingSpot.label>
-  <Frame_SleepingSpot.description>Alvásra kijelölt hely a padlón. Nem kényelmes.</Frame_SleepingSpot.description>
   
-  <DoubleSleepingSpot.label>dupla fekhely</DoubleSleepingSpot.label>
-  <DoubleSleepingSpot.description>Alvásra kijelölt hely két személy számára a padlón. Nem kényelmes.</DoubleSleepingSpot.description>
-  <Blueprint_DoubleSleepingSpot.label>dupla fekhely (tervrajz)</Blueprint_DoubleSleepingSpot.label>
-  <Frame_DoubleSleepingSpot.label>dupla fekhely (építmény)</Frame_DoubleSleepingSpot.label>
-  <Frame_DoubleSleepingSpot.description>Alvásra kijelölt hely két személy számára a padlón. Nem kényelmes.</Frame_DoubleSleepingSpot.description>
-  
-  <Bed.label>ágy</Bed.label>
-  <Bed.description>Keretbe helyezett kényelmes matrac és lepedő.</Bed.description>
-  <Blueprint_Bed.label>ágy (tervrajz)</Blueprint_Bed.label>
-<!--   <Blueprint_Bed_Install.label>ágy (tervrajz)</Blueprint_Bed_Install.label> -->
-  <Frame_Bed.label>ágy (építmény)</Frame_Bed.label>
-  <Frame_Bed.description>Keretbe helyezett kényelmes matrac és lepedő.</Frame_Bed.description>
-  <DoubleBed.label>dupla ágy</DoubleBed.label>
-  <DoubleBed.description>Egyszerű dupla ágy, amin két ember is elfér.</DoubleBed.description>
-  <!-- <DoubleBlueprint_Bed.label>dupla ágy (tervrajz)</DoubleBlueprint_Bed.label> -->
-<!--   <DoubleBlueprint_Bed_Install.label>dupla ágy (tervrajz)</DoubleBlueprint_Bed_Install.label> -->
-  <!-- <DoubleFrame_Bed.label>dupla ágy (építmény)</DoubleFrame_Bed.label> -->
-  <!-- <DoubleFrame_Bed.description>Egyszerű dupla ágy, amin két ember is elfér.</DoubleFrame_Bed.description> -->
-  <RoyalBed.label>királyi ágy</RoyalBed.label>
-  <RoyalBed.description>Pazar, arany berakásos kétszemélyes ágy előkelőségek számára. Nagyon kényelmes és gyönyörű.</RoyalBed.description>
-  <!-- <RoyalBlueprint_Bed.label>királyi ágy (tervrajz)</RoyalBlueprint_Bed.label> -->
-<!--   <RoyalBlueprint_Bed_Install.label>királyi ágy (tervrajz)</RoyalBlueprint_Bed_Install.label> -->
-  <!-- <RoyalFrame_Bed.label>királyi ágy (építmény)</RoyalFrame_Bed.label> -->
-  <!-- <RoyalFrame_Bed.description>Pazar, arany berakásos kétszemélyes ágy előkelőségek számára. Nagyon kényelmes és gyönyörű.</RoyalFrame_Bed.description> -->
-  <HospitalBed.label>betegágy</HospitalBed.label>
-  <HospitalBed.description>Ágy sebesültek kezeléséhez tervezve. Javítja a sikeres orvosi beavatkozás esélyét.</HospitalBed.description>
-  <!-- <HospitalBlueprint_Bed.label>betegágy (tervrajz)</HospitalBlueprint_Bed.label> -->
-<!--   <HospitalBlueprint_Bed_Install.label>betegágy (tervrajz)</HospitalBlueprint_Bed_Install.label> -->
-  <!-- <HospitalFrame_Bed.label>betegágy (építmény)</HospitalFrame_Bed.label> -->
-  <!-- <HospitalFrame_Bed.description>Ágy sebesültek kezeléséhez tervezve. Javítja a sikeres orvosi beavatkozás esélyét.</HospitalFrame_Bed.description> -->
-  
-  <Bedroll.label>hálózsák</Bedroll.label>
-  <Bedroll.description>Földre terített egyszerű fekhely, általában szövetből vagy bőrből, gyakran szőrmével bélelve. Nagyon könnyű és feltekerhető a könnyebb szállítás érdekében, de nem olyan kényelmes, mint egy ágy.</Bedroll.description>
-  <Blueprint_Bedroll.label>hálózsák (tervrajz)</Blueprint_Bedroll.label>
-<!--   <Blueprint_Bedroll_Install.label>hálózsák (tervrajz)</Blueprint_Bedroll_Install.label> -->
-  <Frame_Bedroll.label>hálózsák (építmény)</Frame_Bedroll.label>
-  <Frame_Bedroll.description>Földre terített egyszerű fekhely, általában szövetből vagy bőrből, gyakran szőrmével bélelve. Nagyon könnyű és feltekerhető a könnyebb szállítás érdekében, de nem olyan kényelmes, mint egy ágy.</Frame_Bedroll.description>
-  <BedrollDouble.label>dupla hálózsák</BedrollDouble.label>
-  <BedrollDouble.description>Földre terített duplaszéles fekhely, általában szövetből vagy bőrből, gyakran szőrmével bélelve. Nagyon könnyű és feltekerhető a könnyebb szállítás érdekében, de nem olyan kényelmes, mint egy ágy.</BedrollDouble.description>
-  <Blueprint_BedrollDouble.label>dupla hálózsák (tervrajz)</Blueprint_BedrollDouble.label>
-<!--   <Blueprint_BedrollDouble_Install.label>dupla hálózsák (tervrajz)</Blueprint_BedrollDouble_Install.label> -->
-  <Frame_BedrollDouble.label>dupla hálózsák (építmény)</Frame_BedrollDouble.label>
-  <Frame_BedrollDouble.description>Földre terített duplaszéles fekhely, általában szövetből vagy bőrből, gyakran szőrmével bélelve. Nagyon könnyű és feltekerhető a könnyebb szállítás érdekében, de nem olyan kényelmes, mint egy ágy.</Frame_BedrollDouble.description>
-
-  <AnimalSleepingSpot.label>fekhely (állat)</AnimalSleepingSpot.label>
-  <AnimalSleepingSpot.description>Alvásra kijelölt hely a padlón állatok számára.</AnimalSleepingSpot.description>
-  <Blueprint_AnimalSleepingSpot.label>fekhely (állat) (tervrajz)</Blueprint_AnimalSleepingSpot.label>
-  <Frame_AnimalSleepingSpot.label>fekhely (állat) (építmény)</Frame_AnimalSleepingSpot.label>
-  <Frame_AnimalSleepingSpot.description>Alvásra kijelölt hely a padlón állatok számára.</Frame_AnimalSleepingSpot.description>
-  <AnimalSleepingBox.label>alvókosár (állat)</AnimalSleepingBox.label>
-  <AnimalSleepingBox.description>Puha alvókosár kisebb állatok számára, mint pl. csirkék, macskák és kisebb kutyák.</AnimalSleepingBox.description>
-  <Blueprint_AnimalSleepingBox.label>alvókosár (állat) (tervrajz)</Blueprint_AnimalSleepingBox.label>
-<!--   <Blueprint_AnimalSleepingBox_Install.label>alvókosár (állat) (tervrajz)</Blueprint_AnimalSleepingBox_Install.label> -->
-  <Frame_AnimalSleepingBox.label>alvókosár (állat) (építmény)</Frame_AnimalSleepingBox.label>
-  <Frame_AnimalSleepingBox.description>Puha alvókosár kisebb állatok számára, mint pl. csirkék, macskák és kisebb kutyák.</Frame_AnimalSleepingBox.description>
+  <!-- EN: animal bed -->
   <AnimalBed.label>ágy (állat)</AnimalBed.label>
+  <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
   <AnimalBed.description>Puha ágy állatok számára. Bármilyen állatnak jó.</AnimalBed.description>
-  <Blueprint_AnimalBed.label>ágy (állat) (tervrajz)</Blueprint_AnimalBed.label>
-<!--   <Blueprint_AnimalBed_Install.label>ágy (állat) (tervrajz)</Blueprint_AnimalBed_Install.label> -->
-  <Frame_AnimalBed.label>ágy (állat) (építmény)</Frame_AnimalBed.label>
-  <Frame_AnimalBed.description>Puha ágy állatok számára. Bármilyen állatnak jó.</Frame_AnimalBed.description>
-  <Stool.label>zsámoly</Stool.label>
-  <Stool.description>Egyszerű ülőalkalmatosság.</Stool.description>
-  <Blueprint_Stool.label>zsámoly (tervrajz)</Blueprint_Stool.label>
-<!--   <Blueprint_Stool_Install.label>zsámoly (tervrajz)</Blueprint_Stool_Install.label> -->
-  <Frame_Stool.label>zsámoly (építmény)</Frame_Stool.label>
-  <Frame_Stool.description>Egyszerű ülőalkalmatosság.</Frame_Stool.description>
-  <DiningChair.label>szék</DiningChair.label>
-  <DiningChair.description>Kényelmes és jól kinéző szék.</DiningChair.description>
-  <Blueprint_DiningChair.label>szék (tervrajz)</Blueprint_DiningChair.label>
-<!--   <Blueprint_DiningChair_Install.label>szék (tervrajz)</Blueprint_DiningChair_Install.label> -->
-  <Frame_DiningChair.label>szék (építmény)</Frame_DiningChair.label>
-  <Frame_DiningChair.description>Kényelmes és jól kinéző szék.</Frame_DiningChair.description>
+  
+  <!-- EN: animal sleeping box -->
+  <AnimalSleepingBox.label>alvókosár (állat)</AnimalSleepingBox.label>
+  <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
+  <AnimalSleepingBox.description>Puha alvókosár kisebb állatok számára, mint pl. csirkék, macskák és kisebb kutyák.</AnimalSleepingBox.description>
+  
+  <!-- EN: animal sleeping spot -->
+  <AnimalSleepingSpot.label>fekhely (állat)</AnimalSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where animals should sleep. -->
+  <AnimalSleepingSpot.description>Alvásra kijelölt hely a padlón állatok számára.</AnimalSleepingSpot.description>
+  
+  <!-- EN: armchair -->
   <Armchair.label>karosszék</Armchair.label>
+  <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
   <Armchair.description>Nagy, puha, kényelmes szék. Ideális pihenéshez.</Armchair.description>
-  <Blueprint_Armchair.label>karosszék (tervrajz)</Blueprint_Armchair.label>
-<!--   <Blueprint_Armchair_Install.label>karosszék (tervrajz)</Blueprint_Armchair_Install.label> -->
-  <Frame_Armchair.label>karosszék (építmény)</Frame_Armchair.label>
-  <Frame_Armchair.description>Nagy, puha, kényelmes szék. Ideális pihenéshez.</Frame_Armchair.description>
- 
- <!-- <TableShort.label>asztal (kicsi)</TableShort.label> -->
-  <!-- <TableShort.description>Az emberek asztalról esznek, ha van mellettük szék.</TableShort.description> -->
-  <!-- <TableShort_Blueprint.label>asztal (kicsi) (tervrajz)</TableShort_Blueprint.label> -->
- <!-- <TableShort_Blueprint_Install.label>asztal (kicsi) (tervrajz)</TableShort_Blueprint_Install.label> -->
-  <!-- <TableShort_Frame.label>asztal (kicsi) (építmény)</TableShort_Frame.label> -->
-  <!-- <TableShort_Frame.description>Az emberek asztalról esznek, ha van mellettük szék.</TableShort_Frame.description> -->
-  <!-- <TableLong.label>asztal (nagy)</TableLong.label> -->
-  <!-- <TableLong.description>Az emberek asztalról esznek, ha van mellettük szék.</TableLong.description> -->
-  <!-- <TableLong_Blueprint.label>asztal (nagy) (tervrajz)</TableLong_Blueprint.label> -->
- <!-- <TableLong_Blueprint_Install.label>asztal (nagy) (tervrajz)</TableLong_Blueprint_Install.label> -->
-  <!-- <TableLong_Frame.label>asztal (nagy) (építmény)</TableLong_Frame.label> -->
-  <!-- <TableLong_Frame.description>Az emberek asztalról esznek, ha van mellettük szék.</TableLong_Frame.description> -->
- 
-  <EndTable.label>éjjeliszekrény</EndTable.label>
-  <EndTable.description>Kis asztalka az ágy fejénél. A közeli ágyak kényelmét növeli. Az ágy fejrésze mellé kell helyezni. Egy ágyra maximum egy éjjeliszekrény van hatással.</EndTable.description>
-  <Blueprint_EndTable.label>éjjeliszekrény (tervrajz)</Blueprint_EndTable.label>
-<!--   <Blueprint_EndTable_Install.label>éjjeliszekrény (tervrajz)</Blueprint_EndTable_Install.label> -->
-  <Frame_EndTable.label>éjjeliszekrény (építmény)</Frame_EndTable.label>
-  <Frame_EndTable.description>Kis asztalka az ágy fejénél. A közeli ágyak kényelmét növeli. Az ágy fejrésze mellé kell helyezni. Egy ágyra maximum egy éjjeliszekrény van hatással.</Frame_EndTable.description>
-
-  <Table1x2c.label>asztal (1x2)</Table1x2c.label>
-  <Table1x2c.description>Ha van felé néző szék, az emberek erről esznek.</Table1x2c.description>
-  <Blueprint_Table1x2c.label>asztal (1x2) (tervrajz)</Blueprint_Table1x2c.label>
-<!--   <Blueprint_Table1x2c_Install.label>asztal (1x2) (tervrajz)</Blueprint_Table1x2c_Install.label> -->
-  <Frame_Table1x2c.label>asztal (1x2) (építmény)</Frame_Table1x2c.label>
-  <Frame_Table1x2c.description>Ha van felé néző szék, az emberek erről esznek.</Frame_Table1x2c.description>
-
-  <Table2x2c.label>asztal (2x2)</Table2x2c.label>
-  <Table2x2c.description>Ha van felé néző szék, az emberek erről esznek.</Table2x2c.description>
-  <Blueprint_Table2x2c.label>asztal (2x2) (tervrajz)</Blueprint_Table2x2c.label>
-<!--   <Blueprint_Table2x2c_Install.label>asztal (2x2) (tervrajz)</Blueprint_Table2x2c_Install.label> -->
-  <Frame_Table2x2c.label>asztal (2x2) (építmény)</Frame_Table2x2c.label>
-  <Frame_Table2x2c.description>Ha van felé néző szék, az emberek erről esznek.</Frame_Table2x2c.description>
-
-  <Table2x4c.label>asztal (2x4)</Table2x4c.label>
-  <Table2x4c.description>Ha van felé néző szék, az emberek erről esznek.</Table2x4c.description>
-  <Blueprint_Table2x4c.label>asztal (2x4) (tervrajz)</Blueprint_Table2x4c.label>
-<!--   <Blueprint_Table2x4c_Install.label>asztal (2x4) (tervrajz)</Blueprint_Table2x4c_Install.label> -->
-  <Frame_Table2x4c.label>asztal (2x4) (építmény)</Frame_Table2x4c.label>
-  <Frame_Table2x4c.description>Ha van felé néző szék, az emberek erről esznek.</Frame_Table2x4c.description>
-
-  <Table3x3c.label>asztal (3x3)</Table3x3c.label>
-  <Table3x3c.description>Ha van felé néző szék, az emberek erről esznek.</Table3x3c.description>
-  <Blueprint_Table3x3c.label>asztal (3x3) (tervrajz)</Blueprint_Table3x3c.label>
-<!--   <Blueprint_Table3x3c_Install.label>asztal (3x3) (tervrajz)</Blueprint_Table3x3c_Install.label> -->
-  <Frame_Table3x3c.label>asztal (3x3) (építmény)</Frame_Table3x3c.label>
-  <Frame_Table3x3c.description>Ha van felé néző szék, az emberek erről esznek.</Frame_Table3x3c.description>
-
-
-  <PlantPot.label>virágcserép</PlantPot.label>
-  <PlantPot.description>Dekoratív virágok ültethetők ide, amik javítják az emberek hangulatát.</PlantPot.description>
-  <Blueprint_PlantPot.label>virágcserép (tervrajz)</Blueprint_PlantPot.label>
-<!--   <Blueprint_PlantPot_Install.label>virágcserép (tervrajz)</Blueprint_PlantPot_Install.label> -->
-  <Frame_PlantPot.label>virágcserép (építmény)</Frame_PlantPot.label>
-  <Frame_PlantPot.description>Dekoratív virágok ültethetők ide, amik javítják az emberek hangulatát.</Frame_PlantPot.description>
-  <TorchLamp.label>fáklya</TorchLamp.label>
-  <TorchLamp.description>Fa fáklya terek megvilágításához. Automatikusan újratölthető. Kevés hőt termel.</TorchLamp.description>
-  <Blueprint_TorchLamp.label>fáklya (tervrajz)</Blueprint_TorchLamp.label>
-  <Frame_TorchLamp.label>fáklya (építmény)</Frame_TorchLamp.label>
-  <Frame_TorchLamp.description>Fa fáklya terek megvilágításához. Automatikusan újratölthető. Kevés hőt termel.</Frame_TorchLamp.description>
-  <StandingLamp.label>állólámpa</StandingLamp.label>
-  <StandingLamp.description>Állólámpa, mely megvilágítja környezetét.</StandingLamp.description>
-  <Blueprint_StandingLamp.label>állólámpa (tervrajz)</Blueprint_StandingLamp.label>
-<!--   <Blueprint_StandingLamp_Install.label>állólámpa (tervrajz)</Blueprint_StandingLamp_Install.label> -->
-  <Frame_StandingLamp.label>állólámpa (építmény)</Frame_StandingLamp.label>
-  <Frame_StandingLamp.description>Állólámpa, mely megvilágítja környezetét.</Frame_StandingLamp.description>
-  <StandingLamp_Red.label>állólámpa (vörös)</StandingLamp_Red.label>
-  <StandingLamp_Red.description>Vörös fényű állólámpa, mely megvilágítja környezetét.</StandingLamp_Red.description>
-  <Blueprint_StandingLamp_Red.label>állólámpa (vörös) (tervrajz)</Blueprint_StandingLamp_Red.label>
-<!--   <Blueprint_StandingLamp_Red_Install.label>állólámpa (vörös) (tervrajz)</Blueprint_StandingLamp_Red_Install.label> -->
-  <Frame_StandingLamp_Red.label>állólámpa (vörös) (építmény)</Frame_StandingLamp_Red.label>
-  <Frame_StandingLamp_Red.description>Vörös fényű állólámpa, mely megvilágítja környezetét.</Frame_StandingLamp_Red.description>
-  <StandingLamp_Green.label>állólámpa (zöld)</StandingLamp_Green.label>
-  <StandingLamp_Green.description>Zöld fényű állólámpa, mely megvilágítja környezetét.</StandingLamp_Green.description>
-  <Blueprint_StandingLamp_Green.label>állólámpa (zöld) (tervrajz)</Blueprint_StandingLamp_Green.label>
-<!--   <Blueprint_StandingLamp_Green_Install.label>állólámpa (zöld) (tervrajz)</Blueprint_StandingLamp_Green_Install.label> -->
-  <Frame_StandingLamp_Green.label>állólámpa (zöld) (építmény)</Frame_StandingLamp_Green.label>
-  <Frame_StandingLamp_Green.description>Zöld fényű állólámpa, mely megvilágítja környezetét.</Frame_StandingLamp_Green.description>
-  <StandingLamp_Blue.label>állólámpa (kék)</StandingLamp_Blue.label>
-  <StandingLamp_Blue.description>Kék fényű állólámpa, mely megvilágítja környezetét.</StandingLamp_Blue.description>
-  <Blueprint_StandingLamp_Blue.label>állólámpa (kék) (tervrajz)</Blueprint_StandingLamp_Blue.label>
-<!--   <Blueprint_StandingLamp_Blue_Install.label>állólámpa (kék) (tervrajz)</Blueprint_StandingLamp_Blue_Install.label> -->
-  <Frame_StandingLamp_Blue.label>állólámpa (kék) (építmény)</Frame_StandingLamp_Blue.label>
-  <Frame_StandingLamp_Blue.description>Kék fényű állólámpa, mely megvilágítja környezetét.</Frame_StandingLamp_Blue.description>
-  <SunLamp.label>kvarclámpa</SunLamp.label>
-  <SunLamp.description>Növények termesztéséhez megfelelő erősséggel világítja meg a talajt.</SunLamp.description>
-  <SunLamp.comps.CompSchedule.offMessage>Kikapcsolva "éjjelre".</SunLamp.comps.CompSchedule.offMessage>
-  <Blueprint_SunLamp.label>kvarclámpa (tervrajz)</Blueprint_SunLamp.label>
-<!--   <Blueprint_SunLamp_Install.label>kvarclámpa (tervrajz)</Blueprint_SunLamp_Install.label> -->
-  <Frame_SunLamp.label>kvarclámpa (építmény)</Frame_SunLamp.label>
-  <Frame_SunLamp.description>Növények termesztéséhez megfelelő erősséggel világítja meg a talajt. Éjjel automatikusan kikapcsol.</Frame_SunLamp.description>
-  <Shelf.label>polc</Shelf.label>
-  <Shelf.description>Polcon tárolt tárgyak állaga nem romlik, még a szabad ég alatt sem.</Shelf.description>
-  <Blueprint_Shelf.label>polc (tervrajz)</Blueprint_Shelf.label>
-<!--   <Blueprint_Shelf_Install.label>polc (tervrajz)</Blueprint_Shelf_Install.label> -->
-  <Frame_Shelf.label>polc (építmény)</Frame_Shelf.label>
-  <Frame_Shelf.description>Polcon tárolt tárgyak állaga nem romlik, még a szabad ég alatt sem.</Frame_Shelf.description>
- <!-- Dressers -->
-
+  
+  <!-- EN: bed -->
+  <Bed.label>ágy</Bed.label>
+  <!-- EN: A cozy mattress and sheets on a frame for resting. -->
+  <Bed.description>Keretbe helyezett kényelmes matrac és lepedő.</Bed.description>
+  
+  <!-- EN: bedroll -->
+  <Bedroll.label>hálózsák</Bedroll.label>
+  <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <Bedroll.description>Földre terített egyszerű fekhely, általában szövetből vagy bőrből, gyakran szőrmével bélelve. Nagyon könnyű és feltekerhető a könnyebb szállítás érdekében, de nem olyan kényelmes, mint egy ágy.</Bedroll.description>
+  
+  <!-- EN: double bedroll -->
+  <BedrollDouble.label>dupla hálózsák</BedrollDouble.label>
+  <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <BedrollDouble.description>Földre terített duplaszéles fekhely, általában szövetből vagy bőrből, gyakran szőrmével bélelve. Nagyon könnyű és feltekerhető a könnyebb szállítás érdekében, de nem olyan kényelmes, mint egy ágy.</BedrollDouble.description>
+  
+  <!-- EN: dining chair -->
+  <DiningChair.label>szék</DiningChair.label>
+  <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
+  <DiningChair.description>Kényelmes és jól kinéző szék.</DiningChair.description>
+  
+  <!-- EN: double bed -->
+  <DoubleBed.label>dupla ágy</DoubleBed.label>
+  <!-- EN: A simple double-wide bed that fits two people. -->
+  <DoubleBed.description>Egyszerű dupla ágy, amin két ember is elfér.</DoubleBed.description>
+  
+  <!-- EN: double sleeping spot -->
+  <DoubleSleepingSpot.label>dupla fekhely</DoubleSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
+  <DoubleSleepingSpot.description>Alvásra kijelölt hely két személy számára a padlón. Nem kényelmes.</DoubleSleepingSpot.description>
+  
+  <!-- EN: dresser -->
   <Dresser.label>komód</Dresser.label>
+  <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
   <Dresser.description>A közeli ágyak kényelmét növeli. Egy ágyra maximum egy komód van hatással.</Dresser.description>
-  <Blueprint_Dresser.label>komód (tervrajz)</Blueprint_Dresser.label>
-<!--   <Blueprint_Dresser_Install.label>komód (tervrajz)</Blueprint_Dresser_Install.label> -->
-  <Frame_Dresser.label>komód (építmény)</Frame_Dresser.label>
-  <Frame_Dresser.description>A közeli ágyak kényelmét növeli. Egy ágyra maximum egy komód van hatással.</Frame_Dresser.description>
-
+  
+  <!-- EN: end table -->
+  <EndTable.label>éjjeliszekrény</EndTable.label>
+  <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <EndTable.description>Kis asztalka az ágy fejénél. A közeli ágyak kényelmét növeli. Az ágy fejrésze mellé kell helyezni. Egy ágyra maximum egy éjjeliszekrény van hatással.</EndTable.description>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>betegágy</HospitalBed.label>
+  <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
+  <HospitalBed.description>Ágy sebesültek kezeléséhez tervezve. Javítja a sikeres orvosi beavatkozás esélyét.</HospitalBed.description>
+  
+  <!-- EN: plant pot -->
+  <PlantPot.label>virágcserép</PlantPot.label>
+  <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
+  <PlantPot.description>Dekoratív virágok ültethetők ide, amik javítják az emberek hangulatát.</PlantPot.description>
+  
+  <!-- EN: royal bed -->
+  <RoyalBed.label>királyi ágy</RoyalBed.label>
+  <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
+  <RoyalBed.description>Pazar, arany berakásos kétszemélyes ágy előkelőségek számára. Nagyon kényelmes és gyönyörű.</RoyalBed.description>
+  
+  <!-- EN: shelf -->
+  <Shelf.label>polc</Shelf.label>
+  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
+  <Shelf.description>Polcon tárolt tárgyak állaga nem romlik, még a szabad ég alatt sem.</Shelf.description>
+  
+  <!-- EN: sleeping spot -->
+  <SleepingSpot.label>fekhely</SleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
+  <SleepingSpot.description>Alvásra kijelölt hely a padlón. Nem kényelmes.</SleepingSpot.description>
+  
+  <!-- EN: standing lamp -->
+  <StandingLamp.label>állólámpa</StandingLamp.label>
+  <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
+  <StandingLamp.description>Állólámpa, mely megvilágítja környezetét.</StandingLamp.description>
+  
+  <!-- EN: standing lamp (blue) -->
+  <StandingLamp_Blue.label>állólámpa (kék)</StandingLamp_Blue.label>
+  <!-- EN: A standing lamp that lights an area in blue. -->
+  <StandingLamp_Blue.description>Kék fényű állólámpa, mely megvilágítja környezetét.</StandingLamp_Blue.description>
+  
+  <!-- EN: standing lamp (green) -->
+  <StandingLamp_Green.label>állólámpa (zöld)</StandingLamp_Green.label>
+  <!-- EN: A standing lamp that lights an area in green. -->
+  <StandingLamp_Green.description>Zöld fényű állólámpa, mely megvilágítja környezetét.</StandingLamp_Green.description>
+  
+  <!-- EN: standing lamp (red) -->
+  <StandingLamp_Red.label>állólámpa (vörös)</StandingLamp_Red.label>
+  <!-- EN: A standing lamp that lights an area in red. -->
+  <StandingLamp_Red.description>Vörös fényű állólámpa, mely megvilágítja környezetét.</StandingLamp_Red.description>
+  
+  <!-- EN: stool -->
+  <Stool.label>zsámoly</Stool.label>
+  <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+  <Stool.description>Egyszerű ülőalkalmatosság.</Stool.description>
+  
+  <!-- EN: sun lamp -->
+  <SunLamp.label>kvarclámpa</SunLamp.label>
+  <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
+  <SunLamp.description>Növények termesztéséhez megfelelő erősséggel világítja meg a talajt.</SunLamp.description>
+  <!-- EN: Off for plant resting period -->
+  <SunLamp.comps.CompSchedule.offMessage>Kikapcsolva "éjjelre".</SunLamp.comps.CompSchedule.offMessage>
+  
+  <!-- EN: table (1x2) -->
+  <Table1x2c.label>asztal (1x2)</Table1x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table1x2c.description>Ha van felé néző szék, az emberek erről esznek.</Table1x2c.description>
+  
+  <!-- EN: table (2x2) -->
+  <Table2x2c.label>asztal (2x2)</Table2x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x2c.description>Ha van felé néző szék, az emberek erről esznek.</Table2x2c.description>
+  
+  <!-- EN: table (2x4) -->
+  <Table2x4c.label>asztal (2x4)</Table2x4c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x4c.description>Ha van felé néző szék, az emberek erről esznek.</Table2x4c.description>
+  
+  <!-- EN: table (3x3) -->
+  <Table3x3c.label>asztal (3x3)</Table3x3c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table3x3c.description>Ha van felé néző szék, az emberek erről esznek.</Table3x3c.description>
+  
+  <!-- EN: torch lamp -->
+  <TorchLamp.label>fáklya</TorchLamp.label>
+  <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
+  <TorchLamp.description>Fa fáklya terek megvilágításához. Automatikusan újratölthető. Kevés hőt termel.</TorchLamp.description>
+  
 </LanguageData>

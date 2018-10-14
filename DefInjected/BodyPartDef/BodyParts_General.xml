@@ -1,16 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Head.label>fej</Head.label>
-  <Skull.label>koponya</Skull.label>
+  
+  <!-- EN: brain -->
   <Brain.label>agy</Brain.label>
-  <Eye.label>szem</Eye.label>
+  
+  <!-- EN: ear -->
   <Ear.label>fül</Ear.label>
-  <Nose.label>orr</Nose.label>
-  <Jaw.label>állkapocs</Jaw.label>
-  <Neck.label>nyak</Neck.label>
-  <Ribcage.label>mellkas</Ribcage.label>
-  <Spine.label>gerinc</Spine.label>
-  <Leg.label>láb</Leg.label>
+  
+  <!-- EN: eye -->
+  <Eye.label>szem</Eye.label>
+  
+  <!-- EN: foot -->
   <Foot.label>lábfej</Foot.label>
-
+  
+  <!-- EN: head -->
+  <Head.label>fej</Head.label>
+  
+  <!-- EN: jaw -->
+  <Jaw.label>állkapocs</Jaw.label>
+  
+  <!-- EN: leg -->
+  <Leg.label>láb</Leg.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>nyak</Neck.label>
+  
+  <!-- EN: nose -->
+  <Nose.label>orr</Nose.label>
+  
+  <!-- EN: ribcage -->
+  <Ribcage.label>mellkas</Ribcage.label>
+  
+  <!-- EN: skull -->
+  <Skull.label>koponya</Skull.label>
+  
+  <!-- EN: spine -->
+  <Spine.label>gerinc</Spine.label>
+  
 </LanguageData>

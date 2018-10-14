@@ -1,36 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
+  <!-- EN: ship structural beam -->
   <Ship_Beam.label>űrhajó gerinc</Ship_Beam.label>
+  <!-- EN: A structural beam around which a starship can be constructed. Includes all the necessary conduits and transit pipes for communications, power, and materials transport. -->
   <Ship_Beam.description>Az űrhajó fő tartóeleme. Minden további alkatrész ehhez csatlakozik.</Ship_Beam.description>
-  <Blueprint_Ship_Beam.label>űrhajó gerinc (tervrajz)</Blueprint_Ship_Beam.label>
-  <Frame_Ship_Beam.label>űrhajó gerinc (építmény)</Frame_Ship_Beam.label>
-  <Frame_Ship_Beam.description>Az űrhajó fő tartóeleme. Minden további alkatrész ehhez csatlakozik.</Frame_Ship_Beam.description>
-  <Ship_CryptosleepCasket.label>űrhajó hibernálója</Ship_CryptosleepCasket.label>
-  <Ship_CryptosleepCasket.description>Egy hibernáló kapszula, megerősítve az űr veszélyi ellen. Évszázadokig életben tart egy személyt az űrben és képes túlélni egy légkörbe való belépést is.</Ship_CryptosleepCasket.description>
-  <!-- <Ship_Blueprint_CryptosleepCasket.label>űrhajó hibernálója (tervrajz)</Ship_Blueprint_CryptosleepCasket.label> -->
-  <!-- <Ship_Frame_CryptosleepCasket.label>űrhajó hibernálója (építmény)</Ship_Frame_CryptosleepCasket.label> -->
-  <!-- <Ship_Frame_CryptosleepCasket.description>Egy hibernáló kapszula, megerősítve az űr veszélyi ellen. Évszázadokig életben tart egy személyt az űrben és képes túlélni egy légkörbe való belépést is.</Ship_Frame_CryptosleepCasket.description> -->
+  
+  <!-- EN: ship computer core -->
   <Ship_ComputerCore.label>űrhajó számítógép központ</Ship_ComputerCore.label>
+  <!-- EN: A computer core housing an AI persona who can guide a starship through any challenge during a multi-decade starflight. -->
   <Ship_ComputerCore.description>Számítógépközpont, ami képes tárolni egy mesterséges intelligenciát, ami elirányítja az űrhajót minden körülménynek között.</Ship_ComputerCore.description>
-  <Blueprint_Ship_ComputerCore.label>űrhajó számítógép központ (tervrajz)</Blueprint_Ship_ComputerCore.label>
-  <Frame_Ship_ComputerCore.label>űrhajó számítógép központ (építmény)</Frame_Ship_ComputerCore.label>
-  <Frame_Ship_ComputerCore.description>Számítógépközpont, ami képes tárolni egy mesterséges intelligenciát, ami elirányítja az űrhajót minden körülménynek között.</Frame_Ship_ComputerCore.description>
-  <Ship_Reactor.label>űrhajó reaktor</Ship_Reactor.label>
-  <Ship_Reactor.description>Ellátja a hajót az űrutazáshoz szükséges energiával.</Ship_Reactor.description>
-  <Blueprint_Ship_Reactor.label>űrhajó reaktor (tervrajz)</Blueprint_Ship_Reactor.label>
-  <Frame_Ship_Reactor.label>űrhajó reaktor (építmény)</Frame_Ship_Reactor.label>
-  <Frame_Ship_Reactor.description>Ellátja a hajót az űrutazáshoz szükséges energiával.</Frame_Ship_Reactor.description>
+  
+  <!-- EN: ship cryptosleep casket -->
+  <Ship_CryptosleepCasket.label>űrhajó hibernálója</Ship_CryptosleepCasket.label>
+  <!-- EN: A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries and surviving atmospheric re-entry. -->
+  <Ship_CryptosleepCasket.description>Egy hibernáló kapszula, megerősítve az űr veszélyi ellen. Évszázadokig életben tart egy személyt az űrben és képes túlélni egy légkörbe való belépést is.</Ship_CryptosleepCasket.description>
+  
+  <!-- EN: ship engine -->
   <Ship_Engine.label>űrhajó hajtómű</Ship_Engine.label>
+  <!-- EN: A reactionless Johnson-Tanaka drive capable of launching a ship into orbit, and crawling across the vast expanses between stars. -->
   <Ship_Engine.description>Antianyag hajtómű, ami képes űrbe juttatni és csillagközi pályára állítani egy hajót.</Ship_Engine.description>
-  <Blueprint_Ship_Engine.label>űrhajó hajtómű (tervrajz)</Blueprint_Ship_Engine.label>
-  <Frame_Ship_Engine.label>űrhajó hajtómű (építmény)</Frame_Ship_Engine.label>
-  <Frame_Ship_Engine.description>Antianyag hajtómű, ami képes űrbe juttatni és csillagközi pályára állítani egy hajót.</Frame_Ship_Engine.description>
-   <!-- Sensor cluster -->
-
+  
+  <!-- EN: ship reactor -->
+  <Ship_Reactor.label>űrhajó reaktor</Ship_Reactor.label>
+  <!-- EN: Powers a ship on its journey between stars. Takeoff requires a long powerup process that is likely to attract raiders. -->
+  <Ship_Reactor.description>Ellátja a hajót az űrutazáshoz szükséges energiával.</Ship_Reactor.description>
+  
+  <!-- EN: sensor cluster -->
   <Ship_SensorCluster.label>szenzor hálózat</Ship_SensorCluster.label>
+  <!-- EN: A multi-function sensor module. Can scan and signal across the void for communications, threat detection, deception, jamming, and other purposes. -->
   <Ship_SensorCluster.description>Érzékelőmodul, ami a világűrt figyeli veszélyek és lehetőségek után kutatva.</Ship_SensorCluster.description>
-  <Blueprint_Ship_SensorCluster.label>szenzorhálózat (tervrajz)</Blueprint_Ship_SensorCluster.label>
-  <Frame_Ship_SensorCluster.label>szenzorhálózat (építmény)</Frame_Ship_SensorCluster.label>
-  <Frame_Ship_SensorCluster.description>Érzékelőmodul, ami a világűrt figyeli veszélyek és lehetőségek után kutatva.</Frame_Ship_SensorCluster.description>
-
+  
 </LanguageData>

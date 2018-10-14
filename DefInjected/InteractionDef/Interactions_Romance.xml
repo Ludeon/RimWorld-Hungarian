@@ -1,77 +1,154 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <RomanceAttempt.label>megkörnyékezés</RomanceAttempt.label>
-<RomanceAttempt.logRulesInitiator.rulesStrings> 
-  <li>r_logentry->[INITIATOR_nameIndef] [wooed]: [OTHER_nameIndef], [wootactic].</li>
-  <li>wooed->megpróbált flörtölni vele</li>
-  <li>wooed->flörtölt vele</li>
-  <li>wooed->megpróbálta elcsábítani őt</li>
-  <li>wooed->megpróbálta megába bolondítani őt</li>
-  <li>wooed->udvarolt neki</li>
-  <li>wooed->tette a szépet neki</li>
-  <li>wooed->csapta a szelet neki</li>
-  <li>wooed->megbabonázta őt</li>
-  <li>wooed->kacérkodott vele</li>
-  <li>wootactic(p=4)->[complimenting]: [PersonalCharacteristic]</li>
-  <li>wootactic(p=2)->[boasting]: [PersonalCharacteristic]</li>
-  <li>wootactic(p=2)->erről mesélve: [TalkTopicLight]</li>
-  <li>wootactic(p=2)->erről mesélve:[TalkTopicHeavy]</li>
-  <li>wootactic->összehasonlítva ezt: [OTHER_objective] ehhez: [romantic_adj] [romantic_noun]</li>
-  <li>boasting->dicsekdve ezzel</li>
-  <li>boasting->megemlítve ezt</li>
-  <li>boasting->felnagyítva ezt</li>
-  <li>boasting->beszélve erről</li>
-  <li>boasting->felhívva a figyelmet erre</li>
-  <li>complimenting(p=3)->megdícsérve ezt</li>
-  <li>complimenting->finoman  megdícsérve ezt</li>
-  <li>complimenting->kiemelve ezt</li>
-  <li>complimenting->magasztalva ezt</li>
-  <li>complimenting->ömlengve erről</li>
-  <li>complimenting(p=2)->játékosan kigúnyolva ezt</li>
-  <li>complimenting->viccesen szurkálódva erről</li>
-  <li>complimenting->huncutul rákérdezve erre</li>
-  <li>complimenting->vígan viccelve ezzel</li>
-  <li>romantic_adj->gyönyörű</li>
-  <li>romantic_adj->fényes</li>
-  <li>romantic_adj->csillogó</li>
-  <li>romantic_adj->mennyei</li>
-  <li>romantic_adj->arany</li>
-  <li>romantic_adj->fénylő</li>
-  <li>romantic_adj->lélegzetelállító</li>
-  <li>romantic_adj->elbűvölő</li>
-  <li>romantic_adj->szédítő</li>
-  <li>romantic_adj->törékeny</li>
-  <li>romantic_adj->finom</li>
-  <li>romantic_adj->pompás</li>
-  <li>romantic_adj->csinos</li>
-  <li>romantic_adj->csodálatos</li>
-  <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
-  <li>romantic_noun->virág</li>
-  <li>romantic_noun->forrás</li>
-  <li>romantic_noun->folyó</li>
-  <li>romantic_noun->csillag</li>
-  <li>romantic_noun->hold</li>
-  <li>romantic_noun->nap</li>
-  <li>romantic_noun->ház</li>
-  <li>romantic_noun->északi fény</li>
-  <li>romantic_noun->[TreeType]fa</li>
-  <li>romantic_noun(p=2)->[TerrainFeature]</li>
-  <li>romantic_noun(p=2)->[NaturalObject]</li>
-</RomanceAttempt.logRulesInitiator.rulesStrings>
- 
- <MarriageProposal.label>házassági ajánlat</MarriageProposal.label>
-<MarriageProposal.logRulesInitiator.rulesStrings>
- <li>r_logentry->[INITIATOR_nameIndef] házassági ajánlatot tett neki: [OTHER_nameIndef].</li>
-  <li>r_logentry->[INITIATOR_nameIndef] örök hűséget ajánlott neki: [OTHER_nameIndef].</li>
-  <li>r_logentry->[INITIATOR_nameIndef] azt mondta neki: [OTHER_nameIndef], hogy vele akarja leélni az életét.</li>
-</MarriageProposal.logRulesInitiator.rulesStrings>
-
-  <Breakup.label>szakítás</Breakup.label>
   
-<Breakup.logRulesInitiator.rulesStrings>
-  <li>r_logentry->[INITIATOR_nameIndef] szakított vele: [OTHER_nameIndef].</li>
-  <li>r_logentry->[INITIATOR_nameIndef] több teret kért tőle: [OTHER_nameIndef].</li>
-  <li>r_logentry->[INITIATOR_nameIndef] megmondta neki: [OTHER_nameIndef], hogy nem működik a dolog.</li>
-  <li>r_logentry->[INITIATOR_nameIndef] megmondta neki [OTHER_nameIndef], hogy jobb lenne ha másokkal találkozgatnának.</li>
-</Breakup.logRulesInitiator.rulesStrings>  
+  <!-- EN: breakup -->
+  <Breakup.label>szakítás</Breakup.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for a break.</li>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for some space.</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not working out.</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
+  -->
+  <Breakup.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameIndef] szakított vele: [OTHER_nameIndef].</li>
+    <li>r_logentry->[INITIATOR_nameIndef] több teret kért tőle: [OTHER_nameIndef].</li>
+    <li>r_logentry->[INITIATOR_nameIndef] megmondta neki: [OTHER_nameIndef], hogy nem működik a dolog.</li>
+    <li>r_logentry->[INITIATOR_nameIndef] megmondta neki [OTHER_nameIndef], hogy jobb lenne ha másokkal találkozgatnának.</li>
+  </Breakup.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: marriage proposal -->
+  <MarriageProposal.label>házassági ajánlat</MarriageProposal.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] proposed marriage to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] proposed a lifelong commitment to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
+  -->
+  <MarriageProposal.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameIndef] házassági ajánlatot tett neki: [OTHER_nameIndef].</li>
+    <li>r_logentry->[INITIATOR_nameIndef] örök hűséget ajánlott neki: [OTHER_nameIndef].</li>
+    <li>r_logentry->[INITIATOR_nameIndef] azt mondta neki: [OTHER_nameIndef], hogy vele akarja leélni az életét.</li>
+  </MarriageProposal.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: romance attempt -->
+  <RomanceAttempt.label>megkörnyékezés</RomanceAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</li>
+    <li>wooed->tried to flirt with</li>
+    <li>wooed->flirted with</li>
+    <li>wooed->tried to attract</li>
+    <li>wooed->tried to romance</li>
+    <li>wooed->tried to woo</li>
+    <li>wooed->wooed</li>
+    <li>wooed->pursued</li>
+    <li>wooed->charmed</li>
+    <li>wooed->courted</li>
+    <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
+    <li>wootactic->telling a story about [TalkTopicAny]</li>
+    <li>wootactic->telling a tale about [TalkTopicAny]</li>
+    <li>wootactic->joking about [TalkTopicAny]</li>
+    <li>wootactic->making an observation about [TalkTopicAny]</li>
+    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic]</li>
+    <li>wootactic->comparing [RECIPIENT_objective] to a [romantic_adj] [romantic_noun]</li>
+    <li>wootactic->describing [RECIPIENT_objective] as a [romantic_adj] [romantic_noun]</li>
+    <li>boasting->boasting about</li>
+    <li>boasting->mentioning</li>
+    <li>boasting->implying good things about</li>
+    <li>boasting->exaggerating</li>
+    <li>boasting->talking about</li>
+    <li>boasting->drawing attention to</li>
+    <li>complimenting(p=3)->complimenting</li>
+    <li>complimenting->subtly complimenting</li>
+    <li>complimenting->lauding</li>
+    <li>complimenting->commending</li>
+    <li>complimenting->saying good things about</li>
+    <li>complimenting(p=2)->playfully making fun of</li>
+    <li>complimenting->jokingly poking at</li>
+    <li>complimenting->jokingly half-complimenting</li>
+    <li>complimenting->impishly questioning</li>
+    <li>complimenting->cheerfully making fun of</li>
+    <li>romantic_adj->beautiful</li>
+    <li>romantic_adj->shining</li>
+    <li>romantic_adj->glimmering</li>
+    <li>romantic_adj->heavenly</li>
+    <li>romantic_adj->golden</li>
+    <li>romantic_adj->bright</li>
+    <li>romantic_adj->breathtaking</li>
+    <li>romantic_adj->charming</li>
+    <li>romantic_adj->dazzling</li>
+    <li>romantic_adj->delicate</li>
+    <li>romantic_adj->fine</li>
+    <li>romantic_adj->magnificent</li>
+    <li>romantic_adj->lovely</li>
+    <li>romantic_adj->wonderful</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+    <li>romantic_noun->flower</li>
+    <li>romantic_noun->spring</li>
+    <li>romantic_noun->river</li>
+    <li>romantic_noun->star</li>
+    <li>romantic_noun->moon</li>
+    <li>romantic_noun->sun</li>
+    <li>romantic_noun->house</li>
+    <li>romantic_noun->aurora</li>
+    <li>romantic_noun->[TreeType] tree</li>
+    <li>romantic_noun(p=2)->[TerrainFeature]</li>
+    <li>romantic_noun(p=2)->[NaturalObject]</li>
+  -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameIndef] [wooed]: [OTHER_nameIndef], [wootactic].</li>
+    <li>wooed->megpróbált flörtölni vele</li>
+    <li>wooed->flörtölt vele</li>
+    <li>wooed->megpróbálta elcsábítani őt</li>
+    <li>wooed->megpróbálta megába bolondítani őt</li>
+    <li>wooed->udvarolt neki</li>
+    <li>wooed->tette a szépet neki</li>
+    <li>wooed->csapta a szelet neki</li>
+    <li>wooed->megbabonázta őt</li>
+    <li>wooed->kacérkodott vele</li>
+    <li>wootactic(p=4)->[complimenting]: [PersonalCharacteristic]</li>
+    <li>wootactic(p=2)->[boasting]: [PersonalCharacteristic]</li>
+    <li>wootactic(p=2)->erről mesélve: [TalkTopicLight]</li>
+    <li>wootactic(p=2)->erről mesélve:[TalkTopicHeavy]</li>
+    <li>wootactic->összehasonlítva ezt: [OTHER_objective] ehhez: [romantic_adj] [romantic_noun]</li>
+    <li>boasting->dicsekdve ezzel</li>
+    <li>boasting->megemlítve ezt</li>
+    <li>boasting->felnagyítva ezt</li>
+    <li>boasting->beszélve erről</li>
+    <li>boasting->felhívva a figyelmet erre</li>
+    <li>complimenting(p=3)->megdícsérve ezt</li>
+    <li>complimenting->finoman  megdícsérve ezt</li>
+    <li>complimenting->kiemelve ezt</li>
+    <li>complimenting->magasztalva ezt</li>
+    <li>complimenting->ömlengve erről</li>
+    <li>complimenting(p=2)->játékosan kigúnyolva ezt</li>
+    <li>complimenting->viccesen szurkálódva erről</li>
+    <li>complimenting->huncutul rákérdezve erre</li>
+    <li>complimenting->vígan viccelve ezzel</li>
+    <li>romantic_adj->gyönyörű</li>
+    <li>romantic_adj->fényes</li>
+    <li>romantic_adj->csillogó</li>
+    <li>romantic_adj->mennyei</li>
+    <li>romantic_adj->arany</li>
+    <li>romantic_adj->fénylő</li>
+    <li>romantic_adj->lélegzetelállító</li>
+    <li>romantic_adj->elbűvölő</li>
+    <li>romantic_adj->szédítő</li>
+    <li>romantic_adj->törékeny</li>
+    <li>romantic_adj->finom</li>
+    <li>romantic_adj->pompás</li>
+    <li>romantic_adj->csinos</li>
+    <li>romantic_adj->csodálatos</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+    <li>romantic_noun->virág</li>
+    <li>romantic_noun->forrás</li>
+    <li>romantic_noun->folyó</li>
+    <li>romantic_noun->csillag</li>
+    <li>romantic_noun->hold</li>
+    <li>romantic_noun->nap</li>
+    <li>romantic_noun->ház</li>
+    <li>romantic_noun->északi fény</li>
+    <li>romantic_noun->[TreeType]fa</li>
+    <li>romantic_noun(p=2)->[TerrainFeature]</li>
+    <li>romantic_noun(p=2)->[NaturalObject]</li>
+  </RomanceAttempt.logRulesInitiator.rulesStrings>
+  
 </LanguageData>

@@ -1,25 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <WanderConfused.label>zavarodott ténfergés</WanderConfused.label>
-  <WanderConfused.beginLetter>{0} összeomlott és zavarodottan járkál.</WanderConfused.beginLetter>
-  <WanderConfused.beginLetterLabel>Zavarodottság</WanderConfused.beginLetterLabel>
-  <WanderConfused.recoveryMessage>{0} zavarodottsága elmúlt.</WanderConfused.recoveryMessage>
-  <WanderConfused.baseInspectLine>Állapot: zavarodott járkálás</WanderConfused.baseInspectLine>
-  <PanicFlee.label>eszeveszett menekülés</PanicFlee.label>
-  <PanicFlee.beginLetter>{0} eszeveszetten menekül.</PanicFlee.beginLetter>
-  <PanicFlee.beginLetterLabel>Menekülés</PanicFlee.beginLetterLabel>
-  <PanicFlee.recoveryMessage>{0} már nem menekül.</PanicFlee.recoveryMessage>
-  <PanicFlee.baseInspectLine>Állapot: eszeveszett menekülés</PanicFlee.baseInspectLine>
+  
+  <!-- EN: manhunter -->
   <Manhunter.label>emberevő</Manhunter.label>
+  <!-- EN: Maddened: Manhunter -->
+  <Manhunter.baseInspectLine>Őrület: emberevő</Manhunter.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
   <Manhunter.beginLetter>{0} emberevő lett.</Manhunter.beginLetter>
   <Manhunter.beginLetterLabel>Emberevő</Manhunter.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
   <Manhunter.recoveryMessage>{0} vérszomja elmúlt.</Manhunter.recoveryMessage>
-  <Manhunter.baseInspectLine>Őrület: emberevő</Manhunter.baseInspectLine>
+  
+  <!-- EN: manhunter -->
   <ManhunterPermanent.label>emberevő</ManhunterPermanent.label>
+  <!-- EN: Maddened: Manhunter -->
+  <ManhunterPermanent.baseInspectLine>Őrület: emberevő</ManhunterPermanent.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
   <ManhunterPermanent.beginLetter>{0} emberevő lett!</ManhunterPermanent.beginLetter>
   <ManhunterPermanent.beginLetterLabel>emberevő</ManhunterPermanent.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
   <ManhunterPermanent.recoveryMessage>{0} vérszomja elmúlt.</ManhunterPermanent.recoveryMessage>
-  <ManhunterPermanent.baseInspectLine>Őrület: emberevő</ManhunterPermanent.baseInspectLine>
+  
+  <!-- EN: panic fleeing -->
+  <PanicFlee.label>eszeveszett menekülés</PanicFlee.label>
+  <!-- EN: Mental state: Fleeing in panic -->
+  <PanicFlee.baseInspectLine>Állapot: eszeveszett menekülés</PanicFlee.baseInspectLine>
+  <!-- EN: {0} is fleeing in panic. -->
+  <PanicFlee.beginLetter>{0} eszeveszetten menekül.</PanicFlee.beginLetter>
+  <!-- EN: flee -->
+  <PanicFlee.beginLetterLabel>Menekülés</PanicFlee.beginLetterLabel>
+  <!-- EN: {0} is no longer fleeing in panic. -->
+  <PanicFlee.recoveryMessage>{0} már nem menekül.</PanicFlee.recoveryMessage>
+  
+  <!-- EN: social fighting -->
   <SocialFighting.label>verekedés</SocialFighting.label>
+  <!-- EN: Mental state: Social fighting -->
   <SocialFighting.baseInspectLine>Állapot: verekedés</SocialFighting.baseInspectLine>
+  
+  <!-- EN: confused wandering -->
+  <WanderConfused.label>zavarodott ténfergés</WanderConfused.label>
+  <!-- EN: Mental state: Confused and wandering -->
+  <WanderConfused.baseInspectLine>Állapot: zavarodott járkálás</WanderConfused.baseInspectLine>
+  <!-- EN: {0} has broken down and is wandering around confused. -->
+  <WanderConfused.beginLetter>{0} összeomlott és zavarodottan járkál.</WanderConfused.beginLetter>
+  <!-- EN: confusion -->
+  <WanderConfused.beginLetterLabel>Zavarodottság</WanderConfused.beginLetterLabel>
+  <!-- EN: {0} is no longer confused. -->
+  <WanderConfused.recoveryMessage>{0} zavarodottsága elmúlt.</WanderConfused.recoveryMessage>
+  
 </LanguageData>

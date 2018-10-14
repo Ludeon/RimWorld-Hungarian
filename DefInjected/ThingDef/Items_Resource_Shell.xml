@@ -1,44 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- High-explosive -->
-
-  <Shell_HighExplosive.label>repeszromboló lövedék</Shell_HighExplosive.label>
-  <Shell_HighExplosive.description>Robbanóanyaggal töltött lövedék. Kilőhető ágyúból vagy csapdaként használható. Ha megsérül, felrobban.</Shell_HighExplosive.description>
-
-  <Bullet_Shell_HighExplosive.label>repeszromboló lövedék</Bullet_Shell_HighExplosive.label>
-
-
-  <!-- Incendiary -->
-
-  <Shell_Incendiary.label>gyújtó lövedék</Shell_Incendiary.label>
-  <Shell_Incendiary.description>Gyúlékony géllel és gyutaccsal ellátott lövedék. Robbanása után tüzeket gyújt. Kilőhető ágyúból vagy csapdaként használható. Ha megsérül, felrobban.</Shell_Incendiary.description>
-
-  <Bullet_Shell_Incendiary.label>gyújtó lövedék</Bullet_Shell_Incendiary.label>
-
-
-  <!-- EMP -->
-
-  <Shell_EMP.label>EMP lövedék</Shell_EMP.label>
-  <Shell_EMP.description>Akkuval és antennákkal ellátott lövedék, ami robbanáskor elektromágneses impulzust generál. Ez rövid időre megbénítja az elektromos szerkezeteket. Kilőhető ágyúból vagy csapdaként használható. Ha megsérül, felrobban.</Shell_EMP.description>
-
-  <Bullet_Shell_EMP.label>EMP lövedék</Bullet_Shell_EMP.label>
-
-
-  <!-- Firefoam -->
-
-  <Shell_Firefoam.label>oltóhab lövedék</Shell_Firefoam.label>
-  <Shell_Firefoam.description>Nagynyomású oltóhabot tartalmazó lövedék. Kilőhető ágyúból vagy csapdaként használható. Ha megsérül, felrobban.</Shell_Firefoam.description>
-
-  <Bullet_Shell_Firefoam.label>oltóhab lövedék</Bullet_Shell_Firefoam.label>
-
-
-  <!-- Antigrain warhead -->
-
-  <Shell_AntigrainWarhead.label>antianyag robbanófej</Shell_AntigrainWarhead.label>
-  <Shell_AntigrainWarhead.description>Űrhajókon és egyéb nagy harci járműveken használt fejlett robbanófej. Antianyagot tartalmaz, ami óriási robbanást okoz és tüzeket gyújt. Kilőhető ágyúból vagy csapdaként használható. Ha megsérül, felrobban.</Shell_AntigrainWarhead.description>
-
+  
+  <!-- EN: antigrain warhead -->
   <Bullet_Shell_AntigrainWarhead.label>antianyag robbanófej</Bullet_Shell_AntigrainWarhead.label>
-
-
+  
+  <!-- EN: EMP shell -->
+  <Bullet_Shell_EMP.label>EMP lövedék</Bullet_Shell_EMP.label>
+  
+  <!-- EN: firefoam shell -->
+  <Bullet_Shell_Firefoam.label>oltóhab lövedék</Bullet_Shell_Firefoam.label>
+  
+  <!-- EN: high-explosive shell -->
+  <Bullet_Shell_HighExplosive.label>repeszromboló lövedék</Bullet_Shell_HighExplosive.label>
+  
+  <!-- EN: incendiary shell -->
+  <Bullet_Shell_Incendiary.label>gyújtó lövedék</Bullet_Shell_Incendiary.label>
+  
+  <!-- EN: antigrain warhead -->
+  <Shell_AntigrainWarhead.label>antianyag robbanófej</Shell_AntigrainWarhead.label>
+  <!-- EN: An ultra-tech warhead powered by a grain of antimatter. Usually used by spacecraft or glitterworld war machines, it creates a huge explosion and starts fires around the target. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_AntigrainWarhead.description>Űrhajókon és egyéb nagy harci járműveken használt fejlett robbanófej. Antianyagot tartalmaz, ami óriási robbanást okoz és tüzeket gyújt. Kilőhető ágyúból vagy csapdaként használható. Ha megsérül, felrobban.</Shell_AntigrainWarhead.description>
+  
+  <!-- EN: EMP shell -->
+  <Shell_EMP.label>EMP lövedék</Shell_EMP.label>
+  <!-- EN: A shell filled with batteries and antennas, for generating an electromagnetic pulse when detonated. Electromagnetic pulses temporarily disable electrical devices and mechanoids. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_EMP.description>Akkuval és antennákkal ellátott lövedék, ami robbanáskor elektromágneses impulzust generál. Ez rövid időre megbénítja az elektromos szerkezeteket. Kilőhető ágyúból vagy csapdaként használható. Ha megsérül, felrobban.</Shell_EMP.description>
+  
+  <!-- EN: firefoam shell -->
+  <Shell_Firefoam.label>oltóhab lövedék</Shell_Firefoam.label>
+  <!-- EN: A pressurized shell filled with fire-retardant foam. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Firefoam.description>Nagynyomású oltóhabot tartalmazó lövedék. Kilőhető ágyúból vagy csapdaként használható. Ha megsérül, felrobban.</Shell_Firefoam.description>
+  
+  <!-- EN: high-explosive shell -->
+  <Shell_HighExplosive.label>repeszromboló lövedék</Shell_HighExplosive.label>
+  <!-- EN: A shell filled with high explosives. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_HighExplosive.description>Robbanóanyaggal töltött lövedék. Kilőhető ágyúból vagy csapdaként használható. Ha megsérül, felrobban.</Shell_HighExplosive.description>
+  
+  <!-- EN: incendiary shell -->
+  <Shell_Incendiary.label>gyújtó lövedék</Shell_Incendiary.label>
+  <!-- EN: A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Incendiary.description>Gyúlékony géllel és gyutaccsal ellátott lövedék. Robbanása után tüzeket gyújt. Kilőhető ágyúból vagy csapdaként használható. Ha megsérül, felrobban.</Shell_Incendiary.description>
+  
 </LanguageData>

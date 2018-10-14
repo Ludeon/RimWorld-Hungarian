@@ -1,41 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Cobra.label>kobra</Cobra.label>
-  <Cobra.description>Nagyméretű kígyó. Ha provokálják őket, igen agresszívak lesznek. Jobb elkerülni őket.</Cobra.description>
-  <Cobra.tools.head.label>fej</Cobra.tools.head.label>
-  <Cobra.tools.venomfangs.label>méregfogak</Cobra.tools.venomfangs.label>
-  <Cobra.race.meatLabel>kobrahús</Cobra.race.meatLabel>
   
-<!--   <Cobra_Leather.label>kobrabőr</Cobra_Leather.label> -->
-<!--   <Cobra_Leather.description>Egy kobra bőre.</Cobra_Leather.description> -->
-<!--   <Cobra_Leather.stuffProps.stuffAdjective>kobrabőr</Cobra_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Cobra.label>kobrahús</Meat_Cobra.label>
-  <Meat_Cobra.description>Egy kobra húsa.</Meat_Cobra.description>
-  <Corpse_Cobra.label>kobra tetem</Corpse_Cobra.label>
-  <Corpse_Cobra.description>Egy kobra teteme.</Corpse_Cobra.description>
+  <!-- EN: boomalope -->
+  <Boomalope.label>bummalop</Boomalope.label>
+  <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
+  <Boomalope.description>Vegyszerek készítésére kifejlesztve. A bummalop hátán egy nagy vegyszerrel teli zsák képződik. Gyenge és törékeny méretéhez képest, de más állatok megtanulták elkerülni, mivel halálakor felrobban.</Boomalope.description>
+  <!-- EN: head -->
+  <Boomalope.tools.head.label>fej</Boomalope.tools.head.label>
+  <!-- EN: left hoof -->
+  <Boomalope.tools.left_hoof.label>bal pata</Boomalope.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Boomalope.tools.right_hoof.label>jobb pata</Boomalope.tools.right_hoof.label>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>kobra</Cobra.label>
+  <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cobra.description>Nagyméretű kígyó. Ha provokálják őket, igen agresszívak lesznek. Jobb elkerülni őket.</Cobra.description>
+  <!-- EN: cobraflesh -->
+  <Cobra.race.meatLabel>kobrahús</Cobra.race.meatLabel>
+  <!-- EN: venom-fangs -->
+  <Cobra.tools.venomfangs.label>méregfogak</Cobra.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cobra.tools.head.label>fej</Cobra.tools.head.label>
+  
+  <!-- EN: monkey -->
   <Monkey.label>majom</Monkey.label>
+  <!-- EN: A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks. -->
   <Monkey.description>Ez a majom képes a farkával belekapaszkodni az ágakba, hogy mindkét kezét szabadon használhassa.</Monkey.description>
+  <!-- EN: left fist -->
   <Monkey.tools.left_fist.label>bal mancs</Monkey.tools.left_fist.label>
+  <!-- EN: right fist -->
   <Monkey.tools.right_fist.label>jobb mancs</Monkey.tools.right_fist.label>
+  <!-- EN: head -->
   <Monkey.tools.head.label>fej</Monkey.tools.head.label>
   
-<!--   <Monkey_Leather.label>majombőr</Monkey_Leather.label> -->
-<!--   <Monkey_Leather.description>Egy majom bőre.</Monkey_Leather.description> -->
-<!--   <Monkey_Leather.stuffProps.stuffAdjective>majombőr</Monkey_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Monkey.label>majomhús</Meat_Monkey.label>
-  <Meat_Monkey.description>Egy majom húsa.</Meat_Monkey.description>
-  <Corpse_Monkey.label>majom tetem</Corpse_Monkey.label>
-  <Corpse_Monkey.description>Egy majom teteme.</Corpse_Monkey.description>
-  <Boomalope.label>bummalop</Boomalope.label>
-  <Boomalope.description>Vegyszerek készítésére kifejlesztve. A bummalop hátán egy nagy vegyszerrel teli zsák képződik. Gyenge és törékeny méretéhez képest, de más állatok megtanulták elkerülni, mivel halálakor felrobban.</Boomalope.description>
-  <Boomalope.tools.head.label>fej</Boomalope.tools.head.label>
-  <Boomalope.tools.left_hoof.label>bal pata</Boomalope.tools.left_hoof.label>
-  <Boomalope.tools.right_hoof.label>jobb pata</Boomalope.tools.right_hoof.label>
-<!--   <Boomalope_Leather.label>bummalopbőr</Boomalope_Leather.label> -->
-<!--   <Boomalope_Leather.description>Egy bummalop bőre.</Boomalope_Leather.description> -->
-<!--   <Boomalope_Leather.stuffProps.stuffAdjective>bummalopbőr</Boomalope_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Boomalope.label>bummalop hús</Meat_Boomalope.label>
-  <Meat_Boomalope.description>Egy bummalop húsa.</Meat_Boomalope.description>
-  <Corpse_Boomalope.label>bummalop tetem</Corpse_Boomalope.label>
-  <Corpse_Boomalope.description>Egy bummalop teteme.</Corpse_Boomalope.description>
 </LanguageData>

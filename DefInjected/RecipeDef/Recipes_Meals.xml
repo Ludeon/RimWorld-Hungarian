@@ -1,18 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <CookMealSimple.label>egyszerű étel készítése</CookMealSimple.label>
-  <CookMealSimple.description>Étel készítése egyetlen hozzávalóból.</CookMealSimple.description>
-  <CookMealSimple.jobString>Egyszerű ételt főz.</CookMealSimple.jobString>
-  <!-- <CookMealSimpleCampfire.label>egyszerű étel sütése</CookMealSimpleCampfire.label> -->
-  <!-- <CookMealSimpleCampfire.description>Étel sütése egyetlen hozzávalóból.</CookMealSimpleCampfire.description> -->
-  <!-- <CookMealSimpleCampfire.jobString>Egyszerű ételt süt.</CookMealSimpleCampfire.jobString> -->
+  
+  <!-- EN: cook fine meal -->
   <CookMealFine.label>finom étel készítése</CookMealFine.label>
+  <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
   <CookMealFine.description>Bonyolultabb recept elkészítése, összetevők széles választékából.</CookMealFine.description>
+  <!-- EN: Cooking fine meal. -->
   <CookMealFine.jobString>Finom ételt főz.</CookMealFine.jobString>
+  
+  <!-- EN: cook lavish meal -->
   <CookMealLavish.label>lakoma készítése</CookMealLavish.label>
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
   <CookMealLavish.description>Bonyolult recept elkészítése, összetevők széles választékából. A hozzávalók jó része kárba vész.</CookMealLavish.description>
+  <!-- EN: Cooking lavish meal. -->
   <CookMealLavish.jobString>Lakomát főz.</CookMealLavish.jobString>
+  
+  <!-- EN: cook simple meal -->
+  <CookMealSimple.label>egyszerű étel készítése</CookMealSimple.label>
+  <!-- EN: Cook a straightforward meal from one ingredient. -->
+  <CookMealSimple.description>Étel készítése egyetlen hozzávalóból.</CookMealSimple.description>
+  <!-- EN: Cooking simple meal. -->
+  <CookMealSimple.jobString>Egyszerű ételt főz.</CookMealSimple.jobString>
+  
+  <!-- EN: cook packaged survival meal -->
   <CookMealSurvival.label>túlélőcsomag készítése</CookMealSurvival.label>
+  <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
   <CookMealSurvival.description>Nyers húsból és növényekből készült csomagolt étel. A hozzávalók nagy része kárba vész.</CookMealSurvival.description>
+  <!-- EN: Cooking survival meal. -->
   <CookMealSurvival.jobString>Túlélőcsomagot készít.</CookMealSurvival.jobString>
+  
 </LanguageData>

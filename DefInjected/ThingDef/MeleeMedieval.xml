@@ -1,22 +1,35 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-   <MeleeWeapon_Mace.label>buzogány</MeleeWeapon_Mace.label>
-  <MeleeWeapon_Mace.description>Fejlesztett bunkósbot, halálos csapásokra tervezve.</MeleeWeapon_Mace.description>
-  <MeleeWeapon_Mace.tools.handle.label>nyél</MeleeWeapon_Mace.tools.handle.label>
-  <MeleeWeapon_Mace.tools.head.label>fej</MeleeWeapon_Mace.tools.head.label>
-
+  
+  <!-- EN: gladius -->
   <MeleeWeapon_Gladius.label>gladius</MeleeWeapon_Gladius.label>
+  <!-- EN: A short sword of ancient design. Good for stabbing or slashing. It's light and nimble, which sometimes lets it beat bigger, heavier weapons. -->
   <MeleeWeapon_Gladius.description>Antik rövidkard. Jó szúró-, és vágófegyver.</MeleeWeapon_Gladius.description>
+  <!-- EN: handle -->
   <MeleeWeapon_Gladius.tools.handle.label>nyél</MeleeWeapon_Gladius.tools.handle.label>
+  <!-- EN: point -->
   <MeleeWeapon_Gladius.tools.point.label>hegy</MeleeWeapon_Gladius.tools.point.label>
+  <!-- EN: edge -->
   <MeleeWeapon_Gladius.tools.edge.label>él</MeleeWeapon_Gladius.tools.edge.label>
-
+  
+  <!-- EN: longsword -->
   <MeleeWeapon_LongSword.label>hosszúkard</MeleeWeapon_LongSword.label>
+  <!-- EN: The ancient weapon of kings, the longsword can be used for slashing or stabbing. -->
   <MeleeWeapon_LongSword.description>A hosszúkard a királyok ősi fegyvere. Jó szúró-, és vágófegyver, a megfelelő kézben halálos.</MeleeWeapon_LongSword.description>
+  <!-- EN: handle -->
   <MeleeWeapon_LongSword.tools.handle.label>nyél</MeleeWeapon_LongSword.tools.handle.label>
+  <!-- EN: point -->
   <MeleeWeapon_LongSword.tools.point.label>hegy</MeleeWeapon_LongSword.tools.point.label>
+  <!-- EN: edge -->
   <MeleeWeapon_LongSword.tools.edge.label>él</MeleeWeapon_LongSword.tools.edge.label>
-
-
+  
+  <!-- EN: mace -->
+  <MeleeWeapon_Mace.label>buzogány</MeleeWeapon_Mace.label>
+  <!-- EN: A refined club, engineered for efficient swinging and deadly impacts. -->
+  <MeleeWeapon_Mace.description>Fejlesztett bunkósbot, halálos csapásokra tervezve.</MeleeWeapon_Mace.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Mace.tools.handle.label>nyél</MeleeWeapon_Mace.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Mace.tools.head.label>fej</MeleeWeapon_Mace.tools.head.label>
+  
 </LanguageData>

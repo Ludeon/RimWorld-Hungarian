@@ -1,11 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MoodOffsetSanguine.stages.sanguine.label>derűlátó</MoodOffsetSanguine.stages.sanguine.label>
-  <MoodOffsetSanguine.stages.sanguine.description>Természetes előny a derűlátó tulajdonság miatt.</MoodOffsetSanguine.stages.sanguine.description>
-  <MoodOffsetOptimist.stages.optimist.label>optimista</MoodOffsetOptimist.stages.optimist.label>
-  <MoodOffsetOptimist.stages.optimist.description>Természetes előny a optimista tulajdonság miatt.</MoodOffsetOptimist.stages.optimist.description>
-  <MoodOffsetPessimist.stages.pessimist.label>pesszimista</MoodOffsetPessimist.stages.pessimist.label>
-  <MoodOffsetPessimist.stages.pessimist.description>Természetes hátrány a pesszimista tulajdonság miatt.</MoodOffsetPessimist.stages.pessimist.description>
+  
+  <!-- EN: depressive -->
   <MoodOffsetDepressive.stages.depressive.label>depresszív</MoodOffsetDepressive.stages.depressive.label>
+  <!-- EN: Natural penalty from 'depressive' trait. -->
   <MoodOffsetDepressive.stages.depressive.description>Természetes hátrány a depresszív tulajdonság miatt.</MoodOffsetDepressive.stages.depressive.description>
+  
+  <!-- EN: optimist -->
+  <MoodOffsetOptimist.stages.optimist.label>optimista</MoodOffsetOptimist.stages.optimist.label>
+  <!-- EN: Natural bonus from 'optimist' trait. -->
+  <MoodOffsetOptimist.stages.optimist.description>Természetes előny a optimista tulajdonság miatt.</MoodOffsetOptimist.stages.optimist.description>
+  
+  <!-- EN: pessimist -->
+  <MoodOffsetPessimist.stages.pessimist.label>pesszimista</MoodOffsetPessimist.stages.pessimist.label>
+  <!-- EN: Natural penalty from 'pessimist' trait. -->
+  <MoodOffsetPessimist.stages.pessimist.description>Természetes hátrány a pesszimista tulajdonság miatt.</MoodOffsetPessimist.stages.pessimist.description>
+  
+  <!-- EN: sanguine -->
+  <MoodOffsetSanguine.stages.sanguine.label>derűlátó</MoodOffsetSanguine.stages.sanguine.label>
+  <!-- EN: Natural bonus from 'sanguine' trait. -->
+  <MoodOffsetSanguine.stages.sanguine.description>Természetes előny a derűlátó tulajdonság miatt.</MoodOffsetSanguine.stages.sanguine.description>
+  
 </LanguageData>

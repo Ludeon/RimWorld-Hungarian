@@ -1,38 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SolarFlare.label>napkitörés</SolarFlare.label>
-  <SolarFlare.description>Napkitörés érte el a bolygót. Ez rendkívüli elektronikus interferenciát okoz, és a legtöbb ilyen eszköz használhatatlanná válik.</SolarFlare.description>
-  <SolarFlare.endMessage>A napkitörésnek vége.</SolarFlare.endMessage>
-  <Eclipse.label>napfogyatkozás</Eclipse.label>
-  <Eclipse.description>Napfogyatkozás miatt árnyék vetül a bolygó felszínére. Sötét lesz még nappal is.</Eclipse.description>
-  <Eclipse.endMessage>A napfogyatkozásnak vége.</Eclipse.endMessage>
-  <PsychicDrone.label>pszichotikus hullámok</PsychicDrone.label>
-  <PsychicDrone.description>Egy távoli, erőteljes mesterséges intelligencia pszichotikus hullámokat bocsájt ki, ami megőrjíti az embereket.</PsychicDrone.description>
-  <PsychicDrone.endMessage>A pszichotikus hullám abbamaradt.</PsychicDrone.endMessage>
-  <PsychicSoothe.label>pszichotikus nyugalom</PsychicSoothe.label>
-  <PsychicSoothe.description>Egy távoli, erőteljes mesterséges intelligencia pszichotikus hullámokat bocsájt ki, ami lecsillapítja az embereket.</PsychicSoothe.description>
-  <PsychicSoothe.endMessage>A pszichotikus hullám abbamaradt.</PsychicSoothe.endMessage>
-  <ToxicFallout.label>mérgező csapadék</ToxicFallout.label>
-  <ToxicFallout.description>Egy távoli forrásból származó mérgező porfelhő száll a régióra, és megmérgezi azokat, akik nincsenek tető alatt.</ToxicFallout.description>
-  <ToxicFallout.endMessage>A mérgező por nagy része kitisztult a levegőből.</ToxicFallout.endMessage>
-  <VolcanicWinter.label>vulkanikus tél</VolcanicWinter.label>
-  <VolcanicWinter.description>Az atmoszféra tele van vulkanikus hamuval, nagyban csökkentve a felszínt elérő fény mennyiségét. A hőmérséklet esni fog, és a növények lassabban nőnek.</VolcanicWinter.description>
-  <VolcanicWinter.endMessage>A hamu nagy része kitisztult a levegőből.</VolcanicWinter.endMessage>
-  <HeatWave.label>hőhullám</HeatWave.label>
-  <HeatWave.description>Rendkívüli hőhullám tikkasztja a környéket.</HeatWave.description>
-  <HeatWave.endMessage>A hőhullámnak vége.</HeatWave.endMessage>
-  <ColdSnap.label>hideghullám</ColdSnap.label>
-  <ColdSnap.description>Szokatlan hideghullám érte el a régiót.</ColdSnap.description>
-  <ColdSnap.endMessage>A hideghullámnak vége.</ColdSnap.endMessage>
-  <Flashstorm.label>ménkűvihar</Flashstorm.label>
-  <Flashstorm.description>Rendkívüli mennyiségű villám csap le egy kis területre.</Flashstorm.description>
-  <Flashstorm.endMessage>A ménkűviharnak vége.</Flashstorm.endMessage>
-  <ClimateCycle.label>klímaciklus</ClimateCycle.label>
-  <ClimateCycle.description>A bolygó elliptikus keringési pályája miatt a klímaciklus több évig tart.</ClimateCycle.description>
-  <Planetkiller.label>bolygógyilkos</Planetkiller.label>
-  <Planetkiller.description>Egy csillagközi bolygógyilkos fegyver közelít. Becsapódáskor minden életet kipusztít.</Planetkiller.description>
+  
+  <!-- EN: aurora -->
   <Aurora.label>sarki fény</Aurora.label>
+  <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
   <Aurora.description>Sarki fény ragyogja be az eget. A hullámzó színáradat mindenki hangulatát javítja, aki látja.</Aurora.description>
+  <!-- EN: The aurora is ending. -->
   <Aurora.endMessage>A sarki fénynek vége.</Aurora.endMessage>
-
-  </LanguageData>
+  
+  <!-- EN: climate cycle -->
+  <ClimateCycle.label>klímaciklus</ClimateCycle.label>
+  <!-- EN: A multi-year climate cycle due to an elliptical orbit. -->
+  <ClimateCycle.description>A bolygó elliptikus keringési pályája miatt a klímaciklus több évig tart.</ClimateCycle.description>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>hideghullám</ColdSnap.label>
+  <!-- EN: An unusual cold snap is freezing the region. -->
+  <ColdSnap.description>Szokatlan hideghullám érte el a régiót.</ColdSnap.description>
+  <!-- EN: The cold snap is over. -->
+  <ColdSnap.endMessage>A hideghullámnak vége.</ColdSnap.endMessage>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>napfogyatkozás</Eclipse.label>
+  <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
+  <Eclipse.description>Napfogyatkozás miatt árnyék vetül a bolygó felszínére. Sötét lesz még nappal is.</Eclipse.description>
+  <!-- EN: The eclipse is ending. -->
+  <Eclipse.endMessage>A napfogyatkozásnak vége.</Eclipse.endMessage>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>ménkűvihar</Flashstorm.label>
+  <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
+  <Flashstorm.description>Rendkívüli mennyiségű villám csap le egy kis területre.</Flashstorm.description>
+  <!-- EN: The flashstorm is over. -->
+  <Flashstorm.endMessage>A ménkűviharnak vége.</Flashstorm.endMessage>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>hőhullám</HeatWave.label>
+  <!-- EN: An extreme wave of heat is baking the area. -->
+  <HeatWave.description>Rendkívüli hőhullám tikkasztja a környéket.</HeatWave.description>
+  <!-- EN: The heat wave is over. -->
+  <HeatWave.endMessage>A hőhullámnak vége.</HeatWave.endMessage>
+  
+  <!-- EN: planetkiller -->
+  <Planetkiller.label>bolygógyilkos</Planetkiller.label>
+  <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
+  <Planetkiller.description>Egy csillagközi bolygógyilkos fegyver közelít. Becsapódáskor minden életet kipusztít.</Planetkiller.description>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>pszichotikus hullámok</PsychicDrone.label>
+  <!-- EN: A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity. -->
+  <PsychicDrone.description>Egy távoli, erőteljes mesterséges intelligencia pszichotikus hullámokat bocsájt ki, ami megőrjíti az embereket.</PsychicDrone.description>
+  <!-- EN: The psychic drone is ending. -->
+  <PsychicDrone.endMessage>A pszichotikus hullám abbamaradt.</PsychicDrone.endMessage>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>pszichotikus nyugalom</PsychicSoothe.label>
+  <!-- EN: A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds. -->
+  <PsychicSoothe.description>Egy távoli, erőteljes mesterséges intelligencia pszichotikus hullámokat bocsájt ki, ami lecsillapítja az embereket.</PsychicSoothe.description>
+  <!-- EN: The psychic soothe is ending. -->
+  <PsychicSoothe.endMessage>A pszichotikus hullám abbamaradt.</PsychicSoothe.endMessage>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>napkitörés</SolarFlare.label>
+  <!-- EN: A solar flare is blasting the planet. The electromagnetic interference prevents most electrical devices from working. -->
+  <SolarFlare.description>Napkitörés érte el a bolygót. Ez rendkívüli elektronikus interferenciát okoz, és a legtöbb ilyen eszköz használhatatlanná válik.</SolarFlare.description>
+  <!-- EN: The solar flare is ending. -->
+  <SolarFlare.endMessage>A napkitörésnek vége.</SolarFlare.endMessage>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>mérgező csapadék</ToxicFallout.label>
+  <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
+  <ToxicFallout.description>Egy távoli forrásból származó mérgező porfelhő száll a régióra, és megmérgezi azokat, akik nincsenek tető alatt.</ToxicFallout.description>
+  <!-- EN: The worst of the toxic fallout has settled. -->
+  <ToxicFallout.endMessage>A mérgező por nagy része kitisztult a levegőből.</ToxicFallout.endMessage>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>vulkanikus tél</VolcanicWinter.label>
+  <!-- EN: A distant volcano has choked the atmosphere with volcanic particles, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
+  <VolcanicWinter.description>Az atmoszféra tele van vulkanikus hamuval, nagyban csökkentve a felszínt elérő fény mennyiségét. A hőmérséklet esni fog, és a növények lassabban nőnek.</VolcanicWinter.description>
+  <!-- EN: Most of the volcanic ash has settled. -->
+  <VolcanicWinter.endMessage>A hamu nagy része kitisztult a levegőből.</VolcanicWinter.endMessage>
+  
+</LanguageData>

@@ -1,8 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DirtPath.label>Ösvény</DirtPath.label>
-  <DirtRoad.label>Földút</DirtRoad.label>
-  <StoneRoad.label>Kövesút</StoneRoad.label>
-  <AncientAsphaltRoad.label>Ősi aszfaltút</AncientAsphaltRoad.label>
+  
+  <!-- EN: ancient asphalt highway -->
   <AncientAsphaltHighway.label>Ősi autópálya</AncientAsphaltHighway.label>
+  
+  <!-- EN: ancient asphalt road -->
+  <AncientAsphaltRoad.label>Ősi aszfaltút</AncientAsphaltRoad.label>
+  
+  <!-- EN: dirt path -->
+  <DirtPath.label>Ösvény</DirtPath.label>
+  
+  <!-- EN: dirt road -->
+  <DirtRoad.label>Földút</DirtRoad.label>
+  
+  <!-- EN: stone road -->
+  <StoneRoad.label>Kövesút</StoneRoad.label>
+  
 </LanguageData>

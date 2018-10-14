@@ -261,6 +261,10 @@
   <FormingCaravanStatus_GatheringSlaves>Rabszolgák összeszedése</FormingCaravanStatus_GatheringSlaves>
   <!-- EN: Gathering slaves (waiting) -->
   <FormingCaravanStatus_GatheringSlaves_Pause>Rabszolgák összeszedése (várakozik)</FormingCaravanStatus_GatheringSlaves_Pause>
+  <!-- EN: Gathering downed people -->
+  <FormingCaravanStatus_GatheringDownedPawns>Sebesültek begyűjtése</FormingCaravanStatus_GatheringDownedPawns>
+  <!-- EN: Gathering downed people (waiting) -->
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Sebesültek begyűjtése (szünetel)</FormingCaravanStatus_GatheringDownedPawns_Pause>
   <!-- EN: Leaving -->
   <FormingCaravanStatus_Leaving>Indulás</FormingCaravanStatus_Leaving>
   <!-- EN: Leaving (waiting) -->
@@ -279,10 +283,7 @@
   <PackAnimalsCountLower>málhások</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
   <InMentalStateCountLower>idegbetegek</InMentalStateCountLower>
-  <FormingCaravanStatus_GatheringDownedPawns>Sebesültek begyűjtése</FormingCaravanStatus_GatheringDownedPawns>
-  <FormingCaravanStatus_GatheringDownedPawns_Pause>Sebesültek begyűjtése (szünetel)</FormingCaravanStatus_GatheringDownedPawns_Pause>
-  
-  
+
   <!-- Transporter contents -->
   <!-- EN: Remove {{0}}x {0} -->
   <RemoveSliderText>Eltávolít: {{0}}x {0}</RemoveSliderText>

@@ -1,17 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
- <NamerScenario.rulePack.rulesStrings>
-	 <li>r_name->[story] [Weapon]</li>
-  <li>r_name->[story] [Animal]</li>
-  <li>r_name->[story] [TerrainFeature]</li>
-  <li>r_name->[story] [PersonJob]</li>
-  <li>r_name->[story] [ConceptAny]</li>
-  <li>r_name->[ConceptAny] [story]</li>
-  <li>r_name->[story] [Community]</li>
-  <li>r_name->[AdjectiveAny] [story]</li>
-  <li>r_name->[story] [Game]</li>
-  <li>r_name->[story] [Color] és [Color]</li>
-  <li>r_name->[Color] [story]</li>
-  <li>r_name->[story] [RomanNumeral]</li>
-   </NamerScenario.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->[story] [Trans] the [Weapon]</li>
+    <li>r_name->[story] [Trans] the [Animal]</li>
+    <li>r_name->[story] [Trans] the [TerrainFeature]</li>
+    <li>r_name->[story] [Trans] [PersonJob]s</li>
+    <li>r_name->[story] [Trans] [ConceptAny]</li>
+    <li>r_name->[ConceptAny] [story]</li>
+    <li>r_name->[story] [Trans] a [Community]</li>
+    <li>r_name->a [AdjectiveAny] [story]</li>
+    <li>r_name->[story] [Trans] the [Game]</li>
+    <li>r_name->[story] in [Color] and [Color]</li>
+    <li>r_name->[Color] [story]</li>
+    <li>r_name->[story] [RomanNumeral]</li>
+  -->
+  <NamerScenario.rulePack.rulesStrings>
+    <li>r_name->[story] [Weapon]</li>
+    <li>r_name->[story] [Animal]</li>
+    <li>r_name->[story] [TerrainFeature]</li>
+    <li>r_name->[story] [PersonJob]</li>
+    <li>r_name->[story] [ConceptAny]</li>
+    <li>r_name->[ConceptAny] [story]</li>
+    <li>r_name->[story] [Community]</li>
+    <li>r_name->[AdjectiveAny] [story]</li>
+    <li>r_name->[story] [Game]</li>
+    <li>r_name->[story] [Color] és [Color]</li>
+    <li>r_name->[Color] [story]</li>
+    <li>r_name->[story] [RomanNumeral]</li>
+  </NamerScenario.rulePack.rulesStrings>
+  
 </LanguageData>

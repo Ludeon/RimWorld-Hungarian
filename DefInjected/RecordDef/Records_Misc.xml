@@ -1,91 +1,219 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Kills.label>Gyilkosság</Kills.label>
-  <Kills.description>Megölt teremtmények száma.</Kills.description>
-  <KillsHumanlikes.label>Gyilkosság (ember)</KillsHumanlikes.label>
-  <KillsHumanlikes.description>Megölt emberek száma.</KillsHumanlikes.description>
-  <KillsAnimals.label>Gyilkosság (állat)</KillsAnimals.label>
-  <KillsAnimals.description>Megölt állatok száma.</KillsAnimals.description>
-  <KillsMechanoids.label>Gyilkosság (mechanoid)</KillsMechanoids.label>
-  <KillsMechanoids.description>Megölt mechanoidok száma.</KillsMechanoids.description>
-  <PawnsDowned.label>Kiütés</PawnsDowned.label>
-  <PawnsDowned.description>Kiütött teremtmények száma.</PawnsDowned.description>
-  <PawnsDownedHumanlikes.label>Kiütés (embert)</PawnsDownedHumanlikes.label>
-  <PawnsDownedHumanlikes.description>Kiütött emberek száma.</PawnsDownedHumanlikes.description>
-  <PawnsDownedAnimals.label>Kiütés (állatot)</PawnsDownedAnimals.label>
-  <PawnsDownedAnimals.description>Kiütött állatok száma.</PawnsDownedAnimals.description>
-  <PawnsDownedMechanoids.label>Kiütés (mechanoidot)</PawnsDownedMechanoids.label>
-  <PawnsDownedMechanoids.description>Kiütött mechanoidok száma.</PawnsDownedMechanoids.description>
-  <ShotsFired.label>Leadott lövés</ShotsFired.label>
-  <ShotsFired.description>Leadott lövések száma.</ShotsFired.description>
-  <Headshots.label>Fejlövés</Headshots.label>
-  <Headshots.description>Fejlövések száma.</Headshots.description>
-  <DamageDealt.label>Okozott sebzés</DamageDealt.label>
-  <DamageDealt.description>Okozott sebzés mennyisége.</DamageDealt.description>
-  <DamageTaken.label>Elszenvedett sebzés</DamageTaken.label>
-  <DamageTaken.description>Elszenvedett sebzés mennyisége.</DamageTaken.description>
-  <TimesInMentalState.label>Idegösszeomlás</TimesInMentalState.label>
-  <TimesInMentalState.description>Átélt idegösszeomlások száma.</TimesInMentalState.description>
-  <TimesOnFire.label>Égés</TimesOnFire.label>
-  <TimesOnFire.description>Megégések száma.</TimesOnFire.description>
-  <FiresExtinguished.label>Kioltott tűz</FiresExtinguished.label>
-  <FiresExtinguished.description>Kioltott tüzek száma.</FiresExtinguished.description>
-  <OperationsReceived.label>Műtét</OperationsReceived.label>
-  <OperationsReceived.description>Az alanyon elvégzett műtétek száma.</OperationsReceived.description>
-  <OperationsPerformed.label>Elvégzett műtét</OperationsPerformed.label>
-  <OperationsPerformed.description>Az alany által elvégzett műtétek száma.</OperationsPerformed.description>
-  <TimesTendedTo.label>Ellátva</TimesTendedTo.label>
-  <TimesTendedTo.description>Kapott betegellátások száma.</TimesTendedTo.description>
-  <TimesTendedOther.label>Mást ellátott</TimesTendedOther.label>
-  <TimesTendedOther.description>Elvégzett betegellátások száma.</TimesTendedOther.description>
-  <PeopleCaptured.label>Elfogott személy</PeopleCaptured.label>
-  <PeopleCaptured.description>Elfogott személyek száma.</PeopleCaptured.description>
-  <PrisonersRecruited.label>Toborzott fogoly</PrisonersRecruited.label>
-  <PrisonersRecruited.description>Sikeresen toborzott foglyok száma.</PrisonersRecruited.description>
-  <PrisonersChatted.label>Beszélgetés fogollyal</PrisonersChatted.label>
-  <PrisonersChatted.description>Foglyokkal való beszélgetések száma.</PrisonersChatted.description>
-  <AnimalsTamed.label>Megszelídített állat</AnimalsTamed.label>
-  <AnimalsTamed.description>Megszelídített állatok száma.</AnimalsTamed.description>
+  
+  <!-- EN: animals slaughtered -->
   <AnimalsSlaughtered.label>Leölt állat</AnimalsSlaughtered.label>
+  <!-- EN: The number of animals I have slaughtered. -->
   <AnimalsSlaughtered.description>Leölt állatok száma.</AnimalsSlaughtered.description>
-  <MealsCooked.label>Elkészített étel</MealsCooked.label>
-  <MealsCooked.description>Elkészített ételek száma.</MealsCooked.description>
-  <ThingsConstructed.label>Megépített tárgy</ThingsConstructed.label>
-  <ThingsConstructed.description>Megépített tárgyak száma.</ThingsConstructed.description>
-  <ThingsInstalled.label>Telepített tárgy</ThingsInstalled.label>
-  <ThingsInstalled.description>Telepített tárgyak száma.</ThingsInstalled.description>
-  <ThingsRepaired.label>Megjavított tárgy</ThingsRepaired.label>
-  <ThingsRepaired.description>Megjavított tárgyak száma.</ThingsRepaired.description>
-  <ThingsCrafted.label>Előállított tárgy</ThingsCrafted.label>
-  <ThingsCrafted.description>Előállított tárgyak száma.</ThingsCrafted.description>
-  <ThingsHauled.label>Szállított tárgy</ThingsHauled.label>
-  <ThingsHauled.description>Szállított tárgyak száma.</ThingsHauled.description>
-  <PlantsSown.label>Elvetett mag</PlantsSown.label>
-  <PlantsSown.description>Elvetett magvak száma.</PlantsSown.description>
-  <PlantsHarvested.label>Learatott termés</PlantsHarvested.label>
-  <PlantsHarvested.description>Learatott termés mennyisége.</PlantsHarvested.description>
-  <CellsMined.label>Kibányászott cella</CellsMined.label>
-  <CellsMined.description>Kibányászott cellák száma.</CellsMined.description>
-  <MessesCleaned.label>Feltakarított szemét</MessesCleaned.label>
-  <MessesCleaned.description>Feltakarított szemét mennyisége.</MessesCleaned.description>
-  <ResearchPointsResearched.label>Elvégzett kutatás (pont)</ResearchPointsResearched.label>
-  <ResearchPointsResearched.description>Elvégzett kutatás után járó pontok száma.</ResearchPointsResearched.description>
-  <CorpsesBuried.label>Eltemetett tetem</CorpsesBuried.label>
-  <CorpsesBuried.description>Eltemetett tetemek száma.</CorpsesBuried.description>
-  <NutritionEaten.label>Elfogyasztott tápanyag</NutritionEaten.label>
-  <NutritionEaten.description>Elfogyasztott tápanyag mennyisége.</NutritionEaten.description>
-  <!-- <TrapsRearmed.label>Újraélesített csapda</TrapsRearmed.label> -->
-  <!-- <TrapsRearmed.description>Újraélesített csapdák száma.</TrapsRearmed.description> -->
-  <BodiesStripped.label>Levetkőztetett személy</BodiesStripped.label>
-  <BodiesStripped.description>Levetkőztetett személyek száma.</BodiesStripped.description>
-  <ThingsUninstalled.label>Leszerelt tárgy</ThingsUninstalled.label>
-  <ThingsUninstalled.description>Leszerelt tárgyak száma.</ThingsUninstalled.description>
-  <ThingsDeconstructed.label>Lebontott tárgy</ThingsDeconstructed.label>
-  <ThingsDeconstructed.description>Lebontott tárgyak száma.</ThingsDeconstructed.description>
+  
+  <!-- EN: animals tamed -->
+  <AnimalsTamed.label>Megszelídített állat</AnimalsTamed.label>
+  <!-- EN: The number of animals I have tamed. -->
+  <AnimalsTamed.description>Megszelídített állatok száma.</AnimalsTamed.description>
+  
+  <!-- EN: artifacts activated -->
   <ArtifactsActivated.label>Aktivált relikvia</ArtifactsActivated.label>
+  <!-- EN: The number of artifacts I have activated. -->
   <ArtifactsActivated.description>Aktivált relikviák száma.</ArtifactsActivated.description>
+  
+  <!-- EN: bodies stripped -->
+  <BodiesStripped.label>Levetkőztetett személy</BodiesStripped.label>
+  <!-- EN: The number of bodies I have stripped. -->
+  <BodiesStripped.description>Levetkőztetett személyek száma.</BodiesStripped.description>
+  
+  <!-- EN: cells mined -->
+  <CellsMined.label>Kibányászott cella</CellsMined.label>
+  <!-- EN: The number of cells I have mined out. -->
+  <CellsMined.description>Kibányászott cellák száma.</CellsMined.description>
+  
+  <!-- EN: containers opened -->
   <ContainersOpened.label>Kinyitott tároló</ContainersOpened.label>
+  <!-- EN: The number of containers I have opened. -->
   <ContainersOpened.description>Kinyitott tárolók száma.</ContainersOpened.description>
+  
+  <!-- EN: corpses buried -->
+  <CorpsesBuried.label>Eltemetett tetem</CorpsesBuried.label>
+  <!-- EN: The number of corpses I have buried. -->
+  <CorpsesBuried.description>Eltemetett tetemek száma.</CorpsesBuried.description>
+  
+  <!-- EN: damage dealt -->
+  <DamageDealt.label>Okozott sebzés</DamageDealt.label>
+  <!-- EN: The amount of damage I have dealt. -->
+  <DamageDealt.description>Okozott sebzés mennyisége.</DamageDealt.description>
+  
+  <!-- EN: damage taken -->
+  <DamageTaken.label>Elszenvedett sebzés</DamageTaken.label>
+  <!-- EN: The amount of damage I have taken. -->
+  <DamageTaken.description>Elszenvedett sebzés mennyisége.</DamageTaken.description>
+  
+  <!-- EN: fires extinguished -->
+  <FiresExtinguished.label>Kioltott tűz</FiresExtinguished.label>
+  <!-- EN: The number of fires I have extinguished. -->
+  <FiresExtinguished.description>Kioltott tüzek száma.</FiresExtinguished.description>
+  
+  <!-- EN: headshots -->
+  <Headshots.label>Fejlövés</Headshots.label>
+  <!-- EN: The number of headshots I have made. -->
+  <Headshots.description>Fejlövések száma.</Headshots.description>
+  
+  <!-- EN: kills -->
+  <Kills.label>Gyilkosság</Kills.label>
+  <!-- EN: The number of creatures I have killed. -->
+  <Kills.description>Megölt teremtmények száma.</Kills.description>
+  
+  <!-- EN: kills (animals) -->
+  <KillsAnimals.label>Gyilkosság (állat)</KillsAnimals.label>
+  <!-- EN: The number of animals I have killed. -->
+  <KillsAnimals.description>Megölt állatok száma.</KillsAnimals.description>
+  
+  <!-- EN: kills (humanlikes) -->
+  <KillsHumanlikes.label>Gyilkosság (ember)</KillsHumanlikes.label>
+  <!-- EN: The number of humanlike characters I have killed. -->
+  <KillsHumanlikes.description>Megölt emberek száma.</KillsHumanlikes.description>
+  
+  <!-- EN: kills (mechanoids) -->
+  <KillsMechanoids.label>Gyilkosság (mechanoid)</KillsMechanoids.label>
+  <!-- EN: The number of mechanoids I have killed. -->
+  <KillsMechanoids.description>Megölt mechanoidok száma.</KillsMechanoids.description>
+  
+  <!-- EN: meals cooked -->
+  <MealsCooked.label>Elkészített étel</MealsCooked.label>
+  <!-- EN: The number of meals I have cooked. -->
+  <MealsCooked.description>Elkészített ételek száma.</MealsCooked.description>
+  
+  <!-- EN: messes cleaned -->
+  <MessesCleaned.label>Feltakarított szemét</MessesCleaned.label>
+  <!-- EN: The number of messes I have cleaned up. -->
+  <MessesCleaned.description>Feltakarított szemét mennyisége.</MessesCleaned.description>
+  
+  <!-- EN: nutrition eaten -->
+  <NutritionEaten.label>Elfogyasztott tápanyag</NutritionEaten.label>
+  <!-- EN: The amount of nutrition I have eaten. -->
+  <NutritionEaten.description>Elfogyasztott tápanyag mennyisége.</NutritionEaten.description>
+  
+  <!-- EN: operations performed -->
+  <OperationsPerformed.label>Elvégzett műtét</OperationsPerformed.label>
+  <!-- EN: How many medical operations I have performed. -->
+  <OperationsPerformed.description>Az alany által elvégzett műtétek száma.</OperationsPerformed.description>
+  
+  <!-- EN: operations received -->
+  <OperationsReceived.label>Műtét</OperationsReceived.label>
+  <!-- EN: How many times I have been medically operated on. -->
+  <OperationsReceived.description>Az alanyon elvégzett műtétek száma.</OperationsReceived.description>
+  
+  <!-- EN: enemies downed -->
+  <PawnsDowned.label>Kiütés</PawnsDowned.label>
+  <!-- EN: The number of creatures I have downed. -->
+  <PawnsDowned.description>Kiütött teremtmények száma.</PawnsDowned.description>
+  
+  <!-- EN: enemies downed (animals) -->
+  <PawnsDownedAnimals.label>Kiütés (állatot)</PawnsDownedAnimals.label>
+  <!-- EN: The number of animals I have downed, whether hunting or in combat. -->
+  <PawnsDownedAnimals.description>Kiütött állatok száma.</PawnsDownedAnimals.description>
+  
+  <!-- EN: enemies downed (humanlikes) -->
+  <PawnsDownedHumanlikes.label>Kiütés (embert)</PawnsDownedHumanlikes.label>
+  <!-- EN: The number of humanlike creatures I have downed. -->
+  <PawnsDownedHumanlikes.description>Kiütött emberek száma.</PawnsDownedHumanlikes.description>
+  
+  <!-- EN: enemies downed (mechanoids) -->
+  <PawnsDownedMechanoids.label>Kiütés (mechanoidot)</PawnsDownedMechanoids.label>
+  <!-- EN: The number of mechanoids I have downed. -->
+  <PawnsDownedMechanoids.description>Kiütött mechanoidok száma.</PawnsDownedMechanoids.description>
+  
+  <!-- EN: people captured -->
+  <PeopleCaptured.label>Elfogott személy</PeopleCaptured.label>
+  <!-- EN: The number of people I have captured. -->
+  <PeopleCaptured.description>Elfogott személyek száma.</PeopleCaptured.description>
+  
+  <!-- EN: plants harvested -->
+  <PlantsHarvested.label>Learatott termés</PlantsHarvested.label>
+  <!-- EN: The number of plants I have harvested. -->
+  <PlantsHarvested.description>Learatott termés mennyisége.</PlantsHarvested.description>
+  
+  <!-- EN: plants sown -->
+  <PlantsSown.label>Elvetett mag</PlantsSown.label>
+  <!-- EN: The number of plants I have sown. -->
+  <PlantsSown.description>Elvetett magvak száma.</PlantsSown.description>
+  
+  <!-- EN: prisoners chatted -->
+  <PrisonersChatted.label>Beszélgetés fogollyal</PrisonersChatted.label>
+  <!-- EN: How many times I have chatted with prisoners. -->
+  <PrisonersChatted.description>Foglyokkal való beszélgetések száma.</PrisonersChatted.description>
+  
+  <!-- EN: prisoners recruited -->
+  <PrisonersRecruited.label>Toborzott fogoly</PrisonersRecruited.label>
+  <!-- EN: The number of prisoners I have recruited. -->
+  <PrisonersRecruited.description>Sikeresen toborzott foglyok száma.</PrisonersRecruited.description>
+  
+  <!-- EN: research points researched -->
+  <ResearchPointsResearched.label>Elvégzett kutatás (pont)</ResearchPointsResearched.label>
+  <!-- EN: The number of research points I have researched. -->
+  <ResearchPointsResearched.description>Elvégzett kutatás után járó pontok száma.</ResearchPointsResearched.description>
+  
+  <!-- EN: shots fired -->
+  <ShotsFired.label>Leadott lövés</ShotsFired.label>
+  <!-- EN: The number of shots I have fired. -->
+  <ShotsFired.description>Leadott lövések száma.</ShotsFired.description>
+  
+  <!-- EN: switches flicked -->
   <SwitchesFlicked.label>Átváltott kapcsoló</SwitchesFlicked.label>
+  <!-- EN: The number of switches I have flicked. -->
   <SwitchesFlicked.description>Átváltott kapcsolók száma.</SwitchesFlicked.description>
+  
+  <!-- EN: things constructed -->
+  <ThingsConstructed.label>Megépített tárgy</ThingsConstructed.label>
+  <!-- EN: The number of things I have constructed. -->
+  <ThingsConstructed.description>Megépített tárgyak száma.</ThingsConstructed.description>
+  
+  <!-- EN: things crafted -->
+  <ThingsCrafted.label>Előállított tárgy</ThingsCrafted.label>
+  <!-- EN: The number of things I have crafted. -->
+  <ThingsCrafted.description>Előállított tárgyak száma.</ThingsCrafted.description>
+  
+  <!-- EN: things deconstructed -->
+  <ThingsDeconstructed.label>Lebontott tárgy</ThingsDeconstructed.label>
+  <!-- EN: The number of things I have deconstructed. -->
+  <ThingsDeconstructed.description>Lebontott tárgyak száma.</ThingsDeconstructed.description>
+  
+  <!-- EN: things hauled -->
+  <ThingsHauled.label>Szállított tárgy</ThingsHauled.label>
+  <!-- EN: The number of things I have hauled. -->
+  <ThingsHauled.description>Szállított tárgyak száma.</ThingsHauled.description>
+  
+  <!-- EN: things installed -->
+  <ThingsInstalled.label>Telepített tárgy</ThingsInstalled.label>
+  <!-- EN: The number of things I have installed. -->
+  <ThingsInstalled.description>Telepített tárgyak száma.</ThingsInstalled.description>
+  
+  <!-- EN: things repaired -->
+  <ThingsRepaired.label>Megjavított tárgy</ThingsRepaired.label>
+  <!-- EN: The number of things I have repaired. -->
+  <ThingsRepaired.description>Megjavított tárgyak száma.</ThingsRepaired.description>
+  
+  <!-- EN: things uninstalled -->
+  <ThingsUninstalled.label>Leszerelt tárgy</ThingsUninstalled.label>
+  <!-- EN: The number of things I have uninstalled. -->
+  <ThingsUninstalled.description>Leszerelt tárgyak száma.</ThingsUninstalled.description>
+  
+  <!-- EN: times in mental state -->
+  <TimesInMentalState.label>Idegösszeomlás</TimesInMentalState.label>
+  <!-- EN: How many times I have suffered a mental break. -->
+  <TimesInMentalState.description>Átélt idegösszeomlások száma.</TimesInMentalState.description>
+  
+  <!-- EN: times on fire -->
+  <TimesOnFire.label>Égés</TimesOnFire.label>
+  <!-- EN: How many times I have been on fire. -->
+  <TimesOnFire.description>Megégések száma.</TimesOnFire.description>
+  
+  <!-- EN: tends given -->
+  <TimesTendedOther.label>Mást ellátott</TimesTendedOther.label>
+  <!-- EN: How many times I have tended to others' medical conditions. -->
+  <TimesTendedOther.description>Elvégzett betegellátások száma.</TimesTendedOther.description>
+  
+  <!-- EN: tends received -->
+  <TimesTendedTo.label>Ellátva</TimesTendedTo.label>
+  <!-- EN: How many times I have had my medical conditions tended. -->
+  <TimesTendedTo.description>Kapott betegellátások száma.</TimesTendedTo.description>
+  
 </LanguageData>

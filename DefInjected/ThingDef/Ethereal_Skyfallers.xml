@@ -1,12 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <DropPodIncoming.label>kapszula (érkező)</DropPodIncoming.label>
-  <!-- <ExplosiveDropPodIncoming.label>kapszula (érkező)</ExplosiveDropPodIncoming.label> -->
-  <DropPodLeaving.label>kapszula (távozó)</DropPodLeaving.label>
-  <ShipChunkIncoming.label>hajó darab (érkező)</ShipChunkIncoming.label>
+  
+  <!-- EN: crashed ship part (incoming) -->
   <CrashedShipPartIncoming.label>hajó darab  (érkező)</CrashedShipPartIncoming.label>
+  
+  <!-- EN: drop pod (incoming) -->
+  <DropPodIncoming.label>kapszula (érkező)</DropPodIncoming.label>
+  
+  <!-- EN: drop pod (leaving) -->
+  <DropPodLeaving.label>kapszula (távozó)</DropPodLeaving.label>
+  
+  <!-- EN: meteorite (incoming) -->
   <MeteoriteIncoming.label>meteorit (érkező)</MeteoriteIncoming.label>
-
-
+  
+  <!-- EN: ship chunk (incoming) -->
+  <ShipChunkIncoming.label>hajó darab (érkező)</ShipChunkIncoming.label>
+  
 </LanguageData>

@@ -1,23 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Heatstroke.label>hőguta</Heatstroke.label>
-  <Heatstroke.stages.initial-0.label>első rejtett eset</Heatstroke.stages.initial-0.label>
-  <Heatstroke.stages.initial-1.label>első eset</Heatstroke.stages.initial-1.label>
-  <Heatstroke.stages.minor.label>enyhe</Heatstroke.stages.minor.label>
-  <Heatstroke.stages.serious.label>erős</Heatstroke.stages.serious.label>
-  <Heatstroke.stages.extreme.label>súlyos</Heatstroke.stages.extreme.label>
-  <Hypothermia.label>kihűlés</Hypothermia.label>
-  <Hypothermia.stages.shivering-0.label>reszketés (rejtett)</Hypothermia.stages.shivering-0.label>
-  <Hypothermia.stages.shivering-1.label>enyhe</Hypothermia.stages.shivering-1.label>
-  <Hypothermia.stages.minor.label>enyhe</Hypothermia.stages.minor.label>
-  <Hypothermia.stages.serious.label>erős</Hypothermia.stages.serious.label>
-  <Hypothermia.stages.extreme.label>súlyos</Hypothermia.stages.extreme.label>
-  <HypothermicSlowdown.label>dermedés</HypothermicSlowdown.label>
-  <HypothermicSlowdown.stages.minor-0.label>enyhe</HypothermicSlowdown.stages.minor-0.label>
-  <HypothermicSlowdown.stages.minor-1.label>enyhe</HypothermicSlowdown.stages.minor-1.label>
-  <HypothermicSlowdown.stages.moderate.label>közepes</HypothermicSlowdown.stages.moderate.label>
-  <HypothermicSlowdown.stages.serious.label>erős</HypothermicSlowdown.stages.serious.label>
-  <HypothermicSlowdown.stages.extreme.label>súlyos</HypothermicSlowdown.stages.extreme.label>
   
+  <!-- EN: heatstroke -->
+  <Heatstroke.label>hőguta</Heatstroke.label>
+  <!-- EN: initial -->
+  <Heatstroke.stages.initial-0.label>első rejtett eset</Heatstroke.stages.initial-0.label>
+  <!-- EN: initial -->
+  <Heatstroke.stages.initial-1.label>első eset</Heatstroke.stages.initial-1.label>
+  <!-- EN: minor -->
+  <Heatstroke.stages.minor.label>enyhe</Heatstroke.stages.minor.label>
+  <!-- EN: serious -->
+  <Heatstroke.stages.serious.label>erős</Heatstroke.stages.serious.label>
+  <!-- EN: extreme -->
+  <Heatstroke.stages.extreme.label>súlyos</Heatstroke.stages.extreme.label>
+  
+  <!-- EN: hypothermia -->
+  <Hypothermia.label>kihűlés</Hypothermia.label>
+  <!-- EN: shivering -->
+  <Hypothermia.stages.shivering-0.label>reszketés (rejtett)</Hypothermia.stages.shivering-0.label>
+  <!-- EN: shivering -->
+  <Hypothermia.stages.shivering-1.label>enyhe</Hypothermia.stages.shivering-1.label>
+  <!-- EN: minor -->
+  <Hypothermia.stages.minor.label>enyhe</Hypothermia.stages.minor.label>
+  <!-- EN: serious -->
+  <Hypothermia.stages.serious.label>erős</Hypothermia.stages.serious.label>
+  <!-- EN: extreme -->
+  <Hypothermia.stages.extreme.label>súlyos</Hypothermia.stages.extreme.label>
+  
+  <!-- EN: hypothermic slowdown -->
+  <HypothermicSlowdown.label>dermedés</HypothermicSlowdown.label>
+  <!-- EN: minor -->
+  <HypothermicSlowdown.stages.minor-0.label>enyhe</HypothermicSlowdown.stages.minor-0.label>
+  <!-- EN: minor -->
+  <HypothermicSlowdown.stages.minor-1.label>enyhe</HypothermicSlowdown.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <HypothermicSlowdown.stages.moderate.label>közepes</HypothermicSlowdown.stages.moderate.label>
+  <!-- EN: serious -->
+  <HypothermicSlowdown.stages.serious.label>erős</HypothermicSlowdown.stages.serious.label>
+  <!-- EN: extreme -->
+  <HypothermicSlowdown.stages.extreme.label>súlyos</HypothermicSlowdown.stages.extreme.label>
   
 </LanguageData>

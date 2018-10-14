@@ -1,11 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <TradeGoodsMustBeNearBeacon.label>Jeladó és áruk</TradeGoodsMustBeNearBeacon.label>
-  <TradeGoodsMustBeNearBeacon.helpText>Ahhoz, hogy tárgyakat, vagy ezüstöt küldj a bolygó körüli kereskedőknek, építened kell egy "orbitális jeladó"-t és tárgyakat kell tárolnod mellette.</TradeGoodsMustBeNearBeacon.helpText>
+  
+  <!-- EN: Arresting worsens faction relations -->
   <ArrestingCreatesEnemies.label>Letartóztatás ellenséget szül</ArrestingCreatesEnemies.label>
+  <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist, their entire faction will become your enemy. -->
   <ArrestingCreatesEnemies.helpText>Figyelmeztetés: ha letartóztatsz valakit, akkor az egész frakció az ellenséged lesz.\n\nNe tartóztasd le az illetőt, ha barátja akarsz maradni a frakciójának!</ArrestingCreatesEnemies.helpText>
-  <SwitchFlickingDesignation.label>Csak kijelöli a kapcsolót</SwitchFlickingDesignation.label>
-  <SwitchFlickingDesignation.helpText>Megjegyzés: ez csak annyit tesz, hogy kijelöli a kapcsolót váltásra.\n\nSemmi nem fog történni addig, amíg egy (az átkapcsolás munkára beosztott) gyarmatos nem jön erre és váltja át kézzel a kapcsolót.</SwitchFlickingDesignation.helpText>
+  
+  <!-- EN: Maximum number of player colonies -->
   <MaxNumberOfPlayerSettlements.label>Játékos által létrehozott kolóniák max. száma</MaxNumberOfPlayerSettlements.label>
+  <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Though it is possible to have more colonies, this will probably cause performance slowdowns and gameplay imbalances. We recommend that, at least at first, you play the game with a one colony maximum. -->
   <MaxNumberOfPlayerSettlements.helpText>Figyelmeztetés: a RimWorld egyetlen játékos által irányított kolóniára lett tervezve. Lehet több kolóniád, de ez valószínűleg lassulásokat fog eredményezni. Javasoljuk, hogy ne állítsd ezt egynél nagyobbra, első próbálkozásnál semmiképp.</MaxNumberOfPlayerSettlements.helpText>
+  
+  <!-- EN: Flick designations only designate -->
+  <SwitchFlickingDesignation.label>Csak kijelöli a kapcsolót</SwitchFlickingDesignation.label>
+  <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist (with the Flicker work type) comes and flicks the switch by hand. -->
+  <SwitchFlickingDesignation.helpText>Megjegyzés: ez csak annyit tesz, hogy kijelöli a kapcsolót váltásra.\n\nSemmi nem fog történni addig, amíg egy (az átkapcsolás munkára beosztott) gyarmatos nem jön erre és váltja át kézzel a kapcsolót.</SwitchFlickingDesignation.helpText>
+  
+  <!-- EN: Trade goods and trade beacons -->
+  <TradeGoodsMustBeNearBeacon.label>Jeladó és áruk</TradeGoodsMustBeNearBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <TradeGoodsMustBeNearBeacon.helpText>Ahhoz, hogy tárgyakat, vagy ezüstöt küldj a bolygó körüli kereskedőknek, építened kell egy "orbitális jeladó"-t és tárgyakat kell tárolnod mellette.</TradeGoodsMustBeNearBeacon.helpText>
+  
 </LanguageData>

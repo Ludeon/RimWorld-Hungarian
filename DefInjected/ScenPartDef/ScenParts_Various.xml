@@ -1,29 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GameStartDialog.label>Kezdő szöveg</GameStartDialog.label>
-  <PawnFilter_Age.label>Korhatár</PawnFilter_Age.label>
-  <OnPawnDeathExplode.label>Halálkor robbanó karakterek</OnPawnDeathExplode.label>
-  <ForcedTrait.label>Kénysz. tulajdonság</ForcedTrait.label>
-  <ForcedHediff.label>Kénysz. egészségi állapot</ForcedHediff.label>
-  <Naked.label>Meztelenül</Naked.label>
-  <SetNeedLevel.label>Szükségszint beállítása</SetNeedLevel.label>
-  <StartingResearch.label>Kezdeti kutatási szint</StartingResearch.label>
-  <GameCondition_Planetkiller.label>Bolygógyilkos ütközőpályán</GameCondition_Planetkiller.label>
-  <Rule_DisallowDesignator_ZoneAdd_Growing.label>Nincs vetés</Rule_DisallowDesignator_ZoneAdd_Growing.label>
-  <Rule_DisallowDesignator_ZoneAdd_Growing.description>Nem lehet magokat vetni a földbe.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
-  <Rule_DisallowDesignator_Mine.label>Nincs bányászat</Rule_DisallowDesignator_Mine.label>
-  <Rule_DisallowDesignator_Mine.description>Nem lehet bányászni.</Rule_DisallowDesignator_Mine.description>
-  <Rule_DisallowDesignator_Hunt.label>Nincs vadászat</Rule_DisallowDesignator_Hunt.label>
-  <Rule_DisallowDesignator_Hunt.description>Nem lehet vadászni.</Rule_DisallowDesignator_Hunt.description>
-  <Rule_DisallowDesignator_Tame.label>Nincs szelídítés</Rule_DisallowDesignator_Tame.label>
-  <Rule_DisallowDesignator_Tame.description>Nem lehet állatokat szelídíteni.</Rule_DisallowDesignator_Tame.description>
-  <StatFactor.label>Stat szorzó</StatFactor.label>
-  <DisableIncident.label>Nincs incidens</DisableIncident.label>
+  
+  <!-- EN: create incident -->
   <CreateIncident.label>Incidens</CreateIncident.label>
-  <Rule_DisallowBuilding.label>Nincs építés</Rule_DisallowBuilding.label>
+  
+  <!-- EN: disable incident -->
+  <DisableIncident.label>Nincs incidens</DisableIncident.label>
+  
+  <!-- EN: forced health condition -->
+  <ForcedHediff.label>Kénysz. egészségi állapot</ForcedHediff.label>
+  
+  <!-- EN: forced trait -->
+  <ForcedTrait.label>Kénysz. tulajdonság</ForcedTrait.label>
+  
+  <!-- EN: planetkiller weapon incoming -->
+  <GameCondition_Planetkiller.label>Bolygógyilkos ütközőpályán</GameCondition_Planetkiller.label>
+  
+  <!-- EN: game start dialog -->
+  <GameStartDialog.label>Kezdő szöveg</GameStartDialog.label>
+  
+  <!-- EN: naked -->
+  <Naked.label>Meztelenül</Naked.label>
+  
+  <!-- EN: characters explode on death -->
+  <OnPawnDeathExplode.label>Halálkor robbanó karakterek</OnPawnDeathExplode.label>
+  
+  <!-- EN: allowed age range -->
+  <PawnFilter_Age.label>Korhatár</PawnFilter_Age.label>
+  
+  <!-- EN: permanent game condition -->
   <PermanentGameCondition.label>Állandó hatás</PermanentGameCondition.label>
-  <StartingAnimal.label>Birtokolt állat</StartingAnimal.label>
-  <StartingThing_Defined.label>Kezdőkészlet</StartingThing_Defined.label>
-  <ScatterThingsNearPlayerStart.label>A közelben legyen</ScatterThingsNearPlayerStart.label>
+  
+  <!-- EN: disallow building -->
+  <Rule_DisallowBuilding.label>Nincs építés</Rule_DisallowBuilding.label>
+  
+  <!-- EN: cannot hunt -->
+  <Rule_DisallowDesignator_Hunt.label>Nincs vadászat</Rule_DisallowDesignator_Hunt.label>
+  <!-- EN: Cannot hunt. -->
+  <Rule_DisallowDesignator_Hunt.description>Nem lehet vadászni.</Rule_DisallowDesignator_Hunt.description>
+  
+  <!-- EN: cannot mine -->
+  <Rule_DisallowDesignator_Mine.label>Nincs bányászat</Rule_DisallowDesignator_Mine.label>
+  <!-- EN: Cannot mine. -->
+  <Rule_DisallowDesignator_Mine.description>Nem lehet bányászni.</Rule_DisallowDesignator_Mine.description>
+  
+  <!-- EN: cannot tame -->
+  <Rule_DisallowDesignator_Tame.label>Nincs szelídítés</Rule_DisallowDesignator_Tame.label>
+  <!-- EN: Cannot tame animals. -->
+  <Rule_DisallowDesignator_Tame.description>Nem lehet állatokat szelídíteni.</Rule_DisallowDesignator_Tame.description>
+  
+  <!-- EN: cannot sow -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>Nincs vetés</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <!-- EN: Cannot sow plants on the ground. -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>Nem lehet magokat vetni a földbe.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  
+  <!-- EN: scattered randomly -->
   <ScatterThingsAnywhere.label>Készletek elszórva</ScatterThingsAnywhere.label>
+  
+  <!-- EN: start near -->
+  <ScatterThingsNearPlayerStart.label>A közelben legyen</ScatterThingsNearPlayerStart.label>
+  
+  <!-- EN: set need level -->
+  <SetNeedLevel.label>Szükségszint beállítása</SetNeedLevel.label>
+  
+  <!-- EN: start with animal(s) -->
+  <StartingAnimal.label>Birtokolt állat</StartingAnimal.label>
+  
+  <!-- EN: start with research -->
+  <StartingResearch.label>Kezdeti kutatási szint</StartingResearch.label>
+  
+  <!-- EN: start with -->
+  <StartingThing_Defined.label>Kezdőkészlet</StartingThing_Defined.label>
+  
+  <!-- EN: stat multiplier -->
+  <StatFactor.label>Stat szorzó</StatFactor.label>
+  
 </LanguageData>

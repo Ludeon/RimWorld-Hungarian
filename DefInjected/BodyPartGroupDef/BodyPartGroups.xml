@@ -1,48 +1,111 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Torso.label>törzs</Torso.label>
-  <UpperHead.label>fejtető</UpperHead.label>
-  <FullHead.label>egész fej</FullHead.label>
-  <Eyes.label>szemek</Eyes.label>
-  <Teeth.label>fogak</Teeth.label>
-  <Mouth.label>száj</Mouth.label>
-  <Neck.label>nyak</Neck.label>
+  
+  <!-- EN: arms -->
   <Arms.label>karok</Arms.label>
-  <Shoulders.label>vállak</Shoulders.label>
-  <Hands.label>kezek</Hands.label>
   
-  <LeftHand.label>bal ököl</LeftHand.label>
-  <LeftHand.labelShort>ököl</LeftHand.labelShort>
-  <RightHand.label>jobb ököl</RightHand.label>
-  <RightHand.labelShort>ököl</RightHand.labelShort>
+  <!-- EN: beak -->
+  <Beak.label>csőr</Beak.label>
   
-  <Waist.label>derék</Waist.label>
-  <Legs.label>lábak</Legs.label>
+  <!-- EN: eyes -->
+  <Eyes.label>szemek</Eyes.label>
+  
+  <!-- EN: feet -->
   <Feet.label>lábfejek</Feet.label>
   
+  <!-- EN: front left claws -->
+  <FrontLeftClaws.label>mellső bal karmok</FrontLeftClaws.label>
+  <!-- EN: claws -->
+  <FrontLeftClaws.labelShort>karmok</FrontLeftClaws.labelShort>
+  
+  <!-- EN: front left leg -->
+  <FrontLeftLeg.label>mellső bal láb</FrontLeftLeg.label>
+  <!-- EN: leg -->
+  <FrontLeftLeg.labelShort>láb</FrontLeftLeg.labelShort>
+  
+  <!-- EN: front left paw -->
   <FrontLeftPaw.label>mellső bal mancs</FrontLeftPaw.label>
+  <!-- EN: paw -->
   <FrontLeftPaw.labelShort>mancs</FrontLeftPaw.labelShort>
-
+  
+  <!-- EN: front right claws -->
+  <FrontRightClaws.label>mellső jobb karmok</FrontRightClaws.label>
+  <!-- EN: claws -->
+  <FrontRightClaws.labelShort>karmok</FrontRightClaws.labelShort>
+  
+  <!-- EN: front right leg -->
+  <FrontRightLeg.label>mellső jobb láb</FrontRightLeg.label>
+  <!-- EN: leg -->
+  <FrontRightLeg.labelShort>láb</FrontRightLeg.labelShort>
+  
+  <!-- EN: front right paw -->
   <FrontRightPaw.label>mellső jobb mancs</FrontRightPaw.label>
+  <!-- EN: paw -->
   <FrontRightPaw.labelShort>mancs</FrontRightPaw.labelShort>
   
+  <!-- EN: full head -->
+  <FullHead.label>egész fej</FullHead.label>
+  
+  <!-- EN: hands -->
+  <Hands.label>kezek</Hands.label>
+  
+  <!-- EN: head -->
   <HeadAttackTool.label>fej</HeadAttackTool.label>
   
-  <FrontLeftLeg.label>mellső bal láb</FrontLeftLeg.label>
-  <FrontLeftLeg.labelShort>láb</FrontLeftLeg.labelShort>
-  <FrontRightLeg.label>mellső jobb láb</FrontRightLeg.label>
-  <FrontRightLeg.labelShort>láb</FrontRightLeg.labelShort>
-  <FrontLeftClaws.label>mellső bal karmok</FrontLeftClaws.label>
-  <FrontLeftClaws.labelShort>karmok</FrontLeftClaws.labelShort>
-  <FrontRightClaws.label>mellső jobb karmok</FrontRightClaws.label>
-  <FrontRightClaws.labelShort>karmok</FrontRightClaws.labelShort>
-  <LeftBlade.label>bal penge</LeftBlade.label>
-  <LeftBlade.labelShort>penge</LeftBlade.labelShort>
-  <RightBlade.label>jobb penge</RightBlade.label>
-  <RightBlade.labelShort>penge</RightBlade.labelShort>
-  <TuskAttackTool.label>agyar</TuskAttackTool.label>
-  <HornAttackTool.label>szarv</HornAttackTool.label>
+  <!-- EN: claw -->
   <HeadClaw.label>fejkarom</HeadClaw.label>
+  
+  <!-- EN: horn -->
+  <HornAttackTool.label>szarv</HornAttackTool.label>
+  
+  <!-- EN: left blade -->
+  <LeftBlade.label>bal penge</LeftBlade.label>
+  <!-- EN: blade -->
+  <LeftBlade.labelShort>penge</LeftBlade.labelShort>
+  
+  <!-- EN: left fist -->
+  <LeftHand.label>bal ököl</LeftHand.label>
+  <!-- EN: fist -->
+  <LeftHand.labelShort>ököl</LeftHand.labelShort>
+  
+  <!-- EN: legs -->
+  <Legs.label>lábak</Legs.label>
+  
+  <!-- EN: mouth -->
+  <Mouth.label>száj</Mouth.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>nyak</Neck.label>
+  
+  <!-- EN: right blade -->
+  <RightBlade.label>jobb penge</RightBlade.label>
+  <!-- EN: blade -->
+  <RightBlade.labelShort>penge</RightBlade.labelShort>
+  
+  <!-- EN: right fist -->
+  <RightHand.label>jobb ököl</RightHand.label>
+  <!-- EN: fist -->
+  <RightHand.labelShort>ököl</RightHand.labelShort>
+  
+  <!-- EN: shoulders -->
+  <Shoulders.label>vállak</Shoulders.label>
+  
+  <!-- EN: teeth -->
+  <Teeth.label>fogak</Teeth.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>törzs</Torso.label>
+  
+  <!-- EN: beak -->
   <TurtleBeakAttackTool.label>csőr</TurtleBeakAttackTool.label>
-  <Beak.label>csőr</Beak.label>
+  
+  <!-- EN: tusks -->
+  <TuskAttackTool.label>agyar</TuskAttackTool.label>
+  
+  <!-- EN: upper head -->
+  <UpperHead.label>fejtető</UpperHead.label>
+  
+  <!-- EN: waist -->
+  <Waist.label>derék</Waist.label>
+  
 </LanguageData>

@@ -1,13 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
+  <!-- EN: boreal forest -->
   <BorealForest.label>Sarkvidéki erdő</BorealForest.label>
+  <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
   <BorealForest.description>Sarkvidéki tűlevelű erdő. A kemény telek ellenére, a sarkvidéki erdők élővilága változatos, kis és nagy állatok egyaránt megtalálhatók itt.</BorealForest.description>
-  <Tundra.label>Tundra</Tundra.label>
-  <Tundra.description>Ezen a többnyire befagyott síkságon alig van fa és kevés a növényzet. Van elszórtan néhány kis állatka, néhány vándorló nagy testű társsal, valamint az őket vadászó ragadozókkal.</Tundra.description>
+  
+  <!-- EN: cold bog -->
   <ColdBog.label>Hideg láp</ColdBog.label>
+  <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
   <ColdBog.description>Mocsaras terület kevés állattal, ám gazdag növényzettel. Sokkal több az aljnövényzet és kevesebb a fa, mint a tipikus lápvidéken. A talaj nagy része nem képes nehezebb építményeket megtartani, ez nehézzé teszi a túlélést.</ColdBog.description>
+  
+  <!-- EN: ice sheet -->
   <IceSheet.label>Jégmező</IceSheet.label>
+  <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
   <IceSheet.description>A felszínt jégréteg alkotja, ami több kilométer vastag is lehet. Se föld, se szikla, se növények. Az a pár élőlény, amivel találkozhatsz, valószínűleg éppen tovább vándorol - vagy rendkívül eltévedt.</IceSheet.description>
+  
+  <!-- EN: sea ice -->
   <SeaIce.label>Tengeri jég</SeaIce.label>
+  <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
   <SeaIce.description>Vízen lebegő állandó jégtakaró. Itt nincs talaj, növényzet, bányászható érc. Állat is nagyon kevés. Az utazás nagyon lassú a mély hó és hasadékok miatt.</SeaIce.description>
+  
+  <!-- EN: tundra -->
+  <Tundra.label>Tundra</Tundra.label>
+  <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
+  <Tundra.description>Ezen a többnyire befagyott síkságon alig van fa és kevés a növényzet. Van elszórtan néhány kis állatka, néhány vándorló nagy testű társsal, valamint az őket vadászó ragadozókkal.</Tundra.description>
+  
 </LanguageData>

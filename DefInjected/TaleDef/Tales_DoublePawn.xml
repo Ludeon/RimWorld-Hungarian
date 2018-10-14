@@ -1,238 +1,505 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
+  <!-- EN: person captured -->
   <Captured.label>elfogott személy</Captured.label>
-	<Captured.rulePack.rulesStrings>
-		<li>tale_noun->[prisoner_nameDef] elfogása</li>
-		<li>image->Ahogy [capturer_nameFull] elfogja őt: [prisoner_nameFull], [circumstance_group]</li>
-		<li>image->Ahogy [capturer_nameFull] megkötözi [prisoner_nameFull] kezét, [circumstance_group]</li>
-		<li>image->Ahogy [capturer_nameFull] [prisoner_nameFull] elfogása közben megveri őt, [circumstance_group]</li>
-		<li>circumstance_phrase->miközben az a földön vonaglik</li>
-		<li>circumstance_phrase->miközben az a fájdalomtól vonaglik</li>
-		<li>circumstance_phrase->szenvedélyes hatékonysággal</li>
-		<li>circumstance_phrase->igen amatőr mozdulatokat alkalmazva</li>
-		<li>circumstance_phrase->közben szükségtelen erőszakot alkalmazva</li>
-		<li>circumstance_phrase->arcán nyilvánvaló örömmel</li>
-		<li>circumstance_phrase->dominánsan nevetve</li>
-		<li>desc_sentence->[CAPTURER_nameDef] dominánsan [prisoner_nameDef] szemébe néz.</li>
-		<li>desc_sentence->[prisoner_nameDef] megsérült és fájdalmai vannak.</li>
-		<li>desc_sentence->[prisoner_nameDef] rezignáltan veszi tudomásul sorsát.</li>
-		<li>desc_sentence->[prisoner_nameDef] dühösen vicsorog a vereségtől.</li>
-		<li>desc_sentence->[CAPTURER_nameDef] megpofozza [prisoner_nameDef] arcát, hogy engedelmességre tanítsa.</li>
-		<li>desc_sentence->[CAPTURER_nameDef] megcsavarja [prisoner_nameDef] fülét.</li>
-		<li>desc_sentence->[CAPTURER_nameDef] fojtja [prisoner_nameDef] nyakát.</li>
-		<li>desc_sentence->[CAPTURER_nameDef] beleköp [prisoner_nameDef] arcába.</li>
-		<li>desc_sentence->[CAPTURER_nameDef] nevet, ahogy [prisoner_nameDef] szemei megtelnek könnyel.</li>
-		<li>desc_sentence->[CAPTURER_nameDef] minden ok nélkül belerúg [prisoner_nameDef] hasába.</li>
-	</Captured.rulePack.rulesStrings>
-  <Recruited.label>sikeres toborzás</Recruited.label>
-	<Recruited.rulePack.rulesStrings>
-		<li>tale_noun->[joiner_nameDef] toborzása</li>
-		<li>image->Ahogy [recruiter_nameFull] [circumstance_group] toborozza őt: [joiner_nameFull]</li>
-		<li>image->Ahogy [recruiter_nameFull] [circumstance_group] üdvözli őt: [joiner_nameFull], mint a kolónia legújabb tagját </li>
-		<li>image->Ahogy [recruiter_nameFull] [circumstance_group] [joiner_nameFull] lelkére beszél</li>
-		<li>circumstance_phrase->nyilvánvaló jó szándékkal</li>
-		<li>circumstance_phrase->szívből jövő kézfogással</li>
-		<li>circumstance_phrase->mosolyogva</li>
-		<li>circumstance_phrase->az egész kolónia előtt</li>
-		<li>circumstance_phrase->egy cellában ülve</li>
-		<li>desc_sentence->[joiner_nameDef] egyetértően bólint.</li>
-		<li>desc_sentence->[joiner_nameDef] mosolyog és a szemébe néz.</li>
-		<li>desc_sentence->[joiner_nameDef] láthatóan meg van könnyebbülve.</li>
-		<li>desc_sentence->[joiner_nameDef] láthatóan reménnyel teli.</li>
-	</Recruited.rulePack.rulesStrings>
-  <Hunted.label>vadászat</Hunted.label>
-	<Hunted.rulePack.rulesStrings>
-		<li>tale_noun->[hunter_nameDef] sikeres vadászata</li>
-		<li>image->Ahogy [hunter_nameFull] cserkészi őt: [prey_nameFull], [circumstance_group]</li>
-		<li>image->Ahogy [hunter_nameFull] megközelíti őt: [prey_nameFull], [circumstance_group]</li>
-		<li>image->Ahogy [hunter_nameFull] vadássza őt: [prey_nameFull], [circumstance_group]</li>
-		<li>circumstance_phrase->miközben [prey_nameDef] pihen</li>
-		<li>circumstance_phrase->miközben [prey_nameDef] vonul</li>
-		<li>circumstance_phrase->miközben [prey_nameDef] eszik</li>
-		<li>desc_sentence->[prey_nameDef] nem veszi észre.</li>
-		<li>desc_sentence->[hunter_nameDef] szorosan fogja fegyverét.</li>
-		<li>desc_sentence->[prey_nameDef] idegesen néz körbe, rossz élőérzete van.</li>
-	</Hunted.rulePack.rulesStrings>
-  <DidSurgery.label>sikeres műtét</DidSurgery.label>
-	<DidSurgery.rulePack.rulesStrings>
-		<li>tale_noun->[patient_nameDef] műtéte</li>
-		<li>image->Ahogy [surgeon_nameFull] elaltatja őt: [patient_nameFull], [circumstance_group]</li>
-		<li>image->Ahogy [surgeon_nameFull] könyékig nyúlkál [patient_nameFull] hasában, [circumstance_group]</li>
-		<li>image->Ahogy [surgeon_nameFull] belevág [patient_nameFull] testébe, [circumstance_group]</li>
-		<li>circumstance_phrase->miközben az ijedten reszket</li>
-		<li>circumstance_phrase->miközben egy vértócsában áll</li>
-		<li>circumstance_phrase->félelmetes orvosi eszközök között állva</li>
-		<li>circumstance_phrase->rögtönzött ám hatékony műszereket használva</li>
-		<li>desc_sentence->[surgeon_nameDef] erősen izzad.</li>
-		<li>desc_sentence->[surgeon_nameDef] láthatóan nagyon koncentrál a munkájára.</li>
-		<li>desc_sentence->[surgeon_nameDef] arcára vér tapad.</li>
-		<li>desc_sentence->[patient_nameDef] rázkódik és vonaglik.</li>
-	</DidSurgery.rulePack.rulesStrings>
-  <ExecutedPrisoner.label>kivégzett fogoly</ExecutedPrisoner.label>
-	<ExecutedPrisoner.rulePack.rulesStrings>
-		<li>tale_noun->[prisoner_nameDef] kivégzése</li>
-		<li>image->Ahogy [warden_nameFull] kivégzi őt [prisoner_nameFull], [circumstance_group]</li>
-		<li>image->Ahogy [warden_nameFull] megöli őt [prisoner_nameFull], [circumstance_group]</li>
-		<li>image->Ahogy [warden_nameFull] [prisoner_nameFull] kivégzésére készül, [circumstance_group]</li>
-		<li>image->Ahogy [warden_nameFull] belép [prisoner_nameFull] cellájába, hogy kivégezze, [circumstance_group]</li>
-		<li>circumstance_phrase->miközben az a padlón vonaglik</li>
-		<li>circumstance_phrase->miközben az fájdalmasan vonaglik</li>
-		<li>circumstance_phrase->miközben az félelmében sír</li>
-		<li>circumstance_phrase->nagyon profin végrehajtva</li>
-		<li>circumstance_phrase->amatőr módon végrehajtva</li>
-		<li>circumstance_phrase->túlzott erőszakot alkalmazva</li>
-		<li>circumstance_phrase->arcán nyilvánvaló örömmel</li>
-		<li>circumstance_phrase->dominánsan nevetve</li>
-		<li>circumstance_phrase->könnyel teli szemekkel</li>
-		<li>circumstance_phrase->minden érzelem nélkül</li>
-		<li>circumstance_phrase->szükségtelen fájdalmat okozva</li>
-		<li>circumstance_phrase->közben másra gondolva</li>
-		<li>circumstance_phrase->a közjó érdekében</li>
-		<li>desc_sentence->[warden_nameDef] erősen izzad.</li>
-		<li>desc_sentence->[warden_nameDef] kissé szipog.</li>
-		<li>desc_sentence->[warden_nameDef] arcára vér fröccsen.</li>
-		<li>desc_sentence->[prisoner_nameDef] rázkódik és vonaglik.</li>
-		<li>desc_sentence->[prisoner_nameDef] láthatólag feladta.</li>
-		<li>desc_sentence->[prisoner_nameDef] becsukta szemeit, láthatólag az égiekhez fohászkodva.</li>
-		<li>desc_sentence->[prisoner_nameDef] dacosnak mutatja magát.</li>
-	</ExecutedPrisoner.rulePack.rulesStrings>
-  <KidnappedColonist.label>elrabolva</KidnappedColonist.label>
-	<KidnappedColonist.rulePack.rulesStrings>
-		<li>tale_noun->[victim_nameDef] elrablása</li>
-		<li>image->Ahogy [kidnapper_nameFull] ([kidnapper_factionName]), elviszi őt: [victim_nameFull], [circumstance_group]</li>
-		<li>image->Ahogy [kidnapper_nameFull] ([kidnapper_factionName]), elrabolja őt: [victim_nameFull], [circumstance_group]</li>
-		<li>image->Ahogy [kidnapper_nameFull] elrabolja őt: [victim_nameFull], [circumstance_group]</li>
-		<li>circumstance_phrase->miközben az fájdalmasan vonaglik</li>
-		<li>circumstance_phrase->nagyon profi módon végrehajtva</li>
-		<li>circumstance_phrase->nagyon amatőr módon végrehajtva</li>
-		<li>circumstance_phrase->túlzott erőszakot alkalmazva</li>
-		<li>circumstance_phrase->arcán nyilvánvaló örömmel</li>
-		<li>circumstance_phrase->dominánsan nevetve</li>
-		<li>circumstance_phrase->beborítva mocsokkal és vérrel</li>
-		<li>desc_sentence->[victim_nameDef] láthatólag belenyugodott.</li>
-		<li>desc_sentence->[victim_nameDef] becsukta szemeit, láthatólag az égiekhez fohászkodva.</li>
-		<li>desc_sentence->[victim_nameDef] dacosnak mutatja magát.</li>
-		<li>desc_sentence->[victim_nameDef] dühében és félelmében sír.</li>
-		<li>desc_sentence->[victim_nameDef] megtörtnek és kimerültnek látszik.</li>
-		<li>desc_sentence->[victim_nameDef] súlyosan sérültnek tűnik.</li>
-	</KidnappedColonist.rulePack.rulesStrings>
-  <TamedAnimal.label>szelídített állat</TamedAnimal.label>
-	<TamedAnimal.rulePack.rulesStrings>
-		<li>tale_noun->Ahogy [human_nameDef] megszelídítette őt: [animal_nameDef]</li>
-		<li>image->Ahogy [human_nameFull] szelídíti őt: [animal_nameFull], [circumstance_group]</li>
-		<li>image->Ahogy [human_nameFull] jutalomfalatot ad [animal_nameFull] szájába, [circumstance_group]</li>
-		<li>image->Ahogy [human_nameFull] suttog a félénk [animal_nameFull] fülébe, [circumstance_group]</li>
-		<li>image->Ahogy [human_nameFull] lenyugtatja őt: [animal_nameFull], [circumstance_group]</li>
-		<li>circumstance_phrase->nagyon óvatosan</li>
-		<li>circumstance_phrase->mosolyogva</li>
-		<li>circumstance_phrase->kimerülve, de boldogan</li>
-		<li>desc_sentence->[animal_nameDef] agresszíven vicsorog.</li>
-		<li>desc_sentence->[animal_nameDef] álmosnak és szeretet-ittasnak tűnik.</li>
-		<li>desc_sentence->[animal_nameDef] mintha hipnózis hatása alatt lenne.</li>
-		<li>desc_sentence->[animal_nameDef] ijedtnek ám érdeklődőnek tűnik.</li>
-		<li>desc_sentence->[animal_nameDef] el van kápráztatva.</li>
-		<li>desc_sentence->[human_nameDef] erős szeretet érzését sugározza [animal_nameDef] felé.</li>
-	</TamedAnimal.rulePack.rulesStrings>
-  <KilledBy.label>halál</KilledBy.label>
-	<KilledBy.rulePack.rulesStrings>
-		<li>tale_noun->[killer_nameDef] megöli öt: [victim_nameDef]</li>
-		<li>tale_noun->[victim_nameDef] gyilkossága [killer_nameDef] által</li>
-		<li>tale_noun->[victim_nameDef] [killer_nameDef] által okozott halála</li>
-		<li>tale_noun->[victim_nameDef] halála</li>
-		<li>image->[killer_nameFull] meggyilkolja őt: [victim_nameFull], [circumstance_group]</li>
-		<li>image->[killer_nameFull] végez vele: [victim_nameFull], [circumstance_group]</li>
-		<li>image->[killer_nameFull] brutálisan megöli őt: [victim_nameFull], [circumstance_group]</li>
-		<li>image->[victim_nameFull]-t megölik, [circumstance_group]</li>
-		<li>image->[victim_nameFull]-t meggyilkolják, [circumstance_group]</li>
-		<li>circumstance_phrase->látszólag bűntudat nélkül</li>
-		<li>circumstance_phrase->hideg hatékonysággal</li>
-		<li>circumstance_phrase->hirtelen felindulással</li>
-		<li>circumstance_phrase->gyors, hatékony mozdulatokkal</li>
-		<li>circumstance_phrase->érzelemmentesen</li>
-		<li>circumstance_phrase->egyszerűen szükségből</li>
-		<li>circumstance_phrase->gyáva módon</li>
-		<li>desc_sentence->A nap lenyugszik az esemény szimbolikus visszhangjaként.</li>
-		<li>desc_sentence->[Quantity_adjphrase] [Animal] nézi az esetet.</li>
-		<li>desc_sentence->Egy [PersonJob] [side_position] csendben néz .</li>
-		<li>desc_sentence->[victim_nameDef] teste körül vértócsa keletkezik.</li>
-		<li>desc_sentence->[victim_nameDef] szemei realisztikusan élettelennek vannak ábrázolva.</li>
-		<li>desc_sentence->[killer_nameDef] kivillantja fogait.</li>
-		<li>desc_sentence->[killer_nameDef] elégedettnek látszik.</li>
-		<li>desc_sentence->[killer_nameDef] szomorúan nézi tette eredményét.</li>
-		<li>desc_sentence->[killer_nameDef] elégedett a helyzettel.</li>
-		<li>desc_sentence->[killer_nameDef] győzedelmes arcot vág.</li>
-	</KilledBy.rulePack.rulesStrings>
-  <SoldPrisoner.label>fogoly eladása</SoldPrisoner.label>
-	<SoldPrisoner.rulePack.rulesStrings>
-		<li>tale_noun->[prisoner_nameDef] eladása egy rabszolgakereskedőnek</li>
-		<li>image->[trader_nameFull], ahogy megveszi őt: [prisoner_nameFull] tőle: [seller_nameFull], [circumstance_group]</li>
-		<li>image->[seller_nameFull], ahogy eladja őt: [prisoner_nameFull] neki: [trader_nameFull], [circumstance_group]</li>
-		<li>circumstance_phrase->miközben a többi gyarmatos rosszallóan nézi</li>
-		<li>circumstance_phrase->miközben [seller_nameDef] a pénzt számolja</li>
-		<li>circumstance_phrase->miközben [prisoner_nameDef] fájdalmasan nyög</li>
-		<li>circumstance_phrase->[prisoner_nameDef] bánatára</li>
-		<li>desc_sentence->[trader_nameDef] ördögien nevet.</li>
-		<li>desc_sentence->[seller_nameDef] mániákusan nevet.</li>
-		<li>desc_sentence->[seller_nameDef] kelletlenül átadja őt: [prisoner_nameDef].</li>
-		<li>desc_sentence->[prisoner_nameDef] dacosan néz új gazdájára.</li>
-		<li>desc_sentence->[trader_nameDef] [prisoner_nameDef] láncainál fogva rángatja el őt.</li>
-		<li>desc_sentence->[prisoner_nameDef] dühösen néz és bosszút forral eladója ellen.</li>
-		<li>desc_sentence->[prisoner_nameDef] sír.</li>
-		<li>desc_sentence->[prisoner_nameDef] beleköp eladója arcába.</li>
-		<li>desc_sentence->[Prisoner_nameDef] földre rogy.</li>
-		<li>desc_sentence->[Seller_nameDef] [prisoner_nameDef] láncait idegesen a vevő kezébe vágja.</li>
-		<li>desc_sentence->Reménytelenség lengi körül a helyzetet.</li>
-	</SoldPrisoner.rulePack.rulesStrings>
-  <TrainedAnimal.label>állatidomítás</TrainedAnimal.label>
-	<TrainedAnimal.rulePack.rulesStrings>
-		<li>tale_noun->[animal_nameDef] idomítása</li>
-		<li>image->Ahogy [human_nameFull] [train_syn] őt: [animal_nameFull], erre: [trainable_label] , [circumstance_group]</li>
-		<li>image->Ahogy [human_nameFull] erre oktatja: [trainable_label], őt: [animal_nameFull], [circumstance_group]</li>
-		<li>image->Ahogy [human_nameFull] ezt gyakorolja: [trainable_label], vele: [animal_nameFull], [circumstance_group]</li>
-		<li>train_syn->idomítja</li>
-		<li>train_syn->tanítja</li>
-		<li>train_syn->trenírozza</li>
-		<li>train_syn->vezeti</li>
-		<li>train_syn->oktatja</li>
-		<li>circumstance_phrase->miközben mások figyelik őket</li>
-		<li>circumstance_phrase->miközben több [Animal] undorodva nézi őket</li>
-		<li>circumstance_phrase->miközben [animal_nameDef] a szebb napokra gondol, mikor még vadállat volt</li>
-		<li>circumstance_phrase->miközben [human_nameDef] arra gondol, vajon mi lesz vacsorára</li>
-		<li>circumstance_phrase->miközben más gyarmatosok rendes munkát végeznek</li>
-		<li>desc_sentence->[human_nameDef] elégedettnek tűnik.</li>
-		<li>desc_sentence->[human_nameDef] nevet.</li>
-		<li>desc_sentence->[human_nameDef] unatkozik.</li>
-		<li>desc_sentence->[human_nameDef] fenyegetően lengeti az öklét.</li>
-		<li>desc_sentence->[human_nameDef] a koncentrálástól ráncolja a homlokát.</li>
-		<li>desc_sentence->[animal_nameDef] tanácstalannak tűnik.</li>
-		<li>desc_sentence->[animal_nameDef] fegyvert tart a szájában.</li>
-		<li>desc_sentence->[animal_nameDef] morog az erőfeszítéstől.</li>
-		<li>desc_sentence->[human_nameDef] a fejét rázza csalódottságában.</li>
-		<li>desc_sentence->[animal_nameDef] reszket a félelemtől.</li>
-		<li>desc_sentence->[animal_nameDef] úgy tűnik mintha [vegetable] formát venne fel.</li>
-		<li>desc_sentence->[animal_nameDef] egy rakás szerszámként van ábrázolva.</li>
-		<li>desc_sentence->[animal_nameDef] félig [Color] és félig [Color].</li>
-		<li>desc_sentence->[animal_nameDef] tiszta pikkely.</li>
-		<li>desc_sentence->[human_nameDef] [quantity] karokkal van ábrázolva.</li>
-		<li>desc_sentence->[human_nameDef] mintha [animal_ShortDefinite] formáját venné fel.</li>
-	</TrainedAnimal.rulePack.rulesStrings>
-  <KilledColonist.label>gyarmatos meggyilkolva</KilledColonist.label>
-  <KilledColonyAnimal.label>állat megölve</KilledColonyAnimal.label>
+  <!-- EN:
+    <li>tale_noun->[CAPTURER_nameDef] capturing [PRISONER_nameDef]</li>
+    <li>tale_noun->[PRISONER_nameDef] being captured by [CAPTURER_nameDef]</li>
+    <li>tale_noun->the capturing of [PRISONER_nameDef]</li>
+    <li>image->[CAPTURER_nameFull] capturing [PRISONER_nameFull] [circumstance_group]</li>
+    <li>image->[CAPTURER_nameFull] tying [PRISONER_nameFull]'s hands [circumstance_group]</li>
+    <li>image->[CAPTURER_nameFull] smacking [PRISONER_nameFull] while capturing [PRISONER_objective] [circumstance_group]</li>
+    <li>circumstance_phrase->as [PRISONER_pronoun] writhes on the ground</li>
+    <li>circumstance_phrase->as [PRISONER_pronoun] twists in pain</li>
+    <li>circumstance_phrase->with professional efficiency</li>
+    <li>circumstance_phrase->roughly and amateurishly</li>
+    <li>circumstance_phrase->with obviously excessive force</li>
+    <li>circumstance_phrase->with obvious pleasure</li>
+    <li>circumstance_phrase->while smiling with dominance</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is looking into [PRISONER_nameDef]'s eyes with a sense of dominance.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is injured and seems to be in pain.</li>
+    <li>desc_sentence->[PRISONER_nameDef] looks resigned to [PRISONER_possessive] fate.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is snarling with the fury of defeat.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is slapping [PRISONER_nameDef] to subdue [PRISONER_objective].</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is twisting [PRISONER_nameDef]'s ear.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is holding [PRISONER_nameDef] in a joint lock.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is spitting into [PRISONER_nameDef]'s face.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is laughing as tears well up in [PRISONER_nameDef]'s eyes.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] is kicking [PRISONER_nameDef] for no obvious reason.</li>
+  -->
+  <Captured.rulePack.rulesStrings>
+    <li>tale_noun->[prisoner_nameDef] elfogása</li>
+    <li>image->Ahogy [capturer_nameFull] elfogja őt: [prisoner_nameFull], [circumstance_group]</li>
+    <li>image->Ahogy [capturer_nameFull] megkötözi [prisoner_nameFull] kezét, [circumstance_group]</li>
+    <li>image->Ahogy [capturer_nameFull] [prisoner_nameFull] elfogása közben megveri őt, [circumstance_group]</li>
+    <li>circumstance_phrase->miközben az a földön vonaglik</li>
+    <li>circumstance_phrase->miközben az a fájdalomtól vonaglik</li>
+    <li>circumstance_phrase->szenvedélyes hatékonysággal</li>
+    <li>circumstance_phrase->igen amatőr mozdulatokat alkalmazva</li>
+    <li>circumstance_phrase->közben szükségtelen erőszakot alkalmazva</li>
+    <li>circumstance_phrase->arcán nyilvánvaló örömmel</li>
+    <li>circumstance_phrase->dominánsan nevetve</li>
+    <li>desc_sentence->[CAPTURER_nameDef] dominánsan [prisoner_nameDef] szemébe néz.</li>
+    <li>desc_sentence->[prisoner_nameDef] megsérült és fájdalmai vannak.</li>
+    <li>desc_sentence->[prisoner_nameDef] rezignáltan veszi tudomásul sorsát.</li>
+    <li>desc_sentence->[prisoner_nameDef] dühösen vicsorog a vereségtől.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] megpofozza [prisoner_nameDef] arcát, hogy engedelmességre tanítsa.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] megcsavarja [prisoner_nameDef] fülét.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] fojtja [prisoner_nameDef] nyakát.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] beleköp [prisoner_nameDef] arcába.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] nevet, ahogy [prisoner_nameDef] szemei megtelnek könnyel.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] minden ok nélkül belerúg [prisoner_nameDef] hasába.</li>
+  </Captured.rulePack.rulesStrings>
+  
+  <!-- EN: defeated hostile leader -->
   <DefeatedHostileFactionLeader.label>ellenséges vezér megölve</DefeatedHostileFactionLeader.label>
+  
+  <!-- EN: surgery performed -->
+  <DidSurgery.label>sikeres műtét</DidSurgery.label>
+  <!-- EN:
+    <li>tale_noun->[SURGEON_nameDef] operating on [PATIENT_nameDef]</li>
+    <li>tale_noun->[SURGEON_nameDef] performing a medical operation on [PATIENT_nameDef]</li>
+    <li>tale_noun->[PATIENT_nameDef]'s medical operation</li>
+    <li>image->[SURGEON_nameFull] putting [PATIENT_nameFull] to sleep with anesthetic [circumstance_group]</li>
+    <li>image->[SURGEON_nameFull] elbow-deep in [PATIENT_nameFull] during surgery [circumstance_group]</li>
+    <li>image->[SURGEON_nameFull] slicing into [PATIENT_nameFull] during surgery [circumstance_group]</li>
+    <li>circumstance_phrase->as [PATIENT_pronoun] trembles with fear</li>
+    <li>circumstance_phrase->as blood pools at [SURGEON_nameDef]'s feet</li>
+    <li>circumstance_phrase->while surrounded by scary-looking surgical tools</li>
+    <li>circumstance_phrase->with improvised but effective tools</li>
+    <li>desc_sentence->[SURGEON_nameDef] is sweating profusely.</li>
+    <li>desc_sentence->[SURGEON_nameDef] looks incredibly focused on the task.</li>
+    <li>desc_sentence->[SURGEON_nameDef] has blood smeared on [SURGEON_possessive] face.</li>
+    <li>desc_sentence->[PATIENT_nameDef] is shaking and writhing.</li>
+  -->
+  <DidSurgery.rulePack.rulesStrings>
+    <li>tale_noun->[patient_nameDef] műtéte</li>
+    <li>image->Ahogy [surgeon_nameFull] elaltatja őt: [patient_nameFull], [circumstance_group]</li>
+    <li>image->Ahogy [surgeon_nameFull] könyékig nyúlkál [patient_nameFull] hasában, [circumstance_group]</li>
+    <li>image->Ahogy [surgeon_nameFull] belevág [patient_nameFull] testébe, [circumstance_group]</li>
+    <li>circumstance_phrase->miközben az ijedten reszket</li>
+    <li>circumstance_phrase->miközben egy vértócsában áll</li>
+    <li>circumstance_phrase->félelmetes orvosi eszközök között állva</li>
+    <li>circumstance_phrase->rögtönzött ám hatékony műszereket használva</li>
+    <li>desc_sentence->[surgeon_nameDef] erősen izzad.</li>
+    <li>desc_sentence->[surgeon_nameDef] láthatóan nagyon koncentrál a munkájára.</li>
+    <li>desc_sentence->[surgeon_nameDef] arcára vér tapad.</li>
+    <li>desc_sentence->[patient_nameDef] rázkódik és vonaglik.</li>
+  </DidSurgery.rulePack.rulesStrings>
+  
+  <!-- EN: prisoner executed -->
+  <ExecutedPrisoner.label>kivégzett fogoly</ExecutedPrisoner.label>
+  <!-- EN:
+    <li>tale_noun->[executioner] executing [PRISONER_nameDef]</li>
+    <li>tale_noun->[PRISONER_nameDef] being executed by [EXECUTIONER_nameDef]</li>
+    <li>tale_noun->the execution of [PRISONER_nameDef]</li>
+    <li>image->[EXECUTIONER_nameFull] executing [PRISONER_nameFull] [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] putting [PRISONER_nameFull] to death [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] preparing to execute [PRISONER_nameFull] [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] entering a prison cell, going to execute [PRISONER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->as [PRISONER_pronoun] writhes on the ground</li>
+    <li>circumstance_phrase->as [PRISONER_pronoun] twists in pain</li>
+    <li>circumstance_phrase->as [PRISONER_pronoun] cries out in terror</li>
+    <li>circumstance_phrase->with professional efficiency</li>
+    <li>circumstance_phrase->roughly and amateurishly</li>
+    <li>circumstance_phrase->with obviously excessive force</li>
+    <li>circumstance_phrase->with obvious pleasure</li>
+    <li>circumstance_phrase->while smiling with dominance</li>
+    <li>circumstance_phrase->with tears in [EXECUTIONER_possessive] eyes</li>
+    <li>circumstance_phrase->with a look of utter indifference</li>
+    <li>circumstance_phrase->while inflicting unnecessary pain</li>
+    <li>circumstance_phrase->while thinking of something else</li>
+    <li>circumstance_phrase->for the greater good</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] is sweating profusely.</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] is drooling a little bit.</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] has blood smeared on [EXECUTIONER_possessive] face.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is shaking and writhing.</li>
+    <li>desc_sentence->[PRISONER_nameDef] seems to have given up entirely.</li>
+    <li>desc_sentence->[PRISONER_nameDef] has closed [PRISONER_possessive] eyes, seeming to pray to a higher power.</li>
+    <li>desc_sentence->[PRISONER_nameDef] looks defiant.</li>
+  -->
+  <ExecutedPrisoner.rulePack.rulesStrings>
+    <li>tale_noun->[prisoner_nameDef] kivégzése</li>
+    <li>image->Ahogy [warden_nameFull] kivégzi őt [prisoner_nameFull], [circumstance_group]</li>
+    <li>image->Ahogy [warden_nameFull] megöli őt [prisoner_nameFull], [circumstance_group]</li>
+    <li>image->Ahogy [warden_nameFull] [prisoner_nameFull] kivégzésére készül, [circumstance_group]</li>
+    <li>image->Ahogy [warden_nameFull] belép [prisoner_nameFull] cellájába, hogy kivégezze, [circumstance_group]</li>
+    <li>circumstance_phrase->miközben az a padlón vonaglik</li>
+    <li>circumstance_phrase->miközben az fájdalmasan vonaglik</li>
+    <li>circumstance_phrase->miközben az félelmében sír</li>
+    <li>circumstance_phrase->nagyon profin végrehajtva</li>
+    <li>circumstance_phrase->amatőr módon végrehajtva</li>
+    <li>circumstance_phrase->túlzott erőszakot alkalmazva</li>
+    <li>circumstance_phrase->arcán nyilvánvaló örömmel</li>
+    <li>circumstance_phrase->dominánsan nevetve</li>
+    <li>circumstance_phrase->könnyel teli szemekkel</li>
+    <li>circumstance_phrase->minden érzelem nélkül</li>
+    <li>circumstance_phrase->szükségtelen fájdalmat okozva</li>
+    <li>circumstance_phrase->közben másra gondolva</li>
+    <li>circumstance_phrase->a közjó érdekében</li>
+    <li>desc_sentence->[warden_nameDef] erősen izzad.</li>
+    <li>desc_sentence->[warden_nameDef] kissé szipog.</li>
+    <li>desc_sentence->[warden_nameDef] arcára vér fröccsen.</li>
+    <li>desc_sentence->[prisoner_nameDef] rázkódik és vonaglik.</li>
+    <li>desc_sentence->[prisoner_nameDef] láthatólag feladta.</li>
+    <li>desc_sentence->[prisoner_nameDef] becsukta szemeit, láthatólag az égiekhez fohászkodva.</li>
+    <li>desc_sentence->[prisoner_nameDef] dacosnak mutatja magát.</li>
+  </ExecutedPrisoner.rulePack.rulesStrings>
+  
+  <!-- EN: animal hunted -->
+  <Hunted.label>vadászat</Hunted.label>
+  <!-- EN:
+    <li>tale_noun->[HUNTER_nameDef] hunting [PREY_nameDef]</li>
+    <li>tale_noun->[PREY_nameDef] being hunted by [HUNTER_nameDef]</li>
+    <li>tale_noun->[HUNTER_nameDef]'s successful hunt</li>
+    <li>image->[PREY_nameFull] being hunted by [HUNTER_nameFull] [circumstance_group]</li>
+    <li>image->[HUNTER_nameFull] stalking [PREY_nameFull] from afar [circumstance_group]</li>
+    <li>image->[HUNTER_nameFull] hunting [PREY_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->as [PREY_nameDef] relaxes</li>
+    <li>circumstance_phrase->as [PREY_nameDef] travels</li>
+    <li>circumstance_phrase->as [PREY_nameDef] eats</li>
+    <li>desc_sentence->[PREY_nameDef] seems totally oblivious.</li>
+    <li>desc_sentence->[HUNTER_nameDef] is gripping [HUNTER_possessive] weapon tightly.</li>
+    <li>desc_sentence->[PREY_nameDef] is looking around as though [PREY_pronoun] senses that something is wrong.</li>
+  -->
+  <Hunted.rulePack.rulesStrings>
+    <li>tale_noun->[hunter_nameDef] sikeres vadászata</li>
+    <li>image->Ahogy [hunter_nameFull] cserkészi őt: [prey_nameFull], [circumstance_group]</li>
+    <li>image->Ahogy [hunter_nameFull] megközelíti őt: [prey_nameFull], [circumstance_group]</li>
+    <li>image->Ahogy [hunter_nameFull] vadássza őt: [prey_nameFull], [circumstance_group]</li>
+    <li>circumstance_phrase->miközben [prey_nameDef] pihen</li>
+    <li>circumstance_phrase->miközben [prey_nameDef] vonul</li>
+    <li>circumstance_phrase->miközben [prey_nameDef] eszik</li>
+    <li>desc_sentence->[prey_nameDef] nem veszi észre.</li>
+    <li>desc_sentence->[hunter_nameDef] szorosan fogja fegyverét.</li>
+    <li>desc_sentence->[prey_nameDef] idegesen néz körbe, rossz élőérzete van.</li>
+  </Hunted.rulePack.rulesStrings>
+  
+  <!-- EN: colonist kidnapped -->
+  <KidnappedColonist.label>elrabolva</KidnappedColonist.label>
+  <!-- EN:
+    <li>tale_noun->[KIDNAPPER_nameDef] kidnapping [VICTIM_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] being kidnapped by [KIDNAPPER_nameDef]</li>
+    <li>tale_noun->the kidnapping of [VICTIM_nameDef]</li>
+    <li>image->[KIDNAPPER_nameFull] carrying [VICTIM_nameFull] away to [KIDNAPPER_factionName] [circumstance_group]</li>
+    <li>image->[KIDNAPPER_nameFull] of [KIDNAPPER_factionName] kidnapping [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[KIDNAPPER_nameFull] kidnapping [VICTIM_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->as [VICTIM_pronoun] twists in pain</li>
+    <li>circumstance_phrase->with professional efficiency</li>
+    <li>circumstance_phrase->roughly and amateurishly</li>
+    <li>circumstance_phrase->with obviously excessive force</li>
+    <li>circumstance_phrase->with obvious pleasure</li>
+    <li>circumstance_phrase->while smiling with dominance</li>
+    <li>circumstance_phrase->while covered in blood and filth</li>
+    <li>desc_sentence->[VICTIM_nameDef] seems to have given up entirely.</li>
+    <li>desc_sentence->[VICTIM_nameDef] has closed [VICTIM_possessive] eyes, seeming to pray to a higher power.</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks defiant.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is screaming with rage and terror.</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks broken and exhausted.</li>
+    <li>desc_sentence->[VICTIM_nameDef] appears to be badly wounded.</li>
+  -->
+  <KidnappedColonist.rulePack.rulesStrings>
+    <li>tale_noun->[victim_nameDef] elrablása</li>
+    <li>image->Ahogy [kidnapper_nameFull] ([kidnapper_factionName]), elviszi őt: [victim_nameFull], [circumstance_group]</li>
+    <li>image->Ahogy [kidnapper_nameFull] ([kidnapper_factionName]), elrabolja őt: [victim_nameFull], [circumstance_group]</li>
+    <li>image->Ahogy [kidnapper_nameFull] elrabolja őt: [victim_nameFull], [circumstance_group]</li>
+    <li>circumstance_phrase->miközben az fájdalmasan vonaglik</li>
+    <li>circumstance_phrase->nagyon profi módon végrehajtva</li>
+    <li>circumstance_phrase->nagyon amatőr módon végrehajtva</li>
+    <li>circumstance_phrase->túlzott erőszakot alkalmazva</li>
+    <li>circumstance_phrase->arcán nyilvánvaló örömmel</li>
+    <li>circumstance_phrase->dominánsan nevetve</li>
+    <li>circumstance_phrase->beborítva mocsokkal és vérrel</li>
+    <li>desc_sentence->[victim_nameDef] láthatólag belenyugodott.</li>
+    <li>desc_sentence->[victim_nameDef] becsukta szemeit, láthatólag az égiekhez fohászkodva.</li>
+    <li>desc_sentence->[victim_nameDef] dacosnak mutatja magát.</li>
+    <li>desc_sentence->[victim_nameDef] dühében és félelmében sír.</li>
+    <li>desc_sentence->[victim_nameDef] megtörtnek és kimerültnek látszik.</li>
+    <li>desc_sentence->[victim_nameDef] súlyosan sérültnek tűnik.</li>
+  </KidnappedColonist.rulePack.rulesStrings>
+  
+  <!-- EN: death -->
+  <KilledBy.label>halál</KilledBy.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] killing [VICTIM_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] being killed by [KILLER_nameDef]</li>
+    <li>tale_noun->the killing of [VICTIM_nameDef] by [KILLER_nameDef]</li>
+    <li>tale_noun->the killing of [VICTIM_nameDef]</li>
+    <li>image->[VICTIM_nameFull] being killed by [KILLER_nameFull] [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] killing [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] ending [VICTIM_nameFull]'s life [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] brutally murdering [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[VICTIM_nameFull] being killed [circumstance_group]</li>
+    <li>circumstance_phrase->seemingly without remorse</li>
+    <li>circumstance_phrase->with cold efficiency</li>
+    <li>circumstance_phrase->with passionate rage</li>
+    <li>circumstance_phrase->with quick, efficient movements</li>
+    <li>circumstance_phrase->without emotion or expression</li>
+    <li>circumstance_phrase->out of bleak necessity</li>
+    <li>circumstance_phrase->in a cowardly, halfhearted way</li>
+    <li>desc_sentence->The sun is setting behind them in a symbolic echo of the event.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->Blood is pooling around [VICTIM_nameDef]'s body.</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s eyes are rendered in a realistically lifeless fashion.</li>
+    <li>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+  -->
+  <KilledBy.rulePack.rulesStrings>
+    <li>tale_noun->[killer_nameDef] megöli öt: [victim_nameDef]</li>
+    <li>tale_noun->[victim_nameDef] gyilkossága [killer_nameDef] által</li>
+    <li>tale_noun->[victim_nameDef] [killer_nameDef] által okozott halála</li>
+    <li>tale_noun->[victim_nameDef] halála</li>
+    <li>image->[killer_nameFull] meggyilkolja őt: [victim_nameFull], [circumstance_group]</li>
+    <li>image->[killer_nameFull] végez vele: [victim_nameFull], [circumstance_group]</li>
+    <li>image->[killer_nameFull] brutálisan megöli őt: [victim_nameFull], [circumstance_group]</li>
+    <li>image->[victim_nameFull]-t megölik, [circumstance_group]</li>
+    <li>image->[victim_nameFull]-t meggyilkolják, [circumstance_group]</li>
+    <li>circumstance_phrase->látszólag bűntudat nélkül</li>
+    <li>circumstance_phrase->hideg hatékonysággal</li>
+    <li>circumstance_phrase->hirtelen felindulással</li>
+    <li>circumstance_phrase->gyors, hatékony mozdulatokkal</li>
+    <li>circumstance_phrase->érzelemmentesen</li>
+    <li>circumstance_phrase->egyszerűen szükségből</li>
+    <li>circumstance_phrase->gyáva módon</li>
+    <li>desc_sentence->A nap lenyugszik az esemény szimbolikus visszhangjaként.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] nézi az esetet.</li>
+    <li>desc_sentence->Egy [PersonJob] [side_position] csendben néz .</li>
+    <li>desc_sentence->[victim_nameDef] teste körül vértócsa keletkezik.</li>
+    <li>desc_sentence->[victim_nameDef] szemei realisztikusan élettelennek vannak ábrázolva.</li>
+    <li>desc_sentence->[killer_nameDef] kivillantja fogait.</li>
+    <li>desc_sentence->[killer_nameDef] elégedettnek látszik.</li>
+    <li>desc_sentence->[killer_nameDef] szomorúan nézi tette eredményét.</li>
+    <li>desc_sentence->[killer_nameDef] elégedett a helyzettel.</li>
+    <li>desc_sentence->[killer_nameDef] győzedelmes arcot vág.</li>
+  </KilledBy.rulePack.rulesStrings>
+  
+  <!-- EN: colonist killed -->
+  <KilledColonist.label>gyarmatos meggyilkolva</KilledColonist.label>
+  
+  <!-- EN: colony animal killed -->
+  <KilledColonyAnimal.label>állat megölve</KilledColonyAnimal.label>
+  
+  <!-- EN: person recruited -->
+  <Recruited.label>sikeres toborzás</Recruited.label>
+  <!-- EN:
+    <li>tale_noun->[RECRUITER_nameDef] recruiting [JOINER_nameDef]</li>
+    <li>tale_noun->[JOINER_nameDef] being recruited by [RECRUITER_nameDef]</li>
+    <li>tale_noun->the recruitment of [JOINER_nameDef]</li>
+    <li>image->[RECRUITER_nameFull] recruiting [JOINER_nameFull] [circumstance_group]</li>
+    <li>image->[RECRUITER_nameFull] welcoming [JOINER_nameFull] as [JOINER_pronoun] becomes a colonist [circumstance_group]</li>
+    <li>image->[RECRUITER_nameFull] speaking convincingly to [JOINER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->with obvious goodwill</li>
+    <li>circumstance_phrase->with a hearty handshake</li>
+    <li>circumstance_phrase->with smiles all around</li>
+    <li>circumstance_phrase->in front of the whole colony</li>
+    <li>circumstance_phrase->in a prison cell</li>
+    <li>desc_sentence->[JOINER_nameDef] is nodding in understanding.</li>
+    <li>desc_sentence->[JOINER_nameDef] is smiling and making eye contact.</li>
+    <li>desc_sentence->[JOINER_nameDef] looks relieved.</li>
+    <li>desc_sentence->[JOINER_nameDef] looks hopeful.</li>
+  -->
+  <Recruited.rulePack.rulesStrings>
+    <li>tale_noun->[joiner_nameDef] toborzása</li>
+    <li>image->Ahogy [recruiter_nameFull] [circumstance_group] toborozza őt: [joiner_nameFull]</li>
+    <li>image->Ahogy [recruiter_nameFull] [circumstance_group] üdvözli őt: [joiner_nameFull], mint a kolónia legújabb tagját </li>
+    <li>image->Ahogy [recruiter_nameFull] [circumstance_group] [joiner_nameFull] lelkére beszél</li>
+    <li>circumstance_phrase->nyilvánvaló jó szándékkal</li>
+    <li>circumstance_phrase->szívből jövő kézfogással</li>
+    <li>circumstance_phrase->mosolyogva</li>
+    <li>circumstance_phrase->az egész kolónia előtt</li>
+    <li>circumstance_phrase->egy cellában ülve</li>
+    <li>desc_sentence->[joiner_nameDef] egyetértően bólint.</li>
+    <li>desc_sentence->[joiner_nameDef] mosolyog és a szemébe néz.</li>
+    <li>desc_sentence->[joiner_nameDef] láthatóan meg van könnyebbülve.</li>
+    <li>desc_sentence->[joiner_nameDef] láthatóan reménnyel teli.</li>
+  </Recruited.rulePack.rulesStrings>
+  
+  <!-- EN: prisoner sold -->
+  <SoldPrisoner.label>fogoly eladása</SoldPrisoner.label>
+  <!-- EN:
+    <li>tale_noun->the selling of [PRISONER_nameDef] to a trader</li>
+    <li>tale_noun->[SELLER_nameDef] selling [PRISONER_nameDef] as a slave</li>
+    <li>tale_noun->[PRISONER_nameDef] being sold as a slave by [SELLER_nameDef]</li>
+    <li>image->[TRADER_nameFull] buying [PRISONER_nameFull] from [SELLER_nameFull] [circumstance_group]</li>
+    <li>image->[SELLER_nameFull] selling [PRISONER_nameFull] to [TRADER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->as the other colonists look on in disapproval</li>
+    <li>circumstance_phrase->while [SELLER_nameDef] counts [TRADER_possessive] money</li>
+    <li>circumstance_phrase->while [PRISONER_nameDef] moans plaintively</li>
+    <li>circumstance_phrase->to [PRISONER_nameDef]'s chagrin</li>
+    <li>desc_sentence->[TRADER_nameDef] is smiling devilishly.</li>
+    <li>desc_sentence->[SELLER_nameDef] is laughing maniacally.</li>
+    <li>desc_sentence->[SELLER_nameDef] reluctantly hands [PRISONER_nameDef] over to the trader.</li>
+    <li>desc_sentence->[PRISONER_nameDef] stares defiantly at [PRISONER_possessive] new master.</li>
+    <li>desc_sentence->[TRADER_nameDef] drags [PRISONER_nameDef] away by [PRISONER_possessive] chains.</li>
+    <li>desc_sentence->[PRISONER_nameDef] stares at [SELLER_nameDef], plotting [PRISONER_possessive] revenge.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is crying.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is spitting in [SELLER_nameDef]'s face.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is melting into the ground.</li>
+    <li>desc_sentence->[SELLER_nameDef] is thrusting the chains of [PRISONER_nameDef] into [TRADER_nameDef]'s hands.</li>
+    <li>desc_sentence->An air of hopelessness pervades the situation.</li>
+  -->
+  <SoldPrisoner.rulePack.rulesStrings>
+    <li>tale_noun->[prisoner_nameDef] eladása egy rabszolgakereskedőnek</li>
+    <li>image->[trader_nameFull], ahogy megveszi őt: [prisoner_nameFull] tőle: [seller_nameFull], [circumstance_group]</li>
+    <li>image->[seller_nameFull], ahogy eladja őt: [prisoner_nameFull] neki: [trader_nameFull], [circumstance_group]</li>
+    <li>circumstance_phrase->miközben a többi gyarmatos rosszallóan nézi</li>
+    <li>circumstance_phrase->miközben [seller_nameDef] a pénzt számolja</li>
+    <li>circumstance_phrase->miközben [prisoner_nameDef] fájdalmasan nyög</li>
+    <li>circumstance_phrase->[prisoner_nameDef] bánatára</li>
+    <li>desc_sentence->[trader_nameDef] ördögien nevet.</li>
+    <li>desc_sentence->[seller_nameDef] mániákusan nevet.</li>
+    <li>desc_sentence->[seller_nameDef] kelletlenül átadja őt: [prisoner_nameDef].</li>
+    <li>desc_sentence->[prisoner_nameDef] dacosan néz új gazdájára.</li>
+    <li>desc_sentence->[trader_nameDef] [prisoner_nameDef] láncainál fogva rángatja el őt.</li>
+    <li>desc_sentence->[prisoner_nameDef] dühösen néz és bosszút forral eladója ellen.</li>
+    <li>desc_sentence->[prisoner_nameDef] sír.</li>
+    <li>desc_sentence->[prisoner_nameDef] beleköp eladója arcába.</li>
+    <li>desc_sentence->[Prisoner_nameDef] földre rogy.</li>
+    <li>desc_sentence->[Seller_nameDef] [prisoner_nameDef] láncait idegesen a vevő kezébe vágja.</li>
+    <li>desc_sentence->Reménytelenség lengi körül a helyzetet.</li>
+  </SoldPrisoner.rulePack.rulesStrings>
+  
+  <!-- EN: animal tamed -->
+  <TamedAnimal.label>szelídített állat</TamedAnimal.label>
+  <!-- EN:
+    <li>tale_noun->the taming of [ANIMAL_nameDef] by [TAMER_nameDef]</li>
+    <li>tale_noun->[TAMER_nameDef]'s taming of [ANIMAL_nameDef]</li>
+    <li>image->[TAMER_nameFull] taming [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] offering a morsel of food to [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] whispering to a skittish [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] calming a wild [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->with great care and caution</li>
+    <li>circumstance_phrase->with a smile</li>
+    <li>circumstance_phrase->while exhausted but happy</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is snarling aggressively.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks sleepy and drunk with love.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] appears to be in some sort of hypnotic state.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks scared but interested.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] appears fascinated.</li>
+    <li>desc_sentence->[TAMER_nameDef] is projecting a powerful sense of love towards [ANIMAL_nameDef].</li>
+  -->
+  <TamedAnimal.rulePack.rulesStrings>
+    <li>tale_noun->Ahogy [human_nameDef] megszelídítette őt: [animal_nameDef]</li>
+    <li>image->Ahogy [human_nameFull] szelídíti őt: [animal_nameFull], [circumstance_group]</li>
+    <li>image->Ahogy [human_nameFull] jutalomfalatot ad [animal_nameFull] szájába, [circumstance_group]</li>
+    <li>image->Ahogy [human_nameFull] suttog a félénk [animal_nameFull] fülébe, [circumstance_group]</li>
+    <li>image->Ahogy [human_nameFull] lenyugtatja őt: [animal_nameFull], [circumstance_group]</li>
+    <li>circumstance_phrase->nagyon óvatosan</li>
+    <li>circumstance_phrase->mosolyogva</li>
+    <li>circumstance_phrase->kimerülve, de boldogan</li>
+    <li>desc_sentence->[animal_nameDef] agresszíven vicsorog.</li>
+    <li>desc_sentence->[animal_nameDef] álmosnak és szeretet-ittasnak tűnik.</li>
+    <li>desc_sentence->[animal_nameDef] mintha hipnózis hatása alatt lenne.</li>
+    <li>desc_sentence->[animal_nameDef] ijedtnek ám érdeklődőnek tűnik.</li>
+    <li>desc_sentence->[animal_nameDef] el van kápráztatva.</li>
+    <li>desc_sentence->[human_nameDef] erős szeretet érzését sugározza [animal_nameDef] felé.</li>
+  </TamedAnimal.rulePack.rulesStrings>
+  
+  <!-- EN: traded with someone -->
   <TradedWith.label>kereskedett</TradedWith.label>
-	<TradedWith.rulePack.rulesStrings>
-		<li>tale_noun->egy üzlet létrejötte [seller_fullName] és [buyer_fullName] között</li>
-		<li>image->[buyer_nameFull] árut vesz tőle: [seller_nameFull], [circumstance_group]</li>
-		<li>image->[seller_nameFull] árut ad el neki: [buyer_nameFull], [circumstance_group]</li>
-		<li>circumstance_phrase->kapzsi szándékkal</li>
-		<li>circumstance_phrase->miközben [seller_nameDef] [buyer_shortNameDef] képébe vigyorog</li>
-		<li>desc_sentence->[buyer_nameDef] [seller_nameDef] áruját vizsgálja.</li>
-		<li>desc_sentence->[seller_nameDef] egy tárgyat szemlél.</li>
-		<li>desc_sentence->[seller_nameDef] alkudozni kezd.</li>
-		<li>desc_sentence->[buyer_nameDef] és [seller_nameDef] vitatkoznak.</li>
-		<li>desc_sentence->[seller_nameDef] és [buyer_nameDef] megegyeznek az árban.</li>
-		<li>desc_sentence->[buyer_nameDef] egy áruért fizet.</li>
-		<li>desc_sentence->[seller_nameDef] a pénzét számolja.</li>
-		<li>desc_sentence->[buyer_nameDef] magához veszi szerzeményeit.</li>
-	</TradedWith.rulePack.rulesStrings>
+  <!-- EN:
+    <li>tale_noun->a trade between [SELLER_nameFull] and [BUYER_nameFull]</li>
+    <li>image->[BUYER_nameFull] buying goods from [SELLER_nameFull] [circumstance_group]</li>
+    <li>image->[SELLER_nameFull] selling goods to [BUYER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->with greedy intent</li>
+    <li>circumstance_phrase->while [SELLER_nameDef] smirks at [BUYER_shortNameDef]</li>
+    <li>desc_sentence->[BUYER_nameDef] is examining [SELLER_nameDef]'s wares.</li>
+    <li>desc_sentence->[SELLER_nameDef] considers an item.</li>
+    <li>desc_sentence->[SELLER_nameDef] starts haggling.</li>
+    <li>desc_sentence->[BUYER_nameDef] argues with [SELLER_nameDef].</li>
+    <li>desc_sentence->[SELLER_nameDef] and [BUYER_nameDef] agree on a price.</li>
+    <li>desc_sentence->[BUYER_nameDef] pays for the item.</li>
+    <li>desc_sentence->[SELLER_nameDef] is counting [SELLER_possessive] money.</li>
+    <li>desc_sentence->[BUYER_nameDef] is taking [BUYER_possessive] goods.</li>
+  -->
+  <TradedWith.rulePack.rulesStrings>
+    <li>tale_noun->egy üzlet létrejötte [seller_fullName] és [buyer_fullName] között</li>
+    <li>image->[buyer_nameFull] árut vesz tőle: [seller_nameFull], [circumstance_group]</li>
+    <li>image->[seller_nameFull] árut ad el neki: [buyer_nameFull], [circumstance_group]</li>
+    <li>circumstance_phrase->kapzsi szándékkal</li>
+    <li>circumstance_phrase->miközben [seller_nameDef] [buyer_shortNameDef] képébe vigyorog</li>
+    <li>desc_sentence->[buyer_nameDef] [seller_nameDef] áruját vizsgálja.</li>
+    <li>desc_sentence->[seller_nameDef] egy tárgyat szemlél.</li>
+    <li>desc_sentence->[seller_nameDef] alkudozni kezd.</li>
+    <li>desc_sentence->[buyer_nameDef] és [seller_nameDef] vitatkoznak.</li>
+    <li>desc_sentence->[seller_nameDef] és [buyer_nameDef] megegyeznek az árban.</li>
+    <li>desc_sentence->[buyer_nameDef] egy áruért fizet.</li>
+    <li>desc_sentence->[seller_nameDef] a pénzét számolja.</li>
+    <li>desc_sentence->[buyer_nameDef] magához veszi szerzeményeit.</li>
+  </TradedWith.rulePack.rulesStrings>
+  
+  <!-- EN: animal trained -->
+  <TrainedAnimal.label>állatidomítás</TrainedAnimal.label>
+  <!-- EN:
+    <li>tale_noun->[TRAINER_nameDef] training [ANIMAL_nameDef]</li>
+    <li>tale_noun->the training of [ANIMAL_nameDef]</li>
+    <li>tale_noun->the training of [ANIMAL_nameDef] by [TRAINER_nameDef]</li>
+    <li>image->[TRAINER_nameFull] [train_syn] [ANIMAL_nameFull] in [TRAINABLE_label] [circumstance_group]</li>
+    <li>image->[TRAINER_nameFull] teaching [TRAINABLE_label] to [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TRAINER_nameFull] practicing [TRAINABLE_label] with [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>train_syn->training</li>
+    <li>train_syn->drilling</li>
+    <li>train_syn->coaching</li>
+    <li>train_syn->indoctrinating</li>
+    <li>train_syn->educating</li>
+    <li>circumstance_phrase->as others look on</li>
+    <li>circumstance_phrase->as wild [Animal]s look on in disgust</li>
+    <li>circumstance_phrase->as [ANIMAL_nameDef] thinks of the simpler days when [ANIMAL_pronoun] was a feral beast</li>
+    <li>circumstance_phrase->as [TRAINER_nameDef] thinks of what's for lunch</li>
+    <li>circumstance_phrase->as the other colonists do actual work</li>
+    <li>desc_sentence->[TRAINER_nameDef] is showing pleasure.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is smiling.</li>
+    <li>desc_sentence->[TRAINER_nameDef] looks bored.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is threateningly brandishing [TRAINER_possessive] fist.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is wrinkling [TRAINER_possessive] brow in concentration.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks puzzled.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] has a weapon in [ANIMAL_possessive] mouth.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is emitting effortful grunts.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is shaking [TRAINER_possessive] head is frustration.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is trembling in fear.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] appears to be morphing into a [Vegetable].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is represented as a pile of power tools.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is half [Color] and half [Color].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is covered in scales.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is depicted with [quantity] arms.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is morphing into [ANIMAL_ShortDefinite].</li>
+  -->
+  <TrainedAnimal.rulePack.rulesStrings>
+    <li>tale_noun->[animal_nameDef] idomítása</li>
+    <li>image->Ahogy [human_nameFull] [train_syn] őt: [animal_nameFull], erre: [trainable_label] , [circumstance_group]</li>
+    <li>image->Ahogy [human_nameFull] erre oktatja: [trainable_label], őt: [animal_nameFull], [circumstance_group]</li>
+    <li>image->Ahogy [human_nameFull] ezt gyakorolja: [trainable_label], vele: [animal_nameFull], [circumstance_group]</li>
+    <li>train_syn->idomítja</li>
+    <li>train_syn->tanítja</li>
+    <li>train_syn->trenírozza</li>
+    <li>train_syn->vezeti</li>
+    <li>train_syn->oktatja</li>
+    <li>circumstance_phrase->miközben mások figyelik őket</li>
+    <li>circumstance_phrase->miközben több [Animal] undorodva nézi őket</li>
+    <li>circumstance_phrase->miközben [animal_nameDef] a szebb napokra gondol, mikor még vadállat volt</li>
+    <li>circumstance_phrase->miközben [human_nameDef] arra gondol, vajon mi lesz vacsorára</li>
+    <li>circumstance_phrase->miközben más gyarmatosok rendes munkát végeznek</li>
+    <li>desc_sentence->[human_nameDef] elégedettnek tűnik.</li>
+    <li>desc_sentence->[human_nameDef] nevet.</li>
+    <li>desc_sentence->[human_nameDef] unatkozik.</li>
+    <li>desc_sentence->[human_nameDef] fenyegetően lengeti az öklét.</li>
+    <li>desc_sentence->[human_nameDef] a koncentrálástól ráncolja a homlokát.</li>
+    <li>desc_sentence->[animal_nameDef] tanácstalannak tűnik.</li>
+    <li>desc_sentence->[animal_nameDef] fegyvert tart a szájában.</li>
+    <li>desc_sentence->[animal_nameDef] morog az erőfeszítéstől.</li>
+    <li>desc_sentence->[human_nameDef] a fejét rázza csalódottságában.</li>
+    <li>desc_sentence->[animal_nameDef] reszket a félelemtől.</li>
+    <li>desc_sentence->[animal_nameDef] úgy tűnik mintha [vegetable] formát venne fel.</li>
+    <li>desc_sentence->[animal_nameDef] egy rakás szerszámként van ábrázolva.</li>
+    <li>desc_sentence->[animal_nameDef] félig [Color] és félig [Color].</li>
+    <li>desc_sentence->[animal_nameDef] tiszta pikkely.</li>
+    <li>desc_sentence->[human_nameDef] [quantity] karokkal van ábrázolva.</li>
+    <li>desc_sentence->[human_nameDef] mintha [animal_ShortDefinite] formáját venné fel.</li>
+  </TrainedAnimal.rulePack.rulesStrings>
+  
 </LanguageData>

@@ -1,0 +1,499 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adagol: Ambrózia -->
+  <Administer_Ambrosia.label>ambróziát adagol</Administer_Ambrosia.label>
+  <!-- EN: Adagolja: Ambrózia. -->
+  <Administer_Ambrosia.jobString>Ambróziát adagol.</Administer_Ambrosia.jobString>
+  
+  <!-- EN: adagol: Sör -->
+  <Administer_Beer.label>sört adagol</Administer_Beer.label>
+  <!-- EN: Adagolja: Sör. -->
+  <Administer_Beer.jobString>Sört adagol.</Administer_Beer.jobString>
+  
+  <!-- EN: adagol: Crack -->
+  <Administer_Flake.label>cracket adagol</Administer_Flake.label>
+  <!-- EN: Adagolja: Crack. -->
+  <Administer_Flake.jobString>Cracket adagol.</Administer_Flake.jobString>
+  
+  <!-- EN: adagol: Gojuice -->
+  <Administer_GoJuice.label>go-juice-t adagol </Administer_GoJuice.label>
+  <!-- EN: Adagolja: Gojuice. -->
+  <Administer_GoJuice.jobString>Go-juice-t adagol.</Administer_GoJuice.jobString>
+  
+  <!-- EN: adagol: Luciferium -->
+  <Administer_Luciferium.label>luciferiumot adagol</Administer_Luciferium.label>
+  <!-- EN: Adagolja: Luciferium. -->
+  <Administer_Luciferium.jobString>Luciferiumot adagol.</Administer_Luciferium.jobString>
+  
+  <!-- EN: adagol: Penoxycyline -->
+  <Administer_Penoxycyline.label>penoxycyline-t adagol</Administer_Penoxycyline.label>
+  <!-- EN: Adagolja: Penoxycyline. -->
+  <Administer_Penoxycyline.jobString>Penoxycyline-t adagol.</Administer_Penoxycyline.jobString>
+  
+  <!-- EN: adagol: Füves cigi -->
+  <Administer_SmokeleafJoint.label>marihuánát adagol</Administer_SmokeleafJoint.label>
+  <!-- EN: Adagolja: Füves cigi. -->
+  <Administer_SmokeleafJoint.jobString>Marihuánát adagol.</Administer_SmokeleafJoint.jobString>
+  
+  <!-- EN: adagol: Amfetamin -->
+  <Administer_WakeUp.label>amfetamint adagol</Administer_WakeUp.label>
+  <!-- EN: Adagolja: Amfetamin. -->
+  <Administer_WakeUp.jobString>Amfetamin adagol.</Administer_WakeUp.jobString>
+  
+  <!-- EN: adagol: Kokain -->
+  <Administer_Yayo.label>kokaint adagol</Administer_Yayo.label>
+  <!-- EN: Adagolja: Kokain. -->
+  <Administer_Yayo.jobString>Kokaint adagol.</Administer_Yayo.jobString>
+  
+  <!-- EN: Fejlett sisak gyártás -->
+  <Make_Apparel_AdvancedHelmet.label>fejlett sisak</Make_Apparel_AdvancedHelmet.label>
+  <Make_Apparel_AdvancedHelmet.description>Fejlett sisak gyártása.</Make_Apparel_AdvancedHelmet.description>
+  <!-- EN: Fejlett sisak gyártás. -->
+  <Make_Apparel_AdvancedHelmet.jobString>fejlett sisakot gyárt</Make_Apparel_AdvancedHelmet.jobString>
+  
+  <!-- EN: Póló gyártás -->
+  <Make_Apparel_BasicShirt.label>póló</Make_Apparel_BasicShirt.label>
+  <Make_Apparel_BasicShirt.description>Egy egyszerű póló.</Make_Apparel_BasicShirt.description>
+  <!-- EN: Póló gyártás. -->
+  <Make_Apparel_BasicShirt.jobString>pólót varr</Make_Apparel_BasicShirt.jobString>
+  
+  <!-- EN: Keménykalap gyártás -->
+  <Make_Apparel_BowlerHat.label>keménykalap</Make_Apparel_BowlerHat.label>
+  <Make_Apparel_BowlerHat.description>Keménykalap varrása.</Make_Apparel_BowlerHat.description>
+  <!-- EN: Keménykalap gyártás. -->
+  <Make_Apparel_BowlerHat.jobString>keménykalapot varr</Make_Apparel_BowlerHat.jobString>
+  
+  <!-- EN: Ing gyártás -->
+  <Make_Apparel_CollarShirt.label>ing</Make_Apparel_CollarShirt.label>
+  <Make_Apparel_CollarShirt.description>Csinos, gombos ing.</Make_Apparel_CollarShirt.description>
+  <!-- EN: Ing gyártás. -->
+  <Make_Apparel_CollarShirt.jobString>inget varr</Make_Apparel_CollarShirt.jobString>
+  
+  <!-- EN: Cowboykalap gyártás -->
+  <Make_Apparel_CowboyHat.label>cowboy kalap</Make_Apparel_CowboyHat.label>
+  <Make_Apparel_CowboyHat.description>Stílusos, mégis masszív, megvéd a naptól és az esőtől. Viselőjének extra sármot kölcsönöz.</Make_Apparel_CowboyHat.description>
+  <!-- EN: Cowboykalap gyártás. -->
+  <Make_Apparel_CowboyHat.jobString>cowboy kalapot varr</Make_Apparel_CowboyHat.jobString>
+  
+  <!-- EN: Western kabát gyártás -->
+  <Make_Apparel_Duster.label>western kabát</Make_Apparel_Duster.label>
+  <Make_Apparel_Duster.description>Hosszú kabát, mely nap és por ellen véd.</Make_Apparel_Duster.description>
+  <!-- EN: Western kabát gyártás. -->
+  <Make_Apparel_Duster.jobString>western kabátot varr</Make_Apparel_Duster.jobString>
+  
+  <!-- EN: Repesznadrág gyártás -->
+  <Make_Apparel_FlakPants.label>repesznadrág</Make_Apparel_FlakPants.label>
+  <Make_Apparel_FlakPants.description>Repesznadrág készítése.</Make_Apparel_FlakPants.description>
+  <!-- EN: Repesznadrág gyártás. -->
+  <Make_Apparel_FlakPants.jobString>repesznadrágot készít</Make_Apparel_FlakPants.jobString>
+  
+  <!-- EN: Repeszmellény gyártás -->
+  <Make_Apparel_FlakVest.label>repeszmellény</Make_Apparel_FlakVest.label>
+  <Make_Apparel_FlakVest.description>Repeszmellény készítése.</Make_Apparel_FlakVest.description>
+  <!-- EN: Repeszmellény gyártás. -->
+  <Make_Apparel_FlakVest.jobString>repeszmellényt készít</Make_Apparel_FlakVest.jobString>
+  
+  <!-- EN: Kabát gyártás -->
+  <Make_Apparel_Jacket.label>kabát</Make_Apparel_Jacket.label>
+  <Make_Apparel_Jacket.description>Kabát varrása</Make_Apparel_Jacket.description>
+  <!-- EN: Kabát gyártás. -->
+  <Make_Apparel_Jacket.jobString>kabátot varr</Make_Apparel_Jacket.jobString>
+  
+  <!-- EN: Nadrág gyártás -->
+  <Make_Apparel_Pants.label>nadrág</Make_Apparel_Pants.label>
+  <Make_Apparel_Pants.description>Egy egyszerű nadrág.</Make_Apparel_Pants.description>
+  <!-- EN: Nadrág gyártás. -->
+  <Make_Apparel_Pants.jobString>nadrágot varr</Make_Apparel_Pants.jobString>
+  
+  <!-- EN: Télikabát gyártás -->
+  <Make_Apparel_Parka.label>télikabát</Make_Apparel_Parka.label>
+  <Make_Apparel_Parka.description>Vastagabb kabát. Véd a karcolások ellen és hideg időben melegen tart.</Make_Apparel_Parka.description>
+  <!-- EN: Télikabát gyártás. -->
+  <Make_Apparel_Parka.jobString>télikabátot varr</Make_Apparel_Parka.jobString>
+  
+  <!-- EN: Páncél gyártás -->
+  <Make_Apparel_PlateArmor.label>páncél</Make_Apparel_PlateArmor.label>
+  <Make_Apparel_PlateArmor.description>Páncél készítése.</Make_Apparel_PlateArmor.description>
+  <!-- EN: Páncél gyártás. -->
+  <Make_Apparel_PlateArmor.jobString>páncélt készít</Make_Apparel_PlateArmor.jobString>
+  
+  <!-- EN: Erőpáncél gyártás -->
+  <Make_Apparel_PowerArmor.label>erőpáncél</Make_Apparel_PowerArmor.label>
+  <Make_Apparel_PowerArmor.description>Szervomotorokkal hajtott páncélzat, amely általában csak a legfejlettebb világok gyalogosainak felszerelése.</Make_Apparel_PowerArmor.description>
+  <!-- EN: Erőpáncél gyártás. -->
+  <Make_Apparel_PowerArmor.jobString>erőpáncélt gyárt</Make_Apparel_PowerArmor.jobString>
+  
+  <!-- EN: Erőpáncél sisak gyártás -->
+  <Make_Apparel_PowerArmorHelmet.label>erőpáncél sisak</Make_Apparel_PowerArmorHelmet.label>
+  <Make_Apparel_PowerArmorHelmet.description>Az erőpáncél szett része, leginkább a nehézgyalogság használja.</Make_Apparel_PowerArmorHelmet.description>
+  <!-- EN: Erőpáncél sisak gyártás. -->
+  <Make_Apparel_PowerArmorHelmet.jobString>erőpáncél sisakot gyárt</Make_Apparel_PowerArmorHelmet.jobString>
+  
+  <!-- EN: Energiapajzs öv gyártás -->
+  <Make_Apparel_ShieldBelt.label>energiapajzs öv</Make_Apparel_ShieldBelt.label>
+  <Make_Apparel_ShieldBelt.description>Energiapajzs öv készítése.</Make_Apparel_ShieldBelt.description>
+  <!-- EN: Energiapajzs öv gyártás. -->
+  <Make_Apparel_ShieldBelt.jobString>energiapajzs övet gyárt</Make_Apparel_ShieldBelt.jobString>
+  
+  <!-- EN: Egyszerű sisak gyártás -->
+  <Make_Apparel_SimpleHelmet.label>egyszerű sisak</Make_Apparel_SimpleHelmet.label>
+  <Make_Apparel_SimpleHelmet.description>Egyszerű sisak gyártása.</Make_Apparel_SimpleHelmet.description>
+  <!-- EN: Egyszerű sisak gyártás. -->
+  <Make_Apparel_SimpleHelmet.jobString>egyszerű sisakot gyárt</Make_Apparel_SimpleHelmet.jobString>
+  
+  <!-- EN: Füstálca öv gyártás -->
+  <Make_Apparel_SmokepopBelt.label>füstálca öv</Make_Apparel_SmokepopBelt.label>
+  <Make_Apparel_SmokepopBelt.description>Füstálca öv készítése.</Make_Apparel_SmokepopBelt.description>
+  <!-- EN: Füstálca öv gyártás. -->
+  <Make_Apparel_SmokepopBelt.jobString>füstálca övet gyárt</Make_Apparel_SmokepopBelt.jobString>
+  
+  <!-- EN: Törzsi ruházat gyártás -->
+  <Make_Apparel_TribalA.label>törzsi ruházat</Make_Apparel_TribalA.label>
+  <Make_Apparel_TribalA.description>A legegyszerűbb anyagokból készült ruházat.</Make_Apparel_TribalA.description>
+  <!-- EN: Törzsi ruházat gyártás. -->
+  <Make_Apparel_TribalA.jobString>törzsi ruházatot varr</Make_Apparel_TribalA.jobString>
+  
+  <!-- EN: Törzsi fejdísz gyártás -->
+  <Make_Apparel_TribalHeaddress.label>törzsi fejdísz</Make_Apparel_TribalHeaddress.label>
+  <Make_Apparel_TribalHeaddress.description>Törzsi fejdísz varrása.</Make_Apparel_TribalHeaddress.description>
+  <!-- EN: Törzsi fejdísz gyártás. -->
+  <Make_Apparel_TribalHeaddress.jobString>törzsi fejdíszt varr</Make_Apparel_TribalHeaddress.jobString>
+  
+  <!-- EN: Sapka gyártás -->
+  <Make_Apparel_Tuque.label>sapka</Make_Apparel_Tuque.label>
+  <Make_Apparel_Tuque.description>A puha, vastag sapka. Remekül melegen tart télen.</Make_Apparel_Tuque.description>
+  <!-- EN: Sapka gyártás. -->
+  <Make_Apparel_Tuque.jobString>sapkát varr</Make_Apparel_Tuque.jobString>
+  
+  <!-- EN: Harci maszk gyártás -->
+  <Make_Apparel_WarMask.label>harci maszk</Make_Apparel_WarMask.label>
+  <Make_Apparel_WarMask.description>Harci maszk készítése.</Make_Apparel_WarMask.description>
+  <!-- EN: Harci maszk gyártás. -->
+  <Make_Apparel_WarMask.jobString>harci maszkot készít</Make_Apparel_WarMask.jobString>
+  
+  <!-- EN: Harci fátyol gyártás -->
+  <Make_Apparel_WarVeil.label>harci fátyol</Make_Apparel_WarVeil.label>
+  <Make_Apparel_WarVeil.description>Harci fátyol készítése.</Make_Apparel_WarVeil.description>
+  <!-- EN: Harci fátyol gyártás. -->
+  <Make_Apparel_WarVeil.jobString>harci fátyolt készít</Make_Apparel_WarVeil.jobString>
+  
+  <!-- EN: Bionikus kar gyártás -->
+  <Make_BionicArm.label>bionikus kar</Make_BionicArm.label>
+  <Make_BionicArm.description>Bionikus kar készítése.</Make_BionicArm.description>
+  <!-- EN: Bionikus kar gyártás. -->
+  <Make_BionicArm.jobString>bionikus kart készít</Make_BionicArm.jobString>
+  
+  <!-- EN: Bionikus fül gyártás -->
+  <Make_BionicEar.label>bionikus fül</Make_BionicEar.label>
+  <Make_BionicEar.description>Bionikus fül készítése.</Make_BionicEar.description>
+  <!-- EN: Bionikus fül gyártás. -->
+  <Make_BionicEar.jobString>bionikus fület készít</Make_BionicEar.jobString>
+  
+  <!-- EN: Bionikus szem gyártás -->
+  <Make_BionicEye.label>bionikus szem</Make_BionicEye.label>
+  <Make_BionicEye.description>Bionikus szem készítése.</Make_BionicEye.description>
+  <!-- EN: Bionikus szem gyártás. -->
+  <Make_BionicEye.jobString>bionikus szemet készít</Make_BionicEye.jobString>
+  
+  <!-- EN: Bionikus szív gyártás -->
+  <Make_BionicHeart.label>bionikus szív</Make_BionicHeart.label>
+  <Make_BionicHeart.description>Bionikus szív készítése.</Make_BionicHeart.description>
+  <!-- EN: Bionikus szív gyártás. -->
+  <Make_BionicHeart.jobString>bionikus szívet készít</Make_BionicHeart.jobString>
+  
+  <!-- EN: Bionikus láb gyártás -->
+  <Make_BionicLeg.label>bionikus láb</Make_BionicLeg.label>
+  <Make_BionicLeg.description>Bionikus láb készítése.</Make_BionicLeg.description>
+  <!-- EN: Bionikus láb gyártás. -->
+  <Make_BionicLeg.jobString>bionikus lábat készít</Make_BionicLeg.jobString>
+  
+  <!-- EN: Bionikus gerinc gyártás -->
+  <Make_BionicSpine.label>bionikus gerinc</Make_BionicSpine.label>
+  <Make_BionicSpine.description>Bionikus gerinc készítése.</Make_BionicSpine.description>
+  <!-- EN: Bionikus gerinc gyártás. -->
+  <Make_BionicSpine.jobString>bionikus gerincet készít</Make_BionicSpine.jobString>
+  
+  <!-- EN: Bionikus gyomor gyártás -->
+  <Make_BionicStomach.label>bionikus gyomor</Make_BionicStomach.label>
+  <Make_BionicStomach.description>Bionikus gyomor készítése.</Make_BionicStomach.description>
+  <!-- EN: Bionikus gyomor gyártás. -->
+  <Make_BionicStomach.jobString>bionikus gyomrot készít</Make_BionicStomach.jobString>
+  
+  <!-- EN: Hosszúíj gyártás -->
+  <Make_Bow_Great.label>hosszúíj</Make_Bow_Great.label>
+  <Make_Bow_Great.description>Erős hosszúíj. Nagyobb nyilat tud messzebb lőni.</Make_Bow_Great.description>
+  <!-- EN: Hosszúíj gyártás. -->
+  <Make_Bow_Great.jobString>hosszúíjat gyárt</Make_Bow_Great.jobString>
+  
+  <!-- EN: Reflex íj gyártás -->
+  <Make_Bow_Recurve.label>reflex íj</Make_Bow_Recurve.label>
+  <Make_Bow_Recurve.description>reflex íj gyártása.</Make_Bow_Recurve.description>
+  <!-- EN: Reflex íj gyártás. -->
+  <Make_Bow_Recurve.jobString>reflex íjat gyárt</Make_Bow_Recurve.jobString>
+  
+  <!-- EN: Íj gyártás -->
+  <Make_Bow_Short.label>íj</Make_Bow_Short.label>
+  <Make_Bow_Short.description>Egyszerű íj, aminek előállításához alacsony fejlettség, ám sok ügyesség szükséges.</Make_Bow_Short.description>
+  <!-- EN: Íj gyártás. -->
+  <Make_Bow_Short.jobString>íjat gyárt</Make_Bow_Short.jobString>
+  
+  <!-- EN: Műfül gyártás -->
+  <Make_CochlearImplant.label>műfül</Make_CochlearImplant.label>
+  <Make_CochlearImplant.description>Műfül készítése.</Make_CochlearImplant.description>
+  <!-- EN: Műfül gyártás. -->
+  <Make_CochlearImplant.jobString>műfület készít</Make_CochlearImplant.jobString>
+  
+  <!-- EN: Crack gyártás -->
+  <Make_Flake.label>crack</Make_Flake.label>
+  <Make_Flake.description>A kokain legolcsóbb, pelyhes formája. Mely elszívva rövid, de nagyon erős euforikus állapotot idéz elő. Hihetetlenül addiktív.</Make_Flake.description>
+  <!-- EN: Crack gyártás. -->
+  <Make_Flake.jobString>cracket gyárt</Make_Flake.jobString>
+  
+  <!-- EN: Gojuice gyártás -->
+  <Make_GoJuice.label>gojuice</Make_GoJuice.label>
+  <Make_GoJuice.description>Csillapítja a fájdalmat és növeli a közelharci és lövészet képességeket. A mozgási sebességet is növeli.</Make_GoJuice.description>
+  <!-- EN: Gojuice gyártás. -->
+  <Make_GoJuice.jobString>gojuice-t gyárt</Make_GoJuice.jobString>
+  
+  <!-- EN: Gépkarabély gyártás -->
+  <Make_Gun_AssaultRifle.label>gépkarabély</Make_Gun_AssaultRifle.label>
+  <Make_Gun_AssaultRifle.description>Általános hadászati fegyver városi vagy nyílt terepre. Három lövéses rövid sorozat, jó hatótáv, kis torkolati energia, nagy tűzsebesség jellemzi.</Make_Gun_AssaultRifle.description>
+  <!-- EN: Gépkarabély gyártás. -->
+  <Make_Gun_AssaultRifle.jobString>gépkarabélyt gyárt</Make_Gun_AssaultRifle.jobString>
+  
+  <!-- EN: Automata pisztoly gyártás -->
+  <Make_Gun_Autopistol.label>automata pisztoly</Make_Gun_Autopistol.label>
+  <Make_Gun_Autopistol.description>Automata pisztoly gyártása.</Make_Gun_Autopistol.description>
+  <!-- EN: Automata pisztoly gyártás. -->
+  <Make_Gun_Autopistol.jobString>automata pisztolyt gyárt</Make_Gun_Autopistol.jobString>
+  
+  <!-- EN: Vadászpuska gyártás -->
+  <Make_Gun_BoltActionRifle.label>vadászpuska</Make_Gun_BoltActionRifle.label>
+  <Make_Gun_BoltActionRifle.description>Antik tolózáras puska. Jó hatótáv, nagy torkolati energia, de lassú újratöltés.</Make_Gun_BoltActionRifle.description>
+  <!-- EN: Vadászpuska gyártás. -->
+  <Make_Gun_BoltActionRifle.jobString>vadászpuskát gyárt</Make_Gun_BoltActionRifle.jobString>
+  
+  <!-- EN: Automata sörétes puska gyártás -->
+  <Make_Gun_ChainShotgun.label>automata sörétes puska</Make_Gun_ChainShotgun.label>
+  <Make_Gun_ChainShotgun.description>Automata sörétes puska gyártása.</Make_Gun_ChainShotgun.description>
+  <!-- EN: Automata sörétes puska gyártás. -->
+  <Make_Gun_ChainShotgun.jobString>automata sörétes puskát gyárt</Make_Gun_ChainShotgun.jobString>
+  
+  <!-- EN: Energialándzsa gyártás -->
+  <Make_Gun_ChargeLance.label>energialándzsa</Make_Gun_ChargeLance.label>
+  <Make_Gun_ChargeLance.description>Energialándzsa készítése.</Make_Gun_ChargeLance.description>
+  <!-- EN: Energialándzsa gyártás. -->
+  <Make_Gun_ChargeLance.jobString>energialándzsát készít</Make_Gun_ChargeLance.jobString>
+  
+  <!-- EN: Energiafegyver gyártás -->
+  <Make_Gun_ChargeRifle.label>energiafegyver</Make_Gun_ChargeRifle.label>
+  <Make_Gun_ChargeRifle.description>Feltöltődött energialövedéket kilövő fegyver.</Make_Gun_ChargeRifle.description>
+  <!-- EN: Energiafegyver gyártás. -->
+  <Make_Gun_ChargeRifle.jobString>energiafegyvert gyárt</Make_Gun_ChargeRifle.jobString>
+  
+  <!-- EN: Nehéz géppisztoly gyártás -->
+  <Make_Gun_HeavySMG.label>nehéz géppisztoly</Make_Gun_HeavySMG.label>
+  <Make_Gun_HeavySMG.description>Kompakt, nagyobb kaliberű ólomköpködő. Nagyon rövid a hatótávja, de jó megállító ereje van és könnyű kezelni.</Make_Gun_HeavySMG.description>
+  <!-- EN: Nehéz géppisztoly gyártás. -->
+  <Make_Gun_HeavySMG.jobString>nehéz géppisztolyt gyárt</Make_Gun_HeavySMG.jobString>
+  
+  <!-- EN: Tűzvető gyártás -->
+  <Make_Gun_IncendiaryLauncher.label>tűzvető</Make_Gun_IncendiaryLauncher.label>
+  <Make_Gun_IncendiaryLauncher.description>Egy tűzvető. Felgyújtja a célpontot.</Make_Gun_IncendiaryLauncher.description>
+  <!-- EN: Tűzvető gyártás. -->
+  <Make_Gun_IncendiaryLauncher.jobString>tűzvetőt gyárt</Make_Gun_IncendiaryLauncher.jobString>
+  
+  <!-- EN: Könnyű géppuska gyártás -->
+  <Make_Gun_LMG.label>könnyű géppuska</Make_Gun_LMG.label>
+  <Make_Gun_LMG.description>Egy könnyű géppuska.</Make_Gun_LMG.description>
+  <!-- EN: Könnyű géppuska gyártás. -->
+  <Make_Gun_LMG.jobString>könnyű géppuskát gyárt</Make_Gun_LMG.jobString>
+  
+  <!-- EN: Könnyű géppisztoly gyártás -->
+  <Make_Gun_MachinePistol.label>könnyű géppisztoly</Make_Gun_MachinePistol.label>
+  <Make_Gun_MachinePistol.description>Rövid hatótáv, alacsony torkolati energia, nagy tűzsebesség jellemzi. Gyorsan előrántható.</Make_Gun_MachinePistol.description>
+  <!-- EN: Könnyű géppisztoly gyártás. -->
+  <Make_Gun_MachinePistol.jobString>könnyű géppisztolyt gyárt</Make_Gun_MachinePistol.jobString>
+  
+  <!-- EN: Miniágyú gyártás -->
+  <Make_Gun_Minigun.label>miniágyú</Make_Gun_Minigun.label>
+  <Make_Gun_Minigun.description>Több csöves géppuska nagyon magas tűzgyorsasággal. Mechanoidok készítették.</Make_Gun_Minigun.description>
+  <!-- EN: Miniágyú gyártás. -->
+  <Make_Gun_Minigun.jobString>miniágyút gyárt</Make_Gun_Minigun.jobString>
+  
+  <!-- EN: Sörétes puska gyártás -->
+  <Make_Gun_PumpShotgun.label>sörétes puska</Make_Gun_PumpShotgun.label>
+  <Make_Gun_PumpShotgun.description>Ősi tervek alapján. Közelre halálos.</Make_Gun_PumpShotgun.description>
+  <!-- EN: Sörétes puska gyártás. -->
+  <Make_Gun_PumpShotgun.jobString>sörétes puskát gyárt</Make_Gun_PumpShotgun.jobString>
+  
+  <!-- EN: Forgópisztoly gyártás -->
+  <Make_Gun_Revolver.label>forgópisztoly</Make_Gun_Revolver.label>
+  <Make_Gun_Revolver.description>Forgópisztoly gyártása.</Make_Gun_Revolver.description>
+  <!-- EN: Forgópisztoly gyártás. -->
+  <Make_Gun_Revolver.jobString>forgópisztolyt gyárt</Make_Gun_Revolver.jobString>
+  
+  <!-- EN: Mesterlövész puska gyártás -->
+  <Make_Gun_SniperRifle.label>mesterlövész puska</Make_Gun_SniperRifle.label>
+  <Make_Gun_SniperRifle.description>Antik katonai mesterlövész puska. Tolózár, nagy hatótáv, remek pontosság, nagy torkolati energia jellemzi.</Make_Gun_SniperRifle.description>
+  <!-- EN: Mesterlövész puska gyártás. -->
+  <Make_Gun_SniperRifle.jobString>mesterlövész puskát gyárt</Make_Gun_SniperRifle.jobString>
+  
+  <!-- EN: Gyógyszer gyártás -->
+  <Make_MedicineIndustrial.label>gyógyszer</Make_MedicineIndustrial.label>
+  <Make_MedicineIndustrial.description>Gyógyszer készítése.</Make_MedicineIndustrial.description>
+  <!-- EN: Gyógyszer gyártás. -->
+  <Make_MedicineIndustrial.jobString>gyógyszert készít</Make_MedicineIndustrial.jobString>
+  
+  <!-- EN: Bunkósbot gyártás -->
+  <Make_MeleeWeapon_Club.label>bunkósbot</Make_MeleeWeapon_Club.label>
+  <Make_MeleeWeapon_Club.description>Az emberiség legrégebbi fegyvere. Egy fadarab, melynek egyik vége nehezebb. Célja egymás agyonverése. Egyszerű, de hatásos.</Make_MeleeWeapon_Club.description>
+  <!-- EN: Bunkósbot gyártás. -->
+  <Make_MeleeWeapon_Club.jobString>bunkósbotot gyárt</Make_MeleeWeapon_Club.jobString>
+  
+  <!-- EN: Gladius gyártás -->
+  <Make_MeleeWeapon_Gladius.label>gladius</Make_MeleeWeapon_Gladius.label>
+  <Make_MeleeWeapon_Gladius.description>Antik rövidkard. Jó szúró-, és vágófegyver.</Make_MeleeWeapon_Gladius.description>
+  <!-- EN: Gladius gyártás. -->
+  <Make_MeleeWeapon_Gladius.jobString>gladiust gyárt</Make_MeleeWeapon_Gladius.jobString>
+  
+  <!-- EN: Ikwa gyártás -->
+  <Make_MeleeWeapon_Ikwa.label>ikwa</Make_MeleeWeapon_Ikwa.label>
+  <Make_MeleeWeapon_Ikwa.description>Ikwa gyártása.</Make_MeleeWeapon_Ikwa.description>
+  <!-- EN: Ikwa gyártás. -->
+  <Make_MeleeWeapon_Ikwa.jobString>ikwát gyárt</Make_MeleeWeapon_Ikwa.jobString>
+  
+  <!-- EN: Kés gyártás -->
+  <Make_MeleeWeapon_Knife.label>kés</Make_MeleeWeapon_Knife.label>
+  <Make_MeleeWeapon_Knife.description>Az ember egyik legrégebbi szerszáma, a kés, éppúgy mindennapi tárgy, mint gyilkos eszköz.</Make_MeleeWeapon_Knife.description>
+  <!-- EN: Kés gyártás. -->
+  <Make_MeleeWeapon_Knife.jobString>kést gyárt</Make_MeleeWeapon_Knife.jobString>
+  
+  <!-- EN: Hosszúkard gyártás -->
+  <Make_MeleeWeapon_LongSword.label>hosszúkard</Make_MeleeWeapon_LongSword.label>
+  <Make_MeleeWeapon_LongSword.description>A hosszúkard a királyok ősi fegyvere. Jó szúró-, és vágófegyver, a megfelelő kézben halálos.</Make_MeleeWeapon_LongSword.description>
+  <!-- EN: Hosszúkard gyártás. -->
+  <Make_MeleeWeapon_LongSword.jobString>hosszúkardot gyárt</Make_MeleeWeapon_LongSword.jobString>
+  
+  <!-- EN: Buzogány gyártás -->
+  <Make_MeleeWeapon_Mace.label>buzogány</Make_MeleeWeapon_Mace.label>
+  <Make_MeleeWeapon_Mace.description>Fejlesztett bunkósbot, halálos csapásokra tervezve.</Make_MeleeWeapon_Mace.description>
+  <!-- EN: Buzogány gyártás. -->
+  <Make_MeleeWeapon_Mace.jobString>buzogányt gyárt</Make_MeleeWeapon_Mace.jobString>
+  
+  <!-- EN: Dárda gyártás -->
+  <Make_MeleeWeapon_Spear.label>dárda</Make_MeleeWeapon_Spear.label>
+  <Make_MeleeWeapon_Spear.description>Hosszú bot vasheggyel az ellenfelek leszúrására.</Make_MeleeWeapon_Spear.description>
+  <!-- EN: Dárda gyártás. -->
+  <Make_MeleeWeapon_Spear.jobString>dárdát gyárt</Make_MeleeWeapon_Spear.jobString>
+  
+  <!-- EN: Penoxycyline gyártás -->
+  <Make_Penoxycyline.label>penoxycyline</Make_Penoxycyline.label>
+  <Make_Penoxycyline.description>Malária elleni gyógyszer. Ötnaponta szedve távol tartja a maláriát.</Make_Penoxycyline.description>
+  <!-- EN: Penoxycyline gyártás. -->
+  <Make_Penoxycyline.jobString>penoxycyline-t gyárt</Make_Penoxycyline.jobString>
+  
+  <!-- EN: Dobódárdák gyártás -->
+  <Make_Pila.label>dobódárda</Make_Pila.label>
+  <Make_Pila.description>Több, egyszer használatos dobódárda.</Make_Pila.description>
+  <!-- EN: Dobódárdák gyártás. -->
+  <Make_Pila.jobString>dobódárdát gyárt</Make_Pila.jobString>
+  
+  <!-- EN: Szobor (óriás) gyártás -->
+  <Make_SculptureGrand.label>óriás szobor</Make_SculptureGrand.label>
+  <Make_SculptureGrand.description>Óriás szobor készítése</Make_SculptureGrand.description>
+  <!-- EN: Szobor (óriás) gyártás. -->
+  <Make_SculptureGrand.jobString>óriás szobrot készít</Make_SculptureGrand.jobString>
+  
+  <!-- EN: Szobor (nagy) gyártás -->
+  <Make_SculptureLarge.label>nagy szobor</Make_SculptureLarge.label>
+  <Make_SculptureLarge.description>Nagy szobor készítése</Make_SculptureLarge.description>
+  <!-- EN: Szobor (nagy) gyártás. -->
+  <Make_SculptureLarge.jobString>nagy szobrot készít</Make_SculptureLarge.jobString>
+  
+  <!-- EN: Szobor (kicsi) gyártás -->
+  <Make_SculptureSmall.label>kis szobor</Make_SculptureSmall.label>
+  <Make_SculptureSmall.description>Kis szobor készítése</Make_SculptureSmall.description>
+  <!-- EN: Szobor (kicsi) gyártás. -->
+  <Make_SculptureSmall.jobString>kis szobrot készít</Make_SculptureSmall.jobString>
+  
+  <!-- EN: EMP lövedék gyártás -->
+  <Make_Shell_EMP.label>EMP lövedék</Make_Shell_EMP.label>
+  <Make_Shell_EMP.description>EMP lövedék készítése.</Make_Shell_EMP.description>
+  <!-- EN: EMP lövedék gyártás. -->
+  <Make_Shell_EMP.jobString>EMP lövedéket készít</Make_Shell_EMP.jobString>
+  
+  <!-- EN: Oltóhab lövedék gyártás -->
+  <Make_Shell_Firefoam.label>oltóhab lövedék</Make_Shell_Firefoam.label>
+  <Make_Shell_Firefoam.description>Oltóhab lövedék készítése.</Make_Shell_Firefoam.description>
+  <!-- EN: Oltóhab lövedék gyártás. -->
+  <Make_Shell_Firefoam.jobString>oltóhab lövedéket készít</Make_Shell_Firefoam.jobString>
+  
+  <!-- EN: Repeszromboló lövedék gyártás -->
+  <Make_Shell_HighExplosive.label>repeszromboló lövedék</Make_Shell_HighExplosive.label>
+  <Make_Shell_HighExplosive.description>Repeszromboló lövedék készítése.</Make_Shell_HighExplosive.description>
+  <!-- EN: Repeszromboló lövedék gyártás. -->
+  <Make_Shell_HighExplosive.jobString>repeszromboló lövedéket készít</Make_Shell_HighExplosive.jobString>
+  
+  <!-- EN: Gyújtó lövedék gyártás -->
+  <Make_Shell_Incendiary.label>gyújtó lövedék</Make_Shell_Incendiary.label>
+  <Make_Shell_Incendiary.description>Gyújtó lövedék készítése.</Make_Shell_Incendiary.description>
+  <!-- EN: Gyújtó lövedék gyártás. -->
+  <Make_Shell_Incendiary.jobString>gyújtó lövedéket készít</Make_Shell_Incendiary.jobString>
+  
+  <!-- EN: Egyszerű műkar gyártás -->
+  <Make_SimpleProstheticArm.label>műkéz</Make_SimpleProstheticArm.label>
+  <Make_SimpleProstheticArm.description>Műkéz készítése.</Make_SimpleProstheticArm.description>
+  <!-- EN: Egyszerű műkar gyártás. -->
+  <Make_SimpleProstheticArm.jobString>műkezet készít</Make_SimpleProstheticArm.jobString>
+  
+  <!-- EN: Műszív gyártás -->
+  <Make_SimpleProstheticHeart.label>műszív</Make_SimpleProstheticHeart.label>
+  <Make_SimpleProstheticHeart.description>Műszív készítése.</Make_SimpleProstheticHeart.description>
+  <!-- EN: Műszív gyártás. -->
+  <Make_SimpleProstheticHeart.jobString>műszívet készít.</Make_SimpleProstheticHeart.jobString>
+  
+  <!-- EN: Egyszerű műláb gyártás -->
+  <Make_SimpleProstheticLeg.label>műláb</Make_SimpleProstheticLeg.label>
+  <Make_SimpleProstheticLeg.description>Műláb készítése.</Make_SimpleProstheticLeg.description>
+  <!-- EN: Egyszerű műláb gyártás. -->
+  <Make_SimpleProstheticLeg.jobString>műlábat készít</Make_SimpleProstheticLeg.jobString>
+  
+  <!-- EN: Füves cigi gyártás -->
+  <Make_SmokeleafJoint.label>füves cigi</Make_SmokeleafJoint.label>
+  <Make_SmokeleafJoint.description>Marihuána levelek cigarettaként. Ez a drog javítja a hangulatot, növeli az étvágyat, rontja a koncentrálóképességet, lelassítja a mozgást.</Make_SmokeleafJoint.description>
+  <!-- EN: Füves cigi gyártás. -->
+  <Make_SmokeleafJoint.jobString>füves cigit gyárt</Make_SmokeleafJoint.jobString>
+  
+  <!-- EN: Amfetamin gyártás -->
+  <Make_WakeUp.label>amfetamin</Make_WakeUp.label>
+  <Make_WakeUp.description>Függőséget okozó stimuláns. Az amfetamin kiterjeszti a kognitív képességeket, ezzel lehetővé téve a nagyfokú koncentrálást hosszú ideig, anélkül, hogy elfáradnánk.</Make_WakeUp.description>
+  <!-- EN: Amfetamin gyártás. -->
+  <Make_WakeUp.jobString>amfetamint gyárt</Make_WakeUp.jobString>
+  
+  <!-- EN: EMP-gránát gyártás -->
+  <Make_Weapon_GrenadeEMP.label>EMP gránát</Make_Weapon_GrenadeEMP.label>
+  <Make_Weapon_GrenadeEMP.description>EMP gránát készítése.</Make_Weapon_GrenadeEMP.description>
+  <!-- EN: EMP-gránát gyártás. -->
+  <Make_Weapon_GrenadeEMP.jobString>EMP gránátot készít</Make_Weapon_GrenadeEMP.jobString>
+  
+  <!-- EN: Repeszgránát gyártás -->
+  <Make_Weapon_GrenadeFrag.label>repeszgránát</Make_Weapon_GrenadeFrag.label>
+  <Make_Weapon_GrenadeFrag.description>Repeszgránát készítése.</Make_Weapon_GrenadeFrag.description>
+  <!-- EN: Repeszgránát gyártás. -->
+  <Make_Weapon_GrenadeFrag.jobString>repeszgránátot készít</Make_Weapon_GrenadeFrag.jobString>
+  
+  <!-- EN: Molotov koktél gyártás -->
+  <Make_Weapon_GrenadeMolotov.label>molotov koktél</Make_Weapon_GrenadeMolotov.label>
+  <Make_Weapon_GrenadeMolotov.description>Molotov koktél készítése.</Make_Weapon_GrenadeMolotov.description>
+  <!-- EN: Molotov koktél gyártás. -->
+  <Make_Weapon_GrenadeMolotov.jobString>molotov koktélt készít</Make_Weapon_GrenadeMolotov.jobString>
+  
+  <!-- EN: Kokain gyártás -->
+  <Make_Yayo.label>kokain</Make_Yayo.label>
+  <Make_Yayo.description>Finom fehér por, mely orrba felszívva eufórikus állapotot idéz elő. Csökkenti a pihenés iránti vágyat és elnyomja a fájdalmat. Függőséget okoz.</Make_Yayo.description>
+  <!-- EN: Kokain gyártás. -->
+  <Make_Yayo.jobString>kokaint gyárt</Make_Yayo.jobString>
+  
+</LanguageData>

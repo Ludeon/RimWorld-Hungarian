@@ -1,11 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <NoInteraction.label>semmi</NoInteraction.label>
-  <ReduceResistance.label>ellenállás megtörés</ReduceResistance.label>
+  
+  <!-- EN: recruit -->
   <AttemptRecruit.label>csevej és toborzás</AttemptRecruit.label>
-  <Release.label>elenged</Release.label>
+  
+  <!-- EN: execute -->
   <Execution.label>kivégez</Execution.label>
-
-
+  
+  <!-- EN: no interaction -->
+  <NoInteraction.label>semmi</NoInteraction.label>
+  
+  <!-- EN: reduce resistance -->
+  <ReduceResistance.label>ellenállás megtörés</ReduceResistance.label>
+  
+  <!-- EN: release -->
+  <Release.label>elenged</Release.label>
+  
 </LanguageData>

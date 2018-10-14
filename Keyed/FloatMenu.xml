@@ -20,9 +20,6 @@
   <!-- EN: leader is unavailable -->
   <LeaderUnavailableNoLeader>vezér nem elérhető</LeaderUnavailableNoLeader>
   
-  <Open>Kinyit: {0_label}</Open>
-  <CannotOpen>Nem lehet kinyitni: {0_label}</CannotOpen>
-  
   <!-- EN: Fire at {1_label} -->
   <FireAt>Tüzelni erre: {1_labelShort} </FireAt>
 
@@ -205,8 +202,8 @@
   <PickUpAll>Felvenni az összest: {1_label}</PickUpAll>
   <!-- EN: Pick up {1_labelShort}... -->
   <PickUpSome>Felvenni ebből: {1_labelShort}</PickUpSome>
-  <!-- EN: Pick up {1_labelShort} x{{1_labelShort}} -->
-  <PickUpCount>Felvenni {0} darabot ebből: {1_labelShort}</PickUpCount>
+  <!-- EN: Pick up {1_labelShort} x{{0}} -->
+  <PickUpCount>Felvenni: {1_labelShort} x{{0}}</PickUpCount>
   
   <!-- EN: Cannot give {1_label} to pack animal -->
   <CannotGiveToPackAnimal>Nem lehet a málhásra rakni ezt: {1_label}</CannotGiveToPackAnimal>
@@ -218,8 +215,8 @@
   <GiveToPackAnimalAll>Málhásra rakni az összest:{1_label}</GiveToPackAnimalAll>
   <!-- EN: Give {1_labelShort} to pack animal... -->
   <GiveToPackAnimalSome>Málhásra rakni ebből: {1_labelShort}</GiveToPackAnimalSome>
-  <!-- EN: Take {1_labelShort} x{{1_labelShort}} -->
-  <GiveToPackAnimalCount>Málhásra rakni {0} darabot ebből: {1_labelShort}</GiveToPackAnimalCount>
+  <!-- EN: Take {1_labelShort} x{{0}} -->
+  <GiveToPackAnimalCount>Rakodni: {1_labelShort} x{{0}}</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
   <CannotLoadIntoCaravan>Nem lehet a karavánra rakodni ezt: {1_label}</CannotLoadIntoCaravan>
@@ -231,8 +228,8 @@
   <LoadIntoCaravanAll>Karavánra rakodni az összest: {1_label}</LoadIntoCaravanAll>
   <!-- EN: Load {1_labelShort} into caravan... -->
   <LoadIntoCaravanSome>Karavánra rakodni ebből: {1_labelShort}</LoadIntoCaravanSome>
-  <!-- EN: Load {1_labelShort} x{{1_labelShort}} -->
-  <LoadIntoCaravanCount>Rakodni {0} darabot ebből: {1_labelShort}</LoadIntoCaravanCount>
+  <!-- EN: Load {1_labelShort} x{{0}} -->
+  <LoadIntoCaravanCount>Rakodni: {1_labelShort} x{{0}}</LoadIntoCaravanCount>
   <!-- EN: overweight -->
   <OverweightLower>túlsúly</OverweightLower>
 
@@ -265,6 +262,11 @@
   <TradeWith>Kereskedj vele: {0}</TradeWith>
   <!-- EN: Cannot trade -->
   <CannotTrade>Nem lehet kereskedni</CannotTrade>
+
+  <!-- EN: Open {0_label} -->
+  <Open>Kinyit: {0_label}</Open>
+  <!-- EN: Cannot open {0_label} -->
+  <CannotOpen>Nem lehet kinyitni: {0_label}</CannotOpen>
   
   <!-- EN: Enter {0} -->
   <EnterMap>Belépni ide: {0}</EnterMap>

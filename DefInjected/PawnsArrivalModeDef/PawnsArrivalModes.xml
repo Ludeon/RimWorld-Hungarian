@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: A group of {0} from {1} have dropped in right on top of you! -->
+  <CenterDrop.textEnemy>Figyelem, {0} ({1}) pottyant pont oda, ahol vagy!</CenterDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have dropped in right on top of you! -->
+  <CenterDrop.textFriendly>Barátságos {0} ({1}) pottyant pont oda, ahol vagy!</CenterDrop.textFriendly>
+  
+  <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDrop.textEnemy>Figyelem, {0} ({1}) érkeztek szállítókapszulán a közelbe.</EdgeDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDrop.textFriendly>Barátságos {0} ({1}) érkeztek szállítókapszulán a közelbe.</EdgeDrop.textFriendly>
+  
+  <!-- EN: Several separate groups of {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDropGroups.textEnemy>Figyelem, {0} ({1}) érkeztek szállítókapszulán a közelbe, több különálló csapat.</EdgeDropGroups.textEnemy>
+  <!-- EN: Several separate groups of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDropGroups.textFriendly>Barátságos {0} ({1}) érkeztek szállítókapszulán a közelbe, több különálló csapat.</EdgeDropGroups.textFriendly>
+  
+  <!-- EN: A group of {0} from {1} have arrived nearby. -->
+  <EdgeWalkIn.textEnemy>Figyelem, {0} ({1}) érkeztek a közelbe.</EdgeWalkIn.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived nearby. -->
+  <EdgeWalkIn.textFriendly>Barátságos {0} ({1}) érkeztek a közelbe</EdgeWalkIn.textFriendly>
+  
+  <!-- EN: Several separate groups of {0} from {1} have arrived nearby. -->
+  <EdgeWalkInGroups.textEnemy>Figyelem, {0} ({1}) érkeztek a közelbe, több különálló csapat.</EdgeWalkInGroups.textEnemy>
+  <!-- EN: Several separate groups of friendly {0} from {1} have arrived nearby. -->
+  <EdgeWalkInGroups.textFriendly>Barátságos {0} ({1}) érkeztek a közelbe, több különálló csapat.</EdgeWalkInGroups.textFriendly>
+  
+  <!-- EN: A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+  <RandomDrop.textEnemy>Figyelem, {0} ({1}) érkeztek szállítókapszulán. A kapszulák szanaszét landoltak mindenfelé!</RandomDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+  <RandomDrop.textFriendly>Barátságos {0} ({1}) érkeztek szállítókapszulán. A kapszulák szanaszét landoltak mindenfelé!</RandomDrop.textFriendly>
+  
+</LanguageData>

@@ -1,31 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- <Plant_TallGrass.label>magas fű</Plant_TallGrass.label> -->
-  <!-- <Plant_TallGrass.description>Sűrű, magas fű. Erősen lassítja az áthaladást.</Plant_TallGrass.description> -->
-  <Plant_TreeTeak.label>tíkfa</Plant_TreeTeak.label>
-  <Plant_TreeTeak.description>Nagyon kemény faféle. Régebben hajóépítésre használták.</Plant_TreeTeak.description>
-  <Plant_TreeCecropia.label>cecropia</Plant_TreeCecropia.label>
-  <Plant_TreeCecropia.description>Az egyik leggyakoribb trópusi fafajta. Nagyon gyorsan nő, de kevés hasznosítható faanyagot ad.</Plant_TreeCecropia.description>
-
-  <Plant_TreePalm.label>pálma</Plant_TreePalm.label>
-  <Plant_TreePalm.description>Trópusi fafajta, aminek törzse kopasz és a tetején vannak nagy levelei.</Plant_TreePalm.description>
-
-  <Plant_TreeBamboo.label>bambusz</Plant_TreeBamboo.label>
-  <Plant_TreeBamboo.description>Gyorsan növekedő, faszerű növény, ami foltokban található. Betakarítható, faszerű építőanyagáért. Nem túl szép növény.</Plant_TreeBamboo.description>
+  
+  <!-- EN: alocasia -->
   <Plant_Alocasia.label>alokázia</Plant_Alocasia.label>
+  <!-- EN: A tropical plant. Its extremely broad leaves are a commonly-recognized signifier of tropical forests. -->
   <Plant_Alocasia.description>Gyakori, széleslevelű trópusi növény.</Plant_Alocasia.description>
-
+  
+  <!-- EN: clivia -->
   <Plant_Clivia.label>klívia</Plant_Clivia.label>
+  <!-- EN: An unusual plant with tall, pretty flowers. Some call it the 'bush lily'. -->
   <Plant_Clivia.description>Szokatlan növény, magasan növő szép virággal. Némelyek szobaliliomnak hívják.</Plant_Clivia.description>
-
+  
+  <!-- EN: giant rafflesia -->
   <Plant_Rafflesia.label>óriás bűzvirág</Plant_Rafflesia.label>
+  <!-- EN: A rare, giant flower which can be found deep in steaming jungles. You would think a giant flower would be beautiful, but this one looks and smells like rotting flesh. -->
   <Plant_Rafflesia.description>Ritka, óriási virág. Azt gondolná az ember, hogy biztosan gyönyörű, de valójában elég ronda és nagyon büdös.</Plant_Rafflesia.description>
+  
+  <!-- EN: low shrubs -->
   <Plant_ShrubLow.label>rekettyés</Plant_ShrubLow.label>
+  <!-- EN: Various low broadleaf shrubs. These grow in clusters and slow down movement. -->
   <Plant_ShrubLow.description>Alacsony széleslevelű rekettyés. Foltokban nő és némileg lelassítja a mozgást.</Plant_ShrubLow.description>
   
-  <Plant_TreeCocoa.label>kakaó</Plant_TreeCocoa.label>
-  <Plant_TreeCocoa.description>Trópusi fa, melynek terméséből csokoládé készül. Génmódosított faj, édesebb a termése és megél kevésbé meleg éghajlaton is.</Plant_TreeCocoa.description>
+  <!-- EN: bamboo tree -->
+  <Plant_TreeBamboo.label>bambusz</Plant_TreeBamboo.label>
+  <!-- EN: A fast-growing tree-like plant that grows in dense groves. Bamboo can be harvested for a wood-like material. The plant itself is not beautiful. -->
+  <Plant_TreeBamboo.description>Gyorsan növekedő, faszerű növény, ami foltokban található. Betakarítható, faszerű építőanyagáért. Nem túl szép növény.</Plant_TreeBamboo.description>
   
-
+  <!-- EN: cecropia tree -->
+  <Plant_TreeCecropia.label>cecropia</Plant_TreeCecropia.label>
+  <!-- EN: One of the most common rainforest trees. Cecropia grows very fast, but yields little usable wood. -->
+  <Plant_TreeCecropia.description>Az egyik leggyakoribb trópusi fafajta. Nagyon gyorsan nő, de kevés hasznosítható faanyagot ad.</Plant_TreeCecropia.description>
   
-  </LanguageData>
+  <!-- EN: palm tree -->
+  <Plant_TreePalm.label>pálma</Plant_TreePalm.label>
+  <!-- EN: A tropical tree with a tall, naked trunk topped by a cluster of very broad leaves. Unfortunately, this variety doesn't produce any edible coconuts. -->
+  <Plant_TreePalm.description>Trópusi fafajta, aminek törzse kopasz és a tetején vannak nagy levelei.</Plant_TreePalm.description>
+  
+  <!-- EN: teak tree -->
+  <Plant_TreeTeak.label>tíkfa</Plant_TreeTeak.label>
+  <!-- EN: An exceptionally strong hardwood tree that grows in warm climates. Because teak wood is so durable and water-resistant, it was used to form the keel of wooden sailing ships in ancient times. -->
+  <Plant_TreeTeak.description>Nagyon kemény faféle. Régebben hajóépítésre használták.</Plant_TreeTeak.description>
+  
+</LanguageData>

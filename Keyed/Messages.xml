@@ -134,8 +134,8 @@
 
   <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort}. -->
   <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} kisebb hibát vétett {PATIENT_labelShort} műtétje közben.</MessageMedicalOperationFailureMinor>
-  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {patient.LabelShort}. -->
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} katasztrofális hibát vétett {patient.LabelShort} műtétje közben.</MessageMedicalOperationFailureCatastrophic>
+  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_LabelShort}. -->
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} katasztrofális hibát vétett {PATIENT_labelShort} műtétje közben.</MessageMedicalOperationFailureCatastrophic>
   <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort}. -->
   <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} nevetséges hibát vétett {PATIENT_labelShort} műtétje közben.</MessageMedicalOperationFailureRidiculous>
   <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2} -->
@@ -271,12 +271,6 @@
   <!-- EN: {0} has arrived at its destination. -->
   <MessageCaravanArrivedAtDestination>{0} megérkezett a célhoz.</MessageCaravanArrivedAtDestination>
   
-  <!-- EN: {0} has arrived in {1}. -->
-  <!-- <MessageCaravanIsVisitingSettlement>{0} megérkezett ide: {1}.</MessageCaravanIsVisitingSettlement> -->
-  
-  <!-- EN: {0} has arrived in {1}. -->
-  <!-- <MessageCaravanEnteredWorldObject>{0} megérkezett ide: {1}.</MessageCaravanEnteredWorldObject> -->
-  
   <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
   <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} elhagyta a területet és karavánt alakított.</MessagePawnLeftMapAndCreatedCaravan>
   <!-- EN: Your animals are moving to join it. -->
@@ -288,7 +282,7 @@
   <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
   <MessagePermanentWoundHealed>{2} meggyógyult ({PAWN_labelShort}). Ok: {0}</MessagePermanentWoundHealed>
 
-  <!-- EN: Since you rescued {!_objective}, {1_labelShort} has joined your group! -->
+  <!-- EN: {1_labelShort} has joined your group after being rescued! -->
   <MessageRescueeJoined>Mivel megmentetted, {1_labelShort} csatlakozott hozzád!</MessageRescueeJoined>
   
   <!-- EN: Some transport pods are unreachable. -->
@@ -430,6 +424,7 @@
 
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
   <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>A körzet elhagyásához használd a "Karaván újjáalakítása" gombot a világtérképen.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <!-- EN: You can't leave the map now. -->
   <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>Jelenleg nem hagyhatod el a térképet.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
 
   <!-- EN: Relations with {0} have changed from {1} to {2}. -->
@@ -523,9 +518,8 @@
 
   <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
   <MessageCapturingWillAngerFaction>Figyelem: {PAWN_nameDef} elfogása fel fogja bőszíteni a frakcióját ({PAWN_factionName})!</MessageCapturingWillAngerFaction>
-  
-   <MessageCantShootInMelee>Közelharcban nem lőhetsz</MessageCantShootInMelee>
-  
-  
+
+  <!-- EN: Cannot shoot in melee. -->
+  <MessageCantShootInMelee>Közelharcban nem lőhetsz</MessageCantShootInMelee>
 
 </LanguageData>

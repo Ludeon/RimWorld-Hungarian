@@ -1,14 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SculptureSmall.label>szobor (kicsi)</SculptureSmall.label>
-  <SculptureSmall.description>Mellszobor nagyságú művészeti alkotás egyetlen anyagból kifaragva.</SculptureSmall.description>
-  <Blueprint_Install_SculptureSmall.label>szobor (kicsi) (tervrajz)</Blueprint_Install_SculptureSmall.label>
-  <SculptureLarge.label>szobor (nagy)</SculptureLarge.label>
-  <SculptureLarge.description>Ember nagyságú művészeti alkotás egyetlen anyagból kifaragva.</SculptureLarge.description>
-  <Blueprint_Install_SculptureLarge.label>szobor (nagy) (tervrajz)</Blueprint_Install_SculptureLarge.label>
+  
+  <!-- EN: grand sculpture -->
   <SculptureGrand.label>szobor (óriás)</SculptureGrand.label>
+  <!-- EN: A huge sculpture sized to dominate a room. -->
   <SculptureGrand.description>Jármű nagyságú művészeti alkotás egyetlen anyagból kifaragva.</SculptureGrand.description>
-  <Blueprint_Install_SculptureGrand.label>szobor (óriás) (tervrajz)</Blueprint_Install_SculptureGrand.label>
+  
+  <!-- EN: large sculpture -->
+  <SculptureLarge.label>szobor (nagy)</SculptureLarge.label>
+  <!-- EN: A person-sized piece of material sculpted into an artistic form. -->
+  <SculptureLarge.description>Ember nagyságú művészeti alkotás egyetlen anyagból kifaragva.</SculptureLarge.description>
+  
+  <!-- EN: small sculpture -->
+  <SculptureSmall.label>szobor (kicsi)</SculptureSmall.label>
+  <!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
+  <SculptureSmall.description>Mellszobor nagyságú művészeti alkotás egyetlen anyagból kifaragva.</SculptureSmall.description>
+  
+  <!-- EN: snowman -->
   <Snowman.label>hóember</Snowman.label>
+  <!-- EN: A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it. -->
   <Snowman.description>Hógolyók egymásra állítva, hogy embert formázzon.</Snowman.description>
+  
 </LanguageData>

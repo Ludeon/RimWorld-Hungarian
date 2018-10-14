@@ -9,14 +9,6 @@
   <OK>OK</OK>
   <!-- EN: Close -->
   <Close>Bezár</Close>
-    
-  <PowerConsumption>Áramigény</PowerConsumption>
-  <ShotsBeforeRearmExplanation>Hány lövés múlva kell az agyút újraélesíteni.</ShotsBeforeRearmExplanation>
-  <ShotsBeforeRearm>Maradék lövések száma</ShotsBeforeRearm>
-  <RearmCostExplanation>Az újraélesítéshez szükséges anyagok (nehézségi szinttől függ)</RearmCostExplanation>
-  <RearmCost>Újraélesítés ára</RearmCost>
-  <TrapArmorPenetration>Csapda védelem átütése</TrapArmorPenetration>
-  
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -434,7 +426,7 @@
   <NuzzleIntervalExplanation>Átlagosan milyen gyakorisággal dörgölőzik az állat a gyarmatosokhoz.\n\nA dörgölőzés sok állatfajnál megfigyelhető viselkedés, mely a barátság kimutatását szolgálja. A legtöbb ember cukinak találja ezt és egy ideig jobb hangulatuk lesz tőle.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>Megtorlás esély</HarmedRevengeChance>
-  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeing revenge, attack it from rifle range with a slow-firing weapon. -->
+  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
   <HarmedRevengeChanceExplanation>Annak esélye, hogy az alany megtorolja az őt ért támadást.\n\nPuska lőtávra értendő. Az esély növekszik, ha a támadó közelebb van. Közelharcban az esély háromszoros.\n\nMinden sebződésnél bejöhet, ezért a lassú, nagyot ütő fegyverek kisebb valószínűséggel váltják ki.\n\nA megtorlás esélyének minimalizálásához használj lassú, nagy hatótávú fegyvereket.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>Megtorlás szelídítésnél</TameFailedRevengeChance>
@@ -442,6 +434,18 @@
   <TerrainRequirement>Terep követelmény</TerrainRequirement>
   <!-- EN: Supports -->
   <Supports>Építhető rá</Supports>
+  <!-- EN: Trap armor penetration -->
+  <TrapArmorPenetration>Csapda védelem átütése</TrapArmorPenetration>
+  <!-- EN: Rearm cost -->
+  <RearmCost>Újraélesítés ára</RearmCost>
+  <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
+  <RearmCostExplanation>Az újraélesítéshez szükséges anyagok (nehézségi szinttől függ)</RearmCostExplanation>
+  <!-- EN: Shots before rearm -->
+  <ShotsBeforeRearm>Maradék lövések száma</ShotsBeforeRearm>
+  <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
+  <ShotsBeforeRearmExplanation>Hány lövés múlva kell az agyút újraélesíteni.</ShotsBeforeRearmExplanation>
+  <!-- EN: Power consumption -->
+  <PowerConsumption>Áramigény</PowerConsumption>
 
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
@@ -497,7 +501,7 @@
   <!-- EN: difficulty level -->
   <DifficultyLevel>nehézségi szint</DifficultyLevel>
   <!-- EN: global post-process curve -->
-  <PostCurve>?global post-process curve</PostCurve>
+  <PostCurve>global post-process curve</PostCurve>
   <!-- EN: Your negotiator bonus -->
   <YourNegotiatorBonus>Alkusz bónusz</YourNegotiatorBonus>
   <!-- EN: Trading with faction base bonus -->
@@ -695,11 +699,11 @@
   <!-- EN: Outfit -->
   <Outfit>Felszerelés</Outfit>
   <!-- EN: Select outfit... -->
-  <SelectOutfit>Felszerelés kiválasztása...</SelectOutfit>
+  <SelectOutfit>Kiválasztás...</SelectOutfit>
   <!-- EN: New outfit -->
   <NewOutfit>Új felszerelés</NewOutfit>
   <!-- EN: Delete outfit... -->
-  <DeleteOutfit>Felszerelés törlése...</DeleteOutfit>
+  <DeleteOutfit>Felszerelés törlése</DeleteOutfit>
   <!-- EN: Outfit is in use by {0}. -->
   <OutfitInUse>A felszerelést {0} használja</OutfitInUse>
   <!-- EN: No outfit selected -->
@@ -709,13 +713,15 @@
   <!-- EN: Drug policy -->
   <DrugPolicy>Drogszabályok</DrugPolicy>
   <!-- EN: Select policy... -->
-  <SelectDrugPolicy>Szabály kiválasztása...</SelectDrugPolicy>
+  <SelectDrugPolicy>Kiválasztás...</SelectDrugPolicy>
   <!-- EN: New policy -->
-  <NewDrugPolicy>Új szabály</NewDrugPolicy>
+  <NewDrugPolicy>Új drogszabály</NewDrugPolicy>
   <!-- EN: Delete policy... -->
-  <DeleteDrugPolicy>Szabály törlése...</DeleteDrugPolicy>
+  <DeleteDrugPolicy>Drogszabály törlése</DeleteDrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
   <DrugPolicyInUse>A szabályt {0} használja.</DrugPolicyInUse>
+  <!-- EN: Food restriction is in use by {0}. -->
+  <FoodRestrictionInUse>Étel korlátozás érvényes: {0}.</FoodRestrictionInUse>
   <!-- EN: Social drugs -->
   <SocialDrugs>Könnyű drogok</SocialDrugs>
   <!-- EN: No drugs -->
@@ -770,6 +776,30 @@
   <DrugUsageTipForJoy>Élvezet javítására\n\nA drog használható arra, hogy növelje az élvezetet és természetesen függőség kielégítésére is.</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
   <DrugUsageTipScheduled>Ütemezés szerint\n\nAz előre beállított időpontokban fogyasztható, ha a többi feltétel is ki van elégítve.\n\nA drog használható arra is, hogy feldobja a hangulatot és természetesen függőség kielégítésére is.</DrugUsageTipScheduled>
+
+  <!-- Food restriction management -->
+  <!-- EN: Food restriction -->
+  <FoodRestriction>Étel korlátozás</FoodRestriction>
+  <!-- EN: Lavish -->
+  <FoodRestrictionLavish>Lakoma</FoodRestrictionLavish>
+  <!-- EN: Fine -->
+  <FoodRestrictionFine>Finom</FoodRestrictionFine>
+  <!-- EN: Simple -->
+  <FoodRestrictionSimple>Egyszerű</FoodRestrictionSimple>
+  <!-- EN: Paste -->
+  <FoodRestrictionPaste>Pép</FoodRestrictionPaste>
+  <!-- EN: Raw -->
+  <FoodRestrictionRaw>Nyers</FoodRestrictionRaw>
+  <!-- EN: Nothing -->
+  <FoodRestrictionNothing>Semmi</FoodRestrictionNothing>
+  <!-- EN: Select food restriction -->
+  <SelectFoodRestriction>Kiválasztás...</SelectFoodRestriction>
+  <!-- EN: New food restriction -->
+  <NewFoodRestriction>Új étel korlátozás</NewFoodRestriction>
+  <!-- EN: Delete food restriction -->
+  <DeleteFoodRestriction>Étel korlátozás törlése</DeleteFoodRestriction>
+  <!-- EN: No food restriction selected -->
+  <NoFoodRestrictionSelected>Nincs étel korlátozás</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
   <!-- EN: Defaults -->
@@ -832,18 +862,5 @@
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
   <TransportersCaravanWillBeImmobile>A karaván mozgásképtelen lesz, ha a szállítókapszulákat üres szektorba küldöd. Mindenképp menjen?</TransportersCaravanWillBeImmobile>
-  
-  <FoodRestrictionInUse>Étel korlátozás érvényes: {0}.</FoodRestrictionInUse>
-  <FoodRestriction>Étel korlátozás</FoodRestriction>
-  <FoodRestrictionLavish>Lakoma</FoodRestrictionLavish>
-  <FoodRestrictionFine>Finom</FoodRestrictionFine>
-  <FoodRestrictionSimple>Egyszerű</FoodRestrictionSimple>
-  <FoodRestrictionPaste>Pép</FoodRestrictionPaste>
-  <FoodRestrictionRaw>Nyers</FoodRestrictionRaw>
-  <FoodRestrictionNothing>Semmi</FoodRestrictionNothing>
-  <SelectFoodRestriction>Étel korlátozás kiválasztás</SelectFoodRestriction>
-  <NewFoodRestriction>Új étel korlátozás</NewFoodRestriction>
-  <DeleteFoodRestriction>Étel korlátozás törlés</DeleteFoodRestriction>
-  <NoFoodRestrictionSelected>Nincs étel korlátozás</NoFoodRestrictionSelected>
-  
+
 </LanguageData>

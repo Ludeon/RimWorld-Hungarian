@@ -1,19 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Temporary hack; ranged weapons need to use the old pre-flavorful-combat system to avoid a rebalance cascade. -->
-
-  <RangedStab.label>szúrás</RangedStab.label>
-  <RangedStab.deathMessage>{0} halálra lett szúrva.</RangedStab.deathMessage>
-
-  <Bullet.label>lövedék</Bullet.label>
-  <Bullet.deathMessage>{0} agyon lett lőve.</Bullet.deathMessage>
   
+  <!-- EN: arrow -->
   <Arrow.label>nyíl</Arrow.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
   <Arrow.deathMessage>{0} le lett nyilazva.</Arrow.deathMessage>
   
+  <!-- EN: arrow -->
   <ArrowHighVelocity.label>nyíl</ArrowHighVelocity.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
   <ArrowHighVelocity.deathMessage>{0} le lett nyilazva.</ArrowHighVelocity.deathMessage>
-
-
+  
+  <!-- EN: bullet -->
+  <Bullet.label>lövedék</Bullet.label>
+  <!-- EN: {0} has been shot to death. -->
+  <Bullet.deathMessage>{0} agyon lett lőve.</Bullet.deathMessage>
+  
+  <!-- EN: stab -->
+  <RangedStab.label>szúrás</RangedStab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <RangedStab.deathMessage>{0} halálra lett szúrva.</RangedStab.deathMessage>
+  
 </LanguageData>

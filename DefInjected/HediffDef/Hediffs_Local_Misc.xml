@@ -1,18 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <TraumaSavant.label>trauma tudós</TraumaSavant.label>
-  <TraumaSavant.labelNoun>trauma</TraumaSavant.labelNoun>
+  
+  <!-- EN: chemical damage -->
   <ChemicalDamageModerate.label>kémiai égés</ChemicalDamageModerate.label>
+  
+  <!-- EN: chemical damage -->
   <ChemicalDamageSevere.label>kémiai égés</ChemicalDamageSevere.label>
+  
+  <!-- EN: cirrhosis -->
   <Cirrhosis.label>májzsugor</Cirrhosis.label>
   
+  <!-- EN: resurrection psychosis -->
   <ResurrectionPsychosis.label>élesztés pszichózis</ResurrectionPsychosis.label>
+  <!-- EN: early -->
   <ResurrectionPsychosis.stages.early-0.label>korai</ResurrectionPsychosis.stages.early-0.label>
+  <!-- EN: early -->
   <ResurrectionPsychosis.stages.early-1.label>korai</ResurrectionPsychosis.stages.early-1.label>
+  <!-- EN: moderate -->
   <ResurrectionPsychosis.stages.moderate.label>közepes</ResurrectionPsychosis.stages.moderate.label>
+  <!-- EN: advanced -->
   <ResurrectionPsychosis.stages.advanced.label>előrehaladott</ResurrectionPsychosis.stages.advanced.label>
+  <!-- EN: severe -->
   <ResurrectionPsychosis.stages.severe.label>súlyos</ResurrectionPsychosis.stages.severe.label>
-   <ResurrectionPsychosis.stages.total.label>teljes</ResurrectionPsychosis.stages.total.label>
+  <!-- EN: total -->
+  <ResurrectionPsychosis.stages.total.label>teljes</ResurrectionPsychosis.stages.total.label>
+  <!-- EN: catatonic -->
   <ResurrectionPsychosis.stages.catatonic.label>katatón</ResurrectionPsychosis.stages.catatonic.label>
-
+  
+  <!-- EN: trauma savant -->
+  <TraumaSavant.label>trauma tudós</TraumaSavant.label>
+  <!-- EN: trauma -->
+  <TraumaSavant.labelNoun>trauma</TraumaSavant.labelNoun>
+  
 </LanguageData>

@@ -1,6 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PlayerFaction.label>játékos frakciója</PlayerFaction.label>
+  
+  <!-- EN: starting people -->
   <ConfigPage_ConfigureStartingPawns.label>kezdeti létszám</ConfigPage_ConfigureStartingPawns.label>
+  
+  <!-- EN: Player faction -->
+  <PlayerFaction.label>játékos frakciója</PlayerFaction.label>
+  
+  <!-- EN: arrival method -->
   <PlayerPawnsArriveMethod.label>megérkezés módja</PlayerPawnsArriveMethod.label>
+  
 </LanguageData>

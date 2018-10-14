@@ -4,11 +4,12 @@
   <!-- Forbid -->
   <!-- EN: Forbid -->
   <CommandForbid>Tilt</CommandForbid>
-  <!-- EN: Forbidden - colonists will not interact with this. -->
-  <CommandForbiddenDesc>Tiltott - a gyarmatosok békén hagyják.</CommandForbiddenDesc>
-  <!-- EN: Not forbidden - colonists may interact with this. -->
-  <CommandNotForbiddenDesc>Nem tiltott - a gyarmatosok foglalkozhatnak ezzel.</CommandNotForbiddenDesc>
+  <!-- EN: Allow -->
   <CommandAllow>Enged</CommandAllow>
+  <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
+  <CommandForbiddenDesc>Tiltott - a gyarmatosok békén hagyják.</CommandForbiddenDesc>
+  <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
+  <CommandNotForbiddenDesc>Nem tiltott - a gyarmatosok foglalkozhatnak ezzel.</CommandNotForbiddenDesc>
 
   <!-- Power -->
   <!-- EN: Toggle power -->

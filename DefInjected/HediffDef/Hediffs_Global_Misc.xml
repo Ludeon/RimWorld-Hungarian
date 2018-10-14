@@ -1,47 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BloodLoss.label>vérveszteség</BloodLoss.label>
-  <BloodLoss.stages.minor-0.label>csekély</BloodLoss.stages.minor-0.label>
-  <BloodLoss.stages.minor-1.label>enyhe</BloodLoss.stages.minor-1.label>
-  <BloodLoss.stages.moderate.label>közepes</BloodLoss.stages.moderate.label>
-  <BloodLoss.stages.severe.label>erős</BloodLoss.stages.severe.label>
-  <BloodLoss.stages.extreme.label>súlyos</BloodLoss.stages.extreme.label>
+  
+  <!-- EN: anesthetic -->
   <Anesthetic.label>érzéketlenség</Anesthetic.label>
+  
+  <!-- EN: blood loss -->
+  <BloodLoss.label>vérveszteség</BloodLoss.label>
+  <!-- EN: minor -->
+  <BloodLoss.stages.minor-0.label>csekély</BloodLoss.stages.minor-0.label>
+  <!-- EN: minor -->
+  <BloodLoss.stages.minor-1.label>enyhe</BloodLoss.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <BloodLoss.stages.moderate.label>közepes</BloodLoss.stages.moderate.label>
+  <!-- EN: severe -->
+  <BloodLoss.stages.severe.label>erős</BloodLoss.stages.severe.label>
+  <!-- EN: extreme -->
+  <BloodLoss.stages.extreme.label>súlyos</BloodLoss.stages.extreme.label>
+  
+  <!-- EN: catatonic breakdown -->
   <CatatonicBreakdown.label>katatón összeomlás</CatatonicBreakdown.label>
-  <PsychicShock.label>pszichotikus sokk</PsychicShock.label>
+  <!-- EN: a catatonic breakdown -->
+  <CatatonicBreakdown.labelNoun>katatón összeomlás</CatatonicBreakdown.labelNoun>
+  
+  <!-- EN: cryptosleep sickness -->
   <CryptosleepSickness.label>hibernáció utóhatás</CryptosleepSickness.label>
-  <FoodPoisoning.label>ételmérgezés</FoodPoisoning.label>
-  <FoodPoisoning.stages.recovering.label>gyógyuló</FoodPoisoning.stages.recovering.label>
-  <FoodPoisoning.stages.major.label>súlyos</FoodPoisoning.stages.major.label>
-  <FoodPoisoning.stages.initial.label>kezdeti</FoodPoisoning.stages.initial.label>
-  <ToxicBuildup.label>mérgezés</ToxicBuildup.label>
-  <ToxicBuildup.stages.initial-0.label>első rejtett eset</ToxicBuildup.stages.initial-0.label>
-  <ToxicBuildup.stages.initial-1.label>első eset</ToxicBuildup.stages.initial-1.label>
-  <ToxicBuildup.stages.minor.label>enyhe</ToxicBuildup.stages.minor.label>
-  <ToxicBuildup.stages.moderate.label>közepes</ToxicBuildup.stages.moderate.label>
-  <ToxicBuildup.stages.serious.label>erős</ToxicBuildup.stages.serious.label>
-  <ToxicBuildup.stages.extreme.label>súlyos</ToxicBuildup.stages.extreme.label>
-  <Pregnant.label>terhesség</Pregnant.label>
-  <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} terhes</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
-  <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} terhes!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
-  <Pregnant.stages.earlystage.label>első trimeszter rejtett</Pregnant.stages.earlystage.label>
-  <Pregnant.stages.middlestage.label>második trimeszter</Pregnant.stages.middlestage.label>
-  <Pregnant.stages.latestage.label>harmadik trimeszter</Pregnant.stages.latestage.label>
-  <Pregnant.labelNoun>terhesség</Pregnant.labelNoun>
-  <HeartAttack.label>szívroham</HeartAttack.label>
-  <HeartAttack.stages.painful.label>fájdalmas</HeartAttack.stages.painful.label>
-  <HeartAttack.stages.debilitating.label>legyengítő</HeartAttack.stages.debilitating.label>
-  <HeartAttack.stages.fatal.label>halálos</HeartAttack.stages.fatal.label>
+  
+  <!-- EN: drug overdose -->
   <DrugOverdose.label>drog túladagolás</DrugOverdose.label>
+  <!-- EN: Overdose: {0} -->
   <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>túladagolás: {0}</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <!-- EN: {0} is overdosing! -->
   <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>{0} túladagolta!</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>
+  <!-- EN: a drug overdose -->
+  <DrugOverdose.labelNoun>drog túladagolás</DrugOverdose.labelNoun>
+  <!-- EN: minor -->
   <DrugOverdose.stages.minor-0.label>rejtett</DrugOverdose.stages.minor-0.label>
+  <!-- EN: minor -->
   <DrugOverdose.stages.minor-1.label>enyhe</DrugOverdose.stages.minor-1.label>
+  <!-- EN: major -->
   <DrugOverdose.stages.major.label>erős</DrugOverdose.stages.major.label>
+  
+  <!-- EN: food poisoning -->
+  <FoodPoisoning.label>ételmérgezés</FoodPoisoning.label>
+  <!-- EN: recovering -->
+  <FoodPoisoning.stages.recovering.label>gyógyuló</FoodPoisoning.stages.recovering.label>
+  <!-- EN: major -->
+  <FoodPoisoning.stages.major.label>súlyos</FoodPoisoning.stages.major.label>
+  <!-- EN: initial -->
+  <FoodPoisoning.stages.initial.label>kezdeti</FoodPoisoning.stages.initial.label>
+  
+  <!-- EN: heart attack -->
+  <HeartAttack.label>szívroham</HeartAttack.label>
+  <!-- EN: a heart attack -->
+  <HeartAttack.labelNoun>szívroham</HeartAttack.labelNoun>
+  <!-- EN: painful -->
+  <HeartAttack.stages.painful.label>fájdalmas</HeartAttack.stages.painful.label>
+  <!-- EN: debilitating -->
+  <HeartAttack.stages.debilitating.label>legyengítő</HeartAttack.stages.debilitating.label>
+  <!-- EN: fatal -->
+  <HeartAttack.stages.fatal.label>halálos</HeartAttack.stages.fatal.label>
+  
+  <!-- EN: pregnant -->
+  <Pregnant.label>terhesség</Pregnant.label>
+  <!-- EN: {0} pregnant -->
+  <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} terhes</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <!-- EN: {0} is pregnant! -->
+  <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} terhes!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
+  <!-- EN: pregnancy -->
+  <Pregnant.labelNoun>terhesség</Pregnant.labelNoun>
+  <!-- EN: early-stage -->
+  <Pregnant.stages.earlystage.label>első trimeszter rejtett</Pregnant.stages.earlystage.label>
+  <!-- EN: middle-stage -->
+  <Pregnant.stages.middlestage.label>második trimeszter</Pregnant.stages.middlestage.label>
+  <!-- EN: late-stage -->
+  <Pregnant.stages.latestage.label>harmadik trimeszter</Pregnant.stages.latestage.label>
+  
+  <!-- EN: psychic shock -->
+  <PsychicShock.label>pszichotikus sokk</PsychicShock.label>
+  <!-- EN: a psychic shock -->
+  <PsychicShock.labelNoun>pszichotikus sokk</PsychicShock.labelNoun>
+  
+  <!-- EN: resurrection sickness -->
   <ResurrectionSickness.label>élesztés sokk</ResurrectionSickness.label>
-
-   <HeartAttack.labelNoun>szívroham</HeartAttack.labelNoun>
-   <DrugOverdose.labelNoun>drog túladagolás</DrugOverdose.labelNoun>
-   <PsychicShock.labelNoun>pszichotikus sokk</PsychicShock.labelNoun>
-   <CatatonicBreakdown.labelNoun>katatón összeomlás</CatatonicBreakdown.labelNoun>
+  
+  <!-- EN: toxic buildup -->
+  <ToxicBuildup.label>mérgezés</ToxicBuildup.label>
+  <!-- EN: initial -->
+  <ToxicBuildup.stages.initial-0.label>első rejtett eset</ToxicBuildup.stages.initial-0.label>
+  <!-- EN: initial -->
+  <ToxicBuildup.stages.initial-1.label>első eset</ToxicBuildup.stages.initial-1.label>
+  <!-- EN: minor -->
+  <ToxicBuildup.stages.minor.label>enyhe</ToxicBuildup.stages.minor.label>
+  <!-- EN: moderate -->
+  <ToxicBuildup.stages.moderate.label>közepes</ToxicBuildup.stages.moderate.label>
+  <!-- EN: serious -->
+  <ToxicBuildup.stages.serious.label>erős</ToxicBuildup.stages.serious.label>
+  <!-- EN: extreme -->
+  <ToxicBuildup.stages.extreme.label>súlyos</ToxicBuildup.stages.extreme.label>
+  
 </LanguageData>

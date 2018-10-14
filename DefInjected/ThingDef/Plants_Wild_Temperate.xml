@@ -1,25 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Plant_Berry.label>málnabokor</Plant_Berry.label>
-  <Plant_Berry.description>Finom, piros termésű bokor. Meg lehet főzni a gyümölcsét, de nyersen is jó.</Plant_Berry.description>
-  <!-- <Plant_Bush.label>bokor</Plant_Bush.label> -->
-  <!-- <Plant_Bush.description>Egy kis cserje. Normál esetben nem beszél.</Plant_Bush.description> -->
-  <!-- <Plant_WildHealroot.label>vad gyógygyökér</Plant_WildHealroot.label> -->
-  <!-- <Plant_WildHealroot.description>Lassan növő növény, mely gyógynövény-kivonatot ad, ha learatják.\n\nEzt a vad fajtát nehéz termeszteni. Törzstagok nagyra értékelik hidegebb éghajlatokon.</Plant_WildHealroot.description> -->
-  <!-- <Plant_Grass.label>fű</Plant_Grass.label> -->
-  <!-- <Plant_Grass.description>Vad fűféle. Minimális fény és táptalaj igénye van.</Plant_Grass.description> -->
-  <Plant_Dandelion.label>pitypang</Plant_Dandelion.label>
-  <Plant_Dandelion.description>Közösséges kis virág. Bár gyakran tekintik a gyomnak, azért elég szép.</Plant_Dandelion.description>
+  
+  <!-- EN: astragalus -->
   <Plant_Astragalus.label>csüdfű</Plant_Astragalus.label>
+  <!-- EN: A small perennial wildflower that grows in alpine climates. -->
   <Plant_Astragalus.description>Egy kis évelő vadvirág, mely alpesi tájakon él.</Plant_Astragalus.description>
+  
+  <!-- EN: berry bush -->
+  <Plant_Berry.label>málnabokor</Plant_Berry.label>
+  <!-- EN: A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw. -->
+  <Plant_Berry.description>Finom, piros termésű bokor. Meg lehet főzni a gyümölcsét, de nyersen is jó.</Plant_Berry.description>
+  
+  <!-- EN: dandelions -->
+  <Plant_Dandelion.label>pitypang</Plant_Dandelion.label>
+  <!-- EN: A tiny yellow flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
+  <Plant_Dandelion.description>Közösséges kis virág. Bár gyakran tekintik a gyomnak, azért elég szép.</Plant_Dandelion.description>
+  
+  <!-- EN: moss -->
   <Plant_Moss.label>moha</Plant_Moss.label>
+  <!-- EN: Wild moss that grows in clumps in areas of low light and cool temperatures. Moss takes a long time to grow, but is very frost-resistant. -->
   <Plant_Moss.description>Vad mohafaj, alacsony fény és magas páratartalom igénye van. Nagyon szívós és fagyálló.</Plant_Moss.description>
-  <Plant_TreeOak.label>tölgy</Plant_TreeOak.label>
-  <Plant_TreeOak.description>Erős keményfa faj. Lassan nő, de faanyaga nagyon erős.</Plant_TreeOak.description>
-  <Plant_TreePoplar.label>nyár</Plant_TreePoplar.label>
-  <Plant_TreePoplar.description>Puhafa, ami gyorsan nő, de kevés hasznos faanyagot ad.</Plant_TreePoplar.description>
-  <Plant_TreePine.label>fenyő</Plant_TreePine.label>
-  <Plant_TreePine.description>Nagy tűlevelű fajta.</Plant_TreePine.description>
+  
+  <!-- EN: birch tree -->
   <Plant_TreeBirch.label>nyír</Plant_TreeBirch.label>
+  <!-- EN: A temperate-biome tree known for its thin, white, paper-like bark. -->
   <Plant_TreeBirch.description>Ez az északi faj vékony, papírszerű kéregéről ismert.</Plant_TreeBirch.description>
+  
+  <!-- EN: oak tree -->
+  <Plant_TreeOak.label>tölgy</Plant_TreeOak.label>
+  <!-- EN: A hardwood tree. Oaks take a long time to grow, but their wood is so strong that 'oak' is used as a metaphor for strength across many cultures. -->
+  <Plant_TreeOak.description>Erős keményfa faj. Lassan nő, de faanyaga nagyon erős.</Plant_TreeOak.description>
+  
+  <!-- EN: pine tree -->
+  <Plant_TreePine.label>fenyő</Plant_TreePine.label>
+  <!-- EN: A large conifer covered with prickly pine cones. It grows in a distinctive conical shape. -->
+  <Plant_TreePine.description>Nagy tűlevelű fajta.</Plant_TreePine.description>
+  
+  <!-- EN: poplar tree -->
+  <Plant_TreePoplar.label>nyár</Plant_TreePoplar.label>
+  <!-- EN: A softwood tree that grows very fast. Unfortunately, its wood is weak and so it yields less useful material than hardwood trees. -->
+  <Plant_TreePoplar.description>Puhafa, ami gyorsan nő, de kevés hasznos faanyagot ad.</Plant_TreePoplar.description>
+  
 </LanguageData>

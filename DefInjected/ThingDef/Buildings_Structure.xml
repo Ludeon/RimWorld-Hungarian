@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Door.label>ajtó</Door.label>
-  <Door.description>Szobákat köt össze. Kézzel kell nyitni/zárni, ez lelassítja a gyarmatosokat.</Door.description>
-  <Blueprint_Door.label>ajtó (tervrajz)</Blueprint_Door.label>
-  <Frame_Door.label>ajtó (építmény)</Frame_Door.label>
-  <Frame_Door.description>Szobákat köt össze. Kézzel kell nyitni/zárni, ez lelassítja a gyarmatosokat.</Frame_Door.description>
+  
+  <!-- EN: autodoor -->
   <Autodoor.label>automata ajtó</Autodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
   <Autodoor.description>Szobákat köt össze. Árammal működő változat. Lelassulás nélkül lehet áthaladni rajta.</Autodoor.description>
-  <Blueprint_Autodoor.label>automata ajtó (tervrajz)</Blueprint_Autodoor.label>
-  <Frame_Autodoor.label>automata ajtó (építmény)</Frame_Autodoor.label>
-  <Frame_Autodoor.description>Szobákat köt össze. Árammal működő változat. Lelassulás nélkül lehet áthaladni rajta.</Frame_Autodoor.description>
+  
+  <!-- EN: door -->
+  <Door.label>ajtó</Door.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <Door.description>Szobákat köt össze. Kézzel kell nyitni/zárni, ez lelassítja a gyarmatosokat.</Door.description>
+  
+  <!-- EN: wall -->
   <Wall.label>fal</Wall.label>
+  <!-- EN: An impassable wall. Capable of holding up a roof. -->
   <Wall.description>Stabil fal, ami képes megtartani a tetőt.</Wall.description>
-  <Blueprint_Wall.label>fal (tervrajz)</Blueprint_Wall.label>
-  <Frame_Wall.label>fal (építmény)</Frame_Wall.label>
-  <Frame_Wall.description>Stabil fal, ami képes megtartani a tetőt.</Frame_Wall.description>
+  
 </LanguageData>

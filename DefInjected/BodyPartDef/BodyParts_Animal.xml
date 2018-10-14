@@ -1,51 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Body.label>test</Body.label>
-  <Beak.label>csőr</Beak.label>
-  <InsectHead.label>fej</InsectHead.label>
-  <SnakeBody.label>test</SnakeBody.label>
-  <SnakeHead.label>fej</SnakeHead.label>
-  <SnakeMouth.label>száj</SnakeMouth.label>
-  <InsectHeart.label>szív</InsectHeart.label>
-  <InsectNostril.label>orrlyuk</InsectNostril.label>
-  <InsectMouth.label>száj</InsectMouth.label>
+  
+  <!-- EN: jaw -->
   <AnimalJaw.label>állkapocs</AnimalJaw.label>
-  <Jowl.label>állkapocs</Jowl.label>
-  <Tail.label>farok</Tail.label>
+  
+  <!-- EN: antenna -->
   <Antenna.label>csáp</Antenna.label>
-  <Pronotum.label>tor</Pronotum.label>
-  <Shell.label>ház</Shell.label>
+  
+  <!-- EN: beak -->
+  <Beak.label>csőr</Beak.label>
+  
+  <!-- EN: body -->
+  <Body.label>test</Body.label>
+  
+  <!-- EN: elytra -->
   <Elytra.label>szárnyfedő</Elytra.label>
-  <Tusk.label>agyar</Tusk.label>
-  <Trunk.label>törzs</Trunk.label>
-  <Horn.label>szarv</Horn.label>
+  
+  <!-- EN: front claw -->
+  <FrontClaw.label>mellső karom</FrontClaw.label>
+  <!-- EN: claw -->
+  <FrontClaw.labelShort>karom</FrontClaw.labelShort>
+  
+  <!-- EN: head claw -->
   <HeadClaw.label>fejkarom</HeadClaw.label>
+  
+  <!-- EN: hoof -->
+  <Hoof.label>pata</Hoof.label>
+  
+  <!-- EN: horn -->
+  <Horn.label>szarv</Horn.label>
+  
+  <!-- EN: hump -->
   <Hump.label>púp</Hump.label>
-  <TurtleShell.label>páncél</TurtleShell.label>
+  
+  <!-- EN: head -->
+  <InsectHead.label>fej</InsectHead.label>
+  
+  <!-- EN: heart -->
+  <InsectHeart.label>szív</InsectHeart.label>
+  
+  <!-- EN: leg -->
+  <InsectLeg.label>láb</InsectLeg.label>
+  
+  <!-- EN: mouth -->
+  <InsectMouth.label>száj</InsectMouth.label>
+  
+  <!-- EN: nostril -->
+  <InsectNostril.label>orrlyuk</InsectNostril.label>
+  
+  <!-- EN: jowl -->
+  <Jowl.label>állkapocs</Jowl.label>
+  
+  <!-- EN: paw -->
+  <Paw.label>mancs</Paw.label>
+  
+  <!-- EN: plastron -->
   <Plastron.label>haspáncél</Plastron.label>
+  
+  <!-- EN: pronotum -->
+  <Pronotum.label>tor</Pronotum.label>
+  
+  <!-- EN: rear claw -->
+  <RearClaw.label>hátsó karom</RearClaw.label>
+  <!-- EN: claw -->
+  <RearClaw.labelShort>karom</RearClaw.labelShort>
+  
+  <!-- EN: shell -->
+  <Shell.label>ház</Shell.label>
+  
+  <!-- EN: body -->
+  <SnakeBody.label>test</SnakeBody.label>
+  
+  <!-- EN: head -->
+  <SnakeHead.label>fej</SnakeHead.label>
+  
+  <!-- EN: mouth -->
+  <SnakeMouth.label>száj</SnakeMouth.label>
+  
+  <!-- EN: tail -->
+  <Tail.label>farok</Tail.label>
+  
+  <!-- EN: trunk -->
+  <Trunk.label>törzs</Trunk.label>
+  
+  <!-- EN: beak -->
   <TurtleBeak.label>csőr</TurtleBeak.label>
   
-   <!-- Insect legs -->
-
-  <InsectLeg.label>láb</InsectLeg.label>
-
-
-  <!-- Paws -->
-
-  <Paw.label>mancs</Paw.label>
-
-
-  <!-- Hoofs -->
-
-  <Hoof.label>pata</Hoof.label>
-
-
-  <!-- Claws -->
-
-  <FrontClaw.label>mellső karom</FrontClaw.label>
-  <FrontClaw.labelShort>karom</FrontClaw.labelShort>
-
-  <RearClaw.label>hátsó karom</RearClaw.label>
-  <RearClaw.labelShort>karom</RearClaw.labelShort>
+  <!-- EN: shell -->
+  <TurtleShell.label>páncél</TurtleShell.label>
+  
+  <!-- EN: tusk -->
+  <Tusk.label>agyar</Tusk.label>
   
 </LanguageData>

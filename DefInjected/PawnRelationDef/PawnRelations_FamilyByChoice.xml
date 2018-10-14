@@ -1,21 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Spouse.label>férj</Spouse.label>
-  <Spouse.labelFemale>feleség</Spouse.labelFemale>
-  <Fiance.label>vőlegény</Fiance.label>
-  <Fiance.labelFemale>menyasszony</Fiance.labelFemale>
-  <Lover.label>szerető</Lover.label>
-  <Lover.labelFemale>szerető</Lover.labelFemale>
-  <Stepparent.label>mostoha apa</Stepparent.label>
-  <Stepparent.labelFemale>mostoha anya</Stepparent.labelFemale>
-  <Stepchild.label>mostoha fiú</Stepchild.label>
-  <Stepchild.labelFemale>mostoha lány</Stepchild.labelFemale>
-  <ParentInLaw.label>após</ParentInLaw.label>
-  <ParentInLaw.labelFemale>anyós</ParentInLaw.labelFemale>
+  
+  <!-- EN: son-in-law -->
   <ChildInLaw.label>vő</ChildInLaw.label>
+  <!-- EN: daughter-in-law -->
   <ChildInLaw.labelFemale>meny</ChildInLaw.labelFemale>
-  <ExSpouse.label>exférj</ExSpouse.label>
-  <ExSpouse.labelFemale>exfeleség</ExSpouse.labelFemale>
+  
+  <!-- EN: ex-lover -->
   <ExLover.label>exszerető</ExLover.label>
   <ExLover.labelFemale>exszerető</ExLover.labelFemale>
+  
+  <!-- EN: ex-husband -->
+  <ExSpouse.label>exférj</ExSpouse.label>
+  <!-- EN: ex-wife -->
+  <ExSpouse.labelFemale>exfeleség</ExSpouse.labelFemale>
+  
+  <!-- EN: fiance -->
+  <Fiance.label>vőlegény</Fiance.label>
+  <!-- EN: fiancée -->
+  <Fiance.labelFemale>menyasszony</Fiance.labelFemale>
+  
+  <!-- EN: lover -->
+  <Lover.label>szerető</Lover.label>
+  <Lover.labelFemale>szerető</Lover.labelFemale>
+  
+  <!-- EN: father-in-law -->
+  <ParentInLaw.label>após</ParentInLaw.label>
+  <!-- EN: mother-in-law -->
+  <ParentInLaw.labelFemale>anyós</ParentInLaw.labelFemale>
+  
+  <!-- EN: husband -->
+  <Spouse.label>férj</Spouse.label>
+  <!-- EN: wife -->
+  <Spouse.labelFemale>feleség</Spouse.labelFemale>
+  
+  <!-- EN: stepson -->
+  <Stepchild.label>mostoha fiú</Stepchild.label>
+  <!-- EN: stepdaughter -->
+  <Stepchild.labelFemale>mostoha lány</Stepchild.labelFemale>
+  
+  <!-- EN: stepfather -->
+  <Stepparent.label>mostoha apa</Stepparent.label>
+  <!-- EN: stepmother -->
+  <Stepparent.labelFemale>mostoha anya</Stepparent.labelFemale>
+  
 </LanguageData>

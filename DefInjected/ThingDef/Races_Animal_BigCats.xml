@@ -1,42 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Cougar.label>puma</Cougar.label>
-  <Cougar.description>Az egyik legveszélyesebb macskafajta. Magányos vadász éles karmokkal és fogakkal. Lesből támad. Bár az ember nem tartozik normál étrendjéhez, azért nem veti meg húsát.</Cougar.description>
-  <Cougar.tools.left_claw.label>bal mancs</Cougar.tools.left_claw.label>
-  <Cougar.tools.right_claw.label>jobb mancs</Cougar.tools.right_claw.label>
-  <Cougar.tools.head.label>fej</Cougar.tools.head.label>
- 
-<!--   <Cougar_Leather.label>pumabőr</Cougar_Leather.label> -->
-<!--   <Cougar_Leather.description>Egy puma bőre.</Cougar_Leather.description> -->
-<!--   <Cougar_Leather.stuffProps.stuffAdjective>pumabőr</Cougar_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Cougar.label>pumahús</Meat_Cougar.label>
-  <Meat_Cougar.description>Egy puma húsa.</Meat_Cougar.description>
-  <Corpse_Cougar.label>puma tetem</Corpse_Cougar.label>
-  <Corpse_Cougar.description>Egy puma teteme.</Corpse_Cougar.description>
-  <Panther.label>párduc</Panther.label>
-  <Panther.description>A Föld dzsungeleiből származó erős és mozgékony macskaféle. Lesből támadva mesterien ejt el nagy és kisebb prédát is. Távolról kecses mozgása tűnik fel, aki közelebb merészkedik, az roppant erejét tapasztalhatja.</Panther.description>
-  <Panther.tools.left_claw.label>bal mancs</Panther.tools.left_claw.label>
-  <Panther.tools.right_claw.label>jobb mancs</Panther.tools.right_claw.label>
-  <Panther.tools.head.label>fej</Panther.tools.head.label>
   
-<!--   <Panther_Leather.label>párducbőr</Panther_Leather.label> -->
-<!--   <Panther_Leather.description>Egy párduc bőre.</Panther_Leather.description> -->
-<!--   <Panther_Leather.stuffProps.stuffAdjective>párducbőr</Panther_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Panther.label>párduchús</Meat_Panther.label>
-  <Meat_Panther.description>Egy párduc húsa.</Meat_Panther.description>
-  <Corpse_Panther.label>párduc tetem</Corpse_Panther.label>
-  <Corpse_Panther.description>Egy párduc teteme.</Corpse_Panther.description>
+  <!-- EN: cougar -->
+  <Cougar.label>puma</Cougar.label>
+  <!-- EN: One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat. -->
+  <Cougar.description>Az egyik legveszélyesebb macskafajta. Magányos vadász éles karmokkal és fogakkal. Lesből támad. Bár az ember nem tartozik normál étrendjéhez, azért nem veti meg húsát.</Cougar.description>
+  <!-- EN: left claw -->
+  <Cougar.tools.left_claw.label>bal mancs</Cougar.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Cougar.tools.right_claw.label>jobb mancs</Cougar.tools.right_claw.label>
+  <!-- EN: head -->
+  <Cougar.tools.head.label>fej</Cougar.tools.head.label>
+  
+  <!-- EN: lynx -->
   <Lynx.label>hiúz</Lynx.label>
+  <!-- EN: A wildcat larger than a housecat, but smaller than a cougar. Lynxes survive on a diet of small birds and animals. Their very warm fur keeps them safe from the brutally cold temperatures of their frozen territories. -->
   <Lynx.description>Házi macskánál nagyobb, de egy pumánál kisebb macskaféle. A hiúz apró madarakat és állatokat fogyaszt. Meleg bundája melegen tartja őt brutálisan hideg északi élőhelyén.</Lynx.description>
+  <!-- EN: left claw -->
   <Lynx.tools.left_claw.label>bal mancs</Lynx.tools.left_claw.label>
+  <!-- EN: right claw -->
   <Lynx.tools.right_claw.label>jobb mancs</Lynx.tools.right_claw.label>
+  <!-- EN: head -->
   <Lynx.tools.head.label>fej</Lynx.tools.head.label>
   
-<!--   <Lynx_Leather.label>hiúzbőr</Lynx_Leather.label> -->
-<!--   <Lynx_Leather.description>Egy hiúz bőre.</Lynx_Leather.description> -->
-<!--   <Lynx_Leather.stuffProps.stuffAdjective>hiúzbőr</Lynx_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Lynx.label>hiúzhús</Meat_Lynx.label>
-  <Meat_Lynx.description>Egy hiúz húsa.</Meat_Lynx.description>
-  <Corpse_Lynx.label>hiúz tetem</Corpse_Lynx.label>
-  <Corpse_Lynx.description>Egy hiúz teteme.</Corpse_Lynx.description>
+  <!-- EN: panther -->
+  <Panther.label>párduc</Panther.label>
+  <!-- EN: An agile and powerful big cat native to the jungles of old Earth. As solitary ambush predators, panthers are masters of taking down both large and small prey. Onlookers tend to focus on their graceful movements, while those in closer contact usually notice their skull-crushing strength. -->
+  <Panther.description>A Föld dzsungeleiből származó erős és mozgékony macskaféle. Lesből támadva mesterien ejt el nagy és kisebb prédát is. Távolról kecses mozgása tűnik fel, aki közelebb merészkedik, az roppant erejét tapasztalhatja.</Panther.description>
+  <!-- EN: left claw -->
+  <Panther.tools.left_claw.label>bal mancs</Panther.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Panther.tools.right_claw.label>jobb mancs</Panther.tools.right_claw.label>
+  <!-- EN: head -->
+  <Panther.tools.head.label>fej</Panther.tools.head.label>
+  
 </LanguageData>

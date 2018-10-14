@@ -1,57 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <HorseshoesPin.label>patkó játék</HorseshoesPin.label>
-  <HorseshoesPin.description>Egyszerű játék patkókkal és egy fölbe vert rúddal. A játékosok megpróbálják a rúdhoz minél közelebb dobni a patkókat bizonyos távolságról. Pihentető hatású és még a szem-kéz koordinációt is javítja</HorseshoesPin.description>
-  <Blueprint_HorseshoesPin.label>patkó játék (tervrajz)</Blueprint_HorseshoesPin.label>
-<!--   <Blueprint_HorseshoesPin_Install.label>patkó játék (tervrajz)</Blueprint_HorseshoesPin_Install.label> -->
-  <Frame_HorseshoesPin.label>patkó játék (építmény)</Frame_HorseshoesPin.label>
-  <Frame_HorseshoesPin.description>Egyszerű játék patkókkal és egy fölbe vert rúddal. A játékosok megpróbálják a rúdhoz minél közelebb dobni a patkókat bizonyos távolságról. Pihentető hatású és még a szem-kéz koordinációt is javítja</Frame_HorseshoesPin.description>
-  <HoopstoneRing.label>kőhajítás játék</HoopstoneRing.label>
-  <HoopstoneRing.description>Egyszerű, ősi játék, amihez néhány kő kell és egy kör a földön. A játékosok bizonyos távolságról próbálják a körön belülre hajítani köveiket. Pihentet, és még a szem-kéz koordinációt is javítja.</HoopstoneRing.description>
-  <Blueprint_HoopstoneRing.label>kőhajítás játék (tervrajz)</Blueprint_HoopstoneRing.label>
-<!--   <Blueprint_HoopstoneRing_Install.label>kőhajítás játék (tervrajz)</Blueprint_HoopstoneRing_Install.label> -->
-  <Frame_HoopstoneRing.label>kőhajítás játék (építmény)</Frame_HoopstoneRing.label>
-  <Frame_HoopstoneRing.description>Egyszerű, ősi játék, amihez néhány kő kell és egy kör a földön. A játékosok bizonyos távolságról próbálják a körön belülre hajítani köveiket. Pihentet, és még a szem-kéz koordinációt is javítja.</Frame_HoopstoneRing.description>
   
-  <GameOfUrBoard.label>Ur tábla</GameOfUrBoard.label>
-  <GameOfUrBoard.description>Ie. 2500 óta ismert táblás játék, izgalmas és dühítő is egyben. Egy vagy két személy játszhatja. Pallérozza az elmét.</GameOfUrBoard.description>
-  <Blueprint_GameOfUrBoard.label>Ur tábla (tervrajz)</Blueprint_GameOfUrBoard.label>
-<!--   <Blueprint_GameOfUrBoard_Install.label>Ur tábla (tervrajz)</Blueprint_GameOfUrBoard_Install.label> -->
-  <Frame_GameOfUrBoard.label>Ur tábla (építmény)</Frame_GameOfUrBoard.label>
-  <Frame_GameOfUrBoard.description>Ie. 2500 óta ismert táblás játék, izgalmas és dühítő is egyben. Egy vagy két személy játszhatja. Pallérozza az elmét.</Frame_GameOfUrBoard.description>
- 
-  <ChessTable.label>sakktábla</ChessTable.label>
-  <ChessTable.description>Királyok játéka. Pár órás móka, még egyedül játszva is.</ChessTable.description>
-  <Blueprint_ChessTable.label>sakktábla (tervrajz)</Blueprint_ChessTable.label>
-<!--   <Blueprint_ChessTable_Install.label>sakktábla (tervrajz)</Blueprint_ChessTable_Install.label> -->
-  <Frame_ChessTable.label>sakktábla (építmény)</Frame_ChessTable.label>
-  <Frame_ChessTable.description>Királyok játéka. Pár órás móka, még egyedül játszva is.</Frame_ChessTable.description>
+  <!-- EN: billiards table -->
   <BilliardsTable.label>billiárdasztal</BilliardsTable.label>
+  <!-- EN: A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability. -->
   <BilliardsTable.description>Puha anyaggal bevont asztal melyen különféle billiárdtípusokat lehet játszani.</BilliardsTable.description>
-  <Blueprint_BilliardsTable.label>billiárdasztal (tervrajz)</Blueprint_BilliardsTable.label>
-<!--   <Blueprint_BilliardsTable_Install.label>billiárdasztal (tervrajz)</Blueprint_BilliardsTable_Install.label> -->
-  <Frame_BilliardsTable.label>billiárdasztal (építmény)</Frame_BilliardsTable.label>
-  <Frame_BilliardsTable.description>Puha anyaggal bevont asztal melyen különféle billiárdtípusokat lehet játszani.</Frame_BilliardsTable.description>
-  <PokerTable.label>póker asztal</PokerTable.label>
-  <PokerTable.description>Kártyajátékokhoz, leginkább pókerhez tervezett asztal. Remek módja a stratégiai érzék és szerencse próbára tételének.</PokerTable.description>
-  <Blueprint_PokerTable.label>póker asztal (tervrajz)</Blueprint_PokerTable.label>
-<!--   <Blueprint_PokerTable_Install.label>póker asztal (tervrajz)</Blueprint_PokerTable_Install.label> -->
-  <Frame_PokerTable.label>póker asztal (építmény)</Frame_PokerTable.label>
-  <Frame_PokerTable.description>Kártyajátékokhoz, leginkább pókerhez tervezett asztal. Remek módja a stratégiai érzék és szerencse próbára tételének.</Frame_PokerTable.description>
- 
-  <TubeTelevision.label>képcsöves tévé</TubeTelevision.label>
-  <TubeTelevision.description>Katódsugárcsöves kijelző, mely mozgóképet közvetít hanggal. Még a peremvilágokon is szokott menni valami némileg érdekes adás.</TubeTelevision.description>
-  <Blueprint_TubeTelevision.label>képcsöves tévé (tervrajz)</Blueprint_TubeTelevision.label>
-<!--   <Blueprint_TubeTelevision_Install.label>képcsöves tévé (tervrajz)</Blueprint_TubeTelevision_Install.label> -->
-  <Frame_TubeTelevision.label>képcsöves tévé (építmény)</Frame_TubeTelevision.label>
-  <Frame_TubeTelevision.description>Katódsugárcsöves kijelző, mely mozgóképet közvetít hanggal. Még a peremvilágokon is szokott menni valami némileg érdekes adás.</Frame_TubeTelevision.description>
+  
+  <!-- EN: chess table -->
+  <ChessTable.label>sakktábla</ChessTable.label>
+  <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills. -->
+  <ChessTable.description>Királyok játéka. Pár órás móka, még egyedül játszva is.</ChessTable.description>
+  
+  <!-- EN: flatscreen television -->
   <FlatscreenTelevision.label>LCD tévé</FlatscreenTelevision.label>
+  <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
   <FlatscreenTelevision.description>Csúcstechnológiás LCD képernyő tű éles képpel és élénk színekkel. Szórakoztatóbb, mint a hagyományos tévé szemcsés képe.</FlatscreenTelevision.description>
-<!--   <Blueprint_Install_FlatscreenTelevision.label>LCD tévé (tervrajz)</Blueprint_Install_FlatscreenTelevision.label> -->
+  
+  <!-- EN: game-of-Ur board -->
+  <GameOfUrBoard.label>Ur tábla</GameOfUrBoard.label>
+  <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
+  <GameOfUrBoard.description>Ie. 2500 óta ismert táblás játék, izgalmas és dühítő is egyben. Egy vagy két személy játszhatja. Pallérozza az elmét.</GameOfUrBoard.description>
+  
+  <!-- EN: hoopstone ring -->
+  <HoopstoneRing.label>kőhajítás játék</HoopstoneRing.label>
+  <!-- EN: A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills. -->
+  <HoopstoneRing.description>Egyszerű, ősi játék, amihez néhány kő kell és egy kör a földön. A játékosok bizonyos távolságról próbálják a körön belülre hajítani köveiket. Pihentet, és még a szem-kéz koordinációt is javítja.</HoopstoneRing.description>
+  
+  <!-- EN: horseshoes pin -->
+  <HorseshoesPin.label>patkó játék</HorseshoesPin.label>
+  <!-- EN: A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills. -->
+  <HorseshoesPin.description>Egyszerű játék patkókkal és egy fölbe vert rúddal. A játékosok megpróbálják a rúdhoz minél közelebb dobni a patkókat bizonyos távolságról. Pihentető hatású és még a szem-kéz koordinációt is javítja</HorseshoesPin.description>
+  
+  <!-- EN: megascreen television -->
   <MegascreenTelevision.label>óriás LCD tévé</MegascreenTelevision.label>
+  <!-- EN: A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
   <MegascreenTelevision.description>Óriási szupertévé. A gigantikus ultra éles képek szinte lemásznak a képernyőről. Nagyon szórakoztató.</MegascreenTelevision.description>
-<!--   <Blueprint_Install_MegascreenTelevision.label>óriás LCD tévé (tervrajz)</Blueprint_Install_MegascreenTelevision.label> -->
+  
+  <!-- EN: poker table -->
+  <PokerTable.label>póker asztal</PokerTable.label>
+  <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck. -->
+  <PokerTable.description>Kártyajátékokhoz, leginkább pókerhez tervezett asztal. Remek módja a stratégiai érzék és szerencse próbára tételének.</PokerTable.description>
+  
+  <!-- EN: telescope -->
   <Telescope.label>távcső</Telescope.label>
+  <!-- EN: A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. Can only be used outdoors. -->
   <Telescope.description>Távcső amatőr csillagászoknak. Pihentető és szórakoztató hobbi bizonyos emberek számára.</Telescope.description>
-<!--   <Blueprint_Install_Telescope.label>távcső (tervrajz)</Blueprint_Install_Telescope.label> -->
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>képcsöves tévé</TubeTelevision.label>
+  <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
+  <TubeTelevision.description>Katódsugárcsöves kijelző, mely mozgóképet közvetít hanggal. Még a peremvilágokon is szokott menni valami némileg érdekes adás.</TubeTelevision.description>
+  
 </LanguageData>

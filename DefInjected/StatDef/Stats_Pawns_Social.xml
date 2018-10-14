@@ -1,18 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- <RecruitPrisonerChance.label>toborzási esély</RecruitPrisonerChance.label> -->
-  <!-- <RecruitPrisonerChance.description>Alap esély egy fogoly toborzására.</RecruitPrisonerChance.description> -->
-  <TameAnimalChance.label>szelídítési esély</TameAnimalChance.label>
-  <TameAnimalChance.description>Alap esély egy állat megszelídítésére.</TameAnimalChance.description>
-  <TrainAnimalChance.label>idomítási esély</TrainAnimalChance.label>
-  <TrainAnimalChance.description>Alap esély egy állat sikeres idomítására. Állat fajtánként változhat.</TrainAnimalChance.description>
-  <SocialImpact.label>befolyásolás</SocialImpact.label>
-  <SocialImpact.description>Szociális interakciónál mennyire van hatással a másik félre.</SocialImpact.description>
-  <!-- <GiftImpact.label>külpolitika</GiftImpact.label> -->
-  <!-- <GiftImpact.description>Ha ez a személy egy másik frakciónak ajándékot ad, ez a szorzó befolyásolja a kapcsolat alakulását.</GiftImpact.description> -->
+  
+  <!-- EN: negotiation ability -->
   <NegotiationAbility.label>diplomácia</NegotiationAbility.label>
+  <!-- EN: How effective this person is as a negotiator. This affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
   <NegotiationAbility.description>Megmutatja, milyen hatékony diplomata a személy. Más frakcióknak adott ajándékok kapcsolatjavító hatása, illetve a béketárgyalások kimenetele is ettől függ.</NegotiationAbility.description>
- 
+  
+  <!-- EN: social impact -->
+  <SocialImpact.label>befolyásolás</SocialImpact.label>
+  <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
+  <SocialImpact.description>Szociális interakciónál mennyire van hatással a másik félre.</SocialImpact.description>
+  
+  <!-- EN: tame animal chance -->
+  <TameAnimalChance.label>szelídítési esély</TameAnimalChance.label>
+  <!-- EN: The base chance this person will successfully tame an animal on any given attempt. The actual chance is also affected by the animal's wildness. Failed tame attempt can induce animal attacks, especially for more vicious animals. -->
+  <TameAnimalChance.description>Alap esély egy állat megszelídítésére.</TameAnimalChance.description>
+  
+  <!-- EN: trade price improvement -->
   <TradePriceImprovement.label>alkusz</TradePriceImprovement.label>
+  <!-- EN: When this person acts as a trade negotiator, buy and sell prices are improved by this percentage. -->
   <TradePriceImprovement.description>Az eladási és a vételi árak is ennek a százaléknak megfelelően változnak, ha ez a személy alkuszik.</TradePriceImprovement.description>
+  
+  <!-- EN: train animal chance -->
+  <TrainAnimalChance.label>idomítási esély</TrainAnimalChance.label>
+  <!-- EN: The base chance this person will make progress training an animal on a given attempt. The actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on. -->
+  <TrainAnimalChance.description>Alap esély egy állat sikeres idomítására. Állat fajtánként változhat.</TrainAnimalChance.description>
+  
 </LanguageData>

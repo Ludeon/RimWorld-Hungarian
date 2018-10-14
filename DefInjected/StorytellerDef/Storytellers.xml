@@ -1,10 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
+  <!-- EN: Cassandra Classic -->
   <Cassandra.label>Klasszik Kasszandra</Cassandra.label>
+  <!-- EN: Cassandra creates story events on a classic increasing curve of challenge and tension. She'll push you with dangerous events, then give breathing room, then come back to push once more. -->
   <Cassandra.description>Kasszandra úgy intézi a dolgok alakulását, hogy a feszültség és kihívás egyenletesen emelkedjen.</Cassandra.description>
+  
+  <!-- EN: Phoebe Chillax -->
   <Phoebe.label>Laza Larissza</Phoebe.label>
+  <!-- EN: Phoebe gives lots of time between disasters to build your colony. But beware - at high difficulties, she'll hit as hard as anyone. -->
   <Phoebe.description>Larisszánál sok időd lesz két katasztrófa között a kolóniáddal foglalkozni. De vigyázat, ha magas nehézségi fokozatra állítod, ő is ugyanolyan keményen csap le, mint bárki más.</Phoebe.description>
+  
+  <!-- EN: Randy Random -->
   <Randy.label>Vad Vladimír</Randy.label>
+  <!-- EN: Randy doesn't follow rules. He'll generate random events, and he doesn't care if they make a story of triumph or utter hopelessness. It's all drama to him.\n\nWarning: Since Randy is truly random, he will sometimes send extremely difficult or unfair groups of events at you. It makes for high drama - and unavoidable sacrifices. -->
   <Randy.description>Vladimír nem követ semmiféle szabályt. Véletlenszerű eseményeket generál, és nem törődik vele, hogy ez győzelemre visz vagy reménytelenségbe taszít. Neki csak a dráma számít.</Randy.description>
+  
+  <!-- EN: Tutor Hidden -->
   <Tutor.label>Oktatás elrejtése</Tutor.label>
+  
 </LanguageData>

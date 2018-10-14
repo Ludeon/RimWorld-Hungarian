@@ -1,14 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PlayerColony.label>kolónia</PlayerColony.label>
-  <PlayerColony.description>Saját közösséged.</PlayerColony.description>
-  <PlayerColony.pawnsPlural>gyarmatosok</PlayerColony.pawnsPlural>
-  <PlayerColony.pawnSingular>gyarmatos</PlayerColony.pawnSingular>
-
   
+  <!-- EN: New Arrivals -->
+  <PlayerColony.label>kolónia</PlayerColony.label>
+  <!-- EN: A colony of recently-arrived off-worlders. -->
+  <PlayerColony.description>Saját közösséged.</PlayerColony.description>
+  <!-- EN: colonist -->
+  <PlayerColony.pawnSingular>gyarmatos</PlayerColony.pawnSingular>
+  <!-- EN: colonists -->
+  <PlayerColony.pawnsPlural>gyarmatosok</PlayerColony.pawnsPlural>
+  
+  <!-- EN: New Tribe -->
   <PlayerTribe.label>törzs</PlayerTribe.label>
+  <!-- EN: A small tribe. -->
   <PlayerTribe.description>Saját törzsed.</PlayerTribe.description>
-  <PlayerTribe.pawnsPlural>törzstagok</PlayerTribe.pawnsPlural>
+  <!-- EN: tribesman -->
   <PlayerTribe.pawnSingular>törzstag</PlayerTribe.pawnSingular>
-
+  <!-- EN: tribespeople -->
+  <PlayerTribe.pawnsPlural>törzstagok</PlayerTribe.pawnsPlural>
+  
 </LanguageData>

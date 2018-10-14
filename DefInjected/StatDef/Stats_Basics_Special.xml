@@ -1,12 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
+  <!-- EN: construction speed -->
+  <ConstructionSpeedFactor.label>építés sebessége</ConstructionSpeedFactor.label>
+  <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value. Some materials, like stone, are slow to build from, while others, like wood, are fast. -->
+  <ConstructionSpeedFactor.description>Befolyásolja az ebből készült építmények elkészülésének sebességét. Némely anyag, pl. kő, csak lassú építést tesz lehetővé. Fával sokkal gyorsabban lehet haladni.</ConstructionSpeedFactor.description>
+  
+  <!-- EN: medical potency -->
   <MedicalPotency.label>gyógyító potenciál</MedicalPotency.label>
+  <!-- EN: How effective this is when used to tend wounds and diseases, or do surgery. Higher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery. Medical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck. -->
   <MedicalPotency.description>Sérülések és betegségek gyógyításának hatékonysága vagy a műtétre gyakorolt hatás. Magasabb gyógyító potenciál növeli az esélyét annak, hogy a doktor helyesen kezeli a sebesülést és csökkenti az esélyét annak, hogy műtét közben komplikáció lép fel.</MedicalPotency.description>
   
+  <!-- EN: medical tend quality maximum -->
   <MedicalQualityMax.label>ellátás max. minősége</MedicalQualityMax.label>
+  <!-- EN: The maximum quality of medical tending that can be achieved while using this. Better tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
   <MedicalQualityMax.description>Az ellátás legmagasabb elérhető szintje e tárgy használata mellett. Magasabb minőség segíti az orvosokat, hogy jobban és megbízhatóbban lássák el a sérüléseket.</MedicalQualityMax.description>
-
-  <ConstructionSpeedFactor.label>építés sebessége</ConstructionSpeedFactor.label>
-  <ConstructionSpeedFactor.description>Befolyásolja az ebből készült építmények elkészülésének sebességét. Némely anyag, pl. kő, csak lassú építést tesz lehetővé. Fával sokkal gyorsabban lehet haladni.</ConstructionSpeedFactor.description>
   
 </LanguageData>

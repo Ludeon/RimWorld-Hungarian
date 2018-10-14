@@ -1,67 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Muffalo.label>muffalo</Muffalo.label>
-  <Muffalo.description>Bölénytől származó, csordában járó növényevő, mely egzotikus környezethez alkalmazkodott. Békés, amíg nem zavarják</Muffalo.description>
-  <Muffalo.tools.head.label>fej</Muffalo.tools.head.label>
-  <Muffalo.tools.left_hoof.label>bal pata</Muffalo.tools.left_hoof.label>
-  <Muffalo.tools.right_hoof.label>jobb pata</Muffalo.tools.right_hoof.label>
-<!--   <Muffalo_Leather.label>muffalobőr</Muffalo_Leather.label> -->
-<!--   <Muffalo_Leather.description>Egy muffalo bőre.</Muffalo_Leather.description> -->
-<!--   <Muffalo_Leather.stuffProps.stuffAdjective>muffalobőr</Muffalo_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Muffalo.label>muffalohús</Meat_Muffalo.label>
-  <Meat_Muffalo.description>Egy muffalo húsa.</Meat_Muffalo.description>
-  <Corpse_Muffalo.label>muffalo tetem</Corpse_Muffalo.label>
-  <Corpse_Muffalo.description>Egy muffalo teteme.</Corpse_Muffalo.description>
+  
+  <!-- EN: dromedary -->
+  <Dromedary.label>dromedár</Dromedary.label>
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but its bouncing gait makes it too uncomfortable to ride for any distance.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking. -->
+  <Dromedary.description>Sivatagi környezethez alkalmazkodva a lónak eme távoli rokona hetekig képes víz nélkül kibírni.</Dromedary.description>
+  <!-- EN: left hoof -->
+  <Dromedary.tools.left_hoof.label>bal pata</Dromedary.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Dromedary.tools.right_hoof.label>jobb pata</Dromedary.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Dromedary.tools.head.label>fej</Dromedary.tools.head.label>
+  
+  <!-- EN: gazelle -->
   <Gazelle.label>gazella</Gazelle.label>
+  <!-- EN: A small, extremely quick antelope known for its amazingly long leap. -->
   <Gazelle.description>Kicsi, nagyon gyors antilopfaj. mely nagy ugrásairól ismert.</Gazelle.description>
+  <!-- EN: left hoof -->
   <Gazelle.tools.left_hoof.label>bal pata</Gazelle.tools.left_hoof.label>
+  <!-- EN: right hoof -->
   <Gazelle.tools.right_hoof.label>jobb pata</Gazelle.tools.right_hoof.label>
+  <!-- EN: head -->
   <Gazelle.tools.head.label>fej</Gazelle.tools.head.label>
   
-<!--   <Gazelle_Leather.label>gazellabőr</Gazelle_Leather.label> -->
-<!--   <Gazelle_Leather.description>Egy gazella bőre.</Gazelle_Leather.description> -->
-<!--   <Gazelle_Leather.stuffProps.stuffAdjective>gazellabőr</Gazelle_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Gazelle.label>gazellahús</Meat_Gazelle.label>
-  <Meat_Gazelle.description>Egy gazella húsa.</Meat_Gazelle.description>
-  <Corpse_Gazelle.label>gazella tetem</Corpse_Gazelle.label>
-  <Corpse_Gazelle.description>Egy gazella teteme.</Corpse_Gazelle.description>
+  <!-- EN: iguana -->
   <Iguana.label>leguán</Iguana.label>
+  <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
   <Iguana.description>Ezek a nagy hüllők normális esetben növényt esznek. Ha felbosszantják őket, vastag bőrűk és éles karmaik miatt igen veszélyesek lehetnek.</Iguana.description>
+  <!-- EN: left claw -->
   <Iguana.tools.left_claw.label>bal karom</Iguana.tools.left_claw.label>
+  <!-- EN: right claw -->
   <Iguana.tools.right_claw.label>jobb karom</Iguana.tools.right_claw.label>
+  <!-- EN: head -->
   <Iguana.tools.head.label>fej</Iguana.tools.head.label>
-   
-<!--   <Iguana_Leather.label>leguánbőr</Iguana_Leather.label> -->
-<!--   <Iguana_Leather.description>Egy leguán bőre.</Iguana_Leather.description> -->
-<!--   <Iguana_Leather.stuffProps.stuffAdjective>leguánbőr</Iguana_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Iguana.label>leguánhús</Meat_Iguana.label>
-  <Meat_Iguana.description>Egy leguán húsa.</Meat_Iguana.description>
-  <Corpse_Iguana.label>leguán tetem</Corpse_Iguana.label>
-  <Corpse_Iguana.description>Egy leguán teteme.</Corpse_Iguana.description>
-  <Rhinoceros.label>orrszarvú</Rhinoceros.label>
-  <Rhinoceros.description>Ez a nagy emlős tipikusan szelíd, de nem hezitál, ha egy betolakodót kell megtámadnia nagy szarvával.</Rhinoceros.description>
-  <Rhinoceros.tools.horn-0.label>szarv</Rhinoceros.tools.horn-0.label>
-  <Rhinoceros.tools.horn-1.label>szarv</Rhinoceros.tools.horn-1.label>
-  <Rhinoceros.tools.head.label>fej</Rhinoceros.tools.head.label>
- 
-<!--   <Rhinoceros_Leather.label>orrszarvúbőr</Rhinoceros_Leather.label> -->
-<!--   <Rhinoceros_Leather.description>Egy orrszarvú bőre.</Rhinoceros_Leather.description> -->
-<!--   <Rhinoceros_Leather.stuffProps.stuffAdjective>orrszarvúbőr</Rhinoceros_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Rhinoceros.label>orrszarvúhús</Meat_Rhinoceros.label>
-  <Meat_Rhinoceros.description>Egy orrszarvú húsa.</Meat_Rhinoceros.description>
-  <Corpse_Rhinoceros.label>orrszarvú tetem</Corpse_Rhinoceros.label>
-  <Corpse_Rhinoceros.description>Egy orrszarvú teteme.</Corpse_Rhinoceros.description>
-  <Dromedary.label>dromedár</Dromedary.label>
-  <Dromedary.description>Sivatagi környezethez alkalmazkodva a lónak eme távoli rokona hetekig képes víz nélkül kibírni.</Dromedary.description>
-  <Dromedary.tools.left_hoof.label>bal pata</Dromedary.tools.left_hoof.label>
-  <Dromedary.tools.right_hoof.label>jobb pata</Dromedary.tools.right_hoof.label>
-  <Dromedary.tools.head.label>fej</Dromedary.tools.head.label>
- 
-<!--   <Dromedary_Leather.label>dromedárbőr</Dromedary_Leather.label> -->
-<!--   <Dromedary_Leather.description>Egy dromedár bőre.</Dromedary_Leather.description> -->
-<!--   <Dromedary_Leather.stuffProps.stuffAdjective>dromedárbőr</Dromedary_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Dromedary.label>dromedárhús</Meat_Dromedary.label>
-  <Meat_Dromedary.description>Egy dromedár húsa.</Meat_Dromedary.description>
-  <Corpse_Dromedary.label>dromedár tetem</Corpse_Dromedary.label>
-  <Corpse_Dromedary.description>Egy dromedár teteme.</Corpse_Dromedary.description>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>muffalo</Muffalo.label>
+  <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
+  <Muffalo.description>Bölénytől származó, csordában járó növényevő, mely egzotikus környezethez alkalmazkodott. Békés, amíg nem zavarják</Muffalo.description>
+  <!-- EN: head -->
+  <Muffalo.tools.head.label>fej</Muffalo.tools.head.label>
+  <!-- EN: left hoof -->
+  <Muffalo.tools.left_hoof.label>bal pata</Muffalo.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Muffalo.tools.right_hoof.label>jobb pata</Muffalo.tools.right_hoof.label>
+  
 </LanguageData>

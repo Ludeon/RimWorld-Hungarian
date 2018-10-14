@@ -1,59 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Heart.label>szív</Heart.label>
-  <Heart.description>Vért és oxigént szállít a test minden részébe. Új gazdáját várja.</Heart.description>
-  <Lung.label>tüdő</Lung.label>
-  <Lung.description>A légzőrendszer nélkülözhetetlen része.</Lung.description>
-  <Kidney.label>vese</Kidney.label>
-  <Kidney.description>Kiválasztja a vérből a méreganyagokat.</Kidney.description>
-  <Liver.label>máj</Liver.label>
-  <Liver.description>Fontos szerepet játszik az anyagcserében.</Liver.description>
-  <SimpleProstheticLeg.label>egyszerű műláb</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.description>Egyszerű lábprotézis, mely hiányzó láb pótlására szolgál. Nem igazán kényelmes, de működik.</SimpleProstheticLeg.description>
-  <SimpleProstheticArm.label>egyszerű műkar</SimpleProstheticArm.label>
-  <SimpleProstheticArm.description>Egyszerű, de tartós karprotézis.</SimpleProstheticArm.description>
   
-  <SimpleProstheticHeart.label>műszív</SimpleProstheticHeart.label>
-  <SimpleProstheticHeart.description>Szív protézis. Elektromos motorral pumpálja szét a vért a testben. A használók gyakran panaszkodnak fáradtságra, de még mindig jobb, mint a másik alternatíva...</SimpleProstheticHeart.description>
-
-  <CochlearImplant.label>műfül</CochlearImplant.label>
-  <CochlearImplant.description>Beültett műfül</CochlearImplant.description>
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>archotech kar</ArchotechArm.label>
+  <!-- EN: An artifical arm built by an archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechArm.description>Egy archotech által készített műkar. Elég erős hozzá, hogy összeroppantson egy keményfa ágat, ugyanakkor elég precíz hozzá, hogy szonettet írjon egy rizsszemre. Kinézete és tapintása, akár az emberi húsé, de nehezebb kárt tenni benne, mint a plasztacélban. Ha mégis sikerülne, magától regenerálódik. Belső működését ember fia nem érti.</ArchotechArm.description>
   
-  <BionicEye.label>bionikus szem</BionicEye.label>
-  <BionicEye.description>Fejlett technológia, mely nemcsak helyettesíti a szemet, hanem emberfeletti látást is biztosít.</BionicEye.description>
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>archotech szem</ArchotechEye.label>
+  <!-- EN: An artifical eye built by an archotech. It perceives every type of electromagnetic radiation, including radio waves, infrared, light, x-rays, and gamma rays. Its visual acuity is precise enough to read handwriting from twenty meters away. It can emit various wavelengths of radiation like a flashlight, and has an internal subpersona AI which helps highlight useful visual information. Externally, it looks like a natural human eye, except it can change color at will. Its internal workings are a mystery to all human minds. -->
+  <ArchotechEye.description>Egy archotech által készített műszem. Az elektromágneses sugárzás teljes spektrumát érzékeli, beleértve a rádió, infravörös, fény, röntgen és gamma sugarakat is. A felbontása olyan nagy, hogy húsz méter távolságból lehet vele kézírást olvasni. Különböző hullámhosszú sugárzást képes kibocsátani, akár egy lámpa. Be van építve egy MI központ is, ami segít a hasznos vizuális információk megjelölésében. Kívülről úgy néz ki, mint egy természetes szem, de a színét szabadon változtathatjuk. Belső működését ember fia nem érti.</ArchotechEye.description>
+  
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>archotech láb</ArchotechLeg.label>
+  <!-- EN: An artifical leg built by an archotech. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechLeg.description>Egy archotech által készített műláb. Kinézete és tapintása, akár az emberi húsé, ám képes egy autó sebességével mozgatni tulajdonosát és nehezebb kárt tenni benne, mint a plasztacélban. Ha mégis sikerülne, magától regenerálódik. Belső működését ember fia nem érti.</ArchotechLeg.description>
+  
+  <!-- EN: bionic arm -->
   <BionicArm.label>bionikus kar</BionicArm.label>
+  <!-- EN: An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
   <BionicArm.description>Az egyik legkifinomultabb műkar. Használójának extrém erőt kölcsönöz.</BionicArm.description>
-  <BionicLeg.label>bionikus láb</BionicLeg.label>
-  <BionicLeg.description>Nem csak erőt, hanem kényelmes járást is biztosít.</BionicLeg.description>
   
-  <BionicSpine.label>bionikus gerinc</BionicSpine.label>
-  <BionicSpine.description>Fejlett műgerinc. Biogél idegkötegek futnak végig egy plasztacél magban, körbevéve részecskehálós gyógyító rendszerrel. Ugyanolyan jól működik, mint a természetes gerinc.</BionicSpine.description>
-
-  <BionicHeart.label>bionikus szív</BionicHeart.label>
-  <BionicHeart.description>Fejlett műszív. Szintetikus izomszövetet használ a realisztikus szívdobbanás érdekében, és egy nagynyomású pumpa is van benne a stresszes helyzetek alatti gyors keringés elérésére. Szinte minden szempontból jobb, mint egy természetes szív.</BionicHeart.description>
-
-  <BionicStomach.label>bionikus gyomor</BionicStomach.label>
-  <BionicStomach.description>Fejlett műgyomor. Szenzorok és kémiai szintetizálók segítségével képes megemészteni szinte minden tápanyagot. A beépített részecskehálós gyógyító rendszer rendbe hoz minden sérülést, amit az erős savak okoznak. Szinte minden szempontból jobb, mint egy természetes gyomor.</BionicStomach.description>
-
+  <!-- EN: bionic ear -->
   <BionicEar.label>bionikus fül</BionicEar.label>
+  <!-- EN: An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
   <BionicEar.description>Fejlett műfül. Szinte minden szempontból jobb, mint egy természetes fül.</BionicEar.description>
   
+  <!-- EN: bionic eye -->
+  <BionicEye.label>bionikus szem</BionicEye.label>
+  <!-- EN: An advanced artifical eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
+  <BionicEye.description>Fejlett technológia, mely nemcsak helyettesíti a szemet, hanem emberfeletti látást is biztosít.</BionicEye.description>
   
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>bionikus szív</BionicHeart.label>
+  <!-- EN: An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
+  <BionicHeart.description>Fejlett műszív. Szintetikus izomszövetet használ a realisztikus szívdobbanás érdekében, és egy nagynyomású pumpa is van benne a stresszes helyzetek alatti gyors keringés elérésére. Szinte minden szempontból jobb, mint egy természetes szív.</BionicHeart.description>
+  
+  <!-- EN: bionic leg -->
+  <BionicLeg.label>bionikus láb</BionicLeg.label>
+  <!-- EN: An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
+  <BionicLeg.description>Nem csak erőt, hanem kényelmes járást is biztosít.</BionicLeg.description>
+  
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>bionikus gerinc</BionicSpine.label>
+  <!-- EN: An advanced artificial spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
+  <BionicSpine.description>Fejlett műgerinc. Biogél idegkötegek futnak végig egy plasztacél magban, körbevéve részecskehálós gyógyító rendszerrel. Ugyanolyan jól működik, mint a természetes gerinc.</BionicSpine.description>
+  
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>bionikus gyomor</BionicStomach.label>
+  <!-- EN: An advanced artificial stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way. -->
+  <BionicStomach.description>Fejlett műgyomor. Szenzorok és kémiai szintetizálók segítségével képes megemészteni szinte minden tápanyagot. A beépített részecskehálós gyógyító rendszer rendbe hoz minden sérülést, amit az erős savak okoznak. Szinte minden szempontból jobb, mint egy természetes gyomor.</BionicStomach.description>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>műfül</CochlearImplant.label>
+  <!-- EN: An implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
+  <CochlearImplant.description>Beültett műfül</CochlearImplant.description>
+  
+  <!-- EN: heart -->
+  <Heart.label>szív</Heart.label>
+  <!-- EN: A biological human heart. Pumps blood around the body. -->
+  <Heart.description>Vért és oxigént szállít a test minden részébe. Új gazdáját várja.</Heart.description>
+  
+  <!-- EN: kidney -->
+  <Kidney.label>vese</Kidney.label>
+  <!-- EN: A biological human kidney. Filters and removes waste products from the blood. -->
+  <Kidney.description>Kiválasztja a vérből a méreganyagokat.</Kidney.description>
+  
+  <!-- EN: liver -->
+  <Liver.label>máj</Liver.label>
+  <!-- EN: A biological human liver. Plays an important role in metabolism. -->
+  <Liver.description>Fontos szerepet játszik az anyagcserében.</Liver.description>
+  
+  <!-- EN: lung -->
+  <Lung.label>tüdő</Lung.label>
+  <!-- EN: A biological human lung. A pair of these form the core of the human respiratory system. -->
+  <Lung.description>A légzőrendszer nélkülözhetetlen része.</Lung.description>
+  
+  <!-- EN: power claw -->
   <PowerClaw.label>erőkarom</PowerClaw.label>
+  <!-- EN: A combat-oriented hand replacement consisting of a mechanical hand with a vicious claw on each finger. It is vicious in combat, and its powerful mini-servos can crush a skull like a natural hand crushes an egg. The blades can be retracted, making it as useful as a biological hand for non-combat tasks. -->
   <PowerClaw.description>Halálos műkéz, mely három éles karomból áll.</PowerClaw.description>
-  <!-- <ScytherBlade.label>kaszáspenge</ScytherBlade.label> -->
-  <!-- <ScytherBlade.description>Műkéz teleszkópos pengével, halott kaszás mechanoidról leszerelve. Nem túl kényelmes, de közelharcban igen hatásos.</ScytherBlade.description> -->
-   <!-- archotech -->
-
-  <ArchotechEye.label>archotech szem</ArchotechEye.label>
-  <ArchotechEye.description>Egy archotech által készített műszem. Az elektromágneses sugárzás teljes spektrumát érzékeli, beleértve a rádió, infravörös, fény, röntgen és gamma sugarakat is. A felbontása olyan nagy, hogy húsz méter távolságból lehet vele kézírást olvasni. Különböző hullámhosszú sugárzást képes kibocsátani, akár egy lámpa. Be van építve egy MI központ is, ami segít a hasznos vizuális információk megjelölésében. Kívülről úgy néz ki, mint egy természetes szem, de a színét szabadon változtathatjuk. Belső működését ember fia nem érti.</ArchotechEye.description>
-
-  <ArchotechArm.label>archotech kar</ArchotechArm.label>
-  <ArchotechArm.description>Egy archotech által készített műkar. Elég erős hozzá, hogy összeroppantson egy keményfa ágat, ugyanakkor elég precíz hozzá, hogy szonettet írjon egy rizsszemre. Kinézete és tapintása, akár az emberi húsé, de nehezebb kárt tenni benne, mint a plasztacélban. Ha mégis sikerülne, magától regenerálódik. Belső működését ember fia nem érti.</ArchotechArm.description>
-
-  <ArchotechLeg.label>archotech láb</ArchotechLeg.label>
-  <ArchotechLeg.description>Egy archotech által készített műláb. Kinézete és tapintása, akár az emberi húsé, ám képes egy autó sebességével mozgatni tulajdonosát és nehezebb kárt tenni benne, mint a plasztacélban. Ha mégis sikerülne, magától regenerálódik. Belső működését ember fia nem érti.</ArchotechLeg.description>
-
   
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>egyszerű műkar</SimpleProstheticArm.label>
+  <!-- EN: An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
+  <SimpleProstheticArm.description>Egyszerű, de tartós karprotézis.</SimpleProstheticArm.description>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>műszív</SimpleProstheticHeart.label>
+  <!-- EN: A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
+  <SimpleProstheticHeart.description>Szív protézis. Elektromos motorral pumpálja szét a vért a testben. A használók gyakran panaszkodnak fáradtságra, de még mindig jobb, mint a másik alternatíva...</SimpleProstheticHeart.description>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>egyszerű műláb</SimpleProstheticLeg.label>
+  <!-- EN: A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
+  <SimpleProstheticLeg.description>Egyszerű lábprotézis, mely hiányzó láb pótlására szolgál. Nem igazán kényelmes, de működik.</SimpleProstheticLeg.description>
   
 </LanguageData>

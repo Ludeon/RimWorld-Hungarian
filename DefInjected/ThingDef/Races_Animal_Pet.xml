@@ -1,56 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <YorkshireTerrier.label>yorkshire terrier</YorkshireTerrier.label>
-  <YorkshireTerrier.description>Kistermetű, higgadt kutyafajta. Eredetileg patkányvadászatra tenyésztették, később lett házi kutya.</YorkshireTerrier.description>
-  <YorkshireTerrier.tools.left_claw.label>bal mancs</YorkshireTerrier.tools.left_claw.label>
-  <YorkshireTerrier.tools.right_claw.label>jobb mancs</YorkshireTerrier.tools.right_claw.label>
-  <YorkshireTerrier.tools.head.label>fej</YorkshireTerrier.tools.head.label>
-  <YorkshireTerrier.tools.cute_little_teeth.label>cuki fogacskák</YorkshireTerrier.tools.cute_little_teeth.label>
   
-<!--   <YorkshireTerrier_Leather.label>terrierbőr</YorkshireTerrier_Leather.label> -->
-<!--   <YorkshireTerrier_Leather.description>Egy yorkshire terrier bőre.</YorkshireTerrier_Leather.description> -->
-<!--   <YorkshireTerrier_Leather.stuffProps.stuffAdjective>terrierbőr</YorkshireTerrier_Leather.stuffProps.stuffAdjective> -->
-  <Meat_YorkshireTerrier.label>terrierhús</Meat_YorkshireTerrier.label>
-  <Meat_YorkshireTerrier.description>Egy yorkshire terrier húsa.</Meat_YorkshireTerrier.description>
-  <Corpse_YorkshireTerrier.label>yorkshire terrier tetem</Corpse_YorkshireTerrier.label>
-  <Corpse_YorkshireTerrier.description>Egy yorkshire terrier teteme.</Corpse_YorkshireTerrier.description>
-  <Husky.label>husky</Husky.label>
-  <Husky.description>Nagy termetű, energikus kutyafajta. Vastag bundája melegen tartja sarki körülmények között is.</Husky.description>
-  <Husky.tools.left_claw.label>bal mancs</Husky.tools.left_claw.label>
-  <Husky.tools.right_claw.label>jobb mancs</Husky.tools.right_claw.label>
-  <Husky.tools.head.label>fej</Husky.tools.head.label>
-  
-<!--   <Husky_Leather.label>huskybőr</Husky_Leather.label> -->
-<!--   <Husky_Leather.description>Egy husky bőre.</Husky_Leather.description> -->
-<!--   <Husky_Leather.stuffProps.stuffAdjective>huskybőr</Husky_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Husky.label>huskyhús</Meat_Husky.label>
-  <Meat_Husky.description>Egy husky húsa.</Meat_Husky.description>
-  <Corpse_Husky.label>husky tetem</Corpse_Husky.label>
-  <Corpse_Husky.description>Egy husky teteme.</Corpse_Husky.description>
-  <LabradorRetriever.label>labrador</LabradorRetriever.label>
-  <LabradorRetriever.description>Sokoldalú, közepes termetű kutya. Eredetileg levadászott madarak visszahordására tenyésztették. A labrador ezen felül kiváló őrkutya, játszótárs és a család barátja.</LabradorRetriever.description>
-  <LabradorRetriever.tools.left_claw.label>bal mancs</LabradorRetriever.tools.left_claw.label>
-  <LabradorRetriever.tools.right_claw.label>jobb mancs</LabradorRetriever.tools.right_claw.label>
-  <LabradorRetriever.tools.head.label>fej</LabradorRetriever.tools.head.label>
-  
-<!--   <LabradorRetriever_Leather.label>labradorbőr</LabradorRetriever_Leather.label> -->
-<!--   <LabradorRetriever_Leather.description>Egy labrador bőre.</LabradorRetriever_Leather.description> -->
-<!--   <LabradorRetriever_Leather.stuffProps.stuffAdjective>labradorbőr</LabradorRetriever_Leather.stuffProps.stuffAdjective> -->
-  <Meat_LabradorRetriever.label>labradorhús</Meat_LabradorRetriever.label>
-  <Meat_LabradorRetriever.description>Egy labrador húsa.</Meat_LabradorRetriever.description>
-  <Corpse_LabradorRetriever.label>labrador tetem</Corpse_LabradorRetriever.label>
-  <Corpse_LabradorRetriever.description>Egy labrador teteme.</Corpse_LabradorRetriever.description>
+  <!-- EN: cat -->
   <Cat.label>macska</Cat.label>
+  <!-- EN: One of mankind's first pets, the cat is a small mammal which hunts vermin. Known for their aloofness, cats are nevertheless popular companions because of their independence, calm disposition, and fine, pettable fur. -->
   <Cat.description>Az emberiség egyik első háziállata. A macska egy kis termetű emlős, mely rágcsálókra vadászik. Zárkózottságukról ismertek, de a macskák ettől függetlenül népszerűek, mert nyugodtak, függetlenek és a szőrük is kellemes tapintású.</Cat.description>
+  <!-- EN: left claw -->
   <Cat.tools.left_claw.label>bal mancs</Cat.tools.left_claw.label>
+  <!-- EN: right claw -->
   <Cat.tools.right_claw.label>jobb mancs</Cat.tools.right_claw.label>
+  <!-- EN: head -->
   <Cat.tools.head.label>fej</Cat.tools.head.label>
   
-<!--   <Cat_Leather.label>macskabőr</Cat_Leather.label> -->
-<!--   <Cat_Leather.description>Egy macska bőre.</Cat_Leather.description> -->
-<!--   <Cat_Leather.stuffProps.stuffAdjective>macskabőr</Cat_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Cat.label>macskahús</Meat_Cat.label>
-  <Meat_Cat.description>Egy macska húsa.</Meat_Cat.description>
-  <Corpse_Cat.label>macska tetem</Corpse_Cat.label>
-  <Corpse_Cat.description>Egy macska teteme.</Corpse_Cat.description>
+  <!-- EN: husky -->
+  <Husky.label>husky</Husky.label>
+  <!-- EN: A large, energetic dog with a thick fur coat for remaining comfortable in arctic environments. -->
+  <Husky.description>Nagy termetű, energikus kutyafajta. Vastag bundája melegen tartja sarki körülmények között is.</Husky.description>
+  <!-- EN: left claw -->
+  <Husky.tools.left_claw.label>bal mancs</Husky.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Husky.tools.right_claw.label>jobb mancs</Husky.tools.right_claw.label>
+  <!-- EN: head -->
+  <Husky.tools.head.label>fej</Husky.tools.head.label>
+  
+  <!-- EN: labrador retriever -->
+  <LabradorRetriever.label>labrador</LabradorRetriever.label>
+  <!-- EN: A very versatile, medium-sized dog. Originally bred to retrieve birds shot on the hunt, the lab is also an excellent guard dog, play pal, and family friend. -->
+  <LabradorRetriever.description>Sokoldalú, közepes termetű kutya. Eredetileg levadászott madarak visszahordására tenyésztették. A labrador ezen felül kiváló őrkutya, játszótárs és a család barátja.</LabradorRetriever.description>
+  <!-- EN: left claw -->
+  <LabradorRetriever.tools.left_claw.label>bal mancs</LabradorRetriever.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <LabradorRetriever.tools.right_claw.label>jobb mancs</LabradorRetriever.tools.right_claw.label>
+  <!-- EN: head -->
+  <LabradorRetriever.tools.head.label>fej</LabradorRetriever.tools.head.label>
+  
+  <!-- EN: yorkshire terrier -->
+  <YorkshireTerrier.label>yorkshire terrier</YorkshireTerrier.label>
+  <!-- EN: A small, even-tempered dog. Originally bred to hunt rats, it later became a show and companionship animal. Some consider it useless, but the mood boost it gives by nuzzling can outweight the cost of feeding it. -->
+  <YorkshireTerrier.description>Kistermetű, higgadt kutyafajta. Eredetileg patkányvadászatra tenyésztették, később lett házi kutya.</YorkshireTerrier.description>
+  <!-- EN: left claw -->
+  <YorkshireTerrier.tools.left_claw.label>bal mancs</YorkshireTerrier.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <YorkshireTerrier.tools.right_claw.label>jobb mancs</YorkshireTerrier.tools.right_claw.label>
+  <!-- EN: cute little teeth -->
+  <YorkshireTerrier.tools.cute_little_teeth.label>cuki fogacskák</YorkshireTerrier.tools.cute_little_teeth.label>
+  <!-- EN: head -->
+  <YorkshireTerrier.tools.head.label>fej</YorkshireTerrier.tools.head.label>
+  
 </LanguageData>

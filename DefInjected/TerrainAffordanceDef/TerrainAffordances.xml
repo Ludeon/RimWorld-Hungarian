@@ -1,49 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Supports light structure -->
-
-  <Light.label>könnyű</Light.label>
-
-
-  <!-- Supports medium structures (mainly walls) -->
-
-  <Medium.label>közepes</Medium.label>
-
-
-  <!-- Supports heavy structures -->
-
-  <Heavy.label>nehéz</Heavy.label>
-
-
-  <!-- Can be built on with things that are waterproof -->
-
-  <ShallowWater.label>sekély víz</ShallowWater.label>
-
-
-  <!-- Contains power usable for hydroelectrics -->
-
-  <MovingFluid.label>folyó víz</MovingFluid.label>
-
-
-  <!-- Bridge can be built here -->
-
+  
+  <!-- EN: bridgeable -->
   <Bridgeable.label>híd verhető rajta</Bridgeable.label>
-
-
-  <!-- Things can grow here -->
-
-  <GrowSoil.label>termékeny</GrowSoil.label>
-
-
-  <!-- For graves -->
-
+  
+  <!-- EN: diggable -->
   <Diggable.label>fúrható</Diggable.label>
-
-
-  <!-- Can be ground and smoothed into smooth stone -->
-
+  
+  <!-- EN: growable -->
+  <GrowSoil.label>termékeny</GrowSoil.label>
+  
+  <!-- EN: heavy -->
+  <Heavy.label>nehéz</Heavy.label>
+  
+  <!-- EN: light -->
+  <Light.label>könnyű</Light.label>
+  
+  <!-- EN: medium -->
+  <Medium.label>közepes</Medium.label>
+  
+  <!-- EN: moving water -->
+  <MovingFluid.label>folyó víz</MovingFluid.label>
+  
+  <!-- EN: shallow water -->
+  <ShallowWater.label>sekély víz</ShallowWater.label>
+  
+  <!-- EN: smoothable -->
   <SmoothableStone.label>elegyengethető</SmoothableStone.label>
-
-
+  
 </LanguageData>

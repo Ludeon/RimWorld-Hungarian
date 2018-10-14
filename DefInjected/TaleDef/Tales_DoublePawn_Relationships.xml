@@ -1,69 +1,140 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BondedWithAnimal.label>kötődés alakult ki</BondedWithAnimal.label>
-	<BondedWithAnimal.rulePack.rulesStrings>
-		<li>tale_noun->Ahogy [human_nameDef] és [animal_nameDef] egymásra találnak</li>
-		<li>image->[human_nameFull] és [animal_nameFull] közel kerül egymáshoz, [circumstance_group]</li>
-		<li>image->[human_nameFull] és [animal_nameFull] közelebb kerül egymáshoz, [circumstance_group]</li>
-		<li>image->[human_nameFull] rájön, hogy szereti őt: [animal_nameFull], [circumstance_group]</li>
-		<li>circumstance_phrase->közben más állatok figyelik őket</li>
-		<li>circumstance_phrase->miközben [human_nameDef] [animal_nameDef] szemébe néz</li>
-		<li>circumstance_phrase->és ez elégedettséggel tölti el</li>
-		<li>desc_sentence->[animal_nameDef] odadörgölőzik hozzá: [human_nameDef].</li>
-		<li>desc_sentence->[animal_nameDef] álmosnak tűnik és szeretet-ittasnak.</li>
-		<li>desc_sentence->[animal_nameDef] kihúzza magát és nemesnek mutatkozik.</li>
-		<li>desc_sentence->[animal_nameDef] pozitívan reagál.</li>
-	</BondedWithAnimal.rulePack.rulesStrings>
+  
+  <!-- EN: became lover -->
   <BecameLover.label>szeretők lettek</BecameLover.label>
-	<BecameLover.rulePack.rulesStrings>
-		<li>tale_noun->ahogy [firstPawn_nameDef] és [secondPawn_nameDef] szeretők lesznek</li>
-		<li>image->[firstPawn_nameFull], [circumstance_group], ahogy édes semmiségeket suttog [secondPawn_nameFull] fülébe</li>
-		<li>image->[firstPawn_nameFull] és [secondPawn_nameFull] [circumstance_group], ahogy egymás kezét fogják</li>
-		<li>image->[firstPawn_nameFull] és [secondPawn_nameFull], ahogy az ágyban ugrálnak</li>
-		<li>image->[firstPawn_nameFull] és [secondPawn_nameFull], ahogy [circumstance_group] szenvedélyesen csókolóznak</li>
-		<li>circumstance_phrase->egy lehetetlenül nagy ágyban</li>
-		<li>circumstance_phrase->az ágy alatt</li>
-		<li>circumstance_phrase->alig pár göncben</li>
-		<li>circumstance_phrase->megizzadva</li>
-		<li>desc_sentence->[firstPawn_nameDef] és [secondPawn_nameDef] egymáshoz simulnak.</li>
-		<li>desc_sentence->[firstPawn_nameDef] és [secondPawn_nameDef] mélyen egymás szemébe néznek.</li>
-		<li>desc_sentence->[firstPawn_nameDef] belefúj [secondPawn_nameDef] fülébe.</li>
-		<li>desc_sentence->[firstPawn_nameDef] és [secondPawn_nameDef] stilisztikailag kötődnek.</li>
-		<li>desc_sentence->[firstPawn_nameDef] szinte [secondPawn_nameDef] tükörképe.</li>
-		<li>desc_sentence->[firstPawn_nameDef] keményen belemarkol [secondPawn_nameDef] hajába.</li>
-	</BecameLover.rulePack.rulesStrings>
+  <!-- EN:
+    <li>tale_noun->[PURSUER_nameDef] and [ACCEPTER_nameDef] becoming lovers</li>
+    <li>image->[PURSUER_nameFull] whispering sweet nothings into [ACCEPTER_nameFull]'s ear [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] leading [ACCEPTER_nameFull] by the hand into bed [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] gambolling in bed with [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] deeply kissing [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->in an unrealistically large bed</li>
+    <li>circumstance_phrase->between the sheets</li>
+    <li>circumstance_phrase->with few clothes in sight</li>
+    <li>circumstance_phrase->while both are drenched in sweat</li>
+    <li>desc_sentence->[PURSUER_nameDef] is snuggling up against [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is locking eyes with [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is blowing air at [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is stylistically bonded with [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is a near-mirror image of [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is touching [ACCEPTER_nameDef] aggressively.</li>
+  -->
+  <BecameLover.rulePack.rulesStrings>
+    <li>tale_noun->ahogy [firstPawn_nameDef] és [secondPawn_nameDef] szeretők lesznek</li>
+    <li>image->[firstPawn_nameFull], [circumstance_group], ahogy édes semmiségeket suttog [secondPawn_nameFull] fülébe</li>
+    <li>image->[firstPawn_nameFull] és [secondPawn_nameFull] [circumstance_group], ahogy egymás kezét fogják</li>
+    <li>image->[firstPawn_nameFull] és [secondPawn_nameFull], ahogy az ágyban ugrálnak</li>
+    <li>image->[firstPawn_nameFull] és [secondPawn_nameFull], ahogy [circumstance_group] szenvedélyesen csókolóznak</li>
+    <li>circumstance_phrase->egy lehetetlenül nagy ágyban</li>
+    <li>circumstance_phrase->az ágy alatt</li>
+    <li>circumstance_phrase->alig pár göncben</li>
+    <li>circumstance_phrase->megizzadva</li>
+    <li>desc_sentence->[firstPawn_nameDef] és [secondPawn_nameDef] egymáshoz simulnak.</li>
+    <li>desc_sentence->[firstPawn_nameDef] és [secondPawn_nameDef] mélyen egymás szemébe néznek.</li>
+    <li>desc_sentence->[firstPawn_nameDef] belefúj [secondPawn_nameDef] fülébe.</li>
+    <li>desc_sentence->[firstPawn_nameDef] és [secondPawn_nameDef] stilisztikailag kötődnek.</li>
+    <li>desc_sentence->[firstPawn_nameDef] szinte [secondPawn_nameDef] tükörképe.</li>
+    <li>desc_sentence->[firstPawn_nameDef] keményen belemarkol [secondPawn_nameDef] hajába.</li>
+  </BecameLover.rulePack.rulesStrings>
+  
+  <!-- EN: bond developed -->
+  <BondedWithAnimal.label>kötődés alakult ki</BondedWithAnimal.label>
+  <!-- EN:
+    <li>tale_noun->[HUMAN_nameDef]'s bonding with [ANIMAL_nameDef]</li>
+    <li>image->[HUMAN_nameFull] bonding with [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] forming a deep bond with [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] realizing [HUMAN_possessive] truly loves [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->while other animals look on</li>
+    <li>circumstance_phrase->while looking into [ANIMAL_nameDef]'s eyes</li>
+    <li>circumstance_phrase->with a sense of satisfaction</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is snuggling up against [HUMAN_nameDef].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks sleepy and drunk with love.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] stands tall and looks noble.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is responding positively.</li>
+  -->
+  <BondedWithAnimal.rulePack.rulesStrings>
+    <li>tale_noun->Ahogy [human_nameDef] és [animal_nameDef] egymásra találnak</li>
+    <li>image->[human_nameFull] és [animal_nameFull] közel kerül egymáshoz, [circumstance_group]</li>
+    <li>image->[human_nameFull] és [animal_nameFull] közelebb kerül egymáshoz, [circumstance_group]</li>
+    <li>image->[human_nameFull] rájön, hogy szereti őt: [animal_nameFull], [circumstance_group]</li>
+    <li>circumstance_phrase->közben más állatok figyelik őket</li>
+    <li>circumstance_phrase->miközben [human_nameDef] [animal_nameDef] szemébe néz</li>
+    <li>circumstance_phrase->és ez elégedettséggel tölti el</li>
+    <li>desc_sentence->[animal_nameDef] odadörgölőzik hozzá: [human_nameDef].</li>
+    <li>desc_sentence->[animal_nameDef] álmosnak tűnik és szeretet-ittasnak.</li>
+    <li>desc_sentence->[animal_nameDef] kihúzza magát és nemesnek mutatkozik.</li>
+    <li>desc_sentence->[animal_nameDef] pozitívan reagál.</li>
+  </BondedWithAnimal.rulePack.rulesStrings>
+  
+  <!-- EN: breakup -->
   <Breakup.label>szakítás</Breakup.label>
-	<Breakup.rulePack.rulesStrings>
-		<li>tale_noun->ahogy [firstPawn_nameDef] és [secondPawn_nameDef] szakít</li>
-		<li>image->[firstPawn_nameFull] és [secondPawn_nameFull], ahogy kellemetlen beszélgetést folytatnak [circumstance_group]</li>
-		<li>image->[firstPawn_nameFull] és [secondPawn_nameFull], ahogy egymástól távolabb állnak, [circumstance_group]</li>
-		<li>image->[firstPawn_nameFull] és [secondPawn_nameFull], ahogy kidobják egymást az ágyból, [circumstance_group]</li>
-		<li>image->[firstPawn_nameFull] és [secondPawn_nameFull], ahogy az egyik visszautasítja a másik ölelését</li>
-		<li>circumstance_phrase->egy nagyon szomorú pillanatban</li>
-		<li>circumstance_phrase->közben mások oda sem néznek</li>
-		<li>circumstance_phrase->közben másik nézik őket</li>
-		<li>desc_sentence->[secondPawn_nameDef] sír.</li>
-		<li>desc_sentence->[secondPawn_nameDef] gúnyosan mosolyog és sír egyszerre.</li>
-		<li>desc_sentence->[secondPawn_nameDef] megkövült arccal.</li>
-		<li>desc_sentence->[firstPawn_nameDef] és [secondPawn_nameDef] stilisztikailag elválasztva.</li>
-		<li>desc_sentence->[secondPawn_nameDef] a padlón összeesve.</li>
-		<li>desc_sentence->[secondPawn_nameDef] és [firstPawn_nameDef] mérgesen gesztikulálnak.</li>
-	</Breakup.rulePack.rulesStrings>
+  <!-- EN:
+    <li>tale_noun->the breakup of [DUMPER_nameDef] and [REJECTED_nameDef]</li>
+    <li>image->[DUMPER_nameFull] sitting [REJECTED_nameFull] down for an unpleasant talk [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] standing at a distance from [REJECTED_nameFull] [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] pushing [REJECTED_nameFull] out of bed [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] rejecting a hug from [REJECTED_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->in a moment of great sadness</li>
+    <li>circumstance_phrase->as others look away awkwardly</li>
+    <li>circumstance_phrase->as others look on</li>
+    <li>desc_sentence->[REJECTED_nameDef] is sobbing uncontrollably.</li>
+    <li>desc_sentence->[REJECTED_nameDef] is sneering and crying at the same time.</li>
+    <li>desc_sentence->[REJECTED_nameDef] is stony-faced with shock.</li>
+    <li>desc_sentence->[DUMPER_nameDef] is stylistically separated from [REJECTED_nameDef].</li>
+    <li>desc_sentence->[REJECTED_nameDef] has collapsed on the floor in a quivering heap.</li>
+    <li>desc_sentence->[REJECTED_nameDef] is gesticulating angrily at [DUMPER_nameDef].</li>
+  -->
+  <Breakup.rulePack.rulesStrings>
+    <li>tale_noun->ahogy [firstPawn_nameDef] és [secondPawn_nameDef] szakít</li>
+    <li>image->[firstPawn_nameFull] és [secondPawn_nameFull], ahogy kellemetlen beszélgetést folytatnak [circumstance_group]</li>
+    <li>image->[firstPawn_nameFull] és [secondPawn_nameFull], ahogy egymástól távolabb állnak, [circumstance_group]</li>
+    <li>image->[firstPawn_nameFull] és [secondPawn_nameFull], ahogy kidobják egymást az ágyból, [circumstance_group]</li>
+    <li>image->[firstPawn_nameFull] és [secondPawn_nameFull], ahogy az egyik visszautasítja a másik ölelését</li>
+    <li>circumstance_phrase->egy nagyon szomorú pillanatban</li>
+    <li>circumstance_phrase->közben mások oda sem néznek</li>
+    <li>circumstance_phrase->közben másik nézik őket</li>
+    <li>desc_sentence->[secondPawn_nameDef] sír.</li>
+    <li>desc_sentence->[secondPawn_nameDef] gúnyosan mosolyog és sír egyszerre.</li>
+    <li>desc_sentence->[secondPawn_nameDef] megkövült arccal.</li>
+    <li>desc_sentence->[firstPawn_nameDef] és [secondPawn_nameDef] stilisztikailag elválasztva.</li>
+    <li>desc_sentence->[secondPawn_nameDef] a padlón összeesve.</li>
+    <li>desc_sentence->[secondPawn_nameDef] és [firstPawn_nameDef] mérgesen gesztikulálnak.</li>
+  </Breakup.rulePack.rulesStrings>
+  
+  <!-- EN: marriage -->
   <Marriage.label>esküvő</Marriage.label>
-	<Marriage.rulePack.rulesStrings>
-		<li>tale_noun->[firstPawn_nameDef] és [secondPawn_nameDef] esküvője</li>
-		<li>image->ahogy [firstPawn_nameFull] és [secondPawn_nameFull] megházasodnak, [circumstance_group]</li>
-		<li>image->[firstPawn_nameFull] eskübeszédet tart [secondPawn_nameFull] számára, [circumstance_group]</li>
-		<li>image->[firstPawn_nameFull] és [secondPawn_nameFull] az oltárhoz vonulnak, [circumstance_group]</li>
-		<li>image->[firstPawn_nameFull] és [secondPawn_nameFull] egymás kezét fogják a ceremónia alatt</li>
-		<li>circumstance_phrase->egy méltóságteljes ceremónián</li>
-		<li>circumstance_phrase->miközben mindketten boldogan nevetnek</li>
-		<li>circumstance_phrase->miközben mások ünnepélyesen nézik</li>
-		<li>desc_sentence->[firstPawn_nameDef] és [secondPawn_nameDef] egymáshoz simulnak.</li>
-		<li>desc_sentence->[firstPawn_nameDef] és [secondPawn_nameDef] mélyen egymás szemébe néznek.</li>
-		<li>desc_sentence->[firstPawn_nameDef] belefúj [secondPawn_nameDef] fülébe.</li>
-		<li>desc_sentence->[firstPawn_nameDef] és [secondPawn_nameDef] stilisztikailag kötődnek.</li>
-		<li>desc_sentence->[firstPawn_nameDef] szinte [secondPawn_nameDef] tükörképe.</li>
-		<li>desc_sentence->[firstPawn_nameDef] keményen belemarkol [secondPawn_nameDef] hajába.</li>
-	</Marriage.rulePack.rulesStrings>
+  <!-- EN:
+    <li>tale_noun->the marriage of [SPOUSE1_nameDef] and [SPOUSE2_nameDef]</li>
+    <li>image->[SPOUSE1_nameFull] marrying [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] saying [SPOUSE1_possessive] marriage vows to [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] walking down the aisle with [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] holding hands with [SPOUSE2_nameFull] during a marriage ceremony [circumstance_group]</li>
+    <li>circumstance_phrase->in a dignified ceremony</li>
+    <li>circumstance_phrase->while both laugh gaily</li>
+    <li>circumstance_phrase->while others look on solemnly</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is snuggling up against [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is locking eyes with [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is blowing air at [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is stylistically bonded with [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is a near-mirror image of [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is touching [SPOUSE2_nameDef] aggressively.</li>
+  -->
+  <Marriage.rulePack.rulesStrings>
+    <li>tale_noun->[firstPawn_nameDef] és [secondPawn_nameDef] esküvője</li>
+    <li>image->ahogy [firstPawn_nameFull] és [secondPawn_nameFull] megházasodnak, [circumstance_group]</li>
+    <li>image->[firstPawn_nameFull] eskübeszédet tart [secondPawn_nameFull] számára, [circumstance_group]</li>
+    <li>image->[firstPawn_nameFull] és [secondPawn_nameFull] az oltárhoz vonulnak, [circumstance_group]</li>
+    <li>image->[firstPawn_nameFull] és [secondPawn_nameFull] egymás kezét fogják a ceremónia alatt</li>
+    <li>circumstance_phrase->egy méltóságteljes ceremónián</li>
+    <li>circumstance_phrase->miközben mindketten boldogan nevetnek</li>
+    <li>circumstance_phrase->miközben mások ünnepélyesen nézik</li>
+    <li>desc_sentence->[firstPawn_nameDef] és [secondPawn_nameDef] egymáshoz simulnak.</li>
+    <li>desc_sentence->[firstPawn_nameDef] és [secondPawn_nameDef] mélyen egymás szemébe néznek.</li>
+    <li>desc_sentence->[firstPawn_nameDef] belefúj [secondPawn_nameDef] fülébe.</li>
+    <li>desc_sentence->[firstPawn_nameDef] és [secondPawn_nameDef] stilisztikailag kötődnek.</li>
+    <li>desc_sentence->[firstPawn_nameDef] szinte [secondPawn_nameDef] tükörképe.</li>
+    <li>desc_sentence->[firstPawn_nameDef] keményen belemarkol [secondPawn_nameDef] hajába.</li>
+  </Marriage.rulePack.rulesStrings>
+  
 </LanguageData>

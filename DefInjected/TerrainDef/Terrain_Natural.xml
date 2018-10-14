@@ -1,22 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Sand.label>homok</Sand.label>
-  <Sand.tools.sand.label>homok</Sand.tools.sand.label>
-  <Soil.label>föld</Soil.label>
-  <Soil.tools.dirt.label>föld</Soil.tools.dirt.label>
-  <MarshyTerrain.label>mocsaras talaj</MarshyTerrain.label>
-  <MarshyTerrain.tools.mud.label>mocsár</MarshyTerrain.tools.mud.label>
-  <SoilRich.label>termékeny föld</SoilRich.label>
-  <SoilRich.tools.dirt.label>talaj</SoilRich.tools.dirt.label>
-  <Mud.label>iszap</Mud.label>
-  <Mud.tools.mud.label>iszap</Mud.tools.mud.label>
-  <Marsh.label>mocsár</Marsh.label>
-  <Marsh.tools.mud.label>mocsár</Marsh.tools.mud.label>
-  <Marsh.tools.water.label>mocsár</Marsh.tools.water.label>
+  
+  <!-- EN: stony soil -->
   <Gravel.label>sóder</Gravel.label>
+  <!-- EN: gravel -->
   <Gravel.tools.gravel.label>sóder</Gravel.tools.gravel.label>
-  <MossyTerrain.label>mohás talaj</MossyTerrain.label>
+  
+  <!-- EN: Ice -->
   <Ice.label>jég</Ice.label>
+  
+  <!-- EN: marshy soil -->
+  <MarshyTerrain.label>mocsaras talaj</MarshyTerrain.label>
+  <!-- EN: mud -->
+  <MarshyTerrain.tools.mud.label>mocsár</MarshyTerrain.tools.mud.label>
+  
+  <!-- EN: lichen-covered soil -->
+  <MossyTerrain.label>mohás talaj</MossyTerrain.label>
+  
+  <!-- EN: mud -->
+  <Mud.label>iszap</Mud.label>
+  <!-- EN: mud -->
+  <Mud.tools.mud.label>iszap</Mud.tools.mud.label>
+  
+  <!-- EN: sand -->
+  <Sand.label>homok</Sand.label>
+  <!-- EN: sand -->
+  <Sand.tools.sand.label>homok</Sand.tools.sand.label>
+  
+  <!-- EN: soft sand -->
   <SoftSand.label>finom homok</SoftSand.label>
+  <!-- EN: sand -->
   <SoftSand.tools.sand.label>homok</SoftSand.tools.sand.label>
+  
+  <!-- EN: soil -->
+  <Soil.label>föld</Soil.label>
+  <!-- EN: dirt -->
+  <Soil.tools.dirt.label>föld</Soil.tools.dirt.label>
+  
+  <!-- EN: rich soil -->
+  <SoilRich.label>termékeny föld</SoilRich.label>
+  <!-- EN: dirt -->
+  <SoilRich.tools.dirt.label>talaj</SoilRich.tools.dirt.label>
+  
 </LanguageData>

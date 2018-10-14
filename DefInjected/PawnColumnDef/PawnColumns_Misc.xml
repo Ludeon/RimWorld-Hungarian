@@ -1,11 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Master.label>gazda</Master.label>
-  <MedicalCare.headerTip>orvosi ellátás</MedicalCare.headerTip>
+  
+  <!-- EN: allowed area -->
   <AllowedArea.label>megengedett körzet</AllowedArea.label>
+  
+  <!-- EN: allowed area -->
   <AllowedAreaWide.label>megengedett körzet</AllowedAreaWide.label>
-  <HostilityResponse.headerTip>ellenség kezelése</HostilityResponse.headerTip>
-  <Outfit.label>jelenlegi ruházat</Outfit.label>
+  
+  <!-- EN: drug policy -->
   <DrugPolicy.label>drogszabály</DrugPolicy.label>
+  
+  <!-- EN: food restriction -->
   <FoodRestriction.label>étel korlátozás</FoodRestriction.label>
+  
+  <!-- EN: Hostility response -->
+  <HostilityResponse.headerTip>ellenség kezelése</HostilityResponse.headerTip>
+  
+  <!-- EN: master -->
+  <Master.label>gazda</Master.label>
+  
+  <!-- EN: Medical care -->
+  <MedicalCare.headerTip>orvosi ellátás</MedicalCare.headerTip>
+  
+  <!-- EN: current outfit -->
+  <Outfit.label>jelenlegi ruházat</Outfit.label>
+  
 </LanguageData>

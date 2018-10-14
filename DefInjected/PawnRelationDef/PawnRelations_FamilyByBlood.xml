@@ -1,35 +1,80 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Parent.label>apa</Parent.label>
-  <Parent.labelFemale>anya</Parent.labelFemale>
+  
+  <!-- EN: son -->
   <Child.label>fiúgyerek</Child.label>
+  <!-- EN: daughter -->
   <Child.labelFemale>lánygyerek</Child.labelFemale>
-  <Sibling.label>fivér</Sibling.label>
-  <Sibling.labelFemale>nővér</Sibling.labelFemale>
-  <HalfSibling.label>féltestvér</HalfSibling.label>
-  <HalfSibling.labelFemale>féltestvér</HalfSibling.labelFemale>
-  <Grandparent.label>nagyapa</Grandparent.label>
-  <Grandparent.labelFemale>nagyanya</Grandparent.labelFemale>
-  <Grandchild.label>unoka</Grandchild.label>
-  <Grandchild.labelFemale>unoka</Grandchild.labelFemale>
-  <NephewOrNiece.label>unokaöcs</NephewOrNiece.label>
-  <NephewOrNiece.labelFemale>unokahúg</NephewOrNiece.labelFemale>
-  <UncleOrAunt.label>nagybácsi</UncleOrAunt.label>
-  <UncleOrAunt.labelFemale>nagynéni</UncleOrAunt.labelFemale>
+  
+  <!-- EN: cousin -->
   <Cousin.label>unokatestvér</Cousin.label>
   <Cousin.labelFemale>unokatestvér</Cousin.labelFemale>
-  <GreatGrandparent.label>ükapa</GreatGrandparent.label>
-  <GreatGrandparent.labelFemale>ükanya</GreatGrandparent.labelFemale>
-  <GreatGrandchild.label>ükunoka</GreatGrandchild.label>
-  <GreatGrandchild.labelFemale>ükunoka</GreatGrandchild.labelFemale>
-  <GranduncleOrGrandaunt.label>nagy-nagybácsi</GranduncleOrGrandaunt.label>
-  <GranduncleOrGrandaunt.labelFemale>nagy-nagynéni</GranduncleOrGrandaunt.labelFemale>
-  <GrandnephewOrGrandniece.label>nagy-unokaöcs</GrandnephewOrGrandniece.label>
-  <GrandnephewOrGrandniece.labelFemale>nagy-unokahúg</GrandnephewOrGrandniece.labelFemale>
+  
+  <!-- EN: cousin once removed -->
   <CousinOnceRemoved.label>másodunokaöcs </CousinOnceRemoved.label>
   <CousinOnceRemoved.labelFemale>másodunokahúg </CousinOnceRemoved.labelFemale>
-  <SecondCousin.label>másodunokatestvér </SecondCousin.label>
-  <SecondCousin.labelFemale>másodunokatestvér </SecondCousin.labelFemale>
+  
+  <!-- EN: grandson -->
+  <Grandchild.label>unoka</Grandchild.label>
+  <!-- EN: granddaughter -->
+  <Grandchild.labelFemale>unoka</Grandchild.labelFemale>
+  
+  <!-- EN: grandnephew -->
+  <GrandnephewOrGrandniece.label>nagy-unokaöcs</GrandnephewOrGrandniece.label>
+  <!-- EN: grandniece -->
+  <GrandnephewOrGrandniece.labelFemale>nagy-unokahúg</GrandnephewOrGrandniece.labelFemale>
+  
+  <!-- EN: grandfather -->
+  <Grandparent.label>nagyapa</Grandparent.label>
+  <!-- EN: grandmother -->
+  <Grandparent.labelFemale>nagyanya</Grandparent.labelFemale>
+  
+  <!-- EN: granduncle -->
+  <GranduncleOrGrandaunt.label>nagy-nagybácsi</GranduncleOrGrandaunt.label>
+  <!-- EN: grandaunt -->
+  <GranduncleOrGrandaunt.labelFemale>nagy-nagynéni</GranduncleOrGrandaunt.labelFemale>
+  
+  <!-- EN: great grandson -->
+  <GreatGrandchild.label>ükunoka</GreatGrandchild.label>
+  <!-- EN: great granddaughter -->
+  <GreatGrandchild.labelFemale>ükunoka</GreatGrandchild.labelFemale>
+  
+  <!-- EN: great grandfather -->
+  <GreatGrandparent.label>ükapa</GreatGrandparent.label>
+  <!-- EN: great grandmother -->
+  <GreatGrandparent.labelFemale>ükanya</GreatGrandparent.labelFemale>
+  
+  <!-- EN: brother -->
+  <HalfSibling.label>féltestvér</HalfSibling.label>
+  <!-- EN: sister -->
+  <HalfSibling.labelFemale>féltestvér</HalfSibling.labelFemale>
+  
+  <!-- EN: kin -->
   <Kin.label>rokon</Kin.label>
   <Kin.labelFemale>rokon</Kin.labelFemale>
+  
+  <!-- EN: nephew -->
+  <NephewOrNiece.label>unokaöcs</NephewOrNiece.label>
+  <!-- EN: niece -->
+  <NephewOrNiece.labelFemale>unokahúg</NephewOrNiece.labelFemale>
+  
+  <!-- EN: father -->
+  <Parent.label>apa</Parent.label>
+  <!-- EN: mother -->
+  <Parent.labelFemale>anya</Parent.labelFemale>
+  
+  <!-- EN: second cousin -->
+  <SecondCousin.label>másodunokatestvér </SecondCousin.label>
+  <SecondCousin.labelFemale>másodunokatestvér </SecondCousin.labelFemale>
+  
+  <!-- EN: brother -->
+  <Sibling.label>fivér</Sibling.label>
+  <!-- EN: sister -->
+  <Sibling.labelFemale>nővér</Sibling.labelFemale>
+  
+  <!-- EN: uncle -->
+  <UncleOrAunt.label>nagybácsi</UncleOrAunt.label>
+  <!-- EN: aunt -->
+  <UncleOrAunt.labelFemale>nagynéni</UncleOrAunt.labelFemale>
+  
 </LanguageData>

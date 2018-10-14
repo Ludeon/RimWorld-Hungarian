@@ -1,65 +1,102 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Added body parts -->
   
-  <PegLeg.label>faláb</PegLeg.label>
-  <PegLeg.labelNoun>faláb</PegLeg.labelNoun>
-  
-  <WoodenFoot.label>falábfej</WoodenFoot.label>
-  <WoodenFoot.labelNoun>falábfej</WoodenFoot.labelNoun>
-  
-  <Denture.label>műfogsor</Denture.label>
-  <Denture.labelNoun>műfogsor</Denture.labelNoun>
-  
-  <SimpleProstheticLeg.label>egyszerű műláb</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.labelNoun>egyszerű műláb</SimpleProstheticLeg.labelNoun>
-  
-  <SimpleProstheticArm.label>egyszerű műkar</SimpleProstheticArm.label>
-  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>ököl</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
-  <SimpleProstheticArm.labelNoun>egyszerű műkar</SimpleProstheticArm.labelNoun>
-  
-  <SimpleProstheticHeart.label>műszív</SimpleProstheticHeart.label>
-  <SimpleProstheticHeart.labelNoun>műszív</SimpleProstheticHeart.labelNoun>
-  
-  <CochlearImplant.label>műfül</CochlearImplant.label>
-  <CochlearImplant.labelNoun>műfül</CochlearImplant.labelNoun>
-
-  <BionicEye.label>bionikus szem</BionicEye.label>
-  <BionicEye.labelNoun>bionikus szem</BionicEye.labelNoun>
-  
-  <BionicArm.label>bionikus kar</BionicArm.label>
-  <BionicArm.labelNoun>bionikus kar</BionicArm.labelNoun>
-  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>ököl</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
-
-  <BionicLeg.label>bionikus láb</BionicLeg.label>
-  <BionicLeg.labelNoun>bionikus láb</BionicLeg.labelNoun>
-  
-  <BionicSpine.label>bionikus gerinc</BionicSpine.label>
-  <BionicSpine.labelNoun>bionikus gerinc</BionicSpine.labelNoun>
-
-  <BionicHeart.label>bionikus szív</BionicHeart.label>
-  <BionicHeart.labelNoun>bionikus szív</BionicHeart.labelNoun>
-
-  <BionicStomach.label>bionikus gyomor</BionicStomach.label>
-  <BionicStomach.labelNoun>bionikus gyomor</BionicStomach.labelNoun>
-
-  <BionicEar.label>bionikus fül</BionicEar.label>
-  <BionicEar.labelNoun>bionikus fül</BionicEar.labelNoun>
-  
-  <PowerClaw.label>erőkarom</PowerClaw.label>
-  <PowerClaw.labelNoun>erőkarom</PowerClaw.labelNoun>
-  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>karom</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
-
-  <ArchotechEye.label>archotech szem</ArchotechEye.label>
-  <ArchotechEye.labelNoun>archotech szem</ArchotechEye.labelNoun>
-
+  <!-- EN: archotech arm -->
   <ArchotechArm.label>archotech kar</ArchotechArm.label>
+  <!-- EN: fist -->
   <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>ököl</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an archotech arm -->
   <ArchotechArm.labelNoun>archotech kar</ArchotechArm.labelNoun>
-
+  
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>archotech szem</ArchotechEye.label>
+  <!-- EN: an archotech eye -->
+  <ArchotechEye.labelNoun>archotech szem</ArchotechEye.labelNoun>
+  
+  <!-- EN: archotech leg -->
   <ArchotechLeg.label>archotech láb</ArchotechLeg.label>
+  <!-- EN: an archotech leg -->
   <ArchotechLeg.labelNoun>archotech láb</ArchotechLeg.labelNoun>
   
+  <!-- EN: bionic arm -->
+  <BionicArm.label>bionikus kar</BionicArm.label>
+  <!-- EN: fist -->
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>ököl</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
+  <BionicArm.labelNoun>bionikus kar</BionicArm.labelNoun>
+  
+  <!-- EN: bionic ear -->
+  <BionicEar.label>bionikus fül</BionicEar.label>
+  <!-- EN: a bionic ear -->
+  <BionicEar.labelNoun>bionikus fül</BionicEar.labelNoun>
+  
+  <!-- EN: bionic eye -->
+  <BionicEye.label>bionikus szem</BionicEye.label>
+  <!-- EN: a bionic eye -->
+  <BionicEye.labelNoun>bionikus szem</BionicEye.labelNoun>
+  
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>bionikus szív</BionicHeart.label>
+  <!-- EN: a bionic heart -->
+  <BionicHeart.labelNoun>bionikus szív</BionicHeart.labelNoun>
+  
+  <!-- EN: bionic leg -->
+  <BionicLeg.label>bionikus láb</BionicLeg.label>
+  <!-- EN: a bionic leg -->
+  <BionicLeg.labelNoun>bionikus láb</BionicLeg.labelNoun>
+  
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>bionikus gerinc</BionicSpine.label>
+  <!-- EN: a bionic spine -->
+  <BionicSpine.labelNoun>bionikus gerinc</BionicSpine.labelNoun>
+  
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>bionikus gyomor</BionicStomach.label>
+  <!-- EN: a bionic stomach -->
+  <BionicStomach.labelNoun>bionikus gyomor</BionicStomach.labelNoun>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>műfül</CochlearImplant.label>
+  <!-- EN: a cochlear implant -->
+  <CochlearImplant.labelNoun>műfül</CochlearImplant.labelNoun>
+  
+  <!-- EN: denture -->
+  <Denture.label>műfogsor</Denture.label>
+  <!-- EN: a denture -->
+  <Denture.labelNoun>műfogsor</Denture.labelNoun>
+  
+  <!-- EN: peg leg -->
+  <PegLeg.label>faláb</PegLeg.label>
+  <!-- EN: a peg leg -->
+  <PegLeg.labelNoun>faláb</PegLeg.labelNoun>
+  
+  <!-- EN: power claw -->
+  <PowerClaw.label>erőkarom</PowerClaw.label>
+  <!-- EN: claw -->
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>karom</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <!-- EN: a power claw -->
+  <PowerClaw.labelNoun>erőkarom</PowerClaw.labelNoun>
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>egyszerű műkar</SimpleProstheticArm.label>
+  <!-- EN: fist -->
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>ököl</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a prosthetic arm -->
+  <SimpleProstheticArm.labelNoun>egyszerű műkar</SimpleProstheticArm.labelNoun>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>műszív</SimpleProstheticHeart.label>
+  <!-- EN: a prosthetic heart -->
+  <SimpleProstheticHeart.labelNoun>műszív</SimpleProstheticHeart.labelNoun>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>egyszerű műláb</SimpleProstheticLeg.label>
+  <!-- EN: a prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>egyszerű műláb</SimpleProstheticLeg.labelNoun>
+  
+  <!-- EN: wooden foot -->
+  <WoodenFoot.label>falábfej</WoodenFoot.label>
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>falábfej</WoodenFoot.labelNoun>
   
 </LanguageData>

@@ -1,80 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Deer.label>szarvas</Deer.label>
-  <Deer.description>Közepes méretű, csordában járó növényevő. Békés, amíg meg nem zavarják.</Deer.description>
-  <Deer.tools.left_hoof.label>bal pata</Deer.tools.left_hoof.label>
-  <Deer.tools.right_hoof.label>jobb pata</Deer.tools.right_hoof.label>
-  <Deer.tools.head.label>fej</Deer.tools.head.label>
-  <Deer.tools.teeth.label>fogak</Deer.tools.teeth.label>
-  <Deer.race.meatLabel>szarvashús</Deer.race.meatLabel>
   
-<!--   <Deer_Leather.label>szarvasbőr</Deer_Leather.label> -->
-<!--   <Deer_Leather.description>Egy szarvas bőre.</Deer_Leather.description> -->
-<!--   <Deer_Leather.stuffProps.stuffAdjective>szarvasbőr</Deer_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Deer.label>szarvashús</Meat_Deer.label>
-  <Meat_Deer.description>Egy szarvas húsa.</Meat_Deer.description>
-  <Corpse_Deer.label>szarvas tetem</Corpse_Deer.label>
-  <Corpse_Deer.description>Egy szarvas teteme.</Corpse_Deer.description>
-  <Ibex.label>kőszáli kecske</Ibex.label>
-  <Ibex.description>A háziasított kecske vadon élő őse. A kőszáli kecskék olyan területeken élnek, ahol a legtöbb antilop éhen halna. Főként zuzmót és hegyi növényeket esznek. Híresek a csupasz sziklákon való ügyes ugrálásról és a vad párharcokról.</Ibex.description>
-  <Ibex.tools.left_hoof.label>bal pata</Ibex.tools.left_hoof.label>
-  <Ibex.tools.right_hoof.label>jobb pata</Ibex.tools.right_hoof.label>
-  <Ibex.tools.head.label>fej</Ibex.tools.head.label>
-  
-<!--   <Ibex_Leather.label>kőszáli kecskebőr</Ibex_Leather.label> -->
-<!--   <Ibex_Leather.description>Egy kőszáli kecske bőre.</Ibex_Leather.description> -->
-<!--   <Ibex_Leather.stuffProps.stuffAdjective>kőszáli kecskebőr</Ibex_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Ibex.label>kőszáli kecskehús</Meat_Ibex.label>
-  <Meat_Ibex.description>Egy kőszáli kecske húsa.</Meat_Ibex.description>
-  <Corpse_Ibex.label>kőszáli kecske tetem</Corpse_Ibex.label>
-  <Corpse_Ibex.description>Egy kőszáli kecske teteme.</Corpse_Ibex.description>
-  <Elk.label>jávorszarvas</Elk.label>
-  <Elk.description>A szarvasok családjának egy nagy termetű tagja, mely jól alkalmazkodott a hideg éghajlathoz.</Elk.description>
-  <Elk.tools.left_hoof.label>bal pata</Elk.tools.left_hoof.label>
-  <Elk.tools.right_hoof.label>jobb pata</Elk.tools.right_hoof.label>
-  <Elk.tools.head.label>fej</Elk.tools.head.label>
-  
-<!--   <Elk_Leather.label>jávorszarvasbőr</Elk_Leather.label> -->
-<!--   <Elk_Leather.description>Egy jávorszarvas bőre.</Elk_Leather.description> -->
-<!--   <Elk_Leather.stuffProps.stuffAdjective>jávorszarvasbőr</Elk_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Elk.label>jávorszarvashús</Meat_Elk.label>
-  <Meat_Elk.description>Egy jávorszarvas húsa.</Meat_Elk.description>
-  <Corpse_Elk.label>jávorszarvas tetem</Corpse_Elk.label>
-  <Corpse_Elk.description>Egy jávorszarvas teteme.</Corpse_Elk.description>
+  <!-- EN: caribou -->
   <Caribou.label>rénszarvas</Caribou.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
   <Caribou.description>A szarvasok családjának egy nagy termetű tagja, mely jól alkalmazkodott a hideg éghajlathoz.</Caribou.description>
+  <!-- EN: left hoof -->
   <Caribou.tools.left_hoof.label>bal pata</Caribou.tools.left_hoof.label>
+  <!-- EN: right hoof -->
   <Caribou.tools.right_hoof.label>jobb pata</Caribou.tools.right_hoof.label>
+  <!-- EN: head -->
   <Caribou.tools.head.label>fej</Caribou.tools.head.label>
   
-<!--   <Caribou_Leather.label>rénszarvasbőr</Caribou_Leather.label> -->
-<!--   <Caribou_Leather.description>Egy rénszarvas bőre.</Caribou_Leather.description> -->
-<!--   <Caribou_Leather.stuffProps.stuffAdjective>rénszarvasbőr</Caribou_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Caribou.label>rénszarvashús</Meat_Caribou.label>
-  <Meat_Caribou.description>Egy rénszarvas húsa.</Meat_Caribou.description>
-  <Corpse_Caribou.label>rénszarvas tetem</Corpse_Caribou.label>
-  <Corpse_Caribou.description>Egy rénszarvas teteme.</Corpse_Caribou.description>
+  <!-- EN: deer -->
+  <Deer.label>szarvas</Deer.label>
+  <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
+  <Deer.description>Közepes méretű, csordában járó növényevő. Békés, amíg meg nem zavarják.</Deer.description>
+  <!-- EN: venison -->
+  <Deer.race.meatLabel>szarvashús</Deer.race.meatLabel>
+  <!-- EN: left hoof -->
+  <Deer.tools.left_hoof.label>bal pata</Deer.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Deer.tools.right_hoof.label>jobb pata</Deer.tools.right_hoof.label>
+  <!-- EN: teeth -->
+  <Deer.tools.teeth.label>fogak</Deer.tools.teeth.label>
+  <!-- EN: head -->
+  <Deer.tools.head.label>fej</Deer.tools.head.label>
   
-  <WildBoar.label>vaddisznó</WildBoar.label>
-  <WildBoar.description>Bár sok kultúra tisztátalannak tartja, a malac eme szőrös őse keresett, húsának jellegzetes íze miatt.</WildBoar.description>
-  <WildBoar.tools.tusk.label>agyar</WildBoar.tools.tusk.label>
-  <WildBoar.tools.head.label>fej</WildBoar.tools.head.label>
-<!--   <WildBoar_Leather.label>vaddisznóbőr</WildBoar_Leather.label> -->
-<!--   <WildBoar_Leather.description>Egy vaddisznó bőre.</WildBoar_Leather.description> -->
-<!--   <WildBoar_Leather.stuffProps.stuffAdjective>vaddisznóbőr</WildBoar_Leather.stuffProps.stuffAdjective> -->
+  <!-- EN: elk -->
+  <Elk.label>jávorszarvas</Elk.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
+  <Elk.description>A szarvasok családjának egy nagy termetű tagja, mely jól alkalmazkodott a hideg éghajlathoz.</Elk.description>
+  <!-- EN: left hoof -->
+  <Elk.tools.left_hoof.label>bal pata</Elk.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Elk.tools.right_hoof.label>jobb pata</Elk.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Elk.tools.head.label>fej</Elk.tools.head.label>
   
-  <Corpse_WildBoar.label>vaddisznó tetem</Corpse_WildBoar.label>
-  <Corpse_WildBoar.description>Egy vaddisznó teteme.</Corpse_WildBoar.description>
+  <!-- EN: ibex -->
+  <Ibex.label>kőszáli kecske</Ibex.label>
+  <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
+  <Ibex.description>A háziasított kecske vadon élő őse. A kőszáli kecskék olyan területeken élnek, ahol a legtöbb antilop éhen halna. Főként zuzmót és hegyi növényeket esznek. Híresek a csupasz sziklákon való ügyes ugrálásról és a vad párharcokról.</Ibex.description>
+  <!-- EN: left hoof -->
+  <Ibex.tools.left_hoof.label>bal pata</Ibex.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Ibex.tools.right_hoof.label>jobb pata</Ibex.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Ibex.tools.head.label>fej</Ibex.tools.head.label>
   
+  <!-- EN: tortoise -->
   <Tortoise.label>földiteknős</Tortoise.label>
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
   <Tortoise.description>Ez a jól páncélozott szárazföldi hüllő lassú mozgásáról ismert és erős harapásról.</Tortoise.description>
-  <Tortoise.tools.head.label>fej</Tortoise.tools.head.label>
+  <!-- EN: beak -->
   <Tortoise.tools.beak.label>csőr</Tortoise.tools.beak.label>
-<!--   <Tortoise_Leather.label>földiteknősbőr</Tortoise_Leather.label> -->
-<!--   <Tortoise_Leather.description>Egy földiteknős bőre.</Tortoise_Leather.description> -->
-<!--   <Tortoise_Leather.stuffProps.stuffAdjective>földiteknősbőr</Tortoise_Leather.stuffProps.stuffAdjective> -->
-  <Meat_Tortoise.label>földiteknőshús</Meat_Tortoise.label>
-  <Meat_Tortoise.description>Egy földiteknős húsa.</Meat_Tortoise.description>
-  <Corpse_Tortoise.label>földiteknős tetem</Corpse_Tortoise.label>
-  <Corpse_Tortoise.description>Egy földiteknős teteme.</Corpse_Tortoise.description>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>fej</Tortoise.tools.head.label>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>vaddisznó</WildBoar.label>
+  <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
+  <WildBoar.description>Bár sok kultúra tisztátalannak tartja, a malac eme szőrös őse keresett, húsának jellegzetes íze miatt.</WildBoar.description>
+  <!-- EN: tusk -->
+  <WildBoar.tools.tusk.label>agyar</WildBoar.tools.tusk.label>
+  <!-- EN: head -->
+  <WildBoar.tools.head.label>fej</WildBoar.tools.head.label>
+  
 </LanguageData>

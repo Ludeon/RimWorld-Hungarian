@@ -1,19 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Basics.label>Alap</Basics.label>
-  <BasicsPawn.label>Alap</BasicsPawn.label>
-  <BasicsNonPawn.label>Alap</BasicsNonPawn.label>
+  
+  <!-- EN: Apparel -->
   <Apparel.label>Ruházat</Apparel.label>
-  <Weapon.label>Fegyver</Weapon.label>
+  
+  <!-- EN: Basics -->
+  <Basics.label>Alap</Basics.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawn.label>Alap</BasicsNonPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawn.label>Alap</BasicsPawn.label>
+  
+  <!-- EN: Building -->
   <Building.label>Épület</Building.label>
+  
+  <!-- EN: Offsets when equipped -->
   <EquippedStatOffsets.label>Értéket módosít, ha viselik</EquippedStatOffsets.label>
-  <StuffStatFactors.label>Szorzók, ha ebből készül</StuffStatFactors.label>
-  <StuffStatOffsets.label>Módosítók, ha ebből készül</StuffStatOffsets.label>
-  <StuffOfEquipmentStatFactors.label>Szorzók, ha ebből készül</StuffOfEquipmentStatFactors.label>
-  <Surgery.label>Műtéti</Surgery.label>
- 
+  
+  <!-- EN: Combat -->
   <PawnCombat.label>Harc</PawnCombat.label>
-  <PawnSocial.label>Szociális</PawnSocial.label>
+  
+  <!-- EN: Misc -->
   <PawnMisc.label>Egyéb</PawnMisc.label>
+  
+  <!-- EN: Social -->
+  <PawnSocial.label>Szociális</PawnSocial.label>
+  
+  <!-- EN: Work -->
   <PawnWork.label>Munka</PawnWork.label>
+  
+  <!-- EN: Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>Szorzók, ha ebből készül</StuffOfEquipmentStatFactors.label>
+  
+  <!-- EN: Multipliers when made of this -->
+  <StuffStatFactors.label>Szorzók, ha ebből készül</StuffStatFactors.label>
+  
+  <!-- EN: Offsets when made of this -->
+  <StuffStatOffsets.label>Módosítók, ha ebből készül</StuffStatOffsets.label>
+  
+  <!-- EN: Surgical -->
+  <Surgery.label>Műtéti</Surgery.label>
+  
+  <!-- EN: Weapon -->
+  <Weapon.label>Fegyver</Weapon.label>
+  
 </LanguageData>

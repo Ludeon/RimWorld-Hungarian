@@ -5,8 +5,6 @@
   <DesignatorCancel>Visszavonás</DesignatorCancel>
   <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
   <DesignatorCancelDesc>Visszavon minden parancsot.</DesignatorCancelDesc>
-  
-   <TerrainCannotSupport_TerrainAffordance>{0_label} olyan talajt igényel, ami kibírja ezt: {1_label}</TerrainCannotSupport_TerrainAffordance>
 
   <!-- EN: Cut plants -->
   <DesignatorCutPlants>Növényt vág</DesignatorCutPlants>
@@ -70,9 +68,9 @@
   <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
   <DesignatorForbidDesc>Tárgyak tiltottnak jelölése. A gyarmatosok nem fognak olyan dolgokhoz nyúlni amik "Tiltott"-ak.</DesignatorForbidDesc>
 
-  <!-- EN: Unforbid -->
+  <!-- EN: Allow -->
   <DesignatorUnforbid>Felold</DesignatorUnforbid>
-  <!-- EN: Mark items as unforbidden. Colonists will be able to interact with the designated items. -->
+  <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
   <DesignatorUnforbidDesc>Tárgyak tiltásának feloldása. A gyarmatosok nem fognak olyan dolgokhoz nyúlni amik "Tiltott"-ak.</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
@@ -200,6 +198,8 @@
   <IdenticalBlueprintExists>Ugyanez a tervrajz már ide lett helyezve.</IdenticalBlueprintExists>
   <!-- EN: The terrain here cannot support this. -->
   <TerrainCannotSupport>Itt a talaj nem megfelelő erre.</TerrainCannotSupport>
+  <!-- EN: {0_label} requires terrain that can support: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordance>{0_label} olyan talajt igényel, ami kibírja ezt: {1_label}</TerrainCannotSupport_TerrainAffordance>
   <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>Foglalt hely.</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->

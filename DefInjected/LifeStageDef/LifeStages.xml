@@ -1,17 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MechanoidFullyFormed.label>teljesen kifejlődött</MechanoidFullyFormed.label>
-  <HumanlikeBaby.label>újszülött</HumanlikeBaby.label>
-  <HumanlikeToddler.label>kisgyerek</HumanlikeToddler.label>
-  <HumanlikeChild.label>gyerek</HumanlikeChild.label>
-  <HumanlikeTeenager.label>fiatal</HumanlikeTeenager.label>
-  <HumanlikeTeenager.adjective>fiatal</HumanlikeTeenager.adjective>
-  <HumanlikeAdult.label>felnőtt</HumanlikeAdult.label>
-  <EusocialInsectLarva.label>lárva</EusocialInsectLarva.label>
-  <EusocialInsectJuvenile.label>fiatal</EusocialInsectJuvenile.label>
-  <EusocialInsectAdult.label>kifejlett</EusocialInsectAdult.label>
-  <AnimalBaby.label>újszülött</AnimalBaby.label>
-  <AnimalBabyTiny.label>bébi</AnimalBabyTiny.label>
-  <AnimalJuvenile.label>fiatal</AnimalJuvenile.label>
+  
+  <!-- EN: adult -->
   <AnimalAdult.label>felnőtt</AnimalAdult.label>
+  
+  <!-- EN: baby -->
+  <AnimalBaby.label>újszülött</AnimalBaby.label>
+  
+  <!-- EN: baby -->
+  <AnimalBabyTiny.label>bébi</AnimalBabyTiny.label>
+  
+  <!-- EN: juvenile -->
+  <AnimalJuvenile.label>fiatal</AnimalJuvenile.label>
+  
+  <!-- EN: adult -->
+  <EusocialInsectAdult.label>kifejlett</EusocialInsectAdult.label>
+  
+  <!-- EN: immature -->
+  <EusocialInsectJuvenile.label>fiatal</EusocialInsectJuvenile.label>
+  
+  <!-- EN: larva -->
+  <EusocialInsectLarva.label>lárva</EusocialInsectLarva.label>
+  
+  <!-- EN: adult -->
+  <HumanlikeAdult.label>felnőtt</HumanlikeAdult.label>
+  
+  <!-- EN: baby -->
+  <HumanlikeBaby.label>újszülött</HumanlikeBaby.label>
+  
+  <!-- EN: child -->
+  <HumanlikeChild.label>gyerek</HumanlikeChild.label>
+  
+  <!-- EN: teenager -->
+  <HumanlikeTeenager.label>fiatal</HumanlikeTeenager.label>
+  <!-- EN: teenage -->
+  <HumanlikeTeenager.adjective>fiatal</HumanlikeTeenager.adjective>
+  
+  <!-- EN: toddler -->
+  <HumanlikeToddler.label>kisgyerek</HumanlikeToddler.label>
+  
+  <!-- EN: fully-formed -->
+  <MechanoidFullyFormed.label>teljesen kifejlődött</MechanoidFullyFormed.label>
+  
 </LanguageData>

@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Wealth.label>Vagyon</Wealth.label>
-  <!-- <Wealth.graphLabelY>Összeg</Wealth.graphLabelY> -->
-  <Population.label>Lakosság</Population.label>
-  <!-- <Population.graphLabelY>Gyarmatos</Population.graphLabelY> -->
+  
+  <!-- EN: colonist mood -->
   <ColonistMood.label>Hangulat</ColonistMood.label>
-  <!-- <ColonistMood.graphLabelY>Százalék</ColonistMood.graphLabelY> -->
-   <Debug.label>Debug</Debug.label>
+  
+  <!-- EN: debug -->
+  <Debug.label>Debug</Debug.label>
+  
+  <!-- EN: population -->
+  <Population.label>Lakosság</Population.label>
+  
+  <!-- EN: wealth -->
+  <Wealth.label>Vagyon</Wealth.label>
+  
 </LanguageData>

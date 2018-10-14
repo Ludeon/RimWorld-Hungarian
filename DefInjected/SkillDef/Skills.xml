@@ -1,39 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Shooting.label>Lövészet</Shooting.label>
-  <Shooting.description>Távolsági fegyverek használata.</Shooting.description>
-  <Shooting.skillLabel>Lövészet</Shooting.skillLabel>
-  <Melee.label>Közelharc</Melee.label>
-  <Melee.description>Közelharci fegyverek és pusztakezes harc ismerete.</Melee.description>
-  <Melee.skillLabel>Közelharc</Melee.skillLabel>
-  <Social.label>Szociális</Social.label>
-  <Social.description>Alkudozni, meggyőzni, manipulálni, vezetni és felvidítani másokat.</Social.description>
-  <Social.skillLabel>Szociális</Social.skillLabel>
+  
+  <!-- EN: animals -->
   <Animals.label>Gondozás</Animals.label>
+  <!-- EN: Taming, training, and controlling animals. -->
   <Animals.description>Állatokat megszelídíteni, idomítani, tartani, szaporítani.</Animals.description>
+  <!-- EN: animals -->
   <Animals.skillLabel>Gondozás</Animals.skillLabel>
-  <Medicine.label>Gyógyítás</Medicine.label>
-  <Medicine.description>Betegségeket és sérüléseket kezelni, műtétet végezni.</Medicine.description>
-  <Medicine.skillLabel>Gyógyítás</Medicine.skillLabel>
-  <Cooking.label>Főzés</Cooking.label>
-  <Cooking.description>Hozzávalókból ételeket készíteni.</Cooking.description>
-  <Cooking.skillLabel>Főzés</Cooking.skillLabel>
-  <Construction.label>Építés</Construction.label>
-  <Construction.description>Jobb építők gyorsabban és jobb minőségben készítik el a bútorokat és egyéb építményeket.</Construction.description>
-  <Construction.skillLabel>Építés</Construction.skillLabel>
-  <Plants.label>Földművelés</Plants.label>
-  <Plants.description>Növények magját elvetni, felnevelni őket és termésüket betakarítani.</Plants.description>
-  <Plants.skillLabel>Földművelés</Plants.skillLabel>
-  <Mining.label>Bányászat</Mining.label>
-  <Mining.description>Alagutakat ásni, ásványokat és eltemetett nyersanyagokat kitermelni.</Mining.description>
-  <Mining.skillLabel>Bányászat</Mining.skillLabel>
+  
+  <!-- EN: artistic -->
   <Artistic.label>Művészet</Artistic.label>
+  <!-- EN: Crafting art. -->
   <Artistic.description>Műtárgyakat létrehozni.</Artistic.description>
+  <!-- EN: artistic -->
   <Artistic.skillLabel>Művészet</Artistic.skillLabel>
+  
+  <!-- EN: construction -->
+  <Construction.label>Építés</Construction.label>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>Jobb építők gyorsabban és jobb minőségben készítik el a bútorokat és egyéb építményeket.</Construction.description>
+  <!-- EN: construction -->
+  <Construction.skillLabel>Építés</Construction.skillLabel>
+  
+  <!-- EN: cooking -->
+  <Cooking.label>Főzés</Cooking.label>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>Hozzávalókból ételeket készíteni.</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>Főzés</Cooking.skillLabel>
+  
+  <!-- EN: crafting -->
   <Crafting.label>Kézművesség</Crafting.label>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
   <Crafting.description>Általános használati tárgyakat készíteni, ideértve a fegyvereket és szerszámokat is.</Crafting.description>
+  <!-- EN: crafting -->
   <Crafting.skillLabel>Kézművesség</Crafting.skillLabel>
+  
+  <!-- EN: intellectual -->
   <Intellectual.label>Szellemi munka</Intellectual.label>
+  <!-- EN: Researching and drug synthesis. -->
   <Intellectual.description>Bizonyítékok feltárása, következtetés, logika.</Intellectual.description>
+  <!-- EN: intellectual -->
   <Intellectual.skillLabel>Szellemi munka</Intellectual.skillLabel>
+  
+  <!-- EN: medical -->
+  <Medicine.label>Gyógyítás</Medicine.label>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>Betegségeket és sérüléseket kezelni, műtétet végezni.</Medicine.description>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>Gyógyítás</Medicine.skillLabel>
+  
+  <!-- EN: melee -->
+  <Melee.label>Közelharc</Melee.label>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>Közelharci fegyverek és pusztakezes harc ismerete.</Melee.description>
+  <!-- EN: melee -->
+  <Melee.skillLabel>Közelharc</Melee.skillLabel>
+  
+  <!-- EN: mining -->
+  <Mining.label>Bányászat</Mining.label>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>Alagutakat ásni, ásványokat és eltemetett nyersanyagokat kitermelni.</Mining.description>
+  <!-- EN: mining -->
+  <Mining.skillLabel>Bányászat</Mining.skillLabel>
+  
+  <!-- EN: plants -->
+  <Plants.label>Földművelés</Plants.label>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>Növények magját elvetni, felnevelni őket és termésüket betakarítani.</Plants.description>
+  <!-- EN: plants -->
+  <Plants.skillLabel>Földművelés</Plants.skillLabel>
+  
+  <!-- EN: shooting -->
+  <Shooting.label>Lövészet</Shooting.label>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>Távolsági fegyverek használata.</Shooting.description>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>Lövészet</Shooting.skillLabel>
+  
+  <!-- EN: social -->
+  <Social.label>Szociális</Social.label>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>Alkudozni, meggyőzni, manipulálni, vezetni és felvidítani másokat.</Social.description>
+  <!-- EN: social -->
+  <Social.skillLabel>Szociális</Social.skillLabel>
+  
 </LanguageData>

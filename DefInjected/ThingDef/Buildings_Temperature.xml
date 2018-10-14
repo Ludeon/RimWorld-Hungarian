@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
+  <!-- EN: campfire -->
   <Campfire.label>tábortűz</Campfire.label>
+  <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
   <Campfire.description>Ételek készítéséhez és meleg előállításához. Pár nap alatt kialszik. Mint minden hőforrást, ezt is zárt térbe kell helyezni, hogy effektív legyen.</Campfire.description>
-  <Blueprint_Campfire.label>tábortűz (tervrajz)</Blueprint_Campfire.label>
-  <Frame_Campfire.label>tábortűz (építmény)</Frame_Campfire.label>
-  <Frame_Campfire.description>Ételek készítéséhez és meleg előállításához. Pár nap alatt kialszik. Mint minden hőforrást, ezt is zárt térbe kell helyezni, hogy effektív legyen.</Frame_Campfire.description>
-  <PassiveCooler.label>passzív hűtés</PassiveCooler.label>
-  <PassiveCooler.description>Hagyományos hűtőrendszer, mely víz elpárologtatásával működik. Pár nap után már nem hűt és megsemmisül.</PassiveCooler.description>
-  <!-- <PassiveBlueprint_Cooler.label>passzív hűtés (tervrajz)</PassiveBlueprint_Cooler.label> -->
-  <!-- <PassiveFrame_Cooler.label>passzív hűtés (építmény)</PassiveFrame_Cooler.label> -->
-  <!-- <PassiveFrame_Cooler.description>Hagyományos hűtőrendszer, mely víz elpárologtatásával működik. Pár nap után már nem hűt és megsemmisül.</PassiveFrame_Cooler.description> -->
-  <Heater.label>radiátor</Heater.label>
-  <Heater.description>Elektromos eszköz, ami elektromos energiából állít elő meleget. Magától kapcsol ki/be, hogy tartsa a megadott hőmérsékletet.</Heater.description>
-  <Blueprint_Heater.label>radiátor (tervrajz)</Blueprint_Heater.label>
-<!--   <Blueprint_Heater_Install.label>radiátor (tervrajz)</Blueprint_Heater_Install.label> -->
-  <Frame_Heater.label>radiátor (építmény)</Frame_Heater.label>
-  <Frame_Heater.description>Elektromos eszköz, ami elektromos energiából állít elő meleget. Magától kapcsol ki/be, hogy tartsa a megadott hőmérsékletet.</Frame_Heater.description>
+  
+  <!-- EN: cooler -->
   <Cooler.label>légkondi</Cooler.label>
+  <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
   <Cooler.description>Elektromos eszköz, amit falba kell építeni. Egyik oldalán hideget, a másikon meleget állít elő. Szobák hűtésére a nyári melegben vagy fagyasztó létrehozására is használható.</Cooler.description>
-  <Blueprint_Cooler.label>légkondi (tervrajz)</Blueprint_Cooler.label>
-  <Frame_Cooler.label>légkondi (építmény)</Frame_Cooler.label>
-  <Frame_Cooler.description>Elektromos eszköz, amit falba kell építeni. Egyik oldalán hideget, a másikon meleget állít elő. Szobák hűtésére a nyári melegben vagy fagyasztó létrehozására is használható.</Frame_Cooler.description>
+  
+  <!-- EN: heater -->
+  <Heater.label>radiátor</Heater.label>
+  <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <Heater.description>Elektromos eszköz, ami elektromos energiából állít elő meleget. Magától kapcsol ki/be, hogy tartsa a megadott hőmérsékletet.</Heater.description>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>passzív hűtés</PassiveCooler.label>
+  <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
+  <PassiveCooler.description>Hagyományos hűtőrendszer, mely víz elpárologtatásával működik. Pár nap után már nem hűt és megsemmisül.</PassiveCooler.description>
+  
+  <!-- EN: vent -->
   <Vent.label>ventilátor</Vent.label>
+  <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
   <Vent.description>Egyszerű ventilátor, ami anélkül egyenlíti ki a hőmérsékletet két helyiség között, hogy azok átjárhatóak lennének.</Vent.description>
-  <Blueprint_Vent.label>ventilátor (tervrajz)</Blueprint_Vent.label>
-  <Frame_Vent.label>ventilátor (építmény)</Frame_Vent.label>
-  <Frame_Vent.description>Egyszerű ventilátor, ami anélkül egyenlíti ki a hőmérsékletet két helyiség között, hogy azok átjárhatóak lennének.</Frame_Vent.description>
+  
 </LanguageData>

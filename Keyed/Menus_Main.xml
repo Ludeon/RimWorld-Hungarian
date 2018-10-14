@@ -164,12 +164,12 @@
   <ModTargetVersion>{0} verzióhoz</ModTargetVersion>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Ez a mod a RimWorld más verziójához készült, nem fog megfelelően működni.</ModNotMadeForThisVersion>
+  <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion_Newer>Ez a mod a RimWorld újabb verziójához készült, lehetséges, hogy nem fog megfelelően működni.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
   <MessageModNeedsWellFormattedTargetVersion>A modnak szüksége van egy jól formázott verziószámra az About.xml-ben. Pl.: &lt;targetVersion>{0}&lt;/targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>Egérrel húzhatók az elemek</DragToReorder>
-  <ModNotMadeForThisVersion_Newer>Ez a mod a RimWorld újabb verziójához készült, lehetséges, hogy nem fog megfelelően működni.</ModNotMadeForThisVersion_Newer>
-
   
   <!-- Select scenario -->
   <!-- EN: Choose scenario -->
@@ -179,7 +179,7 @@
   <!-- EN: Steam Workshop -->
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
   <!-- EN: Scenario editor -->
-  <ScenarioEditor>Forgatókönyv szerkesztő</ScenarioEditor>
+  <ScenarioEditor>Szerkesztő</ScenarioEditor>
   <!-- EN: Delete -->
   <Delete>Törlés</Delete>
   
@@ -233,14 +233,14 @@
   <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
   <ConfirmUnlockExtremeDifficulty>A "kegyetlen mód" egy különleges játékbeállítás, ahol a kihívásokat extrém mértékűre kapcsoljuk.\n\nEz magától is elérhetővé válik, ha elérsz bizonyos mérföldköveket, de most is aktiválhatod.\n\nCsak akkor ajánljuk, ha már megnyertél pár nehéz játékot, mert jó eséllyel akkor is meghalsz, ha mindent remekül csinálsz.</ConfirmUnlockExtremeDifficulty>
 
-  <!-- Landing site select -->
-  <!-- EN: Select landing site -->
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
   <SelectStartingSite>Válassz kiinduló helyet</SelectStartingSite>
   <!-- EN: Select random site -->
   <SelectRandomSite>Véletlen landolási hely</SelectRandomSite>
   <!-- EN: Select site -->
   <SelectSite>Jóváhagyás</SelectSite>
-  <!-- EN: Please select a landing site. -->
+  <!-- EN: Please select a site. -->
   <MustSelectStartingSite>Kérlek válassz kiinduló helyet.</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
   <CannotLandBiome>Ezen a életközösségen nem landolhatsz: {0}</CannotLandBiome>
@@ -386,6 +386,5 @@
   <GeneratingMap>Térkép létrehozása</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
   <GeneratingMapForNewEncounter>Térkép létrehozása új találkozáshoz</GeneratingMapForNewEncounter>
-    
 
 </LanguageData>

@@ -1,15 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- <Work.label>munka</Work.label> -->
-  <Meditative.label>meditatív</Meditative.label>
-  <!-- <Lewd.label>buja</Lewd.label> -->
-  <Social.label>szociális</Social.label>
+  
+  <!-- EN: chemical consumption -->
   <Chemical.label>kémiai</Chemical.label>
-  <Gluttonous.label>falánk</Gluttonous.label>
-  <Gaming_Dexterity.label>játék (ügyességi)</Gaming_Dexterity.label>
+  
+  <!-- EN: cerebral play -->
   <Gaming_Cerebral.label>játék (ész)</Gaming_Cerebral.label>
-  <!-- <Passive.label>passzív</Passive.label> -->
-  <!-- <Study.label>tanulási</Study.label> -->
-  <Television.label>tévézés</Television.label>
+  
+  <!-- EN: dexterity play -->
+  <Gaming_Dexterity.label>játék (ügyességi)</Gaming_Dexterity.label>
+  
+  <!-- EN: food consumption -->
+  <Gluttonous.label>falánk</Gluttonous.label>
+  
+  <!-- EN: solitary relaxation -->
+  <Meditative.label>meditatív</Meditative.label>
+  
+  <!-- EN: social interaction -->
+  <Social.label>szociális</Social.label>
+  
+  <!-- EN: telescope study -->
   <Telescope.label>távcsővel kutatás</Telescope.label>
+  
+  <!-- EN: television watching -->
+  <Television.label>tévézés</Television.label>
+  
 </LanguageData>

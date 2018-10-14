@@ -1,25 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Milk.label>tej</Milk.label>
-  <Milk.description>Egy állat teje.</Milk.description>
-  <InsectJelly.label>rovarkocsonya</InsectJelly.label>
-  <InsectJelly.description>Kocsonya, melyet óriás rovarok esznek és tárolnak. Finom, gazdag, mindenkinek örömet okoz, aki elfogyasztja. Egyedi biológiai tulajdonságai miatt szinte bármilyen élőlénynek táplálékul szolgál és sosem romlik meg.</InsectJelly.description>
-  <EggChickenUnfertilized.label>tyúktojás (meddő)</EggChickenUnfertilized.label>
-  <EggChickenUnfertilized.description>Nem megtermékenyített tyúktojás. Meg lehet enni nyersen, de sokkal jobb sütve vagy főzve.</EggChickenUnfertilized.description>
-  <EggChickenFertilized.label>tyúktojás (megterm.)</EggChickenFertilized.label>
-  <EggChickenFertilized.description>Megtermékenyített tyúktojás. Ha minden jól megy, egy csibének kell kikelnie belőle. Meg lehet enni nyersen, de sokkal jobb sütve vagy főzve.</EggChickenFertilized.description>
-  <EggCobraFertilized.label>kobratojás (megterm.)</EggCobraFertilized.label>
-  <EggCobraFertilized.description>Megtermékenyített kobratojás. Ha minden jól megy, egy kis kobrának kell kikelnie belőle. Meg lehet enni nyersen, de sokkal jobb sütve vagy főzve.</EggCobraFertilized.description>
-  <EggIguanaFertilized.label>leguántojás (megterm.)</EggIguanaFertilized.label>
-  <EggIguanaFertilized.description>Megtermékenyített leguántojás. Ha minden jól megy, egy kis leguánnak kell kikelnie belőle. Meg lehet enni nyersen, de sokkal jobb sütve vagy főzve.</EggIguanaFertilized.description>
-  <EggTortoiseFertilized.label>teknőstojás (megterm.)</EggTortoiseFertilized.label>
-  <EggTortoiseFertilized.description>Megtermékenyített teknőstojás. Ha minden jól megy, egy kis teknősnek kell kikelnie belőle. Meg lehet enni nyersen, de sokkal jobb sütve vagy főzve.</EggTortoiseFertilized.description>
+  
+  <!-- EN: cassowary egg (fert.) -->
   <EggCassowaryFertilized.label>kazuártojás (megterm.)</EggCassowaryFertilized.label>
+  <!-- EN: A fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked. -->
   <EggCassowaryFertilized.description>Megtermékenyített kazuártojás. Ha minden jól megy, egy kis kazuárnak kell kikelnie belőle. Meg lehet enni nyersen, de sokkal jobb sütve vagy főzve.</EggCassowaryFertilized.description>
+  
+  <!-- EN: chicken egg (fert.) -->
+  <EggChickenFertilized.label>tyúktojás (megterm.)</EggChickenFertilized.label>
+  <!-- EN: A fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->
+  <EggChickenFertilized.description>Megtermékenyített tyúktojás. Ha minden jól megy, egy csibének kell kikelnie belőle. Meg lehet enni nyersen, de sokkal jobb sütve vagy főzve.</EggChickenFertilized.description>
+  
+  <!-- EN: chicken egg (unfert.) -->
+  <EggChickenUnfertilized.label>tyúktojás (meddő)</EggChickenUnfertilized.label>
+  <!-- EN: An unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggChickenUnfertilized.description>Nem megtermékenyített tyúktojás. Meg lehet enni nyersen, de sokkal jobb sütve vagy főzve.</EggChickenUnfertilized.description>
+  
+  <!-- EN: cobra egg (fert.) -->
+  <EggCobraFertilized.label>kobratojás (megterm.)</EggCobraFertilized.label>
+  <!-- EN: A fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked. -->
+  <EggCobraFertilized.description>Megtermékenyített kobratojás. Ha minden jól megy, egy kis kobrának kell kikelnie belőle. Meg lehet enni nyersen, de sokkal jobb sütve vagy főzve.</EggCobraFertilized.description>
+  
+  <!-- EN: emu egg (fert.) -->
   <EggEmuFertilized.label>emutojás (megterm.)</EggEmuFertilized.label>
+  <!-- EN: A fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked. -->
   <EggEmuFertilized.description>Megtermékenyített emutojás. Ha minden jól megy, egy kis emunak kell kikelnie belőle. Meg lehet enni nyersen, de sokkal jobb sütve vagy főzve.</EggEmuFertilized.description>
+  
+  <!-- EN: iguana egg (fert.) -->
+  <EggIguanaFertilized.label>leguántojás (megterm.)</EggIguanaFertilized.label>
+  <!-- EN: A fertilized iguana egg. If all goes well, it should hatch into a baby iguana. It can be eaten raw, but it's much better cooked. -->
+  <EggIguanaFertilized.description>Megtermékenyített leguántojás. Ha minden jól megy, egy kis leguánnak kell kikelnie belőle. Meg lehet enni nyersen, de sokkal jobb sütve vagy főzve.</EggIguanaFertilized.description>
+  
+  <!-- EN: ostrich egg (fert.) -->
   <EggOstrichFertilized.label>strucctojás (megterm.)</EggOstrichFertilized.label>
+  <!-- EN: A fertilized ostrich egg. If all goes well, it should hatch into a baby ostrich. It can be eaten raw, but it's much better cooked. -->
   <EggOstrichFertilized.description>Megtermékenyített strucctojás. Ha minden jól megy, egy kis struccnak kell kikelnie belőle. Meg lehet enni nyersen, de sokkal jobb sütve vagy főzve.</EggOstrichFertilized.description>
+  
+  <!-- EN: tortoise egg (fert.) -->
+  <EggTortoiseFertilized.label>teknőstojás (megterm.)</EggTortoiseFertilized.label>
+  <!-- EN: A fertilized tortoise egg. If all goes well, it should hatch into a baby tortoise. It can be eaten raw, but it's much better cooked. -->
+  <EggTortoiseFertilized.description>Megtermékenyített teknőstojás. Ha minden jól megy, egy kis teknősnek kell kikelnie belőle. Meg lehet enni nyersen, de sokkal jobb sütve vagy főzve.</EggTortoiseFertilized.description>
+  
+  <!-- EN: turkey egg (fert.) -->
   <EggTurkeyFertilized.label>pulykatojás (megterm.)</EggTurkeyFertilized.label>
+  <!-- EN: A fertilized turkey egg. If all goes well, it should hatch into a baby turkey. It can be eaten raw, but it's much better cooked. -->
   <EggTurkeyFertilized.description>Megtermékenyített pulykatojás. Ha minden jól megy, egy kis pulykának kell kikelnie belőle. Meg lehet enni nyersen, de sokkal jobb sütve vagy főzve.</EggTurkeyFertilized.description>
+  
+  <!-- EN: insect jelly -->
+  <InsectJelly.label>rovarkocsonya</InsectJelly.label>
+  <!-- EN: Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots. -->
+  <InsectJelly.description>Kocsonya, melyet óriás rovarok esznek és tárolnak. Finom, gazdag, mindenkinek örömet okoz, aki elfogyasztja. Egyedi biológiai tulajdonságai miatt szinte bármilyen élőlénynek táplálékul szolgál és sosem romlik meg.</InsectJelly.description>
+  
+  <!-- EN: milk -->
+  <Milk.label>tej</Milk.label>
+  <!-- EN: Milk from an animal. -->
+  <Milk.description>Egy állat teje.</Milk.description>
+  
 </LanguageData>

@@ -1,11 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
+  <!-- EN: ambush -->
   <Ambush.label>rajtaütés</Ambush.label>
-  <Ambush.letterText>{0} egy csoportja ({1}), rajtaütött a karavánodon!</Ambush.letterText>
+  <!-- EN: Caravan ambushed -->
   <Ambush.letterLabel>Karaván rajtaütés</Ambush.letterLabel>
-  <ManhunterAmbush.label>emberevő rajtaütés</ManhunterAmbush.label>
-  <ManhunterAmbush.letterText>A karavánodon rajtaütött néhány emberevő {0}!</ManhunterAmbush.letterText>
-  <ManhunterAmbush.letterLabel>Karaván rajtaütés (emberevő)</ManhunterAmbush.letterLabel>
-  <CaravanMeeting.label>Karaván találkozó</CaravanMeeting.label>
+  <!-- EN: {0} has been ambushed by {1} from {2}! -->
+  <Ambush.letterText>{0} egy csoportja ({1}), rajtaütött a karavánodon!</Ambush.letterText>
+  
+  <!-- EN: payment demand -->
   <CaravanDemand.label>sarc</CaravanDemand.label>
+  
+  <!-- EN: caravan meeting -->
+  <CaravanMeeting.label>Karaván találkozó</CaravanMeeting.label>
+  
+  <!-- EN: manhunter ambush -->
+  <ManhunterAmbush.label>emberevő rajtaütés</ManhunterAmbush.label>
+  <!-- EN: Caravan ambushed (manhunters) -->
+  <ManhunterAmbush.letterLabel>Karaván rajtaütés (emberevő)</ManhunterAmbush.letterLabel>
+  <!-- EN: {0} has been ambushed by manhunting {1}! -->
+  <ManhunterAmbush.letterText>A karavánodon rajtaütött néhány emberevő {0}!</ManhunterAmbush.letterText>
+  
 </LanguageData>

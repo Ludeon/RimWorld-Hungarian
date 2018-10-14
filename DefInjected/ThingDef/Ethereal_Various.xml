@@ -1,12 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <RectTrigger.label>négyszög trigger(???)</RectTrigger.label>
-  <TriggerUnfogged.label>látható trigger(???)</TriggerUnfogged.label>
-  <Explosion.label>robbanás</Explosion.label>
+  
+  <!-- EN: blight -->
   <Blight.label>penész</Blight.label>
+  
+  <!-- EN: explosion -->
+  <Explosion.label>robbanás</Explosion.label>
+  
+  <!-- EN: rect trigger -->
+  <RectTrigger.label>négyszög trigger(???)</RectTrigger.label>
+  
+  <!-- EN: tornado -->
   <Tornado.label>tornádó</Tornado.label>
+  
+  <!-- EN: trigger unfogged -->
+  <TriggerUnfogged.label>látható trigger(???)</TriggerUnfogged.label>
+  
+  <!-- EN: tunnel -->
   <TunnelHiveSpawner.label>alagút</TunnelHiveSpawner.label>
-
-
+  
 </LanguageData>

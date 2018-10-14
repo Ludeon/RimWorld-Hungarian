@@ -1,31 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SculptingSpeed.label>szobrász sebesség</SculptingSpeed.label>
-  <SculptingSpeed.description>Milyen gyorsan képes a személy egy szobrot befejezni.</SculptingSpeed.description>
-  <TailoringSpeed.label>varrás sebesség</TailoringSpeed.label>
-  <TailoringSpeed.description>Milyen gyorsan képes a személy egy ruhát befejezni.</TailoringSpeed.description>
-  <SmithingSpeed.label>kovácsolás sebesség</SmithingSpeed.label>
-  <SmithingSpeed.description>Milyen gyorsan képes a személy fegyvereket, gépeket, lőszereket, szerszámokat kovácsolni.</SmithingSpeed.description>
-  <DrugSynthesisSpeed.label>Droggyártás sebesség</DrugSynthesisSpeed.label>
-  <DrugSynthesisSpeed.description>Milyen gyorsan képes a személy drogot előállítani.</DrugSynthesisSpeed.description>
-  <!-- <StonecuttingSpeed.label>kőfaragás sebesség</StonecuttingSpeed.label> -->
-  <!-- <StonecuttingSpeed.description>Milyen gyorsan képes a személy kődarabokból tömböket faragni.</StonecuttingSpeed.description> -->
-  <CookSpeed.label>főzés sebesség</CookSpeed.label>
-  <CookSpeed.description>Milyen gyorsan képes a személy ételt készíteni.</CookSpeed.description>
-  <FoodPoisonChance.label>ételmérgezés esélye</FoodPoisonChance.label>
-  <FoodPoisonChance.description>Mekkora eséllyel lesz a személy által készített étel mérgező.</FoodPoisonChance.description>
-  <DrugCookingSpeed.label>sörfőzés sebesség</DrugCookingSpeed.label>
-  <DrugCookingSpeed.description>Milyen gyorsan képes a személy sört főzni.</DrugCookingSpeed.description>
-  <ButcheryFleshSpeed.label>húsfeldolgozás sebesség</ButcheryFleshSpeed.label>
-  <ButcheryFleshSpeed.description>Milyen gyorsan képes a személy egy állatot felbontani.</ButcheryFleshSpeed.description>
-  <ButcheryMechanoidSpeed.label>szétszerelés sebesség</ButcheryMechanoidSpeed.label>
-  <ButcheryMechanoidSpeed.description>Milyen gyorsan képes a személy egy mechanoidot szétszerelni.</ButcheryMechanoidSpeed.description>
-  <!-- <MechanoidOperationSuccessChance.label>mechanoid operáció sikeresség esély</MechanoidOperationSuccessChance.label> -->
-  <!-- <MechanoidOperationSuccessChance.description>Mechanoidon végzett operáció sikerességének esélye. A kudarc nem csak idő és alkatrész veszteséggel jár, de az alany szenvedhet maradandó károkat is.</MechanoidOperationSuccessChance.description> -->
+  
+  <!-- EN: butchery efficiency -->
   <ButcheryFleshEfficiency.label>húsfeldolgozás hatékonyság</ButcheryFleshEfficiency.label>
+  <!-- EN: The amount of meat produced when butchering flesh creatures. The actual amount is also related to the creature's size. -->
   <ButcheryFleshEfficiency.description>Mennyi húst képes kinyerni a személy egy állatból.</ButcheryFleshEfficiency.description>
+  
+  <!-- EN: butchery speed -->
+  <ButcheryFleshSpeed.label>húsfeldolgozás sebesség</ButcheryFleshSpeed.label>
+  <!-- EN: The speed at which this person butchers flesh creatures. -->
+  <ButcheryFleshSpeed.description>Milyen gyorsan képes a személy egy állatot felbontani.</ButcheryFleshSpeed.description>
+  
+  <!-- EN: mechanoid disassembly efficiency -->
   <ButcheryMechanoidEfficiency.label>szétszerelés hatékonyság</ButcheryMechanoidEfficiency.label>
+  <!-- EN: The amount of materials yielded when this person disassembles a dead mechanoid. The actual amount is also related to the mechanoid's size. -->
   <ButcheryMechanoidEfficiency.description>Mennyi anyagot képes a személy kinyerni egy mechanoidból.</ButcheryMechanoidEfficiency.description>
+  
+  <!-- EN: mechanoid disassembly speed -->
+  <ButcheryMechanoidSpeed.label>szétszerelés sebesség</ButcheryMechanoidSpeed.label>
+  <!-- EN: The speed at which this person can disassemble a mechanoid. -->
+  <ButcheryMechanoidSpeed.description>Milyen gyorsan képes a személy egy mechanoidot szétszerelni.</ButcheryMechanoidSpeed.description>
+  
+  <!-- EN: cooking speed -->
+  <CookSpeed.label>főzés sebesség</CookSpeed.label>
+  <!-- EN: The speed at which this person cooks meals. -->
+  <CookSpeed.description>Milyen gyorsan képes a személy ételt készíteni.</CookSpeed.description>
+  
+  <!-- EN: drug cooking speed -->
+  <DrugCookingSpeed.label>sörfőzés sebesség</DrugCookingSpeed.label>
+  <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
+  <DrugCookingSpeed.description>Milyen gyorsan képes a személy sört főzni.</DrugCookingSpeed.description>
+  
+  <!-- EN: drug synthesis speed -->
+  <DrugSynthesisSpeed.label>Droggyártás sebesség</DrugSynthesisSpeed.label>
+  <!-- EN: How fast this character synthesizes complex chemical drugs. -->
+  <DrugSynthesisSpeed.description>Milyen gyorsan képes a személy drogot előállítani.</DrugSynthesisSpeed.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChance.label>ételmérgezés esélye</FoodPoisonChance.label>
+  <!-- EN: The probability that this character will inadvertently poison a meal they cook. Food poison temporarily debilitates anyone it strikes. -->
+  <FoodPoisonChance.description>Mekkora eséllyel lesz a személy által készített étel mérgező.</FoodPoisonChance.description>
+  
+  <!-- EN: sculpting speed -->
+  <SculptingSpeed.label>szobrász sebesség</SculptingSpeed.label>
+  <!-- EN: The speed at which this person creates sculptures.\n\nThis stat only affects how fast sculptures are produced, not their quality. Quality is determined by the sculptor's artistic skill. -->
+  <SculptingSpeed.description>Milyen gyorsan képes a személy egy szobrot befejezni.</SculptingSpeed.description>
+  
+  <!-- EN: smelting speed -->
   <SmeltingSpeed.label>olvasztás sebesség</SmeltingSpeed.label>
+  <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
   <SmeltingSpeed.description>Milyen gyorsan képes a személy valamit beolvasztani.</SmeltingSpeed.description>
+  
+  <!-- EN: smithing speed -->
+  <SmithingSpeed.label>kovácsolás sebesség</SmithingSpeed.label>
+  <!-- EN: Speed at which this person crafts weapons, machinery, and ammunition.\n\nThis stat only affects how fast items are produced, not their quality. Quality is determined by the crafter's skill. -->
+  <SmithingSpeed.description>Milyen gyorsan képes a személy fegyvereket, gépeket, lőszereket, szerszámokat kovácsolni.</SmithingSpeed.description>
+  
+  <!-- EN: tailoring speed -->
+  <TailoringSpeed.label>varrás sebesség</TailoringSpeed.label>
+  <!-- EN: The speed at which this person makes clothes.\n\nThis stat only affects how fast clothes are produced, not their quality. Quality is determined by the tailor's crafting skill. -->
+  <TailoringSpeed.description>Milyen gyorsan képes a személy egy ruhát befejezni.</TailoringSpeed.description>
+  
+  <!-- EN: unskilled labor speed -->
+  <UnskilledLaborSpeed.label>egyszerű munkatempó</UnskilledLaborSpeed.label>
+  <!-- EN: The speed at which this person carries out unskilled labor like making stone blocks, making chemfuel at a refinery or burning items. -->
+  <UnskilledLaborSpeed.description>Az egyszerű munkák sebességének szorzója, mint pl. kőtömbök készítése, üzemanyag finomítás vagy tárgyak elégetése.</UnskilledLaborSpeed.description>
+  
 </LanguageData>

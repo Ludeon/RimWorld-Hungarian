@@ -1,49 +1,119 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
+  <!-- EN: time as a colonist -->
   <TimeAsColonistOrColonyAnimal.label>Gyarmatosként töltött idő</TimeAsColonistOrColonyAnimal.label>
+  <!-- EN: Total time spent loyal to your community. -->
   <TimeAsColonistOrColonyAnimal.description>Az összidő, amit a kolónia tagjaként töltött.</TimeAsColonistOrColonyAnimal.description>
+  
+  <!-- EN: time as a prisoner -->
   <TimeAsPrisoner.label>Fogolyként töltött idő</TimeAsPrisoner.label>
+  <!-- EN: Total time spent as a prisoner. -->
   <TimeAsPrisoner.description>Az összidő, amit a gyarmatos fogolyként töltött.</TimeAsPrisoner.description>
-  <TimeInBed.label>Ágyban töltött idő</TimeInBed.label>
-  <TimeInBed.description>Az összidő, amit a gyarmatos ágyban töltött.</TimeInBed.description>
-  <TimeInBedForMedicalReasons.label>Betegágyban töltött idő</TimeInBedForMedicalReasons.label>
-  <TimeInBedForMedicalReasons.description>Az összidő, amit a gyarmatos egészségi problémák miatt betegágyban töltött.</TimeInBedForMedicalReasons.description>
-  <TimeDowned.label>Eszméletlenül töltött idő</TimeDowned.label>
-  <TimeDowned.description>Az összidő, amit a gyarmatos öntudatlanul töltött.</TimeDowned.description>
-  <TimeGettingFood.label>Ételhordással töltött idő</TimeGettingFood.label>
-  <TimeGettingFood.description>Az összidő, amit a gyarmatos étel szállításával és evésével töltött.</TimeGettingFood.description>
-  <TimeGettingJoy.label>Szórakozással töltött idő</TimeGettingJoy.label>
-  <TimeGettingJoy.description>Az összidő, amit a gyarmatos szabadidős programokkal töltött.</TimeGettingJoy.description>
-  <TimeUnderRoof.label>Tető alatt töltött idő</TimeUnderRoof.label>
-  <TimeUnderRoof.description>Az összidő, amit a gyarmatos tető alatt töltött.</TimeUnderRoof.description>
-  <TimeDrafted.label>Besorozva töltött idő</TimeDrafted.label>
-  <TimeDrafted.description>Az összidő, amit a gyarmatos fegyveres szolgálatra beosztva töltött.</TimeDrafted.description>
-  <TimeOnFire.label>Égés ideje</TimeOnFire.label>
-  <TimeOnFire.description>Annak összideje, amikor a gyarmatos lángolt.</TimeOnFire.description>
-  <TimeInMentalState.label>Idegösszeomlás ideje</TimeInMentalState.label>
-  <TimeInMentalState.description>Az összidő, amit a gyarmatos idegösszeomlás állapotában töltött.</TimeInMentalState.description>
-  <TimeHauling.label>Cipeléssel töltött idő</TimeHauling.label>
-  <TimeHauling.description>Az összidő, amit a gyarmatos cipekedéssel töltött.</TimeHauling.description>
-  <TimeHandlingAnimals.label>Állatokkal töltött idő</TimeHandlingAnimals.label>
-  <TimeHandlingAnimals.description>Annak összideje, amikor a gyarmatos állatokkal dolgozott.</TimeHandlingAnimals.description>
-  <TimeFirefighting.label>Tűzoltással töltött idő</TimeFirefighting.label>
-  <TimeFirefighting.description>Az összidő, amit a gyarmatos tűzoltással töltött.</TimeFirefighting.description>
-  <TimeWardening.label>Börtönőrként töltött idő</TimeWardening.label>
-  <TimeWardening.description>Az összidő, amit a gyarmatos börtönőrként töltött.</TimeWardening.description>
-  <TimeHunting.label>Vadászként töltött idő</TimeHunting.label>
-  <TimeHunting.description>Az összidő, amit a gyarmatos vadászattal töltött.</TimeHunting.description>
-  <TimeConstructing.label>Építéssel töltött idő</TimeConstructing.label>
-  <TimeConstructing.description>Az összidő, amit a gyarmatos építéssel töltött.</TimeConstructing.description>
-  <TimeTreatingAndFeeding.label>Orvosként töltött idő</TimeTreatingAndFeeding.label>
-  <TimeTreatingAndFeeding.description>Az összidő, amit a gyarmatos betegek etetésével és ellátásval töltött.</TimeTreatingAndFeeding.description>
-  <TimeResearching.label>Kutatóként töltött idő</TimeResearching.label>
-  <TimeResearching.description>Az összidő, amit a gyarmatos kutatással töltött.</TimeResearching.description>
+  
+  <!-- EN: time cleaning -->
   <TimeCleaning.label>Takarítóként töltött idő</TimeCleaning.label>
+  <!-- EN: Total time spent cleaning. -->
   <TimeCleaning.description>Az összidő, amit a gyarmatos takarítással töltött.</TimeCleaning.description>
-  <TimeRepairing.label>Javítással töltött idő</TimeRepairing.label>
-  <TimeRepairing.description>Az összidő, amit a gyarmatos dolgok megjavításával töltött.</TimeRepairing.description>
+  
+  <!-- EN: time constructing -->
+  <TimeConstructing.label>Építéssel töltött idő</TimeConstructing.label>
+  <!-- EN: Total time spent constructing and deconstructing buildings. -->
+  <TimeConstructing.description>Az összidő, amit a gyarmatos építéssel töltött.</TimeConstructing.description>
+  
+  <!-- EN: time downed -->
+  <TimeDowned.label>Eszméletlenül töltött idő</TimeDowned.label>
+  <!-- EN: Total time spent downed. -->
+  <TimeDowned.description>Az összidő, amit a gyarmatos öntudatlanul töltött.</TimeDowned.description>
+  
+  <!-- EN: time drafted -->
+  <TimeDrafted.label>Besorozva töltött idő</TimeDrafted.label>
+  <!-- EN: Total time spent drafted. -->
+  <TimeDrafted.description>Az összidő, amit a gyarmatos fegyveres szolgálatra beosztva töltött.</TimeDrafted.description>
+  
+  <!-- EN: time firefighting -->
+  <TimeFirefighting.label>Tűzoltással töltött idő</TimeFirefighting.label>
+  <!-- EN: Total time spent firefighting. -->
+  <TimeFirefighting.description>Az összidő, amit a gyarmatos tűzoltással töltött.</TimeFirefighting.description>
+  
+  <!-- EN: time finding food and eating -->
+  <TimeGettingFood.label>Ételhordással töltött idő</TimeGettingFood.label>
+  <!-- EN: Total time spent on finding food and eating. -->
+  <TimeGettingFood.description>Az összidő, amit a gyarmatos étel szállításával és evésével töltött.</TimeGettingFood.description>
+  
+  <!-- EN: time spent on entertainment -->
+  <TimeGettingJoy.label>Szórakozással töltött idő</TimeGettingJoy.label>
+  <!-- EN: Total time spent on entertainment. -->
+  <TimeGettingJoy.description>Az összidő, amit a gyarmatos szabadidős programokkal töltött.</TimeGettingJoy.description>
+  
+  <!-- EN: time handling animals -->
+  <TimeHandlingAnimals.label>Állatokkal töltött idő</TimeHandlingAnimals.label>
+  <!-- EN: Total time spent handling animals. -->
+  <TimeHandlingAnimals.description>Annak összideje, amikor a gyarmatos állatokkal dolgozott.</TimeHandlingAnimals.description>
+  
+  <!-- EN: time hauling -->
+  <TimeHauling.label>Cipeléssel töltött idő</TimeHauling.label>
+  <!-- EN: Total time spent hauling things. -->
+  <TimeHauling.description>Az összidő, amit a gyarmatos cipekedéssel töltött.</TimeHauling.description>
+  
+  <!-- EN: time hunting -->
+  <TimeHunting.label>Vadászként töltött idő</TimeHunting.label>
+  <!-- EN: Total time spent hunting. -->
+  <TimeHunting.description>Az összidő, amit a gyarmatos vadászattal töltött.</TimeHunting.description>
+  
+  <!-- EN: time in a bed -->
+  <TimeInBed.label>Ágyban töltött idő</TimeInBed.label>
+  <!-- EN: Total time spent in bed. -->
+  <TimeInBed.description>Az összidő, amit a gyarmatos ágyban töltött.</TimeInBed.description>
+  
+  <!-- EN: time in a bed for medical reasons -->
+  <TimeInBedForMedicalReasons.label>Betegágyban töltött idő</TimeInBedForMedicalReasons.label>
+  <!-- EN: Total time spent in bed for medical reasons: awaiting treatment, recovering from injuries or being operated on. -->
+  <TimeInBedForMedicalReasons.description>Az összidő, amit a gyarmatos egészségi problémák miatt betegágyban töltött.</TimeInBedForMedicalReasons.description>
+  
+  <!-- EN: time in mental state -->
+  <TimeInMentalState.label>Idegösszeomlás ideje</TimeInMentalState.label>
+  <!-- EN: Total time spent in an abnormal mental state. -->
+  <TimeInMentalState.description>Az összidő, amit a gyarmatos idegösszeomlás állapotában töltött.</TimeInMentalState.description>
+  
+  <!-- EN: time mining -->
   <TimeMining.label>Bányászként töltött idő</TimeMining.label>
+  <!-- EN: Total time spent mining. -->
   <TimeMining.description>Az összidő, amit a gyarmatos bányákban dolgozva töltött.</TimeMining.description>
+  
+  <!-- EN: time on fire -->
+  <TimeOnFire.label>Égés ideje</TimeOnFire.label>
+  <!-- EN: Total time spent on fire. -->
+  <TimeOnFire.description>Annak összideje, amikor a gyarmatos lángolt.</TimeOnFire.description>
+  
+  <!-- EN: time repairing -->
+  <TimeRepairing.label>Javítással töltött idő</TimeRepairing.label>
+  <!-- EN: Total time spent repairing. -->
+  <TimeRepairing.description>Az összidő, amit a gyarmatos dolgok megjavításával töltött.</TimeRepairing.description>
+  
+  <!-- EN: time researching -->
+  <TimeResearching.label>Kutatóként töltött idő</TimeResearching.label>
+  <!-- EN: Total time spent researching. -->
+  <TimeResearching.description>Az összidő, amit a gyarmatos kutatással töltött.</TimeResearching.description>
+  
+  <!-- EN: time sowing and harvesting -->
   <TimeSowingAndHarvesting.label>Földművesként töltött idő</TimeSowingAndHarvesting.label>
+  <!-- EN: Total time spent sowing, harvesting and cutting plants. -->
   <TimeSowingAndHarvesting.description>Az összidő, amit a gyarmatos magok vetésével, növények ápolásával és termés betakarításával töltött.</TimeSowingAndHarvesting.description>
+  
+  <!-- EN: time treating and feeding -->
+  <TimeTreatingAndFeeding.label>Orvosként töltött idő</TimeTreatingAndFeeding.label>
+  <!-- EN: Total time spent treating and feeding patients. -->
+  <TimeTreatingAndFeeding.description>Az összidő, amit a gyarmatos betegek etetésével és ellátásval töltött.</TimeTreatingAndFeeding.description>
+  
+  <!-- EN: time under a roof -->
+  <TimeUnderRoof.label>Tető alatt töltött idő</TimeUnderRoof.label>
+  <!-- EN: Total time spent under a roof. -->
+  <TimeUnderRoof.description>Az összidő, amit a gyarmatos tető alatt töltött.</TimeUnderRoof.description>
+  
+  <!-- EN: time wardening -->
+  <TimeWardening.label>Börtönőrként töltött idő</TimeWardening.label>
+  <!-- EN: Total time spent wardening. -->
+  <TimeWardening.description>Az összidő, amit a gyarmatos börtönőrként töltött.</TimeWardening.description>
+  
 </LanguageData>

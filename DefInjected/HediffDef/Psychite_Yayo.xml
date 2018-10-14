@@ -1,12 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <YayoHigh.label>kokain mámor</YayoHigh.label>
-  <YayoHigh.labelNoun>kokain mámor</YayoHigh.labelNoun>
-  <PsychiteTolerance.label>kokain tolerancia</PsychiteTolerance.label>
-  <PsychiteTolerance.stages.small-0.label>kicsi</PsychiteTolerance.stages.small-0.label>
-  <PsychiteTolerance.stages.small-1.label>kicsi</PsychiteTolerance.stages.small-1.label>
-  <PsychiteTolerance.stages.large.label>nagy</PsychiteTolerance.stages.large.label>
-  <PsychiteTolerance.stages.massive.label>óriási</PsychiteTolerance.stages.massive.label>
+  
+  <!-- EN: psychite addiction -->
   <PsychiteAddiction.label>kokainfüggés</PsychiteAddiction.label>
+  <!-- EN: withdrawal -->
   <PsychiteAddiction.stages.withdrawal.label>elvonás</PsychiteAddiction.stages.withdrawal.label>
+  
+  <!-- EN: psychite tolerance -->
+  <PsychiteTolerance.label>kokain tolerancia</PsychiteTolerance.label>
+  <!-- EN: small -->
+  <PsychiteTolerance.stages.small-0.label>kicsi</PsychiteTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <PsychiteTolerance.stages.small-1.label>kicsi</PsychiteTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <PsychiteTolerance.stages.large.label>nagy</PsychiteTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <PsychiteTolerance.stages.massive.label>óriási</PsychiteTolerance.stages.massive.label>
+  
+  <!-- EN: high on yayo -->
+  <YayoHigh.label>kokain mámor</YayoHigh.label>
+  <!-- EN: a yayo high -->
+  <YayoHigh.labelNoun>kokain mámor</YayoHigh.labelNoun>
+  
 </LanguageData>

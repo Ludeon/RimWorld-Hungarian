@@ -1,147 +1,172 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Deer.label>szarvas</Deer.label>
-  <Deer.labelPlural>szarvasok</Deer.labelPlural>
-  <Deer.lifeStages.0.label>szarvas</Deer.lifeStages.0.label>
-  <Deer.lifeStages.0.labelPlural>szarvasok</Deer.lifeStages.0.labelPlural>
-  <Deer.lifeStages.0.labelMale>szarvasborjú</Deer.lifeStages.0.labelMale>
-  <Deer.lifeStages.0.labelMalePlural>hím szarvasok</Deer.lifeStages.0.labelMalePlural>
-  <Deer.lifeStages.0.labelFemale>szarvasborjú</Deer.lifeStages.0.labelFemale>
-  <Deer.lifeStages.0.labelFemalePlural>nőstény szarvasok</Deer.lifeStages.0.labelFemalePlural>
-  <Deer.lifeStages.1.label>szarvas</Deer.lifeStages.1.label>
-  <Deer.lifeStages.1.labelPlural>szarvasok</Deer.lifeStages.1.labelPlural>
-  <Deer.lifeStages.1.labelMale>fiatal bika</Deer.lifeStages.1.labelMale>
-  <Deer.lifeStages.1.labelMalePlural>hím szarvasok</Deer.lifeStages.1.labelMalePlural>
-  <Deer.lifeStages.1.labelFemale>szarvasünő</Deer.lifeStages.1.labelFemale>
-  <Deer.lifeStages.1.labelFemalePlural>nőstény szarvasok</Deer.lifeStages.1.labelFemalePlural>
-  <Deer.lifeStages.2.label>szarvas</Deer.lifeStages.2.label>
-  <Deer.lifeStages.2.labelPlural>szarvasok</Deer.lifeStages.2.labelPlural>
-  <Deer.lifeStages.2.labelMale>szarvasbika</Deer.lifeStages.2.labelMale>
-  <Deer.lifeStages.2.labelMalePlural>hím szarvasok</Deer.lifeStages.2.labelMalePlural>
-  <Deer.lifeStages.2.labelFemale>szarvastehén</Deer.lifeStages.2.labelFemale>
-  <Deer.lifeStages.2.labelFemalePlural>nőstény szarvasok</Deer.lifeStages.2.labelFemalePlural>
-  <Deer.labelMale>szarvasbika</Deer.labelMale>
-  <Deer.labelMalePlural>szarvasbikák</Deer.labelMalePlural>
-  <Deer.labelFemale>szarvastehén</Deer.labelFemale>
-  <Deer.labelFemalePlural>szarvastehenek</Deer.labelFemalePlural>
-  <Ibex.label>kőszáli kecske</Ibex.label>
-  <Ibex.labelPlural>kőszáli kecske</Ibex.labelPlural>
-  <Ibex.lifeStages.0.label>kőszáli kecskék</Ibex.lifeStages.0.label>
-  <Ibex.lifeStages.0.labelPlural>kőszáli kecskék</Ibex.lifeStages.0.labelPlural>
-  <Ibex.lifeStages.0.labelMale>kőszáli kecskegida</Ibex.lifeStages.0.labelMale>
-  <Ibex.lifeStages.0.labelMalePlural>hím kőszáli kecskék</Ibex.lifeStages.0.labelMalePlural>
-  <Ibex.lifeStages.0.labelFemale>fiatal kőszáli kecske</Ibex.lifeStages.0.labelFemale>
-  <Ibex.lifeStages.0.labelFemalePlural>nőstény kőszáli kecskék</Ibex.lifeStages.0.labelFemalePlural>
-  <Ibex.lifeStages.1.label>kőszáli kecske</Ibex.lifeStages.1.label>
-  <Ibex.lifeStages.1.labelPlural>kőszáli kecskék</Ibex.lifeStages.1.labelPlural>
-  <Ibex.lifeStages.1.labelMale>kőszáli kecskegida</Ibex.lifeStages.1.labelMale>
-  <Ibex.lifeStages.1.labelMalePlural>hím kőszáli kecskék</Ibex.lifeStages.1.labelMalePlural>
-  <Ibex.lifeStages.1.labelFemale>kőszáli kecske gödölye</Ibex.lifeStages.1.labelFemale>
-  <Ibex.lifeStages.1.labelFemalePlural>nőstény kőszáli kecskék</Ibex.lifeStages.1.labelFemalePlural>
-  <Ibex.lifeStages.2.label>kőszáli kecske</Ibex.lifeStages.2.label>
-  <Ibex.lifeStages.2.labelPlural>kőszáli kecskék</Ibex.lifeStages.2.labelPlural>
-  <Ibex.lifeStages.2.labelMale>kőszáli kecskebak</Ibex.lifeStages.2.labelMale>
-  <Ibex.lifeStages.2.labelMalePlural>hím kőszáli kecskék</Ibex.lifeStages.2.labelMalePlural>
-  <Ibex.lifeStages.2.labelFemale>kőszáli kecske anya</Ibex.lifeStages.2.labelFemale>
-  <Ibex.lifeStages.2.labelFemalePlural>nőstény kőszáli kecskék</Ibex.lifeStages.2.labelFemalePlural>
-  <Ibex.labelMale>kőszáli kecskebak</Ibex.labelMale>
-  <Ibex.labelMalePlural>kőszáli kecskebakok</Ibex.labelMalePlural>
-  <Ibex.labelFemale>kőszáli kecske anya</Ibex.labelFemale>
-  <Ibex.labelFemalePlural>kőszáli kecske anyák</Ibex.labelFemalePlural>
-  <Elk.label>jávorszarvas</Elk.label>
-  <Elk.labelPlural>jávorszarvasok</Elk.labelPlural>
-  <Elk.lifeStages.elk_calf.label>jávorszarvas borjú</Elk.lifeStages.elk_calf.label>
-  <Elk.lifeStages.elk_calf.labelPlural>jávorszarvas borjak</Elk.lifeStages.elk_calf.labelPlural>
-  <Elk.lifeStages.elk_calf.labelMale>jávorszarvas borjú</Elk.lifeStages.elk_calf.labelMale>
-  <Elk.lifeStages.elk_calf.labelMalePlural>hím jávorszarvas borjak</Elk.lifeStages.elk_calf.labelMalePlural>
-  <Elk.lifeStages.elk_calf.labelFemale>fiatal jávorszarvas</Elk.lifeStages.elk_calf.labelFemale>
-  <Elk.lifeStages.elk_calf.labelFemalePlural>nőstény jávorszarvas borjak</Elk.lifeStages.elk_calf.labelFemalePlural>
-  <Elk.lifeStages.1.label>jávorszarvas</Elk.lifeStages.1.label>
-  <Elk.lifeStages.1.labelPlural>jávorszarvasok</Elk.lifeStages.1.labelPlural>
-  <Elk.lifeStages.1.labelMale>fiatal jávorszarvasbika</Elk.lifeStages.1.labelMale>
-  <Elk.lifeStages.1.labelMalePlural>hím jávorszarvasok</Elk.lifeStages.1.labelMalePlural>
-  <Elk.lifeStages.1.labelFemale>jávorszarvasünő</Elk.lifeStages.1.labelFemale>
-  <Elk.lifeStages.1.labelFemalePlural>nőstény jávorszarvasok</Elk.lifeStages.1.labelFemalePlural>
-  <Elk.lifeStages.2.label>jávorszarvas</Elk.lifeStages.2.label>
-  <Elk.lifeStages.2.labelPlural>jávorszarvasok</Elk.lifeStages.2.labelPlural>
-  <Elk.lifeStages.2.labelMale>jávorszarvasbika</Elk.lifeStages.2.labelMale>
-  <Elk.lifeStages.2.labelMalePlural>hím jávorszarvasok</Elk.lifeStages.2.labelMalePlural>
-  <Elk.lifeStages.2.labelFemale>jávorszarvastehén</Elk.lifeStages.2.labelFemale>
-  <Elk.lifeStages.2.labelFemalePlural>nőstény jávorszarvasok</Elk.lifeStages.2.labelFemalePlural>
-  <Elk.labelMale>hím jávorszarvas</Elk.labelMale>
-  <Elk.labelMalePlural>hím jávorszarvasok</Elk.labelMalePlural>
-  <Elk.labelFemale>nőstény jávorszarvas</Elk.labelFemale>
-  <Elk.labelFemalePlural>nőstény jávorszarvasok</Elk.labelFemalePlural>
+  
+  <!-- EN: caribou -->
   <Caribou.label>rénszarvas</Caribou.label>
-  <Caribou.labelPlural>rénszarvasok</Caribou.labelPlural>
-  <Caribou.lifeStages.caribou_calf.label>rénszarvas borjú</Caribou.lifeStages.caribou_calf.label>
-  <Caribou.lifeStages.caribou_calf.labelPlural>rénszarvas borjak</Caribou.lifeStages.caribou_calf.labelPlural>
-  <Caribou.lifeStages.caribou_calf.labelMale>rénszarvas borjú</Caribou.lifeStages.caribou_calf.labelMale>
-  <Caribou.lifeStages.caribou_calf.labelMalePlural>hím rénszarvas borjak</Caribou.lifeStages.caribou_calf.labelMalePlural>
-  <Caribou.lifeStages.caribou_calf.labelFemale>fiatal rénszarvas</Caribou.lifeStages.caribou_calf.labelFemale>
-  <Caribou.lifeStages.caribou_calf.labelFemalePlural>nőstény rénszarvas borjak</Caribou.lifeStages.caribou_calf.labelFemalePlural>
-  <Caribou.lifeStages.1.label>rénszarvas</Caribou.lifeStages.1.label>
-  <Caribou.lifeStages.1.labelPlural>rénszarvasok</Caribou.lifeStages.1.labelPlural>
-  <Caribou.lifeStages.1.labelMale>fiatal rénszarvasbika</Caribou.lifeStages.1.labelMale>
-  <Caribou.lifeStages.1.labelMalePlural>hím rénszarvasok</Caribou.lifeStages.1.labelMalePlural>
-  <Caribou.lifeStages.1.labelFemale>fiatal rénszarvastehén</Caribou.lifeStages.1.labelFemale>
-  <Caribou.lifeStages.1.labelFemalePlural>nőstény rénszarvasok</Caribou.lifeStages.1.labelFemalePlural>
-  <Caribou.lifeStages.2.label>rénszarvas</Caribou.lifeStages.2.label>
-  <Caribou.lifeStages.2.labelPlural>rénszarvasok</Caribou.lifeStages.2.labelPlural>
-  <Caribou.lifeStages.2.labelMale>rénszarvasbika</Caribou.lifeStages.2.labelMale>
-  <Caribou.lifeStages.2.labelMalePlural>hím rénszarvasok</Caribou.lifeStages.2.labelMalePlural>
-  <Caribou.lifeStages.2.labelFemale>rénszarvastehén</Caribou.lifeStages.2.labelFemale>
-  <Caribou.lifeStages.2.labelFemalePlural>nőstény rénszarvasok</Caribou.lifeStages.2.labelFemalePlural>
-  <Caribou.labelMale>hím rénszarvas</Caribou.labelMale>
-  <Caribou.labelMalePlural>hím rénszarvasok</Caribou.labelMalePlural>
   <Caribou.labelFemale>nőstény rénszarvas</Caribou.labelFemale>
   <Caribou.labelFemalePlural>nőstény rénszarvasok</Caribou.labelFemalePlural>
-  <WildBoar.label>vaddisznó</WildBoar.label>
-  <WildBoar.labelPlural>vaddisznók</WildBoar.labelPlural>
-  <WildBoar.lifeStages.0.label>vaddisznó</WildBoar.lifeStages.0.label>
-  <WildBoar.lifeStages.0.labelPlural>vaddisznók</WildBoar.lifeStages.0.labelPlural>
-  <WildBoar.lifeStages.0.labelMale>vadmalac</WildBoar.lifeStages.0.labelMale>
-  <WildBoar.lifeStages.0.labelMalePlural>hím vaddisznók</WildBoar.lifeStages.0.labelMalePlural>
-  <WildBoar.lifeStages.0.labelFemale>vadmalac</WildBoar.lifeStages.0.labelFemale>
-  <WildBoar.lifeStages.0.labelFemalePlural>nőstény vaddisznók</WildBoar.lifeStages.0.labelFemalePlural>
-  <WildBoar.lifeStages.1.label>vaddisznó</WildBoar.lifeStages.1.label>
-  <WildBoar.lifeStages.1.labelPlural>vaddisznók</WildBoar.lifeStages.1.labelPlural>
-  <WildBoar.lifeStages.1.labelMale>fiatal vaddisznó</WildBoar.lifeStages.1.labelMale>
-  <WildBoar.lifeStages.1.labelMalePlural>hím vaddisznók</WildBoar.lifeStages.1.labelMalePlural>
-  <WildBoar.lifeStages.1.labelFemale>fiatal vaddisznó</WildBoar.lifeStages.1.labelFemale>
-  <WildBoar.lifeStages.1.labelFemalePlural>nőstény vaddisznók</WildBoar.lifeStages.1.labelFemalePlural>
-  <WildBoar.lifeStages.2.label>vaddisznó</WildBoar.lifeStages.2.label>
-  <WildBoar.lifeStages.2.labelPlural>vaddisznók</WildBoar.lifeStages.2.labelPlural>
-  <WildBoar.lifeStages.2.labelMale>vaddisznó</WildBoar.lifeStages.2.labelMale>
-  <WildBoar.lifeStages.2.labelMalePlural>hím vaddisznók</WildBoar.lifeStages.2.labelMalePlural>
-  <WildBoar.lifeStages.2.labelFemale>vaddisznó</WildBoar.lifeStages.2.labelFemale>
-  <WildBoar.lifeStages.2.labelFemalePlural>nőstény vaddisznók</WildBoar.lifeStages.2.labelFemalePlural>
-  <WildBoar.labelMale>vadkan</WildBoar.labelMale>
-  <WildBoar.labelMalePlural>vadkanok</WildBoar.labelMalePlural>
-  <WildBoar.labelFemale>nőstény vaddisznó</WildBoar.labelFemale>
-  <WildBoar.labelFemalePlural>nőstény vaddisznók</WildBoar.labelFemalePlural>
+  <Caribou.labelMale>hím rénszarvas</Caribou.labelMale>
+  <Caribou.labelMalePlural>hím rénszarvasok</Caribou.labelMalePlural>
+  <!-- EN: caribou -->
+  <Caribou.labelPlural>rénszarvasok</Caribou.labelPlural>
+  <!-- EN: caribou calf -->
+  <Caribou.lifeStages.caribou_calf.label>rénszarvas borjú</Caribou.lifeStages.caribou_calf.label>
+  <Caribou.lifeStages.caribou_calf.labelFemale>fiatal rénszarvas</Caribou.lifeStages.caribou_calf.labelFemale>
+  <Caribou.lifeStages.caribou_calf.labelFemalePlural>nőstény rénszarvas borjak</Caribou.lifeStages.caribou_calf.labelFemalePlural>
+  <Caribou.lifeStages.caribou_calf.labelMale>rénszarvas borjú</Caribou.lifeStages.caribou_calf.labelMale>
+  <Caribou.lifeStages.caribou_calf.labelMalePlural>hím rénszarvas borjak</Caribou.lifeStages.caribou_calf.labelMalePlural>
+  <!-- EN: caribou calves -->
+  <Caribou.lifeStages.caribou_calf.labelPlural>rénszarvas borjak</Caribou.lifeStages.caribou_calf.labelPlural>
+  <Caribou.lifeStages.1.label>rénszarvas</Caribou.lifeStages.1.label>
+  <Caribou.lifeStages.1.labelFemale>fiatal rénszarvastehén</Caribou.lifeStages.1.labelFemale>
+  <Caribou.lifeStages.1.labelFemalePlural>nőstény rénszarvasok</Caribou.lifeStages.1.labelFemalePlural>
+  <Caribou.lifeStages.1.labelMale>fiatal rénszarvasbika</Caribou.lifeStages.1.labelMale>
+  <Caribou.lifeStages.1.labelMalePlural>hím rénszarvasok</Caribou.lifeStages.1.labelMalePlural>
+  <Caribou.lifeStages.1.labelPlural>rénszarvasok</Caribou.lifeStages.1.labelPlural>
+  <Caribou.lifeStages.2.label>rénszarvas</Caribou.lifeStages.2.label>
+  <Caribou.lifeStages.2.labelFemale>rénszarvastehén</Caribou.lifeStages.2.labelFemale>
+  <Caribou.lifeStages.2.labelFemalePlural>nőstény rénszarvasok</Caribou.lifeStages.2.labelFemalePlural>
+  <Caribou.lifeStages.2.labelMale>rénszarvasbika</Caribou.lifeStages.2.labelMale>
+  <Caribou.lifeStages.2.labelMalePlural>hím rénszarvasok</Caribou.lifeStages.2.labelMalePlural>
+  <Caribou.lifeStages.2.labelPlural>rénszarvasok</Caribou.lifeStages.2.labelPlural>
+  
+  <!-- EN: deer -->
+  <Deer.label>szarvas</Deer.label>
+  <!-- EN: doe -->
+  <Deer.labelFemale>szarvastehén</Deer.labelFemale>
+  <Deer.labelFemalePlural>szarvastehenek</Deer.labelFemalePlural>
+  <!-- EN: buck -->
+  <Deer.labelMale>szarvasbika</Deer.labelMale>
+  <Deer.labelMalePlural>szarvasbikák</Deer.labelMalePlural>
+  <!-- EN: deer -->
+  <Deer.labelPlural>szarvasok</Deer.labelPlural>
+  <Deer.lifeStages.0.label>szarvas</Deer.lifeStages.0.label>
+  <Deer.lifeStages.0.labelFemale>szarvasborjú</Deer.lifeStages.0.labelFemale>
+  <Deer.lifeStages.0.labelFemalePlural>nőstény szarvasok</Deer.lifeStages.0.labelFemalePlural>
+  <Deer.lifeStages.0.labelMale>szarvasborjú</Deer.lifeStages.0.labelMale>
+  <Deer.lifeStages.0.labelMalePlural>hím szarvasok</Deer.lifeStages.0.labelMalePlural>
+  <Deer.lifeStages.0.labelPlural>szarvasok</Deer.lifeStages.0.labelPlural>
+  <Deer.lifeStages.1.label>szarvas</Deer.lifeStages.1.label>
+  <Deer.lifeStages.1.labelFemale>szarvasünő</Deer.lifeStages.1.labelFemale>
+  <Deer.lifeStages.1.labelFemalePlural>nőstény szarvasok</Deer.lifeStages.1.labelFemalePlural>
+  <Deer.lifeStages.1.labelMale>fiatal bika</Deer.lifeStages.1.labelMale>
+  <Deer.lifeStages.1.labelMalePlural>hím szarvasok</Deer.lifeStages.1.labelMalePlural>
+  <Deer.lifeStages.1.labelPlural>szarvasok</Deer.lifeStages.1.labelPlural>
+  <Deer.lifeStages.2.label>szarvas</Deer.lifeStages.2.label>
+  <Deer.lifeStages.2.labelFemale>szarvastehén</Deer.lifeStages.2.labelFemale>
+  <Deer.lifeStages.2.labelFemalePlural>nőstény szarvasok</Deer.lifeStages.2.labelFemalePlural>
+  <Deer.lifeStages.2.labelMale>szarvasbika</Deer.lifeStages.2.labelMale>
+  <Deer.lifeStages.2.labelMalePlural>hím szarvasok</Deer.lifeStages.2.labelMalePlural>
+  <Deer.lifeStages.2.labelPlural>szarvasok</Deer.lifeStages.2.labelPlural>
+  
+  <!-- EN: elk -->
+  <Elk.label>jávorszarvas</Elk.label>
+  <Elk.labelFemale>nőstény jávorszarvas</Elk.labelFemale>
+  <Elk.labelFemalePlural>nőstény jávorszarvasok</Elk.labelFemalePlural>
+  <Elk.labelMale>hím jávorszarvas</Elk.labelMale>
+  <Elk.labelMalePlural>hím jávorszarvasok</Elk.labelMalePlural>
+  <!-- EN: elk -->
+  <Elk.labelPlural>jávorszarvasok</Elk.labelPlural>
+  <!-- EN: elk calf -->
+  <Elk.lifeStages.elk_calf.label>jávorszarvas borjú</Elk.lifeStages.elk_calf.label>
+  <Elk.lifeStages.elk_calf.labelFemale>fiatal jávorszarvas</Elk.lifeStages.elk_calf.labelFemale>
+  <Elk.lifeStages.elk_calf.labelFemalePlural>nőstény jávorszarvas borjak</Elk.lifeStages.elk_calf.labelFemalePlural>
+  <Elk.lifeStages.elk_calf.labelMale>jávorszarvas borjú</Elk.lifeStages.elk_calf.labelMale>
+  <Elk.lifeStages.elk_calf.labelMalePlural>hím jávorszarvas borjak</Elk.lifeStages.elk_calf.labelMalePlural>
+  <!-- EN: elk calves -->
+  <Elk.lifeStages.elk_calf.labelPlural>jávorszarvas borjak</Elk.lifeStages.elk_calf.labelPlural>
+  <Elk.lifeStages.1.label>jávorszarvas</Elk.lifeStages.1.label>
+  <Elk.lifeStages.1.labelFemale>jávorszarvasünő</Elk.lifeStages.1.labelFemale>
+  <Elk.lifeStages.1.labelFemalePlural>nőstény jávorszarvasok</Elk.lifeStages.1.labelFemalePlural>
+  <Elk.lifeStages.1.labelMale>fiatal jávorszarvasbika</Elk.lifeStages.1.labelMale>
+  <Elk.lifeStages.1.labelMalePlural>hím jávorszarvasok</Elk.lifeStages.1.labelMalePlural>
+  <Elk.lifeStages.1.labelPlural>jávorszarvasok</Elk.lifeStages.1.labelPlural>
+  <Elk.lifeStages.2.label>jávorszarvas</Elk.lifeStages.2.label>
+  <Elk.lifeStages.2.labelFemale>jávorszarvastehén</Elk.lifeStages.2.labelFemale>
+  <Elk.lifeStages.2.labelFemalePlural>nőstény jávorszarvasok</Elk.lifeStages.2.labelFemalePlural>
+  <Elk.lifeStages.2.labelMale>jávorszarvasbika</Elk.lifeStages.2.labelMale>
+  <Elk.lifeStages.2.labelMalePlural>hím jávorszarvasok</Elk.lifeStages.2.labelMalePlural>
+  <Elk.lifeStages.2.labelPlural>jávorszarvasok</Elk.lifeStages.2.labelPlural>
+  
+  <!-- EN: ibex -->
+  <Ibex.label>kőszáli kecske</Ibex.label>
+  <!-- EN: ibex doe -->
+  <Ibex.labelFemale>kőszáli kecske anya</Ibex.labelFemale>
+  <Ibex.labelFemalePlural>kőszáli kecske anyák</Ibex.labelFemalePlural>
+  <!-- EN: ibex ram -->
+  <Ibex.labelMale>kőszáli kecskebak</Ibex.labelMale>
+  <Ibex.labelMalePlural>kőszáli kecskebakok</Ibex.labelMalePlural>
+  <!-- EN: ibex -->
+  <Ibex.labelPlural>kőszáli kecske</Ibex.labelPlural>
+  <Ibex.lifeStages.0.label>kőszáli kecskék</Ibex.lifeStages.0.label>
+  <Ibex.lifeStages.0.labelFemale>fiatal kőszáli kecske</Ibex.lifeStages.0.labelFemale>
+  <Ibex.lifeStages.0.labelFemalePlural>nőstény kőszáli kecskék</Ibex.lifeStages.0.labelFemalePlural>
+  <Ibex.lifeStages.0.labelMale>kőszáli kecskegida</Ibex.lifeStages.0.labelMale>
+  <Ibex.lifeStages.0.labelMalePlural>hím kőszáli kecskék</Ibex.lifeStages.0.labelMalePlural>
+  <Ibex.lifeStages.0.labelPlural>kőszáli kecskék</Ibex.lifeStages.0.labelPlural>
+  <Ibex.lifeStages.1.label>kőszáli kecske</Ibex.lifeStages.1.label>
+  <Ibex.lifeStages.1.labelFemale>kőszáli kecske gödölye</Ibex.lifeStages.1.labelFemale>
+  <Ibex.lifeStages.1.labelFemalePlural>nőstény kőszáli kecskék</Ibex.lifeStages.1.labelFemalePlural>
+  <Ibex.lifeStages.1.labelMale>kőszáli kecskegida</Ibex.lifeStages.1.labelMale>
+  <Ibex.lifeStages.1.labelMalePlural>hím kőszáli kecskék</Ibex.lifeStages.1.labelMalePlural>
+  <Ibex.lifeStages.1.labelPlural>kőszáli kecskék</Ibex.lifeStages.1.labelPlural>
+  <Ibex.lifeStages.2.label>kőszáli kecske</Ibex.lifeStages.2.label>
+  <Ibex.lifeStages.2.labelFemale>kőszáli kecske anya</Ibex.lifeStages.2.labelFemale>
+  <Ibex.lifeStages.2.labelFemalePlural>nőstény kőszáli kecskék</Ibex.lifeStages.2.labelFemalePlural>
+  <Ibex.lifeStages.2.labelMale>kőszáli kecskebak</Ibex.lifeStages.2.labelMale>
+  <Ibex.lifeStages.2.labelMalePlural>hím kőszáli kecskék</Ibex.lifeStages.2.labelMalePlural>
+  <Ibex.lifeStages.2.labelPlural>kőszáli kecskék</Ibex.lifeStages.2.labelPlural>
+  
+  <!-- EN: tortoise -->
   <Tortoise.label>teknős</Tortoise.label>
-  <Tortoise.labelPlural>teknősök</Tortoise.labelPlural>
-  <Tortoise.lifeStages.0.label>teknős</Tortoise.lifeStages.0.label>
-  <Tortoise.lifeStages.0.labelPlural>teknősök</Tortoise.lifeStages.0.labelPlural>
-  <Tortoise.lifeStages.0.labelMale>teknős kölyök</Tortoise.lifeStages.0.labelMale>
-  <Tortoise.lifeStages.0.labelMalePlural>hím teknősök</Tortoise.lifeStages.0.labelMalePlural>
-  <Tortoise.lifeStages.0.labelFemale>teknős kölyök</Tortoise.lifeStages.0.labelFemale>
-  <Tortoise.lifeStages.0.labelFemalePlural>nőstény teknősök</Tortoise.lifeStages.0.labelFemalePlural>
-  <Tortoise.lifeStages.1.label>teknős</Tortoise.lifeStages.1.label>
-  <Tortoise.lifeStages.1.labelPlural>teknősök</Tortoise.lifeStages.1.labelPlural>
-  <Tortoise.lifeStages.1.labelMale>fiatal teknős</Tortoise.lifeStages.1.labelMale>
-  <Tortoise.lifeStages.1.labelMalePlural>hím teknősök</Tortoise.lifeStages.1.labelMalePlural>
-  <Tortoise.lifeStages.1.labelFemale>fiatal teknős</Tortoise.lifeStages.1.labelFemale>
-  <Tortoise.lifeStages.1.labelFemalePlural>nőstény teknősök</Tortoise.lifeStages.1.labelFemalePlural>
-  <Tortoise.lifeStages.2.label>teknős</Tortoise.lifeStages.2.label>
-  <Tortoise.lifeStages.2.labelPlural>teknősök</Tortoise.lifeStages.2.labelPlural>
-  <Tortoise.lifeStages.2.labelMale>teknős</Tortoise.lifeStages.2.labelMale>
-  <Tortoise.lifeStages.2.labelMalePlural>hím teknősök</Tortoise.lifeStages.2.labelMalePlural>
-  <Tortoise.lifeStages.2.labelFemale>teknős</Tortoise.lifeStages.2.labelFemale>
-  <Tortoise.lifeStages.2.labelFemalePlural>nőstény teknősök</Tortoise.lifeStages.2.labelFemalePlural>
-  <Tortoise.labelMale>hím teknős</Tortoise.labelMale>
-  <Tortoise.labelMalePlural>hím teknősök</Tortoise.labelMalePlural>
   <Tortoise.labelFemale>nőstény teknős</Tortoise.labelFemale>
   <Tortoise.labelFemalePlural>nőstény teknősök</Tortoise.labelFemalePlural>
+  <Tortoise.labelMale>hím teknős</Tortoise.labelMale>
+  <Tortoise.labelMalePlural>hím teknősök</Tortoise.labelMalePlural>
+  <Tortoise.labelPlural>teknősök</Tortoise.labelPlural>
+  <Tortoise.lifeStages.0.label>teknős</Tortoise.lifeStages.0.label>
+  <Tortoise.lifeStages.0.labelFemale>teknős kölyök</Tortoise.lifeStages.0.labelFemale>
+  <Tortoise.lifeStages.0.labelFemalePlural>nőstény teknősök</Tortoise.lifeStages.0.labelFemalePlural>
+  <Tortoise.lifeStages.0.labelMale>teknős kölyök</Tortoise.lifeStages.0.labelMale>
+  <Tortoise.lifeStages.0.labelMalePlural>hím teknősök</Tortoise.lifeStages.0.labelMalePlural>
+  <Tortoise.lifeStages.0.labelPlural>teknősök</Tortoise.lifeStages.0.labelPlural>
+  <Tortoise.lifeStages.1.label>teknős</Tortoise.lifeStages.1.label>
+  <Tortoise.lifeStages.1.labelFemale>fiatal teknős</Tortoise.lifeStages.1.labelFemale>
+  <Tortoise.lifeStages.1.labelFemalePlural>nőstény teknősök</Tortoise.lifeStages.1.labelFemalePlural>
+  <Tortoise.lifeStages.1.labelMale>fiatal teknős</Tortoise.lifeStages.1.labelMale>
+  <Tortoise.lifeStages.1.labelMalePlural>hím teknősök</Tortoise.lifeStages.1.labelMalePlural>
+  <Tortoise.lifeStages.1.labelPlural>teknősök</Tortoise.lifeStages.1.labelPlural>
+  <Tortoise.lifeStages.2.label>teknős</Tortoise.lifeStages.2.label>
+  <Tortoise.lifeStages.2.labelFemale>teknős</Tortoise.lifeStages.2.labelFemale>
+  <Tortoise.lifeStages.2.labelFemalePlural>nőstény teknősök</Tortoise.lifeStages.2.labelFemalePlural>
+  <Tortoise.lifeStages.2.labelMale>teknős</Tortoise.lifeStages.2.labelMale>
+  <Tortoise.lifeStages.2.labelMalePlural>hím teknősök</Tortoise.lifeStages.2.labelMalePlural>
+  <Tortoise.lifeStages.2.labelPlural>teknősök</Tortoise.lifeStages.2.labelPlural>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>vaddisznó</WildBoar.label>
+  <WildBoar.labelFemale>nőstény vaddisznó</WildBoar.labelFemale>
+  <WildBoar.labelFemalePlural>nőstény vaddisznók</WildBoar.labelFemalePlural>
+  <WildBoar.labelMale>vadkan</WildBoar.labelMale>
+  <WildBoar.labelMalePlural>vadkanok</WildBoar.labelMalePlural>
+  <WildBoar.labelPlural>vaddisznók</WildBoar.labelPlural>
+  <WildBoar.lifeStages.0.label>vaddisznó</WildBoar.lifeStages.0.label>
+  <WildBoar.lifeStages.0.labelFemale>vadmalac</WildBoar.lifeStages.0.labelFemale>
+  <WildBoar.lifeStages.0.labelFemalePlural>nőstény vaddisznók</WildBoar.lifeStages.0.labelFemalePlural>
+  <WildBoar.lifeStages.0.labelMale>vadmalac</WildBoar.lifeStages.0.labelMale>
+  <WildBoar.lifeStages.0.labelMalePlural>hím vaddisznók</WildBoar.lifeStages.0.labelMalePlural>
+  <WildBoar.lifeStages.0.labelPlural>vaddisznók</WildBoar.lifeStages.0.labelPlural>
+  <WildBoar.lifeStages.1.label>vaddisznó</WildBoar.lifeStages.1.label>
+  <WildBoar.lifeStages.1.labelFemale>fiatal vaddisznó</WildBoar.lifeStages.1.labelFemale>
+  <WildBoar.lifeStages.1.labelFemalePlural>nőstény vaddisznók</WildBoar.lifeStages.1.labelFemalePlural>
+  <WildBoar.lifeStages.1.labelMale>fiatal vaddisznó</WildBoar.lifeStages.1.labelMale>
+  <WildBoar.lifeStages.1.labelMalePlural>hím vaddisznók</WildBoar.lifeStages.1.labelMalePlural>
+  <WildBoar.lifeStages.1.labelPlural>vaddisznók</WildBoar.lifeStages.1.labelPlural>
+  <WildBoar.lifeStages.2.label>vaddisznó</WildBoar.lifeStages.2.label>
+  <WildBoar.lifeStages.2.labelFemale>vaddisznó</WildBoar.lifeStages.2.labelFemale>
+  <WildBoar.lifeStages.2.labelFemalePlural>nőstény vaddisznók</WildBoar.lifeStages.2.labelFemalePlural>
+  <WildBoar.lifeStages.2.labelMale>vaddisznó</WildBoar.lifeStages.2.labelMale>
+  <WildBoar.lifeStages.2.labelMalePlural>hím vaddisznók</WildBoar.lifeStages.2.labelMalePlural>
+  <WildBoar.lifeStages.2.labelPlural>vaddisznók</WildBoar.lifeStages.2.labelPlural>
+  
 </LanguageData>

@@ -1,118 +1,225 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <CaravanFormed.label>karaván alakítás</CaravanFormed.label>
-	<CaravanFormed.rulePack.rulesStrings>
-		<li>tale_noun->[PAWN_nameDef] kalandra indul</li>
-		<li>tale_noun->[PAWN_nameDef] karavánt alakít</li>
-		<li>image->[PAWN_nameFull] céltudatosan lépdel [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] a horizontot nézi [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] ellátmány pakol az útra [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] az utat tervezi [circumstance_group]</li>
-		<li>circumstance_phrase->felszerelkezve harcra is</li>
-		<li>circumstance_phrase->felszerelkezve a túléléshez</li>
-		<li>circumstance_phrase->felszerelkezve a felfedezéshez</li>
-		<li>circumstance_phrase->buzgalommal a szemében</li>
-		<li>circumstance_phrase->[adjective] tekintettel</li>
-		<li>desc_sentence->[Quantity_adjphrase] [ally] figyeli az előkészületeket.</li>
-		<li>desc_sentence->[Quantity_adjphrase] [ally] segít az előkészületekben.</li>
-		<li>desc_sentence->[Quantity_adjphrase] [Enemy] hátrál el a helytől.</li>
-		<li>desc_sentence->Egy [TerrainFeature] látható a távolban.</li>
-		<li>desc_sentence->[Quantity_adjphrase] [PersonJob] nézi messzebbről.</li>
-		<li>desc_sentence->[Quantity_adjphrase] [Animal] vonul békésen.</li>
-	</CaravanFormed.rulePack.rulesStrings>
-
-  <CaravanFled.label>karaván elhagyás</CaravanFled.label>
-	<CaravanFled.rulePack.rulesStrings>
-		<li>tale_noun->[PAWN_nameDef] az életéért fut</li>
-		<li>tale_noun->[PAWN_nameDef] menekül</li>
-		<li>tale_noun->[PAWN_nameDef] alig tud elmenekülni</li>
-		<li>tale_noun->[PAWN_nameDef] ellenség üldözi el</li>
-		<li>image->[PAWN_nameFull] őrülten rohan [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] sprintel [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] [TerrainFeature] mögé bújik, rejtőzik [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] harcolva vonul vissza [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] egykedvűen sétál el [circumstance_group]</li>
-		<li>circumstance_phrase->miközben [Quantity_adjphrase] [Enemy] üldözi</li>
-		<li>circumstance_phrase->miközben [Quantity_adjphrase] [Enemy] keresi</li>
-		<li>circumstance_phrase->[Quantity_adjphrase] [Enemy] elől</li>
-		<li>circumstance_phrase->[Quantity_adjphrase] ellenséges [Animal] elől</li>
-		<li>circumstance_phrase->egy [huge] [Enemy] elől</li>
-		<li>desc_sentence->[PAWN_nameDef] üldözői fegyvereiket lóbálják.</li>
-		<li>desc_sentence->[PAWN_nameDef] üldözőit [Color] füst veszi körül.</li>
-		<li>desc_sentence->[PAWN_nameDef] üldözői [AdjectiveAngsty] arcot vágnak.</li>
-		<li>desc_sentence->[PAWN_nameDef] üldözői fegyvereiket lóbálják.</li>
-		<li>desc_sentence->[PAWN_nameDef] izzad.</li>
-		<li>desc_sentence->[PAWN_nameDef] levegő után kapkod.</li>
-	</CaravanFled.rulePack.rulesStrings>
-
+  
+  <!-- EN: caravan ambush defeated -->
   <CaravanAmbushDefeated.label>karaván rajtaütés visszaverése</CaravanAmbushDefeated.label>
-	<CaravanAmbushDefeated.rulePack.rulesStrings>
-		<li>tale_noun->[PAWN_nameDef] karavánjának sikeres megvédése</li>
-		<li>tale_noun->[PAWN_nameDef] egy rajtaütést véd ki</li>
-		<li>image->[PAWN_nameFull] megszervezi az ellenállást, miközben [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] kezében védekezésre emelt [Weapon], miközben [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] kezében akcióba lendülő [Weapon], miközben [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] toronyként magasodva áll, miközben [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] [AdjectiveBadass] arcot vág, miközben [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] [AdjectiveAngsty] arcot vág, miközben [circumstance_group]</li>
-		<li>circumstance_phrase->nekifeszül az előretörő hordának</li>
-		<li>circumstance_phrase->a szekerek körül köröz</li>
-		<li>circumstance_phrase->diadalmasan üvölt</li>
-		<li>circumstance_phrase->fegyverét lóbálja</li>
-		<li>circumstance_phrase->[Gore] borítják</li>
-		<li>desc_sentence->[Quantity_adjphrase] [Enemy] tör előre, fegyvert lóbálva.</li>
-		<li>desc_sentence->Egy óriás [Enemy] tör előre, kezében [Weapon].</li>
-		<li>desc_sentence->[Quantity_adjphrase] [Enemy] tör előre [AdjectiveBadass] arcot vágva.</li>
-		<li>desc_sentence->[Quantity_adjphrase] [Enemy] tör előre [AdjectiveAngsty] arcot vágva.</li>
-		<li>desc_sentence->[Quantity_adjphrase] [Animal] tör előre fénylő [Color] szemekkel.</li>
-		<li>desc_sentence->[Quantity_adjphrase] [Animal] tör előre, [Gore] borítják őket.</li>
-		<li>desc_sentence->A földön mindenütt [Gore].</li>
-		<li>desc_sentence->[Quantity_adjphrase] [PersonJob] menekül.</li>
-		<li>desc_sentence->[Quantity_adjphrase] [Animal] menekül.</li>
-	</CaravanAmbushDefeated.rulePack.rulesStrings>
-
-  <CaravanRemoteMining.label>karaván bányászat</CaravanRemoteMining.label>
-	<CaravanRemoteMining.rulePack.rulesStrings>
-		<li>tale_noun->[PAWN_nameDef] egy gazdag [material_label] telért bányászik távoli vidéken</li>
-		<li>image->[PAWN_nameFull] egy [material_label] falon dolgozik szerszámaival, [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] egy [material_label] darabot tart a kezében, [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] [material_label] falnak dőlve pihen, [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] egy [material_label] kitermelő csapatot koordinál, [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] egy gazdag [material_label] telért vizsgál meg, [circumstance_group]</li>
-		<li>circumstance_phrase->erősen izzadva</li>
-		<li>circumstance_phrase->[AdjectiveFriendly] arcot vágva</li>
-		<li>circumstance_phrase->büszkén mosolyogva</li>
-		<li>circumstance_phrase->elégedett kifejezéssel az arcán</li>
-		<li>circumstance_phrase->maga köré nézve, veszély után kutatva</li>
-		<li>desc_sentence->[Quantity_adjphrase] [ally] segít.</li>
-		<li>desc_sentence->[Quantity_adjphrase] [Animal] állat kóborol a közelben.</li>
-		<li>desc_sentence->Rögtönzött menedék látható a háttérben.</li>
-		<li>desc_sentence->[Quantity_adjphrase] további telér látható arrébb.</li>
-		<li>desc_sentence->Egy [TerrainFeature] látható a távolban.</li>
-		<li>desc_sentence->[PAWN_nameDef] izzadt és mocskos a munkától.</li>
-	</CaravanRemoteMining.rulePack.rulesStrings>
-
+  <!-- EN:
+    <li>tale_noun->a successful defense of [PAWN_nameDef]'s caravan</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan fighting off an ambush</li>
+    <li>image->[PAWN_nameFull] organizing resistance while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] wielding a [Weapon] defensively while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] retaliating with [PAWN_possessive] [Weapon] while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] standing as tall as a building while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] wearing a [AdjectiveBadass] expression while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] wearing a [AdjectiveAngsty] expression while [circumstance_group]</li>
+    <li>circumstance_phrase->bracing against the advancing horde</li>
+    <li>circumstance_phrase->circling the wagons</li>
+    <li>circumstance_phrase->roaring in victory</li>
+    <li>circumstance_phrase->brandishing [Weapon]s</li>
+    <li>circumstance_phrase->covered in [Gore]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s advance, brandishing [Weapon]s.</li>
+    <li>desc_sentence->A huge [Enemy] advances, brandishing a [Weapon].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s advance with a [AdjectiveBadass] look in their eyes.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s advance with a [AdjectiveAngsty] look in their eyes.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s advance with glowing [Color] eyes.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s advance, covered in [Gore].</li>
+    <li>desc_sentence->The ground is coated in [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+  -->
+  <CaravanAmbushDefeated.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] karavánjának sikeres megvédése</li>
+    <li>tale_noun->[PAWN_nameDef] egy rajtaütést véd ki</li>
+    <li>image->[PAWN_nameFull] megszervezi az ellenállást, miközben [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] kezében védekezésre emelt [Weapon], miközben [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] kezében akcióba lendülő [Weapon], miközben [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] toronyként magasodva áll, miközben [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [AdjectiveBadass] arcot vág, miközben [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [AdjectiveAngsty] arcot vág, miközben [circumstance_group]</li>
+    <li>circumstance_phrase->nekifeszül az előretörő hordának</li>
+    <li>circumstance_phrase->a szekerek körül köröz</li>
+    <li>circumstance_phrase->diadalmasan üvölt</li>
+    <li>circumstance_phrase->fegyverét lóbálja</li>
+    <li>circumstance_phrase->[Gore] borítják</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] tör előre, fegyvert lóbálva.</li>
+    <li>desc_sentence->Egy óriás [Enemy] tör előre, kezében [Weapon].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] tör előre [AdjectiveBadass] arcot vágva.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] tör előre [AdjectiveAngsty] arcot vágva.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] tör előre fénylő [Color] szemekkel.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] tör előre, [Gore] borítják őket.</li>
+    <li>desc_sentence->A földön mindenütt [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] menekül.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] menekül.</li>
+  </CaravanAmbushDefeated.rulePack.rulesStrings>
+  
+  <!-- EN: caravan assault successful -->
   <CaravanAssaultSuccessful.label>sikeres karaván támadás</CaravanAssaultSuccessful.label>
-	<CaravanAssaultSuccessful.rulePack.rulesStrings>
-		<li>tale_noun->[PAWN_nameDef] legyőz egy ellenséges erősséget a karavánjával</li>
-		<li>image->[PAWN_nameFull] az [Enemy] felé rohan, [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] kezében [Weapon], [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] kezében [Weapon], [circumstance_group]</li>
-		<li>image->[PAWN_nameFull] toronyként magasodva áll, miközben [circumstance_group]</li>
-		<li>circumstance_phrase->arcán [AdjectiveBadass] kifejezés látható</li>
-		<li>circumstance_phrase->arcán [AdjectiveAngsty] kifejezés látható</li>
-		<li>circumstance_phrase->diadalmasan üvölt</li>
-		<li>circumstance_phrase->[Gore] borítják</li>
-		<li>desc_sentence->[Quantity_adjphrase] [Enemy] retteg a támadástól.</li>
-		<li>desc_sentence->[Quantity_adjphrase] [Enemy] menekül el.</li>
-		<li>desc_sentence->[Quantity_adjphrase] [Enemy] láthatóan sérült.</li>
-		<li>desc_sentence->Egy [Community] ég a háttérben.</li>
-		<li>desc_sentence->Egy [Community] füstöl háttérben.</li>
-		<li>desc_sentence->A földet [Gore] borítják.</li>
-		<li>desc_sentence->[Quantity_adjphrase] [PersonJob] menekül el.</li>
-		<li>desc_sentence->[Quantity_adjphrase] [Animal]  menekül el.</li>
-	</CaravanAssaultSuccessful.rulePack.rulesStrings>
-
-
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan defeating an enemy stronghold</li>
+    <li>image->[PAWN_nameFull] running towards a [Enemy], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] wielding a [Weapon], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] swinging a [Weapon], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] standing as tall as a building, [circumstance_group]</li>
+    <li>circumstance_phrase->wearing a [AdjectiveBadass] look in [PAWN_possessive] eyes</li>
+    <li>circumstance_phrase->wearing a [AdjectiveAngsty] look in [PAWN_possessive] eyes</li>
+    <li>circumstance_phrase->roaring in victory</li>
+    <li>circumstance_phrase->covered in [Gore]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s cower from the assault.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are visibly wounded.</li>
+    <li>desc_sentence->A [Community] burns in the distance.</li>
+    <li>desc_sentence->A [Community] smokes in the distance.</li>
+    <li>desc_sentence->The ground is coated in [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+  -->
+  <CaravanAssaultSuccessful.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] legyőz egy ellenséges erősséget a karavánjával</li>
+    <li>image->[PAWN_nameFull] az [Enemy] felé rohan, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] kezében [Weapon], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] kezében [Weapon], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] toronyként magasodva áll, miközben [circumstance_group]</li>
+    <li>circumstance_phrase->arcán [AdjectiveBadass] kifejezés látható</li>
+    <li>circumstance_phrase->arcán [AdjectiveAngsty] kifejezés látható</li>
+    <li>circumstance_phrase->diadalmasan üvölt</li>
+    <li>circumstance_phrase->[Gore] borítják</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] retteg a támadástól.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] menekül el.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] láthatóan sérült.</li>
+    <li>desc_sentence->Egy [Community] ég a háttérben.</li>
+    <li>desc_sentence->Egy [Community] füstöl háttérben.</li>
+    <li>desc_sentence->A földet [Gore] borítják.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] menekül el.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]  menekül el.</li>
+  </CaravanAssaultSuccessful.rulePack.rulesStrings>
+  
+  <!-- EN: caravan fled -->
+  <CaravanFled.label>karaván elhagyás</CaravanFled.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan fleeing danger</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan escaping danger</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan narrowly escaping danger</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan being chased away by enemies</li>
+    <li>image->[PAWN_nameFull] running frantically [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sprinting [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] tucked behind a [TerrainFeature], hiding [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] putting up a fighting retreat [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] casually strolling away [circumstance_group]</li>
+    <li>circumstance_phrase->as [Quantity_adjphrase] [Enemy]s chase</li>
+    <li>circumstance_phrase->while [Quantity_adjphrase] [Enemy]s search</li>
+    <li>circumstance_phrase->from [Quantity_adjphrase] [Enemy]s</li>
+    <li>circumstance_phrase->from [Quantity_adjphrase] enemy [Animal]s</li>
+    <li>circumstance_phrase->from a [huge] [Enemy]</li>
+    <li>desc_sentence->[PAWN_nameDef]'s pursuers are brandishing [Weapon]s.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s pursuers are wreathed in [Color] smoke.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s pursuers wear [AdjectiveAngsty] expressions.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s pursuers are brandishing [Weapon]s.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweating.</li>
+    <li>desc_sentence->[PAWN_nameDef] is gasping for breath.</li>
+  -->
+  <CaravanFled.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] az életéért fut</li>
+    <li>tale_noun->[PAWN_nameDef] menekül</li>
+    <li>tale_noun->[PAWN_nameDef] alig tud elmenekülni</li>
+    <li>tale_noun->[PAWN_nameDef] ellenség üldözi el</li>
+    <li>image->[PAWN_nameFull] őrülten rohan [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sprintel [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [TerrainFeature] mögé bújik, rejtőzik [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] harcolva vonul vissza [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] egykedvűen sétál el [circumstance_group]</li>
+    <li>circumstance_phrase->miközben [Quantity_adjphrase] [Enemy] üldözi</li>
+    <li>circumstance_phrase->miközben [Quantity_adjphrase] [Enemy] keresi</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] [Enemy] elől</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] ellenséges [Animal] elől</li>
+    <li>circumstance_phrase->egy [huge] [Enemy] elől</li>
+    <li>desc_sentence->[PAWN_nameDef] üldözői fegyvereiket lóbálják.</li>
+    <li>desc_sentence->[PAWN_nameDef] üldözőit [Color] füst veszi körül.</li>
+    <li>desc_sentence->[PAWN_nameDef] üldözői [AdjectiveAngsty] arcot vágnak.</li>
+    <li>desc_sentence->[PAWN_nameDef] üldözői fegyvereiket lóbálják.</li>
+    <li>desc_sentence->[PAWN_nameDef] izzad.</li>
+    <li>desc_sentence->[PAWN_nameDef] levegő után kapkod.</li>
+  </CaravanFled.rulePack.rulesStrings>
+  
+  <!-- EN: caravan formed -->
+  <CaravanFormed.label>karaván alakítás</CaravanFormed.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] departing for adventure</li>
+    <li>tale_noun->[PAWN_nameDef] forming a caravan</li>
+    <li>image->[PAWN_nameFull] striding forward purposefully [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] looking towards the horizon [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] packing supplies for a journey [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] planning a journey [circumstance_group]</li>
+    <li>circumstance_phrase->and equipped for a fight</li>
+    <li>circumstance_phrase->and equipped for survival</li>
+    <li>circumstance_phrase->and equipped for exploration</li>
+    <li>circumstance_phrase->with an eager look in [PAWN_possessive] eyes</li>
+    <li>circumstance_phrase->with a [AdjectiveAny] look in [PAWN_possessive] eyes</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s watch the preparations.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s help with the preparations.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s shrink away from the scene.</li>
+    <li>desc_sentence->A [TerrainFeature] is visible in the distance.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s watch from a distance.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully.</li>
+  -->
+  <CaravanFormed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] kalandra indul</li>
+    <li>tale_noun->[PAWN_nameDef] karavánt alakít</li>
+    <li>image->[PAWN_nameFull] céltudatosan lépdel [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] a horizontot nézi [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ellátmány pakol az útra [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] az utat tervezi [circumstance_group]</li>
+    <li>circumstance_phrase->felszerelkezve harcra is</li>
+    <li>circumstance_phrase->felszerelkezve a túléléshez</li>
+    <li>circumstance_phrase->felszerelkezve a felfedezéshez</li>
+    <li>circumstance_phrase->buzgalommal a szemében</li>
+    <li>circumstance_phrase->[adjective] tekintettel</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally] figyeli az előkészületeket.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally] segít az előkészületekben.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] hátrál el a helytől.</li>
+    <li>desc_sentence->Egy [TerrainFeature] látható a távolban.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] nézi messzebbről.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] vonul békésen.</li>
+  </CaravanFormed.rulePack.rulesStrings>
+  
+  <!-- EN: caravan remote mining -->
+  <CaravanRemoteMining.label>karaván bányászat</CaravanRemoteMining.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan mining a rich vein of [MATERIAL_label] in a foreign land</li>
+    <li>image->[PAWN_nameFull] working a [MATERIAL_label] wall with mining tools, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] holding up a chunk of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] resting against a wall of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] coordinating an excavation team against a rich vein of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] carefully inspecting a rich vein of [MATERIAL_label], [circumstance_group]</li>
+    <li>circumstance_phrase->sweating heavily</li>
+    <li>circumstance_phrase->wearing a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->smiling proudly</li>
+    <li>circumstance_phrase->a satisfied expression on [PAWN_possessive] face</li>
+    <li>circumstance_phrase->looking around warily for danger</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s assist.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander the area.</li>
+    <li>desc_sentence->There is a makeshift shelter in the background.</li>
+    <li>desc_sentence->[Quantity_adjphrase] further veins are visible in the distance.</li>
+    <li>desc_sentence->A [TerrainFeature] is visible in the distance.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
+  -->
+  <CaravanRemoteMining.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] egy gazdag [material_label] telért bányászik távoli vidéken</li>
+    <li>image->[PAWN_nameFull] egy [material_label] falon dolgozik szerszámaival, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] egy [material_label] darabot tart a kezében, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [material_label] falnak dőlve pihen, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] egy [material_label] kitermelő csapatot koordinál, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] egy gazdag [material_label] telért vizsgál meg, [circumstance_group]</li>
+    <li>circumstance_phrase->erősen izzadva</li>
+    <li>circumstance_phrase->[AdjectiveFriendly] arcot vágva</li>
+    <li>circumstance_phrase->büszkén mosolyogva</li>
+    <li>circumstance_phrase->elégedett kifejezéssel az arcán</li>
+    <li>circumstance_phrase->maga köré nézve, veszély után kutatva</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally] segít.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] állat kóborol a közelben.</li>
+    <li>desc_sentence->Rögtönzött menedék látható a háttérben.</li>
+    <li>desc_sentence->[Quantity_adjphrase] további telér látható arrébb.</li>
+    <li>desc_sentence->Egy [TerrainFeature] látható a távolban.</li>
+    <li>desc_sentence->[PAWN_nameDef] izzadt és mocskos a munkától.</li>
+  </CaravanRemoteMining.rulePack.rulesStrings>
+  
 </LanguageData>

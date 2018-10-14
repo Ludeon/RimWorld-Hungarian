@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AmbrosiaHigh.label>ambrózia mámor</AmbrosiaHigh.label>
-  <AmbrosiaTolerance.label>ambrózia tolerancia</AmbrosiaTolerance.label>
-  <AmbrosiaTolerance.stages.small-0.label>kicsi</AmbrosiaTolerance.stages.small-0.label>
-  <AmbrosiaTolerance.stages.small-1.label>kicsi</AmbrosiaTolerance.stages.small-1.label>
-  <AmbrosiaTolerance.stages.large.label>nagy</AmbrosiaTolerance.stages.large.label>
-  <AmbrosiaTolerance.stages.massive.label>óriási</AmbrosiaTolerance.stages.massive.label>
+  
+  <!-- EN: ambrosia addiction -->
   <AmbrosiaAddiction.label>ambrózia függés</AmbrosiaAddiction.label>
+  <!-- EN: withdrawal -->
   <AmbrosiaAddiction.stages.withdrawal.label>elvonás</AmbrosiaAddiction.stages.withdrawal.label>
+  
+  <!-- EN: ambrosia warmth -->
+  <AmbrosiaHigh.label>ambrózia mámor</AmbrosiaHigh.label>
+  
+  <!-- EN: ambrosia tolerance -->
+  <AmbrosiaTolerance.label>ambrózia tolerancia</AmbrosiaTolerance.label>
+  <!-- EN: small -->
+  <AmbrosiaTolerance.stages.small-0.label>kicsi</AmbrosiaTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <AmbrosiaTolerance.stages.small-1.label>kicsi</AmbrosiaTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <AmbrosiaTolerance.stages.large.label>nagy</AmbrosiaTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <AmbrosiaTolerance.stages.massive.label>óriási</AmbrosiaTolerance.stages.massive.label>
+  
 </LanguageData>

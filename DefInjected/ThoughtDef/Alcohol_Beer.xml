@@ -1,22 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Inebriated.stages.alcohol_warmth.label>ittas (rejtett)</Inebriated.stages.alcohol_warmth.label>
-  <Inebriated.stages.alcohol_warmth.description>Nem kellene, hogy látszódjon.</Inebriated.stages.alcohol_warmth.description>
-  <Inebriated.stages.quite_inebriated.label>ittas (spicces)</Inebriated.stages.quite_inebriated.label>
-  <Inebriated.stages.quite_inebriated.description>Egy kissé jobban ellazulok ezután az ital után. Jó.</Inebriated.stages.quite_inebriated.description>
-  <Inebriated.stages.drunk.label>ittas (kótyagos)</Inebriated.stages.drunk.label>
-  <Inebriated.stages.drunk.description>Kicsit ingadozom. Ez egész élvezetes!</Inebriated.stages.drunk.description>
-  <Inebriated.stages.hammered.label>ittas (részeg)</Inebriated.stages.hammered.label>
-  <Inebriated.stages.hammered.description>Olyan szabadnak és erősnek érzem magam! Ez remek!</Inebriated.stages.hammered.description>
-  <!-- <Inebriated.stages.4.label>ittas (tökrészeg)</Inebriated.stages.4.label> -->
-  <!-- <Inebriated.stages.4.description>Hűha! Mi történik?</Inebriated.stages.4.description> -->
-  <Hungover.stages.mild_hangover.label>másnapos (enyhe)</Hungover.stages.mild_hangover.label>
-  <Hungover.stages.mild_hangover.description>Alig fáj a fejem.</Hungover.stages.mild_hangover.description>
-  <Hungover.stages.serious_hangover.label>másnapos (erős)</Hungover.stages.serious_hangover.label>
-  <Hungover.stages.serious_hangover.description>Hasogat a fejem a sok piától.</Hungover.stages.serious_hangover.description>
-  <Hungover.stages.pounding_hangover.label>másnapos (rendkívüli)</Hungover.stages.pounding_hangover.label>
-  <Hungover.stages.pounding_hangover.description>Mintha egy harkály akarna lyukat fúrni a fejembe.</Hungover.stages.pounding_hangover.description>
-  <Hungover.stages.hung_over_hidden.label>másnapos (rejtett)</Hungover.stages.hung_over_hidden.label>
+  
+  <!-- EN: alcohol withdrawal -->
   <AlcoholWithdrawal.stages.alcohol_withdrawal.label>alkohol elvonás</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
+  <!-- EN: Feeling shaky. Everything pisses me off. I keep thinking of drinking. -->
   <AlcoholWithdrawal.stages.alcohol_withdrawal.description>Reszketek. Minden felidegesít. Egyfolytában az ivás jár a fejemben.</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
+  
+  <!-- EN: mild hangover -->
+  <Hungover.stages.mild_hangover.label>másnapos (enyhe)</Hungover.stages.mild_hangover.label>
+  <!-- EN: The headache is almost gone. -->
+  <Hungover.stages.mild_hangover.description>Alig fáj a fejem.</Hungover.stages.mild_hangover.description>
+  <!-- EN: serious hangover -->
+  <Hungover.stages.serious_hangover.label>másnapos (erős)</Hungover.stages.serious_hangover.label>
+  <!-- EN: My head hurts from all that liquor. -->
+  <Hungover.stages.serious_hangover.description>Hasogat a fejem a sok piától.</Hungover.stages.serious_hangover.description>
+  <!-- EN: pounding hangover -->
+  <Hungover.stages.pounding_hangover.label>másnapos (rendkívüli)</Hungover.stages.pounding_hangover.label>
+  <!-- EN: It feels like a gaggle of geese are pecking at my skull. -->
+  <Hungover.stages.pounding_hangover.description>Mintha egy harkály akarna lyukat fúrni a fejembe.</Hungover.stages.pounding_hangover.description>
+  <!-- EN: hung over (hidden) -->
+  <Hungover.stages.hung_over_hidden.label>másnapos (rejtett)</Hungover.stages.hung_over_hidden.label>
+  
+  <!-- EN: alcohol warmth -->
+  <Inebriated.stages.alcohol_warmth.label>ittas (rejtett)</Inebriated.stages.alcohol_warmth.label>
+  <!-- EN: I just feel a bit more relaxed after that drink. That's good. -->
+  <Inebriated.stages.alcohol_warmth.description>Nem kellene, hogy látszódjon.</Inebriated.stages.alcohol_warmth.description>
+  <!-- EN: quite inebriated -->
+  <Inebriated.stages.quite_inebriated.label>ittas (spicces)</Inebriated.stages.quite_inebriated.label>
+  <!-- EN: I'm a bit wobbly! And this is quite enjoyable. -->
+  <Inebriated.stages.quite_inebriated.description>Egy kissé jobban ellazulok ezután az ital után. Jó.</Inebriated.stages.quite_inebriated.description>
+  <!-- EN: drunk -->
+  <Inebriated.stages.drunk.label>ittas (kótyagos)</Inebriated.stages.drunk.label>
+  <!-- EN: I feel so uninhibited and unafraid! This is a great time! -->
+  <Inebriated.stages.drunk.description>Kicsit ingadozom. Ez egész élvezetes!</Inebriated.stages.drunk.description>
+  <!-- EN: hammered -->
+  <Inebriated.stages.hammered.label>ittas (részeg)</Inebriated.stages.hammered.label>
+  <!-- EN: Wooo! What's going on? -->
+  <Inebriated.stages.hammered.description>Olyan szabadnak és erősnek érzem magam! Ez remek!</Inebriated.stages.hammered.description>
+  
 </LanguageData>

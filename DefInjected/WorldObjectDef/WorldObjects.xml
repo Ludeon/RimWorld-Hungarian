@@ -1,27 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Caravan.label>Karaván</Caravan.label>
-  <Caravan.description>Egy csomó vándorló ember.</Caravan.description>
-  <Settlement.label>Frakció bázis</Settlement.label>
-  <Settlement.description>Az egyik frakció bázisa.</Settlement.description>
-  <AbandonedSettlement.label>Elhagyatott frakció bázis</AbandonedSettlement.label>
-  <AbandonedSettlement.description>Az egyik frakció egyik elhagyatott bázisa.</AbandonedSettlement.description>
-  <DestroyedSettlement.label>Elpusztított frakció bázis</DestroyedSettlement.label>
-  <DestroyedSettlement.description>Egy elpusztított frakció bázis</DestroyedSettlement.description>
-  <!-- <JourneyDestination.label>Végcél</JourneyDestination.label> -->
-  <!-- <JourneyDestination.description>Egy elrejtett űrhajó pozíciója, aminek segítségével elhagyhatod a bolygót.</JourneyDestination.description> -->
-  <AttackedNonPlayerCaravan.label>Megtámadott karaván</AttackedNonPlayerCaravan.label>
-  <AttackedNonPlayerCaravan.description>Egy karaván támadás alatt.</AttackedNonPlayerCaravan.description>
-  <TravelingTransportPods.label>Szállítókapszula</TravelingTransportPods.label>
-  <TravelingTransportPods.description>Mozgásban lévő szállítókapszula.</TravelingTransportPods.description>
-  <RoutePlannerWaypoint.label>állomás</RoutePlannerWaypoint.label>
-  <RoutePlannerWaypoint.description>Ideiglenes megálló.</RoutePlannerWaypoint.description>
   
+  <!-- EN: abandoned settlement -->
+  <AbandonedSettlement.label>Elhagyatott frakció bázis</AbandonedSettlement.label>
+  <!-- EN: An abandoned settlement. -->
+  <AbandonedSettlement.description>Az egyik frakció egyik elhagyatott bázisa.</AbandonedSettlement.description>
+  
+  <!-- EN: attacked caravan -->
+  <AttackedNonPlayerCaravan.label>Megtámadott karaván</AttackedNonPlayerCaravan.label>
+  <!-- EN: A caravan under attack. -->
+  <AttackedNonPlayerCaravan.description>Egy karaván támadás alatt.</AttackedNonPlayerCaravan.description>
+  
+  <!-- EN: caravan -->
+  <Caravan.label>Karaván</Caravan.label>
+  <!-- EN: A group of traveling people. -->
+  <Caravan.description>Egy csomó vándorló ember.</Caravan.description>
+  
+  <!-- EN: destroyed settlement -->
+  <DestroyedSettlement.label>Elpusztított frakció bázis</DestroyedSettlement.label>
+  <!-- EN: A destroyed settlement. -->
+  <DestroyedSettlement.description>Egy elpusztított frakció bázis</DestroyedSettlement.description>
+  
+  <!-- EN: landed ship -->
+  <EscapeShip.label>űrhajó</EscapeShip.label>
+  <!-- EN: The location of a hidden ship which can help you escape the planet. -->
+  <EscapeShip.description>Rejtett űrhajó helye, ami segíthet elmenekülni a bolygóról.</EscapeShip.description>
+  
+  <!-- EN: peace talks -->
   <PeaceTalks.label>béketárgyalás</PeaceTalks.label>
+  <!-- EN: A site designated for peace talks. -->
   <PeaceTalks.description>Béketárgyalásra kijelölt hely.</PeaceTalks.description>
   
-  <EscapeShip.label>űrhajó</EscapeShip.label>
-  <EscapeShip.description>Rejtett űrhajó helye, ami segíthet elmenekülni a bolygóról.</EscapeShip.description>
-
-
+  <!-- EN: waypoint -->
+  <RoutePlannerWaypoint.label>állomás</RoutePlannerWaypoint.label>
+  <!-- EN: A temporary waypoint. -->
+  <RoutePlannerWaypoint.description>Ideiglenes megálló.</RoutePlannerWaypoint.description>
+  
+  <!-- EN: settlement -->
+  <Settlement.label>Frakció bázis</Settlement.label>
+  <!-- EN: A base of one of the factions. -->
+  <Settlement.description>Az egyik frakció bázisa.</Settlement.description>
+  
+  <!-- EN: transport pods -->
+  <TravelingTransportPods.label>Szállítókapszula</TravelingTransportPods.label>
+  <!-- EN: Transport pods in flight. -->
+  <TravelingTransportPods.description>Mozgásban lévő szállítókapszula.</TravelingTransportPods.description>
+  
 </LanguageData>

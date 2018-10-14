@@ -1,42 +1,91 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MoveSpeed.label>mozgási sebesség</MoveSpeed.label>
-  <MoveSpeed.description>A személy mozgási sebessége cella per másodpercben.</MoveSpeed.description>
-  <MoveSpeed.formatString>{0} c/mp</MoveSpeed.formatString>
-  <MentalBreakThreshold.label>idegösszeomlás küszöb</MentalBreakThreshold.label>
-  <MentalBreakThreshold.description>Ha személy hangulata ez alá az érték alá esik, bármikor összeomolhat.</MentalBreakThreshold.description>
-  <PsychicSensitivity.label>pszichotikus érzékenység</PsychicSensitivity.label>
-  <PsychicSensitivity.description>Pszichotikus jelenségek befolyása erre a személyre.</PsychicSensitivity.description>
-  <ToxicSensitivity.label>méreg érzékenység</ToxicSensitivity.label>
-  <ToxicSensitivity.description>Mérgező jelenségek befolyása erre a személyre.</ToxicSensitivity.description>
-  <GlobalLearningFactor.label>tanulási képesség</GlobalLearningFactor.label>
-  <GlobalLearningFactor.description>Milyen gyorsan képes a személy valamit megtanulni.</GlobalLearningFactor.description>
-  <EatingSpeed.label>evés sebessége</EatingSpeed.label>
-  <EatingSpeed.description>Milyen gyorsan képes a személy enni.</EatingSpeed.description>
-  <ComfyTemperatureMin.label>min. optimális hőmérséklet</ComfyTemperatureMin.label>
-  <ComfyTemperatureMin.description>E hőmérséklet alatt a személy rosszul érzi magát. Szignifikánsan e hőmérséklet alatt hipotermia alakul ki, majd fagyás, ami halálhoz vezet.</ComfyTemperatureMin.description>
-  <ComfyTemperatureMax.label>max. optimális hőmérséklet</ComfyTemperatureMax.label>
-  <ComfyTemperatureMax.description>E hőmérséklet felett a személy rosszul érzi magát. Szignifikánsan e hőmérséklet felett hőguta alakul ki, ami halálhoz vezet.</ComfyTemperatureMax.description>
-  <ImmunityGainSpeed.label>immunitás elérési sebesség</ImmunityGainSpeed.label>
-  <ImmunityGainSpeed.description>Az a sebesség, amivel a személy immunitást ér el bizonyos betegségre. Ha ez túl alacsony az alany belehal a betegségbe mielőtt immunissá válna.</ImmunityGainSpeed.description>
+  
+  <!-- EN: carrying capacity -->
   <CarryingCapacity.label>teherhordó kapacitás</CarryingCapacity.label>
+  <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators. This is separate from the ability to carry cargo on long cross-world trips. -->
   <CarryingCapacity.description>Maximálisan ennyit képes ez a személy szállítani.</CarryingCapacity.description>
-  <MeatAmount.label>hús mennyiség</MeatAmount.label>
-  <MeatAmount.description>A hús mennyisége, ami eme teremtmény lemészárlásával nyerhető.</MeatAmount.description>
+  
+  <!-- EN: Maximum comfortable temperature -->
+  <ComfyTemperatureMax.label>max. optimális hőmérséklet</ComfyTemperatureMax.label>
+  <!-- EN: Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die. -->
+  <ComfyTemperatureMax.description>E hőmérséklet felett a személy rosszul érzi magát. Szignifikánsan e hőmérséklet felett hőguta alakul ki, ami halálhoz vezet.</ComfyTemperatureMax.description>
+  
+  <!-- EN: Minimum comfortable temperature -->
+  <ComfyTemperatureMin.label>min. optimális hőmérséklet</ComfyTemperatureMin.label>
+  <!-- EN: Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
+  <ComfyTemperatureMin.description>E hőmérséklet alatt a személy rosszul érzi magát. Szignifikánsan e hőmérséklet alatt hipotermia alakul ki, majd fagyás, ami halálhoz vezet.</ComfyTemperatureMin.description>
+  
+  <!-- EN: eating speed -->
+  <EatingSpeed.label>evés sebessége</EatingSpeed.label>
+  <!-- EN: A multiplier on eating speed. -->
+  <EatingSpeed.description>Milyen gyorsan képes a személy enni.</EatingSpeed.description>
+  
+  <!-- EN: foraged food amount -->
+  <ForagedNutritionPerDay.label>gyűjtögetés</ForagedNutritionPerDay.label>
+  <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
+  <ForagedNutritionPerDay.description>Ennyi tápanyagot gyűjt az alany automatikusan, miközben karavánnal utazik.</ForagedNutritionPerDay.description>
+  
+  <!-- EN: global learning factor -->
+  <GlobalLearningFactor.label>tanulási képesség</GlobalLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for all skills. -->
+  <GlobalLearningFactor.description>Milyen gyorsan képes a személy valamit megtanulni.</GlobalLearningFactor.description>
+  
+  <!-- EN: hunger rate multiplier -->
+  <HungerRateMultiplier.label>éhség szorzó</HungerRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature becomes hungry. -->
+  <HungerRateMultiplier.description>Befolyásolja, hogy milyen gyorsan lesz újra éhes az alany.</HungerRateMultiplier.description>
+  
+  <!-- EN: immunity gain speed -->
+  <ImmunityGainSpeed.label>immunitás elérési sebesség</ImmunityGainSpeed.label>
+  <!-- EN: The speed at which this character gains immunity to diseases. If this is too slow, the character will die from a disease before developing immunity. -->
+  <ImmunityGainSpeed.description>Az a sebesség, amivel a személy immunitást ér el bizonyos betegségre. Ha ez túl alacsony az alany belehal a betegségbe mielőtt immunissá válna.</ImmunityGainSpeed.description>
+  
+  <!-- EN: leather amount -->
   <LeatherAmount.label>bőr mennyiség</LeatherAmount.label>
+  <!-- EN: The amount of leather yielded when butchering this creature. -->
   <LeatherAmount.description>A bőr mennyisége, ami eme teremtmény lemészárlásával nyerhető.</LeatherAmount.description>
+  
+  <!-- EN: meat amount -->
+  <MeatAmount.label>hús mennyiség</MeatAmount.label>
+  <!-- EN: The amount of meat yielded when butchering this creature. -->
+  <MeatAmount.description>A hús mennyisége, ami eme teremtmény lemészárlásával nyerhető.</MeatAmount.description>
+  
+  <!-- EN: mental break threshold -->
+  <MentalBreakThreshold.label>idegösszeomlás küszöb</MentalBreakThreshold.label>
+  <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break. The severity of the mental break will depend on how far below the threshold they are. -->
+  <MentalBreakThreshold.description>Ha személy hangulata ez alá az érték alá esik, bármikor összeomolhat.</MentalBreakThreshold.description>
+  
+  <!-- EN: minimum handling skill -->
   <MinimumHandlingSkill.label>min. gondozás készség</MinimumHandlingSkill.label>
+  <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
   <MinimumHandlingSkill.description>Ennél kisebb gondozás készséggel ez a teremtmény nem szelídíthető vagy idomítható.</MinimumHandlingSkill.description>
+  
+  <!-- EN: move speed -->
+  <MoveSpeed.label>mozgási sebesség</MoveSpeed.label>
+  <!-- EN: Speed of movement in cells per second. -->
+  <MoveSpeed.description>A személy mozgási sebessége cella per másodpercben.</MoveSpeed.description>
+  <!-- EN: {0} c/s -->
+  <MoveSpeed.formatString>{0} c/mp</MoveSpeed.formatString>
+  
+  <!-- EN: pain shock threshold -->
   <PainShockThreshold.label>fájdalomküszöb</PainShockThreshold.label>
+  <!-- EN: The pain level at which this creature is downed from pain. -->
   <PainShockThreshold.description>Az az érték, aminél az alany földre kerül a fájdalomtól.</PainShockThreshold.description>
   
-  <HungerRateMultiplier.label>éhség szorzó</HungerRateMultiplier.label>
-  <HungerRateMultiplier.description>Befolyásolja, hogy milyen gyorsan lesz újra éhes az alany.</HungerRateMultiplier.description>
-
+  <!-- EN: psychic sensitivity -->
+  <PsychicSensitivity.label>pszichotikus érzékenység</PsychicSensitivity.label>
+  <!-- EN: Multiplier on the impact of psychic phenomena affecting this person. More sensitive people both suffer more from negative psychic effects, and benefit more from positive ones. -->
+  <PsychicSensitivity.description>Pszichotikus jelenségek befolyása erre a személyre.</PsychicSensitivity.description>
+  
+  <!-- EN: rest rate multiplier -->
   <RestRateMultiplier.label>pihenés szorzó</RestRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
   <RestRateMultiplier.description>Befolyásolja, hogy mennyi alvás szükséges adott mennyiségű pihenéshez.</RestRateMultiplier.description>
   
-  <ForagedNutritionPerDay.label>gyűjtögetés</ForagedNutritionPerDay.label>
-  <ForagedNutritionPerDay.description>Ennyi tápanyagot gyűjt az alany automatikusan, miközben karavánnal utazik.</ForagedNutritionPerDay.description>
-
+  <!-- EN: toxic sensitivity -->
+  <ToxicSensitivity.label>méreg érzékenység</ToxicSensitivity.label>
+  <!-- EN: Multiplier on the impact of toxic buildup on this creature. -->
+  <ToxicSensitivity.description>Mérgező jelenségek befolyása erre a személyre.</ToxicSensitivity.description>
+  
 </LanguageData>

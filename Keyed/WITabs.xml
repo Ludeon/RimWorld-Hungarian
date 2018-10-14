@@ -18,8 +18,8 @@
   <TabCaravanItems>Tárgyak</TabCaravanItems>
   
   <!-- Misc -->
-  <!-- EN: Abandon {{1_labelShort}}x {1_labelShort} -->
-  <AbandonSliderText>Hátrahagy {0} darabot ebből: {1_labelShort}</AbandonSliderText>
+  <!-- EN: Abandon {{0}}x {1_labelShort} -->
+  <AbandonSliderText>Hátrahagy: {1_labelShort} x{{0}}</AbandonSliderText>
   <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
   <ConfirmAbandonItemDialog>Biztosan hátra akarod hagyni ezt: {1_label}?\n\nA hátrahagyott tárgyak eltűnnek, sosem kaphatod vissza őket.</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->

@@ -1,52 +1,145 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <HaulToCell.reportString>cipeli ezt: TargetA.</HaulToCell.reportString>
-  <HaulToContainer.reportString>cipeli ezt: TargetA.</HaulToContainer.reportString>
-  <Steal.reportString>ellopja ezt: TargetA.</Steal.reportString>
-  <Kidnap.reportString>elrabolja őt: TargetA.</Kidnap.reportString>
-  <CarryDownedPawnToExit.reportString>cipeli őt: TargetA.</CarryDownedPawnToExit.reportString>
-  <Rescue.reportString>megmenti őt: TargetA.</Rescue.reportString>
-  <CarryToCryptosleepCasket.reportString>hibernálóba cipeli őt: TargetA.</CarryToCryptosleepCasket.reportString>
-  <Capture.reportString>elfogja őt: TargetA.</Capture.reportString>
+  
+  <!-- EN: arresting TargetA. -->
   <Arrest.reportString>letartóztatja őt: TargetA.</Arrest.reportString>
-  <ReleasePrisoner.reportString>elengedi őt: TargetA.</ReleasePrisoner.reportString>
-  <EscortPrisonerToBed.reportString>TargetA foglyot kíséri.</EscortPrisonerToBed.reportString>
-  <TakeWoundedPrisonerToBed.reportString>sérült TargetA foglyot betegágyba viszi.</TakeWoundedPrisonerToBed.reportString>
-  <TakeToBedToOperate.reportString>betegágyba viszi őt: TargetA.</TakeToBedToOperate.reportString>
-  <Slaughter.reportString>leöli ezt: TargetA.</Slaughter.reportString>
-  <Milk.reportString>feji ezt: TargetA.</Milk.reportString>
-  <Shear.reportString>nyírja ezt: TargetA.</Shear.reportString>
-  <Tame.reportString>szelídíti ezt: TargetA.</Tame.reportString>
-  <Train.reportString>idomítja ezt: TargetA.</Train.reportString>
-  <PlaceNoCostFrame.reportString>építi ezt: TargetA.</PlaceNoCostFrame.reportString>
-  <FinishFrame.reportString>építi ezt: TargetA.</FinishFrame.reportString>
-  <Deconstruct.reportString>lebontja ezt: TargetA.</Deconstruct.reportString>
-  <Uninstall.reportString>leszereli ezt: TargetA.</Uninstall.reportString>
-  <Repair.reportString>megjavítja ezt: TargetA.</Repair.reportString>
-  <FixBrokenDownBuilding.reportString>helyrehozza ezt: TargetA.</FixBrokenDownBuilding.reportString>
+  
+  <!-- EN: building roof. -->
   <BuildRoof.reportString>tetővel fed.</BuildRoof.reportString>
-  <RemoveRoof.reportString>tetőt bont.</RemoveRoof.reportString>
-  <FeedPatient.reportString>megeteti őt: TargetB ezzel: TargetA.</FeedPatient.reportString>
-  <TendPatient.reportString>ápolja őt: TargetA.</TendPatient.reportString>
-  <DeliverFood.reportString>TargetB ételt visz neki: TargetA.</DeliverFood.reportString>
-  <DoBill.reportString>TargetA rendelését teljesíti.</DoBill.reportString>
-  <OperateDeepDrill.reportString>ezzel fúr: TargetA.</OperateDeepDrill.reportString>
+  
+  <!-- EN: capturing TargetA. -->
+  <Capture.reportString>elfogja őt: TargetA.</Capture.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnToExit.reportString>cipeli őt: TargetA.</CarryDownedPawnToExit.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasket.reportString>hibernálóba cipeli őt: TargetA.</CarryToCryptosleepCasket.reportString>
+  
+  <!-- EN: cleaning TargetA. -->
   <Clean.reportString>eltakarítja ezt: TargetA.</Clean.reportString>
-  <Research.reportString>kutatást végez.</Research.reportString>
-  <Hunt.reportString>vadászik erre: TargetA.</Hunt.reportString>
-  <UseCommsConsole.reportString>komm. konzolt használja.</UseCommsConsole.reportString>
-  <Mine.reportString>bányássza ezt: TargetA.</Mine.reportString>
-  <SmoothFloor.reportString>padlót egyenget.</SmoothFloor.reportString>
-  <RemoveFloor.reportString>padlót távolít el.</RemoveFloor.reportString>
-  <SmoothWall.reportString>falat egyenget.</SmoothWall.reportString>
-  <Sow.reportString>elveti ezt: TargetA.</Sow.reportString>
-  <Harvest.reportString>aratja ezt: TargetA.</Harvest.reportString>
-  <HarvestDesignated.reportString>aratja ezt: TargetA.</HarvestDesignated.reportString>
+  
+  <!-- EN: cutting TargetA. -->
   <CutPlant.reportString>kivágja ezt: TargetA.</CutPlant.reportString>
+  
+  <!-- EN: cutting TargetA. -->
   <CutPlantDesignated.reportString>kivágja ezt: TargetA.</CutPlantDesignated.reportString>
-  <!-- <PrisonerFriendlyChat.reportString>TargetA fogollyal beszélget.</PrisonerFriendlyChat.reportString> -->
-  <PrisonerAttemptRecruit.reportString>TargetA foglyot próbálja toborozni.</PrisonerAttemptRecruit.reportString>
-  <PrisonerExecution.reportString>kivégzi őt: TargetA.</PrisonerExecution.reportString>
-  <!-- <BuryCorpse.reportString>eltemeti őt: TargetA.</BuryCorpse.reportString> -->
+  
+  <!-- EN: deconstructing TargetA. -->
+  <Deconstruct.reportString>lebontja ezt: TargetA.</Deconstruct.reportString>
+  
+  <!-- EN: feeding TargetA to TargetB. -->
+  <DeliverFood.reportString>TargetB ételt visz neki: TargetA.</DeliverFood.reportString>
+  
+  <!-- EN: doing bill at TargetA. -->
+  <DoBill.reportString>TargetA rendelését teljesíti.</DoBill.reportString>
+  
+  <!-- EN: escorting prisoner TargetA. -->
+  <EscortPrisonerToBed.reportString>TargetA foglyot kíséri.</EscortPrisonerToBed.reportString>
+  
+  <!-- EN: feeding TargetA to TargetB. -->
+  <FeedPatient.reportString>megeteti őt: TargetB ezzel: TargetA.</FeedPatient.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <FinishFrame.reportString>építi ezt: TargetA.</FinishFrame.reportString>
+  
+  <!-- EN: replacing broken components in TargetA. -->
+  <FixBrokenDownBuilding.reportString>helyrehozza ezt: TargetA.</FixBrokenDownBuilding.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <Harvest.reportString>aratja ezt: TargetA.</Harvest.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <HarvestDesignated.reportString>aratja ezt: TargetA.</HarvestDesignated.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToCell.reportString>cipeli ezt: TargetA.</HaulToCell.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToContainer.reportString>cipeli ezt: TargetA.</HaulToContainer.reportString>
+  
+  <!-- EN: hunting TargetA. -->
+  <Hunt.reportString>vadászik erre: TargetA.</Hunt.reportString>
+  
+  <!-- EN: kidnapping TargetA. -->
+  <Kidnap.reportString>elrabolja őt: TargetA.</Kidnap.reportString>
+  
+  <!-- EN: milking TargetA. -->
+  <Milk.reportString>feji ezt: TargetA.</Milk.reportString>
+  
+  <!-- EN: digging at TargetA. -->
+  <Mine.reportString>bányássza ezt: TargetA.</Mine.reportString>
+  
+  <!-- EN: drilling at TargetA. -->
+  <OperateDeepDrill.reportString>ezzel fúr: TargetA.</OperateDeepDrill.reportString>
+  
+  <!-- EN: scanning at TargetA. -->
   <OperateScanner.reportString>letapogatót használja.</OperateScanner.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <PlaceNoCostFrame.reportString>építi ezt: TargetA.</PlaceNoCostFrame.reportString>
+  
+  <!-- EN: attempting to recruit TargetA. -->
+  <PrisonerAttemptRecruit.reportString>TargetA foglyot próbálja toborozni.</PrisonerAttemptRecruit.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <PrisonerExecution.reportString>kivégzi őt: TargetA.</PrisonerExecution.reportString>
+  
+  <!-- EN: releasing TargetA. -->
+  <ReleasePrisoner.reportString>elengedi őt: TargetA.</ReleasePrisoner.reportString>
+  
+  <!-- EN: removing floor. -->
+  <RemoveFloor.reportString>padlót távolít el.</RemoveFloor.reportString>
+  
+  <!-- EN: removing roof. -->
+  <RemoveRoof.reportString>tetőt bont.</RemoveRoof.reportString>
+  
+  <!-- EN: repairing TargetA. -->
+  <Repair.reportString>megjavítja ezt: TargetA.</Repair.reportString>
+  
+  <!-- EN: rescuing TargetA. -->
+  <Rescue.reportString>megmenti őt: TargetA.</Rescue.reportString>
+  
+  <!-- EN: researching. -->
+  <Research.reportString>kutatást végez.</Research.reportString>
+  
+  <!-- EN: shearing TargetA. -->
+  <Shear.reportString>nyírja ezt: TargetA.</Shear.reportString>
+  
+  <!-- EN: slaughtering TargetA. -->
+  <Slaughter.reportString>leöli ezt: TargetA.</Slaughter.reportString>
+  
+  <!-- EN: smoothing floor. -->
+  <SmoothFloor.reportString>padlót egyenget.</SmoothFloor.reportString>
+  
+  <!-- EN: smoothing wall. -->
+  <SmoothWall.reportString>falat egyenget.</SmoothWall.reportString>
+  
+  <!-- EN: sowing TargetA. -->
+  <Sow.reportString>elveti ezt: TargetA.</Sow.reportString>
+  
+  <!-- EN: stealing TargetA. -->
+  <Steal.reportString>ellopja ezt: TargetA.</Steal.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeToBedToOperate.reportString>betegágyba viszi őt: TargetA.</TakeToBedToOperate.reportString>
+  
+  <!-- EN: taking wounded prisoner TargetA. -->
+  <TakeWoundedPrisonerToBed.reportString>sérült TargetA foglyot betegágyba viszi.</TakeWoundedPrisonerToBed.reportString>
+  
+  <!-- EN: taming TargetA. -->
+  <Tame.reportString>szelídíti ezt: TargetA.</Tame.reportString>
+  
+  <!-- EN: tending to TargetA. -->
+  <TendPatient.reportString>ápolja őt: TargetA.</TendPatient.reportString>
+  
+  <!-- EN: training TargetA. -->
+  <Train.reportString>idomítja ezt: TargetA.</Train.reportString>
+  
+  <!-- EN: uninstalling TargetA. -->
+  <Uninstall.reportString>leszereli ezt: TargetA.</Uninstall.reportString>
+  
+  <!-- EN: using comms console. -->
+  <UseCommsConsole.reportString>komm. konzolt használja.</UseCommsConsole.reportString>
+  
 </LanguageData>

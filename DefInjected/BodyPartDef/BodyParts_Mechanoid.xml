@@ -1,50 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- Common to various mechanoids -->
-
-  <MechanicalNeck.label>nyak</MechanicalNeck.label>
-  <MechanicalHead.label>fej</MechanicalHead.label>
+  
+  <!-- EN: artificial brain -->
   <ArtificialBrain.label>mesterséges agy</ArtificialBrain.label>
-  <SightSensor.label>látószenzor</SightSensor.label>
+  
+  <!-- EN: blade -->
+  <Blade.label>penge</Blade.label>
+  
+  <!-- EN: fluid reprocessor -->
+  <FluidReprocessor.label>folyadék újrafeldolgozó</FluidReprocessor.label>
+  
+  <!-- EN: sound sensor -->
   <HearingSensor.label>hallószenzor</HearingSensor.label>
-  <SmellSensor.label>szagszenzor</SmellSensor.label>
-  <MechanicalShoulder.label>váll</MechanicalShoulder.label>
+  
+  <!-- EN: arm -->
   <MechanicalArm.label>kar</MechanicalArm.label>
-  <MechanicalHand.label>kéz</MechanicalHand.label>
+  
+  <!-- EN: fifth body ring -->
+  <MechanicalCentipedeBodyFifthRing.label>ötödik szelvény</MechanicalCentipedeBodyFifthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFifthRing.labelShort>szelvény</MechanicalCentipedeBodyFifthRing.labelShort>
+  
+  <!-- EN: first body ring -->
+  <MechanicalCentipedeBodyFirstRing.label>első szelvény</MechanicalCentipedeBodyFirstRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFirstRing.labelShort>szelvény</MechanicalCentipedeBodyFirstRing.labelShort>
+  
+  <!-- EN: fourth body ring -->
+  <MechanicalCentipedeBodyFourthRing.label>negyedik szelvény</MechanicalCentipedeBodyFourthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFourthRing.labelShort>szelvény</MechanicalCentipedeBodyFourthRing.labelShort>
+  
+  <!-- EN: second body ring -->
+  <MechanicalCentipedeBodySecondRing.label>második szelvény</MechanicalCentipedeBodySecondRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodySecondRing.labelShort>szelvény</MechanicalCentipedeBodySecondRing.labelShort>
+  
+  <!-- EN: sixth body ring -->
+  <MechanicalCentipedeBodySixthRing.label>hatodik szelvény</MechanicalCentipedeBodySixthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodySixthRing.labelShort>szelvény</MechanicalCentipedeBodySixthRing.labelShort>
+  
+  <!-- EN: third body ring -->
+  <MechanicalCentipedeBodyThirdRing.label>harmadik szelvény</MechanicalCentipedeBodyThirdRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyThirdRing.labelShort>szelvény</MechanicalCentipedeBodyThirdRing.labelShort>
+  
+  <!-- EN: finger -->
   <MechanicalFinger.label>ujj</MechanicalFinger.label>
-  <MechanicalLeg.label>láb</MechanicalLeg.label>
+  
+  <!-- EN: foot -->
   <MechanicalFoot.label>lábfej</MechanicalFoot.label>
   
-  <Reactor.label>reaktor</Reactor.label>
-  <FluidReprocessor.label>folyadék újrafeldolgozó</FluidReprocessor.label>
-
-  <!-- Human-like specific (lancer, scyther) -->
-
+  <!-- EN: hand -->
+  <MechanicalHand.label>kéz</MechanicalHand.label>
+  
+  <!-- EN: head -->
+  <MechanicalHead.label>fej</MechanicalHead.label>
+  
+  <!-- EN: leg -->
+  <MechanicalLeg.label>láb</MechanicalLeg.label>
+  
+  <!-- EN: neck -->
+  <MechanicalNeck.label>nyak</MechanicalNeck.label>
+  
+  <!-- EN: shoulder -->
+  <MechanicalShoulder.label>váll</MechanicalShoulder.label>
+  
+  <!-- EN: thorax -->
   <MechanicalThorax.label>tor</MechanicalThorax.label>
-
-
-  <!-- Scyther specific -->
-
-  <Blade.label>penge</Blade.label>
-
-
-  <!-- Centipede specific -->
-
-  <MechanicalCentipedeBodyFirstRing.label>első szelvény</MechanicalCentipedeBodyFirstRing.label>
-  <MechanicalCentipedeBodyFirstRing.labelShort>szelvény</MechanicalCentipedeBodyFirstRing.labelShort>
-
-  <MechanicalCentipedeBodySecondRing.label>második szelvény</MechanicalCentipedeBodySecondRing.label>
-  <MechanicalCentipedeBodySecondRing.labelShort>szelvény</MechanicalCentipedeBodySecondRing.labelShort>
-
-  <MechanicalCentipedeBodyThirdRing.label>harmadik szelvény</MechanicalCentipedeBodyThirdRing.label>
-  <MechanicalCentipedeBodyThirdRing.labelShort>szelvény</MechanicalCentipedeBodyThirdRing.labelShort>
-
-  <MechanicalCentipedeBodyFourthRing.label>negyedik szelvény</MechanicalCentipedeBodyFourthRing.label>
-  <MechanicalCentipedeBodyFourthRing.labelShort>szelvény</MechanicalCentipedeBodyFourthRing.labelShort>
-
-  <MechanicalCentipedeBodyFifthRing.label>ötödik szelvény</MechanicalCentipedeBodyFifthRing.label>
-  <MechanicalCentipedeBodyFifthRing.labelShort>szelvény</MechanicalCentipedeBodyFifthRing.labelShort>
-
-  <MechanicalCentipedeBodySixthRing.label>hatodik szelvény</MechanicalCentipedeBodySixthRing.label>
-  <MechanicalCentipedeBodySixthRing.labelShort>szelvény</MechanicalCentipedeBodySixthRing.labelShort>
+  
+  <!-- EN: reactor -->
+  <Reactor.label>reaktor</Reactor.label>
+  
+  <!-- EN: visual sensor -->
+  <SightSensor.label>látószenzor</SightSensor.label>
+  
+  <!-- EN: chemical analyzer -->
+  <SmellSensor.label>szagszenzor</SmellSensor.label>
+  
 </LanguageData>

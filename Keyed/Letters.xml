@@ -125,6 +125,14 @@
   
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>Az utolsó csepp: {0}.</FinalStraw>
+  <!-- EN: This happened because of poor mood. -->
+  <MentalStateReason_Mood>Ennek oka az alacsony morál.</MentalStateReason_Mood>
+  <!-- EN: This happened because of the trait: {0}. -->
+  <MentalStateReason_Trait>Ennek oka a következő tulajdonság: {0}.</MentalStateReason_Trait>
+  <!-- EN: This happened because of: {0}. -->
+  <MentalStateReason_Hediff>Ennek oka: {0}.</MentalStateReason_Hediff>
+  <!-- EN: This happened because of {0_definite}'s death. -->
+  <MentalStateReason_BondedHumanDeath>Ennek oka {0_definite} halála.</MentalStateReason_BondedHumanDeath>
   <!-- EN: The last event was -->
   <LastFactionRelationsEvent>Az utolsó esemény</LastFactionRelationsEvent>
 
@@ -171,6 +179,7 @@
   <LetterAffair>{PAWN1_labelShort} és {SPOUSE_labelShort} bár házasok, {PAWN1_labelShort} és {PAWN2_labelShort} viszonyt kezdett.</LetterAffair>
   <!-- EN: New lovers -->
   <LetterLabelNewLovers>Új szerelmes pár</LetterLabelNewLovers>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
   <LetterNewLovers>{PAWN1_labelShort} és {PAWN2_labelShort} mostantól együtt szeretnének aludni. Rendelj hozzájuk dupla ágyat!</LetterNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
   <LetterNoLongerLovers>{PAWN1_labelShort} és {PAWN2_labelShort} szakítottak egymással.</LetterNoLongerLovers>
@@ -198,11 +207,6 @@
   <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
   <!-- EN: Mental break -->
   <LetterLabelMentalBreakdown>Idegösszeomlás</LetterLabelMentalBreakdown>
-  <MentalStateReason_Mood>Ennek oka az alacsony morál.</MentalStateReason_Mood>
-  <MentalStateReason_Trait>Ennek oka a következő tulajdonság: {0}.</MentalStateReason_Trait>
-  <MentalStateReason_Hediff>Ennek oka: {0}.</MentalStateReason_Hediff>
-  <MentalStateReason_BondedHumanDeath>Ennek oka {0_definite} halála.</MentalStateReason_BondedHumanDeath>
-  
   
   <!-- Bonded animals -->
   <!-- EN: bonded animal -->
@@ -242,10 +246,10 @@
   <!-- EN: All members of {0} have died. -->
   <LetterAllCaravanColonistsDied>{0} minden tagja meghalt.</LetterAllCaravanColonistsDied>
   
-  <!-- Caravan entered ambush map -->
-  <!-- EN: Caravan arrived at ambush -->
+  <!-- Caravan entered map -->
+  <!-- EN: Caravan arrived at {0_label} -->
   <LetterLabelCaravanEnteredMap>Karaván megérkezett ide: {0_label}</LetterLabelCaravanEnteredMap>
-  <!-- EN: {0} has arrived at the ambush site. -->
+  <!-- EN: {0} has arrived at {1_definite}. -->
   <LetterCaravanEnteredMap>{0} megérkezett ide: {1_definite}.</LetterCaravanEnteredMap>
   
   <!-- Caravan entered enemy base -->
@@ -311,7 +315,7 @@
   <PeaceTalksSocialXPGain>{PAWN_labelShort}, az alkuszod, {1} szociális tapasztalati pontot szerzett.</PeaceTalksSocialXPGain>
 
   <!-- Run wild mental break -->
-  <!-- EN: {0} is fed up with civilization.\n\n{0_pronoun} realized that wild creatures are always free. So, {0_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame {0_objective} to get {0_objective} back. -->
+  <!-- EN: {0} is fed up with civilization.\n\n{0_pronoun} realized that wild creatures are always free. So, {0_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {0_objective} to get {0_objective} back. -->
   <LetterRunWildMentalBreak>{0} úgy döntött elhagy téged és az állatokkal él tovább.</LetterRunWildMentalBreak>
 
   <!-- Catatonic mental break -->
@@ -369,10 +373,6 @@
   <LetterLabelRescueQuestFinished>Megmentett csatlakozik</LetterLabelRescueQuestFinished>
   <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option. -->
   <LetterRescueQuestFinished>Megmentetted őt:{PAWN_nameDef}, aki csatlakozott hozzád.\n\nMagaddal viheted, ha újjá alakítod a karavánt  világtérképen a "Karaván újjáalakítása" gombbal.</LetterRescueQuestFinished>
-
-  <!-- Player entered site (generic label) -->
-  <!-- EN: Arrived at site -->
-  <!-- <LetterLabelPlayerEnteredNewSiteGeneric>Érkezés a helyszínre</LetterLabelPlayerEnteredNewSiteGeneric> -->
 
   <!-- Predator hunting colonist -->
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->

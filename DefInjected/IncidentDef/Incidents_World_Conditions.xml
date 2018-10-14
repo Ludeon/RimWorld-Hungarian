@@ -1,14 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Eclipse.label>napfogyatkozás</Eclipse.label>
-  <Eclipse.letterText>A bolygó egyik holdja eltakarja a napot. Napfogyatkozás kezdődött.</Eclipse.letterText>
-  <Eclipse.letterLabel>Napfogyatkozás</Eclipse.letterLabel>
-  <SolarFlare.label>napkitörés</SolarFlare.label>
-  <SolarFlare.letterText>Napkitörés kezdődött.\n\nAz erős sugárzás használhatatlanná teszi az elektromos készülékeket.\n\nKörülbelül egy napig fog tartani.</SolarFlare.letterText>
-  <SolarFlare.letterLabel>Napkitörés</SolarFlare.letterLabel>
   
+  <!-- EN: aurora -->
   <Aurora.label>sarki fény</Aurora.label>
-  <Aurora.letterText>Sarki fény ragyogja be az eget. A hullámzó színáradat mindenki hangulatát javítja, aki látja. Világosabb tőle az éjszaka.</Aurora.letterText>
+  <!-- EN: Aurora -->
   <Aurora.letterLabel>Sarki fény</Aurora.letterLabel>
+  <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
+  <Aurora.letterText>Sarki fény ragyogja be az eget. A hullámzó színáradat mindenki hangulatát javítja, aki látja. Világosabb tőle az éjszaka.</Aurora.letterText>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>napfogyatkozás</Eclipse.label>
+  <!-- EN: Eclipse -->
+  <Eclipse.letterLabel>Napfogyatkozás</Eclipse.letterLabel>
+  <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
+  <Eclipse.letterText>A bolygó egyik holdja eltakarja a napot. Napfogyatkozás kezdődött.</Eclipse.letterText>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>napkitörés</SolarFlare.label>
+  <!-- EN: Solar flare -->
+  <SolarFlare.letterLabel>Napkitörés</SolarFlare.letterLabel>
+  <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
+  <SolarFlare.letterText>Napkitörés kezdődött.\n\nAz erős sugárzás használhatatlanná teszi az elektromos készülékeket.\n\nKörülbelül egy napig fog tartani.</SolarFlare.letterText>
   
 </LanguageData>

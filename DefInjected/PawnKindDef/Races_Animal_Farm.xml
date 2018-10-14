@@ -1,99 +1,118 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Chicken.label>tyúk</Chicken.label>
-  <Chicken.labelPlural>tyúkok</Chicken.labelPlural>
-  <Chicken.lifeStages.chick.label>csibe</Chicken.lifeStages.chick.label>
-  <Chicken.lifeStages.chick.labelPlural>csibék</Chicken.lifeStages.chick.labelPlural>
-  <Chicken.lifeStages.chick.labelMale>hím csibe</Chicken.lifeStages.chick.labelMale>
-  <Chicken.lifeStages.chick.labelMalePlural>hím csibék</Chicken.lifeStages.chick.labelMalePlural>
-  <Chicken.lifeStages.chick.labelFemale>nőstény csibe</Chicken.lifeStages.chick.labelFemale>
-  <Chicken.lifeStages.chick.labelFemalePlural>nőstény csibék</Chicken.lifeStages.chick.labelFemalePlural>
-  <Chicken.lifeStages.cockerel.label>csirke</Chicken.lifeStages.cockerel.label>
-  <Chicken.lifeStages.cockerel.labelPlural>csirkék</Chicken.lifeStages.cockerel.labelPlural>
-  <Chicken.lifeStages.cockerel.labelMale>fiatal kakas</Chicken.lifeStages.cockerel.labelMale>
-  <Chicken.lifeStages.cockerel.labelMalePlural>fiatal kakasok</Chicken.lifeStages.cockerel.labelMalePlural>
-  <Chicken.lifeStages.cockerel.labelFemale>csirke</Chicken.lifeStages.cockerel.labelFemale>
-  <Chicken.lifeStages.cockerel.labelFemalePlural>csirkék</Chicken.lifeStages.cockerel.labelFemalePlural>
-  <Chicken.lifeStages.2.label>tyúk</Chicken.lifeStages.2.label>
-  <Chicken.lifeStages.2.labelPlural>tyúkok</Chicken.lifeStages.2.labelPlural>
-  <Chicken.lifeStages.2.labelMale>kakas</Chicken.lifeStages.2.labelMale>
-  <Chicken.lifeStages.2.labelMalePlural>kakasok</Chicken.lifeStages.2.labelMalePlural>
-  <Chicken.lifeStages.2.labelFemale>tyúk</Chicken.lifeStages.2.labelFemale>
-  <Chicken.lifeStages.2.labelFemalePlural>tyúkok</Chicken.lifeStages.2.labelFemalePlural>
-  <Chicken.labelMale>kakas</Chicken.labelMale>
-  <Chicken.labelMalePlural>kakasok</Chicken.labelMalePlural>
-  <Chicken.labelFemale>tyúk</Chicken.labelFemale>
-  <Chicken.labelFemalePlural>tyúkok</Chicken.labelFemalePlural>
-  <Pig.label>sertés</Pig.label>
-  <Pig.labelPlural>sertések</Pig.labelPlural>
-  <Pig.lifeStages.piglet.label>malac</Pig.lifeStages.piglet.label>
-  <Pig.lifeStages.piglet.labelPlural>malacok</Pig.lifeStages.piglet.labelPlural>
-  <Pig.lifeStages.piglet.labelMale>malac</Pig.lifeStages.piglet.labelMale>
-  <Pig.lifeStages.piglet.labelMalePlural>hím malacok</Pig.lifeStages.piglet.labelMalePlural>
-  <Pig.lifeStages.piglet.labelFemale>malac</Pig.lifeStages.piglet.labelFemale>
-  <Pig.lifeStages.piglet.labelFemalePlural>nőstény malacok</Pig.lifeStages.piglet.labelFemalePlural>
-  <Pig.lifeStages.1.label>sertés</Pig.lifeStages.1.label>
-  <Pig.lifeStages.1.labelPlural>sertések</Pig.lifeStages.1.labelPlural>
-  <Pig.lifeStages.1.labelMale>fiatal sertéskan</Pig.lifeStages.1.labelMale>
-  <Pig.lifeStages.1.labelMalePlural>fiatal sertéskanok</Pig.lifeStages.1.labelMalePlural>
-  <Pig.lifeStages.1.labelFemale>fiatal sertéskoca</Pig.lifeStages.1.labelFemale>
-  <Pig.lifeStages.1.labelFemalePlural>fiatal sertéskocák</Pig.lifeStages.1.labelFemalePlural>
-  <Pig.lifeStages.2.label>sertés</Pig.lifeStages.2.label>
-  <Pig.lifeStages.2.labelPlural>sertések</Pig.lifeStages.2.labelPlural>
-  <Pig.lifeStages.2.labelMale>sertéskan</Pig.lifeStages.2.labelMale>
-  <Pig.lifeStages.2.labelMalePlural>sertéskanok</Pig.lifeStages.2.labelMalePlural>
-  <Pig.lifeStages.2.labelFemale>sertéskoca</Pig.lifeStages.2.labelFemale>
-  <Pig.lifeStages.2.labelFemalePlural>sertéskocák</Pig.lifeStages.2.labelFemalePlural>
-  <Pig.labelMale>sertéskan</Pig.labelMale>
-  <Pig.labelMalePlural>sertéskanok</Pig.labelMalePlural>
-  <Pig.labelFemale>sertéskoca</Pig.labelFemale>
-  <Pig.labelFemalePlural>sertéskocák</Pig.labelFemalePlural>
-  <Cow.label>szarvasmarha</Cow.label>
-  <Cow.labelPlural>szarvasmarhák</Cow.labelPlural>
-  <Cow.lifeStages.calf.label>borjú</Cow.lifeStages.calf.label>
-  <Cow.lifeStages.calf.labelPlural>borjak</Cow.lifeStages.calf.labelPlural>
-  <Cow.lifeStages.calf.labelMale>szarvasmarha borjú</Cow.lifeStages.calf.labelMale>
-  <Cow.lifeStages.calf.labelMalePlural>hím borjak</Cow.lifeStages.calf.labelMalePlural>
-  <Cow.lifeStages.calf.labelFemale>szarvasmarha borjú</Cow.lifeStages.calf.labelFemale>
-  <Cow.lifeStages.calf.labelFemalePlural>nőstény borjak</Cow.lifeStages.calf.labelFemalePlural>
-  <Cow.lifeStages.1.label>szarvasmarha</Cow.lifeStages.1.label>
-  <Cow.lifeStages.1.labelPlural>szarvasmarhák</Cow.lifeStages.1.labelPlural>
-  <Cow.lifeStages.1.labelMale>fiatal szarvasmarha bika</Cow.lifeStages.1.labelMale>
-  <Cow.lifeStages.1.labelMalePlural>szarvasmarha bikák</Cow.lifeStages.1.labelMalePlural>
-  <Cow.lifeStages.1.labelFemale>fiatal szarvasmarha tehén</Cow.lifeStages.1.labelFemale>
-  <Cow.lifeStages.1.labelFemalePlural>fiatal szarvasmarha tehenek</Cow.lifeStages.1.labelFemalePlural>
-  <Cow.lifeStages.2.label>szarvasmarha</Cow.lifeStages.2.label>
-  <Cow.lifeStages.2.labelPlural>szarvasmarhák</Cow.lifeStages.2.labelPlural>
-  <Cow.lifeStages.2.labelMale>szarvasmarha bika</Cow.lifeStages.2.labelMale>
-  <Cow.lifeStages.2.labelMalePlural>szarvasmarha bikák</Cow.lifeStages.2.labelMalePlural>
-  <Cow.lifeStages.2.labelFemale>szarvasmarha tehén</Cow.lifeStages.2.labelFemale>
-  <Cow.lifeStages.2.labelFemalePlural>szarvasmarha tehenek</Cow.lifeStages.2.labelFemalePlural>
-  <Cow.labelMale>bika</Cow.labelMale>
-  <Cow.labelMalePlural>bikák</Cow.labelMalePlural>
-  <Cow.labelFemale>tehén</Cow.labelFemale>
-  <Cow.labelFemalePlural>tehenek</Cow.labelFemalePlural>
+  
+  <!-- EN: alpaca -->
   <Alpaca.label>alpaka</Alpaca.label>
-  <Alpaca.labelPlural>alpakák</Alpaca.labelPlural>
-  <Alpaca.lifeStages.0.label>alpaka</Alpaca.lifeStages.0.label>
-  <Alpaca.lifeStages.0.labelPlural>alpakák</Alpaca.lifeStages.0.labelPlural>
-  <Alpaca.lifeStages.0.labelMale>alpaka csikó</Alpaca.lifeStages.0.labelMale>
-  <Alpaca.lifeStages.0.labelMalePlural>hím alpakák</Alpaca.lifeStages.0.labelMalePlural>
-  <Alpaca.lifeStages.0.labelFemale>alpaka csikó</Alpaca.lifeStages.0.labelFemale>
-  <Alpaca.lifeStages.0.labelFemalePlural>nőstény alpakák</Alpaca.lifeStages.0.labelFemalePlural>
-  <Alpaca.lifeStages.1.label>alpaka</Alpaca.lifeStages.1.label>
-  <Alpaca.lifeStages.1.labelPlural>alpakák</Alpaca.lifeStages.1.labelPlural>
-  <Alpaca.lifeStages.1.labelMale>fiatal alpaka</Alpaca.lifeStages.1.labelMale>
-  <Alpaca.lifeStages.1.labelMalePlural>hím alpakák</Alpaca.lifeStages.1.labelMalePlural>
-  <Alpaca.lifeStages.1.labelFemale>fiatal alpaka</Alpaca.lifeStages.1.labelFemale>
-  <Alpaca.lifeStages.1.labelFemalePlural>nőstény alpakák</Alpaca.lifeStages.1.labelFemalePlural>
-  <Alpaca.lifeStages.2.label>alpaka</Alpaca.lifeStages.2.label>
-  <Alpaca.lifeStages.2.labelPlural>alpakák</Alpaca.lifeStages.2.labelPlural>
-  <Alpaca.lifeStages.2.labelMale>alpaka</Alpaca.lifeStages.2.labelMale>
-  <Alpaca.lifeStages.2.labelMalePlural>hím alpakák</Alpaca.lifeStages.2.labelMalePlural>
-  <Alpaca.lifeStages.2.labelFemale>alpaka</Alpaca.lifeStages.2.labelFemale>
-  <Alpaca.lifeStages.2.labelFemalePlural>nőstény alpakák</Alpaca.lifeStages.2.labelFemalePlural>
-  <Alpaca.labelMale>hím alpaka</Alpaca.labelMale>
-  <Alpaca.labelMalePlural>hím alpakák</Alpaca.labelMalePlural>
   <Alpaca.labelFemale>nőstény alpaka</Alpaca.labelFemale>
   <Alpaca.labelFemalePlural>nőstény alpakák</Alpaca.labelFemalePlural>
+  <Alpaca.labelMale>hím alpaka</Alpaca.labelMale>
+  <Alpaca.labelMalePlural>hím alpakák</Alpaca.labelMalePlural>
+  <Alpaca.labelPlural>alpakák</Alpaca.labelPlural>
+  <Alpaca.lifeStages.0.label>alpaka</Alpaca.lifeStages.0.label>
+  <Alpaca.lifeStages.0.labelFemale>alpaka csikó</Alpaca.lifeStages.0.labelFemale>
+  <Alpaca.lifeStages.0.labelFemalePlural>nőstény alpakák</Alpaca.lifeStages.0.labelFemalePlural>
+  <Alpaca.lifeStages.0.labelMale>alpaka csikó</Alpaca.lifeStages.0.labelMale>
+  <Alpaca.lifeStages.0.labelMalePlural>hím alpakák</Alpaca.lifeStages.0.labelMalePlural>
+  <Alpaca.lifeStages.0.labelPlural>alpakák</Alpaca.lifeStages.0.labelPlural>
+  <Alpaca.lifeStages.1.label>alpaka</Alpaca.lifeStages.1.label>
+  <Alpaca.lifeStages.1.labelFemale>fiatal alpaka</Alpaca.lifeStages.1.labelFemale>
+  <Alpaca.lifeStages.1.labelFemalePlural>nőstény alpakák</Alpaca.lifeStages.1.labelFemalePlural>
+  <Alpaca.lifeStages.1.labelMale>fiatal alpaka</Alpaca.lifeStages.1.labelMale>
+  <Alpaca.lifeStages.1.labelMalePlural>hím alpakák</Alpaca.lifeStages.1.labelMalePlural>
+  <Alpaca.lifeStages.1.labelPlural>alpakák</Alpaca.lifeStages.1.labelPlural>
+  <Alpaca.lifeStages.2.label>alpaka</Alpaca.lifeStages.2.label>
+  <Alpaca.lifeStages.2.labelFemale>alpaka</Alpaca.lifeStages.2.labelFemale>
+  <Alpaca.lifeStages.2.labelFemalePlural>nőstény alpakák</Alpaca.lifeStages.2.labelFemalePlural>
+  <Alpaca.lifeStages.2.labelMale>alpaka</Alpaca.lifeStages.2.labelMale>
+  <Alpaca.lifeStages.2.labelMalePlural>hím alpakák</Alpaca.lifeStages.2.labelMalePlural>
+  <Alpaca.lifeStages.2.labelPlural>alpakák</Alpaca.lifeStages.2.labelPlural>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>tyúk</Chicken.label>
+  <!-- EN: hen -->
+  <Chicken.labelFemale>tyúk</Chicken.labelFemale>
+  <Chicken.labelFemalePlural>tyúkok</Chicken.labelFemalePlural>
+  <!-- EN: rooster -->
+  <Chicken.labelMale>kakas</Chicken.labelMale>
+  <Chicken.labelMalePlural>kakasok</Chicken.labelMalePlural>
+  <Chicken.labelPlural>tyúkok</Chicken.labelPlural>
+  <!-- EN: chick -->
+  <Chicken.lifeStages.chick.label>csibe</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.chick.labelFemale>nőstény csibe</Chicken.lifeStages.chick.labelFemale>
+  <Chicken.lifeStages.chick.labelFemalePlural>nőstény csibék</Chicken.lifeStages.chick.labelFemalePlural>
+  <Chicken.lifeStages.chick.labelMale>hím csibe</Chicken.lifeStages.chick.labelMale>
+  <Chicken.lifeStages.chick.labelMalePlural>hím csibék</Chicken.lifeStages.chick.labelMalePlural>
+  <Chicken.lifeStages.chick.labelPlural>csibék</Chicken.lifeStages.chick.labelPlural>
+  <Chicken.lifeStages.cockerel.label>csirke</Chicken.lifeStages.cockerel.label>
+  <Chicken.lifeStages.cockerel.labelFemale>csirke</Chicken.lifeStages.cockerel.labelFemale>
+  <Chicken.lifeStages.cockerel.labelFemalePlural>csirkék</Chicken.lifeStages.cockerel.labelFemalePlural>
+  <!-- EN: cockerel -->
+  <Chicken.lifeStages.cockerel.labelMale>fiatal kakas</Chicken.lifeStages.cockerel.labelMale>
+  <Chicken.lifeStages.cockerel.labelMalePlural>fiatal kakasok</Chicken.lifeStages.cockerel.labelMalePlural>
+  <Chicken.lifeStages.cockerel.labelPlural>csirkék</Chicken.lifeStages.cockerel.labelPlural>
+  <Chicken.lifeStages.2.label>tyúk</Chicken.lifeStages.2.label>
+  <Chicken.lifeStages.2.labelFemale>tyúk</Chicken.lifeStages.2.labelFemale>
+  <Chicken.lifeStages.2.labelFemalePlural>tyúkok</Chicken.lifeStages.2.labelFemalePlural>
+  <Chicken.lifeStages.2.labelMale>kakas</Chicken.lifeStages.2.labelMale>
+  <Chicken.lifeStages.2.labelMalePlural>kakasok</Chicken.lifeStages.2.labelMalePlural>
+  <Chicken.lifeStages.2.labelPlural>tyúkok</Chicken.lifeStages.2.labelPlural>
+  
+  <!-- EN: cow -->
+  <Cow.label>szarvasmarha</Cow.label>
+  <!-- EN: cow -->
+  <Cow.labelFemale>tehén</Cow.labelFemale>
+  <Cow.labelFemalePlural>tehenek</Cow.labelFemalePlural>
+  <!-- EN: bull -->
+  <Cow.labelMale>bika</Cow.labelMale>
+  <Cow.labelMalePlural>bikák</Cow.labelMalePlural>
+  <Cow.labelPlural>szarvasmarhák</Cow.labelPlural>
+  <!-- EN: calf -->
+  <Cow.lifeStages.calf.label>borjú</Cow.lifeStages.calf.label>
+  <Cow.lifeStages.calf.labelFemale>szarvasmarha borjú</Cow.lifeStages.calf.labelFemale>
+  <Cow.lifeStages.calf.labelFemalePlural>nőstény borjak</Cow.lifeStages.calf.labelFemalePlural>
+  <Cow.lifeStages.calf.labelMale>szarvasmarha borjú</Cow.lifeStages.calf.labelMale>
+  <Cow.lifeStages.calf.labelMalePlural>hím borjak</Cow.lifeStages.calf.labelMalePlural>
+  <!-- EN: calves -->
+  <Cow.lifeStages.calf.labelPlural>borjak</Cow.lifeStages.calf.labelPlural>
+  <Cow.lifeStages.1.label>szarvasmarha</Cow.lifeStages.1.label>
+  <Cow.lifeStages.1.labelFemale>fiatal szarvasmarha tehén</Cow.lifeStages.1.labelFemale>
+  <Cow.lifeStages.1.labelFemalePlural>fiatal szarvasmarha tehenek</Cow.lifeStages.1.labelFemalePlural>
+  <Cow.lifeStages.1.labelMale>fiatal szarvasmarha bika</Cow.lifeStages.1.labelMale>
+  <Cow.lifeStages.1.labelMalePlural>szarvasmarha bikák</Cow.lifeStages.1.labelMalePlural>
+  <Cow.lifeStages.1.labelPlural>szarvasmarhák</Cow.lifeStages.1.labelPlural>
+  <Cow.lifeStages.2.label>szarvasmarha</Cow.lifeStages.2.label>
+  <Cow.lifeStages.2.labelFemale>szarvasmarha tehén</Cow.lifeStages.2.labelFemale>
+  <Cow.lifeStages.2.labelFemalePlural>szarvasmarha tehenek</Cow.lifeStages.2.labelFemalePlural>
+  <Cow.lifeStages.2.labelMale>szarvasmarha bika</Cow.lifeStages.2.labelMale>
+  <Cow.lifeStages.2.labelMalePlural>szarvasmarha bikák</Cow.lifeStages.2.labelMalePlural>
+  <Cow.lifeStages.2.labelPlural>szarvasmarhák</Cow.lifeStages.2.labelPlural>
+  
+  <!-- EN: pig -->
+  <Pig.label>sertés</Pig.label>
+  <!-- EN: sow -->
+  <Pig.labelFemale>sertéskoca</Pig.labelFemale>
+  <Pig.labelFemalePlural>sertéskocák</Pig.labelFemalePlural>
+  <Pig.labelMale>sertéskan</Pig.labelMale>
+  <Pig.labelMalePlural>sertéskanok</Pig.labelMalePlural>
+  <Pig.labelPlural>sertések</Pig.labelPlural>
+  <!-- EN: piglet -->
+  <Pig.lifeStages.piglet.label>malac</Pig.lifeStages.piglet.label>
+  <Pig.lifeStages.piglet.labelFemale>malac</Pig.lifeStages.piglet.labelFemale>
+  <Pig.lifeStages.piglet.labelFemalePlural>nőstény malacok</Pig.lifeStages.piglet.labelFemalePlural>
+  <Pig.lifeStages.piglet.labelMale>malac</Pig.lifeStages.piglet.labelMale>
+  <Pig.lifeStages.piglet.labelMalePlural>hím malacok</Pig.lifeStages.piglet.labelMalePlural>
+  <Pig.lifeStages.piglet.labelPlural>malacok</Pig.lifeStages.piglet.labelPlural>
+  <Pig.lifeStages.1.label>sertés</Pig.lifeStages.1.label>
+  <Pig.lifeStages.1.labelFemale>fiatal sertéskoca</Pig.lifeStages.1.labelFemale>
+  <Pig.lifeStages.1.labelFemalePlural>fiatal sertéskocák</Pig.lifeStages.1.labelFemalePlural>
+  <Pig.lifeStages.1.labelMale>fiatal sertéskan</Pig.lifeStages.1.labelMale>
+  <Pig.lifeStages.1.labelMalePlural>fiatal sertéskanok</Pig.lifeStages.1.labelMalePlural>
+  <Pig.lifeStages.1.labelPlural>sertések</Pig.lifeStages.1.labelPlural>
+  <Pig.lifeStages.2.label>sertés</Pig.lifeStages.2.label>
+  <Pig.lifeStages.2.labelFemale>sertéskoca</Pig.lifeStages.2.labelFemale>
+  <Pig.lifeStages.2.labelFemalePlural>sertéskocák</Pig.lifeStages.2.labelFemalePlural>
+  <Pig.lifeStages.2.labelMale>sertéskan</Pig.lifeStages.2.labelMale>
+  <Pig.lifeStages.2.labelMalePlural>sertéskanok</Pig.lifeStages.2.labelMalePlural>
+  <Pig.lifeStages.2.labelPlural>sertések</Pig.lifeStages.2.labelPlural>
+  
 </LanguageData>

@@ -1,12 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <WakeUpHigh.label>amfetamin mámor</WakeUpHigh.label>
-  <WakeUpHigh.labelNoun>amfetamin mámor</WakeUpHigh.labelNoun>
-  <WakeUpTolerance.label>amfetamin tolerancia</WakeUpTolerance.label>
-  <WakeUpTolerance.stages.small-0.label>kicsi</WakeUpTolerance.stages.small-0.label>
-  <WakeUpTolerance.stages.small-1.label>kicsi</WakeUpTolerance.stages.small-1.label>
-  <WakeUpTolerance.stages.large.label>nagy</WakeUpTolerance.stages.large.label>
-  <WakeUpTolerance.stages.massive.label>óriási</WakeUpTolerance.stages.massive.label>
+  
+  <!-- EN: wake-up addiction -->
   <WakeUpAddiction.label>amfetaminfüggés</WakeUpAddiction.label>
+  <!-- EN: withdrawal -->
   <WakeUpAddiction.stages.withdrawal.label>elvonás</WakeUpAddiction.stages.withdrawal.label>
+  
+  <!-- EN: high on wake-up -->
+  <WakeUpHigh.label>amfetamin mámor</WakeUpHigh.label>
+  <!-- EN: a wake-up high -->
+  <WakeUpHigh.labelNoun>amfetamin mámor</WakeUpHigh.labelNoun>
+  
+  <!-- EN: wake-up tolerance -->
+  <WakeUpTolerance.label>amfetamin tolerancia</WakeUpTolerance.label>
+  <!-- EN: small -->
+  <WakeUpTolerance.stages.small-0.label>kicsi</WakeUpTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <WakeUpTolerance.stages.small-1.label>kicsi</WakeUpTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <WakeUpTolerance.stages.large.label>nagy</WakeUpTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <WakeUpTolerance.stages.massive.label>óriási</WakeUpTolerance.stages.massive.label>
+  
 </LanguageData>

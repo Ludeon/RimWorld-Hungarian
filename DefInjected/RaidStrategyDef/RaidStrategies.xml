@@ -1,21 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ImmediateAttack.arrivalTextFriendly>Azonnal segítségedre sietnek.</ImmediateAttack.arrivalTextFriendly>
+  
+  <!-- EN: They are attacking immediately. -->
   <ImmediateAttack.arrivalTextEnemy>Azonnal támadnak.</ImmediateAttack.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttack.arrivalTextFriendly>Azonnal segítségedre sietnek.</ImmediateAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
   <ImmediateAttack.letterLabelEnemy>Rajtaütés</ImmediateAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
   <ImmediateAttack.letterLabelFriendly>Barátok</ImmediateAttack.letterLabelFriendly>
-  <ImmediateAttackSmart.arrivalTextFriendly>Azonnal segítségedre sietnek.</ImmediateAttackSmart.arrivalTextFriendly>
-  <ImmediateAttackSmart.arrivalTextEnemy>Azonnal támadnak.\n\nVigyázat, szokatlanul okos taktikával dolgoznak! </ImmediateAttackSmart.arrivalTextEnemy>
-  <ImmediateAttackSmart.letterLabelEnemy>Rajtaütés</ImmediateAttackSmart.letterLabelEnemy>
-  <ImmediateAttackSmart.letterLabelFriendly>Barátok</ImmediateAttackSmart.letterLabelFriendly>
-  <StageThenAttack.arrivalTextFriendly>Fel kell készülniük, mielőtt segítségedre indulhatnának.</StageThenAttack.arrivalTextFriendly>
-  <StageThenAttack.arrivalTextEnemy>Támadás előtt még felkészülnek.\n\nKészülj a védelemre, vagy támadd meg őket megelőzésképpen!</StageThenAttack.arrivalTextEnemy>
-  <StageThenAttack.letterLabelEnemy>Rajtaütés</StageThenAttack.letterLabelEnemy>
-  <StageThenAttack.letterLabelFriendly>Barátok</StageThenAttack.letterLabelFriendly>
+  
+  <!-- EN: It looks like they want to use sappers to tunnel around your defenses. -->
   <ImmediateAttackSappers.arrivalTextEnemy>Úgy tűnik utászokkal ásott alagutakkal akarják kikerülni a védelmedet.</ImmediateAttackSappers.arrivalTextEnemy>
+  <!-- EN: Raid -->
   <ImmediateAttackSappers.letterLabelEnemy>Rajtaütés</ImmediateAttackSappers.letterLabelEnemy>
-  <Siege.arrivalTextFriendly>Úgy tűnik ostrom taktikákkal akarnak segíteni rajtad.</Siege.arrivalTextFriendly>
+  
+  <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
+  <ImmediateAttackSmart.arrivalTextEnemy>Azonnal támadnak.\n\nVigyázat, szokatlanul okos taktikával dolgoznak! </ImmediateAttackSmart.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackSmart.arrivalTextFriendly>Azonnal segítségedre sietnek.</ImmediateAttackSmart.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackSmart.letterLabelEnemy>Rajtaütés</ImmediateAttackSmart.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackSmart.letterLabelFriendly>Barátok</ImmediateAttackSmart.letterLabelFriendly>
+  
+  <!-- EN: It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them. -->
   <Siege.arrivalTextEnemy>Úgy tűnik ostromra készülnek, ágyúval akarják lőni a kolóniát. Kivárhatod mi történik, de el is kaphatod őket.</Siege.arrivalTextEnemy>
+  <!-- EN: It looks like they want to use siege tactics to help you. -->
+  <Siege.arrivalTextFriendly>Úgy tűnik ostrom taktikákkal akarnak segíteni rajtad.</Siege.arrivalTextFriendly>
+  <!-- EN: Siege -->
   <Siege.letterLabelEnemy>Ostrom</Siege.letterLabelEnemy>
+  <!-- EN: Friendlies -->
   <Siege.letterLabelFriendly>Barátok</Siege.letterLabelFriendly>
+  
+  <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
+  <StageThenAttack.arrivalTextEnemy>Támadás előtt még felkészülnek.\n\nKészülj a védelemre, vagy támadd meg őket megelőzésképpen!</StageThenAttack.arrivalTextEnemy>
+  <!-- EN: They will prepare for a while before moving in to help you. -->
+  <StageThenAttack.arrivalTextFriendly>Fel kell készülniük, mielőtt segítségedre indulhatnának.</StageThenAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <StageThenAttack.letterLabelEnemy>Rajtaütés</StageThenAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <StageThenAttack.letterLabelFriendly>Barátok</StageThenAttack.letterLabelFriendly>
+  
 </LanguageData>
