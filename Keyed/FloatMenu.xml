@@ -292,8 +292,8 @@
   <OpenCryptosleepCasket>Hibernáló kinyitása</OpenCryptosleepCasket>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
-  <!-- EN: Cannot {0} {2_labelShort} -->
-  <CannotGenericWork>Nem lehet {0} ezt: {2_labelShort}</CannotGenericWork>
+  <!-- EN: Cannot {0} {1} -->
+  <CannotGenericWork>Nem lehet {0} ezt: {1}</CannotGenericWork>
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>Nem lehet {0}</CannotGenericWorkCustom>
 
