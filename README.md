@@ -1,4 +1,4 @@
-RimWorld-Hungarian
+﻿RimWorld-Hungarian
 ==================
 
 Official Hungarian translation of RimWorld.
@@ -21,7 +21,7 @@ Some text used from the old partial translation created by:
 
 ---------------------
 
-Game version: 1.0.2096
+Game version: 1.0.2150
 
 
 ==================================================================================================================================================================

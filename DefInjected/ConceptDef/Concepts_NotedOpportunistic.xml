@@ -43,8 +43,8 @@
   
   <!-- EN: Drug policies -->
   <DrugPolicies.label>Drogszabályok</DrugPolicies.label>
-  <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take anti-malaria drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
-  <DrugPolicies.helpText>Megadhatod, hogy az emberek bizonyos drogokat csak bizonyos időben szedhessenek be.\n\nPéldául szedethetsz velük rendszeresen malária gyógyszert, vagy itathatsz velük napi egy sört.\n\nA Beosztások fülön, a Drogszabályok gombbal készíthetsz új szabályt, amit aztán hozzárendelhetsz embereidhez. A gyarmatosok ettől eltérően is szedhetnek drogot, ha megkívánják. Nem feltétlen hallgatnak rád.</DrugPolicies.helpText>
+  <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
+  <DrugPolicies.helpText>Megadhatod, hogy az emberek bizonyos drogokat csak bizonyos időben szedhessenek be.\n\nPéldául szedethetsz velük rendszeresen fertőzés-megelőző gyógyszert, vagy itathatsz velük napi egy sört.\n\nA Beosztások fülön, a Drogszabályok gombbal készíthetsz új szabályt, amit aztán hozzárendelhetsz embereidhez. A gyarmatosok ettől eltérően is szedhetnek drogot, ha megkívánják. Nem feltétlen hallgatnak rád.</DrugPolicies.helpText>
   
   <!-- EN: Interacting with traders -->
   <InteractingWithTraders.label>Kereskedés</InteractingWithTraders.label>
@@ -73,7 +73,7 @@
   
   <!-- EN: Rescuing -->
   <Rescuing.label>Menteni</Rescuing.label>
-  <!-- EN: To rescue a wounded person, select a healthy colonist and the right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
   <Rescuing.helpText>Ahhoz, hogy megments egy sérült kolónia lakót, válasz ki egy egészséges lakót és jobb-klikkelj a sérültön.\n\nEhhez kell betegágy is.</Rescuing.helpText>
   
   <!-- EN: Set what plant to grow -->

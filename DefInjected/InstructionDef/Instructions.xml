@@ -79,10 +79,10 @@
   <!-- EN: You can control who does what kinds of work using the checkboxes. Colonists will do tasks in order, from left to right.\n\nTry changing some settings now.\n\nBeware - Colonists always follow their work priorities, even if this makes them do dumb things! Setting up a smart work regime is an important skill in RimWorld. So set the work settings carefully, and review them often! -->
   <ChangeWorkSettings.text>Az ablak tetején láthatod a különböző munkatípusokat. Az ablak baloldalán vannak a gyarmatosok.\n\nA négyzeteket bepipálva beállíthatod, hogy melyikük mit csináljon.\n\nVáltoztass a beállításokon most!\n\n(Pro tipp: a négyzet világossága mutatja, hogy az adott ember milyen jó az adott munkában.)</ChangeWorkSettings.text>
   
-  <!-- EN: Please choose a temperate forest site with flat terrain. -->
-  <ChooseLandingSite.rejectInputMessage>Kérlek, mérsékelt erdővel és sík tereppel rendelkező körzetet válassz!</ChooseLandingSite.rejectInputMessage>
-  <!-- EN: Here, you choose your starting site.\n\nThere are lots of biomes, but for now, let's start with a friendly one.\n\nClick a location with temperate forest biome and flat terrain, and click NEXT.\n\nYou can use the TERRAIN tab to view information about the selected tile. -->
-  <ChooseLandingSite.text>Itt választod ki a földet érés helyét.\n\nSokféle életközösség létezik, kezdjük valami barátságosabbal.\n\nVálassz egy körzetet mérsékelt erdővel és sík tereppel, majd nyomd meg a "Következő" gombot.</ChooseLandingSite.text>
+  <!-- EN: Please choose a temperate forest site with no hills (light green with no brown dots). -->
+  <ChooseLandingSite.rejectInputMessage>Kérlek, olyan mérsékelt erdős körzetet válassz, ahol nincs domb (világos zöld, barna pettyek nélkül)!</ChooseLandingSite.rejectInputMessage>
+  <!-- EN: Here you choose your starting site.\n\nClick a spot with temperate forest biome and no hills. This will be a light green area with brown dots. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile. -->
+  <ChooseLandingSite.text>Itt választod ki a földet érés helyét.\n\nSokféle életközösség létezik, kezdjük valami barátságosabbal.\n\nVálassz egy körzetet mérsékelt erdővel és dombok nélkül, majd nyomd meg a "Következő" gombot.\n\nHasználhatod a "Terep" fület is, hogy többet tudj meg a kiválasztott helyről.</ChooseLandingSite.text>
   
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
   <ChooseStoryteller.rejectInputMessage>Kérlek, válassz mesélőt az oktatás befejezéséhez!</ChooseStoryteller.rejectInputMessage>
@@ -169,14 +169,14 @@
   <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right. -->
   <Pause.text>Az időt is megállíthatod.\n\nÍgy sosem kell kapkodnod, nyugodtan kiadhatod a parancsokat.\n\nPróbáld leállítani az időt a {Key:TogglePause} billentyűvel, vagy a jobb alsó sarokban lévő felületen.</Pause.text>
   
-  <!-- EN: Please try randomizing a character first. -->
+  <!-- EN: Please click the RANDOMIZE button to randomize the character. -->
   <RandomizeCharacter.rejectInputMessage>Kérlek próbáld ki a "Véletlenszerű" gombot!</RandomizeCharacter.rejectInputMessage>
-  <!-- EN: If you don't like a character, you can regenerate them!\n\nTry randomizing a character with the RANDOMIZE button. -->
+  <!-- EN: If you don't like a character, you can regenerate them!\n\nClick the RANDOMIZE button to randomize the character. -->
   <RandomizeCharacter.text>Most létrehozzuk a karaktereidet!\n\nPróbálj meg véletlenszerűen létrehozni egyet a "Véletlenszerű" gombbal.</RandomizeCharacter.text>
   
-  <!-- EN: Please try choosing a character first. -->
-  <ReorderCharacters.rejectInputMessage>Kérlek, előbb válassz karaktert!</ReorderCharacters.rejectInputMessage>
-  <!-- EN: Now you can choose characters!\n\nClick in the left area to select from available characters. If you find a character you like, drag them into the top section with the SELECTED label. -->
+  <!-- EN: Please drag a character from the "left behind" group (at the bottom-left) into the "selected" group (at the upper-left). -->
+  <ReorderCharacters.rejectInputMessage>Kérlek, előbb válassz karaktert! Húzz egyet a "Hátrahagyott" csoportból a "Kiválasztott" csoportba!</ReorderCharacters.rejectInputMessage>
+  <!-- EN: Now you choose which characters you want to use.\n\nDRAG a character from the "left behind" part of the character list (at the bottom) into the "selected" part (at the top).\n\nOptionally, clicking a character will allow you inspect him or her. -->
   <ReorderCharacters.text>Itt választhatsz karaktert!\n\nA bal oldalon látod az elérhető karakterek listáját. Húzd az egérrel a felső "Kiválasztva" címkével ellátott részre azokat, amelyek tetszenek.</ReorderCharacters.text>
   
   <!-- EN: Please choose a research project. -->

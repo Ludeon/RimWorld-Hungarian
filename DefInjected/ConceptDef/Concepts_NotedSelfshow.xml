@@ -3,7 +3,7 @@
   
   <!-- EN: Alerts -->
   <Alerts.label>Riasztások</Alerts.label>
-  <!-- EN: The alerts at the right edge of the screen tell you about issue that need your attention.\n\nKeep an eye on the alerts. -->
+  <!-- EN: The alerts at the right edge of the screen tell you about issues that need your attention.\n\nKeep an eye on the alerts. -->
   <Alerts.helpText>A kép jobb oldalán feltűnő riasztások felhívják a figyelmedet olyan eseményekre, amikkel foglalkoznod kell.\n\nNe hagyd ezeket figyelmen kívül!</Alerts.helpText>
   
   <!-- EN: Allowed areas -->
@@ -54,11 +54,11 @@
   <!-- EN: Fire preparation -->
   <FirePreparation.label>Felkészülni a tüzekre</FirePreparation.label>
   <!-- EN: Fires can easily burn down a colony. To defeat them, you must prepare before they happen.\n\nThese design elements can help reduce the damage from fires:\n\n1. Instead of constructing one super-building, build separate buildings with spaces in between.\n\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.\n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
-  <FirePreparation.helpText>Tüzek nagyon könnyen leégethetik a kolóniát. Hogy ezt megakadályozd, fel kell készülnöd rá, mielőtt megtörténik. \n  \nA következő ötletek segítenek csökkenteni a tűz okozta károkat:\n  \n1. Ahelyett, hogy egy nagy szuperépületet építenél, építs különálló kisebbeket.\n  \n2. Használj kevésbé éghető anyagokat a fa olcsó és könnyű vele dolgozni, de nagyon jól ég.\n  \n3. Építs tűzfalakat, hogy megakadályozd a kolónia felé tartó bozóttüzeket. Egy 3-4 cella széles betonfal általában megállítja a terjedő tüzet.\n  </FirePreparation.helpText>
+  <FirePreparation.helpText>Tüzek nagyon könnyen leégethetik a kolóniát. Hogy ezt megakadályozd, fel kell készülnöd rá, mielőtt megtörténik.\n\nA következő ötletek segítenek csökkenteni a tűz okozta károkat:\n\n1. Ahelyett, hogy egy nagy szuperépületet építenél, építs különálló kisebbeket.\n\n2. Használj kevésbé éghető anyagokat a fa olcsó és könnyű vele dolgozni, de nagyon jól ég.\n\n3. Építs tűzfalakat, hogy megakadályozd a kolónia felé tartó bozóttüzeket. Egy 3-4 cella széles betonfal általában megállítja a terjedő tüzet.</FirePreparation.helpText>
   
-  <!-- EN: Forbid and unforbid -->
+  <!-- EN: Forbid and allow -->
   <Forbidding.label>Interakció engedélyezése</Forbidding.label>
-  <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to UNFORBID it. -->
+  <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it. -->
   <Forbidding.helpText>A gyarmatosok nem fognak olyan dolgokhoz nyúlni amik "Tiltott"-ak.\n\nVálaszd ki a földet érési területhez közeli tárgyakat és nyomj F-et, hogy felold a tiltást róluk.</Forbidding.helpText>
   
   <!-- EN: Forbidding doors -->
