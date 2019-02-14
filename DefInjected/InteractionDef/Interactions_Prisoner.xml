@@ -40,20 +40,20 @@
     <li>subject(p=8)->[TalkTopicLight]</li>
   -->
   <BuildRapport.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameIndef] [toldastoryabout] erről: [subject], neki [RECIPIENT_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] beszélt neki: [RECIPIENT_nameIndef], erről: [subject].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] elmagyarázta ezt: [subject], neki: [RECIPIENT_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] bátorította őt: [RECIPIENT_nameIndef], hogy [talkabout] erről: [subject].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] felajánlotta neki: [RECIPIENT_nameIndef], hogy [talkabout] erről: [subject].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] érdeklődött erről: [RECIPIENT_nameIndef] [PersonalCharacteristic].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] megkérdezte őt_ [RECIPIENT_nameIndef], erről: saját [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] erről: [subject], neki [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] beszélt neki: [RECIPIENT_nameDef], erről: [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] elmagyarázta ezt: [subject], neki: [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] bátorította őt: [RECIPIENT_nameDef], hogy [talkabout] erről: [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] felajánlotta neki: [RECIPIENT_nameDef], hogy [talkabout] erről: [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] érdeklődött erről: [RECIPIENT_nameDef] [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] megkérdezte őt_ [RECIPIENT_nameDef], erről: saját [PersonalCharacteristic].</li>
     <li>toldastoryabout(p=2)->elmesélt egy történetet</li>
     <li>toldastoryabout->elmesélt egy mókás történetet</li>
     <li>toldastoryabout->elmesélt egy komoly történetet</li>
     <li>toldastoryabout->elmesélt egy régi történetet</li>
     <li>toldastoryabout->elmesélt egy családi történetet</li>
     <li>toldastoryabout->elmesélt egy gyerekkori történetet</li>
-    <li>toldastoryabout->elmesélt egy anekdótát</li>
+    <li>toldastoryabout->elmesélt egy anekdotát</li>
     <li>talkabout->beszéljen</li>
     <li>talkabout->beszélgessen</li>
     <li>talkabout->dumáljon</li>
@@ -84,8 +84,8 @@
     <li>goodthing->free, fresh [Vegetable]s</li>
   -->
   <RecruitAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameIndef] megkérte őt: [RECIPIENT_nameIndef], hogy csatlakozzon.</li>
-    <li>r_logentry->[INITIATOR_nameIndef] ezt ígérte: [goodthing] neki: [RECIPIENT_nameIndef], és kérte őt, hogy csatlakozzon.</li>
+    <li>r_logentry->[INITIATOR_nameDef] megkérte őt: [RECIPIENT_nameDef], hogy csatlakozzon.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ezt ígérte: [goodthing] neki: [RECIPIENT_nameDef], és kérte őt, hogy csatlakozzon.</li>
     <li>goodthing(p=15)->[ConceptPositive]</li>
     <li>goodthing->ingyen friss [Vegetable]</li>
   </RecruitAttempt.logRulesInitiator.rulesStrings>
@@ -103,10 +103,10 @@
     <li>freedom->self-determination</li>
   -->
   <SparkJailbreak.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameIndef] erről beszélt: [freedom], és menkülési lehetőséget ajánlott.</li>
-    <li>r_logentry->[INITIATOR_nameIndef] erről beszélt: [TerrainFeature], és szabadságot ajánlott.</li>
-    <li>r_logentry->[INITIATOR_nameIndef] menekülési lehetőséget mutatott neki: [RECIPIENT_nameIndef], és ezt ígérte: [freedom].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] azt mondta neki: [RECIPIENT_nameIndef], hogy az őrzés laza, és szökésre bátorította.</li>
+    <li>r_logentry->[INITIATOR_nameDef] erről beszélt: [freedom], és menekülési lehetőséget ajánlott.</li>
+    <li>r_logentry->[INITIATOR_nameDef] erről beszélt: [TerrainFeature], és szabadságot ajánlott.</li>
+    <li>r_logentry->[INITIATOR_nameDef] menekülési lehetőséget mutatott neki: [RECIPIENT_nameDef], és ezt ígérte: [freedom].</li>
+    <li>r_logentry->[INITIATOR_nameDef] azt mondta neki: [RECIPIENT_nameDef], hogy az őrzés laza, és szökésre bátorította.</li>
     <li>freedom->szabadság</li>
     <li>freedom->lehetőség</li>
     <li>freedom->otthon</li>

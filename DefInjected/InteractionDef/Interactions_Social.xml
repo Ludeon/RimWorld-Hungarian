@@ -21,8 +21,8 @@
     <li>commentedabout->told a joke about</li>
   -->
   <Chitchat.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameIndef] és [RECIPIENT_nameIndef] [talkedabout], erről: [TalkTopicLight].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] [talkedabout] erről: [TalkTopicLight], vele: [RECIPIENT_nameIndef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] és [RECIPIENT_nameDef] [talkedabout], erről: [TalkTopicLight].</li>
+    <!-- <li>r_logentry->[INITIATOR_nameDef] [talkedabout] erről: [TalkTopicLight], vele: [RECIPIENT_nameDef].</li> -->
     <li>talkedabout(p=4)->beszélgetett</li>
     <li>talkedabout->pár szót váltott</li>
     <li>talkedabout->csevegett</li>
@@ -49,8 +49,8 @@
     <li>subject->[TalkTopicHeavy]</li>
   -->
   <DeepTalk.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameIndef] és [RECIPIENT_nameIndef] [talkedabout], erről: [subject].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] [talkedabout] erről: [subject], vele: [RECIPIENT_nameIndef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] és [RECIPIENT_nameDef] [talkedabout], erről: [subject].</li>
+    <!-- <li>r_logentry->[INITIATOR_nameDef] [talkedabout] erről: [subject], vele: [RECIPIENT_nameDef].</li> -->
     <li>talkedabout->gondolatokat csréltek</li>
     <li>talkedabout->ötleteltek</li>
     <li>talkedabout->megosztották nézeteiket</li>
@@ -85,11 +85,11 @@
     <li>insultcomparison->[Enemy]</li>
   -->
   <Insult.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=3)->[INITIATOR_nameIndef] [insulted] őt: [target], téma: [PersonalCharacteristic].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] ehhez hasonlította: [insultcomparison], őt: [target].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] ennek nevezte: [insultcomparison] őt: [target].</li>
-    <li>target(p=4)->[RECIPIENT_nameIndef]</li>
-    <li>target->[RECIPIENT_nameIndef] rokona: [PersonFamily]</li>
+    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] őt: [target], téma: [PersonalCharacteristic].</li>
+    <!-- <li>r_logentry->[INITIATOR_nameDef] ehhez hasonlította: [insultcomparison], őt: [target].</li> -->
+    <li>r_logentry->[INITIATOR_nameDef] [insultcomparison] névvel illette őt: [target].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[RECIPIENT_nameDef] rokona: [PersonFamily]</li>
     <li>insulted(p=3)->megsértette</li>
     <li>insulted->nyíltan megsértette</li>
     <li>insulted->hangosan megsértette</li>
@@ -98,7 +98,7 @@
     <li>insulted->gonoszul megsértette</li>
     <li>insulted->kirívóan megalázta</li>
     <li>insulted->rágalmazta</li>
-    <li>insulted->kigyúnyolta</li>
+    <li>insulted->kigúnyolta</li>
     <li>insultcomparison(p=2)->[Animal]</li>
     <li>insultcomparison->[Enemy]</li>
   </Insult.logRulesInitiator.rulesStrings>
@@ -122,15 +122,15 @@
     <li>complimented->said good things about</li>
   -->
   <KindWords.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameIndef] [complimented] őt: [RECIPIENT_nameIndef], téma: [PersonalCharacteristic].</li>
-    <li>complimented(p=3)->megdícsérte</li>
+    <li>r_logentry->[INITIATOR_nameDef] [complimented] őt: [RECIPIENT_nameDef], téma: [PersonalCharacteristic].</li>
+    <li>complimented(p=3)->megdicsérte</li>
     <li>complimented->magasztalta</li>
-    <li>complimented->megdícsérte</li>
+    <li>complimented->megdicsérte</li>
     <li>complimented->megtapsolta</li>
     <li>complimented->ünnepelte</li>
     <li>complimented->kedves szavakkal illette</li>
-    <li>complimented->áradozva megdícsérte</li>
-    <li>complimented->ömlengve megdícsérte</li>
+    <li>complimented->áradozva megdicsérte</li>
+    <li>complimented->ömlengve megdicsérte</li>
     <li>complimented->lelkendezve magasztalta</li>
     <li>complimented->jó szóval illette</li>
   </KindWords.logRulesInitiator.rulesStrings>
@@ -155,10 +155,10 @@
     <li>madefunof->offered a backhanded compliment about</li>
   -->
   <Slight.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameIndef] [madefunof] őt: [target], téma: [PersonalCharacteristic].</li>
-    <li>target(p=4)->[RECIPIENT_nameIndef]</li>
-    <li>target->[RECIPIENT_nameIndef] rokona: [PersonFamily]</li>
-    <li>madefunof->kigyúnyolta</li>
+    <li>r_logentry->[INITIATOR_nameDef] [madefunof] őt: [target], téma: [PersonalCharacteristic].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[RECIPIENT_nameDef] rokona: [PersonFamily]</li>
+    <li>madefunof->kigúnyolta</li>
     <li>madefunof->szégyenbe hozta</li>
     <li>madefunof->megvetette</li>
     <li>madefunof->leégette</li>

@@ -10,10 +10,10 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
   -->
   <Breakup.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameIndef] szakított vele: [OTHER_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] több teret kért tőle: [OTHER_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] megmondta neki: [OTHER_nameIndef], hogy nem működik a dolog.</li>
-    <li>r_logentry->[INITIATOR_nameIndef] megmondta neki [OTHER_nameIndef], hogy jobb lenne ha másokkal találkozgatnának.</li>
+    <li>r_logentry->[INITIATOR_nameDef] szakított vele: [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] több teret kért tőle: [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] megmondta neki: [RECIPIENT_nameDef], hogy nem működik a dolog.</li>
+    <li>r_logentry->[INITIATOR_nameDef] megmondta neki [RECIPIENT_nameDef], hogy jobb lenne ha másokkal találkozgatnának.</li>
   </Breakup.logRulesInitiator.rulesStrings>
   
   <!-- EN: marriage proposal -->
@@ -24,9 +24,9 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
   -->
   <MarriageProposal.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameIndef] házassági ajánlatot tett neki: [OTHER_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] örök hűséget ajánlott neki: [OTHER_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] azt mondta neki: [OTHER_nameIndef], hogy vele akarja leélni az életét.</li>
+    <li>r_logentry->[INITIATOR_nameDef] házassági ajánlatot tett neki: [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] örök hűséget ajánlott neki: [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] azt mondta neki: [RECIPIENT_nameDef], hogy vele akarja leélni az életét.</li>
   </MarriageProposal.logRulesInitiator.rulesStrings>
   
   <!-- EN: romance attempt -->
@@ -94,11 +94,11 @@
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   -->
   <RomanceAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameIndef] [wooed]: [OTHER_nameIndef], [wootactic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [wooed]: [RECIPIENT_nameDef], [wootactic].</li>
     <li>wooed->megpróbált flörtölni vele</li>
     <li>wooed->flörtölt vele</li>
     <li>wooed->megpróbálta elcsábítani őt</li>
-    <li>wooed->megpróbálta megába bolondítani őt</li>
+    <li>wooed->megpróbálta magába bolondítani őt</li>
     <li>wooed->udvarolt neki</li>
     <li>wooed->tette a szépet neki</li>
     <li>wooed->csapta a szelet neki</li>
@@ -108,14 +108,14 @@
     <li>wootactic(p=2)->[boasting]: [PersonalCharacteristic]</li>
     <li>wootactic(p=2)->erről mesélve: [TalkTopicLight]</li>
     <li>wootactic(p=2)->erről mesélve:[TalkTopicHeavy]</li>
-    <li>wootactic->összehasonlítva ezt: [OTHER_objective] ehhez: [romantic_adj] [romantic_noun]</li>
-    <li>boasting->dicsekdve ezzel</li>
+    <li>wootactic->összehasonlítva őt ezzel: [romantic_adj] [romantic_noun]</li>
+    <li>boasting->dicsekedve ezzel</li>
     <li>boasting->megemlítve ezt</li>
     <li>boasting->felnagyítva ezt</li>
     <li>boasting->beszélve erről</li>
     <li>boasting->felhívva a figyelmet erre</li>
-    <li>complimenting(p=3)->megdícsérve ezt</li>
-    <li>complimenting->finoman  megdícsérve ezt</li>
+    <li>complimenting(p=3)->megdicsérve ezt</li>
+    <li>complimenting->finoman megdicsérve ezt</li>
     <li>complimenting->kiemelve ezt</li>
     <li>complimenting->magasztalva ezt</li>
     <li>complimenting->ömlengve erről</li>

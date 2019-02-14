@@ -59,7 +59,7 @@
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} chance to attack when harmed from rifle range. Chance is higher if closer, less with good hunter stealth. -->
   <MessageAnimalsGoPsychoHunted>Figyelem: {ANIMAL_kindBaseDef} gyakran támad, ha bántják. ({1} esély lőtávon, közelebb több).</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
-  <MessageAnimalManhuntsOnTameFailed>Figyelem: a(z) {ANIMAL_kindBasePlural} támadhatnak, ha nem sikerül megszelídíteni őket. ({1} esély).</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalManhuntsOnTameFailed>Figyelem: {ANIMAL_kindBasePluralDef} támadhatnak, ha nem sikerül megszelídíteni őket. ({1} esély).</MessageAnimalManhuntsOnTameFailed>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>Újonc</LetterLabelMessageRecruitSuccess>

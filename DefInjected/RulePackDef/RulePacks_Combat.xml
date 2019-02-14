@@ -270,8 +270,8 @@
     <li>flavortext_situation(p=0.2,initiator_flesh==Normal)->vigyorogva</li>
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->undorító sebet hagyva</li>
     <li>flavortext_consequence->szörnyű sebet hagyva</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->[recipient_objective] [painevent] [wince]</li>
-    <li>flavortext_consequence(p=0.2)->kibillentve egyensúlyából ezt: [recipient_objective]</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->[painevent] [wince]</li>
+    <li>flavortext_consequence(p=0.2)->kibillentve egyensúlyából őt</li>
   </Combat_MeleeDamageIncludes.rulePack.rulesStrings>
   
   <!-- EN:

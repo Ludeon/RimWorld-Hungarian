@@ -28,14 +28,14 @@
     <li>tamed->whispered a story about [TalkTopicAny] to</li>
   -->
   <AnimalChat.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=5)->[INITIATOR_nameIndef] [tamed]: [RECIPIENT_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] [RECIPIENT_nameIndef] közelébe ült és erről beszélt: [TalkTopicAny].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] megközelítette őt: [RECIPIENT_nameIndef], miközben erről suttogott: [TalkTopicAny].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] [RECIPIENT_nameIndef] közelébe jött, miközben erről beszélt: [TalkTopicAny].</li>
+    <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed]: [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [RECIPIENT_nameDef] közelébe ült és erről beszélt: [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] megközelítette őt: [RECIPIENT_nameDef], miközben erről suttogott: [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [RECIPIENT_nameDef] közelébe jött, miközben erről beszélt: [TalkTopicAny].</li>
     <li>tamed->nyugtató hangon beszélt neki</li>
     <li>tamed->lassú, barátságos gesztusokat tett felé</li>
     <li>tamed->suttogott neki</li>
-    <li>tamed->vidám hangokat addot ki feléje</li>
+    <li>tamed->vidám hangokat adott ki feléje</li>
     <li>tamed->kedvesen mosolyogva közeledett felé</li>
     <li>tamed->lassan közeledett felé</li>
     <li>tamed->gyengéden megérintette őt</li>
@@ -81,8 +81,8 @@
     <li>rubbedpart->arm</li>
   -->
   <Nuzzle.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=2)->[INITIATOR_nameIndef] [nuzzleadverb] [nuzzled], hozzá:[RECIPIENT_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] [nuzzleadverb] odadörgölte az orrát [RECIPIENT_nameIndef] [rubbedpart].</li>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled], hozzá:[RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] odadörgölte az orrát [RECIPIENT_nameDef] [rubbedpart].</li>
     <li>nuzzled(p=2)->dörgölőzött</li>
     <li>nuzzled->simult</li>
     <li>nuzzleadverb(p=4)-></li>
@@ -127,21 +127,21 @@
     <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
   -->
   <TameAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameIndef] megpróbálta megszelídíteni őt: [RECIPIENT_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] megpróbálta irányítani őt: [RECIPIENT_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] megpróbálta pórázra kötni őt: [RECIPIENT_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] engedelmességet követelt tőle: [RECIPIENT_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] magához hívta őt: [RECIPIENT_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] megpróbálta ülésre bírni őt: [RECIPIENT_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] keményen megfogta őt: [RECIPIENT_nameIndef], és egy parancsot kiáltott.</li>
-    <li>r_logentry->[INITIATOR_nameIndef] megpróbálta helyben tartani őt: [RECIPIENT_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] parancsot kiabált neki: [RECIPIENT_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] dominánsan megpofozta őt: [RECIPIENT_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] visszaküldte a faluba őt: [RECIPIENT_nameIndef]</li>
-    <li>r_logentry->[INITIATOR_nameIndef] visszahívta a faluba őt: [RECIPIENT_nameIndef].</li>
-    <li>r_logentry->[INITIATOR_nameIndef] [RECIPIENT_nameIndef] sérülékeny testrészéhez nyúlt, engedelmességet követelve.</li>
-    <li>r_logentry->[INITIATOR_nameIndef] a földre mutatott, követelve, hogy [RECIPIENT_nameIndef] odajöjjön.</li>
-    <li>r_logentry->[INITIATOR_nameIndef] parancsszót tanított neki: [RECIPIENT_nameIndef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] megpróbálta megszelídíteni őt: [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] megpróbálta irányítani őt: [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] megpróbálta pórázra kötni őt: [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] engedelmességet követelt tőle: [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] magához hívta őt: [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] megpróbálta ülésre bírni őt: [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] keményen megfogta őt: [RECIPIENT_nameDef], és egy parancsot kiáltott.</li>
+    <li>r_logentry->[INITIATOR_nameDef] megpróbálta helyben tartani őt: [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] parancsot kiabált neki: [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] dominánsan megpofozta őt: [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] visszaküldte a faluba őt: [RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef] visszahívta a faluba őt: [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [RECIPIENT_nameDef] sérülékeny testrészéhez nyúlt, engedelmességet követelve.</li>
+    <li>r_logentry->[INITIATOR_nameDef] a földre mutatott, követelve, hogy [RECIPIENT_nameDef] odajöjjön.</li>
+    <li>r_logentry->[INITIATOR_nameDef] parancsszót tanított neki: [RECIPIENT_nameDef].</li>
   </TameAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: train attempt -->
@@ -159,7 +159,7 @@
     <li>tried->attempted</li>
   -->
   <TrainAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameIndef] [trained]: [RECIPIENT_nameIndef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [trained]: [RECIPIENT_nameDef].</li>
     <li>trained(p=2)->[tried] idomítani őt</li>
     <li>trained->[tried] új trükköt mutatni neki</li>
     <li>trained->[tried] fegyelmet tanítani neki</li>

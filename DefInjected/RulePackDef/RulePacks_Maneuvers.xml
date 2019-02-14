@@ -320,8 +320,8 @@
   <Maneuver_Smash.rulePack.rulesStrings>
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->óriási horzsolást hagyva</li>
     <li>flavortext_consequence->egyértelmű elváltozást hagyva</li>
-    <li>flavortext_consequence->kibillentve egyensúlyából ezt: [recipient_objective]</li>
-    <li>flavortext_consequence->kibillentve oldalra ezt: [recipient_objective]</li>
+    <li>flavortext_consequence->kibillentve egyensúlyából őt</li>
+    <li>flavortext_consequence->kibillentve oldalra őt</li>
     <li>destroyed_suffix->darabokra</li>
     <li>destroyed_suffix->darabkákra</li>
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->köddé</li>
