@@ -1207,6 +1207,24 @@
     <desc>Miután elhagyta a hazáját, [PAWN_nameDef] tudását a csillagok közé vitte.\n\nÚgy döntött, hogy zsoldosként éli életét, különböző lázadó szervezeteknek, rabszolgasorba taszított csoportoknak és kereskedelmi enklávéknak dolgozva. Specialitása volt harci helyzetekben tárgyalásokat lefolytatni.</desc>
   </CombatNegotiator47>
   
+  <CommonerHeir25>
+    <!-- EN: Commoner heir -->
+    <title>Trónörökös közember</title>
+    <!-- EN: Heir -->
+    <titleShort>Trónörökös</titleShort>
+    <!-- EN: [PAWN_nameDef] was a street urchin on a feudal steamworld.\n\nAfter [PAWN_pronoun] tried to steal food from the palace, the emperor, desperate to secure an heir, took [PAWN_objective] in and groomed [PAWN_objective] to be next in line for the throne. -->
+    <desc>[PAWN_nameDef] utcagyerek volt egy feudális világban. Ételt próbált lopni a palotából, de a császár befogadta és híján törvényes utódnak, a trón örökösének nevelte őt.</desc>
+  </CommonerHeir25>
+  
+  <CommonerLord87>
+    <!-- EN: Commoner lord -->
+    <title>Közemberből lett földesúr</title>
+    <!-- EN: Lord -->
+    <titleShort>Földesúr</titleShort>
+    <!-- EN: After years of training in martial arts and diplomacy, [PAWN_nameDef] was eventually given land and subjects of [PAWN_possessive] own to rule.\n\nBecause of [PAWN_nameDef]'s commoner heritage, the other lords disapproved. They framed [PAWN_objective] for a heinous crime, and the emperor had no choice but to exile [PAWN_objective]. -->
+    <desc>Hosszú évek harci és diplomáciai képzése után, [PAWN_nameDef] földeket kapott és saját alattvalókat.\n\n[PAWN_nameDef] egyszerű származása miatt állandó céltáblája volt a többi nemesnek. Koholt vádak alapján perbe fogták, és a császárnak nem volt más választása, mint száműzni őt.</desc>
+  </CommonerLord87>
+  
   <ComputerEngineer16>
     <!-- EN: computer engineer  -->
     <title>Számítástechnikai mérnök</title>
