@@ -211,7 +211,7 @@
   <!-- EN: refine chemicals -->
   <DoBillsRefinery.verb>finomítani</DoBillsRefinery.verb>
   
-  <!-- EN: make sculptures -->
+  <!-- EN: make things at art bench -->
   <DoBillsSculpt.label>műtárgyat készít</DoBillsSculpt.label>
   <!-- EN: sculpting at -->
   <DoBillsSculpt.gerund>készítés</DoBillsSculpt.gerund>
@@ -288,6 +288,13 @@
   <!-- EN: tend to -->
   <DoctorTendToSelf.verb>ellát</DoctorTendToSelf.verb>
   
+  <!-- EN: tend to self -->
+  <DoctorTendToSelfEmergency.label>TODO</DoctorTendToSelfEmergency.label>
+  <!-- EN: tending to -->
+  <DoctorTendToSelfEmergency.gerund>TODO</DoctorTendToSelfEmergency.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToSelfEmergency.verb>TODO</DoctorTendToSelfEmergency.verb>
+  
   <!-- EN: execute prisoners -->
   <DoExecution.label>kivégez</DoExecution.label>
   <!-- EN: doing execution on -->
@@ -336,6 +343,13 @@
   <Flick.gerund>átkapcsolás</Flick.gerund>
   <!-- EN: flick switch on -->
   <Flick.verb>átkapcsolni</Flick.verb>
+  
+  <!-- EN: operate ground penetrating scanner -->
+  <GroundPenetratingScan.label>TODO</GroundPenetratingScan.label>
+  <!-- EN: scanning at -->
+  <GroundPenetratingScan.gerund>TODO</GroundPenetratingScan.gerund>
+  <!-- EN: scan -->
+  <GroundPenetratingScan.verb>TODO</GroundPenetratingScan.verb>
   
   <!-- EN: harvest crops -->
   <GrowerHarvest.label>termést arat</GrowerHarvest.label>
@@ -399,6 +413,13 @@
   <LoadTransporters.gerund>felpakolás</LoadTransporters.gerund>
   <!-- EN: load -->
   <LoadTransporters.verb>felpakolni</LoadTransporters.verb>
+  
+  <!-- EN: operate long range scanner -->
+  <LongRangeScan.label>TODO</LongRangeScan.label>
+  <!-- EN: scanning at -->
+  <LongRangeScan.gerund>TODO</LongRangeScan.gerund>
+  <!-- EN: scan -->
+  <LongRangeScan.verb>TODO</LongRangeScan.verb>
   
   <!-- EN: milk animals -->
   <Milk.label>tejet fej</Milk.label>
@@ -491,11 +512,9 @@
   <!-- EN: research -->
   <Research.verb>kutatni</Research.verb>
   
-  <!-- EN: operate scanner -->
+  <!-- UNUSED -->
   <Scan.label>letapogat</Scan.label>
-  <!-- EN: scanning at -->
   <Scan.gerund>letapogatás</Scan.gerund>
-  <!-- EN: scan -->
   <Scan.verb>letapogatni</Scan.verb>
   
   <!-- EN: shear animals -->

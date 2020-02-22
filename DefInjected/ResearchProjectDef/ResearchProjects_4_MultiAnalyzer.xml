@@ -6,7 +6,7 @@
   <!-- EN: Fabricate advanced components from standard components and other materials. -->
   <AdvancedFabrication.description>Fejlettebb alkatrészek gyártása egyszerűből és egyéb anyagokból.</AdvancedFabrication.description>
   
-  <!-- EN: bionics -->
+  <!-- EN: bionic replacements -->
   <Bionics.label>Bionika</Bionics.label>
   <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
   <Bionics.description>Fejlett bionikus testrészek gyártása elvesztett végtagok és szemek pótlására. Képzett orvos szükséges a felhelyezéshez.</Bionics.description>
@@ -30,6 +30,10 @@
   <Fabrication.label>Gyártás</Fabrication.label>
   <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
   <Fabrication.description>Szerelőasztalok építése, melynél bonyolult technológiák hozhatók létre, mint pl. alkatrészek vagy erőpáncél.</Fabrication.description>
+  <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components.\n  -Some special threats drop them when defeated. -->
+  <Fabrication.discoveredLetterText>TODO</Fabrication.discoveredLetterText>
+  <!-- EN: About: Getting advanced components -->
+  <Fabrication.discoveredLetterTitle>TODO</Fabrication.discoveredLetterTitle>
   
   <!-- EN: ground-penetrating scanner -->
   <GroundPenetratingScanner.label>Talaj letapogató</GroundPenetratingScanner.label>
@@ -41,10 +45,15 @@
   <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
   <MultiAnalyzer.description>Lehetővé teszi multianalizátor építését, ami növeli a kutatások sebességét, és magasabb szintű kutatási terveket engedélyez, ha laborasztal mellé helyezik.</MultiAnalyzer.description>
   
-  <!-- EN: powered armor -->
+  <!-- EN: marine armor -->
   <PoweredArmor.label>Erőpáncél</PoweredArmor.label>
-  <!-- EN: Build the power armor and power armor helmets. Note that these also require advanced components. -->
+  <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
   <PoweredArmor.description>A neuromimetikus robotika és a fejlett plasztacél technológia lehetővé teszik erőpáncél és erőpáncél sisak gyártását.</PoweredArmor.description>
+  
+  <!-- EN: recon armor -->
+  <ReconArmor.label>TODO</ReconArmor.label>
+  <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
+  <ReconArmor.description>TODO</ReconArmor.description>
   
   <!-- EN: uranium slug turret -->
   <SniperTurret.label>Mesterlövész ágyú</SniperTurret.label>

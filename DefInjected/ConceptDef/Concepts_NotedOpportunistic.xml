@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: Animals don't attack doors -->
+  <!-- EN: Animals will attack doors -->
   <AnimalsDontAttackDoors.label>Állat nem támad ajtót</AnimalsDontAttackDoors.label>
-  <!-- EN: Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you. -->
+  <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
   <AnimalsDontAttackDoors.helpText>Az emberevők ajtókon nem jutnak át, kikapcsolt ágyúkat nem támadnak meg.\n\nElmenekülhetsz előlük, ha zárt térbe mész, de lehet, hogy megvárnak.</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->

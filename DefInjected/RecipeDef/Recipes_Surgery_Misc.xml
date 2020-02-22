@@ -1,13 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: administer healer mech serum -->
-  <AdministerMechSerumHealer.label>mech szérum adagolása</AdministerMechSerumHealer.label>
-  <!-- EN: Administer a healer mech serum. -->
-  <AdministerMechSerumHealer.description>Mech szérum adagolása.</AdministerMechSerumHealer.description>
-  <!-- EN: Administering healer mech serum. -->
-  <AdministerMechSerumHealer.jobString>Mech szérumot adagol.</AdministerMechSerumHealer.jobString>
-  
   <!-- EN: anesthetize -->
   <Anesthetize.label>altatás</Anesthetize.label>
   <!-- EN: Render a creature unconscious by administering general anesthetic. -->
@@ -21,15 +14,6 @@
   <Euthanize.description>Eutanázia végrehajtása.</Euthanize.description>
   <!-- EN: Euthanizing by cutting. -->
   <Euthanize.jobString>Eutanáziát hajt végre.</Euthanize.jobString>
-  
-  <!-- EN: excise carcinoma -->
-  <ExciseCarcinoma.label>daganat eltávolítás</ExciseCarcinoma.label>
-  <!-- EN: Excise a carcinoma. -->
-  <ExciseCarcinoma.description>Rákos daganat eltávolítása.</ExciseCarcinoma.description>
-  <!-- EN: Excising carcinoma. -->
-  <ExciseCarcinoma.jobString>Daganatot távolít el.</ExciseCarcinoma.jobString>
-  <!-- EN: {0} has successfully excised {1}'s carcinoma. -->
-  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} sikeresen eltávolította {1} daganatát.</ExciseCarcinoma.successfullyRemovedHediffMessage>
   
   <!-- EN: remove part -->
   <RemoveBodyPart.label>testrész eltávolítás</RemoveBodyPart.label>

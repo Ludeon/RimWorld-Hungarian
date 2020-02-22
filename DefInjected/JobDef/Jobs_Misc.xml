@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: applying techprint TargetB. -->
+  <ApplyTechprint.reportString>TODO</ApplyTechprint.reportString>
+  
   <!-- EN: melee attacking TargetA. -->
   <AttackMelee.reportString>megtámadja őt: TargetA.</AttackMelee.reportString>
   
@@ -9,6 +12,9 @@
   
   <!-- EN: beating fire out. -->
   <BeatFire.reportString>tüzet tapos el.</BeatFire.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThing.reportString>TODO</CastAbilityOnThing.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>havat lapátol.</ClearSnow.reportString>
@@ -51,6 +57,9 @@
   
   <!-- EN: moving. -->
   <Goto.reportString>megy.</Goto.reportString>
+  
+  <!-- EN: moving. -->
+  <GotoMindControlled.reportString>TODO</GotoMindControlled.reportString>
   
   <!-- EN: seeking safe temperature. -->
   <GotoSafeTemperature.reportString>biztonságos hőmérsékletet keres.</GotoSafeTemperature.reportString>

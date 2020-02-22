@@ -15,7 +15,6 @@
   <ColdSnap.label>hideghullám</ColdSnap.label>
   <!-- EN: Cold snap -->
   <ColdSnap.letterLabel>Hideghullám</ColdSnap.letterLabel>
-  <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
   <ColdSnap.letterText>Szokatlanul erős hideghullám kezdődött. Figyelj a kihűlésre és a sorvadó növényekre!</ColdSnap.letterText>
   
   <!-- EN: crop blight -->
@@ -28,14 +27,12 @@
   <Flashstorm.label>ménkűvihar</Flashstorm.label>
   <!-- EN: Flashstorm -->
   <Flashstorm.letterLabel>Ménkűvihar</Flashstorm.letterLabel>
-  <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
   <Flashstorm.letterText>Rengeteg villám csap le egy kis területre. Ez nagy tüzeket okozhat.</Flashstorm.letterText>
   
   <!-- EN: heat wave -->
   <HeatWave.label>hőhullám</HeatWave.label>
   <!-- EN: Heat wave -->
   <HeatWave.letterLabel>Hőhullám</HeatWave.letterLabel>
-  <!-- EN: An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain. -->
   <HeatWave.letterText>Szokatlanul erős hőhullám kezdődött. Hőguta veszély!</HeatWave.letterText>
   
   <!-- EN: herd migration -->
@@ -63,7 +60,7 @@
   <!-- EN: Ransom demand -->
   <RansomDemand.letterLabel>Váltságdíj követelés</RansomDemand.letterLabel>
   
-  <!-- EN: chased refugee -->
+  <!-- UNUSED -->
   <RefugeeChased.label>üldözött menekült</RefugeeChased.label>
   
   <!-- EN: transport pod crash -->
@@ -85,21 +82,19 @@
   <ToxicFallout.label>mérgező csapadék</ToxicFallout.label>
   <!-- EN: Toxic fallout -->
   <ToxicFallout.letterLabel>Mérgező csapadék</ToxicFallout.letterLabel>
-  <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season. -->
   <ToxicFallout.letterText>Egy távoli vegyi tűz mérgező felhőt bocsájtott az egész régió fölé.\n\nMinden ember vagy állat, aki nincsen tető alatt, lassan megbetegszik az atmoszférából lecsapódó mérgező portól.\n\nPár napig biztos, de akár egy hónapig is eltarthat.</ToxicFallout.letterText>
   
   <!-- EN: volcanic winter -->
   <VolcanicWinter.label>vulkanikus tél</VolcanicWinter.label>
   <!-- EN: Volcanic winter -->
   <VolcanicWinter.letterLabel>Vulkanikus tél</VolcanicWinter.letterLabel>
-  <!-- EN: A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
   <VolcanicWinter.letterText>Egy messzi szupervulkán kitört, és elkezdte teleszórni az atmoszférát több millió köbkilométer hamuval.\n\nA levegőben lévő hamu el fogja takarni a napot. A hőmérséklet esni fog és a növények megszenvedik a napfény hiányát. Pár hétig biztos, de akár hónapokig is eltarthat.</VolcanicWinter.letterText>
   
   <!-- EN: wanderer join -->
   <WandererJoin.label>vándor csatlakozik</WandererJoin.label>
-  <!-- EN: Wanderer joins -->
+  <!-- EN: Wanderer joins: {PAWN_nameDef} -->
   <WandererJoin.letterLabel>Vándor csatlakozik</WandererJoin.letterLabel>
-  <!-- EN: A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
+  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
   <WandererJoin.letterText>Egy [PAWN_nameDef] nevű [PAWN_kind] érkezett és csatlakozott a kolóniához. A titulusa [PAWN_title].\n\nHajlandó dolgozni, de magától nem fog elmenni. Ha nincs szükséged rá, száműzheted, eladhatod rabszolgának, vagy egyszerűen megölheted. Ezt a többi gyarmatos felkavarónak fogja találni.</WandererJoin.letterText>
   
   <!-- EN: wild man wanders in -->

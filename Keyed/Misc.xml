@@ -16,18 +16,28 @@
 
   <!-- EN: Version {0} -->
   <VersionIndicator>Verzió: {0}</VersionIndicator>
+  <!-- EN: Game version -->
+  <GameVersionIndicator>TODO</GameVersionIndicator>
   <!-- EN: development build -->
   <DevelopmentBuildLower>fejlesztő kiadás</DevelopmentBuildLower>
   <!-- EN: Compiled {0} -->
   <CompiledOn>Kiadva: {0}</CompiledOn>
   <!-- EN: Logged into Steam as {0} -->
   <LoggedIntoSteamAs>Bejelentkezve a Steambe mint: {0}</LoggedIntoSteamAs>
-
+  
+  <!-- ToCommaList() -->
+  <!-- EN: {0} and {1} -->
+  <ToCommaListAnd>TODO</ToCommaListAnd>
+  
   <!-- General-use words -->
   <!-- EN: Yes -->
   <Yes>Igen</Yes>
   <!-- EN: No -->
   <No>Nem</No>
+  <!-- EN: new -->
+  <New>TODO</New>
+  <!-- EN: Gender -->
+  <Gender>TODO</Gender>
   <!-- EN: min -->
   <min>min</min>
   <!-- EN: max -->
@@ -42,6 +52,8 @@
   <damage>sebzés</damage>
   <!-- EN: radius -->
   <radius>sugár</radius>
+  <!-- EN: expired -->
+  <expired>TODO</expired>
   <!-- EN: duration (days) -->
   <durationDays>időtartam (nap)</durationDays>
   <!-- EN: interval (days) -->
@@ -66,6 +78,8 @@
   <Default>Alapértelmezett</Default>
   <!-- EN: Average -->
   <Average>Átlag</Average>
+  <!-- EN: Cause -->
+  <Cause>TODO</Cause>
   <!-- EN: ${0} -->
   <MoneyFormat>${0}</MoneyFormat>
 
@@ -79,6 +93,16 @@
   <MeatInsectDesc>Nyers hús. Étel készíthető belőle, de akár nyersen is fogyasztható. Rendkívül gusztustalan.</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
   <MeatHumanDesc>Nyers hús. Étel készíthető belőle, de akár nyersen is fogyasztható, bár a legtöbb ember nem szívesen tenné...</MeatHumanDesc>
+
+  <!-- EN: techprint ({PROJECT_label}) -->
+  <TechprintLabel>TODO</TechprintLabel>
+  <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
+\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
+\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
+\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
+  <TechprintDesc>TODO</TechprintDesc>
+  <!-- EN: Unlocks -->
+  <Unlocks>TODO</Unlocks>
 
   <!-- EN: {0} corpse -->
   <CorpseLabel>{0} teteme</CorpseLabel>
@@ -134,5 +158,8 @@
   <West>Nyugat</West>
   <!-- EN: East -->
   <East>Kelet</East>
+
+  <!-- EN: applying techprint ({0}) -->
+  <ApplyingTechprint>TODO</ApplyingTechprint>
   
 </LanguageData>

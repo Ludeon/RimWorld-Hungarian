@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: AI persona core -->
+  <!-- EN: persona core -->
   <AIPersonaCore.label>MI személyiségközpont</AIPersonaCore.label>
-  <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent AI persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
+  <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent machine persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
   <AIPersonaCore.description>Nagyon fejlett számítógép, ami egy mesterséges intelligenciának ad otthont. Elszigetelve inaktív állapotba kerül, de megfelelő kiszolgálórendszerekkel kiegészítve félelmetes gépezetté válik.</AIPersonaCore.description>
   
   <!-- EN: elephant tusk -->
@@ -22,11 +22,9 @@
   <!-- EN: Use healer mech serum -->
   <MechSerumHealer.comps.CompUsable.useLabel>Gyógyító mech szérum használata</MechSerumHealer.comps.CompUsable.useLabel>
   
-  <!-- EN: neurotrainer mech serum -->
+  <!-- UNUSED -->
   <MechSerumNeurotrainer.label>neuroképző mech szérum</MechSerumNeurotrainer.label>
-  <!-- EN: A one-use super-dose of mechanites tuned to train a specific skill. The dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
   <MechSerumNeurotrainer.description>Egyszer használatos nanotechnológiás képzőeszköz. A szemgolyón keresztül adják be. Amint az agyba jut, a nanitok gyorsan felfejlesztik az alany egy bizonyos készségét, a szükséges agyszövetek megformálásával.</MechSerumNeurotrainer.description>
-  <!-- EN: Use neurotrainer mech serum to learn {0} -->
   <MechSerumNeurotrainer.comps.CompNeurotrainer.useLabel>Neuroképzés mech szérum használatával: {0}</MechSerumNeurotrainer.comps.CompNeurotrainer.useLabel>
   
   <!-- EN: resurrector mech serum -->

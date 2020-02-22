@@ -19,7 +19,7 @@
   <GameUpdatedToNewVersionSavesCompatible>A régi verzió mentett állásainak működnie kéne, de a modokkal gond lehet.</GameUpdatedToNewVersionSavesCompatible>
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
   <GameUpdatedToNewVersionNonSteam>Mivel ezen a verzión nincs másolásvédelem, két különböző helyre is feltelepítheted, így játszhatsz régi és új verzióval is párhuzamosan.</GameUpdatedToNewVersionNonSteam>
-  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this. -->
+  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
   <GameUpdatedToNewVersionSteam>Ha régebbi verzióval akarsz tovább játszani, használhatod a Steam 'Beta' szolgáltatását.\n\n1. A Steam fiókodban jobb klikk a 'RimWorld'-ön.\n2. Klikk a Beállitásokra.\n3. Klikk a 'Betas' fülre.\n4. Válaszd ki a kívánt verziót.\n\nAz régebbi verziók egy idő után törölve lesznek - de nem kell attól tartani, hogy a játékodat félbevágjuk.\n\nFigyelem, ha a modkészítők frissítik a modjukat az új verzióra, azok valószínűleg nem fognak többé működni az régebbi verziókkal. Kapcsold ki az automatikus frissítést, ennek megakadályozására.</GameUpdatedToNewVersionSteam>
   
   <!-- Recovered from errors caused by mods -->
@@ -117,6 +117,14 @@
   <ChangeLoadedMods>Modlista betöltése mentett állásból</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>Némely mod nem elérhető, újra kell telepíteni őket</MissingMods>
+  <!-- EN: Official content -->
+  <OfficialContent>TODO</OfficialContent>
+  <!-- EN: Active -->
+  <ContentActive>TODO</ContentActive>
+  <!-- EN: Installed, but not active -->
+  <ContentInstalledButNotActive>TODO</ContentInstalledButNotActive>
+  <!-- EN: Not installed -->
+  <ContentNotInstalled>TODO</ContentNotInstalled>
   
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
@@ -179,28 +187,6 @@
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
   <ConfirmPermanentlyDisableDevMode>Biztosan végleg ki akarod kapcsolni a fejlesztői módot?</ConfirmPermanentlyDisableDevMode>
-
-  <!-- Research -->
-  <!-- EN: Research -->
-  <Research>Kutatás</Research>
-  <!-- EN: Researched -->
-  <Researched>Felfedezve</Researched>
-  <!-- EN: Unresearched -->
-  <Unresearched>Ismeretlen</Unresearched>
-  <!-- EN: Finished -->
-  <Finished>Kész</Finished>
-  <!-- EN: In Progress -->
-  <InProgress>Folyamatban</InProgress>
-  <!-- EN: Locked -->
-  <Locked>Zárva</Locked>
-  <!-- EN: Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
-  <ResearchMenuWithoutBench>Amíg nem építesz laborasztalt, addig az embereid nem tudják elkezdeni a kutatást.\n\nÁmbár addig is tudsz itt nézelődni és már most is választhatsz kutatási projektet.</ResearchMenuWithoutBench>
-  <!-- EN: Research prerequisites -->
-  <ResearchPrerequisites>Kutatási előfeltételek</ResearchPrerequisites>
-  <!-- EN: Required research bench -->
-  <RequiredResearchBench>Szükséges kutatólabor</RequiredResearchBench>
-  <!-- EN: Required research bench facilities -->
-  <RequiredResearchBenchFacilities>Szükséges kutatási felszerelés</RequiredResearchBenchFacilities>
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
@@ -312,13 +298,15 @@
   <MeleeWarmupTime>Közelharci bemelegedés</MeleeWarmupTime>
   <!-- EN: Cooldown -->
   <CooldownTime>Lövések közötti szünet</CooldownTime>
+  <!-- EN: Disarmed -->
+  <DisarmedTime>TODO</DisarmedTime>
   <!-- EN: Fire rate -->
   <BurstShotFireRate>Tűzgyorsaság</BurstShotFireRate>
   <!-- EN: Range -->
   <Range>Hatótáv</Range>
   <!-- EN: Stopping power -->
   <StoppingPower>Megállító erő</StoppingPower>
-  <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
+  <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds.\n\nTargets with a body size larger than the stopping power will be unaffected. -->
   <StoppingPowerExplanation>Ez a fegyver megtántorítja az ellenfelet, lelassítva a mozgásukat pár másodpercre. Ha az ellenfél testmérete nagyobb mint ez az érték, nem kerülnek a hatása alá.</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
   <DirectHitChance>Közvetlen találat esélye</DirectHitChance>
@@ -338,7 +326,7 @@
   <MinGrowthTemperature>Min. növekedési hőmérséklet</MinGrowthTemperature>
   <!-- EN: Max growth temperature -->
   <MaxGrowthTemperature>Max. növekedési hőmérséklet</MaxGrowthTemperature>
-  <!-- EN: Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth. -->
+  <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
   <GrowingTimeDesc>A növények nem egész nap és csak fényben nőnek. Ez a szám mutatja meg mennyi tenyészidő szükséges a teljes kifejlődésig. Általában ennek kb. kétszerese szükséges, ha az eltelt időt nézzük. Az alacsony hőmérséklet is lassítja a növekedést.</GrowingTimeDesc>
   <!-- EN: days -->
   <Days>nap</Days>
@@ -366,6 +354,8 @@
   <MinFoodQuality>Min. étel minőség</MinFoodQuality>
   <!-- EN: Diet -->
   <Diet>Étrend</Diet>
+  <!-- EN: Nutrition need per day -->
+  <NutritationEatenPerDay>TODO</NutritationEatenPerDay>
   <!-- EN: Leather type -->
   <LeatherType>Bőr fajta</LeatherType>
   <!-- EN: Body size -->
@@ -376,11 +366,13 @@
   <MarketValue>Alapár</MarketValue>
   <!-- EN: Covers -->
   <Covers>Befedi</Covers>
+  <!-- EN: Created at -->
+  <CreatedAt>TODO</CreatedAt>
   <!-- EN: Layer -->
   <Layer>Réteg</Layer>
   <!-- EN: Cover effectiveness -->
   <CoverEffectiveness>Fedezék hatékonysága</CoverEffectiveness>
-  <!-- EN: How effective this is when used as cover in a gunfight. Higher percentages will block more shots. -->
+  <!-- EN: How effective this is when used as cover in a gunfight.\n\nHigher percentages will block more shots. -->
   <CoverEffectivenessExplanation>Mennyire hatékonyan fogja fel a lövéseket az adott fedezék. Nagyobb szám több elkerült lövést jelent.</CoverEffectivenessExplanation>
   <!-- EN: Experience gain factor -->
   <MedicineXpGainFactor>Tapasztalatszerzési faktor</MedicineXpGainFactor>
@@ -396,7 +388,7 @@
   <TamenessWillNotDecay>Örökké szelídített marad.</TamenessWillNotDecay>
   <!-- EN: Animal filth rate -->
   <AnimalFilthRate>Koszolás mértéke</AnimalFilthRate>
-  <!-- EN: Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
+  <!-- EN: Animals produce filth when moving around on constructed floors.\n\nThis is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
   <AnimalFilthRateExplanation>Az állatok koszt hagynak maguk után épített padlón. Ez az átlagos mennyiségű termelt kosz {0} cellánként, amit az állat bejár.\n\nNagyobb és nem "házi kedvenc" típusú állatok jobban koszolnak.</AnimalFilthRateExplanation>
   <!-- EN: Time -->
   <TimeRecordsCategory>Idő</TimeRecordsCategory>
@@ -412,21 +404,23 @@
   <Skill>Készség</Skill>
   <!-- EN: Success rate multiplier -->
   <SurgerySuccessChanceFactor>Sikerességi szorzó</SurgerySuccessChanceFactor>
+  <!-- EN: Death chance on fail -->
+  <SurgeryDeathOnFailChance>TODO</SurgeryDeathOnFailChance>
   <!-- EN: Work speed governed by -->
   <WorkSpeedStat>Munkatempó szabályozó</WorkSpeedStat>
   <!-- EN: Output quantity governed by -->
   <EfficiencyStat>Hatékonyság szabályozó</EfficiencyStat>
-  <!-- EN: Construction skill required -->
-  <ConstructionSkillRequired>Építész készség szükséges</ConstructionSkillRequired>
-  <!-- EN: Requires this level of Construction in order to build. -->
-  <ConstructionSkillRequiredExplanation>Ilyen magas építész készség szükséges hozzá.</ConstructionSkillRequiredExplanation>
+  <!-- EN: {0} skill required -->
+  <SkillRequiredToBuild>TODO</SkillRequiredToBuild>
+  <!-- EN: Requires this level of {0} in order to build. -->
+  <SkillRequiredToBuildExplanation>TODO</SkillRequiredToBuildExplanation>
   <!-- EN: Nuzzle interval -->
   <NuzzleInterval>Dörgölőzés gyakoriság</NuzzleInterval>
-  <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
+  <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection.\nMost humans find this cute and it will leave them in a good mood for a period of time. -->
   <NuzzleIntervalExplanation>Átlagosan milyen gyakorisággal dörgölőzik az állat a gyarmatosokhoz.\n\nA dörgölőzés sok állatfajnál megfigyelhető viselkedés, mely a barátság kimutatását szolgálja. A legtöbb ember cukinak találja ezt és egy ideig jobb hangulatuk lesz tőle.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>Megtorlás esély</HarmedRevengeChance>
-  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
+  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
   <HarmedRevengeChanceExplanation>Annak esélye, hogy az alany megtorolja az őt ért támadást.\n\nPuska lőtávra értendő. Az esély növekszik, ha a támadó közelebb van. Közelharcban az esély háromszoros.\n\nMinden sebződésnél bejöhet, ezért a lassú, nagyot ütő fegyverek kisebb valószínűséggel váltják ki.\n\nA megtorlás esélyének minimalizálásához használj lassú, nagy hatótávú fegyvereket.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>Megtorlás szelídítésnél</TameFailedRevengeChance>
@@ -446,7 +440,21 @@
   <ShotsBeforeRearmExplanation>Hány lövés múlva kell az agyút újraélesíteni.</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
   <PowerConsumption>Áramigény</PowerConsumption>
-
+  <!-- EN: Target -->
+  <Target>TODO</Target>
+  <!-- EN: Human -->
+  <TargetHuman>TODO</TargetHuman>
+  <!-- EN: Animal -->
+  <TargetAnimal>TODO</TargetAnimal>
+  <!-- EN: Self -->
+  <TargetSelf>TODO</TargetSelf>
+  <!-- EN: Ground -->
+  <TargetGround>TODO</TargetGround>
+  <!-- EN: Click to learn more. -->
+  <ClickToLearnMore>TODO</ClickToLearnMore>
+  <!-- EN: Click to view factions. -->
+  <ClickToViewFactions>TODO</ClickToViewFactions>
+  
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
   <PositiveBuysNegativeSells>Pozitív szám vételt jelent\nNegatív szám eladást</PositiveBuysNegativeSells>
@@ -480,6 +488,8 @@
   <TraderWillNotTrade>Nem érdekli</TraderWillNotTrade>
   <!-- EN: Negotiator -->
   <Negotiator>Alkusz</Negotiator>
+  <!-- EN: Negotiator: {0} (+{1}) -->
+  <NegotiatorTradeDialogInfo>TODO</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
   <NegotiatorTalkingImpaired>Az alkuszod, {1_labelShort}, egészségi állapota miatt nem tud rendesen beszélni.</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
@@ -518,6 +528,12 @@
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
   <SellableItemsTitle>Amit ez a kereskedő megvesz</SellableItemsTitle>
+  <!-- EN: Never visited - stock unknown -->
+  <TraderNotVisitedYet>TODO</TraderNotVisitedYet>
+  <!-- EN: Restocked since your last visit -->
+  <TraderRestockedSinceLastVisit>TODO</TraderRestockedSinceLastVisit>
+  <!-- EN: Next restock: {0} days -->
+  <NextTraderRestock>TODO</NextTraderRestock>
   <!-- EN: Creatures -->
   <PawnsTabShort>Lények</PawnsTabShort>
   
@@ -556,7 +572,7 @@
   <DaysWorthOfFoodInfoRot>elrohad {0} nap múlva</DaysWorthOfFoodInfoRot>
   <!-- EN: Unlimited -->
   <InfiniteDaysWorthOfFoodInfo>Soha nem fogy ki az élelemből</InfiniteDaysWorthOfFoodInfo>
-  <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
+  <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
   <DaysWorthOfFoodTooltip>Kb. ennyi nap után fog a karaván kifogyni az élelemből.\n\nEmberi és állati fogyasztás is bele van számítva, a legrosszabb eshetőséggel számolva. Ennyi nap elteltével legalább egy személy vagy állat éhezni fog.</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>\n(csak az első állomásig számolva)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
@@ -590,7 +606,7 @@
   <AnimalCanGrazeTip>Ez az állat legelhet, ahelyett, hogy a karaván készleteit fogyasztaná. Ez csak bizonyos életközösségeken és hőmérséklet mellett lehetséges.</AnimalCanGrazeTip>
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
   <NutritionForagedPerDayTip>Napi gyűjtögetett élelem. Függ az életközösség típusától.\n\n{0}</NutritionForagedPerDayTip>
-  <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1}. -->
+  <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1} -->
   <NutritionEatenPerDayTip>Naponta elfogyasztott tápanyag. Egy egyszerű étel ennyi tápanyagot tartalmaz: {0}.\n\nÉtrend: {2}\n\nJelölések:\n{1}.</NutritionEatenPerDayTip>
   <!-- EN: Mass carried -->
   <MassCarriedSimple>Cipelt tömeg</MassCarriedSimple>
@@ -657,19 +673,33 @@
   <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
   <SplitCaravanThingCountTip>Ebből a tárgyból ennyi adható át az új karavánnak.</SplitCaravanThingCountTip>
   
+  <!-- Caravan misc -->
+  <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
+  <ConfirmAttackFriendlyFaction>TODO</ConfirmAttackFriendlyFaction>
+  
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
   <LoadTransporters>Feltölteni: {0}</LoadTransporters>
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
   <TooBigTransportersMassUsage>A személyek és tárgyak együttes tömege túl nagy.</TooBigTransportersMassUsage>
+  <!-- EN: The assigned people and items are too heavy for the shuttle. -->
+  <TooBigTransporterSingleMassUsage>TODO</TooBigTransporterSingleMassUsage>
   <!-- EN: You can't send empty transport pods. -->
   <CantSendEmptyTransportPods>Üres szállítókapszulát nem lehet útnak indítani.</CantSendEmptyTransportPods>
+  <!-- EN: You can't send empty shuttle. -->
+  <CantSendEmptyTransporterSingle>TODO</CantSendEmptyTransporterSingle>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
   <PawnCantReachTransporters>{1_labelShort} nem fér a szállítókapszulához.</PawnCantReachTransporters>
+  <!-- EN: {1_labelShort} can't reach the shuttle. -->
+  <PawnCantReachTransporterSingle>TODO</PawnCantReachTransporterSingle>
   <!-- EN: There is no path between the transport pods and the {0}. -->
   <TransporterItemIsUnreachableSingle>{0} nem szállítható a kapszulához.</TransporterItemIsUnreachableSingle>
+  <!-- EN: There is no path between the shuttle and the {0}. -->
+  <TransporterSingleItemIsUnreachableSingle>TODO</TransporterSingleItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
   <TransporterItemIsUnreachableMulti>{0}x {1} nem szállítható a kapszulához.</TransporterItemIsUnreachableMulti>
+  <!-- EN: There is no path between the shuttle and {0}x {1}. -->
+  <TransporterSingleItemIsUnreachableMulti>TODO</TransporterSingleItemIsUnreachableMulti>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -863,4 +893,26 @@
   <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
   <TransportersCaravanWillBeImmobile>A karaván mozgásképtelen lesz, ha a szállítókapszulákat üres szektorba küldöd. Mindenképp menjen?</TransportersCaravanWillBeImmobile>
 
+  <!-- Confirm cancel monument marker -->
+  <!-- EN: Do you really want to remove this monument marker? -->
+  <ConfirmCancelMonumentMarker>TODO</ConfirmCancelMonumentMarker>
+
+  <!-- Abilities -->
+  <!-- EN: Line of sight required -->
+  <AbilityRequiresLOS>TODO</AbilityRequiresLOS>
+  <!-- EN: Entropy gain  -->
+  <AbilityEntropyGain>TODO</AbilityEntropyGain>
+  <!-- EN: Effect duration -->
+  <AbilityDuration>TODO</AbilityDuration>
+  <!-- EN: Effect radius -->
+  <AbilityEffectRadius>TODO</AbilityEffectRadius>
+  <!-- EN: Casting time -->
+  <AbilityCastingTime>TODO</AbilityCastingTime>
+  <!-- EN: No line of sight to target. -->
+  <AbilityCannotHitTarget>TODO</AbilityCannotHitTarget>
+  <!-- EN: {0} must target an empty area. -->
+  <AbilityOccupiedCells>TODO</AbilityOccupiedCells>
+  <!-- EN: {0} must target a walkable area. -->
+  <AbilityUnwalkable>TODO</AbilityUnwalkable>
+  
 </LanguageData>

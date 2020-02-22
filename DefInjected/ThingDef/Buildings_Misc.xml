@@ -35,12 +35,12 @@
   
   <!-- EN: ground-penetrating scanner -->
   <GroundPenetratingScanner.label>talaj letapogató</GroundPenetratingScanner.label>
-  <!-- EN: A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity. -->
+  <!-- EN: A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof. -->
   <GroundPenetratingScanner.description>Lefelé néző radar, szonárral kombinálva. Lehetővé teszi föld alatti ásványok detektálását, de azonosításukat nem. Rengeteg energiát igényel.</GroundPenetratingScanner.description>
   
   <!-- EN: long-range mineral scanner -->
   <LongRangeMineralScanner.label>ásvány letapogató</LongRangeMineralScanner.label>
-  <!-- EN: Can be used by researchers to detect a specific type of mineral across the planet. The time it takes to find the resource is somewhat random, and depends on researcher skill. -->
+  <!-- EN: A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it. -->
   <LongRangeMineralScanner.description>Automatikusan képes az értékes anyagok (jáde, arany) detektálására közeli körzetekben (kivéve, ahol a letapogató áll).\nÁtlagosan 30 naponta van találat, 30 egységnyi körzetben.\nTöbb letapogató építése ugyanoda nem növeli a találatok számát.</LongRangeMineralScanner.description>
   
   <!-- EN: marriage spot -->
@@ -77,6 +77,16 @@
   <Sarcophagus.label>szarkofág</Sarcophagus.label>
   <!-- EN: An ornamented burial receptacle for the honored dead. -->
   <Sarcophagus.description>Díszes sírhely a köztiszteletben álló halottnak.</Sarcophagus.description>
+  
+  <!-- EN: grand stele -->
+  <SteleGrand.label>TODO</SteleGrand.label>
+  <!-- EN: A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+  <SteleGrand.description>TODO</SteleGrand.description>
+  
+  <!-- EN: large stele -->
+  <SteleLarge.label>TODO</SteleLarge.label>
+  <!-- EN: A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+  <SteleLarge.description>TODO</SteleLarge.description>
   
   <!-- EN: tool cabinet -->
   <ToolCabinet.label>szerszám szekrény</ToolCabinet.label>

@@ -20,6 +20,8 @@
   <PauseOnLoad>Betöltés után leáll</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>Fontos üzenetnél leáll</PauseOnUrgentLetter>
+  <!-- EN: Pause on -->
+  <AutomaticPauseModeSetting>TODO</AutomaticPauseModeSetting>
   <!-- EN: Custom cursor -->
   <CustomCursor>Egyedi kurzor</CustomCursor>
   <!-- EN: Hats shown only on game map -->
@@ -46,6 +48,10 @@
   <OpenSaveGameDataFolder>Mentett állások mappájának megnyitása</OpenSaveGameDataFolder>
   <!-- EN: Show save data location -->
   <ShowSaveGameDataLocation>Mentett állások mappájának mutatása</ShowSaveGameDataLocation>
+  <!-- EN: Open log file folder -->
+  <OpenLogFileFolder>TODO</OpenLogFileFolder>
+  <!-- EN: Show log file location -->
+  <ShowLogFileLocation>TODO</ShowLogFileLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
   <NamesYouWantToSee>Vezetéknevek, amiket a játékban vagy a háttértörténetben látni akarsz:</NamesYouWantToSee>
   <!-- EN: Add name -->
@@ -92,5 +98,7 @@
   <RestoreToDefaultSettings>Alapértelmezett beállítások</RestoreToDefaultSettings>
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
   <ResetAndRestart>A beállítások visszaálltak. A játék újraindul.</ResetAndRestart>
+  <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
+  <ResetAndRestartConfirmationDialog>TODO</ResetAndRestartConfirmationDialog>
   
 </LanguageData>
