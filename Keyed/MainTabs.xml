@@ -23,29 +23,29 @@
   <!-- EN: Warning: The average of relevant skills is very low. -->
   <SelectedWorkTypeWithVeryBadSkill>Figyelem: az idevágó készségek átlaga nagyon alacsony.</SelectedWorkTypeWithVeryBadSkill>
   <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
-  <PriorityOneDoneFirst>TODO</PriorityOneDoneFirst>
+  <PriorityOneDoneFirst>Az egyes prioritás készül el először, a négyes utoljára.</PriorityOneDoneFirst>
   <!-- EN: Will not do -->
-  <Priority0>TODO</Priority0>
+  <Priority0>Nem csinálja</Priority0>
   <!-- EN: Top priority -->
-  <Priority1>TODO</Priority1>
+  <Priority1>Max prioritás</Priority1>
   <!-- EN: High priority -->
-  <Priority2>TODO</Priority2>
+  <Priority2>Magas prioritás</Priority2>
   <!-- EN: Normal priority -->
-  <Priority3>TODO</Priority3>
+  <Priority3>Normál prioritás</Priority3>
   <!-- EN: Low priority -->
-  <Priority4>TODO</Priority4>
+  <Priority4>Alacsony prioritás</Priority4>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
   <ManageOutfits>Felszerelések kezelése</ManageOutfits>
   <!-- EN: Unchangeable -->
-  <Unchangeable>TODO</Unchangeable>
+  <Unchangeable>Megváltozhatatlan</Unchangeable>
   <!-- EN: Clr. forced -->
   <ClearForcedApparel>Kénysz. törlése</ClearForcedApparel>
   <!-- EN: forced -->
   <ApparelForcedLower>kényszerített</ApparelForcedLower>
   <!-- EN: locked -->
-  <ApparelLockedLower>TODO</ApparelLockedLower>
+  <ApparelLockedLower>zárolt</ApparelLockedLower>
   <!-- EN: Forced apparel -->
   <ForcedApparel>Kényszerített felszerelés</ForcedApparel>
   <!-- EN: Edit... -->
@@ -75,7 +75,7 @@
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
   <IsPredator>Ez a lény ragadozó. Ha éhes, kisebb állatokra vadászik - beleértve az embert is.</IsPredator>
   <!-- EN: This creature is currently in mental state: {0} -->
-  <IsInMentalState>TODO</IsInMentalState>
+  <IsInMentalState>Ez a teremtmény jelenleg ilyen elmeállapotban van: {0}</IsInMentalState>
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->
@@ -87,7 +87,7 @@
   <!-- EN: Enemy of {0} -->
   <HostileTo>{0} ellensége</HostileTo>
   <!-- EN: Enemy of:  -->
-  <EnemyOf>TODO</EnemyOf>
+  <EnemyOf>Következő ellensége: {0}</EnemyOf>
   <!-- EN: Current goodwill and relations status with this faction. -->
   <CurrentGoodwillTip>A jelenlegi viszony ezzel a frakcióval.</CurrentGoodwillTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
@@ -183,11 +183,11 @@
   <!-- EN: Research prerequisites -->
   <ResearchPrerequisites>Kutatási előfeltételek</ResearchPrerequisites>
   <!-- EN: Techprints required {0} / {1} -->
-  <ResearchTechprintRequirement>TODO</ResearchTechprintRequirement>
+  <ResearchTechprintRequirement>Műszaki leírás szükséges: {0} / {1}</ResearchTechprintRequirement>
   <!-- EN: Insufficient techprints applied ({0} / {1}) -->
-  <InsufficientTechprintsApplied>TODO</InsufficientTechprintsApplied>
+  <InsufficientTechprintsApplied>Nem elegendő műszaki leírás alkalmazva: {0} / {1}</InsufficientTechprintsApplied>
   <!-- EN: Prerequisite(s) not completed -->
-  <PrerequisitesNotCompleted>TODO</PrerequisitesNotCompleted>
+  <PrerequisitesNotCompleted>Előfeltétel nem teljesült</PrerequisitesNotCompleted>
   <!-- EN: Required research bench -->
   <RequiredResearchBench>Szükséges kutatólabor</RequiredResearchBench>
   <!-- EN: Required research bench facilities -->
@@ -195,74 +195,74 @@
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
   <ResearchCostComparison>A terv alapköltsége ({0}) tudományos szinted miatt erre változott: {1}.</ResearchCostComparison>
   <!-- EN: Techprints are available from these factions via trade and quests: -->
-  <ResearchTechprintsFromFactions>TODO</ResearchTechprintsFromFactions>
+  <ResearchTechprintsFromFactions>Műszaki leírás elérhető a következő küldetések és frakciók által:</ResearchTechprintsFromFactions>
   <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
-  <TechLevelTooLow>TODO</TechLevelTooLow>
+  <TechLevelTooLow>A frakciód technikai szintje {0}, a projekté pedig {1}. A kutatási sebesség szorzója: {2}.</TechLevelTooLow>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
-  <AvailableQuests>TODO</AvailableQuests>
+  <AvailableQuests>Elérhető</AvailableQuests>
   <!-- EN: Active -->
-  <ActiveQuests>TODO</ActiveQuests>
+  <ActiveQuests>Aktív</ActiveQuests>
   <!-- EN: Historical -->
-  <HistoricalQuests>TODO</HistoricalQuests>
+  <HistoricalQuests>Korábbi</HistoricalQuests>
   <!-- EN: no quest selected -->
-  <NoQuestSelected>TODO</NoQuestSelected>
+  <NoQuestSelected>nincs küldetés kiválasztva</NoQuestSelected>
   <!-- EN: Appeared {0} days ago -->
-  <AppearedDaysAgo>TODO</AppearedDaysAgo>
+  <AppearedDaysAgo>{0} nappal ezelőtt bukkant fel</AppearedDaysAgo>
   <!-- EN: Appeared on {0} -->
-  <AppearedOn>TODO</AppearedOn>
+  <AppearedOn>Ekkor bukkant fel: {0}</AppearedOn>
   <!-- EN: Accepted {0} ago -->
-  <AcceptedAgo>TODO</AcceptedAgo>
+  <AcceptedAgo>Elfogadva ennyi ideje: {0}</AcceptedAgo>
   <!-- EN: Accepted on {0} -->
-  <AcceptedOn>TODO</AcceptedOn>
+  <AcceptedOn>Elfogadva ekkor: {0}</AcceptedOn>
   <!-- EN: Accepted {0} ago by {1} -->
-  <AcceptedAgoBy>TODO</AcceptedAgoBy>
+  <AcceptedAgoBy>Elfogadva ennyi ideje: {0}, {1} által</AcceptedAgoBy>
   <!-- EN: Accepted on {0} by {1} -->
-  <AcceptedOnBy>TODO</AcceptedOnBy>
+  <AcceptedOnBy>Elfogadva ekkor: {0}, {1} által</AcceptedOnBy>
   <!-- EN: Expires in {0} -->
-  <QuestExpiresIn>TODO</QuestExpiresIn>
+  <QuestExpiresIn>Elévül ennyi idő múlva: {0}</QuestExpiresIn>
   <!-- EN: Expires on {0} -->
-  <QuestExpiresOn>TODO</QuestExpiresOn>
+  <QuestExpiresOn>Elévül ekkor: {0}</QuestExpiresOn>
   <!-- EN: Shuttle arrives in {0} -->
-  <ShuttleArrivesIn>TODO</ShuttleArrivesIn>
+  <ShuttleArrivesIn>Űrsikló ennyi idő múlva érkezik: : {0}</ShuttleArrivesIn>
   <!-- EN: Shuttle arrives on {0} -->
-  <ShuttleArrivesOn>TODO</ShuttleArrivesOn>
+  <ShuttleArrivesOn>Űrsikló ekkor érkezik: {0}</ShuttleArrivesOn>
   <!-- EN: Shuttle departs in {0} -->
-  <ShuttleDepartsIn>TODO</ShuttleDepartsIn>
+  <ShuttleDepartsIn>Űrsikló ennyi idő múlva távozik: : {0}</ShuttleDepartsIn>
   <!-- EN: Shuttle departs on {0} -->
-  <ShuttleDepartsOn>TODO</ShuttleDepartsOn>
+  <ShuttleDepartsOn>Űrsikló ekkor távozik: {0}</ShuttleDepartsOn>
   <!-- EN: Finished {0} ago -->
-  <QuestFinishedAgo>TODO</QuestFinishedAgo>
+  <QuestFinishedAgo>Teljesítve ennyi ideje: {0}</QuestFinishedAgo>
   <!-- EN: Accept quest -->
-  <AcceptQuest>TODO</AcceptQuest>
+  <AcceptQuest>Küldetés elfogadása</AcceptQuest>
   <!-- EN: Accept with {0_labelShort} -->
-  <AcceptWith>TODO</AcceptWith>
+  <AcceptWith>Küldetés elfogadása vele: {0_labelShort}</AcceptWith>
   <!-- EN: The offer expired. -->
-  <QuestOutcomeInfo_OfferExpired>TODO</QuestOutcomeInfo_OfferExpired>
+  <QuestOutcomeInfo_OfferExpired>Az ajánlat lejárt.</QuestOutcomeInfo_OfferExpired>
   <!-- EN: You completed this quest. -->
-  <QuestOutcomeInfo_UnknownOrSuccess>TODO</QuestOutcomeInfo_UnknownOrSuccess>
+  <QuestOutcomeInfo_UnknownOrSuccess>A küldetés teljesítve.</QuestOutcomeInfo_UnknownOrSuccess>
   <!-- EN: You failed this quest. -->
-  <QuestOutcomeInfo_Failed>TODO</QuestOutcomeInfo_Failed>
+  <QuestOutcomeInfo_Failed>A küldetés elbukott.</QuestOutcomeInfo_Failed>
   <!-- EN: Jump to {0} -->
-  <JumpToTargetCustom>TODO</JumpToTargetCustom>
+  <JumpToTargetCustom>Ugrás ide: {0}</JumpToTargetCustom>
   <!-- EN: Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate -->
-  <QuestChallengeRatingTip>TODO</QuestChallengeRatingTip>
+  <QuestChallengeRatingTip>Kihívás mértéke. Ez egy általános mutató a küldetések nehézségéhez a mindenkori erőhöz viszonyítva. Nehezebb küldetések nagyobb jutalmakat adnak. \n\n1: Normál\n2: Nehéz\n3: Extrém\n4: Maximális</QuestChallengeRatingTip>
   <!-- EN: To accept this quest, you need -->
-  <QuestAcceptanceRequirementsDescription>TODO</QuestAcceptanceRequirementsDescription>
+  <QuestAcceptanceRequirementsDescription>A küldetés elfogadásához szükség van</QuestAcceptanceRequirementsDescription>
   <!-- EN: free bedrooms that satisfy the title requirements of -->
-  <QuestBedroomRequirementsUnsatisfied>TODO</QuestBedroomRequirementsUnsatisfied>
+  <QuestBedroomRequirementsUnsatisfied>szabad hálószobákra, amik kielégítik a következő követelményeket</QuestBedroomRequirementsUnsatisfied>
   <!-- EN: a free bedroom that satisfies the title requirements of -->
-  <QuestBedroomRequirementsUnsatisfiedSingle>TODO</QuestBedroomRequirementsUnsatisfiedSingle>
+  <QuestBedroomRequirementsUnsatisfiedSingle>egy szabad hálószobára, ami kielégíti a következő rang követelményeket</QuestBedroomRequirementsUnsatisfiedSingle>
   <!-- EN: a colonist with the title of {0}. -->
-  <QuestNoColonistWithTitle>TODO</QuestNoColonistWithTitle>
+  <QuestNoColonistWithTitle>egy gyarmatos akinek a rangja: {0}.</QuestNoColonistWithTitle>
   <!-- EN: Accept {FACTION_royalFavorLabel} -->
-  <AcceptRoyalFavor>TODO</AcceptRoyalFavor>
+  <AcceptRoyalFavor>Elfogad {FACTION_royalFavorLabel}</AcceptRoyalFavor>
   <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
-  <AcceptRoyalFavorDesc>TODO</AcceptRoyalFavorDesc>
+  <AcceptRoyalFavorDesc>Akarsz-e jutalomként ezt: {FACTION_royalFavorLabel}, ettől a frakciótól: {FACTION_name}.\n\nHa kikapcsolod, a {FACTION_name} frakció más jutalmakat fog felajánlani.\n\nEz a beállítás csak a későbbi küldetésekre érvényes.</AcceptRoyalFavorDesc>
   <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
-  <RoyalFavorOn>TODO</RoyalFavorOn>
+  <RoyalFavorOn>Jelenleg kéred a következő jutalmat: {FACTION_royalFavorLabel}.</RoyalFavorOn>
   <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
-  <RoyalFavorOff>TODO</RoyalFavorOff>
+  <RoyalFavorOff>Jelenleg nem kéred a következő jutalmat: {FACTION_royalFavorLabel}.</RoyalFavorOff>
   
 </LanguageData>
