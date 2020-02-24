@@ -11,7 +11,7 @@
   <FactionGreetingWarm>{0} melegen üdvözli őt: {NEGOTIATOR_labelShort} és érdeklődik, hogy miben segíthetne.</FactionGreetingWarm>
 
   <!-- EN: won't do {0} -->
-  <WorkTypeDisablesOption>TODO</WorkTypeDisablesOption>
+  <WorkTypeDisablesOption>nem csinálja ezt: {0}</WorkTypeDisablesOption>
   <!-- EN: Disconnect -->
   <Disconnect>Kikapcsolás</Disconnect>
 
