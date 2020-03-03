@@ -85,7 +85,7 @@
   <!-- EN: no food -->
   <NoFood>nincs étel</NoFood>
   <!-- EN: below requirements of {0} -->
-  <FoodBelowTitleRequirements>TODO</FoodBelowTitleRequirements>
+  <FoodBelowTitleRequirements>??? - étel nem elég jó neki: {0}</FoodBelowTitleRequirements>
   <!-- EN: animals skill too low - need {0} -->
   <AnimalsSkillTooLow>gondozás készség túl alacsony, {0} kell</AnimalsSkillTooLow>
   <!-- EN: animal downed -->
@@ -95,7 +95,7 @@
   <!-- EN: animal busy -->
   <CantInteractAnimalBusy>elfoglalt állat</CantInteractAnimalBusy>
   <!-- EN: {0} skill too low -->
-  <SkillTooLowForConstruction>TODO</SkillTooLowForConstruction>
+  <SkillTooLowForConstruction>{0} készség túl alacsony</SkillTooLowForConstruction>
   <!-- EN: need components -->
   <NoComponentsToRepair>nincs elég alkatrész</NoComponentsToRepair>
   <!-- EN: need {0} -->
@@ -127,15 +127,15 @@
   <!-- EN: angers faction -->
   <AngersFaction>Frakciót felbőszít</AngersFaction>
   <!-- EN: no body part -->
-  <InstallImplantNoBodyPart>TODO</InstallImplantNoBodyPart>
+  <InstallImplantNoBodyPart>nincs testrész</InstallImplantNoBodyPart>
   <!-- EN: not a colonist -->
-  <InstallImplantNotAllowedForNonColonists>TODO</InstallImplantNotAllowedForNonColonists>
+  <InstallImplantNotAllowedForNonColonists>nem gyarmatos</InstallImplantNotAllowedForNonColonists>
   <!-- EN: already installed -->
-  <InstallImplantAlreadyInstalled>TODO</InstallImplantAlreadyInstalled>
+  <InstallImplantAlreadyInstalled>már be van ültetve</InstallImplantAlreadyInstalled>
   <!-- EN: max level -->
-  <InstallImplantAlreadyMaxLevel>TODO</InstallImplantAlreadyMaxLevel>
+  <InstallImplantAlreadyMaxLevel>max szint</InstallImplantAlreadyMaxLevel>
   <!-- EN: Upgrade {0} to level {1} -->
-  <UpgradeImplant>TODO</UpgradeImplant>
+  <UpgradeImplant>{0} feljavítása erre: {1}</UpgradeImplant>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>Elfogyaszt: {1_labelShort}</ConsumeThing>
@@ -168,7 +168,7 @@
   <CannotCarryToCryptosleepCasket>Nem lehet a hibernálóba vinni</CannotCarryToCryptosleepCasket>
 
   <!-- EN: Carry {0_label} to shuttle -->
-  <CarryToShuttle>TODO</CarryToShuttle>
+  <CarryToShuttle>{0_label} cipelése az űrsiklóhoz</CarryToShuttle>
 
   <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>Nincs szabad hibernáló.</NoCryptosleepCasket>
@@ -264,13 +264,13 @@
   <!-- EN: Cannot strip {1_label} -->
   <CannotStrip>Nem tudja levetkőztetni őt: {1_label}</CannotStrip>
   <!-- EN: Cannot drop {1_label} -->
-  <CannotDrop>TODO</CannotDrop>
+  <CannotDrop>{1_label} nem eldobható</CannotDrop>
   <!-- EN: temporary faction member -->
-  <QuestRelated>TODO</QuestRelated>
+  <QuestRelated>ideiglenes frakciótag</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
-  <QuestRelated_Outfit>TODO</QuestRelated_Outfit>
+  <QuestRelated_Outfit>Ideiglenes frakciótag ruházatát nem lehet megváltoztatni.</QuestRelated_Outfit>
   <!-- EN: would replace locked apparel -->
-  <WouldReplaceLockedApparel>TODO</WouldReplaceLockedApparel>
+  <WouldReplaceLockedApparel>zárolt ruházatot cserélne le</WouldReplaceLockedApparel>
 
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>Önmegsemmisítés itt</SelfDestructHere>
@@ -312,7 +312,7 @@
   <!-- EN: Offer gifts -->
   <OfferGifts>Ajándékozás</OfferGifts>
   <!-- EN: Trade with {0} -->
-  <TradeWithSettlement>TODO</TradeWithSettlement>
+  <TradeWithSettlement>Kereskedés vele: {0}</TradeWithSettlement>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
@@ -320,7 +320,7 @@
   <!-- EN: Open cryptosleep casket -->
   <OpenCryptosleepCasket>Hibernáló kinyitása</OpenCryptosleepCasket>
   <!-- EN: Get in shuttle -->
-  <EnterShuttle>TODO</EnterShuttle>
+  <EnterShuttle>Űrsiklóra szállás</EnterShuttle>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
@@ -335,12 +335,12 @@
   <!-- EN: Already {0} {2_labelShort} -->
   <CannotGenericAlreadyAm>Már ezt csinálja: {2_labelShort} {0} </CannotGenericAlreadyAm>
   <!-- EN: Already {0} -->
-  <CannotGenericAlreadyAmCustom>TODO</CannotGenericAlreadyAmCustom>
+  <CannotGenericAlreadyAmCustom>Már {0}</CannotGenericAlreadyAmCustom>
 
   <!-- EN: Cannot prioritize: will never do {0} -->
   <CannotPrioritizeWorkTypeDisabled>Nem tudja előre venni, nem teszi ezt: {0}</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: Cannot trade: lacking necessary title -->
-  <CannotTradeMissingTitleAbility>TODO</CannotTradeMissingTitleAbility>
+  <CannotTradeMissingTitleAbility>Nem kereskedhet, nincs hozzá kinevezése</CannotTradeMissingTitleAbility>
 
   <!-- EN: Cannot prioritize: will never {0} -->
   <CannotPrioritizeWorkGiverDisabled>Nem tudja előre venni, nem képes rá: {0}</CannotPrioritizeWorkGiverDisabled>
@@ -415,6 +415,6 @@
   <OfferHelp>Segítség felajánlása</OfferHelp>
 
   <!-- EN: apply {0} -->
-  <ApplyTechprint>TODO</ApplyTechprint>
+  <ApplyTechprint>hozzáad: {0}</ApplyTechprint>
   
 </LanguageData>

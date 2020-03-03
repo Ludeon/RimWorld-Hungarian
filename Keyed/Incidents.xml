@@ -61,9 +61,9 @@
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
   <TraderArrival>Kereskedőhajó halad el a közelben.\n\n{0} néven ismertek. Besorolásuk: {1}.</TraderArrival>
   <!-- EN: They're affiliated with {FACTION_name}. -->
-  <TraderArrivalFromFaction>TODO</TraderArrivalFromFaction>
+  <TraderArrivalFromFaction>Kapcsolatban vannak ezzel a frakcióval: {FACTION_name}.</TraderArrivalFromFaction>
   <!-- EN: They are not affiliated with any faction. -->
-  <TraderArrivalNoFaction>TODO</TraderArrivalNoFaction>
+  <TraderArrivalNoFaction>Nincsenek kapcsolatban frakcióval.</TraderArrivalNoFaction>
 
   <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
   <SingleTravelerPassing>{1} egy tagja ({PAWN_title}) halad el a közelben. A neve {PAWN_nameFull}.</SingleTravelerPassing>
@@ -102,9 +102,9 @@
   <!-- EN: Awoke {0} days ago -->
   <AwokeDaysAgo>{0} napja ébren</AwokeDaysAgo>
   <!-- EN: Activated {0} days ago -->
-  <ActivatedDaysAgo>TODO</ActivatedDaysAgo>
+  <ActivatedDaysAgo>{0} nappal ezelőtt aktiválva</ActivatedDaysAgo>
   <!-- EN: Opened {0} days ago -->
-  <OpenedDaysAgo>TODO</OpenedDaysAgo>
+  <OpenedDaysAgo>{0} nappal ezelőtt kinyitva</OpenedDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
   <PsychicDroneLevel>Pszichotikus hullám szintje: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
@@ -152,7 +152,7 @@
   <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
   <LetterTraderCaravanArrival>{0} {1} karavánja érkezik.\n\nPár napig maradnak a kolónia közelében. Megtámadhatod őket, de ez fel fogja bőszíteni a frakciójukat!</LetterTraderCaravanArrival>
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
-  <LetterCaravanArrivalCommonWarning>TODO</LetterCaravanArrivalCommonWarning>
+  <LetterCaravanArrivalCommonWarning>Pár napig maradnak a kolónia közelében. Megtámadhatod őket, de ez fel fogja bőszíteni a frakciójukat!</LetterCaravanArrivalCommonWarning>
     
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
@@ -170,7 +170,7 @@
   <!-- EN: You've reached the coordinates sent by <Name>Charlon Whitestone</Name> and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n<Name>Charlon Whitestone</Name> warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <EscapeShipFound>Odaértél a Charlon Whitestone által megadott koordinátákra és megtaláltad a hajót.\n\nA reaktor még mindig hibernálva van, emiatt nem röpképes. A számítógépközpontot használva indíthatod be.\n\nCharlon Whitestone figyelmeztet, hogy az indítási folyamat 15 napot vesz igénybe, és a felszabaduló energia messziről érzékelhető lesz. Az ilyen energiakitörés csillagközi utazásra képes eszközt jelent, ami ide fogja vonzani a banditákat és kincsvadászokat. Készülj fel a fogadásukra.</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by <Name>Charlon Whitestone</Name> and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n<Name>Charlon Whitestone</Name> warns you that the startup process will take about 15 days. -->
-  <EscapeShipFoundPeaceful>TODO</EscapeShipFoundPeaceful>
+  <EscapeShipFoundPeaceful>Odaértél a Charlon Whitestone által megadott koordinátákra és megtaláltad a hajót.\n\nA reaktor még mindig hibernálva van, emiatt nem röpképes. A számítógépközpontot használva indíthatod be.\n\nCharlon Whitestone figyelmeztet, hogy az indítási folyamat 15 napot vesz igénybe.</EscapeShipFoundPeaceful>
   <!-- EN: Ship destroyed -->
   <EscapeShipLostLabel>Hajó elpusztítva</EscapeShipLostLabel>
   <!-- EN: <Name>Charlon Whitestone</Name> sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
@@ -190,7 +190,7 @@
   <!-- EN: no caravan members capable of trading -->
   <CaravanMeeting_TradeIncapable>a karavánodnak nincs kereskedésre alkalmas tagja</CaravanMeeting_TradeIncapable>
   <!-- EN: need a trader with the title of {0} from {1_name} -->
-  <CaravanMeeting_NoPermit>TODO</CaravanMeeting_NoPermit>
+  <CaravanMeeting_NoPermit>{0} rangú (???) {1_name} tag kell a kereskedéshez</CaravanMeeting_NoPermit>
   
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
@@ -226,20 +226,20 @@
 
   <!-- Quest asker faction hostile -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerFactionHostile>TODO</LetterLabelQuestAskerFactionHostile>
+  <LetterLabelQuestAskerFactionHostile>Küldetés sikertelen</LetterLabelQuestAskerFactionHostile>
   <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
-  <LetterQuestAskerFactionHostile>TODO</LetterQuestAskerFactionHostile>
+  <LetterQuestAskerFactionHostile>A küldetés nem teljesíthető, mert {FACTION_name} ellenséges.</LetterQuestAskerFactionHostile>
 
   <!-- Quest asker captured -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerCaptured>TODO</LetterLabelQuestAskerCaptured>
+  <LetterLabelQuestAskerCaptured>Küldetés sikertelen</LetterLabelQuestAskerCaptured>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
-  <LetterQuestAskerCaptured>TODO</LetterQuestAskerCaptured>
+  <LetterQuestAskerCaptured>A küldetés nem teljesíthető, mert {SUBJECT_definite} fogságba esett.</LetterQuestAskerCaptured>
 
   <!-- Quest asker died -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerDied>TODO</LetterLabelQuestAskerDied>
+  <LetterLabelQuestAskerDied>Küldetés sikertelen</LetterLabelQuestAskerDied>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
-  <LetterQuestAskerDied>TODO</LetterQuestAskerDied>
+  <LetterQuestAskerDied>A küldetés nem teljesíthető, mert {SUBJECT_definite} meghalt.</LetterQuestAskerDied>
 
 </LanguageData>

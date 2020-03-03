@@ -65,11 +65,11 @@
   <CommandGetOutOfBedDesc>Jelenlegi ágyból kiszállni.</CommandGetOutOfBedDesc>
 
   <!-- EN: Set owner -->
-  <CommandThingSetOwnerLabel>TODO</CommandThingSetOwnerLabel>
+  <CommandThingSetOwnerLabel>Tulajdonos hozzárendelése</CommandThingSetOwnerLabel>
   <!-- EN: Assign this bed to be owned by a specific colonist. -->
   <CommandBedSetOwnerDesc>Hozzárendeli az adott ágyat egy bizonyos gyarmatoshoz.</CommandBedSetOwnerDesc>
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
-  <CommandThroneSetOwnerDesc>TODO</CommandThroneSetOwnerDesc>
+  <CommandThroneSetOwnerDesc>A trón hozzárendelése egy gyarmatoshoz.</CommandThroneSetOwnerDesc>
   <!-- EN: Assign colonist -->
   <CommandGraveAssignColonistLabel>Gyarmatos hozzárendelése</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
@@ -352,7 +352,7 @@
   <!-- EN: There isn't any conscious and capable negotiator. -->
   <CommandTradeFailNoNegotiator>Nincs használható alkusz.</CommandTradeFailNoNegotiator>
   <!-- EN: None of your people have the required faction permission: {0} -->
-  <CommandTradeFailNeedPermit>TODO</CommandTradeFailNeedPermit>
+  <CommandTradeFailNeedPermit>Egyik embered sem rendelkezik a kellő engedéllyel ettől a frakciótól: {0}</CommandTradeFailNeedPermit>
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
@@ -386,9 +386,9 @@
 
   <!-- Refueling -->
   <!-- EN: Toggle automatic refuel -->
-  <CommandToggleAllowAutoRefuel>TODO</CommandToggleAllowAutoRefuel>
+  <CommandToggleAllowAutoRefuel>Automata újratankolás</CommandToggleAllowAutoRefuel>
   <!-- EN: Sets whether or not automatic refueling is allowed. -->
-  <CommandToggleAllowAutoRefuelDesc>TODO</CommandToggleAllowAutoRefuelDesc>
+  <CommandToggleAllowAutoRefuelDesc>Engedélyezi az automatikus üzemanyag utántöltést.</CommandToggleAllowAutoRefuelDesc>
   
   <!-- Cancel load -->
   <!-- EN: Cancel load -->
@@ -420,21 +420,21 @@
   
   <!-- Load transporter (single) -->
   <!-- EN: Load -->
-  <CommandLoadTransporterSingle>TODO</CommandLoadTransporterSingle>
+  <CommandLoadTransporterSingle>Rakodás</CommandLoadTransporterSingle>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterSingleDesc>TODO</CommandLoadTransporterSingleDesc>
+  <CommandLoadTransporterSingleDesc>Megnyitja a berakodás ablakot, ahol eldöntheted, ki és mit pakoljon be.</CommandLoadTransporterSingleDesc>
   
   <!-- Transporters set to load -->
   <!-- EN: Set to load -->
-  <CommandSetToLoadTransporter>TODO</CommandSetToLoadTransporter>
+  <CommandSetToLoadTransporter>Rakodás (több)</CommandSetToLoadTransporter>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandSetToLoadTransporterDesc>TODO</CommandSetToLoadTransporterDesc>
+  <CommandSetToLoadTransporterDesc>Megnyitja a berakodás ablakot, ahol eldöntheted, ki és mit pakoljon be.</CommandSetToLoadTransporterDesc>
   
   <!-- Autoload transporters -->
   <!-- EN: Autoload -->
-  <CommandAutoloadTransporters>TODO</CommandAutoloadTransporters>
+  <CommandAutoloadTransporters>Autorakodás</CommandAutoloadTransporters>
   <!-- EN: Toggle loading all required cargo automatically as soon as they become available. -->
-  <CommandAutoloadTransportersDesc>TODO</CommandAutoloadTransportersDesc>
+  <CommandAutoloadTransportersDesc>Az összes szükséges árú berakodása, amint elérhetővé válnak.</CommandAutoloadTransportersDesc>
   
   <!-- Select previous transporter -->
   <!-- EN: Select previous in launch group -->
@@ -486,34 +486,34 @@
 
   <!-- Send shuttle -->
   <!-- EN: Send -->
-  <CommandSendShuttle>TODO</CommandSendShuttle>
+  <CommandSendShuttle>Kilövés</CommandSendShuttle>
   <!-- EN: Initiate takeoff and have the shuttle fly to its destination. -->
-  <CommandSendShuttleDesc>TODO</CommandSendShuttleDesc>
+  <CommandSendShuttleDesc>A kilövés elindítása, az űrsikló pályára állítása a cél felé.</CommandSendShuttleDesc>
   <!-- EN: The shuttle is under a roof. -->
-  <CommandSendShuttleFailUnderRoof>TODO</CommandSendShuttleFailUnderRoof>
+  <CommandSendShuttleFailUnderRoof>Az űrsikló tető alatt van.</CommandSendShuttleFailUnderRoof>
   <!-- EN: Some of the required items or people are missing. -->
-  <CommandSendShuttleFailMissingRequiredThing>TODO</CommandSendShuttleFailMissingRequiredThing>
+  <CommandSendShuttleFailMissingRequiredThing>Egyes személyek és tárgyak még hiányoznak.</CommandSendShuttleFailMissingRequiredThing>
 
   <!-- Place blueprints -->
   <!-- EN: Place blueprints -->
-  <CommandPlaceBlueprints>TODO</CommandPlaceBlueprints>
+  <CommandPlaceBlueprints>Tervrajz lerakása</CommandPlaceBlueprints>
   <!-- EN: Place all required blueprints where possible. -->
-  <CommandPlaceBlueprintsDesc>TODO</CommandPlaceBlueprintsDesc>
+  <CommandPlaceBlueprintsDesc>Minden szükséges tervrajz lerakása, ha lehetséges.</CommandPlaceBlueprintsDesc>
 
   <!-- Cancel monument marker -->
   <!-- EN: Cancel -->
-  <CommandCancelMonumentMarker>TODO</CommandCancelMonumentMarker>
+  <CommandCancelMonumentMarker>Visszavon</CommandCancelMonumentMarker>
   <!-- EN: Permanently remove this monument marker. -->
-  <CommandCancelMonumentMarkerDesc>TODO</CommandCancelMonumentMarkerDesc>
+  <CommandCancelMonumentMarkerDesc>Az emléktábla végleges visszavonása.</CommandCancelMonumentMarkerDesc>
 
   <!-- View quest -->
   <!-- EN: View quest: {0} -->
-  <CommandViewQuest>TODO</CommandViewQuest>
+  <CommandViewQuest>Küldetés megnyitása: {0}</CommandViewQuest>
   <!-- EN: View this quest in quests tab. -->
-  <CommandViewQuestDesc>TODO</CommandViewQuestDesc>
+  <CommandViewQuestDesc>A küldetés megtekintése a küldetések fülön.</CommandViewQuestDesc>
   <!-- EN: Open linked quest -->
-  <CommandOpenLinkedQuest>TODO</CommandOpenLinkedQuest>
+  <CommandOpenLinkedQuest>Kapcsolódó küldetés megnyitása.</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
-  <CommandOpenLinkedQuestDesc>TODO</CommandOpenLinkedQuestDesc>
+  <CommandOpenLinkedQuestDesc>Kapcsolódó küldetés megnyitása a küldetések fülön.</CommandOpenLinkedQuestDesc>
   
 </LanguageData>
