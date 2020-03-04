@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: destroy apparel -->
-  <DestroyApparel.label>TODO</DestroyApparel.label>
+  <DestroyApparel.label>ruházat megsemmisítés</DestroyApparel.label>
   <!-- EN: Use heat to destroy unwanted apparels. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyApparel.description>TODO</DestroyApparel.description>
+  <DestroyApparel.description>Ruházat elégetése. Gyorsabb, mint a beolvasztás, és nem olvasztható tárgyakon is működik, de nem ad nyersanyagot.</DestroyApparel.description>
   <!-- EN: Destroying apparel. -->
-  <DestroyApparel.jobString>TODO</DestroyApparel.jobString>
+  <DestroyApparel.jobString>Ruházatot éget el.</DestroyApparel.jobString>
   
   <!-- EN: destroy weapon -->
   <DestroyWeapon.label>fegyver megsemmisítés</DestroyWeapon.label>
@@ -65,11 +65,11 @@
   <Make_StoneBlocksAny.jobString>Kőtömböt farag.</Make_StoneBlocksAny.jobString>
   
   <!-- EN: smelt apparel -->
-  <SmeltApparel.label>TODO</SmeltApparel.label>
+  <SmeltApparel.label>ruházat beolvasztás</SmeltApparel.label>
   <!-- EN: Use heat and strong electromagnets to break down apparels into useful resources. -->
-  <SmeltApparel.description>TODO</SmeltApparel.description>
+  <SmeltApparel.description>Kivonja a fémet a ruházatból egy erős elektromágnessel fűtött kohóban.</SmeltApparel.description>
   <!-- EN: Smelting apparel. -->
-  <SmeltApparel.jobString>TODO</SmeltApparel.jobString>
+  <SmeltApparel.jobString>Ruházatot olvaszt.</SmeltApparel.jobString>
   
   <!-- EN: smelt weapon -->
   <SmeltWeapon.label>fegyver beolvasztás</SmeltWeapon.label>
