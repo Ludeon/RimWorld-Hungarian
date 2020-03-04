@@ -4,7 +4,7 @@
   <!-- EN: bite -->
   <Bite.label>harapás</Bite.label>
   <!-- EN: A bite wound. -->
-  <Bite.description>TODO</Bite.description>
+  <Bite.description>Harapás</Bite.description>
   <!-- EN: set -->
   <Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -25,7 +25,7 @@
   <!-- EN: bruise -->
   <Bruise.label>zúzódás</Bruise.label>
   <!-- EN: A bruise. -->
-  <Bruise.description>TODO</Bruise.description>
+  <Bruise.description>Zúzódás</Bruise.description>
   <!-- EN: set -->
   <Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -42,7 +42,7 @@
   <!-- EN: burn -->
   <Burn.label>égés</Burn.label>
   <!-- EN: A burn. -->
-  <Burn.description>TODO</Burn.description>
+  <Burn.description>Égés</Burn.description>
   <!-- EN: tended -->
   <Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -61,24 +61,24 @@
   <Burn.labelNounPretty>{1} {0}</Burn.labelNounPretty>
   
   <!-- EN: chemical burn -->
-  <ChemicalBurn.label>TODO</ChemicalBurn.label>
+  <ChemicalBurn.label>kémiai égés</ChemicalBurn.label>
   <!-- EN: A chemical burn. -->
-  <ChemicalBurn.description>TODO</ChemicalBurn.description>
+  <ChemicalBurn.description>Kémiai égés.</ChemicalBurn.description>
   <!-- EN: chemical burn scar -->
-  <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>TODO</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>kémiai égésheg</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off (chemical) -->
-  <ChemicalBurn.injuryProps.destroyedLabel>TODO</ChemicalBurn.injuryProps.destroyedLabel>
+  <ChemicalBurn.injuryProps.destroyedLabel>elégett</ChemicalBurn.injuryProps.destroyedLabel>
   <!-- EN: Burned out (chemical) -->
-  <ChemicalBurn.injuryProps.destroyedOutLabel>TODO</ChemicalBurn.injuryProps.destroyedOutLabel>
+  <ChemicalBurn.injuryProps.destroyedOutLabel>kiégett</ChemicalBurn.injuryProps.destroyedOutLabel>
   <!-- EN: a chemical burn -->
-  <ChemicalBurn.labelNoun>TODO</ChemicalBurn.labelNoun>
+  <ChemicalBurn.labelNoun>égetés</ChemicalBurn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <ChemicalBurn.labelNounPretty>TODO</ChemicalBurn.labelNounPretty>
+  <ChemicalBurn.labelNounPretty>{1} {0}</ChemicalBurn.labelNounPretty>
   
   <!-- EN: crack -->
   <Crack.label>repedés</Crack.label>
   <!-- EN: A crack. -->
-  <Crack.description>TODO</Crack.description>
+  <Crack.description>Repedés</Crack.description>
   <!-- EN: set -->
   <Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: set -->
@@ -97,7 +97,7 @@
   <!-- EN: crush -->
   <Crush.label>törés</Crush.label>
   <!-- EN: A crushing wound. -->
-  <Crush.description>TODO</Crush.description>
+  <Crush.description>Törés</Crush.description>
   <!-- EN: set -->
   <Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -116,7 +116,7 @@
   <!-- EN: cut -->
   <Cut.label>vágás</Cut.label>
   <!-- EN: A cut. -->
-  <Cut.description>TODO</Cut.description>
+  <Cut.description>Vágás</Cut.description>
   <!-- EN: set -->
   <Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -137,7 +137,7 @@
   <!-- EN: frostbite -->
   <Frostbite.label>fagyás</Frostbite.label>
   <!-- EN: Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost. -->
-  <Frostbite.description>TODO</Frostbite.description>
+  <Frostbite.description>Megfagyott szövetek, amelyeket hidegnek való kitettség okoz, megfelelő védelem hiányában. A fagyás nagyon fájdalmas, és az elfagyott testrészek gyakran menthetetlenek.</Frostbite.description>
   <!-- EN: tended -->
   <Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -154,7 +154,7 @@
   <!-- EN: gunshot -->
   <Gunshot.label>lövés</Gunshot.label>
   <!-- EN: A gunshot wound. -->
-  <Gunshot.description>TODO</Gunshot.description>
+  <Gunshot.description>Lőtt seb.</Gunshot.description>
   <!-- EN: set -->
   <Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -177,7 +177,7 @@
   <!-- EN: misc -->
   <Misc.label>egyéb</Misc.label>
   <!-- EN: Miscellanous injuries. -->
-  <Misc.description>TODO</Misc.description>
+  <Misc.description>Egyéb sérülés.</Misc.description>
   <!-- EN: set -->
   <Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -194,7 +194,7 @@
   <!-- EN: missing body part -->
   <MissingBodyPart.label>hiányzó testrész</MissingBodyPart.label>
   <!-- EN: A body part is entirely missing. -->
-  <MissingBodyPart.description>TODO</MissingBodyPart.description>
+  <MissingBodyPart.description>Egy hiányzó testrész.</MissingBodyPart.description>
   <!-- EN: a missing body part -->
   <MissingBodyPart.labelNoun>hiányzó testrész</MissingBodyPart.labelNoun>
   <!-- EN: missing a {1} -->
@@ -203,7 +203,7 @@
   <!-- EN: scratch -->
   <Scratch.label>horzsolás</Scratch.label>
   <!-- EN: A scratch or tear. -->
-  <Scratch.description>TODO</Scratch.description>
+  <Scratch.description>Horzsolás.</Scratch.description>
   <!-- EN: set -->
   <Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -224,7 +224,7 @@
   <!-- EN: shredded -->
   <Shredded.label>robbanás</Shredded.label>
   <!-- EN: A part of the body has been shredded and torn. -->
-  <Shredded.description>TODO</Shredded.description>
+  <Shredded.description>A test egy része széttépve és felszakítva.</Shredded.description>
   <!-- EN: set -->
   <Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -245,7 +245,7 @@
   <!-- EN: stab -->
   <Stab.label>szúrás</Stab.label>
   <!-- EN: A stab wound. -->
-  <Stab.description>TODO</Stab.description>
+  <Stab.description>Szúrás.</Stab.description>
   <!-- EN: set -->
   <Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -266,7 +266,7 @@
   <!-- EN: surgical cut -->
   <SurgicalCut.label>sebészi vágás</SurgicalCut.label>
   <!-- EN: A cut made during surgery. -->
-  <SurgicalCut.description>TODO</SurgicalCut.description>
+  <SurgicalCut.description>Műtét közben ejtett vágás.</SurgicalCut.description>
   <!-- EN: set -->
   <SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
