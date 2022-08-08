@@ -92,9 +92,7 @@
   
   <!-- EN: wanderer join -->
   <WandererJoin.label>vándor csatlakozik</WandererJoin.label>
-  <!-- EN: Wanderer joins: {PAWN_nameDef} -->
   <WandererJoin.letterLabel>Vándor csatlakozik</WandererJoin.letterLabel>
-  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
   <WandererJoin.letterText>Egy [PAWN_nameDef] nevű [PAWN_kind] érkezett és csatlakozott a kolóniához. A titulusa [PAWN_title].\n\nHajlandó dolgozni, de magától nem fog elmenni. Ha nincs szükséged rá, száműzheted, eladhatod rabszolgának, vagy egyszerűen megölheted. Ezt a többi gyarmatos felkavarónak fogja találni.</WandererJoin.letterText>
   
   <!-- EN: wild man wanders in -->

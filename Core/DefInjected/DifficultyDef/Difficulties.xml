@@ -1,34 +1,39 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: builder -->
+  <!-- EN: Custom -->
+  <Custom.label>TODO</Custom.label>
+  <!-- EN: This setting allows you to define your own playstyle in detail.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
+  <Custom.description>TODO</Custom.description>
+  
+  <!-- EN: community builder -->
   <Easy.label>Építész</Easy.label>
-  <!-- EN: Build a colony, while still having a taste of danger.\n\nRecommended for: Players who are new to this kind of game, and players who want to build a perfect colony.\n\nMajor threats appear, but they're weaker than other modes. Some extremely dangerous events are disabled. -->
+  <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
   <Easy.description>Kolóniaépítés, belekóstolva egy kis veszélybe.\n\nKinek való: új játékosoknak, és azoknak, akik pihentető élményre vágynak. Előfordulhatnak fenyegetések, de a legkomolyabbak ki lesznek kapcsolva.</Easy.description>
   
-  <!-- EN: merciless -->
+  <!-- EN: losing is fun -->
   <Extreme.label>Extrém</Extreme.label>
-  <!-- EN: Apply mastery of every RimWorld skill for just a chance to survive a harrowing trial against a merciless, unfair world.\n\nRecommended for: Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n\nThis level is about dealing with losses, because preventing them is impossible. You'll spend a lot of time fighting wounded and recovering, and you'll need to sacrifice people and things you love. Unfair challenges and capricious death may come at any time. -->
+  <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
   <Extreme.description>Mesterien kell alkalmaznod minden RimWorld tudásod, hogy egyáltalán esélyed legyen ebben a kegyetlen, igazságtalan világban.\n\nKinek való: olyan játékosoknak, akik brutálisan tisztességtelen körülmények között akarják találni magukat. Ahol gördülékenyen kell alkalmazniuk mindenre kiterjedő tudásukat, és fel kell áldozniuk értékes embereiket, hogy elkerüljék a teljes pusztulást.\n\nNe számíts rá, hogy tökéletes játékot tudsz lehozni. Sokszor kell majd sérülten harcolnod és újra és újra talpra állni. Gondosan kell előkészülnöd, és fel kell áldoznod szeretett embereidet és javaidat. Igazságtalan kihívások és a szeszélyes halál bármikor elérhetnek. Ez a nehézségi szint a veszteségek kezeléséről szól, mivel elkerülni őket lehetetlen.</Extreme.description>
   
-  <!-- EN: savage -->
+  <!-- EN: blood and dust -->
   <Hard.label>Nehéz</Hard.label>
-  <!-- EN: Face brutal survival challenges. The price of survival is blood.\n\nRecommended for: Experienced players who want to experience great tests and sacrifice.\n\nSucceeding at this level requires diverse strategies, disciplined preparation, and luck. Threats can spike and combine in vicious ways. Even if you play well, some challenges will be impossible to overcome without losses. -->
+  <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to struggle to survive. -->
   <Hard.description>A túlélést brutális kihívások nehezítik. Az életben maradás árát vérben fizetik.\n\nKinek való: tapasztalt játékosoknak, akik feszegetni akarják határaikat.\n\nA sikerhez különböző stratégiák átfogó ismerete szükséges, alapos felkészülés és szerencse mellett. A fenyegetések csőstül jöhetnek és gyilkos kombinációkat alkothatnak.\n\nMég ha jól is játszol, lesznek kihívások, amiket nem fogsz tudni leküzdeni szándékos áldozat vagy váratlan veszteségek nélkül. Sokszor kell majd sérülten harcolnod és újra és újra talpra állni. Készülj fel rá, hogy sok embert vesztesz majd a túlélésért folytatott harcban!</Hard.description>
   
-  <!-- EN: medium -->
+  <!-- EN: adventure story -->
   <Medium.label>Közepes</Medium.label>
-  <!-- EN: Build a community while facing down dangerous threats.\n\nRecommended for: Experienced strategy game players on their first game of RimWorld, or skilled RimWorld players who want some breathing room to pursue funny or weird goals.\n\nThere's room to grow and thrive, but it's still a dangerous planet. -->
+  <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
   <Medium.description>Építs kolóniát veszélyes fenyegetésekkel megküzdve!\n\nKinek való: tapasztaltabb játékosoknak, akik első kolóniájukat építik, illetve olyan ügyes Rimworld veteránoknak, akik mókás vagy fura célokat tűznek ki maguk elé.</Medium.description>
   
   <!-- EN: peaceful -->
   <Peaceful.label>Békés</Peaceful.label>
-  <!-- EN: Build a community in sandbox environment.\n\nRecommended for: Players who want to focus on the community-building aspects of RimWorld.\n\nThis mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur. -->
+  <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
   <Peaceful.description>Ezen a nehézségen koncentrálhatsz kolóniád építésére, mintha csak egy homokozóban lennél.\n\nKinek való: olyan játékosoknak, akik a játék építkezés oldalára szeretnének fókuszálni.\n\nA komoly fenyegetések ki lesznek kapcsolva, de a gyarmatosok azért lehetnek morcosak néha. Az állatok is megvadulhatnak időről-időre.</Peaceful.description>
   
-  <!-- EN: rough -->
+  <!-- EN: strive to survive -->
   <Rough.label>Haladó</Rough.label>
-  <!-- EN: Strive to survive on a rough, tough planet.\n\nRecommended for: Players with experience with RimWorld, looking to play a rough story requiring skill to survive.\n\nThere will be good times and bad times; triumph and tragedy. It's all for the drama. -->
+  <!-- EN: Strive to survive on a rough, tough planet. There will be triumph and tragedy.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want a rough story requiring skill to survive. -->
   <Rough.description>Komoly kihívást jelentő fokozat. Ehhez a szinthez a túlélési stratégiák átfogó ismerete nélkülözhetetlen.\n\nNe számíts rá, hogy tökéletes játékot tudsz lehozni. Embereket fogsz veszíteni. Még ha jól is játszol, lesznek kihívások, amiket nem fogsz tudni leküzdeni veszteségek nélkül. Sérülten is harcolnod kell majd, áldozatokat hozni a túlélés érdekében, és újra talpra állni. A lényeg a dráma.</Rough.description>
   
 </LanguageData>

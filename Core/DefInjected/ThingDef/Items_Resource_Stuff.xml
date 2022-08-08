@@ -73,7 +73,7 @@
   
   <!-- EN: alpaca wool -->
   <WoolAlpaca.label>alpaka gyapjú</WoolAlpaca.label>
-  <!-- EN: The remarkably soft wool of an alpaca. It is very warm. -->
+  <!-- EN: The remarkably soft wool of an alpaca. It is warm, protects well from heat, and fetches a high price. -->
   <WoolAlpaca.description>Egy alpaka rendkívül puha gyapja. Nagyon meleg.</WoolAlpaca.description>
   <WoolAlpaca.stuffProps.stuffAdjective>alpaka gyapjú</WoolAlpaca.stuffProps.stuffAdjective>
   
@@ -82,9 +82,8 @@
   <!-- EN: Thick and coarse wool of a bison. Quite warm. -->
   <WoolBison.description>TODO</WoolBison.description>
   
-  <!-- EN: camelhair -->
+  <!-- UNUSED -->
   <WoolCamel.label>teveszőr</WoolCamel.label>
-  <!-- EN: Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent heat insulation due to its thermostatic properties. -->
   <WoolCamel.description>A teveszőr ruházatot általában sivatagi utazók használják, hogy megvédje őket a melegtől. Remekül szigetel.</WoolCamel.description>
   <WoolCamel.stuffProps.stuffAdjective>teveszőr</WoolCamel.stuffProps.stuffAdjective>
   
@@ -104,10 +103,5 @@
   <WoolSheep.label>TODO</WoolSheep.label>
   <!-- EN: Sheep's wool. It provides good insulation. -->
   <WoolSheep.description>TODO</WoolSheep.description>
-  
-  <!-- EN: yak wool -->
-  <WoolYak.label>TODO</WoolYak.label>
-  <!-- EN: Rough and dense fiber of a yak. Good insulation, but very rare. -->
-  <WoolYak.description>TODO</WoolYak.description>
   
 </LanguageData>

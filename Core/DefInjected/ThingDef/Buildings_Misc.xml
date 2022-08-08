@@ -6,9 +6,9 @@
   <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
   <AncientCryptosleepCasket.description>Ősi önfenntartó kapszula, ami egy személyt képes hosszú évekig hibernációban tartani.</AncientCryptosleepCasket.description>
   
-  <!-- EN: caravan packing spot -->
+  <!-- EN: caravan hitching spot -->
   <CaravanPackingSpot.label>karaván rakodóhely</CaravanPackingSpot.label>
-  <!-- EN: Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process. -->
+  <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
   <CaravanPackingSpot.description>Kijelöl egy helyet, ahol karavánok alakíthatók.</CaravanPackingSpot.description>
   
   <!-- EN: comms console -->
@@ -20,6 +20,11 @@
   <CryptosleepCasket.label>hibernáló</CryptosleepCasket.label>
   <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
   <CryptosleepCasket.description>Önfenntartó kapszula, ami egy személyt képes hosszú évekig hibernációban tartani.</CryptosleepCasket.description>
+  
+  <!-- EN: egg box -->
+  <EggBox.label>TODO</EggBox.label>
+  <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
+  <EggBox.description>TODO</EggBox.description>
   
   <!-- EN: firefoam popper -->
   <FirefoamPopper.label>habbal oltó</FirefoamPopper.label>
@@ -68,6 +73,11 @@
   <!-- EN: Designates a spot for throwing parties. -->
   <PartySpot.description>Kijelöl egy helyet, ahol a bulik megrendezhetők. Az adott pont körül szabad területnek kell lennie.</PartySpot.description>
   
+  <!-- EN: pen marker -->
+  <PenMarker.label>TODO</PenMarker.label>
+  <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
+  <PenMarker.description>TODO</PenMarker.description>
+  
   <!-- EN: pod launcher -->
   <PodLauncher.label>szállító kapszula kilövő</PodLauncher.label>
   <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
@@ -90,7 +100,7 @@
   
   <!-- EN: tool cabinet -->
   <ToolCabinet.label>szerszám szekrény</ToolCabinet.label>
-  <!-- EN: Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
+  <!-- EN: Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets. -->
   <ToolCabinet.description>Növeli az előállítás sebességét. Munkaasztal mellé kell telepíteni. Egy munkaasztal két szerszámszekrénnyel lehet összeköttetésben.</ToolCabinet.description>
   
   <!-- EN: transport pod -->

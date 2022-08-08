@@ -103,12 +103,12 @@
   </NamerFactionPirate.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_name->[tribalworld] [political_union_tribal]</li>
-    <li>r_name->The [tribalworld] [political_union_tribal]</li>
+    <li>r_name->[WordTribal] [political_union_tribal]</li>
+    <li>r_name->The [WordTribal] [political_union_tribal]</li>
     <li>r_name->The [Color] [TerrainFeature] [political_union_tribal]</li>
     <li>r_name->[political_union_tribal] of [WordTribal]</li>
     <li>r_name->The [Color] [Animal] [WordTribal]</li>
-    <li>r_name->The [WordTribal] of the [TerrainFeature]</li>
+    <li>r_name->The [political_union_tribal] of the [TerrainFeature]</li>
   -->
   <NamerFactionTribal.rulePack.rulesStrings>
     <li>r_name->[tribalworld] [political_union_tribal]</li>
@@ -236,7 +236,7 @@
     <li>townname_combo->[AnimalBadass] [geography]</li>
     <li>townname_combo->[AnimalBadass]'s [geography]</li>
     <li>townname_combo->[ConceptBadass] [geography]</li>
-    <li>townname_combo->[ConceptBadass]'s' [geography]</li>
+    <li>townname_combo->[ConceptBadass]'s [geography]</li>
     <li>townname_combo->[PersonBadass] [geography]</li>
     <li>townname_combo->[PersonBadass]'s [geography]</li>
     <li>townname_combo->[Enemy]'s [geography]</li>

@@ -3,8 +3,18 @@
   
   <!-- EN: Arrest success chance -->
   <ArrestSuccessChance.label>TODO</ArrestSuccessChance.label>
-  <!-- EN: How effective this person is in arresting people.\n\nThis affects the success chance of arresting tries. -->
+  <!-- EN: How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance. -->
   <ArrestSuccessChance.description>TODO</ArrestSuccessChance.description>
+  
+  <!-- EN: bond chance factor -->
+  <BondAnimalChanceFactor.label>TODO</BondAnimalChanceFactor.label>
+  <!-- EN: A multiplier on the chance to bond with an animal when interacting with it. -->
+  <BondAnimalChanceFactor.description>TODO</BondAnimalChanceFactor.description>
+  
+  <!-- EN: drug sell price improvement -->
+  <DrugSellPriceImprovement.label>TODO</DrugSellPriceImprovement.label>
+  <!-- EN: When this person sells non-medical drugs, prices are improved by this percentage. -->
+  <DrugSellPriceImprovement.description>TODO</DrugSellPriceImprovement.description>
   
   <!-- EN: negotiation ability -->
   <NegotiationAbility.label>diplomácia</NegotiationAbility.label>

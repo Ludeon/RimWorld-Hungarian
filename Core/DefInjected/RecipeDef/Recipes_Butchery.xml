@@ -8,11 +8,18 @@
   <!-- EN: Butchering. -->
   <ButcherCorpseFlesh.jobString>Állatot bont.</ButcherCorpseFlesh.jobString>
   
-  <!-- EN: disassemble mechanoid -->
+  <!-- EN: shred mechanoid -->
   <ButcherCorpseMechanoid.label>mechanoid szétszerelés</ButcherCorpseMechanoid.label>
-  <!-- EN: Disassemble a dead mechanoid into its component parts. -->
+  <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
   <ButcherCorpseMechanoid.description>Egy mechanoid szétszerelése részegységeire.</ButcherCorpseMechanoid.description>
-  <!-- EN: Disassembling mechanoid. -->
+  <!-- EN: Shredding mechanoid. -->
   <ButcherCorpseMechanoid.jobString>Mechanoidot szerel szét.</ButcherCorpseMechanoid.jobString>
+  
+  <!-- EN: smash mechanoid -->
+  <SmashCorpseMechanoid.label>TODO</SmashCorpseMechanoid.label>
+  <!-- EN: Smash a dead mechanoid with simple hand tools to salvage usable material. -->
+  <SmashCorpseMechanoid.description>TODO</SmashCorpseMechanoid.description>
+  <!-- EN: Smashing mechanoid. -->
+  <SmashCorpseMechanoid.jobString>TODO</SmashCorpseMechanoid.jobString>
   
 </LanguageData>

@@ -30,13 +30,14 @@
   <!-- EN: A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect. -->
   <AlcoholTolerance.description>Tolerancia az alkohollal szemben. Minél erősebb ez a tolerancia, annál több alkoholt igényel ugyanaz a hatás.</AlcoholTolerance.description>
   <!-- EN: small -->
-  <AlcoholTolerance.stages.small-0.label>kicsi</AlcoholTolerance.stages.small-0.label>
-  <!-- EN: small -->
-  <AlcoholTolerance.stages.small-1.label>kicsi</AlcoholTolerance.stages.small-1.label>
+  <AlcoholTolerance.stages.small.label>kicsi</AlcoholTolerance.stages.small.label>
   <!-- EN: large -->
   <AlcoholTolerance.stages.large.label>nagy</AlcoholTolerance.stages.large.label>
   <!-- EN: massive -->
   <AlcoholTolerance.stages.massive.label>óriási</AlcoholTolerance.stages.massive.label>
+  
+  <!-- UNUSED -->
+  <AlcoholTolerance.stages.small-1.label>kicsi</AlcoholTolerance.stages.small-1.label>
   
   <!-- EN: hangover -->
   <Hangover.label>macskajaj</Hangover.label>

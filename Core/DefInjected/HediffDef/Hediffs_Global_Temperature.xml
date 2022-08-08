@@ -4,8 +4,7 @@
   <!-- EN: heatstroke -->
   <Heatstroke.label>hőguta</Heatstroke.label>
   <!-- EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim becomes dizzy, weak, and confused. Recovery is quick once in a cool area, but if heat exposure continues, heat stroke gets worse until death. -->
-  <Heatstroke.description>A test működésének általános zavara, amelyet a hőnek és a napnak való túlzott kitétel okoz. Az áldozat szédül, gyenge és zavart. Hűvös környezetben gyorsan elmúlik, de ha a meleg nem szűnik, a hőguta halálig súlyosbodik.
-</Heatstroke.description>
+  <Heatstroke.description>A test működésének általános zavara, amelyet a hőnek és a napnak való túlzott kitétel okoz. Az áldozat szédül, gyenge és zavart. Hűvös környezetben gyorsan elmúlik, de ha a meleg nem szűnik, a hőguta halálig súlyosbodik.\n</Heatstroke.description>
   <!-- EN: initial -->
   <Heatstroke.stages.initial-0.label>első rejtett eset</Heatstroke.stages.initial-0.label>
   <!-- EN: initial -->
@@ -20,8 +19,7 @@
   <!-- EN: hypothermia -->
   <Hypothermia.label>kihűlés</Hypothermia.label>
   <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments. -->
-  <Hypothermia.description>Veszélyesen alacsony testhőmérséklet. Ha nem szüntetik meg, a kihűlés halállal végződik. A gyógyulás gyors, amint a beteget újra felmelegítik. Meleg ruházat viselésével elkerülhető.
-</Hypothermia.description>
+  <Hypothermia.description>Veszélyesen alacsony testhőmérséklet. Ha nem szüntetik meg, a kihűlés halállal végződik. A gyógyulás gyors, amint a beteget újra felmelegítik. Meleg ruházat viselésével elkerülhető.\n</Hypothermia.description>
   <!-- EN: shivering -->
   <Hypothermia.stages.shivering-0.label>reszketés (rejtett)</Hypothermia.stages.shivering-0.label>
   <!-- EN: shivering -->
@@ -35,9 +33,8 @@
   
   <!-- EN: hypothermic slowdown -->
   <HypothermicSlowdown.label>dermedés</HypothermicSlowdown.label>
-  <!-- EN: A special survival state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent. Some biologists call it to a wakeful form of hibernation. -->
-  <HypothermicSlowdown.description>Különleges állapot, amelyet egyes lények használnak a szélsőséges hideg átvészelésére. Ahelyett, hogy megpróbálna melegen maradni, a lény testkémiája alkalmazkodik a nagyon alacsony hőmérséklethez. Ez megakadályozza a belső szervek fagyását. A testfunkciók lelassulnak és a teljesítmény csökken, de a hideg nem okoz maradandó sérülést. Egyes biológusok ezt az állapotot éber hibernációnak hívják.
-</HypothermicSlowdown.description>
+  <!-- EN: A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation. -->
+  <HypothermicSlowdown.description>Különleges állapot, amelyet egyes lények használnak a szélsőséges hideg átvészelésére. Ahelyett, hogy megpróbálna melegen maradni, a lény testkémiája alkalmazkodik a nagyon alacsony hőmérséklethez. Ez megakadályozza a belső szervek fagyását. A testfunkciók lelassulnak és a teljesítmény csökken, de a hideg nem okoz maradandó sérülést. Egyes biológusok ezt az állapotot éber hibernációnak hívják.\n</HypothermicSlowdown.description>
   <!-- EN: minor -->
   <HypothermicSlowdown.stages.minor-0.label>enyhe</HypothermicSlowdown.stages.minor-0.label>
   <!-- EN: minor -->

@@ -28,6 +28,8 @@
   <!-- ToCommaList() -->
   <!-- EN: {0} and {1} -->
   <ToCommaListAnd>{0} és {1}</ToCommaListAnd>
+  <!-- EN: {0} or {1} -->
+  <ToCommaListOr>TODO</ToCommaListOr>
   
   <!-- General-use words -->
   <!-- EN: Yes -->
@@ -38,6 +40,8 @@
   <New>új</New>
   <!-- EN: Gender -->
   <Gender>Nem</Gender>
+  <!-- EN: Sex -->
+  <Sex>TODO</Sex>
   <!-- EN: min -->
   <min>min</min>
   <!-- EN: max -->
@@ -80,8 +84,12 @@
   <Average>Átlag</Average>
   <!-- EN: Cause -->
   <Cause>Ok</Cause>
+  <!-- EN: etc -->
+  <Etc>TODO</Etc>
   <!-- EN: ${0} -->
   <MoneyFormat>${0}</MoneyFormat>
+  <!-- EN: Factors -->
+  <Factors>TODO</Factors>
 
   <!-- Content generation-->
   
@@ -100,10 +108,7 @@
 \nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
 \nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
 \nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
-  <TechprintDesc>Ez egy múszaki leírás a következő kutatási projekthez: '{PROJECT_label}'.
-\nEgy műszaki leírás lehet diagramokat tartalmazó fecnitől kezdve önállóan működő oktatógépig bármi. Függetlenül a megvalósítástól, ugyanazt teszik. Megadják a kutatóknak az önbizalmat, hogy az ötlet kivitelezhető és nagy vonalakban leírják, hogy fejlettebb világokban hogyan működik az adott dolog.
-\nA kutatóknak szüksége van a műszaki leírások nyújtotta alapokra, hogy el tudják kezdeni az adott projektet. Csak azután lehet kidolgozni a technológia részleteit, miután elég leírás olvastak a témában.
-\nMár folyamatban lévő projektnél egy leírás a hátralévő kutatás felét adja meg. Ezen felül a kutatók mindig kapnak bónuszt intellektuális készségeikre, amikor műszaki leírást olvasnak, még akkor is, ha az adott technológia már ki van fejlesztve.</TechprintDesc>
+  <TechprintDesc>Ez egy múszaki leírás a következő kutatási projekthez: '{PROJECT_label}'.\n\nEgy műszaki leírás lehet diagramokat tartalmazó fecnitől kezdve önállóan működő oktatógépig bármi. Függetlenül a megvalósítástól, ugyanazt teszik. Megadják a kutatóknak az önbizalmat, hogy az ötlet kivitelezhető és nagy vonalakban leírják, hogy fejlettebb világokban hogyan működik az adott dolog.\n\nA kutatóknak szüksége van a műszaki leírások nyújtotta alapokra, hogy el tudják kezdeni az adott projektet. Csak azután lehet kidolgozni a technológia részleteit, miután elég leírás olvastak a témában.\n\nMár folyamatban lévő projektnél egy leírás a hátralévő kutatás felét adja meg. Ezen felül a kutatók mindig kapnak bónuszt intellektuális készségeikre, amikor műszaki leírást olvasnak, még akkor is, ha az adott technológia már ki van fejlesztve.</TechprintDesc>
   <!-- EN: Unlocks -->
   <Unlocks>Feloldja</Unlocks>
 
@@ -145,6 +150,12 @@
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
   <CouplesRoom>{2} tulajdonosai: {PAWN1_labelShort} és {PAWN2_labelShort}</CouplesRoom>
   
+  <!-- EN: Important for this type of room. -->
+  <StatRelatesToCurrentRoom>TODO</StatRelatesToCurrentRoom>
+  
+  <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
+  <DeepResourceRemaining>TODO</DeepResourceRemaining>
+  
   <!-- EN: (various) -->
   <VariousLabel>(többféle)</VariousLabel>
 
@@ -164,5 +175,9 @@
 
   <!-- EN: applying techprint ({0}) -->
   <ApplyingTechprint>műszaki leírás használata ({0})</ApplyingTechprint>
+
+  <!-- Apparel Looks -->
+  <!-- EN: variant of -->
+  <VariantOf>TODO</VariantOf>
   
 </LanguageData>

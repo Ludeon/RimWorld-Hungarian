@@ -152,7 +152,7 @@
   <DoBillsFabricationBench.label>dolgokat gyárt</DoBillsFabricationBench.label>
   <!-- EN: fabricating things at -->
   <DoBillsFabricationBench.gerund>gyártás</DoBillsFabricationBench.gerund>
-  <!-- EN: fabricating things -->
+  <!-- EN: fabricate -->
   <DoBillsFabricationBench.verb>gyártani</DoBillsFabricationBench.verb>
   
   <!-- EN: do bills at campfire -->
@@ -297,9 +297,9 @@
   
   <!-- EN: execute prisoners -->
   <DoExecution.label>kivégez</DoExecution.label>
-  <!-- EN: doing execution on -->
+  <!-- EN: executing -->
   <DoExecution.gerund>kivégzés</DoExecution.gerund>
-  <!-- EN: do execution on -->
+  <!-- EN: execute -->
   <DoExecution.verb>kivégezni</DoExecution.verb>
   
   <!-- EN: drill at deep drill -->
@@ -308,6 +308,27 @@
   <Drill.gerund>fúrás</Drill.gerund>
   <!-- EN: drill -->
   <Drill.verb>fúrni</Drill.verb>
+  
+  <!-- EN: empty egg box -->
+  <EmptyEggBox.label>TODO</EmptyEggBox.label>
+  <!-- EN: emptying -->
+  <EmptyEggBox.gerund>TODO</EmptyEggBox.gerund>
+  <!-- EN: empty -->
+  <EmptyEggBox.verb>TODO</EmptyEggBox.verb>
+  
+  <!-- EN: execute guilty colonists -->
+  <ExecuteGuiltyColonist.label>TODO</ExecuteGuiltyColonist.label>
+  <!-- EN: executing -->
+  <ExecuteGuiltyColonist.gerund>TODO</ExecuteGuiltyColonist.gerund>
+  <!-- EN: execute -->
+  <ExecuteGuiltyColonist.verb>TODO</ExecuteGuiltyColonist.verb>
+  
+  <!-- EN: extract trees -->
+  <ExtractTree.label>TODO</ExtractTree.label>
+  <!-- EN: extracting -->
+  <ExtractTree.gerund>TODO</ExtractTree.gerund>
+  <!-- EN: extract -->
+  <ExtractTree.verb>TODO</ExtractTree.verb>
   
   <!-- EN: feed prisoners -->
   <FeedPrisoner.label>foglyot etet</FeedPrisoner.label>
@@ -477,6 +498,13 @@
   <!-- EN: rearm -->
   <RearmTurrets.verb>újraélesíteni</RearmTurrets.verb>
   
+  <!-- EN: rebalance penned animals -->
+  <RebalanceAnimalsInPens.label>TODO</RebalanceAnimalsInPens.label>
+  <!-- EN: roping -->
+  <RebalanceAnimalsInPens.gerund>TODO</RebalanceAnimalsInPens.gerund>
+  <!-- EN: rope -->
+  <RebalanceAnimalsInPens.verb>TODO</RebalanceAnimalsInPens.verb>
+  
   <!-- EN: refuel fuelable buildings -->
   <Refuel.label>feltölt</Refuel.label>
   <!-- EN: refueling -->
@@ -491,6 +519,13 @@
   <!-- EN: release -->
   <ReleasePrisoner.verb>elengedni</ReleasePrisoner.verb>
   
+  <!-- EN: release to wild -->
+  <ReleaseToWild.label>TODO</ReleaseToWild.label>
+  <!-- EN: releasing -->
+  <ReleaseToWild.gerund>TODO</ReleaseToWild.gerund>
+  <!-- EN: release -->
+  <ReleaseToWild.verb>TODO</ReleaseToWild.verb>
+  
   <!-- EN: remove roofs -->
   <RemoveRoofs.label>tetőt bont</RemoveRoofs.label>
   <!-- EN: removing roof -->
@@ -504,6 +539,13 @@
   <Repair.gerund>javítás</Repair.gerund>
   <!-- EN: repair -->
   <Repair.verb>javítani</Repair.verb>
+  
+  <!-- EN: replant tree -->
+  <Replant.label>TODO</Replant.label>
+  <!-- EN: replanting -->
+  <Replant.gerund>TODO</Replant.gerund>
+  <!-- EN: replant -->
+  <Replant.verb>TODO</Replant.verb>
   
   <!-- EN: do research -->
   <Research.label>kutatást végez</Research.label>
@@ -538,6 +580,13 @@
   <!-- EN: strip -->
   <Strip.verb>levetkőztetni</Strip.verb>
   
+  <!-- EN: study -->
+  <StudyThing.label>TODO</StudyThing.label>
+  <!-- EN: studying -->
+  <StudyThing.gerund>TODO</StudyThing.gerund>
+  <!-- EN: research -->
+  <StudyThing.verb>TODO</StudyThing.verb>
+  
   <!-- EN: take beer out of fermenting barrels -->
   <TakeBeerOutOfFermentingBarrel.label>sört csapol</TakeBeerOutOfFermentingBarrel.label>
   <!-- EN: taking beer from -->
@@ -552,12 +601,26 @@
   <!-- EN: take to bed -->
   <TakePrisonerToBed.verb>megmenteni</TakePrisonerToBed.verb>
   
+  <!-- EN: rope roaming animals -->
+  <TakeRoamingAnimalsToPen.label>TODO</TakeRoamingAnimalsToPen.label>
+  <!-- EN: roping -->
+  <TakeRoamingAnimalsToPen.gerund>TODO</TakeRoamingAnimalsToPen.gerund>
+  <!-- EN: rope -->
+  <TakeRoamingAnimalsToPen.verb>TODO</TakeRoamingAnimalsToPen.verb>
+  
   <!-- EN: take patients to bed for operations -->
   <TakeToBedToOperate.label>pácienst műtőbe visz</TakeToBedToOperate.label>
   <!-- EN: taking to operate -->
   <TakeToBedToOperate.gerund>műtőbe vitel</TakeToBedToOperate.gerund>
   <!-- EN: take to operate -->
   <TakeToBedToOperate.verb>műtőbe vinni</TakeToBedToOperate.verb>
+  
+  <!-- EN: rope animals -->
+  <TakeToPen.label>TODO</TakeToPen.label>
+  <!-- EN: roping -->
+  <TakeToPen.gerund>TODO</TakeToPen.gerund>
+  <!-- EN: rope -->
+  <TakeToPen.verb>TODO</TakeToPen.verb>
   
   <!-- EN: tame animals -->
   <Tame.label>állatot szelídít</Tame.label>

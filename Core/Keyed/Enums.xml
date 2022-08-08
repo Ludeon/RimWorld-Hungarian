@@ -140,9 +140,9 @@
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Változtatások benyújtása</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
-  <!-- EN: official content -->
+  <!-- EN: Official content -->
   <ContentSource_OfficialModsFolder>hivatalos tartalom</ContentSource_OfficialModsFolder>
-  <!-- EN: local folder -->
+  <!-- EN: Local folder -->
   <ContentSource_ModsFolder>helyi mappa</ContentSource_ModsFolder>
   <!-- EN: Steam Workshop -->
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
@@ -312,4 +312,21 @@
   <ExtraFactionType_HomeFaction>saját frakció</ExtraFactionType_HomeFaction>
   <!-- EN: remote host faction -->
   <ExtraFactionType_HostFaction>befogadó frakció</ExtraFactionType_HostFaction>
+  <!-- EN: group -->
+  <ExtraFactionType_MiniFaction>TODO</ExtraFactionType_MiniFaction>
+
+  <!-- DrugCategory -->
+  <!-- EN: drug category -->
+  <DrugCategory>TODO</DrugCategory>
+  <!-- EN: none -->
+  <DrugCategory_None>TODO</DrugCategory_None>
+  <!-- EN: medical -->
+  <DrugCategory_Medical>TODO</DrugCategory_Medical>
+  <!-- EN: social -->
+  <DrugCategory_Social>TODO</DrugCategory_Social>
+  <!-- EN: hard -->
+  <DrugCategory_Hard>TODO</DrugCategory_Hard>
+  <!-- EN: any -->
+  <DrugCategory_Any>TODO</DrugCategory_Any>
+  
 </LanguageData>

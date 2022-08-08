@@ -1,26 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- UNUSED -->
+  <Apparel_PsychicInsanityLance.comps.CompUsable.useLabel>Őrjítőlándzsa aktiválás</Apparel_PsychicInsanityLance.comps.CompUsable.useLabel>
+  
+  <!-- UNUSED -->
+  <Apparel_PsychicShockLance.comps.CompUsable.useLabel>Sokklándzsa aktiválás</Apparel_PsychicShockLance.comps.CompUsable.useLabel>
+  
   <!-- EN: psychic animal pulser -->
   <PsychicAnimalPulser.label>Állatvadító</PsychicAnimalPulser.label>
-  <!-- EN: A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. -->
+  <!-- EN: A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. Animals currently under your control will not be affected. -->
   <PsychicAnimalPulser.description>Egyszer használatos relikvia, ami a régióban lévő összes állatból emberevőt csinál.</PsychicAnimalPulser.description>
   <!-- EN: Activate -->
   <PsychicAnimalPulser.comps.CompUsable.useLabel>Állatvadító aktiválás</PsychicAnimalPulser.comps.CompUsable.useLabel>
-  
-  <!-- EN: psychic insanity lance -->
-  <PsychicInsanityLance.label>Őrjítőlándzsa</PsychicInsanityLance.label>
-  <!-- EN: A one-use psychic effector. It overwhelms the target's mind with terrifying perceptual distortions, driving him into a berserk state. There is a risk of brain damage. It works at long distances, and through walls. -->
-  <PsychicInsanityLance.description>Egyszer használatos relikvia, ami bárkit megőrjít bármilyen távolságból, akár falakon keresztül is!</PsychicInsanityLance.description>
-  <!-- EN: Activate -->
-  <PsychicInsanityLance.comps.CompUsable.useLabel>Őrjítőlándzsa aktiválás</PsychicInsanityLance.comps.CompUsable.useLabel>
-  
-  <!-- EN: psychic shock lance -->
-  <PsychicShockLance.label>Sokklándzsa</PsychicShockLance.label>
-  <!-- EN: A one-use psychic effector. It shocks the target's mind with chaotic images, blocking coherent perception and dropping him into a state of psychic shock. There is a risk of brain damage. It works at long distances, and through walls. -->
-  <PsychicShockLance.description>Egyszer használatos relikvia, ami pszichotikus sokkot okoz a célpontnak. Magas agysérülés kockázat!</PsychicShockLance.description>
-  <!-- EN: Activate -->
-  <PsychicShockLance.comps.CompUsable.useLabel>Sokklándzsa aktiválás</PsychicShockLance.comps.CompUsable.useLabel>
   
   <!-- EN: psychic soothe pulser -->
   <PsychicSoothePulser.label>Nyugalomforrás</PsychicSoothePulser.label>

@@ -11,10 +11,19 @@
   <Capture.reportString>elfogja őt: TargetA.</Capture.reportString>
   
   <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnDrafted.reportString>TODO</CarryDownedPawnDrafted.reportString>
+  
+  <!-- EN: carrying TargetA. -->
   <CarryDownedPawnToExit.reportString>cipeli őt: TargetA.</CarryDownedPawnToExit.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
   <CarryToCryptosleepCasket.reportString>hibernálóba cipeli őt: TargetA.</CarryToCryptosleepCasket.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasketDrafted.reportString>TODO</CarryToCryptosleepCasketDrafted.reportString>
+  
+  <!-- EN: arresting TargetA. -->
+  <CarryToPrisonerBedDrafted.reportString>TODO</CarryToPrisonerBedDrafted.reportString>
   
   <!-- EN: cleaning TargetA. -->
   <Clean.reportString>eltakarítja ezt: TargetA.</Clean.reportString>
@@ -37,6 +46,9 @@
   <!-- EN: escorting prisoner TargetA. -->
   <EscortPrisonerToBed.reportString>TargetA foglyot kíséri.</EscortPrisonerToBed.reportString>
   
+  <!-- EN: extracting TargetA. -->
+  <ExtractTree.reportString>TODO</ExtractTree.reportString>
+  
   <!-- EN: feeding TargetA to TargetB. -->
   <FeedPatient.reportString>megeteti őt: TargetB ezzel: TargetA.</FeedPatient.reportString>
   
@@ -45,6 +57,9 @@
   
   <!-- EN: replacing broken components in TargetA. -->
   <FixBrokenDownBuilding.reportString>helyrehozza ezt: TargetA.</FixBrokenDownBuilding.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <GuiltyColonistExecution.reportString>TODO</GuiltyColonistExecution.reportString>
   
   <!-- EN: harvesting TargetA. -->
   <Harvest.reportString>aratja ezt: TargetA.</Harvest.reportString>
@@ -85,6 +100,9 @@
   <!-- EN: executing TargetA. -->
   <PrisonerExecution.reportString>kivégzi őt: TargetA.</PrisonerExecution.reportString>
   
+  <!-- EN: releasing TargetA into the wild. -->
+  <ReleaseAnimalToWild.reportString>TODO</ReleaseAnimalToWild.reportString>
+  
   <!-- EN: releasing TargetA. -->
   <ReleasePrisoner.reportString>elengedi őt: TargetA.</ReleasePrisoner.reportString>
   
@@ -97,11 +115,23 @@
   <!-- EN: repairing TargetA. -->
   <Repair.reportString>megjavítja ezt: TargetA.</Repair.reportString>
   
+  <!-- EN: replanting TargetA. -->
+  <Replant.reportString>TODO</Replant.reportString>
+  
   <!-- EN: rescuing TargetA. -->
   <Rescue.reportString>megmenti őt: TargetA.</Rescue.reportString>
   
   <!-- EN: researching. -->
   <Research.reportString>kutatást végez.</Research.reportString>
+  
+  <!-- EN: leading TargetA to hitching spot. -->
+  <RopeRoamerToHitchingPost.reportString>TODO</RopeRoamerToHitchingPost.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeRoamerToUnenclosedPen.reportString>TODO</RopeRoamerToUnenclosedPen.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeToPen.reportString>TODO</RopeToPen.reportString>
   
   <!-- EN: shearing TargetA. -->
   <Shear.reportString>nyírja ezt: TargetA.</Shear.reportString>
@@ -121,6 +151,12 @@
   <!-- EN: stealing TargetA. -->
   <Steal.reportString>ellopja ezt: TargetA.</Steal.reportString>
   
+  <!-- EN: Studying TargetA. -->
+  <StudyThing.reportString>TODO</StudyThing.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeDownedPawnToBedDrafted.reportString>TODO</TakeDownedPawnToBedDrafted.reportString>
+  
   <!-- EN: taking TargetA to bed. -->
   <TakeToBedToOperate.reportString>betegágyba viszi őt: TargetA.</TakeToBedToOperate.reportString>
   
@@ -138,6 +174,9 @@
   
   <!-- EN: uninstalling TargetA. -->
   <Uninstall.reportString>leszereli ezt: TargetA.</Uninstall.reportString>
+  
+  <!-- EN: unroping TargetA. -->
+  <Unrope.reportString>TODO</Unrope.reportString>
   
   <!-- EN: using comms console. -->
   <UseCommsConsole.reportString>komm. konzolt használja.</UseCommsConsole.reportString>

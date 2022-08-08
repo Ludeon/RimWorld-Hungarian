@@ -47,14 +47,13 @@
   
   <!-- EN: gut worms -->
   <GutWorms.label>bélféreg</GutWorms.label>
-  <!-- EN: Parasitic worms in the gut. They cause vomiting. They also consuming the victim's food, which increases hunger. -->
+  <!-- EN: Parasitic worms in the gut. They cause vomiting. They also consume the victim's food, which increases hunger. -->
   <GutWorms.description>Parazita férgek a bélben. Hányást okoznak. Az áldozat által megevett ételt fogyasztják, ez növeli az éhséget.</GutWorms.description>
   
   <!-- EN: malaria -->
   <Malaria.label>malária</Malaria.label>
   <!-- EN: An infectious disease caused by a mosquito-borne parasite. -->
-  <Malaria.description>Szúnyogok által terjesztett parazita által okozott fertőző betegség.
-</Malaria.description>
+  <Malaria.description>Szúnyogok által terjesztett parazita által okozott fertőző betegség.\n</Malaria.description>
   <!-- EN: minor -->
   <Malaria.stages.minor.label>enyhe</Malaria.stages.minor.label>
   <!-- EN: major -->
@@ -66,8 +65,8 @@
   <MuscleParasites.label>izomtrichina</MuscleParasites.label>
   <!-- EN: Parasitic creatures in the muscles. These cause weakness and a lack of coordination. -->
   <MuscleParasites.description>Parazita lények az izmokban. Gyengeséget és koordinációhiányt okoznak.</MuscleParasites.description>
-  <!-- EN: plague -->
   
+  <!-- EN: plague -->
   <Plague.label>pestis</Plague.label>
   <!-- EN: An infectious disease caused by bacteria. -->
   <Plague.description>A baktériumok által okozott fertőző betegség.</Plague.description>

@@ -16,14 +16,14 @@
     <li>rewardDescription->a [joiner_age]-year-old [joiner_title] named [joiner_nameDef] will arrive and join you. [joiner_relationInfo]</li>
   -->
   <Util_JoinerWalkIn.questDescriptionRules.rulesStrings>
-  <li>rewardDescription->egy [joiner_age] éves [joiner_nameDef] nevű [joiner_title] fog érkezni és csatlakozik hozzád.[joiner_relationInfo]</li>
+    <li>rewardDescription->egy [joiner_age] éves [joiner_nameDef] nevű [joiner_title] fog érkezni és csatlakozik hozzád.[joiner_relationInfo]</li>
   </Util_JoinerWalkIn.questDescriptionRules.rulesStrings>
   
   <!-- EN:
     <li>rewardDescription->transport pods with the following resources will arrive (total value [itemPodsTotalMarketValue_money]):\n\n[itemPodsContents]</li>
   -->
   <Util_SendItemPods.questDescriptionRules.rulesStrings>
-  <li>rewardDescription->szállítókapszulák fognak érkezni a következő tartalommal (összérték [itemPodsTotalMarketValue_money]):\n\n[itemPodsContents]</li>
+    <li>rewardDescription->szállítókapszulák fognak érkezni a következő tartalommal (összérték [itemPodsTotalMarketValue_money]):\n\n[itemPodsContents]</li>
   </Util_SendItemPods.questDescriptionRules.rulesStrings>
   
 </LanguageData>

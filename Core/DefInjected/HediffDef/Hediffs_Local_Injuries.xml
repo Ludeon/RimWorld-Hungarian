@@ -134,6 +134,15 @@
   <!-- EN: {0} in the {1} -->
   <Cut.labelNounPretty>{1} {0}</Cut.labelNounPretty>
   
+  <!-- EN: cut -->
+  <ExecutionCut.label>TODO</ExecutionCut.label>
+  <!-- EN: A cut made during execution. -->
+  <ExecutionCut.description>TODO</ExecutionCut.description>
+  <!-- EN: a cut -->
+  <ExecutionCut.labelNoun>TODO</ExecutionCut.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <ExecutionCut.labelNounPretty>TODO</ExecutionCut.labelNounPretty>
+  
   <!-- EN: frostbite -->
   <Frostbite.label>fagyás</Frostbite.label>
   <!-- EN: Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost. -->
@@ -184,6 +193,8 @@
   <Misc.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Misc.comps.HediffComp_TendDuration.labelTendedWell>
   <!-- EN: sutured -->
   <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: scar -->
+  <Misc.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Destroyed -->
   <Misc.injuryProps.destroyedLabel>kárba ment</Misc.injuryProps.destroyedLabel>
   <!-- EN: an injury -->

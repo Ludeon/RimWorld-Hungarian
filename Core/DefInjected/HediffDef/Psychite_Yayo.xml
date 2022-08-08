@@ -4,8 +4,7 @@
   <!-- EN: psychite addiction -->
   <PsychiteAddiction.label>kokainfüggés</PsychiteAddiction.label>
   <!-- EN: A chemical addiction to psychite. Long-term presence of psychite has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of psychite from drugs like flake or yayo, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <PsychiteAddiction.description>A kokaintól való kémiai függőség. A kokain hosszú távú jelenléte a sejtek szintjén neurológiai elváltozást okozott, így az agy már nem működik megfelelően nélküle.\n\nRendszeres adag kokain vagy crack nélkül megvonási tünetek lépnek fel. A hosszabb ideig tartó elvonás azonban arra kényszeríti az agyat, hogy visszatérjen normál állapotába, megszüntetve a függőséget.
-</PsychiteAddiction.description>
+  <PsychiteAddiction.description>A kokaintól való kémiai függőség. A kokain hosszú távú jelenléte a sejtek szintjén neurológiai elváltozást okozott, így az agy már nem működik megfelelően nélküle.\n\nRendszeres adag kokain vagy crack nélkül megvonási tünetek lépnek fel. A hosszabb ideig tartó elvonás azonban arra kényszeríti az agyat, hogy visszatérjen normál állapotába, megszüntetve a függőséget.\n</PsychiteAddiction.description>
   <!-- EN: withdrawal -->
   <PsychiteAddiction.stages.withdrawal.label>elvonás</PsychiteAddiction.stages.withdrawal.label>
   
@@ -14,13 +13,14 @@
   <!-- EN: A built-up tolerance to psychite. The more severe this tolerance is, the more psychite-based drugs like yayo or flake it takes to get the same effect. -->
   <PsychiteTolerance.description>Tolerancia a kokainnal szemben. Minél erősebb ez a tolerancia, annál több kokaint igényel ugyanaz a hatás.</PsychiteTolerance.description>
   <!-- EN: small -->
-  <PsychiteTolerance.stages.small-0.label>kicsi</PsychiteTolerance.stages.small-0.label>
-  <!-- EN: small -->
-  <PsychiteTolerance.stages.small-1.label>kicsi</PsychiteTolerance.stages.small-1.label>
+  <PsychiteTolerance.stages.small.label>kicsi</PsychiteTolerance.stages.small.label>
   <!-- EN: large -->
   <PsychiteTolerance.stages.large.label>nagy</PsychiteTolerance.stages.large.label>
   <!-- EN: massive -->
   <PsychiteTolerance.stages.massive.label>óriási</PsychiteTolerance.stages.massive.label>
+  
+  <!-- UNUSED -->
+  <PsychiteTolerance.stages.small-1.label>kicsi</PsychiteTolerance.stages.small-1.label>
   
   <!-- EN: high on yayo -->
   <YayoHigh.label>kokain mámor</YayoHigh.label>

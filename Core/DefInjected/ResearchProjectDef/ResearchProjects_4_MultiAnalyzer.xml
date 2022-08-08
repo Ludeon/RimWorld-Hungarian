@@ -21,24 +21,14 @@
   <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
   <Cryptosleep.description>Lehetővé teszi hibernáló kapszula építését, ami képes élőlények életfolyamatainak felfüggesztésére.</Cryptosleep.description>
   
-  <!-- EN: deep drilling -->
-  <DeepDrilling.label>Talajfúró</DeepDrilling.label>
-  <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
-  <DeepDrilling.description>Lehetővé teszi talajfúró építését, mely képes a föld mélyebb rétegeibe hatolni és onnan ásványokat a felszínre hozni. A talaj letapogató megmutatja hol érdemes fúrni.</DeepDrilling.description>
-  
   <!-- EN: fabrication -->
   <Fabrication.label>Gyártás</Fabrication.label>
   <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
   <Fabrication.description>Szerelőasztalok építése, melynél bonyolult technológiák hozhatók létre, mint pl. alkatrészek vagy erőpáncél.</Fabrication.description>
-  <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components.\n  -Some special threats drop them when defeated. -->
+  <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components. -->
   <Fabrication.discoveredLetterText>Most már rendelkezel a szerelőasztalok felépítéséhez szükséges technológiával - de az induláshoz néhány fejlett alkatrészre is szükség van. Ezek több módon is összegyűjthetők:\n\n -Minden idegen település árul fejlett alkatrészt. Küldj karavánt érte!\n -Vándorló kereskedők is árusíthatnak fejlett alkatrészeket. Hívj meg egyet vagy várj érkezésükre!\n -Vannak küldetések is, melyek jutalma ez.\n -Különleges fenyegetések is dobják, ha legyőzöd őket.</Fabrication.discoveredLetterText>
   <!-- EN: About: Getting advanced components -->
   <Fabrication.discoveredLetterTitle>Fejlett alkatrészek beszerzése</Fabrication.discoveredLetterTitle>
-  
-  <!-- EN: ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>Talaj letapogató</GroundPenetratingScanner.label>
-  <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct. -->
-  <GroundPenetratingScanner.description>Lehetővé teszi talaj letapogató építését, ami kimutatja az ásványokat a föld mélyebb rétegeiben.</GroundPenetratingScanner.description>
   
   <!-- EN: multi-analyzer -->
   <MultiAnalyzer.label>Multianalizátor</MultiAnalyzer.label>

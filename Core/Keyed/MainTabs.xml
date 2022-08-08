@@ -8,7 +8,7 @@
   <HigherPriority>Magasabb prioritás</HigherPriority>
   <!-- EN: lower priority -->
   <LowerPriority>Alacsonyabb prioritás</LowerPriority>
-  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} -->
   <RelevantSkills>\nReleváns készségek: {0}\nA releváns készségek átlaga: {1} / {2}</RelevantSkills>
   <!-- EN: Click to jump to: -->
   <ClickToJumpTo>Kattints az ugráshoz:</ClickToJumpTo>
@@ -34,6 +34,14 @@
   <Priority3>Normál prioritás</Priority3>
   <!-- EN: Low priority -->
   <Priority4>Alacsony prioritás</Priority4>
+  <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
+  <PawnFactionInfo>TODO</PawnFactionInfo>
+  <!-- EN: Disabled by backstory: {0} -->
+  <WorkDisabledByBackstory>TODO</WorkDisabledByBackstory>
+  <!-- EN: Disabled by trait: {0} -->
+  <WorkDisabledByTrait>TODO</WorkDisabledByTrait>
+  <!-- EN: Disabled by quest: {0} -->
+  <WorkDisabledByQuest>TODO</WorkDisabledByQuest>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
@@ -82,14 +90,20 @@
   <Hostile>Ellenséges</Hostile>
   <!-- EN: Ally -->
   <Ally>Barát</Ally>
+  <!-- EN: hostile -->
+  <HostileLower>TODO</HostileLower>
+  <!-- EN: ally -->
+  <AllyLower>TODO</AllyLower>
   <!-- EN: defeated -->
   <DefeatedLower>legyőzött</DefeatedLower>
   <!-- EN: Enemy of {0} -->
   <HostileTo>{0} ellensége</HostileTo>
   <!-- EN: Enemy of:  -->
   <EnemyOf>Következő ellensége: {0}</EnemyOf>
-  <!-- EN: Current goodwill and relations status with this faction. -->
-  <CurrentGoodwillTip>A jelenlegi viszony ezzel a frakcióval.</CurrentGoodwillTip>
+  <!-- EN: Recent events -->
+  <RecentEvents>TODO</RecentEvents>
+  <!-- EN: Ongoing events -->
+  <OngoingEvents>TODO</OngoingEvents>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
   <CurrentGoodwillTip_PermanentEnemy>Ez a frakció végleg ellenséges. Meg fogják támadni a településeidet és a karavánjaidat. A kapcsolat velük már sosem fog javulni.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
@@ -98,9 +112,7 @@
   <CurrentGoodwillTip_Neutral>Ez a frakció semleges. Kereskedhetsz és beszélhetsz velük szabadon. Ha a kapcsolat {0} alá esik, ellenségessé válnak. Ha a kapcsolat {1} fölé emelkedik, baráttá válnak és aktívan segítenek majd.</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
   <CurrentGoodwillTip_Hostile>Ez a frakció ellenséges. Meg fogják támadni a településeidet és a karavánjaidat. Ha a kapcsolat {0} fölé emelkedik, semlegessé válnak.</CurrentGoodwillTip_Hostile>
-  <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
-  <CurrentGoodwillTip_NaturalGoodwill>Ennek a frakciónak {0} és {1} közé tart a viszonya veled szemben. Ha a kapcsolat {1} feletti, naponta ennyit esik: {3}. Ha a kapcsolat {0} alatti, naponta ennyit emelkedik: {2}.</CurrentGoodwillTip_NaturalGoodwill>
-  
+
   <!-- Social tab -->
   <!-- EN: Friend -->
   <Friend>Barát</Friend>
@@ -170,8 +182,8 @@
   <!-- Research tab -->
   <!-- EN: Research -->
   <Research>Kutatás</Research>
-  <!-- EN: Researched -->
-  <Researched>Felfedezve</Researched>
+  <!-- EN: Study -->
+  <Study>TODO</Study>
   <!-- EN: Unresearched -->
   <Unresearched>Ismeretlen</Unresearched>
   <!-- EN: Finished -->
@@ -198,6 +210,14 @@
   <ResearchTechprintsFromFactions>Műszaki leírás elérhető a következő küldetések és frakciók által:</ResearchTechprintsFromFactions>
   <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
   <TechLevelTooLow>A frakciód technikai szintje {0}, a projekté pedig {1}. A kutatási sebesség szorzója: {2}.</TechLevelTooLow>
+  <!-- EN: Unlocked with -->
+  <UnlockedWith>TODO</UnlockedWith>
+
+  <!-- Factions tab -->
+  <!-- EN: Factions -->
+  <FactionsTab>TODO</FactionsTab>
+  <!-- EN: No known factions -->
+  <NoFactions>TODO</NoFactions>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
@@ -224,6 +244,10 @@
   <QuestExpiresIn>Elévül ennyi idő múlva: {0}</QuestExpiresIn>
   <!-- EN: Expires on {0} -->
   <QuestExpiresOn>Elévül ekkor: {0}</QuestExpiresOn>
+  <!-- EN: Average guest mood (previous {0}): {1} -->
+  <QuestAveragePawnMood>TODO</QuestAveragePawnMood>
+  <!-- EN: The average mood of {0} over the previous {1} -->
+  <QuestAveragePawnMoodTargets>TODO</QuestAveragePawnMoodTargets>
   <!-- EN: Shuttle arrives in {0} -->
   <ShuttleArrivesIn>Űrsikló ennyi idő múlva érkezik: : {0}</ShuttleArrivesIn>
   <!-- EN: Shuttle arrives on {0} -->
@@ -232,20 +256,32 @@
   <ShuttleDepartsIn>Űrsikló ennyi idő múlva távozik: : {0}</ShuttleDepartsIn>
   <!-- EN: Shuttle departs on {0} -->
   <ShuttleDepartsOn>Űrsikló ekkor távozik: {0}</ShuttleDepartsOn>
+  <!-- EN: Guests depart in {0} -->
+  <GuestsDepartsIn>TODO</GuestsDepartsIn>
+  <!-- EN: Guests depart on {0} -->
+  <GuestsDepartsOn>TODO</GuestsDepartsOn>
   <!-- EN: Finished {0} ago -->
   <QuestFinishedAgo>Teljesítve ennyi ideje: {0}</QuestFinishedAgo>
   <!-- EN: Accept quest -->
   <AcceptQuest>Küldetés elfogadása</AcceptQuest>
   <!-- EN: Accept with {0_labelShort} -->
   <AcceptWith>Küldetés elfogadása vele: {0_labelShort}</AcceptWith>
+  <!-- EN: Accept for -->
+  <AcceptQuestFor>TODO</AcceptQuestFor>
+  <!-- EN: Click to accept this quest for this reward. -->
+  <AcceptQuestForTip>TODO</AcceptQuestForTip>
   <!-- EN: The offer expired. -->
   <QuestOutcomeInfo_OfferExpired>Az ajánlat lejárt.</QuestOutcomeInfo_OfferExpired>
   <!-- EN: You completed this quest. -->
   <QuestOutcomeInfo_UnknownOrSuccess>A küldetés teljesítve.</QuestOutcomeInfo_UnknownOrSuccess>
   <!-- EN: You failed this quest. -->
   <QuestOutcomeInfo_Failed>A küldetés elbukott.</QuestOutcomeInfo_Failed>
+  <!-- EN: This quest became invalid before it was accepted. -->
+  <QuestOutcomeInfo_Invalid>TODO</QuestOutcomeInfo_Invalid>
   <!-- EN: Jump to {0} -->
   <JumpToTargetCustom>Ugrás ide: {0}</JumpToTargetCustom>
+  <!-- EN: Select hives -->
+  <SelectHiveTargets>TODO</SelectHiveTargets>
   <!-- EN: Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate -->
   <QuestChallengeRatingTip>Kihívás mértéke. Ez egy általános mutató a küldetések nehézségéhez a mindenkori erőhöz viszonyítva. Nehezebb küldetések nagyobb jutalmakat adnak. \n\n1: Normál\n2: Nehéz\n3: Extrém\n4: Maximális</QuestChallengeRatingTip>
   <!-- EN: To accept this quest, you need -->
@@ -254,15 +290,55 @@
   <QuestBedroomRequirementsUnsatisfied>szabad hálószobákra, amik kielégítik a következő követelményeket</QuestBedroomRequirementsUnsatisfied>
   <!-- EN: a free bedroom that satisfies the title requirements of -->
   <QuestBedroomRequirementsUnsatisfiedSingle>egy szabad hálószobára, ami kielégíti a következő rang követelményeket</QuestBedroomRequirementsUnsatisfiedSingle>
-  <!-- EN: a colonist with the title of {0}. -->
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestThroneRoomRequirementsUnsatisfied>TODO</QuestThroneRoomRequirementsUnsatisfied>
+  <!-- EN: assign a throne for {PAWN_definite} -->
+  <QuestNoThroneRoom>TODO</QuestNoThroneRoom>
+  <!-- EN: a colonist with the title of {0} -->
   <QuestNoColonistWithTitle>egy gyarmatos akinek a rangja: {0}.</QuestNoColonistWithTitle>
+  <!-- EN: {PAWN_definite} to be in your home colony -->
+  <QuestPawnNotOnColonyMap>TODO</QuestPawnNotOnColonyMap>
+  <!-- EN: the map clear of enemies of the bestower's faction -->
+  <QuestRequiresNoDangerOnMap>TODO</QuestRequiresNoDangerOnMap>
+  <!-- EN: to finish the ongoing bestowing ceremony quest -->
+  <QuestCanNotStartUntilBestowingCeremonyFinished>TODO</QuestCanNotStartUntilBestowingCeremonyFinished>
+  <!-- EN: Reward preferences -->
+  <ChooseRewards>TODO</ChooseRewards>
+  <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
+  <ChooseRewardsDesc>TODO</ChooseRewardsDesc>
   <!-- EN: Accept {FACTION_royalFavorLabel} -->
   <AcceptRoyalFavor>Elfogad {FACTION_royalFavorLabel}</AcceptRoyalFavor>
   <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
   <AcceptRoyalFavorDesc>Akarsz-e jutalomként ezt: {FACTION_royalFavorLabel}, ettől a frakciótól: {FACTION_name}.\n\nHa kikapcsolod, a {FACTION_name} frakció más jutalmakat fog felajánlani.\n\nEz a beállítás csak a későbbi küldetésekre érvényes.</AcceptRoyalFavorDesc>
+  <!-- EN: Accept goodwill -->
+  <AcceptGoodwill>TODO</AcceptGoodwill>
+  <!-- EN: Whether you wish to be rewarded via improved faction relations with {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-generated quests. -->
+  <AcceptGoodwillDesc>TODO</AcceptGoodwillDesc>
   <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
   <RoyalFavorOn>Jelenleg kéred a következő jutalmat: {FACTION_royalFavorLabel}.</RoyalFavorOn>
   <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
   <RoyalFavorOff>Jelenleg nem kéred a következő jutalmat: {FACTION_royalFavorLabel}.</RoyalFavorOff>
-  
+  <!-- EN: Your goodwill with {0_name} will improve by {1}.\n\nCurrent goodwill: {4} ({5}).\n\nGoodwill measures the general relationship between factions. If it falls below {2}, the faction becomes hostile and will raid your settlements and caravans. If it rises above {3}, the faction will become your ally and send fighters to help you when they can. Otherwise, the faction remains neutral and will trade and talk with you freely. -->
+  <GoodwillTip>TODO</GoodwillTip>
+  <!-- EN: {0_labelShort} joins -->
+  <PawnQuestReward>TODO</PawnQuestReward>
+  <!-- EN: Betrayal offer: {0} targets remain -->
+  <QuestBetrayalOffer>TODO</QuestBetrayalOffer>
+  <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
+  <QuestBetrayalOfferTip>TODO</QuestBetrayalOfferTip>
+  <!-- EN: a colony wealth of at least {0} -->
+  <QuestRequiredPlayerWealth>TODO</QuestRequiredPlayerWealth>
+  <!-- EN: alliance with {0} -->
+  <QuestAlliedTo>TODO</QuestAlliedTo>
+  <!-- EN: hostile to {0} -->
+  <QuestHostileTo>TODO</QuestHostileTo>
+  <!-- EN: neutral to {0} -->
+  <QuestNeutralTo>TODO</QuestNeutralTo>
+  <!-- EN: studied {0_labelShort} -->
+  <QuestRequiredThingStudied>TODO</QuestRequiredThingStudied>
+
+  <!-- Health tab -->
+  <!-- EN: Creates need -->
+  <CreatesNeed>TODO</CreatesNeed>
+
 </LanguageData>

@@ -3,57 +3,54 @@
   
   <!-- EN: recovery -->
   <Adaptation.label>Adaptáció</Adaptation.label>
-  <!-- EN: Days -->
   <Adaptation.graphLabelY>Nap</Adaptation.graphLabelY>
+  <!-- EN: {0} days -->
+  <Adaptation.valueFormat>TODO</Adaptation.valueFormat>
   
   <!-- EN: mood -->
   <ColonistMood.label>Hangulat</ColonistMood.label>
-  <!-- EN: Percent -->
   <ColonistMood.graphLabelY>Százalék</ColonistMood.graphLabelY>
   
   <!-- EN: free colonists -->
   <FreeColonists.label>Szabad gyarmatos</FreeColonists.label>
-  <!-- EN: Colonists -->
   <FreeColonists.graphLabelY>Gyarmatos</FreeColonists.graphLabelY>
   
   <!-- EN: pop recovery -->
   <PopAdaptation.label>Pop. Adaptáció</PopAdaptation.label>
-  <!-- EN: Days -->
   <PopAdaptation.graphLabelY>Nap</PopAdaptation.graphLabelY>
+  <!-- EN: {0} days -->
+  <PopAdaptation.valueFormat>TODO</PopAdaptation.valueFormat>
   
   <!-- EN: pop intent x10 -->
   <PopIntent.label>Pop. Intent</PopIntent.label>
-  <!-- EN: Days -->
   <PopIntent.graphLabelY>Nap</PopIntent.graphLabelY>
+  <!-- EN: {0} days -->
+  <PopIntent.valueFormat>TODO</PopIntent.valueFormat>
   
   <!-- EN: prisoners -->
   <Prisoners.label>Fogoly</Prisoners.label>
-  <!-- EN: Prisoners -->
   <Prisoners.graphLabelY>Fogoly</Prisoners.graphLabelY>
   
   <!-- EN: fun points /10 -->
   <ThreatPoints.label>Fun points / 10</ThreatPoints.label>
-  <!-- EN: Points -->
   <ThreatPoints.graphLabelY>Pont</ThreatPoints.graphLabelY>
+  <!-- EN: {0} points -->
+  <ThreatPoints.valueFormat>TODO</ThreatPoints.valueFormat>
   
   <!-- EN: wealth (buildings) -->
   <Wealth_Buildings.label>Érték (épületek)</Wealth_Buildings.label>
-  <!-- EN: Amount -->
   <Wealth_Buildings.graphLabelY>Mennyiség</Wealth_Buildings.graphLabelY>
   
   <!-- EN: wealth (items) -->
   <Wealth_Items.label>Érték (tárgyak)</Wealth_Items.label>
-  <!-- EN: Amount -->
   <Wealth_Items.graphLabelY>Mennyiség</Wealth_Items.graphLabelY>
   
   <!-- EN: wealth (creatures) -->
   <Wealth_Pawns.label>Érték (állatok)</Wealth_Pawns.label>
-  <!-- EN: Amount -->
   <Wealth_Pawns.graphLabelY>Mennyiség</Wealth_Pawns.graphLabelY>
   
   <!-- EN: wealth (total) -->
   <Wealth_Total.label>Érték (minden)</Wealth_Total.label>
-  <!-- EN: Amount -->
   <Wealth_Total.graphLabelY>Mennyiség</Wealth_Total.graphLabelY>
   
 </LanguageData>

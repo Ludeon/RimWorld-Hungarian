@@ -3,7 +3,7 @@
   
   <!-- EN: barricade -->
   <Barricade.label>TODO</Barricade.label>
-  <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. -->
+  <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. Barricades will block certain kinds of animals the same way that fences do. -->
   <Barricade.description>TODO</Barricade.description>
   
   <!-- EN: sandbags -->
@@ -35,6 +35,11 @@
   <TrapIED_Incendiary.label>gyújtóbomba csapda</TrapIED_Incendiary.label>
   <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_Incendiary.description>Robbanószer gyújtópasztával keverve, kémiai elsütőszerkezettel, ami egyszerű és megbízható.</TrapIED_Incendiary.description>
+  
+  <!-- EN: IED Smoke trap -->
+  <TrapIED_Smoke.label>TODO</TrapIED_Smoke.label>
+  <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Smoke.description>TODO</TrapIED_Smoke.description>
   
   <!-- EN: spike trap -->
   <TrapSpike.label>sújtócsapda</TrapSpike.label>
