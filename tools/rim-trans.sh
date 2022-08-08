@@ -46,7 +46,8 @@ while [[ $# -gt 0 ]]; do
     ;;
 
   --update-core)
-    update_core
+    clean_core
+    tar_core
     shift
     ;;
 
