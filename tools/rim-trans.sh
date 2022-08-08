@@ -39,9 +39,9 @@ while [[ $# -gt 0 ]]; do
     ;;
 
   -u | --update-all)
-    update_core
-    update_royalty
-    update_ideology
+    tar_core
+    tar_royalty
+    tar_ideology
     shift
     ;;
 
@@ -53,12 +53,15 @@ while [[ $# -gt 0 ]]; do
 
   --update-royalty)
     clean_royalty
-    update_royalty
+    #    update_royalty
+    tar_royalty
     shift
     ;;
 
   --update-ideology)
-    update_ideology
+    #    update_ideology
+    clean_ideology
+    tar_ideology
     shift
     ;;
 

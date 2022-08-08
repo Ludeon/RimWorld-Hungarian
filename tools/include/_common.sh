@@ -64,7 +64,33 @@ function update_royalty() {
   cp -r "./" "${TARGET_DIR}"
 }
 
+function tar_royalty() {
+  log "Update Royalty with tar language file..."
+  SOURCE_DIR="$DIR/../Royalty"
+  log "source: ${SOURCE_DIR}"
+  cd "${SOURCE_DIR}" || exit
+  TAR_FILE="./${TARGET_LANGUAGE}.tar"
+  log "${TAR_FILE}"
+  tar --owner=0 --group=0 --no-same-permissions -cf "${TAR_FILE}" *
+  TARGET_DIR="${DLC_ROYALTY_PATH}/Languages/${TARGET_LANGUAGE}"
+  log "target: ${TARGET_DIR}"
+  mv "${TAR_FILE}" "${DLC_ROYALTY_PATH}/Languages/"
+}
+
 function update_ideology() {
   log "Update Ideology..."
   ls -lat "${DLC_IDEOLOGY_PATH}"
+}
+
+function tar_ideology() {
+  log "Update Ideology with tar language file..."
+  SOURCE_DIR="$DIR/../Ideology"
+  log "source: ${SOURCE_DIR}"
+  cd "${SOURCE_DIR}" || exit
+  TAR_FILE="./${TARGET_LANGUAGE}.tar"
+  log "${TAR_FILE}"
+  tar --owner=0 --group=0 --no-same-permissions -cf "${TAR_FILE}" *
+  TARGET_DIR="${DLC_ROYALTY_PATH}/Languages/${TARGET_LANGUAGE}"
+  log "target: ${TARGET_DIR}"
+  mv "${TAR_FILE}" "${DLC_IDEOLOGY_PATH}/Languages/"
 }
