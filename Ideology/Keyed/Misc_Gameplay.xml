@@ -56,17 +56,17 @@
   <!-- EN: Belief in -->
   <BeliefInIdeo>TODO</BeliefInIdeo>
   <!-- EN: Information about {0} -->
-  <Reward_RelicInfo>TODO</Reward_RelicInfo>
+  <Reward_RelicInfo>Információ a következőről: {0}</Reward_RelicInfo>
   <!-- EN: Info about {0} -->
-  <Reward_RelicInfoLabel>Információ a következőről: {0}</Reward_RelicInfoLabel>
+  <Reward_RelicInfoLabel>Infó a következőről: {0}</Reward_RelicInfoLabel>
   <!-- EN: Relic of {IDEO_name} -->
   <RelicOf>{IDEO_name} relikviája</RelicOf>
   <!-- EN: altar -->
   <Altar>oltár</Altar>
   <!-- EN: base -->
-  <Base>TODO</Base>
+  <Base>bázis</Base>
   <!-- EN: min expectation -->
-  <MinExpectation>TODO</MinExpectation>
+  <MinExpectation>min elvárás</MinExpectation>
   <!-- EN: {0} to {1} -->
   <PreceptThoughtMoodRange>TODO</PreceptThoughtMoodRange>
   <!-- EN: Comes from ideo -->
@@ -370,15 +370,15 @@
   <ConfirmationCharityJoiner>TODO</ConfirmationCharityJoiner>
 
   <!-- EN: Believers in {0} ({1}) -->
-  <BelieversIn>TODO</BelieversIn>
+  <BelieversIn>{0} hívei ({1})</BelieversIn>
   <!-- EN: add {0} -->
-  <AddPrecept>TODO</AddPrecept>
+  <AddPrecept>{0} hozzáadása</AddPrecept>
   <!-- EN: precept -->
-  <Precept>TODO</Precept>
+  <Precept>előírás</Precept>
   <!-- EN: building -->
-  <IdeoBuilding>TODO</IdeoBuilding>
+  <IdeoBuilding>épület</IdeoBuilding>
   <!-- EN: relic -->
-  <IdeoRelic>TODO</IdeoRelic>
+  <IdeoRelic>ereklye</IdeoRelic>
   
   <!-- Beggars -->
   <!-- EN: Give {0} to {1_nameDef} -->
@@ -394,23 +394,23 @@
 
   <!-- Hacking -->
   <!-- EN: Hack progress -->
-  <HackProgress>TODO</HackProgress>
+  <HackProgress>Hackelés állapota</HackProgress>
   <!-- EN: hacking speed -->
-  <HackingSpeed>TODO</HackingSpeed>
+  <HackingSpeed>hackelési sebesség</HackingSpeed>
   <!-- EN: {0}'s -->
   <HackingLastUser>TODO</HackingLastUser>
   <!-- EN: hacked -->
-  <Hacked>TODO</Hacked>
+  <Hacked>feltört</Hacked>
   <!-- EN: Terminals hacked -->
-  <TerminalsHacked>TODO</TerminalsHacked>
+  <TerminalsHacked>Terminálok feltörve</TerminalsHacked>
 
   <!-- EN: Relic info found -->
-  <RelicInfoFound>TODO</RelicInfoFound>
+  <RelicInfoFound>Ereklye-információ található</RelicInfoFound>
   <!-- EN: inactive, requires atleast {0} {1}s (have {2}) -->
   <InactiveRoleRequiresMoreBelievers>TODO</InactiveRoleRequiresMoreBelievers>
   
   <!-- EN: certainty -->
-  <Certainty>TODO</Certainty>
+  <Certainty>meggyőződés</Certainty>
 
   <!-- Slave interaction -->
   <!-- EN: The slave will leave the map on foot and return to their home faction, {0}. -->
@@ -432,9 +432,9 @@
   <RelicHuntFoundRelicSitePeaceful>TODO</RelicHuntFoundRelicSitePeaceful>
 
   <!-- EN: relic -->
-  <Relic>TODO</Relic>
+  <Relic>ereklye</Relic>
   <!-- EN: Ritual seat -->
-  <RitualSeat>TODO</RitualSeat>
+  <RitualSeat>szertartási hely</RitualSeat>
 
   <!-- Ritual requirements -->
   <!-- EN: Active loudspeakers -->
@@ -451,9 +451,9 @@
   <!-- EN: Replace with -->
   <PreceptReplaceWith>TODO</PreceptReplaceWith>
   <!-- EN: Ritual seat of {IDEOS} -->
-  <RitualSeatOf>TODO</RitualSeatOf>
+  <RitualSeatOf>{IDEOS} szertartási helye</RitualSeatOf>
   <!-- EN: Starting quality -->
-  <StartingQuality>TODO</StartingQuality>
+  <StartingQuality>Kezdeti minőség</StartingQuality>
   <!-- EN: Conviction chance -->
   <ExpectedConvictionChance>TODO</ExpectedConvictionChance>
  
