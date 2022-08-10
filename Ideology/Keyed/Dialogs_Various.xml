@@ -175,101 +175,101 @@
 
   <!-- Style -->
   <!-- EN: Style -->
-  <StylePawn>TODO</StylePawn>
+  <StylePawn>Stílus</StylePawn>
   <!-- EN: Cancel -->
-  <Cancel>TODO</Cancel>
+  <Cancel>Mégsem</Cancel>
   <!-- EN: hair -->
-  <Hair>TODO</Hair>
+  <Hair>haj</Hair>
   <!-- EN: beard -->
-  <Beard>TODO</Beard>
+  <Beard>szakáll</Beard>
   <!-- EN: face tattoo -->
-  <TattooFace>TODO</TattooFace>
+  <TattooFace>arc tetoválás</TattooFace>
   <!-- EN: body tattoo -->
-  <TattooBody>TODO</TattooBody>
+  <TattooBody>test tetoválás</TattooBody>
   <!-- EN: apparel color -->
-  <ApparelColor>TODO</ApparelColor>
+  <ApparelColor>ruházat színe</ApparelColor>
   <!-- EN: hair color -->
-  <HairColor>TODO</HairColor>
+  <HairColor>hajszín</HairColor>
   <!-- EN: Show headgear -->
-  <ShowHeadgear>TODO</ShowHeadgear>
+  <ShowHeadgear>Fejfedő megjelenítése</ShowHeadgear>
   <!-- EN: Show apparel -->
-  <ShowApparel>TODO</ShowApparel>
+  <ShowApparel>Ruházat megjelenítése</ShowApparel>
   <!-- EN: {PAWN_nameDef} will be unhappy with the following -->
-  <PawnUnhappyWithStyleItems>TODO</PawnUnhappyWithStyleItems>
+  <PawnUnhappyWithStyleItems>{PAWN_nameDef} elégedetlen lesz a következőkkel</PawnUnhappyWithStyleItems>
   <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies. -->
-  <StyleCategoryDescription>TODO</StyleCategoryDescription>
+  <StyleCategoryDescription>A stíluskategóriák befolyásolják a {IDEO_memberNamePlural} által készített egyes épületek, ruházati cikkek és fegyverek megjelenését. Ha egynél több kategória érinti ugyanazt a dolgot, akkor a bal szélső érvényes.</StyleCategoryDescription>
   <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by your colony. If more than one category affects the same thing, the left-most one applies. -->
-  <StyleCategoryDescriptionAbstract>TODO</StyleCategoryDescriptionAbstract>
+  <StyleCategoryDescriptionAbstract>A stíluskategóriák befolyásolják egyes, a kolóniád által készített épületek, ruházati cikkek és fegyverek megjelenését. Ha egynél több kategória érinti ugyanazt a dolgot, akkor a bal szélső érvényes.</StyleCategoryDescriptionAbstract>
   <!-- EN: {IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style. -->
-  <StyleCategoryDescStyleDominance>TODO</StyleCategoryDescStyleDominance>
+  <StyleCategoryDescStyleDominance>{IDEO_memberNamePlural} örülni fog, ha észreveszi az ehhez a stílushoz illő épületeket, padlókat és műalkotásokat.</StyleCategoryDescStyleDominance>
   <!-- EN: Ideoligion members will be happy if they notice buildings, floors, and art matching this style. -->
-  <StyleCategoryDescStyleDominanceAbstract>TODO</StyleCategoryDescStyleDominanceAbstract>
+  <StyleCategoryDescStyleDominanceAbstract>Az eszme követői boldogok lesznek, ha észrevesznek az ehhez a stílushoz illő épületeket, padlókat és művészetet.</StyleCategoryDescStyleDominanceAbstract>
   <!-- EN: {0} style category affects -->
-  <StyleCategoryDetails>TODO</StyleCategoryDetails>
+  <StyleCategoryDetails>{0} stíluskategória érinti ezeket</StyleCategoryDetails>
   <!-- EN: Overriden by {0} -->
   <OverriddenByStyle>TODO</OverriddenByStyle>
   <!-- EN: New buildables -->
-  <IdeoMakesBuildingBuildable>TODO</IdeoMakesBuildingBuildable>
+  <IdeoMakesBuildingBuildable>Új építőelemek</IdeoMakesBuildingBuildable>
   <!-- EN: none usable for {PAWN_nameDef} -->
-  <NoneUsableForPawn>TODO</NoneUsableForPawn> 
+  <NoneUsableForPawn>egyik sem használható a következőhöz: {PAWN_nameDef}</NoneUsableForPawn> 
   <!-- EN: Hair and beards -->
-  <HairAndBeards>TODO</HairAndBeards>
+  <HairAndBeards>Haj és szakáll</HairAndBeards>
   <!-- EN: These settings determine how frequently each style appears on members of this ideoligion. -->
-  <HairAndBeardsDesc>TODO</HairAndBeardsDesc>
+  <HairAndBeardsDesc>Ezek a beállítások határozzák meg, hogy az egyes stílusok milyen gyakran jelenjenek meg ennek az ideológiának a tagjain.</HairAndBeardsDesc>
   <!-- EN: Tattoos -->
-  <Tattoos>TODO</Tattoos>
+  <Tattoos>Tetoválások</Tattoos>
   <!-- EN: These settings determines how frequently each tattoo appears on members of this ideoligion. -->
-  <TattoosDesc>TODO</TattoosDesc>
+  <TattoosDesc>Ezek a beállítások határozzák meg, hogy az egyes tetoválások milyen gyakran jelenjenek meg ennek az ideológiának a tagjain.</TattoosDesc>
   <!-- EN: Never -->
-  <StyleItemFrequencyNever>TODO</StyleItemFrequencyNever>
+  <StyleItemFrequencyNever>Soha</StyleItemFrequencyNever>
   <!-- EN: Rare -->
-  <StyleItemFrequencyRare>TODO</StyleItemFrequencyRare>
+  <StyleItemFrequencyRare>Ritka</StyleItemFrequencyRare>
   <!-- EN: Uncommon -->
-  <StyleItemFrequencyUncommon>TODO</StyleItemFrequencyUncommon>
+  <StyleItemFrequencyUncommon>Néha</StyleItemFrequencyUncommon>
   <!-- EN: Normal -->
-  <StyleItemFrequencyNormal>TODO</StyleItemFrequencyNormal>
+  <StyleItemFrequencyNormal>Normál</StyleItemFrequencyNormal>
   <!-- EN: Common -->
-  <StyleItemFrequencyCommon>TODO</StyleItemFrequencyCommon>
+  <StyleItemFrequencyCommon>Általában</StyleItemFrequencyCommon>
   <!-- EN: Frequent -->
-  <StyleItemFrequencyFrequent>TODO</StyleItemFrequencyFrequent>
+  <StyleItemFrequencyFrequent>Gyakori</StyleItemFrequencyFrequent>
   <!-- EN: Edit appearance -->
-  <EditAppearanceItems>TODO</EditAppearanceItems>
+  <EditAppearanceItems>Megjelenés szerkesztése</EditAppearanceItems>
   <!-- EN: {0} in use -->
-  <NumAvailable>TODO</NumAvailable>
+  <NumAvailable>{0} használatban</NumAvailable>
   <!-- EN: Expand all -->
-  <ExpandAllCategories>TODO</ExpandAllCategories>
+  <ExpandAllCategories>Összes kibontása</ExpandAllCategories>
   <!-- EN: Collapse all -->
-  <CollapseAllCategories>TODO</CollapseAllCategories>
+  <CollapseAllCategories>Összes bezárása</CollapseAllCategories>
   <!-- EN: Resets all style items to their default values. -->
-  <ResetButtonDesc>TODO</ResetButtonDesc>
+  <ResetButtonDesc>Az összes stíluselemet visszaállítja az alapértelmezett értékükre.</ResetButtonDesc>
   <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
-  <TooltipDyeExplanation>TODO</TooltipDyeExplanation>
+  <TooltipDyeExplanation>A festék tinctoriából termeszthető, vagy kereskedőktől vásárolható.</TooltipDyeExplanation>
 
   <!-- Ancient complex mission -->
   <!-- EN: Send shuttle anyway -->
-  <SendShuttleAnyway>TODO</SendShuttleAnyway>
+  <SendShuttleAnyway>Mindenképpen küldjön úrsiklót</SendShuttleAnyway>
   <!-- EN: Re-load shuttle -->
-  <ReLoadShuttle>TODO</ReLoadShuttle>
+  <ReLoadShuttle>Úrsikló újratöltése</ReLoadShuttle>
 
   <!-- Medical settings -->
   <!-- EN: Enslaved colonist -->
-  <MedGroupEnslavedColonist>TODO</MedGroupEnslavedColonist>
+  <MedGroupEnslavedColonist>Rabszolgasorsú telepes</MedGroupEnslavedColonist>
 
   <!-- Dryad upgrades -->
   <!-- EN: Choose dryad caste -->
-  <ChangeMode>TODO</ChangeMode>
+  <ChangeMode>Válassz driád kasztot</ChangeMode>
   <!-- EN: Required memes -->
-  <RequiredMemes>TODO</RequiredMemes>
+  <RequiredMemes>Kötelező mémek</RequiredMemes>
   <!-- EN: Required caste -->
-  <RequiredStage>TODO</RequiredStage>
+  <RequiredStage>Kötelező kaszt</RequiredStage>
   <!-- EN: Missing required memes -->
-  <MissingRequiredMemes>TODO</MissingRequiredMemes>
+  <MissingRequiredMemes>Hiányoznak a kötelező mémek</MissingRequiredMemes>
   <!-- EN: Missing required caste -->
-  <MissingRequiredCaste>TODO</MissingRequiredCaste>
+  <MissingRequiredCaste>Hiányzik a kötelező kaszt</MissingRequiredCaste>
   <!-- EN: Already selected -->
-  <AlreadySelected>TODO</AlreadySelected>
+  <AlreadySelected>Már kiválasztva</AlreadySelected>
   <!-- EN: Here you can choose which caste of dryads this {TREE_label} will create.\n\nDryads will emerge from pods that grow at the tree's base. The maximum number of dryads is based on the connection strength between {TREE_definite} and the connected person. -->
-  <ChooseProductionModeInitialDesc>TODO</ChooseProductionModeInitialDesc>
+  <ChooseProductionModeInitialDesc>Itt választhatod ki, hogy ez a {TREE_label} melyik driád kasztot hozza létre.\n\nA driádok a fa tövében növekvő hüvelyekből fognak előjönni. A driádok maximális száma a {TREE_definite} és a csatlakoztatott személy közötti kapcsolat erősségén alapul.</ChooseProductionModeInitialDesc>
 
   <!-- Archonexus -->
   <!-- EN: Choose who to convert to your ideoligion -->

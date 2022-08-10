@@ -4,7 +4,7 @@
   <!-- EN: Customize ideoligion -->
   <CustomizeIdeoligion>Ideológia testreszabása</CustomizeIdeoligion>
   <!-- EN: Choose your ideoligion -->
-  <ChooseYourIdeoligion>Válaszd ki az ideológiádat</ChooseYourIdeoligion>
+  <ChooseYourIdeoligion>Válassz ideológiát</ChooseYourIdeoligion>
   <!-- EN: Random -->
   <Random>Véletlen</Random>
   <!-- EN: A random structure will be used for your ideoligion. -->
@@ -22,7 +22,7 @@
   <!-- EN: Load saved -->
   <LoadSaved>Tölts be egy mentettet</LoadSaved>
   <!-- EN: Structure -->
-  <Structure>Szerkezet</Structure>
+  <Structure>Struktúra</Structure>
   <!-- EN: What should your starting colonists believe? These beliefs affect gameplay and visuals. You’ll be able to recruit others to your beliefs, or take on their beliefs. -->
   <ChooseYourIdeoligionDesc>Miben higgyenek a kezdő telepeseid? Ezek a hiedelmek hatással vannak a játékmenetre és a látványra. Képes leszel arra, hogy másokat toborozz a meggyőződésednek megfelelően vagy átvedd az ő hitüket.</ChooseYourIdeoligionDesc>
   <!-- EN: Create custom -->
@@ -46,7 +46,7 @@
   <!-- EN: ideoligion -->
   <Ideo>ideológia</Ideo> 
   <!-- EN: Randomize all -->
-  <RandomizeAll>Az összes véletlenszerű</RandomizeAll>
+  <RandomizeAll>Mind véletlenszerű</RandomizeAll>
   <!-- EN: Appearance -->
   <Appearance>Megjelenés</Appearance>
   <!-- EN: Done -->
@@ -58,11 +58,11 @@
   <!-- EN: Information about {0} -->
   <Reward_RelicInfo>TODO</Reward_RelicInfo>
   <!-- EN: Info about {0} -->
-  <Reward_RelicInfoLabel>TODO</Reward_RelicInfoLabel>
+  <Reward_RelicInfoLabel>Információ a következőről: {0}</Reward_RelicInfoLabel>
   <!-- EN: Relic of {IDEO_name} -->
-  <RelicOf>TODO</RelicOf>
+  <RelicOf>{IDEO_name} relikviája</RelicOf>
   <!-- EN: altar -->
-  <Altar>TODO</Altar>
+  <Altar>oltár</Altar>
   <!-- EN: base -->
   <Base>TODO</Base>
   <!-- EN: min expectation -->
@@ -98,11 +98,11 @@
   <!-- EN: Prevents precepts -->
   <PreventsPrecepts>TODO</PreventsPrecepts>
   <!-- EN: Styles -->
-  <Styles>TODO</Styles>
+  <Styles>Stílusok</Styles>
   <!-- EN: Chance to have precept -->
-  <ChanceToHavePrecept>TODO</ChanceToHavePrecept>
+  <ChanceToHavePrecept>Lehetőség az előírásra</ChanceToHavePrecept>
   <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
-  <FavoriteColorTooltip>TODO</FavoriteColorTooltip>
+  <FavoriteColorTooltip>{PAWN_labelShort} kedvenc színe. Ha {PAWN_possessive} ruházatának több mint {PERCENTAGE}-a van ebben a színben, vagy a {PAWN_possessive} ideológia színében, akkor a {PAWN_objective} valamivel boldogabb lesz.\n\nA tinctoria festékkel módosíthatod a ruházati színeket a stylist állomáson.</FavoriteColorTooltip>
   <!-- EN: Set ideo color -->
   <SetIdeoColor>TODO</SetIdeoColor>
   <!-- EN: Set to favorite color -->
