@@ -7,14 +7,14 @@
   <AnimaTreeLinking.description>TODO</AnimaTreeLinking.description>
   
   <!-- EN: beckon -->
-  <Beckon.label>TODO</Beckon.label>
+  <Beckon.label>Odahívás</Beckon.label>
   <!-- EN: Psychically command the target to approach the caster. -->
-  <Beckon.description>TODO</Beckon.description>
+  <Beckon.description>Pszichésen megparancsolja a célpontnak, hogy közelítsen.</Beckon.description>
   
   <!-- EN: berserk -->
-  <Berserk.label>TODO</Berserk.label>
+  <Berserk.label>Vadítás</Berserk.label>
   <!-- EN: Induce an angry psychosis in the target's mind, causing them to attack anyone nearby. -->
-  <Berserk.description>TODO</Berserk.description>
+  <Berserk.description>Dühös pszichózis keltése a célpont elméjében, hogy bárkit megtámadjon a közelben.</Berserk.description>
   
   <!-- EN: berserk pulse -->
   <BerserkPulse.label>TODO</BerserkPulse.label>
@@ -32,9 +32,9 @@
   <BulletShield.description>TODO</BulletShield.description>
   
   <!-- EN: burden -->
-  <Burden.label>TODO</Burden.label>
+  <Burden.label>Teher</Burden.label>
   <!-- EN: Slow the target for a short time by suppressing motor activity in the brain. -->
-  <Burden.description>TODO</Burden.description>
+  <Burden.description>Lelassítja rövid időre a célpontot az agy motoros aktivitásának elnyomásával.</Burden.description>
   
   <!-- EN: chaos skip -->
   <ChaosSkip.label>TODO</ChaosSkip.label>
@@ -104,19 +104,19 @@
   <Smokepop.description>TODO</Smokepop.description>
   
   <!-- EN: solar pinhole -->
-  <SolarPinhole.label>TODO</SolarPinhole.label>
+  <SolarPinhole.label>Fénylyuk</SolarPinhole.label>
   <!-- EN: Generate a microscopic skipgate linked to the core of a nearby star. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. The light is enough to work by, but not enough to grow plants. -->
-  <SolarPinhole.description>TODO</SolarPinhole.description>
+  <SolarPinhole.description>Létrehoz egy mikroszkopikus térkaput, amely egy közeli csillag magjához kapcsolódik. A szoláris anyag átszivárog a tűszúráson a téridőben, megvilágítva és felmelegítve a környező területet, amíg az be nem záródik. A fény elegendő a munkához, de nem elég a növények termesztéséhez.</SolarPinhole.description>
   
   <!-- EN: throne speech -->
-  <Speech.label>TODO</Speech.label>
+  <Speech.label>Trónbeszéd</Speech.label>
   <!-- EN: Initiate a speech from the throne. All colonists will come and listen. If it goes well, listeners will feel inspired, and gain respect for the speaker. If it goes poorly, the speech will do social damage. The outcome depends on the speaker's social abilities. -->
-  <Speech.description>TODO</Speech.description>
+  <Speech.description>Kezdeményezz beszédet a trónról. Minden telepes eljön és meghallgat. Ha jól megy, a hallgatók ihletet kapnak és tiszteletet tanúsítanak a beszélő iránt. Ha rosszul megy, a beszéd társadalmi károkat okoz. Az eredmény a beszélő szociális képességeitől függ.</Speech.description>
   
   <!-- EN: stun -->
-  <Stun.label>TODO</Stun.label>
+  <Stun.label>Bénítás</Stun.label>
   <!-- EN: Momentarily disrupt motor function in the target's brain, preventing any movement. -->
-  <Stun.description>TODO</Stun.description>
+  <Stun.description>Egy pillanatra megzavarja a célpont agyának motoros működését, megakadályozva minden mozgást.</Stun.description>
   
   <!-- EN: vertigo pulse -->
   <VertigoPulse.label>TODO</VertigoPulse.label>
@@ -124,7 +124,7 @@
   <VertigoPulse.description>TODO</VertigoPulse.description>
   
   <!-- EN: wallraise -->
-  <Wallraise.label>TODO</Wallraise.label>
+  <Wallraise.label>Falemelés</Wallraise.label>
   <!-- EN: Form a temporary wall by skipping rubble and soil up from deep under the ground. -->
   <Wallraise.description>TODO</Wallraise.description>
   
@@ -134,28 +134,28 @@
   <Waterskip.description>TODO</Waterskip.description>
   
   <!-- EN: word of inspiration -->
-  <WordOfInspiration.label>TODO</WordOfInspiration.label>
+  <WordOfInspiration.label>ihlet szava</WordOfInspiration.label>
   <!-- EN: Speak words encouraging creativity while psychically hypercharging the target's mind with new ideas. The target will experience a random inspiration appropriate to them. -->
-  <WordOfInspiration.description>TODO</WordOfInspiration.description>
+  <WordOfInspiration.description>Mondj kreativitásra ösztönző szavakat, miközben pszichésen túlterheled vele a célpont elméjét új ötletekkel. A célpont véletlenszerű, neki megfelelő inspirációt fog tapasztalni.</WordOfInspiration.description>
   
   <!-- EN: word of joy -->
-  <WordOfJoy.label>TODO</WordOfJoy.label>
+  <WordOfJoy.label>öröm szava</WordOfJoy.label>
   <!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness. -->
-  <WordOfJoy.description>TODO</WordOfJoy.description>
+  <WordOfJoy.description>Mondj boldog, megnyugtató szavakat valakinek, miközben pszichikai szuggesztiókkal ültetsz be egy joyfuzz hurkot az elméjébe. A joyfuzz elnyomja a kellemetlen gondolatokat és érzéseket a célpontban, hogy javítsa a hangulatot. Ennek mellékhatása az érzés és a döntéshozatal eltompulása, ami csökkenti a tudatot.</WordOfJoy.description>
   
   <!-- EN: word of love -->
-  <WordOfLove.label>TODO</WordOfLove.label>
+  <WordOfLove.label>szerelem szava</WordOfLove.label>
   <!-- EN: Speak about someone's romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This power can be used to connect two other people, induce love for the caster, or force oneself to love another. -->
-  <WordOfLove.description>TODO</WordOfLove.description>
+  <WordOfLove.description>Beszélj valakinek a romantikus erényeiről, miközben pszichikai szuggesztiókat használ, hogy romantikus vágyat ültessen be a hallgatóba. Ezt követően napokig a hallgató pszichés eredetű romantikus vonzalmat érez a másik személy iránt. Ez nagymértékben növeli a véleményt, és sokkal nagyobb valószínűséggel próbálkoznak romantikus előrelépésekkel és házassági ajánlatokkal, ha lehetőségük nyílik rá. Ez az erő felhasználható két másik ember összekapcsolására, szeretetet kelthet a használó iránt, vagy arra kényszerítheti magát, hogy szeressen egy másikat.</WordOfLove.description>
   
   <!-- EN: word of serenity -->
-  <WordOfSerenity.label>TODO</WordOfSerenity.label>
+  <WordOfSerenity.label>nyugalom szava</WordOfSerenity.label>
   <!-- EN: Use calming words and psychic suggestion to end a mental break on a person or animal. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break. -->
-  <WordOfSerenity.description>TODO</WordOfSerenity.description>
+  <WordOfSerenity.description>Megnyugtató szavakat és pszichikai szuggesztiókat használ, hogy véget vessen egy személy vagy állat mentális törésének. A célszemély rövid pszichés álomba esik. A pszicho-fókusz költsége a célpont mentális törésének intenzitásától függ.</WordOfSerenity.description>
   
   <!-- EN: word of trust -->
-  <WordOfTrust.label>TODO</WordOfTrust.label>
+  <WordOfTrust.label>bizalom szava</WordOfTrust.label>
   <!-- EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This can only reduce a prisoner's resistance, but cannot recruit him. -->
-  <WordOfTrust.description>TODO</WordOfTrust.description>
+  <WordOfTrust.description>Beszél a fogollyal, miközben pszichés szuggesztiókat használ, hogy csökkentse a toborzással szembeni ellenállását. Ez csak csökkentheti a fogoly ellenállását, de nem toborozhatja.</WordOfTrust.description>
   
 </LanguageData>

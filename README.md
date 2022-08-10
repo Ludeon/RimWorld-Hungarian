@@ -13,6 +13,7 @@ Translators:
 - pluhi
 - Laoka25
 - mosszo
+- gorrt (Malvern)
 
 Some text used from the old partial translation created by:
 - Jamesgt
