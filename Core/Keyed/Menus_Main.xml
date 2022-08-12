@@ -139,7 +139,7 @@
 
   <!-- Mods config -->
   <!-- EN: Open Steam Workshop -->
-  <OpenSteamWorkshop>Steam Workshop megnyitása</OpenSteamWorkshop>
+  <OpenSteamWorkshop>Steam Műhely megnyitása</OpenSteamWorkshop>
   <!-- EN: Get mods from forum -->
   <GetModsFromForum>Keress modot a fórumon</GetModsFromForum>
   <!-- EN: Open mods data folder -->
@@ -163,15 +163,15 @@
   <!-- EN: Author -->
   <Author>Készítő</Author>
   <!-- EN: Workshop page -->
-  <WorkshopPage>Workshop oldal</WorkshopPage>
+  <WorkshopPage>Műhely oldal</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
-  <UploadToSteamWorkshop>Feltöltés a Steam Workshopra</UploadToSteamWorkshop>
+  <UploadToSteamWorkshop>Feltöltés a Steam Műhelybe</UploadToSteamWorkshop>
   <!-- EN: Update on Steam Workshop -->
-  <UpdateOnSteamWorkshop>Frissítés a Steam Workshopon</UpdateOnSteamWorkshop>
+  <UpdateOnSteamWorkshop>Frissítés a Steam Műhelyben</UpdateOnSteamWorkshop>
   <!-- EN: Upload already in progress. -->
   <UploadAlreadyInProgress>Már megy a feltöltés.</UploadAlreadyInProgress>
   <!-- EN: Workshop submission failed.\n\nReason: {0} -->
-  <WorkshopSubmissionFailed>Workshop benyújtás hiba.\n\nOk: {0}</WorkshopSubmissionFailed>
+  <WorkshopSubmissionFailed>Műhely feltöltési hiba.\n\nOk: {0}</WorkshopSubmissionFailed>
   <!-- EN: Successfully uploaded {0}. -->
   <WorkshopUploadSucceeded>{0} sikeresen feltöltve.</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
@@ -243,7 +243,7 @@
   <!-- EN: Custom -->
   <ScenariosCustom>Egyedi</ScenariosCustom>
   <!-- EN: Steam Workshop -->
-  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <ScenariosSteamWorkshop>Steam Műhely</ScenariosSteamWorkshop>
   <!-- EN: Scenario editor -->
   <ScenarioEditor>Szerkesztő</ScenarioEditor>
   <!-- EN: Delete -->
@@ -263,7 +263,7 @@
   <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>Minden szövegmező kitöltendő.</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-  <ConfirmSteamWorkshopUpload>Biztos, hogy fel akarod tölteni a Steam Workshopba?\n\nEl kell fogadnod a Steam Workshop feltételeit. Megtalálható itt:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>Biztos, hogy fel akarod tölteni a Steam Műhelybe?\n\nEl kell fogadnod a Steam Műhely feltételeit. Megtalálható itt:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
   <ConfirmContentAuthor>Nyilvánvaló, hogy csak saját munkát töltenél fel.\n\nEz a sajátod?</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
@@ -273,7 +273,7 @@
   <!-- EN: Too many (max {0}):  -->
   <TooMany>Túl sok (max. {0}): </TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
-  <CanBeUpdatedOnWorkshop>Frissíthető a Workshop-on, mivel te vagy a szerző.</CanBeUpdatedOnWorkshop>
+  <CanBeUpdatedOnWorkshop>Frissíthető a Műhelyben, mivel te vagy a szerző.</CanBeUpdatedOnWorkshop>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
