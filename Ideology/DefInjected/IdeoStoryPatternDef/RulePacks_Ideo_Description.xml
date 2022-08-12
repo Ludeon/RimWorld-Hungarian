@@ -18,7 +18,7 @@
     <li>animistBasis   ->Az univerzum a teremtés és a pusztítás végtelen körforgása, amelyet a szellemek irányítanak a minket körülvevő világ egyes aspektusaiban.</li>
     <li>animistBasis   ->A szellemek párhuzamos univerzuma a miénk mellett fekszik. Egy látszólag élettelen tárgy ebben az univerzumban megfelel egy élő szellemnek a másikban.</li>
     <li>animistFact    ->Minden szellemnek alapvető természete van, és arra törekszik, hogy befolyásolja a világot. Ez a hatás néha hasznos, néha pedig káros.</li>
-    <li>animistProphecy->[itIsSaid], hogy a nagy [relic0_name] szelleme egy napon átadja hatalmát minden szellem felett.</li>
+    <li>animistProphecy->[itIsSaid], hogy a nagy [relic0_name] szelleme egy napon átveszi a hatalmat minden szellem felett.</li>
     <li>animistProphecy->[itIsSaid], hogy a csillagokból alvó utazó a földre zuhan, és a kráter szelleme felébreszti az utazót, aki feltámasztja az utolsó törzset.</li>
     <li>itIsSaid->Azt mondják</li>
     <li>itIsSaid->Megjövendölték</li>
@@ -125,7 +125,69 @@
     <li>lessonReinforcement->It is as if that is etched directly into my mind.</li>
     <li>lessonReinforcement->It is something I'll never forget.</li>
   -->
-  <IdeologicalLesson.rules.rulesStrings>TODO</IdeologicalLesson.rules.rulesStrings>
+  <IdeologicalLesson.rules.rulesStrings>
+    <li>lesson(priority=-1)->stuff happens</li>
+    <li>r_pattern->"[r_lessonIntro] [r_lesson]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->[founder_nameFull]</li>
+    <li>lessonAttribution(p=2)-><i>[attributionSource_titleCase]</i> by [founder_nameFull]</li>
+    <li>lessonAttribution->[founder_nameFull]'s letter to [believer_nameFull]</li>
+    <li>lessonAttribution->[founder_nameFull], from the keynote to [memeConference_titleCase]</li>
+    <li>lessonAttribution->[founder_nameFull], on [founder_possessive] deathbed</li>
+    <li>lessonAttribution->[founder_nameFull], just before execution</li>
+    <li>lessonAttribution->[founder_nameFull], [speech] on the [TerrainFeature]</li>
+    <li>lessonAttribution->[founder_nameFull], [speech] in the [Community]</li>
+    <li>attributionSource->[memeConcept]</li>
+    <li>attributionSource->[memeAdjective] [memeConcept]</li>
+    <li>attributionSource->A [memeAdjective] Life</li>
+    <li>attributionSource->Reflections by a [attributionJob]</li>
+    <li>attributionSource->Memoir of a [attributionJob]</li>
+    <li>attributionSource->Thoughts of a [attributionJob]</li>
+    <li>attributionSource->Life of a [attributionJob]</li>
+    <li>attributionJob->[memeAdjective] [place_job]</li>
+    <li>attributionJob->[place_job]</li>
+    <li>memeConference(p=3)->The [conferencePrefix] [memeConcept] [conferenceType]</li>
+    <li>memeConference(p=2)->The [memeConcept] [conferenceType]</li>
+    <li>memeConference->[memeHyphenPrefix_titleCase]-Con</li>
+    <li>conferencePrefix->Első</li>
+    <li>conferencePrefix->Második</li>
+    <li>conferencePrefix->Harmadik</li>
+    <li>conferencePrefix->Negyedik</li>
+    <li>conferencePrefix->Utolsó</li>
+    <li>conferencePrefix->Végső</li>
+    <li>conferencePrefix->Kozmikus</li>
+    <li>conferencePrefix->Planetáris</li>
+    <li>conferencePrefix->Egyetemes</li>
+    <li>conferenceType->Konferencia</li>
+    <li>conferenceType->Gyülekezés</li>
+    <li>conferenceType->Találkozás</li>
+    <li>conferenceType->Megbeszélés</li>
+    <li>conferenceType->Fórum</li>
+    <li>speech->Beszéd</li>
+    <li>speech->Cím</li>
+    <li>lessonIntro->Követőimnek ezt a leckét volt a legnehezebb elfogadni:</li>
+    <li>lessonIntro->A legnagyobb bűnöm az volt, hogy olyan sokáig tartott megértettem ezt</li>
+    <li>lessonIntro->My struggle against the [foeLeader] seemed endless. But it did teach me one thing:</li>
+    <li>lessonIntro->Even as a child on the [place_summary] [place_name], I knew that</li>
+    <li>lessonIntro->During a school class in the [place_community], a student thew a [thrownObject] and it hit me in the head. It was then I realized that</li>
+    <li>lessonIntro->I say this not so that you might live the life I lived, but so you might learn the things I learned. That</li>
+    <li>lessonIntro->Once the doctor had finished [doctor_possessive] grisly work, I finally knew that</li>
+    <li>lessonIntro->As each year passed on the [place_summary] [place_name], one thing became increasingly clear: that</li>
+    <li>lessonIntro->Visszatekintve, bárcsak korábban rájöttem volna - hogy</li>
+    <li>lessonIntro->Mindannyian elveszettnek tűntek. Ezért azt mondtam nekik, hogy</li>
+    <li>lessonIntro->Útmutatásért kiáltottak. Ezért megmutattam nekik, hogy</li>
+    <li>thrownObject->book</li>
+    <li>thrownObject->sandwich</li>
+    <li>thrownObject->toy [place_personalWeapon]</li>
+    <li>thrownObject->stuffed [Animal]</li>
+    <li>doctor_possessive->his</li>
+    <li>doctor_possessive->her</li>
+    <li>lessonReinforcement->Ezzel senki sem vitatkozhat.</li>
+    <li>lessonReinforcement->Csak a bolondok gondolják másként.</li>
+    <li>lessonReinforcement->És mint ma már tudjuk, ez hamarosan mindenki számára nyilvánvalóvá vált.</li>
+    <li>lessonReinforcement->Minden, ami azóta történt, megerősítette ezt a tényt.</li>
+    <li>lessonReinforcement->Mintha ez közvetlenül az elmémbe vésődött volna.</li>
+    <li>lessonReinforcement->Ez az, amit soha nem fogok elfelejteni.</li>
+  </IdeologicalLesson.rules.rulesStrings>
   
   <!-- EN:
     <li>intro->The people of the [place_summary] [place_name] lived under the [memeAdjective] supervision of [deity0_name].</li>

@@ -17,6 +17,21 @@
     <li>funeral->interment</li>
     <li>funeral->requiem</li>
   -->
-  <NamerRitualFuneral.rulePack.rulesStrings>TODO</NamerRitualFuneral.rulePack.rulesStrings>
+  <NamerRitualFuneral.rulePack.rulesStrings>
+    <li>r_ritualName(p=2)->[memeAdjective] [funeral]</li>
+    <li>r_ritualName->[funeral] of [chosenTheme]</li>
+    <li>r_ritualName->[chosenAdjective] [funeral]</li>
+    <li>r_ritualName->[keyDeity]'s [funeral]</li>
+    <li>r_ritualName->[funeral] of [keyDeity]</li>
+    <li>r_ritualName->[funeral] of [memeConcept]</li>
+    <li>r_ritualName->[funeral] of [chosenIdeoName]</li>
+    <li>r_ritualName(p=0.01)->funeral</li>
+    <li>funeral->temetés</li>
+    <li>funeral->gyász</li>
+    <li>funeral->dicshimnusz</li>
+    <li>funeral->elföldelés</li>
+    <li>funeral->elhantolás</li>
+    <li>funeral->rekviem</li>
+  </NamerRitualFuneral.rulePack.rulesStrings>
   
 </LanguageData>

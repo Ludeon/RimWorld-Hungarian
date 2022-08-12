@@ -9,12 +9,21 @@
     <li>globalHyphenPrefix->astro</li>
     <li>globalHyphenPrefix->stello</li>
   -->
-  <CultureSpacer.rulePack.rulesStrings>TODO</CultureSpacer.rulePack.rulesStrings>
+  <CultureSpacer.rulePack.rulesStrings>
+    <li>globalAdjective->Úrbeli</li>
+    <li>globalAdjective->Csillag</li>
+    <li>globalAdjective->Rendszer</li>
+    <li>globalAdjective->Csillagközi</li>
+    <li>globalHyphenPrefix->asztro</li>
+    <li>globalHyphenPrefix->stello</li>
+  </CultureSpacer.rulePack.rulesStrings>
   
   <!-- EN:
     <li>globalAdjective(p=15)->Tribal</li>
   -->
-  <NamerIdeoCorunan.rulePack.rulesStrings>TODO</NamerIdeoCorunan.rulePack.rulesStrings>
+  <NamerIdeoCorunan.rulePack.rulesStrings>
+    <li>globalAdjective(p=15)->Törzsi</li>
+  </NamerIdeoCorunan.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_ideoName->[keyDeity]ism</li>
@@ -59,6 +68,48 @@
     <li>globalHyphenPrefix->archaeo</li>
     <li>globalHyphenPrefix->hyper</li>
   -->
-  <NamerIdeoGlobal.rulePack.rulesStrings>TODO</NamerIdeoGlobal.rulePack.rulesStrings>
+  <NamerIdeoGlobal.rulePack.rulesStrings>
+    <li>r_ideoName->[keyDeity]izmus</li>
+    <li>r_ideoName->[hyphenPrefix]-[keyDeity]izmus</li>
+    <li>r_ideoName->[keyDeity]'s [creed]</li>
+    <li>r_ideoName->[creed] of [keyDeity]</li>
+    <li>r_ideoAdjective->[keyDeity]ic</li>
+    <li>r_memberName->[keyDeity]ist</li>
+    <li>r_memberName->[keyDeity]ite</li>
+    <li>r_ideoName(p=2)->[globalAdjective] [packIdeoName]</li>
+    <li>r_ideoName(p=1.5,forcePrefix==False)->[hyphenPrefix]-[packIdeoName]</li>
+    <li>r_ideoName->[memeAdjective] [packIdeoName]</li>
+    <li>r_ideoName(p=0.5)->[memeAdjective] [creed]</li>
+    <li>r_ideoName(p=0.2)->[creed] of [packTheme]</li>
+    <li>r_ideoAdjective(priority=1)->[packAdjective]</li>
+    <li>r_memberName->[packMember]</li>
+    <li>creed(priority=1)->[memeCreed]</li>
+    <li>creed->[genericCreed]</li>
+    <li>genericCreed->hitvallás</li>
+    <li>genericCreed->doktrína</li>
+    <li>genericCreed->út</li>
+    <li>genericCreed->ösvény</li>
+    <li>globalAdjective->[Color]</li>
+    <li>globalAdjective->Új</li>
+    <li>globalAdjective->Teljes</li>
+    <li>globalAdjective->Ó</li>
+    <li>globalAdjective->Ősi</li>
+    <li>globalAdjective->Történelmi</li>
+    <li>globalAdjective->Átdolgozott</li>
+    <li>globalAdjective->Megreformált</li>
+    <li>globalAdjective->Kemény</li>
+    <li>globalAdjective->Fundamentális</li>
+    <li>globalAdjective->Igaz</li>
+    <li>globalAdjective->Népi</li>
+    <li>globalAdjective->Reform</li>
+    <li>globalAdjective->[place_adjective]</li>
+    <li>hyphenPrefix->[globalHyphenPrefix]</li>
+    <li>hyphenPrefix->[memeHyphenPrefix]</li>
+    <li>globalHyphenPrefix(p=4)->neo</li>
+    <li>globalHyphenPrefix(p=2)->poszt</li>
+    <li>globalHyphenPrefix->nova</li>
+    <li>globalHyphenPrefix->archeo</li>
+    <li>globalHyphenPrefix->hiper</li>
+  </NamerIdeoGlobal.rulePack.rulesStrings>
   
 </LanguageData>

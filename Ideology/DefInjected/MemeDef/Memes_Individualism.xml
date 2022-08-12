@@ -32,7 +32,7 @@
     <li>setup(tag=meme_Collectivist)           ->In a world of every man for himself, [founderName] began a new family of strangers, bringing many different people together.</li>
     <li>story(uses=1,tag=meme_Collectivist)    ->Some of the false believers tried to break the rules and decide their own paths. [founderName] punished them severely.</li>
     <li>lessonIntro(tag=meme_Collectivist)     ->The [place_job] stopped contributing but kept eating from the common store. I killed him with a [place_personalWeapon]. The people were shocked, but I explained that</li>
-    <li>lesson(tag=meme_Collectivist)              ->my death, and yours, will mean nothing, as long as our people go on</li>
+    <li>lesson(tag=meme_Collectivist)              ->az én halálom és a tiéd sem jelent semmit, amíg a mi népünk tovább megy</li>
     <li>lessonReinforcement(tag=meme_Collectivist) ->If I die teaching the universe this, it will be my greatest triumph.</li>
     <li>archistBasis(tag=meme_Collectivist)    ->The archotechs are all aspects of one supermind.</li>
     <li>archistFact(tag=meme_Collectivist)     ->The archotechs have no interest in judging us one by one. They await a single people who can demonstrate our worthiness by acting morally as one.</li>
@@ -55,31 +55,46 @@
     <li>memeLeaderNoun->secretary</li>
     <li>memeMoralist->commissar</li>
   -->
-  <Collectivist.generalRules.rulesStrings>TODO</Collectivist.generalRules.rulesStrings>
+  <Collectivist.generalRules.rulesStrings>
+    <li>memeAdjective->egysége</li>
+    <li>memeAdjective->harmónia</li>
+    <li>memeAdjective->szolidaritás</li>
+    <li>memeAdjective->egységes</li>
+    <li>memeAdjective->osztatlan</li>
+    <li>memeAdjective->kollektív</li>
+    <li>memeCreed->kollektíva</li>
+    <li>memeCreed->szövetkezet</li>
+    <li>memeCreed->kommuna</li>
+    <li>memeCreed->család</li>
+    <li>memeConcept->család</li>
+    <li>memeLeaderNoun->elnök</li>
+    <li>memeLeaderNoun->titkár</li>
+    <li>memeMoralist->népbiztos</li>
+  </Collectivist.generalRules.rulesStrings>
   <!-- EN: solidaritist -->
-  <Collectivist.symbolPacks.0.adjective>TODO</Collectivist.symbolPacks.0.adjective>
+  <Collectivist.symbolPacks.0.adjective>szolidarista</Collectivist.symbolPacks.0.adjective>
   <!-- EN: solidaritor -->
-  <Collectivist.symbolPacks.0.member>TODO</Collectivist.symbolPacks.0.member>
+  <Collectivist.symbolPacks.0.member>támogató</Collectivist.symbolPacks.0.member>
   <!-- EN: solidarity -->
-  <Collectivist.symbolPacks.0.theme>TODO</Collectivist.symbolPacks.0.theme>
+  <Collectivist.symbolPacks.0.theme>szolidaritás</Collectivist.symbolPacks.0.theme>
   <!-- EN: unitary -->
-  <Collectivist.symbolPacks.1.adjective>TODO</Collectivist.symbolPacks.1.adjective>
+  <Collectivist.symbolPacks.1.adjective>egységes</Collectivist.symbolPacks.1.adjective>
   <!-- EN: unitist -->
-  <Collectivist.symbolPacks.1.member>TODO</Collectivist.symbolPacks.1.member>
+  <Collectivist.symbolPacks.1.member>unitista</Collectivist.symbolPacks.1.member>
   <!-- EN: unity -->
-  <Collectivist.symbolPacks.1.theme>TODO</Collectivist.symbolPacks.1.theme>
+  <Collectivist.symbolPacks.1.theme>egység</Collectivist.symbolPacks.1.theme>
   <!-- EN: harmonist -->
-  <Collectivist.symbolPacks.2.adjective>TODO</Collectivist.symbolPacks.2.adjective>
+  <Collectivist.symbolPacks.2.adjective>egységes</Collectivist.symbolPacks.2.adjective>
   <!-- EN: harmonist -->
   <Collectivist.symbolPacks.2.member>TODO</Collectivist.symbolPacks.2.member>
   <!-- EN: harmony -->
-  <Collectivist.symbolPacks.2.theme>TODO</Collectivist.symbolPacks.2.theme>
+  <Collectivist.symbolPacks.2.theme>harmónia</Collectivist.symbolPacks.2.theme>
   <!-- EN: oneist -->
-  <Collectivist.symbolPacks.3.adjective>TODO</Collectivist.symbolPacks.3.adjective>
+  <Collectivist.symbolPacks.3.adjective>azonos</Collectivist.symbolPacks.3.adjective>
   <!-- EN: oneist -->
   <Collectivist.symbolPacks.3.member>TODO</Collectivist.symbolPacks.3.member>
   <!-- EN: oneness -->
-  <Collectivist.symbolPacks.3.theme>TODO</Collectivist.symbolPacks.3.theme>
+  <Collectivist.symbolPacks.3.theme>azonosság</Collectivist.symbolPacks.3.theme>
   
   <!-- EN: individualist -->
   <Individualist.label>individualista</Individualist.label>

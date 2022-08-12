@@ -17,6 +17,21 @@
     <li>ritNoun->gashing</li>
     <li>ritNoun->rend</li>
   -->
-  <NamerRitualMutilation.rulePack.rulesStrings>TODO</NamerRitualMutilation.rulePack.rulesStrings>
+  <NamerRitualMutilation.rulePack.rulesStrings>
+    <li>r_ritualName->[ritNoun] of [keyDeity]</li>
+    <li>r_ritualName->[ritNoun] of [chosenTheme]</li>
+    <li>r_ritualName->[ritNoun] of [memeConcept]</li>
+    <li>r_ritualName->[memeAdjective] [ritNoun]</li>
+    <li>ritNoun->csonkítás</li>
+    <li>ritNoun->vágás</li>
+    <li>ritNoun->szeletelés</li>
+    <li>ritNoun->nyúzás</li>
+    <li>ritNoun->bladerip</li>
+    <li>ritNoun->hasítás</li>
+    <li>ritNoun->széttépés</li>
+    <li>ritNoun->húsfaragás</li>
+    <li>ritNoun->megvágás</li>
+    <li>ritNoun->szaggatás</li>
+  </NamerRitualMutilation.rulePack.rulesStrings>
   
 </LanguageData>

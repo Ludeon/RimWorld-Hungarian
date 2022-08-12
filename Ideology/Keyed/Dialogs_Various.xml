@@ -16,7 +16,7 @@
   <RitualDevelopmentPointRewards>TODO</RitualDevelopmentPointRewards>
 
   <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
-  <ChooseStructureMemesInfo>TODO</ChooseStructureMemesInfo>
+  <ChooseStructureMemesInfo>Válaszd ki ideológiád szimbolikus struktúráját. Ez csak a szimbólumokat érinti – a játékmenetet nem.</ChooseStructureMemesInfo>
   <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. -->
   <ChooseNormalMemesInfo>TODO</ChooseNormalMemesInfo>
   <!-- EN: Choose at least {0} meme. -->
@@ -30,16 +30,16 @@
   <!-- EN: Some of these have much more gameplay impact than others. -->
   <SomeMemesHaveMoreImpact>TODO</SomeMemesHaveMoreImpact>
   <!-- EN: Choose one meme to form the initial idea of this ideoligion. You will add more memes as the ideoligion develops over time. -->
-  <ChooseNormalMemesFluidIdeoInfo>TODO</ChooseNormalMemesFluidIdeoInfo>
+  <ChooseNormalMemesFluidIdeoInfo>Válassz egy kiinduló mémet az ideológia alapötletéhez. További mémeket fogsz majd hozzáadni, ahogy az ideológia idővel fejlődik.</ChooseNormalMemesFluidIdeoInfo>
   <!-- EN: Choose a meme or remove a meme. -->
-  <ChooseOrRemoveMeme>TODO</ChooseOrRemoveMeme>
+  <ChooseOrRemoveMeme>Válassz vagy törölj egy mémet.</ChooseOrRemoveMeme>
   <!-- EN: Reset changes -->
   <ReformIdeoResetChanges>TODO</ReformIdeoResetChanges>
   <!-- EN: Choose {0} meme. -->
-  <NotEnoughMemesFluidIdeo>TODO</NotEnoughMemesFluidIdeo>
+  <NotEnoughMemesFluidIdeo>{0} mém választása</NotEnoughMemesFluidIdeo>
 
   <!-- EN: {0} will re-randomize any precepts you have edited.\n\nDo you wish to continue? -->
-  <ChangesRandomizePrecepts>TODO</ChangesRandomizePrecepts>
+  <ChangesRandomizePrecepts>{0} újra véletlenszerűvé teszi az általad már szerkesztett előírásokat.\in\Folytatod?</ChangesRandomizePrecepts>
   <!-- EN: The following precepts are incompatible with this new meme selection and will be removed:\n\n{0}\n\nDo you wish to continue? -->
   <ChangesRemovePrecepts>A következő előírások nem kompatibilisek ezzel az új mémkijelöléssel, és eltávolítjuk őket:\n\n{0}\n\nFolytatod?</ChangesRemovePrecepts>
   

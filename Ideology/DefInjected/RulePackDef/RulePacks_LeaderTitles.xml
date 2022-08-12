@@ -10,7 +10,15 @@
     <li>cultureLeaderAdjective->grand</li>
     <li>cultureLeaderNoun->chief</li>
   -->
-  <LeaderTitleMaker_Corunan.rulePack.rulesStrings>TODO</LeaderTitleMaker_Corunan.rulePack.rulesStrings>
+  <LeaderTitleMaker_Corunan.rulePack.rulesStrings>
+    <li>memeLeaderNoun(priority=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</li>
+    <li>cultureLeaderAdjective->nagy</li>
+    <li>cultureLeaderAdjective->fő</li>
+    <li>cultureLeaderAdjective->első</li>
+    <li>cultureLeaderAdjective->nagy</li>
+    <li>cultureLeaderNoun->főnök</li>
+  </LeaderTitleMaker_Corunan.rulePack.rulesStrings>
   
   <!-- EN:
     <li>cultureLeaderAdjective->high</li>
@@ -22,7 +30,16 @@
     <li>cultureLeaderNoun->governor</li>
     <li>cultureLeaderNoun->leader</li>
   -->
-  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings>TODO</LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
+  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
+    <li>cultureLeaderAdjective->fő</li>
+    <li>cultureLeaderAdjective->nagy</li>
+    <li>cultureLeaderAdjective->első</li>
+    <li>cultureLeaderAdjective->első</li>
+    <li>cultureLeaderNoun->elnök</li>
+    <li>cultureLeaderNoun->igazgató</li>
+    <li>cultureLeaderNoun->kormányzó</li>
+    <li>cultureLeaderNoun->vezető</li>
+  </LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_leaderTitle(p=6)->[memeLeaderAdjective] [memeLeaderNoun]</li>
@@ -44,7 +61,18 @@
     <li>cultureLeaderNoun->gun</li>
     <li>cultureLeaderNoun->dog</li>
   -->
-  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings>TODO</LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
+  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
+    <li>memeLeaderNoun(priority=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</li>
+    <li>cultureLeaderAdjective->nagy</li>
+    <li>cultureLeaderAdjective->csúcs</li>
+    <li>cultureLeaderAdjective->nagy</li>
+    <li>cultureLeaderNoun->főnök</li>
+    <li>cultureLeaderNoun->gonosz</li>
+    <li>cultureLeaderNoun->fej</li>
+    <li>cultureLeaderNoun->ágyú</li>
+    <li>cultureLeaderNoun->kutya</li>
+  </LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
   
   <!-- EN:
     <li>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</li>
@@ -56,11 +84,22 @@
     <li>cultureLeaderNoun->guide</li>
     <li>cultureLeaderNoun->steersman</li>
   -->
-  <LeaderTitleMaker_Rustican.rulePack.rulesStrings>TODO</LeaderTitleMaker_Rustican.rulePack.rulesStrings>
+  <LeaderTitleMaker_Rustican.rulePack.rulesStrings>
+    <li>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</li>
+    <li>cultureLeaderAdjective->legfőbb</li>
+    <li>cultureLeaderAdjective->első</li>
+    <li>cultureLeaderNoun->tanácsos</li>
+    <li>cultureLeaderNoun->vezér</li>
+    <li>cultureLeaderNoun->miniszter</li>
+    <li>cultureLeaderNoun->vezető</li>
+    <li>cultureLeaderNoun->kormányos</li>
+  </LeaderTitleMaker_Rustican.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_leaderTitle->high stellarch</li>
   -->
-  <LeaderTitleMaker_Sophian.rulePack.rulesStrings>TODO</LeaderTitleMaker_Sophian.rulePack.rulesStrings>
+  <LeaderTitleMaker_Sophian.rulePack.rulesStrings>
+    <li>r_leaderTitle->császár</li>
+  </LeaderTitleMaker_Sophian.rulePack.rulesStrings>
   
 </LanguageData>

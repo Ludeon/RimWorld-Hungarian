@@ -38,7 +38,7 @@
   <!-- EN: Custom ideoligion -->
   <CustomIdeoligionSectionHeader>Egyéni ideológia</CustomIdeoligionSectionHeader>
   <!-- EN: Faction ideoligions -->
-  <FactionIdeoligionSectionHeader>Frakció ideológiái</FactionIdeoligionSectionHeader>
+  <FactionIdeoligionSectionHeader>Frakciók ideológiái</FactionIdeoligionSectionHeader>
   <!-- EN: Load saved ideoligion -->
   <LoadExistingIdeoligion>Tölts be mentett ideológiát</LoadExistingIdeoligion>
   <!-- EN: Select an ideoligion for your faction on the left, or -->
@@ -90,11 +90,11 @@
   <!-- EN: Disables -->
   <Disables>TODO</Disables>
   <!-- EN: Requires one of precepts -->
-  <RequiresOnePrecept>TODO</RequiresOnePrecept>
+  <RequiresOnePrecept>Egy előírás szükséges</RequiresOnePrecept>
   <!-- EN: Required precepts -->
-  <RequiredPrecepts>TODO</RequiredPrecepts>
+  <RequiredPrecepts>Szükséges előírások</RequiredPrecepts>
   <!-- EN: Required rituals -->
-  <RequiredRituals>TODO</RequiredRituals>
+  <RequiredRituals>Szükséges szertartások</RequiredRituals>
   <!-- EN: Prevents precepts -->
   <PreventsPrecepts>TODO</PreventsPrecepts>
   <!-- EN: Styles -->
@@ -104,13 +104,13 @@
   <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
   <FavoriteColorTooltip>{PAWN_labelShort} kedvenc színe. Ha {PAWN_possessive} ruházatának több mint {PERCENTAGE}-a van ebben a színben, vagy a {PAWN_possessive} ideológia színében, akkor a {PAWN_objective} valamivel boldogabb lesz.\n\nA tinctoria festékkel módosíthatod a ruházati színeket a stylist állomáson.</FavoriteColorTooltip>
   <!-- EN: Set ideo color -->
-  <SetIdeoColor>TODO</SetIdeoColor>
+  <SetIdeoColor>Állítsd be az ideo színét</SetIdeoColor>
   <!-- EN: Set to favorite color -->
   <SetFavoriteColor>TODO</SetFavoriteColor>
   <!-- EN: Configure your faction's ideoligion -->
   <ConfigureIdeoligion>TODO</ConfigureIdeoligion>
   <!-- EN: Not enough dye. -->
-  <NotEnoughDye>TODO</NotEnoughDye>
+  <NotEnoughDye>Nincs elég festék.</NotEnoughDye>
   <!-- EN: {PAWN_nameDef} is unwilling to recolor {PAWN_possessive} {APPAREL_labelShort}. -->
   <ApparelLockedCannotRecolor>TODO</ApparelLockedCannotRecolor>
   <!-- EN: The colonist will recolor the apparel when dye becomes available. -->
@@ -120,23 +120,23 @@
   <!-- EN: {PAWN_labelShort}'s certainty in {IDEO} is at {PERCENTAGE} -->
   <IdeoCertaintyTooltip>TODO</IdeoCertaintyTooltip>
   <!-- EN: Disabled by precept {0} -->
-  <DisabledByPrecept>TODO</DisabledByPrecept>
+  <DisabledByPrecept>Letiltva a(z) {0} előírás alapján</DisabledByPrecept>
   <!-- EN: Everyone -->
-  <Everyone>TODO</Everyone>
+  <Everyone>Mindenki</Everyone>
   <!-- EN: Narrative -->
-  <Narrative>TODO</Narrative>
+  <Narrative>Elbeszélés</Narrative>
   <!-- EN: narrative -->
-  <NarrativeLower>TODO</NarrativeLower>
+  <NarrativeLower>elbeszélés</NarrativeLower>
   <!-- EN: Precept name -->
-  <PreceptName>TODO</PreceptName>
+  <PreceptName>Előírás név</PreceptName>
   <!-- EN: precept name -->
-  <PreceptNameLower>TODO</PreceptNameLower>
+  <PreceptNameLower>előírás név</PreceptNameLower>
   <!-- EN: Changing {0} -->
-  <Changing>TODO</Changing>
+  <Changing>{0} változtatása</Changing>
   <!-- EN: structures -->
-  <StructuresLower>TODO</StructuresLower>
+  <StructuresLower>struktúrák</StructuresLower>
   <!-- EN: memes -->
-  <MemesLower>TODO</MemesLower>
+  <MemesLower>mémek</MemesLower>
   <!-- EN: Development points -->
   <Reward_DevelopmentPointsLabel>TODO</Reward_DevelopmentPointsLabel>
   <!-- EN: Your development points for {0} will increase by {1}.\n\nYou currently have {2} development points. Once you have {3} development points you can reform the ideoligion.\n\nEarn additional development points by completing other quests and rituals. -->

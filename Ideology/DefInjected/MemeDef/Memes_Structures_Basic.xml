@@ -16,7 +16,17 @@
     <li>memeMoralist->priest</li>
     <li>memeMoralist->elder</li>
   -->
-  <Structure_Animist.generalRules.rulesStrings>TODO</Structure_Animist.generalRules.rulesStrings>
+  <Structure_Animist.generalRules.rulesStrings>
+    <li>memeLeaderNoun->lelkész</li>
+    <li>memeLeaderNoun->szónok</li>
+    <li>memeLeaderAdjective->univerzális</li>
+    <li>memeLeaderAdjective->szellem</li>
+    <li>memeLeaderAdjective->anima</li>
+    <li>memeHyphenPrefix->ani</li>
+    <li>memeMoralist->sámán</li>
+    <li>memeMoralist->pap</li>
+    <li>memeMoralist->vén</li>
+  </Structure_Animist.generalRules.rulesStrings>
   <!-- EN: animist -->
   <Structure_Animist.symbolPacks.0.adjective>animista</Structure_Animist.symbolPacks.0.adjective>
   <!-- EN: animist -->
@@ -104,33 +114,61 @@
     <li>memeMoralist->academic</li>
     <li>memeMoralist->sophist</li>
   -->
-  <Structure_Ideological.generalRules.rulesStrings>TODO</Structure_Ideological.generalRules.rulesStrings>
+  <Structure_Ideological.generalRules.rulesStrings>
+    <li>memeAdjective->etikus</li>
+    <li>memeAdjective->erkölcsös</li>
+    <li>memeAdjective->felébresztett</li>
+    <li>memeCreed->hit</li>
+    <li>memeCreed->ideológia</li>
+    <li>memeCreed->hitvallás</li>
+    <li>memeCreed->philosophy</li>
+    <li>memeCreed->filozófia</li>
+    <li>memeCreed->nézet</li>
+    <li>memeCreed->elvek</li>
+    <li>memeCreed->erkölcsök</li>
+    <li>memeCreed->etika</li>
+    <li>memeCreed->igazság</li>
+    <li>memeHyphenPrefix->ideo</li>
+    <li>memeLeaderNoun->elme</li>
+    <li>memeLeaderNoun->döntő</li>
+    <li>memeLeaderNoun->vezető</li>
+    <li>memeLeaderAdjective->etikai</li>
+    <li>memeLeaderAdjective->erkölcsi</li>
+    <li>memeLeaderAdjective->felébresztett</li>
+    <li>memeMoralist->tanácsadó</li>
+    <li>memeMoralist->etikus</li>
+    <li>memeMoralist->moralista</li>
+    <li>memeMoralist->filozófus</li>
+    <li>memeMoralist->gondolkodó</li>
+    <li>memeMoralist->akadémikus</li>
+    <li>memeMoralist->szofista</li>
+  </Structure_Ideological.generalRules.rulesStrings>
   <!-- EN: ethical -->
-  <Structure_Ideological.symbolPacks.0.adjective>TODO</Structure_Ideological.symbolPacks.0.adjective>
+  <Structure_Ideological.symbolPacks.0.adjective>etikai</Structure_Ideological.symbolPacks.0.adjective>
   <!-- EN: Ethics -->
-  <Structure_Ideological.symbolPacks.0.ideoName>TODO</Structure_Ideological.symbolPacks.0.ideoName>
+  <Structure_Ideological.symbolPacks.0.ideoName>Etika</Structure_Ideological.symbolPacks.0.ideoName>
   <!-- EN: ethicist -->
-  <Structure_Ideological.symbolPacks.0.member>TODO</Structure_Ideological.symbolPacks.0.member>
+  <Structure_Ideological.symbolPacks.0.member>etikus</Structure_Ideological.symbolPacks.0.member>
   <!-- EN: ethics -->
-  <Structure_Ideological.symbolPacks.0.theme>TODO</Structure_Ideological.symbolPacks.0.theme>
+  <Structure_Ideological.symbolPacks.0.theme>etika</Structure_Ideological.symbolPacks.0.theme>
   <!-- EN: ideological -->
-  <Structure_Ideological.symbolPacks.1.adjective>TODO</Structure_Ideological.symbolPacks.1.adjective>
+  <Structure_Ideological.symbolPacks.1.adjective>ideológiai</Structure_Ideological.symbolPacks.1.adjective>
   <!-- EN: Ideology -->
-  <Structure_Ideological.symbolPacks.1.ideoName>TODO</Structure_Ideological.symbolPacks.1.ideoName>
+  <Structure_Ideological.symbolPacks.1.ideoName>Ideológia</Structure_Ideological.symbolPacks.1.ideoName>
   <!-- EN: ideologist -->
-  <Structure_Ideological.symbolPacks.1.member>TODO</Structure_Ideological.symbolPacks.1.member>
+  <Structure_Ideological.symbolPacks.1.member>ideológus</Structure_Ideological.symbolPacks.1.member>
   <!-- EN: ideology -->
-  <Structure_Ideological.symbolPacks.1.theme>TODO</Structure_Ideological.symbolPacks.1.theme>
+  <Structure_Ideological.symbolPacks.1.theme>ideológia</Structure_Ideological.symbolPacks.1.theme>
   <!-- EN: just -->
-  <Structure_Ideological.symbolPacks.2.adjective>TODO</Structure_Ideological.symbolPacks.2.adjective>
+  <Structure_Ideological.symbolPacks.2.adjective>igazságos</Structure_Ideological.symbolPacks.2.adjective>
   <!-- EN: Justice -->
-  <Structure_Ideological.symbolPacks.2.ideoName>TODO</Structure_Ideological.symbolPacks.2.ideoName>
+  <Structure_Ideological.symbolPacks.2.ideoName>Igazság</Structure_Ideological.symbolPacks.2.ideoName>
   <!-- EN: justicar -->
   <Structure_Ideological.symbolPacks.2.member>TODO</Structure_Ideological.symbolPacks.2.member>
   <!-- EN: justice -->
   <Structure_Ideological.symbolPacks.2.theme>TODO</Structure_Ideological.symbolPacks.2.theme>
   <!-- EN: sanctuary -->
-  <Structure_Ideological.worshipRoomLabel>TODO</Structure_Ideological.worshipRoomLabel>
+  <Structure_Ideological.worshipRoomLabel>szentély</Structure_Ideological.worshipRoomLabel>
   
   <!-- EN: abstract theist -->
   <Structure_TheistAbstract.label>absztrakt teista</Structure_TheistAbstract.label>

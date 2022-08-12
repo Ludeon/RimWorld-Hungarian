@@ -65,6 +65,69 @@
     <li>second->lash</li>
     <li>second->krome</li>
   -->
-  <NamerIdeoRelic.rulePack.rulesStrings>TODO</NamerIdeoRelic.rulePack.rulesStrings>
+  <NamerIdeoRelic.rulePack.rulesStrings>
+    <li>r_ideoRelicName(p=2)->[first][second]</li>
+    <li>r_ideoRelicName->[thingLabel] of [memeConcept]</li>
+    <li>r_ideoRelicName->[memeAdjective] [thingLabel]</li>
+    <li>r_ideoRelicName->[memeHyphenPrefix]-[thingLabel]</li>
+    <li>r_ideoRelicName->[memeAdjective] [relic]</li>
+    <li>r_ideoRelicName->[relic] of [memeConcept]</li>
+    <li>r_ideoRelicName->[memeHyphenPrefix]-[relic]</li>
+    <li>relic->ereklye</li>
+    <li>relic->műalkotás</li>
+    <li>relic->emléktárgy</li>
+    <li>relic->mementó</li>
+    <li>relic->maradvány</li>
+    <li>relic->családi ereklye</li>
+    <li>relic->emlék</li>
+    <li>first(p=5)->[memeHyphenPrefix]</li>
+    <li>first->hosszú</li>
+    <li>first->égi</li>
+    <li>first->csillag</li>
+    <li>first->mély</li>
+    <li>first->messze</li>
+    <li>first->halott</li>
+    <li>first->élet</li>
+    <li>first->fény</li>
+    <li>first->sötét</li>
+    <li>first->vég</li>
+    <li>first->hor</li>
+    <li>first->an</li>
+    <li>first->ex</li>
+    <li>first->ton</li>
+    <li>first->dow</li>
+    <li>first->bor</li>
+    <li>first->ven</li>
+    <li>first->xan</li>
+    <li>first->arl</li>
+    <li>first->hex</li>
+    <li>first->bax</li>
+    <li>first->cel</li>
+    <li>first->loc</li>
+    <li>first->pólus</li>
+    <li>first->lode</li>
+    <li>second->hívó</li>
+    <li>second->hozó</li>
+    <li>second->beszélő</li>
+    <li>second->lier</li>
+    <li>second->kapocs</li>
+    <li>second->kötés</li>
+    <li>second->hurok</li>
+    <li>second->kapcsolat</li>
+    <li>second->mag</li>
+    <li>second->crux</li>
+    <li>second->tömeg</li>
+    <li>second->test</li>
+    <li>second->fókusz</li>
+    <li>second->lencse</li>
+    <li>second->lámpa</li>
+    <li>second->árnyék</li>
+    <li>second->biztos</li>
+    <li>second->locus</li>
+    <li>second->alak</li>
+    <li>second->ujj</li>
+    <li>second->ostor</li>
+    <li>second->krome</li>
+  </NamerIdeoRelic.rulePack.rulesStrings>
   
 </LanguageData>
