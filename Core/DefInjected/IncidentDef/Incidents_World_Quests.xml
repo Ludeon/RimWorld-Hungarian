@@ -11,40 +11,4 @@
   <!-- EN: Quest available -->
   <GiveQuest_Random.letterLabel>Küldetés elérhető</GiveQuest_Random.letterLabel>
   
-  <!-- UNUSED -->
-  <Quest_BanditCamp.label>Bandita küldetés</Quest_BanditCamp.label>
-  <Quest_BanditCamp.letterLabel>Bandita küldetés</Quest_BanditCamp.letterLabel>
-  <Quest_BanditCamp.letterText>{0}, aki a(z) {2} frakcióban {1}, üzenetet küldött.\n\nBanditák táboroznak a közelben, akik többször rajtaütöttek a karavánjaikon. Arra kér téged, hogy iktasd ki őket, vagyis minden ellenséget és ágyút.\n\nHa sikerrel jársz, a kapcsolatunk javulni fog és a következő jutalmat kapod:\n\n{3}</Quest_BanditCamp.letterText>
-  
-  <!-- UNUSED -->
-  <Quest_DownedRefugee.label>mozgásképtelen menekült</Quest_DownedRefugee.label>
-  <Quest_DownedRefugee.letterLabel>Mozgásképtelen menekült</Quest_DownedRefugee.letterLabel>
-  <Quest_DownedRefugee.letterText>{0} rádión kér segítséget. Megsebesült és nem tud mozogni. A segítséged nélkül {1} nap múlva meghal.\n\nVeszélyes lehet a környék, vigyázz!</Quest_DownedRefugee.letterText>
-  
-  <!-- UNUSED -->
-  <Quest_ItemStash.label>Rejtett készlet küldetés</Quest_ItemStash.label>
-  <Quest_ItemStash.letterLabel>Rejtett készlet küldetés</Quest_ItemStash.letterLabel>
-  <Quest_ItemStash.letterText>{0}, aki a(z) {2} frakcióban {1}, üzenetet küldött.\n\nMegtudta, hogy értékes tárgyak várnak a közelben arra, hogy valaki begyűjtse őket. A következő(k)ről lenne szó:\n\n{3}\n\nSajnos csak {4} nap maradt arra, hogy megszerezzük, mielőtt mások megelőznének.\n\nAz értékek sokszor vonzzák a veszélyt is, jobb ha óvatosak leszünk!\n\n{5}</Quest_ItemStash.letterText>
-  
-  <!-- UNUSED -->
-  <Quest_ItemStashAICore.label>Rejtett készlet küldetés (MI központ)</Quest_ItemStashAICore.label>
-  <Quest_ItemStashAICore.letterLabel>Rejtett készlet küldetés</Quest_ItemStashAICore.letterLabel>
-  <Quest_ItemStashAICore.letterText>{0}, aki a(z) {2} frakcióban {1}, üzenetet küldött.\n\nMegtudta, hogy értékes tárgyak várnak a közelben arra, hogy valaki begyűjtse őket. A következő(k)ről lenne szó:\n\n{3}\n\nSajnos csak {4} nap maradt arra, hogy megszerezzük, mielőtt mások megelőznének.\n\nAz értékek sokszor vonzzák a veszélyt is, jobb ha óvatosak leszünk!\n\n{5}</Quest_ItemStashAICore.letterText>
-  
-  <!-- UNUSED -->
-  <Quest_JourneyOffer.label>űrhajó küldetés</Quest_JourneyOffer.label>
-  
-  <!-- UNUSED -->
-  <Quest_PeaceTalks.label>béketárgyalás</Quest_PeaceTalks.label>
-  <Quest_PeaceTalks.letterLabel>Béketárgyalás</Quest_PeaceTalks.letterLabel>
-  <Quest_PeaceTalks.letterText>[PAWN_nameDef], aki {0} itt: {1}, üzenetet küldött. Tárgyalni akar veled egy közeli helyen.\n\nEz jó alkalom lehet a kapcsolat javítására, de ne feledd, egy rossz képességű küldött több kárt tehet, mint hasznot.\n\nAz ajánlat {2} napig él.</Quest_PeaceTalks.letterText>
-  
-  <!-- UNUSED -->
-  <Quest_PrisonerRescue.label>fogoly kiszabadítás</Quest_PrisonerRescue.label>
-  <Quest_PrisonerRescue.letterLabel>Fogoly kiszabadítás</Quest_PrisonerRescue.letterLabel>
-  <Quest_PrisonerRescue.letterText>{0} foglya valahogy rádióhoz jutott és most téged hív!\n\n[PAWN_nameDef] egy közeli táborban raboskodik, fegyveres őrökkel körülvéve. Ha megmented, csatlakozik a kolóniához. {1} éves {2}.</Quest_PrisonerRescue.letterText>
-  
-  <!-- UNUSED -->
-  <Quest_TradeRequest.label>kereskedés kérés</Quest_TradeRequest.label>
-  
 </LanguageData>
