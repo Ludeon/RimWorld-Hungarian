@@ -133,7 +133,7 @@
   <!-- EN: Biotuned to someone else. -->
   <BiosculpterBiotunedToAnother>TODO</BiosculpterBiotunedToAnother>
   <!-- EN: Must be {0} years old for age reversal. -->
-  <UnderMinBiosculpterAgeReversalAge>TODO</UnderMinBiosculpterAgeReversalAge>
+  <UnderMinBiosculpterAgeReversalAge>Az életkor megváltoztatásához {0} évesnek kell lennie.</UnderMinBiosculpterAgeReversalAge>
   <!-- EN: Carry {PAWN_labelShort} to biosculpter ({CYCLE} cycle) -->
   <CarryToBiosculpterPod>{PAWN_labelShort} átvitele a testátalakítóba ({CYCLE} ciklus)</CarryToBiosculpterPod>
   <!-- EN: Cannot carry to biosculpter pod -->
@@ -159,9 +159,9 @@
   <!-- EN: Automatically load the nutrition required to run a cycle -->
   <BiosculpterAutoLoadNutritionDescription>TODO</BiosculpterAutoLoadNutritionDescription>
   <!-- EN: Auto age reversal for {PAWN_labelShort} -->
-  <BiosculpterAutoAgeReversalLabel>TODO</BiosculpterAutoAgeReversalLabel>
+  <BiosculpterAutoAgeReversalLabel>Automatikus korfordítás a következőhöz: {PAWN_labelShort}</BiosculpterAutoAgeReversalLabel>
   <!-- EN: Automatically satisfy {PAWN_labelShort}'s desire to run a yearly age reversal treatment in this pod, in accordance with {PAWN_possessive} beliefs. {NEXTTREATMENT} -->
-  <BiosculpterAutoAgeReversalDescription>TODO</BiosculpterAutoAgeReversalDescription>
+  <BiosculpterAutoAgeReversalDescription>Automatikusan kielégíti {PAWN_labelShort} vágyát, hogy éves kormegfordító kezelést hajtson végre ebben a gépben, a {PAWN_possessive} hiedelmekkel összhangban. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
   <!-- EN: If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treament in {TIME} if the pod is ready. -->
   <BiosculpterAutoAgeReversalDescriptionFuture>TODO</BiosculpterAutoAgeReversalDescriptionFuture>
   <!-- EN: {PAWN_labelShort} already wants {PAWN_possessive} next treatment and will automatically begin one if this is enabled. -->
