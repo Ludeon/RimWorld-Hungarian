@@ -129,17 +129,17 @@
   <RemoveCurrentRole>TODO</RemoveCurrentRole>
 
   <!-- EN: Enter biosculpter pod for {0} cycle ({1}) -->
-  <EnterBiosculpterPod>TODO</EnterBiosculpterPod>
+  <EnterBiosculpterPod>Belépés a testátalakítóba {0} ciklushoz ({1})</EnterBiosculpterPod>
   <!-- EN: Biotuned to someone else. -->
   <BiosculpterBiotunedToAnother>TODO</BiosculpterBiotunedToAnother>
   <!-- EN: Must be {0} years old for age reversal. -->
   <UnderMinBiosculpterAgeReversalAge>TODO</UnderMinBiosculpterAgeReversalAge>
   <!-- EN: Carry {PAWN_labelShort} to biosculpter ({CYCLE} cycle) -->
-  <CarryToBiosculpterPod>TODO</CarryToBiosculpterPod>
+  <CarryToBiosculpterPod>{PAWN_labelShort} átvitele a testátalakítóba ({CYCLE} ciklus)</CarryToBiosculpterPod>
   <!-- EN: Cannot carry to biosculpter pod -->
-  <CannotCarryToBiosculpterPod>TODO</CannotCarryToBiosculpterPod>
+  <CannotCarryToBiosculpterPod>Nem vihető a testátalakítóba</CannotCarryToBiosculpterPod>
   <!-- EN: No available biosculpter pod. -->
-  <NoBiosculpterPod>TODO</NoBiosculpterPod>
+  <NoBiosculpterPod>Nincs elérhető testátalakító gép.</NoBiosculpterPod>
   <!-- EN: Nutrition not loaded -->
   <BiosculpterNutritionNotLoaded>TODO</BiosculpterNutritionNotLoaded>
   <!-- EN: Occupied -->
@@ -167,5 +167,5 @@
   <!-- EN: {PAWN_labelShort} already wants {PAWN_possessive} next treatment and will automatically begin one if this is enabled. -->
   <BiosculpterAutoAgeReversalDescriptionNow>TODO</BiosculpterAutoAgeReversalDescriptionNow>
   <!-- EN: Collecting ingredients for biosculpter cycle -->
-  <BiosculpterJobReportCollectIngredients>TODO</BiosculpterJobReportCollectIngredients>
+  <BiosculpterJobReportCollectIngredients>Hozzávalók gyűjtése a bioszobrász ciklushoz</BiosculpterJobReportCollectIngredients>
 </LanguageData>
