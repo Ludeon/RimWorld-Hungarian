@@ -2,112 +2,112 @@
 <LanguageData>
   
   <!-- EN: grand altar -->
-  <Altar_Grand.label>TODO</Altar_Grand.label>
+  <Altar_Grand.label>grandiózus oltár</Altar_Grand.label>
   <!-- EN: A grand platform that plays a role in ideoligious rituals. -->
-  <Altar_Grand.description>TODO</Altar_Grand.description>
+  <Altar_Grand.description>Egy hatalmas emelvény, amely szerepet játszik az ideológiai rituálékban.</Altar_Grand.description>
   
   <!-- EN: large altar -->
-  <Altar_Large.label>TODO</Altar_Large.label>
+  <Altar_Large.label>nagy oltár</Altar_Large.label>
   <!-- EN: A large platform that plays a role in ideoligious rituals. -->
-  <Altar_Large.description>TODO</Altar_Large.description>
+  <Altar_Large.description>Egy nagy emelvény, amely szerepet játszik az ideológiai rituálékban.</Altar_Large.description>
   
   <!-- EN: medium altar -->
-  <Altar_Medium.label>TODO</Altar_Medium.label>
+  <Altar_Medium.label>közepes oltár</Altar_Medium.label>
   <!-- EN: A medium platform that plays a role in ideoligious rituals. -->
-  <Altar_Medium.description>TODO</Altar_Medium.description>
+  <Altar_Medium.description>Közepes emelvény, amely szerepet játszik az ideológiai rituálékban.</Altar_Medium.description>
   
   <!-- EN: small altar -->
-  <Altar_Small.label>TODO</Altar_Small.label>
+  <Altar_Small.label>kis oltár</Altar_Small.label>
   <!-- EN: A small platform that plays a role in ideoligious rituals. -->
-  <Altar_Small.description>TODO</Altar_Small.description>
+  <Altar_Small.description>Egy kis emelvény, amely szerepet játszik az ideológiai rituálékban.</Altar_Small.description>
   
   <!-- EN: biosculpter pod -->
   <BiosculpterPod.label>testátalakító gép</BiosculpterPod.label>
   <!-- EN: An immersion pod full of bioactive gel. It can perform a variety of biological alterations including age reversal and pleasure-giving.\n\nThe pod biotunes to its user at the end of a cycle. While biotuned, it cannot be used by anyone else, but cycles will complete 25% more quickly. Biotuning resets if the pod is unused for 80 days.\n\nThe pod consumess 200W of power while working, but only 50W on standby. -->
   <BiosculpterPod.description>Bioaktív géllel teli merülőtartály. Különféle biológiai változásokat tud végrehajtani, beleértve az életkor visszafordítását és az örömszerzést.\n\nA gép a ciklus végén biohangolódik a felhasználójához. Biohangolás után senki más nem tudja használni, de a ciklusok 25%-kal gyorsabban lezajlanak. A biohangolódás alaphelyzetbe áll, ha a gépet 80 napig nem használod.\n\nA pod 200 W-ot fogyaszt munka közben, de csak 50 W-ot készenléti állapotban.</BiosculpterPod.description>
   <!-- EN: medic -->
-  <BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>TODO</BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>medikus</BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>
   <!-- EN: Heal all fresh wounds, blood loss, and one random infectious disease. -->
-  <BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.description>TODO</BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.description>Meggyógyít minden friss sebet, vérveszteséget és egy véletlenszerű fertőző betegséget.</BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.description>
   <!-- EN: bioregeneration -->
-  <BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>TODO</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>bioregeneráció</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>
   <!-- EN: Heal all fresh wounds, heal one random permanent injury, and restore small missing body parts like fingers and toes. -->
-  <BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.description>TODO</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.description>Meggyógyít minden friss sebet, egy véletlenszerű maradandó sérülést, és helyreállítja a kis hiányzó testrészeket, például az ujjakat és lábujjakat.</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.description>
   <!-- EN: age reversal -->
   <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>életkor visszafordítás</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>
   <!-- EN: Reverse one year of aging. -->
-  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>TODO</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>Egy éves öregedés visszafordítása.</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>
   <!-- EN: pleasure -->
-  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>TODO</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>öröm</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>
   <!-- EN: Temporarily reshape the nervous system to deliver elevated levels of happiness for a time. -->
-  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>TODO</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>Ideiglenesen átalakítja az idegrendszert, hogy magasabb szintű boldogságot biztosítson.</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>
   
   <!-- EN: burnbong -->
-  <Burnbong.label>TODO</Burnbong.label>
+  <Burnbong.label>füstölő</Burnbong.label>
   <!-- EN: A wood structure packed with smokeleaf. It can be ignited during a ritual and produce a huge amount of smokeleaf smoke for a few hours, after which it is destroyed. -->
-  <Burnbong.description>TODO</Burnbong.description>
+  <Burnbong.description>Füstlevéllel teli fa szerkezet. Egy rituálé során meggyújtható, és néhány órán keresztül hatalmas mennyiségű füstlevélfüst keletkezik, majd megsemmisül.</Burnbong.description>
   
   <!-- EN: cannibal platter -->
-  <CannibalPlatter.label>TODO</CannibalPlatter.label>
+  <CannibalPlatter.label>kannibál tál</CannibalPlatter.label>
   <!-- EN: An area of floor covered with pre-chopped and arranged human meat ready for a cannibal feast. -->
-  <CannibalPlatter.description>TODO</CannibalPlatter.description>
+  <CannibalPlatter.description>Előre vágott és elrendezett emberi hússal borított padlóterület, amely készen áll egy kannibál lakomára.</CannibalPlatter.description>
   
   <!-- EN: christmas tree -->
-  <ChristmasTree.label>TODO</ChristmasTree.label>
+  <ChristmasTree.label>karácsonyfa</ChristmasTree.label>
   <!-- EN: A celebratory tree decorated with ornaments and lights traditionally made as part of Christmas celebrations. -->
-  <ChristmasTree.description>TODO</ChristmasTree.description>
+  <ChristmasTree.description>Díszekkel és fényekkel díszített ünnepi fa, amely hagyományosan a karácsonyi ünnepségek részeként készült.</ChristmasTree.description>
   
   <!-- EN: standing darklamp -->
-  <Darklamp.label>TODO</Darklamp.label>
+  <Darklamp.label>álló sötétlámpa</Darklamp.label>
   <!-- EN: A low-powered electrical standing lamp that emits a dim light over a large area. People who prefer to work in darklight are happy with this light source. -->
-  <Darklamp.description>TODO</Darklamp.description>
+  <Darklamp.description>Kis teljesítményű elektromos állólámpa, amely nagy területen halvány fényt bocsát ki. Azok, akik szívesebben dolgoznak sötétben, elégedettek ezzel a fényforrással.</Darklamp.description>
   
   <!-- EN: darktorch -->
-  <Darktorch.label>TODO</Darktorch.label>
+  <Darktorch.label>sötétfáklya</Darktorch.label>
   <!-- EN: A specially-treated wooden torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <Darktorch.description>TODO</Darktorch.description>
+  <Darktorch.description>Speciálisan kezelt fából készült fáklya, amely nagy területen halvány fényt bocsát ki. A sötét fényt kedvelő emberek ezzel a fényforrással működnek a legjobban. Automatikusan fával tankolható. Kis mennyiségű hőt termel.</Darktorch.description>
   
   <!-- EN: fungus darktorch -->
-  <DarktorchFungus.label>TODO</DarktorchFungus.label>
+  <DarktorchFungus.label>gomba sötétfáklya</DarktorchFungus.label>
   <!-- EN: A specially-treated fungus torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with raw fungus. Produces a small amount of heat. -->
-  <DarktorchFungus.description>TODO</DarktorchFungus.description>
+  <DarktorchFungus.description>Speciálisan kezelt gombás fáklya, amely nagy területen halvány fényt bocsát ki. A sötét fényt kedvelő emberek ezzel a fényforrással működnek a legjobban. Nyers gombával automatikusan tankolható. Kis mennyiségű hőt termel.</DarktorchFungus.description>
   
   <!-- EN: effigy -->
-  <Effigy.label>TODO</Effigy.label>
+  <Effigy.label>képmás</Effigy.label>
   <!-- EN: A rough wooden frame in the shape of a human, ready to be burned as part of a ritual. -->
-  <Effigy.description>TODO</Effigy.description>
+  <Effigy.description>Ember alakú durva fakeret, amely készen áll arra, hogy egy rituálé részeként elégessék.</Effigy.description>
   
   <!-- EN: ideogram -->
-  <Ideogram.label>TODO</Ideogram.label>
+  <Ideogram.label>jelkép</Ideogram.label>
   <!-- EN: A large image drawn on the ground and reinforced with metal edges. It is used as a focus for rituals. -->
-  <Ideogram.description>TODO</Ideogram.description>
+  <Ideogram.description>Földre rajzolt, fém élekkel megerősített nagy kép. A rituálék fókuszpontjaként használják.</Ideogram.description>
   
   <!-- EN: incense shrine -->
-  <IncenseShrine.label>TODO</IncenseShrine.label>
+  <IncenseShrine.label>tömjén szentély</IncenseShrine.label>
   <!-- EN: A collection of packed incense containers. It can be ignited and produce a powerful incense effect as a focus for rituals. It is destroyed after it burns down. -->
-  <IncenseShrine.description>TODO</IncenseShrine.description>
+  <IncenseShrine.description>Csomagolt füstölőtartályok gyűjteménye. Meggyújtható, és erőteljes füstölő hatást kelthet a rituálék középpontjában. Leégése után megsemmisül.</IncenseShrine.description>
   
   <!-- EN: neural supercharger -->
-  <NeuralSupercharger.label>TODO</NeuralSupercharger.label>
+  <NeuralSupercharger.label>idegi feltöltő</NeuralSupercharger.label>
   <!-- EN: A neuron-sensitizing device that can deliver one neural supercharge each day. A person with a neural supercharge will think and learn faster, but will also consume more food. The effect wears off in one day. Neural superchargers consume a lot of electricity. -->
-  <NeuralSupercharger.description>TODO</NeuralSupercharger.description>
+  <NeuralSupercharger.description>Egy idegsejt-érzékenyítő eszköz, amely naponta egy idegi szupertöltést képes leadni. Az idegi szupertöltéssel rendelkező személy gyorsabban gondolkodik és tanul, de több ételt is fogyaszt. A hatás egy nap alatt elmúlik. A neurális feltöltők sok áramot fogyasztanak.</NeuralSupercharger.description>
   <!-- EN: Get neural supercharge -->
-  <NeuralSupercharger.comps.CompNeuralSupercharger.jobString>TODO</NeuralSupercharger.comps.CompNeuralSupercharger.jobString>
+  <NeuralSupercharger.comps.CompNeuralSupercharger.jobString>Szerezz idegi szupertöltőt</NeuralSupercharger.comps.CompNeuralSupercharger.jobString>
   
   <!-- EN: pyre -->
-  <Pyre.label>TODO</Pyre.label>
+  <Pyre.label>máglya</Pyre.label>
   <!-- EN: A wooden tower for ritual burning. -->
-  <Pyre.description>TODO</Pyre.description>
+  <Pyre.description>Fatorony rituális égetéshez.</Pyre.description>
   
   <!-- EN: ritual spot -->
-  <RitualSpot.label>TODO</RitualSpot.label>
+  <RitualSpot.label>rituális hely</RitualSpot.label>
   <!-- EN: A spot for carrying out certain kinds of rituals. -->
-  <RitualSpot.description>TODO</RitualSpot.description>
+  <RitualSpot.description>Bizonyos típusú rituálék elvégzésének helye.</RitualSpot.description>
   
   <!-- EN: sacrificial flag -->
-  <SacrificialFlag.label>TODO</SacrificialFlag.label>
+  <SacrificialFlag.label>áldozati zászló</SacrificialFlag.label>
   <!-- EN: A flag representing enemies, ready to be burned as part of a ritual. -->
-  <SacrificialFlag.description>TODO</SacrificialFlag.description>
+  <SacrificialFlag.description>Az ellenséget jelképező zászló, amely készen áll arra, hogy egy rituálé részeként elégessék.</SacrificialFlag.description>
   
   <!-- EN: sleep accelerator -->
   <SleepAccelerator.label>alvásgyorsító</SleepAccelerator.label>
