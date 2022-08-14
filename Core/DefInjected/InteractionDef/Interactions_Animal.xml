@@ -108,7 +108,7 @@
   </Nuzzle.logRulesInitiator.rulesStrings>
   
   <!-- EN: release to the wild -->
-  <ReleaseToWild.label>TODO</ReleaseToWild.label>
+  <ReleaseToWild.label>vadonba visszaengedés</ReleaseToWild.label>
   <!-- EN:
     <li>r_logentry->[farewell] [released]</li>
     <li>farewell->[INITIATOR_nameDef] gently pet [RECIPIENT_nameDef] one last time</li>
@@ -122,7 +122,19 @@
     <li>released->then turned away and let [RECIPIENT_objective] leave the colony.</li>
     <li>released->before letting [RECIPIENT_objective] go to live in freedom.</li>
   -->
-  <ReleaseToWild.logRulesInitiator.rulesStrings>TODO</ReleaseToWild.logRulesInitiator.rulesStrings>
+  <ReleaseToWild.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef] megsimogatta [RECIPIENT_nameDef] fejét még egyszer utoljára</li>
+    <li>farewell->[INITIATOR_nameDef] mondott néhány meleg szót neki: [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] eltávolította a nyakörvet [RECIPIENT_nameDef] nyakából</li>
+    <li>farewell->[INITIATOR_nameDef] felidézte, milyen szép időket töltött [RECIPIENT_nameDef] társaságában</li>
+    <li>released->és visszaengedte őt a vadonba.</li>
+    <li>released->és szabadon engedte őt.</li>
+    <li>released->és elküldte őt.</li>
+    <li>released->és hagyta elmenni őt.</li>
+    <li>released->majd elfordult, és hagyta, hogy elhagyja a kolóniát.</li>
+    <li>released->mielőtt megengedte volna neki, hogy újra szabadon éljen.</li>
+  </ReleaseToWild.logRulesInitiator.rulesStrings>
   
   <!-- EN: tame attempt -->
   <TameAttempt.label>szelídítés</TameAttempt.label>

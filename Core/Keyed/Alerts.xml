@@ -24,9 +24,9 @@
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>Gyarmatosok mentésre várnak</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDesc>A következő gyarmatosok cselekvőképtelenek:\n\n{0}\nKüldj értük valakit, aki kimenti és betegágyba teszi őket.\n\n(A mentéshez válassz ki egy másik gyarmatost és jobbkatt a sérültön majd "Mentés".</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>A következő gyarmatosok cselekvőképtelenek:\n\n{0}\nKüldj értük valakit, aki kimenti és betegágyba teszi őket.\n\n(A mentéshez válassz ki egy másik gyarmatost és jobbkatt a sérültön majd "Mentés".)</ColonistsNeedRescueDesc>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDescController>TODO</ColonistsNeedRescueDescController>
+  <ColonistsNeedRescueDescController>A következő gyarmatosok cselekvőképtelenek:\n\n{0}\nKüldj értük valakit, aki kimenti és betegágyba teszi őket.\n\n(A mentéshez válassz ki egy másik gyarmatost, aztán bal ravasz megnyomása a sérültön majd "Mentés".)</ColonistsNeedRescueDescController>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>Nincs védelem</NeedDefenses>
@@ -163,7 +163,7 @@
   <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
   <ColonistNeedsTreatmentDesc>Orvosi ellátásra van szüksége a következő gyarmatosnak. Ha nem kezelik őket, a sebesülések talán sosem gyógyulnak be.\n\n{0}\nKüldd őket betegágyba!\n\n(Először jelölj ki egy ágyat betegágynak, majd a sérültet kiválasztva jobbkatt az ágyon és páciens hozzárendelése.)</ColonistNeedsTreatmentDesc>
   <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and press the left trigger button on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDescController>TODO</ColonistNeedsTreatmentDescController>
+  <ColonistNeedsTreatmentDescController>Orvosi ellátásra van szüksége a következő gyarmatosnak. Ha nem kezelik őket, a sebesülések talán sosem gyógyulnak be.\n\n{0}\nKüldd őket betegágyba!\n\n(Először jelölj ki egy ágyat betegágynak, majd a sérült kiválasztása után bal oldali ravaszt megnyomva az ágyon hozzárendelheted a pácienst.)</ColonistNeedsTreatmentDescController>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>Kihűlés</AlertHypothermia>

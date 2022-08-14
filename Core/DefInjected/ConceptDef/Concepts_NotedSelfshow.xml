@@ -26,14 +26,14 @@
   <!-- EN: Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys. -->
   <CameraDolly.helpText>Mozgasd a kamerát a középső egér gomb lenyomása közben az egér csúsztatásával, vagy a WASD billentyűkkel.</CameraDolly.helpText>
   <!-- EN: Move the camera by using the D-pad. -->
-  <CameraDolly.helpTextController>TODO</CameraDolly.helpTextController>
+  <CameraDolly.helpTextController>Mozgassa a kamerát a D-pad segítségével.</CameraDolly.helpTextController>
   
   <!-- EN: Camera zoom -->
   <CameraZoom.label>Zoom</CameraZoom.label>
   <!-- EN: Zoom in and out with the MOUSEWHEEL or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys. -->
   <CameraZoom.helpText>Közelíteni és távolítani egér görgővel tudsz, vagy a T és G billentyűkkel.</CameraZoom.helpText>
   <!-- EN: Zoom in and out with {Key:MapZoom_In} and {Key:MapZoom_Out}. -->
-  <CameraZoom.helpTextController>TODO</CameraZoom.helpTextController>
+  <CameraZoom.helpTextController>Nagyítás és kicsinyítés a {Key:MapZoom_In} és {Key:MapZoom_Out} segítségével.</CameraZoom.helpTextController>
   
   <!-- EN: Clicking messages -->
   <ClickingMessages.label>Értesítésre klikk</ClickingMessages.label>
@@ -55,7 +55,7 @@
   <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip. -->
   <EquippingWeapons.helpText>Ahhoz, hogy gyarmatosod felfegyverezze magát, válaszd ki őt, és jobb-klikkelj a fegyveren.\n\nA kezdő hely közelében találsz fegyvert.</EquippingWeapons.helpText>
   <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and press the left trigger on the weapon you want them to equip. -->
-  <EquippingWeapons.helpTextController>TODO</EquippingWeapons.helpTextController>
+  <EquippingWeapons.helpTextController>Ahhoz, hogy gyarmatosod felfegyverezze magát, válaszd ki őt, és nyomd meg a bal ravaszt a fegyveren.\n\nA kezdő hely közelében találsz fegyvert.</EquippingWeapons.helpTextController>
   
   <!-- EN: Fire preparation -->
   <FirePreparation.label>Felkészülni a tüzekre</FirePreparation.label>
@@ -172,7 +172,7 @@
   <!-- EN: You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
   <TimeControls.helpText>Fel tudod gyorsítani, lelassítani, vagy megállítani az időt a képernyő jobb-alsó sarkában található idővezérlővel</TimeControls.helpText>
   <!-- EN: You can speed up time.\n\nTry controlling time with {Key:TimeSpeed_Faster} and {Key:TimeSpeed_Slower}, or with the time controls in the bottom right. -->
-  <TimeControls.helpTextController>TODO</TimeControls.helpTextController>
+  <TimeControls.helpTextController>Fel tudod gyorsítani az időt.\n\nPróbáld meg szabályozni az időt a {Key:TimeSpeed_Faster} és {Key:TimeSpeed_Slower} gombokkal, vagy a képernyő jobb alsó sarokban található idővezérlőkkel.</TimeControls.helpTextController>
   
   <!-- EN: Work settings -->
   <WorkTab.label>Prioritások</WorkTab.label>

@@ -92,7 +92,7 @@
   <!-- EN: This creature is gestating offspring. It will give birth if the pregnancy comes to term. If starved or injured, there may be a miscarriage. -->
   <Pregnant.description>Ez a lény utódokat hord ki. A terhesség végén megszüli majd őket. Éhezés vagy sérülés esetén elvetélhet.\n</Pregnant.description>
   <!-- EN: {0} is pregnant! -->
-  <Pregnant.comps.HediffComp_MessageAfterTicks.message>TODO</Pregnant.comps.HediffComp_MessageAfterTicks.message>
+  <Pregnant.comps.HediffComp_MessageAfterTicks.message>{0} terhes!</Pregnant.comps.HediffComp_MessageAfterTicks.message>
   <!-- EN: pregnancy -->
   <Pregnant.labelNoun>terhesség</Pregnant.labelNoun>
   <!-- EN: early-stage -->
@@ -103,11 +103,11 @@
   <Pregnant.stages.latestage.label>harmadik trimeszter</Pregnant.stages.latestage.label>
   
   <!-- EN: psychic coma -->
-  <PsychicComa.label>TODO</PsychicComa.label>
+  <PsychicComa.label>pszichés kóma</PsychicComa.label>
   <!-- EN: A form of benign coma during which the brain recovers from a psychic overload. -->
-  <PsychicComa.description>TODO</PsychicComa.description>
+  <PsychicComa.description>A jóindulatú kóma egy formája, amely során az agy felépül a pszichés túlterhelésből.</PsychicComa.description>
   <!-- EN: a psychic coma -->
-  <PsychicComa.labelNoun>TODO</PsychicComa.labelNoun>
+  <PsychicComa.labelNoun>pszichés kóma</PsychicComa.labelNoun>
   
   <!-- EN: psychic hangover -->
   <PsychicHangover.label>pszichotikus másnaposság</PsychicHangover.label>

@@ -22,9 +22,9 @@
   <Food.description>Az étel mutatja, hogy mennyi tápanyagot vett magához az alany az utóbbi időben. Ha nullára csökken, akkor az éhezés miatt sebesülés lép fel.</Food.description>
   
   <!-- EN: indoors -->
-  <Indoors.label>TODO</Indoors.label>
+  <Indoors.label>benn</Indoors.label>
   <!-- EN: Indoors expresses the need to be within walls and under a roof. It is harmed by spending time in outdoor areas or not under roofs. To raise this need past 50%, a person must be under an overhead mountain, not just a normal roof. -->
-  <Indoors.description>TODO</Indoors.description>
+  <Indoors.description>Azt fejezi ki, hogy a falakon belül és a tető alatt kell lenni. Káros, ha a szabadban tölt időt vagy nem tető alatt. Ahhoz, hogy ezt az igényt 50% fölé tud emelni, a személynek egy hegy belsejében kell lennie, nem csak egy normál tető alatt.</Indoors.description>
   
   <!-- EN: recreation -->
   <Joy.label>élvezet</Joy.label>
@@ -37,7 +37,7 @@
   <Mood.description>A hangulat határozza meg, hogy valaki mennyire boldog vagy zaklatott. Ha a hangulat nagyon leromlik, az alany idegösszeomlást kaphat.</Mood.description>
   
   <!-- EN: outdoors -->
-  <Outdoors.label>tér</Outdoors.label>
+  <Outdoors.label>szabadban</Outdoors.label>
   <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
   <Outdoors.description>Ez mutatja a szabadság érzését és a szabad mozgás lehetőségét. Leromlik, ha hosszabb ideig van az alany zsúfolt szobában. főleg a föld alatt. Javul, ha valaki a szabad ég alatt tölt időt. Nem a szobák méretétől függ, hanem hogy időről-időre elhagyják azt. A szabadban töltött idő rövidségének kezelése kihívást jelent azok számára, akik a föld alatt élnek.</Outdoors.description>
   

@@ -135,13 +135,13 @@
   <Cut.labelNounPretty>{1} {0}</Cut.labelNounPretty>
   
   <!-- EN: cut -->
-  <ExecutionCut.label>TODO</ExecutionCut.label>
+  <ExecutionCut.label>vágás (kivégzés)</ExecutionCut.label>
   <!-- EN: A cut made during execution. -->
-  <ExecutionCut.description>TODO</ExecutionCut.description>
+  <ExecutionCut.description>Kivégzés közben ejtett vágás.</ExecutionCut.description>
   <!-- EN: a cut -->
-  <ExecutionCut.labelNoun>TODO</ExecutionCut.labelNoun>
+  <ExecutionCut.labelNoun>vágás</ExecutionCut.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <ExecutionCut.labelNounPretty>TODO</ExecutionCut.labelNounPretty>
+  <ExecutionCut.labelNounPretty>{1} {0}</ExecutionCut.labelNounPretty>
   
   <!-- EN: frostbite -->
   <Frostbite.label>fagyás</Frostbite.label>
@@ -194,7 +194,7 @@
   <!-- EN: sutured -->
   <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: scar -->
-  <Misc.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Misc.comps.HediffComp_GetsPermanent.permanentLabel>sebhely</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Destroyed -->
   <Misc.injuryProps.destroyedLabel>kárba ment</Misc.injuryProps.destroyedLabel>
   <!-- EN: an injury -->

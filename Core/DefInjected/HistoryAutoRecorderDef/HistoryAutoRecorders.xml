@@ -5,7 +5,7 @@
   <Adaptation.label>Adaptáció</Adaptation.label>
   <Adaptation.graphLabelY>Nap</Adaptation.graphLabelY>
   <!-- EN: {0} days -->
-  <Adaptation.valueFormat>TODO</Adaptation.valueFormat>
+  <Adaptation.valueFormat>{0} nap</Adaptation.valueFormat>
   
   <!-- EN: mood -->
   <ColonistMood.label>Hangulat</ColonistMood.label>
@@ -19,13 +19,13 @@
   <PopAdaptation.label>Pop. Adaptáció</PopAdaptation.label>
   <PopAdaptation.graphLabelY>Nap</PopAdaptation.graphLabelY>
   <!-- EN: {0} days -->
-  <PopAdaptation.valueFormat>TODO</PopAdaptation.valueFormat>
+  <PopAdaptation.valueFormat>{0} nap</PopAdaptation.valueFormat>
   
   <!-- EN: pop intent x10 -->
   <PopIntent.label>Pop. Intent</PopIntent.label>
   <PopIntent.graphLabelY>Nap</PopIntent.graphLabelY>
   <!-- EN: {0} days -->
-  <PopIntent.valueFormat>TODO</PopIntent.valueFormat>
+  <PopIntent.valueFormat>{0} nap</PopIntent.valueFormat>
   
   <!-- EN: prisoners -->
   <Prisoners.label>Fogoly</Prisoners.label>
@@ -35,7 +35,7 @@
   <ThreatPoints.label>Fun points / 10</ThreatPoints.label>
   <ThreatPoints.graphLabelY>Pont</ThreatPoints.graphLabelY>
   <!-- EN: {0} points -->
-  <ThreatPoints.valueFormat>TODO</ThreatPoints.valueFormat>
+  <ThreatPoints.valueFormat>{0} pont</ThreatPoints.valueFormat>
   
   <!-- EN: wealth (buildings) -->
   <Wealth_Buildings.label>Érték (épületek)</Wealth_Buildings.label>

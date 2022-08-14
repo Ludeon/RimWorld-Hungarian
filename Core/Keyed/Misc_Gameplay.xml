@@ -1022,7 +1022,7 @@
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
   <ShowColonistBarToggleButton>Gyarmatos állapotsáv\n\nIkonok és alapstátusz minden gyarmatosról a kép tetején.</ShowColonistBarToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by pressing the left trigger button and dragging them. -->
-  <ShowColonistBarToggleButtonController>TODO</ShowColonistBarToggleButtonController>
+  <ShowColonistBarToggleButtonController>A telepesek sávjának váltása.\n\nA képernyő tetején megjeleníti az összes telepes ikonját és alapállapotát.\n\nA telepes sávban átrendezheted a telepeseket a bal oldali ravasz megnyomásával és húzásával.</ShowColonistBarToggleButtonController>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
   <AutoHomeAreaToggleButton>Lakókörzet automatikus kiterjesztése új épületnél</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
@@ -1328,7 +1328,7 @@
   <!-- EN: Right mouse button: Add/remove waypoints. -->
   <RoutePlannerPressRMBToAddAndRemoveWaypoints>Jobb klikk: állomás hozzáadás/eltávolítás.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
   <!-- EN: Left trigger button: Add/remove waypoints. -->
-  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>TODO</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
+  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>Bal oldali ravasz: állomás hozzáadása/eltávolítása.</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
   <!-- EN: ESC: Exit planning mode. -->
   <RoutePlannerPressEscapeToExit>ESC: kilépés tervező módból.</RoutePlannerPressEscapeToExit>
   <!-- EN: {Key:Cancel}: Exit planning mode. -->

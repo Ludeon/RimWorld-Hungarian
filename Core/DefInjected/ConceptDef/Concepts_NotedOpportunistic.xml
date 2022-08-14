@@ -21,7 +21,7 @@
   <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
   <Capturing.helpText>Ahhoz, hogy valakit elfogj, válassz ki egy kolónia lakót, jobb-klikkelj a magatehetetlen ellenségen és válaszd az "Elfogás"-t.\n\nSzükséged lesz plusz egy ágyra ami fogdának van kijelölve.</Capturing.helpText>
   <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, press the left trigger button on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
-  <Capturing.helpTextController>TODO</Capturing.helpTextController>
+  <Capturing.helpTextController>Amikor egy ellenség lezuhan a földre, de nem halt meg, ELFOGADHATOD őt.\n\nAz elfogáshoz válassz ki egy telepest, nyomd meg a bal oldali ravaszt a harcképtelen ellenségen, majd válaszd az Elfogás lehetőséget.\n\nSzükséged lesz továbbá egy fogolyhasználatra kijelölt ágyra.</Capturing.helpTextController>
   
   <!-- EN: Door opening speeds -->
   <DoorOpenSpeed.label>Nyitási sebesség</DoorOpenSpeed.label>
@@ -49,25 +49,25 @@
   <DrugPolicies.helpText>Megadhatod, hogy az emberek bizonyos drogokat csak bizonyos időben szedhessenek be.\n\nPéldául szedethetsz velük rendszeresen fertőzés-megelőző gyógyszert, vagy itathatsz velük napi egy sört.\n\nA Beosztások fülön, a Drogszabályok gombbal készíthetsz új szabályt, amit aztán hozzárendelhetsz embereidhez. A gyarmatosok ettől eltérően is szedhetnek drogot, ha megkívánják. Nem feltétlen hallgatnak rád.</DrugPolicies.helpText>
   
   <!-- EN: Positioning fighters -->
-  <GroupGotoHereDragging.label>TODO</GroupGotoHereDragging.label>
+  <GroupGotoHereDragging.label>Harcosok elhelyezése</GroupGotoHereDragging.label>
   <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
-  <GroupGotoHereDragging.helpText>TODO</GroupGotoHereDragging.helpText>
+  <GroupGotoHereDragging.helpText>Kattints a jobb gombbal és húzd, hogy a besorozott harcosok egy vonalat alkossanak. Szóródj szét - az egy helyen lévő célpontokat könnyű eltalálni!</GroupGotoHereDragging.helpText>
   <!-- EN: Hold the left trigger button and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
-  <GroupGotoHereDragging.helpTextController>TODO</GroupGotoHereDragging.helpTextController>
+  <GroupGotoHereDragging.helpTextController>Tartsd lenyomva a bal oldali ravaszt, és húzd el, hogy az összevont harcosok sorba álljanak.\n\nSzóródj szét – az egy helyen lévő célpontokat könnyű eltalálni!</GroupGotoHereDragging.helpTextController>
   
   <!-- EN: Interacting with traders -->
   <InteractingWithTraders.label>Kereskedés</InteractingWithTraders.label>
   <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head. -->
   <InteractingWithTraders.helpText>A kérdőjellel megjelölt emberekkel kereskedhetsz.\n\nVálassz ki egy gyarmatost és jobb-klikkelj a kérdőjellel megjelölt látogatóra.</InteractingWithTraders.helpText>
   <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and press the left trigger button on the character with ? attached to his head. -->
-  <InteractingWithTraders.helpTextController>TODO</InteractingWithTraders.helpTextController>
+  <InteractingWithTraders.helpTextController>A kérdőjellel megjelölt emberekkel kereskedhetsz.\n\nVálassz ki egy gyarmatost és nyomd meg a bal ravaszt a kérdőjellel megjelölt látogatón.</InteractingWithTraders.helpTextController>
   
   <!-- EN: Using the comms console -->
   <OpeningComms.label>Komm. konzol</OpeningComms.label>
   <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
   <OpeningComms.helpText>Más frakciókkal való kapcsolatteremtéshez válassz ki egy gyarmatost és jobb-klikkelj a kommunikációs konzolon!</OpeningComms.helpText>
   <!-- EN: To communicate, select a colonist and press the left trigger button on the comms console. -->
-  <OpeningComms.helpTextController>TODO</OpeningComms.helpTextController>
+  <OpeningComms.helpTextController>Más frakciókkal való kapcsolatteremtéshez válassz ki egy gyarmatost és nyomd meg a bal ravaszt a kommunikációs konzolon!</OpeningComms.helpTextController>
   
   <!-- EN: Prisoner tab -->
   <PrisonerTab.label>Fogoly fül</PrisonerTab.label>
@@ -79,7 +79,7 @@
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
   <QueueOrders.helpText>Parancsok kiadásakor több utasítást is kiadhatsz a "shift" lenyomásával, ezeket sorban teljesíteni fogják. Ez a munkák kijelölésénél is működik, a nem besorozott gyarmatosoknál.</QueueOrders.helpText>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding {Key:QueueOrder}. This also works when giving jobs to undrafted pawns. -->
-  <QueueOrders.helpTextController>TODO</QueueOrders.helpTextController>
+  <QueueOrders.helpTextController>Amikor parancsokat adsz ki telepeseknek, több parancsot is sorba tudsz állítani a {Key:QueueOrder} lenyomva tartása mellett. Ez a munkák kijelölésénél is működik, a nem besorozott gyarmatosoknál.</QueueOrders.helpTextController>
   
   <!-- EN: Reforming caravans -->
   <ReformCaravan.label>Karaván újraalakítás</ReformCaravan.label>
@@ -91,7 +91,7 @@
   <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
   <Rescuing.helpText>Ahhoz, hogy megments egy sérült kolónia lakót, válasz ki egy egészséges lakót és jobb-klikkelj a sérültön.\n\nEhhez kell betegágy is.</Rescuing.helpText>
   <!-- EN: To rescue a wounded person, select a healthy colonist and then press the left trigger button on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
-  <Rescuing.helpTextController>TODO</Rescuing.helpTextController>
+  <Rescuing.helpTextController>Ahhoz, hogy megments egy sérült kolónia lakót, válasz ki egy egészséges lakót és nyomd meg a bal ravaszt a sérültön.\n\nEhhez kell betegágy is.</Rescuing.helpTextController>
   
   <!-- EN: Set what plant to grow -->
   <SetGrowingZonePlant.label>Kert beállítása</SetGrowingZonePlant.label>

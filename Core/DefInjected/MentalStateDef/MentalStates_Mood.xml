@@ -129,7 +129,7 @@
   <!-- EN: Mental state: Tantrum -->
   <Tantrum.baseInspectLine>Idegállapot: Dühroham</Tantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] will smash up random furniture, items and structures. -->
-  <Tantrum.beginLetter>{0} dührohamot kapott.</Tantrum.beginLetter>
+  <Tantrum.beginLetter>{0} dührohamot kapott.\n\n[PAWN_pronoun] véletlenszerűen bútorokat, tárgyakat és szerkezeteket fog összetörni.</Tantrum.beginLetter>
   <Tantrum.beginLetterLabel>dühroham</Tantrum.beginLetterLabel>
   <!-- EN: {0} is no longer having a tantrum. -->
   <Tantrum.recoveryMessage>{0} dührohama elmúlt.</Tantrum.recoveryMessage>
