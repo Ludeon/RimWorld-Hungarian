@@ -3,46 +3,46 @@
 
   <!-- Convert ideo attempt -->
   <!-- EN: Conversion -->
-  <LetterLabelConvertIdeoAttempt_Success>TODO</LetterLabelConvertIdeoAttempt_Success>
+  <LetterLabelConvertIdeoAttempt_Success>Áttérítés</LetterLabelConvertIdeoAttempt_Success>
   <!-- EN: {INITIATOR_nameDef} has successfully turned {RECIPIENT_nameDef} away from {OLDIDEO_name} and towards {IDEO_name}. -->
-  <LetterConvertIdeoAttempt_Success>TODO</LetterConvertIdeoAttempt_Success>
+  <LetterConvertIdeoAttempt_Success>{INITIATOR_nameDef} sikeresen elfordította {RECIPIENT_nameDef}-t régi {OLDIDEO_name} hitétől a(z) új {IDEO_name} hite felé.</LetterConvertIdeoAttempt_Success>
 
   <!-- Slave rebellion -->
   <!-- EN: Grand slave rebellion -->
-  <LetterLabelGrandSlaveRebellion>TODO</LetterLabelGrandSlaveRebellion>
+  <LetterLabelGrandSlaveRebellion>Nagy rabszolgalázadás</LetterLabelGrandSlaveRebellion>
   <!-- EN: A grand slave rebellion has begun! All of your slaves are rising up to fight back against you. They will seek weapons and try to eliminate your colonists.\n\nThese slaves are involved:\n\n{0} -->
-  <LetterGrandSlaveRebellion>TODO</LetterGrandSlaveRebellion>
+  <LetterGrandSlaveRebellion>Nagy rabszolgalázadás kezdődött! Minden rabszolgád felkel, hogy harcoljon ellened. Fegyvereket keresnek, és megpróbálják eltüntetni a telepeseid.\n\nEzek a rabszolgák érintettek:\n\n{0}</LetterGrandSlaveRebellion>
   <!-- EN: Local slave rebellion -->
-  <LetterLabelLocalSlaveRebellion>TODO</LetterLabelLocalSlaveRebellion>
+  <LetterLabelLocalSlaveRebellion>Helyi rabszolgalázadás</LetterLabelLocalSlaveRebellion>
   <!-- EN: A local slave rebellion has begun! {0_nameDef} and some nearby slaves are rising up to fight back against you. They will seek weapons and try to eliminate your colonists.\n\nThese slaves are involved:\n\n{1} -->
-  <LetterLocalSlaveRebellion>TODO</LetterLocalSlaveRebellion> 
+  <LetterLocalSlaveRebellion>Megkezdődött a helyi rabszolgalázadás! {0_nameDef} és néhány közeli rabszolga felkel, hogy visszavágjon a sérelmeiért. Fegyvereket keresnek, és megpróbálják elpusztítani a telepeseid.\n\nEzek a rabszolgák érintettek:\n\n{1}</LetterLocalSlaveRebellion> 
   <!-- EN: Slave rebellion -->
-  <LetterLabelSingleSlaveRebellion>TODO</LetterLabelSingleSlaveRebellion>
+  <LetterLabelSingleSlaveRebellion>Rabszolgalázadás</LetterLabelSingleSlaveRebellion>
   <!-- EN: {0_nameDef} is rebelling! {0_pronoun} will seek weapons and try to eliminate your colonists. -->
-  <LetterSingleSlaveRebellion>TODO</LetterSingleSlaveRebellion>
+  <LetterSingleSlaveRebellion>{0_nameDef} lázad! Fegyvert fog keresni, és megpróbálja eltüntetni a telepeseid.</LetterSingleSlaveRebellion>
 
   <!-- Slave escape -->
   <!-- EN: Grand slave escape -->
-  <LetterLabelGrandSlaveEscape>TODO</LetterLabelGrandSlaveEscape>
+  <LetterLabelGrandSlaveEscape>Nagy rabszolgaszökés</LetterLabelGrandSlaveEscape>
   <!-- EN: A grand slave escape has begun! All of your slaves are making a break for it.\n\nThese slaves are involved:\n\n{0} -->
-  <LetterGrandSlaveEscape>TODO</LetterGrandSlaveEscape>
+  <LetterGrandSlaveEscape>Nagy rabszolgaszökés kezdődött! Az összes rabszolgád megpróbál kitörni.\n\nEzek a rabszolgák érintettek:\n\n{0}</LetterGrandSlaveEscape>
   <!-- EN: Local slave escape -->
-  <LetterLabelLocalSlaveEscape>TODO</LetterLabelLocalSlaveEscape>
+  <LetterLabelLocalSlaveEscape>Helyi rabszolgaszökés</LetterLabelLocalSlaveEscape>
   <!-- EN: A local slave escape has begun! {0_nameDef} and some nearby slaves are making a break for it.\n\nThese slaves are involved:\n\n{1} -->
-  <LetterLocalSlaveEscape>TODO</LetterLocalSlaveEscape>
+  <LetterLocalSlaveEscape>Megkezdődött a helyi rabszolgaszökés! {0_nameDef} és néhány közeli rabszolga megpróbál kitörni.\n\nEzek a rabszolgák érintettek:\n\n{1}</LetterLocalSlaveEscape>
   <!-- EN: Slave escape -->
-  <LetterLabelSingleSlaveEscape>TODO</LetterLabelSingleSlaveEscape>
+  <LetterLabelSingleSlaveEscape>Rabszolga szökés</LetterLabelSingleSlaveEscape>
   <!-- EN: {0_nameDef} is attempting to escape! -->
-  <LetterSingleSlaveEscape>TODO</LetterSingleSlaveEscape>
+  <LetterSingleSlaveEscape>{0_nameDef} megpróbál elmenekülni!</LetterSingleSlaveEscape>
 
   <!-- EN: Slaves are more likely to rebel when their suppression level is low. -->
-  <SlaveRebellionSuppressionExplanation>TODO</SlaveRebellionSuppressionExplanation>
+  <SlaveRebellionSuppressionExplanation>A rabszolgák nagyobb valószínűséggel lázadnak fel, ha alacsony az elnyomásuk.</SlaveRebellionSuppressionExplanation>
   
   <!-- Ideo role -->
   <!-- EN: {0} role activated -->
-  <LetterLabelRoleActive>TODO</LetterLabelRoleActive>
+  <LetterLabelRoleActive>{0} szerepkör aktiválva</LetterLabelRoleActive>
   <!-- EN: The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, use the person's Social tab, or select a ritual spot or altar and press the 'Begin role change' button. -->
-  <LetterLabelRoleActiveDesc>TODO</LetterLabelRoleActiveDesc>
+  <LetterLabelRoleActiveDesc>A kolóniádban a(z) {0} száma elérte a(z) {1} értéket. Mostantól hozzárendelheted {ROLE_labelDef} szerepet az egyik telepesedhez.\n\nA szerep hozzárendeléséhez használd az adott személy Szociális lapját vagy válassz egy szertartási helyet vagy oltárt és nyomd meg a „Szerepváltás megkezdése” gombot.</LetterLabelRoleActiveDesc>
 
   <!-- EN: {0} role deactivated -->
   <LetterLabelRoleInactive>TODO</LetterLabelRoleInactive>

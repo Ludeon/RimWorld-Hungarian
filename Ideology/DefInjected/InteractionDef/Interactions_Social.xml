@@ -20,21 +20,25 @@
   </Convert_Success.logRulesInitiator.rulesStrings>
   
   <!-- EN: convert ideoligion attempt -->
-  <ConvertIdeoAttempt.label>TODO</ConvertIdeoAttempt.label>
+  <ConvertIdeoAttempt.label>hittérítési kísérlet</ConvertIdeoAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] to [INITIATOR_possessive] own ideoligion.</li>
   -->
-  <ConvertIdeoAttempt.logRulesInitiator.rulesStrings>TODO</ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+  <ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] megpróbálta áttéríteni [RECIPIENT_nameDef]-t a saját hitére.</li>
+  </ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: failed counsel -->
-  <Counsel_Failure.label>TODO</Counsel_Failure.label>
+  <Counsel_Failure.label>sikertelen tanács</Counsel_Failure.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to counsel [RECIPIENT_nameDef], but botched the attempt and made things worse.</li>
   -->
-  <Counsel_Failure.logRulesInitiator.rulesStrings>TODO</Counsel_Failure.logRulesInitiator.rulesStrings>
+  <Counsel_Failure.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] megpróbált tanácsot adni [RECIPIENT_nameDef]-nek, de elhibázta a próbálkozást, és csak rontott a helyzeten.</li>
+  </Counsel_Failure.logRulesInitiator.rulesStrings>
   
   <!-- EN: successful counsel -->
-  <Counsel_Success.label>TODO</Counsel_Success.label>
+  <Counsel_Success.label>sikeres tanács</Counsel_Success.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] counseled [RECIPIENT_nameDef] on [problems].</li>
     <li>r_logentry->[INITIATOR_nameDef] helped [RECIPIENT_nameDef] think through [problems].</li>

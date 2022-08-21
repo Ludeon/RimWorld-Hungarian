@@ -3,97 +3,97 @@
 
   <!-- Character -->
   <!-- EN: Overrides some precepts related to -->
-  <OverridesSomePrecepts>TODO</OverridesSomePrecepts>
+  <OverridesSomePrecepts>Felülír néhány vonatkozó előírást</OverridesSomePrecepts>
   <!-- EN: Agrees with memes -->
-  <AgreeableMemes>TODO</AgreeableMemes>
+  <AgreeableMemes>Egyetért a mémekkel</AgreeableMemes>
   <!-- EN: Conflicts with memes -->
-  <DisagreeableMemes>TODO</DisagreeableMemes>
+  <DisagreeableMemes>Konfliktusok a mémekkel</DisagreeableMemes>
 
   <!-- ITab titles -->
   <!-- EN: Slave -->
-  <TabSlave>TODO</TabSlave>
+  <TabSlave>Rabszolga</TabSlave>
   <!-- EN: The faction goodwill you will gain if you release a slave. This is affected by the slaves's physical and mental health. -->
-  <SlaveReleaseRelationGainsDesc>TODO</SlaveReleaseRelationGainsDesc>
+  <SlaveReleaseRelationGainsDesc>A frakció jóindulatát akkor nyered meg, ha elengedsz egy rabszolgát. Ezt befolyásolja a rabszolgák testi és lelki egészsége.</SlaveReleaseRelationGainsDesc>
   <!-- EN: Relations gain on release -->
-  <SlaveReleasePotentialRelationGains>TODO</SlaveReleasePotentialRelationGains>
+  <SlaveReleasePotentialRelationGains>A kapcsolat javul elengedéskor</SlaveReleasePotentialRelationGains>
   <!-- EN: Slave rebellion interval -->
-  <SlaveRebellionMTBDays>TODO</SlaveRebellionMTBDays>
+  <SlaveRebellionMTBDays>Rabszolgalázadás gyakorisága</SlaveRebellionMTBDays>
   <!-- EN: The average number of days between slave rebellion attempts. Only time awake is counted. This is affected by suppression, mood, health, proximity to weapons, the number of slaves on the map, and the presence of colonists on the map. -->
-  <SlaveRebellionMTBDaysDescription>TODO</SlaveRebellionMTBDaysDescription>
+  <SlaveRebellionMTBDaysDescription>A rabszolgalázadási kísérletek közötti átlagos napok száma. Csak az ébren töltött idő számít. Ezt befolyásolja az elnyomás, a hangulat, az egészség, a fegyverek közelsége, a rabszolgák száma a térképen és a telepesek jelenléte a térképen.</SlaveRebellionMTBDaysDescription>
 
   <!-- Slave tab -->
   <!-- EN: Suppression -->
-  <Suppression>TODO</Suppression>
+  <Suppression>Elnyomás</Suppression>
   <!-- EN: Suppression is the psychological effect of fear and control on a slave. If suppression is low, slaves are more likely to rebel. -->
-  <SuppressionDesc>TODO</SuppressionDesc>
+  <SuppressionDesc>Az elnyomás a félelem és a kontroll pszichológiai hatása egy rabszolgára. Ha az elnyomás alacsony, a rabszolgák nagyobb valószínűséggel lázadnak fel.</SuppressionDesc>
   <!-- EN: Suppression fall rate -->
-  <SuppressionFallRate>TODO</SuppressionFallRate>
+  <SuppressionFallRate>Elnyomás esési arány</SuppressionFallRate>
   <!-- EN: Suppression falls over time depending on its current level:\n\n- {1}+ suppression: {0} per day\n- {4}-{3} suppression: {2} per day\n- {6}- suppression: {5} per day\n\nApparel and terror can also affect the suppression fall rate. This slave's fall rate calculation is -->
-  <SuppressionFallRateDesc>TODO</SuppressionFallRateDesc>
+  <SuppressionFallRateDesc>Az elnyomás idővel csökken az aktuális szinttől függően:\n\n- {1}+ elnyomás: {0} naponta\n- {4}-{3} elnyomás: {2} naponta\n- {6}- elnyomás: {5} naponta\n\nA ruházat és a terror szintén befolyásolhatja az elnyomás esési arányát. Ennek a rabszolgának az esési számítása:</SuppressionFallRateDesc>
   <!-- EN: Cannot emancipate -->
-  <CannotEmancipate>TODO</CannotEmancipate>
+  <CannotEmancipate>Nem tud emancipálódni</CannotEmancipate>
   <!-- EN: Cannot imprison -->
-  <CannotImprison>TODO</CannotImprison>
+  <CannotImprison>Nem lehet bebörtönözni</CannotImprison>
   <!-- EN: Current suppression -->
-  <CurrentSuppression>TODO</CurrentSuppression>
+  <CurrentSuppression>Aktuális elnyomás</CurrentSuppression>
   <!-- EN: Terror -->
-  <Terror>TODO</Terror>
+  <Terror>Terror</Terror>
   <!-- EN: Terror is a way to keep slaves suppressed. It rises when the slave spends time near terrifying things like terror sculptures. A slave can only be affected by three terror sources at a time.\n\nWhile terror is high, suppression falls slower as follows -->
-  <TerrorDescription>TODO</TerrorDescription>
+  <TerrorDescription>A terror a rabszolgák elnyomásának egyik módja. Megemelkedik, amikor a rabszolga félelmetes dolgok, például terrorszobrok közelében tölti az idejét. Egy rabszolgára egyszerre csak három terrorforrás hathat.\n\nMíg a terror erős, az elnyomás lassabban csökken, a következőképpen</TerrorDescription>
   <!-- EN: Recent terrifying observations -->
-  <TerrorCurrentThoughts>TODO</TerrorCurrentThoughts>
+  <TerrorCurrentThoughts>A közelmúlt ijesztő megfigyelései</TerrorCurrentThoughts>
 
   <!-- EN: Base interval -->
-  <SuppressionBaseInterval>TODO</SuppressionBaseInterval>
+  <SuppressionBaseInterval>Alap intervallum</SuppressionBaseInterval>
   <!-- EN: Moving capacity -->
-  <SuppressionMovingCapacityFactor>TODO</SuppressionMovingCapacityFactor>
+  <SuppressionMovingCapacityFactor>Mozgóképesség</SuppressionMovingCapacityFactor>
   <!-- EN: Suppression -->
-  <SuppressionFactor>TODO</SuppressionFactor>
+  <SuppressionFactor>Elnyomás</SuppressionFactor>
   <!-- EN: Mood -->
-  <SuppressionMoodFactor>TODO</SuppressionMoodFactor>
+  <SuppressionMoodFactor>Hangulat</SuppressionMoodFactor>
   <!-- EN: Slave count -->
-  <SuppressionSlaveCountFactor>TODO</SuppressionSlaveCountFactor>
+  <SuppressionSlaveCountFactor>Rabszolgaszám</SuppressionSlaveCountFactor>
   <!-- EN: Escape route -->
-  <SuppressionEscapeFactor>TODO</SuppressionEscapeFactor>
+  <SuppressionEscapeFactor>Menekülési útvonal</SuppressionEscapeFactor>
   <!-- EN: Weapon proximity -->
-  <SuppressionWeaponProximityFactor>TODO</SuppressionWeaponProximityFactor>
+  <SuppressionWeaponProximityFactor>Fegyver közelség</SuppressionWeaponProximityFactor>
   <!-- EN: Final interval -->
-  <SuppressionFinalInterval>TODO</SuppressionFinalInterval>
+  <SuppressionFinalInterval>Végső intervallum</SuppressionFinalInterval>
   <!-- EN: Unattended -->
-  <SuppressionUnattendedByColonists>TODO</SuppressionUnattendedByColonists>
+  <SuppressionUnattendedByColonists>Felügyelet nélkül</SuppressionUnattendedByColonists>
   <!-- EN: At least one of the {0} slaves on this map is expected rebel on average every {1}. -->
-  <SuppressionRebellionAnySlave>TODO</SuppressionRebellionAnySlave>
+  <SuppressionRebellionAnySlave>A térképen szereplő {0} rabszolga közül legalább egy lázadni fog átlagosan minden {1}.</SuppressionRebellionAnySlave>
 
   <!-- EN: Will -->
-  <WillLevel>TODO</WillLevel>
+  <WillLevel>Akarat</WillLevel>
   <!-- EN: How much the prisoner is determined not to submit. When this reaches zero, they can be enslaved. -->
-  <WillLevelDesc>TODO</WillLevelDesc>
+  <WillLevelDesc>Annak a nagysága, hogy a fogoly mennyire képes ellenállni. Amikor ez eléri a nullát, a fogoly rabszolgává tehető.</WillLevelDesc>
   <!-- EN: {0} base will -->
-  <WillFromPawnKind>TODO</WillFromPawnKind>
+  <WillFromPawnKind>{0} alap akarat(?)</WillFromPawnKind>
   <!-- EN: Target ideoligion -->
-  <IdeoConversionTarget>TODO</IdeoConversionTarget>
+  <IdeoConversionTarget>Cél ideológia</IdeoConversionTarget>
   <!-- EN: The ideoligion your wardens will attempt to convert this prisoner to. -->
-  <IdeoConversionTargetDesc>TODO</IdeoConversionTargetDesc>
+  <IdeoConversionTargetDesc>Az az eszme, amelyre a felügyelői megpróbálják átalakítani ezt a foglyot.</IdeoConversionTargetDesc>
 
   <!-- Social -->
   <!-- EN: Change per day due to mood -->
-  <CertaintyChangePerDay>TODO</CertaintyChangePerDay>
+  <CertaintyChangePerDay>Változás naponta a hangulat miatt</CertaintyChangePerDay>
   <!-- EN: Change rate based on mood -->
-  <MoodChangeRate>TODO</MoodChangeRate>
+  <MoodChangeRate>Változás mértéke hangulat alapján</MoodChangeRate>
   <!-- EN: {PAWN_nameDef}'s certainty in {IDEO_name} -->
-  <CertaintyInIdeo>TODO</CertaintyInIdeo>
+  <CertaintyInIdeo>{PAWN_nameDef} meggyőződése a következőben: {IDEO_name}</CertaintyInIdeo>
   <!-- EN: A special status this person holds in their ideoligion. If you change or take away this role, they will become unhappy. -->
-  <RoleDesc>TODO</RoleDesc>
+  <RoleDesc>Különleges státuszt visel ez a személy az ideoligiájában. Ha megváltoztatod vagy elveszed ezt a szerepet, boldogtalan lesz.</RoleDesc>
   <!-- EN: Changing roles requires a role change ritual. Select any ritual spot or altar and press 'Begin role change'. -->
-  <RoleAssignmentTip>TODO</RoleAssignmentTip>
+  <RoleAssignmentTip>A szerepek megváltoztatásához szerepváltás rituálé szükséges. Válassz ki egy szertartási helyet vagy oltárt és nyomd meg a „Szerepváltás megkezdése” gombot.</RoleAssignmentTip>
   <!-- EN: Conversion attempts will be weaker because of trait/meme agreement -->
-  <ConversionWeakerDueToTraitAgreements>TODO</ConversionWeakerDueToTraitAgreements>
+  <ConversionWeakerDueToTraitAgreements>A térítési kísérletek gyengébbek lesznek a tulajdonság/mém egyezés miatt</ConversionWeakerDueToTraitAgreements>
   <!-- EN: Conversion attempts will be stronger because of trait/meme conflict -->
-  <ConversionStrongerDueToTraitAgreements>TODO</ConversionStrongerDueToTraitAgreements>
+  <ConversionStrongerDueToTraitAgreements>A térítési kísérletek erősebbek lesznek a tulajdonság/mém konfliktus miatt</ConversionStrongerDueToTraitAgreements>
 
   <!-- EN: Cut -->
-  <Cut>TODO</Cut>
+  <Cut>Vágás</Cut>
   <!-- EN: Cut both eyes -->
-  <CutBothEyes>TODO</CutBothEyes>
+  <CutBothEyes>Mindkét szem kivágása</CutBothEyes>
 
 </LanguageData>

@@ -18,27 +18,27 @@
   <!-- EN: {0_labelShort} refuses to do this because of {0_possessive} ideoligion. -->
   <MessagePawnUnwillingToDoDueToIdeo>TODO</MessagePawnUnwillingToDoDueToIdeo>
   <!-- EN: {INITIATOR_nameDef} tried to convert {RECIPIENT_nameDef} to {INITIATOR_possessive} ideoligion. {RECIPIENT_nameDef}'s certainty has fallen from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. {RECIPIENT_pronoun} resents the conversion attempt. -->
-  <MessageFailedConvertIdeoAttempt>TODO</MessageFailedConvertIdeoAttempt>
+  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} megpróbálta saját hitére áttéríteni {RECIPIENT_nameDef}-t. {RECIPIENT_nameDef} meggyőződése {CERTAINTYBEFORE}-ról {CERTAINTYAFTER} értékre esett. Nehezményezi a konverziós kísérletet.</MessageFailedConvertIdeoAttempt>
   <!-- EN: {PAWN1_nameDef} tried to convert {PAWN2_nameDef} to {PAWN1_possessive} ideoligion. This led to a social fight! -->
-  <MessageFailedConvertIdeoAttemptSocialFight>TODO</MessageFailedConvertIdeoAttemptSocialFight>
+  <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef} megpróbálta saját hitére téríteni {PAWN2_nameDef}-t. Ez társadalmi harchoz vezetett!</MessageFailedConvertIdeoAttemptSocialFight>
   <!-- EN: You must choose at least {0} memes. -->
-  <MessageNotEnoughMemes>TODO</MessageNotEnoughMemes>
+  <MessageNotEnoughMemes>Legalább {0} mémet kell kiválasztanod.</MessageNotEnoughMemes>
   <!-- EN: You can't choose more than {0} memes. -->
-  <MessageTooManyMemes>TODO</MessageTooManyMemes>
+  <MessageTooManyMemes>Legfeljebb {0} mém közül választhatsz.</MessageTooManyMemes>
   <!-- EN: You must choose a structure meme. -->
-  <MessageNotEnoughStructureMemes>TODO</MessageNotEnoughStructureMemes>
+  <MessageNotEnoughStructureMemes>Ki kell választanod egy szerkezeti mémet.</MessageNotEnoughStructureMemes>
   <!-- EN: {0_label} and {1_label} are incompatible with each other. -->
-  <MessageIncompatibleMemes>TODO</MessageIncompatibleMemes>
+  <MessageIncompatibleMemes>A {0_label} és a {1_label} nem kompatibilisek egymással.</MessageIncompatibleMemes>
   <!-- EN: You need {0} to start the {1}. -->
-  <MessageNoRequiredRolePawnToBeginRitual>TODO</MessageNoRequiredRolePawnToBeginRitual>
+  <MessageNoRequiredRolePawnToBeginRitual>A(z) {1} elindításához {0} szükséges.</MessageNoRequiredRolePawnToBeginRitual>
   <!-- EN: At least {0} spectator(s) are required to start the {1}. -->
-  <MessageNotEnoughSpectators>TODO</MessageNotEnoughSpectators>
+  <MessageNotEnoughSpectators>Legalább {0} néző szükséges a(z) {1} megkezdéséhez.</MessageNotEnoughSpectators>
   <!-- EN: You must choose a role. -->
-  <MessageRoleChangeChooseDifferentRole>TODO</MessageRoleChangeChooseDifferentRole>
+  <MessageRoleChangeChooseDifferentRole>Ki kell választani egy szerepet.</MessageRoleChangeChooseDifferentRole>
   <!-- EN: Before starting the {1}, you must assign someone to the role of {0}. -->
-  <MessageNeedAssignedRoleToBeginRitual>TODO</MessageNeedAssignedRoleToBeginRitual>
+  <MessageNeedAssignedRoleToBeginRitual>A(z) {1} elindítása előtt hozzá kell rendelned valakit a(z) {0} szerepkörhöz.</MessageNeedAssignedRoleToBeginRitual>
   <!-- EN: Need at least one {0} participating. -->
-  <MessageNeedAtLeastOneParticipantOfIdeo>TODO</MessageNeedAtLeastOneParticipantOfIdeo>
+  <MessageNeedAtLeastOneParticipantOfIdeo>Legalább egy {0} résztvevőnek szüksége van.(?)</MessageNeedAtLeastOneParticipantOfIdeo>
   
   <!-- EN: {0_labelShort} now holds the role of {1}. -->
   <MessageRoleAssigned>TODO</MessageRoleAssigned>
