@@ -34,5 +34,3 @@ pluhi
 Az 1.0 óta a magyarítások kissé el vannak maradva a frissítésektől, de elkezdtem dolgozni a hiányzó DLC-k és az alap játék újrafordításán, illetve beemeltem egy "gorrt" által készített fordítást is, amit csinosítgatok majd még. Remélem a Biotech DLC előtt sikerül eleget haladni a dologgal, addig mindenkinek a türelmét/segítségét kérem.
 
 Kanco09
-
-Kanco09
