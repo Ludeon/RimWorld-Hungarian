@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeavers -->
+  <Alphabeavers.label>alfahódok</Alphabeavers.label>
+  
+  <!-- EN: ambrosia sprout -->
+  <AmbrosiaSprout.label>ambrózia sarj</AmbrosiaSprout.label>
+  <!-- EN: Ambrosia sprout -->
+  <AmbrosiaSprout.letterLabel>Ambrózia sarj</AmbrosiaSprout.letterLabel>
+  <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
+  <AmbrosiaSprout.letterText>Misztikus ambrózialiget sarjad a közelben! Ha kifejlődtek a növények, learathatod a finom és kellemes, kicsit addiktív gyümölcsöket.</AmbrosiaSprout.letterText>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>hideghullám</ColdSnap.label>
+  <!-- EN: Cold snap -->
+  <ColdSnap.letterLabel>Hideghullám</ColdSnap.letterLabel>
+  <ColdSnap.letterText>Szokatlanul erős hideghullám kezdődött. Figyelj a kihűlésre és a sorvadó növényekre!</ColdSnap.letterText>
+  
+  <!-- EN: crop blight -->
+  <CropBlight.label>penész</CropBlight.label>
+  
+  <!-- EN: farm animals wander in -->
+  <FarmAnimalsWanderIn.label>háziállatok tévednek be</FarmAnimalsWanderIn.label>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>ménkűvihar</Flashstorm.label>
+  <!-- EN: Flashstorm -->
+  <Flashstorm.letterLabel>Ménkűvihar</Flashstorm.letterLabel>
+  <Flashstorm.letterText>Rengeteg villám csap le egy kis területre. Ez nagy tüzeket okozhat.</Flashstorm.letterText>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>hőhullám</HeatWave.label>
+  <!-- EN: Heat wave -->
+  <HeatWave.letterLabel>Hőhullám</HeatWave.letterLabel>
+  <HeatWave.letterText>Szokatlanul erős hőhullám kezdődött. Hőguta veszély!</HeatWave.letterText>
+  
+  <!-- EN: herd migration -->
+  <HerdMigration.label>vonuló csorda</HerdMigration.label>
+  <!-- EN: Animal migration: {0} -->
+  <HerdMigration.letterLabel>Vonuló csorda: {0}</HerdMigration.letterLabel>
+  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <HerdMigration.letterText>Békés {0} vonulnak át a területen. Nem támadnak, ha nem zaklatják őket.</HerdMigration.letterText>
+  
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>meteorit becsapódás</MeteoriteImpact.label>
+  <!-- EN: Meteorite -->
+  <MeteoriteImpact.letterLabel>Meteorit</MeteoriteImpact.letterLabel>
+  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
+  <MeteoriteImpact.letterText>Nagy meteorit csapódott a földbe a közelben. A helyén a következőt találhatod: {0}.</MeteoriteImpact.letterText>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>pszichotikus hullámok</PsychicDrone.label>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>pszichotikus nyugalom</PsychicSoothe.label>
+  
+  <!-- EN: ransom demand -->
+  <RansomDemand.label>váltságdíj követelés</RansomDemand.label>
+  <!-- EN: Ransom demand -->
+  <RansomDemand.letterLabel>Váltságdíj követelés</RansomDemand.letterLabel>
+  
+  <!-- EN: transport pod crash -->
+  <RefugeePodCrash.label>lezuhant mentőkapszula</RefugeePodCrash.label>
+  
+  <!-- EN: resource pod crash -->
+  <ResourcePodCrash.label>lezuhant ellátmány</ResourcePodCrash.label>
+  
+  <!-- EN: self-tame -->
+  <SelfTame.label>megszelídülés</SelfTame.label>
+  
+  <!-- EN: short circuit -->
+  <ShortCircuit.label>rövidzárlat</ShortCircuit.label>
+  
+  <!-- EN: thrumbos pass -->
+  <ThrumboPasses.label>trumbok vonulnak</ThrumboPasses.label>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>mérgező csapadék</ToxicFallout.label>
+  <!-- EN: Toxic fallout -->
+  <ToxicFallout.letterLabel>Mérgező csapadék</ToxicFallout.letterLabel>
+  <ToxicFallout.letterText>Egy távoli vegyi tűz mérgező felhőt bocsájtott az egész régió fölé.\n\nMinden ember vagy állat, aki nincsen tető alatt, lassan megbetegszik az atmoszférából lecsapódó mérgező portól.\n\nPár napig biztos, de akár egy hónapig is eltarthat.</ToxicFallout.letterText>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>vulkanikus tél</VolcanicWinter.label>
+  <!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterLabel>Vulkanikus tél</VolcanicWinter.letterLabel>
+  <VolcanicWinter.letterText>Egy messzi szupervulkán kitört, és elkezdte teleszórni az atmoszférát több millió köbkilométer hamuval.\n\nA levegőben lévő hamu el fogja takarni a napot. A hőmérséklet esni fog és a növények megszenvedik a napfény hiányát. Pár hétig biztos, de akár hónapokig is eltarthat.</VolcanicWinter.letterText>
+  
+  <!-- EN: wanderer join -->
+  <WandererJoin.label>vándor csatlakozik</WandererJoin.label>
+  <WandererJoin.letterLabel>Vándor csatlakozik</WandererJoin.letterLabel>
+  <WandererJoin.letterText>Egy [PAWN_nameDef] nevű [PAWN_kind] érkezett és csatlakozott a kolóniához. A titulusa [PAWN_title].\n\nHajlandó dolgozni, de magától nem fog elmenni. Ha nincs szükséged rá, száműzheted, eladhatod rabszolgának, vagy egyszerűen megölheted. Ezt a többi gyarmatos felkavarónak fogja találni.</WandererJoin.letterText>
+  
+  <!-- EN: wild man wanders in -->
+  <WildManWandersIn.label>vadember a környéken</WildManWandersIn.label>
+  <!-- EN: {PAWN_kind} wanders in -->
+  <WildManWandersIn.letterLabel>Vadember a környéken</WildManWandersIn.letterLabel>
+  <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
+  <WildManWandersIn.letterText>Egy vadállatok között élő ember tévedt a környékre. A neve {0}.\n\nMegpróbálhatod megszelídíteni.</WildManWandersIn.letterText>
+  
+</LanguageData>

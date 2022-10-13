@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: convert -->
+  <Convert.label>térítés</Convert.label>
+  <!-- EN: Wardens will attempt to convert the prisoner to their ideoligion. -->
+  <Convert.description>A felügyelők megpróbálják a foglyot a saját ideológiájukra téríteni.</Convert.description>
+  
+  <!-- EN: enslave -->
+  <Enslave.label>leigázás</Enslave.label>
+  <!-- EN: Wardens will threaten the prisoner to reduce their will. Once they have no will left, the warden will enslave them. -->
+  <Enslave.description>A felügyelők megfélemlítik a foglyot, hogy csökkentsék az önálló akaratát. Ha már nem marad akaraterejük, a felügyelő rabszolgává teszi őket.</Enslave.description>
+  
+  <!-- EN: reduce will -->
+  <ReduceWill.label>megfélemlítés</ReduceWill.label>
+  <!-- EN: Wardens will threaten the prisoner to reduce their will, but won't enslave them. -->
+  <ReduceWill.description>A felügyelők megfélemlítik a foglyot, hogy csökkenjen az akaratereje, de nem teszik rabszolgává.</ReduceWill.description>
+  
+</LanguageData>

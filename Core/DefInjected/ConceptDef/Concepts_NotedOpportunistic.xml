@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Animals will attack doors -->
+  <AnimalsDontAttackDoors.label>Állat nem támad ajtót</AnimalsDontAttackDoors.label>
+  <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
+  <AnimalsDontAttackDoors.helpText>Az emberevők ajtókon nem jutnak át, kikapcsolt ágyúkat nem támadnak meg.\n\nElmenekülhetsz előlük, ha zárt térbe mész, de lehet, hogy megvárnak.</AnimalsDontAttackDoors.helpText>
+  
+  <!-- EN: Bills tab -->
+  <BillsTab.label>Megrendelések</BillsTab.label>
+  <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
+  <BillsTab.helpText>Ahhoz, hogy embereid dolgozzanak egy asztalnál, válaszd ki az asztalt és nyisd meg a "Rendelés" panelt. Itt beállíthatod, hogy milyen ételt főzzenek, milyen dolgokat gyártsanak, milyen állatokat dolgozzanak fel.</BillsTab.helpText>
+  
+  <!-- EN: Build orbital trade beacon -->
+  <BuildOrbitalTradeBeacon.label>Orbitális jeladó</BuildOrbitalTradeBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <BuildOrbitalTradeBeacon.helpText>Ahhoz, hogy tárgyakat, vagy ezüstöt küldj a bolygó körüli kereskedőknek, építened kell egy "Orbitális jeladó"-t a szabadban, és tárgyakat kell tárolnod mellette.</BuildOrbitalTradeBeacon.helpText>
+  
+  <!-- EN: Capturing -->
+  <Capturing.label>Elfogás</Capturing.label>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpText>Ahhoz, hogy valakit elfogj, válassz ki egy kolónia lakót, jobb-klikkelj a magatehetetlen ellenségen és válaszd az "Elfogás"-t.\n\nSzükséged lesz plusz egy ágyra ami fogdának van kijelölve.</Capturing.helpText>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, press the left trigger button on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpTextController>Amikor egy ellenség lezuhan a földre, de nem halt meg, ELFOGADHATOD őt.\n\nAz elfogáshoz válassz ki egy telepest, nyomd meg a bal oldali ravaszt a harcképtelen ellenségen, majd válaszd az Elfogás lehetőséget.\n\nSzükséged lesz továbbá egy fogolyhasználatra kijelölt ágyra.</Capturing.helpTextController>
+  
+  <!-- EN: Door opening speeds -->
+  <DoorOpenSpeed.label>Nyitási sebesség</DoorOpenSpeed.label>
+  <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
+  <DoorOpenSpeed.helpText>Az ajtók különböző sebességgel nyílnak attól függően, hogy miből készültek.\n\nFigyelem: a kőajtók nagyon lassúak, nagyban akadályozzák az áthaladást.</DoorOpenSpeed.helpText>
+  
+  <!-- EN: Drafting for combat -->
+  <Drafting.label>Sorozás</Drafting.label>
+  <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
+  <Drafting.helpText>Ahhoz, hogy embereidet közvetlenül irányíthasd a harcban, sorozd be őket a "Besoroz" gombbal! Egy szolgálatban lévő gyarmatos csak azt fogja csinálni, amit mondasz neki és csak harci feladatokat tud ellátni. Akiknél fegyver van, azok lehetőség szerint használni is fogják.\n\nNe hagyd embereidet besorozva - éhezni fognak és boldogtalanok lesznek.</Drafting.helpText>
+  
+  <!-- EN: Drug addiction -->
+  <DrugAddiction.label>Drogfüggés</DrugAddiction.label>
+  <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
+  <DrugAddiction.helpText>A Szükség fülön ellenőrizheted, mennyire vágyik a gyarmatos a drogra.\n\nAmíg a szükségszintjük nulla, "elvonás" állapotba kerülnek, aminek negatív mellékhatásai lehetnek.\n\nElég hosszú elvonás után a függőség megszűnik és a drog vágy kijelző eltűnik.</DrugAddiction.helpText>
+  
+  <!-- EN: Drug burning -->
+  <DrugBurning.label>Drogégetés</DrugBurning.label>
+  <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
+  <DrugBurning.helpText>A drogok hasznosak lehetnek, ám függőséget okozhatnak.\n\nHa el akarod kerülni használatukat, elégetheted őket a tábortűznél.</DrugBurning.helpText>
+  
+  <!-- EN: Drug policies -->
+  <DrugPolicies.label>Drogszabályok</DrugPolicies.label>
+  <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
+  <DrugPolicies.helpText>Megadhatod, hogy az emberek bizonyos drogokat csak bizonyos időben szedhessenek be.\n\nPéldául szedethetsz velük rendszeresen fertőzés-megelőző gyógyszert, vagy itathatsz velük napi egy sört.\n\nA Beosztások fülön, a Drogszabályok gombbal készíthetsz új szabályt, amit aztán hozzárendelhetsz embereidhez. A gyarmatosok ettől eltérően is szedhetnek drogot, ha megkívánják. Nem feltétlen hallgatnak rád.</DrugPolicies.helpText>
+  
+  <!-- EN: Positioning fighters -->
+  <GroupGotoHereDragging.label>Harcosok elhelyezése</GroupGotoHereDragging.label>
+  <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpText>Kattints a jobb gombbal és húzd, hogy a besorozott harcosok egy vonalat alkossanak. Szóródj szét - az egy helyen lévő célpontokat könnyű eltalálni!</GroupGotoHereDragging.helpText>
+  <!-- EN: Hold the left trigger button and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpTextController>Tartsd lenyomva a bal oldali ravaszt, és húzd el, hogy az összevont harcosok sorba álljanak.\n\nSzóródj szét – az egy helyen lévő célpontokat könnyű eltalálni!</GroupGotoHereDragging.helpTextController>
+  
+  <!-- EN: Interacting with traders -->
+  <InteractingWithTraders.label>Kereskedés</InteractingWithTraders.label>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head. -->
+  <InteractingWithTraders.helpText>A kérdőjellel megjelölt emberekkel kereskedhetsz.\n\nVálassz ki egy gyarmatost és jobb-klikkelj a kérdőjellel megjelölt látogatóra.</InteractingWithTraders.helpText>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and press the left trigger button on the character with ? attached to his head. -->
+  <InteractingWithTraders.helpTextController>A kérdőjellel megjelölt emberekkel kereskedhetsz.\n\nVálassz ki egy gyarmatost és nyomd meg a bal ravaszt a kérdőjellel megjelölt látogatón.</InteractingWithTraders.helpTextController>
+  
+  <!-- EN: Using the comms console -->
+  <OpeningComms.label>Komm. konzol</OpeningComms.label>
+  <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
+  <OpeningComms.helpText>Más frakciókkal való kapcsolatteremtéshez válassz ki egy gyarmatost és jobb-klikkelj a kommunikációs konzolon!</OpeningComms.helpText>
+  <!-- EN: To communicate, select a colonist and press the left trigger button on the comms console. -->
+  <OpeningComms.helpTextController>Más frakciókkal való kapcsolatteremtéshez válassz ki egy gyarmatost és nyomd meg a bal ravaszt a kommunikációs konzolon!</OpeningComms.helpTextController>
+  
+  <!-- EN: Prisoner tab -->
+  <PrisonerTab.label>Fogoly fül</PrisonerTab.label>
+  <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
+  <PrisonerTab.helpText>Nézd meg egy rabnak a "Fogoly" adatlapját, hogy beállítsd a vele való bánásmódot.\n\nSzükséged lesz egy gyarmatosra, aki be van osztva "Felügyelő"-nek, hogy foglalkozzon a rabokkal.</PrisonerTab.helpText>
+  
+  <!-- EN: Order queueing -->
+  <QueueOrders.label>Parancs sor</QueueOrders.label>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpText>Parancsok kiadásakor több utasítást is kiadhatsz a "shift" lenyomásával, ezeket sorban teljesíteni fogják. Ez a munkák kijelölésénél is működik, a nem besorozott gyarmatosoknál.</QueueOrders.helpText>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding {Key:QueueOrder}. This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpTextController>Amikor parancsokat adsz ki telepeseknek, több parancsot is sorba tudsz állítani a {Key:QueueOrder} lenyomva tartása mellett. Ez a munkák kijelölésénél is működik, a nem besorozott gyarmatosoknál.</QueueOrders.helpTextController>
+  
+  <!-- EN: Reforming caravans -->
+  <ReformCaravan.label>Karaván újraalakítás</ReformCaravan.label>
+  <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
+  <ReformCaravan.helpText>Egy találkozás után könnyen újraalakítható a karaván a világtérképen.</ReformCaravan.helpText>
+  
+  <!-- EN: Rescuing -->
+  <Rescuing.label>Menteni</Rescuing.label>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpText>Ahhoz, hogy megments egy sérült kolónia lakót, válasz ki egy egészséges lakót és jobb-klikkelj a sérültön.\n\nEhhez kell betegágy is.</Rescuing.helpText>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then press the left trigger button on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpTextController>Ahhoz, hogy megments egy sérült kolónia lakót, válasz ki egy egészséges lakót és nyomd meg a bal ravaszt a sérültön.\n\nEhhez kell betegágy is.</Rescuing.helpTextController>
+  
+  <!-- EN: Set what plant to grow -->
+  <SetGrowingZonePlant.label>Kert beállítása</SetGrowingZonePlant.label>
+  <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
+  <SetGrowingZonePlant.helpText>Be tudod állítani, hogy milyen növényt termesszenek a kertekben. Még fákat is nevelhetsz!\n\nCsak válaszd ki a kertet, és használd a "Termeszteni kívánt növény" parancsot.</SetGrowingZonePlant.helpText>
+  
+  <!-- EN: Shield belts -->
+  <ShieldBelts.label>Energiapajzs öv</ShieldBelts.label>
+  <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
+  <ShieldBelts.helpText>Az energiapajzs útját állja minden lövedéknek, legyen az bejövő vagy kimenő. Közelharcban hasztalan.\n\nAz ezt viselő célpontok leküzdéséhez koncentrált tűz kell, vagy közelharci taktika.</ShieldBelts.helpText>
+  
+  <!-- EN: TV for sick people -->
+  <TVForSickPeople.label>Tévé a betegnek</TVForSickPeople.label>
+  <!-- EN: Sick people can watch TV while laying in bed. -->
+  <TVForSickPeople.helpText>Az ágynak esett betegeket szórakoztathatod, ha tévét teszel a szobájukba.</TVForSickPeople.helpText>
+  
+</LanguageData>

@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Ideoligions -->
+  <!-- EN: Deities -->
+  <Deities>Istenségek</Deities>
+  <!-- EN: Show all ideoligions -->
+  <ButtonShowAllIdeoligions>Mutasd az összes ideológiát</ButtonShowAllIdeoligions>
+  <!-- EN: Ideoligion of -->
+  <IdeoligionOf>Ideológia</IdeoligionOf>
+  <!-- EN: Memes -->
+  <Memes>Mémek</Memes>
+  <!-- EN: Narrative -->
+  <CoreNarrative>Elbeszélés</CoreNarrative>
+  <!-- EN: The core narrative of your ideoligion. This has no gameplay impact. -->
+  <CoreNarrativeDesc>Ideoligiád alapelbeszélése. Ennek nincs hatása a játékra.</CoreNarrativeDesc>
+  <!-- EN: Edit narrative -->
+  <EditNarrative>Elbeszélés szerkesztése</EditNarrative>
+  <!-- EN: Lock or unlock the ideoligion's narrative. When locked, the narrative text will not auto-regenerate if the ideoligion is changed. -->
+  <LockButtonDesc>Zárolja vagy oldja fel az ideológia narratíváját. Ha zárolva van, a narratív szöveg nem generálódik automatikusan, ha megváltozik az ideológia.</LockButtonDesc>
+  <!-- EN: {0} lock is currently on. The {1} will not auto-regenerate. -->
+  <LockInOn>A(z) {0} zár jelenleg be van kapcsolva. A(z) {1} nem generálódik automatikusan.</LockInOn>
+  <!-- EN: {0} lock is currently off. The {1} text can auto-regenerate. -->
+  <LockInOff>A(z) {0} zár jelenleg ki van kapcsolva. A(z) {1} szöveg automatikusan újragenerálható.</LockInOff>
+  <!-- EN: Lock or unlock the name of this precept. When locked, the precept name will not auto-regenerate if the ideoligion is changed. -->
+  <LockPreceptNameButtonDesc>Zárolja vagy oldja fel ennek az előírásnak a nevét. Ha zárolva van, az előírás neve nem generálódik automatikusan újra, ha megváltozik az ideológia.</LockPreceptNameButtonDesc>
+  <!-- EN: Precepts -->
+  <Precepts>Előírások</Precepts>
+  <!-- EN: Rituals -->
+  <Rituals>Szertartások</Rituals>
+  <!-- EN: Roles -->
+  <IdeoRoles>Szerepek</IdeoRoles>
+  <!-- EN: Buildings -->
+  <IdeoBuildings>Épületek</IdeoBuildings>
+  <!-- EN: Relics -->
+  <IdeoRelics>Ereklyék</IdeoRelics>
+  <!-- EN: Preferred apparel -->
+  <IdeoApparel>Előnyben részesített ruházat</IdeoApparel>
+  <!-- EN: apparel desire -->
+  <IdeoApparelDesire>ruházati vágy</IdeoApparelDesire>
+  <!-- EN: Won't do -->
+  <UnwillingToDoIdeoAction>Nem fog</UnwillingToDoIdeoAction>
+  <!-- EN: Stats -->
+  <PreceptStats>Statisztikák</PreceptStats>
+  <!-- EN: Prohibitions -->
+  <Prohibitions>Tilalmak</Prohibitions>
+  <!-- EN: Opinions -->
+  <Opinions>Vélemények</Opinions>
+  <!-- EN: Randomize name -->
+  <RandomizeName>Véletlenszerű név</RandomizeName>
+  <!-- EN: Randomize precepts -->
+  <RandomizePrecepts>Véletlen előírások</RandomizePrecepts>
+  <!-- EN: Add precept -->
+  <AddPrecept>Előírás hozzáadása</AddPrecept>
+  <!-- EN: Randomize deities -->
+  <RandomizeDeities>Véletlen istenség</RandomizeDeities>
+  <!-- EN: Add deity -->
+  <AddDeity>Adj hozzá istenséget</AddDeity>
+  <!-- EN: Choose memes -->
+  <ChooseMemes>Válassz mémeket</ChooseMemes>
+  <!-- EN: Choose starting meme -->
+  <ChooseStartingMeme>Válaszd ki a kezdő mémet</ChooseStartingMeme>
+  <!-- EN: Choose structure -->
+  <ChooseStructure>Válassz struktúrát</ChooseStructure>
+  <!-- EN: Choose culture -->
+  <ChooseCulture>Válassz kultúrát</ChooseCulture>
+  <!-- EN: Válaszd a kultúrát -->
+  <Culture>Kultúra</Culture>
+  <!-- EN: Culture affects names, appearances, and symbols. -->
+  <CultureTip>A kultúra hatással van a nevekre, a megjelenésekre és a szimbólumokra.</CultureTip>
+  <!-- EN: Structure -->
+  <StructureMeme>Struktúra</StructureMeme>
+  <!-- EN: An ideoligion's structure determines the kind of entities and forces it sees as important to the moral structure of the universe. It has no direct gameplay effects. -->
+  <StructureMemeTip>Egy ideológia struktúrája határozza meg, hogy milyen entitásokat és erőket tekint fontosnak az univerzum erkölcsi struktúrája szempontjából. Nincs közvetlen játékhatása.</StructureMemeTip>
+  <!-- EN: Adjective -->
+  <Adjective>Melléknév</Adjective>
+  <!-- EN: Ritual room -->
+  <WorshipRoom>Szertartás szoba</WorshipRoom>
+  <!-- EN: Member noun -->
+  <IdeoMembers>Tag főnév</IdeoMembers>
+  <!-- EN: Member plural -->
+  <IdeoMembersPlural>Tag többes szám</IdeoMembersPlural>
+  <!-- EN: Edit symbols -->
+  <EditSymbols>Szimbólumok szerkesztése</EditSymbols>
+  <!-- EN: Edit deity -->
+  <EditDeity>Istenséget szerkesztése</EditDeity>
+  <!-- EN: Edit required apparel -->
+  <EditApparelRequirement>Szükséges ruházat szerkesztése</EditApparelRequirement>
+  <!-- EN: Edit name -->
+  <EditName>Név szerkesztése</EditName>
+  <!-- EN: Any time -->
+  <StartingCondition_Anytime>Bármikor</StartingCondition_Anytime>
+  <!-- EN: Date -->
+  <StartingCondition_Date>Dátum</StartingCondition_Date>
+  <!-- EN: Starting condition -->
+  <StartingCondition>Kiindulási feltétel</StartingCondition>
+  <!-- EN: Edit -->
+  <Edit>Szerkesztés</Edit>
+  <!-- EN: Randomize symbols -->
+  <RandomizeSymbols>Véletlen szimbólumok</RandomizeSymbols>
+  <!-- EN: Randomize ideoligion name, icon, narrative, leader title and any other texts like ritual names or role names. This does not affect gameplay elements like memes or precepts. -->
+  <RandomizeSymbolsTooltip>Véletlenszerűvé teheted az ideológia nevét, ikonját, elbeszélését, vezetői címét és bármilyen más szöveget, például a szertartás- vagy szerepneveket. Ez nincs hatással a játékelemekre, például a mémekre vagy az előírásokra.</RandomizeSymbolsTooltip>
+  <!-- EN: Click any element to edit it -->
+  <ClickAnyElementToEditIt>Kattints bármelyik elemre a szerkesztéshez</ClickAnyElementToEditIt>
+  <!-- EN: Click to edit -->
+  <ClickToEdit>Kattints a szerkesztéshez</ClickToEdit>
+  <!-- EN: Leader title -->
+  <LeaderTitle>Vezetői cím</LeaderTitle>
+  <!-- EN: Deity name -->
+  <DeityName>Istenség neve</DeityName>
+  <!-- EN: Deity title -->
+  <DeityTitle>Istenség címe</DeityTitle>
+  <!-- EN: Deity gender -->
+  <DeityGender>TODO</DeityGender>
+  <!-- EN: Name -->
+  <Name>Név</Name>
+  <!-- EN: Icon -->
+  <Icon>Ikon</Icon>
+  <!-- EN: Related to meme -->
+  <RelatedToMeme>A mémhez kapcsolódik</RelatedToMeme>
+  <!-- EN: This is a charity quest. If you don't fulfill it, believers in {0} will be unhappy due to their charitable beliefs. If you do, believers in {0} will be happy ({1}). -->
+  <IdeoCharityQuestInfo>Ez egy jótékonysági küldetés. Ha nem teljesíted, a(z) {0} hívei boldogtalanok lesznek karitatív hitük miatt. Ha így teszel, a(z) {0} hívei boldogok lesznek ({1}).</IdeoCharityQuestInfo>
+  <!-- EN: Slaves will not do this work -->
+  <WorkDisabledSlave>A rabszolgák nem fogják ezt a munkát elvégezni</WorkDisabledSlave>
+  <!-- EN: Disabled by {0} role -->
+  <WorkDisabledRole>Letiltva a(z) {0} szerepkör miatt</WorkDisabledRole>
+  <!-- EN: Affected by traits -->
+  <AffectedByTraits>Jellemzők által érintett</AffectedByTraits>
+  <!-- EN: This is a charity quest. People with charitable beliefs will be affected by its outcome. -->
+  <CharityQuestTip>Ez egy jótékonysági küldetés. A jótékonysági meggyőződésű emberekre hatással lesz az eredmény.</CharityQuestTip>
+  <!-- EN: formerly -->
+  <Formerly>korábban</Formerly>
+  <!-- EN: all -->
+  <All>összes</All>
+  <!-- EN: Relics are objects of spiritual or ideological significance. They can be discovered by completing long and dangerous quests. A relic can be installed in a reliquary to attract pilgrims, enhance rituals, and strengthen an ideoligion's ability to convert outsiders. -->
+  <RelicTip>Az ereklyék szellemi vagy ideológiai jelentőségű tárgyak. Hosszú és veszélyes küldetések teljesítésével fedezhetők fel. Egy ereklye elhelyezhető az ereklyetartóban, hogy vonzza a zarándokokat, fokozza a rituálékat, és megerősítse az ideológia azon képességét, hogy megtérítse a kívülállókat.</RelicTip>
+  <!-- EN: Relics are objects of spiritual or ideological significance. They can be discovered by completing long and dangerous quests. A relic can be installed in a reliquary to attract pilgrims and enhance rituals. -->
+  <RelicTipClassic>Az ereklyék szellemi vagy ideológiai jelentőségű tárgyak. Hosszú és veszélyes küldetések teljesítésével fedezhetők fel. Egy ereklye elhelyezhető az ereklyetartóban, hogy vonzza a zarándokokat és fokozza a rituálékat.</RelicTipClassic>
+  <!-- EN: animal -->
+  <Animal>állat</Animal>
+  <!-- EN: Venerated animals -->
+  <VeneratedAnimals>Tisztelt állatok</VeneratedAnimals>
+  <!-- EN: weapon pair -->
+  <IdeoWeapon>fegyverpár</IdeoWeapon>
+  <!-- EN: Weapons -->
+  <IdeoWeapons>Fegyverek</IdeoWeapons>
+  <!-- EN: Swap noble and despised -->
+  <SwapNobleAndDespised>Nemesi és megvetett cseréje</SwapNobleAndDespised>
+  <!-- EN: noble -->
+  <Noble>nemes</Noble>
+  <!-- EN: despised -->
+  <Despised>megvetett</Despised>
+  <!-- EN: Unlocked craftables -->
+  <UnlockedRecipes>Feloldott kézműves termékek</UnlockedRecipes>
+  <!-- EN: Start with research -->
+  <IdeoStartWithResearch>Kezdés kutatással</IdeoStartWithResearch>
+  <!-- EN: Agreeing traits -->
+  <AgreeableTraits>Elfogadott tulajdonságok</AgreeableTraits>
+  <!-- EN: Conflicting traits -->
+  <DisagreeableTraits>El nem fogadott tulajdonságok</DisagreeableTraits>
+  <!-- EN: Shooting -->
+  <Shooting>Lövés</Shooting>
+  <!-- EN: Impact -->
+  <IdeoImpact>Hatás</IdeoImpact>
+  <!-- EN: Overall impact -->
+  <IdeoImpactOverall>Általános hatás</IdeoImpactOverall>
+  <!-- EN: Some memes impact gameplay more than others. The meme's impact score gives a sense of how big of a gameplay impact it has. -->
+  <IdeoImpactOverallDesc>Egyes mémek jobban befolyásolják a játékot, mint mások. A mém hatáspontszáma érzékelteti, mekkora játékbeli hatása van.</IdeoImpactOverallDesc>
+  <!-- EN: low -->
+  <IdeoMemeImpactLabel_1>alacsony</IdeoMemeImpactLabel_1>
+  <!-- EN: medium -->
+  <IdeoMemeImpactLabel_2>közepes</IdeoMemeImpactLabel_2>
+  <!-- EN: high -->
+  <IdeoMemeImpactLabel_3>magas</IdeoMemeImpactLabel_3>
+  <!-- EN: low -->
+  <IdeoImpactLabel_1>alacsony</IdeoImpactLabel_1>
+  <!-- EN: low -->
+  <IdeoImpactLabel_2>alacsony</IdeoImpactLabel_2>
+  <!-- EN: moderate -->
+  <IdeoImpactLabel_3>mérsékelt</IdeoImpactLabel_3>
+  <!-- EN: moderate -->
+  <IdeoImpactLabel_4>mérsékelt</IdeoImpactLabel_4>
+  <!-- EN: strong -->
+  <IdeoImpactLabel_5>erős</IdeoImpactLabel_5>
+  <!-- EN: strong -->
+  <IdeoImpactLabel_6>erős</IdeoImpactLabel_6>
+  <!-- EN: very strong -->
+  <IdeoImpactLabel_7>nagyon erős</IdeoImpactLabel_7>
+  <!-- EN: very strong -->
+  <IdeoImpactLabel_8>nagyon erős</IdeoImpactLabel_8>
+  <!-- EN: extreme -->
+  <IdeoImpactLabel_9>szélsőséges</IdeoImpactLabel_9>
+  <!-- EN: This was your colony's starting ideoligion. -->
+  <InitialPlayerIdeo>Ez volt a kolóniád kiinduló ideoligiája.</InitialPlayerIdeo>
+  
+  
+  <!-- EN: Since this ideoligion is so new and has so few followers on this planet, it is fluid. This means that it can develop over time.\n\nDeveloping the ideoligion costs development points. You can earn development points by completing rituals and quests related to this ideoligion.\n\nWith enough development points, you can reform the ideoligion with new memes, precepts, styles, and more. -->
+  <FluidIdeoTip>Mivel ez az ideológia annyira új és olyan kevés követője van ezen a bolygón, változékony. Ez azt jelenti, hogy idővel fejlődhet.\n\nAz ideológia fejlesztése fejlesztési pontokba kerül. Fejlesztési pontokat gyűjthetsz az ideológiához kapcsolódó rituálék és küldetések teljesítésével.\n\nElegendő fejlesztési ponttal megreformálhatod azt új mémekkel, előírásokkal, stílusokkal és sok mással.</FluidIdeoTip>
+  <!-- EN: How to get development points -->
+  <FluidIdeoTipGetPoints>Hogyan szerezzünk fejlesztési pontokat</FluidIdeoTipGetPoints>
+  <!-- EN: Convert someone to your ideoligion -->
+  <FluidIdeoTipGetPoinsByConversion>Téríts át valakit az ideológiádra</FluidIdeoTipGetPoinsByConversion>
+
+  <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
+  <ResearchProjectHasDefsWithMissingMemes>A {0} olyan dolgokat nyit fel, amelyeket nem tudsz megépíteni, mert olyan mémeket igényelnek, amelyeket senki sem hisz el</ResearchProjectHasDefsWithMissingMemes>
+  <!-- EN: Warning: This kind of work is opposed by {0_possessive} ideoligion, so it may make this person unhappy. -->
+  <SelectedWorkTypeOpposedByIdeo>Figyelmeztetés: Az ilyen jellegű munkát ellenzi a {0_possessive} ideológia, ezért boldogtalanná teheti ezt a személyt.</SelectedWorkTypeOpposedByIdeo>
+
+  <!-- EN: Development points -->
+  <DevelopmentPoints>Fejlesztési pontok</DevelopmentPoints>
+
+</LanguageData>

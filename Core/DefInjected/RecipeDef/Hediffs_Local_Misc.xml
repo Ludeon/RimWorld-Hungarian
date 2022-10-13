@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cure scaria -->
+  <CureScaria.label>Scaria gyógyítása</CureScaria.label>
+  <!-- EN: This special medical operation cures scaria. -->
+  <CureScaria.description>Ez a speciális orvosi műtét meggyógyítja a scariát.</CureScaria.description>
+  <!-- EN: Curing scaria. -->
+  <CureScaria.jobString>Scaria gyógyítása.</CureScaria.jobString>
+  <!-- EN: {0} has successfully cured {1}'s scaria. -->
+  <CureScaria.successfullyRemovedHediffMessage>{0} sikeresen meggyógyította {1} scaria betegségét.</CureScaria.successfullyRemovedHediffMessage>
+  
+  <!-- EN: sterilize -->
+  <Sterilize.label>sterilizálás</Sterilize.label>
+  <!-- EN: Sterilize a creature so it can no longer reproduce. -->
+  <Sterilize.description>Sterilizálja a lényt, hogy többé ne tudjon szaporodni.</Sterilize.description>
+  <!-- EN: sterilizing TargetA. -->
+  <Sterilize.jobString>TargetA sterilizálása.</Sterilize.jobString>
+  <!-- EN: {0} has successfully sterilized {1}. -->
+  <Sterilize.successfullyRemovedHediffMessage>{0} sikeresen sterilizálta a következőt: {1}.</Sterilize.successfullyRemovedHediffMessage>
+  
+</LanguageData>

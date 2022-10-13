@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: You can dismiss letters by right-clicking on them. -->
+  <GameplayTips.DismissLetters>A leveleket eltüntetheted, ha jobb gombbal rájuk kattintasz.</GameplayTips.DismissLetters>
+  <!-- EN: You can hold the shift key to queue orders on your colonists. -->
+  <GameplayTips.QueueOrders>A Shift billentyű lenyomva tartásával sorba állíthatod a telepesek parancsait.</GameplayTips.QueueOrders>
+  <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
+  <GameplayTips.ReorderColonistbar>Jobb egérgombbal kattintva és húzással átrendezheted a telepeseket a telepes sávon.</GameplayTips.ReorderColonistbar>
+  <!-- EN: You can select previous/next colonist with the , and . keys. -->
+  <GameplayTips.SelectPrevNextColonist>Az előző/következő telepest elérheted a , és a . billentyűkkel.</GameplayTips.SelectPrevNextColonist>
+  <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
+  <GameplayTips.SettingPainting>Számos menü lehetővé teszi, hogy rákattintva és húzva egy beállítást, a többi bejegyzést is „átfestsd” vele. Ez még olyan dolgoknál is működik, mint a ruhák vagy az élelmiszer-korlátozások.</GameplayTips.SettingPainting>
+  <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
+  <GameplayTips.ManualPriorities>A munkalap kézi prioritások üzemmódjában az 1 az első, míg a 4 az utolsó prioritás.</GameplayTips.ManualPriorities>
+  <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
+  <GameplayTips.ColonistMood>Az egyes telepesek hangulata az ikonjuk hátterében jelenik meg a képernyő tetején található telepes sávban.</GameplayTips.ColonistMood>
+  <!-- EN: Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once. -->
+  <GameplayTips.WorkTabChangeAllColonists>Ha a Munka lapon a Shift billentyűt lenyomva tartva rákattintasz egy munkatípus nevére, az összes telepes beállításait egyszerre módosíthatod vele.</GameplayTips.WorkTabChangeAllColonists>
+  <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
+  <GameplayTips.WorkTabDecreasePriority>Ha jobb gombbal kattintasz egy számra a Munka lapon, kézi prioritásokkal, a prioritás csökkentése történik meg, növelés helyett.</GameplayTips.WorkTabDecreasePriority>
+  <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
+  <GameplayTips.GunfightCover>Lövöldözésben mindig légy fedezék mögött! Kattints a jobb gombbal, és húzd, hogy a besorozott harcosaid egy vonalat alkossanak.</GameplayTips.GunfightCover>
+  <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
+  <GameplayTips.GunfightSpread>Kattints a jobb gombbal és húzd, hogy a besorozott harcosok egy vonalat alkossanak. Az egy helyen lévő célpontokat könnyű eltalálni!</GameplayTips.GunfightSpread>
+  <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
+  <GameplayTips.ShootingAccuracySmoke>A füst teljesen megakadályozza, hogy a tornyok észleljék a célokat, de az emberek így is csökkentett pontossággal tudnak lőni.</GameplayTips.ShootingAccuracySmoke>
+  <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
+  <GameplayTips.DesignDefenses>A védelem megtervezésekor tegyük fel, hogy az ellenségek bejutnak szállítókapszulák vagy alagutak használatával. Építs ki belső védekező pozíciókat!</GameplayTips.DesignDefenses>
+  <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
+  <GameplayTips.ShootingAccuracyFogRain>A ködös vagy esős idő csökkenti a távolsági fegyverek pontosságát.</GameplayTips.ShootingAccuracyFogRain>
+  <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
+  <GameplayTips.ShootingTooltip>Elemezheted a lövés eltalálásának esélyét, ha kiválasztod a lövőt, és az egeret a célpont fölé viszed.</GameplayTips.ShootingTooltip>
+  <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
+  <GameplayTips.TurretsExplode>A lövegtornyok felrobbannak, ha sok kárt okoznak. Ne helyezd őket túl közel egymáshoz, és ne tedd túl közel hozzájuk az embereid!</GameplayTips.TurretsExplode>
+  <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
+  <GameplayTips.AnimalDeathExplosion>Egyes állatok halálukkor felrobbannak. A szállítókapszulákkal állatokat ejthetsz az ellenségre. Gondolkozz el róla!</GameplayTips.AnimalDeathExplosion>
+  <!-- EN: If you need help in a fight, call your allies using the comms console. -->
+  <GameplayTips.CallAllies>Ha segítségre van szükséged a harcban, hívd a szövetségeseid a kommunikációs konzolon!'</GameplayTips.CallAllies>
+  <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
+  <GameplayTips.MaddenedAnimals>A megőrült állatok minden embert megtámadnak, beleértve az ellenségeidet is. Ezt felhasználhatod.</GameplayTips.MaddenedAnimals>
+  <!-- EN: EMP bursts will temporarily disable turrets and shields. -->
+  <GameplayTips.EMPDisablesTurretsShields>Az EMP sorozatok ideiglenesen letiltják a tornyokat és a pajzsokat.</GameplayTips.EMPDisablesTurretsShields>
+  <!-- EN: EMP bursts instantly break personal shields. -->
+  <GameplayTips.EMPDisablesPersonalShields>Az EMP sorozatok azonnal feltörik a személyes pajzsokat.</GameplayTips.EMPDisablesPersonalShields>
+  <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->
+  <GameplayTips.HunterStealth>A vadász lopakodó képessége csökkenti az állati támadások esélyét. Ez a vadász állatai és lőkészsége befolyásolja.</GameplayTips.HunterStealth>
+  <!-- EN: Animals are more likely to attack when harmed from close range. Long-range, slow-firing weapons are safest for hunting. -->
+  <GameplayTips.AnimalsAttackCloseRange>Az állatok nagyobb valószínűséggel támadnak, ha közelről sértik meg őket. A nagy hatótávolságú, lassú tüzelésű fegyverek a legbiztonságosabbak a vadászathoz.</GameplayTips.AnimalsAttackCloseRange>
+  <!-- EN: Entire herds of animals may attack you when you try to hunt them. Accept the risk before hunting, or choose weaker prey. -->
+  <GameplayTips.AnimalsMayAttack>Egész állatcsorda támadhat rád, amikor megpróbálod levadászni őket. Vadászat előtt vállald a kockázatot, vagy válassz gyengébb zsákmányt!</GameplayTips.AnimalsMayAttack>
+  <!-- EN: If you hunt boomrats and boomalopes when it's raining, their deaths won't cause forest fires. -->
+  <GameplayTips.AnimalDeathExplosionRain>Ha esőben vadászol bummpatkányra és bummalopra, a haláluk nem okoz erdőtüzeket.</GameplayTips.AnimalDeathExplosionRain>
+  <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
+  <GameplayTips.GreaterSlaughterYield>A gondosan levágott állatok több húst és bőrt adnak, mint azok, amelyeket erőszakkal öltek meg.</GameplayTips.GreaterSlaughterYield>
+  <!-- EN: Place the caravan hitching spot where you want your caravans to form up. It's usually best to place it near your storage areas. -->
+  <GameplayTips.CaravanHitchingSpot>Helyezd a karaván rakodási helyét arra a helyre, ahol a karavánokat meg akarod alakítani. Általában a legjobb, ha a raktárterületek közelében helyezed el.</GameplayTips.CaravanHitchingSpot>
+  <!-- EN: During encounters away from home, you can place a caravan hitching spot to keep your animals from wandering. -->
+  <GameplayTips.CaravanHitchingSpotRoamers>Az otthonodtól távoli találkozások során elhelyezhetsz egy karaván rakodási helyet, hogy megakadályozd az állatok elkóborlását.</GameplayTips.CaravanHitchingSpotRoamers>
+  <!-- EN: Single-person caravans can be very useful in certain situations. -->
+  <GameplayTips.CaravanSinglePerson>Az egyszemélyes karavánok bizonyos helyzetekben nagyon hasznosak lehetnek.</GameplayTips.CaravanSinglePerson>
+  <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
+  <GameplayTips.CaravanRideableAnimals>A karavánok gyorsabban haladnak, ha lovagolható állatokat, például lovakat, szamarakat és dromedarokat tartalmaznak.</GameplayTips.CaravanRideableAnimals>
+  <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
+  <GameplayTips.CaravanSmallerLessVisible>A kisebb karavánokat ritkábban támadják meg, mert kevésbé láthatók.</GameplayTips.CaravanSmallerLessVisible>
+  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing post. This will make packing much faster. -->
+  <GameplayTips.CaravanStockpileNearPackingSpot>Karaván alakítása előtt gyűjtsd össze a felpakolni kívánt tárgyakat egy raktárban a karaván rakodási helye közelében. Így sokkal gyorsabb lesz az összepakolás.</GameplayTips.CaravanStockpileNearPackingSpot>
+  <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
+  <GameplayTips.CaravanUntrainedAnimals>Ha idomítatlan állatok vannak a karavánodban, szétválaszthatod őket egy külön karavánba, mielőtt megtámadnád az ellenséget, hogy távol tartsd őket a harctól.</GameplayTips.CaravanUntrainedAnimals>
+  <!-- EN: Don't forget to pack medicine on your caravans. -->
+  <GameplayTips.CaravanDontForgetMedicine>Ne felejts el gyógyszert csomagolni karavánra!</GameplayTips.CaravanDontForgetMedicine>
+  <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
+  <GameplayTips.StoryGenerator>A RimWorld egy történetgenerátor, nem egy ügyességi teszt. Egy romos kolónia drámai tragédia, nem kudarc.</GameplayTips.StoryGenerator>
+  <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
+  <GameplayTips.BadAllies>Egyes telepesek rosszabbak a haszontalannál. A rossz szövetségesek a kihívás részét képezik.</GameplayTips.BadAllies>
+  <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
+  <GameplayTips.MakeCaravanRunBeforeDefeat>Ha nem tudsz védekezni a fenyegetés ellen, csinálj karavánt és fuss! Elveszítheted az otthonod, de a történeted folytatódhat.</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <!-- EN: When you have more wealth, more powerful enemies attack. If you want the challenge to scale with time instead, select 'Wealth-independent progress mode' in the storyteller settings. -->
+  <GameplayTips.FixedWealthMode>Ha több vagyonod van, erősebb ellenségek támadnak. Ha azt szeretnéd, hogy a kihívás idővel skálázható legyen, válaszd a „Vagyonfüggetlen haladási módot” a mesemondó beállításainál.</GameplayTips.FixedWealthMode>
+  <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
+  <GameplayTips.StoneDoors>Kerüld a kő használatát ajtókhoz! Nagyon lassan nyílnak, ami a telepesek idejét vesztegeti.</GameplayTips.StoneDoors>
+  <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
+  <GameplayTips.ChairsWorkbench>Helyezz székeket a munkapadok elé, hogy a dolgozók kényelmesen ülhessenek munka közben!</GameplayTips.ChairsWorkbench>
+  <!-- EN: Mechanical structures break down and require replacement components. Don't build things you don't need. -->
+  <GameplayTips.MechanicalBreakdown>A mechanikus szerkezetek tönkremennek és alkatrészeket kell cserélni. Ne építs olyan dolgokat, amelyekre nincs szükséged!</GameplayTips.MechanicalBreakdown>
+  <!-- EN: Be careful what you construct on bridges. Bridges collapse easily under explosions, and your buildings will go with them. -->
+  <GameplayTips.CarefulConstructionOnBridges>Légy óvatos, mit építesz a hidakon! A hidak könnyen összeomlanak a robbanások során és az épületek is velük pusztulnak.</GameplayTips.CarefulConstructionOnBridges>
+  <!-- EN: Clean rooms increase research speed, improve medical outcomes, and reduce food poisoning. Sterile tiles make rooms extra-clean. -->
+  <GameplayTips.CleanRooms>A tiszta szobák növelik a kutatás sebességét, javítják az orvosi eredményeket és csökkentik az ételmérgezést. A steril csempe extra tisztává teszi a helyiségeket.</GameplayTips.CleanRooms>
+  <!-- EN: Building your whole colony in one structure saves resources, but also makes it difficult to contain fires. -->
+  <GameplayTips.ColonyOneStructure>Az egész kolónia egy szerkezetben történő felépítése erőforrásokat takarít meg, de megnehezíti a tüzek megfékezését is.</GameplayTips.ColonyOneStructure>
+  <!-- EN: Terrain affects movement speed. Build floors to help your colonists get around quicker. -->
+  <GameplayTips.TerrainMovementSpeed>A terep befolyásolja a mozgás sebességét. Építs padlót, hogy a telepesek gyorsabban közlekedjenek!</GameplayTips.TerrainMovementSpeed>
+  <!-- EN: Different terrain has different inherent cleanliness levels. Tiles are inherently clean; dirt is inherently dirty. -->
+  <GameplayTips.TerrainCleanliness>A különböző terepeknek különböző tisztasági szintjei vannak. A csempe eredendően tiszta; a szennyeződés eredendően koszos.</GameplayTips.TerrainCleanliness>
+  <!-- EN: You can give prisoners as gifts. Giving a prisoner back to his own faction will be highly appreciated. -->
+  <GameplayTips.PrisonersAsGifts>A foglyokat ajándékba is adhatod. A frakciók nagyra értékelik, ha visszaadod egy foglyodat nekik.</GameplayTips.PrisonersAsGifts>
+  <!-- EN: You can request specific types of trade caravans using the comms console. -->
+  <GameplayTips.RequestTradeCaravans>A kommunikációs konzol segítségével meghatározott típusú kereskedelmi karavánokat kérhetsz.</GameplayTips.RequestTradeCaravans>
+  <!-- EN: You can use transport pods to send gifts directly to other factions' bases - even your enemies. This improves faction relations. -->
+  <GameplayTips.TransportPodsSendGift>A szállítókapszulákkal közvetlenül küldhetsz ajándékokat más frakciók bázisaira – még az ellenségére is. Ez javítja a frakciókapcsolatokat.</GameplayTips.TransportPodsSendGift>
+  <!-- EN: Keeping prisoners together saves space. However, prisoners kept together will try to break out together. -->
+  <GameplayTips.KeepingPrisonersTogether>A foglyok együtt tartása helyet takarít meg. Az együtt tartott foglyok azonban együtt próbálnak meg kitörni.</GameplayTips.KeepingPrisonersTogether>
+  <!-- EN: Enemy faction bases are very well-defended. You don't need to attack them - but be well-prepared if you choose to try. -->
+  <GameplayTips.EnemyFactionBaseDefenses>Az ellenséges frakcióbázisok nagyon jól védettek. Nem kell megtámadnod őket – de légy felkészült, ha úgy döntesz, hogy megpróbálod.</GameplayTips.EnemyFactionBaseDefenses>
+  <!-- EN: Cute tame animals will nuzzle your colonists, improving their mood. -->
+  <GameplayTips.AnimalNuzzle>Az aranyos, szelíd állatok elvarázsolják a telepeseket, javítva a hangulatukat.</GameplayTips.AnimalNuzzle>
+  <!-- EN: Assign your herbivorous animals to areas with lots of grass. They'll eat the grass and spare you the need to feed them. -->
+  <GameplayTips.AnimalHerbivorousGrassArea>Rendeld a növényevő állataid sok füves területre. Megeszik a füvet, és megkímélnek attól, hogy etetni kelljen őket.</GameplayTips.AnimalHerbivorousGrassArea>
+  <!-- EN: If someone has a serious infection in a limb, you can remove the limb to save their life. -->
+  <GameplayTips.RemoveLimbInfection>Ha valakinek súlyos fertőzése van a végtagján, eltávolíthatod a végtagot, hogy megmentsd ezzel az életét.</GameplayTips.RemoveLimbInfection>
+  <!-- EN: Sloshing through water makes people unhappy. Build a bridge when you can. -->
+  <GameplayTips.SloshingWater>A vízen átkelés boldogtalanná teszi az embereket. Ha teheted, építs hidat!</GameplayTips.SloshingWater>
+  <!-- EN: Luciferium can heal scars - even those on the eye or brain. It is, however, a permanent commitment. -->
+  <GameplayTips.Luciferium>A Luciferium képes meggyógyítani a hegeket – még azokat is, amelyek a szemen vagy az agyon vannak. Ez azonban állandó elköteleződés.</GameplayTips.Luciferium>
+  <!-- EN: Work and movement speed are affected by lighting. Everything is slower in the dark. -->
+  <GameplayTips.WorkMovementSpeedLighting>A munkavégzést és a mozgás sebességét a világítás befolyásolja. Sötétben minden lassabb.</GameplayTips.WorkMovementSpeedLighting>
+  <!-- EN: Deep underground caverns have a naturally stable temperature, even if it's very hot or cold outside. -->
+  <GameplayTips.DeepCavesTemperature>A mély földalatti barlangok hőmérséklete természetesen stabil, még akkor is, ha kint nagyon meleg vagy hideg van.</GameplayTips.DeepCavesTemperature>
+  <!-- EN: Mountain bases are easy to defend. The downside is that people go crazy spending too long underground. And giant insects. -->
+  <GameplayTips.MountainBases>A hegyi bázisokat könnyű megvédeni. A hátránya az, hogy az emberek megőrülnek, ha túl sok időt töltenek a föld alatt. És persze az óriási rovarok...</GameplayTips.MountainBases>
+  <!-- EN: Prisoners will join much quicker and attempt fewer breakouts when they're in a good mood. -->
+  <GameplayTips.PrisonersGoodMood>A foglyok sokkal gyorsabban csatlakoznak, és kevesebbet próbálnak kitörni, ha jó hangulatban vannak.</GameplayTips.PrisonersGoodMood>
+  <!-- EN: You can have multiple researchers working simultaneously at multiple research tables. -->
+  <GameplayTips.MultipleResearchers>Több kutató dolgozhat egyszerre több kutatóasztalnál.</GameplayTips.MultipleResearchers>
+  <!-- EN: Geysers heat up rooms if enclosed. This can be dangerous, or useful. -->
+  <GameplayTips.GeysersHeatRooms>A gejzírek felmelegítik a helyiségeket, ha be vannak zárva. Ez veszélyes vagy hasznos lehet.</GameplayTips.GeysersHeatRooms>
+  <!-- EN: Explosions extinguish fires in their blast radius. This makes artillery shells useful for stopping fires when there is no other choice. -->
+  <GameplayTips.ExtinguishFireArtillery>A robbanások a robbanási sugarukban eloltják a tüzeket. Ez hasznossá teszi a tüzérségi lövedékeket a tüzek megállítására, amikor nincs más választás.</GameplayTips.ExtinguishFireArtillery>
+  <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
+  <GameplayTips.BestStoriesFromDarkestSituations>Még a komoly kudarcok sem jelentik azt, hogy a játéknak véget kell érnie. Próbálj meg egy elvesztett csatát játszani – a legjobb történetek gyakran a legsötétebb helyzetekből származnak.</GameplayTips.BestStoriesFromDarkestSituations>
+  <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
+  <GameplayTips.KeepWeaponsAwayFromPrisoners>Tartsd távol a fegyverkészleteket a börtönöktől! Fegyverek és robbanóanyagok esetén sokkal veszélyesebbek a börtönszünetek.</GameplayTips.KeepWeaponsAwayFromPrisoners>
+  <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
+  <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>Az állatok szelídítésekor ügyelj arra, hogy elegendő mennyiségű, megfelelő típusú táplálékkal rendelkezz az etetéshez!</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
+  <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
+  <GameplayTips.DroppingChunksWillForceDoorsOpen>Ha egy kő vagy salakdarabot beejtünk az ajtónyílásba, akkor az kinyílik, így sebezhetővé válik az ellenséges vadvilággal és a portyázókkal szemben.</GameplayTips.DroppingChunksWillForceDoorsOpen>
+  <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
+  <GameplayTips.CleanLabs>A steril csempével ellátott tiszta laborok kutatási sebességi bónuszokat adnak.</GameplayTips.CleanLabs>
+  <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
+  <GameplayTips.ChangeStoryteller>A beállítások menüben bármikor módosíthatod a történetmesélőt és a játékstílust.</GameplayTips.ChangeStoryteller>
+  <!-- EN: The more factions you are allied with, the more random traders and military aid you will receive. -->
+  <GameplayTips.MoreAlliesMoreTraders>Minél több frakcióval állsz szövetségben, annál több véletlenszerű kereskedőt és katonai segélyt kapsz.</GameplayTips.MoreAlliesMoreTraders>
+  <!-- EN: You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle. -->
+  <GameplayTips.CombatDrugsFromInventory>Használhatod a kábítószer-politikát, hogy harcosaid harci drogokat, például go-juice-t hordozzanak. Egy gyors adag a harc elején megnyerheti a csatát.</GameplayTips.CombatDrugsFromInventory>
+  <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
+  <GameplayTips.SchedulesSetLong>Állíts be menetrendeket egy tevékenység hosszú szakaszaihoz az utazási idő minimalizálása érdekében.</GameplayTips.SchedulesSetLong>
+  <!-- EN: Straw matting ignores filth. Use it as the floor for your barn. -->
+  <GameplayTips.StrawMatting>A szalma figyelmen kívül hagyja a szennyeződéseket. Használd a pajtád padlójaként!</GameplayTips.StrawMatting>
+  <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
+  <GameplayTips.AnimalFilth>Egyes állatok sok szennyet termelnek. Tartsd kint elefántjaid és szarvasmarháid!</GameplayTips.AnimalFilth>
+  <!-- EN: Predators won't hunt animals which are on the other side of fences or barricades. -->
+  <GameplayTips.PredatorsAndFences>A ragadozók nem vadásznak olyan állatokra, amelyek a kerítések vagy barikádok másik oldalán vannak.</GameplayTips.PredatorsAndFences>
+  
+</LanguageData>

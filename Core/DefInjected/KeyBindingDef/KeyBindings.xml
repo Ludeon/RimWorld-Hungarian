@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: accept -->
+  <Accept.label>Alkalmaz</Accept.label>
+  
+  <!-- EN: cancel -->
+  <Cancel.label>Mégse</Cancel.label>
+  
+  <!-- EN: draft -->
+  <Command_ColonistDraft.label>Besorozás be/ki</Command_ColonistDraft.label>
+  
+  <!-- EN: toggle forbidden -->
+  <Command_ItemForbid.label>Tiltott be/ki</Command_ItemForbid.label>
+  
+  <!-- EN: toggle power -->
+  <Command_TogglePower.label>Áram be/ki</Command_TogglePower.label>
+  
+  <!-- EN: cancel -->
+  <Designator_Cancel.label>Visszavon</Designator_Cancel.label>
+  
+  <!-- EN: deconstruct -->
+  <Designator_Deconstruct.label>Lebontás</Designator_Deconstruct.label>
+  
+  <!-- EN: rotate left -->
+  <Designator_RotateLeft.label>Balra fordít</Designator_RotateLeft.label>
+  
+  <!-- EN: rotate right -->
+  <Designator_RotateRight.label>Jobbra fordít</Designator_RotateRight.label>
+  
+  <!-- EN: change selected debug action -->
+  <Dev_ChangeSelectedDebugAction.label>módosítja a kiválasztott hibakeresési műveletet</Dev_ChangeSelectedDebugAction.label>
+  
+  <!-- EN: tick once -->
+  <Dev_TickOnce.label>Debug: egy tick</Dev_TickOnce.label>
+  
+  <!-- EN: toggle debug actions menu -->
+  <Dev_ToggleDebugActionsMenu.label>Műveletek be/ki</Dev_ToggleDebugActionsMenu.label>
+  
+  <!-- EN: toggle debug inspector -->
+  <Dev_ToggleDebugInspector.label>Debug figyelő be/ki</Dev_ToggleDebugInspector.label>
+  
+  <!-- EN: toggle debug log -->
+  <Dev_ToggleDebugLog.label>Logolás be/ki</Dev_ToggleDebugLog.label>
+  
+  <!-- EN: toggle debug log menu -->
+  <Dev_ToggleDebugLogMenu.label>Logmenü be/ki</Dev_ToggleDebugLogMenu.label>
+  
+  <!-- EN: toggle debug settings menu -->
+  <Dev_ToggleDebugSettingsMenu.label>Debug beállítás be/ki</Dev_ToggleDebugSettingsMenu.label>
+  
+  <!-- EN: toggle god mode -->
+  <Dev_ToggleGodMode.label>God mód be/ki</Dev_ToggleGodMode.label>
+  
+  <!-- EN: dolly down -->
+  <MapDolly_Down.label>lefelé</MapDolly_Down.label>
+  
+  <!-- EN: dolly left -->
+  <MapDolly_Left.label>balra</MapDolly_Left.label>
+  
+  <!-- EN: dolly right -->
+  <MapDolly_Right.label>jobbra</MapDolly_Right.label>
+  
+  <!-- EN: dolly up -->
+  <MapDolly_Up.label>felfelé</MapDolly_Up.label>
+  
+  <!-- EN: zoom in -->
+  <MapZoom_In.label>közelít</MapZoom_In.label>
+  
+  <!-- EN: zoom out -->
+  <MapZoom_Out.label>távolít</MapZoom_Out.label>
+  
+  <!-- EN: Misc 1 -->
+  <Misc1.label>Egyéb 1</Misc1.label>
+  
+  <!-- EN: Misc 10 -->
+  <Misc10.label>Egyéb 10</Misc10.label>
+  
+  <!-- EN: Misc 11 -->
+  <Misc11.label>Egyéb 11</Misc11.label>
+  
+  <!-- EN: Misc 12 -->
+  <Misc12.label>Egyéb 12</Misc12.label>
+  
+  <!-- EN: Misc 2 -->
+  <Misc2.label>Egyéb 2</Misc2.label>
+  
+  <!-- EN: Misc 3 -->
+  <Misc3.label>Egyéb 3</Misc3.label>
+  
+  <!-- EN: Misc 4 -->
+  <Misc4.label>Egyéb 4</Misc4.label>
+  
+  <!-- EN: Misc 5 -->
+  <Misc5.label>Egyéb 5</Misc5.label>
+  
+  <!-- EN: Misc 6 -->
+  <Misc6.label>Egyéb 6</Misc6.label>
+  
+  <!-- EN: Misc 7 -->
+  <Misc7.label>Egyéb 7</Misc7.label>
+  
+  <!-- EN: Misc 8 -->
+  <Misc8.label>Egyéb 8</Misc8.label>
+  
+  <!-- EN: Misc 9 -->
+  <Misc9.label>Egyéb 9</Misc9.label>
+  
+  <!-- EN: increment 100x -->
+  <ModifierIncrement_100x.label>növelés 100x</ModifierIncrement_100x.label>
+  
+  <!-- EN: increment 10x -->
+  <ModifierIncrement_10x.label>növelés 10x</ModifierIncrement_10x.label>
+  
+  <!-- EN: next colonist -->
+  <NextColonist.label>Következő gyarmatos</NextColonist.label>
+  
+  <!-- EN: previous colonist -->
+  <PreviousColonist.label>Előző gyarmatos</PreviousColonist.label>
+  
+  <!-- EN: queue order -->
+  <QueueOrder.label>sorrend</QueueOrder.label>
+  
+  <!-- EN: select next in cell -->
+  <SelectNextInCell.label>Következő tárgy a cellában</SelectNextInCell.label>
+  
+  <!-- EN: take screenshot -->
+  <TakeScreenshot.label>Pillanatkép</TakeScreenshot.label>
+  
+  <!-- EN: game speed: Fast -->
+  <TimeSpeed_Fast.label>Sebesség: gyors</TimeSpeed_Fast.label>
+  
+  <!-- EN: game speed: Faster -->
+  <TimeSpeed_Faster.label>játék sebessége: gyorsabb</TimeSpeed_Faster.label>
+  
+  <!-- EN: game speed: Normal -->
+  <TimeSpeed_Normal.label>Sebesség: normál</TimeSpeed_Normal.label>
+  
+  <!-- EN: game speed: Slower -->
+  <TimeSpeed_Slower.label>játék sebessége: lassabb</TimeSpeed_Slower.label>
+  
+  <!-- EN: game speed: Super fast -->
+  <TimeSpeed_Superfast.label>Sebesség: nagyon gyors</TimeSpeed_Superfast.label>
+  
+  <!-- EN: game speed: Ultra fast (debug) -->
+  <TimeSpeed_Ultrafast.label>Sebesség: ultra (debug)</TimeSpeed_Ultrafast.label>
+  
+  <!-- EN: toggle beauty display -->
+  <ToggleBeautyDisplay.label>szépség statok</ToggleBeautyDisplay.label>
+  
+  <!-- EN: pause/resume game -->
+  <TogglePause.label>Pillanat állj</TogglePause.label>
+  
+  <!-- EN: toggle room stats display -->
+  <ToggleRoomStatsDisplay.label>szoba statok</ToggleRoomStatsDisplay.label>
+  
+  <!-- EN: toggle screenshot mode -->
+  <ToggleScreenshotMode.label>Pillanatkép mód váltása</ToggleScreenshotMode.label>
+  
+</LanguageData>

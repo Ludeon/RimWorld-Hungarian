@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barricade -->
+  <Barricade.label>barikád</Barricade.label>
+  <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. Barricades will block certain kinds of animals the same way that fences do. -->
+  <Barricade.description>Derékig érő védőfal, amely a bejövő lövések fedezésére szolgál. A barikádok csúnyák, de jobb fedezéket biztosítanak, mint más alacsony tárgyak. A barikádok ugyanúgy blokkolnak bizonyos állatokat, mint a kerítések.</Barricade.description>
+  
+  <!-- EN: sandbags -->
+  <Sandbags.label>homokzsák</Sandbags.label>
+  <!-- EN: Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects. -->
+  <Sandbags.description>Fedezék lövések ellen.</Sandbags.description>
+  
+  <!-- EN: IED antigrain warhead trap -->
+  <TrapIED_AntigrainWarhead.label>antianyag robbanófej csapda</TrapIED_AntigrainWarhead.label>
+  <!-- EN: An antimatter-powered antigrain warhead connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_AntigrainWarhead.description>Kis méretű antianyag robbanófej házi készítésű elsütőszerkezettel. Kioldáskor óriásit robban és tüzet gyújt maga körül.</TrapIED_AntigrainWarhead.description>
+  
+  <!-- EN: IED EMP trap -->
+  <TrapIED_EMP.label>EMP csapda</TrapIED_EMP.label>
+  <!-- EN: A pair of EMP shells connected to a trigger which detonates on touch or bullet impact. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_EMP.description>Egyszerű csapda EMP lövedékből házi készítésű elsütőszerkezettel. Robbanása megbénítja az elektronikus szerkezeteket pár másodpercre. Azok is beindíthatják, akikre nem hat.</TrapIED_EMP.description>
+  
+  <!-- EN: IED firefoam trap -->
+  <TrapIED_Firefoam.label>oltóhab csapda</TrapIED_Firefoam.label>
+  <!-- EN: A pair of firefoam shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Firefoam.description>Ha valaki kioldja, a csapda felrobban és oltóhabot szór maga köré.</TrapIED_Firefoam.description>
+  
+  <!-- EN: IED trap -->
+  <TrapIED_HighExplosive.label>robbanószer csapda</TrapIED_HighExplosive.label>
+  <!-- EN: A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_HighExplosive.description>Ágyúlövedék házi készítésű elsütőszerkezettel, aminek véletlenszerű késleltetése van. Ez fürgébb ellenség számára lehetővé teheti a robbanás elkerülését.</TrapIED_HighExplosive.description>
+  
+  <!-- EN: IED incendiary trap -->
+  <TrapIED_Incendiary.label>gyújtóbomba csapda</TrapIED_Incendiary.label>
+  <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Incendiary.description>Robbanószer gyújtópasztával keverve, kémiai elsütőszerkezettel, ami egyszerű és megbízható.</TrapIED_Incendiary.description>
+  
+  <!-- EN: IED Smoke trap -->
+  <TrapIED_Smoke.label>IED Füstcsapda</TrapIED_Smoke.label>
+  <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Smoke.description>Egy pár füstbomba egy ravaszhoz kapcsolva, amely érintésre vagy golyó becsapódására felrobban. Mivel el van rejtve a környező terepen, nem helyezhető más csapdák mellé. Az állatok nyugodt állapotban érzékelik ezeket.</TrapIED_Smoke.description>
+  
+  <!-- EN: spike trap -->
+  <TrapSpike.label>sújtócsapda</TrapSpike.label>
+  <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapSpike.description>Felfüggesztett tüskés súly, melyet botlózsinór old ki. Ha valaki belép, a súly a fejére vagy a mellkasára esik.</TrapSpike.description>
+  
+</LanguageData>

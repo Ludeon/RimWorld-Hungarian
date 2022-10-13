@@ -13,6 +13,7 @@ Translators:
 - pluhi
 - Laoka25
 - mosszo
+- gorrt (Malvern)
 
 Some text used from the old partial translation created by:
 - Jamesgt
@@ -21,8 +22,8 @@ Some text used from the old partial translation created by:
 
 ---------------------
 
-Game version: 1.1.2552
-
+Verzió: 1.3.3389 (64bit)
+Kiadva: 2022-06-08
 
 ==================================================================================================================================================================
 

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient cryptosleep casket -->
+  <AncientCryptosleepCasket.label>ősi hibernáló</AncientCryptosleepCasket.label>
+  <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
+  <AncientCryptosleepCasket.description>Ősi önfenntartó kapszula, ami egy személyt képes hosszú évekig hibernációban tartani.</AncientCryptosleepCasket.description>
+  
+  <!-- EN: caravan hitching spot -->
+  <CaravanPackingSpot.label>karaván rakodóhely</CaravanPackingSpot.label>
+  <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
+  <CaravanPackingSpot.description>Kijelöl egy helyet, ahol karavánok alakíthatók.</CaravanPackingSpot.description>
+  
+  <!-- EN: comms console -->
+  <CommsConsole.label>komm. konzol</CommsConsole.label>
+  <!-- EN: Allows radio contact with other factions and orbital traders. -->
+  <CommsConsole.description>Ezzel az eszközzel más frakciókkal és távoli kereskedőkkel lehet rádiókapcsolatot létesíteni árucsere és diplomácia ügyében.</CommsConsole.description>
+  
+  <!-- EN: cryptosleep casket -->
+  <CryptosleepCasket.label>hibernáló</CryptosleepCasket.label>
+  <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
+  <CryptosleepCasket.description>Önfenntartó kapszula, ami egy személyt képes hosszú évekig hibernációban tartani.</CryptosleepCasket.description>
+  
+  <!-- EN: egg box -->
+  <EggBox.label>tojásdoboz</EggBox.label>
+  <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
+  <EggBox.description>Tojás tárolására készült puha anyagú doboz. A tojó állatok ha tehetik, a tojásdobozokba tojnak. A rakodók csak akkor veszik ki az összes tojást, ha a doboz megtelt, így időt takaríthat meg. A doboz védi a tojásokat a kültéri károsodástól is, bár nem véd a hőmérsékleti károsodástól.</EggBox.description>
+  
+  <!-- EN: firefoam popper -->
+  <FirefoamPopper.label>habbal oltó</FirefoamPopper.label>
+  <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
+  <FirefoamPopper.description>Tűzzel való érintkezésre vagy kézi aktiválásra habot locsol szét egy kör alakú területen maga körül.</FirefoamPopper.description>
+  <!-- EN: Trigger firefoam popper -->
+  <FirefoamPopper.comps.CompUsable.useLabel>Habot kiereszt</FirefoamPopper.comps.CompUsable.useLabel>
+  
+  <!-- EN: grave -->
+  <Grave.label>sír</Grave.label>
+  <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
+  <Grave.description>Helyezd a holtakat sírba, hogy megfelelő végső nyughelyet biztosít nekik. A gyarmatosok néha meglátogatják a foglalt sírhelyeket, meditatív elfoglaltságként.</Grave.description>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>talaj letapogató</GroundPenetratingScanner.label>
+  <!-- EN: A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof. -->
+  <GroundPenetratingScanner.description>Lefelé néző radar, szonárral kombinálva. Lehetővé teszi föld alatti ásványok detektálását, de azonosításukat nem. Rengeteg energiát igényel.</GroundPenetratingScanner.description>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>ásvány letapogató</LongRangeMineralScanner.label>
+  <!-- EN: A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it. -->
+  <LongRangeMineralScanner.description>Automatikusan képes az értékes anyagok (jáde, arany) detektálására közeli körzetekben (kivéve, ahol a letapogató áll).\nÁtlagosan 30 naponta van találat, 30 egységnyi körzetben.\nTöbb letapogató építése ugyanoda nem növeli a találatok számát.</LongRangeMineralScanner.description>
+  
+  <!-- EN: marriage spot -->
+  <MarriageSpot.label>ceremónia hely</MarriageSpot.label>
+  <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
+  <MarriageSpot.description>Kijelöl egy helyet, ahol házassági ceremónia rendezhető. Nézők bármelyik oldalra állhatnak.</MarriageSpot.description>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>talajvíz pumpa</MoisturePump.label>
+  <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
+  <MoisturePump.description>Nagyon lassan eltávolítja a nedvességet a talajból, mocsárból illetve sekély vízből száraz talajt készít. Mély vízre nincs hatással.</MoisturePump.description>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>multi analizátor</MultiAnalyzer.label>
+  <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
+  <MultiAnalyzer.description>Növeli a kutatás sebességét. Fejlett laborasztal mellé kell telepíteni. Egy multianalizátort csak egy laborasztallal lehet összekötni.</MultiAnalyzer.description>
+  
+  <!-- EN: orbital trade beacon -->
+  <OrbitalTradeBeacon.label>orbitális jeladó</OrbitalTradeBeacon.label>
+  <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
+  <OrbitalTradeBeacon.description>Orbitális kereskedéshez szükséges. csak olyan árucikkeket lehet eladni, amik a jeladó közelében vannak. Beltérben is el lehet helyezni.</OrbitalTradeBeacon.description>
+  
+  <!-- EN: party spot -->
+  <PartySpot.label>buli hely</PartySpot.label>
+  <!-- EN: Designates a spot for throwing parties. -->
+  <PartySpot.description>Kijelöl egy helyet, ahol a bulik megrendezhetők. Az adott pont körül szabad területnek kell lennie.</PartySpot.description>
+  
+  <!-- EN: pen marker -->
+  <PenMarker.label>karámjelző</PenMarker.label>
+  <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
+  <PenMarker.description>Állati karámot jelző táblával ellátott pózna. Kerítésekkel, barikádokkal, falakkal és ajtókkal körülvett területen kell elhelyezni. Minden karámjelölőhöz hozzárendelhető állatok egy csoportja, amelyet elfogad, és a felvezetők az ezeknek megfelelő karámba viszik az állatokat.</PenMarker.description>
+  
+  <!-- EN: pod launcher -->
+  <PodLauncher.label>szállító kapszula kilövő</PodLauncher.label>
+  <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
+  <PodLauncher.description>Üzemanyagtöltő állás egy szállítókapszula kilövéséhez. Lehet egyszerre többet indítani, de ehhez szomszédosoknak kell lenniük.</PodLauncher.description>
+  
+  <!-- EN: sarcophagus -->
+  <Sarcophagus.label>szarkofág</Sarcophagus.label>
+  <!-- EN: An ornamented burial receptacle for the honored dead. -->
+  <Sarcophagus.description>Díszes sírhely a köztiszteletben álló halottnak.</Sarcophagus.description>
+  
+  <!-- EN: grand stele -->
+  <SteleGrand.label>hatalmas kőtábla</SteleGrand.label>
+  <!-- EN: A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+  <SteleGrand.description>Hatalmas, toronyszerű kőtábla oldalain kiterjedt vésetekkel. A sztéléket ősidők óta használták személyek, csaták és más fontos események emlékére.</SteleGrand.description>
+  
+  <!-- EN: large stele -->
+  <SteleLarge.label>nagy kőtábla</SteleLarge.label>
+  <!-- EN: A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+  <SteleLarge.description>Magas, vastag kőlap oldalán vésetekkel. A sztéléket ősidők óta használták személyek, csaták és más fontos események emlékére.</SteleLarge.description>
+  
+  <!-- EN: tool cabinet -->
+  <ToolCabinet.label>szerszám szekrény</ToolCabinet.label>
+  <!-- EN: Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets. -->
+  <ToolCabinet.description>Növeli az előállítás sebességét. Munkaasztal mellé kell telepíteni. Egy munkaasztal két szerszámszekrénnyel lehet összeköttetésben.</ToolCabinet.description>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>szállító kapszula</TransportPod.label>
+  <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
+  <TransportPod.description>Rakétahajtású szállítókapszula emberek, tárgyak vagy állatok szuborbitális szállítására. Szállítás mellett használható támadásokhoz vagy utánpótlás biztosítására.</TransportPod.description>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>életfunkció monitor</VitalsMonitor.label>
+  <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
+  <VitalsMonitor.description>Növeli a betegellátás minőségét. Betegágy mellé kell telepíteni. Egy életfunkció monitor csak egy betegággyal lehet összekötve.</VitalsMonitor.description>
+  
+</LanguageData>
