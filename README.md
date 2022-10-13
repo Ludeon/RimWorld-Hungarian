@@ -1,24 +1,25 @@
 ﻿RimWorld-Hungarian
 ==================
 
-Official Hungarian translation of RimWorld.
+Official Hungarian translation of RimWorld. - A Rimworld hivatalos magyar fordítása.
 
 See this page for license info:
 
 http://ludeon.com/forums/index.php?topic=2933.0
 
 
-Translators:
+Fordítók/Translators:
 ---------------------
 - pluhi
-- Laoka25
 - mosszo
 - gorrt (Malvern)
+- Kanco09
 
 Some text used from the old partial translation created by:
 - Jamesgt
 - SjoCi
 - Moredoor
+- Laoka25
 
 ---------------------
 
