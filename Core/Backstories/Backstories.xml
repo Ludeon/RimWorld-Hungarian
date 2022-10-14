@@ -2459,11 +2459,11 @@
   
   <Firebomber51>
     <!-- EN: firebomber -->
-    <title>TODO</title>
+    <title>Tűzvető</title>
     <!-- EN: firebomber -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Tűzvető</titleShort>
     <!-- EN: [PAWN_nameDef] piloted a small fighter-bomber design specialized in spreading incendiary gel on flammable targets.\n\nConditioned to love the sight of a target lighting up, [PAWN_pronoun] grew to love fire in all its forms - war, cooking, and even for cauterizing wounds in the hospital. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] egy vadászbombázó pilótája volt, amely arra specializálódott, hogy gyúlékony folyadékot szórjon szét éghető célpontokra. [PAWN_nameDef] imádta a fénylő célpontok látványát és megszerette a tűz minden formáját - a háborúban, főzésnél, még sebek kiégetésénél is a kórházban.</desc>
   </Firebomber51>
   
   <FireKeeper44>
@@ -2504,11 +2504,11 @@
   
   <Forester96>
     <!-- EN: forester -->
-    <title>TODO</title>
+    <title>Erdész</title>
     <!-- EN: forester -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Erdész</titleShort>
     <!-- EN: [PAWN_nameDef] grew and harvested forests. [PAWN_pronoun] understood both the practical challenges of soil types, wind, and rain, as well as the long-term planning of forest growth. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] erdőket ültetett majd kitermelte őket. Megértette a talajtípusok, a szél és az eső nyújtotta kihívásokat, valamint hogy hosszú távra tervezzen.</desc>
   </Forester96>
   
   <ForestProwler15>
@@ -2531,11 +2531,11 @@
   
   <Framer37>
     <!-- EN: framer -->
-    <title>TODO</title>
+    <title>Primitív építész</title>
     <!-- EN: framer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Primitív építész</titleShort>
     <!-- EN: [PAWN_nameDef] was responsible for erecting structures for [PAWN_possessive] fellow tribespeople to live in. This included both temporary structures for nomadic travel, and permanent settlements. Gathering building materials from local plant life was part of the job. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] volt a felelős azért, hogy építményeket emeljen a törzse számára. Ide tartoztak a nomád utazáshoz szükséges ideiglenes építmények és az állandó települések is. A munka része volt az építőanyagok kiválogatása a helyi növényvilágból.</desc>
   </Framer37>
   
   <Freethinker38>
@@ -2585,11 +2585,11 @@
   
   <FurnitureBuilder83>
     <!-- EN: furniture builder -->
-    <title>TODO</title>
+    <title>Asztalos</title>
     <!-- EN: builder -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Asztalos</titleShort>
     <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent [PAWN_possessive] time building beautiful furniture for wealthy glitterworld clients. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] erdők mellett nőtt fel. Ideje nagy részét gyönyörű bútorok készítésére fordította a jómódú ügyfelei számára.</desc>
   </FurnitureBuilder83>
   
   <GalacticPage37>
@@ -2639,11 +2639,11 @@
   
   <GangMember16>
     <!-- EN: gang member -->
-    <title>TODO</title>
+    <title>Bandatag</title>
     <!-- EN: gang kid -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Bandatag</titleShort>
     <!-- EN: [PAWN_nameDef] grew up without parents. [PAWN_possessive] whole life was spent alone, fighting for survival on the streets.\n\nNo matter how hard it became to survive, [PAWN_pronoun] never gave up. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] szülei nélkül nőtt fel. Egész életét egyedül töltötte, az utcákon küzdve a túlélésért.\n\nNem számított, mennyire volt nehéz az élet, [PAWN_nameDef] soha nem adta fel.</desc>
   </GangMember16>
   
   <GangMember83>
@@ -2652,7 +2652,7 @@
     <!-- EN: ganger -->
     <titleShort>Bandatag</titleShort>
     <!-- EN: [PAWN_nameDef] grew up homeless on an urbworld. [PAWN_pronoun] was forced to fight and struggle for everything, making [PAWN_objective] hard and ruthless long before adulthood.\n\n[PAWN_nameDef] would have stayed in those streets, had [PAWN_pronoun] not been injured in a shootout and had [PAWN_possessive] body confiscated for use by one of the worldwide city's ruling corporations. -->
-    <desc>[PAWN_nameDef] szülei nélkül nőtt fel. Egész életét egyedül töltötte, az utcákon küzdve a túlélésért.\n\nNem számított, mennyire volt nehéz az élet, soha nem adta fel.\n</desc>
+    <desc>[PAWN_nameDef] hajléktalanként nőtt fel egy urbánusvilágban. Kénytelen volt harcolni és küzdeni mindenért, így már a felnőttkora előtt könyörtelenné vált. Máig ezekben az utcákban maradt volna, ha nem sérül meg egy lövöldözésben, és a testét nem kobozza el a városbolygó egyik uralkodó vállalata.</desc>
   </GangMember83>
   
   <GangSoldier39>
@@ -2713,22 +2713,22 @@
     <!-- EN: gigolo -->
     <title>Selyemfiú</title>
     <!-- EN: gigolo -->
-    <titleFemale>Selyemfiú</titleFemale>
+    <titleFemale>Kéjnő</titleFemale>
     <!-- EN: courtesean -->
     <titleShort>Kurtizán</titleShort>
     <!-- EN: courtesean -->
     <titleShortFemale>Kurtizán</titleShortFemale>
     <!-- EN: [PAWN_nameDef] was used for [PAWN_possessive] body by hundreds of customers in brothels on several planets. [PAWN_pronoun] gained some mental marks and a special kind of street smarts. -->
-    <desc>[PAWN_nameDef] eladta magát rabszolgának, hogy a pénzen bummpatkányos pizzát vehessen. Eladták a Zeglar gyarmatra, ahol férfi prostituáltként dolgozott.\n\nEgy szerencsés alkalommal csatlakozott egy csapat menekülő rabszolgához, akik eltérítettek egy hajót. Miután megküzdött a rabszolgák vezetőjével az utolsó bummpatkányos pizzaszeletért, [PAWN_nameDef] egy mentőkabinban menekült el a hajóról.</desc>
+    <desc>[PAWN_nameDef] testét ügyfelek százai használták több bolygó bordélyházában. Szerzett néhány mentális nyomot és megértette az utca törvényét.</desc>
   </Gigolo30>
   
   <Gigolo68>
     <!-- EN: gigolo -->
-    <title>TODO</title>
+    <title>Selyemfiú</title>
     <!-- EN: gigolo -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Selyemfiú</titleShort>
     <!-- EN: [PAWN_nameDef] sold [PAWN_objective]self into slavery for money to purchase boomrat pizza. [PAWN_pronoun] was then traded to the Zeglar colonies, where [PAWN_pronoun] worked as a male prostitute.\n\nIn a fluke event, [PAWN_pronoun] managed to join other escaping slaves as they hijacked a ship. After fighting with the captain of the slave crew over the last piece of boomrat pizza, [PAWN_nameDef] was sent off the ship in an escape pod. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] eladta magát rabszolgának, hogy a pénzen bummpatkányos pizzát vehessen. Eladták a Zeglar gyarmatra, ahol férfi prostituáltként dolgozott.\n\nEgy szerencsés alkalommal csatlakozott egy csapat menekülő rabszolgához, akik eltérítettek egy hajót. Miután megküzdött a rabszolgák vezetőjével az utolsó bummpatkányos pizzaszeletért, [PAWN_nameDef] egy mentőkabinban menekült el a hajóról.</desc>
   </Gigolo68>
   
   <GlitterworldEmpath26>
@@ -2913,11 +2913,11 @@
   
   <Healer35>
     <!-- EN: healer -->
-    <title>TODO</title>
+    <title>Gyógyító</title>
     <!-- EN: healer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Gyógyító</titleShort>
     <!-- EN: [PAWN_nameDef] took the time to admire the beauty of the world. \n\n[PAWN_possessive] passive-aggressiveness surfaced once in a while, but [PAWN_pronoun] tried to adapt to [PAWN_possessive] changing life. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] nem sajnálta az időt, hogy gyönyörködjön a világ szépségében.\n\nRejtett erőszakossága egyszer-egyszer a felszínre tört, de próbálta változó életéhez hozzáigazítani.</desc>
   </Healer35>
   
   <Healer46>
@@ -2926,7 +2926,7 @@
     <!-- EN: healer -->
     <titleShort>Gyógyító</titleShort>
     <!-- EN: After [PAWN_possessive] tribe's elder healer was killed in a raid, [PAWN_nameDef] took on the role. [PAWN_pronoun] spent [PAWN_possessive] days scrounging up herbs and mineral compounds from the nearby area to use in surprisingly effective remedies. -->
-    <desc>[PAWN_nameDef] nem sajnálta az időt, hogy gyönyörködjön a világ szépségében.\n\nRejtett erőszakossága egyszer-egyszer a felszínre tört, de próbálta változó életéhez hozzáigazítani.</desc>
+    <desc>TODO.</desc>
   </Healer46>
   
   <HearthTender66>
@@ -2971,7 +2971,7 @@
     <!-- EN: herder -->
     <titleShort>TODO</titleShort>
     <!-- EN: [PAWN_nameDef] tended the muffalo herds, keeping them safe from predators and treating sick animals. It was quiet work, but [PAWN_pronoun] enjoyed being away from people. -->
-    <desc>TODO</desc>
+    <desc>Gyerekként, [PAWN_nameDef] a muffalo csordára vigyázott, gondozta a beteg állatokat. Csendes munka volt, de élvezte, hogy nem kell emberek között lennie.</desc>
   </Herder19>
   
   <Herder33>
@@ -2980,7 +2980,7 @@
     <!-- EN: herder -->
     <titleShort>Juhász</titleShort>
     <!-- EN: [PAWN_nameDef] herded a variety of animals to help feed and clothe [PAWN_possessive] tribe while on the move. [PAWN_nameDef] learned how to calm and direct the beasts, and how to hunt [PAWN_possessive] own meals on the trail. -->
-    <desc>Gyerekként, [PAWN_nameDef] a muffalo csordára vigyázott, gondozta a beteg állatokat. Csendes munka volt, de élvezte, hogy nem kell emberek között lennie.</desc>
+    <desc>TODO</desc>
   </Herder33>
   
   <Hermit82>
@@ -3146,7 +3146,7 @@
     <!-- EN: hunter -->
     <titleShort>vadász</titleShort>
     <!-- EN: [PAWN_nameDef] hunted wild animals to help feed [PAWN_possessive] community. When times became tough, others looked to [PAWN_objective] as the one to help people through a tough season. -->
-    <desc>[PAWN_nameDef] profi vadász volt.\n\nMegtanult követni és csapdába ejteni bármilyen állatot a legveszélyesebb helyeken is, és jól ismert több találékony módszert a különösen nagy állatok leterítésére.</desc>
+    <desc>TODO[PAWN_nameDef] profi vadász volt.\n\nMegtanult követni és csapdába ejteni bármilyen állatot a legveszélyesebb helyeken is, és jól ismert több találékony módszert a különösen nagy állatok leterítésére.</desc>
   </Hunter89>
   
   <HunterOfTheKing53>
@@ -3317,9 +3317,9 @@
   
   <InsuranceBroker9>
     <!-- EN: insurance broker -->
-    <title>TODO</title>
+    <title>Biztosítási bróker</title>
     <!-- EN: broker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Bróker</titleShort>
     <!-- EN: A life of insurance dealing consumed [PAWN_nameDef]'s hopes and dreams. When a mysterious machine persona offered the gambler implant, it seemed like a way to add color to a gray existence.\n\n[PAWN_nameDef] did not, however, plan on being captured by pirates and sent across the galaxy to a distant rimworld. -->
     <desc>TODO</desc>
   </InsuranceBroker9>
@@ -5050,11 +5050,11 @@
   
   <Propagandist86>
     <!-- EN: propagandist -->
-    <title>TODO</title>
+    <title>Propagandista</title>
     <!-- EN: propagandist -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Propagandista</titleShort>
     <!-- EN: [PAWN_nameDef] was a skilled artist and military propagandist. [PAWN_pronoun] created works of art depicting [PAWN_possessive] lords and armies fovourably. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] képzett művész ée katonai propagandista volt. Olyan munkákat készített, amelyek témája urai és seregeik sikerei voltak.</desc>
   </Propagandist86>
   
   <ProstheticSurgeon0>
@@ -5122,11 +5122,11 @@
   
   <QuarryWorker29>
     <!-- EN: quarry worker -->
-    <title>TODO</title>
+    <title>Kőfejtő munkás</title>
     <!-- EN: quarry worker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Kőfejtő munkás</titleShort>
     <!-- EN: [PAWN_nameDef] worked in a quarry helping to extract valuable stone from the hillside. [PAWN_pronoun] learned to sense opportunities and dangers in the stone by sight, touch, and intuition. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] egy kőfejtőben dolgozott, ahol értékes köveket bányásztak a hegyoldalból. Megtanulta megérezni látásból, tapintásból és ösztönből a kőben lévő jó vagy veszélyes dolgokat.</desc>
   </QuarryWorker29>
   
   <QuietNerd97>
@@ -7468,7 +7468,7 @@
     <!-- EN: slave -->
     <titleShort>Rabszolga</titleShort>
     <!-- EN: [PAWN_nameDef] grew up as a slave to a particularly nasty noble family on a medieval world. \n\nWhile [PAWN_pronoun] received no formal education, the harsh labor regimen made [PAWN_possessive] body strong. -->
-    <desc>[PAWN_nameDef] egy különösen undok nemesi család rabszolgájaként nőtt fel egy középkori világban. \n		\nNem kapott formális oktatást, de a kemény munka megerősítette testét.</desc>
+    <desc>[PAWN_nameDef] egy különösen undok nemesi család rabszolgájaként nőtt fel egy középkori világban. \n\nNem kapott formális oktatást, de a kemény munka megerősítette testét.</desc>
   </WorkCampSlave37>
   
   <WorldSlider42>
