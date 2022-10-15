@@ -501,7 +501,7 @@
   <!-- EN: Resources needed to rearm this turret -->
   <RearmCostExplanation>Az újraélesítéshez szükséges anyagok (nehézségi szinttől függ)</RearmCostExplanation>
   <!-- EN: affected by difficulty -->
-  <RearmCostExplanationDifficulty>TODO</RearmCostExplanationDifficulty>
+  <RearmCostExplanationDifficulty>nehézség által érintett</RearmCostExplanationDifficulty>
   <!-- EN: Shots before rearm -->
   <ShotsBeforeRearm>Maradék lövések száma</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
@@ -511,7 +511,7 @@
   <!-- EN: Target -->
   <Target>Célpont</Target>
   <!-- EN: The types of targets on which this ability can be used. -->
-  <AbilityTargetDesc>TODO</AbilityTargetDesc>
+  <AbilityTargetDesc>A célpontok típusai, amelyeken ez a képesség használható.</AbilityTargetDesc>
   <!-- EN: human -->
   <TargetHuman>Ember</TargetHuman>
   <!-- EN: animal -->
@@ -525,29 +525,29 @@
   <!-- EN: Click to view factions. -->
   <ClickToViewFactions>Frakció információkért kattints!</ClickToViewFactions>
   <!-- EN: meditation focus types -->
-  <MeditationFocuses>TODO</MeditationFocuses>
+  <MeditationFocuses>meditációs fókusztípusok</MeditationFocuses>
   <!-- EN: Unlocks meditation focus types -->
-  <MeditationFocusesUnlocked>TODO</MeditationFocusesUnlocked>
+  <MeditationFocusesUnlocked>Feloldja a meditációs fókusztípusokat</MeditationFocusesUnlocked>
   <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an obejct to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
-  <MeditationFocusesPawnDesc>TODO</MeditationFocusesPawnDesc>
+  <MeditationFocusesPawnDesc>A meditációs fókusz típusai, amelyeket ez a személy használhat. Meditáció közben az ember egy tárgyra összpontosíthat, hogy fokozza a pszichofókusz-erősítését – de csak akkor, ha az objektum olyan fókusztípust kínál, amelyet használhat. Minden egyes ember meditációs típusát a hátterük, tulajdonságaik, társadalmi helyzetük stb. határozzák meg.</MeditationFocusesPawnDesc>
   <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
-  <MeditationFocusesDesc>TODO</MeditationFocusesDesc>
+  <MeditationFocusesDesc>Az objektum által kínált meditációs fókusztípusok. A meditáló személy összpontosíthat erre a tárgyra, hogy fokozza a pszichofókuszát, de csak akkor, ha tudja használni a meditációs típusok valamelyikét. Minden személy különböző meditációs típusokat használhat a hátterétől, tulajdonságaitól, társadalmi helyzetétől stb.</MeditationFocusesDesc>
   <!-- EN: Can use {0} focus type because -->
-  <MeditationFocusCanUse>TODO</MeditationFocusCanUse>
+  <MeditationFocusCanUse>Használhat {0} fókusztípust, mert</MeditationFocusCanUse>
   <!-- EN: {0} focus objects -->
-  <MeditationFocusObjects>TODO</MeditationFocusObjects>
+  <MeditationFocusObjects>{0} fókuszobjektum</MeditationFocusObjects>
   <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
-  <MeditationFocusEnabledByTitle>TODO</MeditationFocusEnabledByTitle>
+  <MeditationFocusEnabledByTitle>a következő cím birtokosa: {TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
   <!-- EN: has childhood -->
-  <MeditationFocusEnabledByChildhood>TODO</MeditationFocusEnabledByChildhood>
+  <MeditationFocusEnabledByChildhood>gyerekkora van</MeditationFocusEnabledByChildhood>
   <!-- EN: has adulthood -->
-  <MeditationFocusEnabledByAdulthood>TODO</MeditationFocusEnabledByAdulthood>
+  <MeditationFocusEnabledByAdulthood>felnőttkora van</MeditationFocusEnabledByAdulthood>
   <!-- EN: has trait -->
-  <MeditationFocusEnabledByTrait>TODO</MeditationFocusEnabledByTrait>
+  <MeditationFocusEnabledByTrait>tulajdonsága van</MeditationFocusEnabledByTrait>
   <!-- EN: does not have trait -->
-  <MeditationFocusDisabledByTrait>TODO</MeditationFocusDisabledByTrait>
+  <MeditationFocusDisabledByTrait>nincs tulajdonsága</MeditationFocusDisabledByTrait>
   <!-- EN: Enables meditation focus types -->
-  <EnablesMeditationFocusType>TODO</EnablesMeditationFocusType>
+  <EnablesMeditationFocusType>Engedélyezi a meditációs fókusztípusokat</EnablesMeditationFocusType>
   
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
@@ -649,7 +649,7 @@
   <!-- EN: Form caravan -->
   <FormCaravan>Karaván létrehozása</FormCaravan>
   <!-- EN: Send -->
-  <Send>TODO</Send>
+  <Send>Küld</Send>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>Ebből a tárgyból ennyit rakhatunk a karavánra.</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
@@ -657,7 +657,7 @@
   <!-- EN: Items -->
   <ItemsTab>Tárgyak</ItemsTab>
   <!-- EN: Travel supplies -->
-  <TravelSupplies>TODO</TravelSupplies>
+  <TravelSupplies>Utazási készletek</TravelSupplies>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>Legalább egy járóképes gyarmatost a karavánhoz kell rendelni.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
@@ -931,7 +931,7 @@
   <!-- EN: Food restriction -->
   <FoodRestriction>Étel korlátozás</FoodRestriction>
   <!-- EN: Food -->
-  <FoodRestrictionShort>TODO</FoodRestrictionShort>
+  <FoodRestrictionShort>Étel</FoodRestrictionShort>
   <!-- EN: Lavish -->
   <FoodRestrictionLavish>Lakoma</FoodRestrictionLavish>
   <!-- EN: Fine -->
@@ -1025,7 +1025,7 @@
   <!-- EN: Neural heat gain -->
   <AbilityEntropyGain>Entrópia növekedés</AbilityEntropyGain>
   <!-- EN: Psyfocus cost -->
-  <AbilityPsyfocusCost>TODO</AbilityPsyfocusCost>
+  <AbilityPsyfocusCost>Pszichofókusz költség</AbilityPsyfocusCost>
   <!-- EN: Effect duration -->
   <AbilityDuration>Hatás ideje</AbilityDuration>
   <!-- EN: Effect radius -->
@@ -1063,7 +1063,7 @@
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
   <AbilityCantApplyWrongAttractionGender>TODO</AbilityCantApplyWrongAttractionGender>
   <!-- EN: Psyfocus cost per mental break intensity -->
-  <PsyfocusCostPerMentalBreakIntensity>TODO</PsyfocusCostPerMentalBreakIntensity>
+  <PsyfocusCostPerMentalBreakIntensity>Pszichofókusz költség idegösszeomlás intenzitásonként(?)</PsyfocusCostPerMentalBreakIntensity>
   <!-- EN: {0_labelShort} is already inspired. -->
   <AbilityAlreadyInspired>TODO</AbilityAlreadyInspired>
   <!-- EN: {0_labelShort} can't get an inspiration right now. -->

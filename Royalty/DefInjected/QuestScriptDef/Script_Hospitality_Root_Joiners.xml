@@ -5,7 +5,10 @@
     <li>lodgersLabel->guest</li>
     <li>lodgersLabelPlural->[asker_faction_pawnsPlural]</li>
   -->
-  <Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>TODO</Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>
+  <Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->vendég</li>
+    <li>lodgersLabelPlural->[asker_faction_pawnsPlural]</li>
+  </Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>lodgersDef(lodgersCount==1)->[lodgers0_nameDef]</li>
     <li>lodgersDef(lodgersCount>=2)->the [lodgersLabelPlural]</li>
@@ -95,6 +98,35 @@
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->nobles</li>
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->aristocrats</li>
   -->
-  <Hospitality_Joiners.questNameRules.rulesStrings>TODO</Hospitality_Joiners.questNameRules.rulesStrings>
+  <Hospitality_Joiners.questNameRules.rulesStrings>
+    <li>questName->menedék [lodgerIndef] számára</li>
+    <li>questName->vendéglátás [lodgerIndef] számára</li>
+    <li>questName->[lodgerIndef] vendégsége</li>
+    <li>questName->[lodgerIndef] segítségre szorul</li>
+    <li>questName(generateThreats==true,priority=1)->[lodgerIndef] védelmezése</li>
+    <li>questName(generateThreats==true,priority=1)->[lodgerIndef] megóvása</li>
+    <li>questName(generateThreats==true,priority=1)->biztonság [lodgerIndef] számára</li>
+    <li>questName(generateThreats==true,priority=1)->[lodgerIndef] fenyegetettségben</li>
+    <li>questName(generateThreats==true,priority=1)->[lodgerIndef] veszélyben</li>
+    <li>questName(generateThreats==true,priority=1)->[lodgerIndef] ellenségekkel</li>
+    <li>questName(generateThreats==true,priority=1)->[lodgerIndef] célkeresztben</li>
+    <li>lodgerIndef(askerIsNull==true,lodgersCount==1)->[lodgers0_label]</li>
+    <li>lodgerIndef(askerIsNull==true,lodgersCount==1)->egy [lodgers0_title]</li>
+    <li>lodgerIndef(askerIsNull==true,lodgersCount>=2)->utazók</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount==1)->[lodgers0_label]</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount==1)->egy [lodgers0_title]</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount==1)->egy barát</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount==1)->egy szövetséges</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount>=2)->barátok</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount>=2)->szövetségesek</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount==1,p=3)->egy [asker_royalTitleInCurrentFaction]</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount==1)->[asker_label]</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount==1)->egy császári</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount==1)->egy nemes</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount==1)->egy arisztokrata</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->császáriak</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->nemesek</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->arisztokraták</li>
+  </Hospitality_Joiners.questNameRules.rulesStrings>
   
 </LanguageData>

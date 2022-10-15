@@ -19,7 +19,7 @@
   <!-- EN: food -->
   <Food.label>étel</Food.label>
   <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
-  <Food.description>Az étel mutatja, hogy mennyi tápanyagot vett magához az alany az utóbbi időben. Ha nullára csökken, akkor az éhezés miatt sebesülés lép fel.</Food.description>
+  <Food.description>Az étel mutatja, hogy mennyi tápanyagot vett magához az alany az utóbbi időben. Ha nullára csökken, a lény egyre alultápláltabb lesz és végül meghal.</Food.description>
   
   <!-- EN: indoors -->
   <Indoors.label>benn</Indoors.label>

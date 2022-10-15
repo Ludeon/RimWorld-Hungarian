@@ -487,21 +487,21 @@
   <!-- EN: radius {0} -->
   <ConditionCauserRadius>{0} sugár</ConditionCauserRadius>
   <!-- EN: low psyfocus -->
-  <LowPsyfocus>TODO</LowPsyfocus>
+  <LowPsyfocus>alacsony pszichofókusz</LowPsyfocus>
   <!-- EN: {0} left -->
   <DurationLeft>{0} van hátra</DurationLeft>
   <!-- EN: Any of -->
   <AnyOf>TODO</AnyOf>
   <!-- EN: Requires {0} trait -->
-  <TraitRequired>TODO</TraitRequired>
+  <TraitRequired>{0} tulajdonság szükséges</TraitRequired>
   <!-- EN: Goodwill -->
-  <Goodwill>TODO</Goodwill>
+  <Goodwill>Viszony</Goodwill>
   <!-- EN: Natural goodwill -->
-  <NaturalGoodwill>TODO</NaturalGoodwill>
+  <NaturalGoodwill>Természetes viszony</NaturalGoodwill>
   <!-- EN: Natural goodwill range -->
-  <NaturalGoodwillRange>TODO</NaturalGoodwillRange>
+  <NaturalGoodwillRange>Természetes jóindulatú tartomány</NaturalGoodwillRange>
   <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
-  <NaturalGoodwillDescription>TODO</NaturalGoodwillDescription>
+  <NaturalGoodwillDescription>A természetes jóindulat a frakcióidentitásokon és meggyőződéseken alapul. Ha a jelenlegi viszony messze van a természetes tartománytól, az idővel lassan a természetes viszony felé tolódik el.\n\nA természetes viszony felé haladva minden hatás megszorozódik {0}-kal.</NaturalGoodwillDescription>
   <!-- EN: reducing resistance of {0_nameIndef} -->
   <JobReport_ReduceResistance>{0_nameIndef} ellenállásának csökkentése</JobReport_ReduceResistance>
   <!-- EN: Too large -->
@@ -517,19 +517,19 @@
   <!-- EN: Disabled by -->
   <ApparelRequirementDisabledLabel>TODO</ApparelRequirementDisabledLabel>
   <!-- EN: Nudism -->
-  <Nudism>TODO</Nudism>
+  <Nudism>Nudizmus</Nudism>
   <!-- EN: Study progress -->
-  <StudyProgress>TODO</StudyProgress>
+  <StudyProgress>Tanulmányi haladás</StudyProgress>
   <!-- EN: completed -->
-  <StudyCompleted>TODO</StudyCompleted>
+  <StudyCompleted>elkészült</StudyCompleted>
   <!-- EN: Attack this to destroy it. -->
-  <AttackToDestroy>TODO</AttackToDestroy>
+  <AttackToDestroy>Támadd meg ezt, hogy elpusztítsd.</AttackToDestroy>
   <!-- EN: Remove this by attacking it. -->
-  <RemoveByAttackingTooltip>TODO</RemoveByAttackingTooltip>
+  <RemoveByAttackingTooltip>Távolítsd el ezt úgy, hogy megtámadod.</RemoveByAttackingTooltip>
   <!-- EN: Food -->
-  <ThoughtFoodEatenFood>TODO</ThoughtFoodEatenFood>
+  <ThoughtFoodEatenFood>Étel</ThoughtFoodEatenFood>
   <!-- EN: Ingredients -->
-  <ThoughtFoodEatenIngredients>TODO</ThoughtFoodEatenIngredients>
+  <ThoughtFoodEatenIngredients>Hozzávalók</ThoughtFoodEatenIngredients>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -1386,7 +1386,7 @@
   <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
   <PawnTooltipPsychicEntropyLimit>Pszichotikus entrópia limiter bekapcsolása.\n\nA limit fölött súlyos egészségi kockázatok lépnek fel, mint pl. hosszútávú összeomlás vagy akár jelentős agykárosodás. Minél nagyobb a limit túllépés, annál súlyosabbak a tünetek.</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
-  <PawnTooltipPsyfocus>Psyfókusz: {0}</PawnTooltipPsyfocus>
+  <PawnTooltipPsyfocus>Pszichofókusz: {0}</PawnTooltipPsyfocus>
 
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
