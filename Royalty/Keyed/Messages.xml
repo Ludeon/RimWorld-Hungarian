@@ -3,45 +3,45 @@
 
   <!-- Shuttle landing zones -->
   <!-- EN: Shuttle could not land on pad: {0} -->
-  <ShuttleBlocked>TODO</ShuttleBlocked>
+  <ShuttleBlocked>A transzfer nem tudott leszállni: {0}</ShuttleBlocked>
   <!-- EN: The shuttle has arrived. -->
-  <MessageShuttleArrived>TODO</MessageShuttleArrived>
+  <MessageShuttleArrived>Az űrsikló megérkezett.</MessageShuttleArrived>
   <!-- EN: The shuttle arrived, but since there were no colonists inside, the contents were lost. -->
-  <MessageShuttleArrivedContentsLost>TODO</MessageShuttleArrivedContentsLost>
+  <MessageShuttleArrivedContentsLost>Az űrsikló megérkezett, de mivel nem voltak bent telepesek, a rakomány elveszett.</MessageShuttleArrivedContentsLost>
   <!-- EN: Cannot call shuttle -->
-  <CannotCallShuttle>TODO</CannotCallShuttle>
+  <CannotCallShuttle>Az űrsiklót nem lehet hívni</CannotCallShuttle>
 
   <!-- EN: Cannot land in undiscovered area. -->
-  <ShuttleCannotLand_Fogged>TODO</ShuttleCannotLand_Fogged>
+  <ShuttleCannotLand_Fogged>Nem tud leszállni felfedezetlen területen.</ShuttleCannotLand_Fogged>
   <!-- EN: Area must be walkable. -->
-  <ShuttleCannotLand_Unwalkable>TODO</ShuttleCannotLand_Unwalkable>
+  <ShuttleCannotLand_Unwalkable>A területnek járhatónak kell lennie.</ShuttleCannotLand_Unwalkable>
 
   <!-- EN: Select {BESTOWER_definite} and click 'Start bestowing ceremony' to commence the ceremony. -->
-  <MessageBestowerWaiting>TODO</MessageBestowerWaiting>
+  <MessageBestowerWaiting>Válaszd ki a(z) {BESTOWER_definite} lehetőséget, és kattints az „Ajándékozási ceremónia indítása” gombra a ceremónia megkezdéséhez.</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
-  <MessageBestowerUnreachable>TODO</MessageBestowerUnreachable>
+  <MessageBestowerUnreachable>Az adományozót nem lehet elérni!</MessageBestowerUnreachable>
   <!-- EN: {0} is busy. -->
-  <MessageBestowingTargetIsBusy>TODO</MessageBestowingTargetIsBusy>
+  <MessageBestowingTargetIsBusy>{0} elfoglalt.</MessageBestowingTargetIsBusy>
   <!-- EN: The bestower is annoyed with the interference and has decided to leave. -->
-  <MessageBestowingSpotUnreachable>TODO</MessageBestowingSpotUnreachable>
+  <MessageBestowingSpotUnreachable>Az adományozó bosszús a beavatkozás miatt, és úgy döntött, hogy távozik.</MessageBestowingSpotUnreachable>
   <!-- EN: The bestower is leaving due to life-threatening danger. -->
-  <MessageBestowingDanger>TODO</MessageBestowingDanger>
+  <MessageBestowingDanger>Az adományozó életveszély miatt távozik.</MessageBestowingDanger>
   <!-- EN: The bestower is leaving due to life-threatening temperature. -->
-  <MessageBestowingDangerTemperature>TODO</MessageBestowingDangerTemperature>
+  <MessageBestowingDangerTemperature>Az adományozó az életveszélyes hőmérséklet miatt távozik.</MessageBestowingDangerTemperature>
   <!-- EN: The bestowing ceremony has been interrupted. -->
-  <MessageBestowingInterrupted>TODO</MessageBestowingInterrupted>
+  <MessageBestowingInterrupted>Az adományozási ceremónia félbeszakadt.</MessageBestowingInterrupted>
 
   <!-- EN: {PAWN_definite}'s bestowing ceremony has begun. -->
-  <MessageBestowingCeremonyStarted>TODO</MessageBestowingCeremonyStarted>
+  <MessageBestowingCeremonyStarted>Megkezdődött {PAWN_definite} adományozási ceremóniája.</MessageBestowingCeremonyStarted>
   <!-- EN: You defeated the {FACTION_pawnsPlural}! Get back on the shuttle to launch it. -->
-  <MessageMissionGetBackToShuttle>TODO</MessageMissionGetBackToShuttle>
+  <MessageMissionGetBackToShuttle>Legyőzted a {FACTION_pawnsPlural} csapatot! Szállj vissza a kompra, hogy elindíthasd.</MessageMissionGetBackToShuttle>
 
   <!-- EN: {FACTION_name} has dropped resources nearby. -->
-  <MessagePermitTransportDrop>TODO</MessagePermitTransportDrop>
+  <MessagePermitTransportDrop>{FACTION_name} erőforrásokat hagyott a közelben.</MessagePermitTransportDrop>
   <!-- EN: {FACTION_name} has sent resources to {PAWN_nameDef}'s caravan. -->
-  <MessagePermitTransportDropCaravan>TODO</MessagePermitTransportDropCaravan>
+  <MessagePermitTransportDropCaravan>{FACTION_name} erőforrásokat küldött {PAWN_nameDef} karavánjába.</MessagePermitTransportDropCaravan>
 
   <!-- EN: No orbiting mechanoids found. -->
-  <MessageNoFactionForVerbMechCluster>TODO</MessageNoFactionForVerbMechCluster>
+  <MessageNoFactionForVerbMechCluster>Nem találtunk keringő mechanoidokat.</MessageNoFactionForVerbMechCluster>
 
 </LanguageData>
