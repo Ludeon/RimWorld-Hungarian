@@ -265,38 +265,38 @@
   <AlertAnimalFilthDesc>Szennyeződéseket termelő állat van zárt térben, tiszta padlón.\n\nAz állatok nagyon nagy mennyiségű mocskot termelnek, ha normál padlón mozognak. Tartsd a koszos állatokat a szabadban, vagy szalmán, ahol sokkal kevesebb szennyeződés keletkezik.\n\nEgy állat szennyeződéstermelési arányát a statisztikában az „i” gombra kattintva ellenőrizheted.\n\nEzekkel az állatokkal van a probléma: \n{0}</AlertAnimalFilthDesc>
 
   <!-- EN: Pen needed -->
-  <AlertAnimalPenNeeded>TODO</AlertAnimalPenNeeded>
+  <AlertAnimalPenNeeded>Karám szükséges</AlertAnimalPenNeeded>
   <!-- EN: Some of your tame animals are roamers. If not kept in a pen or roped to a caravan hitching spot, they will wander away. -->
-  <AlertAnimalPenNeededDesc>TODO</AlertAnimalPenNeededDesc>
+  <AlertAnimalPenNeededDesc>Néhány szelídített állatod csavarog. Ha nem tartják karámban vagy nem rögzítik kötéllel egy karaván rakodási helyén, akkor elkóborolhatnak.</AlertAnimalPenNeededDesc>
   <!-- EN: You do not have any handlers to take animals to a pen.\n\nAssign a colonist to the Handling work type. -->
-  <AlertAnimalPenNeededNoHandlers>TODO</AlertAnimalPenNeededNoHandlers>
+  <AlertAnimalPenNeededNoHandlers>Nincsenek gondozók, akik az állatokat karámba vinnék.\n\nRendelj egy telepest a Gondozás munkatípushoz.</AlertAnimalPenNeededNoHandlers>
   <!-- EN: Create an animal pen by building a pen marker inside a fenced, barricaded, or walled area. Select the pen marker to see which animals it accepts and how many its pen can support.\n\nYour animal handlers will bring animals to their assigned pen automatically.\n\nA pen needs a door or gate to admit animals. -->
-  <AlertAnimalPenNeededDescExplanation>TODO</AlertAnimalPenNeededDescExplanation>
+  <AlertAnimalPenNeededDescExplanation>Hozz létre egy állati karámot úgy, hogy karámjelzőt építesz egy bekerített, barikádozott vagy fallal körülvett területen. Válaszd ki a karámjelölőt, hogy megtekinthesd, mely állatokat fogadja be, és hányat tud eltartani.\n\nAz állatvezetők automatikusan hozzák az állatokat a kijelölt karámhoz.\n\nA karámhoz ajtóra vagy kapura van szükség az állatok befogadásához.</AlertAnimalPenNeededDescExplanation>
   
   <!-- EN: Pen not enclosed -->
-  <AlertAnimalPenNotEnclosed>TODO</AlertAnimalPenNotEnclosed>
+  <AlertAnimalPenNotEnclosed>Nyitott karám</AlertAnimalPenNotEnclosed>
   <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
-  <AlertAnimalPenNotEnclosedDesc>TODO</AlertAnimalPenNotEnclosedDesc>
+  <AlertAnimalPenNotEnclosedDesc>Állati karámjelölő nincs körbekerítve.\n\nA karámot kerítésekkel, barikádokkal, kapukkal, falakkal vagy ajtókkal zárd be, hogy megakadályozd az állatok elkóborlását.\n\nHa csak záratlan karámjaid vannak, a gondozók továbbra is hazavezetheti az elcsatangolt állatokat, de ezt időnként meg kell ismételni, amikor az állatok ismét elkóborolnak.</AlertAnimalPenNotEnclosedDesc>
 
   <!-- EN: {ANIMAL_labelShort} in animal pen -->
-  <AlertPredatorInAnimalPen>TODO</AlertPredatorInAnimalPen>
+  <AlertPredatorInAnimalPen>{ANIMAL_labelShort} állati karámban</AlertPredatorInAnimalPen>
   <!-- EN: A predatory {ANIMAL_labelShort} has wandered into an animal pen.\n\nIt may decide to hunt your animals.\n\nYou can kill it, or wait and hope it leaves. -->
-  <AlertPredatorInAnimalPenDesc>TODO</AlertPredatorInAnimalPenDesc>
+  <AlertPredatorInAnimalPenDesc>Egy ragadozó {ANIMAL_labelShort} betévedt egy állati karámba.\n\nLehet, hogy úgy dönt, hogy levadássza az állataid.\n\nMegölheted vagy várhatsz, és remélheted, hogy továbbáll.</AlertPredatorInAnimalPenDesc>
 
   <!-- EN: Animal wandering away -->
-  <AlertAnimalIsRoaming>TODO</AlertAnimalIsRoaming>
+  <AlertAnimalIsRoaming>Elkóborolt állat</AlertAnimalIsRoaming>
   <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n\n{0} -->
-  <AlertAnimalIsRoamingDesc>TODO</AlertAnimalIsRoamingDesc>
+  <AlertAnimalIsRoamingDesc>Néhány szelíd állatod elcsatangolt, és elkezdett vándorolni. Ha elérik a térkép szélét, akkor végül elmennek.\n\nHa van zárt állati karámod, az állatgondozók visszahozhatják az állatot. A karámban lévő állatok nem kószálnak.\n\nA következő állatok barangolnak éppen:\n\n{0}</AlertAnimalIsRoamingDesc>
 
   <!-- EN: Hungry pen animals -->
-  <AlertPennedAnimalHungry>TODO</AlertPennedAnimalHungry>
+  <AlertPennedAnimalHungry>Éhes állatok a karámban</AlertPennedAnimalHungry>
   <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n\n{0} -->
-  <AlertPennedAnimalHungryDesc>TODO</AlertPennedAnimalHungryDesc>
+  <AlertPennedAnimalHungryDesc>Néhány karámban tartott állatod éhes.\n\nVálassz ki egy karámjelölőt, és használd a Táplálék lapot a további részletek megtekintéséhez.\n\nA fűevő állatoknak nagyobb karámra lehet szükségük, hogy elegendő fühöz jussanak. Előfordulhat, hogy más állatokat szénával vagy hasonló táplálékkal kell ellátni a készletből.\n\nA következő karámban tartott állatok éhesek:\n\n{0}</AlertPennedAnimalHungryDesc>
 
   <!-- EN: Hungry hitched animal -->
-  <AlertHitchedAnimalHungryNoFood>TODO</AlertHitchedAnimalHungryNoFood>
+  <AlertHitchedAnimalHungryNoFood>Éhes kikötött állat</AlertHitchedAnimalHungryNoFood>
   <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n\n{0} -->
-  <AlertHitchedAnimalHungryNoFoodDesc>TODO</AlertHitchedAnimalHungryNoFoodDesc>
+  <AlertHitchedAnimalHungryNoFoodDesc>Egyes rakodóhelyhez kikötözött állatok éhesek. Előfordulhat, hogy nincs megfelelő élelem a közelükben.\n\nHozz nekik ennivalót vagy távolítsd el a rögzítési helyet, hogy maguk is találjanak megfelelő élelmet.\n\nA következő kikötött állatok éhesek:\n\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
 
   <!-- EN: Raids arriving in {0} -->
   <AlertTimedRaidsArrivingIn>TODO</AlertTimedRaidsArrivingIn>
