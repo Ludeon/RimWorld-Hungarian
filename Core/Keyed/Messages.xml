@@ -185,7 +185,7 @@
   <MessageAttackedByPredator>{PREDATOR} megtámadta őt: {PREY_labelShort}!</MessageAttackedByPredator>
 
   <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
-  <MessageRoamerLeaving>TODO</MessageRoamerLeaving>
+  <MessageRoamerLeaving>{PAWN_labelShort} kóborolni kezdett! Elhagyja a térképet, hacsak egy állatgondozó vissza nem vezeti őt egy karámhoz.</MessageRoamerLeaving>
 
   <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>Egy kaptár reprodukálta magát.</MessageHiveReproduced>

@@ -106,9 +106,9 @@
   <!-- EN: Set ideo color -->
   <SetIdeoColor>Állítsd be az ideo színét</SetIdeoColor>
   <!-- EN: Set to favorite color -->
-  <SetFavoriteColor>TODO</SetFavoriteColor>
+  <SetFavoriteColor>Állítsd be a kedvenc színre</SetFavoriteColor>
   <!-- EN: Configure your faction's ideoligion -->
-  <ConfigureIdeoligion>TODO</ConfigureIdeoligion>
+  <ConfigureIdeoligion>Konfiguráld a frakció ideológiáját</ConfigureIdeoligion>
   <!-- EN: Not enough dye. -->
   <NotEnoughDye>Nincs elég festék.</NotEnoughDye>
   <!-- EN: {PAWN_nameDef} is unwilling to recolor {PAWN_possessive} {APPAREL_labelShort}. -->
@@ -138,32 +138,32 @@
   <!-- EN: memes -->
   <MemesLower>mémek</MemesLower>
   <!-- EN: Development points -->
-  <Reward_DevelopmentPointsLabel>TODO</Reward_DevelopmentPointsLabel>
+  <Reward_DevelopmentPointsLabel>Fejlesztési pontok</Reward_DevelopmentPointsLabel>
   <!-- EN: Your development points for {0} will increase by {1}.\n\nYou currently have {2} development points. Once you have {3} development points you can reform the ideoligion.\n\nEarn additional development points by completing other quests and rituals. -->
-  <Reward_DevelopmentPoints>TODO</Reward_DevelopmentPoints>
+  <Reward_DevelopmentPoints>A(z) {0} fejlesztési pontjai {1} ponttal növekednek.\n\nJelenleg {2} fejlesztési pontod van. Amint rendelkezel {3} fejlesztési ponttal, megreformálhatod az ideológiát.\n\nTovábbi fejlesztési pontokat szerezhetsz más küldetések és rituálék teljesítésével.</Reward_DevelopmentPoints>
   <!-- EN: Current points -->
-  <CurrentDevelopmentPoints>TODO</CurrentDevelopmentPoints>
+  <CurrentDevelopmentPoints>Aktuális pontok</CurrentDevelopmentPoints>
   <!-- EN: Points needed to reform -->
-  <ReformDevelopmentPoints>TODO</ReformDevelopmentPoints>
+  <ReformDevelopmentPoints>A reformhoz szükséges pontok</ReformDevelopmentPoints>
   <!-- EN: quest -->
-  <QuestLower>TODO</QuestLower>
+  <QuestLower>küldetés</QuestLower>
   <!-- EN: Vegetarian -->
-  <MealKindVegetarian>TODO</MealKindVegetarian>
+  <MealKindVegetarian>Vegetáriánus</MealKindVegetarian>
   <!-- EN: Contains meat -->
-  <MealKindMeat>TODO</MealKindMeat>
+  <MealKindMeat>Húst tartalmaz</MealKindMeat>
   <!-- EN: Acceptable food for everyone -->
-  <MealKindAny>TODO</MealKindAny>
+  <MealKindAny>Mindenki számára elfogadható étel</MealKindAny>
 
   <!-- EN: Could not load ideoligion -->
-  <UnableToLoadIdeoTitle>TODO</UnableToLoadIdeoTitle>
+  <UnableToLoadIdeoTitle>Nem sikerült betölteni az ideológiát</UnableToLoadIdeoTitle>
   <!-- EN: Could not load the selected ideoligion due to the requirements of the factions that will be following this ideoligion. The violated requirements are: -->
-  <UnableToLoadIdeoDescription>TODO</UnableToLoadIdeoDescription>
+  <UnableToLoadIdeoDescription>Nem sikerült betölteni a kiválasztott ideológiát az ezt követő frakciók követelményei miatt. A megsértett követelmények a következők:</UnableToLoadIdeoDescription>
   <!-- EN: Meme {MEME} is not allowed for {FACTIONTYPE} factions -->
-  <UnableToLoadIdeoMemeNotAllowed>TODO</UnableToLoadIdeoMemeNotAllowed>
+  <UnableToLoadIdeoMemeNotAllowed>A {MEME} mém nem engedélyezett a {FACTIONTYPE} frakciók számára</UnableToLoadIdeoMemeNotAllowed>
   <!-- EN: Meme {MEME} is required for {FACTIONTYPE} factions -->
-  <UnableToLoadIdeoMemeRequired>TODO</UnableToLoadIdeoMemeRequired>
+  <UnableToLoadIdeoMemeRequired>A {MEME} mém szükséges a {FACTIONTYPE} frakciókhoz</UnableToLoadIdeoMemeRequired>
   <!-- EN: Precept {PRECEPT} is not allowed for non-player factions -->
-  <UnableToLoadIdeoPreceptNotAllowed>TODO</UnableToLoadIdeoPreceptNotAllowed>
+  <UnableToLoadIdeoPreceptNotAllowed>A {PRECEPT} előírás nem engedélyezett nem játékos frakciók számára</UnableToLoadIdeoPreceptNotAllowed>
 
   <!-- EN: A grave containing {PAWN_labelShort}'s corpse. -->
   <RitualTargetGraveInfo>TODO</RitualTargetGraveInfo>
@@ -192,7 +192,7 @@
   <!-- EN: Campfire is not fueled. -->
   <RitualTargetCampfireNoFuel>TODO</RitualTargetCampfireNoFuel>
   <!-- EN: Campfire must be unroofed. -->
-  <RitualTargetCampfireMustBeUnroofed>TODO</RitualTargetCampfireMustBeUnroofed>
+  <RitualTargetCampfireMustBeUnroofed>A tábortüzet le kell bontani.</RitualTargetCampfireMustBeUnroofed>
   <!-- EN: No nearby drum. -->
   <RitualTargetNoDrum>TODO</RitualTargetNoDrum>
   <!-- EN: Need at least {0} unroofed cells nearby. -->
@@ -243,7 +243,7 @@
   <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>TODO</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
 
   <!-- EN: Additional reward -->
-  <RitualAttachedReward>TODO</RitualAttachedReward>
+  <RitualAttachedReward>Kiegészítő jutalom</RitualAttachedReward>
   <!-- EN: Choose -->
   <RitualAttachedRewardChoose>TODO</RitualAttachedRewardChoose>
   <!-- EN: Can't use {0} with {1}. -->
@@ -253,9 +253,9 @@
   <!-- EN: Requires {0} faction -->
   <RitualAttachedRewardRequiredFaction>TODO</RitualAttachedRewardRequiredFaction>
   <!-- EN: positive -->
-  <RitualAttachedOutcomes_Positive>TODO</RitualAttachedOutcomes_Positive>
+  <RitualAttachedOutcomes_Positive>pozitív</RitualAttachedOutcomes_Positive>
   <!-- EN: negative -->
-  <RitualAttachedOutcomes_Negative>TODO</RitualAttachedOutcomes_Negative>
+  <RitualAttachedOutcomes_Negative>negatív</RitualAttachedOutcomes_Negative>
   <!-- EN: If the {0} is {1} -->
   <RitualAttachedOutcomesInfo>TODO</RitualAttachedOutcomesInfo>
   <!-- EN: Upon any {0} outcome -->
