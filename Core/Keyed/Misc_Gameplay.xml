@@ -1560,15 +1560,15 @@
   <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
   <ChooseParticipants>Válaszd ki, hogy ki vegyen részt a {RITUAL_labelDef} szertartásban.</ChooseParticipants>
   <!-- EN: Begin -->
-  <Begin>Megkezd</Begin>
+  <Begin>Elkezd</Begin>
   <!-- EN: Begin {0} -->
-  <BeginRitual>{0} megkezdése</BeginRitual>
+  <BeginRitual>{0} elkezdése</BeginRitual>
   <!-- EN: Begin {0} for {1} -->
   <BeginRitualFor>TODO</BeginRitualFor>
   <!-- EN: {0} (out of {1}) -->
   <QualityOutOf>TODO</QualityOutOf>
   <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
-  <DateRitualNoObligation>TODO</DateRitualNoObligation>
+  <DateRitualNoObligation>{0} egy dátumhoz kötött szertartás. El tudod indítani {1} nap múlva, ekkor: {2}.</DateRitualNoObligation>
 
   <!-- EN: Replace with -->
   <PreceptReplaceWith>TODO</PreceptReplaceWith>
