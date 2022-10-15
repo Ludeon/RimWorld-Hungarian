@@ -6,7 +6,11 @@
     <li>raidConsequences(faction_temporary==false)->If you do, [faction_name] will become hostile.</li>
     <li>raidConsequences(faction_temporary==true)->Since [faction_name] is just a small, independent group, you can attack them without any broader diplomatic consequences.</li>
   -->
-  <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>TODO</OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
+  <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
+    <li>questDescription->You've detected a [siteLabel] nearby controlled by [faction_name].\n\nIf you wish, you can raid the camp to collect loot ([loot]). [raidConsequences]\n\nThe camp will pack up and move on in [timeout_duration].</li>
+    <li>raidConsequences(faction_temporary==false)->Ha így teszel, [faction_name] ellenséges lesz.</li>
+    <li>raidConsequences(faction_temporary==true)->Mivel [faction_name] csak egy kicsi, független csoport, szélesebb diplomáciai következmények nélkül támadhatod meg őket.</li>
+  </OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[site_label] [detected]</li>
     <li>detected->detected</li>
@@ -19,6 +23,17 @@
     <li>detected->revealed</li>
     <li>detected->uncovered</li>
   -->
-  <OpportunitySite_WorkSite.questNameRules.rulesStrings>TODO</OpportunitySite_WorkSite.questNameRules.rulesStrings>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings>
+    <li>questName->[site_label] [detected]</li>
+    <li>detected->észlelt</li>
+    <li>detected->felfedezett</li>
+    <li>detected->közeli</li>
+    <li>detected->talált</li>
+    <li>detected->azonosított</li>
+    <li>detected->észrevett</li>
+    <li>detected->megfigyelt</li>
+    <li>detected->felfedezett</li>
+    <li>detected->fedetlen</li>
+  </OpportunitySite_WorkSite.questNameRules.rulesStrings>
   
 </LanguageData>
