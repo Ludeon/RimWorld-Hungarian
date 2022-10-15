@@ -373,7 +373,7 @@
   <!-- EN: The average nutrition provided by edible plants in this pen. -->
   <PenFoodTab_NaturalNutritionGrowthRateDescription>Az ehető növények által biztosított átlagos tápanyag ebben a karámban.</PenFoodTab_NaturalNutritionGrowthRateDescription>
   <!-- EN: The nutrition needed by animals currently in this pen.\n\nTo get more food, expand the pen to cover more wild plant growth, or deliver stockpiled food like haygrass to the pen. -->
-  <PenFoodTab_NutritionConsumptionDescription>A jelenleg ebben a karámban lévő állatok táplálékára van szükség.\n\nHa több élelemhez szeretne jutni, bővítse ki a karámot, hogy több vadon élő növényt is elfedjen, vagy szállítson a karámba felhalmozott élelmiszert, például szénafüvet.</PenFoodTab_NutritionConsumptionDescription>
+  <PenFoodTab_NutritionConsumptionDescription>Ebben a karámban lévő állatok számára ennyi táplálékára van szükség.\n\nHa több élelemhez szeretnél jutni, bővítsd ki a karámot, hogy több vadon élő növényt is magába foglaljon, vagy szállíts a karámba felhalmozott élelmiszert, például szénát.</PenFoodTab_NutritionConsumptionDescription>
   <!-- EN: Note: Plant growth rate varies due to seasons, weather, theft by wild animals, and other factors. These calculations are approximations. -->
   <PenFoodTab_NaturalNutritionGrowthRateSeasonal>Megjegyzés: A növények növekedési üteme az évszakok, az időjárás, a vadon élő állatok által elkövetett dézsmálások és egyéb tényezők miatt változik. Ezek a számítások közelítések.</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
 
@@ -382,7 +382,7 @@
   <!-- EN: The total nutrition that will be consumed each day by each type of animal in this pen. -->
   <PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>A teljes táplálék, amelyet minden egyes állatfaj naponta elfogyaszt ebben a karámban.</PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>
   <!-- EN: Daily consumption per {ANIMALDEF_label} -->
-  <PenFoodTab_NutritionConsumedPerDay>{ANIMALDEF_label} napi fogyasztása</PenFoodTab_NutritionConsumedPerDay>
+  <PenFoodTab_NutritionConsumedPerDay>Napi {ANIMALDEF_label} fogyasztás</PenFoodTab_NutritionConsumedPerDay>
   <!-- EN: each {CONSUMEDAMOUNT} -->
   <PenFoodTab_NutritionConsumedEachAnimalLabel>mindegyik {CONSUMEDAMOUNT}</PenFoodTab_NutritionConsumedEachAnimalLabel>
   <!-- EN: Count that could be supported with no other animals in the pen -->
