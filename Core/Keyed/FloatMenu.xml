@@ -36,7 +36,7 @@
   <!-- EN: incapable of violence -->
   <IncapableOfViolenceLower>nem képes erőszakra</IncapableOfViolenceLower>
   <!-- EN: {0_labelShort} is incapable of shooting -->
-  <IsIncapableOfShootingLower>TODO</IsIncapableOfShootingLower>
+  <IsIncapableOfShootingLower>{0_labelShort} nem képes lövöldözésre</IsIncapableOfShootingLower>
   <!-- EN: {1_labelShort} is not drafted -->
   <IsNotDraftedLower>{1_labelShort} nincs besorozva</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
@@ -44,7 +44,7 @@
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>nem támadhatod meg magad</CannotAttackSelf>
   <!-- EN: cannot attack faction ally -->
-  <CannotAttackSameFactionMember>TODO</CannotAttackSameFactionMember>
+  <CannotAttackSameFactionMember>nem támadhatja meg a frakciószövetségest</CannotAttackSameFactionMember>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>{1_labelShort} működtetése</OrderManThing>
@@ -58,7 +58,7 @@
   <!-- EN: burying -->
   <Burying>temeti</Burying>
   <!-- EN: designated for {0} -->
-  <DesignatedFor>TODO</DesignatedFor>
+  <DesignatedFor>kijelölve: {0}</DesignatedFor>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>tilos</ForbiddenLower>
@@ -83,7 +83,7 @@
   <!-- EN: above allowed skill {0} -->
   <AboveAllowedSkill>megengedett készségszint legfeljebb: {0}</AboveAllowedSkill>
   <!-- EN: no reachable outside cell -->
-  <NoReachableOutsideCell>TODO</NoReachableOutsideCell>
+  <NoReachableOutsideCell>nincs elérhető külső cella</NoReachableOutsideCell>
   <!-- EN: missing required skill level -->
   <MissingRequiredSkillLevel>nincs meg a szükséges készségszint</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
@@ -93,7 +93,7 @@
   <!-- EN: no food -->
   <NoFood>nincs étel</NoFood>
   <!-- EN: No {0_label} -->
-  <NoIngredient>TODO</NoIngredient>
+  <NoIngredient>Nincs {0_label}</NoIngredient>
   <!-- EN: below requirements of {0} -->
   <FoodBelowTitleRequirements>??? - étel nem elég jó neki: {0}</FoodBelowTitleRequirements>
   <!-- EN: animals skill too low - need {0} -->
@@ -105,21 +105,21 @@
   <!-- EN: animal busy -->
   <CantInteractAnimalBusy>elfoglalt állat</CantInteractAnimalBusy>
   <!-- EN: no allowed reachable pens -->
-  <CantRopeAnimalNoUsableReachablePens>TODO</CantRopeAnimalNoUsableReachablePens>
+  <CantRopeAnimalNoUsableReachablePens>nincs engedélyezett elérhető karám</CantRopeAnimalNoUsableReachablePens>
   <!-- EN: no enclosed pens -->
-  <CantRopeAnimalNoEnclosedPens>TODO</CantRopeAnimalNoEnclosedPens>
+  <CantRopeAnimalNoEnclosedPens>nincs bezárt karám</CantRopeAnimalNoEnclosedPens>
   <!-- EN: no allowed pens -->
-  <CantRopeAnimalNoAllowedPens>TODO</CantRopeAnimalNoAllowedPens>
+  <CantRopeAnimalNoAllowedPens>nincs engedélyezett karám</CantRopeAnimalNoAllowedPens>
   <!-- EN: no reachable pens -->
-  <CantRopeAnimalNoReachablePens>TODO</CantRopeAnimalNoReachablePens>
+  <CantRopeAnimalNoReachablePens>nincs elérhető karám</CantRopeAnimalNoReachablePens>
   <!-- EN: can't touch -->
-  <CantRopeAnimalCantTouch>TODO</CantRopeAnimalCantTouch>
+  <CantRopeAnimalCantTouch>nem érintheti meg</CantRopeAnimalCantTouch>
   <!-- EN: no space in pen -->
-  <CantRopeAnimalNoSpace>TODO</CantRopeAnimalNoSpace>
+  <CantRopeAnimalNoSpace>nincs hely a karámban</CantRopeAnimalNoSpace>
   <!-- EN: {0_labelShort} is in {1} state -->
-  <CantRopeAnimalMentalState>TODO</CantRopeAnimalMentalState>
+  <CantRopeAnimalMentalState>{0_labelShort} {1} állapotban van</CantRopeAnimalMentalState>
   <!-- EN: already in best pen -->
-  <CantRopeAnimalAlreadyInBestPen>TODO</CantRopeAnimalAlreadyInBestPen>
+  <CantRopeAnimalAlreadyInBestPen>már a legjobb karámban van</CantRopeAnimalAlreadyInBestPen>
   <!-- EN: {0} skill too low -->
   <SkillTooLowForConstruction>{0} készség túl alacsony</SkillTooLowForConstruction>
   <!-- EN: need components -->
@@ -163,9 +163,9 @@
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>{0} feljavítása erre: {1}</UpgradeImplant>
   <!-- EN: violation of faction ally -->
-  <SurgeryViolationFellowFactionMember>TODO</SurgeryViolationFellowFactionMember>
+  <SurgeryViolationFellowFactionMember>frakciószövetséges megsértése</SurgeryViolationFellowFactionMember>
   <!-- EN: being carried by {0_labelShort} -->
-  <BeingCarriedBy>TODO</BeingCarriedBy>
+  <BeingCarriedBy>{0_labelShort} szállítja</BeingCarriedBy>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>Elfogyaszt: {1_labelShort}</ConsumeThing>
@@ -182,7 +182,7 @@
   <!-- EN: Cannot arrest -->
   <CannotArrest>Nem tudja letartóztatni</CannotArrest>
   <!-- EN: {0} chance of arrest -->
-  <ArrestChance>TODO</ArrestChance>
+  <ArrestChance>{0} esély a letartóztatásra</ArrestChance>
 
   <!-- EN: Capture {1_label} -->
   <Capture>Fogd el őt: {1_label}</Capture>
@@ -205,11 +205,11 @@
   <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>Nincs szabad hibernáló.</NoCryptosleepCasket>
   <!-- EN: Temporary faction members not allowed. -->
-  <CryptosleepCasketGuestsNotAllowed>TODO</CryptosleepCasketGuestsNotAllowed>
+  <CryptosleepCasketGuestsNotAllowed>Ideiglenes frakciótagok számára nem engedélyezett.</CryptosleepCasketGuestsNotAllowed>
   <!-- EN: Hosted prisoners not allowed. -->
-  <CryptosleepCasketGuestPrisonersNotAllowed>TODO</CryptosleepCasketGuestPrisonersNotAllowed>
+  <CryptosleepCasketGuestPrisonersNotAllowed>A foglyok befogadása nem megengedett.</CryptosleepCasketGuestPrisonersNotAllowed>
   <!-- EN: Already occupied -->
-  <CryptosleepCasketOccupied>TODO</CryptosleepCasketOccupied>
+  <CryptosleepCasketOccupied>Már elfoglalva</CryptosleepCasketOccupied>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>Nincs zárt helyen lévő, rabnak szánt ágy.</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
@@ -225,7 +225,7 @@
   <!-- EN: Too heavy -->
   <TooHeavy>Túl nehéz</TooHeavy>
   <!-- EN: {0_labelShort} is in the same faction. -->
-  <SameFaction>TODO</SameFaction>
+  <SameFaction>{0_labelShort} ugyanabban a frakcióban van.</SameFaction>
 
   <!-- EN: incapable -->
   <Incapable>alkalmatlan</Incapable>
@@ -249,18 +249,18 @@
   <!-- EN: Cannot wear {1_label} -->
   <CannotWear>Nem viselheti ezt: {1_label}</CannotWear>
   <!-- EN: Force equip {1_labelShort} -->
-  <ForceEquipApparel>TODO</ForceEquipApparel>
+  <ForceEquipApparel>Kényszerített felszerelés: {1_labelShort}</ForceEquipApparel>
   <!-- EN: Cannot equip {1_label} -->
-  <CannotEquipApparel>TODO</CannotEquipApparel>
+  <CannotEquipApparel>Nem lehet felszerelni: {1_label}</CannotEquipApparel>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>hiányzó testrész</CannotWearBecauseOfMissingBodyParts>
   
   <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
-  <Reload>TODO</Reload>
+  <Reload>Újratöltés: {GEAR_labelShort}, {AMMO_label}</Reload>
   <!-- EN: Full -->
-  <ReloadFull>TODO</ReloadFull>
+  <ReloadFull>Tele</ReloadFull>
   <!-- EN: Too few -->
-  <ReloadNotEnough>TODO</ReloadNotEnough>
+  <ReloadNotEnough>Túl kevés</ReloadNotEnough>
   
   <!-- EN: Cannot pick up {1_label} -->
   <CannotPickUp>Nem lehet felvenni ezt: {1_label}</CannotPickUp>
@@ -275,9 +275,9 @@
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
   <PickUpCount>Felvenni: {1_labelShort} x{{0}}</PickUpCount>
   <!-- EN: Cannot pick up {1_labelShort} -->
-  <CannotPickUpSome>TODO</CannotPickUpSome>
+  <CannotPickUpSome>Nem lehet felvenni a következőt: {1_labelShort}</CannotPickUpSome>
   <!-- EN: {0} {1} allowed -->
-  <MaxPickUpAllowed>TODO</MaxPickUpAllowed>
+  <MaxPickUpAllowed>{0} {1} engedélyezett</MaxPickUpAllowed>
   
   <!-- EN: Cannot load {1_label} onto pack animal -->
   <CannotGiveToPackAnimal>Nem lehet a málhásra rakni ezt: {1_label}</CannotGiveToPackAnimal>
@@ -321,9 +321,9 @@
   <!-- EN: Cannot drop {1_label} -->
   <CannotDrop>{1_label} nem eldobható</CannotDrop>
   <!-- EN: Carry {0_label} -->
-  <Carry>TODO</Carry>
+  <Carry>Cipel: {0_label}</Carry>
   <!-- EN: Cannot carry {0_label} -->
-  <CannotCarry>TODO</CannotCarry>
+  <CannotCarry>Nem szállítható: {0_label}</CannotCarry>
   <!-- EN: temporary faction member -->
   <QuestRelated>ideiglenes frakciótag</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
@@ -332,9 +332,9 @@
   <WouldReplaceLockedApparel>zárolt ruházatot cserélne le</WouldReplaceLockedApparel>
 
   <!-- EN: Cannot place {0_label} in {1_label} -->
-  <CannotPlaceIn>TODO</CannotPlaceIn>
+  <CannotPlaceIn>{0_label} nem helyezhető ide: {1_label}</CannotPlaceIn>
   <!-- EN: Place {0_label} in {1_label} -->
-  <PlaceIn>TODO</PlaceIn>
+  <PlaceIn>Helyezd {0_label} ide: {1_label}(?)</PlaceIn>
 
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>Önmegsemmisítés itt</SelfDestructHere>
@@ -404,7 +404,7 @@
   <!-- EN: Cannot prioritize: Will never do {0} -->
   <CannotPrioritizeWorkTypeDisabled>Nem tudja előre venni, nem teszi ezt: {0}</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: lacking necessary title -->
-  <MissingTitleAbility>TODO</MissingTitleAbility>
+  <MissingTitleAbility>hiányzik a szükséges cím</MissingTitleAbility>
 
   <!-- EN: Cannot prioritize: Will never {0} -->
   <CannotPrioritizeWorkGiverDisabled>Nem tudja előre venni, nem képes rá: {0}</CannotPrioritizeWorkGiverDisabled>
@@ -416,7 +416,7 @@
   <!-- EN: not assigned -->
   <NotAssigned>nincs beosztva</NotAssigned>
   <!-- EN: not assigned to {0} -->
-  <NotAssignedToWorkType>TODO</NotAssignedToWorkType>
+  <NotAssignedToWorkType>nincs beosztva a következőhöz: {0}</NotAssignedToWorkType>
 
   <!-- EN: Cannot prioritize: Research is a long-term task -->
   <CannotPrioritizeResearch>Nem tudja előre venni (a kutatás egy hosszú távú feladat)</CannotPrioritizeResearch>
@@ -428,7 +428,7 @@
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>Tiltott területen van</CannotPrioritizeForbiddenOutsideAllowedArea>
   <!-- EN: Cannot prioritize burying -->
-  <CannotPrioritizeBurying>TODO</CannotPrioritizeBurying>
+  <CannotPrioritizeBurying>Nem lehet prioritást adni az eltemetésnek</CannotPrioritizeBurying>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
@@ -439,7 +439,7 @@
   <!-- EN: Drop in center -->
   <DropInCenter>Középen eldobni</DropInCenter>
   <!-- EN: Attack {0} -->
-  <AttackShuttle>TODO</AttackShuttle>
+  <AttackShuttle>Megtámadni ezt: {0}</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
   <AttackAndDropAtEdge>Megtámadni ezt: {0}, landolás szélen</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
@@ -478,7 +478,7 @@
   <!-- EN: Give as a gift to {0} ({1}) -->
   <GiveGiftViaTransportPods>Ajándékozni neki: {0} ({1})</GiveGiftViaTransportPods>
   <!-- EN: Not part of launch group -->
-  <NotPartOfLaunchGroup>TODO</NotPartOfLaunchGroup>
+  <NotPartOfLaunchGroup>Nem része az indított csoportnak</NotPartOfLaunchGroup>
 
   <!-- Rescue quest -->
   <!-- EN: Free prisoner -->
@@ -490,33 +490,33 @@
   <ApplyTechprint>hozzáad: {0}</ApplyTechprint>
 
   <!-- EN: Too dangerous -->
-  <EnterCooldownBlocksEntering>TODO</EnterCooldownBlocksEntering>
+  <EnterCooldownBlocksEntering>Túl veszélyes</EnterCooldownBlocksEntering>
 
   <!-- CommsConsole -->
   <!-- EN: Nobody to call -->
-  <NoCommsTarget>TODO</NoCommsTarget>
+  <NoCommsTarget>Senki sem hívható</NoCommsTarget>
 
   <!-- EN: Invoke {0} -->
-  <Invoke>TODO</Invoke>
+  <Invoke>{0} meghívása</Invoke>
   <!-- EN: Cannot invoke {0} -->
-  <CannotInvoke>TODO</CannotInvoke>
+  <CannotInvoke>{0} nem hívható meg</CannotInvoke>
   <!-- EN: power -->
-  <Power>TODO</Power>
+  <Power>energia(?)</Power>
   <!-- EN: already invoked -->
-  <AlreadyInvoked>TODO</AlreadyInvoked>
+  <AlreadyInvoked>már meghívva</AlreadyInvoked>
 
   <!-- EN: Tend {0} -->
-  <Tend>TODO</Tend>
+  <Tend>{0} ellátása</Tend>
   <!-- EN: Cannot tend {0} -->
-  <CannotTend>TODO</CannotTend>
+  <CannotTend>{0} nem ellátható</CannotTend>
   <!-- EN: {0} does not require tending -->
-  <TendingNotRequired>TODO</TendingNotRequired>
+  <TendingNotRequired>{0} nem igényel ellátást</TendingNotRequired>
   <!-- EN: without medicine -->
-  <WithoutMedicine>TODO</WithoutMedicine>
+  <WithoutMedicine>gyógyszer nélkül</WithoutMedicine>
 
   <!-- EN: Repair {0} -->
-  <RepairThing>TODO</RepairThing>
+  <RepairThing>Javítás: {0}</RepairThing>
   <!-- EN: Cannot repair {0} -->
-  <CannotRepair>TODO</CannotRepair>
+  <CannotRepair>Nem javítható: {0}</CannotRepair>
   
 </LanguageData>
