@@ -110,9 +110,9 @@
   <AbilitySpeechTargetDescThrone>TODO</AbilitySpeechTargetDescThrone>
   
   <!-- EN: no accessible altar. -->
-  <RitualDisabledNoAltar>TODO</RitualDisabledNoAltar>
+  <RitualDisabledNoAltar>nincs hozzáférhető oltár.</RitualDisabledNoAltar>
   <!-- EN: Bestowing Ceremony -->
-  <RitualBestowingCeremony>TODO</RitualBestowingCeremony>
+  <RitualBestowingCeremony>Adományozási Ünnepség</RitualBestowingCeremony>
 
   <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
   <TotalMeditationToday>TODO</TotalMeditationToday>
@@ -141,15 +141,15 @@
   <MessageShuttleDestinationIsTooFar>A cél hatókörön kívül van.</MessageShuttleDestinationIsTooFar>
 
   <!-- EN: Start bestowing ceremony for {0_labelShort} -->
-  <BeginCeremony>TODO</BeginCeremony>
+  <BeginCeremony>{0_labelShort} adományozási ünnepségének indítása</BeginCeremony>
   <!-- EN: {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. -->
-  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>TODO</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>{PAWN_definite} trónterme nem felel meg a(z) {TITLE} cím követelményeinek.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
   <!-- EN: The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled. -->
-  <BestowingCeremonyThroneroomRequirementsNotSatisfied>TODO</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>Az adomámyozó megsértődött, amiért {PAWN_definite} trónterme nem felel meg a {TITLE} cím követelményeinek. Az adományozási ceremóniát törölték.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
   <!-- EN: bestowing ceremony -->
-  <BestowingCeremonyLabel>TODO</BestowingCeremonyLabel>
+  <BestowingCeremonyLabel>adományozási ünnepség</BestowingCeremonyLabel>
   <!-- EN: Bestowing ceremony total quality was {0}, determined by these factors -->
-  <BestowingOutcomeQualitySpecific>TODO</BestowingOutcomeQualitySpecific>
+  <BestowingOutcomeQualitySpecific>Az adományozási ünnepség teljes minősége {0} volt, amelyet ezek a tényezők határoztak meg</BestowingOutcomeQualitySpecific>
   
   <!-- EN: No colonists that can link with anima tree right now. -->
   <RitualTargetAnimaTreeNoPawnsToLink>TODO</RitualTargetAnimaTreeNoPawnsToLink>
