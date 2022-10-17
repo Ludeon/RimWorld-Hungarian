@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that so slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
-  <ManhunterOnDamageChance.headerTip>TODO</ManhunterOnDamageChance.headerTip>
+  <ManhunterOnDamageChance.headerTip>Annak az esélye, hogy ez a lény megtámad, ha megsérül.\n\nEz az esély akár háromszorosára is nő, ha a támadó közelebb van.\n\nEz az esély minden sérüléskor érvényesül. Ez azt jelenti, hogy a lassabban tüzelő, nagyobb sebzést okozó fegyverek kisebb valószínűséggel váltják ki azt vadászat közben.</ManhunterOnDamageChance.headerTip>
   
   <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
-  <ManhunterOnTameFailChance.headerTip>TODO</ManhunterOnTameFailChance.headerTip>
+  <ManhunterOnTameFailChance.headerTip>Annak az esélye, hogy ez a lény megtámad, amikor egy szelídítő megpróbálja megszelídíteni, de kudarcot vall.</ManhunterOnTameFailChance.headerTip>
   
 </LanguageData>
