@@ -238,7 +238,7 @@
   <Speech_Sacrifice.logRulesInitiator.rulesStrings>TODO</Speech_Sacrifice.logRulesInitiator.rulesStrings>
   
   <!-- EN: scarification speech -->
-  <Speech_Scarification.label>TODO</Speech_Scarification.label>
+  <Speech_Scarification.label>köpölyözési beszéd</Speech_Scarification.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</li>
@@ -260,7 +260,27 @@
     <li>crazy->brandished a blade</li>
     <li>crazy->muttered repetitively</li>
   -->
-  <Speech_Scarification.logRulesInitiator.rulesStrings>TODO</Speech_Scarification.logRulesInitiator.rulesStrings>
+  <Speech_Scarification.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</li>
+    <li>speechtopic->fájdalom rögzítése a testen</li>
+    <li>speechtopic->a fájdalom kifejezései</li>
+    <li>speechtopic->irányított kegyetlenség</li>
+    <li>speechtopic->a vér melege</li>
+    <li>speechtopic->a heg jelentése</li>
+    <li>speechtopic->szerelem és fájdalom</li>
+    <li>speechtopic->fájdalmat szimbolizálva</li>
+    <li>speechtopic->pengék és hús</li>
+    <li>speechtopic->a vágás művészete</li>
+    <li>speechtopic->a vér csábítása</li>
+    <li>speechtopic->a sikolyok zenéje</li>
+    <li>crazy->mániákusan sikoltott</li>
+    <li>crazy->kántálásban tört ki</li>
+    <li>crazy->az ég felé fordulva énekelt</li>
+    <li>crazy->vihogott</li>
+    <li>crazy->pengével hadonászott</li>
+    <li>crazy->ismétlődően motyogott</li>
+  </Speech_Scarification.logRulesInitiator.rulesStrings>
   
   <!-- EN: tree connection speech -->
   <Speech_TreeConnection.label>TODO</Speech_TreeConnection.label>

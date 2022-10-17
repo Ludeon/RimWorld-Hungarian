@@ -14,7 +14,7 @@
   <MessageRaidersStealing>{1} tagjai ({0}) úgy döntöttek, hogy ellopják, amit tudnak és távoznak</MessageRaidersStealing>
 
   <!-- EN: {0} from {1} have arrived and are attacking! More are on the way and will arrive in {2}. -->
-  <MessageCaravanDetectedRaidArrived>TODO</MessageCaravanDetectedRaidArrived>
+  <MessageCaravanDetectedRaidArrived>{0} innen: {1} megérkezett és támad! Több támadás is készül és {2} múlva érkezik.</MessageCaravanDetectedRaidArrived>
 
   <!-- EN: {0} from {1} are leaving. -->
   <MessageRaidersLeaving>{1} tagjai ({0}) távoznak.</MessageRaidersLeaving>
@@ -49,7 +49,7 @@
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
   <MessageNeedBeaconToTradeWithShip>Orbitális jeladóra van szükség a hajóval való kereskedéshez.\n\nA jeladónak áramra van szüksége.</MessageNeedBeaconToTradeWithShip>
   <!-- EN: Caller must have the title of {0_label} or higher. -->
-  <MessageNeedRoyalTitleToCallWithShip>TODO</MessageNeedRoyalTitleToCallWithShip>
+  <MessageNeedRoyalTitleToCallWithShip>A hívónak legalább {0_label} címmel kell rendelkeznie.</MessageNeedRoyalTitleToCallWithShip>
 
   <!-- EN: {0} has been destroyed. -->
   <MessageConditionCauserDespawned>{0} megsemmisült.</MessageConditionCauserDespawned>
@@ -66,17 +66,17 @@
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
   <MessageOutOfNearbyShellsFor>{PAWN_labelShort} nem talált szabad lövedéket {GUN_label} számára.</MessageOutOfNearbyShellsFor>
   <!-- EN: {PAWN_labelShort} found no nearby unreserved {FUEL} for {GUN_label}. -->
-  <MessageOutOfNearbyFuelFor>TODO</MessageOutOfNearbyFuelFor>
+  <MessageOutOfNearbyFuelFor>{PAWN_labelShort} nem talált {GUN_label} számára szabad {FUEL} elemet.</MessageOutOfNearbyFuelFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
   <MessageAnimalsGoPsychoHunted>Figyelem: {ANIMAL_kindBaseDef} gyakran támad, ha bántják. ({1} esély lőtávon, közelebb több).</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
   <MessageAnimalManhuntsOnTameFailed>Figyelem: {ANIMAL_kindBasePluralDef} támadhatnak, ha nem sikerül megszelídíteni őket. ({1} esély).</MessageAnimalManhuntsOnTameFailed>
   <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
-  <MessageInsectTameDesignated>TODO</MessageInsectTameDesignated>
+  <MessageInsectTameDesignated>Csak azok tudják megszelídíteni {INSECT_indefinite} rovart, akik rendelkeznek rovarszimpátia tulajdonsággal.</MessageInsectTameDesignated>
 
   <!-- EN: Warning: The {PAWN_labelShort} is hostile and will attack while your colonist tries to tame it. -->
-  <MessageInsectsHostileOnTaming>TODO</MessageInsectsHostileOnTaming>
+  <MessageInsectsHostileOnTaming>Figyelmeztetés: {PAWN_labelShort} ellenséges és támadni fog, miközben a telepesed megpróbálja megszelídíteni.</MessageInsectsHostileOnTaming>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>Újonc</LetterLabelMessageRecruitSuccess>
@@ -87,9 +87,9 @@
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. It is now called {RECRUITEE_nameFull}. -->
   <MessageTameAndNameSuccess>{RECRUITER_labelShort} sikeresen megszelídítette őt: {1} ({2} esély) és a(z) {RECRUITEE_nameFull} nevet adta neki.</MessageTameAndNameSuccess>
   <!-- EN: There is no suitable animal pen for {ANIMAL_labelShort}. It will eventually roam away. -->
-  <MessageTameNoSuitablePens>TODO</MessageTameNoSuitablePens>
+  <MessageTameNoSuitablePens>Nincs megfelelő gondozó {ANIMAL_labelShort} számára. Végül el fog csavarogni.</MessageTameNoSuitablePens>
   <!-- EN: {RECRUITEE} has joined your colony. -->
-  <MessageRecruitJoinOfferAccepted>TODO</MessageRecruitJoinOfferAccepted>
+  <MessageRecruitJoinOfferAccepted>{RECRUITEE} csatlakozott a kolóniádhoz.</MessageRecruitJoinOfferAccepted>
 
   <!-- EN: The colony cannot afford this deal. -->
   <MessageColonyCannotAfford>A kolónia nem engedheti meg magának ezt a vásárlást.</MessageColonyCannotAfford>
@@ -116,7 +116,7 @@
   <!-- EN: Must designate abandoned artificial structures. -->
   <MessageMustDesignateClaimable>Elhagyott mesterséges képződményt kell kijelölni.</MessageMustDesignateClaimable>
   <!-- EN: You must defeat a mech cluster before you can deconstruct it. -->
-  <MessageMustDesignateDeconstructibleMechCluster>TODO</MessageMustDesignateDeconstructibleMechCluster>
+  <MessageMustDesignateDeconstructibleMechCluster>Le kell győznie egy mech klasztert, mielőtt szétbontanád.</MessageMustDesignateDeconstructibleMechCluster>
   <!-- EN: Must designate rough stone surfaces. -->
   <MessageMustDesignateSmoothableSurface>Göröngyös kőfelületet kell kijelölni.</MessageMustDesignateSmoothableSurface>
   <!-- EN: Nothing can remove thick roofs. -->
@@ -159,7 +159,7 @@
   <MessageMedicalOperationWillAngerFaction>Ettől az műtéttől {0} mérges lesz.</MessageMedicalOperationWillAngerFaction>
 
   <!-- EN: {PAWN_nameDef} is pregnant! -->
-  <MessageAnimalIsPregnant>TODO</MessageAnimalIsPregnant>
+  <MessageAnimalIsPregnant>{PAWN_nameDef} terhes!</MessageAnimalIsPregnant>
   <!-- EN: {0} has miscarried due to starvation. -->
   <MessageMiscarriedStarvation>{0} elvetélt éhezés miatt.</MessageMiscarriedStarvation>
   <!-- EN: {0} has miscarried due to poor health. -->
@@ -168,7 +168,7 @@
   <MessageGaveBirth>{0} gyereke megszületett.</MessageGaveBirth>
   
   <!-- EN: {PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity. -->
-  <MessagePsylinkNoSensitivity>TODO</MessagePsylinkNoSensitivity>
+  <MessagePsylinkNoSensitivity>{PAWN_labelShort} nem fogja tudni használni a psylink-et, amíg nulla pszichés érzékenységgel rendelkezik.</MessagePsylinkNoSensitivity>
   <!-- EN: {PAWN_labelShort} has lost a {1} implant level due to {2}. -->
   <MessageLostImplantLevelFromHediff>{PAWN_labelShort} elvesztett {1} implantátum szintet, emiatt: {2}.</MessageLostImplantLevelFromHediff>
   <!-- EN: {PAWN_labelShort} has suffered {1} points of brain damage due to {2}. -->
@@ -353,9 +353,9 @@
   <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
   <MessageCantEquipIncapableOfViolence>Nem felvehető: {1_labelShort} nem képes erőszakra.</MessageCantEquipIncapableOfViolence>
   <!-- EN: Cannot equip: {1_labelShort} is incapable of shooting. -->
-  <MessageCantEquipIncapableOfShooting>TODO</MessageCantEquipIncapableOfShooting>
+  <MessageCantEquipIncapableOfShooting>Nem felvehető: {1_labelShort} nem képes lőni.</MessageCantEquipIncapableOfShooting>
   <!-- EN: Cannot equip: Incapable. -->
-  <MessageCantEquipIncapableOfManipulation>Nem felvehető: nem lehetséges.</MessageCantEquipIncapableOfManipulation>
+  <MessageCantEquipIncapableOfManipulation>Nem felvehető: nem képes rá.</MessageCantEquipIncapableOfManipulation>
   <!-- EN: Cannot wear: {1_labelShort} is missing required body parts. -->
   <MessageCantWearApparelMissingBodyParts>Nem felvehető: {1_labelShort} nem rendelkezik ilyen testrésszel.</MessageCantWearApparelMissingBodyParts>
   <!-- EN: This person refuses to remove this. -->
@@ -366,7 +366,7 @@
   <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
   <MessageSlaughteringBondedAnimal>Kötődésük miatt {DESIGNATED_labelShort} levágása boldogtalanná teszi őt: {BONDED_labelShort}.</MessageSlaughteringBondedAnimal>
   <!-- EN: Because they are bonded, releasing {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
-  <MessageReleaseBondedAnimal>TODO</MessageReleaseBondedAnimal>
+  <MessageReleaseBondedAnimal>Kötődésük miatt {DESIGNATED_labelShort} szabadon engedése boldogtalanná teszi őt: {BONDED_labelShort}.</MessageReleaseBondedAnimal>
   
   <!-- EN: {0} has run out of food. -->
   <MessageCaravanRanOutOfFood>{0} kifogyott az ételből ({PAWN_label}).</MessageCaravanRanOutOfFood>
@@ -387,7 +387,7 @@
   <!-- EN: Mechanoids have been assembled and will defend their cluster. -->
   <MessageMechanoidsAssembled>A mechanoidok elkészültek és támadnak</MessageMechanoidsAssembled>
   <!-- EN: Remaining mechanoids to assemble -->
-  <MessageMechanoidsLeftToAssemble>TODO</MessageMechanoidsLeftToAssemble>
+  <MessageMechanoidsLeftToAssemble>Fennmaradó mechanoidok összeszerelésre</MessageMechanoidsLeftToAssemble>
   <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
   <MessageMechanoidsReinforcementsDrop>Egy mechanoid adóvevő erősítést hívott, szállítókapszulában érkeznek a közelbe.</MessageMechanoidsReinforcementsDrop>
 
@@ -409,9 +409,9 @@
   <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Egyik felügyelőd sem képes erőszakra. A kivégzés nem lesz végrehajtva.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
   
   <!-- EN: Area is now safe. You can reform the caravan on the world map. -->
-  <MessageCanReformCaravanNowNoMoreEnemies>TODO</MessageCanReformCaravanNowNoMoreEnemies>
+  <MessageCanReformCaravanNowNoMoreEnemies>A terület most biztonságos. Újraalakíthatod a karavánt a világtérképen.</MessageCanReformCaravanNowNoMoreEnemies>
   <!-- EN: Area is now safe, but some unexplored rooms remain. You can explore further or reform the caravan on the world map. -->
-  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>TODO</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
+  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>A terület már biztonságos, de néhány feltáratlan szoba maradt. További felderítést végezhetsz vagy újraalakíthatod a karavánt a világtérképen.</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
 
   <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
   <MessageCantBanishDownedPawn>{1_labelShort} nem száműzhető, mivel nem képes járni.</MessageCantBanishDownedPawn>
@@ -482,7 +482,7 @@
   <!-- EN: harvested {0} -->
   <GoodwillChangedReason_RemovedBodyPart>begyűjtötte ezt: {0}</GoodwillChangedReason_RemovedBodyPart>
   <!-- EN: removed {0} -->
-  <GoodwillChangedReason_RemovedImplant>TODO</GoodwillChangedReason_RemovedImplant>
+  <GoodwillChangedReason_RemovedImplant>eltávolítva: {0}</GoodwillChangedReason_RemovedImplant>
   <!-- EN: downgraded {0} -->
   <GoodwillChangedReason_DowngradedImplant>visszafejlődött: {0}</GoodwillChangedReason_DowngradedImplant>
   <!-- EN: needlessly installed {0} -->
@@ -494,7 +494,7 @@
   <!-- EN: {1_labelShort} died -->
   <GoodwillChangedReason_PawnDied>{1_labelShort} meghalt</GoodwillChangedReason_PawnDied>
   <!-- EN: {0_labelShort} stripped -->
-  <GoodwillChangedReason_PawnStripped>TODO</GoodwillChangedReason_PawnStripped>
+  <GoodwillChangedReason_PawnStripped>{0_labelShort} levetkőztetve</GoodwillChangedReason_PawnStripped>
   <!-- EN: traded -->
   <GoodwillChangedReason_Traded>kereskedett</GoodwillChangedReason_Traded>
   <!-- EN: attacked a caravan -->
@@ -516,21 +516,21 @@
   <!-- EN: euthanized {PAWN_labelShort} -->
   <GoodwillChangedReason_EuthanizedPawn>eutanázia: {PAWN_labelShort}</GoodwillChangedReason_EuthanizedPawn>
   <!-- EN: requested military aid -->
-  <GoodwillChangedReason_RequestedMilitaryAid>TODO</GoodwillChangedReason_RequestedMilitaryAid>
+  <GoodwillChangedReason_RequestedMilitaryAid>katonai segítséget kért</GoodwillChangedReason_RequestedMilitaryAid>
   <!-- EN: requested trader caravan -->
-  <GoodwillChangedReason_RequestedTrader>TODO</GoodwillChangedReason_RequestedTrader>
+  <GoodwillChangedReason_RequestedTrader>kereskedő karavánt kért</GoodwillChangedReason_RequestedTrader>
   <!-- EN: caused neuroquake echo -->
-  <GoodwillChangedReason_CausedNeuroquakeEcho>TODO</GoodwillChangedReason_CausedNeuroquakeEcho>
+  <GoodwillChangedReason_CausedNeuroquakeEcho>neurorengés visszhangot okozott</GoodwillChangedReason_CausedNeuroquakeEcho>
   <!-- EN: caused berserk on {PAWN_labelShort} -->
-  <GoodwillChangedReason_CausedBerserk>TODO</GoodwillChangedReason_CausedBerserk>
+  <GoodwillChangedReason_CausedBerserk>őrjöngést okozott nála: {PAWN_labelShort}</GoodwillChangedReason_CausedBerserk>
   <!-- EN: attacked {0_name} -->
-  <GoodwillChangeReason_AttackedFaction>TODO</GoodwillChangeReason_AttackedFaction>
+  <GoodwillChangeReason_AttackedFaction>megtámadta ezt: {0_name}</GoodwillChangeReason_AttackedFaction>
   <!-- EN: shuttle destroyed -->
-  <GoodwillChangeReason_ShuttleDestroyed>TODO</GoodwillChangeReason_ShuttleDestroyed>
+  <GoodwillChangeReason_ShuttleDestroyed>űrsikló megsemmisült</GoodwillChangeReason_ShuttleDestroyed>
   <!-- EN: civilians lost -->
-  <GoodwillChangeReason_CiviliansLost>TODO</GoodwillChangeReason_CiviliansLost>
+  <GoodwillChangeReason_CiviliansLost>civilek vesztek el</GoodwillChangeReason_CiviliansLost>
   <!-- EN: commander lost -->
-  <GoodwillChangeReason_CommanderLost>TODO</GoodwillChangeReason_CommanderLost>
+  <GoodwillChangeReason_CommanderLost>parancsnok veszett el</GoodwillChangeReason_CommanderLost>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
   <MessageGiftGivenButNotAppreciated>{0} elfogadja az ajándékod, de nem értékeli nagyra.</MessageGiftGivenButNotAppreciated>
@@ -561,7 +561,7 @@
   <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
   <MessageAnimalReturnedWild>Foglalkozás hiánya miatt {1_labelShort} újra elvadult.</MessageAnimalReturnedWild>
   <!-- EN: {1_labelShort} has been returned to the wild. -->
-  <MessageAnimalReturnedWildReleased>TODO</MessageAnimalReturnedWildReleased>
+  <MessageAnimalReturnedWildReleased>{1_labelShort} visszatért a vadonba.</MessageAnimalReturnedWildReleased>
   <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
   <MessageAnimalLostSkill>Foglalkozás hiánya miatt {ANIMAL_labelShort} elvesztette a következő készséget: {1}</MessageAnimalLostSkill>
 
@@ -601,7 +601,7 @@
   <MessageCapturingWillAngerFaction>Figyelem: {PAWN_nameDef} elfogása fel fogja bőszíteni a frakcióját ({PAWN_factionName})!</MessageCapturingWillAngerFaction>
 
   <!-- EN: Warning: Stripping {PAWN_nameDef} will anger {PAWN_factionName}. -->
-  <MessageStrippingWillAngerFaction>TODO</MessageStrippingWillAngerFaction>
+  <MessageStrippingWillAngerFaction>Figyelmeztetés: {PAWN_nameDef} levetkőztetése feldühíti {PAWN_factionName} frakciót.</MessageStrippingWillAngerFaction>
 
   <!-- EN: Cannot shoot in melee. -->
   <MessageCantShootInMelee>Közelharcban nem lőhetsz</MessageCantShootInMelee>
@@ -627,7 +627,7 @@
   <NoValidDestinationFound>Nincs érvényes célpont {0} számára.</NoValidDestinationFound>
 
   <!-- EN: An extracted tree just died. -->
-  <MessageMinifiedTreeDied>TODO</MessageMinifiedTreeDied>
+  <MessageMinifiedTreeDied>Egy kitermelt fa meghalt.</MessageMinifiedTreeDied>
   
   <!-- Research -->
   <!-- EN: Warning: Research will not begin until you build a research bench. -->
@@ -643,58 +643,58 @@
   <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef} fogoly</MessagePrisonerCannotEquipWeapon>
 
   <!-- EN: Warning: {0_nameDef}'s beliefs oppose {1} work. {0_pronoun} may become unhappy. -->
-  <MessageIdeoOpposedWorkTypeSelected>TODO</MessageIdeoOpposedWorkTypeSelected>
+  <MessageIdeoOpposedWorkTypeSelected>Figyelmeztetés: {1} munka {0_nameDef} meggyőződése ellen való. Ezért boldogtalanná válhat.</MessageIdeoOpposedWorkTypeSelected>
 
   <!-- EN: {0} is no longer assigned to {1_nameDef}. -->
-  <MessageBedLostAssignment>TODO</MessageBedLostAssignment>
+  <MessageBedLostAssignment>{0} már nincs fenntartva {1_nameDef} számára.</MessageBedLostAssignment>
   <!-- EN: {0} assigned to {1_nameDef} was destroyed. -->
-  <MessageBedDestroyed>TODO</MessageBedDestroyed>
+  <MessageBedDestroyed>{1_nameDef} számára fenntartott {0} megsemmisült.</MessageBedDestroyed>
 
   <!-- Rituals -->
   <!-- EN: spectate -->
-  <Spectate>TODO</Spectate>
+  <Spectate>néző</Spectate>
   <!-- EN: Assign to {0} -->
-  <AssignToRole>TODO</AssignToRole>
+  <AssignToRole>Hozzárendelés ehhez: {0}</AssignToRole>
   <!-- EN: {0} has begun. -->
-  <RitualBegun>TODO</RitualBegun>
+  <RitualBegun>{0} elkezdődött.</RitualBegun>
   <!-- EN: The maximum number of {0}s is {1}. -->
-  <MaxPawnsPerRole>TODO</MaxPawnsPerRole>
+  <MaxPawnsPerRole>{0} maximális száma: {1}.</MaxPawnsPerRole>
   <!-- EN: Role of {0} is locked. -->
-  <RoleIsLocked>TODO</RoleIsLocked>
+  <RoleIsLocked>{0} szerepe zárolva van.</RoleIsLocked>
   <!-- EN: You need at least one participant. -->
-  <MessageRitualNeedsAtLeastOnePerson>TODO</MessageRitualNeedsAtLeastOnePerson>
+  <MessageRitualNeedsAtLeastOnePerson>Legalább egy résztvevőre van szükség.</MessageRitualNeedsAtLeastOnePerson>
   <!-- EN: You need at least one spectator. -->
-  <MessageRitualNeedsAtLeastOneSpectator>TODO</MessageRitualNeedsAtLeastOneSpectator>
+  <MessageRitualNeedsAtLeastOneSpectator>Legalább egy néző kell.</MessageRitualNeedsAtLeastOneSpectator>
   <!-- EN: You need a {0}. -->
-  <MessageRitualNeedsAtLeastOneRolePawn>TODO</MessageRitualNeedsAtLeastOneRolePawn>
+  <MessageRitualNeedsAtLeastOneRolePawn>Szükséged van erre: {0}.</MessageRitualNeedsAtLeastOneRolePawn>
   <!-- EN: You need at least {1} {0}. -->
-  <MessageRitualNeedsAtLeastNumRolePawn>TODO</MessageRitualNeedsAtLeastNumRolePawn>
+  <MessageRitualNeedsAtLeastNumRolePawn>Legalább {1} {0} szükséges.</MessageRitualNeedsAtLeastNumRolePawn>
   <!-- EN: {0_labelShort} is downed. -->
-  <MessageRitualPawnDowned>TODO</MessageRitualPawnDowned>
+  <MessageRitualPawnDowned>{0_labelShort} leállt.</MessageRitualPawnDowned>
   <!-- EN: {0_labelShort} is currently escaping. -->
-  <MessageRitualPawnPrisonerNotSecured>TODO</MessageRitualPawnPrisonerNotSecured>
+  <MessageRitualPawnPrisonerNotSecured>{0_labelShort} jelenleg szökésben van.</MessageRitualPawnPrisonerNotSecured>
   <!-- EN: {0_labelShort} is currently rebelling. -->
-  <MessageRitualPawnSlaveNotSecured>TODO</MessageRitualPawnSlaveNotSecured>
+  <MessageRitualPawnSlaveNotSecured>{0_labelShort} jelenleg lázad.</MessageRitualPawnSlaveNotSecured>
   <!-- EN: {0_labelShort} is being released. -->
-  <MessageRitualPawnReleased>TODO</MessageRitualPawnReleased>
+  <MessageRitualPawnReleased>{0_labelShort} szabadon engedése folyamatban van.</MessageRitualPawnReleased>
   <!-- EN: {0_labelShort} is injured. -->
-  <MessageRitualPawnInjured>TODO</MessageRitualPawnInjured>
+  <MessageRitualPawnInjured>{0_labelShort} megsérült.</MessageRitualPawnInjured>
   <!-- EN: {0_labelShort} must hold one of these roles -->
-  <MessageRitualRoleRequired>TODO</MessageRitualRoleRequired>
+  <MessageRitualRoleRequired>{0_labelShort} ezen szerepkörök egyikével kell rendelkeznie</MessageRitualRoleRequired>
   <!-- EN: {0} must be a prisoner. -->
-  <MessageRitualRoleMustBePrisoner>TODO</MessageRitualRoleMustBePrisoner>
+  <MessageRitualRoleMustBePrisoner>{0} fogolynak kell lennie.</MessageRitualRoleMustBePrisoner>
   <!-- EN: {0} must be an animal. -->
-  <MessageRitualRoleMustBeAnimal>TODO</MessageRitualRoleMustBeAnimal>
+  <MessageRitualRoleMustBeAnimal>{0} állatnak kell lennie.</MessageRitualRoleMustBeAnimal>
   <!-- EN: {0} must be a human. -->
-  <MessageRitualRoleMustBeHumanlike>TODO</MessageRitualRoleMustBeHumanlike>
+  <MessageRitualRoleMustBeHumanlike>{0} embernek kell lennie.</MessageRitualRoleMustBeHumanlike>
   <!-- EN: No roles available for {0_labelShort}. -->
-  <MessageRitualNoRolesAvailable>TODO</MessageRitualNoRolesAvailable>
+  <MessageRitualNoRolesAvailable>Nem állnak rendelkezésre szerepek a következőhöz: {0_labelShort}.</MessageRitualNoRolesAvailable>
   <!-- EN: {0_labelShort} is not a member of any colony ideoligion. -->
-  <MessageRitualNotOfPlayerIdeo>TODO</MessageRitualNotOfPlayerIdeo>
+  <MessageRitualNotOfPlayerIdeo>{0_labelShort} nem követője egyetlen kolónia ideológiának sem.</MessageRitualNotOfPlayerIdeo>
   <!-- EN: {0} must have eyes -->
-  <MessageRitualRoleMustHaveEyes>TODO</MessageRitualRoleMustHaveEyes>
+  <MessageRitualRoleMustHaveEyes>{0} szemmel kell rendelkeznie</MessageRitualRoleMustHaveEyes>
   <!-- EN: {0_labelShort} does not require further scarification. -->
-  <MessageRitualRoleMustRequireScarification>TODO</MessageRitualRoleMustRequireScarification>
+  <MessageRitualRoleMustRequireScarification>A {0_labelShort} nem igényel további köpölyözést.</MessageRitualRoleMustRequireScarification>
   <!-- EN: {0} must be a prisoner or slave. -->
   <MessageRitualRoleMustBePrisonerOrSlave>TODO</MessageRitualRoleMustBePrisonerOrSlave>
   <!-- EN: {0_labelShort} must be capable of fighting. -->

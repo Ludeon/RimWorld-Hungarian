@@ -6,7 +6,11 @@
     <li>qualityInfo(requestedThingHasQuality==True,priority=1)->of normal+ quality </li>
     <li>qualityInfo-></li>
   -->
-  <TradeRequest.questDescriptionRules.rulesStrings>TODO</TradeRequest.questDescriptionRules.rulesStrings>
+  <TradeRequest.questDescriptionRules.rulesStrings>
+    <li>questDescription->Egy közeli településnek, [settlement_label], különleges kereskedelmi kérelme van. Vásárolni szeretnének:\n\n [requestedThingCount]x [requestedThing_label] [qualityInfo]([requestedThingMarketValue_money] értékben)\n\nHa üzletet szeretnél kötni, küldj egy karavánt a kért áruval. A becsült utazási idő [estimatedTravelTime_duration].</li>
+    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->normál+ minőségben </li>
+    <li>qualityInfo-></li>
+  </TradeRequest.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Caravan to [settlement_label]</li>
     <li>questName->Trade with [settlement_label]</li>
@@ -21,14 +25,27 @@
     <li>trade->Deal</li>
     <li>trade->Offer</li>
   -->
-  <TradeRequest.questNameRules.rulesStrings>TODO</TradeRequest.questNameRules.rulesStrings>
+  <TradeRequest.questNameRules.rulesStrings>
+    <li>questName->Karaván [settlement_label] településre</li>
+    <li>questName->Kereskedés [settlement_label] településsel</li>
+    <li>questName->Eladás [settlement_label] településnek</li>
+    <li>questName->Ellátmány [settlement_label] számára</li>
+    <li>questName->[special] [trade]</li>
+    <li>special->Különleges</li>
+    <li>special->Egyedi</li>
+    <li>special->Nem Hagyományos</li>
+    <li>trade->Kereskedés</li>
+    <li>trade->Csere</li>
+    <li>trade->Üzlet</li>
+    <li>trade->Ajánlat</li>
+  </TradeRequest.questNameRules.rulesStrings>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <TradeRequest.LetterLabelQuestFailed.slateRef>TODO</TradeRequest.LetterLabelQuestFailed.slateRef>
+  <TradeRequest.LetterLabelQuestFailed.slateRef>A küldetés sikertelen: [resolvedQuestName]</TradeRequest.LetterLabelQuestFailed.slateRef>
   <!-- EN: [faction_name] became hostile to you. -->
-  <TradeRequest.LetterTextQuestFailed.slateRef>TODO</TradeRequest.LetterTextQuestFailed.slateRef>
+  <TradeRequest.LetterTextQuestFailed.slateRef>[faction_name] ellenséges lett veled szemben.</TradeRequest.LetterTextQuestFailed.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
-  <TradeRequest.LetterLabelFavorReceiver.slateRef>TODO</TradeRequest.LetterLabelFavorReceiver.slateRef>
+  <TradeRequest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</TradeRequest.LetterLabelFavorReceiver.slateRef>
   <!-- EN: Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request? -->
-  <TradeRequest.LetterTextFavorReceiver.slateRef>TODO</TradeRequest.LetterTextFavorReceiver.slateRef>
+  <TradeRequest.LetterTextFavorReceiver.slateRef>Kinek kell jóváírni az [asker_faction_royalFavorLabel]-t a kereskedelmi kérelem teljesítésében?</TradeRequest.LetterTextFavorReceiver.slateRef>
   
 </LanguageData>

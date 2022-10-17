@@ -17,24 +17,24 @@
   <FirstSummerWarning>Elkezdődött a nyár! De a tél közeleg.\n\nA növények nem nőnek a téli hidegben. Raktározz el elegendő ételt, amíg teheted!.\n\nÉpíts hűtőházat, ami megakadályozza, hogy az étel megromoljon!\n\nÉs vegyél, lopj, vagy gyárts télikabátokat, különben megfagysz odakinn.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
-  <LetterRelationsChange_Hostile>A viszony {0} és közted teljesen elromlott. Mostantól ellenségesek veled.\n\nIdőnként meg fogják támadni a településeidet és karavánjaidat, és nem kereskednek veled többé. Ha szeretnél javítani a kapcsolaton, megajándékozhatod őket karavánok vagy szállítókapszulák segítségével.\n\nA változás oka, hogy a viszony ({1}) {2} alá esett. Hogy újra semlegessé váljon, a viszonynak el kell érnie a következő szintet: {3}.</LetterRelationsChange_Hostile>  
+  <LetterRelationsChange_Hostile>Teljesen megszakadt a kapcsolat a következővel: {0}. Mostantól ellenségesek veled.</LetterRelationsChange_Hostile>  
   <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
-  <LetterRelationsChange_HostileGoodwillDescription>TODO</LetterRelationsChange_HostileGoodwillDescription>  
+  <LetterRelationsChange_HostileGoodwillDescription>Időnként meg fogják támadni a településeidet és karavánjaidat,valamint nem hajlandók kereskedni veled többé. Ha szeretnél javítani a kapcsolaton, megajándékozhatod őket karavánok vagy szállítókapszulák segítségével.\n\nA változás oka, hogy a viszony ({1}) {2} alá esett. Hogy újra semlegessé váljon, a viszonynak el kell érnie a következő szintet: {3}.</LetterRelationsChange_HostileGoodwillDescription>  
 
   <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
-  <LetterRelationsChange_NeutralFromHostile>A viszony {0} és közted felengedett. Semlegesként kezelnek és nem támadnak meg többé.\n\nA változás oka, hogy a viszony ({1}) {2} fölé emelkedett. Ha a viszony újra {3} alá esik, {0} megint ellenséges lesz. Ha a viszony {4} fölé emelkedik, a barátaid lesznek és harcolnak melletted.</LetterRelationsChange_NeutralFromHostile>
+  <LetterRelationsChange_NeutralFromHostile>A viszony {0} és közted megenyhült. Semlegesként kezelnek és nem támadnak meg többé.</LetterRelationsChange_NeutralFromHostile>
   <!-- EN: This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
-  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>TODO</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>Ez azért történt, mert a viszony ({1}) {2} fölé emelkedett. Ha a viszony újra {3} alá esik, {0} ismét ellenséges lesz. Ha a viszony {4} fölé emelkedik, szövetségeseid lesznek, és harcolni fognak érted.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
   
   <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
-  <LetterRelationsChange_NeutralFromAlly>A viszony {0} és közted fagyosabb lett. Barát helyett semlegesként kezelnek.\n\nTovábbra is békések lesznek veled szemben, de többé nem küldenek harcosokat a segítségedre.\n\nA változás oka, hogy a viszony ({1}) {2} alá esett. Ha a viszony {3} alá esik, {0} ellenséges lesz. Ha a viszony újra {4} fölé emelkedik, megint a barátaid lesznek és harcolnak melletted.</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_NeutralFromAlly>A viszony {0} és közted fagyosabb lett. Szövetséges helyett semlegesként kezelnek.\n\n</LetterRelationsChange_NeutralFromAlly>
   <!-- EN: While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
-  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>TODO</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>Továbbra is békések lesznek veled szemben, de többé nem küldenek harcosokat a segítségedre.\n\nA változás oka, hogy a viszony ({1}) {2} alá esett. Ha a viszony {3} alá esik, {0} ellenséges lesz. Ha a viszony újra {4} fölé emelkedik, megint a barátaid lesznek és harcolnak melletted.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
   
   <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
-  <LetterRelationsChange_Ally>A viszony {0} és közted nagyon közeli lett. Barátként tekintenek rád.\n\nOlykor meg fognak jelenni, hogy segítsenek rajtad, ha támadás alatt állsz. Bármikor hívhatod is őket, viszonyt csökkentve ezzel.\n\nA változás oka, hogy a viszony ({1}) {2} fölé emelkedett.Ha a viszony {3} alá esik, {0} újra semleges lesz.</LetterRelationsChange_Ally>
+  <LetterRelationsChange_Ally>A viszony {0} és közted nagyon szorossá vált. Szövetségesnek tekintenek.</LetterRelationsChange_Ally>
   <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
-  <LetterRelationsChange_AllyGoodwillDescription>TODO</LetterRelationsChange_AllyGoodwillDescription>
+  <LetterRelationsChange_AllyGoodwillDescription>Néha szövetségesek érkeznek, hogy segítsenek leküzdeni az ellenségeidet, amikor támadás alatt állsz. Bármikor segítségül hívhatod őket, kapcsolati pontok árán.\n\nA változás oka, hogy a viszony ({1}) {2} fölé emelkedett.Ha a viszony {3} alá esik, {0} újra semleges lesz.</LetterRelationsChange_AllyGoodwillDescription>
 
   <!-- EN: goodwill -->
   <goodwill>viszony</goodwill>
@@ -140,7 +140,7 @@
   <LetterLeaderChanged>{OLDLEADER_nameFull} már nem {3} ennek:{1}.\n\nAz új {3}:{NEWLEADER_nameFull}.</LetterLeaderChanged>
 
   <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
-  <LetterNewLeader>TODO</LetterNewLeader>
+  <LetterNewLeader>{NEWLEADER_nameFull} az új {0}.</LetterNewLeader>
 
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>Az utolsó csepp: {0}.</FinalStraw>
@@ -163,7 +163,7 @@
   <LastEventsInLife>Az utolsó esemény {PAWN_definite} életében</LastEventsInLife>
 
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
-  <LetterInspirationBeginThanksToHighMoodPart>TODO</LetterInspirationBeginThanksToHighMoodPart>
+  <LetterInspirationBeginThanksToHighMoodPart>A jó hangulatnak köszönhetően [PAWN_nameIndef] ihletet kapott!</LetterInspirationBeginThanksToHighMoodPart>
 
   <!-- Related pawns -->
   <!-- EN: Relationship -->
@@ -428,7 +428,7 @@
 
   <!-- Surgery -->
   <!-- EN: Surgery failed on {PATIENT_labelShort} -->
-  <LetterLabelSurgeryFailed>TODO</LetterLabelSurgeryFailed>
+  <LetterLabelSurgeryFailed>{PATIENT_labelShort} műtétje sikertelen volt</LetterLabelSurgeryFailed>
   <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
   <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} kisebb hibát vétett {PATIENT_labelShort} műtétje közben.</MessageMedicalOperationFailureMinor>
   <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
@@ -458,9 +458,9 @@
 
   <!-- Quest items added to caravan inventory -->
   <!-- EN: {CARAVAN_label} received items -->
-  <LetterLabelQuestItemsAddedToCaravanInventory>TODO</LetterLabelQuestItemsAddedToCaravanInventory>
+  <LetterLabelQuestItemsAddedToCaravanInventory>{CARAVAN_label} tételeket kapott</LetterLabelQuestItemsAddedToCaravanInventory>
   <!-- EN: {CARAVAN_label} has received the following items:\n\n{THINGS} -->
-  <LetterQuestItemsAddedToCaravanInventory>TODO</LetterQuestItemsAddedToCaravanInventory>
+  <LetterQuestItemsAddedToCaravanInventory>{CARAVAN_label} karaván a következő tételeket kapta:\n\n{THINGS}</LetterQuestItemsAddedToCaravanInventory>
 
   <!-- Refugee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
@@ -523,7 +523,7 @@
   
   <!-- Quest Completed -->
   <!-- EN: Quest completed -->
-  <LetterQuestCompletedLabel>Küldetés sikeres</LetterQuestCompletedLabel>
+  <LetterQuestCompletedLabel>Küldetés teljesítve</LetterQuestCompletedLabel>
   <!-- EN: Quest failed -->
   <LetterQuestFailedLabel>Küldetés sikertelen</LetterQuestFailedLabel>
   <!-- EN: Quest concluded -->
@@ -549,8 +549,8 @@
   <LetterMechClusterArrived>Mechanoidok érkeztek.</LetterMechClusterArrived>
 
   <!-- EN: Caravan detected -->
-  <LetterLabelSiteCountdownStarted>TODO</LetterLabelSiteCountdownStarted>
+  <LetterLabelSiteCountdownStarted>Karaván bemérve</LetterLabelSiteCountdownStarted>
   <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
-  <LetterTextSiteCountdownStarted>TODO</LetterTextSiteCountdownStarted>
+  <LetterTextSiteCountdownStarted>A karavánodat észlelték. {0} múlva {1} erősítése megérkezik {2} helyről a területre.\n\nAlakítsd újra a karavánod és lendülj mozgásba {1} elkerülése érdekében. Most már látható az érkezésig visszaszámláló időzítő.</LetterTextSiteCountdownStarted>
 
 </LanguageData>
