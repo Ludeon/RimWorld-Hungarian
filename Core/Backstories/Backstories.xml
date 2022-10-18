@@ -16,7 +16,7 @@
     <!-- EN: abandoned -->
     <titleShort>Elhagyott</titleShort>
     <!-- EN: [PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son. -->
-    <desc>[PAWN_nameDef] gyors észjárású, vicces gyerek volt. Egy napon, [PAWN_pronoun] elkalandozott a [PAWN_possessive] gazdag szüleitől, és végül elveszett egy állítólagos használaton kívüli ércraktárban. A klónozási technológia miatt a [PAWN_possessive] szülők úgy döntöttek, hogy a [PAWN_objective] keresésének idejét hasznosabb lenne egy jobb fiú klónozására fordítani.</desc>
+    <desc>[PAWN_nameDef] gyors észjárású, vicces gyerek volt. Egy napon elkalandozott gazdag szüleitől, és végül elveszett egy állítólagos használaton kívüli ércraktárban. A klónozási technológia miatt a szülei úgy döntöttek, hogy a keresése helyett hasznosabb lenne egy jobb fiú klónozására fordítani az időt.</desc>
   </AbandonedChild30>
   
   <AbandonedOrphan61>
@@ -34,16 +34,16 @@
     <!-- EN: abductee -->
     <titleShort>Elrabolt</titleShort>
     <!-- EN: [PAWN_nameDef] was abducted at a young age and forced to do menial labor on a pirate ship. -->
-    <desc>[PAWN_nameDef] csecsemőkorában gyermekrablás áldozata lett. Xenohumán foglyul ejtői kísérleteztek rajta, hogy megértsék a genetikai felépítését.\n\nAmint idősebb lett, [PAWN_nameDef] túlságosan nagyra és erősre nőtt fogva tartói számára, és a végén elszökött.</desc>
+    <desc>A fiatalkorában elrabolt [PAWN_nameDef] egy kalózhajón végzett alantas munkákat, amikre kényszerítették.</desc>
   </Abductee43>
   
   <Abductee7>
     <!-- EN: abductee -->
-    <title>elrabolt</title>
+    <title>Elrabolt</title>
     <!-- EN: abductee -->
-    <titleShort>elrabolt</titleShort>
+    <titleShort>Elrabolt</titleShort>
     <!-- EN: [PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand [PAWN_possessive] genetic structure.\n\nAs [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for [PAWN_possessive] captors and escaped. -->
-    <desc>A [PAWN_nameDef]-et xenohumánok rabolták el, amikor [PAWN_pronoun] még csecsemő volt. Kísérleteztek a [PAWN_objective]-vel, hogy megértsék a [PAWN_possessive] genetikai struktúráját.\n\nAhogy a [PAWN_pronoun] felnőtt, a [PAWN_nameDef] egy kicsit túl nagy és erős lett a [PAWN_possessive] foglyul ejtői számára, és megszökött.</desc>
+    <desc>[PAWN_nameDef] csecsemőkorában gyermekrablás áldozata lett. Xenohumán foglyul ejtői kísérleteztek rajta, hogy megértsék a genetikai felépítését.\n\nAmint idősebb lett, [PAWN_nameDef] túlságosan nagyra és erősre nőtt fogva tartói számára, és a végén elszökött.</desc>
   </Abductee7>
   
   <AcademyStudent58>
@@ -115,7 +115,7 @@
     <!-- EN: adventurer -->
     <titleShort>Kalandor</titleShort>
     <!-- EN: [PAWN_nameDef] was raised to become an engineer. For years, [PAWN_pronoun] planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after [PAWN_possessive] parents fell asleep, [PAWN_pronoun] managed to sneak on board a cargo ship just before it left port. -->
-    <desc>Axle szülei mérnöknek nevelték gyermeküket. Éveken keresztül tervezte, hogy potyautasként elszökik egy teherhajón, és egy új, kalandosabb életet kezd.\n\nEgy éjjel, miután szülei elaludtak, felsurrant egy épp akkor induló teherhajó fedélzetére.</desc>
+    <desc>[PAWN_nameDef] szülei mérnöknek nevelték gyermeküket. Éveken keresztül tervezte, hogy potyautasként elszökik egy teherhajón, és egy új, kalandosabb életet kezd.\n\nEgy éjjel, miután szülei elaludtak, felsurrant egy épp akkor induló teherhajó fedélzetére.</desc>
   </AdventuringChild30>
   
   <AdventurousWeirdo55>
@@ -4681,7 +4681,7 @@
     <!-- EN: pet torturer -->
     <titleShort>állatkínzó</titleShort>
     <!-- EN: [PAWN_nameDef]'s affluent family helped conceal [PAWN_possessive] habit of torturing animals.\n\nDespite years of therapy, [PAWN_pronoun] could never bring [PAWN_objective]self to interact with the little beasts in any normal way. [PAWN_pronoun] did learn a few things about how bodies live and die. -->
-    <desc>[PAWN_nameDef] jómódú családja segített elrejteni az állatkínzási szokását.\n\nAz évekig tartó terápia ellenére soha nem tudta rávenni magát, hogy normális módon érintkezzen a kis bestiákkal. [PAWN_pronoun] tanult néhány dolgot arról, hogyan élnek és halnak a testek.</desc>
+    <desc>[PAWN_nameDef] tehetős családja igyekezett elrejteni, hogy szokása volt állatokat kínozni. \n\nA sok év terápia ellenére sosem tudott újra normálisan tekinteni az állatokra. Mindeközben megtanult pár dolgot arról, hogyan működik aztán pusztul el egy lény szervezete.</desc>
   </PetTorturer60>
   
   <Philosopher82>
@@ -4708,7 +4708,7 @@
     <!-- EN: thief -->
     <titleShort>tolvaj</titleShort>
     <!-- EN: At a young age, [PAWN_nameDef] witnessed [PAWN_possessive] parents' murder. With no guidance, [PAWN_pronoun] had to fend for [PAWN_objective]self. Joining a small group of misfits, [PAWN_pronoun] did whatever was necessary to survive. -->
-    <desc>Fiatalon [PAWN_nameDef] szemtanúja volt szülei meggyilkolásának. Útmutatás nélkül a kellett küzdenie önmagáért. [PAWN_pronoun] egy kis csoporthoz csatlakozva megtett mindent, ami a túléléshez szükséges volt.</desc>
+    <desc>Fiatalon [PAWN_nameDef] szemtanúja volt szülei meggyilkolásának. Minden további segítség nélkül kellett gondoskodnia magáról. Csatlakozva egy elkallódott emberekből álló csoporthoz, mindent megtett, ami szükséges volt a túléléshez.</desc>
   </Pickpocket61>
   
   <Pickpocket82>
@@ -4744,7 +4744,7 @@
     <!-- EN: pirate -->
     <titleShort>Kalóz</titleShort>
     <!-- EN: As a pirate leader, [PAWN_nameDef] was well-known for [PAWN_possessive] cunning plans and chess-like traps. [PAWN_pronoun] was never afraid to sacrifice a few pawns to capture an important target.\n\n[PAWN_possessive] name has been linked more then once to strategies that overcame overwhelming odds. -->
-    <desc>Kalóz vezérként Bishop közismert volt ravasz terveiről és sakkszerű csapdáiról. Soha nem félt feláldozni néhány gyalogot a fontos célpontok megszerzése érdekében.\n\nNeve többször felmerült olyan stratégiákkor, amikor sikerült győzedelmeskedni az óriási túlsúlyban lévő ellenségen.</desc>
+    <desc>Kalóz vezérként [PAWN_nameDef] közismert volt ravasz terveiről és sakkszerű csapdáiról. Soha nem félt feláldozni néhány gyalogot a fontos célpontok megszerzése érdekében.\n\nNeve többször felmerült olyan stratégiákkor, amikor sikerült győzedelmeskedni az óriási túlsúlyban lévő ellenségen.</desc>
   </Pirate56>
   
   <PirateCaptain69>
@@ -4866,20 +4866,20 @@
   
   <PlanetaryMiner64>
     <!-- EN: planetary miner -->
-    <title>bolygóbányász</title>
+    <title>bolygóközi bányász</title>
     <!-- EN: miner -->
     <titleShort>bányász</titleShort>
     <!-- EN: [PAWN_nameDef] was a mining engineer for a major planetary mining corporation. [PAWN_pronoun] work kept [PAWN_objective] underground for weeks at a time, and [PAWN_pronoun] grew to appreciate the darkness. -->
-    <desc>[PAWN_nameDef] egy jelentős bolygóközi bányászati vállalat bányamérnöke volt. Munkája hetekig tartotta a őt a föld alatt, és így egyre jobban megértette a sötétséget.</desc>
+    <desc>[PAWN_nameDef] bányamérnök volt egy bolygóközi bányász vállalatnál. Munkája volt, hogy hetekre a föld alá kényszerítette, emiatt egyre jobban megszerette a sötétséget.</desc>
   </PlanetaryMiner64>
   
   <PlankCutter72>
     <!-- EN: plank cutter -->
-    <title>deszkavágó</title>
+    <title>deszkakészítő</title>
     <!-- EN: plank cutter -->
-    <titleShort>deszkavágó</titleShort>
+    <titleShort>deszkakészítő</titleShort>
     <!-- EN: [PAWN_nameDef] helped [PAWN_possessive] tribe build huge wooden structures by cutting trees into sturdy planks. [PAWN_nameDef] developed a fine understanding of how wood grows and splits. -->
-    <desc>[PAWN_nameDef] segített a törzsnek hatalmas faépítményeket építeni a fák masszív deszkára vágásával. Jól megértette, hogyan növekszik és hasad a fa.</desc>
+    <desc>[PAWN_nameDef] törzsének segített faépítmények munkálataiban azzal, hogy fákból készített vaskos deszkákat. [PAWN_nameDef] jól megértette hogyan nőnek a fák és hogyan kell őket feldarabolni.</desc>
   </PlankCutter72>
   
   <PoisonGardener29>
@@ -4901,7 +4901,7 @@
     <!-- EN: policewoman -->
     <titleShortFemale>rendőrnő</titleShortFemale>
     <!-- EN: [PAWN_nameDef] kept the peace as a line officer in a municipal police force.\n\n[PAWN_pronoun] was trained in de-escalation, physical control, shooting, and other police skills. -->
-    <desc>[PAWN_nameDef] megőrizte a békét az önkormányzati rendőrség sortisztjeként.\n\nKiképzést kapott az eszkaláció enyhítésére, a fizikai ellenőrzésre, a lövöldözésre és egyéb rendőri készségekre.</desc>
+    <desc>[PAWN_nameDef] őrizte a rendet az önkormányzati rendőrség sortisztjeként. \n\nKiképezték hogyan fékezze meg az eszkalációt, fejlesztették fizikai és lövészi képességeit, és egyéb rendőri készségeit.</desc>
   </Policeman45>
   
   <PoliticalActivist20>
@@ -4933,11 +4933,11 @@
   
   <PoliticalClimber28>
     <!-- EN: political climber -->
-    <title>Törtető politikus</title>
+    <title>feltörekvő politikus</title>
     <!-- EN: political climber -->
-    <titleShort>törtető politikus</titleShort>
+    <titleShort>feltörekvő politikus</titleShort>
     <!-- EN: [PAWN_nameDef] was a smart kid, so everyone encouraged [PAWN_possessive] ambition to become a politician.\n\n[PAWN_pronoun] would use any tactic to win, including direct psychological attacks.\n\nDuring one school election, the other candidate hung himself. [PAWN_nameDef] won by default. -->
-    <desc>[PAWN_nameDef] okos gyerek volt, ezért mindenki arra ambicionálta, hogy politikus legyen.\n\nBármit elkövet a győzelem érdekében, beleértve a közvetlen pszichológiai támadásokat is.\n\nAz egyik iskolai választás során a másik jelölt felakasztotta magát. [PAWN_nameDef] értelemszerűen nyert.</desc>
+    <desc>[PAWN_nameDef] okos gyermek volt, ezért mindenki támogatta ambícióját, hogy politikussá válhasson. \n\nBármit megtett volna hogy nyerjen, beleértve a közvetlen lelki terrort is. \n\nAz egyik iskolai választáson a másik jelölt felakaszotta magát, így [PAWN_nameDef] értelemszerűen nyert.</desc>
   </PoliticalClimber28>
   
   <Politician57>
@@ -5198,7 +5198,7 @@
     <!-- EN: rebel -->
     <titleShort>Lázadó</titleShort>
     <!-- EN: When civil war broke out [PAWN_nameDef] remained neutral, until [PAWN_possessive] home was firebombed by a loyalist militia.\n\nLater, [PAWN_possessive] unit gave [PAWN_objective] the nickname "Rare" after [PAWN_pronoun] burnt down the luxury villa of a loyalist leader, with them still inside it. -->
-    <desc>A polgárháború kitörésekor Ade pártatlan maradt, amíg közösségét le nem bombázták a kormányhű polgárőrök.\n\nKésőbb egysége a "Kivételes" becenevet adta neki, miután porig égette a kormányhűek vezetőjének luxusvilláját tulajdonosával együtt.</desc>
+    <desc>A polgárháború kitörésekor [PAWN_nameDef] pártatlan maradt, amíg közösségét le nem bombázták a kormányhű polgárőrök.\n\nKésőbb egysége a "Kivételes" becenevet adta neki, miután porig égette a kormányhűek vezetőjének luxusvilláját tulajdonosával együtt.</desc>
   </RebelFighter39>
   
   <RebelliousStudent74>
@@ -5252,7 +5252,7 @@
     <!-- EN: prodigy -->
     <titleShort>Csodagyerek</titleShort>
     <!-- EN: Growing up on a flourishing glitterworld afforded [PAWN_nameDef] the chance to fully devote [PAWN_objective]self to [PAWN_possessive] studies.\n\nHaving taken a keen interest in genetic modification and neural augmentation from a young age, [PAWN_pronoun] had little time (or desire) for a regular childhood. -->
-    <desc>Holly egy virágzó szupervilágban nőtt fel. Megvolt az lehetősége, hogy teljes mértékben tanulmányaival foglalkozzon.\n\nFiatal kora óta a genetikai módosítások és idegi kiterjesztés iránt érdeklődött. Emiatt nagyon kevés ideje (vagy vágya) volt egy normális gyermekkorra.</desc>
+    <desc>[PAWN_nameDef] egy virágzó szupervilágban nőtt fel. Megvolt az lehetősége, hogy teljes mértékben tanulmányaival foglalkozzon.\n\nFiatal kora óta a genetikai módosítások és idegi kiterjesztés iránt érdeklődött. Emiatt nagyon kevés ideje (vagy vágya) volt egy normális gyermekkorra.</desc>
   </ReclusiveProdigy96>
   
   <ReconSniper89>
@@ -5324,7 +5324,7 @@
     <!-- EN: reporter -->
     <titleShort>Riporter</titleShort>
     <!-- EN: [PAWN_nameDef] spent many years as an investigative reporter. [PAWN_pronoun] was notorious for making chaotic reports from exotic locations.\n\nAlthough seen as a lightweight by [PAWN_possessive] critics, [PAWN_pronoun] managed to break several high-profile stories after lengthy investigations. -->
-    <desc>Candice sok évet töltött oknyomozó riporterként. Hírhedt volt róla, hogy kaotikus riportokat készít egzotikus helyszínekről.\n\nBár a kritikusai kisstílűnek tekintették, hosszas nyomozás után sikerült felgöngyölítenie néhány jelentős ügyet is.</desc>
+    <desc>[PAWN_nameDef] sok évet töltött oknyomozó riporterként. Hírhedt volt róla, hogy kaotikus riportokat készít egzotikus helyszínekről.\n\nBár a kritikusai kisstílűnek tekintették, hosszas nyomozás után sikerült felgöngyölítenie néhány jelentős ügyet is.</desc>
   </Reporter71>
   
   <ReptileResearcher37>
@@ -5477,7 +5477,7 @@
     <!-- EN: janitor -->
     <titleShort>Gondnok</titleShort>
     <!-- EN: After graduating officer training school, [PAWN_nameDef] was assigned to main battle deck on the Thunder-Child. [PAWN_pronoun] served there for a year before [PAWN_possessive] "gallant" actions saw [PAWN_objective] reassigned to the maintenance corps.\n\nIt was with the maintenance corps [PAWN_pronoun] was dubbed [PAWN_nameDef] on account of [PAWN_possessive] legs. -->
-    <desc>Miután elvégezte a tisztképző iskolát, Jake a "Kis Mennydörgő" fő harci fedélzetére került. Éveket szolgált ott, majd egy "vitéz" akciója miatt áthelyezték a karbantartó részleghez.\n\nItt történt, hogy lábai miatt elnevezték "Asztal"-nak.</desc>
+    <desc>Miután elvégezte a tisztképző iskolát, [PAWN_nameDef] a "Kis Mennydörgő" fő harci fedélzetére került. Éveket szolgált ott, majd egy "vitéz" akciója miatt áthelyezték a karbantartó részleghez.\n\nItt történt, hogy lábai miatt elnevezték "Asztal"-nak.</desc>
   </SanitationCaptain29>
   
   <Scavenger22>
@@ -5567,7 +5567,7 @@
     <!-- EN: hunter -->
     <titleShort>vadász</titleShort>
     <!-- EN: [PAWN_nameDef] was a hunter of mysterious creatures that many didn't even believe existed. Sometimes the people were right - and sometimes they were wrong.\n\nAlong the way, [PAWN_pronoun] helped people in need. -->
-    <desc>Nebulys olyan misztikus teremtményekre vadászott, amikről a legtöbben nem is hitték el, hogy léteznek. Néha az embereknek igaza volt - néha nem.\n\nAmerre járt, segített a rászorulóknak.</desc>
+    <desc>[PAWN_nameDef] olyan misztikus teremtményekre vadászott, amikről a legtöbben nem is hitték el, hogy léteznek. Néha az embereknek igaza volt - néha nem.\n\nAmerre járt, segített a rászorulóknak.</desc>
   </SelflessHunter61>
   
   <SentimentalChild55>
@@ -5754,7 +5754,7 @@
     <!-- EN: lawyer -->
     <titleShort>Jogász</titleShort>
     <!-- EN: As a lawyer, [PAWN_nameDef] could convict a deaf man for stealing music. [PAWN_possessive] sharp mind and lack of empathy let [PAWN_objective] say anything to get the other person to talk. With the right amount of money, [PAWN_pronoun] knew, any case can be won.\n\n[PAWN_possessive] childhood cough never went away. -->
-    <desc>Jogászként Lynn elítéltetett egy süket embert zenelopásért. Éles esze és az empátia teljes hiánya miatt nem válogatta meg szavait, csak az vezérelte, hogy más embereket szóra bírjon. Jól tudta, hogy megfelelő mennyiségű pénzzel minden eset megnyerhető.\n\nGyerekkori köhögése máig sem múlt el.</desc>
+    <desc>Jogászként [PAWN_nameDef] elítéltetett egy süket embert zenelopásért. Éles esze és az empátia teljes hiánya miatt nem válogatta meg szavait, csak az vezérelte, hogy más embereket szóra bírjon. Jól tudta, hogy megfelelő mennyiségű pénzzel minden eset megnyerhető.\n\nGyerekkori köhögése máig sem múlt el.</desc>
   </SicklyLawyer49>
   
   <SicklyLiar3>
@@ -5817,7 +5817,7 @@
     <!-- EN: smuggler -->
     <titleShort>Csempész</titleShort>
     <!-- EN: As a contract pilot, [PAWN_nameDef] had a knack for stealing goods and trafficking contraband without getting caught.\n\n[PAWN_pronoun] eventually saved up enough to buy [PAWN_possessive] own ship, and used it to travel from world to world dealing [PAWN_possessive] goods in person. -->
-    <desc>Szerződött pilótaként Meredith rájött egy fortélyra, ami segítségével úgy tudott lopni és kereskedni a csempészáruval, hogy nem kapták el.\n\nVégül elég pénzt gyűjtött össze egy saját hajó vásárlásához, amivel bejárta a világokat, és személyesen üzletelt a portékáival.</desc>
+    <desc>Szerződött pilótaként [PAWN_nameDef] rájött egy fortélyra, ami segítségével úgy tudott lopni és kereskedni a csempészáruval, hogy nem kapták el.\n\nVégül elég pénzt gyűjtött össze egy saját hajó vásárlásához, amivel bejárta a világokat, és személyesen üzletelt a portékáival.</desc>
   </Smuggler23>
   
   <SocialPariah3>
@@ -5862,7 +5862,7 @@
     <!-- EN: survivor -->
     <titleShort>Túlélő</titleShort>
     <!-- EN: [PAWN_nameDef]'s entire tribe was wiped out in a raid. Though [PAWN_pronoun] was adopted by another group, [PAWN_pronoun] was emotionally scarred, and preferred to stay near home, cooking and tending crops. -->
-    <desc>Hawke egész törzsét elpusztította egy titokzatos betegség.\n\nEgyetlen túlélőként talált rá és fogadta be egy másik banda, de soha nem került közel e törzs tagjaihoz. Inkább távol maradt új otthonától, az erdőben vándorolt és az állatok gondját viselte.</desc>
+    <desc>[PAWN_nameDef] egész törzsét elpusztította egy titokzatos betegség.\n\nEgyetlen túlélőként talált rá és fogadta be egy másik banda, de soha nem került közel e törzs tagjaihoz. Inkább távol maradt új otthonától, az erdőben vándorolt és az állatok gondját viselte.</desc>
   </SoleSurvivor21>
   
   <SoleSurvivor63>
@@ -5885,11 +5885,11 @@
   
   <SonOfAHuntress75>
     <!-- EN: son of a huntress -->
-    <title>vadásznő fia</title>
+    <title>Vadásznő fia</title>
     <!-- EN: hunter -->
-    <titleShort>vadász</titleShort>
+    <titleShort>Vadász</titleShort>
     <!-- EN: In the mountains of the planet Ticonderoga, [PAWN_nameDef] was raised by [PAWN_possessive] tribal mother. [PAWN_pronoun] taught [PAWN_objective] survival skills - trapping, tracking, shooting, skinning, cooking and healing.\n\n[PAWN_possessive] departed father had left behind an old bolt-action rifle, and [PAWN_nameDef] practiced with it every chance [PAWN_pronoun] got. -->
-    <desc>Jont törzsi anyja nevelte fel a Ticonderoga bolygó hegyei közt. Megtanították neki a fő túlélési készségeket - csapdázás, követés, lövés, nyúzás, főzés és gyógyítás.\n\nApja egy régi vadászpuskát hagyott örökül neki, és Jon gyakorolt is vele minden adandó alkalommal.</desc>
+    <desc>[PAWN_nameDef] a Ticonderoga bolygó hegyei közt nőtt fel, törzsbeli anyja nevelte. Megtanították neki a fő túlélési készségeket - csapdák állítását, nyomolvasást, lövészetet, nyúzást, főzést és a gyógyítást.\n\nApja egy régi vadászpuskát hagyott örökül neki, és [PAWN_nameDef] minden adandó alkalommal gyakorolt is vele.</desc>
   </SonOfAHuntress75>
   
   <SpaceBartender0>
@@ -5907,7 +5907,7 @@
     <!-- EN: cadet -->
     <titleShort>Kadét</titleShort>
     <!-- EN: Growing up on a rural farm-world leaves little opportunity for excitement and adventure, so when the Royal Fleet began a recruiting program on [PAWN_possessive] home planet, [PAWN_nameDef] threw down [PAWN_possessive] hoe and cattle prod to took up arms for the crown.\n\n[PAWN_pronoun] served on the interplanetary super-destroyer HMS Thunder-Child. -->
-    <desc>Egy vidéki mezőgazdasági világon felnőve csak kevés lehetőség marad izgalomra és kalandra, így amikor a Királyi Flotta sorozásba kezdett szülőföldjén, Jake eldobta kapáját és ösztökét, hogy fegyvert foghasson a koronáért.\n\nŐfelsége "Kis Mennydörgő" nevű bolygóközi szuper-rombolóján szolgált.</desc>
+    <desc>Egy vidéki mezőgazdasági világon felnőve csak kevés lehetőség marad izgalomra és kalandra, így amikor a Királyi Flotta sorozásba kezdett szülőföldjén, [PAWN_nameDef] eldobta kapáját és ösztökét, hogy fegyvert foghasson a koronáért.\n\nŐfelsége "Kis Mennydörgő" nevű bolygóközi szuper-rombolóján szolgált.</desc>
   </SpaceCadet77>
   
   <SpaceExplorer53>
@@ -5943,39 +5943,39 @@
     <!-- EN: huntsman -->
     <titleShort>Vadász</titleShort>
     <!-- EN: Now a man as well as proficient hunter and marksman, [PAWN_nameDef] yearned for more. [PAWN_pronoun] took leave from [PAWN_possessive] birth world, traveling the great expanse in search of exotic game. -->
-    <desc>Férfiként, valamint jól képzett vadászként Jon többre vágyott. Elhagyta a szülei világát, a nagy kietlenségben utazva, egzotikus prédát keresve.</desc>
+    <desc>Férfiként, valamint jól képzett vadászként [PAWN_nameDef] többre vágyott. Elhagyta a szülei világát, a nagy kietlenségben utazva, egzotikus prédák után kutatott.</desc>
   </SpaceHunter79>
   
   <SpaceMarine16>
     <!-- EN: space marine -->
-    <title>Tengerész</title>
+    <title>Űrtengerész</title>
     <!-- EN: marine -->
     <titleShort>Tengerész</titleShort>
     <!-- EN: [PAWN_nameDef] was a warrior in an Imperial navy. [PAWN_possessive] job was to punch into enemy starships, gun down the crew, and capture the ship intact. And [PAWN_pronoun] was good at it. -->
-    <desc>Soren csatlakozott egy tengerész szakaszhoz, akiket brutális gyilkolási hatékonyságukról ismertek. Keresztneve és érzelemmentes harcmodora ihlette becenevét: Zord.</desc>
+    <desc>TODO</desc>
   </SpaceMarine16>
   
   <SpaceMarine19>
     <!-- EN: space marine -->
-    <title>TODO</title>
+    <title>Űrtengerész</title>
     <!-- EN: marine -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Tengerész</titleShort>
     <!-- EN: [PAWN_nameDef] joined a squad of space marines known for their brutal efficiency at killing. [PAWN_possessive] last name and [PAWN_possessive] lack of emotion during combat inspired [PAWN_possessive] nickname. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] csatlakozott egy tengerész szakaszhoz, akiket brutális gyilkolási hatékonyságukról ismertek. Keresztneve és érzelemmentes harcmodora ihlette becenevét: Zord.</desc>
   </SpaceMarine19>
   
   <SpaceMarine5>
     <!-- EN: space marine -->
-    <title>TODO</title>
+    <title>Űrtengerész</title>
     <!-- EN: marine -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Tengerész</titleShort>
     <!-- EN: [PAWN_nameDef] joined Interplanetary Marines to travel the stars fight for [PAWN_possessive] planet. [PAWN_pronoun] distinguished [PAWN_objective]self in several battles.\n\n[PAWN_possessive] experiences desensitized [PAWN_objective] to people around [PAWN_objective], and [PAWN_possessive] social skills degraded. But, [PAWN_pronoun] did learn how to fight. -->
     <desc>TODO</desc>
   </SpaceMarine5>
   
   <SpaceMarine51>
     <!-- EN: space marine -->
-    <title>Tengerész</title>
+    <title>Űrtengerész</title>
     <!-- EN: marine -->
     <titleShort>Tengerész</titleShort>
     <!-- EN: [PAWN_nameDef] was recruited into the security forces of an off-planet corporation.\n\n[PAWN_pronoun] defended their ships against pirates and engaged in private space warfare contracts. -->
@@ -5984,7 +5984,7 @@
   
   <SpaceMarine9>
     <!-- EN: space marine -->
-    <title>Tengerész</title>
+    <title>Űrtengerész</title>
     <!-- EN: marine -->
     <titleShort>Tengerész</titleShort>
     <!-- EN: [PAWN_nameDef] was a member of an elite imperial space warrior unit. Subjected to intense training, [PAWN_pronoun] developed remarkable combat skills.\n\n[PAWN_possessive] unit's quasi-religious ceremonies and beliefs helped [PAWN_objective] stay more-or-less sane through the horrors of the war. -->
@@ -5993,7 +5993,7 @@
   
   <SpaceMarine94>
     <!-- EN: space marine -->
-    <title>Tengerész</title>
+    <title>Űrtengerész</title>
     <!-- EN: marine -->
     <titleShort>Tengerész</titleShort>
     <!-- EN: [PAWN_nameDef] was a warrior in an Imperial navy.\n\n[PAWN_possessive] job was to punch into enemy starships, gun down the crew, and capture the ship intact. And [PAWN_pronoun] was good at it. -->
@@ -6060,7 +6060,7 @@
     <!-- EN: Pirate -->
     <titleShort>Űrfosztogató</titleShort>
     <!-- EN: [PAWN_nameDef] was the leader of a spaceborne pirate crew. Skipping between the rimworlds, [PAWN_pronoun] became the feared enemy of many settlements. -->
-    <desc>Tater egy űrkalóz banda vezetője volt. A peremvilágok között ugrálva, sok település rettegett ellenfelévé vált.</desc>
+    <desc>[PAWN_nameDef] egy űrkalóz banda vezetője volt. A peremvilágok között ugrálva, sok település rettegett ellenfelévé vált.</desc>
   </SpaceRaider71>
   
   <SpaceResearcher25>
@@ -6087,7 +6087,7 @@
     <!-- EN: chef -->
     <titleShort>Séf</titleShort>
     <!-- EN: [PAWN_nameDef] got a spot on a ship by becoming the ship's cook. [PAWN_pronoun] enjoyed cooking and helping the doctor clean wounds, but [PAWN_pronoun] never got used to cleaning the dishes. -->
-    <desc>Ryan szakácsként kapott helyet egy hajón. Imádott főzni és segíteni az orvosnak a sebek tisztításában, de soha nem mosogatta el a tányérokat.</desc>
+    <desc>[PAWN_nameDef] szakácsként kapott helyet egy hajón. Imádott főzni és segíteni az orvosnak a sebek tisztításában, de soha nem mosogatta el a tányérokat.</desc>
   </SpaceshipChef41>
   
   <SpaceshipSalesman34>
@@ -6096,7 +6096,7 @@
     <!-- EN: salesman -->
     <titleShort>Kereskedő</titleShort>
     <!-- EN: [PAWN_nameDef] tried [PAWN_possessive] hand at various jobs, including building space rabbit cages and working at a mutant wheat research project. Finally, [PAWN_pronoun] found [PAWN_possessive] true calling as a spacecraft salesman. Specializing in recreational spacecraft, [PAWN_possessive] smooth talk and charming nature served [PAWN_objective] well. -->
-    <desc>Duster sok munkakörben kipróbálta magát, beleértve az űrnyúl ketrecek építését és egy mutáns búza kutatási projektben való részvételt is. Végül megtalálta valódi hívatását, mint űrhajó kereskedő. Szabadidős űrhajókra szakosodott, simulékony szövege és sármja remekül szolgálta.</desc>
+    <desc>[PAWN_nameDef] sok munkakörben kipróbálta magát, beleértve az űrnyúl ketrecek építését és egy mutáns búza kutatási projektben való részvételt is. Végül megtalálta valódi hívatását, mint űrhajó kereskedő. Szabadidős űrhajókra szakosodott, simulékony szövege és sármja remekül szolgálta.</desc>
   </SpaceshipSalesman34>
   
   <SpaceSmuggler6>
@@ -6105,7 +6105,7 @@
     <!-- EN: smuggler -->
     <titleShort>Csempész</titleShort>
     <!-- EN: [PAWN_nameDef]'s parents used [PAWN_objective] to help smuggle contraband between a cluster of rimworlds.\n\nAided by [PAWN_possessive] small size, [PAWN_nameDef] became very adept at carrying out [PAWN_possessive] parents' missions, learning weaponry, negotiations, and most of all smuggling. -->
-    <desc>Tater szülei arra használták gyermeküket, hogy árut csempésszen a peremvilágok tucatjai között.\n\nKis termete miatt Tater nagyon ügyesen hajtotta végre szülei küldetését, megtanult fegyvert használni, alkudozni és elsajátította a csempészet legjavát.</desc>
+    <desc>[PAWN_nameDef] szülei arra használták gyermeküket, hogy árut csempésszen a peremvilágok tucatjai között.\n\nKis termete miatt [PAWN_nameDef] nagyon ügyesen hajtotta végre szülei küldetését, megtanult fegyvert használni, alkudozni és elsajátította a csempészet legjavát.</desc>
   </SpaceSmuggler6>
   
   <SpaceStationCook63>
@@ -6159,7 +6159,7 @@
     <!-- EN: specialist -->
     <titleShort>Kommandós</titleShort>
     <!-- EN: Give me a reason to kill - a good reason!\n\n[PAWN_nameDef] was a soldier and a skilled one - so skilled that [PAWN_pronoun] entered the special forces to battle militants and xenohuman raiders. [PAWN_pronoun] never imagined [PAWN_objective]self as lone hero, but [PAWN_pronoun] played [PAWN_possessive] part in the group well. -->
-    <desc>Adj egy okot a gyilkolásra - egy jó okot!\n\nMarkus nemcsak egy katona volt, de egy szakképzett katona - olyan képzett, hogy belépett a különleges erőkhöz, hogy háborúzzon a harcos emberhibrid fosztogatók ellen. Soha nem képzelte magát magányos hősnek, de jól végezte dolgát a csapatban.</desc>
+    <desc>Adj egy okot a gyilkolásra - egy jó okot!\n\n[PAWN_nameDef] nemcsak egy katona volt, de egy szakképzett katona - olyan képzett, hogy belépett a különleges erőkhöz, hogy háborúzzon a harcos emberhibrid fosztogatók ellen. Soha nem képzelte magát magányos hősnek, de jól végezte dolgát a csapatban.</desc>
   </SpecialForces13>
   
   <SpeederRacer71>
@@ -6168,7 +6168,7 @@
     <!-- EN: racer -->
     <titleShort>Versenyző</titleShort>
     <!-- EN: [PAWN_nameDef] was the son of a fern farmer in the towering forests of Khalderia.\n\n[PAWN_pronoun] found [PAWN_possessive] first love in speeder racing, zipping in and out of the massive canopies and gorgeous vistas of [PAWN_possessive] homeworld. The seedy underworld of racing also forced [PAWN_objective] to learn to defend [PAWN_objective]self with a quick word or a quicker shot. -->
-    <desc>Rusty egy páfrány farmer fia volt Khalderia toronymagas erdeiben.\n\nElső szerelme a gyorsulási verseny volt, imádta a masszív vászontető alatt süvítő szelet és szülőföldje pompás látványát. A rossz hírű alvilági futamok rákényszerítették, hogy megtanulja magát megvédeni gyors beszéddel vagy még gyorsabb lövéssel.</desc>
+    <desc>[PAWN_nameDef] egy páfrány farmer fia volt Khalderia toronymagas erdeiben.\n\nElső szerelme a gyorsulási verseny volt, imádta a masszív vászontető alatt süvítő szelet és szülőföldje pompás látványát. A rossz hírű alvilági futamok rákényszerítették, hogy megtanulja magát megvédeni gyors beszéddel vagy még gyorsabb lövéssel.</desc>
   </SpeederRacer71>
   
   <Spiceminer81>
@@ -6177,7 +6177,7 @@
     <!-- EN: spiceminer -->
     <titleShort>Fűszerbányász</titleShort>
     <!-- EN: [PAWN_nameDef] made [PAWN_possessive] mark on the universe as a spice miner assigned to the lucrative mining colony of Rural Pen'The.\n\nLittle did [PAWN_pronoun] know, [PAWN_nameDef] was about to embark on a career path that would change [PAWN_possessive] life. -->
-    <desc>[PAWN_nameDef] a Rural Pen’The jövedelmező bányászgyarmatán dolgozó fűszerbányászként vonult be a világegyetem történelmébe.\n\nCsak annyit tudott [PAWN_nameDef], hogy hogyan alakítsa úgy karrierjét, hogy az megváltoztassa az életét.</desc>
+    <desc>[PAWN_nameDef] a Rural Pen’The jövedelmező bányászgyarmatán dolgozó fűszerbányászként vonult be a világegyetem történelmébe.\n\n[PAWN_nameDef] csak annyit tudott, hogy hogyan alakítsa úgy karrierjét, hogy az megváltoztassa az életét.</desc>
   </Spiceminer81>
   
   <SpoiledBrat59>
@@ -6267,7 +6267,7 @@
     <!-- EN: cadet -->
     <titleShort>Kadét</titleShort>
     <!-- EN: Raised on Amen-Ti, glitterworld capital of the Star Empire, [PAWN_nameFull] had an easy childhood.\n\nAs a youth, [PAWN_nameDef] decided that joining the Starforce would be [PAWN_possessive] way of giving back to the Empire. -->
-    <desc>Amen-Ti-ben a Csillag Birodalom szupervilági fővárosában Sam Wissa könnyű gyermekkort élt meg.\n\nFiatalkorában Sam úgy döntött, hogy a Csillagerőhöz való csatlakozással szolgálhatja legjobban birodalmát.</desc>
+    <desc>Amen-Ti-ben a Csillag Birodalom szupervilági fővárosában [PAWN_nameDef] könnyű gyermekkort élt meg.\n\nFiatalkorában [PAWN_nameDef] úgy döntött, hogy a Csillagerőhöz való csatlakozással szolgálhatja legjobban birodalmát.</desc>
   </StarforceCadet79>
   
   <StarKnight5>
@@ -6515,9 +6515,9 @@
   
   <SuperSoldier95>
     <!-- EN: super soldier -->
-    <title>TODO</title>
+    <title>Szuperkatona</title>
     <!-- EN: soldier -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Katona</titleShort>
     <!-- EN: Product of a super-soldier program run by a now-deposed government, [PAWN_nameDef] was lost. [PAWN_pronoun] survived the final suicide attack on the enemy mothership. What now?\n\nFor the first time in [PAWN_possessive] life, [PAWN_pronoun] had no orders, no objectives. [PAWN_pronoun] rose from wreckage and strove towards uncertainty, towards freedom. -->
     <desc>TODO</desc>
   </SuperSoldier95>
@@ -6888,7 +6888,7 @@
     <!-- EN: butcher -->
     <titleShort>Hentes</titleShort>
     <!-- EN: [PAWN_nameDef] began hearing voices. The animals were talking to [PAWN_objective], insulting him. [PAWN_pronoun] came to hate them, and eventually killed [PAWN_possessive] furry former friends. [PAWN_pronoun] started selling the meat just to get human interaction. -->
-    <desc>John hangokat kezdett hallani. Az állatok beszéltek hozzá, sértegették őt. Gyűlölte őket, és végül megölte egykori szőrös barátait. Elkezdte árulni a húsukat, csak hogy emberekkel beszélhessen.</desc>
+    <desc>[PAWN_nameDef] hangokat kezdett hallani. Az állatok beszéltek hozzá, sértegették őt. Gyűlölte őket, és végül megölte egykori szőrös barátait. Elkezdte árulni a húsukat, csak hogy emberekkel beszélhessen.</desc>
   </UnstableButcher31>
   
   <UnwantedSurvivor67>
@@ -6955,7 +6955,7 @@
     <!-- EN: criminal -->
     <titleShort>Bűnöző</titleShort>
     <!-- EN: Born into bad circumstance on an overpopulated urbworld, [PAWN_nameDef] turned to small-time crime as a way to avoid starvation and hypothermia.\n\nRobbery and murder were daily activities for [PAWN_objective]. [PAWN_nameDef] learned that surviving was winning. -->
-    <desc>Egy túlzsúfolt urbánusvilágra rossz körülmények közé született, ezért Vladimir a kiskorú bűnözés felé fordult, hogy elkerülje az éhezést és a kihűlést.\n\nA rablás és gyilkosság napi tevékenység volt számára. Vladimir megtanulta, hogy a túlélés már győzelem.</desc>
+    <desc>Egy túlzsúfolt urbánusvilágra rossz körülmények közé született, ezért [PAWN_nameDef] a kiskorú bűnözés felé fordult, hogy elkerülje az éhezést és a kihűlést.\n\nA rablás és gyilkosság napi tevékenység volt számára. [PAWN_nameDef] megtanulta, hogy a túlélés már győzelem.</desc>
   </UrbworldCriminal6>
   
   <UrbworldDrone32>
@@ -7081,7 +7081,7 @@
     <!-- EN: clone -->
     <titleShort>Klón</titleShort>
     <!-- EN: [PAWN_nameDef] was not made as a man, but a cold hearted assassin. [PAWN_pronoun] was bio-engineered by scientists, and trained as a killer. [PAWN_pronoun] was bred to have no emotion, no feelings, and no care for who lives, and who dies. -->
-    <desc>Vas nem férfinek teremtetett, hanem hideg szívű bérgyilkosnak. Tudósok fejlesztették ki egy laborban, és ölésre képezték. Nincsenek érzelmei, nincsenek érzései. Nem érdekli őt, hogy ki él, és aki hal.</desc>
+    <desc>[PAWN_nameDef] nem férfinek teremtetett, hanem hideg szívű bérgyilkosnak. Tudósok fejlesztették ki egy laborban, és ölésre képezték. Nincsenek érzelmei, nincsenek érzései. Nem érdekli őt, hogy ki él, és aki hal.</desc>
   </VatgrownAssassin20>
   
   <VatgrownMedic53>
@@ -7108,7 +7108,7 @@
     <!-- EN: slave girl -->
     <titleShort>Rabszolgalány</titleShort>
     <!-- EN: [PAWN_nameDef] was vat-grown as a slave in an illegal urbworld laboratory. As a young child, [PAWN_pronoun] was taught only to cook, clean and serve [PAWN_possessive] masters. For most of [PAWN_possessive] childhood, [PAWN_pronoun] knew nothing else. -->
-    <desc>Emmie-t egy illegális urbánusvilági laboratórium rabszolgájának tenyésztették. Kisgyerekként csak arra tanították meg, hogy főzzön, takarítson és szolgálja gazdáit. Gyermekkora nagy része csak ebből állt.</desc>
+    <desc>[PAWN_nameDef] egy illegális urbánusvilági laboratórium rabszolgájának lett tenyésztve. Kisgyerekként csak arra tanították meg, hogy főzzön, takarítson és szolgálja gazdáit. Gyermekkora nagy része csak ebből állt.</desc>
   </VatgrownSlavegirl8>
   
   <VatgrownSoldier8>
@@ -7158,9 +7158,9 @@
   
   <VersatileWorker13>
     <!-- EN: versatile worker -->
-    <title>Jómunkásember</title>
+    <title>Járatos munkás</title>
     <!-- EN: worker -->
-    <titleShort>Jómunkásember</titleShort>
+    <titleShort>Munkás</titleShort>
     <!-- EN: Spending [PAWN_possessive] later teenage years in a colony of settlers, [PAWN_pronoun] offered what little skills [PAWN_pronoun] had to anyone who would take him.\n\nBeing a quick learner, [PAWN_pronoun] honed many of [PAWN_possessive] skills and, apart from [PAWN_possessive] crippling inability to understand fire, is now a fully functioning adult. -->
     <desc>A tizenéves éveinek második felét telepesek kolóniáján töltötte. Ami keveset tudott, azt bárkinek felajánlotta, aki befogadta.\n\nGyors tanulóként számos képességét kipallérozta, és bár képtelen megérteni a tűz mibenlétét, mára teljes értékű felnőtté vált.</desc>
   </VersatileWorker13>
@@ -7252,7 +7252,7 @@
     <!-- EN: voyager -->
     <titleShort>Űrutazó</titleShort>
     <!-- EN: [PAWN_nameDef] was raised on an R&D starship, and spent most of [PAWN_possessive] childhood travelling through the void.\n\nApproaching a mysterious planetoid, the ship was severely damaged. [PAWN_possessive] next memory is of the ship heading out of orbit, fully repaired. [PAWN_pronoun] soon developed an unnatural gift for technological research. -->
-    <desc>[PAWN_nameDef] egy R&amp;D csillaghajón nevelkedett, és gyermekkorának nagy részét az űrben utazva töltötte.\n\nEgy rejtélyes kisbolygóhoz közeledve a hajó súlyosan megsérült. Következő emléke, hogy a hajó a keringő pályát elhagyja, teljesen megjavítva. Hamarosan természetellenes tehetséget fedezett fel magában a technológiai kutatás iránt.</desc>
+    <desc>[PAWN_nameDef] egy R&D csillaghajón nevelkedett, és gyermekkorának nagy részét az űrben utazva töltötte.\n\nEgy rejtélyes kisbolygóhoz közeledve a hajó súlyosan megsérült. Következő emléke, hogy a hajó a keringő pályát elhagyja, teljesen megjavítva. Hamarosan természetellenes tehetséget fedezett fel magában a technológiai kutatás iránt.</desc>
   </VoyagerChild94>
   
   <VRAddict29>
