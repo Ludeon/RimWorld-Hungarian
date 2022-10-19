@@ -1492,7 +1492,7 @@
   
   <!-- Rituals -->
   <!-- EN: ritual -->
-  <Ritual>TODO</Ritual>
+  <Ritual>szertartás</Ritual>
 
   <!-- EN: Takes place at -->
   <RitualTakesPlaceAt>TODO</RitualTakesPlaceAt>
@@ -1509,19 +1509,19 @@
   <!-- EN: ends in {0} -->
   <RitualEndsIn>TODO</RitualEndsIn>
   <!-- EN: Organizers -->
-  <Organizers>TODO</Organizers>
+  <Organizers>Szervezők</Organizers>
   <!-- EN: Quality factors -->
-  <QualityFactors>TODO</QualityFactors>
+  <QualityFactors>Minőségi tényezők</QualityFactors>
   <!-- EN: This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply. -->
-  <QualityFactorTooltipUncertain>TODO</QualityFactorTooltipUncertain>
+  <QualityFactorTooltipUncertain>Ez a feltétel a dolgok alakulásától függően teljesülhet.\n\nHa teljesül, a minőségi bónusz jár.</QualityFactorTooltipUncertain>
   <!-- EN: This condition is not fulfilled.\n\nThe quality bonus will not apply. -->
-  <QualityFactorTooltipNotFulfilled>TODO</QualityFactorTooltipNotFulfilled>
+  <QualityFactorTooltipNotFulfilled>Ez a feltétel nem teljesül.\n\nA minőségi bónusz nem érvényes.</QualityFactorTooltipNotFulfilled>
   <!-- EN: Spectators -->
-  <Spectators>TODO</Spectators>
+  <Spectators>Nézők</Spectators>
   <!-- EN: Not participating -->
-  <NotParticipating>TODO</NotParticipating>
+  <NotParticipating>TODNem vesz résztO</NotParticipating>
   <!-- EN: Drag and drop or left/right click to move people. -->
-  <DragPawnsToRolesInfo>TODO</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfo>Húzással vagy bal/jobb kattintással mozgathatod az embereket.</DragPawnsToRolesInfo>
   <!-- EN: Drag and drop or click to move people. -->
   <DragPawnsToRolesInfoController>TODO</DragPawnsToRolesInfoController>
   <!-- EN: A slave. The human property of others. -->
@@ -1529,7 +1529,7 @@
   <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
   <RitualBeginSleepingDesc>TODO</RitualBeginSleepingDesc>
   <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
-  <RitualBeginSleepingWarning>TODO</RitualBeginSleepingWarning>
+  <RitualBeginSleepingWarning>A kiválasztott résztvevők egy része alszik. Felébrednek, amint elkezded a rituálét.</RitualBeginSleepingWarning>
   <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
   <RitualRoleRequiresSocialRole>TODO</RitualRoleRequiresSocialRole>
   <!-- EN: No substitute available for the role of {0}. -->
@@ -1586,7 +1586,7 @@
   <!-- EN: Room beauty -->
   <RitualPredictedOutcomeDescRoomBeauty>TODO</RitualPredictedOutcomeDescRoomBeauty>
   <!-- EN: Participants -->
-  <RitualPredictedOutcomeDescParticipantCount>TODO</RitualPredictedOutcomeDescParticipantCount>
+  <RitualPredictedOutcomeDescParticipantCount>Résztvevők</RitualPredictedOutcomeDescParticipantCount>
   <!-- EN: {PAWN_labelShort}'s expectations -->
   <RitualPredictedOutcomeDescPawnExpectations>TODO</RitualPredictedOutcomeDescPawnExpectations>
 
