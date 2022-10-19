@@ -88,11 +88,11 @@
   <!-- EN: Since {PAWN_nameFull} died, {PAWN_possessive} titles will be transferred to {PAWN_possessive} heirs. -->
   <LetterTitleInheritance_Base>Mivel {PAWN_nameFull} meghalt, a jogcímei átkerülnek az örököseihez.</LetterTitleInheritance_Base>
   <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It will replace {HEIR_possessive} {REPLACEDTITLE} title upon completion of a bestowing ceremony. -->
-  <LetterTitleInheritance_AsReplacement>A {TITLE} címét {HEIR_nameFull} örökölte, a {FACTION_name} utódlási törvényeinek megfelelően. Az új cím felváltja az ő {REPLACEDTITLE} címét az adományozási ünnepség befejezésekor.</LetterTitleInheritance_AsReplacement>
+  <LetterTitleInheritance_AsReplacement>A {TITLE} címét {HEIR_nameFull} örökölte, a {FACTION_name} utódlási törvényeinek megfelelően. Az új cím felváltja az ő {REPLACEDTITLE} címét a kinevezési ünnepség befejezésekor.</LetterTitleInheritance_AsReplacement>
   <!-- EN: {PAWN_possessive} {TITLE} title would have been inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}, but {HEIR_pronoun} already had a {HIGHERTITLE} title. -->
   <LetterTitleInheritance_NoEffectHigherTitle>A {TITLE} címét {HEIR_nameFull} örökölte volna a {FACTION_name} utódlási törvényei szerint, de a ő már rendelkezett egy magasabb - {HIGHERTITLE} - címmel.</LetterTitleInheritance_NoEffectHigherTitle>
   <!-- EN: {PAWN_possessive} {TITLE} title will be inherited by {HEIR_nameFull} upon completion of a bestowing ceremony, according to the succession laws of {FACTION_name}. -->
-  <LetterTitleInheritance_WasInherited>A {TITLE} címét {HEIR_nameFull} örökli az adományozási ünnepség befejeztével, a {FACTION_name} örökösödési törvényeinek megfelelően.</LetterTitleInheritance_WasInherited>
+  <LetterTitleInheritance_WasInherited>A {TITLE} címét {HEIR_nameFull} örökli a kinevezési ünnepség befejeztével, a {FACTION_name} örökösödési törvényeinek megfelelően.</LetterTitleInheritance_WasInherited>
   <!-- EN: {PAWN_possessive} {TITLE} title was not inherited by anyone, since {PAWN_pronoun} had no designated heir for this title. -->
   <LetterTitleInheritance_NoHeirFound>A {PAWN_possessive} {TITLE} címet senki sem örökölte, mivel neki nem volt kijelölt örököse erre a címre.</LetterTitleInheritance_NoHeirFound>
 
@@ -169,14 +169,14 @@
   <LetterJoinOfferAccept>Elfogad</LetterJoinOfferAccept>
 
   <!-- EN: Bestowing ceremony expired -->
-  <LetterLabelBestowingCeremonyExpired>Az adományozási ünnepség elévült</LetterLabelBestowingCeremonyExpired>
+  <LetterLabelBestowingCeremonyExpired>A kinevezési ünnepség elévült</LetterLabelBestowingCeremonyExpired>
   <!-- EN: {TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled. -->
-  <LetterTextBestowingCeremonyExpired>{TARGET_definite} nem jelent meg az adományozási ünnepségen. A szertartást törölték.</LetterTextBestowingCeremonyExpired>
+  <LetterTextBestowingCeremonyExpired>{TARGET_definite} nem jelent meg a kinevezési ünnepségen. A szertartást törölték.</LetterTextBestowingCeremonyExpired>
 
   <!-- EN: {TARGET_definite}'s title changed -->
   <LetterLabelBestowingCeremonyTitleUpdated>{TARGET_definite} címe megváltozott</LetterLabelBestowingCeremonyTitleUpdated>
   <!-- EN: {TARGET_definite} has gained new title since the bestowing ceremony was scheduled. In order for bestowing to match the new title, another ceremony will be scheduled soon.\n\nThe new bestowing ceremony will include the psylink rewards for all titles which were not yet awarded. -->
-  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite} új címet kapott az adományozási ünnepség kitűzése óta. Annak érdekében, hogy az adományozás megfeleljen az új címnek, hamarosan újabb eseményt tervezünk.\n\nAz új adományozási ceremónia tartalmazza a psylink jutalmakat minden olyan cím után, amelyet még nem adtak ki.</LetterTextBestowingCeremonyTitleUpdated>
+  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite} új címet kapott a kinevezési ünnepség kitűzése óta. Annak érdekében, hogy az adományozás megfeleljen az új címnek, hamarosan újabb eseményt tervezünk.\n\nAz új adományozási ceremónia tartalmazza a psylink jutalmakat minden olyan cím után, amelyet még nem adtak ki.</LetterTextBestowingCeremonyTitleUpdated>
   
   <!-- EN: {PAWN_labelShort} received {1} honor as a sign of respect from {FACTION_name}, for gathering {3} spectators. -->
   <LetterPartBestowingExtraHonor>{PAWN_labelShort} {1} kitüntetésben részesült a tisztelet jeleként {FACTION_name} részéről, amiért {3} nézőt gyűjtött össze.</LetterPartBestowingExtraHonor>

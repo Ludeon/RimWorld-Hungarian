@@ -17,7 +17,7 @@
   <ShuttleCannotLand_Unwalkable>A területnek járhatónak kell lennie.</ShuttleCannotLand_Unwalkable>
 
   <!-- EN: Select {BESTOWER_definite} and click 'Start bestowing ceremony' to commence the ceremony. -->
-  <MessageBestowerWaiting>Válaszd ki a(z) {BESTOWER_definite} lehetőséget, és kattints a telepes „adományozási ünnepének indítása” gombra a ceremónia megkezdéséhez.</MessageBestowerWaiting>
+  <MessageBestowerWaiting>Válaszd ki a(z) {BESTOWER_definite} lehetőséget, és kattints a telepes „kinevezési ünnepének indítása” gombra a ceremónia megkezdéséhez.</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
   <MessageBestowerUnreachable>Az adományozót nem lehet elérni!</MessageBestowerUnreachable>
   <!-- EN: {0} is busy. -->
@@ -29,10 +29,10 @@
   <!-- EN: The bestower is leaving due to life-threatening temperature. -->
   <MessageBestowingDangerTemperature>Az adományozó az életveszélyes hőmérséklet miatt távozik.</MessageBestowingDangerTemperature>
   <!-- EN: The bestowing ceremony has been interrupted. -->
-  <MessageBestowingInterrupted>Az adományozási ceremónia félbeszakadt.</MessageBestowingInterrupted>
+  <MessageBestowingInterrupted>A kinevezési ünnepség félbeszakadt.</MessageBestowingInterrupted>
 
   <!-- EN: {PAWN_definite}'s bestowing ceremony has begun. -->
-  <MessageBestowingCeremonyStarted>Megkezdődött {PAWN_definite} adományozási ceremóniája.</MessageBestowingCeremonyStarted>
+  <MessageBestowingCeremonyStarted>Megkezdődött {PAWN_definite} kinevezési ünnepsége.</MessageBestowingCeremonyStarted>
   <!-- EN: You defeated the {FACTION_pawnsPlural}! Get back on the shuttle to launch it. -->
   <MessageMissionGetBackToShuttle>Legyőzted a {FACTION_pawnsPlural} csapatot! Szállj vissza a kompra, hogy elindíthasd.</MessageMissionGetBackToShuttle>
 
