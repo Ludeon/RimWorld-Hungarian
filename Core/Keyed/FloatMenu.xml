@@ -45,6 +45,8 @@
   <CannotAttackSelf>nem támadhatod meg magad</CannotAttackSelf>
   <!-- EN: cannot attack faction ally -->
   <CannotAttackSameFactionMember>TODO</CannotAttackSameFactionMember>
+  <!-- EN: Incapable of firefighting. -->
+  <IncapableOfFirefighting>TODO</IncapableOfFirefighting>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>{1_labelShort} működtetése</OrderManThing>
@@ -74,8 +76,10 @@
   <NoMergeTarget>nincs másik rakás, amivel egyesíteni lehetne</NoMergeTarget>
   <!-- EN: already filled enough -->
   <AlreadyFilledLower>már eléggé tele van</AlreadyFilledLower>
-  <!-- EN: need material -->
+  <!-- EN: missing {0} -->
   <MissingMaterials>nincs elég alapanyag</MissingMaterials>
+  <!-- EN: No medicine for restriction '{CATEGORY}'. -->
+  <NoMedicineMatchingCategory>TODO</NoMedicineMatchingCategory>
   <!-- EN: under required skill {0} -->
   <UnderRequiredSkill>szükséges készségszint legalább: {0}</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
@@ -88,10 +92,14 @@
   <MissingRequiredSkillLevel>nincs meg a szükséges készségszint</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>az állattal nemrég foglalkoztak</AnimalInteractedTooRecently>
+  <!-- EN: interacted with too recently -->
+  <PrisonerInteractedTooRecently>TODO</PrisonerInteractedTooRecently>
   <!-- EN: no usable food -->
   <NoUsableFood>nincs felhasználható étel</NoUsableFood>
   <!-- EN: no food -->
   <NoFood>nincs étel</NoFood>
+  <!-- EN: no food matching restrictions -->
+  <NoFoodMatchingRestrictions>TODO</NoFoodMatchingRestrictions>
   <!-- EN: No {0_label} -->
   <NoIngredient>TODO</NoIngredient>
   <!-- EN: below requirements of {0} -->
@@ -158,14 +166,22 @@
   <InstallImplantNotAllowedForNonColonists>nem gyarmatos</InstallImplantNotAllowedForNonColonists>
   <!-- EN: already installed -->
   <InstallImplantAlreadyInstalled>már be van ültetve</InstallImplantAlreadyInstalled>
+  <!-- EN: requires an existing {0} -->
+  <InstallImplantHediffRequired>TODO</InstallImplantHediffRequired>
   <!-- EN: max level -->
   <InstallImplantAlreadyMaxLevel>max szint</InstallImplantAlreadyMaxLevel>
+  <!-- EN: psychically deaf -->
+  <InstallImplantPsychicallyDeaf>TODO</InstallImplantPsychicallyDeaf>
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>{0} feljavítása erre: {1}</UpgradeImplant>
   <!-- EN: violation of faction ally -->
   <SurgeryViolationFellowFactionMember>TODO</SurgeryViolationFellowFactionMember>
   <!-- EN: being carried by {0_labelShort} -->
   <BeingCarriedBy>TODO</BeingCarriedBy>
+  <!-- EN: full -->
+  <ContainerFull>TODO</ContainerFull>
+  <!-- EN: already assigned -->
+  <AlreadyAssigned>TODO</AlreadyAssigned>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>Elfogyaszt: {1_labelShort}</ConsumeThing>
@@ -188,9 +204,15 @@
   <Capture>Fogd el őt: {1_label}</Capture>
   <!-- EN: Cannot capture -->
   <CannotCapture>Nem tudja elfogni</CannotCapture>
+  <!-- EN: unwaveringly loyal -->
+  <Unrecruitable>TODO</Unrecruitable>
 
   <!-- EN: Rescue {1_label} -->
   <Rescue>Mentsd meg őt: {1_label}</Rescue>
+  <!-- EN: Put {1_label} somewhere safe -->
+  <PutSomewhereSafe>TODO</PutSomewhereSafe>
+  <!-- EN: Taking {0_labelShort} to bed. -->
+  <TakingToBed>TODO</TakingToBed>
   <!-- EN: Cannot rescue -->
   <CannotRescue>Nem tudja megmenteni</CannotRescue>
 
@@ -231,6 +253,8 @@
   <Incapable>alkalmatlan</Incapable>
   <!-- EN: incapable of {0} -->
   <IncapableOfCapacity>alkalmatlan erre: {0}</IncapableOfCapacity>
+  <!-- EN: Must have {0_label} -->
+  <MustHaveHediff>TODO</MustHaveHediff>
 
   <!-- EN: min skill -->
   <MinSkill>min. készség</MinSkill>
@@ -261,13 +285,15 @@
   <ReloadFull>TODO</ReloadFull>
   <!-- EN: Too few -->
   <ReloadNotEnough>TODO</ReloadNotEnough>
+  <!-- EN: Cannot carry enough {AMMO_label} to reload 1 charge. -->
+  <ReloadCannotCarryEnough>TODO</ReloadCannotCarryEnough>
   
-  <!-- EN: Cannot pick up {1_label} -->
+  <!-- EN: Cannot pick up {1_labelShort} -->
   <CannotPickUp>Nem lehet felvenni ezt: {1_label}</CannotPickUp>
   <!-- EN: Cannot pick up {1_label} (all) -->
   <CannotPickUpAll>Nem lehet felvenni az összest: {1_label}</CannotPickUpAll>
-  <!-- EN: Pick up {1_label} -->
-  <PickUp>Felvenni ezt: {1_label}</PickUp>
+  <!-- EN: Pick up {1_labelShort} x1 -->
+  <PickUpOne>TODO</PickUpOne>
   <!-- EN: Pick up {1_label} (all) -->
   <PickUpAll>Felvenni az összest: {1_label}</PickUpAll>
   <!-- EN: Pick up {1_labelShort}... -->
@@ -518,5 +544,17 @@
   <RepairThing>TODO</RepairThing>
   <!-- EN: Cannot repair {0} -->
   <CannotRepair>TODO</CannotRepair>
-  
+
+  <!-- EN: Cannot enter -->
+  <CannotEnter>TODO</CannotEnter>
+
+  <!-- Romance partner -->
+  <!-- EN: Cannot romance {0} -->
+  <CannotRomance>TODO</CannotRomance>
+  <!-- EN: Romance {0} -->
+  <CanRomance>TODO</CanRomance>
+
+  <!-- UNUSED -->
+  <PickUp>Felvenni ezt: {1_label}</PickUp>
+
 </LanguageData>

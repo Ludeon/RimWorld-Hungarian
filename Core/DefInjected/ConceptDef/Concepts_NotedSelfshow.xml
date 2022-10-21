@@ -79,7 +79,7 @@
   
   <!-- EN: Friendly fire safety -->
   <FriendlyFireSafety.label>Baráti tűz</FriendlyFireSafety.label>
-  <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over his friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
+  <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over their friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
   <FriendlyFireSafety.helpText>Baráti tűz soha nem fordul elő, ha lövész társai közelében van.\n\nPéldául nyugodtan elhelyezhető egy kardforgató gyarmatos lövész társa előtt, ha nincsenek túl messze egymástól. A lövész társa válla fölött fog tüzelni.\n\nEz egy jó módszer arra, hogy a közel-, és a távolsági harcot kombináld.</FriendlyFireSafety.helpText>
   
   <!-- EN: Getting more traders -->
@@ -112,9 +112,8 @@
   <!-- EN: The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane. -->
   <InfoCard.helpText>Az infokártya részletes adatokkal szolgál minden tárgyról, személyről vagy épületről.\n\nVálassz ki egy személyt és kattints az 'i'-re a információs panelen.</InfoCard.helpText>
   
-  <!-- EN: Room stats inspector -->
+  <!-- UNUSED -->
   <InspectRoomStats.label>Szoba statisztika</InspectRoomStats.label>
-  <!-- EN: You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right. -->
   <InspectRoomStats.helpText>Egy szoba hatását, gazdagságát és szépségét is megnézheted, bekapcsolod a szoba statisztikák kijelzését a jobb alsó sarokban.</InspectRoomStats.helpText>
   
   <!-- EN: Manual work priorities -->
@@ -161,6 +160,11 @@
   <StorageTab.label>Raktár fül</StorageTab.label>
   <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->
   <StorageTab.helpText>Testre szabhatod a raktárkörzeteket, ha kiválasztod őket és megnyitod a "Raktár" fület, a bal-alsó sarokban lévő információs panel tetején.</StorageTab.helpText>
+  
+  <!-- EN: Tile inspector -->
+  <TileInspector.label>TODO</TileInspector.label>
+  <!-- EN: You can inspect the details of a tile by holding {Key:ShowCellInspector}. This displays the contents of a tile, room information, beauty information, and more. -->
+  <TileInspector.helpText>TODO</TileInspector.helpText>
   
   <!-- EN: Time assignments -->
   <TimeAssignments.label>Időbeosztás</TimeAssignments.label>

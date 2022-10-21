@@ -4,25 +4,16 @@
   <!-- EN: A story generator by Tynan Sylvester -->
   <MainPageCredit>Tynan Sylvester kolónia szimulátora</MainPageCredit>
 
-  <!-- EN: Developers -->
+  <!-- EN: Engineering -->
   <Credits_Developers>Fejlesztők</Credits_Developers>
   <!-- EN: Audio -->
   <Credit_MusicAndSound>Zene és hangeffektek</Credit_MusicAndSound>
-  <!-- EN: Code -->
-  <Credit_Code>Programozás</Credit_Code>
   <!-- EN: Art -->
   <Credit_GameArt>Játékbeli képek</Credit_GameArt>
   <!-- EN: Menu art -->
   <Credit_MenuArt>Menü képek</Credit_MenuArt>
-  <!-- EN: Additional code -->
-  <Credit_AdditionalCode>További programozás</Credit_AdditionalCode>
-  
-  <!-- EN: Additional development -->
+  <!-- EN: Additional engineering -->
   <Credits_AdditionalDevelopment>További fejlesztők</Credits_AdditionalDevelopment>
-
-  <!-- EN: Special thanks -->
-  <Credit_SpecialThanks>Külön köszönet</Credit_SpecialThanks>
-
   <!-- EN: Community volunteers -->
   <Credits_TitleCommunity>Közösségi önkéntesek</Credits_TitleCommunity>
   <!-- EN: Community testers -->
@@ -39,19 +30,21 @@
   <Credit_WikiMaster>Wiki karbantartók</Credit_WikiMaster>
   <!-- EN: Test lead -->
   <Credit_TestLead>TODO</Credit_TestLead>
-
   <!-- EN: {0} language -->
   <Credits_TitleLanguage>{0} nyelv</Credits_TitleLanguage>
-  <!-- EN: Writer -->
-  <Credit_Writer>Író</Credit_Writer>
-  <!-- EN: Translator -->
-  <Credit_Translator>Fordító</Credit_Translator>
-  <!-- EN: Open source libraries -->
-  <Credit_OpenSourceLibraries>Nyílt forráskódú könyvtárak</Credit_OpenSourceLibraries>
-  <!-- EN: Noise generation -->
-  <Credit_NoiseGeneration>Zaj generálása</Credit_NoiseGeneration>
-
   <!-- EN: Thanks for playing! -->
   <ThanksForPlaying>Köszönjük, hogy játszottál!</ThanksForPlaying>
+
+  <!-- Currently unused -->
+  <!-- EN: Special thanks -->
+  <Credit_SpecialThanks>Külön köszönet</Credit_SpecialThanks>
+
+  <!-- UNUSED -->
+  <Credit_Code>Programozás</Credit_Code>
+  <Credit_AdditionalCode>További programozás</Credit_AdditionalCode>
+  <Credit_Writer>Író</Credit_Writer>
+  <Credit_Translator>Fordító</Credit_Translator>
+  <Credit_OpenSourceLibraries>Nyílt forráskódú könyvtárak</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Zaj generálása</Credit_NoiseGeneration>
 
 </LanguageData>

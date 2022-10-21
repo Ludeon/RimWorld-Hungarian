@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: activating TargetA. -->
+  <ActivateThing.reportString>TODO</ActivateThing.reportString>
+  
   <!-- EN: applying TargetB. -->
   <ApplyTechprint.reportString>műszaki leírást ad hozzá ehhez: TargetB.</ApplyTechprint.reportString>
   
@@ -12,6 +15,9 @@
   
   <!-- EN: beating fire out. -->
   <BeatFire.reportString>tüzet tapos el.</BeatFire.reportString>
+  
+  <!-- EN: Doing something. -->
+  <Carried.reportString>TODO</Carried.reportString>
   
   <!-- EN: Doing something. -->
   <CastAbilityOnThing.reportString>valamit csinál.</CastAbilityOnThing.reportString>
@@ -100,6 +106,9 @@
   <!-- EN: hauling TargetA. -->
   <HaulToTransporter.reportString>cipeli ezt: TargetA.</HaulToTransporter.reportString>
   
+  <!-- EN: idling. -->
+  <IdleWhileDespawned.reportString>TODO</IdleWhileDespawned.reportString>
+  
   <!-- EN: igniting TargetA. -->
   <Ignite.reportString>meggyújtja ezt: TargetA.</Ignite.reportString>
   
@@ -132,6 +141,9 @@
   
   <!-- EN: opening TargetA. -->
   <Open.reportString>kinyitja ezt: TargetA.</Open.reportString>
+  
+  <!-- EN: picking up TargetA. -->
+  <PickupToHold.reportString>TODO</PickupToHold.reportString>
   
   <!-- EN: rearming TargetA. -->
   <RearmTurret.reportString>újraélesíti ezt: TargetA.</RearmTurret.reportString>
@@ -175,8 +187,8 @@
   <!-- EN: trading with TargetA. -->
   <TradeWithPawn.reportString>kereskedik vele: TargetA.</TradeWithPawn.reportString>
   
-  <!-- EN: triggering firefoam popper. -->
-  <TriggerFirefoamPopper.reportString>habot ereszt ki.</TriggerFirefoamPopper.reportString>
+  <!-- EN: triggering TargetA. -->
+  <TriggerObject.reportString>habot ereszt ki.</TriggerObject.reportString>
   
   <!-- EN: unloading TargetA. -->
   <UnloadInventory.reportString>kipakolja ezt: TargetA.</UnloadInventory.reportString>
@@ -204,6 +216,9 @@
   
   <!-- EN: standing. -->
   <Wait.reportString>várakozik.</Wait.reportString>
+  
+  <!-- EN: sleeping. -->
+  <Wait_Asleep.reportString>TODO</Wait_Asleep.reportString>
   
   <!-- EN: watching for targets. -->
   <Wait_Combat.reportString>célpontra vár.</Wait_Combat.reportString>

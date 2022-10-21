@@ -19,16 +19,16 @@
 
   <!-- EN: {0} opportunity -->
   <RitualOpportunity>TODO</RitualOpportunity>
-  <!-- EN: {0} opportunity for -->
+  <!-- EN: {0} opportunity for {1} -->
   <RitualOpportunityFor>TODO</RitualOpportunityFor>
-  <!-- EN: Expires in -->
+  <!-- EN: Expires in {0}, on {1}. -->
   <RitualExpiresIn>TODO</RitualExpiresIn>
-  <!-- EN: Completing {RITUAL_labelDef} will have these effects -->
-  <RitualCompletionEffects>TODO</RitualCompletionEffects>
+  <!-- EN: To begin the ritual, select a {FOCUS} and click the 'Begin {RITUAL_label}' command. -->
+  <RitualSingleTargetDesc>TODO</RitualSingleTargetDesc>
+  <!-- EN: To begin the ritual, select one of the following and click the 'Begin {RITUAL_label}' command -->
+  <RitualMultiTargetDesc>TODO</RitualMultiTargetDesc>
   <!-- EN: To begin the ritual, select a focus object and click the 'Begin {RITUAL_label}' command. The following are valid focus objects:\n{1} -->
   <RitualTargetsExplanation>TODO</RitualTargetsExplanation>
-  <!-- EN: Following roles have a part in {RITUAL_label}:\n{1} -->
-  <RitualRolesExplanation>TODO</RitualRolesExplanation>
   <!-- EN: Click to jump to targets -->
   <RitualJumpToTargets>TODO</RitualJumpToTargets>
   <!-- EN: In order to perform {0} you need to fill these roles -->
@@ -75,7 +75,7 @@
   <AlertRitualComingDesc>TODO</AlertRitualComingDesc>
   <!-- EN: Opportunities expire after {0} days, and reoccur on the same day each year. -->
   <AlertRitualComingExtra>TODO</AlertRitualComingExtra>
-  <!-- EN: {0} on {1}, {2} left -->
+  <!-- EN: {0} on {1}, {2} before opportunity arises -->
   <AlertRitualComingEntry>TODO</AlertRitualComingEntry>
 
   <!-- EN: Age reversal demanded -->
