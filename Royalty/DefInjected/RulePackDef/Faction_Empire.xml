@@ -24,7 +24,19 @@
     <li>ofThing->Eternity</li>
     <li>ofThing->the Spirit</li>
   -->
-  <NamerFactionEmpire.rulePack.rulesStrings>TODO</NamerFactionEmpire.rulePack.rulesStrings>
+  <NamerFactionEmpire.rulePack.rulesStrings>
+    <li>r_name->A Kivonult [empire]</li>
+    <li>r_name->A Menekült [empire]</li>
+    <li>r_name->A Széttört [empire]</li>
+    <li>r_name->Az Összetört [empire]</li>
+    <li>r_name->A Bukott [empire]</li>
+    <li>r_name(p=4)->A [Color] [empire]</li>
+    <li>empire(p=4)->Birodalom</li>
+    <li>empire->Nemzet</li>
+    <li>empire->Hatalom</li>
+    <li>empire->Uralom</li>
+    <li>empire->Szuverenitás</li>
+  </NamerFactionEmpire.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>

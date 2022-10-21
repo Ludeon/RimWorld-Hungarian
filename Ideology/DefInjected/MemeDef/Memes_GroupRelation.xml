@@ -109,17 +109,17 @@
   -->
   <Loyalist.generalRules.rulesStrings>TODO</Loyalist.generalRules.rulesStrings>
   <!-- EN: loyal -->
-  <Loyalist.symbolPacks.0.adjective>TODO</Loyalist.symbolPacks.0.adjective>
+  <Loyalist.symbolPacks.0.adjective>hűséges</Loyalist.symbolPacks.0.adjective>
   <!-- EN: Loyaltism -->
-  <Loyalist.symbolPacks.0.ideoName>TODO</Loyalist.symbolPacks.0.ideoName>
+  <Loyalist.symbolPacks.0.ideoName>Lojalitás</Loyalist.symbolPacks.0.ideoName>
   <!-- EN: loyalist -->
-  <Loyalist.symbolPacks.0.member>TODO</Loyalist.symbolPacks.0.member>
+  <Loyalist.symbolPacks.0.member>lojalista</Loyalist.symbolPacks.0.member>
   <!-- EN: loyalty -->
-  <Loyalist.symbolPacks.0.theme>TODO</Loyalist.symbolPacks.0.theme>
+  <Loyalist.symbolPacks.0.theme>hűség</Loyalist.symbolPacks.0.theme>
   <!-- EN: fealtist -->
-  <Loyalist.symbolPacks.1.adjective>TODO</Loyalist.symbolPacks.1.adjective>
+  <Loyalist.symbolPacks.1.adjective>fealtista</Loyalist.symbolPacks.1.adjective>
   <!-- EN: Fealtism -->
-  <Loyalist.symbolPacks.1.ideoName>TODO</Loyalist.symbolPacks.1.ideoName>
+  <Loyalist.symbolPacks.1.ideoName>Fealtizmus</Loyalist.symbolPacks.1.ideoName>
   <!-- EN: fealtor -->
   <Loyalist.symbolPacks.1.member>TODO</Loyalist.symbolPacks.1.member>
   <!-- EN: fealty -->
@@ -131,7 +131,7 @@
   <!-- EN: fidelor -->
   <Loyalist.symbolPacks.2.member>TODO</Loyalist.symbolPacks.2.member>
   <!-- EN: fidelity -->
-  <Loyalist.symbolPacks.2.theme>TODO</Loyalist.symbolPacks.2.theme>
+  <Loyalist.symbolPacks.2.theme>hűség</Loyalist.symbolPacks.2.theme>
   
   <!-- EN: supremacist -->
   <Supremacist.label>felsőbbrendű</Supremacist.label>
@@ -179,24 +179,46 @@
     <li>memeLeaderNoun->conqueror</li>
     <li>memeLeaderNoun->victor</li>
   -->
-  <Supremacist.generalRules.rulesStrings>TODO</Supremacist.generalRules.rulesStrings>
+  <Supremacist.generalRules.rulesStrings>
+    <li>memeAdjective->legfőbb</li>
+    <li>memeAdjective->fő</li>
+    <li>memeAdjective->nagy</li>
+    <li>memeAdjective->legelső</li>
+    <li>memeAdjective->tökéletes</li>
+    <li>memeAdjective->első</li>
+    <li>memeAdjective->erős</li>
+    <li>memeCreed->hadsereg</li>
+    <li>memeCreed->légió</li>
+    <li>memeHyphenPrefix->szuper</li>
+    <li>memeConcept->háború</li>
+    <li>memeConcept->erőszak</li>
+    <li>memeConcept->dominancia</li>
+    <li>memeLeaderNoun->tábornok</li>
+    <li>memeLeaderNoun->parancsnok</li>
+    <li>memeLeaderNoun->marsall</li>
+    <li>memeLeaderNoun->ököl</li>
+    <li>memeLeaderNoun->uralkodó</li>
+    <li>memeLeaderNoun->diktátor</li>
+    <li>memeLeaderNoun->hódító</li>
+    <li>memeLeaderNoun->győztes</li>
+  </Supremacist.generalRules.rulesStrings>
   <!-- EN: dominant -->
-  <Supremacist.symbolPacks.0.adjective>TODO</Supremacist.symbolPacks.0.adjective>
+  <Supremacist.symbolPacks.0.adjective>uralkodó</Supremacist.symbolPacks.0.adjective>
   <!-- EN: dominator -->
-  <Supremacist.symbolPacks.0.member>TODO</Supremacist.symbolPacks.0.member>
+  <Supremacist.symbolPacks.0.member>uralkodó</Supremacist.symbolPacks.0.member>
   <!-- EN: dominance -->
-  <Supremacist.symbolPacks.0.theme>TODO</Supremacist.symbolPacks.0.theme>
+  <Supremacist.symbolPacks.0.theme>dominancia</Supremacist.symbolPacks.0.theme>
   <!-- EN: victoryist -->
-  <Supremacist.symbolPacks.1.adjective>TODO</Supremacist.symbolPacks.1.adjective>
+  <Supremacist.symbolPacks.1.adjective>győztes</Supremacist.symbolPacks.1.adjective>
   <!-- EN: victorist -->
-  <Supremacist.symbolPacks.1.member>TODO</Supremacist.symbolPacks.1.member>
+  <Supremacist.symbolPacks.1.member>győztes</Supremacist.symbolPacks.1.member>
   <!-- EN: victory -->
-  <Supremacist.symbolPacks.1.theme>TODO</Supremacist.symbolPacks.1.theme>
+  <Supremacist.symbolPacks.1.theme>győzelem</Supremacist.symbolPacks.1.theme>
   <!-- EN: powerist -->
-  <Supremacist.symbolPacks.2.adjective>TODO</Supremacist.symbolPacks.2.adjective>
+  <Supremacist.symbolPacks.2.adjective>hatalomittas</Supremacist.symbolPacks.2.adjective>
   <!-- EN: poweror -->
-  <Supremacist.symbolPacks.2.member>TODO</Supremacist.symbolPacks.2.member>
+  <Supremacist.symbolPacks.2.member>hatalmas</Supremacist.symbolPacks.2.member>
   <!-- EN: power -->
-  <Supremacist.symbolPacks.2.theme>TODO</Supremacist.symbolPacks.2.theme>
+  <Supremacist.symbolPacks.2.theme>hatalom</Supremacist.symbolPacks.2.theme>
   
 </LanguageData>
