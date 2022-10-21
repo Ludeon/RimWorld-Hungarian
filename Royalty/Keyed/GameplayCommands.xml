@@ -34,13 +34,13 @@
   
   <!-- Call laborers -->
   <!-- EN: Call laborers -->
-  <CommandCallLaborers>TODO</CommandCallLaborers>
+  <CommandCallLaborers>Munkások hívása</CommandCallLaborers>
   <!-- EN: Use a special permit to call for a group of laborers from your ally. These workers can only do labor tasks, but you can control them like they were your own colonists. You are required to keep them safe. -->
-  <CommandCallLaborersDesc>TODO</CommandCallLaborersDesc>
+  <CommandCallLaborersDesc>Használj speciális előjogokat, hogy munkáscsoportot igényelj a szövetségesedtől. Ezek a munkások csak munkával kapcsolatos feladatokat tudnak ellátni, de te irányíthatod őket, mintha a saját gyarmatosaid lennének. Te felelsz a biztonságukért.</CommandCallLaborersDesc>
   <!-- EN: On cooldown. {0} days left. -->
-  <CommandOnCooldown>TODO</CommandOnCooldown>
+  <CommandOnCooldown>Felkészülés alatt. {0} nap van hátra.</CommandOnCooldown>
   <!-- EN: {0} laborers -->
-  <CommandCallLaborersNumLaborers>TODO</CommandCallLaborersNumLaborers>
+  <CommandCallLaborersNumLaborers>{0} munkás</CommandCallLaborersNumLaborers>
 
   <!-- Abilities -->
   <!-- EN: Neural heat would overflow. Disable the neural heat limiter to cast. -->
@@ -64,9 +64,9 @@
 
   <!-- Select monument marker -->
   <!-- EN: Select monument -->
-  <CommandSelectMonumentMarker>TODO</CommandSelectMonumentMarker>
+  <CommandSelectMonumentMarker>Válaszd ki az emlékművet</CommandSelectMonumentMarker>
   <!-- EN: Select the monument marker this belongs to. -->
-  <CommandSelectMonumentMarkerDesc>TODO</CommandSelectMonumentMarkerDesc>
+  <CommandSelectMonumentMarkerDesc>Válaszd ki a műemlékjelzőt, amelyhez tartozik.</CommandSelectMonumentMarkerDesc>
 
   <!-- Warn in building radius -->
   <!-- EN: Build radius warning -->
@@ -85,7 +85,7 @@
   <!-- EN: Stop participating in the bestowing ceremony. -->
   <CommandLeaveBestowingCeremonyDesc>Ne vegyen részt a kinevezési ünnepségen.</CommandLeaveBestowingCeremonyDesc>
   <!-- EN: Cancel bestowing ceremony -->
-  <CommandCancelBestowingCeremony>Kinevezési ünnep megszakítása</CommandCancelBestowingCeremony>
+  <CommandCancelBestowingCeremony>Kinevezési ünnep törlése</CommandCancelBestowingCeremony>
   <!-- EN: End the bestowing ceremony immediately. The bestower will leave, but another opportunity to perform the ceremony will arise soon. -->
   <CommandCancelBestowingCeremonyDesc>Az kinevezési ünnep azonnali befejezése. Az adományozó elmegy, de hamarosan újabb alkalom nyílik a szertartás elvégzésére.</CommandCancelBestowingCeremonyDesc>
   <!-- EN: Are you sure you want to cancel bestowing ceremony? -->

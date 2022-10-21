@@ -24,7 +24,7 @@
   <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
   <GameplayTips.GunfightSpread>Kattints a jobb gombbal és húzd, hogy a besorozott harcosok egy vonalat alkossanak. Az egy helyen lévő célpontokat könnyű eltalálni!</GameplayTips.GunfightSpread>
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
-  <GameplayTips.ShootingAccuracySmoke>A füst teljesen megakadályozza, hogy a tornyok észleljék a célpontokat, de az emberek így is tudnak lőni, csökkentett pontossággal.</GameplayTips.ShootingAccuracySmoke>
+  <GameplayTips.ShootingAccuracySmoke>A füst teljesen megakadályozza, hogy a robotágyúk észleljék a célpontokat, de az emberek így is tudnak lőni, csökkentett pontossággal.</GameplayTips.ShootingAccuracySmoke>
   <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
   <GameplayTips.DesignDefenses>A védelem megtervezésekor tegyük fel, hogy az ellenség bejut szállítókapszulák vagy alagutak használatával. Építs ki belső védekező pozíciókat!</GameplayTips.DesignDefenses>
   <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
@@ -32,7 +32,7 @@
   <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
   <GameplayTips.ShootingTooltip>Elemezheted a lövés eltalálásának esélyét, ha kiválasztod a lövőt, és az egeret a célpont fölé viszed.</GameplayTips.ShootingTooltip>
   <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
-  <GameplayTips.TurretsExplode>A lövegtornyok felrobbannak, ha sok sebzést szenvednek. Ne helyezd őket túl közel egymáshoz, és ne tedd túl közel hozzájuk az embereid!</GameplayTips.TurretsExplode>
+  <GameplayTips.TurretsExplode>A robotágyúk felrobbannak, ha sok sebzést szenvednek. Ne helyezd őket túl közel egymáshoz, és ne tedd túl közel hozzájuk az embereid!</GameplayTips.TurretsExplode>
   <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
   <GameplayTips.AnimalDeathExplosion>Egyes állatok halálukkor felrobbannak. A szállítókapszulákkal állatokat ejthetsz az ellenségre. Gondolkozz el róla!</GameplayTips.AnimalDeathExplosion>
   <!-- EN: If you need help in a fight, call your allies using the comms console. -->
@@ -40,7 +40,7 @@
   <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
   <GameplayTips.MaddenedAnimals>A megőrült állatok minden embert megtámadnak, beleértve az ellenségeidet is. Ezt akár ki is használhatod.</GameplayTips.MaddenedAnimals>
   <!-- EN: EMP bursts will temporarily disable turrets and shields. -->
-  <GameplayTips.EMPDisablesTurretsShields>Az EMP sorozatok ideiglenesen letiltják a tornyokat és a pajzsokat.</GameplayTips.EMPDisablesTurretsShields>
+  <GameplayTips.EMPDisablesTurretsShields>Az EMP sorozatok ideiglenesen lebénítják a robotágyúkat és a pajzsokat.</GameplayTips.EMPDisablesTurretsShields>
   <!-- EN: EMP bursts instantly break personal shields. -->
   <GameplayTips.EMPDisablesPersonalShields>Az EMP sorozatok azonnal feltörik a személyes pajzsokat.</GameplayTips.EMPDisablesPersonalShields>
   <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->

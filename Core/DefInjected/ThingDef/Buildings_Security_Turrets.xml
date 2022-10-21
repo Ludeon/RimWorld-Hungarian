@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: mortar -->
-  <Artillery_Mortar.label>tarack</Artillery_Mortar.label>
+  <Artillery_Mortar.label>aknavető</Artillery_Mortar.label>
   <!-- EN: Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. -->
   <Artillery_Mortar.description>Gránátvető. Repeszgránátjait falakon túlra is ellövi. Nagyon pontatlan, de hatósugara méretes.</Artillery_Mortar.description>
   <!-- EN: mortar -->
-  <Artillery_Mortar.verbs.Verb_Shoot.label>tarack</Artillery_Mortar.verbs.Verb_Shoot.label>
+  <Artillery_Mortar.verbs.Verb_Shoot.label>aknavető</Artillery_Mortar.verbs.Verb_Shoot.label>
   
   <!-- EN: autocannon shell -->
   <Bullet_AutocannonTurret.label>nehéz robotágyú lőszer </Bullet_AutocannonTurret.label>
@@ -61,7 +61,7 @@
   <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>Nem lő: csőcsere kell</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: mortar -->
-  <Turret_Mortar.label>tarack (robbanó)</Turret_Mortar.label>
+  <Turret_Mortar.label>aknavető (robbanó)</Turret_Mortar.label>
   <!-- EN: A manned mortar that launches all kinds of shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field. -->
   <Turret_Mortar.description>Tarack, mely robbanó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Turret_Mortar.description>
   <!-- EN: Barrel durability -->

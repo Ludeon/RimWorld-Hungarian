@@ -403,13 +403,13 @@
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>Nincs folyamatban lévő kutatás</NoActiveResearchProjectToFinish>
   <!-- EN: turret -->
-  <Turret>ágyú</Turret>
+  <Turret>robotágyú</Turret>
   <!-- EN: turrets -->
-  <Turrets>ágyúk</Turrets>
+  <Turrets>robotágyúk</Turrets>
   <!-- EN: mortar -->
-  <Mortar>tarack</Mortar>
+  <Mortar>aknavető</Mortar>
   <!-- EN: mortars -->
-  <Mortars>tarackok</Mortars>
+  <Mortars>aknavetők</Mortars>
   <!-- EN: enemy -->
   <Enemy>ellenség</Enemy>
   <!-- EN: location -->
@@ -1499,7 +1499,7 @@
   <!-- EN: Any {0} -->
   <RitualTargetThingDefsInfo>TODO</RitualTargetThingDefsInfo>
   <!-- EN: Attending {0} -->
-  <LordReportAttending>TODO</LordReportAttending>
+  <LordReportAttending>{0} résztvevője</LordReportAttending>
   <!-- EN: {0} has been canceled. -->
   <RitualCalledOff>TODO</RitualCalledOff>
   <!-- EN: {0} was not completed because of lack of attendance. -->
@@ -1519,9 +1519,9 @@
   <!-- EN: Spectators -->
   <Spectators>Nézők</Spectators>
   <!-- EN: Not participating -->
-  <NotParticipating>TODNem vesz résztO</NotParticipating>
+  <NotParticipating>Nem vesz részt</NotParticipating>
   <!-- EN: Drag and drop or left/right click to move people. -->
-  <DragPawnsToRolesInfo>Húzással vagy bal/jobb kattintással mozgathatod az embereket.</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfo>Húzással mozgathatod az embereket.</DragPawnsToRolesInfo>
   <!-- EN: Drag and drop or click to move people. -->
   <DragPawnsToRolesInfoController>TODO</DragPawnsToRolesInfoController>
   <!-- EN: A slave. The human property of others. -->
@@ -1541,7 +1541,7 @@
   <!-- EN: {0} total quality was {1}, determined by these factors -->
   <RitualOutcomeQualitySpecific>TODO</RitualOutcomeQualitySpecific>
   <!-- EN: Outcome chances at {0} quality -->
-  <RitualOutcomeChances>TODO</RitualOutcomeChances>
+  <RitualOutcomeChances>Eredményesélyek {0} minőségben</RitualOutcomeChances>
   <!-- EN: Performed recently -->
   <RitualOutcomePerformedRecently>TODO</RitualOutcomePerformedRecently>
   <!-- EN: {0} expectations -->
@@ -1566,7 +1566,7 @@
   <!-- EN: Begin {0} for {1} -->
   <BeginRitualFor>TODO</BeginRitualFor>
   <!-- EN: {0} (out of {1}) -->
-  <QualityOutOf>TODO</QualityOutOf>
+  <QualityOutOf>{0} (elérhető {1})</QualityOutOf>
   <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
   <DateRitualNoObligation>{0} egy dátumhoz kötött szertartás. El tudod indítani {1} nap múlva, ekkor: {2}.</DateRitualNoObligation>
 
@@ -1575,20 +1575,20 @@
   <!-- EN: Ritual seat of {IDEOS} -->
   <RitualSeatOf>{IDEOS} szertartási helye</RitualSeatOf>
   <!-- EN: Expected quality -->
-  <ExpectedRitualQuality>TODO</ExpectedRitualQuality>
+  <ExpectedRitualQuality>Várható minőség</ExpectedRitualQuality>
   <!-- EN: Starting quality -->
-  <StartingQuality>TODO</StartingQuality>
+  <StartingQuality>Kezdeti minőség</StartingQuality>
   <!-- EN: Expected duration -->
-  <ExpectedRitualDuration>TODO</ExpectedRitualDuration>
+  <ExpectedRitualDuration>Várható időtartam</ExpectedRitualDuration>
   
   <!-- EN: {PAWN_labelShort}'s {1} -->
   <RitualPredictedOutcomeDescPawnStat>TODO</RitualPredictedOutcomeDescPawnStat>
   <!-- EN: Room beauty -->
-  <RitualPredictedOutcomeDescRoomBeauty>TODO</RitualPredictedOutcomeDescRoomBeauty>
+  <RitualPredictedOutcomeDescRoomBeauty>Szoba szépsége</RitualPredictedOutcomeDescRoomBeauty>
   <!-- EN: Participants -->
   <RitualPredictedOutcomeDescParticipantCount>Résztvevők</RitualPredictedOutcomeDescParticipantCount>
   <!-- EN: {PAWN_labelShort}'s expectations -->
-  <RitualPredictedOutcomeDescPawnExpectations>TODO</RitualPredictedOutcomeDescPawnExpectations>
+  <RitualPredictedOutcomeDescPawnExpectations>{PAWN_labelShort} elvárásai</RitualPredictedOutcomeDescPawnExpectations>
 
   <!-- EN: Any of these -->
   <RitualOutcomeLabelAnyOfThese>TODO</RitualOutcomeLabelAnyOfThese>
@@ -1600,16 +1600,16 @@
   <!-- EN: {0} used -->
   <Used>TODO</Used>
   <!-- EN: {0} starting quality -->
-  <StartingRitualQuality>TODO</StartingRitualQuality>
+  <StartingRitualQuality>{0} kezdő minőség</StartingRitualQuality>
 
   <!-- EN: up to {0} quality -->
-  <OutcomeBonusDesc_Quality>TODO</OutcomeBonusDesc_Quality>
+  <OutcomeBonusDesc_Quality>legfeljebb {0} minőségben</OutcomeBonusDesc_Quality>
   <!-- EN: {0} quality -->
-  <OutcomeBonusDesc_QualitySingleOffset>TODO</OutcomeBonusDesc_QualitySingleOffset>
+  <OutcomeBonusDesc_QualitySingleOffset>{0} minőség</OutcomeBonusDesc_QualitySingleOffset>
   <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
-  <OutcomeLetterLabel>TODO</OutcomeLetterLabel>
+  <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
   <!-- EN: {0} max -->
-  <MaxValue>TODO</MaxValue>
+  <MaxValue>{0} max</MaxValue>
 
   <!-- EN: {0} of -->
   <ThingOf>TODO</ThingOf>
@@ -1620,12 +1620,12 @@
   <!-- EN: must be drafted. -->
   <AbilityDisabledUndrafted>TODO</AbilityDisabledUndrafted>
   <!-- EN: ability on cooldown. It will be available in {0}. -->
-  <AbilityOnCooldown>TODO</AbilityOnCooldown>
+  <AbilityOnCooldown>képesség felkészülés alatt. {0} múlva lesz elérhető.</AbilityOnCooldown>
   <!-- EN: ability already queued. -->
-  <AbilityAlreadyQueued>TODO</AbilityAlreadyQueued>
+  <AbilityAlreadyQueued>képesség már sorban áll.</AbilityAlreadyQueued>
   <!-- EN: Ability ready: {0} -->
-  <AbilityReadyLabel>TODO</AbilityReadyLabel>
+  <AbilityReadyLabel>Képesség készen áll: {0}</AbilityReadyLabel>
   <!-- EN: {0_nameDef} is ready to use {1}. -->
-  <AbilityReadyText>TODO</AbilityReadyText>
+  <AbilityReadyText>A {0_nameDef} készen áll a(z) {1} használatára.</AbilityReadyText>
 
 </LanguageData>

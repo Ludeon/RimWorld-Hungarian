@@ -21,7 +21,7 @@
   <LetterRoyalTitleConceitedTrait>Mivel {PAWN_labelShort} {1} ranggal bír, megköveteli, hogy teljes mértékben tartsák tiszteletben ennek a címnek a kiváltságait. {PAWN_pronoun} megtagadhatja bizonyos típusú munkák elvégzését, vagy alacsony minőségű ételek fogyasztását és rendeleteket adhat ki.</LetterRoyalTitleConceitedTrait>
 
   <!-- EN: {PAWN_labelShort} received the title of {TITLE} from {FACTION_name}! -->
-  <LetterGainedRoyalTitle>{PAWN_labelShort} megkapta a(z) {TITLE} címet {FACTION_name} frakciótól!</LetterGainedRoyalTitle>
+  <LetterGainedRoyalTitle>{PAWN_labelShort} {TITLE} címet kapott {FACTION_name} frakciótól!</LetterGainedRoyalTitle>
   <!-- EN: {PAWN_labelShort} no longer holds the title of {TITLE} with {FACTION_name}. -->
   <LetterLostRoyalTitle>{PAWN_labelShort} már nem birtokolja a(z) {FACTION_name} frakció {TITLE} címét.</LetterLostRoyalTitle>
   <!-- EN: Title rewards -->

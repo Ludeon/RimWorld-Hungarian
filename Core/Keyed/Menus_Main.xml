@@ -363,7 +363,7 @@
   <!-- EN: Turret rearm cost -->
   <Difficulty_MaintenanceCostFactor_Label>Lövegtorony újraélesítésének költsége</Difficulty_MaintenanceCostFactor_Label>
   <!-- EN: Adjust the cost of rearming turrets. -->
-  <Difficulty_MaintenanceCostFactor_Info>Beállítja a lövegtornyok újraélesítésének költségeit.</Difficulty_MaintenanceCostFactor_Info>
+  <Difficulty_MaintenanceCostFactor_Info>Beállítja a robotágyúk újraélesítésének költségeit.</Difficulty_MaintenanceCostFactor_Info>
   <!-- EN: Scaria rot chance -->
   <Difficulty_ScariaRotChance_Label>Scaria rothadás esélye</Difficulty_ScariaRotChance_Label>
   <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
@@ -427,9 +427,9 @@
   <!-- EN: Player can build traps like spike traps and IED traps. -->
   <Difficulty_AllowTraps_Info>A játékos építhet csapdákat, például tüskés csapdákat és IED csapdákat.</Difficulty_AllowTraps_Info>
   <!-- EN: Player can build turrets -->
-  <Difficulty_AllowTurrets_Label>A játékos lövegtornyokat építhet</Difficulty_AllowTurrets_Label>
+  <Difficulty_AllowTurrets_Label>A játékos robotágyúkat építhet</Difficulty_AllowTurrets_Label>
   <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
-  <Difficulty_AllowTurrets_Info>A játékos építhet statikus lövegtornyokat, például minitornyokat, gépágyútornyokat és uráncsiga tornyokat.\n\nAz elfoglalt tornyokat akkor is használhatja, ha ez ki van kapcsolva.</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowTurrets_Info>A játékos építhet statikus robotágyúkat, például minitornyokat, gépágyútornyokat és uráncsiga tornyokat.\n\nAz elfoglalt robotágyúkat akkor is használhatja, ha ez ki van kapcsolva.</Difficulty_AllowTurrets_Info>
   <!-- EN: Player can build mortars -->
   <Difficulty_AllowMortars_Label>A játékos építhet aknavetőket</Difficulty_AllowMortars_Label>
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
