@@ -27,6 +27,8 @@
   
   <!-- EN: baby -->
   <HumanlikeBaby.label>újszülött</HumanlikeBaby.label>
+  <!-- EN: Mood represents how happy or stressed someone is. Babies with low mood are more likely to cry, while babies with a high mood are more likely to giggle. -->
+  <HumanlikeBaby.customMoodTipString>TODO</HumanlikeBaby.customMoodTipString>
   
   <!-- EN: child -->
   <HumanlikeChild.label>gyerek</HumanlikeChild.label>
@@ -36,7 +38,7 @@
   <!-- EN: teenage -->
   <HumanlikeTeenager.adjective>fiatal</HumanlikeTeenager.adjective>
   
-  <!-- EN: toddler -->
+  <!-- UNUSED -->
   <HumanlikeToddler.label>kisgyerek</HumanlikeToddler.label>
   
   <!-- EN: fully-formed -->

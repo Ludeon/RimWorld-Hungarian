@@ -19,6 +19,8 @@
   <GameplayTips.WorkTabChangeAllColonists>Ha a beosztások menüben a Shift billentyűt lenyomva tartva rákattintasz egy munkatípus nevére, az összes telepes beállításait egyszerre módosíthatod vele.</GameplayTips.WorkTabChangeAllColonists>
   <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
   <GameplayTips.WorkTabDecreasePriority>Ha jobb gombbal kattintasz egy számra a beosztások menüben, kézi prioritásokkal, a prioritás csökkentése történik meg, növelés helyett.</GameplayTips.WorkTabDecreasePriority>
+  <!-- EN: You can hold the alt key to show detailed information about a specific tile. -->
+  <GameplayTips.CellInspector>TODO</GameplayTips.CellInspector>
   <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
   <GameplayTips.GunfightCover>Lövöldözésben mindig húzódj fedezék mögé! Kattints a jobb gombbal, és húzd, hogy a besorozott harcosaid egy vonalat alkossanak.</GameplayTips.GunfightCover>
   <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
@@ -57,13 +59,11 @@
   <GameplayTips.CaravanHitchingSpot>Helyezd a karaván rakodási helyét arra a helyre, ahol a karavánokat meg akarod alakítani. Általában a legjobb, ha a raktárterületek közelében helyezed le.</GameplayTips.CaravanHitchingSpot>
   <!-- EN: During encounters away from home, you can place a caravan hitching spot to keep your animals from wandering. -->
   <GameplayTips.CaravanHitchingSpotRoamers>Az otthonodtól távoli találkozások során elhelyezhetsz egy karaván rakodási helyet, hogy megakadályozd az állatok elkóborlását.</GameplayTips.CaravanHitchingSpotRoamers>
-  <!-- EN: Single-person caravans can be very useful in certain situations. -->
-  <GameplayTips.CaravanSinglePerson>Az egyszemélyes karavánok bizonyos helyzetekben nagyon hasznosak lehetnek.</GameplayTips.CaravanSinglePerson>
   <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
   <GameplayTips.CaravanRideableAnimals>A karavánok gyorsabban haladnak, ha lovagolható állatokat, például lovakat, szamarakat és dromedarokat tartalmaznak.</GameplayTips.CaravanRideableAnimals>
   <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
   <GameplayTips.CaravanSmallerLessVisible>A kisebb karavánokat ritkábban támadják meg, mert kevésbé láthatóak.</GameplayTips.CaravanSmallerLessVisible>
-  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing post. This will make packing much faster. -->
+  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan hitching spot. This will make packing much faster. -->
   <GameplayTips.CaravanStockpileNearPackingSpot>Karaván alakítása előtt gyűjtsd össze a felpakolni kívánt tárgyakat egy raktárban a karaván rakodási helye közelében. Így sokkal gyorsabb lesz az összepakolás.</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
   <GameplayTips.CaravanUntrainedAnimals>Ha idomítatlan állatok vannak a karavánodban, szétválaszthatod őket egy külön karavánba, mielőtt megtámadnád az ellenséget, hogy távol tartsd őket a harctól.</GameplayTips.CaravanUntrainedAnimals>
@@ -93,7 +93,9 @@
   <GameplayTips.TerrainMovementSpeed>A terep befolyásolja a mozgás sebességét. Építs padlót, hogy a telepesek gyorsabban közlekedjenek!</GameplayTips.TerrainMovementSpeed>
   <!-- EN: Different terrain has different inherent cleanliness levels. Tiles are inherently clean; dirt is inherently dirty. -->
   <GameplayTips.TerrainCleanliness>A különböző terepeknek különböző tisztasági szintjei vannak. A csempe eredendően tiszta; a talaj eredendően koszos.</GameplayTips.TerrainCleanliness>
-  <!-- EN: You can give prisoners as gifts. Giving a prisoner back to his own faction will be highly appreciated. -->
+  <!-- EN: Some floor types are faster to clean than others. It takes much longer to clean carpet compared to metal tile. -->
+  <GameplayTips.TerrainCleanSpeed>TODO</GameplayTips.TerrainCleanSpeed>
+  <!-- EN: You can give prisoners as gifts. Giving a prisoner back to their own faction will be highly appreciated. -->
   <GameplayTips.PrisonersAsGifts>A foglyokat ajándékba is adhatod. A frakciók nagyra értékelik, ha visszaadod egy foglyodat nekik.</GameplayTips.PrisonersAsGifts>
   <!-- EN: You can request specific types of trade caravans using the comms console. -->
   <GameplayTips.RequestTradeCaravans>A kommunikációs konzol segítségével meghatározott típusú kereskedelmi karavánokat kérhetsz.</GameplayTips.RequestTradeCaravans>
@@ -151,5 +153,8 @@
   <GameplayTips.AnimalFilth>Egyes állatok sok szennyet termelnek. Tartsd kint az elefántjaid és szarvasmarháid!</GameplayTips.AnimalFilth>
   <!-- EN: Predators won't hunt animals which are on the other side of fences or barricades. -->
   <GameplayTips.PredatorsAndFences>A ragadozók nem vadásznak olyan állatokra, amelyek a kerítések vagy barikádok másik oldalán vannak.</GameplayTips.PredatorsAndFences>
+  
+  <!-- UNUSED -->
+  <GameplayTips.CaravanSinglePerson>Az egyszemélyes karavánok bizonyos helyzetekben nagyon hasznosak lehetnek.</GameplayTips.CaravanSinglePerson>
   
 </LanguageData>

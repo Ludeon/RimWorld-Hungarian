@@ -49,7 +49,7 @@
   <Psyfocus>TODO</Psyfocus>
   <!-- EN: Psyfocus -->
   <PsyfocusLabelGizmo>TODO</PsyfocusLabelGizmo>
-  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychics, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
+  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychic powers, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
   <PsyfocusDesc>TODO</PsyfocusDesc>
   <!-- EN: {0}-{1}% -->
   <PsyfocusLevelInfoRange>TODO</PsyfocusLevelInfoRange>
@@ -157,7 +157,7 @@
   <RitualTargetAnimaTreeNoPawnsWithNatureFocus>TODO</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
   <!-- EN: Need at least {0} anima grass. -->
   <RitualTargetAnimaTreeNotEnoughAnimaGrass>TODO</RitualTargetAnimaTreeNotEnoughAnimaGrass>
-  <!-- EN: An anima tree. -->
+  <!-- EN: an anima tree -->
   <RitualTargetAnimaTreeInfo>TODO</RitualTargetAnimaTreeInfo>
   <!-- EN: Must be a colonist with the natural meditation focus type who is below maximum psylink level. -->
   <RitualTargetAnimaTreeMustBeCapableOfNature>TODO</RitualTargetAnimaTreeMustBeCapableOfNature>
@@ -171,5 +171,8 @@
 
   <!-- EN: no heat to dump. -->
   <AbilityNoEntropyToDump>TODO</AbilityNoEntropyToDump>
+
+  <!-- EN: level {0} -->
+  <LevelNum>TODO</LevelNum> <!-- Psylink level as reported in health tab-->
 
 </LanguageData>

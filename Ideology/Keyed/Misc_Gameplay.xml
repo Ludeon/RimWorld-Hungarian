@@ -5,8 +5,6 @@
   <CustomizeIdeoligion>Ideológia testreszabása</CustomizeIdeoligion>
   <!-- EN: Choose your ideoligion -->
   <ChooseYourIdeoligion>Válassz ideológiát</ChooseYourIdeoligion>
-  <!-- EN: Random -->
-  <Random>Véletlen</Random>
   <!-- EN: A random structure will be used for your ideoligion. -->
   <RandomStructureTip>Véletlenszerű struktúrát fogunk használni az ideológiádhoz.</RandomStructureTip>
   <!-- EN: A random style will be used for your ideoligion. -->
@@ -23,7 +21,7 @@
   <LoadSaved>Tölts be egy mentettet</LoadSaved>
   <!-- EN: Structure -->
   <Structure>Struktúra</Structure>
-  <!-- EN: What should your starting colonists believe? These beliefs affect gameplay and visuals. You’ll be able to recruit others to your beliefs, or take on their beliefs. -->
+  <!-- EN: What should your starting colonists believe? These beliefs affect gameplay and visuals. You'll be able to recruit others to your beliefs, or take on their beliefs. -->
   <ChooseYourIdeoligionDesc>Miben higgyenek a kezdő telepeseid? Ezek a hiedelmek hatással vannak a játékmenetre és a látványra. Képes leszel arra, hogy másokat toborozz a meggyőződésednek megfelelően vagy átvedd az ő hitüket.</ChooseYourIdeoligionDesc>
   <!-- EN: Create custom -->
   <CreateCustom>Egyéni létrehozása</CreateCustom>
@@ -101,8 +99,10 @@
   <Styles>Stílusok</Styles>
   <!-- EN: Chance to have precept -->
   <ChanceToHavePrecept>Lehetőség az előírásra</ChanceToHavePrecept>
-  <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
+  <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color{ORIDEO} will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
   <FavoriteColorTooltip>{PAWN_labelShort} kedvenc színe. Ha {PAWN_possessive} ruházatának több mint {PERCENTAGE}-a van ebben a színben, vagy a {PAWN_possessive} ideológia színében, akkor a {PAWN_objective} valamivel boldogabb lesz.\n\nA tinctoria festékkel módosíthatod a ruházati színeket a stylist állomáson.</FavoriteColorTooltip>
+  <!-- EN: , or the color of {PAWN_possessive} ideoligion, -->
+  <OrIdeoColor>TODO</OrIdeoColor>
   <!-- EN: Set ideo color -->
   <SetIdeoColor>Állítsd be az ideo színét</SetIdeoColor>
   <!-- EN: Set to favorite color -->
@@ -153,6 +153,8 @@
   <MealKindMeat>TODO</MealKindMeat>
   <!-- EN: Acceptable food for everyone -->
   <MealKindAny>TODO</MealKindAny>
+  <!-- EN: this outfit -->
+  <WearingDesiredApparelMulti>TODO</WearingDesiredApparelMulti>
 
   <!-- EN: Could not load ideoligion -->
   <UnableToLoadIdeoTitle>TODO</UnableToLoadIdeoTitle>
@@ -165,15 +167,15 @@
   <!-- EN: Precept {PRECEPT} is not allowed for non-player factions -->
   <UnableToLoadIdeoPreceptNotAllowed>TODO</UnableToLoadIdeoPreceptNotAllowed>
 
-  <!-- EN: A grave containing {PAWN_labelShort}'s corpse. -->
+  <!-- EN: Grave containing {PAWN_labelShort}'s corpse -->
   <RitualTargetGraveInfo>TODO</RitualTargetGraveInfo>
-  <!-- EN: An empty grave to mourn {PAWN_labelShort}'s passing. -->
+  <!-- EN: Empty grave to mourn {PAWN_labelShort}'s passing -->
   <RitualTargetEmptyGraveInfo>TODO</RitualTargetEmptyGraveInfo>
-  <!-- EN: A grave containing {IDEO_memberNameIndef}'s corpse -->
+  <!-- EN: Grave containing {IDEO_memberNameIndef}'s corpse -->
   <RitualTargetGraveInfoAbstract>TODO</RitualTargetGraveInfoAbstract>
-  <!-- EN: A grave containing a corpse. -->
+  <!-- EN: Grave containing a corpse -->
   <RitualTargetGraveInfoAbstractNoIdeo>TODO</RitualTargetGraveInfoAbstractNoIdeo>
-  <!-- EN: An empty grave to mourn {IDEO_memberNameIndef}'s passing. -->
+  <!-- EN: Empty grave to mourn {IDEO_memberNameIndef}'s passing -->
   <RitualTargetEmptyGraveInfoAbstract>TODO</RitualTargetEmptyGraveInfoAbstract>
   <!-- EN: {PAWN_labelShort}'s body must be buried first -->
   <RitualTargetGraveInfoMustBeBuried>TODO</RitualTargetGraveInfoMustBeBuried>
@@ -183,8 +185,6 @@
   <RitualTargetGatherAltarOrRitualSpotInfo>TODO</RitualTargetGatherAltarOrRitualSpotInfo>
   <!-- EN: Altar, ideogram or any ritual spot. -->
   <RitualTargetGatherAltarIdeogramOrRitualSpotInfo>TODO</RitualTargetGatherAltarIdeogramOrRitualSpotInfo>
-  <!-- EN: A lightball or ritual spot. Lightball and loudspeakers must be powered. -->
-  <RitualTargetLightBallInfo>TODO</RitualTargetLightBallInfo>
   <!-- EN: Lightball is not powered. -->
   <RitualTargetLightBallIsNotPowered>TODO</RitualTargetLightBallIsNotPowered>
   <!-- EN: No powered speakers. -->
@@ -197,11 +197,9 @@
   <RitualTargetNoDrum>TODO</RitualTargetNoDrum>
   <!-- EN: Need at least {0} unroofed cells nearby. -->
   <RitualTargetNeedUnroofedCells>TODO</RitualTargetNeedUnroofedCells>
-  <!-- EN: A lit campfire or ritual spot. -->
+  <!-- EN: a lit campfire -->
   <RitualTargetCampfirePartyInfo>TODO</RitualTargetCampfirePartyInfo>
-  <!-- EN: A lit campfire or ritual spot. Spot must be unroofed with at least 25 unroofed cells in the area. -->
-  <RitualTargetCampfireSkylanternsInfo>TODO</RitualTargetCampfireSkylanternsInfo>
-  <!-- EN: An unconnected Gauranlen tree. -->
+  <!-- EN: an unconnected Gauranlen tree -->
   <RitualTargetUnconnectedGaruanlenTreeInfo>TODO</RitualTargetUnconnectedGaruanlenTreeInfo>
   <!-- EN: Already connected to {PAWN_nameDef} -->
   <RitualTargetConnectedGauranlenTree>TODO</RitualTargetConnectedGauranlenTree>
@@ -209,14 +207,14 @@
   <RitualTargetConnectionTornGauranlenTree>TODO</RitualTargetConnectionTornGauranlenTree>
   <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
   <RitualTargeWoodInfo>TODO</RitualTargeWoodInfo>
+  <!-- EN: {0} must be able to reach ritual target. -->
+  <RitualTargetUnreachable>TODO</RitualTargetUnreachable>
   <!-- EN: Accuse -->
   <Accuse>TODO</Accuse>
   <!-- EN: {PAWN_labelShort} does not believe in ideoligious scarification and will not like being scarified. -->
   <RitualScarificationWarnNonScarificationIdeo>TODO</RitualScarificationWarnNonScarificationIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being scarified. -->
   <RitualScarificationWarnWimp>TODO</RitualScarificationWarnWimp>
-  <!-- EN: {PAWN_labelShort} does not believe in ideoligious blinding and will not like being blinded. -->
-  <RitualBlindingWarnNonBlindingIdeo>TODO</RitualBlindingWarnNonBlindingIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being blinded. -->
   <RitualBlindingWarnWimp>TODO</RitualBlindingWarnWimp>
   <!-- EN: Scarification is expected for {IDEOMEMBERPLURAL} as long as there are fewer than {0} scarified {IDEOMEMBERPLURAL}. -->
@@ -239,6 +237,8 @@
   
   <!-- EN: Due to the quality of the ritual, your development points have increased by {2} (from {0} to {1}). -->
   <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>TODO</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
+  <!-- EN: Can't award development points beyond {0}. -->
+  <RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>TODO</RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>
   <!-- EN: Due to the poor quality of the ritual, no development points were gained. -->
   <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>TODO</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
 
@@ -281,24 +281,12 @@
   <IdeoBuildingVariationOf>TODO</IdeoBuildingVariationOf>
   <!-- EN: Minimum expectations -->
   <IdeoBuildingMinimumExpectations>TODO</IdeoBuildingMinimumExpectations>
-  <!-- EN: size -->
-  <Size>TODO</Size>
-  <!-- EN: cost -->
-  <Cost>TODO</Cost>
   <!-- EN: optional -->
   <Optional>TODO</Optional>
   <!-- EN: expectations -->
   <Expectations>TODO</Expectations>
-  <!-- EN: Can start any time -->
-  <RitualStartAnyTime>TODO</RitualStartAnyTime>
-  <!-- EN: Can start after event -->
-  <RitualStartEvent>TODO</RitualStartEvent>
-  <!-- EN: Focus objects -->
-  <RitualFocusObjects>TODO</RitualFocusObjects>
   <!-- EN: Repeating a ritual within {0} days reduces its quality. {1} days have passed since the last ritual, so the current quality reduction is {2}. This penalty will fall to zero {3} days from now. -->
   <RitualRepeatPenaltyTip>TODO</RitualRepeatPenaltyTip>
-  <!-- EN: Participating roles -->
-  <RitualParticipatingRoles>TODO</RitualParticipatingRoles>
   <!-- EN: For best quality, start the {0} at {1}. -->
   <RitualOutcomeCompTip_RitualTargetDefsPart1>TODO</RitualOutcomeCompTip_RitualTargetDefsPart1>
   <!-- EN: Currently, the {0} is being started at {1_labelShortIndef}. -->
@@ -307,6 +295,8 @@
   <RitualDevelopmentPoints>TODO</RitualDevelopmentPoints>
   <!-- EN: Completing this ritual gives {0}-{1} development points depending on quality. -->
   <RitualDevelopmentPointsTip>TODO</RitualDevelopmentPointsTip>
+  <!-- EN: {0} needs to be powered. -->
+  <RitualOutcomeBlockedNoPower>TODO</RitualOutcomeBlockedNoPower>
 
   <!-- EN: For slave use -->
   <ForSlaveUse>TODO</ForSlaveUse>
@@ -335,9 +325,9 @@
   <RoleRequirementLabelSameIdeo>TODO</RoleRequirementLabelSameIdeo>
   <!-- EN: Must be {0} -->
   <RoleRequirementLabelSupremeGender>TODO</RoleRequirementLabelSupremeGender>
+  <!-- EN: Cannot be child -->
+  <RoleRequirementCannotBe>TODO</RoleRequirementCannotBe>
 
-  <!-- EN: Disabled work -->
-  <RoleDisabledWorkLabel>TODO</RoleDisabledWorkLabel>
   <!-- EN: Abilities -->
   <RoleGrantedAbilitiesLabel>TODO</RoleGrantedAbilitiesLabel>
   <!-- EN: Required apparel -->
@@ -647,8 +637,10 @@
   <BiosculpterHealCompletedMessage>TODO</BiosculpterHealCompletedMessage>
   <!-- EN: {PAWN_labelShort} completed healing cycle, and {PAWN_possessive} {HEDIFF_label} was cured. -->
   <BiosculpterHealCompletedWithCureMessage>TODO</BiosculpterHealCompletedWithCureMessage>
-  <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
+  <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. -->
   <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} teljesítette a {PAWN_possessive} kormegfordítási ciklust. {PAWN_pronoun} a következő életkor megváltoztatására számít {DEADLINE} napon belül.</BiosculpterAgeReversalCompletedMessage>
+  <!-- EN: {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
+  <AgeReversalExpectationDeadline>TODO</AgeReversalExpectationDeadline>
   <!-- EN: {PAWN_labelShort}'s pleasure cycle is complete. -->
   <BiosculpterPleasureCompletedMessage>TODO</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
@@ -667,5 +659,12 @@
   <OnCompletionOfCycle>TODO</OnCompletionOfCycle>
   <!-- EN: {PAWN_nameDef} does not have any conditions that can be healed by a {CYCLE} cycle.\n\nDo you want to continue? -->
   <BiosculpterNoCoditionsToHeal>TODO</BiosculpterNoCoditionsToHeal>
+
+  <!-- EN: basic -->
+  <Basic>TODO</Basic>
+  <!-- EN: Change the style this will be built in. This is purely visual and has no gameplay impact. -->
+  <ChangeStyleDesc>TODO</ChangeStyleDesc>
+  <!-- EN: No available styles. -->
+  <ChangeStyleDisabledNoCategories>TODO</ChangeStyleDisabledNoCategories>
 
 </LanguageData>

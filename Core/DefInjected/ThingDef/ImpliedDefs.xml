@@ -49,20 +49,8 @@
   <!-- EN: karaván rakodóhely(tervrajz) -->
   <Blueprint_CaravanPackingSpot.label>karaván rakodóhely (tervrajz)</Blueprint_CaravanPackingSpot.label>
   
-  <!-- EN: kék szőnyeg(tervrajz) -->
-  <Blueprint_CarpetBlue.label>kék szőnyeg (tervrajz)</Blueprint_CarpetBlue.label>
-  
-  <!-- EN: krémszín szőnyeg(tervrajz) -->
-  <Blueprint_CarpetCream.label>krémszín szőnyeg (tervrajz)</Blueprint_CarpetCream.label>
-  
-  <!-- EN: szürke szőnyeg(tervrajz) -->
+  <!-- UNUSED -->
   <Blueprint_CarpetDark.label>szürke szőnyeg (tervrajz)</Blueprint_CarpetDark.label>
-  
-  <!-- EN: zöld szőnyeg(tervrajz) -->
-  <Blueprint_CarpetGreen.label>zöld szőnyeg (tervrajz)</Blueprint_CarpetGreen.label>
-  
-  <!-- EN: vörös szőnyeg(tervrajz) -->
-  <Blueprint_CarpetRed.label>vörös szőnyeg (tervrajz)</Blueprint_CarpetRed.label>
   
   <!-- EN: kémiai hőerőmű(tervrajz) -->
   <Blueprint_ChemfuelPoweredGenerator.label>kémiai hőerőmű (tervrajz)</Blueprint_ChemfuelPoweredGenerator.label>
@@ -286,16 +274,16 @@
   <!-- EN: napelem(tervrajz) -->
   <Blueprint_SolarGenerator.label>napelem (tervrajz)</Blueprint_SolarGenerator.label>
   
-  <!-- EN: állólámpa(tervrajz) -->
+  <!-- EN: álló sötétlámpa(tervrajz) -->
   <Blueprint_StandingLamp.label>állólámpa (tervrajz)</Blueprint_StandingLamp.label>
   
-  <!-- EN: állólámpa (kék)(tervrajz) -->
+  <!-- UNUSED -->
   <Blueprint_StandingLamp_Blue.label>állólámpa (kék) (tervrajz)</Blueprint_StandingLamp_Blue.label>
   
-  <!-- EN: állólámpa (zöld)(tervrajz) -->
+  <!-- UNUSED -->
   <Blueprint_StandingLamp_Green.label>állólámpa (zöld) (tervrajz)</Blueprint_StandingLamp_Green.label>
   
-  <!-- EN: állólámpa (vörös)(tervrajz) -->
+  <!-- UNUSED -->
   <Blueprint_StandingLamp_Red.label>állólámpa (vörös) (tervrajz)</Blueprint_StandingLamp_Red.label>
   
   <!-- EN: steril csempe(tervrajz) -->
@@ -562,9 +550,9 @@
   <Corpse_Lynx.description>Egy hiúz teteme.</Corpse_Lynx.description>
   
   <!-- EN: százlábú teteme -->
-  <Corpse_Mech_Centipede.label>százlábú tetem</Corpse_Mech_Centipede.label>
+  <Corpse_Mech_CentipedeBlaster.label>százlábú tetem</Corpse_Mech_CentipedeBlaster.label>
   <!-- EN: százlábú teteme. -->
-  <Corpse_Mech_Centipede.description>Deaktivált harci százlábú.</Corpse_Mech_Centipede.description>
+  <Corpse_Mech_CentipedeBlaster.description>Deaktivált harci százlábú.</Corpse_Mech_CentipedeBlaster.description>
   
   <!-- EN: lándzsás teteme -->
   <Corpse_Mech_Lancer.label>lándzsás tetem</Corpse_Mech_Lancer.label>
@@ -766,30 +754,9 @@
   <!-- EN: Kijelöl egy helyet, ahol karavánok alakíthatók. -->
   <Frame_CaravanPackingSpot.description>Kijelöl egy helyet, ahol karavánok alakíthatók.</Frame_CaravanPackingSpot.description>
   
-  <!-- EN: kék szőnyeg(állvány) -->
-  <Frame_CarpetBlue.label>kék szőnyeg (építmény)</Frame_CarpetBlue.label>
-  <!-- EN: Terrain building in progress. -->
-  <Frame_CarpetBlue.description>Padlózat építése folyamatban.</Frame_CarpetBlue.description>
-  
-  <!-- EN: krémszín szőnyeg(állvány) -->
-  <Frame_CarpetCream.label>krémszín szőnyeg (építmény)</Frame_CarpetCream.label>
-  <!-- EN: Terrain building in progress. -->
-  <Frame_CarpetCream.description>Padlózat építése folyamatban.</Frame_CarpetCream.description>
-  
-  <!-- EN: szürke szőnyeg(állvány) -->
+  <!-- UNUSED -->
   <Frame_CarpetDark.label>szürke szőnyeg (építmény)</Frame_CarpetDark.label>
-  <!-- EN: Terrain building in progress. -->
   <Frame_CarpetDark.description>Padlózat építése folyamatban.</Frame_CarpetDark.description>
-  
-  <!-- EN: zöld szőnyeg(állvány) -->
-  <Frame_CarpetGreen.label>zöld szőnyeg (építmény)</Frame_CarpetGreen.label>
-  <!-- EN: Terrain building in progress. -->
-  <Frame_CarpetGreen.description>Padlózat építése folyamatban.</Frame_CarpetGreen.description>
-  
-  <!-- EN: vörös szőnyeg(állvány) -->
-  <Frame_CarpetRed.label>vörös szőnyeg (építmény)</Frame_CarpetRed.label>
-  <!-- EN: Terrain building in progress. -->
-  <Frame_CarpetRed.description>Padlózat építése folyamatban.</Frame_CarpetRed.description>
   
   <!-- EN: kémiai hőerőmű(állvány) -->
   <Frame_ChemfuelPoweredGenerator.label>kémiai hőerőmű (építmény)</Frame_ChemfuelPoweredGenerator.label>
@@ -1126,24 +1093,21 @@
   <!-- EN: Napfény segítségével állít elő áramot. Sötétben hasztalan. -->
   <Frame_SolarGenerator.description>Napfény segítségével állít elő áramot. Sötétben hasztalan.</Frame_SolarGenerator.description>
   
-  <!-- EN: állólámpa(állvány) -->
+  <!-- EN: álló sötétlámpa(állvány) -->
   <Frame_StandingLamp.label>állólámpa (építmény)</Frame_StandingLamp.label>
-  <!-- EN: Állólámpa, mely megvilágítja környezetét. -->
+  <!-- EN: Kis teljesítményű elektromos állólámpa, amely nagy területen halvány fényt bocsát ki. Azok, akik szívesebben dolgoznak sötétben, elégedettek ezzel a fényforrással. -->
   <Frame_StandingLamp.description>Állólámpa, mely megvilágítja környezetét.</Frame_StandingLamp.description>
   
-  <!-- EN: állólámpa (kék)(állvány) -->
+  <!-- UNUSED -->
   <Frame_StandingLamp_Blue.label>állólámpa (kék) (építmény)</Frame_StandingLamp_Blue.label>
-  <!-- EN: Kék fényű állólámpa, mely megvilágítja környezetét. -->
   <Frame_StandingLamp_Blue.description>Kék fényű állólámpa, mely megvilágítja környezetét.</Frame_StandingLamp_Blue.description>
   
-  <!-- EN: állólámpa (zöld)(állvány) -->
+  <!-- UNUSED -->
   <Frame_StandingLamp_Green.label>állólámpa (zöld) (építmény)</Frame_StandingLamp_Green.label>
-  <!-- EN: Zöld fényű állólámpa, mely megvilágítja környezetét. -->
   <Frame_StandingLamp_Green.description>Zöld fényű állólámpa, mely megvilágítja környezetét.</Frame_StandingLamp_Green.description>
   
-  <!-- EN: állólámpa (vörös)(állvány) -->
+  <!-- UNUSED -->
   <Frame_StandingLamp_Red.label>állólámpa (vörös) (építmény)</Frame_StandingLamp_Red.label>
-  <!-- EN: Vörös fényű állólámpa, mely megvilágítja környezetét. -->
   <Frame_StandingLamp_Red.description>Vörös fényű állólámpa, mely megvilágítja környezetét.</Frame_StandingLamp_Red.description>
   
   <!-- EN: steril csempe(állvány) -->

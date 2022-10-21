@@ -30,6 +30,8 @@
   <TranslationFilesTKeyUpdate>Fordítási fájlok frissítése (TKey)</TranslationFilesTKeyUpdate>
   <!-- EN: Cleaning translation files -->
   <CleaningTranslationFiles>Fordítás fájljainak tisztázása</CleaningTranslationFiles>
+  <!-- EN: Dev quicktest -->
+  <DevQuickTest>TODO</DevQuickTest>
   <!-- EN: Credits -->
   <Credits>Stáblista</Credits>
   <!-- EN: Quit to main menu -->
@@ -78,8 +80,8 @@
   <WorldGenerate>Létrehoz</WorldGenerate>
   <!-- EN: Save and finish -->
   <WorldSaveAndFinish>Mentés és kész</WorldSaveAndFinish>
-  <!-- EN: Reset -->
-  <Reset>Alapállapot</Reset>
+  <!-- EN: Reset factions -->
+  <ResetFactions>TODO</ResetFactions>
   <!-- EN: Globe coverage -->
   <PlanetCoverage>Szárazföld kiterjedése</PlanetCoverage>
   <!-- EN: Overall rainfall -->
@@ -152,16 +154,66 @@
   <ConfirmDeleteMod>Biztos, hogy {0} minden tartalmát törölni akarod?</ConfirmDeleteMod>
   <!-- EN: Auto-sort mods -->
   <ResolveModOrder>Modok auto-indítása</ResolveModOrder>
+  <!-- EN: Save and apply changes -->
+  <SaveModChanges>TODO</SaveModChanges>
+  <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->
+  <DiscardModChanges>TODO</DiscardModChanges>
   <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
   <ModReorderConflict_MustLoadAfter>A(z) {0} nem mozgatható: {1} után kell betölteni.</ModReorderConflict_MustLoadAfter>
   <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
   <ModReorderConflict_MustLoadBefore>A(z) {0} nem mozgatható: {1} előtt be kell tölteni.</ModReorderConflict_MustLoadBefore>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>Leiratkozás</Unsubscribe>
-  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
+  <!-- EN: Are you sure you want to unsubscribe? -->
   <ConfirmUnsubscribe>Biztos, hogy le akarsz iratkozni erről: {0}?</ConfirmUnsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
+  <ConfirmUnsubscribeFrom>TODO</ConfirmUnsubscribeFrom>
+  <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
+  <ConfirmUnsubscribeFromMultiple>TODO</ConfirmUnsubscribeFromMultiple>
   <!-- EN: Author -->
   <Author>Készítő</Author>
+  <!-- EN: Enabled -->
+  <Enabled>TODO</Enabled>
+  <!-- EN: Disabled -->
+  <Disabled>TODO</Disabled>
+  <!-- EN: Enable -->
+  <Enable>TODO</Enable>
+  <!-- EN: Disable -->
+  <Disable>TODO</Disable>
+  <!-- EN: Get mods from... -->
+  <GetMods>TODO</GetMods>
+  <!-- EN: Unsubscribe from... -->
+  <UnsubscribeMultiple>TODO</UnsubscribeMultiple>
+  <!-- EN: Save / load list... -->
+  <SaveLoadList>TODO</SaveLoadList>
+  <!-- EN: Save mod list -->
+  <SaveModList>TODO</SaveModList>
+  <!-- EN: Load mod list -->
+  <LoadModList>TODO</LoadModList>
+  <!-- EN: Added mods -->
+  <AddedModsList>TODO</AddedModsList>
+  <!-- EN: Missing mods -->
+  <MissingModsList>TODO</MissingModsList>
+  <!-- EN: Shared mods -->
+  <SharedModsList>TODO</SharedModsList>
+  <!-- EN: Website -->
+  <ModWebsite>TODO</ModWebsite>
+  <!-- EN: Open folder -->
+  <ModFolder>TODO</ModFolder>
+  <!-- EN: Mod options -->
+  <ModOptions>TODO</ModOptions>
+  <!-- EN: Workshop -->
+  <FromWorkshop>TODO</FromWorkshop>
+  <!-- EN: Forum -->
+  <FromForum>TODO</FromForum>
+  <!-- EN: Advanced... -->
+  <MoreActions>TODO</MoreActions>
+  <!-- EN: All selected mods -->
+  <AllSelectedMods>TODO</AllSelectedMods>
+  <!-- EN: All disabled mods -->
+  <AllDisabledMods>TODO</AllDisabledMods>
+  <!-- EN: All incompatible mods -->
+  <AllIncompatibleMods>TODO</AllIncompatibleMods>
   <!-- EN: Workshop page -->
   <WorkshopPage>Műhely oldal</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
@@ -176,6 +228,8 @@
   <WorkshopUploadSucceeded>{0} sikeresen feltöltve.</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
   <Downloading>Letöltés</Downloading>
+  <!-- EN: Workshop ID -->
+  <WorkshopId>TODO</WorkshopId>
   <!-- EN: Display fulfilled requirements -->
   <ModDisplayFulfilledRequirements>Teljesített követelmények kiírása</ModDisplayFulfilledRequirements>
   <!-- EN: Click to select. -->
@@ -184,8 +238,10 @@
   <ModClickToGoToWebsite>Kattints a weboldalra ugráshoz</ModClickToGoToWebsite>
   <!-- EN: Source -->
   <Source>Forrás</Source>
-  <!-- EN: For game version(s) -->
+  <!-- EN: Game versions -->
   <ModTargetVersion>{0} verzió(k)hoz</ModTargetVersion>
+  <!-- EN: Mod version -->
+  <ModVersion>TODO</ModVersion>
   <!-- EN: ID -->
   <ModPackageId>ID</ModPackageId>
   <!-- EN: This must be loaded before: {0}. -->
@@ -204,7 +260,7 @@
   <ModWithSameIdAlreadyActive>Egy másik aktív mod már használja ezt az ID-t: {0}.</ModWithSameIdAlreadyActive>
   <!-- EN: There is a cyclic mod dependency starting with {0}. -->
   <ModCyclicDependency>Ciklikus függőség alakult ki, kezdete: {0}.</ModCyclicDependency>
-  <!-- EN: This requires following mods to work: {0}. -->
+  <!-- EN: This requires the following mods to work: {0}. -->
   <ModUnsatisfiedDependency>Ehhez a következő bekapcsolt modok szükségesek: {0}.</ModUnsatisfiedDependency>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Ez a mod a RimWorld más verziójához készült, nem fog megfelelően működni.</ModNotMadeForThisVersion>
@@ -274,6 +330,8 @@
   <TooMany>Túl sok (max. {0}): </TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>Frissíthető a Műhelyben, mivel te vagy a szerző.</CanBeUpdatedOnWorkshop>
+  <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
+  <ScenarioChangedSavePrompt>TODO</ScenarioChangedSavePrompt>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
@@ -419,6 +477,10 @@
   <Difficulty_AllowCaveHives_Label>Térképgenerálás természetes kaptárral</Difficulty_AllowCaveHives_Label>
   <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
   <Difficulty_AllowCaveHives_Info>A szunnyadó rovarkaptárak természetes barlangokban ívhatnak.\n\nEz a beállítás csak a térképkészítésre vonatkozik, és nincs hatással az aktív rovarokra, amelyek játék közben alagútba léphetnek.</Difficulty_AllowCaveHives_Info>
+  <!-- EN: Add unwavering prisoners -->
+  <Difficulty_UnwaveringPrisoners_Label>TODO</Difficulty_UnwaveringPrisoners_Label>
+  <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
+  <Difficulty_UnwaveringPrisoners_Info>TODO</Difficulty_UnwaveringPrisoners_Info>
 
   <!-- EN: Player tools -->
   <DifficultyPlayerToolsSection>Játékos eszközök</DifficultyPlayerToolsSection>
@@ -462,7 +524,7 @@
   <DifficultyIdeologySection>Ideológia</DifficultyIdeologySection>
   <!-- EN: Low pop conversion boost -->
   <Difficulty_LowPopConversionBoost_Label>Alacsony populáció konverziónövelés</Difficulty_LowPopConversionBoost_Label>
-  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to his ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
+  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
   <Difficulty_LowPopConversionBoost_Info>A játékos kezdő ideológiájának egyetlen gyarmatosítója esetén az ideológiára való áttérés esélye megszorozódik ezzel az összeggel. Az ellenük tett konverziós kísérletek hatása elosztódik ezzel az összeggel.\n\nA játékos kezdő ideológiájának két gyarmatosítója esetén a hatás felére csökken.\n\nA játékos kezdő ideológiájának három vagy több gyarmatosítója esetén ennek nincs hatása.</Difficulty_LowPopConversionBoost_Info>
 
   <!-- Site select -->
@@ -500,6 +562,8 @@
   <Elevation>Magasság</Elevation>
   <!-- EN: Fertility -->
   <Fertility>Termékenység</Fertility>
+  <!-- EN: fertility -->
+  <FertilityLower>TODO</FertilityLower>
   <!-- EN: Average temperature -->
   <AvgTemp>Átlaghőmérséklet</AvgTemp>
   <!-- EN: Rainfall -->
@@ -534,6 +598,10 @@
   <Forageability>Gyűjtögetés</Forageability>
   <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
   <ConfirmRequiredWorkTypeDisabledForEveryone>Egyik kiválasztott ember sem képes elvégezni a következő munká(ka)t:\n\n{0}\n\nEz a szokásosnál nehezebbé teheti a játékot. Biztosan folytatod?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <!-- EN: temperature -->
+  <TemperatureLower>TODO</TemperatureLower>
+  <!-- EN: light -->
+  <LightLower>TODO</LightLower>
 
   <!-- Character chooser -->
   <!-- EN: Create characters -->
@@ -558,20 +626,22 @@
   <IncapableOf>Alkalmatlan rá</IncapableOf>
   <!-- EN: Abilities -->
   <Abilities>Képességek</Abilities>
-  <!-- EN: Caused by backstory: {0} -->
-  <IncapableOfTooltipBackstory>A következő háttértörténet okozza: {0}</IncapableOfTooltipBackstory>
-  <!-- EN: Caused by title: {0} -->
-  <IncapableOfTooltipTitle>A következő cím okozza: {0}</IncapableOfTooltipTitle>
-  <!-- EN: Caused by trait: {0} -->
-  <IncapableOfTooltipTrait>A következő tulajdonság okozza: {0}</IncapableOfTooltipTrait>
-  <!-- EN: Caused by: {0} -->
+  <!-- EN: Caused by -->
   <IncapableOfTooltipHediff>A következő körülmény okozza: {0}</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
   <IncapableOfTooltipWorkTypes>Kikapcsolt munkák: {0}</IncapableOfTooltipWorkTypes>
-  <!-- EN: Caused by quest status: {0} -->
+  <!-- EN: Caused by backstory -->
+  <IncapableOfTooltipBackstory>A következő háttértörténet okozza: {0}</IncapableOfTooltipBackstory>
+  <!-- EN: Caused by title -->
+  <IncapableOfTooltipTitle>A következő cím okozza: {0}</IncapableOfTooltipTitle>
+  <!-- EN: Caused by trait -->
+  <IncapableOfTooltipTrait>A következő tulajdonság okozza: {0}</IncapableOfTooltipTrait>
+  <!-- EN: Caused by quest status -->
   <IncapableOfTooltipQuest>A küldetés állapota okozza: {0}</IncapableOfTooltipQuest>
-  <!-- EN: Caused by role: {0} -->
+  <!-- EN: Caused by role -->
   <IncapableOfTooltipRole>Szerep okozta: {0}</IncapableOfTooltipRole>
+  <!-- EN: Caused by gene -->
+  <IncapableOfTooltipGene>TODO</IncapableOfTooltipGene>
   <!-- EN: Traits -->
   <Traits>Jellemvonás</Traits>
   <!-- EN: Permanent mood effect -->
@@ -584,8 +654,6 @@
   <Adulthood>Felnőttkor</Adulthood>
   <!-- EN: Childhood -->
   <Childhood>Gyerekkor</Childhood>
-  <!-- EN: Current -->
-  <Current>Jelenlegi</Current>
   <!-- EN: male -->
   <Male>férfi</Male>
   <!-- EN: female -->
@@ -602,6 +670,8 @@
   <Health>Egészség</Health>
   <!-- EN: Relations -->
   <Relations>Kapcsolatok</Relations>
+  <!-- EN: Possessions -->
+  <Possessions>TODO</Possessions>
   <!-- EN: Team skills -->
   <TeamSkills>Csapat készségek</TeamSkills>
   <!-- EN: Selected -->
@@ -645,7 +715,7 @@
   <!-- EN: Generating map for new encounter -->
   <GeneratingMapForNewEncounter>Térkép létrehozása új találkozáshoz</GeneratingMapForNewEncounter>
 
-  <!-- EN: Click for more info -->
+  <!-- EN: Click for more info. -->
   <ClickForMoreInfo>Kattints több információért!</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
   <NoMoreInfoAvailable>További információ nem áll rendelkezésre.</NoMoreInfoAvailable>
@@ -653,14 +723,10 @@
   <!-- Factions -->
   <!-- EN: Factions -->
   <Factions>Frakciók</Factions>
-  <!-- EN: Gameplay problems can occur with more than {0} factions. -->
-  <RecommendedFactionCount>Játékmeneti problémák több mint {0} frakciónál fordulhatnak elő.</RecommendedFactionCount>
-  <!-- EN: Maximum {0} visible factions allowed. -->
+  <!-- EN: max {0} basic factions allowed -->
   <TotalFactionsAllowed>Legfeljebb {0} látható frakció megengedett.</TotalFactionsAllowed>
-  <!-- EN: There can be no more than {0} {1}. -->
+  <!-- EN: max {0} -->
   <MaxFactionsForType>Nem lehet több, mint {0} {1}.</MaxFactionsForType>
-  <!-- EN: Restore defaults -->
-  <ResetFactionsToDefault>Alapértékek visszaállítása</ResetFactionsToDefault>
   <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
   <FactionSelectionDesc>Válaszd ki a világ frakcióit. Összesen legfeljebb {0} frakciót választhatsz ki.</FactionSelectionDesc>
   <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
@@ -671,5 +737,10 @@
   <MechanoidsDisabledContentWarning>A {0} letiltása kevesebb küldetést és spontán fenyegetést jelent.</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
   <FactionsDisabledWarning>Más frakciók nélkül a raidek, a kereskedés és a küldetések nem történnek a szokásos módon.</FactionsDisabledWarning>
+
+  <!-- UNUSED -->
+  <Current>Jelenlegi</Current>
+  <RecommendedFactionCount>Játékmeneti problémák több mint {0} frakciónál fordulhatnak elő.</RecommendedFactionCount>
+  <ResetFactionsToDefault>Alapértékek visszaállítása</ResetFactionsToDefault>
 
 </LanguageData>
