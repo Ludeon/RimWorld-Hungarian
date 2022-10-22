@@ -6,8 +6,7 @@
   <!-- EN: Inspired: Go frenzy -->
   <Frenzy_Go.baseInspectLine>Ihletett: közlekedés</Frenzy_Go.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will move faster for the next 8 days. -->
-  <Frenzy_Go.beginLetter>{0} ihletet kapott. A következő 24 órában 1.5-szer gyorsabban fog közlekedni.</Frenzy_Go.beginLetter>
-  <Frenzy_Go.beginLetterLabel>Ihlet: közlekedés</Frenzy_Go.beginLetterLabel>
+  <Frenzy_Go.beginLetter>A [PAWN_pronoun] gyorsabban fog mozogni a következő 8 napban.</Frenzy_Go.beginLetter>
   <!-- EN: {0} is no longer inspired (go frenzy). -->
   <Frenzy_Go.endMessage>{0} már nem pörög (közlekedés).</Frenzy_Go.endMessage>
   
@@ -16,8 +15,7 @@
   <!-- EN: Inspired: Shoot frenzy -->
   <Frenzy_Shoot.baseInspectLine>Ihletett: lövés</Frenzy_Shoot.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will shoot more accurately for the next 8 days. -->
-  <Frenzy_Shoot.beginLetter>{0} ihletet kapott. A következő 3 napban pontosabban fog lőni.</Frenzy_Shoot.beginLetter>
-  <Frenzy_Shoot.beginLetterLabel>Ihlet: lövés</Frenzy_Shoot.beginLetterLabel>
+  <Frenzy_Shoot.beginLetter>A [PAWN_pronoun] pontosabban fog lőni a következő 8 napban.</Frenzy_Shoot.beginLetter>
   <!-- EN: {0} is no longer inspired (shoot frenzy). -->
   <Frenzy_Shoot.endMessage>{0} már nem pörög (lövés).</Frenzy_Shoot.endMessage>
   
@@ -26,8 +24,7 @@
   <!-- EN: Inspired: Work frenzy -->
   <Frenzy_Work.baseInspectLine>Ihletett: munka</Frenzy_Work.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will work faster for the next 8 days. -->
-  <Frenzy_Work.beginLetter>{0} ihletet kapott. A következő 24 órában 2.5-szer gyorsabban fog dolgozni.</Frenzy_Work.beginLetter>
-  <Frenzy_Work.beginLetterLabel>Ihlet: munka</Frenzy_Work.beginLetterLabel>
+  <Frenzy_Work.beginLetter>A [PAWN_pronoun] gyorsabban fog dolgozni a következő 8 napban.</Frenzy_Work.beginLetter>
   <!-- EN: {0} is no longer inspired (work frenzy). -->
   <Frenzy_Work.endMessage>{0} már nem pörög (munka).</Frenzy_Work.endMessage>
   
@@ -36,8 +33,7 @@
   <!-- EN: Inspired: Inspired creativity -->
   <Inspired_Creativity.baseInspectLine>Ihletett: művészet</Inspired_Creativity.baseInspectLine>
   <!-- EN: The next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
-  <Inspired_Creativity.beginLetter>{0} ihletet kapott. A következő mű 2 minőségosztállyal magasabb besorolású lesz, mint amilyen amúgy lenne.\n\nAz ihlet 8 napig vagy a mű befejezéséig tart.</Inspired_Creativity.beginLetter>
-  <Inspired_Creativity.beginLetterLabel>Ihlet: művészet</Inspired_Creativity.beginLetterLabel>
+  <Inspired_Creativity.beginLetter>A következő tárgy, műalkotás vagy bútor amit [PAWN_pronoun] alkot, két minőségi szinttel magasabb lesz, mint egyébként. Ez még legendás tárgyak létrehozását is lehetővé teszi.\n\nAz ihlet 8 nap múlva, vagy az alkotás befejezésekor véget ér.</Inspired_Creativity.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired creativity). -->
   <Inspired_Creativity.endMessage>{0} már nem pörög (művészet).</Inspired_Creativity.endMessage>
   
@@ -46,8 +42,7 @@
   <!-- EN: Inspired: Inspired recruitment -->
   <Inspired_Recruitment.baseInspectLine>Ihletett: toborzás</Inspired_Recruitment.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
-  <Inspired_Recruitment.beginLetter>{0} ihletet kapott. A következő foglyot sikeresen toborozza majd, nehézségtől függetlenül.\n\nAz ihlet 8 napig vagy a fogoly sikeres toborzásáig tart.</Inspired_Recruitment.beginLetter>
-  <Inspired_Recruitment.beginLetterLabel>Ihlet: toborzás</Inspired_Recruitment.beginLetterLabel>
+  <Inspired_Recruitment.beginLetter>[PAWN_pronoun] sikeresen toborozza a következő foglyot, függetlenül a nehézségtől vagy az ellenállástól.\n\nAz ihlet 8 nap elteltével, vagy a fogoly beszervezésével véget ér.</Inspired_Recruitment.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired recruitment). -->
   <Inspired_Recruitment.endMessage>{0} már nem pörög (toborzás).</Inspired_Recruitment.endMessage>
   
@@ -56,8 +51,7 @@
   <!-- EN: Inspired: Inspired surgery -->
   <Inspired_Surgery.baseInspectLine>Ihletett: műtét</Inspired_Surgery.baseInspectLine>
   <!-- EN: The next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
-  <Inspired_Surgery.beginLetter>{0} ihletet kapott. A műtéti kudarc esélye a következő beavatkozásnál tizede a normálisnak.\n\nAz ihlet 8 napig vagy a műtét elvégzéséig tart.</Inspired_Surgery.beginLetter>
-  <Inspired_Surgery.beginLetterLabel>Ihlet: műtét</Inspired_Surgery.beginLetterLabel>
+  <Inspired_Surgery.beginLetter>A következő alkalommal, amikor [PAWN_pronoun] műtétet hajt végre, a sikerének esélye megduplázódik. A sikertelenség minimális esélye továbbra is fennáll.\n\nAz inspiráció 8 nap múlva, vagy a műtét elvégzésekor véget ér.</Inspired_Surgery.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired surgery). -->
   <Inspired_Surgery.endMessage>{0} már nem pörög (műtét).</Inspired_Surgery.endMessage>
   
@@ -66,7 +60,7 @@
   <!-- EN: Inspired: Inspired taming -->
   <Inspired_Taming.baseInspectLine>Ihletett: szelídítés</Inspired_Taming.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will successfully tame the next animal regardless of difficulty.\n\nThe inspiration will end after 8 days, or when an animal was tamed. -->
-  <Inspired_Taming.beginLetter>Jó hangulatának köszönhetően {0} ihletet kapott!\n\nSikeresen meg fogja szelídíteni a következő állatot, nehézségtől függetlenül.\n\nAz ihlet 8 napig vagy az állat megszelídítéséig tart.</Inspired_Taming.beginLetter>
+  <Inspired_Taming.beginLetter>[PAWN_pronoun] a nehézségtől függetlenül sikeresen megszelídíti a következő állatot.\n\nAz ihlet 8 nap elteltével ér véget, vagy amikor egy állatot megszelídített.</Inspired_Taming.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired taming). -->
   <Inspired_Taming.endMessage>{0} már nem pörög (szelídítés)</Inspired_Taming.endMessage>
   
@@ -75,8 +69,7 @@
   <!-- EN: Inspired: Inspired trade -->
   <Inspired_Trade.baseInspectLine>Ihletett: seftelés</Inspired_Trade.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
-  <Inspired_Trade.beginLetter>{0} ihletet kapott. A következő üzlet megkötésénél jelentős engedményt fog kapni.\n\nAz ihlet 8 napig vagy az üzlet nyélbe ütéséig tart.</Inspired_Trade.beginLetter>
-  <Inspired_Trade.beginLetterLabel>Ihlet: seftelés</Inspired_Trade.beginLetterLabel>
+  <Inspired_Trade.beginLetter>[PAWN_pronoun] jelentős kereskedési árbónuszt kap a következő kereskedelmi ügyletének lezárásakor.\n\nAz ihlet 8 nap múlva, vagy az ügylet megkötése után lejár.</Inspired_Trade.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired trade). -->
   <Inspired_Trade.endMessage>{0} már nem pörög (seftelés).</Inspired_Trade.endMessage>
   

@@ -13,6 +13,22 @@
   <Close>Bezár</Close>
   <!-- EN: Accept -->
   <Accept>TODO</Accept>
+  <!-- EN: Cancel -->
+  <Cancel>Mégsem</Cancel>
+  <!-- EN: Reset -->
+  <Reset>Alapállapot</Reset>
+  <!-- EN: Reset all -->
+  <ResetAll>TODO</ResetAll>
+  <!-- EN: Disable -->
+  <Disable>TODO</Disable>
+  <!-- EN: Modify -->
+  <Modify>TODO</Modify>
+  <!-- EN: Settle here anyways? -->
+  <ConfirmSettle>TODO</ConfirmSettle>
+  <!-- EN: add -->
+  <Add>TODO</Add>
+  <!-- EN: Cannot shoot -->
+  <CannotShoot>TODO</CannotShoot>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -163,10 +179,28 @@
   <ZoneGainsName>A körzet neve mostantól {0}</ZoneGainsName>
   
   <!-- Pawn naming -->
+  <!-- EN: Chosen name is invalid. -->
+  <NameInvalid>TODO</NameInvalid>
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
   <PawnGainsName>A gyarmatos beceneve mostantól {0}. A rangja {PAWN_title}.</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
   <AnimalGainsName>Az állat neve mostantól {0}.</AnimalGainsName>
+  <!-- EN: rename person -->
+  <RenamePerson>TODO</RenamePerson>
+  <!-- EN: mother -->
+  <Mother>TODO</Mother>
+  <!-- EN: father -->
+  <Father>TODO</Father>
+  <!-- EN: unknown -->
+  <Unknown>TODO</Unknown>
+  <!-- EN: first name -->
+  <FirstName>TODO</FirstName>
+  <!-- EN: nickname -->
+  <NickName>TODO</NickName>
+  <!-- EN: last name -->
+  <LastName>TODO</LastName>
+  <!-- EN: suggested -->
+  <Suggested>TODO</Suggested>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
@@ -179,8 +213,12 @@
   <FileIncompatibleWarning>Verzió hiba: A fájl ezzel a játékverzióval volt elmentve {0}, most pedig a {1} verzió fut.\n\nEz betöltve valószínűleg bugokat és fagyást fog előidézni.</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>Modok nem egyeznek</ModsMismatchWarningTitle>
-  <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
+  <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do. -->
   <ModsMismatchWarningText>Ezt a fájlt különböző aktív modkészlettel mentették el a jelenlegitől. Attól függően, hogy ezek a modok mit csinálnak, ez problémát okozhat.\n\nA fájlt ezekkel mentették el (ebben a sorrendben):\n\n{0}\n\nEzek aktívak most (ebben a sorrendben):\n\n{1}</ModsMismatchWarningText>
+  <!-- EN: No mods have been added or removed, but the order of your mod list has changed. -->
+  <ModsMismatchOrderChanged>TODO</ModsMismatchOrderChanged>
+  <!-- EN: Are you sure you want to load the mod list from this save file? -->
+  <ConfirmLoadSaveList>TODO</ConfirmLoadSaveList>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
@@ -193,7 +231,19 @@
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
   <ConfirmPermanentlyDisableDevMode>Biztosan végleg ki akarod kapcsolni a fejlesztői módot?</ConfirmPermanentlyDisableDevMode>
-  
+
+  <!-- Confirm reset learning helper -->
+  <!-- EN: Are you sure you want to reset the learning helper?\n\nAll records of which concepts have been learned will be erased and the system will teach everything from scratch. -->
+  <ConfirmResetLearningHelper>TODO</ConfirmResetLearningHelper>
+
+  <!-- Backstory translation restart dialog -->
+  <!-- EN: Backstories are now implemented as a def and all legacy backstory translations have been imported into def translations. The file {0} has been imported and moved to {1}. It can now be deleted.\n\nRestart the game for changes to take effect. -->
+  <RestartAfterImportingLegacyBackstoryTanslations>TODO</RestartAfterImportingLegacyBackstoryTanslations>
+
+  <!-- Game start -->
+  <!-- EN: Must include exactly {SUMMARY} -->
+  <SelectedCharactersMustInclude>TODO</SelectedCharactersMustInclude>
+
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
   <MapTemperatureDangerWarning>FIGYELEM: Fagyott környezetbe érkezik. Nagyon nehéz, akár lehetetlen is lehet a túlélés. Ha nem akar extrém kihívást állítani maga elé, válasszon más leszállóhelyet vagy évszakot!</MapTemperatureDangerWarning>
@@ -254,7 +304,7 @@
   <WorkAmount>Szükséges munka</WorkAmount>
   <!-- EN: Minimum skills: -->
   <MinimumSkills>Minimum készség:</MinimumSkills>
-  <!-- EN: Requires {0} {1} -->
+  <!-- EN: Requires -->
   <BillRequires>Szükséges: {0}db {1}</BillRequires>
   <!-- EN: Requires {0} nutrition -->
   <BillRequiresNutrition>Szükséges tápanyag: {0}</BillRequiresNutrition>
@@ -314,8 +364,8 @@
   <WarmupTime>Tűzkész állapot</WarmupTime>
   <!-- EN: Melee warmup -->
   <MeleeWarmupTime>Közelharci bemelegedés</MeleeWarmupTime>
-  <!-- EN: Ranged warmup -->
-  <RangedWarmupTime>TODO</RangedWarmupTime>
+  <!-- EN: Aiming time -->
+  <RangedWarmupTime>Célzási idő</RangedWarmupTime>
   <!-- EN: Cooldown -->
   <CooldownTime>Lövések közötti szünet</CooldownTime>
   <!-- EN: Disarmed -->
@@ -434,8 +484,12 @@
   <ToleranceFallRate>TODO</ToleranceFallRate>
   <!-- EN: New addiction min tolerance -->
   <MinimumToleranceForAddiction>TODO</MinimumToleranceForAddiction>
-  <!-- EN: Safe dose interval -->
+  <!-- EN: Safe dose interval for adults -->
   <SafeDoseInterval>TODO</SafeDoseInterval>
+  <!-- EN: age {0}-{1} -->
+  <AgeXToY>TODO</AgeXToY>
+  <!-- EN: age {0}+ -->
+  <AgePlus>TODO</AgePlus>
   <!-- EN: New addiction chance -->
   <Addictiveness>Addiktívság</Addictiveness>
   <!-- EN: Addiction initial severity -->
@@ -528,7 +582,7 @@
   <MeditationFocuses>meditációs fókusztípusok</MeditationFocuses>
   <!-- EN: Unlocks meditation focus types -->
   <MeditationFocusesUnlocked>Feloldja a meditációs fókusztípusokat</MeditationFocusesUnlocked>
-  <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an obejct to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
+  <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an object to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
   <MeditationFocusesPawnDesc>A meditációs fókusz típusai, amelyeket ez a személy használhat. Meditáció közben az ember egy tárgyra összpontosíthat, hogy fokozza a pszichofókusz-erősítését – de csak akkor, ha az objektum olyan fókusztípust kínál, amelyet használhat. Minden egyes ember meditációs típusát a hátterük, tulajdonságaik, társadalmi helyzetük stb. határozzák meg.</MeditationFocusesPawnDesc>
   <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
   <MeditationFocusesDesc>Az objektum által kínált meditációs fókusztípusok. A meditáló személy összpontosíthat erre a tárgyra, hogy fokozza a pszichofókuszát, de csak akkor, ha tudja használni a meditációs típusok valamelyikét. Minden személy különböző meditációs típusokat használhat a hátterétől, tulajdonságaitól, társadalmi helyzetétől stb.</MeditationFocusesDesc>
@@ -790,6 +844,8 @@
   <TotalBodySize>Összes testméret</TotalBodySize>
   <!-- EN: Automatically select travel supplies -->
   <AutomaticallySelectTravelSupplies>TODO</AutomaticallySelectTravelSupplies>
+  <!-- EN: This animal is sick. It is suffering from the following illnesses -->
+  <CaravanAnimalSick>Ez az állat beteg. A következő betegségekben szenved</CaravanAnimalSick>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -954,6 +1010,8 @@
   <NoFoodRestrictionSelected>Nincs étel korlátozás</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
+  <!-- EN: Default medicine settings -->
+  <DefaultMedicineSettings>Alapértelmezett gyógyszerbeállítások</DefaultMedicineSettings>
   <!-- EN: Defaults -->
   <MedGroupDefaults>Alapérték</MedGroupDefaults>
   <!-- EN: Colonist -->
@@ -1002,7 +1060,7 @@
   <ConfirmSendNotCompletelyLoadedPods>A kapszulába nem szállt még be mindenki. {1_labelShort} hiányzik. Indítsuk?</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
-  <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
+  <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days. -->
   <ConfirmSettleNearFactionBase>Mivel ez a hely {0} körzet távolságnál közelebb van egy másik frakció bázisához, a letelepedést területsértésnek veszik. A kapcsolat ezzel a frakcióval {1} naponta csökkenni fog.\n\nBiztosan letelepedsz?</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
@@ -1020,6 +1078,8 @@
   <ConfirmCancelMonumentMarker>Biztosan el akarod távolítani ezt az emléktáblát?</ConfirmCancelMonumentMarker>
 
   <!-- Abilities -->
+  <!-- EN: Cannot use {0} -->
+  <CannotUseAbility>Nem használható: {}</CannotUseAbility>
   <!-- EN: Line of sight required -->
   <AbilityRequiresLOS>Rálátás szükséges</AbilityRequiresLOS>
   <!-- EN: Neural heat gain -->
@@ -1034,24 +1094,26 @@
   <AbilityCastingTime>Ellövés ideje</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
   <AbilityCannotHitTarget>Nincs rálátás a célpontra.</AbilityCannotHitTarget>
+  <!-- EN: Target is out of range. -->
+  <AbilityOutOfRange>A cél hatókörön kívül van.</AbilityOutOfRange>
   <!-- EN: Can't reach the target. -->
   <AbilityCannotReachTarget>TODO</AbilityCannotReachTarget>
   <!-- EN: Not enough free space. -->
   <AbilityNotEnoughFreeSpace>TODO</AbilityNotEnoughFreeSpace>
-  <!-- EN: {0} must target an empty area. -->
-  <AbilityOccupiedCells>{0} üres terültet kell célba vegyen.</AbilityOccupiedCells>
-  <!-- EN: {0} must target a walkable area. -->
-  <AbilityUnwalkable>{0} járható területet kell célba vegyen.</AbilityUnwalkable>
-  <!-- EN: {0} must target an unroofed area. -->
-  <AbilityRoofed>TODO</AbilityRoofed>
+  <!-- EN: Must target an empty area. -->
+  <AbilityOccupiedCells>Üres terültet kell megcéloznia.</AbilityOccupiedCells>
+  <!-- EN: Must target a walkable area. -->
+  <AbilityUnwalkable>Járható területet kell megcéloznia.</AbilityUnwalkable>
+  <!-- EN: Must target an unroofed area. -->
+  <AbilityRoofed>Fedetlen területet kell megcéloznia.</AbilityRoofed>
   <!-- EN: {0_labelShort} is mentally broken. -->
-  <AbilityCantApplyToMentallyBroken>TODO</AbilityCantApplyToMentallyBroken>
+  <AbilityCantApplyToMentallyBroken>{0_labelShort} mentálisan összetört.</AbilityCantApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not mentally broken. -->
-  <AbilityCanOnlyApplyToMentallyBroken>TODO</AbilityCanOnlyApplyToMentallyBroken>
+  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort} nem tört össze mentálisan.</AbilityCanOnlyApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not maddened. -->
-  <AbilityCanOnlyApplyToManhunter>TODO</AbilityCanOnlyApplyToManhunter>
+  <AbilityCanOnlyApplyToManhunter>{0_labelShort} nem őrült meg.</AbilityCanOnlyApplyToManhunter>
   <!-- EN: {0_labelShort} has scaria, which can only be treated medically. -->
-  <AbilityCantApplyToScaria>TODO</AbilityCantApplyToScaria>
+  <AbilityCantApplyToScaria>{0_labelShort} scaria-ban szenved, amely csak orvosilag kezelhető.</AbilityCantApplyToScaria>
   <!-- EN: {0} doesn't work on the '{1}' mental state. -->
   <AbilityDoesntWorkOnMentalState>TODO</AbilityDoesntWorkOnMentalState>
   <!-- EN: {0_labelShort} has zero resistance. -->
@@ -1062,6 +1124,10 @@
   <AbilityCantApplyOnAsexual>TODO</AbilityCantApplyOnAsexual>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
   <AbilityCantApplyWrongAttractionGender>TODO</AbilityCantApplyWrongAttractionGender>
+  <!-- EN: {0_labelShort} is too young. -->
+  <AbilityCantApplyTooYoung>TODO</AbilityCantApplyTooYoung>
+  <!-- EN: Cannot target a baby. -->
+  <AbilityCantApplyOnBaby>TODO</AbilityCantApplyOnBaby>
   <!-- EN: Psyfocus cost per mental break intensity -->
   <PsyfocusCostPerMentalBreakIntensity>Pszichofókusz költség idegösszeomlás intenzitásonként(?)</PsyfocusCostPerMentalBreakIntensity>
   <!-- EN: {0_labelShort} is already inspired. -->
@@ -1191,5 +1257,72 @@
   <RoomRequirementNoProductionFacilities>TODO</RoomRequirementNoProductionFacilities>
   <!-- EN: no altars allowed -->
   <RoomRequirementNoAltars>TODO</RoomRequirementNoAltars>
+
+  <!-- EN: Lifestage max food factor -->
+  <LifeStageMaxFood>TODO</LifeStageMaxFood>
+
+  <!-- EN: Expand all -->
+  <ExpandAllCategories>Összes kibontása</ExpandAllCategories>
+  <!-- EN: Collapse all -->
+  <CollapseAllCategories>Összes bezárása</CollapseAllCategories>
+
+  <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
+  <TooltipDyeExplanation>A festék tinctoriából termeszthető, vagy kereskedőktől vásárolható.</TooltipDyeExplanation>
+
+  <!-- EN: Zoom range {0} -->
+  <ZoomRange>TODO</ZoomRange>
+
+  <!-- Color picker -->
+  <!-- EN: color temperature -->
+  <ColorTemperature>TODO</ColorTemperature>
+  <!-- EN: choose a color -->
+  <ChooseAColor>TODO</ChooseAColor>
+  <!-- EN: red -->
+  <Red>TODO</Red>
+  <!-- EN: green -->
+  <Green>TODO</Green>
+  <!-- EN: blue -->
+  <Blue>TODO</Blue>
+  <!-- EN: hue -->
+  <Hue>TODO</Hue>
+  <!-- EN: sat -->
+  <Saturation>TODO</Saturation>
+  <!-- EN: value -->
+  <Value>Érték</Value>
+  <!-- EN: darklight -->
+  <Darklight>TODO</Darklight>
+  <!-- EN: not darklight -->
+  <NotDarklight>TODO</NotDarklight>
+  <!-- EN: current color -->
+  <CurrentColor>TODO</CurrentColor>
+  <!-- EN: old color -->
+  <OldColor>TODO</OldColor>
+  <!-- EN: Copy color -->
+  <CommandCopyColorLabel>TODO</CommandCopyColorLabel>
+  <!-- EN: Copy the current color to the clipboard. -->
+  <CommandCopyColorDesc>TODO</CommandCopyColorDesc>
+  <!-- EN: Paste color -->
+  <CommandPasteColorLabel>TODO</CommandPasteColorLabel>
+  <!-- EN: Overwrite the color with the color in the clipboard. -->
+  <CommandPasteColorDesc>TODO</CommandPasteColorDesc>
+  <!-- EN: The clipboard does not contain a valid color. -->
+  <ClipboardInvalidColor>TODO</ClipboardInvalidColor>
+  <!-- EN: Color copied to clipboard. -->
+  <ColorCopiedSuccessfully>TODO</ColorCopiedSuccessfully>
+  <!-- EN: Updated color from the clipboard. -->
+  <ColorPastedSuccessfully>TODO</ColorPastedSuccessfully>
+  <!-- EN: Change to normal light -->
+  <ToggleDarklightOff>TODO</ToggleDarklightOff>
+  <!-- EN: Change the light color to its normal color. -->
+  <ToggleDarklightOffDesc>TODO</ToggleDarklightOffDesc>
+  <!-- EN: Change to darklight -->
+  <ToggleDarklightOn>TODO</ToggleDarklightOn>
+  <!-- EN: Change the light color to darklight. -->
+  <ToggleDarklightOnDesc>TODO</ToggleDarklightOnDesc>
+  <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
+  <ColorTemperatureTooltip>TODO</ColorTemperatureTooltip>
+
+  <!-- UNUSED -->
+  <BillRequiresNutrition>Szükséges tápanyag: {0}</BillRequiresNutrition>
 
 </LanguageData>

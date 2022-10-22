@@ -15,6 +15,8 @@
   <CommsConsole.label>komm. konzol</CommsConsole.label>
   <!-- EN: Allows radio contact with other factions and orbital traders. -->
   <CommsConsole.description>Ezzel az eszközzel más frakciókkal és távoli kereskedőkkel lehet rádiókapcsolatot létesíteni árucsere és diplomácia ügyében.</CommsConsole.description>
+  <!-- EN: Summon diabolus threat -->
+  <CommsConsole.comps.CompUsable.useLabel>Ördögi fenyegetést idéz meg.</CommsConsole.comps.CompUsable.useLabel>
   
   <!-- EN: cryptosleep casket -->
   <CryptosleepCasket.label>hibernáló</CryptosleepCasket.label>
@@ -29,9 +31,9 @@
   <!-- EN: firefoam popper -->
   <FirefoamPopper.label>habbal oltó</FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
-  <FirefoamPopper.description>Tűzzel való érintkezésre vagy kézi aktiválásra habot locsol szét egy kör alakú területen maga körül.</FirefoamPopper.description>
-  <!-- EN: Trigger firefoam popper -->
-  <FirefoamPopper.comps.CompUsable.useLabel>Habot kiereszt</FirefoamPopper.comps.CompUsable.useLabel>
+  <FirefoamPopper.description>Amikor tüzet észlel, ez a biztonsági berendezés felpattan, és kör alakú mezőben tűzgátló habot szór maga köré. Manuálisan is indítható.</FirefoamPopper.description>
+  <!-- EN: Trigger {0_label} -->
+  <FirefoamPopper.comps.CompUsable.useLabel>{0_label} kioldása</FirefoamPopper.comps.CompUsable.useLabel>
   
   <!-- EN: grave -->
   <Grave.label>sír</Grave.label>
@@ -49,7 +51,7 @@
   <LongRangeMineralScanner.description>Automatikusan képes az értékes anyagok (jáde, arany) detektálására közeli körzetekben (kivéve, ahol a letapogató áll).\nÁtlagosan 30 naponta van találat, 30 egységnyi körzetben.\nTöbb letapogató építése ugyanoda nem növeli a találatok számát.</LongRangeMineralScanner.description>
   
   <!-- EN: marriage spot -->
-  <MarriageSpot.label>ceremónia hely</MarriageSpot.label>
+  <MarriageSpot.label>házasságkötő hely</MarriageSpot.label>
   <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
   <MarriageSpot.description>Kijelöl egy helyet, ahol házassági ceremónia rendezhető. Nézők bármelyik oldalra állhatnak.</MarriageSpot.description>
   

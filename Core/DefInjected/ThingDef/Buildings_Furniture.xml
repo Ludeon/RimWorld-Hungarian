@@ -78,8 +78,13 @@
   
   <!-- EN: shelf -->
   <Shelf.label>polc</Shelf.label>
-  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
-  <Shelf.description>Polcon tárolt tárgyak állaga nem romlik, még a szabad ég alatt sem.</Shelf.description>
+  <!-- EN: A triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+  <Shelf.description>Három férőhelyes polc, amelyen háromszor annyi fér el, mint az üres talajon. A rajta tárolt tárgyak soha nem romlanak meg és nem befolyásolják környezetük szépségét.\n\nMivel a polcokon a hely korlátozott, nem férnek el rajtuk darabok, épületek, növények és nagy holttestek.</Shelf.description>
+  
+  <!-- EN: small shelf -->
+  <ShelfSmall.label>kis polc</ShelfSmall.label>
+  <!-- EN: A small triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+  <ShelfSmall.description>Három férőhelyes kis polc, amelyen háromszor annyi fér el, mint az üres talajon. A rajta tárolt tárgyak soha nem romlanak meg és nem befolyásolják környezetük szépségét.\n\nMivel a polcokon a hely korlátozott, nem férnek el rajtuk darabok, épületek, növények és nagy holttestek.</ShelfSmall.description>
   
   <!-- EN: sleeping spot -->
   <SleepingSpot.label>fekhely</SleepingSpot.label>
@@ -89,22 +94,7 @@
   <!-- EN: standing lamp -->
   <StandingLamp.label>állólámpa</StandingLamp.label>
   <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
-  <StandingLamp.description>Állólámpa, mely megvilágítja környezetét.</StandingLamp.description>
-  
-  <!-- EN: standing lamp (blue) -->
-  <StandingLamp_Blue.label>állólámpa (kék)</StandingLamp_Blue.label>
-  <!-- EN: A standing lamp that lights an area in blue. -->
-  <StandingLamp_Blue.description>Kék fényű állólámpa, mely megvilágítja környezetét.</StandingLamp_Blue.description>
-  
-  <!-- EN: standing lamp (green) -->
-  <StandingLamp_Green.label>állólámpa (zöld)</StandingLamp_Green.label>
-  <!-- EN: A standing lamp that lights an area in green. -->
-  <StandingLamp_Green.description>Zöld fényű állólámpa, mely megvilágítja környezetét.</StandingLamp_Green.description>
-  
-  <!-- EN: standing lamp (red) -->
-  <StandingLamp_Red.label>állólámpa (vörös)</StandingLamp_Red.label>
-  <!-- EN: A standing lamp that lights an area in red. -->
-  <StandingLamp_Red.description>Vörös fényű állólámpa, mely megvilágítja környezetét.</StandingLamp_Red.description>
+  <StandingLamp.description>Elektromos állólámpa, amely megvilágít egy területet. Az embereknek fényre van szükségük ahhoz, hogy teljes sebességgel mozogjanak és dolgozzanak.</StandingLamp.description>
   
   <!-- EN: stool -->
   <Stool.label>zsámoly</Stool.label>

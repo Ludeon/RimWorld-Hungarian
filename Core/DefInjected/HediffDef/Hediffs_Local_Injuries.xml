@@ -4,36 +4,22 @@
   <!-- EN: bite -->
   <Bite.label>harapás</Bite.label>
   <!-- EN: A bite wound. -->
-  <Bite.description>Harapás</Bite.description>
-  <!-- EN: set -->
-  <Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <!-- EN: bandaged -->
-  <Bite.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Bite.comps.HediffComp_TendDuration.labelTendedWell>
-  <!-- EN: sutured -->
-  <Bite.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Bite.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Bite.description>TODO</Bite.description>
   <!-- EN: bite scar -->
-  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>harapásheg</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Bitten off -->
-  <Bite.injuryProps.destroyedLabel>leharapott</Bite.injuryProps.destroyedLabel>
+  <Bite.injuryProps.destroyedLabel>TODO</Bite.injuryProps.destroyedLabel>
   <!-- EN: Bitten out -->
-  <Bite.injuryProps.destroyedOutLabel>kiharapott</Bite.injuryProps.destroyedOutLabel>
+  <Bite.injuryProps.destroyedOutLabel>TODO</Bite.injuryProps.destroyedOutLabel>
   <!-- EN: a bite wound -->
-  <Bite.labelNoun>harapás</Bite.labelNoun>
+  <Bite.labelNoun>TODO</Bite.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Bite.labelNounPretty>{1} {0}</Bite.labelNounPretty>
+  <Bite.labelNounPretty>TODO</Bite.labelNounPretty>
   
   <!-- EN: bruise -->
   <Bruise.label>zúzódás</Bruise.label>
   <!-- EN: A bruise. -->
   <Bruise.description>Zúzódás</Bruise.description>
-  <!-- EN: set -->
-  <Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <!-- EN: bandaged -->
-  <Bruise.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Bruise.comps.HediffComp_TendDuration.labelTendedWell>
-  <!-- EN: tended -->
-  <Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>
-  <!-- EN: Destroyed -->
-  <Bruise.injuryProps.destroyedLabel>leütött</Bruise.injuryProps.destroyedLabel>
   <!-- EN: a bruise -->
   <Bruise.labelNoun>zúzás</Bruise.labelNoun>
   <!-- EN: {0} in the {1} -->
@@ -42,13 +28,7 @@
   <!-- EN: burn -->
   <Burn.label>égés</Burn.label>
   <!-- EN: A burn. -->
-  <Burn.description>Égés</Burn.description>
-  <!-- EN: tended -->
-  <Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <!-- EN: bandaged -->
-  <Burn.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Burn.comps.HediffComp_TendDuration.labelTendedWell>
-  <!-- EN: tended -->
-  <Burn.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Burn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Burn.description>TODO</Burn.description>
   <!-- EN: burn scar -->
   <Burn.comps.HediffComp_GetsPermanent.permanentLabel>égésheg</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off -->
@@ -79,18 +59,10 @@
   <Crack.label>repedés</Crack.label>
   <!-- EN: A crack. -->
   <Crack.description>Repedés</Crack.description>
-  <!-- EN: set -->
-  <Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <!-- EN: set -->
-  <Crack.comps.HediffComp_TendDuration.labelTendedWell>gyógyult</Crack.comps.HediffComp_TendDuration.labelTendedWell>
-  <!-- EN: set -->
-  <Crack.comps.HediffComp_TendDuration.labelTendedWellInner>gyógyult</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: permanent crack -->
-  <Crack.comps.HediffComp_GetsPermanent.permanentLabel>heg</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
-  <!-- EN: Shattered -->
-  <Crack.injuryProps.destroyedLabel>repedt</Crack.injuryProps.destroyedLabel>
+  <Crack.comps.HediffComp_GetsPermanent.permanentLabel>végleges repedés</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a crack wound -->
-  <Crack.labelNoun>repesztés</Crack.labelNoun>
+  <Crack.labelNoun>repedés</Crack.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Crack.labelNounPretty>{1} {0}</Crack.labelNounPretty>
   
@@ -98,18 +70,10 @@
   <Crush.label>törés</Crush.label>
   <!-- EN: A crushing wound. -->
   <Crush.description>Törés</Crush.description>
-  <!-- EN: set -->
-  <Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <!-- EN: bandaged -->
-  <Crush.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Crush.comps.HediffComp_TendDuration.labelTendedWell>
-  <!-- EN: sutured -->
-  <Crush.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Crush.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: mangled scar -->
-  <Crush.comps.HediffComp_GetsPermanent.permanentLabel>heg</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
-  <!-- EN: Crushed -->
-  <Crush.injuryProps.destroyedLabel>összetört</Crush.injuryProps.destroyedLabel>
+  <Crush.comps.HediffComp_GetsPermanent.permanentLabel>megkopott heg</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a crush wound -->
-  <Crush.labelNoun>törés</Crush.labelNoun>
+  <Crush.labelNoun>zúzott seb</Crush.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Crush.labelNounPretty>{1} {0}</Crush.labelNounPretty>
   
@@ -117,12 +81,6 @@
   <Cut.label>vágás</Cut.label>
   <!-- EN: A cut. -->
   <Cut.description>Vágás</Cut.description>
-  <!-- EN: set -->
-  <Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <!-- EN: bandaged -->
-  <Cut.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Cut.comps.HediffComp_TendDuration.labelTendedWell>
-  <!-- EN: sutured -->
-  <Cut.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Cut.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: cut scar -->
   <Cut.comps.HediffComp_GetsPermanent.permanentLabel>vágásheg</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Cut off -->
@@ -147,12 +105,6 @@
   <Frostbite.label>fagyás</Frostbite.label>
   <!-- EN: Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost. -->
   <Frostbite.description>Megfagyott szövetek, amelyeket hidegnek való kitettség okoz, megfelelő védelem hiányában. A fagyás nagyon fájdalmas, és az elfagyott testrészek gyakran menthetetlenek.</Frostbite.description>
-  <!-- EN: tended -->
-  <Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <!-- EN: bandaged -->
-  <Frostbite.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Frostbite.comps.HediffComp_TendDuration.labelTendedWell>
-  <!-- EN: tended -->
-  <Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: frostbite scar -->
   <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>fagyásheg</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Lost to frostbite -->
@@ -164,12 +116,6 @@
   <Gunshot.label>lövés</Gunshot.label>
   <!-- EN: A gunshot wound. -->
   <Gunshot.description>Lőtt seb.</Gunshot.description>
-  <!-- EN: set -->
-  <Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <!-- EN: bandaged -->
-  <Gunshot.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Gunshot.comps.HediffComp_TendDuration.labelTendedWell>
-  <!-- EN: sutured -->
-  <Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: permanent gunshot injury -->
   <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>maradandó lőtt seb</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
   <!-- EN: old gunshot -->
@@ -186,19 +132,11 @@
   <!-- EN: misc -->
   <Misc.label>egyéb</Misc.label>
   <!-- EN: Miscellanous injuries. -->
-  <Misc.description>Egyéb sérülés.</Misc.description>
-  <!-- EN: set -->
-  <Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <!-- EN: bandaged -->
-  <Misc.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Misc.comps.HediffComp_TendDuration.labelTendedWell>
-  <!-- EN: sutured -->
-  <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Misc.description>Egyéb sérülések.</Misc.description>
   <!-- EN: scar -->
   <Misc.comps.HediffComp_GetsPermanent.permanentLabel>sebhely</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
-  <!-- EN: Destroyed -->
-  <Misc.injuryProps.destroyedLabel>kárba ment</Misc.injuryProps.destroyedLabel>
   <!-- EN: an injury -->
-  <Misc.labelNoun>egyéb</Misc.labelNoun>
+  <Misc.labelNoun>sérülés</Misc.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Misc.labelNounPretty>{1} {0}</Misc.labelNounPretty>
   
@@ -214,13 +152,7 @@
   <!-- EN: scratch -->
   <Scratch.label>horzsolás</Scratch.label>
   <!-- EN: A scratch or tear. -->
-  <Scratch.description>Horzsolás.</Scratch.description>
-  <!-- EN: set -->
-  <Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <!-- EN: bandaged -->
-  <Scratch.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Scratch.comps.HediffComp_TendDuration.labelTendedWell>
-  <!-- EN: sutured -->
-  <Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Scratch.description>Egy karcolás vagy horzsolás</Scratch.description>
   <!-- EN: scratch scar -->
   <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>horzsolásheg</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
@@ -235,13 +167,7 @@
   <!-- EN: shredded -->
   <Shredded.label>robbanás</Shredded.label>
   <!-- EN: A part of the body has been shredded and torn. -->
-  <Shredded.description>A test egy része széttépve és felszakítva.</Shredded.description>
-  <!-- EN: set -->
-  <Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <!-- EN: bandaged -->
-  <Shredded.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Shredded.comps.HediffComp_TendDuration.labelTendedWell>
-  <!-- EN: sutured -->
-  <Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Shredded.description>A test egy része letépve és felszakítva.</Shredded.description>
   <!-- EN: shredded scar -->
   <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>heg</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
@@ -256,13 +182,7 @@
   <!-- EN: stab -->
   <Stab.label>szúrás</Stab.label>
   <!-- EN: A stab wound. -->
-  <Stab.description>Szúrás.</Stab.description>
-  <!-- EN: set -->
-  <Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <!-- EN: bandaged -->
-  <Stab.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</Stab.comps.HediffComp_TendDuration.labelTendedWell>
-  <!-- EN: sutured -->
-  <Stab.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</Stab.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Stab.description>Szúrt seb.</Stab.description>
   <!-- EN: stab scar -->
   <Stab.comps.HediffComp_GetsPermanent.permanentLabel>szúrásheg</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Cut off -->
@@ -278,14 +198,8 @@
   <SurgicalCut.label>sebészi vágás</SurgicalCut.label>
   <!-- EN: A cut made during surgery. -->
   <SurgicalCut.description>Műtét közben ejtett vágás.</SurgicalCut.description>
-  <!-- EN: set -->
-  <SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>rögzített</SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <!-- EN: bandaged -->
-  <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>bekötözött</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>
-  <!-- EN: sutured -->
-  <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>bevarrt</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: surgical scar -->
-  <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>vágásheg</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>műtéti heg</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a surgical cut -->
   <SurgicalCut.labelNoun>sebészi vágás</SurgicalCut.labelNoun>
   <!-- EN: {0} in the {1} -->
