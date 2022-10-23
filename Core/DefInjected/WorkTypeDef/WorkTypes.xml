@@ -13,7 +13,6 @@
   <!-- EN: Do art at -->
   <Art.verb>alkotni</Art.verb>
   
-  <BasicWorker.label>Egyszerű</BasicWorker.label>
   <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
   <BasicWorker.description>Készséget nem igénylő munkák. Foglyok elengedése, kapcsolók működtetése, gépek ki/bekapcsolása.</BasicWorker.description>
   <!-- EN: dealing with -->
@@ -25,8 +24,7 @@
   <!-- EN: Deal with -->
   <BasicWorker.verb>működtetni</BasicWorker.verb>
   
-  <Cleaning.label>Takarító</Cleaning.label>
-  <!-- EN: Clear snow and clean the floor in the home area. -->
+  <!-- EN: Clear snow, pollution and clean the floor in the home area. -->
   <Cleaning.description>Ellapátolja a havat és tisztán tartja a padlót.</Cleaning.description>
   <!-- EN: cleaning -->
   <Cleaning.gerundLabel>takarítás</Cleaning.gerundLabel>
@@ -37,9 +35,8 @@
   <!-- EN: Clean -->
   <Cleaning.verb>takarítani</Cleaning.verb>
   
-  <Construction.label>Építész</Construction.label>
   <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
-  <Construction.description>Megépíti a kijelölt dolgokat.</Construction.description>
+  <Construction.description>Megépíti a kijelölt dolgokat és megjavítja a sérült vagy lerobbant épületeket.</Construction.description>
   <!-- EN: constructing -->
   <Construction.gerundLabel>építés</Construction.gerundLabel>
   <!-- EN: construct -->
@@ -49,7 +46,6 @@
   <!-- EN: Construct -->
   <Construction.verb>építeni</Construction.verb>
   
-  <Cooking.label>Szakács</Cooking.label>
   <!-- EN: Prepare meals and butcher meat. -->
   <Cooking.description>Ételeket készít és feldolgozza a leölt állatokat.</Cooking.description>
   <!-- EN: cooking -->
@@ -61,7 +57,6 @@
   <!-- EN: Cook -->
   <Cooking.verb>főzni</Cooking.verb>
   
-  <Crafting.label>Iparos</Crafting.label>
   <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
   <Crafting.description>Egyszerűbb munkákat végez a munkaállomásokon. Kövek feldolgozása, olvasztás meg ilyesmi.</Crafting.description>
   <!-- EN: crafting -->
@@ -73,7 +68,6 @@
   <!-- EN: Craft at -->
   <Crafting.verb>gyártani</Crafting.verb>
   
-  <Doctor.label>Orvos</Doctor.label>
   <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
   <Doctor.description>Ellátja, ápolja a pácienst. Az orvos éppúgy gondoskodik a beteg gyarmatosról, mint a foglyokról.</Doctor.description>
   <!-- EN: doctoring -->
@@ -85,7 +79,6 @@
   <!-- EN: Care for -->
   <Doctor.verb>ellátni</Doctor.verb>
   
-  <Firefighter.label>Tűzoltó</Firefighter.label>
   <!-- EN: Extinguish fires in the colony. -->
   <Firefighter.description>Eloltja a kolónia tüzeit.</Firefighter.description>
   <!-- EN: firefighting -->
@@ -97,7 +90,6 @@
   <!-- EN: Extinguish -->
   <Firefighter.verb>oltani</Firefighter.verb>
   
-  <Growing.label>Földműves</Growing.label>
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
   <Growing.description>Elülteti a magokat és learatja a termést.</Growing.description>
   <!-- EN: growing -->
@@ -109,7 +101,6 @@
   <!-- EN: Grow -->
   <Growing.verb>termeszteni</Growing.verb>
   
-  <Handling.label>Állattartó</Handling.label>
   <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
   <Handling.description>Állatokat szelídít, idomít, levág illetve begyűjti egyéb javaikat.</Handling.description>
   <!-- EN: handling -->
@@ -121,7 +112,6 @@
   <!-- EN: Handle -->
   <Handling.verb>gondoskodni</Handling.verb>
   
-  <Hauling.label>Rakodó</Hauling.label>
   <!-- EN: Carry things to where they need to be. -->
   <Hauling.description>Odaviszi a dolgokat, ahová valók.</Hauling.description>
   <!-- EN: hauling -->
@@ -133,7 +123,6 @@
   <!-- EN: Haul -->
   <Hauling.verb>cipelni</Hauling.verb>
   
-  <Hunting.label>Vadász</Hunting.label>
   <!-- EN: Kill animals which are designated to be hunted. -->
   <Hunting.description>A kijelölt állatokat elejti és a raktárba viszi.</Hunting.description>
   <!-- EN: hunting -->
@@ -145,7 +134,6 @@
   <!-- EN: Hunt -->
   <Hunting.verb>vadászni</Hunting.verb>
   
-  <Mining.label>Bányász</Mining.label>
   <!-- EN: Digging and drilling. -->
   <Mining.description>Kibányássza a megjelölt sziklákat.</Mining.description>
   <!-- EN: mining -->
@@ -157,7 +145,6 @@
   <!-- EN: Mine -->
   <Mining.verb>bányászni</Mining.verb>
   
-  <Patient.label>Páciens</Patient.label>
   <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
   <Patient.description>Sérülések és életveszélyes betegség esetén felkeresi a legközelebbi szabad betegágyat, hogy ellátást kaphasson.</Patient.description>
   <!-- EN: patienting -->
@@ -169,7 +156,6 @@
   <!-- EN: Become patient -->
   <Patient.verb>lábadozni</Patient.verb>
   
-  <PatientBedRest.label>Pihenés</PatientBedRest.label>
   <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
   <PatientBedRest.description>Nem életveszélyes betegségek kiheverésére felkeres egy ágyat.</PatientBedRest.description>
   <!-- EN: resting in bed -->
@@ -181,7 +167,6 @@
   <!-- EN: Become patient -->
   <PatientBedRest.verb>pihenni</PatientBedRest.verb>
   
-  <PlantCutting.label>Erdész</PlantCutting.label>
   <!-- EN: Cut or harvest plants as designated. -->
   <PlantCutting.description>A kijelölt növényeket vágja ki vagy takarítja be.</PlantCutting.description>
   <!-- EN: plant cutting -->
@@ -193,7 +178,6 @@
   <!-- EN: Cut -->
   <PlantCutting.verb>kivágni</PlantCutting.verb>
   
-  <Research.label>Kutató</Research.label>
   <!-- EN: Perform research work. -->
   <Research.description>Kutatási munkát végez.</Research.description>
   <!-- EN: researching -->
@@ -205,9 +189,8 @@
   <!-- EN: Research at -->
   <Research.verb>kutatni</Research.verb>
   
-  <Smithing.label>Kovács</Smithing.label>
-  <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. -->
-  <Smithing.description>Fegyvereket és eszközöket állít elő nyersanyagból.</Smithing.description>
+  <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. Also repair mechanoids, if the colonist is a mechanitor. -->
+  <Smithing.description>Fegyvereket és eszközöket állít elő nyersanyagból akár kovácsként, akár gépészként. Megjavítja a mechanoidokat ha a gyarmatos szerelő.</Smithing.description>
   <!-- EN: smithing -->
   <Smithing.gerundLabel>kovácsolás</Smithing.gerundLabel>
   <!-- EN: smith -->
@@ -217,7 +200,6 @@
   <!-- EN: Smith at -->
   <Smithing.verb>kovácsolni</Smithing.verb>
   
-  <Tailoring.label>Szabó</Tailoring.label>
   <!-- EN: Create apparel from raw materials. -->
   <Tailoring.description>Ruházatot készít nyersanyagból.</Tailoring.description>
   <!-- EN: tailoring -->
@@ -229,7 +211,6 @@
   <!-- EN: Tailor at -->
   <Tailoring.verb>varrni</Tailoring.verb>
   
-  <Warden.label>Felügyelő</Warden.label>
   <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
   <Warden.description>Ellátja, eteti a rabot. Beszélget vele és besorozza.</Warden.description>
   <!-- EN: wardening -->

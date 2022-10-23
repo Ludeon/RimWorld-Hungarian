@@ -463,6 +463,20 @@
   <!-- EN: open -->
   <Open.verb>kinyitni</Open.verb>
   
+  <!-- EN: paint buildings -->
+  <PaintBuilding.label>épületet fest</PaintBuilding.label>
+  <!-- EN: painting -->
+  <PaintBuilding.gerund>festés</PaintBuilding.gerund>
+  <!-- EN: paint -->
+  <PaintBuilding.verb>festeni</PaintBuilding.verb>
+  
+  <!-- EN: paint floor -->
+  <PaintFloor.label>padlót fest</PaintFloor.label>
+  <!-- EN: painting -->
+  <PaintFloor.gerund>festés</PaintFloor.gerund>
+  <!-- EN: paint -->
+  <PaintFloor.verb>festeni</PaintFloor.verb>
+  
   <!-- EN: go to bed for emergency treatment -->
   <PatientGoToBedEmergencyTreatment.label>lefekszik, hogy sürgősségi ellátást kapjon</PatientGoToBedEmergencyTreatment.label>
   <!-- EN: receiving treatment in -->
@@ -525,6 +539,20 @@
   <ReleaseToWild.gerund>elengedés</ReleaseToWild.gerund>
   <!-- EN: release -->
   <ReleaseToWild.verb>elengedni</ReleaseToWild.verb>
+  
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.label>festéket távolít</RemovePaintBuilding.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintBuilding.gerund>festék eltávolítása</RemovePaintBuilding.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.verb>eltávolítani</RemovePaintBuilding.verb>
+  
+  <!-- EN: remove floor paint -->
+  <RemovePaintFloor.label>padló festést eltávolít</RemovePaintFloor.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintFloor.gerund>festékkaparás</RemovePaintFloor.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintFloor.verb>festéket távolítani</RemovePaintFloor.verb>
   
   <!-- EN: remove roofs -->
   <RemoveRoofs.label>tetőt bont</RemoveRoofs.label>
