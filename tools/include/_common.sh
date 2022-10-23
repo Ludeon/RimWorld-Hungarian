@@ -78,8 +78,13 @@ function tar_royalty() {
 }
 
 function update_ideology() {
-  log "Update Ideology..."
-  ls -lat "${DLC_IDEOLOGY_PATH}"
+  SOURCE_DIR="$DIR/../Ideology"
+  log "source: ${SOURCE_DIR}"
+  cd "${SOURCE_DIR}" || exit
+  TARGET_DIR="${DLC_IDEOLOGY_PATH}/Languages/${TARGET_LANGUAGE}"
+  log "target: ${TARGET_DIR}"
+  mkdir -p "${TARGET_DIR}"
+  cp -r "./" "${TARGET_DIR}"
 }
 
 function tar_ideology() {
@@ -93,4 +98,27 @@ function tar_ideology() {
   TARGET_DIR="${DLC_ROYALTY_PATH}/Languages/${TARGET_LANGUAGE}"
   log "target: ${TARGET_DIR}"
   mv "${TAR_FILE}" "${DLC_IDEOLOGY_PATH}/Languages/"
+}
+
+function update_biotech() {
+  SOURCE_DIR="$DIR/../Biotech"
+  log "source: ${SOURCE_DIR}"
+  cd "${SOURCE_DIR}" || exit
+  TARGET_DIR="${DLC_BIOTECH_PATH}/Languages/${TARGET_LANGUAGE}"
+  log "target: ${TARGET_DIR}"
+  mkdir -p "${TARGET_DIR}"
+  cp -r "./" "${TARGET_DIR}"
+}
+
+function tar_biotech() {
+  log "Update Biotech with tar language file..."
+  SOURCE_DIR="$DIR/../Biotech"
+  log "source: ${SOURCE_DIR}"
+  cd "${SOURCE_DIR}" || exit
+  TAR_FILE="./${TARGET_LANGUAGE}.tar"
+  log "${TAR_FILE}"
+  tar --owner=0 --group=0 --no-same-permissions -cf "${TAR_FILE}" *
+  TARGET_DIR="${DLC_BIOTECH_PATH}/Languages/${TARGET_LANGUAGE}"
+  log "target: ${TARGET_DIR}"
+  mv "${TAR_FILE}" "${DLC_BIOTECH_PATH}/Languages/"
 }

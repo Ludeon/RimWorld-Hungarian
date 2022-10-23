@@ -12,6 +12,7 @@ source ./.env
 CORE_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Core
 DLC_ROYALTY_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Royalty
 DLC_IDEOLOGY_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Ideology
+DLC_BIOTECH_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Biotech
 DLC_TEST_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Test
 
 # include common parts
@@ -30,6 +31,7 @@ while [[ $# -gt 0 ]]; do
     echo "- Core: ${CORE_PATH}"
     echo "- Royalty: ${DLC_ROYALTY_PATH}"
     echo "- Ideology: ${DLC_IDEOLOGY_PATH}"
+    echo "- Biotech: ${DLC_BIOTECH_PATH}"
     shift
     ;;
 
@@ -38,10 +40,19 @@ while [[ $# -gt 0 ]]; do
     shift
     ;;
 
-  -u | --update-all)
+  -t | --tar-all)
     tar_core
     tar_royalty
     tar_ideology
+    tar_biotech
+    shift
+  ;;
+
+  -u | --update-all)
+    update_core
+    update_royalty
+    update_ideology
+    update_biotech
     shift
     ;;
 
@@ -59,9 +70,16 @@ while [[ $# -gt 0 ]]; do
     ;;
 
   --update-ideology)
-    #    update_ideology
     clean_ideology
+    #    update_ideology
     tar_ideology
+    shift
+    ;;
+
+  --update-biotech)
+    clean_biotech
+    #    update_biotech
+    tar_biotech
     shift
     ;;
 
