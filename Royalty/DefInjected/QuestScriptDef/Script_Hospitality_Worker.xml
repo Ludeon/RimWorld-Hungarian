@@ -24,9 +24,9 @@
   <!-- EN: You have recruited {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon] -->
   <Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>Olyan személyt toboroztál, akinek őrzésével téged bíztak meg: {SUBJECT_definite}. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>
   <!-- EN: Prisoner enslaved: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.root.nodes.lodgersEnslaved.node.nodes.Letter.label.slateRef>Fogoly rabszolga lett: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.lodgersEnslaved.node.nodes.Letter.label.slateRef>
+  <Hospitality_Util_Worker.LabelLabelPrisonerEnslaved.slateRef>Fogoly rabszolga lett: {SUBJECT_definite}</Hospitality_Util_Worker.LabelLabelPrisonerEnslaved.slateRef>
   <!-- EN: You have enslaved {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.root.nodes.lodgersEnslaved.node.nodes.Letter.text.slateRef>Rabszolgává tetted {SUBJECT_definite} személyt, akinek az őrzésével megbíztak. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.lodgersEnslaved.node.nodes.Letter.text.slateRef>
+  <Hospitality_Util_Worker.LabelTextPrisonerEnslaved.slateRef>Rabszolgává tetted {SUBJECT_definite} személyt, akinek az őrzésével megbíztak. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LabelTextPrisonerEnslaved.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>Engedély nélküli műtét: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on [letterSubject]. [remainingWillNowLeave][failLetterEndingCommon] -->
