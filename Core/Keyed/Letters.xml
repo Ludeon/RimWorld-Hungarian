@@ -10,11 +10,13 @@
   <RejectLetter>Elutasít</RejectLetter>
   <!-- EN: Read more -->
   <ReadMore>Tovább olvas</ReadMore>
+  <!-- EN: You have {0} more letters -->
+  <MoreLetters>Még {0} leveled van</MoreLetters>
 
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>Nyár</LetterLabelFirstSummerWarning>
-  <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
-  <FirstSummerWarning>Elkezdődött a nyár! De a tél közeleg.\n\nA növények nem nőnek a téli hidegben. Raktározz el elegendő ételt, amíg teheted!.\n\nÉpíts hűtőházat, ami megakadályozza, hogy az étel megromoljon!\n\nÉs vegyél, lopj, vagy gyárts télikabátokat, különben megfagysz odakinn.</FirstSummerWarning>
+  <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nTo prepare for winter, buy, steal, or make some parkas, or you'll freeze when you step outside. -->
+  <FirstSummerWarning>Elkezdődött a nyár! De a tél közeleg.\n\nA növények nem nőnek a téli hidegben. Raktározz el elegendő ételt, amíg teheted!.\n\nÉpíts hűtőházat, ami megakadályozza, hogy az étel megromoljon!\n\nVegyél, lopj vagy gyárts télikabátokat, különben megfagysz odakinn.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
   <LetterRelationsChange_Hostile>Teljesen megszakadt a kapcsolat a következővel: {0}. Mostantól ellenségesek veled.</LetterRelationsChange_Hostile>  
@@ -27,7 +29,7 @@
   <LetterRelationsChange_NeutralFromHostileGoodwillDescription>Ez azért történt, mert a viszony ({1}) {2} fölé emelkedett. Ha a viszony újra {3} alá esik, {0} ismét ellenséges lesz. Ha a viszony {4} fölé emelkedik, szövetségeseid lesznek, és harcolni fognak érted.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
   
   <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
-  <LetterRelationsChange_NeutralFromAlly>A viszony {0} és közted fagyosabb lett. Szövetséges helyett semlegesként kezelnek.\n\n</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_NeutralFromAlly>A viszony {0} és közted fagyosabb lett. Szövetséges helyett semlegesként kezelnek.</LetterRelationsChange_NeutralFromAlly>
   <!-- EN: While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
   <LetterRelationsChange_NeutralFromAllyGoodwillDescription>Továbbra is békések lesznek veled szemben, de többé nem küldenek harcosokat a segítségedre.\n\nA változás oka, hogy a viszony ({1}) {2} alá esett. Ha a viszony {3} alá esik, {0} ellenséges lesz. Ha a viszony újra {4} fölé emelkedik, megint a barátaid lesznek és harcolnak melletted.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
   
@@ -41,11 +43,11 @@
   <!-- EN: Neutral -->
   <Neutral>Semleges</Neutral>
   <!-- EN: neutral -->
-  <NeutralLower>semleges</NeutralLower>
+  <NeutralLower>TODO</NeutralLower>
   <!-- EN: Death -->
   <Death>Halál</Death>
 
-  <!-- EN: A {1_label} has short-circuited in the rain and started a fire. -->
+  <!-- EN: A {1_label} has short-circuited due to precipitation and started a fire. -->
   <ShortCircuitRain>Egy {1_label} rövidzárlatos lett az esőben és tüzet okozott.</ShortCircuitRain>
 
   <!-- EN: Area revealed -->
@@ -76,7 +78,9 @@
   <LetterLabelBirthday>Születésnap</LetterLabelBirthday>
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
   <BirthdayChronological>Ma van {0} naptári születésnapja! Biológiailag {1} {3} éves.\n\nNaptár szerint {1} most lett {2}.\n\nVedd figyelembe, hogy hibernáció alatt biológiailag nem öregszik a gyarmatos, ezért a naptári és a biológiai kor külön van nyilvántartva.</BirthdayChronological>
-  <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
+  <!-- EN: {0_nameFull} has reached the biological age of {1}. -->
+  <LetterBirthdayBiological>{0_nameFull} elérte {1} biológiai korát.</LetterBirthdayBiological>
+  <!-- EN: Unfortunately, {0_nameFull} has gained the following diseases due to aging -->
   <BirthdayBiologicalAgeInjuries>{0} biológiai kora {1} lett.\n\nSajnos {0} a következő betegségeket szedte össze a kora miatt:\n{2}</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
@@ -419,24 +423,12 @@
   <LetterPredatorHuntingColonist>{PREDATOR} vadászik rá: {PREY_definite}!</LetterPredatorHuntingColonist>
 
   <!-- Disease -->
-  <!-- EN: {0} blocked {1} on: {2}. -->
-  <LetterDisease_Blocked>{0} blokkolta ezt: {1} rajta: {2}.</LetterDisease_Blocked>
+  <!-- EN: {0} blocked {1} on -->
+  <LetterDisease_Blocked>{0} blokkolta ezt: {1}</LetterDisease_Blocked>
   <!-- EN: Disease: {0} -->
   <LetterLabelTraitDisease>Betegség ({0})</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
   <LetterTraitDisease>{PAWN_label} elkapta ezt a betegséget: {1}.\n\nEnsure you have a medical bed and a doctor. Biztosíts neki betegágyat és ellátást! Győződj meg róla, hogy gondját viselik és elég időt tölt ágyban!</LetterTraitDisease>
-
-  <!-- Surgery -->
-  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
-  <LetterLabelSurgeryFailed>{PATIENT_labelShort} műtétje sikertelen volt</LetterLabelSurgeryFailed>
-  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} kisebb hibát vétett {PATIENT_labelShort} műtétje közben.</MessageMedicalOperationFailureMinor>
-  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} katasztrofális hibát vétett {PATIENT_labelShort} műtétje közben.</MessageMedicalOperationFailureCatastrophic>
-  <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} nevetséges hibát vétett {PATIENT_labelShort} műtétje közben.</MessageMedicalOperationFailureRidiculous>
-  <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2}. -->
-  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} {PATIENT_labelShort} operációja közben végzetes hibát vétett a következő különleges körülmény miatt: {2}</MessageMedicalOperationFailureFatal>
 
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
@@ -523,7 +515,7 @@
   
   <!-- Quest Completed -->
   <!-- EN: Quest completed -->
-  <LetterQuestCompletedLabel>Küldetés teljesítve</LetterQuestCompletedLabel>
+  <LetterQuestCompletedLabel>Küldetés sikeres</LetterQuestCompletedLabel>
   <!-- EN: Quest failed -->
   <LetterQuestFailedLabel>Küldetés sikertelen</LetterQuestFailedLabel>
   <!-- EN: Quest concluded -->
@@ -553,4 +545,25 @@
   <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
   <LetterTextSiteCountdownStarted>A karavánodat észlelték. {0} múlva {1} erősítése megérkezik {2} helyről a területre.\n\nAlakítsd újra a karavánod és lendülj mozgásba {1} elkerülése érdekében. Most már látható az érkezésig visszaszámláló időzítő.</LetterTextSiteCountdownStarted>
 
+  <!-- EN: Unwavering prisoner -->
+  <LetterLabelUnrecruitablePawnCaptured>TODO</LetterLabelUnrecruitablePawnCaptured>
+  <!-- EN: {PAWN_nameDef} is unwaveringly loyal to their home and will refuse to be recruited entirely.\n\nYou can see whether someone is unwaveringly loyal by selecting them. -->
+  <LetterTextUnrecruitablePawnCaptured>TODO</LetterTextUnrecruitablePawnCaptured>
+  <!-- EN: enslave {PAWN_objective} -->
+  <OptionalEnslaveDesc>TODO</OptionalEnslaveDesc>
+
+  <!-- Lung rot -->
+  <!-- EN: {PAWN} has gotten sick from {1} due to long-term exposure to rot stink gas (which is given off by rotting corpses).\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment. -->
+  <LetterTextLungRot>TODO</LetterTextLungRot>
+
+  <!-- Join Offer -->
+  <!-- EN: Join offer: {PAWN_nameDef} -->
+  <LetterJoinOfferLabel>TODO</LetterJoinOfferLabel>
+  <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
+  <LetterJoinOfferTitle>TODO</LetterJoinOfferTitle>
+  <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
+  <LetterJoinOfferText>TODO</LetterJoinOfferText>
+  <!-- EN: Accept -->
+  <LetterJoinOfferAccept>TODO</LetterJoinOfferAccept>
+  
 </LanguageData>

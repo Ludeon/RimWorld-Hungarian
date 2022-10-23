@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: aggression judgement scramble -->
+  <BerserkMechanoid.label>TODO</BerserkMechanoid.label>
+  <!-- EN: Aggression judgment scrambled -->
+  <BerserkMechanoid.baseInspectLine>TODO</BerserkMechanoid.baseInspectLine>
+  
   <!-- EN: manhunter -->
   <Manhunter.label>emberevő</Manhunter.label>
   <!-- EN: Maddened: Manhunter -->
   <Manhunter.baseInspectLine>Őrület: emberevő</Manhunter.baseInspectLine>
   <!-- EN: {0} has become a manhunter! -->
   <Manhunter.beginLetter>{0} emberevő lett.</Manhunter.beginLetter>
-  <Manhunter.beginLetterLabel>Emberevő</Manhunter.beginLetterLabel>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
   <Manhunter.recoveryMessage>{0} vérszomja elmúlt.</Manhunter.recoveryMessage>
   
@@ -17,7 +21,6 @@
   <ManhunterPermanent.baseInspectLine>Őrület: emberevő</ManhunterPermanent.baseInspectLine>
   <!-- EN: {0} has become a manhunter! -->
   <ManhunterPermanent.beginLetter>{0} emberevő lett!</ManhunterPermanent.beginLetter>
-  <ManhunterPermanent.beginLetterLabel>emberevő</ManhunterPermanent.beginLetterLabel>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
   <ManhunterPermanent.recoveryMessage>{0} vérszomja elmúlt.</ManhunterPermanent.recoveryMessage>
   

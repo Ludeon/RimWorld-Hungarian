@@ -41,10 +41,10 @@
   <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
   <Outdoors.description>Ez mutatja a szabadság érzését és a szabad mozgás lehetőségét. Leromlik, ha hosszabb ideig van az alany zsúfolt szobában. főleg a föld alatt. Javul, ha valaki a szabad ég alatt tölt időt. Nem a szobák méretétől függ, hanem hogy időről-időre elhagyják azt. A szabadban töltött idő rövidségének kezelése kihívást jelent azok számára, akik a föld alatt élnek.</Outdoors.description>
   
-  <!-- EN: rest -->
-  <Rest.label>pihenés</Rest.label>
-  <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
-  <Rest.description>A pihenés mutatja, hogy az utóbbi időben mennyit aludt az alany.</Rest.description>
+  <!-- EN: sleep -->
+  <Rest.label>Alvás</Rest.label>
+  <!-- EN: Sleep is how much time a creature has spent sleeping recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <Rest.description>Az alvás azt jelenti, hogy a lény mennyi időt töltött mostanában alvással. Ha nullán van, végül a helyszínen elalszik.</Rest.description>
   
   <!-- EN: room size -->
   <RoomSize.label>szoba méret</RoomSize.label>

@@ -24,6 +24,10 @@
   <Owners>Tulajdonosok</Owners>
   <!-- EN: Assigned colonist -->
   <AssignedColonist>Beosztott gyarmatos</AssignedColonist>
+  <!-- EN: Uncomfortable room temperature -->
+  <BedUncomfortableTemperature>Kényelmetlen szobahőmérséklet</BedUncomfortableTemperature>
+  <!-- EN: Unsafe room temperature -->
+  <BedUnsafeTemperature>Nem biztonságos szobahőmérséklet</BedUnsafeTemperature>
   <!-- EN: Died on the {0} -->
   <DiedOn>Meghalt ekkor: {0}</DiedOn>
   <!-- EN: Nobody -->
@@ -248,7 +252,7 @@
   <CaravanAttacking>Megtámadja: {0}.</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>Ajándékoz neki: {0}.</CaravanOfferingGifts>
-  <!-- EN: Trading with {0} -->
+  <!-- EN: Trading with {0}. -->
   <CaravanTrading>Kereskedik vele: {0}</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
   <WasWornByCorpse>Tetem viselte.</WasWornByCorpse>
@@ -258,8 +262,14 @@
   <DeterioratingUnroofed>szabad ég alatt</DeterioratingUnroofed>
   <!-- EN: outdoors -->
   <DeterioratingOutdoors>kinn</DeterioratingOutdoors>
-  <!-- EN: Deteriorating because of -->
+  <!-- EN: raining -->
+  <DeterioratingRaining>zuhog</DeterioratingRaining> 
+  <!-- EN: protected -->
+  <Protected>védett</Protected>
+  <!-- EN: Deteriorating -->
   <DeterioratingBecauseOf>Avul a következő miatt</DeterioratingBecauseOf>
+  <!-- EN: Will deteriorate in {0}. -->
+  <DeteriorateInDuration>Megromlik ennyi idő múlva: {0}</DeteriorateInDuration>
   <!-- EN: Map -->
   <Map>Térkép</Map>
   <!-- EN: {0} until enemies arrive -->
@@ -270,9 +280,9 @@
   <Room>Szoba</Room>
   <!-- EN: Beauty here -->
   <BeautyHere>Szépségindex</BeautyHere>
-  <!-- EN: No power -->
+  <!-- EN: no power -->
   <NoPower>Nincs áram</NoPower>
-  <!-- EN: Work speed penalty -->
+  <!-- EN: Work speed -->
   <WorkSpeedPenalty>Lassabb munkasebesség</WorkSpeedPenalty>
   <!-- EN: Disabled -->
   <DisabledCommand>KIKAPCSOLVA</DisabledCommand>
@@ -330,6 +340,10 @@
   <SkillRequirements>Készség követelmény</SkillRequirements>
   <!-- EN: Products -->
   <Products>Termékek</Products>
+  <!-- EN: Requires -->
+  <Requires>Igényel</Requires>
+  <!-- EN: {0}x any of -->
+  <NumAnyOf>{0}x bármelyik</NumAnyOf>
   <!-- EN: {0} of {1} -->
   <Relationship>{0} neki: {1}</Relationship>
   <!-- EN: Prisoner -->
@@ -448,7 +462,7 @@
   <ViewHyperlink>Megnéz: {0}</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
   <DetonationCountdown>Ennyi idő múlva robban: {0}</DetonationCountdown>
-  <!-- EN: Large fire explosion if damaged -->
+  <!-- EN: Large fire explosion if damaged. -->
   <ExplosionOnDamageWarning>Sérülésnél nagyot robban</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
   <MechCluster>Mech csoport</MechCluster>
@@ -530,6 +544,22 @@
   <ThoughtFoodEatenFood>Étel</ThoughtFoodEatenFood>
   <!-- EN: Ingredients -->
   <ThoughtFoodEatenIngredients>Hozzávalók</ThoughtFoodEatenIngredients>
+  <!-- EN: Shield pack -->
+  <ShieldInbuilt>Pajzs csomag</ShieldInbuilt>
+  <!-- EN: Punctured - will explode soon. -->
+  <PuncturedWillExplode>Kilyukadt – hamarosan felrobban.</PuncturedWillExplode>
+  <!-- EN: Click to open research window -->
+  <ClickToOpenResearchTab>Kattints a kutatási ablak megnyitásához</ClickToOpenResearchTab>
+  <!-- EN: Target belongs to another faction. -->
+  <TargetBelongsToNPCFaction>A célpont egy másik frakcióhoz tartozik.</TargetBelongsToNPCFaction>
+  <!-- EN: more -->
+  <MoreLower>több</MoreLower>
+  <!-- EN: Requires -->
+  <RequiredTechprintTip>Igényel</RequiredTechprintTip>
+  <!-- EN: size -->
+  <Size>méret</Size>
+  <!-- EN: cost -->
+  <Cost>költség</Cost>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -653,8 +683,55 @@
   <!-- EN: {ANIMALDEF_label} capacity -->
   <PenCapacityDesc>{ANIMALDEF_label} kapacitás</PenCapacityDesc>
   <!-- EN: Example animals -->
-  <PenExampleAnimals>Példaállatok</PenExampleAnimals>
+  <PenExampleAnimals>Példa állatok</PenExampleAnimals>
+  <!-- EN: No exterior access - Animals cannot be moved in or out. -->
+  <NoExteriorAccess>Nincs külső hozzáférés – az állatokat nem lehet ki- és bevinni.</NoExteriorAccess>
 
+  <!-- Cell Inspector -->
+  <!-- EN: Beauty -->
+  <Beauty_Label>Szépség</Beauty_Label>
+  <!-- EN: Zone -->
+  <Zone_Label>Zóna</Zone_Label>
+  <!-- EN: Roof -->
+  <Roof_Label>Tető</Roof_Label>
+  <!-- EN: Terrain -->
+  <Terrain_Label>Terep</Terrain_Label>
+  <!-- EN: Snow -->
+  <Snow_Label>Hó</Snow_Label>
+  <!-- EN: Walk speed -->
+  <WalkSpeed_Label>Séta sebessége</WalkSpeed_Label>
+  <!-- EN: Fertility -->
+  <Fertility_Label>Termékenység</Fertility_Label>
+  <!-- EN: Temperature -->
+  <Temperature_Label>Hőmérséklet</Temperature_Label>
+  <!-- EN: Light level -->
+  <LightLevel_Label>Fény szintje</LightLevel_Label>
+  <!-- EN: Biome -->
+  <Biome_Label>Életközösség</Biome_Label>
+  <!-- EN: Hilliness -->
+  <Hilliness_Label>Dombosság</Hilliness_Label>
+  <!-- EN: Road -->
+  <Road_Label>Út</Road_Label>
+  <!-- EN: River -->
+  <River_Label>Folyó</River_Label> 
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty_Label>Mozgás nehézsége</MovementDifficulty_Label>
+  <!-- EN: Pollution -->
+  <Pollution_Label>Szennyezés</Pollution_Label>
+  <!-- EN: Filth -->
+  <Filth_Label>Piszok</Filth_Label>
+  
+  <!-- EN: Faction -->
+  <Faction_Label>Frakció</Faction_Label>
+  <!-- EN: Relationship -->
+  <Relationship_Label>Kapcsolat</Relationship_Label>
+  <!-- EN: Colonists -->
+  <CaravanColonists_Label>Gyarmatosítók</CaravanColonists_Label>
+  <!-- EN: Status -->
+  <CaravanStatus_Label>Állapot</CaravanStatus_Label>
+  <!-- EN: Time to destination -->
+  <CaravanTTD_Label>Idő a célig</CaravanTTD_Label>
+  
 
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
@@ -669,16 +746,18 @@
   <ApparelPreventsShooting>TODO</ApparelPreventsShooting>
 
   <!-- Snow -->
+  <!-- EN: Snow -->
+  <Snow>Hó</Snow>
   <!-- EN: No snow -->
   <SnowNone>Nincs hó</SnowNone>
-  <!-- EN: Snow (dusting) -->
-  <SnowDusting>Hó (por)</SnowDusting>
-  <!-- EN: Snow (thin) -->
-  <SnowThin>Hó (kevés)</SnowThin>
-  <!-- EN: Snow (medium) -->
-  <SnowMedium>Hó (közepes)</SnowMedium>
-  <!-- EN: Snow (thick) -->
-  <SnowThick>Hó (mély)</SnowThick>
+  <!-- EN: dusting -->
+  <SnowDusting>porhó</SnowDusting>
+  <!-- EN: thin -->
+  <SnowThin>kevés</SnowThin>
+  <!-- EN: medium -->
+  <SnowMedium>közepes</SnowMedium>
+  <!-- EN: thick -->
+  <SnowThick>mély</SnowThick>
 
   <!-- Turrets -->
   <!-- EN: Installed -->
@@ -695,6 +774,22 @@
   <ShellLoaded>Betöltve: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
   <ShellNotLoaded>Nincs betöltve</ShellNotLoaded>
+  <!-- EN: Already active -->
+  <AlreadyActive>Már aktív</AlreadyActive>
+  <!-- EN: Order activation -->
+  <OrderActivation>Utasít aktiválásra</OrderActivation>
+  <!-- EN: Order a colonist to activate {THING_definite}. -->
+  <OrderActivationDesc>Gyarmatosító utasítása {THING_definite} aktiválására.</OrderActivationDesc>
+  <!-- EN: Must be activated by a colonist. -->
+  <MustBeActivatedByColonist>Egy telepesnek kell aktiválnia.</MustBeActivatedByColonist>
+  <!-- EN: No nearby fire -->
+  <NoNearbyFire>Nincs a közelben tűz</NoNearbyFire>
+  <!-- EN: No nearby fire. No fuel was used. -->
+  <NoNearbyFireNoFuelUsed>Nincs a közelben tűz. Nem használtak üzemanyagot.</NoNearbyFireNoFuelUsed>
+  <!-- EN: Choose who should activate this. -->
+  <ChooseWhoShouldActivate>Válaszd ki, hogy ki aktiválja ezt.</ChooseWhoShouldActivate>
+  <!-- EN: No fuel -->
+  <NoFuel>Nincs üzemanyag</NoFuel>
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
@@ -739,6 +834,10 @@
   <ReportExtinguishingFireOn>{TARGET_label} tüzét oltja.</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
   <ReportDiggingUpCorpse>tetemet ás ki.</ReportDiggingUpCorpse>
+  <!-- EN: being carried by {0_labelShort}. -->
+  <CarriedBy>{0_labelShort} cipeli.</CarriedBy> 
+  <!-- EN: inside {0_labelShort}. -->
+  <InContainer>belül: {0_labelShort}.</InContainer> 
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
@@ -821,8 +920,6 @@
   <PawnTitleDescWrap>??? - {0} itt: {1}</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
   <PawnMainDescUnderFactionedWrap>??? - {0} itt: {1}</PawnMainDescUnderFactionedWrap>
-  <!-- EN: {0} under {1}\nHome faction: {2} -->
-  <PawnMainDescTempFactionedWrap>??? - {0} itt: {1}\nSaját frakció: {2}</PawnMainDescTempFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
@@ -857,6 +954,8 @@
   <State>Állapot</State>
   <!-- EN: stun -->
   <StunLower>bénít</StunLower>
+  <!-- EN: Slowed by damage -->
+  <SlowedByDamage>Sérülés miatt lelassult</SlowedByDamage>
 
   <!-- Inspector general stuff -->
   <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
@@ -907,7 +1006,7 @@
   <Indoors>Benn</Indoors>
   <!-- EN: Unroofed -->
   <IndoorsUnroofed>Fedetlen</IndoorsUnroofed>
-  <!-- EN: Outdoors -->
+  <!-- EN: outdoors -->
   <Outdoors>Kinn</Outdoors>
 
   <!-- Rotting -->
@@ -939,8 +1038,14 @@
   <!-- Meal -->
   <!-- EN: Ingredients -->
   <Ingredients>Hozzávalók</Ingredients>
+  <!-- EN: The ingredients used to make this meal. -->
+  <IngredientsDesc>Az étel elkészítéséhez használt összetevők.</IngredientsDesc>
+  <!-- EN: Dietary type -->
+  <DietaryType>Étrend</DietaryType>
+  <!-- EN: The type of meal produced. Some people have preferences for specific types of meals. -->
+  <DietaryTypeDesc>Az előállított étel típusa. Vannak, akik bizonyos típusú ételeket preferálnak.</DietaryTypeDesc>
   <!-- EN: only stacks with similar meals -->
-  <OnlyStacksWithCompatibleMeals>TODO</OnlyStacksWithCompatibleMeals>
+  <OnlyStacksWithCompatibleMeals>csak hasonló ételek halmozása</OnlyStacksWithCompatibleMeals>
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
@@ -961,6 +1066,10 @@
   <ReadyToHarvest>Betakarításra kész.</ReadyToHarvest>
   <!-- EN: Mature. -->
   <Mature>Kifejlett.</Mature>
+  <!-- EN: Average plant age -->
+  <AveragePlantAge>Átlagos növényéletkor</AveragePlantAge>
+  <!-- EN: Oldest plant age -->
+  <OldestPlantAge>Legöregebb növény kora</OldestPlantAge>
   <!-- EN: Growing period -->
   <OutdoorGrowingPeriod>Tenyészidőszak</OutdoorGrowingPeriod>
   <!-- EN: Never -->
@@ -981,6 +1090,10 @@
   <HarvestGerund>aratás</HarvestGerund>
   <!-- EN: cutting -->
   <CutGerund>vágás</CutGerund>
+  <!-- EN: Cut all blight -->
+  <CutAllBlight>Vágd ki az összes fertőzöttet</CutAllBlight>
+  <!-- EN: Mark all blighted plants to be destroyed. Blighted plants will not yield any food or resources and should be destroyed before the blight spreads. -->
+  <CutAllBlightDesc>Jelöld meg az összes fertőzött növényt megsemmisítendőnek. A fertőzött növények nem adnak élelmet vagy erőforrásokat, ezért meg kell semmisíteni őket, mielőtt a fertőzés továbbterjedne.</CutAllBlightDesc>
 
   <!-- Zones -->
   <!-- EN: Zone -->
@@ -1045,6 +1158,8 @@
   <ShowExpandingIconsToggleButton>Nagyobbodó ikonok távoli objektumoknál.</ShowExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
   <ShowWorldFeaturesToggleButton>Természeti képződmények neve látható a térképen.</ShowWorldFeaturesToggleButton>
+  <!-- EN: Toggle heat overlay. This shows the air temperature in each room and outdoors.\n\nColonists will be unhappy if the temperature is too high or too low. Exposure to extreme temperatures can lead to hypothermia, frostbite, heatstroke, burns, and death. -->
+  <ShowTemperatureOverlayToggleButton>Hőmérséklet jelző váltása. Ez mutatja a levegő hőmérsékletét minden szobában és a szabadban.\n\nA telepesek boldogtalanok lesznek, ha a hőmérséklet túl magas vagy túl alacsony. A szélsőséges hőmérsékletnek való kitettség hipotermiához, fagyáshoz, hőgutához, égési sérülésekhez és halálhoz vezethet.</ShowTemperatureOverlayToggleButton>
 
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
@@ -1301,6 +1416,8 @@
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
   <LearningHelper>Oktató</LearningHelper>
+  <!-- EN: In-game tutor that aims to teach you information about topics relevant to your colony's current state -->
+  <LearningHelperTooltip>Játékon belüli oktató, amelynek célja, hogy információkat tanítson a kolóniád jelenlegi állapotával kapcsolatos témákról</LearningHelperTooltip>
   <!-- EN: Mark as learned -->
   <MarkLearned>Ismertnek jelölni</MarkLearned>
   <!-- EN: Already learned -->
@@ -1377,17 +1494,17 @@
   <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
   <!-- EN: {0}\n{1} -->
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
-  <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
-  <PawnTooltipPsychicEntropyStats>TODO</PawnTooltipPsychicEntropyStats>
+  <!-- EN: Fall rate: {0} / s ({1}s until zero) -->
+  <PawnTooltipPsychicEntropyStats>Esési sebesség: {0}/mp ({1}mp nulláig)</PawnTooltipPsychicEntropyStats>
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
-  <PawnTooltipPsychicEntropyDesc>TODO</PawnTooltipPsychicEntropyDesc>
+  <PawnTooltipPsychicEntropyDesc>Az idegi hő növekszik a pszichés erő használata után. A normál határ túllépése napokig tartó pszichés összeomlást okozhat.\n\nAz idegi hő idővel természetesen eloszlik. Ezt a folyamatot felgyorsíthatja eltex ruházat viselése vagy fájdalom.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
   <PawnTooltipPsychicEntropyPainFocus>A fizikai fájdalom segít fókuszálni és kizárni a zavaró gondolatokat. Mellékhatása, hogy a pszichotikus entrópia gyorsabban csökken.</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
   <PawnTooltipPsychicEntropyLimit>Pszichotikus entrópia limiter bekapcsolása.\n\nA limit fölött súlyos egészségi kockázatok lépnek fel, mint pl. hosszútávú összeomlás vagy akár jelentős agykárosodás. Minél nagyobb a limit túllépés, annál súlyosabbak a tünetek.</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
-  <PawnTooltipPsyfocus>Pszichofókusz: {0}</PawnTooltipPsyfocus>
-
+  <PawnTooltipPsyfocus>Psyfókusz: {0}</PawnTooltipPsyfocus>
+  
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
   <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
@@ -1432,7 +1549,7 @@
   <!-- EN: a reward possibly granted in the future -->
   <Reward_PossibleFutureReward>esetleg a jövőben odaítélt jutalom</Reward_PossibleFutureReward>
   <!-- EN: {TITLE} title -->
-  <Reward_Title_Label>{TITLE} rang</Reward_Title_Label>
+  <Reward_Title_Label>{TITLE} cím</Reward_Title_Label>
   <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
   <Reward_Title>{PAWNNAME} elnyeri a {TITLE} címet {FACTION} frakciótól.</Reward_Title>
   <!-- EN: value {0} -->
@@ -1508,6 +1625,14 @@
   <RitualFinished>TODO</RitualFinished>
   <!-- EN: ends in {0} -->
   <RitualEndsIn>TODO</RitualEndsIn>
+  <!-- EN: Can start any time -->
+  <RitualStartAnyTime>Bármikor elkezdhető</RitualStartAnyTime>
+  <!-- EN: Can start after event -->
+  <RitualStartEvent>Indítható az esemény után</RitualStartEvent>
+  <!-- EN: Focus objects -->
+  <RitualFocusObjects>Fókuszobjektumok</RitualFocusObjects>
+  <!-- EN: Participating roles -->
+  <RitualParticipatingRoles>Résztvevő szerepek</RitualParticipatingRoles>
   <!-- EN: Organizers -->
   <Organizers>Szervezők</Organizers>
   <!-- EN: Quality factors -->
@@ -1519,15 +1644,15 @@
   <!-- EN: Spectators -->
   <Spectators>Nézők</Spectators>
   <!-- EN: Not participating -->
-  <NotParticipating>TODNem vesz résztO</NotParticipating>
+  <NotParticipating>Nem vesz részt</NotParticipating>
   <!-- EN: Drag and drop or left/right click to move people. -->
   <DragPawnsToRolesInfo>Húzással vagy bal/jobb kattintással mozgathatod az embereket.</DragPawnsToRolesInfo>
   <!-- EN: Drag and drop or click to move people. -->
-  <DragPawnsToRolesInfoController>TODO</DragPawnsToRolesInfoController>
+  <DragPawnsToRolesInfoController>Húzással vagy kattintással mozgathatod az embereket.</DragPawnsToRolesInfoController>
   <!-- EN: A slave. The human property of others. -->
-  <RitualBeginSlaveDesc>TODO</RitualBeginSlaveDesc>
+  <RitualBeginSlaveDesc>Rabszolga. Mások emberi tulajdona.</RitualBeginSlaveDesc>
   <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
-  <RitualBeginSleepingDesc>TODO</RitualBeginSleepingDesc>
+  <RitualBeginSleepingDesc>{0_labelShort} alszik. Ha részt vesz a rituáléban, felébred, hogy részt vegyen.</RitualBeginSleepingDesc>
   <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
   <RitualBeginSleepingWarning>A kiválasztott résztvevők egy része alszik. Felébrednek, amint elkezded a rituálét.</RitualBeginSleepingWarning>
   <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
@@ -1556,13 +1681,15 @@
   <AbilityDisabledNoCapacity>TODO</AbilityDisabledNoCapacity>
   <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
   <RitualOutcomeExtraDesc_Mood>TODO</RitualOutcomeExtraDesc_Mood>
+  <!-- EN: This ritual has no quality offsets, so the best outcome is always expected -->
+  <RitualOutcomeNoQuality>TODO</RitualOutcomeNoQuality>
   
   <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
   <ChooseParticipants>Válaszd ki, hogy ki vegyen részt a {RITUAL_labelDef} szertartásban.</ChooseParticipants>
   <!-- EN: Begin -->
-  <Begin>Elkezd</Begin>
+  <Begin>Megkezd</Begin>
   <!-- EN: Begin {0} -->
-  <BeginRitual>{0} elkezdése</BeginRitual>
+  <BeginRitual>{0} megkezdése</BeginRitual>
   <!-- EN: Begin {0} for {1} -->
   <BeginRitualFor>TODO</BeginRitualFor>
   <!-- EN: {0} (out of {1}) -->
@@ -1577,7 +1704,7 @@
   <!-- EN: Expected quality -->
   <ExpectedRitualQuality>TODO</ExpectedRitualQuality>
   <!-- EN: Starting quality -->
-  <StartingQuality>TODO</StartingQuality>
+  <StartingQuality>Kezdeti minőség</StartingQuality>
   <!-- EN: Expected duration -->
   <ExpectedRitualDuration>TODO</ExpectedRitualDuration>
   
@@ -1589,6 +1716,10 @@
   <RitualPredictedOutcomeDescParticipantCount>Résztvevők</RitualPredictedOutcomeDescParticipantCount>
   <!-- EN: {PAWN_labelShort}'s expectations -->
   <RitualPredictedOutcomeDescPawnExpectations>TODO</RitualPredictedOutcomeDescPawnExpectations>
+  <!-- EN: Loved one present -->
+  <RitualOutcomeLovedOnePresentLabel>TODO</RitualOutcomeLovedOnePresentLabel>
+  <!-- EN: Any person that {PAWN_labelShort} considers their friend or more. -->
+  <RitualOutcomeLovedOnePresentTip>TODO</RitualOutcomeLovedOnePresentTip>
 
   <!-- EN: Any of these -->
   <RitualOutcomeLabelAnyOfThese>TODO</RitualOutcomeLabelAnyOfThese>
@@ -1615,6 +1746,16 @@
   <ThingOf>TODO</ThingOf>
   <!-- EN: {0} of {1} -->
   <ThingOfSource>TODO</ThingOfSource>
+  <!-- EN: {0} of {1} and {2} -->
+  <ThingOfTwoSources>TODO</ThingOfTwoSources>
+
+  <!-- Gas types -->
+  <!-- EN: blind smoke -->
+  <BlindSmoke>TODO</BlindSmoke>
+  <!-- EN: tox gas -->
+  <ToxGas>TODO</ToxGas>
+  <!-- EN: rot stink -->
+  <RotStink>TODO</RotStink>
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->
@@ -1627,5 +1768,33 @@
   <AbilityReadyLabel>TODO</AbilityReadyLabel>
   <!-- EN: {0_nameDef} is ready to use {1}. -->
   <AbilityReadyText>TODO</AbilityReadyText>
+  <!-- EN: {0_labelShort} is participating in {1}. -->
+  <AbilityDisabledInRitual>TODO</AbilityDisabledInRitual>
+  <!-- EN: Charges -->
+  <Charges>TODO</Charges>
+
+  <!-- EN: {0_nameDef} is in an aggressive mental state. -->
+  <PawnIsInMentalState>TODO</PawnIsInMentalState>
+
+  <!-- EN: Disabled work -->
+  <DisabledWorkLabel>TODO</DisabledWorkLabel>
+
+  <!-- Glowers -->
+  <!-- EN: change color -->
+  <GlowerChangeColor>TODO</GlowerChangeColor>
+  <!-- EN: Change the color of the light. -->
+  <GlowerChangeColorDescription>TODO</GlowerChangeColorDescription>
+  <!-- EN: You must research {0} to change light color. -->
+  <GlowerChangeColorNeedsResearch>TODO</GlowerChangeColorNeedsResearch>
+
+  <!-- Shields -->
+  <!-- EN: A personal shield that will attempt to stop incoming projectiles or shrapnel. It prevents the wearer from firing out, and shuts down instantly if hit by an EMP. -->
+  <ShieldPersonalTip>TODO</ShieldPersonalTip>
+
+  <!-- EN: {PAWN_nameDef} is so loyal to {PAWN_possessive} home that {PAWN_pronoun} will refuse to be recruited if taken prisoner. -->
+  <UnrecruitableDesc>TODO</UnrecruitableDesc>
+
+  <!-- EN: Random -->
+  <Random>Véletlen</Random>
 
 </LanguageData>
