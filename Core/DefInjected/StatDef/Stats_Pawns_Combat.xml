@@ -7,9 +7,9 @@
   <AimingDelayFactor.description>Mennyi ideig tart befogni a célpontot.</AimingDelayFactor.description>
   
   <!-- EN: incoming damage multiplier -->
-  <IncomingDamageFactor.label>TODO</IncomingDamageFactor.label>
+  <IncomingDamageFactor.label>bejövő sebzés szorzó</IncomingDamageFactor.label>
   <!-- EN: A multiplier on all incoming damage. -->
-  <IncomingDamageFactor.description>TODO</IncomingDamageFactor.description>
+  <IncomingDamageFactor.description>Minden bejövő sebzés szorzója.</IncomingDamageFactor.description>
   
   <!-- EN: melee armor penetration -->
   <MeleeArmorPenetration.label>közelharci védelem átütés</MeleeArmorPenetration.label>
@@ -39,15 +39,35 @@
   <MortarMissRadiusFactor.labelForFullStatList>TODO</MortarMissRadiusFactor.labelForFullStatList>
   
   <!-- EN: trap spring chance -->
-  <PawnTrapSpringChance.label>TODO</PawnTrapSpringChance.label>
+  <PawnTrapSpringChance.label>csapdába esés esélye</PawnTrapSpringChance.label>
   <!-- EN: Chance to spring a trap the character is unaware of. -->
-  <PawnTrapSpringChance.description>TODO</PawnTrapSpringChance.description>
+  <PawnTrapSpringChance.description>Esély egy olyan csapdába esésre, amelyről a karakter nem tud.</PawnTrapSpringChance.description>
+  
+  <!-- EN: accuracy factor (long) -->
+  <ShootingAccuracyFactor_Long.label>pontossági tényező (nagytáv)</ShootingAccuracyFactor_Long.label>
+  <!-- EN: A multiplier on accuracy at a distance of 40 cells or more. -->
+  <ShootingAccuracyFactor_Long.description>A pontosság szorzója 40 cella vagy annál nagyobb távolságban.</ShootingAccuracyFactor_Long.description>
+  
+  <!-- EN: accuracy factor (medium) -->
+  <ShootingAccuracyFactor_Medium.label>pontossági tényező (középtáv)</ShootingAccuracyFactor_Medium.label>
+  <!-- EN: A multiplier on accuracy at a distance of 25 cells. -->
+  <ShootingAccuracyFactor_Medium.description>A pontosság szorzója 25 cella távolságban.</ShootingAccuracyFactor_Medium.description>
+  
+  <!-- EN: accuracy factor (short) -->
+  <ShootingAccuracyFactor_Short.label>pontossági tényező (rövidtáv)</ShootingAccuracyFactor_Short.label>
+  <!-- EN: A multiplier on accuracy at a distance of 12 cells. -->
+  <ShootingAccuracyFactor_Short.description>A pontosság szorzója 12 cella távolságban.</ShootingAccuracyFactor_Short.description>
+  
+  <!-- EN: accuracy factor (close) -->
+  <ShootingAccuracyFactor_Touch.label>pontossági tényező (közeli)</ShootingAccuracyFactor_Touch.label>
+  <!-- EN: A multiplier on accuracy at a distance of 3 cells or less. -->
+  <ShootingAccuracyFactor_Touch.description>A pontosság szorzója 3 cella vagy annál kisebb távolságban.</ShootingAccuracyFactor_Touch.description>
   
   <!-- EN: shooting accuracy -->
   <ShootingAccuracyPawn.label>lövési pontosság</ShootingAccuracyPawn.label>
   <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors.\n\nA hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
   <ShootingAccuracyPawn.description>Cellában kifejezett lőtávra vonatkozó találati esély. A találat esélyét sok más tényező is befolyásolja. Ennek kifejtett magyarázata megtekinthető, ha kiválasztjuk a lövészt és a célpont fölé visszük az egeret.</ShootingAccuracyPawn.description>
   <!-- EN: shooting accuracy (people) -->
-  <ShootingAccuracyPawn.labelForFullStatList>TODO</ShootingAccuracyPawn.labelForFullStatList>
+  <ShootingAccuracyPawn.labelForFullStatList>lövés pontossága (emberek)</ShootingAccuracyPawn.labelForFullStatList>
   
 </LanguageData>

@@ -365,14 +365,14 @@
   </SoldPrisoner.rulePack.rulesStrings>
   
   <!-- EN: animal tamed -->
-  <TamedAnimal.label>szelídített állat</TamedAnimal.label>
+  <TamedAnimal.label>TODO</TamedAnimal.label>
   <!-- EN:
     <li>tale_noun->the taming of [ANIMAL_nameDef] by [TAMER_nameDef]</li>
     <li>tale_noun->[TAMER_nameDef]'s taming of [ANIMAL_nameDef]</li>
     <li>image->[TAMER_nameFull] taming [ANIMAL_nameFull] [circumstance_group]</li>
     <li>image->[TAMER_nameFull] offering a morsel of food to [ANIMAL_nameFull] [circumstance_group]</li>
-    <li>image->[TAMER_nameFull] whispering to a skittish [ANIMAL_nameFull] [circumstance_group]</li>
-    <li>image->[TAMER_nameFull] calming a wild [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] whispering to a skittish [ANIMAL_label] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] calming a wild [ANIMAL_label] [circumstance_group]</li>
     <li>circumstance_phrase->with great care and caution</li>
     <li>circumstance_phrase->with a smile</li>
     <li>circumstance_phrase->while exhausted but happy</li>
@@ -384,20 +384,20 @@
     <li>desc_sentence->[TAMER_nameDef] is projecting a powerful sense of love towards [ANIMAL_nameDef].</li>
   -->
   <TamedAnimal.rulePack.rulesStrings>
-    <li>tale_noun->Ahogy [human_nameDef] megszelídítette őt: [animal_nameDef]</li>
-    <li>image->Ahogy [human_nameFull] szelídíti őt: [animal_nameFull], [circumstance_group]</li>
-    <li>image->Ahogy [human_nameFull] jutalomfalatot ad [animal_nameFull] szájába, [circumstance_group]</li>
-    <li>image->Ahogy [human_nameFull] suttog a félénk [animal_nameFull] fülébe, [circumstance_group]</li>
-    <li>image->Ahogy [human_nameFull] lenyugtatja őt: [animal_nameFull], [circumstance_group]</li>
+    <li>tale_noun->Ahogy [TAMER_nameDef] megszelídítette őt: [ANIMAL_nameDef]</li>
+    <li>image->Ahogy [TAMER_nameFull] szelídíti őt: [ANIMAL_nameFull], [circumstance_group]</li>
+    <li>image->Ahogy [TAMER_nameFull] jutalomfalatot ad [ANIMAL_nameFull] szájába, [circumstance_group]</li>
+    <li>image->Ahogy [TAMER_nameFull] suttog a félénk [ANIMAL_label] fülébe, [circumstance_group]</li>
+    <li>image->Ahogy [TAMER_nameFull] lenyugtatja őt: [ANIMAL_label], [circumstance_group]</li>
     <li>circumstance_phrase->nagyon óvatosan</li>
     <li>circumstance_phrase->mosolyogva</li>
     <li>circumstance_phrase->kimerülve, de boldogan</li>
-    <li>desc_sentence->[animal_nameDef] agresszíven vicsorog.</li>
-    <li>desc_sentence->[animal_nameDef] álmosnak és szeretet-ittasnak tűnik.</li>
-    <li>desc_sentence->[animal_nameDef] mintha hipnózis hatása alatt lenne.</li>
-    <li>desc_sentence->[animal_nameDef] ijedtnek ám érdeklődőnek tűnik.</li>
-    <li>desc_sentence->[animal_nameDef] el van kápráztatva.</li>
-    <li>desc_sentence->[human_nameDef] erős szeretet érzését sugározza [animal_nameDef] felé.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] agresszíven vicsorog.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] álmosnak és szeretet-ittasnak tűnik.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] mintha hipnózis hatása alatt lenne.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] ijedtnek ám érdeklődőnek tűnik.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] el van kápráztatva.</li>
+    <li>desc_sentence->[TAMER_nameDef] erős szeretet érzését sugározza [ANIMAL_nameDef] felé.</li>
   </TamedAnimal.rulePack.rulesStrings>
   
   <!-- EN: traded with someone -->
@@ -434,7 +434,7 @@
   </TradedWith.rulePack.rulesStrings>
   
   <!-- EN: animal trained -->
-  <TrainedAnimal.label>állatidomítás</TrainedAnimal.label>
+  <TrainedAnimal.label>TODO</TrainedAnimal.label>
   <!-- EN:
     <li>tale_noun->[TRAINER_nameDef] training [ANIMAL_nameDef]</li>
     <li>tale_noun->the training of [ANIMAL_nameDef]</li>
@@ -466,14 +466,14 @@
     <li>desc_sentence->[ANIMAL_nameDef] is represented as a pile of power tools.</li>
     <li>desc_sentence->[ANIMAL_nameDef] is half [Color] and half [Color].</li>
     <li>desc_sentence->[ANIMAL_nameDef] is covered in scales.</li>
-    <li>desc_sentence->[TRAINER_nameDef] is depicted with [quantity] arms.</li>
-    <li>desc_sentence->[TRAINER_nameDef] is morphing into [ANIMAL_ShortDefinite].</li>
+    <li>desc_sentence->[TRAINER_nameDef] is depicted with [Quantity_adjphrase] arms.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is morphing into [ANIMAL_definite].</li>
   -->
   <TrainedAnimal.rulePack.rulesStrings>
-    <li>tale_noun->[animal_nameDef] idomítása</li>
-    <li>image->Ahogy [human_nameFull] [train_syn] őt: [animal_nameFull], erre: [trainable_label] , [circumstance_group]</li>
-    <li>image->Ahogy [human_nameFull] erre oktatja: [trainable_label], őt: [animal_nameFull], [circumstance_group]</li>
-    <li>image->Ahogy [human_nameFull] ezt gyakorolja: [trainable_label], vele: [animal_nameFull], [circumstance_group]</li>
+    <li>tale_noun->[ANIMAL_nameDef] idomítása</li>
+    <li>image->Ahogy [TRAINER_nameFull] [train_syn] őt: [ANIMAL_nameFull], erre: [TRAINABLE_label] , [circumstance_group]</li>
+    <li>image->Ahogy [TRAINER_nameFull] erre oktatja: [TRAINABLE_label], őt: [ANIMAL_nameFull], [circumstance_group]</li>
+    <li>image->Ahogy [TRAINER_nameFull] ezt gyakorolja: [TRAINABLE_label], vele: [ANIMAL_nameFull], [circumstance_group]</li>
     <li>train_syn->idomítja</li>
     <li>train_syn->tanítja</li>
     <li>train_syn->trenírozza</li>
@@ -481,25 +481,25 @@
     <li>train_syn->oktatja</li>
     <li>circumstance_phrase->miközben mások figyelik őket</li>
     <li>circumstance_phrase->miközben több [Animal] undorodva nézi őket</li>
-    <li>circumstance_phrase->miközben [animal_nameDef] a szebb napokra gondol, mikor még vadállat volt</li>
-    <li>circumstance_phrase->miközben [human_nameDef] arra gondol, vajon mi lesz vacsorára</li>
+    <li>circumstance_phrase->miközben [ANIMAL_nameDef] a szebb napokra gondol, mikor még vadállat volt</li>
+    <li>circumstance_phrase->miközben [TRAINER_nameDef] arra gondol, vajon mi lesz vacsorára</li>
     <li>circumstance_phrase->miközben más gyarmatosok rendes munkát végeznek</li>
-    <li>desc_sentence->[human_nameDef] elégedettnek tűnik.</li>
-    <li>desc_sentence->[human_nameDef] nevet.</li>
-    <li>desc_sentence->[human_nameDef] unatkozik.</li>
-    <li>desc_sentence->[human_nameDef] fenyegetően lengeti az öklét.</li>
-    <li>desc_sentence->[human_nameDef] a koncentrálástól ráncolja a homlokát.</li>
-    <li>desc_sentence->[animal_nameDef] tanácstalannak tűnik.</li>
-    <li>desc_sentence->[animal_nameDef] fegyvert tart a szájában.</li>
-    <li>desc_sentence->[animal_nameDef] morog az erőfeszítéstől.</li>
-    <li>desc_sentence->[human_nameDef] a fejét rázza csalódottságában.</li>
-    <li>desc_sentence->[animal_nameDef] reszket a félelemtől.</li>
-    <li>desc_sentence->[animal_nameDef] úgy tűnik mintha [vegetable] formát venne fel.</li>
-    <li>desc_sentence->[animal_nameDef] egy rakás szerszámként van ábrázolva.</li>
-    <li>desc_sentence->[animal_nameDef] félig [Color] és félig [Color].</li>
-    <li>desc_sentence->[animal_nameDef] tiszta pikkely.</li>
-    <li>desc_sentence->[human_nameDef] [quantity] karokkal van ábrázolva.</li>
-    <li>desc_sentence->[human_nameDef] mintha [animal_ShortDefinite] formáját venné fel.</li>
+    <li>desc_sentence->[TRAINER_nameDef] elégedettnek tűnik.</li>
+    <li>desc_sentence->[TRAINER_nameDef] nevet.</li>
+    <li>desc_sentence->[TRAINER_nameDef] unatkozik.</li>
+    <li>desc_sentence->[TRAINER_nameDef] fenyegetően lengeti az öklét.</li>
+    <li>desc_sentence->[TRAINER_nameDef] a koncentrálástól ráncolja a homlokát.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] tanácstalannak tűnik.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] fegyvert tart a szájában.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] morog az erőfeszítéstől.</li>
+    <li>desc_sentence->[TRAINER_nameDef] a fejét rázza csalódottságában.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] reszket a félelemtől.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] úgy tűnik mintha [vegetable] formát venne fel.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] egy rakás szerszámként van ábrázolva.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] félig [Color] és félig [Color].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] tiszta pikkely.</li>
+    <li>desc_sentence->[TRAINER_nameDef] [Quantity_adjphrase] karral van ábrázolva.</li>
+    <li>desc_sentence->[TRAINER_nameDef] mintha [ANIMAL_definite] formáját venné fel.</li>
   </TrainedAnimal.rulePack.rulesStrings>
   
 </LanguageData>

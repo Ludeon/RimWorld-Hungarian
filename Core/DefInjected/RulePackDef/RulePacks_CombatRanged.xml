@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN:
-    <li>prefix->The [blast] [fromof] [INITIATOR_definite]'s [WEAPON_projectile_label]</li>
+    <li>prefix->The [blast] [fromof] [INITIATOR_definite]'s [projectile]</li>
     <li>prefix->The [blast] [fromof] [INITIATOR_definite]'s [WEAPON_label]</li>
-    <li>prefix->The [blast] [fromof] [INITIATOR_definite]'s [WEAPON_projectile_label]</li>
+    <li>prefix->The [blast] [fromof] [INITIATOR_definite]'s [projectile]</li>
     <li>prefix->The [blast] [fromof] [INITIATOR_definite]'s [WEAPON_label]</li>
     <li>prefix->[INITIATOR_definite]'s [blast]</li>
-    <li>prefix->[INITIATOR_definite]'s [WEAPON_projectile_label] [blast]</li>
+    <li>prefix->[INITIATOR_definite]'s [projectile] [blast]</li>
     <li>prefix->[INITIATOR_definite]'s [WEAPON_label] [blast]</li>
-    <li>prefix->[INITIATOR_definite]'s [WEAPON_projectile_label]</li>
+    <li>prefix->[INITIATOR_definite]'s [projectile]</li>
     <li>prefix->[INITIATOR_definite]'s [WEAPON_label]</li>
     <li>r_logentry->[prefix] [injured] [RECIPIENT_definite].</li>
     <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
@@ -34,14 +34,14 @@
     <li>fromof->of</li>
   -->
   <Combat_ExplosionImpact.rulePack.rulesStrings>
-    <li>prefix->[INITIATOR_definite] [WEAPON_projectile_label] által okozott [blast]</li>
+    <li>prefix->[INITIATOR_definite] [projectile] által okozott [blast]</li>
     <li>prefix->[INITIATOR_definite] [WEAPON_label] által okozott [blast]</li>
-    <li>prefix->[INITIATOR_definite] [WEAPON_projectile_label] által okozott [blast]</li>
+    <li>prefix->[INITIATOR_definite] [projectile] által okozott [blast]</li>
     <li>prefix->[INITIATOR_definite] [WEAPON_label] által okozott [blast]</li>
     <li>prefix->[INITIATOR_definite] által okozott [blast]</li>
-    <li>prefix->[INITIATOR_definite] [WEAPON_projectile_label] által okozott [blast]</li>
+    <li>prefix->[INITIATOR_definite] [projectile] által okozott [blast]</li>
     <li>prefix->[INITIATOR_definite] [WEAPON_label] által okozott [blast]</li>
-    <li>prefix->[INITIATOR_definite] [WEAPON_projectile_label]</li>
+    <li>prefix->[INITIATOR_definite] [projectile]</li>
     <li>prefix->[INITIATOR_definite] [WEAPON_label]</li>
     <li>r_logentry->[prefix] [injured] [RECIPIENT_definite].</li>
     <li>r_logentry->[prefix] [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]).</li>
@@ -67,24 +67,33 @@
   </Combat_ExplosionImpact.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
-    <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [to] [destroyed_suffix].</li>
-    <li>r_logentry(p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
-    <li>r_logentry(p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite]'s [destroyed_targets].</li>
-    <li>r_logentry->[RECIPIENT_definite]'s [destroyed_targets] was [destroyed_past] by [INITIATOR_definite]'s [WEAPON_projectile_label].</li>
-    <li>r_logentry->[RECIPIENT_definite]'s [destroyed_targets] was [destroyed_past] into [destroyed_suffix] by [INITIATOR_definite]'s [WEAPON_projectile_label].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_definite]'s [WEAPON_projectile_label] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], [damaged_present] [RECIPIENT_definite]'s [damaged_targets].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_definite]'s [damaged_targets] was [damaged_past] by [INITIATOR_definite]'s [WEAPON_projectile_label].</li>
-    <li>r_logentry(p=3)->[INITIATOR_definite]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
-    <li>r_logentry(p=6)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [WEAPON_projectile_label].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite]'s [WEAPON_projectile_label] hit [RECIPIENT_definite].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite] with a [WEAPON_projectile_label].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [WEAPON_projectile_label] intended for [ORIGINALTARGET_definite].</li>
-    <li>weapon_projectile_label(p=0.05)->shot</li>
+    <li>projectile(WEAPON_missing==True, p=3)->[PROJECTILE_label]</li>
+    <li>projectile->[WEAPON_projectile_label]</li>
+  -->
+  <Combat_RangedBase.rulePack.rulesStrings>
+    <li>projectile(WEAPON_missing==True, p=3)->[PROJECTILE_label]</li>
+    <li>projectile->[WEAPON_projectile_label]</li>
+  </Combat_RangedBase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite]'s [projectile] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+    <li>r_logentry->[INITIATOR_definite]'s [projectile] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [to] [destroyed_suffix].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite] and [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite]'s [destroyed_targets].</li>
+    <li>r_logentry->[RECIPIENT_definite]'s [destroyed_targets] was [destroyed_past] by [INITIATOR_definite]'s [projectile].</li>
+    <li>r_logentry->[RECIPIENT_definite]'s [destroyed_targets] was [destroyed_past] into [destroyed_suffix] by [INITIATOR_definite]'s [projectile].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_definite]'s [projectile] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite] and [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite], [damaged_present] [RECIPIENT_definite]'s [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_definite]'s [damaged_targets] was [damaged_past] by [INITIATOR_definite]'s [projectile].</li>
+    <li>r_logentry(p=3)->[INITIATOR_definite]'s [projectile] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(p=6)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [projectile].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite]'s [projectile] hit [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite] with a [projectile].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [projectile] intended for [ORIGINALTARGET_definite].</li>
+    <li>projectile(p=0.05)->shot</li>
     <li>destroyed_past->shattered</li>
     <li>destroyed_past->crushed</li>
     <li>destroyed_past->obliterated</li>
@@ -124,28 +133,28 @@
     <li>missed->narrowly missed</li>
   -->
   <Combat_RangedDamage.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] találata [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]).</li>
-    <li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] találata [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]), így: [destroyed_suffix].</li>
-    <li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] találata [expertly] [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]).</li>
-    <li>r_logentry(p=2)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] ezt: [ORIGINALTARGET_definite], és [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]).</li>
-    <li>r_logentry(p=2)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] [ORIGINALTARGET_definite], [destroyed_present] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]).</li>
-    <li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] találata [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]).</li>
-    <li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] találata [expertly] [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]).</li>
-    <li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] találata [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]), így: [destroyed_suffix].</li>
-    <li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite] [WEAPON_projectile_label] találata [damaged_past] ezt: [RECIPIENT_definite] testrésze ([damaged_targets]).</li>
-    <li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite] [WEAPON_projectile_label] találata [expertly] [damaged_past] ezt: [RECIPIENT_definite] testrésze ([damaged_targets]).</li>
-    <li>r_logentry(recipient_partDestroyed_count==0,p=2)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] ezt: [ORIGINALTARGET_definite], és [damaged_past] ezt: [RECIPIENT_definite] testrésze ([damaged_targets]).</li>
-    <li>r_logentry(recipient_partDestroyed_count==0,p=2)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] [ORIGINALTARGET_definite], [damaged_present] ezt: [RECIPIENT_definite] testrésze ([damaged_targets]).</li>
-    <li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite] [WEAPON_projectile_label] találata [damaged_past] ezt: [RECIPIENT_definite] testrésze ([damaged_targets]).</li>
-    <li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite] [WEAPON_projectile_label] találata [expertly] [damaged_past] ezt: [RECIPIENT_definite] testrésze ([damaged_targets]).</li>
-    <li>r_logentry(p=3)->[INITIATOR_definite] [WEAPON_projectile_label] találata [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]) és [damaged_past] ezt: [damaged_targets].</li>
-    <li>r_logentry(p=6)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] [ORIGINALTARGET_definite], [destroyed_present] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]) és [damaged_present] ezt: [damaged_targets].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite], ezzel: [WEAPON_projectile_label].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] [WEAPON_projectile_label] lövése eltalálta ezt: [RECIPIENT_definite].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] ezt: [ORIGINALTARGET_definite] és eltalálta ezt: [RECIPIENT_definite], ezzel: [WEAPON_projectile_label].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] ezt: [ORIGINALTARGET_definite] és eltalálta ezt: [RECIPIENT_definite].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite], ezzel: [WEAPON_projectile_label], amit neki szánt: [ORIGINALTARGET_definite].</li>
-    <li>weapon_projectile_label(p=0.05)->lövedék</li>
+    <li>r_logentry->[INITIATOR_definite] [projectile] találata [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]).</li>
+    <li>r_logentry->[INITIATOR_definite] [projectile] találata [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]), így: [destroyed_suffix].</li>
+    <li>r_logentry->[INITIATOR_definite] [projectile] találata [expertly] [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]).</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite] [projectile] lövése [missed] ezt: [ORIGINALTARGET_definite], és [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]).</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite] [projectile] lövése [missed] [ORIGINALTARGET_definite], [destroyed_present] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]).</li>
+    <li>r_logentry->[INITIATOR_definite] [projectile] találata [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]).</li>
+    <li>r_logentry->[INITIATOR_definite] [projectile] találata [expertly] [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]).</li>
+    <li>r_logentry->[INITIATOR_definite] [projectile] találata [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]), így: [destroyed_suffix].</li>
+    <li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite] [projectile] találata [damaged_past] ezt: [RECIPIENT_definite] testrésze ([damaged_targets]).</li>
+    <li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite] [projectile] találata [expertly] [damaged_past] ezt: [RECIPIENT_definite] testrésze ([damaged_targets]).</li>
+    <li>r_logentry(recipient_partDestroyed_count==0,p=2)->[INITIATOR_definite] [projectile] lövése [missed] ezt: [ORIGINALTARGET_definite], és [damaged_past] ezt: [RECIPIENT_definite] testrésze ([damaged_targets]).</li>
+    <li>r_logentry(recipient_partDestroyed_count==0,p=2)->[INITIATOR_definite] [projectile] lövése [missed] [ORIGINALTARGET_definite], [damaged_present] ezt: [RECIPIENT_definite] testrésze ([damaged_targets]).</li>
+    <li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite] [projectile] találata [damaged_past] ezt: [RECIPIENT_definite] testrésze ([damaged_targets]).</li>
+    <li>r_logentry(recipient_partDestroyed_count==0)->[INITIATOR_definite] [projectile] találata [expertly] [damaged_past] ezt: [RECIPIENT_definite] testrésze ([damaged_targets]).</li>
+    <li>r_logentry(p=3)->[INITIATOR_definite] [projectile] találata [destroyed_past] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]) és [damaged_past] ezt: [damaged_targets].</li>
+    <li>r_logentry(p=6)->[INITIATOR_definite] [projectile] lövése [missed] [ORIGINALTARGET_definite], [destroyed_present] ezt: [RECIPIENT_definite] testrésze ([destroyed_targets]) és [damaged_present] ezt: [damaged_targets].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite], ezzel: [projectile].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] [projectile] lövése eltalálta ezt: [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] ezt: [ORIGINALTARGET_definite] és eltalálta ezt: [RECIPIENT_definite], ezzel: [projectile].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [projectile] lövése [missed] ezt: [ORIGINALTARGET_definite] és eltalálta ezt: [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite], ezzel: [projectile], amit neki szánt: [ORIGINALTARGET_definite].</li>
+    <li>projectile(p=0.05)->lövedék</li>
     <li>destroyed_past->szétlőtte</li>
     <li>destroyed_past->összezúzta</li>
     <li>destroyed_past->megsemmisítette</li>
@@ -180,15 +189,15 @@
   </Combat_RangedDamage.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [damaged_past] [RECIPIENT_definite][damaged_target] [deflected_result].</li>
-    <li>r_logentry(p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and [damaged_past] [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
-    <li>r_logentry->[RECIPIENT_definite][damaged_target_possessive_opt] was [damaged_past] by [INITIATOR_definite]'s [WEAPON_projectile_label] [deflected_result].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [WEAPON_projectile_label] [deflected_result].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite]'s [WEAPON_projectile_label] hit [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [WEAPON_projectile_label] [deflected_result].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [WEAPON_projectile_label] intended for [ORIGINALTARGET_definite] [deflected_result].</li>
-    <li>weapon_projectile_label(p=0.05)->shot</li>
+    <li>r_logentry->[INITIATOR_definite]'s [projectile] [damaged_past] [RECIPIENT_definite][damaged_target] [deflected_result].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite] and [damaged_past] [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry->[RECIPIENT_definite][damaged_target_possessive_opt] was [damaged_past] by [INITIATOR_definite]'s [projectile] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [projectile] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite]'s [projectile] hit [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [projectile] [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [projectile] intended for [ORIGINALTARGET_definite] [deflected_result].</li>
+    <li>projectile(p=0.05)->shot</li>
     <li>damaged_target_possessive_opt-></li>
     <li>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->'s [recipient_part_damaged0_label]</li>
     <li>deflected_result-> [adverb_deflected]</li>
@@ -205,14 +214,14 @@
     <li>missed->narrowly missed</li>
   -->
   <Combat_RangedDeflect.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] találata [damaged_past] ezt: [RECIPIENT_definite] [damaged_target], [deflected_result].</li>
-    <li>r_logentry(p=2)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] [ORIGINALTARGET_definite] és [damaged_past] ezt: [RECIPIENT_definite] [damaged_target_possessive_opt], [deflected_result].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite] [damaged_target_possessive_opt] ezzel: [WEAPON_projectile_label], [deflected_result].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] [WEAPON_projectile_label] lövése eltalálta ezt: [RECIPIENT_definite] [damaged_target_possessive_opt], [deflected_result].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] lövése [missed] [ORIGINALTARGET_definite] és eltalálta ezt: [RECIPIENT_definite] [damaged_target_possessive_opt] ezzel: [WEAPON_projectile_label], [deflected_result].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed] [ORIGINALTARGET_definite] és eltalálta  ezt: [RECIPIENT_definite] [damaged_target_possessive_opt], [deflected_result].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite] [damaged_target_possessive_opt] ezzel: [WEAPON_projectile_label], amit neki szánt: [ORIGINALTARGET_definite], [deflected_result].</li>
-    <li>weapon_projectile_label(p=0.05)->lövedék</li>
+    <li>r_logentry->[INITIATOR_definite] [projectile] találata [damaged_past] ezt: [RECIPIENT_definite] [damaged_target], [deflected_result].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite] [projectile] lövése [missed] [ORIGINALTARGET_definite] és [damaged_past] ezt: [RECIPIENT_definite] [damaged_target_possessive_opt], [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite] [damaged_target_possessive_opt] ezzel: [projectile], [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] [projectile] lövése eltalálta ezt: [RECIPIENT_definite] [damaged_target_possessive_opt], [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] lövése [missed] [ORIGINALTARGET_definite] és eltalálta ezt: [RECIPIENT_definite] [damaged_target_possessive_opt] ezzel: [projectile], [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [projectile] lövése [missed] [ORIGINALTARGET_definite] és eltalálta  ezt: [RECIPIENT_definite] [damaged_target_possessive_opt], [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] eltalálta ezt: [RECIPIENT_definite] [damaged_target_possessive_opt] ezzel: [projectile], amit neki szánt: [ORIGINALTARGET_definite], [deflected_result].</li>
+    <li>projectile(p=0.05)->lövedék</li>
     <li>damaged_target_possessive_opt-></li>
     <li>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->[RECIPIENT_part_damaged0_label]</li>
     <li>deflected_result-> [adverb_deflected]</li>
@@ -233,8 +242,8 @@
     <li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite] with [INITIATOR_possessive] [WEAPON_label].</li>
     <li>r_logentry->[INITIATOR_definite] [shot] [INITIATOR_possessive] [WEAPON_label] at [RECIPIENT_definite].</li>
     <li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite].</li>
-    <li>r_logentry->[INITIATOR_definite] [shot_a] [WEAPON_projectile_label] [burst] at [RECIPIENT_definite].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot_a] [WEAPON_projectile_label].</li>
+    <li>r_logentry->[INITIATOR_definite] [shot_a] [projectile] [burst] at [RECIPIENT_definite].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot_a] [projectile].</li>
     <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot] [INITIATOR_possessive] [WEAPON_label].</li>
     <li>shot_a(p=2)->[verb_shot] a</li>
     <li>shot_a->[skillAdv] [verb_shot] a</li>
@@ -262,8 +271,8 @@
     <li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite] felé, ezzel: [WEAPON_label].</li>
     <li>r_logentry->[INITIATOR_definite] [shot], ezzel: [WEAPON_label], cél: [RECIPIENT_definite].</li>
     <li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite] felé.</li>
-    <li>r_logentry->[INITIATOR_definite] [shot_a] [WEAPON_projectile_label][burst], cél:[RECIPIENT_definite].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot_a] ilyet: [WEAPON_projectile_label].</li>
+    <li>r_logentry->[INITIATOR_definite] [shot_a] [projectile][burst], cél:[RECIPIENT_definite].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot_a] ilyet: [projectile].</li>
     <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot], ezzel: [WEAPON_label].</li>
     <li>shot_a->[adverb_shot] [verb_shot] egy</li>
     <li>shot_a(p=2)->[verb_shot] egy</li>
@@ -298,10 +307,10 @@
   </Combat_RangedFire.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_definite] [threw] [INITIATOR_possessive] [WEAPON_projectile_label] at [RECIPIENT_definite].</li>
-    <li>r_logentry->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label] at [RECIPIENT_definite].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw] [INITIATOR_possessive] [WEAPON_projectile_label].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label].</li>
+    <li>r_logentry->[INITIATOR_definite] [threw] [INITIATOR_possessive] [projectile] at [RECIPIENT_definite].</li>
+    <li>r_logentry->[INITIATOR_definite] [threw_a] [projectile] at [RECIPIENT_definite].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw] [INITIATOR_possessive] [projectile].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw_a] [projectile].</li>
     <li>threw_a->[adverb_threw] [verb_threw] a</li>
     <li>threw_a(p=2)->[verb_threw] a</li>
     <li>threw(p=2)->[verb_threw]</li>
@@ -323,10 +332,10 @@
     <li>adjective_threw(initiator_flesh!=Mechanoid)->wary</li>
   -->
   <Combat_RangedFire_Thrown.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] [threw], cél: [RECIPIENT_definite], ezt: [WEAPON_projectile_label].</li>
-    <li>r_logentry->[INITIATOR_definite] [threw_a], ezt: [WEAPON_projectile_label], cél: [RECIPIENT_definite].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw], ezt: [WEAPON_projectile_label].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw_a], ezt: [WEAPON_projectile_label].</li>
+    <li>r_logentry->[INITIATOR_definite] [threw], cél: [RECIPIENT_definite], ezt: [projectile].</li>
+    <li>r_logentry->[INITIATOR_definite] [threw_a], ezt: [projectile], cél: [RECIPIENT_definite].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw], ezt: [projectile].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw_a], ezt: [projectile].</li>
     <li>threw_a->[adverb_threw] [verb_threw]</li>
     <li>threw_a(p=2)->[verb_threw] a</li>
     <li>threw(p=2)->[verb_threw]</li>
@@ -348,9 +357,9 @@
   </Combat_RangedFire_Thrown.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed].</li>
+    <li>r_logentry->[INITIATOR_definite]'s [projectile] [missed].</li>
     <li>r_logentry->[INITIATOR_definite] missed [ORIGINALTARGET_definite].</li>
-    <li>r_logentry->[ORIGINALTARGET_definite] [avoidance], [INITIATOR_definite]'s [WEAPON_projectile_label] [missing].</li>
+    <li>r_logentry->[ORIGINALTARGET_definite] [avoidance], [INITIATOR_definite]'s [projectile] [missing].</li>
     <li>missed(p=4)->missed</li>
     <li>missed(p=2)->missed by a small margin</li>
     <li>missed(p=2)->missed by a wide margin</li>
@@ -392,9 +401,9 @@
     <li>ducked->hid</li>
   -->
   <Combat_RangedMiss.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] [WEAPON_projectile_label] lövése [missed].</li>
+    <li>r_logentry->[INITIATOR_definite] [projectile] lövése [missed].</li>
     <li>r_logentry->[INITIATOR_definite] elhibázta ezt: [ORIGINALTARGET_definite].</li>
-    <li>r_logentry->[ORIGINALTARGET_definite] [avoidance], [INITIATOR_definite] [WEAPON_projectile_label] lövése [missing].</li>
+    <li>r_logentry->[ORIGINALTARGET_definite] [avoidance], [INITIATOR_definite] [projectile] lövése [missing].</li>
     <li>missed(p=4)->elhibázta</li>
     <li>missed(p=2)->kissé elhibázta</li>
     <li>missed(p=2)->nagyon elhibázta</li>

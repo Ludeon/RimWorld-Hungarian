@@ -1,31 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: blue carpet -->
-  <CarpetBlue.label>kék szőnyeg</CarpetBlue.label>
-  <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
-  <CarpetBlue.description>Hűvöskék árnyalatú plüss szőnyeg.</CarpetBlue.description>
-  
-  <!-- EN: cream carpet -->
-  <CarpetCream.label>krémszín szőnyeg</CarpetCream.label>
-  <!-- EN: Inviting cream-colored carpet. -->
-  <CarpetCream.description>Hívogató krém színű szőnyeg.</CarpetCream.description>
-  
-  <!-- EN: dark carpet -->
-  <CarpetDark.label>szürke szőnyeg</CarpetDark.label>
-  <!-- EN: Professional-looking dark gray carpet. -->
-  <CarpetDark.description>Hivatalos kinézetű, sötétszürke szőnyeg.</CarpetDark.description>
-  
-  <!-- EN: green carpet -->
-  <CarpetGreen.label>zöld szőnyeg</CarpetGreen.label>
-  <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
-  <CarpetGreen.description>Természetes zöld szőnyeg.</CarpetGreen.description>
-  
-  <!-- EN: red carpet -->
-  <CarpetRed.label>vörös szőnyeg</CarpetRed.label>
-  <!-- EN: Plush carpet in a lovely rose hue. -->
-  <CarpetRed.description>Szép, vörös árnyalatú plüss szőnyeg.</CarpetRed.description>
-  
   <!-- EN: concrete -->
   <Concrete.label>beton</Concrete.label>
   <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
@@ -38,8 +13,8 @@
   
   <!-- EN: steel tile -->
   <MetalTile.label>fémlap</MetalTile.label>
-  <!-- EN: Steel tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
-  <MetalTile.description>Fémlapok, az igazi űrhajó kinézetért. Szép, de sok anyagot és munkát emészt fel.</MetalTile.description>
+  <!-- EN: Steel tiles, for that spaceship look. They are pretty, quick to clean, and get a bonus to cleanliness for use in medical settings. -->
+  <MetalTile.description>Fémlapok, az igazi űrhajó kinézetért. Szépek, gyorsan tisztíthatók és bónuszt kapnak a tisztaságért, ha orvosi környezetben használják őket.</MetalTile.description>
   
   <!-- EN: paved tile -->
   <PavedTile.label>betonlap</PavedTile.label>
@@ -48,13 +23,13 @@
   
   <!-- EN: silver tile -->
   <SilverTile.label>ezüstlap</SilverTile.label>
-  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
-  <SilverTile.description>Drága és lassú lerakni, de nagyon szép. Tökéletesen passzol minden luxus szobához.</SilverTile.description>
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They are quick to clean and get a bonus to cleanliness. -->
+  <SilverTile.description>A futurisztikus, de királyi megjelenés érdekében az ezüst csempe tökéletesen illeszkedik a fényűző szobákba. Gyorsan takaríthatók és bónuszt kapnak a tisztaságért.</SilverTile.description>
   
   <!-- EN: sterile tile -->
   <SterileTile.label>steril csempe</SterileTile.label>
-  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
-  <SterileTile.description>A steril csempe segít tisztán tartani a helyiséget. Nagyon hasznos kórházakban, megakadályozza, hogy a páciensek fertőzést kapjanak. Kinézetre semleges és nagyon lassú lerakni.</SterileTile.description>
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build, but quick to clean. -->
+  <SterileTile.description>Steril burkolólapok különleges tisztaságfokozó tulajdonságokkal. Az extra tiszta helyiségek javítják a kórházak és kutatólaboratóriumok eredményeit. Ezt a csempét nagyon lassan lehet lerakni, de gyorsan tisztítható.</SterileTile.description>
   
   <!-- EN: straw matting -->
   <StrawMatting.label>szalma</StrawMatting.label>
@@ -64,6 +39,6 @@
   <!-- EN: wood floor -->
   <WoodPlankFloor.label>parketta</WoodPlankFloor.label>
   <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
-  <WoodPlankFloor.description>Fapadló. Azért a meleg, otthonos érzésért.</WoodPlankFloor.description>
+  <WoodPlankFloor.description>Fapadló a meleg, otthonos érzésért. Bár gyorsan lerakható, nagyon gyúlékony is.</WoodPlankFloor.description>
   
 </LanguageData>

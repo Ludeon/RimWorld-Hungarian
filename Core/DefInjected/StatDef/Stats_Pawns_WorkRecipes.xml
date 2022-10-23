@@ -41,12 +41,12 @@
   <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
   <FoodPoisonChance.description>Mekkora eséllyel lesz a személy által készített étel mérgező.</FoodPoisonChance.description>
   <!-- EN: food poison chance (chance to poison a meal) -->
-  <FoodPoisonChance.labelForFullStatList>TODO</FoodPoisonChance.labelForFullStatList>
+  <FoodPoisonChance.labelForFullStatList>ételmérgezés esélye (lehetőség a mérgeződésre étkezéskor)</FoodPoisonChance.labelForFullStatList>
   
   <!-- EN: general labor speed -->
-  <GeneralLaborSpeed.label>TODO</GeneralLaborSpeed.label>
+  <GeneralLaborSpeed.label>általános munkasebesség</GeneralLaborSpeed.label>
   <!-- EN: The speed at which this person carries out general labor like making stone blocks, making chemfuel at a refinery, burning items, tailoring clothes, creating art, smithing armor and weapons or smelting slag. This stat applies both to activities that involve no skill, as well as those where the skill affects the quality of the product instead of the speed of production. -->
-  <GeneralLaborSpeed.description>TODO</GeneralLaborSpeed.description>
+  <GeneralLaborSpeed.description>Az a sebesség, amellyel ez a személy általános munkát végez, például kőtömböket készít, üzemanyagot készít a finomítóban, tárgyakat éget, ruhákat szab, művészetet készít, páncélokat és fegyvereket kovácsol vagy salakot olvaszt. Ez a statisztika vonatkozik mind azokra a tevékenységekre, amelyek nem igényelnek készségeket, mind azokra, ahol a készség befolyásolja a termék minőségét a gyártás sebessége helyett.</GeneralLaborSpeed.description>
   
   <!-- EN: smelting speed -->
   <SmeltingSpeed.label>olvasztás sebesség</SmeltingSpeed.label>

@@ -23,8 +23,8 @@
   
   <!-- EN: deterioration rate -->
   <DeteriorationRate.label>állagromlás</DeteriorationRate.label>
-  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
-  <DeteriorationRate.description>Annak mértéke, hogy milyen gyorsan romlik a tárgy állaga, ha a szabad ég alatt hagyják (különösen esőben).</DeteriorationRate.description>
+  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, pollution or being left in shallow water. -->
+  <DeteriorationRate.description>Az a sebesség, amellyel ez az elem a szabadban hagyva romlik, napi átlagos találati pontokban.\n\nA romlás mértékét olyan tényezők is befolyásolják, mint az időjárás, a tetők, a mérgező csapadék, a szennyezés vagy a sekély vízben való tartózkodás.</DeteriorationRate.description>
   <!-- EN: {0} / day -->
   <DeteriorationRate.formatString>{0} / nap</DeteriorationRate.formatString>
   
@@ -44,10 +44,9 @@
   <MarketValue.label>érték</MarketValue.label>
   <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
   <MarketValue.description>A tárgy piaci értéke. A valós kereskedelmi ár ennek a kapcsolati státusz és az alkusz készség által módosított értéke.</MarketValue.description>
-  <MarketValue.formatString>${0}</MarketValue.formatString>
   
   <!-- EN: market value ignoring hitpoints -->
-  <MarketValueIgnoreHp.label>TODO</MarketValueIgnoreHp.label>
+  <MarketValueIgnoreHp.label>piaci érték, figyelmen kívül hagyva az állagromlást</MarketValueIgnoreHp.label>
   
   <!-- EN: mass -->
   <Mass.label>tömeg</Mass.label>
