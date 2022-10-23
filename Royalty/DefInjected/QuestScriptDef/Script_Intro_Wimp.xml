@@ -4,7 +4,9 @@
   <!-- EN:
     <li>questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name] is calling from nearby. [asker_possessive] guards were killed in an ambush. [asker_pronoun] escaped, but is now being followed by (*Threat)a manhunting [animalKindDef_label](/Threat).\n\n[asker_nameDef] wants you to keep [asker_objective] safe at [map_definite] for a few hours until [asker_possessive] shuttle can come pick [asker_objective] up.\n\n[asker_pronoun] will bestow [royalFavorReward] [asker_faction_royalFavorLabel] on whoever accepts this quest. This is enough [asker_faction_royalFavorLabel] to receive the royal title of Yeoman, and all benefits that come with it - including the first level of psychic powers.</li>
   -->
-  <Intro_Wimp.questDescriptionRules.rulesStrings>[asker_nameFull], egy [asker_faction_name] [asker_royalTitleInCurrentFaction] nevű tagja a közelből hív. Az őrei meghaltak egy rajtaütésben. Ő megszökött, de most egy (*Threat)[animalKindDef_label] hajtóvadászat követi(/Threat).\n\n[asker_nameDef] azt akarja, hogy az biztonságban legyen [map_definite] helyen néhány óráig, amíg az űrsiklója felveheti őt.\n\nŐ [royalFavorReward] [asker_faction_royalFavorLabel] pontot adományoz mindenkinek, aki elfogadja ezt a küldetést. Ez elég [asker_faction_royalFavorLabel], hogy megkapd a Vitéz császári címet és az ezzel járó összes előnyt – beleértve a pszichés képességek első szintjét.</Intro_Wimp.questDescriptionRules.rulesStrings>
+  <Intro_Wimp.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull], egy [asker_faction_name] [asker_royalTitleInCurrentFaction] nevű tagja a közelből hív. Az őrei meghaltak egy rajtaütésben. Ő megszökött, de most egy (*Threat)[animalKindDef_label] hajtóvadászat követi(/Threat).\n\n[asker_nameDef] azt akarja, hogy az biztonságban legyen [map_definite] helyen néhány óráig, amíg az űrsiklója felveheti őt.\n\nŐ [royalFavorReward] [asker_faction_royalFavorLabel] pontot adományoz mindenkinek, aki elfogadja ezt a küldetést. Ez elég [asker_faction_royalFavorLabel], hogy megkapd a Vitéz császári címet és az ezzel járó összes előnyt – beleértve a pszichés képességek első szintjét.</li>
+  </Intro_Wimp.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->the [adjAny] [asker_royalTitleInCurrentFaction]</li>
     <li>adjAny->hunted</li>
@@ -41,6 +43,10 @@
   <Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>Engedély nélküli műtét: {SUBJECT_definite}</Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. Because of this violation, [asker_pronoun] will now attempt to leave. [failLetterEndingCommon] -->
   <Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>Jogosulatlan, jogsértő műtétet hajtottak végre {SUBJECT_definite} személyen, akinek védelmével téged bíztak meg. A szabálysértés miatt ő most megpróbál távozni. [failLetterEndingCommon]</Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>
+  <!-- EN: Xenogerm absorbed: {SUBJECT_definite} -->
+  <Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.label.slateRef>TODO</Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.label.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to protect, has had {SUBJECT_possessive} xenogerm forcibly absorbed. Because of this violation, {SUBJECT_pronoun} will now attempt to leave. [failLetterEndingCommon] -->
+  <Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>TODO</Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>
   <!-- EN: Captured: {SUBJECT_definite} -->
   <Intro_Wimp.LetterLabelCaptured.slateRef>Elfogva: {SUBJECT_definite}</Intro_Wimp.LetterLabelCaptured.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to host, has been arrested. [failLetterEndingCommon] -->

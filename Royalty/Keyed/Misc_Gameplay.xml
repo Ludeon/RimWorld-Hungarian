@@ -49,8 +49,8 @@
   <Psyfocus>Pszichofókusz</Psyfocus>
   <!-- EN: Psyfocus -->
   <PsyfocusLabelGizmo>Pszichofókusz</PsyfocusLabelGizmo>
-  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychics, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
-  <PsyfocusDesc>A Pszichofókusz a mentális strukturálás egy speciális típusa, amely szükséges a pszichés erők használatához. A pszichofókusz idővel eloszlik, és rendszeres meditációval kell felépíteni. Az összes pszichofókusz elvesztése azt eredményezi, hogy valaki nem tudja használni a pszichikát, de nincs más következménye.\n\nA pszichofókusz magasabb szintje magasabb szintű erőt tesz lehetővé, de növeli a pszichikus disszipáció sebességét is</PsyfocusDesc>
+  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychic powers, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
+  <PsyfocusDesc>A pszichofókusz a mentális strukturálás egy speciális típusa, amely szükséges a pszichés erők használatához. A pszichofókusz idővel eloszlik, és rendszeres meditációval kell felépíteni. Az összes pszichofókusz elvesztése azt eredményezi, hogy valaki nem tudja használni a pszichikai képességeit, de nincs más következménye.\n\nA magasabb szintű pszichofókusz magasabb szintű erőket tesz lehetővé, de növeli a pszichikus fókusz disszipáció sebességét is.</PsyfocusDesc>
   <!-- EN: {0}-{1}% -->
   <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
   <!-- EN: Up to level {0} powers. -->
@@ -157,7 +157,7 @@
   <RitualTargetAnimaTreeNoPawnsWithNatureFocus>TODO</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
   <!-- EN: Need at least {0} anima grass. -->
   <RitualTargetAnimaTreeNotEnoughAnimaGrass>TODO</RitualTargetAnimaTreeNotEnoughAnimaGrass>
-  <!-- EN: An anima tree. -->
+  <!-- EN: an anima tree -->
   <RitualTargetAnimaTreeInfo>TODO</RitualTargetAnimaTreeInfo>
   <!-- EN: Must be a colonist with the natural meditation focus type who is below maximum psylink level. -->
   <RitualTargetAnimaTreeMustBeCapableOfNature>TODO</RitualTargetAnimaTreeMustBeCapableOfNature>
@@ -171,5 +171,8 @@
 
   <!-- EN: no heat to dump. -->
   <AbilityNoEntropyToDump>TODO</AbilityNoEntropyToDump>
+
+  <!-- EN: level {0} -->
+  <LevelNum>TODO</LevelNum> <!-- Psylink level as reported in health tab-->
 
 </LanguageData>

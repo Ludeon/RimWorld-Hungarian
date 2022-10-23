@@ -28,7 +28,7 @@
   
   <!-- EN: skipshield -->
   <BulletShield.label>TODO</BulletShield.label>
-  <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. -->
+  <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. The process is forceful enough to detonate explosive projectiles. People and items are not affected. -->
   <BulletShield.description>TODO</BulletShield.description>
   
   <!-- EN: burden -->
@@ -38,7 +38,7 @@
   
   <!-- EN: chaos skip -->
   <ChaosSkip.label>TODO</ChaosSkip.label>
-  <!-- EN: Teleport the target to a random position near where he started. -->
+  <!-- EN: Teleport the target to a random position near where it started. Objects above a certain size cannot be teleported. -->
   <ChaosSkip.description>TODO</ChaosSkip.description>
   
   <!-- EN: chunk skip -->
@@ -53,7 +53,7 @@
   
   <!-- EN: farskip -->
   <Farskip.label>TODO</Farskip.label>
-  <!-- EN: Skip the caster, along with anyone standing near him, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
+  <!-- EN: Skip the caster, along with anyone standing near them, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
   <Farskip.description>TODO</Farskip.description>
   
   <!-- EN: flashstorm -->
@@ -78,7 +78,7 @@
   
   <!-- EN: mass chaos skip -->
   <MassChaosSkip.label>TODO</MassChaosSkip.label>
-  <!-- EN: Skip everyone near a target point to a random location nearby. -->
+  <!-- EN: Skip everyone in an area to random positions nearby. Objects which are too large cannot be teleported. -->
   <MassChaosSkip.description>TODO</MassChaosSkip.description>
   
   <!-- EN: neuroquake -->
@@ -95,7 +95,7 @@
   
   <!-- EN: skip -->
   <Skip.label>ugrás</Skip.label>
-  <!-- EN: Teleport the target to a desired position not too far from his starting point. -->
+  <!-- EN: Teleport the target to a desired position not too far from its starting point. Objects which are too large cannot be teleported. -->
   <Skip.description>Elteleportálja a célpontot a kívánt pozícióba, nem túl messze a kiindulási pontjától.</Skip.description>
   
   <!-- EN: smokepop -->
@@ -140,7 +140,7 @@
   
   <!-- EN: word of joy -->
   <WordOfJoy.label>öröm szava</WordOfJoy.label>
-  <!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness. -->
+  <!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in their mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness. -->
   <WordOfJoy.description>Mondj boldog, megnyugtató szavakat valakinek, miközben pszichikai szuggesztiókkal ültetsz be egy joyfuzz hurkot az elméjébe. A joyfuzz elnyomja a kellemetlen gondolatokat és érzéseket a célpontban, hogy javítsa a hangulatot. Ennek mellékhatása az érzés és a döntéshozatal eltompulása, ami csökkenti a tudatot.</WordOfJoy.description>
   
   <!-- EN: word of love -->
@@ -155,7 +155,7 @@
   
   <!-- EN: word of trust -->
   <WordOfTrust.label>bizalom szava</WordOfTrust.label>
-  <!-- EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This can only reduce a prisoner's resistance, but cannot recruit him. -->
+  <!-- EN: Speak to the prisoner while using psychic suggestion to reduce their resistance to recruitment. This can only reduce a prisoner's resistance, but cannot recruit them. -->
   <WordOfTrust.description>Beszél a fogollyal, miközben pszichés szuggesztiókat használ, hogy csökkentse a toborzással szembeni ellenállását. Ez csak csökkentheti a fogoly ellenállását, de nem toborozhatja.</WordOfTrust.description>
   
 </LanguageData>

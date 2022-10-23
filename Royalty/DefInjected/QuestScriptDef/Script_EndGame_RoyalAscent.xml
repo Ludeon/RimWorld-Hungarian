@@ -45,6 +45,10 @@
   <EndGame_RoyalAscent.LetterLabelAskerArrived.value.slateRef>[asker_faction_leaderTitle] megérkezett</EndGame_RoyalAscent.LetterLabelAskerArrived.value.slateRef>
   <!-- EN: The [asker_faction_leaderTitle] of [asker_faction_name], has arrived.\n\nProtect him and satisfy his royal needs until the shuttle arrives in [shuttleDelayTicks_duration].\n\nAll of you can accompany the [asker_faction_leaderTitle] on the shuttle and travel to the Imperial flotilla to begin a new life. -->
   <EndGame_RoyalAscent.LetterTextAskerArrived.value.slateRef>[asker_faction_leaderTitle] [asker_faction_name] megérkezett.\n\nVédd meg őt és elégítsd ki királyi szükségleteit, amíg a transzfer megérkezik [shuttleDelayTicks_duration] időn belül.\n\nMindenki elkísérheti [asker_faction_leaderTitle]-t az űrsiklóján a Birodalmi Flottillához, hogy  új életet kezdjen.</EndGame_RoyalAscent.LetterTextAskerArrived.value.slateRef>
+  <!-- EN: Guest died: {SUBJECT_definite} -->
+  <EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>Vendég meghalt: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon] -->
+  <EndGame_RoyalAscent.LetterTextGuestDied.slateRef>{SUBJECT_definite}, akinek védelmével megbízták, meghalt. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestDied.slateRef>
   <!-- EN: Should depart on shuttle -->
   <EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>Űrsiklóval kell távoznia</EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>
   <!-- EN: Shuttle arrived -->
@@ -59,10 +63,6 @@
   <EndGame_RoyalAscent.LetterLabelSubjectUnhappy.slateRef>{SUBJECT_bestRoyalTitle} boldogtalan</EndGame_RoyalAscent.LetterLabelSubjectUnhappy.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect and keep happy, has been below the minimum mood of [lodgersMoodThreshold] too long. [failLetterEndingCommon] -->
   <EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>{SUBJECT_definite}, akit meg kellett védened és boldogan kellett volna tartanod, túl sokáig volt a [lodgersMoodThreshold] minimális hangulata alatt. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>
-  <!-- EN: Guest died: {SUBJECT_definite} -->
-  <EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>Vendég meghalt: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>
-  <!-- EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.LetterTextGuestDied.slateRef>{SUBJECT_definite}, akinek védelmével megbíztak, meghalt. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestDied.slateRef>
   <!-- EN: Guest captured: {SUBJECT_definite} -->
   <EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>Elfogott vendég: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has been arrested. [failLetterEndingCommon] -->
@@ -71,6 +71,10 @@
   <EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>Engedély nélküli műtét: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. [failLetterEndingCommon] -->
   <EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>Jogosulatlan, jogsértő műtétet hajtottak végre {SUBJECT_definite} személyen, akinek védelmével téged bíztak meg. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>
+  <!-- EN: Xenogerm absorbed: {SUBJECT_definite} -->
+  <EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.label.slateRef>TODO</EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.label.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to protect, has had {SUBJECT_possessive} xenogerm forcibly absorbed. [failLetterEndingCommon] -->
+  <EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>TODO</EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
   <EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>Vendég elveszett: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the assigned settlement. [failLetterEndingCommon] -->

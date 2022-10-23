@@ -158,16 +158,6 @@
   <!-- EN: Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration! -->
   <LetterPsychicInspiration>{CASTER_nameIndef} pszichikai javaslatának köszönhetően {PAWN_nameIndef} ihletet kapott!</LetterPsychicInspiration>
 
-  <!-- Join Offer -->
-  <!-- EN: Join offer: {PAWN_nameDef} -->
-  <LetterJoinOfferLabel>Csatlakozási ajánlat: {PAWN_nameDef}</LetterJoinOfferLabel>
-  <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
-  <LetterJoinOfferTitle>{PAWN_nameDef} csatlakozni kíván a frakciódhoz.</LetterJoinOfferTitle>
-  <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
-  <LetterJoinOfferText>{PAWN_nameDef} úgy véli, hogy boldog a {MAP_definite} kolóniában. {PAWN_pronoun} végleg csatlakozni kíván hozzád.</LetterJoinOfferText>
-  <!-- EN: Accept -->
-  <LetterJoinOfferAccept>Elfogad</LetterJoinOfferAccept>
-
   <!-- EN: Bestowing ceremony expired -->
   <LetterLabelBestowingCeremonyExpired>A kinevezési ünnepség elévült</LetterLabelBestowingCeremonyExpired>
   <!-- EN: {TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled. -->
