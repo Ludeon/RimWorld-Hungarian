@@ -20,7 +20,7 @@
   <!-- EN: Reset all -->
   <ResetAll>TODO</ResetAll>
   <!-- EN: Disable -->
-  <Disable>TODO</Disable>
+  <Disable>Tilt</Disable>
   <!-- EN: Modify -->
   <Modify>TODO</Modify>
   <!-- EN: Settle here anyways? -->
@@ -306,8 +306,8 @@
   <MinimumSkills>Minimum készség:</MinimumSkills>
   <!-- EN: Requires -->
   <BillRequires>Szükséges: {0}db {1}</BillRequires>
-  <!-- EN: Requires {0} nutrition -->
-  <BillRequiresNutrition>Szükséges tápanyag: {0}</BillRequiresNutrition>
+  <!-- EN: nutrition -->
+  <BillNutrition>tápanyag</BillNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
   <BillRequiresMayVary>Megj.: kis helyet foglaló hozzávalókból, mint pl. az arany, {0}x annyi kell.</BillRequiresMayVary>
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
@@ -1321,8 +1321,5 @@
   <ToggleDarklightOnDesc>TODO</ToggleDarklightOnDesc>
   <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
   <ColorTemperatureTooltip>TODO</ColorTemperatureTooltip>
-
-  <!-- UNUSED -->
-  <BillRequiresNutrition>Szükséges tápanyag: {0}</BillRequiresNutrition>
 
 </LanguageData>
