@@ -81,7 +81,7 @@
   <!-- EN: Save and finish -->
   <WorldSaveAndFinish>Mentés és kész</WorldSaveAndFinish>
   <!-- EN: Reset factions -->
-  <ResetFactions>TODO</ResetFactions>
+  <ResetFactions>frakciók alaphelyzetbe</ResetFactions>
   <!-- EN: Globe coverage -->
   <PlanetCoverage>Szárazföld kiterjedése</PlanetCoverage>
   <!-- EN: Overall rainfall -->
@@ -155,9 +155,9 @@
   <!-- EN: Auto-sort mods -->
   <ResolveModOrder>Modok auto-indítása</ResolveModOrder>
   <!-- EN: Save and apply changes -->
-  <SaveModChanges>TODO</SaveModChanges>
+  <SaveModChanges>Mentés és változtatások alkalmazása</SaveModChanges>
   <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->
-  <DiscardModChanges>TODO</DiscardModChanges>
+  <DiscardModChanges>A mod változtatások nem lettek elmentve. Biztos folytatod?</DiscardModChanges>
   <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
   <ModReorderConflict_MustLoadAfter>A(z) {0} nem mozgatható: {1} után kell betölteni.</ModReorderConflict_MustLoadAfter>
   <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
@@ -165,55 +165,55 @@
   <!-- EN: Unsubscribe -->
   <Unsubscribe>Leiratkozás</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe? -->
-  <ConfirmUnsubscribe>Biztos, hogy le akarsz iratkozni erről: {0}?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Biztos, hogy le akarsz iratkozni?</ConfirmUnsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
-  <ConfirmUnsubscribeFrom>TODO</ConfirmUnsubscribeFrom>
+  <ConfirmUnsubscribeFrom>Biztos, hogy le akarsz iratkozni erről: {0}?</ConfirmUnsubscribeFrom>
   <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
-  <ConfirmUnsubscribeFromMultiple>TODO</ConfirmUnsubscribeFromMultiple>
+  <ConfirmUnsubscribeFromMultiple>Biztos, hogy le akarsz iratkozni erről:\n\n{0}?</ConfirmUnsubscribeFromMultiple>
   <!-- EN: Author -->
   <Author>Készítő</Author>
   <!-- EN: Enabled -->
-  <Enabled>TODO</Enabled>
+  <Enabled>Engedélyezve</Enabled>
   <!-- EN: Disabled -->
-  <Disabled>TODO</Disabled>
+  <Disabled>Kikapcsolva</Disabled>
   <!-- EN: Enable -->
-  <Enable>TODO</Enable>
+  <Enable>Engedélyez</Enable>
   <!-- EN: Disable -->
-  <Disable>TODO</Disable>
+  <Disable>Kikapcsol</Disable>
   <!-- EN: Get mods from... -->
-  <GetMods>TODO</GetMods>
+  <GetMods>Szerezz modokat a...</GetMods>
   <!-- EN: Unsubscribe from... -->
-  <UnsubscribeMultiple>TODO</UnsubscribeMultiple>
+  <UnsubscribeMultiple>Leiratkozás...</UnsubscribeMultiple>
   <!-- EN: Save / load list... -->
-  <SaveLoadList>TODO</SaveLoadList>
+  <SaveLoadList>Mentés / lista betöltése</SaveLoadList>
   <!-- EN: Save mod list -->
-  <SaveModList>TODO</SaveModList>
+  <SaveModList>Mod lista mentés</SaveModList>
   <!-- EN: Load mod list -->
-  <LoadModList>TODO</LoadModList>
+  <LoadModList>Mod lista betöltés</LoadModList>
   <!-- EN: Added mods -->
-  <AddedModsList>TODO</AddedModsList>
+  <AddedModsList>Hozzáadott modok</AddedModsList>
   <!-- EN: Missing mods -->
-  <MissingModsList>TODO</MissingModsList>
+  <MissingModsList>Hiányzó modok</MissingModsList>
   <!-- EN: Shared mods -->
-  <SharedModsList>TODO</SharedModsList>
+  <SharedModsList>Megosztott modok</SharedModsList>
   <!-- EN: Website -->
-  <ModWebsite>TODO</ModWebsite>
+  <ModWebsite>Weboldal</ModWebsite>
   <!-- EN: Open folder -->
-  <ModFolder>TODO</ModFolder>
+  <ModFolder>Mappa megnyitása</ModFolder>
   <!-- EN: Mod options -->
-  <ModOptions>TODO</ModOptions>
+  <ModOptions>Mod beállítások</ModOptions>
   <!-- EN: Workshop -->
-  <FromWorkshop>TODO</FromWorkshop>
+  <FromWorkshop>Műhelyből</FromWorkshop>
   <!-- EN: Forum -->
-  <FromForum>TODO</FromForum>
+  <FromForum>Fórumról</FromForum>
   <!-- EN: Advanced... -->
-  <MoreActions>TODO</MoreActions>
+  <MoreActions>Haladó</MoreActions>
   <!-- EN: All selected mods -->
-  <AllSelectedMods>TODO</AllSelectedMods>
+  <AllSelectedMods>minden kiválasztott mod</AllSelectedMods>
   <!-- EN: All disabled mods -->
-  <AllDisabledMods>TODO</AllDisabledMods>
+  <AllDisabledMods>minden kikapcsolt mod</AllDisabledMods>
   <!-- EN: All incompatible mods -->
-  <AllIncompatibleMods>TODO</AllIncompatibleMods>
+  <AllIncompatibleMods>minden nem kompatibilis mod</AllIncompatibleMods>
   <!-- EN: Workshop page -->
   <WorkshopPage>Műhely oldal</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
@@ -229,7 +229,7 @@
   <!-- EN: Downloading -->
   <Downloading>Letöltés</Downloading>
   <!-- EN: Workshop ID -->
-  <WorkshopId>TODO</WorkshopId>
+  <WorkshopId>Műhely ID</WorkshopId>
   <!-- EN: Display fulfilled requirements -->
   <ModDisplayFulfilledRequirements>Teljesített követelmények kiírása</ModDisplayFulfilledRequirements>
   <!-- EN: Click to select. -->
@@ -239,9 +239,9 @@
   <!-- EN: Source -->
   <Source>Forrás</Source>
   <!-- EN: Game versions -->
-  <ModTargetVersion>{0} verzió(k)hoz</ModTargetVersion>
+  <ModTargetVersion>Játék verzió(k):</ModTargetVersion>
   <!-- EN: Mod version -->
-  <ModVersion>TODO</ModVersion>
+  <ModVersion>Mod verzió</ModVersion>
   <!-- EN: ID -->
   <ModPackageId>ID</ModPackageId>
   <!-- EN: This must be loaded before: {0}. -->
@@ -563,7 +563,7 @@
   <!-- EN: Fertility -->
   <Fertility>Termékenység</Fertility>
   <!-- EN: fertility -->
-  <FertilityLower>TODO</FertilityLower>
+  <FertilityLower>termékenység</FertilityLower>
   <!-- EN: Average temperature -->
   <AvgTemp>Átlaghőmérséklet</AvgTemp>
   <!-- EN: Rainfall -->
@@ -599,7 +599,7 @@
   <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
   <ConfirmRequiredWorkTypeDisabledForEveryone>Egyik kiválasztott ember sem képes elvégezni a következő munká(ka)t:\n\n{0}\n\nEz a szokásosnál nehezebbé teheti a játékot. Biztosan folytatod?</ConfirmRequiredWorkTypeDisabledForEveryone>
   <!-- EN: temperature -->
-  <TemperatureLower>TODO</TemperatureLower>
+  <TemperatureLower>hőmérséklet</TemperatureLower>
   <!-- EN: light -->
   <LightLower>TODO</LightLower>
 
@@ -671,7 +671,7 @@
   <!-- EN: Relations -->
   <Relations>Kapcsolatok</Relations>
   <!-- EN: Possessions -->
-  <Possessions>TODO</Possessions>
+  <Possessions>Vagyon</Possessions>
   <!-- EN: Team skills -->
   <TeamSkills>Csapat készségek</TeamSkills>
   <!-- EN: Selected -->

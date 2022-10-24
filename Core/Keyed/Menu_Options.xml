@@ -5,25 +5,25 @@
   <!-- EN: Audiovisuals -->
   <Audiovisuals>Audió/Videó</Audiovisuals>
   <!-- EN: Master volume -->
-  <MasterVolume>TODO</MasterVolume>
+  <MasterVolume>Fő hangerő</MasterVolume>
   <!-- EN: Game volume -->
   <GameVolume>Játék hangerő</GameVolume>
   <!-- EN: Music volume -->
   <MusicVolume>Zene hangerő</MusicVolume>
   <!-- EN: Ambience volume -->
-  <AmbientVolume>Aláfestő zene hangereje</AmbientVolume>
+  <AmbientVolume>Környezet hangerő</AmbientVolume>
   <!-- EN: UI volume -->
-  <UIVolume>TODO</UIVolume>
+  <UIVolume>UI hangerő</UIVolume>
   <!-- EN: Affects all sounds. -->
-  <MasterVolumeTooltip>TODO</MasterVolumeTooltip>
+  <MasterVolumeTooltip>Minden hangerőszintet érint.</MasterVolumeTooltip>
   <!-- EN: Affects all in world sounds, e.g. chopping trees, building walls. -->
-  <GameVolumeTooltip>TODO</GameVolumeTooltip>
+  <GameVolumeTooltip>Minden világbeli hangra vonatkozik, pl.: favágás, falak építése</GameVolumeTooltip>
   <!-- EN: Affects music. -->
-  <MusicVolumeTooltip>TODO</MusicVolumeTooltip>
+  <MusicVolumeTooltip>A zenére vonatkozik.</MusicVolumeTooltip>
   <!-- EN: Affects all ambient sounds, e.g. wind, insects. -->
-  <AmbientVolumeTooltip>TODO</AmbientVolumeTooltip>
+  <AmbientVolumeTooltip>Minden környezeti hangra vonatkozik, pl.: szél, rovarok</AmbientVolumeTooltip>
   <!-- EN: Affects all interface sounds, e.g. button clicks, messages. -->
-  <UIVolumeTooltip>TODO</UIVolumeTooltip>
+  <UIVolumeTooltip>Minden UI játékelemre vonatkozik, pl.: kattintás hangja, értesítések</UIVolumeTooltip>
   <!-- EN: Anti-aliasing -->
   <Antialiasing>Élsimítás</Antialiasing>
 
@@ -47,7 +47,7 @@
   <!-- EN: Controller configuration -->
   <ControllerConfig>Kontroller beállítása</ControllerConfig>
   <!-- EN: Modify -->
-  <ModifyConfig>TODO</ModifyConfig>
+  <ModifyConfig>Módosítás</ModifyConfig>
   <!-- EN: Choose language -->
   <ChooseLanguage>Válassz nyelvet</ChooseLanguage>
   <!-- EN: Reset learning helper -->
@@ -63,29 +63,29 @@
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Modkonfig autoreset összeomlásnál</ResetModsConfigOnCrash>
   <!-- EN: Simulate not owning Royalty -->
-  <SimulateNotOwningRoyalty>TODO: Simuler ne pas posséder : Royalty</SimulateNotOwningRoyalty>
+  <SimulateNotOwningRoyalty>Szimulálni, hogy nincs meg a Királyság DLC</SimulateNotOwningRoyalty>
   <!-- EN: Simulate not owning Ideology -->
-  <SimulateNotOwningIdeology>TODO: Simuler ne pas posséder : Ideology</SimulateNotOwningIdeology>
+  <SimulateNotOwningIdeology>Szimulálni, hogy nincs meg az Ideológia DLC</SimulateNotOwningIdeology>
   <!-- EN: Simulate not owning Biotech -->
-  <SimulateNotOwningBiotech>TODO</SimulateNotOwningBiotech>
+  <SimulateNotOwningBiotech>Szimulálni, hogy nincs meg a Biotech DLC</SimulateNotOwningBiotech>
   <!-- EN: Verbose logging -->
   <LogVerbose>Bővebb naplózás</LogVerbose>
   <!-- EN: Save data folder -->
-  <SaveGameDataFolder>TODO</SaveGameDataFolder>
+  <SaveGameDataFolder>Mentések helye</SaveGameDataFolder>
   <!-- EN: Save data location -->
-  <SaveGameDataLocation>TODO</SaveGameDataLocation>
+  <SaveGameDataLocation>Mentések elérési útja</SaveGameDataLocation>
   <!-- EN: Log file folder -->
-  <LogFileFolder>TODO</LogFileFolder>
+  <LogFileFolder>Játékfájlok helye</LogFileFolder>
   <!-- EN: Log file location -->
-  <LogFileLocation>TODO</LogFileLocation>
+  <LogFileLocation>Játékfájlok elérési útja</LogFileLocation>
   <!-- EN: Open -->
-  <OpenFolder>TODO</OpenFolder>
+  <OpenFolder>Megnyit</OpenFolder>
   <!-- EN: Show -->
-  <ShowFolder>TODO</ShowFolder>
+  <ShowFolder>Mutat</ShowFolder>
   <!-- EN: Preferred "Name in Game" characters -->
   <NamesYouWantToSee>Vezetéknevek, amiket a játékban vagy a háttértörténetben látni akarsz:</NamesYouWantToSee>
   <!-- EN: These characters will be more likely to appear randomly during play. -->
-  <NamesYouWantToSeeSubText>TODO</NamesYouWantToSeeSubText>
+  <NamesYouWantToSeeSubText>Ezek a karakterek nagyobb valószínűséggel jelennek majd meg a játék során.</NamesYouWantToSeeSubText>
   <!-- EN: Add name -->
   <AddName>Név hozzáadása</AddName>
   <!-- EN: Type the first name, nickname, or last name. -->
@@ -97,7 +97,7 @@
   <!-- EN: Autosave interval -->
   <AutosaveInterval>Automentés időköze</AutosaveInterval>
   <!-- EN: The number of in game days between each auto save. -->
-  <AutosaveIntervalTooltip>TODO</AutosaveIntervalTooltip>
+  <AutosaveIntervalTooltip>A játékban eltelt napok száma két automentés között.</AutosaveIntervalTooltip>
   <!-- EN: Temperature unit -->
   <TemperatureMode>Hőmérséklet skála</TemperatureMode>
   <!-- EN: Show realtime clock -->
@@ -133,7 +133,7 @@
   <!-- EN: Fullscreen -->
   <Fullscreen>Teljes képernyő</Fullscreen>
   <!-- EN: Borderless fullscreen -->
-  <BorderlessFullscreen>TODO</BorderlessFullscreen>
+  <BorderlessFullscreen>Szegély nélküli teljes képernyő</BorderlessFullscreen>
   <!-- EN: To run RimWorld in borderless fullscreen mode:\n\n1) Open Steam\n2) Go to the "Library" tab at the top\n3) Find RimWorld on the list and right-click it\n4) Choose "Properties..."\n5) Add "-popupwindow" without quotes to "Launch options" in the "General" tab\n6) Restart game\n7) If done correctly, you won't see this window\n\nHint: Use Windows Key + Shift + Left/Right to move the window between your monitors. -->
   <BorderlessFullscreenInstructions>TODO</BorderlessFullscreenInstructions>
 
@@ -145,9 +145,9 @@
   
   <!-- Options reset -->
   <!-- EN: Restore all settings to default -->
-  <RestoreToDefaultSettingsLabel>TODO</RestoreToDefaultSettingsLabel>
+  <RestoreToDefaultSettingsLabel>Alapértelmezett beállítások</RestoreToDefaultSettingsLabel>
   <!-- EN: Restore defaults -->
-  <RestoreToDefaultSettings>Alapértelmezett beállítások</RestoreToDefaultSettings>
+  <RestoreToDefaultSettings>Visszaállítás</RestoreToDefaultSettings>
   <!-- EN: All settings have been reset. The game will now restart automatically. -->
   <ResetAndRestart>A beállítások visszaálltak. A játék újraindul.</ResetAndRestart>
   <!-- EN: All settings will be reset to the default and the game will be restarted. Unsaved progress will be lost,\n\nContinue? -->
