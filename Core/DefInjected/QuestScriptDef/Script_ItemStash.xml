@@ -5,7 +5,10 @@
     <li>questDescription(askerIsNull==true)->We've intercepted messages about a collection of valuable items worth [itemStashContentsValue] not far from [map_definite]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
     <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a collection of valuable items worth [itemStashContentsValue] not far from us. The collection consists of:\n\n[itemStashContents]\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</li>
   -->
-  <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>TODO</OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+  <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->[itemStashContentsValue] értékű értékes tárgyak gyűjteményével kapcsolatos üzeneteket fogtunk, nem messze ettől a helytől: [map_definite]. A gyűjtemény a következőkből áll:\n\n[itemStashContents]\n\nÚgy tűnik, hogy [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle], [asker_faction_name] frakcióból tájékoztatott minket egy [itemStashContentsValue] értékű, tőlünk nem messze lévő értékes tárgyak lelőhelyéről. A gyűjtemény a következőkből áll:\n\n[itemStashContents]\n\n[asker_label] azt mondja, hogy [allSitePartsDescriptionsExceptFirst]</li>
+  </OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(priority=1)->[asker_nameDef]'s [stash] of [treasure]</li>
     <li>questName->[stash] of [treasure]</li>
@@ -19,10 +22,30 @@
     <li>treasure->Goodies</li>
     <li>treasure->Supplies</li>
   -->
-  <OpportunitySite_ItemStash.questNameRules.rulesStrings>TODO</OpportunitySite_ItemStash.questNameRules.rulesStrings>
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[asker_nameDef] [treasureAsker] [stashPossessive]</li>
+    <li>questName->[treasure] [stash]</li>
+    <li>treasure->Kincses</li>
+    <li>treasure->Értéktárgy</li>
+    <li>treasure->Mesés</li>
+    <li>treasure->Értékes</li>
+    <li>treasure->Készlet</li>
+    <li>stash->rejtekhely</li>
+    <li>stash->titkos Raktár</li>
+    <li>stash->gyűjtemény</li>
+    <li>stash->kunyhó</li>
+    <li>treasureAsker->kincses</li>
+    <li>treasureAsker->értéktárgyainak</li>
+    <li>treasureAsker->vagyonának</li>
+    <li>stashPossessive->rejtekhelye</li>
+    <li>stashPossessive->titkos raktára</li>
+    <li>stashPossessive->gyűjteménye</li>
+    <li>stashPossessive->kunyhója</li>
+    <li>stashPossessive->készlete</li>
+  </OpportunitySite_ItemStash.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>A küldetés lejárt: [resolvedQuestName]</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>Az elfogott kommunikációk azt jelzik, hogy a készletre mások is igényt tartottak. A '[resolvedQuestName]' küldetés így lejárt.</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

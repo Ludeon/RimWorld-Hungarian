@@ -7,17 +7,27 @@
     <li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
     <li>pawnInvolvedInQuestInfo-></li>
   -->
-  <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>TODO</OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+  <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->[refugee_nameDef] felvette veled a kapcsolatot és segítséget kér. [refugee_pronoun] megsebesült és nem tud mozogni.\n\n[refugee_nameDef] egy [refugee_age] éves [refugee_title]. [refugee_pronoun] megígéri, hogy csatlakozik hozzád, ha megmented [refugee_objective].\n\n[refugee_nameDef] azt mondja, hogy [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle], [asker_faction_name] azt mondja, hogy egy barátja megsebesült utazás közben. Az áldozat [refugee_nameIndef], egy [refugee_age] éves [refugee_title].\n\n[asker_nameDef]-nek nincs senkije, aki megmentse [refugee_nameDef]-et, de azt mondja, hogy ha el tud jutni [refugee_nameDef] pozíciójához és meg tudja menteni őt, [refugee_pronoun] csatlakozik hozzád.\n\n[asker_nameDef] azt mondja, hogy [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
+    <li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
+    <li>pawnInvolvedInQuestInfo-></li>
+  </OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Saving [refugee_nameDef]</li>
     <li>questName->The Rescue of [refugee_nameDef]</li>
     <li>questName->[refugee_nameDef]'s Rescue</li>
     <li>questName->[refugee_nameDef]'s Salvation</li>
   -->
-  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>TODO</OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
+  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
+    <li>questName->[refugee_nameDef] Megmentése</li>
+    <li>questName->[refugee_nameDef] Kiszabadítása</li>
+    <li>questName->[refugee_nameDef] Kimentése</li>
+    <li>questName->[refugee_nameDef] Megszabadítása</li>
+  </OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>A küldetés lejárt: [resolvedQuestName]</OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>
   <!-- EN: [refugee_nameDef]'s signal has been lost, and [refugee_pronoun] can no longer be rescued. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>[refugee_nameDef] jele elveszett, és ő már nem menthető meg. A [resolvedQuestName] küldetés lejárt.</OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

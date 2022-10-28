@@ -22,22 +22,38 @@
     <li>bandit->Robber</li>
     <li>bandit->Brigand</li>
   -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings>TODO</OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+    <li>questName->A [bandit] [camp]</li>
+    <li>questName->[bandit] [camp]</li>
+    <li>questName->[asker_nameDef] and the [camp]</li>
+    <li>camp->Tábor</li>
+    <li>camp->Őrhely</li>
+    <li>camp->Búvóhely</li>
+    <li>camp->Táborhely</li>
+    <li>bandit->Bandita</li>
+    <li>bandit->Fosztogató</li>
+    <li>bandit->Törvényenkívüli</li>
+    <li>bandit->Bérgyilkos</li>
+    <li>bandit->Szökevény</li>
+    <li>bandit->Martalóc</li>
+    <li>bandit->Rabló</li>
+    <li>bandit->Haramia</li>
+  </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>A küldetés lejárt: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
   <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>A bandita tábor összepakolt és továbbment. A [resolvedQuestName] küldetés lejárt.</OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>TODO</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>A küldetés sikertelen: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
   <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
-  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>TODO</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>Miután felfedezték, a bandita tábor szétoszlott. A(z) [resolvedQuestName] küldetés véget ért.</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
   <!-- EN: Payment arrived -->
-  <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>TODO</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>Megérkezett a fizettség</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
   <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
-  <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>TODO</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>Legyőzted a banditák táborát!\n\nMegérkezett a fizettség [asker_faction_name] részéről.</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
-  <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>TODO</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
   <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
-  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>TODO</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>Ezek a telepesek részt vettek a [resolvedQuestName] küldetés győzelmében. [asker_definite] szeretné tudni, hogy ki kapja meg a [royalFavorReward_amount] [asker_faction_royalFavorLabel] díjat ezért a szolgálatért.</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
   
 </LanguageData>

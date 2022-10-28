@@ -3,189 +3,189 @@
 
   <!-- Royal titles -->
   <!-- EN: {TITLE} title lost: {PAWN_labelShort} -->
-  <LetterLabelLostRoyalTitle>TODO</LetterLabelLostRoyalTitle>
+  <LetterLabelLostRoyalTitle>A(z) {TITLE} cím elveszett: {PAWN_labelShort}</LetterLabelLostRoyalTitle>
   <!-- EN: {TITLE} title gained: {PAWN_labelShort} -->
-  <LetterLabelGainedRoyalTitle>TODO</LetterLabelGainedRoyalTitle>
+  <LetterLabelGainedRoyalTitle>Megszerzett {TITLE} cím: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
 
   <!-- EN: Permit points awarded: {0}. -->
-  <PermitPointsAwarded>TODO</PermitPointsAwarded>
+  <PermitPointsAwarded>Megkapott engedélypontok: {0}.</PermitPointsAwarded>
 
   <!-- EN: This title requires apparel of {1} quality or better. -->
-  <LetterRoyalTitleApparelQualityRequirement>TODO</LetterRoyalTitleApparelQualityRequirement>
+  <LetterRoyalTitleApparelQualityRequirement>Ehhez a címhez legalább {1} minőségű ruházatra van szükség.</LetterRoyalTitleApparelQualityRequirement>
   <!-- EN: This title requires apparel appropriate to {PAWN_possessive} title: -->
-  <LetterRoyalTitleApparelRequirement>TODO</LetterRoyalTitleApparelRequirement>
+  <LetterRoyalTitleApparelRequirement>Ehhez a címhez a {PAWN_possessive} címnek megfelelő ruházatra van szükség:</LetterRoyalTitleApparelRequirement>
   <!-- EN: {PAWN_possessive} expectations will never be less than {1}. -->
-  <LetterRoyalTitleExpectation>TODO</LetterRoyalTitleExpectation>
+  <LetterRoyalTitleExpectation>A {PAWN_possessive} elvárásai soha nem lesznek kevesebbek, mint {1}.</LetterRoyalTitleExpectation>
   
   <!-- EN: Because {PAWN_labelShort} is {1}, {PAWN_pronoun} will demand that this title's privileges be fully respected. {PAWN_pronoun} may refuse to do certain work types, eat low-class food and will issue decrees. -->
-  <LetterRoyalTitleConceitedTrait>TODO</LetterRoyalTitleConceitedTrait>
+  <LetterRoyalTitleConceitedTrait>Mivel {PAWN_labelShort} {1} ranggal bír, megköveteli, hogy teljes mértékben tartsák tiszteletben ennek a címnek a kiváltságait. {PAWN_pronoun} megtagadhatja bizonyos típusú munkák elvégzését, vagy alacsony minőségű ételek fogyasztását és rendeleteket adhat ki.</LetterRoyalTitleConceitedTrait>
 
   <!-- EN: {PAWN_labelShort} received the title of {TITLE} from {FACTION_name}! -->
-  <LetterGainedRoyalTitle>TODO</LetterGainedRoyalTitle>
+  <LetterGainedRoyalTitle>{PAWN_labelShort} megkapta a(z) {TITLE} címet {FACTION_name} frakciótól!</LetterGainedRoyalTitle>
   <!-- EN: {PAWN_labelShort} no longer holds the title of {TITLE} with {FACTION_name}. -->
-  <LetterLostRoyalTitle>TODO</LetterLostRoyalTitle>
+  <LetterLostRoyalTitle>{PAWN_labelShort} már nem birtokolja a(z) {FACTION_name} frakció {TITLE} címét.</LetterLostRoyalTitle>
   <!-- EN: Title rewards -->
-  <LetterLabelRewardsForNewTitle>TODO</LetterLabelRewardsForNewTitle>
+  <LetterLabelRewardsForNewTitle>Cím jutalmak</LetterLabelRewardsForNewTitle>
   <!-- EN: To honor {PAWN_labelShort} advancing to the title of {TITLE}, {FACTION_name} has sent {PAWN_objective} the following reward(s): -->
-  <LetterRewardsForNewTitle>TODO</LetterRewardsForNewTitle>
+  <LetterRewardsForNewTitle>A(z) {PAWN_labelShort} {TITLE} címének megszerzése okán {FACTION_name} frakció a következő jutalma(ka)t küldte a részére:</LetterRewardsForNewTitle>
   <!-- EN: Rewards have arrived to your colony via transport pods. -->
-  <LetterRewardsForNewTitleDeliveryBase>TODO</LetterRewardsForNewTitleDeliveryBase>
+  <LetterRewardsForNewTitleDeliveryBase>A jutalmak szállítókapszulában megérkeztek a kolóniádba.</LetterRewardsForNewTitleDeliveryBase>
   <!-- EN: Rewards were delivered directly to {PAWN_labelShort}'s inventory. -->
-  <LetterRewardsForNewTitleDeliveryDirect>TODO</LetterRewardsForNewTitleDeliveryDirect>
+  <LetterRewardsForNewTitleDeliveryDirect>A jutalmakat közvetlenül {PAWN_labelShort} készletébe szállítottuk.</LetterRewardsForNewTitleDeliveryDirect>
 
   <!-- EN: {PAWN_pronoun} has these permissions: -->
-  <LetterRoyalTitlePermits>TODO</LetterRoyalTitlePermits>
+  <LetterRoyalTitlePermits>A {PAWN_pronoun} a következő előjogokkal rendelkezik:</LetterRoyalTitlePermits>
   <!-- EN: {PAWN_pronoun} lost these permissions: -->
-  <LetterRoyalTitleLostPermits>TODO</LetterRoyalTitleLostPermits>
+  <LetterRoyalTitleLostPermits>{PAWN_pronoun} elvesztette ezeket az előjogokat:</LetterRoyalTitleLostPermits>
 
   <!-- EN: {PAWN_pronoun} is not willing to do these work types:\n{1} -->
-  <LetterRoyalTitleDisabledWorkTag>TODO</LetterRoyalTitleDisabledWorkTag>
+  <LetterRoyalTitleDisabledWorkTag>{PAWN_pronoun} nem hajlandó az alábbi típusú munkavégzésre:\n{1}</LetterRoyalTitleDisabledWorkTag>
 
   <!-- EN: {PAWN_pronoun} can now use this recreation: -->
-  <LetterRoyalTitleEnabledJoyKind>TODO</LetterRoyalTitleEnabledJoyKind>
+  <LetterRoyalTitleEnabledJoyKind>{PAWN_pronoun} most már használhatja ezt a kikapcsolódást:</LetterRoyalTitleEnabledJoyKind>
   <!-- EN: This title forbids using this recreation: -->
-  <LetterRoyalTitleDisabledJoyKind>TODO</LetterRoyalTitleDisabledJoyKind>
+  <LetterRoyalTitleDisabledJoyKind>Ez a cím tiltja ezt fajta a kikapcsolódást:</LetterRoyalTitleDisabledJoyKind>
 
   <!-- EN: {PAWN_pronoun} is allowed to use these implants:{1} -->
-  <LetterRoyalTitleAllowedImplants>TODO</LetterRoyalTitleAllowedImplants>
+  <LetterRoyalTitleAllowedImplants>Számára engedélyezett a következő implantátumok használata:{1}</LetterRoyalTitleAllowedImplants>
   <!-- EN: {PAWN_pronoun} is no longer allowed to use these implants:{1} -->
-  <LetterRoyalTitleImplantsMustBeRemoved>TODO</LetterRoyalTitleImplantsMustBeRemoved>
+  <LetterRoyalTitleImplantsMustBeRemoved>{PAWN_pronoun} már nem használhatja ezeket az implantátumokat:{1}</LetterRoyalTitleImplantsMustBeRemoved>
   <!-- EN: The implants must be extracted within a five-day grace period to avoid diplomatic consequences. -->
-  <LetterRoyalTitleImplantGracePeriod>TODO</LetterRoyalTitleImplantGracePeriod>
+  <LetterRoyalTitleImplantGracePeriod>Az implantátumokat ötnapos türelmi időn belül kell eltávolítani a diplomáciai következmények elkerülése érdekében.</LetterRoyalTitleImplantGracePeriod>
   <!-- EN: {PAWN_pronoun} can now give speeches from the throne. If it goes well, listeners will feel inspired. If it goes poorly, the speech will do social damage. The outcome depends on {PAWN_labelShort}'s social abilities. -->
-  <LetterRoyalTitleSpeechAbilityGained>TODO</LetterRoyalTitleSpeechAbilityGained>
+  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun} most beszédet tarthat a trónról. Ha jól megy, a hallgatók inspirációt fognak érezni. Ha rosszul megy, a beszéd társadalmi károkat okoz. Az eredmény {PAWN_labelShort} szociális képességeitől függ.</LetterRoyalTitleSpeechAbilityGained>
   <!-- EN: This title requires a throneroom that meets these requirements:{1} -->
-  <LetterRoyalTitleThroneroomRequirements>TODO</LetterRoyalTitleThroneroomRequirements>
+  <LetterRoyalTitleThroneroomRequirements>Ehhez a címhez olyan trónterem szükséges, amely megfelel a következő követelményeknek:{1}</LetterRoyalTitleThroneroomRequirements>
   <!-- EN: This title requires a bedroom that meets these requirements:{1} -->
-  <LetterRoyalTitleBedroomRequirements>TODO</LetterRoyalTitleBedroomRequirements>
+  <LetterRoyalTitleBedroomRequirements>Ez a cím olyan hálószobát igényel, amely megfelel a következő követelményeknek:{1}</LetterRoyalTitleBedroomRequirements>
   <!-- EN: This title says that {PAWN_pronoun} should only eat these foods:{1} -->
-  <LetterRoyalTitleFoodRequirements>TODO</LetterRoyalTitleFoodRequirements>
+  <LetterRoyalTitleFoodRequirements>Ez a cím azt mondja, hogy {PAWN_pronoun} csak ezeket az ételeket fogyaszthatja:{1}</LetterRoyalTitleFoodRequirements>
 
   <!-- EN: {PAWN_pronoun} will receive the following items via transport pod:{1} -->
-  <LetterRoyalTitleRewardGranted>TODO</LetterRoyalTitleRewardGranted>
+  <LetterRoyalTitleRewardGranted>{PAWN_pronoun} a következő tételeket kapja meg szállítókapszulában: {1}</LetterRoyalTitleRewardGranted>
   <!-- EN: {PAWN_labelShort} has gained {1} {FACTION_royalFavorLabel} from {FACTION_name}. -->
-  <PeaceTalksRoyalFavorGain>TODO</PeaceTalksRoyalFavorGain>
+  <PeaceTalksRoyalFavorGain>{PAWN_labelShort} {1} {FACTION_royalFavorLabel} díjat kapott a következőtől: {FACTION_name}.</PeaceTalksRoyalFavorGain>
 
   <!-- Royal heritage-->
   <!-- EN: If {PAWN_pronoun} dies, this title will be inherited by {HEIR_nameFull}. -->
-  <LetterRoyalTitleHeir>TODO</LetterRoyalTitleHeir>
+  <LetterRoyalTitleHeir>Ha {PAWN_pronoun} meghal, ezt a címet {HEIR_nameFull} örökli.</LetterRoyalTitleHeir>
   <!-- EN: If {PAWN_pronoun} dies, no one will inherit this title. -->
-  <LetterRoyalTitleNoHeir>TODO</LetterRoyalTitleNoHeir>
+  <LetterRoyalTitleNoHeir>Ha {PAWN_pronoun} meghal, senki sem örökli ezt a címet.</LetterRoyalTitleNoHeir>
   <!-- EN: {PAWN_nameFull} is a member of {FACTION_name}. -->
-  <LetterRoyalTitleHeirFactionWarning>TODO</LetterRoyalTitleHeirFactionWarning>
+  <LetterRoyalTitleHeirFactionWarning>{PAWN_nameFull} a {FACTION_name} frakció tagja.</LetterRoyalTitleHeirFactionWarning>
   <!-- EN: A new heir can be chosen by contacting {FACTION_name} through a comms console. -->
-  <LetterRoyalTitleChangingHeir>TODO</LetterRoyalTitleChangingHeir>
+  <LetterRoyalTitleChangingHeir>Az új örökös kiválasztásához kommunikációs konzolon keresztül vegye fel a kapcsolatot a következővel: {FACTION_name}.</LetterRoyalTitleChangingHeir>
   <!-- EN: Heir lost -->
-  <LetterTitleHeirLostLabel>TODO</LetterTitleHeirLostLabel>
+  <LetterTitleHeirLostLabel>Az örökös elveszett</LetterTitleHeirLostLabel>
   <!-- EN: {HEIR_nameFull} has died, leaving {HOLDER_labelShort} with no heir for the title received from {FACTION_name}. You can contact {FACTION_name} through a comms console to designate a new heir. -->
-  <LetterTitleHeirLost>TODO</LetterTitleHeirLost>
+  <LetterTitleHeirLost>{HEIR_nameFull} meghalt, így nem maradt örököse a {FACTION_name} által kapott {HOLDER_labelShort} címnek. Kommunikációs konzolon keresztül kapcsolatba léphet a következővel: {FACTION_name}, hogy új örököst jelöljenek ki.</LetterTitleHeirLost>
   <!-- EN: The title of {TITLE} cannot be inherited. -->
-  <LetterRoyalTitleCantBeInherited>TODO</LetterRoyalTitleCantBeInherited>
+  <LetterRoyalTitleCantBeInherited>A(z) {TITLE} cím nem örökölhető.</LetterRoyalTitleCantBeInherited>
 
 
   <!-- EN: Title inheritance -->
-  <LetterTitleInheritance>TODO</LetterTitleInheritance>
+  <LetterTitleInheritance>Cím öröklése</LetterTitleInheritance>
   <!-- EN: Since {PAWN_nameFull} died, {PAWN_possessive} titles will be transferred to {PAWN_possessive} heirs. -->
-  <LetterTitleInheritance_Base>TODO</LetterTitleInheritance_Base>
+  <LetterTitleInheritance_Base>Mivel {PAWN_nameFull} meghalt, a jogcímei átkerülnek az örököseihez.</LetterTitleInheritance_Base>
   <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It will replace {HEIR_possessive} {REPLACEDTITLE} title upon completion of a bestowing ceremony. -->
-  <LetterTitleInheritance_AsReplacement>TODO</LetterTitleInheritance_AsReplacement>
+  <LetterTitleInheritance_AsReplacement>A {TITLE} címét {HEIR_nameFull} örökölte, a {FACTION_name} utódlási törvényeinek megfelelően. Az új cím felváltja az ő {REPLACEDTITLE} címét a kinevezési ünnepség befejezésekor.</LetterTitleInheritance_AsReplacement>
   <!-- EN: {PAWN_possessive} {TITLE} title would have been inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}, but {HEIR_pronoun} already had a {HIGHERTITLE} title. -->
-  <LetterTitleInheritance_NoEffectHigherTitle>TODO</LetterTitleInheritance_NoEffectHigherTitle>
+  <LetterTitleInheritance_NoEffectHigherTitle>A {TITLE} címét {HEIR_nameFull} örökölte volna a {FACTION_name} utódlási törvényei szerint, de a ő már rendelkezett egy magasabb - {HIGHERTITLE} - címmel.</LetterTitleInheritance_NoEffectHigherTitle>
   <!-- EN: {PAWN_possessive} {TITLE} title will be inherited by {HEIR_nameFull} upon completion of a bestowing ceremony, according to the succession laws of {FACTION_name}. -->
-  <LetterTitleInheritance_WasInherited>TODO</LetterTitleInheritance_WasInherited>
+  <LetterTitleInheritance_WasInherited>A {TITLE} címét {HEIR_nameFull} örökli a kinevezési ünnepség befejeztével, a {FACTION_name} örökösödési törvényeinek megfelelően.</LetterTitleInheritance_WasInherited>
   <!-- EN: {PAWN_possessive} {TITLE} title was not inherited by anyone, since {PAWN_pronoun} had no designated heir for this title. -->
-  <LetterTitleInheritance_NoHeirFound>TODO</LetterTitleInheritance_NoHeirFound>
+  <LetterTitleInheritance_NoHeirFound>A {PAWN_possessive} {TITLE} címet senki sem örökölte, mivel neki nem volt kijelölt örököse erre a címre.</LetterTitleInheritance_NoHeirFound>
 
   <!-- Royal implant violations -->
   <!-- EN: Lawbreaker: {PAWN_labelShort} -->
-  <LetterLawViolationDetectedLabel>TODO</LetterLawViolationDetectedLabel>
+  <LetterLawViolationDetectedLabel>Törvényszegő: {PAWN_labelShort}</LetterLawViolationDetectedLabel>
   <!-- EN: {FACTION_name} has detected {PAWN_labelShort}'s illegal use of: {CULPRIT} (detection chance {CHANCE}).\n\nAccording to the laws of {FACTION_name}, only those who hold the title of {TITLE} are allowed to use {CULPRIT}.\n\nAs a penalty, your faction relations have fallen by {GOODWILL}. -->
-  <LetterLawViolationDetectedForbiddenThingUse>TODO</LetterLawViolationDetectedForbiddenThingUse>
+  <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name} frakció észlelte, hogy {PAWN_labelShort} illegálisan használja a következőt: {CULPRIT} (észlelési esély: {CHANCE}).\n\nA {FACTION_name} törvényei értelmében csak a(z) {TITLE} címmel rendelkezők jogosultak használni {CULPRIT} előjogokat.\n\nBüntetésként a frakciókapcsolataid {GOODWILL} mértékben csökkentek.</LetterLawViolationDetectedForbiddenThingUse>
 
   <!-- Throne Speech -->
   <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
-  <LetterFinishedSpeech>TODO</LetterFinishedSpeech>
+  <LetterFinishedSpeech>{ORGANIZER_labelShort} befejezte a beszédét.</LetterFinishedSpeech>
   <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
-  <LetterTerribleSpeech>TODO</LetterTerribleSpeech>
+  <LetterTerribleSpeech>Valóban szörnyű volt – tübbször megakadt, tele volt kínos viccekkel és lehangoló történetekkel.</LetterTerribleSpeech>
   <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
-  <LetterUninspiringSpeech>TODO</LetterUninspiringSpeech>
+  <LetterUninspiringSpeech>Nem volt inspiráló – monoton volt és hiányzott belőle a szenvedély.</LetterUninspiringSpeech>
   <!-- EN: It was encouraging and well-delivered. -->
-  <LetterEncouragingSpeech>TODO</LetterEncouragingSpeech>
+  <LetterEncouragingSpeech>Bátorító volt és jól sikerült.</LetterEncouragingSpeech>
   <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
-  <LetterInspirationalSpeech>TODO</LetterInspirationalSpeech>
+  <LetterInspirationalSpeech>Feltűnően inspiráló volt, tele volt intenzitással és érdemi célokkal.</LetterInspirationalSpeech>
   <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
-  <LetterSpeechInspiredListeners>TODO</LetterSpeechInspiredListeners>
+  <LetterSpeechInspiredListeners>A következő embereket különösen meghatotta a beszéd, és most ihletet kaptak:</LetterSpeechInspiredListeners>
   <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
-  <LetterSpeechInspiration>TODO</LetterSpeechInspiration>
+  <LetterSpeechInspiration>{SPEAKER_nameIndef} figyelemre méltó beszédének köszönhetően {PAWN_nameIndef} ihletet kapott!</LetterSpeechInspiration>
   <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
-  <LetterSpeechInterrupted>TODO</LetterSpeechInterrupted>
+  <LetterSpeechInterrupted>Mivel a beszédet {0} állapotánál szakították meg, ezért nem volt olyan hatékony.</LetterSpeechInterrupted>
   <!-- EN: {0}'s speech was cancelled before reaching 50% completion. It had no effect. -->
-  <LetterSpeechCancelled>TODO</LetterSpeechCancelled>
+  <LetterSpeechCancelled>{0} beszéde megszakadt, mielőtt elérte volna az 50%-os állapotát. Nem volt hatása.</LetterSpeechCancelled>
   <!-- EN: Speech cancelled -->
-  <LetterLabelSpeechCancelled>TODO</LetterLabelSpeechCancelled>
+  <LetterLabelSpeechCancelled>Beszéd megszakítva</LetterLabelSpeechCancelled>
 
   <!-- Wild decree mental break -->
   <!-- EN: Wild decree -->
-  <WildDecree>TODO</WildDecree>
+  <WildDecree>Vad rendelet</WildDecree>
   <!-- EN: {0_nameIndef} issues decree -->
-  <LetterLabelRandomDecree>TODO</LetterLabelRandomDecree>
+  <LetterLabelRandomDecree>{0_nameIndef} rendeletet ad ki</LetterLabelRandomDecree>
   <!-- EN: {0_nameIndef}, in an attempt to release {0_possessive} stress, has issued a wild royal decree and is now demanding that it be carried out.
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
-  <LetterDecreeMentalBreak>TODO</LetterDecreeMentalBreak>
+  <LetterDecreeMentalBreak>{0_nameIndef} a stressz feloldása érdekében vad királyi rendeletet adott ki, és most követeli annak végrehajtását.\n    \nHa nem hajtják végre időben, {0_nameIndef} nagyon boldogtalan lesz.</LetterDecreeMentalBreak>
   <!-- EN: {0_nameIndef}, in order to affirm {0_possessive} title of {0_bestRoyalTitleIndef}, has issued a decree and is now demanding that it be carried out.
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
-  <LetterRandomDecree>TODO</LetterRandomDecree>
+  <LetterRandomDecree>{0_nameIndef}, hogy megerősítse a {0_bestRoyalTitleIndef} címét, rendeletet adott ki, és most követeli annak végrehajtását.\n    \nHa nem hajtják végre időben, {0_nameIndef} nagyon boldogtalan lesz.</LetterRandomDecree>
   <!-- EN: The decree is titled "{0}". -->
-  <LetterDecree_Quest>TODO</LetterDecree_Quest>
+  <LetterDecree_Quest>A rendelet címe: "{0}".</LetterDecree_Quest>
   
   <!-- Lent colonist died -->
   <!-- EN: {PAWN_nameDef} was lent to {FACTION}. They will return the body of {PAWN_nameDef} shortly. -->
-  <LentColonistDied>TODO</LentColonistDied>  
+  <LentColonistDied>{PAWN_nameDef} kölcsönadásra került a következőnek: {FACTION}. Hamarosan visszaküldik a {PAWN_nameDef} testét.</LentColonistDied>  
 
   <!-- Psylink -->
   <!-- EN: Psylink gained -->
-  <LetterLabelPsylinkLevelGained>TODO</LetterLabelPsylinkLevelGained>
+  <LetterLabelPsylinkLevelGained>Psylink megszerezve</LetterLabelPsylinkLevelGained>
   <!-- EN: {USER_labelShort} has gained {USER_possessive} first level of psylink! {USER_pronoun} is now a psycaster.\n\nTo use psychic powers, {USER_labelShort} must build up psyfocus through meditation. The effectiveness of this meditation is increased if the person can focus on a specific object while meditating.\n\nDifferent people are able to focus on different objects. This depend on the person's backstories, traits, and titles. For example:\n\n- Psycasters with royal titles meditate on their thrones.\n- Psycasters with tribal childhoods meditate to anima trees and nature shrines.\n- Ascetic psycasters meditate to blank walls.\n- Psychopathic psycasters meditate to graves, ideally with a loved one inside.\n\nYou can see someone's meditation focus types by looking at their info card with the 'i' button. -->
-  <LetterPsylinkLevelGained_First>TODO</LetterPsylinkLevelGained_First>
+  <LetterPsylinkLevelGained_First>{USER_labelShort} has gained {USER_possessive} first level of psylink! {USER_pronoun} is now a psycaster.\n\nTo use psychic powers, {USER_labelShort} must build up psyfocus through meditation. The effectiveness of this meditation is increased if the person can focus on a specific object while meditating.\n\nDifferent people are able to focus on different objects. This depend on the person's backstories, traits, and titles. For example:\n\n- Psycasters with royal titles meditate on their thrones.\n- Psycasters with tribal childhoods meditate to anima trees and nature shrines.\n- Ascetic psycasters meditate to blank walls.\n- Psychopathic psycasters meditate to graves, ideally with a loved one inside.\n\nYou can see someone's meditation focus types by looking at their info card with the 'i' button.</LetterPsylinkLevelGained_First>
   <!-- EN: {USER_labelShort} has gained a new level of psylink! {USER_pronoun} can now use psychic powers of that higher level, but {USER_pronoun} needs to learn them first. -->
-  <LetterPsylinkLevelGained_NotFirst>TODO</LetterPsylinkLevelGained_NotFirst>
+  <LetterPsylinkLevelGained_NotFirst>{USER_labelShort} a psylink új szintjét érte el! Mostantól használhatja a magasabb szintű pszichikai képességeket, de először meg kell tanulnia őket.</LetterPsylinkLevelGained_NotFirst>
   <!-- EN: Upon gaining the new psylink level, {USER_labelShort} automatically learned these psychic powers: {2} -->
-  <LetterPsylinkLevelGained_PsycastLearned>TODO</LetterPsylinkLevelGained_PsycastLearned>
+  <LetterPsylinkLevelGained_PsycastLearned>Az új psylink szint elérésekor {USER_labelShort} automatikusan megtanulta a következő pszichikai képességeket: {2}</LetterPsylinkLevelGained_PsycastLearned>
   
   <!-- Abilities -->
   <!-- EN: Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration! -->
-  <LetterPsychicInspiration>TODO</LetterPsychicInspiration>
+  <LetterPsychicInspiration>{CASTER_nameIndef} pszichikai javaslatának köszönhetően {PAWN_nameIndef} ihletet kapott!</LetterPsychicInspiration>
 
   <!-- EN: Bestowing ceremony expired -->
-  <LetterLabelBestowingCeremonyExpired>TODO</LetterLabelBestowingCeremonyExpired>
+  <LetterLabelBestowingCeremonyExpired>A kinevezési ünnepség elévült</LetterLabelBestowingCeremonyExpired>
   <!-- EN: {TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled. -->
-  <LetterTextBestowingCeremonyExpired>TODO</LetterTextBestowingCeremonyExpired>
+  <LetterTextBestowingCeremonyExpired>{TARGET_definite} nem jelent meg a kinevezési ünnepségen. A szertartást törölték.</LetterTextBestowingCeremonyExpired>
 
   <!-- EN: {TARGET_definite}'s title changed -->
-  <LetterLabelBestowingCeremonyTitleUpdated>TODO</LetterLabelBestowingCeremonyTitleUpdated>
+  <LetterLabelBestowingCeremonyTitleUpdated>{TARGET_definite} címe megváltozott</LetterLabelBestowingCeremonyTitleUpdated>
   <!-- EN: {TARGET_definite} has gained new title since the bestowing ceremony was scheduled. In order for bestowing to match the new title, another ceremony will be scheduled soon.\n\nThe new bestowing ceremony will include the psylink rewards for all titles which were not yet awarded. -->
-  <LetterTextBestowingCeremonyTitleUpdated>TODO</LetterTextBestowingCeremonyTitleUpdated>
+  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite} új címet kapott a kinevezési ünnepség kitűzése óta. Annak érdekében, hogy az adományozás megfeleljen az új címnek, hamarosan újabb eseményt tervezünk.\n\nAz új adományozási ceremónia tartalmazza a psylink jutalmakat minden olyan cím után, amelyet még nem adtak ki.</LetterTextBestowingCeremonyTitleUpdated>
   
   <!-- EN: {PAWN_labelShort} received {1} honor as a sign of respect from {FACTION_name}, for gathering {3} spectators. -->
-  <LetterPartBestowingExtraHonor>TODO</LetterPartBestowingExtraHonor>
+  <LetterPartBestowingExtraHonor>{PAWN_labelShort} {1} kitüntetésben részesült a tisztelet jeleként {FACTION_name} részéről, amiért {3} nézőt gyűjtött össze.</LetterPartBestowingExtraHonor>
   <!-- EN: {PAWN_labelShort} received no extra honor since there weren't many spectators. -->
-  <LetterPartNoExtraHonor>TODO</LetterPartNoExtraHonor>
+  <LetterPartNoExtraHonor>{PAWN_labelShort} nem kapott extra kitüntetést, mivel nem volt sok néző.</LetterPartNoExtraHonor>
   <!-- EN: All viewers of the ceremony received a mood bonus. -->
-  <LetterPartMoodBonus>TODO</LetterPartMoodBonus>
+  <LetterPartMoodBonus>Az ünnepség minden nézője hangulati bónuszt kapott.</LetterPartMoodBonus>
 
   <!-- EN: Who should be credited with {0} for defeating the bandit camp? -->
-  <LetterTextHonorAward_BanditCamp>TODO</LetterTextHonorAward_BanditCamp>
+  <LetterTextHonorAward_BanditCamp>Kinek köszönhető, hogy {0} legyőzte a bandita tábort?</LetterTextHonorAward_BanditCamp>
 
   <!-- Shuttle crash -->
   <!-- EN: Shuttle crashed -->
-  <LetterLabelShuttleCrashed>TODO</LetterLabelShuttleCrashed>
+  <LetterLabelShuttleCrashed>Lezuhant űrsikló</LetterLabelShuttleCrashed>
   <!-- EN: A shuttle has crashed nearby -->
-  <LetterTextShuttleCrashed>TODO</LetterTextShuttleCrashed>
+  <LetterTextShuttleCrashed>A közelben lezuhant egy űrsikló</LetterTextShuttleCrashed>
 
   <!-- Wanderer joins -->
   <!-- EN: Transport pod crash: {0_nameDef} -->
-  <LetterLabelWandererJoinsAbasia>TODO</LetterLabelWandererJoinsAbasia>
+  <LetterLabelWandererJoinsAbasia>Szállítókapszula baleset: {0_nameDef}</LetterLabelWandererJoinsAbasia>
   <!-- EN: A {0_title} named {0_nameDef} is crashing in a transport pod nearby.\n\n{0_nameDef} is suffering from {1_label} and will be unable to walk.\n\n{0_pronoun} will recover naturally after many days. There is also a chance of a lucky quick recovery. {1_label} can also be cured by a special operation which requires a large amount of glitterworld medicine.\n\n{0_pronoun} is willing to contribute once {0_pronoun} has recovered, but will not leave voluntarily. If you don't want {0_nameDef}, you can banish {0_objective}, sell {0_objective} into slavery or leave {0_objective} to die. However, your other colonists may find this disturbing. -->
-  <LetterTextWandererJoinsAbasia>TODO</LetterTextWandererJoinsAbasia>
+  <LetterTextWandererJoinsAbasia>Egy {0_title} nevű {0_nameDef} balesetet szenvedett a közelben egy szállítókapszulában.\n\n{0_nameDef} {1_label} betegségben szenved és nem tud járni.\n\n Egészsége természetes módon helyreáll egy idő múlva. A szerencsés gyors felépülésre is van esély. A(z) {1_label} speciális műtéttel is meggyógyítható, amihez nagy mennyiségű szupervilági gyógyszerre van szükség.\n\nEgyüttműködik, ha felépül, de nem távozik önként. Ha nem akarod {0_nameDef} jelenlétét, száműzheted őt, eladhatod rabszolgaként vagy hagyhatod, hogy meghaljon. A többi telepes azonban ezt zavarónak találhatja.</LetterTextWandererJoinsAbasia>
 
 </LanguageData>

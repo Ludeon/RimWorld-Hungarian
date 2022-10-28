@@ -2,47 +2,45 @@
 <LanguageData>
   
   <!-- EN: son -->
-  <Child.label>gyerek</Child.label>
+  <Child.label>fiú</Child.label>
   <!-- EN: daughter -->
-  <Child.labelFemale>gyerek</Child.labelFemale>
+  <Child.labelFemale>lány</Child.labelFemale>
   
   <!-- EN: cousin -->
   <Cousin.label>unokatestvér</Cousin.label>
-  <Cousin.labelFemale>unokatestvér</Cousin.labelFemale>
   
   <!-- EN: cousin once removed -->
-  <CousinOnceRemoved.label>másodunokaöcs </CousinOnceRemoved.label>
-  <CousinOnceRemoved.labelFemale>másodunokahúg </CousinOnceRemoved.labelFemale>
+  <CousinOnceRemoved.label>másodunokaöcs</CousinOnceRemoved.label>
   
   <!-- EN: grandson -->
-  <Grandchild.label>unoka</Grandchild.label>
+  <Grandchild.label>fiúunoka</Grandchild.label>
   <!-- EN: granddaughter -->
-  <Grandchild.labelFemale>unoka</Grandchild.labelFemale>
+  <Grandchild.labelFemale>lányunoka</Grandchild.labelFemale>
   
   <!-- EN: grandnephew -->
-  <GrandnephewOrGrandniece.label>nagy-unokaöcs</GrandnephewOrGrandniece.label>
+  <GrandnephewOrGrandniece.label>unokaöcs</GrandnephewOrGrandniece.label>
   <!-- EN: grandniece -->
-  <GrandnephewOrGrandniece.labelFemale>nagy-unokahúg</GrandnephewOrGrandniece.labelFemale>
+  <GrandnephewOrGrandniece.labelFemale>unokahúg</GrandnephewOrGrandniece.labelFemale>
   
   <!-- EN: grandfather -->
   <Grandparent.label>nagyapa</Grandparent.label>
   <!-- EN: grandmother -->
-  <Grandparent.labelFemale>nagyanya</Grandparent.labelFemale>
+  <Grandparent.labelFemale>nagymama</Grandparent.labelFemale>
   
   <!-- EN: granduncle -->
-  <GranduncleOrGrandaunt.label>nagy-nagybácsi</GranduncleOrGrandaunt.label>
+  <GranduncleOrGrandaunt.label>nagybácsi</GranduncleOrGrandaunt.label>
   <!-- EN: grandaunt -->
-  <GranduncleOrGrandaunt.labelFemale>nagy-nagynéni</GranduncleOrGrandaunt.labelFemale>
+  <GranduncleOrGrandaunt.labelFemale>nagynéni</GranduncleOrGrandaunt.labelFemale>
   
   <!-- EN: great grandson -->
-  <GreatGrandchild.label>ükunoka</GreatGrandchild.label>
+  <GreatGrandchild.label>fiú dédunoka</GreatGrandchild.label>
   <!-- EN: great granddaughter -->
-  <GreatGrandchild.labelFemale>ükunoka</GreatGrandchild.labelFemale>
+  <GreatGrandchild.labelFemale>lány dédunoka</GreatGrandchild.labelFemale>
   
   <!-- EN: great grandfather -->
-  <GreatGrandparent.label>ükapa</GreatGrandparent.label>
+  <GreatGrandparent.label>dédnagyapa</GreatGrandparent.label>
   <!-- EN: great grandmother -->
-  <GreatGrandparent.labelFemale>ükanya</GreatGrandparent.labelFemale>
+  <GreatGrandparent.labelFemale>dédnagymama</GreatGrandparent.labelFemale>
   
   <!-- EN: brother -->
   <HalfSibling.label>féltestvér</HalfSibling.label>
@@ -51,7 +49,6 @@
   
   <!-- EN: kin -->
   <Kin.label>rokon</Kin.label>
-  <Kin.labelFemale>rokon</Kin.labelFemale>
   
   <!-- EN: nephew -->
   <NephewOrNiece.label>unokaöcs</NephewOrNiece.label>
@@ -64,8 +61,7 @@
   <Parent.labelFemale>anya</Parent.labelFemale>
   
   <!-- EN: second cousin -->
-  <SecondCousin.label>másodunokatestvér </SecondCousin.label>
-  <SecondCousin.labelFemale>másodunokatestvér </SecondCousin.labelFemale>
+  <SecondCousin.label>másod-unokatestvér</SecondCousin.label>
   
   <!-- EN: brother -->
   <Sibling.label>fivér</Sibling.label>

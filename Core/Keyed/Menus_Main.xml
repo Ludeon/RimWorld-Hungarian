@@ -31,7 +31,7 @@
   <!-- EN: Cleaning translation files -->
   <CleaningTranslationFiles>Fordítás fájljainak tisztázása</CleaningTranslationFiles>
   <!-- EN: Dev quicktest -->
-  <DevQuickTest>TODO</DevQuickTest>
+  <DevQuickTest>Fejlesztői gyorsteszt</DevQuickTest>
   <!-- EN: Credits -->
   <Credits>Stáblista</Credits>
   <!-- EN: Quit to main menu -->
@@ -169,7 +169,7 @@
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
   <ConfirmUnsubscribeFrom>Biztos, hogy le akarsz iratkozni erről: {0}?</ConfirmUnsubscribeFrom>
   <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
-  <ConfirmUnsubscribeFromMultiple>Biztos, hogy le akarsz iratkozni erről:\n\n{0}?</ConfirmUnsubscribeFromMultiple>
+  <ConfirmUnsubscribeFromMultiple>Biztosan le szeretnél iratkozni a következőkről:\n\n{0}</ConfirmUnsubscribeFromMultiple>
   <!-- EN: Author -->
   <Author>Készítő</Author>
   <!-- EN: Enabled -->
@@ -331,7 +331,7 @@
   <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>Frissíthető a Műhelyben, mivel te vagy a szerző.</CanBeUpdatedOnWorkshop>
   <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
-  <ScenarioChangedSavePrompt>TODO</ScenarioChangedSavePrompt>
+  <ScenarioChangedSavePrompt>Ez a forgatókönyv át lett szerkesztve.\n\nSzeretnéd menteni a folytatás előtt?</ScenarioChangedSavePrompt>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
@@ -478,9 +478,9 @@
   <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
   <Difficulty_AllowCaveHives_Info>A szunnyadó rovarkaptárak természetes barlangokban ívhatnak.\n\nEz a beállítás csak a térképkészítésre vonatkozik, és nincs hatással az aktív rovarokra, amelyek játék közben alagútba léphetnek.</Difficulty_AllowCaveHives_Info>
   <!-- EN: Add unwavering prisoners -->
-  <Difficulty_UnwaveringPrisoners_Label>TODO</Difficulty_UnwaveringPrisoners_Label>
+  <Difficulty_UnwaveringPrisoners_Label>Megingathatatlan foglyok hozzáadása</Difficulty_UnwaveringPrisoners_Label>
   <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
-  <Difficulty_UnwaveringPrisoners_Info>TODO</Difficulty_UnwaveringPrisoners_Info>
+  <Difficulty_UnwaveringPrisoners_Info>Ez az opció további elfogható foglyokat ad a játékhoz, akiket a rendíthetetlen hűségük miatt nem lehet toborozni.\n\nA rendíthetetlen foglyok a normál foglyok mellé kerülnek, így ennek kikapcsolása nem ad több toborozható foglyot – egyszerűen eltávolítja a megingathatatlanokat.\n\nA rendíthetetlen foglyokat továbbra is szabadon engedheted diplomáciai haszonszerzés céljából, eladhatod, rabszolgává teheted, szervet nyerhetsz ki belőlük vagy más módon használhatod őket. Általában több lehetőséget és erőforrást kínálnak, valamint egy kicsit gazdagabbá és könnyebbé teszik a játékot.</Difficulty_UnwaveringPrisoners_Info>
 
   <!-- EN: Player tools -->
   <DifficultyPlayerToolsSection>Játékos eszközök</DifficultyPlayerToolsSection>
@@ -601,7 +601,7 @@
   <!-- EN: temperature -->
   <TemperatureLower>hőmérséklet</TemperatureLower>
   <!-- EN: light -->
-  <LightLower>TODO</LightLower>
+  <LightLower>fény</LightLower>
 
   <!-- Character chooser -->
   <!-- EN: Create characters -->
@@ -627,21 +627,21 @@
   <!-- EN: Abilities -->
   <Abilities>Képességek</Abilities>
   <!-- EN: Caused by -->
-  <IncapableOfTooltipHediff>A következő körülmény okozza: {0}</IncapableOfTooltipHediff>
+  <IncapableOfTooltipHediff>A következő körülmény okozza:</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
-  <IncapableOfTooltipWorkTypes>Kikapcsolt munkák: {0}</IncapableOfTooltipWorkTypes>
+  <IncapableOfTooltipWorkTypes>Kikapcsolt munkák:</IncapableOfTooltipWorkTypes>
   <!-- EN: Caused by backstory -->
-  <IncapableOfTooltipBackstory>A következő háttértörténet okozza: {0}</IncapableOfTooltipBackstory>
+  <IncapableOfTooltipBackstory>A következő háttértörténet okozza:</IncapableOfTooltipBackstory>
   <!-- EN: Caused by title -->
-  <IncapableOfTooltipTitle>A következő cím okozza: {0}</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTitle>A következő cím okozza:</IncapableOfTooltipTitle>
   <!-- EN: Caused by trait -->
-  <IncapableOfTooltipTrait>A következő tulajdonság okozza: {0}</IncapableOfTooltipTrait>
+  <IncapableOfTooltipTrait>A következő tulajdonság okozza:</IncapableOfTooltipTrait>
   <!-- EN: Caused by quest status -->
-  <IncapableOfTooltipQuest>A küldetés állapota okozza: {0}</IncapableOfTooltipQuest>
+  <IncapableOfTooltipQuest>A küldetés állapota okozza:</IncapableOfTooltipQuest>
   <!-- EN: Caused by role -->
-  <IncapableOfTooltipRole>Szerep okozta: {0}</IncapableOfTooltipRole>
+  <IncapableOfTooltipRole>Szerep okozza:</IncapableOfTooltipRole>
   <!-- EN: Caused by gene -->
-  <IncapableOfTooltipGene>TODO</IncapableOfTooltipGene>
+  <IncapableOfTooltipGene>Gén okozza:</IncapableOfTooltipGene>
   <!-- EN: Traits -->
   <Traits>Jellemvonás</Traits>
   <!-- EN: Permanent mood effect -->

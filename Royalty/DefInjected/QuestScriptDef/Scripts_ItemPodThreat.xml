@@ -6,14 +6,23 @@
     <li>questDescription(asker_factionLeader==True)->A vengeful machine persona is threatening the [asker_faction_pawnsPlural] of [asker_faction_name]. [asker_faction_leaderTitle] [asker_nameFull] wants you to send a message to the persona accepting responsibility for their transgressions.\n\nIf you do, the persona will turn its anger on you. [gameConditionDescriptionFuture].</li>
     <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], wants to perform a low-power test of one of [asker_possessive] ship's area-attack weapons. If [asker_pronoun] does, [gameConditionDescriptionFuture].\n\nSince you are a local landholder under imperial law, [asker_nameDef] needs your honorable permission to proceed.</li>
   -->
-  <ThreatReward_GameCondition_ItemPod.questDescriptionRules.rulesStrings>TODO</ThreatReward_GameCondition_ItemPod.questDescriptionRules.rulesStrings>
+  <ThreatReward_GameCondition_ItemPod.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Egy gépszemély egy orbitális pályán keringő hajón bolygókísérleteket szeretne végezni. Ha elvégzi a kísérletét, [gameConditionDescriptionFuture].\n\nAggódik amiatt, hogy bajba kerülhet az etikai felülvizsgálati testületnél, ezért a hozzájárulásodat kéri.</li>
+    <li>questDescription(asker_factionLeader==True)->Egy bosszúálló gépszemély fenyegeti [asker_faction_name] [asker_faction_pawnsPlural] népét. [asker_faction_leaderTitle] [asker_nameFull] azt akarja, hogy küldj egy üzenetet a személynek, hogy vállalod a felelősséget a vétkeikért.\n\nHa megteszed, a gép feléd fordítja majd a haragját. [gameConditionDescriptionFuture].</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], wants to perform a low-power test of one of [asker_possessive] ship's area-attack weapons. If [asker_pronoun] does, [gameConditionDescriptionFuture].\n\nSince you are a local landholder under imperial law, [asker_nameDef] needs your honorable permission to proceed.</li>
+  </ThreatReward_GameCondition_ItemPod.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[asker_nameDef]'s [gameCondition_label]</li>
     <li>questName->[gameCondition_indefinite] for [asker_nameDef]</li>
     <li>questName->Paid [gameCondition_label]</li>
     <li>questName->[gameCondition_label] for Pay</li>
   -->
-  <ThreatReward_GameCondition_ItemPod.questNameRules.rulesStrings>TODO</ThreatReward_GameCondition_ItemPod.questNameRules.rulesStrings>
+  <ThreatReward_GameCondition_ItemPod.questNameRules.rulesStrings>
+    <li>questName->[asker_nameDef] [gameCondition_label] küldetése</li>
+    <li>questName->[gameCondition_indefinite] for [asker_nameDef]</li>
+    <li>questName->Fizetett [gameCondition_label]</li>
+    <li>questName->[gameCondition_label] fizettségért</li>
+  </ThreatReward_GameCondition_ItemPod.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>questDescription(askerIsNull==true)->An orbiting research ship wants to test a new type of insect pheromone. If you agree, they'll sweep [map_definite] with the pheromone, provoking (*Threat)an infestation of [hivesCount] hives(/Threat).[helpersParagraph]</li>

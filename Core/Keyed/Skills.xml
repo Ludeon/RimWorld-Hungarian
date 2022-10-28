@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- EN: Skill level -->
-  <Level>Szint</Level>
+  <Level>Képesség szint</Level>
   <!-- EN: Progress to next learned level -->
   <ProgressToNextLevel>Gyűjtött/Szükséges TP</ProgressToNextLevel>
   <!-- EN: Experience -->
@@ -10,29 +10,29 @@
   <!-- EN: Passion -->
   <Passion>Tehetség</Passion>
   <!-- EN: No passion -->
-  <PassionNone>Tehetségtelen (fejlődés: {0})</PassionNone>
+  <PassionNone>Tehetségtelen</PassionNone>
   <!-- EN: Passion -->
   <PassionMinor>Átlagos (fejlődés: {0})</PassionMinor>
   <!-- EN: Burning passion -->
   <PassionMajor>Tehetséges (fejlődés: {0})</PassionMajor>
   <!-- EN: Learning speed -->
-  <LearningSpeed>TODO</LearningSpeed>
+  <LearningSpeed>Tanulási sebesség</LearningSpeed>
   <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
   <LearnedMaxToday>Ma nem tanulhat többet ({0}/{1}, további tanulás szorzója {2})</LearnedMaxToday>
   <!-- EN: Children learn skills by watching adults work and by taking lessons at a lesson desk. -->
-  <ChildrenLearn>TODO</ChildrenLearn>
+  <ChildrenLearn>A gyerekek úgy sajátítanak el készségeket, hogy figyelik a felnőttek munkáját, és leckéket vesznek az iskolapadban.</ChildrenLearn>
   <!-- EN: Effects at level {0} -->
   <EffectsAtLevel>Hatása a szinten {0}</EffectsAtLevel>
   <!-- EN: MAX -->
   <SkillMax>MAX</SkillMax>
   <!-- EN: Learned level -->
-  <LearnedLevel>TODO</LearnedLevel>
+  <LearnedLevel>Tanult szint</LearnedLevel>
   <!-- EN: Negative level adjusted to zero. -->
-  <NegativeLevelAdjustedToZero>TODO</NegativeLevelAdjustedToZero>
+  <NegativeLevelAdjustedToZero>A negatív szint nullára állítva.</NegativeLevelAdjustedToZero>
   <!-- EN: Level capped at {0}. -->
-  <LevelCappedAtMax>TODO</LevelCappedAtMax>
+  <LevelCappedAtMax>A szint felső határa: {0}.</LevelCappedAtMax>
   <!-- EN: {GENE_label} gene -->
-  <GeneLabelWithDesc>TODO</GeneLabelWithDesc>
+  <GeneLabelWithDesc>{GENE_label} gén</GeneLabelWithDesc>
 
   <!-- EN: Barely heard of it -->
   <Skill0>Fogalmatlan</Skill0>

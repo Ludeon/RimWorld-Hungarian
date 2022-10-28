@@ -46,17 +46,17 @@
   
   <!-- Meditation -->
   <!-- EN: Psyfocus -->
-  <Psyfocus>TODO</Psyfocus>
+  <Psyfocus>Pszichofókusz</Psyfocus>
   <!-- EN: Psyfocus -->
-  <PsyfocusLabelGizmo>TODO</PsyfocusLabelGizmo>
+  <PsyfocusLabelGizmo>Pszichofókusz</PsyfocusLabelGizmo>
   <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychic powers, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
-  <PsyfocusDesc>TODO</PsyfocusDesc>
+  <PsyfocusDesc>A pszichofókusz a mentális strukturálás egy speciális típusa, amely szükséges a pszichés erők használatához. A pszichofókusz idővel eloszlik, és rendszeres meditációval kell felépíteni. Az összes pszichofókusz elvesztése azt eredményezi, hogy valaki nem tudja használni a pszichikai képességeit, de nincs más következménye.\n\nA magasabb szintű pszichofókusz magasabb szintű erőket tesz lehetővé, de növeli a pszichikus fókusz disszipáció sebességét is.</PsyfocusDesc>
   <!-- EN: {0}-{1}% -->
-  <PsyfocusLevelInfoRange>TODO</PsyfocusLevelInfoRange>
+  <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
   <!-- EN: Up to level {0} powers. -->
   <PsyfocusLevelInfoPsycasts>TODO</PsyfocusLevelInfoPsycasts>
   <!-- EN: Psyfocus falls at {0} per day. -->
-  <PsyfocusLevelInfoFallRate>TODO</PsyfocusLevelInfoFallRate>
+  <PsyfocusLevelInfoFallRate>A pszichofókusz naponta {0} értékkel esik.</PsyfocusLevelInfoFallRate>
   <!-- EN: Meditation focus strength for {LASTUSER_labelShort} -->
   <UserMeditationFocusStrength>TODO</UserMeditationFocusStrength>
   <!-- EN: Focus effect impacted by -->
@@ -82,11 +82,11 @@
   <!-- EN: {2} per nearby lit flame source ({0} / {1}) -->
   <MeditationFocusPerFlame>TODO</MeditationFocusPerFlame>
   <!-- EN: Psyfocus gain rate: {0}/d -->
-  <PsyfocusPerDayOfMeditation>TODO</PsyfocusPerDayOfMeditation>
+  <PsyfocusPerDayOfMeditation>Pszichofókusz erősítés aránya: {0}/n</PsyfocusPerDayOfMeditation>
   <!-- EN: Desired psyfocus -->
-  <DesiredPsyfocus>TODO</DesiredPsyfocus>
+  <DesiredPsyfocus>Kívánt pszichofókusz</DesiredPsyfocus>
   <!-- EN: Click to set desired psyfocus. -->
-  <DesiredPsyfocusDesc>TODO</DesiredPsyfocusDesc>
+  <DesiredPsyfocusDesc>Kattints a kívánt pszichofókusz beállításához.</DesiredPsyfocusDesc>
 
   <!-- EN: no throne assigned. -->
   <AbilitySpeechDisabledNoThroneAssigned>TODO</AbilitySpeechDisabledNoThroneAssigned>
@@ -110,9 +110,9 @@
   <AbilitySpeechTargetDescThrone>TODO</AbilitySpeechTargetDescThrone>
   
   <!-- EN: no accessible altar. -->
-  <RitualDisabledNoAltar>TODO</RitualDisabledNoAltar>
+  <RitualDisabledNoAltar>nincs hozzáférhető oltár.</RitualDisabledNoAltar>
   <!-- EN: Bestowing Ceremony -->
-  <RitualBestowingCeremony>TODO</RitualBestowingCeremony>
+  <RitualBestowingCeremony>Kinevezési Ünnepség</RitualBestowingCeremony>
 
   <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
   <TotalMeditationToday>TODO</TotalMeditationToday>
@@ -138,18 +138,18 @@
   <!-- EN: Land shuttle here -->
   <LandHere>TODO</LandHere>
   <!-- EN: Destination is out of range. -->
-  <MessageShuttleDestinationIsTooFar>TODO</MessageShuttleDestinationIsTooFar>
+  <MessageShuttleDestinationIsTooFar>A cél hatókörön kívül van.</MessageShuttleDestinationIsTooFar>
 
   <!-- EN: Start bestowing ceremony for {0_labelShort} -->
-  <BeginCeremony>TODO</BeginCeremony>
+  <BeginCeremony>{0_labelShort} kinevezési ünnepének indítása</BeginCeremony>
   <!-- EN: {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. -->
-  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>TODO</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>{PAWN_definite} trónterme nem felel meg a(z) {TITLE} cím követelményeinek.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
   <!-- EN: The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled. -->
-  <BestowingCeremonyThroneroomRequirementsNotSatisfied>TODO</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>Az adomámyozó megsértődött, amiért {PAWN_definite} trónterme nem felel meg a {TITLE} cím követelményeinek. A kinevezési ünnepséget törölték.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
   <!-- EN: bestowing ceremony -->
-  <BestowingCeremonyLabel>TODO</BestowingCeremonyLabel>
+  <BestowingCeremonyLabel>kinevezési ünnepség</BestowingCeremonyLabel>
   <!-- EN: Bestowing ceremony total quality was {0}, determined by these factors -->
-  <BestowingOutcomeQualitySpecific>TODO</BestowingOutcomeQualitySpecific>
+  <BestowingOutcomeQualitySpecific>A kinevezési ünnepség teljes minősége {0} volt, amelyet ezek a tényezők határoztak meg</BestowingOutcomeQualitySpecific>
   
   <!-- EN: No colonists that can link with anima tree right now. -->
   <RitualTargetAnimaTreeNoPawnsToLink>TODO</RitualTargetAnimaTreeNoPawnsToLink>

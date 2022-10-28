@@ -16,7 +16,6 @@
     <li>cultureLeaderAdjective->nagy</li>
     <li>cultureLeaderAdjective->fő</li>
     <li>cultureLeaderAdjective->első</li>
-    <li>cultureLeaderAdjective->nagy</li>
     <li>cultureLeaderNoun->főnök</li>
   </LeaderTitleMaker_Corunan.rulePack.rulesStrings>
   
@@ -63,15 +62,14 @@
   -->
   <LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
     <li>memeLeaderNoun(priority=1)->[cultureLeaderNoun]</li>
-    <li>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</li>
-    <li>cultureLeaderAdjective->nagy</li>
-    <li>cultureLeaderAdjective->csúcs</li>
-    <li>cultureLeaderAdjective->nagy</li>
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
     <li>cultureLeaderNoun->főnök</li>
-    <li>cultureLeaderNoun->gonosz</li>
-    <li>cultureLeaderNoun->fej</li>
-    <li>cultureLeaderNoun->ágyú</li>
-    <li>cultureLeaderNoun->kutya</li>
+    <li>cultureLeaderNoun->főgonosz</li>
+    <li>cultureLeaderNoun->fővezér</li>
+    <li>cultureLeaderNoun->vezér</li>
+    <li>cultureLeaderNoun->vezér</li>
+    <li>cultureLeaderNoun->nagyágyú</li>
+    <li>cultureLeaderNoun->nagykutya</li>
   </LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
   
   <!-- EN:

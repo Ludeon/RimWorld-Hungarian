@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <AttendedFuneral.description>TODO</AttendedFuneral.description>
+  <AttendedFuneral.description>A szertartás minőségétől függően a résztvevők {MINMOOD} és {MAXMOOD} közötti hangulatban lesznek {MOODDAYS} napig.</AttendedFuneral.description>
   <!-- EN: moral guide present -->
   <AttendedFuneral.comps.0.label>TODO</AttendedFuneral.comps.0.label>
   <!-- EN: participant count -->
-  <AttendedFuneral.comps.1.label>TODO</AttendedFuneral.comps.1.label>
+  <AttendedFuneral.comps.1.label>résztvevők száma</AttendedFuneral.comps.1.label>
   <!-- EN: Terrible -->
-  <AttendedFuneral.outcomeChances.0.label>TODO</AttendedFuneral.outcomeChances.0.label>
+  <AttendedFuneral.outcomeChances.0.label>Szörnyű</AttendedFuneral.outcomeChances.0.label>
   <!-- EN: The {0} was a terrible! Everyone felt insulted for having had to endure it. -->
   <AttendedFuneral.outcomeChances.0.description>TODO</AttendedFuneral.outcomeChances.0.description>
   <!-- EN: Lackluster -->
@@ -25,13 +25,13 @@
   <AttendedFuneral.outcomeChances.3.description>TODO</AttendedFuneral.outcomeChances.3.description>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <AttendedFuneralNoCorpse.description>TODO</AttendedFuneralNoCorpse.description>
+  <AttendedFuneralNoCorpse.description>A szertartás minőségétől függően a résztvevők {MINMOOD} és {MAXMOOD} közötti hangulatban lesznek {MOODDAYS} napig.</AttendedFuneralNoCorpse.description>
   <!-- EN: moral guide present -->
   <AttendedFuneralNoCorpse.comps.0.label>TODO</AttendedFuneralNoCorpse.comps.0.label>
   <!-- EN: participant count -->
-  <AttendedFuneralNoCorpse.comps.1.label>TODO</AttendedFuneralNoCorpse.comps.1.label>
+  <AttendedFuneralNoCorpse.comps.1.label>résztvevők száma</AttendedFuneralNoCorpse.comps.1.label>
   <!-- EN: Terrible -->
-  <AttendedFuneralNoCorpse.outcomeChances.0.label>TODO</AttendedFuneralNoCorpse.outcomeChances.0.label>
+  <AttendedFuneralNoCorpse.outcomeChances.0.label>Szörnyű</AttendedFuneralNoCorpse.outcomeChances.0.label>
   <!-- EN: The {0} was a terrible! Everyone felt insulted for having had to endure it. -->
   <AttendedFuneralNoCorpse.outcomeChances.0.description>TODO</AttendedFuneralNoCorpse.outcomeChances.0.description>
   <!-- EN: Lackluster -->
@@ -48,11 +48,11 @@
   <AttendedFuneralNoCorpse.outcomeChances.3.description>TODO</AttendedFuneralNoCorpse.outcomeChances.3.description>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <BlindingCeremony.description>TODO</BlindingCeremony.description>
+  <BlindingCeremony.description>A szertartás minőségétől függően a résztvevők {MINMOOD} és {MAXMOOD} közötti hangulatban lesznek {MOODDAYS} napig.</BlindingCeremony.description>
   <!-- EN: moral guide present -->
   <BlindingCeremony.comps.2.label>TODO</BlindingCeremony.comps.2.label>
   <!-- EN: participant count -->
-  <BlindingCeremony.comps.3.label>TODO</BlindingCeremony.comps.3.label>
+  <BlindingCeremony.comps.3.label>résztvevők száma</BlindingCeremony.comps.3.label>
   <!-- EN: started at altar -->
   <BlindingCeremony.comps.4.label>TODO</BlindingCeremony.comps.4.label>
   <!-- EN: an altar -->
@@ -60,7 +60,7 @@
   <!-- EN: If the {0} is satisfying, the blinded person might get a psylink upgrade or unlock new psychic powers. -->
   <BlindingCeremony.extraPredictedOutcomeDescriptions.0>TODO</BlindingCeremony.extraPredictedOutcomeDescriptions.0>
   <!-- EN: Terrible -->
-  <BlindingCeremony.outcomeChances.0.label>TODO</BlindingCeremony.outcomeChances.0.label>
+  <BlindingCeremony.outcomeChances.0.label>Szörnyű</BlindingCeremony.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! The speech was stuttering and incoherent. The blinding technique was botched. Everyone was waiting for it to end. -->
   <BlindingCeremony.outcomeChances.0.description>TODO</BlindingCeremony.outcomeChances.0.description>
   <!-- EN: Boring -->
@@ -81,17 +81,17 @@
   <BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>TODO</BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <CelebratedDate.description>TODO</CelebratedDate.description>
+  <CelebratedDate.description>A szertartás minőségétől függően a résztvevők {MINMOOD} és {MAXMOOD} közötti hangulatban lesznek {MOODDAYS} napig.</CelebratedDate.description>
   <!-- EN: leader present -->
   <CelebratedDate.comps.2.label>TODO</CelebratedDate.comps.2.label>
   <!-- EN: participant count -->
-  <CelebratedDate.comps.3.label>TODO</CelebratedDate.comps.3.label>
+  <CelebratedDate.comps.3.label>résztvevők száma</CelebratedDate.comps.3.label>
   <!-- EN: started at altar -->
   <CelebratedDate.comps.4.label>TODO</CelebratedDate.comps.4.label>
   <!-- EN: an altar -->
   <CelebratedDate.comps.4.expectedThingLabelTip>TODO</CelebratedDate.comps.4.expectedThingLabelTip>
   <!-- EN: Terrible -->
-  <CelebratedDate.outcomeChances.0.label>TODO</CelebratedDate.outcomeChances.0.label>
+  <CelebratedDate.outcomeChances.0.label>Szörnyű</CelebratedDate.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
   <CelebratedDate.outcomeChances.0.description>TODO</CelebratedDate.outcomeChances.0.description>
   <!-- EN: Boring -->
@@ -108,15 +108,15 @@
   <CelebratedDate.outcomeChances.3.description>TODO</CelebratedDate.outcomeChances.3.description>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <CelebratedDate_Consumable.description>TODO</CelebratedDate_Consumable.description>
+  <CelebratedDate_Consumable.description>A szertartás minőségétől függően a résztvevők {MINMOOD} és {MAXMOOD} közötti hangulatban lesznek {MOODDAYS} napig.</CelebratedDate_Consumable.description>
   <!-- EN: participant count -->
-  <CelebratedDate_Consumable.comps.0.label>TODO</CelebratedDate_Consumable.comps.0.label>
+  <CelebratedDate_Consumable.comps.0.label>résztvevők száma</CelebratedDate_Consumable.comps.0.label>
   <!-- EN: room impressiveness -->
-  <CelebratedDate_Consumable.comps.1.label>TODO</CelebratedDate_Consumable.comps.1.label>
+  <CelebratedDate_Consumable.comps.1.label>szoba lenyűgözősége</CelebratedDate_Consumable.comps.1.label>
   <!-- EN: If the {0} is satisfying, one participant might gain an inspiration. -->
   <CelebratedDate_Consumable.extraPredictedOutcomeDescriptions.0>TODO</CelebratedDate_Consumable.extraPredictedOutcomeDescriptions.0>
   <!-- EN: Terrible -->
-  <CelebratedDate_Consumable.outcomeChances.0.label>TODO</CelebratedDate_Consumable.outcomeChances.0.label>
+  <CelebratedDate_Consumable.outcomeChances.0.label>Szörnyű</CelebratedDate_Consumable.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
   <CelebratedDate_Consumable.outcomeChances.0.description>TODO</CelebratedDate_Consumable.outcomeChances.0.description>
   <!-- EN: Boring -->
@@ -137,11 +137,11 @@
   <CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>TODO</CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <CelebrationPartyDanceDrum.description>TODO</CelebrationPartyDanceDrum.description>
+  <CelebrationPartyDanceDrum.description>A szertartás minőségétől függően a résztvevők {MINMOOD} és {MAXMOOD} közötti hangulatban lesznek {MOODDAYS} napig.</CelebrationPartyDanceDrum.description>
   <!-- EN: participant count -->
-  <CelebrationPartyDanceDrum.comps.0.label>TODO</CelebrationPartyDanceDrum.comps.0.label>
+  <CelebrationPartyDanceDrum.comps.0.label>résztvevők száma</CelebrationPartyDanceDrum.comps.0.label>
   <!-- EN: room impressiveness -->
-  <CelebrationPartyDanceDrum.comps.1.label>TODO</CelebrationPartyDanceDrum.comps.1.label>
+  <CelebrationPartyDanceDrum.comps.1.label>szoba lenyűgözősége</CelebrationPartyDanceDrum.comps.1.label>
   <!-- EN: played drum count -->
   <CelebrationPartyDanceDrum.comps.2.label>TODO</CelebrationPartyDanceDrum.comps.2.label>
   <!-- EN: started at campfire -->
@@ -172,11 +172,11 @@
   <CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>TODO</CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <CelebrationPartyDanceTech.description>TODO</CelebrationPartyDanceTech.description>
+  <CelebrationPartyDanceTech.description>A szertartás minőségétől függően a résztvevők {MINMOOD} és {MAXMOOD} közötti hangulatban lesznek {MOODDAYS} napig.</CelebrationPartyDanceTech.description>
   <!-- EN: participant count -->
-  <CelebrationPartyDanceTech.comps.0.label>TODO</CelebrationPartyDanceTech.comps.0.label>
+  <CelebrationPartyDanceTech.comps.0.label>résztvevők száma</CelebrationPartyDanceTech.comps.0.label>
   <!-- EN: room impressiveness -->
-  <CelebrationPartyDanceTech.comps.1.label>TODO</CelebrationPartyDanceTech.comps.1.label>
+  <CelebrationPartyDanceTech.comps.1.label>szoba lenyűgözősége</CelebrationPartyDanceTech.comps.1.label>
   <!-- EN: active speaker count -->
   <CelebrationPartyDanceTech.comps.2.label>TODO</CelebrationPartyDanceTech.comps.2.label>
   <!-- EN: started at lightball -->
@@ -207,23 +207,23 @@
   <CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>TODO</CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <CelebrationSkyLanterns.description>TODO</CelebrationSkyLanterns.description>
+  <CelebrationSkyLanterns.description>A szertartás minőségétől függően a résztvevők {MINMOOD} és {MAXMOOD} közötti hangulatban lesznek {MOODDAYS} napig.</CelebrationSkyLanterns.description>
   <!-- EN: participant count -->
-  <CelebrationSkyLanterns.comps.0.label>TODO</CelebrationSkyLanterns.comps.0.label>
+  <CelebrationSkyLanterns.comps.0.label>résztvevők száma</CelebrationSkyLanterns.comps.0.label>
   <!-- EN: Each participant will make a lantern out of 4 wood. -->
   <CelebrationSkyLanterns.extraInfoLines.0>TODO</CelebrationSkyLanterns.extraInfoLines.0>
   <!-- EN: If the {0} is beautiful or unforgettable, the skylanterns might attract a group of friendly visitors. -->
   <CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>TODO</CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>
   <!-- EN: Terrible -->
-  <CelebrationSkyLanterns.outcomeChances.0.label>TODO</CelebrationSkyLanterns.outcomeChances.0.label>
+  <CelebrationSkyLanterns.outcomeChances.0.label>Szörnyű</CelebrationSkyLanterns.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! People kept getting annoyed making the lanterns and they looked like garbage on the wind. -->
   <CelebrationSkyLanterns.outcomeChances.0.description>TODO</CelebrationSkyLanterns.outcomeChances.0.description>
   <!-- EN: Unimpressive -->
-  <CelebrationSkyLanterns.outcomeChances.1.label>TODO</CelebrationSkyLanterns.outcomeChances.1.label>
+  <CelebrationSkyLanterns.outcomeChances.1.label>Nem lenyűgöző</CelebrationSkyLanterns.outcomeChances.1.label>
   <!-- EN: The {0} was unimpressive. Lantern-making took too long and it all felt rather pointless. -->
-  <CelebrationSkyLanterns.outcomeChances.1.description>TODO</CelebrationSkyLanterns.outcomeChances.1.description>
+  <CelebrationSkyLanterns.outcomeChances.1.description>{0} nem volt lenyűgöző. A lámpások készítése túl sokáig tartott, és az egész meglehetősen értelmetlennek tűnt.</CelebrationSkyLanterns.outcomeChances.1.description>
   <!-- EN: Beautiful -->
-  <CelebrationSkyLanterns.outcomeChances.2.label>TODO</CelebrationSkyLanterns.outcomeChances.2.label>
+  <CelebrationSkyLanterns.outcomeChances.2.label>Gyönyörű</CelebrationSkyLanterns.outcomeChances.2.label>
   <!-- EN: The {0} was beautiful. The drifting lanterns made everyone feel at peace. -->
   <CelebrationSkyLanterns.outcomeChances.2.description>TODO</CelebrationSkyLanterns.outcomeChances.2.description>
   <!-- EN: The skylanterns lifted high and bright. Friendly visitors might see them and arrive with a gift. -->
@@ -238,7 +238,7 @@
   <!-- EN: The connector will connect to the tree. -->
   <ConnectToTree.description>TODO</ConnectToTree.description>
   <!-- EN: participant count -->
-  <ConnectToTree.comps.0.label>TODO</ConnectToTree.comps.0.label>
+  <ConnectToTree.comps.0.label>résztvevők száma</ConnectToTree.comps.0.label>
   <!-- EN: The connector will start with 25-45% connection strength, depending on ritual quality. -->
   <ConnectToTree.extraPredictedOutcomeDescriptions.0>TODO</ConnectToTree.extraPredictedOutcomeDescriptions.0>
   <!-- EN: Every 2% increase in quality will grow a patch of Gauranlen moss around the tree, beautifying the area. -->
@@ -247,9 +247,9 @@
   <!-- EN: If it goes well, target's ideoligion certainty will be reduced or they will convert. If it goes badly, they will gain certainty in their old beliefs. -->
   <Conversion.description>TODO</Conversion.description>
   <!-- EN: room impressiveness -->
-  <Conversion.comps.0.label>TODO</Conversion.comps.0.label>
+  <Conversion.comps.0.label>szoba lenyűgözősége</Conversion.comps.0.label>
   <!-- EN: participant count -->
-  <Conversion.comps.1.label>TODO</Conversion.comps.1.label>
+  <Conversion.comps.1.label>résztvevők száma</Conversion.comps.1.label>
   <!-- EN: {PAWN_labelShort}'s social impact -->
   <Conversion.comps.2.label>TODO</Conversion.comps.2.label>
   <!-- EN: speaker's social impact -->
@@ -259,7 +259,7 @@
   <!-- EN: convertee's expectations -->
   <Conversion.comps.3.labelAbstract>TODO</Conversion.comps.3.labelAbstract>
   <!-- EN: Terrible -->
-  <Conversion.outcomeChances.0.label>TODO</Conversion.outcomeChances.0.label>
+  <Conversion.outcomeChances.0.label>Szörnyű</Conversion.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! From the first word, it was a fruitless back-and-forth argument. It dragged on for a cringe-inducingly long time. -->
   <Conversion.outcomeChances.0.description>TODO</Conversion.outcomeChances.0.description>
   <!-- EN: Ineffective -->
@@ -278,11 +278,11 @@
   <!-- EN: The ritual target will be destroyed. -->
   <DestroyConsumableBuilding.description>TODO</DestroyConsumableBuilding.description>
   <!-- EN: participant count -->
-  <DestroyConsumableBuilding.comps.0.label>TODO</DestroyConsumableBuilding.comps.0.label>
+  <DestroyConsumableBuilding.comps.0.label>résztvevők száma</DestroyConsumableBuilding.comps.0.label>
   <!-- EN: room impressiveness -->
-  <DestroyConsumableBuilding.comps.1.label>TODO</DestroyConsumableBuilding.comps.1.label>
+  <DestroyConsumableBuilding.comps.1.label>szoba lenyűgözősége</DestroyConsumableBuilding.comps.1.label>
   <!-- EN: Terrible -->
-  <DestroyConsumableBuilding.outcomeChances.0.label>TODO</DestroyConsumableBuilding.outcomeChances.0.label>
+  <DestroyConsumableBuilding.outcomeChances.0.label>Szörnyű</DestroyConsumableBuilding.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
   <DestroyConsumableBuilding.outcomeChances.0.description>TODO</DestroyConsumableBuilding.outcomeChances.0.description>
   <!-- EN: Boring -->
@@ -305,11 +305,11 @@
   <!-- EN: The ritual target will be destroyed. -->
   <DestroyConsumableBuilding_Burnbong.description>TODO</DestroyConsumableBuilding_Burnbong.description>
   <!-- EN: participant count -->
-  <DestroyConsumableBuilding_Burnbong.comps.0.label>TODO</DestroyConsumableBuilding_Burnbong.comps.0.label>
+  <DestroyConsumableBuilding_Burnbong.comps.0.label>résztvevők száma</DestroyConsumableBuilding_Burnbong.comps.0.label>
   <!-- EN: room impressiveness -->
-  <DestroyConsumableBuilding_Burnbong.comps.1.label>TODO</DestroyConsumableBuilding_Burnbong.comps.1.label>
+  <DestroyConsumableBuilding_Burnbong.comps.1.label>szoba lenyűgözősége</DestroyConsumableBuilding_Burnbong.comps.1.label>
   <!-- EN: Terrible -->
-  <DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>TODO</DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>Szörnyű</DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
   <DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>TODO</DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>
   <!-- EN: Boring -->
@@ -332,11 +332,11 @@
   <!-- EN: The ritual target will be destroyed. -->
   <DestroyConsumableBuilding_CannibalPlatter.description>TODO</DestroyConsumableBuilding_CannibalPlatter.description>
   <!-- EN: participant count -->
-  <DestroyConsumableBuilding_CannibalPlatter.comps.0.label>TODO</DestroyConsumableBuilding_CannibalPlatter.comps.0.label>
+  <DestroyConsumableBuilding_CannibalPlatter.comps.0.label>résztvevők száma</DestroyConsumableBuilding_CannibalPlatter.comps.0.label>
   <!-- EN: room impressiveness -->
-  <DestroyConsumableBuilding_CannibalPlatter.comps.1.label>TODO</DestroyConsumableBuilding_CannibalPlatter.comps.1.label>
+  <DestroyConsumableBuilding_CannibalPlatter.comps.1.label>szoba lenyűgözősége</DestroyConsumableBuilding_CannibalPlatter.comps.1.label>
   <!-- EN: Terrible -->
-  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>TODO</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>Szörnyű</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
   <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>TODO</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>
   <!-- EN: Boring -->
@@ -359,11 +359,11 @@
   <!-- EN: The ritual target will be destroyed. -->
   <DestroyConsumableBuilding_ChristmasTree.description>TODO</DestroyConsumableBuilding_ChristmasTree.description>
   <!-- EN: participant count -->
-  <DestroyConsumableBuilding_ChristmasTree.comps.0.label>TODO</DestroyConsumableBuilding_ChristmasTree.comps.0.label>
+  <DestroyConsumableBuilding_ChristmasTree.comps.0.label>résztvevők száma</DestroyConsumableBuilding_ChristmasTree.comps.0.label>
   <!-- EN: room impressiveness -->
-  <DestroyConsumableBuilding_ChristmasTree.comps.1.label>TODO</DestroyConsumableBuilding_ChristmasTree.comps.1.label>
+  <DestroyConsumableBuilding_ChristmasTree.comps.1.label>szoba lenyűgözősége</DestroyConsumableBuilding_ChristmasTree.comps.1.label>
   <!-- EN: Terrible -->
-  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>TODO</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>Szörnyű</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
   <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>TODO</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>
   <!-- EN: Boring -->
@@ -386,11 +386,11 @@
   <!-- EN: The ritual target will be destroyed. -->
   <DestroyConsumableBuilding_Pyre.description>TODO</DestroyConsumableBuilding_Pyre.description>
   <!-- EN: participant count -->
-  <DestroyConsumableBuilding_Pyre.comps.0.label>TODO</DestroyConsumableBuilding_Pyre.comps.0.label>
+  <DestroyConsumableBuilding_Pyre.comps.0.label>résztvevők száma</DestroyConsumableBuilding_Pyre.comps.0.label>
   <!-- EN: room impressiveness -->
-  <DestroyConsumableBuilding_Pyre.comps.1.label>TODO</DestroyConsumableBuilding_Pyre.comps.1.label>
+  <DestroyConsumableBuilding_Pyre.comps.1.label>szoba lenyűgözősége</DestroyConsumableBuilding_Pyre.comps.1.label>
   <!-- EN: Terrible -->
-  <DestroyConsumableBuilding_Pyre.outcomeChances.0.label>TODO</DestroyConsumableBuilding_Pyre.outcomeChances.0.label>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.0.label>Szörnyű</DestroyConsumableBuilding_Pyre.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
   <DestroyConsumableBuilding_Pyre.outcomeChances.0.description>TODO</DestroyConsumableBuilding_Pyre.outcomeChances.0.description>
   <!-- EN: Boring -->
@@ -413,7 +413,7 @@
   <!-- EN: Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
   <Execution.description>TODO</Execution.description>
   <!-- EN: participant count -->
-  <Execution.comps.0.label>TODO</Execution.comps.0.label>
+  <Execution.comps.0.label>résztvevők száma</Execution.comps.0.label>
   <!-- EN: started at altar or ideogram -->
   <Execution.comps.1.label>TODO</Execution.comps.1.label>
   <!-- EN: an altar or an ideogram -->
@@ -432,9 +432,9 @@
   <Execution.outcomeChances.2.description>TODO</Execution.outcomeChances.2.description>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <GladiatorDuel.description>TODO</GladiatorDuel.description>
+  <GladiatorDuel.description>A szertartás minőségétől függően a résztvevők {MINMOOD} és {MAXMOOD} közötti hangulatban lesznek {MOODDAYS} napig.</GladiatorDuel.description>
   <!-- EN: participant count -->
-  <GladiatorDuel.comps.0.label>TODO</GladiatorDuel.comps.0.label>
+  <GladiatorDuel.comps.0.label>résztvevők száma</GladiatorDuel.comps.0.label>
   <!-- EN: leader present -->
   <GladiatorDuel.comps.1.label>TODO</GladiatorDuel.comps.1.label>
   <!-- EN: duelist dies -->
@@ -446,7 +446,7 @@
   <!-- EN: Spectators will gain a mood boost and fill their recreation bars. -->
   <GladiatorDuel.extraPredictedOutcomeDescriptions.1>TODO</GladiatorDuel.extraPredictedOutcomeDescriptions.1>
   <!-- EN: Terrible -->
-  <GladiatorDuel.outcomeChances.0.label>TODO</GladiatorDuel.outcomeChances.0.label>
+  <GladiatorDuel.outcomeChances.0.label>Szörnyű</GladiatorDuel.outcomeChances.0.label>
   <!-- EN: The duel was terrible! The fighters bumbled around, ineptly avoiding each other in a extended display of cowardice and weakness. Watching it just made people sad. -->
   <GladiatorDuel.outcomeChances.0.description>TODO</GladiatorDuel.outcomeChances.0.description>
   <!-- EN: Boring -->
@@ -478,11 +478,11 @@
   <RoleChange.outcomeChances.1.description>TODO</RoleChange.outcomeChances.1.description>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <Sacrifice.description>TODO</Sacrifice.description>
+  <Sacrifice.description>A szertartás minőségétől függően a résztvevők {MINMOOD} és {MAXMOOD} közötti hangulatban lesznek {MOODDAYS} napig.</Sacrifice.description>
   <!-- EN: moral guide present -->
   <Sacrifice.comps.2.label>TODO</Sacrifice.comps.2.label>
   <!-- EN: participant count -->
-  <Sacrifice.comps.3.label>TODO</Sacrifice.comps.3.label>
+  <Sacrifice.comps.3.label>résztvevők száma</Sacrifice.comps.3.label>
   <!-- EN: started at altar -->
   <Sacrifice.comps.4.label>TODO</Sacrifice.comps.4.label>
   <!-- EN: an altar -->
@@ -490,7 +490,7 @@
   <!-- EN: If the {0} is satisfying, one of the participants might gain an inspiration. -->
   <Sacrifice.extraPredictedOutcomeDescriptions.0>TODO</Sacrifice.extraPredictedOutcomeDescriptions.0>
   <!-- EN: Terrible -->
-  <Sacrifice.outcomeChances.0.label>TODO</Sacrifice.outcomeChances.0.label>
+  <Sacrifice.outcomeChances.0.label>Szörnyű</Sacrifice.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! The speech was stuttering and incoherent, and the killing technique was botched. The victim took far too long to die - everyone was waiting for it to end. -->
   <Sacrifice.outcomeChances.0.description>TODO</Sacrifice.outcomeChances.0.description>
   <!-- EN: Boring -->
@@ -511,17 +511,17 @@
   <Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>TODO</Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <ScarificationCeremony.description>TODO</ScarificationCeremony.description>
+  <ScarificationCeremony.description>A szertartás minőségétől függően a résztvevők {MINMOOD} és {MAXMOOD} közötti hangulatban lesznek {MOODDAYS} napig.</ScarificationCeremony.description>
   <!-- EN: moral guide present -->
   <ScarificationCeremony.comps.2.label>TODO</ScarificationCeremony.comps.2.label>
   <!-- EN: participant count -->
-  <ScarificationCeremony.comps.3.label>TODO</ScarificationCeremony.comps.3.label>
+  <ScarificationCeremony.comps.3.label>résztvevők száma</ScarificationCeremony.comps.3.label>
   <!-- EN: started at altar -->
   <ScarificationCeremony.comps.4.label>TODO</ScarificationCeremony.comps.4.label>
   <!-- EN: an altar -->
   <ScarificationCeremony.comps.4.expectedThingLabelTip>TODO</ScarificationCeremony.comps.4.expectedThingLabelTip>
   <!-- EN: Terrible -->
-  <ScarificationCeremony.outcomeChances.0.label>TODO</ScarificationCeremony.outcomeChances.0.label>
+  <ScarificationCeremony.outcomeChances.0.label>Szörnyű</ScarificationCeremony.outcomeChances.0.label>
   <!-- EN: The {0} was terrible! The speech was stuttering and incoherent, and the scarification technique was botched. Everyone was waiting for it to end. -->
   <ScarificationCeremony.outcomeChances.0.description>TODO</ScarificationCeremony.outcomeChances.0.description>
   <!-- EN: Boring -->
@@ -540,7 +540,7 @@
   <!-- EN: The trial quality determines the chance that the defendant will be convicted. -->
   <Trial.description>TODO</Trial.description>
   <!-- EN: participant count -->
-  <Trial.comps.0.label>TODO</Trial.comps.0.label>
+  <Trial.comps.0.label>résztvevők száma</Trial.comps.0.label>
   <!-- EN: {PAWN_labelShort}'s negotiation ability -->
   <Trial.comps.1.label>TODO</Trial.comps.1.label>
   <!-- EN: Leader's negotiation ability -->
@@ -561,7 +561,7 @@
   <!-- EN: The trial quality determines the chance that the defendant will be convicted. -->
   <TrialMentalState.description>TODO</TrialMentalState.description>
   <!-- EN: participant count -->
-  <TrialMentalState.comps.0.label>TODO</TrialMentalState.comps.0.label>
+  <TrialMentalState.comps.0.label>résztvevők száma</TrialMentalState.comps.0.label>
   <!-- EN: {PAWN_labelShort}'s negotiation ability -->
   <TrialMentalState.comps.1.label>TODO</TrialMentalState.comps.1.label>
   <!-- EN: Leader's negotiation ability -->

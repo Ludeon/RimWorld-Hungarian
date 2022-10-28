@@ -20,7 +20,7 @@
   <!-- EN: Reset all -->
   <ResetAll>TODO</ResetAll>
   <!-- EN: Disable -->
-  <Disable>TODO</Disable>
+  <Disable>Tilt</Disable>
   <!-- EN: Modify -->
   <Modify>TODO</Modify>
   <!-- EN: Settle here anyways? -->
@@ -307,7 +307,7 @@
   <!-- EN: Requires -->
   <BillRequires>Szükséges: {0}db {1}</BillRequires>
   <!-- EN: nutrition -->
-  <BillNutrition>TODO</BillNutrition>
+  <BillNutrition>tápanyag</BillNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
   <BillRequiresMayVary>Megj.: kis helyet foglaló hozzávalókból, mint pl. az arany, {0}x annyi kell.</BillRequiresMayVary>
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
@@ -365,7 +365,7 @@
   <!-- EN: Melee warmup -->
   <MeleeWarmupTime>Közelharci bemelegedés</MeleeWarmupTime>
   <!-- EN: Aiming time -->
-  <RangedWarmupTime>TODO</RangedWarmupTime>
+  <RangedWarmupTime>Célzási idő</RangedWarmupTime>
   <!-- EN: Cooldown -->
   <CooldownTime>Lövések közötti szünet</CooldownTime>
   <!-- EN: Disarmed -->
@@ -555,7 +555,7 @@
   <!-- EN: Resources needed to rearm this turret -->
   <RearmCostExplanation>Az újraélesítéshez szükséges anyagok (nehézségi szinttől függ)</RearmCostExplanation>
   <!-- EN: affected by difficulty -->
-  <RearmCostExplanationDifficulty>TODO</RearmCostExplanationDifficulty>
+  <RearmCostExplanationDifficulty>nehézség által érintett</RearmCostExplanationDifficulty>
   <!-- EN: Shots before rearm -->
   <ShotsBeforeRearm>Maradék lövések száma</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
@@ -565,7 +565,7 @@
   <!-- EN: Target -->
   <Target>Célpont</Target>
   <!-- EN: The types of targets on which this ability can be used. -->
-  <AbilityTargetDesc>TODO</AbilityTargetDesc>
+  <AbilityTargetDesc>A célpontok típusai, amelyeken ez a képesség használható.</AbilityTargetDesc>
   <!-- EN: human -->
   <TargetHuman>Ember</TargetHuman>
   <!-- EN: animal -->
@@ -579,29 +579,29 @@
   <!-- EN: Click to view factions. -->
   <ClickToViewFactions>Frakció információkért kattints!</ClickToViewFactions>
   <!-- EN: meditation focus types -->
-  <MeditationFocuses>TODO</MeditationFocuses>
+  <MeditationFocuses>meditációs fókusztípusok</MeditationFocuses>
   <!-- EN: Unlocks meditation focus types -->
-  <MeditationFocusesUnlocked>TODO</MeditationFocusesUnlocked>
+  <MeditationFocusesUnlocked>Feloldja a meditációs fókusztípusokat</MeditationFocusesUnlocked>
   <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an object to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
-  <MeditationFocusesPawnDesc>TODO</MeditationFocusesPawnDesc>
+  <MeditationFocusesPawnDesc>A meditációs fókusz típusai, amelyeket ez a személy használhat. Meditáció közben az ember egy tárgyra összpontosíthat, hogy fokozza a pszichofókusz-erősítését – de csak akkor, ha az objektum olyan fókusztípust kínál, amelyet használhat. Minden egyes ember meditációs típusát a hátterük, tulajdonságaik, társadalmi helyzetük stb. határozzák meg.</MeditationFocusesPawnDesc>
   <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
-  <MeditationFocusesDesc>TODO</MeditationFocusesDesc>
+  <MeditationFocusesDesc>Az objektum által kínált meditációs fókusztípusok. A meditáló személy összpontosíthat erre a tárgyra, hogy fokozza a pszichofókuszát, de csak akkor, ha tudja használni a meditációs típusok valamelyikét. Minden személy különböző meditációs típusokat használhat a hátterétől, tulajdonságaitól, társadalmi helyzetétől stb.</MeditationFocusesDesc>
   <!-- EN: Can use {0} focus type because -->
-  <MeditationFocusCanUse>TODO</MeditationFocusCanUse>
+  <MeditationFocusCanUse>Használhat {0} fókusztípust, mert</MeditationFocusCanUse>
   <!-- EN: {0} focus objects -->
-  <MeditationFocusObjects>TODO</MeditationFocusObjects>
+  <MeditationFocusObjects>{0} fókuszobjektum</MeditationFocusObjects>
   <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
-  <MeditationFocusEnabledByTitle>TODO</MeditationFocusEnabledByTitle>
+  <MeditationFocusEnabledByTitle>a következő cím birtokosa: {TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
   <!-- EN: has childhood -->
-  <MeditationFocusEnabledByChildhood>TODO</MeditationFocusEnabledByChildhood>
+  <MeditationFocusEnabledByChildhood>gyerekkora van</MeditationFocusEnabledByChildhood>
   <!-- EN: has adulthood -->
-  <MeditationFocusEnabledByAdulthood>TODO</MeditationFocusEnabledByAdulthood>
+  <MeditationFocusEnabledByAdulthood>felnőttkora van</MeditationFocusEnabledByAdulthood>
   <!-- EN: has trait -->
-  <MeditationFocusEnabledByTrait>TODO</MeditationFocusEnabledByTrait>
+  <MeditationFocusEnabledByTrait>tulajdonsága van</MeditationFocusEnabledByTrait>
   <!-- EN: does not have trait -->
-  <MeditationFocusDisabledByTrait>TODO</MeditationFocusDisabledByTrait>
+  <MeditationFocusDisabledByTrait>nincs tulajdonsága</MeditationFocusDisabledByTrait>
   <!-- EN: Enables meditation focus types -->
-  <EnablesMeditationFocusType>TODO</EnablesMeditationFocusType>
+  <EnablesMeditationFocusType>Engedélyezi a meditációs fókusztípusokat</EnablesMeditationFocusType>
   
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
@@ -703,7 +703,7 @@
   <!-- EN: Form caravan -->
   <FormCaravan>Karaván létrehozása</FormCaravan>
   <!-- EN: Send -->
-  <Send>TODO</Send>
+  <Send>Küld</Send>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>Ebből a tárgyból ennyit rakhatunk a karavánra.</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
@@ -711,7 +711,7 @@
   <!-- EN: Items -->
   <ItemsTab>Tárgyak</ItemsTab>
   <!-- EN: Travel supplies -->
-  <TravelSupplies>TODO</TravelSupplies>
+  <TravelSupplies>Utazási készletek</TravelSupplies>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>Legalább egy járóképes gyarmatost a karavánhoz kell rendelni.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
@@ -845,7 +845,7 @@
   <!-- EN: Automatically select travel supplies -->
   <AutomaticallySelectTravelSupplies>TODO</AutomaticallySelectTravelSupplies>
   <!-- EN: This animal is sick. It is suffering from the following illnesses -->
-  <CaravanAnimalSick>TODO</CaravanAnimalSick>
+  <CaravanAnimalSick>Ez az állat beteg. A következő betegségekben szenved</CaravanAnimalSick>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -987,7 +987,7 @@
   <!-- EN: Food restriction -->
   <FoodRestriction>Étel korlátozás</FoodRestriction>
   <!-- EN: Food -->
-  <FoodRestrictionShort>TODO</FoodRestrictionShort>
+  <FoodRestrictionShort>Étel</FoodRestrictionShort>
   <!-- EN: Lavish -->
   <FoodRestrictionLavish>Lakoma</FoodRestrictionLavish>
   <!-- EN: Fine -->
@@ -1011,7 +1011,7 @@
 
   <!-- Medical settings -->
   <!-- EN: Default medicine settings -->
-  <DefaultMedicineSettings>TODO</DefaultMedicineSettings>
+  <DefaultMedicineSettings>Alapértelmezett gyógyszerbeállítások</DefaultMedicineSettings>
   <!-- EN: Defaults -->
   <MedGroupDefaults>Alapérték</MedGroupDefaults>
   <!-- EN: Colonist -->
@@ -1079,13 +1079,13 @@
 
   <!-- Abilities -->
   <!-- EN: Cannot use {0} -->
-  <CannotUseAbility>TODO</CannotUseAbility>
+  <CannotUseAbility>Nem használható: {}</CannotUseAbility>
   <!-- EN: Line of sight required -->
   <AbilityRequiresLOS>Rálátás szükséges</AbilityRequiresLOS>
   <!-- EN: Neural heat gain -->
   <AbilityEntropyGain>Entrópia növekedés</AbilityEntropyGain>
   <!-- EN: Psyfocus cost -->
-  <AbilityPsyfocusCost>TODO</AbilityPsyfocusCost>
+  <AbilityPsyfocusCost>Pszichofókusz költség</AbilityPsyfocusCost>
   <!-- EN: Effect duration -->
   <AbilityDuration>Hatás ideje</AbilityDuration>
   <!-- EN: Effect radius -->
@@ -1095,25 +1095,25 @@
   <!-- EN: No line of sight to target. -->
   <AbilityCannotHitTarget>Nincs rálátás a célpontra.</AbilityCannotHitTarget>
   <!-- EN: Target is out of range. -->
-  <AbilityOutOfRange>TODO</AbilityOutOfRange>
+  <AbilityOutOfRange>A cél hatókörön kívül van.</AbilityOutOfRange>
   <!-- EN: Can't reach the target. -->
   <AbilityCannotReachTarget>TODO</AbilityCannotReachTarget>
   <!-- EN: Not enough free space. -->
   <AbilityNotEnoughFreeSpace>TODO</AbilityNotEnoughFreeSpace>
   <!-- EN: Must target an empty area. -->
-  <AbilityOccupiedCells>{0} üres terültet kell célba vegyen.</AbilityOccupiedCells>
+  <AbilityOccupiedCells>Üres terültet kell megcéloznia.</AbilityOccupiedCells>
   <!-- EN: Must target a walkable area. -->
-  <AbilityUnwalkable>{0} járható területet kell célba vegyen.</AbilityUnwalkable>
+  <AbilityUnwalkable>Járható területet kell megcéloznia.</AbilityUnwalkable>
   <!-- EN: Must target an unroofed area. -->
-  <AbilityRoofed>TODO</AbilityRoofed>
+  <AbilityRoofed>Fedetlen területet kell megcéloznia.</AbilityRoofed>
   <!-- EN: {0_labelShort} is mentally broken. -->
-  <AbilityCantApplyToMentallyBroken>TODO</AbilityCantApplyToMentallyBroken>
+  <AbilityCantApplyToMentallyBroken>{0_labelShort} mentálisan összetört.</AbilityCantApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not mentally broken. -->
-  <AbilityCanOnlyApplyToMentallyBroken>TODO</AbilityCanOnlyApplyToMentallyBroken>
+  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort} nem tört össze mentálisan.</AbilityCanOnlyApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not maddened. -->
-  <AbilityCanOnlyApplyToManhunter>TODO</AbilityCanOnlyApplyToManhunter>
+  <AbilityCanOnlyApplyToManhunter>{0_labelShort} nem őrült meg.</AbilityCanOnlyApplyToManhunter>
   <!-- EN: {0_labelShort} has scaria, which can only be treated medically. -->
-  <AbilityCantApplyToScaria>TODO</AbilityCantApplyToScaria>
+  <AbilityCantApplyToScaria>{0_labelShort} scaria-ban szenved, amely csak orvosilag kezelhető.</AbilityCantApplyToScaria>
   <!-- EN: {0} doesn't work on the '{1}' mental state. -->
   <AbilityDoesntWorkOnMentalState>TODO</AbilityDoesntWorkOnMentalState>
   <!-- EN: {0_labelShort} has zero resistance. -->
@@ -1129,7 +1129,7 @@
   <!-- EN: Cannot target a baby. -->
   <AbilityCantApplyOnBaby>TODO</AbilityCantApplyOnBaby>
   <!-- EN: Psyfocus cost per mental break intensity -->
-  <PsyfocusCostPerMentalBreakIntensity>TODO</PsyfocusCostPerMentalBreakIntensity>
+  <PsyfocusCostPerMentalBreakIntensity>Pszichofókusz költség idegösszeomlás intenzitásonként(?)</PsyfocusCostPerMentalBreakIntensity>
   <!-- EN: {0_labelShort} is already inspired. -->
   <AbilityAlreadyInspired>TODO</AbilityAlreadyInspired>
   <!-- EN: {0_labelShort} can't get an inspiration right now. -->
@@ -1246,7 +1246,7 @@
   <!-- EN: room area: {0} tiles -->
   <RoomRequirementArea>TODO</RoomRequirementArea>
   <!-- EN: room impressiveness -->
-  <RoomRequirementImpressiveness>TODO</RoomRequirementImpressiveness>
+  <RoomRequirementImpressiveness>szoba lenyűgözősége</RoomRequirementImpressiveness>
   <!-- EN: all floored -->
   <RoomRequirementAllFloored>TODO</RoomRequirementAllFloored>
   <!-- EN: all braziers must be lit -->
@@ -1321,8 +1321,5 @@
   <ToggleDarklightOnDesc>TODO</ToggleDarklightOnDesc>
   <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
   <ColorTemperatureTooltip>TODO</ColorTemperatureTooltip>
-
-  <!-- UNUSED -->
-  <BillRequiresNutrition>Szükséges tápanyag: {0}</BillRequiresNutrition>
 
 </LanguageData>

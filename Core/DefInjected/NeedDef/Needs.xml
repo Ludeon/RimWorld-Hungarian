@@ -19,7 +19,7 @@
   <!-- EN: food -->
   <Food.label>étel</Food.label>
   <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
-  <Food.description>Az étel mutatja, hogy mennyi tápanyagot vett magához az alany az utóbbi időben. Ha nullára csökken, akkor az éhezés miatt sebesülés lép fel.</Food.description>
+  <Food.description>Az étel mutatja, hogy mennyi tápanyagot vett magához az alany az utóbbi időben. Ha nullára csökken, a lény egyre alultápláltabb lesz és végül meghal.</Food.description>
   
   <!-- EN: indoors -->
   <Indoors.label>benn</Indoors.label>
@@ -42,9 +42,9 @@
   <Outdoors.description>Ez mutatja a szabadság érzését és a szabad mozgás lehetőségét. Leromlik, ha hosszabb ideig van az alany zsúfolt szobában. főleg a föld alatt. Javul, ha valaki a szabad ég alatt tölt időt. Nem a szobák méretétől függ, hanem hogy időről-időre elhagyják azt. A szabadban töltött idő rövidségének kezelése kihívást jelent azok számára, akik a föld alatt élnek.</Outdoors.description>
   
   <!-- EN: sleep -->
-  <Rest.label>pihenés</Rest.label>
+  <Rest.label>alvás</Rest.label>
   <!-- EN: Sleep is how much time a creature has spent sleeping recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
-  <Rest.description>A pihenés mutatja, hogy az utóbbi időben mennyit aludt az alany.</Rest.description>
+  <Rest.description>Az alvás azt jelenti, hogy a lény mennyi időt töltött mostanában alvással. Ha nullán van, végül a helyszínen elalszik.</Rest.description>
   
   <!-- EN: room size -->
   <RoomSize.label>szoba méret</RoomSize.label>

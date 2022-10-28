@@ -79,7 +79,12 @@
   <!-- EN: shelf -->
   <Shelf.label>polc</Shelf.label>
   <!-- EN: A triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
-  <Shelf.description>Polcon tárolt tárgyak állaga nem romlik, még a szabad ég alatt sem.</Shelf.description>
+  <Shelf.description>Három férőhelyes polc, amelyen háromszor annyi fér el, mint az üres talajon. A rajta tárolt tárgyak soha nem romlanak meg és nem befolyásolják környezetük szépségét.\n\nMivel a polcokon a hely korlátozott, nem férnek el rajtuk darabok, épületek, növények és nagy holttestek.</Shelf.description>
+  
+  <!-- EN: small shelf -->
+  <ShelfSmall.label>kis polc</ShelfSmall.label>
+  <!-- EN: A small triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+  <ShelfSmall.description>Három férőhelyes kis polc, amelyen háromszor annyi fér el, mint az üres talajon. A rajta tárolt tárgyak soha nem romlanak meg és nem befolyásolják környezetük szépségét.\n\nMivel a polcokon a hely korlátozott, nem férnek el rajtuk darabok, épületek, növények és nagy holttestek.</ShelfSmall.description>
   
   <!-- EN: small shelf -->
   <ShelfSmall.label>TODO</ShelfSmall.label>
@@ -94,7 +99,7 @@
   <!-- EN: standing lamp -->
   <StandingLamp.label>álló sötétlámpa</StandingLamp.label>
   <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
-  <StandingLamp.description>Kis teljesítményű elektromos állólámpa, amely nagy területen halvány fényt bocsát ki. Azok, akik szívesebben dolgoznak sötétben, elégedettek ezzel a fényforrással.</StandingLamp.description>
+  <StandingLamp.description>Elektromos állólámpa, amely megvilágít egy területet. Az embereknek fényre van szükségük ahhoz, hogy teljes sebességgel mozogjanak és dolgozzanak.</StandingLamp.description>
   
   <!-- EN: stool -->
   <Stool.label>zsámoly</Stool.label>

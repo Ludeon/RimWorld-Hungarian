@@ -49,12 +49,62 @@
     <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] leaving</li>
     <li>lodgersLeavingLetterText->{FACTION_leaderNameDef} thanks you for allowing {FACTION_leaderObjective} to stay at [map_definite] for these [questDurationTicks_duration]. {FACTION_leaderPronoun} is now moving on with {FACTION_leaderPossessive} people.\n\n{FACTION_leaderNameDef} says {FACTION_leaderPronoun} won't forget what you've done.</li>
   -->
-  <Hospitality_Refugee.questContentRules.rulesStrings>TODO</Hospitality_Refugee.questContentRules.rulesStrings>
+  <Hospitality_Refugee.questContentRules.rulesStrings>
+    <li>lastOrNot(lodgerCount==1)-></li>
+    <li>lastOrNot(lodgerCount>=2)->last</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
+    <li>lodgersArriveLetterLabel->[lodgersLabelSingularOrPlural] arrived</li>
+    <li>lodgersArriveLetterText->[lodgersSingularOrPluralDef] [hasHave] arrived. [lodgersPronoun] will stay with you for [questDurationTicks_duration] so [lodgersPronoun] can rest and regroup.</li>
+    <li>hasHave(lodgerCount==1)->has</li>
+    <li>hasHave(lodgerCount>=2)->have</li>
+    <li>appalledButNoAction->The {PAWNSALIVECOUNT_multiple ? others seem : last [lodgersLabel] is} appalled at this, but {PAWNSALIVECOUNT_multiple ? are: is} not taking action against you.</li>
+    <li>othersWillNotAccept->The {PAWNSALIVECOUNT_multiple ? others are : last [lodgersLabel] is} not willing to accept this</li>
+    <li>turnedViolent->[othersWillNotAccept], and {PAWNSALIVECOUNT_multiple ? have : has } turned violently against you.</li>
+    <li>decidedToLeave->[othersWillNotAccept], and {PAWNSALIVECOUNT_multiple ? have : has } decided to leave.</li>
+    <li>whoAskedToStay->who asked to stay with you</li>
+    <li>oneOfThe->one of the desperate [faction_pawnsPlural] who asked to stay with you</li>
+    <li>questOver->The quest '[resolvedQuestName]' is over.</li>
+    <li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.</li>
+    <li>lodgerDiedMemoryThoughtLetterLabel->[lodgersLabel] died: Anger</li>
+    <li>lodgerDiedMemoryThoughtLetterText->[letterIntroDeath]\n\n[appalledButNoAction]</li>
+    <li>lodgerDiedAttackPlayerLetterLabel->[lodgersLabel] died: Revenge</li>
+    <li>lodgerDiedAttackPlayerLetterText->[letterIntroDeath]\n\n[turnedViolent]</li>
+    <li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure</li>
+    <li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>lodgersAllDiedLetterLabel->Quest failed</li>
+    <li>lodgersAllDiedLetterText->{SUBJECT_definite}, the [lastOrNot] desperate [faction_pawnSingular] [whoAskedToStay], has died.\n\n[questOver]</li>
+    <li>letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].</li>
+    <li>lodgerArrestedMemoryThoughtLetterLabel->[lodgersLabel] arrested: Anger</li>
+    <li>lodgerArrestedMemoryThoughtLetterText->[letterIntroArrested]\n\n[appalledButNoAction]</li>
+    <li>lodgerArrestedAttackPlayerLetterLabel->[lodgersLabel] arrested: Revenge</li>
+    <li>lodgerArrestedAttackPlayerLetterText->[letterIntroArrested]\n\n[turnedViolent]</li>
+    <li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested: Departure</li>
+    <li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>lodgersAllArrestedLetterLabel->Quest failed</li>
+    <li>lodgersAllArrestedLetterText->You arrested {SUBJECT_definite}, the [lastOrNot] desperate [faction_pawnSingular] [whoAskedToStay].\n\n[questOver]</li>
+    <li>letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.</li>
+    <li>lodgerViolatedMemoryThoughtLetterLabel->[lodgersLabel] violated: Anger</li>
+    <li>lodgerViolatedMemoryThoughtLetterText->[letterIntroViolated]\n\n[appalledButNoAction]</li>
+    <li>lodgerViolatedAttackPlayerLetterLabel->[lodgersLabel] violated: Revenge</li>
+    <li>lodgerViolatedAttackPlayerLetterText->[letterIntroViolated]\n\n[turnedViolent]</li>
+    <li>lodgerViolatedLeaveMapLetterLabel->[lodgersLabel] arrested: Departure</li>
+    <li>lodgerViolatedLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>mutinyLetterLabel->Betrayal</li>
+    <li>mutinyLetterText->[lodgersSingularOrPluralDef] [whoAskedToStay] [areIs] turning against you!\n\nIt seems [lodgersPronoun] had this treachery planned all along.</li>
+    <li>areIs(lodgerCount==1)->is</li>
+    <li>areIs(lodgerCount>=2)->are</li>
+    <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] leaving</li>
+    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef} köszöni, hogy engedélyezted számára, hogy [map_definite] helyen maradjon [questDurationTicks_duration] időtartamon keresztül. Ő most továbbáll az embereivel.\n\n{FACTION_leaderNameDef} nem felejti el, amit tettél érte.</li>
+  </Hospitality_Refugee.questContentRules.rulesStrings>
   <!-- EN:
     <li>lodgersLabel->refugee</li>
     <li>lodgersLabelPlural->refugees</li>
   -->
-  <Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>TODO</Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
+  <Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->menekült</li>
+    <li>lodgersLabelPlural->menekültek</li>
+  </Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>offer(lodgerCount==1)->offers</li>
     <li>offer(lodgerCount>=2)->offer</li>
@@ -92,7 +142,43 @@
     <li>travelerInfo(lodgerCount==1)->This [faction_pawnSingular] is</li>
     <li>travelerInfo(lodgerCount>=2)->These [faction_pawnsPlural] are</li>
   -->
-  <Hospitality_Refugee.questDescriptionRules.rulesStrings>TODO</Hospitality_Refugee.questDescriptionRules.rulesStrings>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings>
+    <li>offer(lodgerCount==1)->offers</li>
+    <li>offer(lodgerCount>=2)->offer</li>
+    <li>lodgersPronoun(lodgerCount==1)->[asker_pronoun]</li>
+    <li>lodgersPronoun(lodgerCount>=2)->they</li>
+    <li>lodgersPreposition(lodgerCount==1)->[asker_objective]self</li>
+    <li>lodgersPreposition(lodgerCount>=2)->themselves</li>
+    <li>lodgersObjective(lodgerCount==1)->[asker_objective]</li>
+    <li>lodgersObjective(lodgerCount>=2)->them</li>
+    <li>lodgersPossessive(lodgerCount==1)->[asker_possessive]</li>
+    <li>lodgersPossessive(lodgerCount>=2)->their</li>
+    <li>lodgersSingularOrPluralDef(lodgerCount==1)->[asker_nameDef]</li>
+    <li>lodgersSingularOrPluralDef(lodgerCount>=2)->a(z) [lodgersLabelPlural]</li>
+    <li>questDescription->[approachInfo] [claimInfo] [asker_nameDef] begs you for permission to stay at [map_definite] for [questDurationTicks_duration] so [lodgersPronoun] can rest and regroup.\n\nIn return, [lodgersPronoun] [offer] to work and fight for free during that time.\n\n[joinInfo] [lodgersPronoun] may also reward you later for helping [lodgersObjective] - but there is no way to know [lodgersPossessive] true intentions.\n\n[travelerInfo] not part of any faction. If you wish, you can choose to kill, arrest, sell, or harvest [lodgersObjective], without diplomatic consequences.</li>
+    <li>approachInfo(lodgerCount==1)->Egy kétségbeesett [asker_nameDef] nevű [faction_pawnSingular] közeledik.</li>
+    <li>approachInfo(lodgerCount==2)->[asker_nameDef] és egy másik [faction_pawnSingular] közeledik.</li>
+    <li>approachInfo(lodgerCount==2,childCount==1,priority=1)->[asker_nameDef] közeledik egy gyerekkel a nyomában.</li>
+    <li>approachInfo(lodgerCount>=3)->[lodgerCount] kétségbeesett [faction_pawnsPlural] közeledik. A vezetőjük neve: [asker_nameDef].</li>
+    <li>approachInfo(lodgerCount>=3,childCount==1,priority=1)->[lodgerCount] desperate [faction_pawnsPlural] including a child are approaching. Their leader is called [asker_nameDef].</li>
+    <li>approachInfo(lodgerCount>=3,childCount>=2,priority=1)->[lodgerCount] desperate [faction_pawnsPlural] including some children are approaching. Their leader is called [asker_nameDef].</li>
+    <li>approachInfo(lodgerCount>=3,allButOneChildren==true,priority=2)->A group of [lodgerCount] desperate [faction_pawnsPlural] are approaching consisting of [asker_nameDef] and [lodgersCountMinusOne] children [asker_pronoun] has taken under [asker_possessive] wing.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef] azt állítja, hogy egy közelmúltbeli támadás során elvesztette az otthonát.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef] azt állítja, hogy egyedül és barátok nélkül ébredt fel a hibernáló alvásból.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef] azt állítja, hogy egy bosszúálló volt szeretője üldözte el az otthonából.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef] azt állítja, hogy egy falu vezetőjével folytatott vita után száműzték.</li>
+    <li>claimInfo(lodgerCount>=2)->Azt állítják, hogy egy közelmúltbeli támadásban veszítették el otthonukat.</li>
+    <li>claimInfo(lodgerCount>=2)->Azt állítják, hogy megúszták a szervkivételt.</li>
+    <li>claimInfo(lodgerCount>=2)->Azt mondják, egy rabszolgakaravánból szöktek meg.</li>
+    <li>claimInfo(lodgerCount>=2)->Azt mondják, hogy a növényvész éheztette ki őket falujukból.</li>
+    <li>claimInfo(lodgerCount>=2)->Azt mondják, hatalmas villámvihar égette le az otthonukat.</li>
+    <li>claimInfo(lodgerCount>=2)->Azt mondják, a karavánjukat megtámadták és mindent elvesztettek.</li>
+    <li>claimInfo(lodgerCount>=2)->Azt mondják, erkölcsi nézeteltérések miatt száműzték őket városukból.</li>
+    <li>joinInfo(lodgerCount==1)->Ha boldoggá teszed őt, felajánlhatja, hogy csatlakozik hozzád.</li>
+    <li>joinInfo(lodgerCount>=2)->Ha boldoggá teszed őket, néhányuk felajánlhatja, hogy csatlakozik hozzád.</li>
+    <li>travelerInfo(lodgerCount==1)->Ez a [faction_pawnSingular]</li>
+    <li>travelerInfo(lodgerCount>=2)->Ezek a [faction_pawnsPlural]</li>
+  </Hospitality_Refugee.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(lodgerCount==1)->[asker_nameDef] the [lodgerAdj]</li>
     <li>questName(lodgerCount==1)->[athe] [lodgerAdj] [lodgerSingle]</li>
@@ -125,7 +211,38 @@
     <li>lodgerPlural->nomads</li>
     <li>lodgerPlural->vagabonds</li>
   -->
-  <Hospitality_Refugee.questNameRules.rulesStrings>TODO</Hospitality_Refugee.questNameRules.rulesStrings>
+  <Hospitality_Refugee.questNameRules.rulesStrings>
+    <li>questName(lodgerCount==1)->[asker_nameDef] the [lodgerAdj]</li>
+    <li>questName(lodgerCount==1)->[athe] [lodgerAdj] [lodgerSingle]</li>
+    <li>questName(p=2,lodgerCount>=2)->[lodgerAdj] [lodgerPlural]</li>
+    <li>questName(lodgerCount>=2)->[asker_nameDef]'s [lodgerAdj] [lodgerPlural]</li>
+    <li>questName(lodgerCount>=2)->[asker_nameDef]'s [lodgerPlural]</li>
+    <li>athe->egy</li>
+    <li>athe->a</li>
+    <li>lodgerAdj->fáradt</li>
+    <li>lodgerAdj->elveszett</li>
+    <li>lodgerAdj->nyomorgó</li>
+    <li>lodgerAdj->szegény</li>
+    <li>lodgerAdj->kétségbeesett</li>
+    <li>lodgerAdj->szomorú</li>
+    <li>lodgerAdj->poros</li>
+    <li>lodgerAdj->reménytelen</li>
+    <li>lodgerAdj->ismeretlen</li>
+    <li>lodgerAdj->kétségbeesett</li>
+    <li>lodgerAdj->elhagyott</li>
+    <li>lodgerSingle->utazó</li>
+    <li>lodgerSingle->menekült</li>
+    <li>lodgerSingle->sodródó</li>
+    <li>lodgerSingle->túlélő</li>
+    <li>lodgerSingle->nomád</li>
+    <li>lodgerSingle->csavargó</li>
+    <li>lodgerPlural->utazók</li>
+    <li>lodgerPlural->menekültek</li>
+    <li>lodgerPlural->sodródók</li>
+    <li>lodgerPlural->túlélők</li>
+    <li>lodgerPlural->nomádok</li>
+    <li>lodgerPlural->csavargók</li>
+  </Hospitality_Refugee.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
@@ -169,14 +286,21 @@
     <li>rewardLetterLabel->Hospitality reward</li>
     <li>rewardLetterText->[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you helped [rewardGiver_objective] in desperate circumstances.\n\nSince then, [rewardGiver_pronoun] has gotten back on [rewardGiver_possessive] feet, and now [rewardGiver_pronoun] wants to reward you properly for your help. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards]</li>
   -->
-  <RefugeeDelayedReward.questContentRules.rulesStrings>TODO</RefugeeDelayedReward.questContentRules.rulesStrings>
+  <RefugeeDelayedReward.questContentRules.rulesStrings>
+    <li>rewardLetterLabel->Vendéglátási jutalom</li>
+    <li>rewardLetterText->[rewardGiver_nameDef] felvette veled a kapcsolatot. [rewardDelayTicks_duration] ezelőtt kétségbeejtő körülmények között segítettél neki.\n\nAzóta sikeresen talpra állt, és most megfelelően meg akar jutalmazni a segítségedért. A következőket küldi neked szállítókapszulában:\n\n[listOfRewards]</li>
+  </RefugeeDelayedReward.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->a delayed reward for refugee quest</li>
   -->
-  <RefugeeDelayedReward.questDescriptionRules.rulesStrings>TODO</RefugeeDelayedReward.questDescriptionRules.rulesStrings>
+  <RefugeeDelayedReward.questDescriptionRules.rulesStrings>
+    <li>questDescription->késleltetett jutalom a menekült küldetésért</li>
+  </RefugeeDelayedReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Refugee delayed reward</li>
   -->
-  <RefugeeDelayedReward.questNameRules.rulesStrings>TODO</RefugeeDelayedReward.questNameRules.rulesStrings>
+  <RefugeeDelayedReward.questNameRules.rulesStrings>
+    <li>questName->Menekült késleltetett jutalom</li>
+  </RefugeeDelayedReward.questNameRules.rulesStrings>
   
 </LanguageData>

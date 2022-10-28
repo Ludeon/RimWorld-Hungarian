@@ -12,12 +12,12 @@
   <AnimalGatherYield.description>A személy ilyen hatékonysággal fej, nyír és gyűjt be egyéb állati termékeket. Magasabb százaléknál kisebb az esélye, hogy a termék kárba vész.</AnimalGatherYield.description>
   
   <!-- EN: cleaning speed multiplier -->
-  <CleaningSpeed.label>TODO</CleaningSpeed.label>
+  <CleaningSpeed.label>takarítási sebesség szorzó</CleaningSpeed.label>
   <!-- EN: A multiplier on how fast this cleans up filth from the ground. -->
-  <CleaningSpeed.description>TODO</CleaningSpeed.description>
+  <CleaningSpeed.description>Egy szorzó, hogy ez milyen gyorsan takarítja el a szennyeződéseket a földről.</CleaningSpeed.description>
   
   <!-- EN: construction speed -->
-  <ConstructionSpeed.label>építés sebesség</ConstructionSpeed.label>
+  <ConstructionSpeed.label>építési sebesség</ConstructionSpeed.label>
   <!-- EN: The speed at which this person constructs and repairs buildings. -->
   <ConstructionSpeed.description>Milyen gyorsan képes a személy épületet felhúzni és javítani.</ConstructionSpeed.description>
   
@@ -27,14 +27,14 @@
   <ConstructSuccessChance.description>Ilyen eséllyel lesz sikeres az építési projekt. A kudarc idő és nyersanyagveszteséggel jár.</ConstructSuccessChance.description>
   
   <!-- EN: deep drilling speed -->
-  <DeepDrillingSpeed.label>TODO</DeepDrillingSpeed.label>
+  <DeepDrillingSpeed.label>mélyfúrási sebesség</DeepDrillingSpeed.label>
   <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
-  <DeepDrillingSpeed.description>TODO</DeepDrillingSpeed.description>
+  <DeepDrillingSpeed.description>Az a sebesség, amellyel ez a személy mélyfúróval kinyeri a föld alatti erőforrásokat.</DeepDrillingSpeed.description>
   
   <!-- EN: drug crop harvest yield -->
-  <DrugHarvestYield.label>TODO</DrugHarvestYield.label>
+  <DrugHarvestYield.label>drog termések betakarítási hozama</DrugHarvestYield.label>
   <!-- EN: The yield this person gets when harvesting drug crops.\n\nLow yields give a chance that this person will accidentally waste the harvest. High yields increase the yield from each plant. -->
-  <DrugHarvestYield.description>TODO</DrugHarvestYield.description>
+  <DrugHarvestYield.description>The yield this person gets when harvesting drug crops.\n\nAz alacsony hozamok esélyt adnak arra, hogy ez a személy véletlenül elrontsa a betakarítást. A magas hozam növeli az egyes növények hozamát.</DrugHarvestYield.description>
   
   <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>javítás sikeresség esély</FixBrokenDownBuildingSuccessChance.label>
@@ -80,5 +80,7 @@
   <WorkSpeedGlobal.label>munkatempó</WorkSpeedGlobal.label>
   <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
   <WorkSpeedGlobal.description>A személy munkatempójának szorzója.</WorkSpeedGlobal.description>
+  <!-- EN: Offset from mechanitor -->
+  <WorkSpeedGlobal.parts.2.label>TODO</WorkSpeedGlobal.parts.2.label>
   
 </LanguageData>

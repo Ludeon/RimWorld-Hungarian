@@ -65,18 +65,30 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->felismerhetetlen kupacra</li>
   </Maneuver_Bite.rulePack.rulesStrings>
   
-  <!-- EN: r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] dodged out of the way. -->
-  <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] megpróbálta belerúgni ezt: [TOOL_label] [RECIPIENT_definite] szemébe, de [RECIPIENT_definite] elugrott.</Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings.0>
-  <!-- EN: r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] blocked it. -->
-  <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings.1>r_logentry->[INITIATOR_definite] megpróbálta belerúgni ezt: [TOOL_label] [RECIPIENT_definite] szemébe, de [RECIPIENT_definite] hárított.</Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings.1>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] dodged out of the way.</li>
+    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] blocked it.</li>
+  -->
+  <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] megpróbálta belerúgni ezt: [TOOL_label] [RECIPIENT_definite] szemébe, de [RECIPIENT_definite] elugrott.</li>
+    <li>r_logentry->[INITIATOR_definite] megpróbálta belerúgni ezt: [TOOL_label] [RECIPIENT_definite] szemébe, de [RECIPIENT_definite] hárított.</li>
+  </Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
   
-  <!-- EN: r_logentry->[INITIATOR_definite] kicked [TOOL_label] in [RECIPIENT_definite]'s eyes. -->
-  <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] belerúgta ezt: [TOOL_label] [RECIPIENT_definite] szemébe.</Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings.0>
-  <!-- EN: r_logentry(p=0.2)->[INITIATOR_definite] kicked a spray of [TOOL_label] in [RECIPIENT_definite]'s eyes. -->
-  <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings.1>r_logentry(p=0.2)->[INITIATOR_definite] belerúgott egy adagot ebből: [TOOL_label] [RECIPIENT_definite] szemébe.</Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings.1>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] kicked [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] kicked a spray of [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
+  -->
+  <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] belerúgta ezt: [TOOL_label] [RECIPIENT_definite] szemébe.</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] belerúgott egy adagot ebből: [TOOL_label] [RECIPIENT_definite] szemébe.</li>
+  </Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
   
-  <!-- EN: r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but missed. -->
-  <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] megpróbálta belerúgni ezt: [TOOL_label] [RECIPIENT_definite] szemébe, de elhibázta.</Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings.0>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but missed.</li>
+  -->
+  <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] megpróbálta belerúgni ezt: [TOOL_label] [RECIPIENT_definite] szemébe, de elhibázta.</li>
+  </Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_inf(p=2)->poke</li>

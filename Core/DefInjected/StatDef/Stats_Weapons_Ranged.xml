@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: Accuracy (long) -->
-  <AccuracyLong.label>pontosság (messzire)</AccuracyLong.label>
+  <AccuracyLong.label>pontosság (nagytáv.)</AccuracyLong.label>
   <!-- EN: The weapon's accuracy at a distance of 40 cells or more.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyLong.description>Pontosság messzire.</AccuracyLong.description>
+  <AccuracyLong.description>A fegyver pontossága 40 cella vagy annál nagyobb távolságban.\n\nA tényleges lövés esélyét más tényezők is befolyásolják.</AccuracyLong.description>
   
   <!-- EN: Accuracy (medium) -->
   <AccuracyMedium.label>pontosság (középtávra)</AccuracyMedium.label>
   <!-- EN: The weapon's accuracy at a distance of 25 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyMedium.description>Pontosság középtávra.</AccuracyMedium.description>
+  <AccuracyMedium.description>A fegyver pontossága 25 cella távolságból.\n\nA tényleges lövés esélyét más tényezők is befolyásolják.</AccuracyMedium.description>
   
   <!-- EN: Accuracy (short) -->
   <AccuracyShort.label>pontosság (közelre)</AccuracyShort.label>
   <!-- EN: The weapon's accuracy at a distance of 12 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyShort.description>Pontosság közelre.</AccuracyShort.description>
+  <AccuracyShort.description>A fegyver pontossága 12 cella távolságból.\n\nA tényleges lövés esélyét más tényezők is befolyásolják.</AccuracyShort.description>
   
   <!-- EN: Accuracy (close) -->
   <AccuracyTouch.label>pontosság (közvetlen közelre)</AccuracyTouch.label>
   <!-- EN: The weapon's accuracy at a distance of 3 cells or less.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyTouch.description>Pontosság közvetlen közelre.</AccuracyTouch.description>
+  <AccuracyTouch.description>A fegyver pontosságát 3 cella vagy annál kisebb távolságban.\n\nA tényleges lövés esélyét más tényezők is befolyásolják.</AccuracyTouch.description>
   
   <!-- EN: ranged cooldown -->
   <RangedWeapon_Cooldown.label>töltési idő</RangedWeapon_Cooldown.label>

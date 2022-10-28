@@ -7,17 +7,17 @@
   <AnimalsLearningFactor.description>TODO</AnimalsLearningFactor.description>
   
   <!-- EN: bed hunger rate multiplier -->
-  <BedHungerRateFactor.label>TODO</BedHungerRateFactor.label>
+  <BedHungerRateFactor.label>ágyszükség arány szorzó</BedHungerRateFactor.label>
   
   <!-- EN: caravan riding speed -->
-  <CaravanRidingSpeedFactor.label>TODO</CaravanRidingSpeedFactor.label>
+  <CaravanRidingSpeedFactor.label>karaván lovaglási sebessége</CaravanRidingSpeedFactor.label>
   <!-- EN: The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans. -->
-  <CaravanRidingSpeedFactor.description>TODO</CaravanRidingSpeedFactor.description>
+  <CaravanRidingSpeedFactor.description>A szorzót egy személy mozgási sebességére alkalmazzuk, amikor a karaván tagjaként lovagolnak ezen az állaton. Az állatok csak csak karavánban megülhetők.</CaravanRidingSpeedFactor.description>
   
   <!-- EN: carrying capacity -->
   <CarryingCapacity.label>teherhordó kapacitás</CarryingCapacity.label>
   <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
-  <CarryingCapacity.description>Maximálisan ennyit képes ez a személy szállítani.</CarryingCapacity.description>
+  <CarryingCapacity.description>Az a mennyiség, amit ez a lény a kezében, szájában vagy más módon hordozhat.\n\nEz eltér attól, amit a hosszú, világokon átívelő utakon szállíthat.</CarryingCapacity.description>
   
   <!-- EN: Maximum comfortable temperature -->
   <ComfyTemperatureMax.label>max. optimális hőmérséklet</ComfyTemperatureMax.label>
@@ -48,10 +48,6 @@
   <GlobalLearningFactor.label>tanulási képesség</GlobalLearningFactor.label>
   <!-- EN: A multiplier on the learning rate for all skills. -->
   <GlobalLearningFactor.description>Milyen gyorsan képes a személy valamit megtanulni.</GlobalLearningFactor.description>
-  
-  <!-- UNUSED -->
-  <HungerRateMultiplier.label>éhség szorzó</HungerRateMultiplier.label>
-  <HungerRateMultiplier.description>Befolyásolja, hogy milyen gyorsan lesz újra éhes az alany.</HungerRateMultiplier.description>
   
   <!-- EN: immunity gain speed -->
   <ImmunityGainSpeed.label>immunitás elérési sebesség</ImmunityGainSpeed.label>
@@ -84,13 +80,13 @@
   <MeatAmount.description>A hús mennyisége, ami eme teremtmény lemészárlásával nyerhető.</MeatAmount.description>
   
   <!-- EN: meditation psyfocus gain -->
-  <MeditationFocusGain.label>TODO</MeditationFocusGain.label>
+  <MeditationFocusGain.label>pszichofókusz növekedés</MeditationFocusGain.label>
   <!-- EN: The amount of psyfocus a person gains per day of meditation, ignoring bonuses from focus objects. -->
-  <MeditationFocusGain.description>TODO</MeditationFocusGain.description>
+  <MeditationFocusGain.description>A pszichofókusz mennyisége, amelyet egy személy egy nap meditáció során nyer, figyelmen kívül hagyva a fókusztárgyak bónuszait.</MeditationFocusGain.description>
   <!-- EN: {0} / day -->
-  <MeditationFocusGain.formatString>TODO</MeditationFocusGain.formatString>
+  <MeditationFocusGain.formatString>{0} / nap</MeditationFocusGain.formatString>
   <!-- EN: {0} / day -->
-  <MeditationFocusGain.formatStringUnfinalized>TODO</MeditationFocusGain.formatStringUnfinalized>
+  <MeditationFocusGain.formatStringUnfinalized>{0} / nap</MeditationFocusGain.formatStringUnfinalized>
   
   <!-- EN: mental break threshold -->
   <MentalBreakThreshold.label>idegösszeomlás küszöb</MentalBreakThreshold.label>
@@ -115,16 +111,16 @@
   <PainShockThreshold.description>Az az érték, aminél az alany földre kerül a fájdalomtól.</PainShockThreshold.description>
   
   <!-- EN: neural heat limit -->
-  <PsychicEntropyMax.label>TODO</PsychicEntropyMax.label>
+  <PsychicEntropyMax.label>idegi hőkorlát</PsychicEntropyMax.label>
   <!-- EN: The maximum amount of neural heat individual can tolerate safely. -->
-  <PsychicEntropyMax.description>TODO</PsychicEntropyMax.description>
+  <PsychicEntropyMax.description>A maximális mennyiségű idegi hő, amit az egyén még biztonságosan elvisel.</PsychicEntropyMax.description>
   
   <!-- EN: neural heat recovery rate -->
-  <PsychicEntropyRecoveryRate.label>TODO</PsychicEntropyRecoveryRate.label>
+  <PsychicEntropyRecoveryRate.label>idegi hővisszanyerési sebesség</PsychicEntropyRecoveryRate.label>
   <!-- EN: The rate at which this person reduces neural heat. -->
-  <PsychicEntropyRecoveryRate.description>TODO</PsychicEntropyRecoveryRate.description>
+  <PsychicEntropyRecoveryRate.description>Az a sebesség, amellyel ez a személy csökkenti az idegi hőt.</PsychicEntropyRecoveryRate.description>
   <!-- EN: {0}/s -->
-  <PsychicEntropyRecoveryRate.formatString>TODO</PsychicEntropyRecoveryRate.formatString>
+  <PsychicEntropyRecoveryRate.formatString>{0}/mp</PsychicEntropyRecoveryRate.formatString>
   
   <!-- EN: psychic sensitivity -->
   <PsychicSensitivity.label>pszichotikus érzékenység</PsychicSensitivity.label>
@@ -137,17 +133,13 @@
   <RestRateMultiplier.description>Befolyásolja, hogy mennyi alvás szükséges adott mennyiségű pihenéshez.</RestRateMultiplier.description>
   
   <!-- EN: toxic environment resistance -->
-  <ToxicEnvironmentResistance.label>TODO</ToxicEnvironmentResistance.label>
-  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against toxic fallout and rot stink exposure, but not against direct attacks with venom or injected poison. -->
-  <ToxicEnvironmentResistance.description>TODO</ToxicEnvironmentResistance.description>
+  <ToxicEnvironmentResistance.label>környezeti méregellenállás</ToxicEnvironmentResistance.label>
+  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against tox gas, rot stink, toxic fallout, and polluted terrain, but not against direct attacks with venom or injected poison. When this value is higher, exposure to pollution produces proportionally less toxic buildup in the body. -->
+  <ToxicEnvironmentResistance.description>Mennyire ellenálló ez a lény a környezeti mérgek hatásával szemben. Ez véd a mérgező gázoktól, a rothadás bűzétől, a mérgező csapadéktól és a szennyezett tereptől, de nem a méreggel vagy befecskendezett méreggel való közvetlen támadásoktól. Ha ez az érték magasabb, a szennyezés arányosan kevesebb mérgező felhalmozódást okoz a szervezetben.</ToxicEnvironmentResistance.description>
   
   <!-- EN: toxic resistance -->
-  <ToxicResistance.label>TODO</ToxicResistance.label>
+  <ToxicResistance.label>méregellenállás</ToxicResistance.label>
   <!-- EN: How well this creature resists toxic buildup. -->
-  <ToxicResistance.description>TODO</ToxicResistance.description>
-  
-  <!-- UNUSED -->
-  <ToxicSensitivity.label>méreg érzékenység</ToxicSensitivity.label>
-  <ToxicSensitivity.description>Mérgező jelenségek befolyása erre a személyre.</ToxicSensitivity.description>
+  <ToxicResistance.description>Milyen jól áll ellen ez a lény a mérgező anyagok felhalmozódásának.</ToxicResistance.description>
   
 </LanguageData>

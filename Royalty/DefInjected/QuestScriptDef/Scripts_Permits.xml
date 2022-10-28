@@ -7,18 +7,18 @@
   -->
   <Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings>TODO</Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings>
   <!-- EN: Laborers arrived -->
-  <Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>TODO</Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>
+  <Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>Munkások érkeztek</Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>
   <!-- EN: The laborers from [permitFaction_name] have arrived. A shuttle will come to collect them in [laborersDurationDays] days. -->
-  <Permit_CallLaborers.LetterTextLaborersArrived.slateRef>TODO</Permit_CallLaborers.LetterTextLaborersArrived.slateRef>
+  <Permit_CallLaborers.LetterTextLaborersArrived.slateRef>Megérkeztek a [permitFaction_name] frakció munkásai. [laborersDurationDays] napon belül jön egy sikló, hogy összegyűjtse őket.</Permit_CallLaborers.LetterTextLaborersArrived.slateRef>
   <!-- EN: Should depart on shuttle -->
-  <Permit_CallLaborers.InspectStringDepartShuttle.slateRef>TODO</Permit_CallLaborers.InspectStringDepartShuttle.slateRef>
+  <Permit_CallLaborers.InspectStringDepartShuttle.slateRef>Űrsiklóval kell távoznia</Permit_CallLaborers.InspectStringDepartShuttle.slateRef>
   <!-- EN: Shuttle arrived -->
-  <Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>TODO</Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>
+  <Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>Űrsikló érkezett</Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>
   <!-- EN: A shuttle has arrived to collect the laborers from [permitFaction_name]. -->
-  <Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>TODO</Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>
+  <Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>Egy sikló érkezett, hogy összegyűjtse [permitFaction_name] munkásait.</Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>
   <!-- EN: Laborer died: {SUBJECT_definite} -->
-  <Permit_CallLaborers.LetterLabelLaborerDied.slateRef>TODO</Permit_CallLaborers.LetterLabelLaborerDied.slateRef>
+  <Permit_CallLaborers.LetterLabelLaborerDied.slateRef>Munkás meghalt: {SUBJECT_definite}</Permit_CallLaborers.LetterLabelLaborerDied.slateRef>
   <!-- EN: A laborer sent to you by [permitFaction_name] has died. Your goodwill with [permitFaction_name] has fallen by [goodwillPenaltyPawn]. -->
-  <Permit_CallLaborers.LetterTextLaborerDied.slateRef>TODO</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
+  <Permit_CallLaborers.LetterTextLaborerDied.slateRef>A [permitFaction_name] frakció által neked küldött munkás meghalt. A [permitFaction_name] frakció iránti viszonyod [goodwillPenaltyPawn] mértékben csökkent.</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
   
 </LanguageData>

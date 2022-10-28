@@ -14,7 +14,7 @@
   <MessageRaidersStealing>{1} tagjai ({0}) úgy döntöttek, hogy ellopják, amit tudnak és távoznak</MessageRaidersStealing>
 
   <!-- EN: {0} from {1} have arrived and are attacking! More are on the way and will arrive in {2}. -->
-  <MessageCaravanDetectedRaidArrived>TODO</MessageCaravanDetectedRaidArrived>
+  <MessageCaravanDetectedRaidArrived>{0} innen: {1} megérkezett és támad! Több támadás is készül és {2} múlva érkezik.</MessageCaravanDetectedRaidArrived>
 
   <!-- EN: {0} from {1} are leaving. -->
   <MessageRaidersLeaving>{1} tagjai ({0}) távoznak.</MessageRaidersLeaving>
@@ -49,7 +49,7 @@
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
   <MessageNeedBeaconToTradeWithShip>Orbitális jeladóra van szükség a hajóval való kereskedéshez.\n\nA jeladónak áramra van szüksége.</MessageNeedBeaconToTradeWithShip>
   <!-- EN: Caller must have the title of {0_label} or higher. -->
-  <MessageNeedRoyalTitleToCallWithShip>TODO</MessageNeedRoyalTitleToCallWithShip>
+  <MessageNeedRoyalTitleToCallWithShip>A hívónak legalább {0_label} címmel kell rendelkeznie.</MessageNeedRoyalTitleToCallWithShip>
 
   <!-- EN: {0} has been destroyed. -->
   <MessageConditionCauserDespawned>{0} megsemmisült.</MessageConditionCauserDespawned>
@@ -66,17 +66,17 @@
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
   <MessageOutOfNearbyShellsFor>{PAWN_labelShort} nem talált szabad lövedéket {GUN_label} számára.</MessageOutOfNearbyShellsFor>
   <!-- EN: {PAWN_labelShort} found no nearby unreserved {FUEL} for {GUN_label}. -->
-  <MessageOutOfNearbyFuelFor>TODO</MessageOutOfNearbyFuelFor>
+  <MessageOutOfNearbyFuelFor>{PAWN_labelShort} nem talált {GUN_label} számára szabad {FUEL} elemet.</MessageOutOfNearbyFuelFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
   <MessageAnimalsGoPsychoHunted>Figyelem: {ANIMAL_kindBaseDef} gyakran támad, ha bántják. ({1} esély lőtávon, közelebb több).</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
   <MessageAnimalManhuntsOnTameFailed>Figyelem: {ANIMAL_kindBasePluralDef} támadhatnak, ha nem sikerül megszelídíteni őket. ({1} esély).</MessageAnimalManhuntsOnTameFailed>
   <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
-  <MessageInsectTameDesignated>TODO</MessageInsectTameDesignated>
+  <MessageInsectTameDesignated>Csak azok tudják megszelídíteni {INSECT_indefinite} rovart, akik rendelkeznek rovarszimpátia tulajdonsággal.</MessageInsectTameDesignated>
 
   <!-- EN: Warning: The {PAWN_labelShort} is hostile and will attack while your colonist tries to tame it. -->
-  <MessageInsectsHostileOnTaming>TODO</MessageInsectsHostileOnTaming>
+  <MessageInsectsHostileOnTaming>Figyelmeztetés: {PAWN_labelShort} ellenséges és támadni fog, miközben a telepesed megpróbálja megszelídíteni.</MessageInsectsHostileOnTaming>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>Újonc</LetterLabelMessageRecruitSuccess>
@@ -87,9 +87,9 @@
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. It is now called {RECRUITEE_nameFull}. -->
   <MessageTameAndNameSuccess>{RECRUITER_labelShort} sikeresen megszelídítette őt: {1} ({2} esély) és a(z) {RECRUITEE_nameFull} nevet adta neki.</MessageTameAndNameSuccess>
   <!-- EN: There is no suitable animal pen for {ANIMAL_labelShort}. It will eventually roam away. -->
-  <MessageTameNoSuitablePens>TODO</MessageTameNoSuitablePens>
+  <MessageTameNoSuitablePens>Nincs megfelelő gondozó {ANIMAL_labelShort} számára. Végül el fog csavarogni.</MessageTameNoSuitablePens>
   <!-- EN: {RECRUITEE} has joined your colony. -->
-  <MessageRecruitJoinOfferAccepted>TODO</MessageRecruitJoinOfferAccepted>
+  <MessageRecruitJoinOfferAccepted>{RECRUITEE} csatlakozott a kolóniádhoz.</MessageRecruitJoinOfferAccepted>
 
   <!-- EN: The colony cannot afford this deal. -->
   <MessageColonyCannotAfford>A kolónia nem engedheti meg magának ezt a vásárlást.</MessageColonyCannotAfford>
@@ -122,7 +122,7 @@
   <!-- EN: Must designate painted buildings or floors. -->
   <MessageMustDesignatePainted>TODO</MessageMustDesignatePainted>
   <!-- EN: You must defeat a mech cluster before you can deconstruct it. -->
-  <MessageMustDesignateDeconstructibleMechCluster>TODO</MessageMustDesignateDeconstructibleMechCluster>
+  <MessageMustDesignateDeconstructibleMechCluster>Le kell győznöd egy mech klasztert, mielőtt szétbontanád.</MessageMustDesignateDeconstructibleMechCluster>
   <!-- EN: Must designate rough stone surfaces. -->
   <MessageMustDesignateSmoothableSurface>Göröngyös kőfelületet kell kijelölni.</MessageMustDesignateSmoothableSurface>
   <!-- EN: Nothing can remove thick roofs. -->
@@ -140,9 +140,9 @@
   <!-- EN: Must designate forbidden items. -->
   <MessageMustDesignateUnforbiddable>Tiltott tárgyat kell kijelölni.</MessageMustDesignateUnforbiddable>
   <!-- EN: Cannot claim {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
-  <MessageCannotClaimWhenThreatsAreNear>TODO</MessageCannotClaimWhenThreatsAreNear>
+  <MessageCannotClaimWhenThreatsAreNear>Nem igényelhető {CLAIMABLE_labelShort}, amíg harcképes {THREAT_factionPawnsPlural} van a közelben.</MessageCannotClaimWhenThreatsAreNear>
   <!-- EN: Cannot adopt {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
-  <MessageCannotAdoptWhileThreatsAreNear>TODO</MessageCannotAdoptWhileThreatsAreNear>
+  <MessageCannotAdoptWhileThreatsAreNear>A {CLAIMABLE_labelShort} nem fogadható el, amíg harcképes {THREAT_factionPawnsPlural} van a közelben.</MessageCannotAdoptWhileThreatsAreNear>
 
   <!-- EN: {1_labelShort} has refused to be arrested! -->
   <MessageRefusedArrest>{1_labelShort} nem hagyja magát!</MessageRefusedArrest>
@@ -152,7 +152,7 @@
   <!-- EN: There are no animal beds available. -->
   <MessageNoAnimalBeds>Nincs szabad állat fekhely.</MessageNoAnimalBeds>
   <!-- EN: Warning: {PAWN_nameDef}'s medicine restriction ({RESTRICTIONLABEL}) prevents doing this operation. Consider changing {PAWN_possessive} medicine restriction. -->
-  <MessageWarningNoMedicineForRestriction>TODO</MessageWarningNoMedicineForRestriction>
+  <MessageWarningNoMedicineForRestriction>Figyelmeztetés: {PAWN_nameDef} gyógyszerkorlátozása ({RESTRICTIONLABEL}) megakadályozza ennek a műveletnek a végrehajtását. Fontold meg a gyógyszerre vonatkozó korlátozásainak módosítását.</MessageWarningNoMedicineForRestriction>
   
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
   <PawnDiedBecauseOf>{PAWN_labelShort} meghalt {1} miatt.</PawnDiedBecauseOf>
@@ -788,8 +788,5 @@
   <StorageSettingsCopiedToClipboard>TODO</StorageSettingsCopiedToClipboard>
   <!-- EN: Storage settings pasted from clipboard. -->
   <StorageSettingsPastedFromClipboard>TODO</StorageSettingsPastedFromClipboard>
-
-  <!-- UNUSED -->
-  <MessageTooLowMedCare>Ehhez {0} vagy jobb kell, de {PAWN_labelShort} jelenlegi ellátási szintje {2}.</MessageTooLowMedCare>
 
 </LanguageData>

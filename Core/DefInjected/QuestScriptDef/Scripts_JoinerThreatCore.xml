@@ -7,7 +7,9 @@
     <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
   -->
   <ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
-    <li>questDescription->Egy [joiner_age] éves [joiner_nameDef] nevű [joiner_title] hív a közelből. [enemyFaction_pawnsPlural] üldözik, akik az [enemyFaction_name] frakció tagjai!\n\nKönyörög a segítségért és felajánlja, hogy csatlakozik ezen a helyen: [map_definite].[joiner_relationInfo]\n\nHa elfogadod az ajánlatot, a [enemyFaction_pawnsPluralDef] elzavarása a te dolgod lesz. A [enemyFaction_pawnsPlural] csoportja a következőkből áll:\n\n[raid/raidPawnKinds]\n\n[joiner_nameDef] túl zaklatott hozzá, hogy több információt adjon.</li>
+    <li>questDescription->[introduction] hív a közelből. [enemyFaction_pawnsPlural] üldözik, akik a(z) [enemyFaction_name] frakció tagjai!\n\nKönyörög a segítségért és felajánlja, hogy csatlakozik ezen a helyen: [map_definite].[joiner_relationInfo]\n\nHa elfogadod az ajánlatot, a [enemyFaction_pawnsPluralDef] elzavarása a te dolgod lesz. A [enemyFaction_pawnsPlural] csoportja a következőkből áll:\n\n[raid/raidPawnKinds]\n\n[joiner_nameDef] túl zaklatott hozzá, hogy több információt adjon.</li>
+    <li>introduction(childCount==1,priority=1)->Egy [joiner_age] éves gyermek</li>
+    <li>introduction->Egy [joiner_age] éves [joiner_nameDef] nevű [joiner_title]</li>
   </ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Saving [runnerIndef]</li>
@@ -37,6 +39,7 @@
     <li>runnerIndef->[joiner_titleIndef]</li>
     <li>runnerIndef->[joiner_nameIndef]</li>
     <li>runnerIndef->egy menekülő</li>
+    <li>runnerIndef(childCount==1,priority=1)->egy gyermek</li>
   </ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
   <ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>{BASELABEL} üldözi [../joiner_nameDef]</ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>

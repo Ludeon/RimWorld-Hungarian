@@ -459,7 +459,7 @@
     <li>tale_noun->emberevők támadnak a [Community] közelében, ahol [PAWN_nameDef] él</li>
     <li>image->egy falka [Animal] [circumstance_phrase]</li>
     <li>image->[Quantity_adjphrase] [Animal] [circumstance_phrase]</li>
-    <li>image->[huge] [Animal] [circumstance_phrase]</li>
+    <li>image->[AdjectiveLarge] [Animal] [circumstance_phrase]</li>
     <li>image->[Quantity_adjphrase] baljós figurák [circumstance_phrase]</li>
     <li>image->[Quantity_adjphrase] baljós négylábú [circumstance_phrase]</li>
     <li>circumstance_phrase->kel át ezen: [TerrainFeature]</li>
@@ -536,7 +536,7 @@
   </MeteoriteImpact.rulePack.rulesStrings>
   
   <!-- EN: raid -->
-  <Raid.label>rajtaütés</Raid.label>
+  <Raid.label>TODO</Raid.label>
   <!-- EN:
     <li>tale_noun->an raid on [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->an assault on [PAWN_nameDef]'s [Community]</li>
@@ -640,7 +640,7 @@
     <li>image->[mechanoid] raj [circumstance_phrase]</li>
     <li>image->[mechanoid] hadsereg [circumstance_phrase]</li>
     <li>image->[Quantity_adjphrase] [mechanoid] [circumstance_phrase]</li>
-    <li>image->egy [huge] [mechanoid] [circumstance_phrase]</li>
+    <li>image->egy [AdjectiveLarge] [mechanoid] [circumstance_phrase]</li>
     <li>image->[Quantity_adjphrase] [mechanoid] sziluett [circumstance_phrase]</li>
     <li>image->[Quantity_adjphrase] [mechanoid] [Color] színben fénylő szenzorral [circumstance_phrase]</li>
     <li>circumstance_phrase->kel át ezen: [TerrainFeature]</li>
@@ -808,7 +808,7 @@
   </ToxicFallout.rulePack.rulesStrings>
   
   <!-- EN: volcanic winter -->
-  <VolcanicWinter.label>vulkanikus tél</VolcanicWinter.label>
+  <VolcanicWinter.label>TODO</VolcanicWinter.label>
   <!-- EN:
     <li>tale_noun->volcanic winter beginning at [PAWN_nameDef]'s [Community]</li>
     <li>image->a dark and cold sky, [circumstance_group]</li>

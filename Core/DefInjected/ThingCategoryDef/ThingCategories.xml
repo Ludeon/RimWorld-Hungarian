@@ -5,25 +5,28 @@
   <AnimalProductRaw.label>állati termék</AnimalProductRaw.label>
   
   <!-- EN: animals -->
-  <Animals.label>TODO</Animals.label>
+  <Animals.label>állatok</Animals.label>
   
   <!-- EN: apparel -->
   <Apparel.label>ruházat</Apparel.label>
   
   <!-- EN: armor -->
-  <ApparelArmor.label>TODO</ApparelArmor.label>
+  <ApparelArmor.label>páncél</ApparelArmor.label>
+  
+  <!-- EN: misc -->
+  <ApparelMisc.label>egyéb</ApparelMisc.label>
   
   <!-- EN: misc -->
   <ApparelMisc.label>TODO</ApparelMisc.label>
   
   <!-- EN: noble apparel -->
-  <ApparelNoble.label>TODO</ApparelNoble.label>
+  <ApparelNoble.label>nemesi ruházat</ApparelNoble.label>
   
   <!-- EN: utility -->
-  <ApparelUtility.label>TODO</ApparelUtility.label>
+  <ApparelUtility.label>kiegészítő</ApparelUtility.label>
   
   <!-- EN: headgear -->
-  <ArmorHeadgear.label>TODO</ArmorHeadgear.label>
+  <ArmorHeadgear.label>fejfedő</ArmorHeadgear.label>
   
   <!-- EN: artifacts -->
   <Artifacts.label>relikviák</Artifacts.label>
@@ -32,22 +35,22 @@
   <BodyParts.label>testrészek</BodyParts.label>
   
   <!-- EN: archotech -->
-  <BodyPartsArchotech.label>TODO</BodyPartsArchotech.label>
+  <BodyPartsArchotech.label>archotech</BodyPartsArchotech.label>
   
   <!-- EN: bionic -->
-  <BodyPartsBionic.label>TODO</BodyPartsBionic.label>
+  <BodyPartsBionic.label>bionikus</BodyPartsBionic.label>
   
   <!-- EN: natural -->
   <BodyPartsNatural.label>természetes</BodyPartsNatural.label>
   
   <!-- EN: prosthetic -->
-  <BodyPartsProsthetic.label>TODO</BodyPartsProsthetic.label>
+  <BodyPartsProsthetic.label>protézis</BodyPartsProsthetic.label>
   
   <!-- EN: simple parts -->
-  <BodyPartsSimple.label>TODO</BodyPartsSimple.label>
+  <BodyPartsSimple.label>egyszerű részek</BodyPartsSimple.label>
   
   <!-- EN: ultratech -->
-  <BodyPartsUltra.label>TODO</BodyPartsUltra.label>
+  <BodyPartsUltra.label>ultratech</BodyPartsUltra.label>
   
   <!-- EN: buildings -->
   <Buildings.label>építmények</Buildings.label>
@@ -122,16 +125,16 @@
   <Headgear.label>fejfedők</Headgear.label>
   
   <!-- EN: headgear -->
-  <HeadgearNoble.label>TODO</HeadgearNoble.label>
+  <HeadgearNoble.label>fejfedők</HeadgearNoble.label>
   
   <!-- EN: inert relics -->
-  <InertRelics.label>TODO</InertRelics.label>
+  <InertRelics.label>inert relikviák</InertRelics.label>
   
   <!-- EN: items -->
   <Items.label>tárgyak</Items.label>
   
   <!-- EN: misc -->
-  <ItemsMisc.label>TODO</ItemsMisc.label>
+  <ItemsMisc.label>egyéb</ItemsMisc.label>
   
   <!-- EN: leathers -->
   <Leathers.label>bőrök</Leathers.label>
@@ -149,13 +152,13 @@
   <MortarShells.label>ágyúlövedékek</MortarShells.label>
   
   <!-- EN: neurotrainers -->
-  <Neurotrainers.label>TODO</Neurotrainers.label>
+  <Neurotrainers.label>neurális fejlesztők</Neurotrainers.label>
   
   <!-- EN: psytrainers -->
-  <NeurotrainersPsycast.label>TODO</NeurotrainersPsycast.label>
+  <NeurotrainersPsycast.label>pszichikus fejlesztők</NeurotrainersPsycast.label>
   
   <!-- EN: skilltrainers -->
-  <NeurotrainersSkill.label>TODO</NeurotrainersSkill.label>
+  <NeurotrainersSkill.label>képesség fejlesztők</NeurotrainersSkill.label>
   
   <!-- EN: vegetarian -->
   <PlantFoodRaw.label>zöldségek</PlantFoodRaw.label>
@@ -164,7 +167,7 @@
   <PlantMatter.label>növényi anyagok</PlantMatter.label>
   
   <!-- EN: plants -->
-  <Plants.label>TODO</Plants.label>
+  <Plants.label>növények</Plants.label>
   
   <!-- EN: raw resources -->
   <ResourcesRaw.label>nyersanyagok</ResourcesRaw.label>
@@ -179,10 +182,10 @@
   <StoneChunks.label>kődarabok</StoneChunks.label>
   
   <!-- EN: stumps -->
-  <Stumps.label>TODO</Stumps.label>
+  <Stumps.label>tönkök</Stumps.label>
   
   <!-- EN: techprints -->
-  <Techprints.label>TODO</Techprints.label>
+  <Techprints.label>műszaki leírások</Techprints.label>
   
   <!-- EN: textiles -->
   <Textiles.label>szövetek</Textiles.label>
@@ -197,12 +200,12 @@
   <WeaponsMelee.label>közelharci fegyverek</WeaponsMelee.label>
   
   <!-- EN: persona weapons -->
-  <WeaponsMeleeBladelink.label>TODO</WeaponsMeleeBladelink.label>
+  <WeaponsMeleeBladelink.label>személyi fegyverek</WeaponsMeleeBladelink.label>
   
   <!-- EN: ranged weapons -->
   <WeaponsRanged.label>távolsági fegyverek</WeaponsRanged.label>
   
   <!-- EN: wools -->
-  <Wools.label>TODO</Wools.label>
+  <Wools.label>gyapjú</Wools.label>
   
 </LanguageData>

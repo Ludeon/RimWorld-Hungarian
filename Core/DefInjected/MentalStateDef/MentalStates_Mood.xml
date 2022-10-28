@@ -17,7 +17,6 @@
   <Berserk.baseInspectLine>Idegállapot: őrjöngés</Berserk.baseInspectLine>
   <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
   <Berserk.beginLetter>{0} őrjöng!</Berserk.beginLetter>
-  <Berserk.beginLetterLabel>Őrjöngés</Berserk.beginLetterLabel>
   <!-- EN: {0}'s berserk rage has come to an end. -->
   <Berserk.recoveryMessage>{0} lenyugodott.</Berserk.recoveryMessage>
   
@@ -48,7 +47,6 @@
   <CorpseObsession.baseInspectLine>Idegállapot: Hulla mánia</CorpseObsession.baseInspectLine>
   <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to dig up a corpse and present it for all to see. -->
   <CorpseObsession.beginLetter>{0} hulla mániás rohamot kapott. Ki fog ásni egy tetemet.</CorpseObsession.beginLetter>
-  <CorpseObsession.beginLetterLabel>hulla mánia</CorpseObsession.beginLetterLabel>
   <!-- EN: {0} is no longer having a corpse obsession. -->
   <CorpseObsession.recoveryMessage>{0} hulla mániás rohama véget ért.</CorpseObsession.recoveryMessage>
   
@@ -58,7 +56,6 @@
   <FireStartingSpree.baseInspectLine>Idegállapot: gyújtogatás</FireStartingSpree.baseInspectLine>
   <!-- EN: {0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires. -->
   <FireStartingSpree.beginLetter>{0} mindent meggyújt.</FireStartingSpree.beginLetter>
-  <FireStartingSpree.beginLetterLabel>Gyújtogatás</FireStartingSpree.beginLetterLabel>
   <!-- EN: {0} is no longer on a fire starting spree. -->
   <FireStartingSpree.recoveryMessage>{0} lenyugodott.</FireStartingSpree.recoveryMessage>
   
@@ -67,7 +64,7 @@
   <!-- EN: Mental state: Given up and leaving -->
   <GiveUpExit.baseInspectLine>Idegállapot: lelépés</GiveUpExit.baseInspectLine>
   <!-- EN: {0} has given up on this community.\n\n[PAWN_pronoun] has decided to leave and pursue a better life elsewhere. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] again some day. -->
-  <GiveUpExit.beginLetter>{0} elhagyja a kolóniát.</GiveUpExit.beginLetter>
+  <GiveUpExit.beginLetter>{0} elhagyja a kolóniát.\n\nÚgy döntött, hogy kilép és máshol, jobb körülmények között folytatja tovább az életét. Megpróbálhatod letartóztatni, amikor távozik. Ellenkező esetben egy napon újra talán újra láthatod őt.</GiveUpExit.beginLetter>
   <!-- EN: gave up -->
   <GiveUpExit.beginLetterLabel>Lelépés</GiveUpExit.beginLetterLabel>
   <!-- EN: {0} has had a change of heart and is coming back to the colony. -->
@@ -79,12 +76,11 @@
   <InsultingSpree.baseInspectLine>Idegállapot: Tahósági roham</InsultingSpree.baseInspectLine>
   <!-- EN: {0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others. -->
   <InsultingSpree.beginLetter>{0} tahó módon sérteget mindenkit.</InsultingSpree.beginLetter>
-  <InsultingSpree.beginLetterLabel>tahósági roham</InsultingSpree.beginLetterLabel>
   <!-- EN: {0} is no longer on an insulting spree. -->
   <InsultingSpree.recoveryMessage>{0} már nem sérteget senkit.</InsultingSpree.recoveryMessage>
   
   <!-- EN: inducing prisoner to escape -->
-  <Jailbreaker.label>szökésre bujtogás</Jailbreaker.label>
+  <Jailbreaker.label>szökésre bujtogatás</Jailbreaker.label>
   <!-- EN: Mental state: Jailbreaker -->
   <Jailbreaker.baseInspectLine>Idegállapot: Szabaduló</Jailbreaker.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to induce prisoners to escape. -->
@@ -100,7 +96,6 @@
   <MurderousRage.baseInspectLine>Idegállapot: Gyilkos őrjöngés</MurderousRage.baseInspectLine>
   <!-- EN: {0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
   <MurderousRage.beginLetter>{0} vérszomjas. Meg fogja ölni őt: {1}.</MurderousRage.beginLetter>
-  <MurderousRage.beginLetterLabel>gyilkos őrjöngés</MurderousRage.beginLetterLabel>
   <!-- EN: {0} is no longer in a murderous rage. -->
   <MurderousRage.recoveryMessage>{0} már nem akar gyilkolni.</MurderousRage.recoveryMessage>
   
@@ -110,7 +105,6 @@
   <SadisticRage.baseInspectLine>Idegállapot: Szadista őrjöngés</SadisticRage.baseInspectLine>
   <!-- EN: {0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners. -->
   <SadisticRage.beginLetter>{0} szadista hajlamait éli ki. A foglyokat fogja kínozni.</SadisticRage.beginLetter>
-  <SadisticRage.beginLetterLabel>szadista őrjöngés</SadisticRage.beginLetterLabel>
   <!-- EN: {0} is no longer in a sadistic rage. -->
   <SadisticRage.recoveryMessage>{0} lenyugodott, már nem kínoz senkit.</SadisticRage.recoveryMessage>
   
@@ -120,7 +114,6 @@
   <Slaughterer.baseInspectLine>Idegállapot: Mészáros</Slaughterer.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
   <Slaughterer.beginLetter>{0} idegileg összeomlott és haragját az állatokon fogja kitölteni.</Slaughterer.beginLetter>
-  <Slaughterer.beginLetterLabel>mészáros</Slaughterer.beginLetterLabel>
   <!-- EN: {0} is no longer slaughtering random animals. -->
   <Slaughterer.recoveryMessage>{0} már nem mészárol le útjába kerülő állatokat.</Slaughterer.recoveryMessage>
   
@@ -129,8 +122,7 @@
   <!-- EN: Mental state: Tantrum -->
   <Tantrum.baseInspectLine>Idegállapot: Dühroham</Tantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] will smash up random furniture, items and structures. -->
-  <Tantrum.beginLetter>{0} dührohamot kapott.\n\n[PAWN_pronoun] véletlenszerűen bútorokat, tárgyakat és szerkezeteket fog összetörni.</Tantrum.beginLetter>
-  <Tantrum.beginLetterLabel>dühroham</Tantrum.beginLetterLabel>
+  <Tantrum.beginLetter>{0} dührohamot kapott.\n\nVéletlenszerűen bútorokat, tárgyakat és szerkezeteket fog összetörni.</Tantrum.beginLetter>
   <!-- EN: {0} is no longer having a tantrum. -->
   <Tantrum.recoveryMessage>{0} dührohama elmúlt.</Tantrum.recoveryMessage>
   
@@ -140,8 +132,6 @@
   <TargetedInsultingSpree.baseInspectLine>Idegállapot: Tahósági roham ellene: {0}</TargetedInsultingSpree.baseInspectLine>
   <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
   <TargetedInsultingSpree.beginLetter>{0} tahó módon sértegeti őt: {1}.</TargetedInsultingSpree.beginLetter>
-  <TargetedInsultingSpree.beginLetterLabel>tahósági roham</TargetedInsultingSpree.beginLetterLabel>
-  <TargetedInsultingSpree.recoveryMessage>{0} már nem sértegeti őt: {1}.</TargetedInsultingSpree.recoveryMessage>
   
   <!-- EN: tantrum -->
   <TargetedTantrum.label>dühroham</TargetedTantrum.label>

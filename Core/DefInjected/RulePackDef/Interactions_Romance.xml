@@ -1,35 +1,55 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: sent->[RECIPIENT_nameDef] agreed and the two are now engaged. -->
-  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] igent mondott. Mostantól jegyesek.</Sentence_MarriageProposalAccepted.rulePack.rulesStrings.0>
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] agreed and the two are now engaged.</li>
+  -->
+  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] igent mondott. Mostantól jegyesek.</li>
+  </Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
   
-  <!-- EN: sent->[RECIPIENT_nameDef] rejected the proposal. -->
-  <Sentence_MarriageProposalRejected.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] kikosarazta a kérőt.</Sentence_MarriageProposalRejected.rulePack.rulesStrings.0>
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] rejected the proposal.</li>
+  -->
+  <Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] kikosarazta a kérőt.</li>
+  </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
   
-  <!-- EN: sent->It was too much for the relationship to continue, and the two have now broken up. -->
-  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings.0>sent->Túl sok volt ez már, a kapcsolatuk nem bírta el. Szakítottak.</Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings.0>
+  <!-- EN:
+    <li>sent->It was too much for the relationship to continue, and the two have now broken up.</li>
+  -->
+  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+    <li>sent->Túl sok volt ez már, a kapcsolatuk nem bírta el. Szakítottak.</li>
+  </Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
   
-  <!-- EN: sent->[RECIPIENT_nameDef] was attracted and is now [INITIATOR_nameDef]'s lover. -->
-  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] elcsábult, mostantól [INITIATOR_nameDef] szeretője.</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.0>
-  <!-- EN: sent->[RECIPIENT_nameDef] responded well and is now [INITIATOR_nameDef]'s lover. -->
-  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef] jól reagált, mostantól [INITIATOR_nameDef] szeretője.</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.1>
-  <!-- EN: sent->[RECIPIENT_nameDef] became aroused and agreed to become [INITIATOR_nameDef]'s lover. -->
-  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef] felizgult, mostantól [INITIATOR_nameDef] szeretője.</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.2>
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] was attracted and is now [INITIATOR_nameDef]'s lover.</li>
+    <li>sent->[RECIPIENT_nameDef] responded well and is now [INITIATOR_nameDef]'s lover.</li>
+    <li>sent->[RECIPIENT_nameDef] became aroused and agreed to become [INITIATOR_nameDef]'s lover.</li>
+  -->
+  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] elcsábult, mostantól [INITIATOR_nameDef] szeretője.</li>
+    <li>sent->[RECIPIENT_nameDef] jól reagált, mostantól [INITIATOR_nameDef] szeretője.</li>
+    <li>sent->[RECIPIENT_nameDef] felizgult, mostantól [INITIATOR_nameDef] szeretője.</li>
+  </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
   
-  <!-- EN: sent->[RECIPIENT_nameDef] rejected the advance. -->
-  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] visszautasította a közeledést.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.0>
-  <!-- EN: sent->[RECIPIENT_nameDef] ignored the advance. -->
-  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef] figyelmen kívül hagyta a közeledést.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.1>
-  <!-- EN: sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] back. -->
-  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef] elutasította őt.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.2>
-  <!-- EN: sent->[RECIPIENT_nameDef] turned away. -->
-  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef] elfordult.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.3>
-  <!-- EN: sent->[RECIPIENT_nameDef] gave a minimal response. -->
-  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.4>sent->[RECIPIENT_nameDef] nem sok reakciót mutatott.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.4>
-  <!-- EN: sent->[RECIPIENT_nameDef] did not respond. -->
-  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.5>sent->[RECIPIENT_nameDef] nem válaszolt.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.5>
-  <!-- EN: sent->[RECIPIENT_nameDef] turned [INITIATOR_objective] down. -->
-  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.6>sent->[RECIPIENT_nameDef] visszautasította őt.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.6>
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] rejected the advance.</li>
+    <li>sent->[RECIPIENT_nameDef] ignored the advance.</li>
+    <li>sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] back.</li>
+    <li>sent->[RECIPIENT_nameDef] turned away.</li>
+    <li>sent->[RECIPIENT_nameDef] gave a minimal response.</li>
+    <li>sent->[RECIPIENT_nameDef] did not respond.</li>
+    <li>sent->[RECIPIENT_nameDef] turned [INITIATOR_objective] down.</li>
+  -->
+  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] visszautasította a közeledést.</li>
+    <li>sent->[RECIPIENT_nameDef] figyelmen kívül hagyta a közeledést.</li>
+    <li>sent->[RECIPIENT_nameDef] elutasította őt.</li>
+    <li>sent->[RECIPIENT_nameDef] elfordult.</li>
+    <li>sent->[RECIPIENT_nameDef] nem sok reakciót mutatott.</li>
+    <li>sent->[RECIPIENT_nameDef] nem válaszolt.</li>
+    <li>sent->[RECIPIENT_nameDef] visszautasította őt.</li>
+  </Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
   
 </LanguageData>

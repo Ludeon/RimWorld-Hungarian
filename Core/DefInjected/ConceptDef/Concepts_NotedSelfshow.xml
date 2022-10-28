@@ -112,10 +112,6 @@
   <!-- EN: The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane. -->
   <InfoCard.helpText>Az infokártya részletes adatokkal szolgál minden tárgyról, személyről vagy épületről.\n\nVálassz ki egy személyt és kattints az 'i'-re a információs panelen.</InfoCard.helpText>
   
-  <!-- UNUSED -->
-  <InspectRoomStats.label>Szoba statisztika</InspectRoomStats.label>
-  <InspectRoomStats.helpText>Egy szoba hatását, gazdagságát és szépségét is megnézheted, bekapcsolod a szoba statisztikák kijelzését a jobb alsó sarokban.</InspectRoomStats.helpText>
-  
   <!-- EN: Manual work priorities -->
   <ManualWorkPriorities.label>Kézi prioritások</ManualWorkPriorities.label>
   <!-- EN: One of the most important parts of RimWorld is choosing good work settings for your colonists.\n\nPoor work settings can leave essential work unfinished for a long time while colonists waste time on unimportant tasks.\n\nTo give more control over what work colonists do, you can use the Manual Priorities mode in the WORK tab.\n\nIn this mode, each colonist has a priority number for each work type. Colonists will do priority 1 work from left to right, then priority 2 work from left to right, and so on.\n\nIntelligent use of these setting is essential for a large, well-automated colony. -->
@@ -159,7 +155,12 @@
   <!-- EN: Storage tab -->
   <StorageTab.label>Raktár fül</StorageTab.label>
   <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->
-  <StorageTab.helpText>Testre szabhatod a raktárkörzeteket, ha kiválasztod őket és megnyitod a "Raktár" fület, a bal-alsó sarokban lévő információs panel tetején.</StorageTab.helpText>
+  <StorageTab.helpText>A készleteket és a tárolóépületeket úgy állíthatod be, hogy kijelölöd őket, és megnyitod a RAKTÁR fület a bal alsó ellenőrzőpanel felett.\n\nA készletek tárolási lapján kibonthatod a kategóriákat bizonyos elemek engedélyezéséhez vagy letiltásához. Kattints a kategóriák nevétől balra lévő háromszögekre.\n\nMódosíthatod a tárolóhely PRIORITÁSÁT. A telepesek először a magasabb prioritású tárolóhelyet töltik fel és az elemeket alacsonyabb prioritásúról magasabb prioritásúra helyezik át.</StorageTab.helpText>
+  
+  <!-- EN: Tile inspector -->
+  <TileInspector.label>Mezővizsgáló</TileInspector.label>
+  <!-- EN: You can inspect the details of a tile by holding {Key:ShowCellInspector}. This displays the contents of a tile, room information, beauty information, and more. -->
+  <TileInspector.helpText>A {Key:ShowCellInspector} lenyomva tartása mellett megtekintheted a mező részleteit. Ez megjeleníti a mező tartalmát, a szobainformációkat, a szépséginformációkat stb.</TileInspector.helpText>
   
   <!-- EN: Tile inspector -->
   <TileInspector.label>TODO</TileInspector.label>

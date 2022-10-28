@@ -29,7 +29,7 @@
   <!-- EN: {0} and {1} -->
   <ToCommaListAnd>{0} és {1}</ToCommaListAnd>
   <!-- EN: {0} or {1} -->
-  <ToCommaListOr>TODO</ToCommaListOr>
+  <ToCommaListOr>{0} vagy {1}</ToCommaListOr>
   
   <!-- General-use words -->
   <!-- EN: Yes -->
@@ -37,7 +37,7 @@
   <!-- EN: No -->
   <No>Nem</No>
   <!-- EN: No {0} -->
-  <NoSubject>TODO</NoSubject>
+  <NoSubject>Nincs {0}</NoSubject>
   <!-- EN: new -->
   <New>új</New>
   <!-- EN: Gender -->
@@ -87,15 +87,15 @@
   <!-- EN: Cause -->
   <Cause>Ok</Cause>
   <!-- EN: etc -->
-  <Etc>TODO</Etc>
+  <Etc>stb</Etc>
   <!-- EN: ${0} -->
   <MoneyFormat>${0}</MoneyFormat>
   <!-- EN: Factors -->
-  <Factors>TODO</Factors>
+  <Factors>Tényezők</Factors>
   <!-- EN: Uses -->
-  <Uses>TODO</Uses>
+  <Uses>Felhasználások</Uses>
   <!-- EN: Translation -->
-  <Translation>TODO</Translation>
+  <Translation>Fordítás</Translation>
 
   <!-- Content generation-->
   
@@ -147,10 +147,10 @@
   <FactionUnaffiliated>Nincs kapcsolatban</FactionUnaffiliated>
 
   <!-- EN: Continue anyway? -->
-  <StillWishContinue>TODO</StillWishContinue>
+  <StillWishContinue>Mindenképp folytatod?</StillWishContinue>
   
   <!-- EN: ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah -->
-  <BabyTalk>TODO</BabyTalk>
+  <BabyTalk>ba,bú,ma,nya,nyam,pa,oá,mam,pap</BabyTalk>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
@@ -194,13 +194,13 @@
   
   <!-- Familial relationships -->
   <!-- EN: born to {0} -->
-  <BornOfParents>TODO</BornOfParents>
+  <BornOfParents>szülei: {0}</BornOfParents>
   <!-- EN: unknown parents -->
-  <ParentsUnknown>TODO</ParentsUnknown>
+  <ParentsUnknown>ismeretlen szülők</ParentsUnknown>
   
   <!-- Legal status -->
   <!-- EN: colonist -->
-  <Colonist>TODO</Colonist>
+  <Colonist>gyarmatos</Colonist>
   
   
 </LanguageData>

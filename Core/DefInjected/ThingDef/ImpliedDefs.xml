@@ -49,9 +49,6 @@
   <!-- EN: karaván rakodóhely(tervrajz) -->
   <Blueprint_CaravanPackingSpot.label>karaván rakodóhely (tervrajz)</Blueprint_CaravanPackingSpot.label>
   
-  <!-- UNUSED -->
-  <Blueprint_CarpetDark.label>szürke szőnyeg (tervrajz)</Blueprint_CarpetDark.label>
-  
   <!-- EN: kémiai hőerőmű(tervrajz) -->
   <Blueprint_ChemfuelPoweredGenerator.label>kémiai hőerőmű (tervrajz)</Blueprint_ChemfuelPoweredGenerator.label>
   
@@ -199,7 +196,7 @@
   <!-- EN: ásvány letapogató(tervrajz) -->
   <Blueprint_LongRangeMineralScanner.label>ásvány letapogató (tervrajz)</Blueprint_LongRangeMineralScanner.label>
   
-  <!-- EN: ceremónia hely(tervrajz) -->
+  <!-- EN: házasságkötő hely(tervrajz) -->
   <Blueprint_MarriageSpot.label>ceremónia hely (tervrajz)</Blueprint_MarriageSpot.label>
   
   <!-- EN: fémlap(tervrajz) -->
@@ -276,15 +273,6 @@
   
   <!-- EN: álló sötétlámpa(tervrajz) -->
   <Blueprint_StandingLamp.label>állólámpa (tervrajz)</Blueprint_StandingLamp.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_StandingLamp_Blue.label>állólámpa (kék) (tervrajz)</Blueprint_StandingLamp_Blue.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_StandingLamp_Green.label>állólámpa (zöld) (tervrajz)</Blueprint_StandingLamp_Green.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_StandingLamp_Red.label>állólámpa (vörös) (tervrajz)</Blueprint_StandingLamp_Red.label>
   
   <!-- EN: steril csempe(tervrajz) -->
   <Blueprint_SterileTile.label>steril csempe (tervrajz)</Blueprint_SterileTile.label>
@@ -754,10 +742,6 @@
   <!-- EN: Kijelöl egy helyet, ahol karavánok alakíthatók. -->
   <Frame_CaravanPackingSpot.description>Kijelöl egy helyet, ahol karavánok alakíthatók.</Frame_CaravanPackingSpot.description>
   
-  <!-- UNUSED -->
-  <Frame_CarpetDark.label>szürke szőnyeg (építmény)</Frame_CarpetDark.label>
-  <Frame_CarpetDark.description>Padlózat építése folyamatban.</Frame_CarpetDark.description>
-  
   <!-- EN: kémiai hőerőmű(állvány) -->
   <Frame_ChemfuelPoweredGenerator.label>kémiai hőerőmű (építmény)</Frame_ChemfuelPoweredGenerator.label>
   <!-- EN: Kémiai üzemanyag elégetésével állít elő áramot. Kézzel kell tüzelőanyaggal ellátni. -->
@@ -765,7 +749,7 @@
   
   <!-- EN: sakktábla(állvány) -->
   <Frame_ChessTable.label>sakktábla (építmény)</Frame_ChessTable.label>
-  <!-- EN: Királyok játéka. Pár órás móka, még egyedül játszva is. -->
+  <!-- EN: A királyok ősi játéka. Pár órás móka, még egyedül játszva is.\n\nEhhez az építményhez szomszédos székek vagy zsámolyok szükségesek. -->
   <Frame_ChessTable.description>Királyok játéka. Pár órás móka, még egyedül játszva is.</Frame_ChessTable.description>
   
   <!-- EN: komm. konzol(állvány) -->
@@ -865,7 +849,7 @@
   
   <!-- EN: habbal oltó(állvány) -->
   <Frame_FirefoamPopper.label>habbal oltó (építmény)</Frame_FirefoamPopper.label>
-  <!-- EN: Tűzzel való érintkezésre vagy kézi aktiválásra habot locsol szét egy kör alakú területen maga körül. -->
+  <!-- EN: Amikor tüzet észlel, ez a biztonsági berendezés felpattan, és kör alakú mezőben tűzgátló habot szór maga köré. Manuálisan is indítható. -->
   <Frame_FirefoamPopper.description>Tűzzel való érintkezésre vagy kézi aktiválásra habot locsol szét egy kör alakú területen maga körül.</Frame_FirefoamPopper.description>
   
   <!-- EN: gránit járdalap(állvány) -->
@@ -968,7 +952,7 @@
   <!-- EN: Automatikusan képes az értékes anyagok (jáde, arany) detektálására közeli körzetekben (kivéve, ahol a letapogató áll).\nÁtlagosan 30 naponta van találat, 30 egységnyi körzetben.\nTöbb letapogató építése ugyanoda nem növeli a találatok számát. -->
   <Frame_LongRangeMineralScanner.description>Automatikusan képes az értékes anyagok (jáde, arany) detektálására közeli körzetekben (kivéve, ahol a letapogató áll).\n\nÁtlagosan 30 naponta van találat, 30 egységnyi körzetben.\n\nTöbb letapogató építése ugyanoda nem növeli a találatok számát.</Frame_LongRangeMineralScanner.description>
   
-  <!-- EN: ceremónia hely(állvány) -->
+  <!-- EN: házasságkötő hely(állvány) -->
   <Frame_MarriageSpot.label>ceremónia hely (építmény)</Frame_MarriageSpot.label>
   <!-- EN: Kijelöl egy helyet, ahol házassági ceremónia rendezhető. Nézők bármelyik oldalra állhatnak. -->
   <Frame_MarriageSpot.description>Kijelöl egy helyet, ahol házassági ceremónia rendezhető. Nézők bármelyik oldalra állhatnak.</Frame_MarriageSpot.description>
@@ -1020,7 +1004,7 @@
   
   <!-- EN: póker asztal(állvány) -->
   <Frame_PokerTable.label>póker asztal (építmény)</Frame_PokerTable.label>
-  <!-- EN: Kártyajátékokhoz, leginkább pókerhez tervezett asztal. Remek módja a stratégiai érzék és szerencse próbára tételének. -->
+  <!-- EN: Szerencsejátékokhoz, leginkább pókerhez tervezett asztal. Remek módja a stratégiai érzék és szerencse próbára tételének.\n\nEhhez az építményhez szomszédos székek vagy zsámolyok szükségesek. -->
   <Frame_PokerTable.description>Kártyajátékokhoz, leginkább pókerhez tervezett asztal. Remek módja a stratégiai érzék és szerencse próbára tételének.</Frame_PokerTable.description>
   
   <!-- EN: vezeték(állvány) -->
@@ -1045,7 +1029,7 @@
   
   <!-- EN: polc(állvány) -->
   <Frame_Shelf.label>polc (építmény)</Frame_Shelf.label>
-  <!-- EN: Polcon tárolt tárgyak állaga nem romlik, még a szabad ég alatt sem. -->
+  <!-- EN: Három férőhelyes polc, amelyen háromszor annyi fér el, mint az üres talajon. A rajta tárolt tárgyak soha nem romlanak meg és nem befolyásolják környezetük szépségét.\n\nMivel a polcokon a hely korlátozott, nem férnek el rajtuk darabok, épületek, növények és nagy holttestek. -->
   <Frame_Shelf.description>Polcon tárolt tárgyak állaga nem romlik, még a szabad ég alatt sem.</Frame_Shelf.description>
   
   <!-- EN: űrhajó gerinc(állvány) -->
@@ -1098,18 +1082,6 @@
   <!-- EN: Kis teljesítményű elektromos állólámpa, amely nagy területen halvány fényt bocsát ki. Azok, akik szívesebben dolgoznak sötétben, elégedettek ezzel a fényforrással. -->
   <Frame_StandingLamp.description>Állólámpa, mely megvilágítja környezetét.</Frame_StandingLamp.description>
   
-  <!-- UNUSED -->
-  <Frame_StandingLamp_Blue.label>állólámpa (kék) (építmény)</Frame_StandingLamp_Blue.label>
-  <Frame_StandingLamp_Blue.description>Kék fényű állólámpa, mely megvilágítja környezetét.</Frame_StandingLamp_Blue.description>
-  
-  <!-- UNUSED -->
-  <Frame_StandingLamp_Green.label>állólámpa (zöld) (építmény)</Frame_StandingLamp_Green.label>
-  <Frame_StandingLamp_Green.description>Zöld fényű állólámpa, mely megvilágítja környezetét.</Frame_StandingLamp_Green.description>
-  
-  <!-- UNUSED -->
-  <Frame_StandingLamp_Red.label>állólámpa (vörös) (építmény)</Frame_StandingLamp_Red.label>
-  <Frame_StandingLamp_Red.description>Vörös fényű állólámpa, mely megvilágítja környezetét.</Frame_StandingLamp_Red.description>
-  
   <!-- EN: steril csempe(állvány) -->
   <Frame_SterileTile.label>steril csempe (építmény)</Frame_SterileTile.label>
   <!-- EN: Terrain building in progress. -->
@@ -1147,7 +1119,7 @@
   
   <!-- EN: hastok(állvány) -->
   <Frame_TableButcher.label>hastok (építmény)</Frame_TableButcher.label>
-  <!-- EN: Nehéz asztal állatok szétbontásához és húsuk feldolgozásához. -->
+  <!-- EN: Nehéz asztal állatok szétbontásához és húsuk feldolgozásához. A rothadó vagy kiszáradt holttesteket nem lehet levágni. -->
   <Frame_TableButcher.description>Nehéz asztal állatok szétbontásához és húsuk feldolgozásához.</Frame_TableButcher.description>
   
   <!-- EN: gépészasztal(állvány) -->

@@ -464,18 +464,18 @@
   <Open.verb>kinyitni</Open.verb>
   
   <!-- EN: paint buildings -->
-  <PaintBuilding.label>TODO</PaintBuilding.label>
+  <PaintBuilding.label>épületet fest</PaintBuilding.label>
   <!-- EN: painting -->
-  <PaintBuilding.gerund>TODO</PaintBuilding.gerund>
+  <PaintBuilding.gerund>festés</PaintBuilding.gerund>
   <!-- EN: paint -->
-  <PaintBuilding.verb>TODO</PaintBuilding.verb>
+  <PaintBuilding.verb>festeni</PaintBuilding.verb>
   
   <!-- EN: paint floor -->
-  <PaintFloor.label>TODO</PaintFloor.label>
+  <PaintFloor.label>padlót fest</PaintFloor.label>
   <!-- EN: painting -->
-  <PaintFloor.gerund>TODO</PaintFloor.gerund>
+  <PaintFloor.gerund>festés</PaintFloor.gerund>
   <!-- EN: paint -->
-  <PaintFloor.verb>TODO</PaintFloor.verb>
+  <PaintFloor.verb>festeni</PaintFloor.verb>
   
   <!-- EN: go to bed for emergency treatment -->
   <PatientGoToBedEmergencyTreatment.label>lefekszik, hogy sürgősségi ellátást kapjon</PatientGoToBedEmergencyTreatment.label>
@@ -506,18 +506,18 @@
   <PlantsCut.verb>vágni</PlantsCut.verb>
   
   <!-- EN: rearm turrets -->
-  <RearmTurrets.label>agyút újraélesít</RearmTurrets.label>
+  <RearmTurrets.label>ágyút újraélesít</RearmTurrets.label>
   <!-- EN: rearming -->
   <RearmTurrets.gerund>újraélesítés</RearmTurrets.gerund>
   <!-- EN: rearm -->
   <RearmTurrets.verb>újraélesíteni</RearmTurrets.verb>
   
   <!-- EN: rebalance penned animals -->
-  <RebalanceAnimalsInPens.label>TODO</RebalanceAnimalsInPens.label>
+  <RebalanceAnimalsInPens.label>karámban tartott állatok egyensúlyának helyreállítása</RebalanceAnimalsInPens.label>
   <!-- EN: roping -->
-  <RebalanceAnimalsInPens.gerund>TODO</RebalanceAnimalsInPens.gerund>
+  <RebalanceAnimalsInPens.gerund>megkötése</RebalanceAnimalsInPens.gerund>
   <!-- EN: rope -->
-  <RebalanceAnimalsInPens.verb>TODO</RebalanceAnimalsInPens.verb>
+  <RebalanceAnimalsInPens.verb>megkötni</RebalanceAnimalsInPens.verb>
   
   <!-- EN: refuel fuelable buildings -->
   <Refuel.label>feltölt</Refuel.label>
@@ -534,11 +534,25 @@
   <ReleasePrisoner.verb>elengedni</ReleasePrisoner.verb>
   
   <!-- EN: release to wild -->
-  <ReleaseToWild.label>TODO</ReleaseToWild.label>
+  <ReleaseToWild.label>szabadon engedés</ReleaseToWild.label>
   <!-- EN: releasing -->
-  <ReleaseToWild.gerund>TODO</ReleaseToWild.gerund>
+  <ReleaseToWild.gerund>elengedés</ReleaseToWild.gerund>
   <!-- EN: release -->
-  <ReleaseToWild.verb>TODO</ReleaseToWild.verb>
+  <ReleaseToWild.verb>elengedni</ReleaseToWild.verb>
+  
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.label>festéket távolít</RemovePaintBuilding.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintBuilding.gerund>festék eltávolítása</RemovePaintBuilding.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.verb>eltávolítani</RemovePaintBuilding.verb>
+  
+  <!-- EN: remove floor paint -->
+  <RemovePaintFloor.label>padló festést eltávolít</RemovePaintFloor.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintFloor.gerund>festékkaparás</RemovePaintFloor.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintFloor.verb>festéket távolítani</RemovePaintFloor.verb>
   
   <!-- EN: remove paint -->
   <RemovePaintBuilding.label>TODO</RemovePaintBuilding.label>
@@ -625,11 +639,11 @@
   <TakePrisonerToBed.verb>megmenteni</TakePrisonerToBed.verb>
   
   <!-- EN: rope roaming animals -->
-  <TakeRoamingAnimalsToPen.label>TODO</TakeRoamingAnimalsToPen.label>
+  <TakeRoamingAnimalsToPen.label>kóborló állat megkötése</TakeRoamingAnimalsToPen.label>
   <!-- EN: roping -->
-  <TakeRoamingAnimalsToPen.gerund>TODO</TakeRoamingAnimalsToPen.gerund>
+  <TakeRoamingAnimalsToPen.gerund>megkötése</TakeRoamingAnimalsToPen.gerund>
   <!-- EN: rope -->
-  <TakeRoamingAnimalsToPen.verb>TODO</TakeRoamingAnimalsToPen.verb>
+  <TakeRoamingAnimalsToPen.verb>megkötni</TakeRoamingAnimalsToPen.verb>
   
   <!-- EN: take patients to bed for operations -->
   <TakeToBedToOperate.label>pácienst műtőbe visz</TakeToBedToOperate.label>
@@ -639,11 +653,11 @@
   <TakeToBedToOperate.verb>műtőbe vinni</TakeToBedToOperate.verb>
   
   <!-- EN: rope animals -->
-  <TakeToPen.label>TODO</TakeToPen.label>
+  <TakeToPen.label>állatot megköt</TakeToPen.label>
   <!-- EN: roping -->
-  <TakeToPen.gerund>TODO</TakeToPen.gerund>
+  <TakeToPen.gerund>megkötése</TakeToPen.gerund>
   <!-- EN: rope -->
-  <TakeToPen.verb>TODO</TakeToPen.verb>
+  <TakeToPen.verb>megkötni</TakeToPen.verb>
   
   <!-- EN: tame animals -->
   <Tame.label>állatot szelídít</Tame.label>

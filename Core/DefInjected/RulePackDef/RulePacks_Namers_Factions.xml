@@ -119,11 +119,19 @@
     <li>r_name->[WordTribal] [TerrainFeature]</li>
   </NamerFactionTribal.rulePack.rulesStrings>
   
-  <!-- EN: r_name->Colony -->
-  <NamerInitialSettlementColony.rulePack.rulesStrings.0>r_name->Kolónia</NamerInitialSettlementColony.rulePack.rulesStrings.0>
+  <!-- EN:
+    <li>r_name->Colony</li>
+  -->
+  <NamerInitialSettlementColony.rulePack.rulesStrings>
+    <li>r_name->Kolónia</li>
+  </NamerInitialSettlementColony.rulePack.rulesStrings>
   
-  <!-- EN: r_name->Village -->
-  <NamerInitialSettlementTribe.rulePack.rulesStrings.0>r_name->Falva</NamerInitialSettlementTribe.rulePack.rulesStrings.0>
+  <!-- EN:
+    <li>r_name->Village</li>
+  -->
+  <NamerInitialSettlementTribe.rulePack.rulesStrings>
+    <li>r_name->Falva</li>
+  </NamerInitialSettlementTribe.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=12)->[townname_wordgen]</li>

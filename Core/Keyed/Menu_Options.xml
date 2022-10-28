@@ -35,9 +35,9 @@
   <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>Fontos üzenetnél leáll</PauseOnUrgentLetter>
   <!-- EN: Pause on letter -->
-  <AutomaticPauseModeSetting>Automata leállás</AutomaticPauseModeSetting>
+  <AutomaticPauseModeSetting>Automata leállás üzenetnél</AutomaticPauseModeSetting>
   <!-- EN: Disable game-specific cursor -->
-  <CustomCursor>Egyedi kurzor</CustomCursor>
+  <CustomCursor>Játékspecifikus kurzor letiltása</CustomCursor>
   <!-- EN: Hide hats on UI -->
   <HatsShownOnlyOnMap>Kalapok csak a játéktérképen</HatsShownOnlyOnMap>
   <!-- EN: UI scale -->
@@ -71,13 +71,13 @@
   <!-- EN: Verbose logging -->
   <LogVerbose>Bővebb naplózás</LogVerbose>
   <!-- EN: Save data folder -->
-  <SaveGameDataFolder>Mentések helye</SaveGameDataFolder>
+  <SaveGameDataFolder>Mentések mappája</SaveGameDataFolder>
   <!-- EN: Save data location -->
   <SaveGameDataLocation>Mentések elérési útja</SaveGameDataLocation>
   <!-- EN: Log file folder -->
-  <LogFileFolder>Játékfájlok helye</LogFileFolder>
+  <LogFileFolder>Napló fájlok mappája</LogFileFolder>
   <!-- EN: Log file location -->
-  <LogFileLocation>Játékfájlok elérési útja</LogFileLocation>
+  <LogFileLocation>Napló fájlok elérési útja</LogFileLocation>
   <!-- EN: Open -->
   <OpenFolder>Megnyit</OpenFolder>
   <!-- EN: Show -->
@@ -103,7 +103,7 @@
   <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>Valós idő mutatása</ShowRealtimeClock>
   <!-- EN: Disable tiny font -->
-  <DisableTinyText>Apró betűtípusok letiltása</DisableTinyText>
+  <DisableTinyText>Apró betűtípus letiltása</DisableTinyText>
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>Kolóniák maximális száma: {0}</MaxNumberOfPlayerSettlements>
   <!-- EN: Map mouse drag sensitivity -->
@@ -123,9 +123,9 @@
   <!-- EN: Turning off texture compression will use much more video memory, but makes textures look slightly better in detailed areas. Only turn this off if you know you have lots of extra video memory.\n\nNote that using certain mods will often consume much more video memory, so you may need to turn this on if you add certain mods. -->
   <TextureCompression_Tooltip>A textúratömörítés kikapcsolása sokkal több videomemóriát használ, de a részletezett területeken valamivel jobban néznek ki a textúrák. Csak akkor kapcsold ki, ha tudod, hogy sok extra videomemóriád van.\n\nMegjegyzés: bizonyos modok használata gyakran sokkal több videomemóriát fogyaszt, ezért előfordulhat, hogy be kell kapcsolni, ha bizonyos modokat adsz hozzá.</TextureCompression_Tooltip>
   <!-- EN: Smooth camera jumps -->
-  <SmoothCameraJumps>TODO</SmoothCameraJumps>
+  <SmoothCameraJumps>Kamera gördülés</SmoothCameraJumps>
   <!-- EN: When enabled, the camera will quickly pan when focusing on a new location. When disabled, the camera will jump instantly. -->
-  <SmoothCameraJumpsDesc>TODO</SmoothCameraJumpsDesc>
+  <SmoothCameraJumpsDesc>Ha engedélyezve van, a kamera gyorsan odagördül, amikor egy új helyre fókuszál. Tiltás esetén a kamera azonnal odaugrik.</SmoothCameraJumpsDesc>
 
   <!-- Resolution -->
   <!-- EN: Resolution -->
@@ -135,7 +135,7 @@
   <!-- EN: Borderless fullscreen -->
   <BorderlessFullscreen>Szegély nélküli teljes képernyő</BorderlessFullscreen>
   <!-- EN: To run RimWorld in borderless fullscreen mode:\n\n1) Open Steam\n2) Go to the "Library" tab at the top\n3) Find RimWorld on the list and right-click it\n4) Choose "Properties..."\n5) Add "-popupwindow" without quotes to "Launch options" in the "General" tab\n6) Restart game\n7) If done correctly, you won't see this window\n\nHint: Use Windows Key + Shift + Left/Right to move the window between your monitors. -->
-  <BorderlessFullscreenInstructions>TODO</BorderlessFullscreenInstructions>
+  <BorderlessFullscreenInstructions>A RimWorld keret nélküli, teljes képernyős módban való futtatásához:\n\n1) Nyisd meg a Steamet.\n2) Nyisd meg a "Könyvtár" lapot a tetején.\n3) Keresd meg a RimWorld-öt a listában és kattints rá jobb gombbal.\n4) Válaszd a "Tulajdonságok..." lehetőséget\n5) Add hozzá a "-popupwindow"-t idézőjelek nélkül az "Indítási opciók"-hoz az "Általános" lapon.\n6) Indítsd újra a játékot\n7) Ha jól csináltad, nem fogod látni ezt az ablakot\n\nTipp: Használd a Windows + Shift + Bal/Jobb billentyűt a monitorok közötti ablakmozgatáshoz.</BorderlessFullscreenInstructions>
 
   <!-- Mods -->
   <!-- EN: Select mod... -->
@@ -158,11 +158,5 @@
   <!-- Background image -->
   <!-- EN: Menu background -->
   <SetBackgroundImage>Menü háttérkép</SetBackgroundImage>
-
-  <!-- UNUSED -->
-  <OpenSaveGameDataFolder>Mentett állások mappájának megnyitása</OpenSaveGameDataFolder>
-  <ShowSaveGameDataLocation>Mentett állások mappájának mutatása</ShowSaveGameDataLocation>
-  <OpenLogFileFolder>Logmappa megnyitása</OpenLogFileFolder>
-  <ShowLogFileLocation>Logmappa helye</ShowLogFileLocation>
-
+  
 </LanguageData>
