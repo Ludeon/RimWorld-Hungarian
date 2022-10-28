@@ -81,7 +81,7 @@
   <!-- EN: Save and finish -->
   <WorldSaveAndFinish>Mentés és kész</WorldSaveAndFinish>
   <!-- EN: Reset factions -->
-  <ResetFactions>TODO</ResetFactions>
+  <ResetFactions>frakciók alaphelyzetbe</ResetFactions>
   <!-- EN: Globe coverage -->
   <PlanetCoverage>Szárazföld kiterjedése</PlanetCoverage>
   <!-- EN: Overall rainfall -->
@@ -155,9 +155,9 @@
   <!-- EN: Auto-sort mods -->
   <ResolveModOrder>Modok auto-indítása</ResolveModOrder>
   <!-- EN: Save and apply changes -->
-  <SaveModChanges>Mentsd el és alkalmazd a módosításokat</SaveModChanges>
+  <SaveModChanges>Mentés és változtatások alkalmazása</SaveModChanges>
   <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->
-  <DiscardModChanges>Mod mentése nem történt meg. Biztos vagy benne, hogy folytatni akarod?</DiscardModChanges>
+  <DiscardModChanges>A mod változtatások nem lettek elmentve. Biztos folytatod?</DiscardModChanges>
   <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
   <ModReorderConflict_MustLoadAfter>A(z) {0} nem mozgatható: {1} után kell betölteni.</ModReorderConflict_MustLoadAfter>
   <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
@@ -175,21 +175,21 @@
   <!-- EN: Enabled -->
   <Enabled>Engedélyezve</Enabled>
   <!-- EN: Disabled -->
-  <Disabled>Tiltva</Disabled>
+  <Disabled>Kikapcsolva</Disabled>
   <!-- EN: Enable -->
   <Enable>Engedélyez</Enable>
   <!-- EN: Disable -->
-  <Disable>Tilt</Disable>
+  <Disable>Kikapcsol</Disable>
   <!-- EN: Get mods from... -->
-  <GetMods>Modok beszerzése innen...</GetMods>
+  <GetMods>Szerezz modokat a...</GetMods>
   <!-- EN: Unsubscribe from... -->
-  <UnsubscribeMultiple>Leiratkozás erről...</UnsubscribeMultiple>
+  <UnsubscribeMultiple>Leiratkozás...</UnsubscribeMultiple>
   <!-- EN: Save / load list... -->
-  <SaveLoadList>Mentés/betöltési lista...</SaveLoadList>
+  <SaveLoadList>Mentés / lista betöltése</SaveLoadList>
   <!-- EN: Save mod list -->
-  <SaveModList>Mod lista mentése</SaveModList>
+  <SaveModList>Mod lista mentés</SaveModList>
   <!-- EN: Load mod list -->
-  <LoadModList>Mod lista betöltése</LoadModList>
+  <LoadModList>Mod lista betöltés</LoadModList>
   <!-- EN: Added mods -->
   <AddedModsList>Hozzáadott modok</AddedModsList>
   <!-- EN: Missing mods -->
@@ -199,21 +199,21 @@
   <!-- EN: Website -->
   <ModWebsite>Weboldal</ModWebsite>
   <!-- EN: Open folder -->
-  <ModFolder>Mod mappa megnyitása</ModFolder>
+  <ModFolder>Mappa megnyitása</ModFolder>
   <!-- EN: Mod options -->
   <ModOptions>Mod beállítások</ModOptions>
   <!-- EN: Workshop -->
-  <FromWorkshop>Műhely</FromWorkshop>
+  <FromWorkshop>Műhelyből</FromWorkshop>
   <!-- EN: Forum -->
-  <FromForum>Fórum</FromForum>
+  <FromForum>Fórumról</FromForum>
   <!-- EN: Advanced... -->
-  <MoreActions>Haladó...</MoreActions>
+  <MoreActions>Haladó</MoreActions>
   <!-- EN: All selected mods -->
-  <AllSelectedMods>Minden kiválasztott mod</AllSelectedMods>
+  <AllSelectedMods>minden kiválasztott mod</AllSelectedMods>
   <!-- EN: All disabled mods -->
-  <AllDisabledMods>Minden letiltott mod</AllDisabledMods>
+  <AllDisabledMods>minden kikapcsolt mod</AllDisabledMods>
   <!-- EN: All incompatible mods -->
-  <AllIncompatibleMods>Minden nem kompatibilis mod</AllIncompatibleMods>
+  <AllIncompatibleMods>minden nem kompatibilis mod</AllIncompatibleMods>
   <!-- EN: Workshop page -->
   <WorkshopPage>Műhely oldal</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
@@ -239,7 +239,7 @@
   <!-- EN: Source -->
   <Source>Forrás</Source>
   <!-- EN: Game versions -->
-  <ModTargetVersion>Játék verziók</ModTargetVersion>
+  <ModTargetVersion>Játék verzió(k):</ModTargetVersion>
   <!-- EN: Mod version -->
   <ModVersion>Mod verzió</ModVersion>
   <!-- EN: ID -->
@@ -671,7 +671,7 @@
   <!-- EN: Relations -->
   <Relations>Kapcsolatok</Relations>
   <!-- EN: Possessions -->
-  <Possessions>Javak</Possessions>
+  <Possessions>Vagyon</Possessions>
   <!-- EN: Team skills -->
   <TeamSkills>Csapat készségek</TeamSkills>
   <!-- EN: Selected -->
@@ -737,5 +737,10 @@
   <MechanoidsDisabledContentWarning>A {0} letiltása kevesebb küldetést és spontán fenyegetést jelent.</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
   <FactionsDisabledWarning>Más frakciók nélkül a raidek, a kereskedés és a küldetések nem történnek a szokásos módon.</FactionsDisabledWarning>
+
+  <!-- UNUSED -->
+  <Current>Jelenlegi</Current>
+  <RecommendedFactionCount>Játékmeneti problémák több mint {0} frakciónál fordulhatnak elő.</RecommendedFactionCount>
+  <ResetFactionsToDefault>Alapértékek visszaállítása</ResetFactionsToDefault>
 
 </LanguageData>

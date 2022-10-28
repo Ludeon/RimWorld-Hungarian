@@ -5,25 +5,25 @@
   <!-- EN: Audiovisuals -->
   <Audiovisuals>Audió/Videó</Audiovisuals>
   <!-- EN: Master volume -->
-  <MasterVolume>Mester hangerő</MasterVolume>
+  <MasterVolume>Fő hangerő</MasterVolume>
   <!-- EN: Game volume -->
   <GameVolume>Játék hangerő</GameVolume>
   <!-- EN: Music volume -->
   <MusicVolume>Zene hangerő</MusicVolume>
   <!-- EN: Ambience volume -->
-  <AmbientVolume>Aláfestő zene hangereje</AmbientVolume>
+  <AmbientVolume>Környezet hangerő</AmbientVolume>
   <!-- EN: UI volume -->
   <UIVolume>UI hangerő</UIVolume>
   <!-- EN: Affects all sounds. -->
-  <MasterVolumeTooltip>Minden hangra hatással van.</MasterVolumeTooltip>
+  <MasterVolumeTooltip>Minden hangerőszintet érint.</MasterVolumeTooltip>
   <!-- EN: Affects all in world sounds, e.g. chopping trees, building walls. -->
-  <GameVolumeTooltip>A világ minden hangjára hatással van, pl. fát vágni, falakat építeni.</GameVolumeTooltip>
+  <GameVolumeTooltip>Minden világbeli hangra vonatkozik, pl.: favágás, falak építése</GameVolumeTooltip>
   <!-- EN: Affects music. -->
-  <MusicVolumeTooltip>A zenére van hatással.</MusicVolumeTooltip>
+  <MusicVolumeTooltip>A zenére vonatkozik.</MusicVolumeTooltip>
   <!-- EN: Affects all ambient sounds, e.g. wind, insects. -->
-  <AmbientVolumeTooltip>Minden környezeti hangra hatással van, pl. szél, rovarok.</AmbientVolumeTooltip>
+  <AmbientVolumeTooltip>Minden környezeti hangra vonatkozik, pl.: szél, rovarok</AmbientVolumeTooltip>
   <!-- EN: Affects all interface sounds, e.g. button clicks, messages. -->
-  <UIVolumeTooltip>Minden interfész hangot érint, pl. gombkattintások, üzenetek.</UIVolumeTooltip>
+  <UIVolumeTooltip>Minden UI játékelemre vonatkozik, pl.: kattintás hangja, értesítések</UIVolumeTooltip>
   <!-- EN: Anti-aliasing -->
   <Antialiasing>Élsimítás</Antialiasing>
 
@@ -47,7 +47,7 @@
   <!-- EN: Controller configuration -->
   <ControllerConfig>Kontroller beállítása</ControllerConfig>
   <!-- EN: Modify -->
-  <ModifyConfig>Módosít</ModifyConfig>
+  <ModifyConfig>Módosítás</ModifyConfig>
   <!-- EN: Choose language -->
   <ChooseLanguage>Válassz nyelvet</ChooseLanguage>
   <!-- EN: Reset learning helper -->
@@ -63,29 +63,29 @@
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Modkonfig autoreset összeomlásnál</ResetModsConfigOnCrash>
   <!-- EN: Simulate not owning Royalty -->
-  <SimulateNotOwningRoyalty>Szimulálja, hogy nem birtoklod a Királyság kiegészítőt</SimulateNotOwningRoyalty>
+  <SimulateNotOwningRoyalty>Szimulálni, hogy nincs meg a Királyság DLC</SimulateNotOwningRoyalty>
   <!-- EN: Simulate not owning Ideology -->
-  <SimulateNotOwningIdeology>Szimulálja, hogy nem birtoklod az Ideológia kiegészítőt</SimulateNotOwningIdeology>
+  <SimulateNotOwningIdeology>Szimulálni, hogy nincs meg az Ideológia DLC</SimulateNotOwningIdeology>
   <!-- EN: Simulate not owning Biotech -->
-  <SimulateNotOwningBiotech>Szimulálja, hogy nem birtoklod a Biotech kiegészítőt</SimulateNotOwningBiotech>
+  <SimulateNotOwningBiotech>Szimulálni, hogy nincs meg a Biotech DLC</SimulateNotOwningBiotech>
   <!-- EN: Verbose logging -->
   <LogVerbose>Bővebb naplózás</LogVerbose>
   <!-- EN: Save data folder -->
-  <SaveGameDataFolder>Mentés mappája</SaveGameDataFolder>
+  <SaveGameDataFolder>Mentések mappája</SaveGameDataFolder>
   <!-- EN: Save data location -->
-  <SaveGameDataLocation>Mentés elérési útja</SaveGameDataLocation>
+  <SaveGameDataLocation>Mentések elérési útja</SaveGameDataLocation>
   <!-- EN: Log file folder -->
-  <LogFileFolder>Napló fájl mappája</LogFileFolder>
+  <LogFileFolder>Napló fájlok mappája</LogFileFolder>
   <!-- EN: Log file location -->
-  <LogFileLocation>Napló fájl elérési útja</LogFileLocation>
+  <LogFileLocation>Napló fájlok elérési útja</LogFileLocation>
   <!-- EN: Open -->
   <OpenFolder>Megnyit</OpenFolder>
   <!-- EN: Show -->
-  <ShowFolder>Megnéz</ShowFolder>
+  <ShowFolder>Mutat</ShowFolder>
   <!-- EN: Preferred "Name in Game" characters -->
   <NamesYouWantToSee>Vezetéknevek, amiket a játékban vagy a háttértörténetben látni akarsz:</NamesYouWantToSee>
   <!-- EN: These characters will be more likely to appear randomly during play. -->
-  <NamesYouWantToSeeSubText>Ezek a karakterek nagyobb valószínűséggel jelennek meg véletlenszerűen játék közben.</NamesYouWantToSeeSubText>
+  <NamesYouWantToSeeSubText>Ezek a karakterek nagyobb valószínűséggel jelennek majd meg a játék során.</NamesYouWantToSeeSubText>
   <!-- EN: Add name -->
   <AddName>Név hozzáadása</AddName>
   <!-- EN: Type the first name, nickname, or last name. -->
@@ -97,9 +97,9 @@
   <!-- EN: Autosave interval -->
   <AutosaveInterval>Automentés időköze</AutosaveInterval>
   <!-- EN: The number of in game days between each auto save. -->
-  <AutosaveIntervalTooltip>Az egyes automatikus mentések közötti játéknapok száma.</AutosaveIntervalTooltip>
+  <AutosaveIntervalTooltip>A játékban eltelt napok száma két automentés között.</AutosaveIntervalTooltip>
   <!-- EN: Temperature unit -->
-  <TemperatureMode>Hőmérséklet mértékegysége</TemperatureMode>
+  <TemperatureMode>Hőmérséklet skála</TemperatureMode>
   <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>Valós idő mutatása</ShowRealtimeClock>
   <!-- EN: Disable tiny font -->
@@ -145,9 +145,9 @@
   
   <!-- Options reset -->
   <!-- EN: Restore all settings to default -->
-  <RestoreToDefaultSettingsLabel>Állítsd vissza az összes beállítást az alapértelmezettre</RestoreToDefaultSettingsLabel>
+  <RestoreToDefaultSettingsLabel>Alapértelmezett beállítások</RestoreToDefaultSettingsLabel>
   <!-- EN: Restore defaults -->
-  <RestoreToDefaultSettings>Alapértelmezett beállítások</RestoreToDefaultSettings>
+  <RestoreToDefaultSettings>Visszaállítás</RestoreToDefaultSettings>
   <!-- EN: All settings have been reset. The game will now restart automatically. -->
   <ResetAndRestart>A beállítások visszaálltak. A játék újraindul.</ResetAndRestart>
   <!-- EN: All settings will be reset to the default and the game will be restarted. Unsaved progress will be lost,\n\nContinue? -->
@@ -158,5 +158,5 @@
   <!-- Background image -->
   <!-- EN: Menu background -->
   <SetBackgroundImage>Menü háttérkép</SetBackgroundImage>
-
+  
 </LanguageData>

@@ -11,12 +11,12 @@
   <!-- EN: Read more -->
   <ReadMore>Tovább olvas</ReadMore>
   <!-- EN: You have {0} more letters -->
-  <MoreLetters>Még {0} leveled van</MoreLetters>
+  <MoreLetters>Még {0} üzeneted van</MoreLetters>
 
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>Nyár</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nTo prepare for winter, buy, steal, or make some parkas, or you'll freeze when you step outside. -->
-  <FirstSummerWarning>Elkezdődött a nyár! De a tél közeleg.\n\nA növények nem nőnek a téli hidegben. Raktározz el elegendő ételt, amíg teheted!.\n\nÉpíts hűtőházat, ami megakadályozza, hogy az étel megromoljon!\n\nVegyél, lopj vagy gyárts télikabátokat, különben megfagysz odakinn.</FirstSummerWarning>
+  <FirstSummerWarning>Elkezdődött a nyár! De a tél közeleg.\n\nA növények nem nőnek a téli hidegben. Raktározz el elegendő ételt, amíg teheted!.\n\nÉpíts hűtőházat, ami megakadályozza, hogy az étel megromoljon!\n\nKészülj a télre, vegyél, lopj vagy gyárts télikabátokat, különben megfagysz odakinn.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
   <LetterRelationsChange_Hostile>Teljesen megszakadt a kapcsolat a következővel: {0}. Mostantól ellenségesek veled.</LetterRelationsChange_Hostile>  
@@ -565,5 +565,32 @@
   <LetterJoinOfferText>TODO</LetterJoinOfferText>
   <!-- EN: Accept -->
   <LetterJoinOfferAccept>TODO</LetterJoinOfferAccept>
+
+  <!-- EN: Unwavering prisoner -->
+  <LetterLabelUnrecruitablePawnCaptured>TODO</LetterLabelUnrecruitablePawnCaptured>
+  <!-- EN: {PAWN_nameDef} is unwaveringly loyal to their home and will refuse to be recruited entirely.\n\nYou can see whether someone is unwaveringly loyal by selecting them. -->
+  <LetterTextUnrecruitablePawnCaptured>TODO</LetterTextUnrecruitablePawnCaptured>
+  <!-- EN: enslave {PAWN_objective} -->
+  <OptionalEnslaveDesc>TODO</OptionalEnslaveDesc>
+
+  <!-- Lung rot -->
+  <!-- EN: {PAWN} has gotten sick from {1} due to long-term exposure to rot stink gas (which is given off by rotting corpses).\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment. -->
+  <LetterTextLungRot>TODO</LetterTextLungRot>
+
+  <!-- Join Offer -->
+  <!-- EN: Join offer: {PAWN_nameDef} -->
+  <LetterJoinOfferLabel>TODO</LetterJoinOfferLabel>
+  <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
+  <LetterJoinOfferTitle>TODO</LetterJoinOfferTitle>
+  <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
+  <LetterJoinOfferText>TODO</LetterJoinOfferText>
+  <!-- EN: Accept -->
+  <LetterJoinOfferAccept>TODO</LetterJoinOfferAccept>
+
+  <!-- UNUSED -->
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} kisebb hibát vétett {PATIENT_labelShort} műtétje közben.</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} katasztrofális hibát vétett {PATIENT_labelShort} műtétje közben.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} nevetséges hibát vétett {PATIENT_labelShort} műtétje közben.</MessageMedicalOperationFailureRidiculous>
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} {PATIENT_labelShort} operációja közben végzetes hibát vétett a következő különleges körülmény miatt: {2}</MessageMedicalOperationFailureFatal>
 
 </LanguageData>

@@ -271,7 +271,7 @@
   <!-- EN: napelem(tervrajz) -->
   <Blueprint_SolarGenerator.label>napelem (tervrajz)</Blueprint_SolarGenerator.label>
   
-  <!-- EN: állólámpa(tervrajz) -->
+  <!-- EN: álló sötétlámpa(tervrajz) -->
   <Blueprint_StandingLamp.label>állólámpa (tervrajz)</Blueprint_StandingLamp.label>
   
   <!-- EN: steril csempe(tervrajz) -->
@@ -537,9 +537,9 @@
   <!-- EN: hiúz teteme. -->
   <Corpse_Lynx.description>Egy hiúz teteme.</Corpse_Lynx.description>
   
-  <!-- EN: robbantó százlábú teteme -->
+  <!-- EN: százlábú teteme -->
   <Corpse_Mech_CentipedeBlaster.label>százlábú tetem</Corpse_Mech_CentipedeBlaster.label>
-  <!-- EN: robbantó százlábú teteme. -->
+  <!-- EN: százlábú teteme. -->
   <Corpse_Mech_CentipedeBlaster.description>Deaktivált harci százlábú.</Corpse_Mech_CentipedeBlaster.description>
   
   <!-- EN: lándzsás teteme -->
@@ -1077,9 +1077,9 @@
   <!-- EN: Napfény segítségével állít elő áramot. Sötétben hasztalan. -->
   <Frame_SolarGenerator.description>Napfény segítségével állít elő áramot. Sötétben hasztalan.</Frame_SolarGenerator.description>
   
-  <!-- EN: állólámpa(állvány) -->
+  <!-- EN: álló sötétlámpa(állvány) -->
   <Frame_StandingLamp.label>állólámpa (építmény)</Frame_StandingLamp.label>
-  <!-- EN: Elektromos állólámpa, amely megvilágít egy területet. Az embereknek fényre van szükségük ahhoz, hogy teljes sebességgel mozogjanak és dolgozzanak. -->
+  <!-- EN: Kis teljesítményű elektromos állólámpa, amely nagy területen halvány fényt bocsát ki. Azok, akik szívesebben dolgoznak sötétben, elégedettek ezzel a fényforrással. -->
   <Frame_StandingLamp.description>Állólámpa, mely megvilágítja környezetét.</Frame_StandingLamp.description>
   
   <!-- EN: steril csempe(állvány) -->
