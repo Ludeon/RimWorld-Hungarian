@@ -39,7 +39,7 @@ Ez közvetlenül frissíti a játék nyelvi xml fájljait a telepített játék 
 Ez elkészíti a tar állományokat a munkapéldányodból és telepíti azt a játék alá, mintha a Ludaontól érkezett volna a hivatalos módon. Ezzel a kiadásra szánt verzió működését tesztelheted.
 
 ```bash
-./rim-trans.sh -t
+./rim-trans.sh -h
 ```
 Ez meg a súgó az egyéb kapcsolókhoz.
 
