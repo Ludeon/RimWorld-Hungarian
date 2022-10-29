@@ -18,8 +18,8 @@ Some text used from the old partial translation created by:
 - Moredoor
 - Laoka25
 
-Verzió: 1.4.3525 (64bit) (TODO: 1.4.3530 / 2022-10-26)
-Kiadva: 2022-10-21
+Verzió: 1.4.3531 (64bit) 
+Kiadva: 2022-10-28
 
 Tools
 ---------------------
