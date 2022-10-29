@@ -79,7 +79,7 @@
   <!-- EN: missing {0} -->
   <MissingMaterials>nincs elég alapanyag</MissingMaterials>
   <!-- EN: No medicine for restriction '{CATEGORY}'. -->
-  <NoMedicineMatchingCategory>TODO</NoMedicineMatchingCategory>
+  <NoMedicineMatchingCategory>Nincs '{CATEGORY}' korlátozásnak megfelelő gyógyszer.</NoMedicineMatchingCategory>
   <!-- EN: under required skill {0} -->
   <UnderRequiredSkill>szükséges készségszint legalább: {0}</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
@@ -127,7 +127,7 @@
   <!-- EN: {0_labelShort} is in {1} state -->
   <CantRopeAnimalMentalState>{0_labelShort} {1} állapotban van</CantRopeAnimalMentalState>
   <!-- EN: already in best pen -->
-  <CantRopeAnimalAlreadyInBestPen>TODO</CantRopeAnimalAlreadyInBestPen>
+  <CantRopeAnimalAlreadyInBestPen>már a legjobb karámban</CantRopeAnimalAlreadyInBestPen>
   <!-- EN: {0} skill too low -->
   <SkillTooLowForConstruction>{0} készség túl alacsony</SkillTooLowForConstruction>
   <!-- EN: need components -->
@@ -171,7 +171,7 @@
   <!-- EN: max level -->
   <InstallImplantAlreadyMaxLevel>max szint</InstallImplantAlreadyMaxLevel>
   <!-- EN: requires min level {0} -->
-  <InstallImplantMinLevel>TODO</InstallImplantMinLevel><!-- text_todo -->
+  <InstallImplantMinLevel>min {0} szint szükséges</InstallImplantMinLevel>
   <!-- EN: psychically deaf -->
   <InstallImplantPsychicallyDeaf>TODO</InstallImplantPsychicallyDeaf>
   <!-- EN: Upgrade {0} to level {1} -->
