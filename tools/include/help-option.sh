@@ -19,13 +19,24 @@ OPTIONS:
     -i|--info                           Show environment variables
 
   Tools:
-    -t|--tar-all                        Update Game with standard tar files
+    -t|--tar-all                        Update Game with standard tar files (like normal installation from Steam)
+
+    --tar-core                          Update Core with standard tar file
+    --tar-royalty                       Update Royalty DLC with standard tar file
+    --tar-ideology                      Update Ideology DLC with standard tar file
+    --tar-biotech                       Update Biotech DLC with standard tar file
+
+    --remove-all-tar                    Remove all related compressed language files (*.tar)
+
+
     -u|--update-all                     Update All
 
     --update-core                       Update Core
-    --update-royalty                    Update Royalty
-    --update-ideology                   Update Ideology
-    --update-biotech                    Update Biotech
+    --update-royalty                    Update Royalty DLC files
+    --update-ideology                   Update Ideology DLC files
+    --update-biotech                    Update Biotech DLC files
+
+    --remove-all-language-dir           Remove all language directories
 
 EOF
 }

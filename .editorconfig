@@ -11,3 +11,4 @@ max_line_length = 4096
 
 [*.sh]
 trim_trailing_whitespace = true
+insert_final_newline = true

@@ -40,46 +40,89 @@ while [[ $# -gt 0 ]]; do
     shift
     ;;
 
+  # Tar section
+
   -t | --tar-all)
-    tar_core
-    tar_royalty
-    tar_ideology
-    tar_biotech
+    tar_all
+    remove_all_language_dir
     shift
-  ;;
+    ;;
+
+  --tar-core)
+    log "Tar Core"
+    tar_module "Core" "${CORE_PATH}"
+    clean_language_dir "Core" "${CORE_PATH}"
+    shift
+    ;;
+
+  --tar-royalty)
+    log "Tar Royalty"
+    tar_module "Royalty" "${DLC_ROYALTY_PATH}"
+    clean_language_dir "Royalty" "${DLC_ROYALTY_PATH}"
+    shift
+    ;;
+
+  --tar-ideology)
+    log "Tar Ideology"
+    tar_module "Ideology" "${DLC_IDEOLOGY_PATH}"
+    clean_language_dir "Ideology" "${DLC_IDEOLOGY_PATH}"
+    shift
+    ;;
+
+  --tar-biotech)
+    log "Tar Biotech"
+    tar_module "Ideology" "${DLC_BIOTECH_PATH}"
+    clean_language_dir "Ideology" "${DLC_BIOTECH_PATH}"
+    shift
+    ;;
+
+  --remove-all-tar)
+    remove_all_tar
+    shift
+    ;;
+
+  # Update section
 
   -u | --update-all)
-    update_core
-    update_royalty
-    update_ideology
-    update_biotech
+    update_all
+    remove_all_tar
     shift
     ;;
 
   --update-core)
-    clean_core
-    tar_core
+    log "Updating Core"
+    clean_language_dir "Core" "${CORE_PATH}"
+    update "Core" "${CORE_PATH}"
+    remove_tar_file "Core" "${CORE_PATH}"
     shift
     ;;
 
   --update-royalty)
-    clean_royalty
-    #    update_royalty
-    tar_royalty
+    log "Updating Royalty"
+    clean_language_dir "Royalty" "${DLC_ROYALTY_PATH}"
+    update "Royalty" "${DLC_ROYALTY_PATH}"
+    remove_tar_file "Royalty" "${DLC_ROYALTY_PATH}"
     shift
     ;;
 
   --update-ideology)
-    clean_ideology
-    #    update_ideology
-    tar_ideology
+    log "Updating Ideology"
+    clean_language_dir "Ideology" "${DLC_IDEOLOGY_PATH}"
+    update "Ideology" "${DLC_IDEOLOGY_PATH}"
+    remove_tar_file "Ideology" "${DLC_IDEOLOGY_PATH}"
     shift
     ;;
 
   --update-biotech)
-    clean_biotech
-    #    update_biotech
-    tar_biotech
+    log "Updating Biotech"
+    clean_language_dir "Biotech" "${DLC_BIOTECH_PATH}"
+    update "Biotech" "${DLC_BIOTECH_PATH}"
+    remove_tar_file "Biotech" "${DLC_BIOTECH_PATH}"
+    shift
+    ;;
+
+  --remove-all-language-dir)
+    remove_all_language_dir
     shift
     ;;
 

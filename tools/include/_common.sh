@@ -9,116 +9,80 @@ function log() {
   echo "${1}"
 }
 
-function clean_core() {
-  log "Cleaning Core language files..."
-  TARGET_DIR="${DLC_ROYALTY_PATH}/Languages/${TARGET_LANGUAGE}/"
-  log "-> ${TARGET_DIR}"
-  rm -r "${TARGET_DIR}"
+function clean_language_dir() {
+  TARGET_DIR="$2/Languages/${TARGET_LANGUAGE}/"
+  log "-> Removing $1 language dir ($TARGET_DIR)"
+  if [[ -d $TARGET_DIR ]]; then
+    rm -r "${TARGET_DIR}"
+    log "-> $1 language directory removed..."
+  else
+    log "-> $1 language directory does not exist..."
+  fi
 }
 
-function update_core() {
-  log "Update Core..."
-  #  ls -lat "${CORE_PATH}/Languages/Hungarian (Magyar)/"
-  SOURCE_DIR="$DIR/../Core"
-  log "source: ${SOURCE_DIR}"
+function remove_all_language_dir() {
+  clean_language_dir "Core" "${CORE_PATH}"
+  clean_language_dir "Royalty" "${DLC_ROYALTY_PATH}"
+  clean_language_dir "Ideology" "${DLC_IDEOLOGY_PATH}"
+  clean_language_dir "Biotech" "${DLC_BIOTECH_PATH}"
+}
+
+function remove_tar_file() {
+  TAR_FILE="$2/Languages/${TARGET_LANGUAGE}.tar"
+  log "-> Checking $1 tar file... ($2)"
+  if [[ -f "$TAR_FILE" ]]; then
+    rm "$TAR_FILE"
+    log "--> $1 language tar file deleted..."
+  else
+    log "--> $1 language tar file does not exist..."
+  fi
+}
+
+function remove_all_tar() {
+  log "Removing tar files from..."
+  remove_tar_file "Core" "${CORE_PATH}"
+  remove_tar_file "Royalty" "${DLC_ROYALTY_PATH}"
+  remove_tar_file "Ideology" "${DLC_IDEOLOGY_PATH}"
+  remove_tar_file "Biotech" "${DLC_BIOTECH_PATH}"
+}
+
+function update() {
+  log "-> Updating $1..."
+  SOURCE_DIR="$DIR/../$1"
+  log "--> Source: ${SOURCE_DIR}"
   cd "${SOURCE_DIR}" || exit
-  TARGET_DIR="${CORE_PATH}/Languages/${TARGET_LANGUAGE}"
-  log "target: ${TARGET_DIR}"
+  TARGET_DIR="$2/Languages/${TARGET_LANGUAGE}"
+  log "--> Target: ${TARGET_DIR}"
   mkdir -p "${TARGET_DIR}"
   cp -r "./" "${TARGET_DIR}"
+  log "-> $1 updated."
 }
 
-function tar_core() {
-  log "Update Core with tar language file..."
-  #  ls -lat "${CORE_PATH}/Languages/Hungarian (Magyar)/"
-  SOURCE_DIR="$DIR/../Core"
-  log "source: ${SOURCE_DIR}"
-  cd "${SOURCE_DIR}" || exit
-  TAR_FILE="./${TARGET_LANGUAGE}.tar"
-  log "${TAR_FILE}"
-  #  tar -cf "${TAR_FILE}" ./*
-  tar --owner=0 --group=0 --no-same-permissions -cf "${TAR_FILE}" *
-  TARGET_DIR="${CORE_PATH}/Languages/${TARGET_LANGUAGE}"
-  log "target: ${TARGET_DIR}"
-  mv "${TAR_FILE}" "${CORE_PATH}/Languages/"
+function update_all() {
+  log "Updating language files..."
+  update "Core" "${CORE_PATH}"
+  update "Royalty" "${DLC_ROYALTY_PATH}"
+  update "Ideology" "${DLC_IDEOLOGY_PATH}"
+  update "Biotech" "${DLC_BIOTECH_PATH}"
 }
 
-function clean_royalty() {
-  log "Cleaning Royalty language files..."
-  TARGET_DIR="${DLC_ROYALTY_PATH}/Languages/${TARGET_LANGUAGE}/Keyed"
-  log "-> ${TARGET_DIR}"
-  rm -r "${TARGET_DIR}"
+function tar_module() {
+    log "-> Tar $1 language module..."
+    SOURCE_DIR="$DIR/../Core"
+    log "--> Source: ${SOURCE_DIR}"
+    cd "${SOURCE_DIR}" || exit
+    TAR_FILE="./${TARGET_LANGUAGE}.tar"
+    log "--> TAR_FILE: ${TAR_FILE}"
+    tar --owner=0 --group=0 --no-same-permissions -cf "${TAR_FILE}" *
+    TARGET_DIR="$2/Languages/${TARGET_LANGUAGE}"
+    log "--> Target: ${TARGET_DIR}"
+    mv "${TAR_FILE}" "$2/Languages/"
 }
 
-function update_royalty() {
-  log "Update Royalty..."
-  #  ls -lat "${DLC_ROYALTY_PATH}"
-  #  ls -lat "${DLC_TEST_PATH}"
-  #  ls -lat "$DIR/../Royalty"
-  SOURCE_DIR="$DIR/../Royalty"
-  log "source: ${SOURCE_DIR}"
-  cd "${SOURCE_DIR}" || exit
-  TARGET_DIR="${DLC_ROYALTY_PATH}/Languages/${TARGET_LANGUAGE}"
-  log "target: ${TARGET_DIR}"
-  mkdir -p "${TARGET_DIR}"
-  cp -r "./" "${TARGET_DIR}"
-}
-
-function tar_royalty() {
-  log "Update Royalty with tar language file..."
-  SOURCE_DIR="$DIR/../Royalty"
-  log "source: ${SOURCE_DIR}"
-  cd "${SOURCE_DIR}" || exit
-  TAR_FILE="./${TARGET_LANGUAGE}.tar"
-  log "${TAR_FILE}"
-  tar --owner=0 --group=0 --no-same-permissions -cf "${TAR_FILE}" *
-  TARGET_DIR="${DLC_ROYALTY_PATH}/Languages/${TARGET_LANGUAGE}"
-  log "target: ${TARGET_DIR}"
-  mv "${TAR_FILE}" "${DLC_ROYALTY_PATH}/Languages/"
-}
-
-function update_ideology() {
-  SOURCE_DIR="$DIR/../Ideology"
-  log "source: ${SOURCE_DIR}"
-  cd "${SOURCE_DIR}" || exit
-  TARGET_DIR="${DLC_IDEOLOGY_PATH}/Languages/${TARGET_LANGUAGE}"
-  log "target: ${TARGET_DIR}"
-  mkdir -p "${TARGET_DIR}"
-  cp -r "./" "${TARGET_DIR}"
-}
-
-function tar_ideology() {
-  log "Update Ideology with tar language file..."
-  SOURCE_DIR="$DIR/../Ideology"
-  log "source: ${SOURCE_DIR}"
-  cd "${SOURCE_DIR}" || exit
-  TAR_FILE="./${TARGET_LANGUAGE}.tar"
-  log "${TAR_FILE}"
-  tar --owner=0 --group=0 --no-same-permissions -cf "${TAR_FILE}" *
-  TARGET_DIR="${DLC_ROYALTY_PATH}/Languages/${TARGET_LANGUAGE}"
-  log "target: ${TARGET_DIR}"
-  mv "${TAR_FILE}" "${DLC_IDEOLOGY_PATH}/Languages/"
-}
-
-function update_biotech() {
-  SOURCE_DIR="$DIR/../Biotech"
-  log "source: ${SOURCE_DIR}"
-  cd "${SOURCE_DIR}" || exit
-  TARGET_DIR="${DLC_BIOTECH_PATH}/Languages/${TARGET_LANGUAGE}"
-  log "target: ${TARGET_DIR}"
-  mkdir -p "${TARGET_DIR}"
-  cp -r "./" "${TARGET_DIR}"
-}
-
-function tar_biotech() {
-  log "Update Biotech with tar language file..."
-  SOURCE_DIR="$DIR/../Biotech"
-  log "source: ${SOURCE_DIR}"
-  cd "${SOURCE_DIR}" || exit
-  TAR_FILE="./${TARGET_LANGUAGE}.tar"
-  log "${TAR_FILE}"
-  tar --owner=0 --group=0 --no-same-permissions -cf "${TAR_FILE}" *
-  TARGET_DIR="${DLC_BIOTECH_PATH}/Languages/${TARGET_LANGUAGE}"
-  log "target: ${TARGET_DIR}"
-  mv "${TAR_FILE}" "${DLC_BIOTECH_PATH}/Languages/"
+function tar_all() {
+    log "Tar language files..."
+    tar_module "Core" "${CORE_PATH}"
+    tar_module "Royalty" "${DLC_ROYALTY_PATH}"
+    tar_module "Ideology" "${DLC_IDEOLOGY_PATH}"
+    tar_module "Biotech" "${DLC_BIOTECH_PATH}"
 }
