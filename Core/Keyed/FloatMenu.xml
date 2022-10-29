@@ -170,6 +170,8 @@
   <InstallImplantHediffRequired>TODO</InstallImplantHediffRequired>
   <!-- EN: max level -->
   <InstallImplantAlreadyMaxLevel>max szint</InstallImplantAlreadyMaxLevel>
+  <!-- EN: requires min level {0} -->
+  <InstallImplantMinLevel>TODO</InstallImplantMinLevel><!-- text_todo -->
   <!-- EN: psychically deaf -->
   <InstallImplantPsychicallyDeaf>TODO</InstallImplantPsychicallyDeaf>
   <!-- EN: Upgrade {0} to level {1} -->
@@ -372,6 +374,8 @@
   <UseMedicalBed>Pihenj teljes felgyógyulásig</UseMedicalBed>
   <!-- EN: not injured -->
   <NotInjured>Nem sérült</NotInjured>
+  <!-- EN: no doctor -->
+  <NoDoctor>TODO</NoDoctor><!-- text_todo -->
   <!-- EN: occupied by {0} -->
   <SomeoneElseSleeping>{0} alszik itt</SomeoneElseSleeping>
   
@@ -553,17 +557,5 @@
   <CannotRomance>TODO</CannotRomance>
   <!-- EN: Romance {0} -->
   <CanRomance>TODO</CanRomance>
-
-  <!-- EN: Cannot enter -->
-  <CannotEnter>TODO</CannotEnter>
-
-  <!-- Romance partner -->
-  <!-- EN: Cannot romance {0} -->
-  <CannotRomance>TODO</CannotRomance>
-  <!-- EN: Romance {0} -->
-  <CanRomance>TODO</CanRomance>
-
-  <!-- UNUSED -->
-  <PickUp>Felvenni ezt: {1_label}</PickUp>
 
 </LanguageData>

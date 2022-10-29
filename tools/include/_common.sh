@@ -39,7 +39,7 @@ function remove_tar_file() {
 }
 
 function remove_all_tar() {
-  log "Removing tar files from..."
+  log "Removing all tar files..."
   remove_tar_file "Core" "${CORE_PATH}"
   remove_tar_file "Royalty" "${DLC_ROYALTY_PATH}"
   remove_tar_file "Ideology" "${DLC_IDEOLOGY_PATH}"
