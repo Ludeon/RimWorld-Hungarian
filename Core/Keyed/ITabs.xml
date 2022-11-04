@@ -110,8 +110,8 @@
   <FactorForMovement>Szorzó a mozgáshoz</FactorForMovement>
   <!-- EN: Slave price -->
   <SlavePrice>Rabszolga ár</SlavePrice>
-  <!-- EN: The base market value of this {0} if sold. -->
-  <SlavePriceDescription>Az alap piaci értéke eladás esetén: {0}.</SlavePriceDescription>
+  <!-- EN: The base market value of this slave if sold. -->
+  <SlavePriceDescription>Ennek a rabszolgának az alap piaci értéke, ha eladják.</SlavePriceDescription>
   <!-- EN: Gets food -->
   <GetsFood>Kapjon ételt</GetsFood>
   <!-- EN: Doctors care -->
@@ -167,8 +167,8 @@
   <PainLevel>Fájdalomszint</PainLevel>
   <!-- EN: Injured -->
   <Injured>Sebesült</Injured>
-  <!-- EN: Untended injury -->
-  <UntendedInjury>Nem gondozott sérülés</UntendedInjury>
+  <!-- EN: untended injury -->
+  <UntendedInjury>nem gondozott sérülés</UntendedInjury>
   <!-- EN: no health conditions -->
   <NoHealthConditions>sértetlen</NoHealthConditions>
   <!-- EN: Whole body -->
