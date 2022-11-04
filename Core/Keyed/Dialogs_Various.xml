@@ -6,29 +6,29 @@
   <!-- EN: Go back -->
   <GoBack>Vissza</GoBack>
   <!-- EN: Do you want to continue? -->
-  <WantToContinue>TODO</WantToContinue>
+  <WantToContinue>Akarod folytatni?</WantToContinue>
   <!-- EN: OK -->
   <OK>OK</OK>
   <!-- EN: Close -->
   <Close>Bezár</Close>
   <!-- EN: Accept -->
-  <Accept>TODO</Accept>
+  <Accept>Elfogadás</Accept>
   <!-- EN: Cancel -->
   <Cancel>Mégsem</Cancel>
   <!-- EN: Reset -->
   <Reset>Alapállapot</Reset>
   <!-- EN: Reset all -->
-  <ResetAll>TODO</ResetAll>
+  <ResetAll>Minden alapállapotba</ResetAll>
   <!-- EN: Disable -->
   <Disable>Kikapcsol</Disable>
   <!-- EN: Modify -->
-  <Modify>TODO</Modify>
+  <Modify>Módosítás</Modify>
   <!-- EN: Settle here anyways? -->
-  <ConfirmSettle>TODO</ConfirmSettle>
+  <ConfirmSettle>Mindenképpen itt telepedjen le?</ConfirmSettle>
   <!-- EN: add -->
-  <Add>TODO</Add>
+  <Add>hozzáad</Add>
   <!-- EN: Cannot shoot -->
-  <CannotShoot>TODO</CannotShoot>
+  <CannotShoot>Nem lehet lőni</CannotShoot>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -42,7 +42,7 @@
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
   <GameUpdatedToNewVersionSteam>Ha régebbi verzióval akarsz tovább játszani, használhatod a Steam 'Beta' szolgáltatását.\n\n1. A Steam fiókodban jobb klikk a 'RimWorld'-ön.\n2. Klikk a Beállitásokra.\n3. Klikk a 'Betas' fülre.\n4. Válaszd ki a kívánt verziót.\n\nAz régebbi verziók egy idő után törölve lesznek - de nem kell attól tartani, hogy a játékodat félbevágjuk.\n\nFigyelem, ha a modkészítők frissítik a modjukat az új verzióra, azok valószínűleg nem fognak többé működni az régebbi verziókkal. Kapcsold ki az automatikus frissítést, ennek megakadályozására.</GameUpdatedToNewVersionSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature. -->
-  <GameUpdatedToNewVersionSteamController>TODO</GameUpdatedToNewVersionSteamController>
+  <GameUpdatedToNewVersionSteamController>Ha folytatni szeretnéd a régi verziót, akkor a Steam „Béta” funkciójával iratkozhatsz fel.</GameUpdatedToNewVersionSteamController>
   
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
@@ -180,27 +180,27 @@
   
   <!-- Pawn naming -->
   <!-- EN: Chosen name is invalid. -->
-  <NameInvalid>TODO</NameInvalid>
+  <NameInvalid>A kiválasztott név érvénytelen.</NameInvalid>
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
   <PawnGainsName>A gyarmatos beceneve mostantól {0}. A rangja {PAWN_title}.</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
   <AnimalGainsName>Az állat neve mostantól {0}.</AnimalGainsName>
   <!-- EN: rename person -->
-  <RenamePerson>TODO</RenamePerson>
+  <RenamePerson>személy átnevezése</RenamePerson>
   <!-- EN: mother -->
-  <Mother>TODO</Mother>
+  <Mother>anya</Mother>
   <!-- EN: father -->
-  <Father>TODO</Father>
+  <Father>apa</Father>
   <!-- EN: unknown -->
-  <Unknown>TODO</Unknown>
+  <Unknown>ismeretlen</Unknown>
   <!-- EN: first name -->
-  <FirstName>TODO</FirstName>
+  <FirstName>keresztnév</FirstName>
   <!-- EN: nickname -->
-  <NickName>TODO</NickName>
+  <NickName>becenév</NickName>
   <!-- EN: last name -->
-  <LastName>TODO</LastName>
+  <LastName>vezetéknév</LastName>
   <!-- EN: suggested -->
-  <Suggested>TODO</Suggested>
+  <Suggested>javasolt</Suggested>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
@@ -216,9 +216,9 @@
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do. -->
   <ModsMismatchWarningText>Ezt a fájlt különböző aktív modkészlettel mentették el a jelenlegitől. Attól függően, hogy ezek a modok mit csinálnak, ez problémát okozhat.\n\nA fájlt ezekkel mentették el (ebben a sorrendben):\n\n{0}\n\nEzek aktívak most (ebben a sorrendben):\n\n{1}</ModsMismatchWarningText>
   <!-- EN: No mods have been added or removed, but the order of your mod list has changed. -->
-  <ModsMismatchOrderChanged>TODO</ModsMismatchOrderChanged>
+  <ModsMismatchOrderChanged>Nem adtál hozzá vagy távolítottál el modokat, de a modlista sorrendje megváltozott.</ModsMismatchOrderChanged>
   <!-- EN: Are you sure you want to load the mod list from this save file? -->
-  <ConfirmLoadSaveList>TODO</ConfirmLoadSaveList>
+  <ConfirmLoadSaveList>Biztosan betöltöd a modlistát ebből a mentésből?</ConfirmLoadSaveList>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
@@ -234,15 +234,15 @@
 
   <!-- Confirm reset learning helper -->
   <!-- EN: Are you sure you want to reset the learning helper?\n\nAll records of which concepts have been learned will be erased and the system will teach everything from scratch. -->
-  <ConfirmResetLearningHelper>TODO</ConfirmResetLearningHelper>
+  <ConfirmResetLearningHelper>Biztosan alaphelyzetbe állítod az oktatási segédprogramot?\n\nA megtanult fogalmak összes rekordja törlődik és a rendszer mindent elölről tanít meg.</ConfirmResetLearningHelper>
 
   <!-- Backstory translation restart dialog -->
   <!-- EN: Backstories are now implemented as a def and all legacy backstory translations have been imported into def translations. The file {0} has been imported and moved to {1}. It can now be deleted.\n\nRestart the game for changes to take effect. -->
-  <RestartAfterImportingLegacyBackstoryTanslations>TODO</RestartAfterImportingLegacyBackstoryTanslations>
+  <RestartAfterImportingLegacyBackstoryTanslations>A háttértörténetek mostantól def-ként valósulnak meg, és az összes régebbi háttértörténet-fordítás def-fordításokba lett átmozgatva. A(z) {0} fájl importálva és áthelyezve ide: {1}. Most már törölhető.\n\nIndítsa újra a játékot, hogy a változtatások érvénybe lépjenek.</RestartAfterImportingLegacyBackstoryTanslations>
 
   <!-- Game start -->
   <!-- EN: Must include exactly {SUMMARY} -->
-  <SelectedCharactersMustInclude>TODO</SelectedCharactersMustInclude>
+  <SelectedCharactersMustInclude>Pontosan a következőt kell tartalmaznia: {SUMMARY}</SelectedCharactersMustInclude>
 
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
@@ -345,17 +345,17 @@
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
   <ArmorPenetrationExplanation>Ez a fegyver ennyi védelmet hagy figyelmen kívül minden támadásnál.\n\nHa az érték nagyobb, mint az ellenfél védelme, akkor mintha nem is lenne a célponton páncél. Ha az érték kisebb, levonásra kerül az ellenfél védelméből.</ArmorPenetrationExplanation>
   <!-- EN: Building damage factor -->
-  <BuildingDamageFactor>TODO</BuildingDamageFactor>
+  <BuildingDamageFactor>Épületkárosodási tényező</BuildingDamageFactor>
   <!-- EN: Damage to all buildings is multiplied by this value. -->
-  <BuildingDamageFactorExplanation>TODO</BuildingDamageFactorExplanation>
+  <BuildingDamageFactorExplanation>Ezzel az értékkel szorzódik az összes épületben keletkezett kár.</BuildingDamageFactorExplanation>
   <!-- EN: Building damage factor (impassable) -->
-  <BuildingDamageFactorImpassable>TODO</BuildingDamageFactorImpassable>
+  <BuildingDamageFactorImpassable>Épületkárosodási tényező (járhatatlan)</BuildingDamageFactorImpassable>
   <!-- EN: Damage to all impassable buildings is multiplied by this value. -->
-  <BuildingDamageFactorImpassableExplanation>TODO</BuildingDamageFactorImpassableExplanation>
+  <BuildingDamageFactorImpassableExplanation>Ezzel az értékkel szorzódik az összes járhatatlan épületben keletkezett kár.</BuildingDamageFactorImpassableExplanation>
   <!-- EN: Building damage factor (passable) -->
-  <BuildingDamageFactorPassable>TODO</BuildingDamageFactorPassable>
+  <BuildingDamageFactorPassable>Épületkárosodási tényező (járható)</BuildingDamageFactorPassable>
   <!-- EN: Damage to all passable buildings is multiplied by this value. -->
-  <BuildingDamageFactorPassableExplanation>TODO</BuildingDamageFactorPassableExplanation>
+  <BuildingDamageFactorPassableExplanation>Ezzel az értékkel szorzódik az összes járható épületben keletkezett kár.</BuildingDamageFactorPassableExplanation>
   <!-- EN: Accuracy -->
   <Accuracy>Pontosság</Accuracy>
   <!-- EN: Burst shot count -->
@@ -371,7 +371,7 @@
   <!-- EN: Disarmed -->
   <DisarmedTime>Lefegyverezve</DisarmedTime>
   <!-- EN: Charging -->
-  <ChargingTime>TODO</ChargingTime>
+  <ChargingTime>Töltés</ChargingTime>
   <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
   <ChargingNext>TODO</ChargingNext>
   <!-- EN: Shut down -->
@@ -437,7 +437,7 @@
   <!-- EN: Body size -->
   <BodySize>Testméret</BodySize>
   <!-- EN: Growth -->
-  <Growth>TODO</Growth>
+  <Growth>Növekedés</Growth>
   <!-- EN: Recruit difficulty -->
   <RecruitDifficulty>Toborzási nehézség</RecruitDifficulty>
   <!-- EN: Base price -->
@@ -465,7 +465,7 @@
   <!-- EN: Tameness will never decay for animals of very low wildness. -->
   <TamenessWillNotDecay>Örökké szelídített marad.</TamenessWillNotDecay>
   <!-- EN: Tameness will never decay for animals that can be kept behind fences. -->
-  <TamenessWillNotDecayFenceBlocked>TODO</TamenessWillNotDecayFenceBlocked>
+  <TamenessWillNotDecayFenceBlocked>A kerítés mögött tartható állatok szelídsége soha nem romlik le.</TamenessWillNotDecayFenceBlocked>
   <!-- EN: Time -->
   <TimeRecordsCategory>Idő</TimeRecordsCategory>
   <!-- EN: Misc -->
@@ -487,9 +487,9 @@
   <!-- EN: Safe dose interval for adults -->
   <SafeDoseInterval>TODO</SafeDoseInterval>
   <!-- EN: age {0}-{1} -->
-  <AgeXToY>TODO</AgeXToY>
+  <AgeXToY>életkor: {0}-{1}</AgeXToY>
   <!-- EN: age {0}+ -->
-  <AgePlus>TODO</AgePlus>
+  <AgePlus>életkor: {0}+</AgePlus>
   <!-- EN: New addiction chance -->
   <Addictiveness>Addiktívság</Addictiveness>
   <!-- EN: Addiction initial severity -->

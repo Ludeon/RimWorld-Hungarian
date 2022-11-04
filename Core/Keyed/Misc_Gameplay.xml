@@ -1743,19 +1743,19 @@
   <MaxValue>TODO</MaxValue>
 
   <!-- EN: {0} of -->
-  <ThingOf>TODO</ThingOf>
+  <ThingOf>{0}</ThingOf>
   <!-- EN: {0} of {1} -->
-  <ThingOfSource>TODO</ThingOfSource>
+  <ThingOfSource>{1} {0}</ThingOfSource>
   <!-- EN: {0} of {1} and {2} -->
-  <ThingOfTwoSources>TODO</ThingOfTwoSources>
+  <ThingOfTwoSources>{1} és {2} {0}</ThingOfTwoSources>
 
   <!-- Gas types -->
   <!-- EN: blind smoke -->
-  <BlindSmoke>TODO</BlindSmoke>
+  <BlindSmoke>átláthatatlan füst</BlindSmoke>
   <!-- EN: tox gas -->
-  <ToxGas>TODO</ToxGas>
+  <ToxGas>mérgező gáz</ToxGas>
   <!-- EN: rot stink -->
-  <RotStink>TODO</RotStink>
+  <RotStink>rothadás bűz</RotStink>
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->

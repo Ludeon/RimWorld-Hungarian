@@ -215,35 +215,35 @@
 
   <!-- Mechs -->
   <!-- EN: Weight class -->
-  <MechWeightClass>TODO</MechWeightClass>
+  <MechWeightClass>Súlyosztály</MechWeightClass>
   <!-- EN: The weight class of this mech. -->
-  <MechWeightClassExplanation>TODO</MechWeightClassExplanation>
+  <MechWeightClassExplanation>Ennek a gépnek a súlycsoportja.</MechWeightClassExplanation>
   <!-- EN: This mech's overseer is {0}. -->
-  <MechOverseer>TODO</MechOverseer>
+  <MechOverseer>Ennek a gépnek a felügyelője: {0}.</MechOverseer>
   <!-- EN: Work activities -->
-  <MechWorkActivities>TODO</MechWorkActivities>
+  <MechWorkActivities>Munkatípusok</MechWorkActivities>
   <!-- EN: The work activities that can be performed by this mechanoid.\n\nThe following list details which work activities can be done within each work type -->
-  <MechWorkActivitiesExplanation>TODO</MechWorkActivitiesExplanation>
+  <MechWorkActivitiesExplanation>Azok a munkatevékenységek, amelyeket ez a mechanoid végezhet.\n\nAz alábbi lista részletezi, hogy az egyes munkatípusokon belül mely munkatevékenységek végezhetők</MechWorkActivitiesExplanation>
   <!-- EN: Recharge settings -->
-  <MechRechargeSettingsTitle>TODO</MechRechargeSettingsTitle>
+  <MechRechargeSettingsTitle>Újratöltési beállítások</MechRechargeSettingsTitle>
   <!-- EN: Change when mechanoids will start and stop charging.\n\nMechanoids with energy below this range will automatically seek out a recharger. They will stop charging once they reach the top of this range. These settings only apply in work mode. -->
-  <MechRechargeSettingsExplanation>TODO</MechRechargeSettingsExplanation>
+  <MechRechargeSettingsExplanation>Módosíthatod, hogy a mechanoidok mikor induljanak el és mikor fejezzék be a töltést.\n\nAz ezen tartomány alatti energiájú mechanoidok automatikusan töltőt keresnek. Leállítják a töltést, ha elérik a tartomány tetejét. Ezek a beállítások csak munkamódban érvényesek.</MechRechargeSettingsExplanation>
   <!-- EN: Work skill -->
-  <MechWorkSkill>TODO</MechWorkSkill>
+  <MechWorkSkill>Munkakészség</MechWorkSkill>
   <!-- EN: The skill level that this mechanoid acts with. -->
-  <MechWorkSkillDesc>TODO</MechWorkSkillDesc>
+  <MechWorkSkillDesc>Az a képzettségi szint, amellyel ez a mechanoid működik.</MechWorkSkillDesc>
   <!-- EN: Any mech -->
-  <AnyMech>TODO</AnyMech>
+  <AnyMech>Bármilyen mech</AnyMech>
   <!-- EN: Your caravan contains a mechanoid but not their overseer. You will have limited control over the mechanoid when you reach your destination. -->
-  <CaravanLacksMechMechanitorWarning>TODO</CaravanLacksMechMechanitorWarning>
+  <CaravanLacksMechMechanitorWarning>A karavánod tartalmaz egy mechanoidot, ami nélkülözi a felügyelőjét. Korlátozott irányításod lesz a mechanoid felett, amikor a karaván eléri a célt.</CaravanLacksMechMechanitorWarning>
   <!-- EN: Mechanoids -->
-  <MechsSection>TODO</MechsSection>
+  <MechsSection>Mechanoidok</MechsSection>
 
   <!-- Pawn naming -->
   <!-- EN: Rename mech -->
-  <RenameMech>TODO</RenameMech>
+  <RenameMech>Mech átnevezése</RenameMech>
   <!-- EN: The mech's name is now {0}. -->
-  <MechGainsName>TODO</MechGainsName>
+  <MechGainsName>A gép neve mostantól: {0}.</MechGainsName>
 
   <!-- EN: {FATHER_nameDef} is {MOTHER_nameDef}'s {RELATION}. There's a {CHANCE} chance that the resulting baby will have genetic abnormalities due to inbreeding.\n\nAre you sure you want to continue? -->
   <FertilizeOvumInbredChance>TODO</FertilizeOvumInbredChance>

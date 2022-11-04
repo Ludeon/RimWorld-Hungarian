@@ -48,7 +48,7 @@
   <!-- EN: A mechanitor can only oversee a mech if there is enough bandwidth to do so. Each mech consumes a different amount of bandwidth.\n\nGain more bandwidth by constructing band nodes and tuning the mechanitor to them, or by equipping special mechanitor apparel. -->
   <BandwidthGizmoTip>TODO</BandwidthGizmoTip>
   <!-- EN: Control group -->
-  <ControlGroup>TODO</ControlGroup>
+  <ControlGroup>Vezérlő csoport</ControlGroup>
   <!-- EN: Current mode -->
   <CurrentMechWorkMode>TODO</CurrentMechWorkMode>
   <!-- EN: Assigned mechs -->
@@ -450,11 +450,11 @@
   <!-- EN: Poisoned {0} -->
   <PoisonedTerrain>TODO</PoisonedTerrain>
   <!-- EN: Assign to control group {0} -->
-  <AssignMechToControlGroup>TODO</AssignMechToControlGroup>
+  <AssignMechToControlGroup>Hozzárendelés vezérlőcsoporthoz: {0}</AssignMechToControlGroup>
   <!-- EN: Fall per day -->
   <CurrentMechEnergyFallPerDay>TODO</CurrentMechEnergyFallPerDay>
   <!-- EN: Cannot assign to control group {0} -->
-  <CannotAssignMechToControlGroup>TODO</CannotAssignMechToControlGroup>
+  <CannotAssignMechToControlGroup>Nem lehet hozzárendelni a vezérlőcsoporthoz: {0}</CannotAssignMechToControlGroup>
   <!-- EN: Already assigned -->
   <AssignMechAlreadyAssigned>TODO</AssignMechAlreadyAssigned>
 
