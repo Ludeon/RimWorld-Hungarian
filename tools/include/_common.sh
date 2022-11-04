@@ -86,3 +86,23 @@ function tar_all() {
     tar_module "Ideology" "${DLC_IDEOLOGY_PATH}"
     tar_module "Biotech" "${DLC_BIOTECH_PATH}"
 }
+
+function sync_with_game() {
+  log "-> Syncing with game after cleanup tool... "
+  sync "Core" "${CORE_PATH}"
+  sync "Royalty" "${DLC_ROYALTY_PATH}"
+  sync "Ideology" "${DLC_IDEOLOGY_PATH}"
+  sync "Biotech" "${DLC_BIOTECH_PATH}"
+}
+
+function sync() {
+  log "-> Syncing $1..."
+  SOURCE_DIR="$2/Languages/${TARGET_LANGUAGE}"
+  log "--> Source: ${SOURCE_DIR}"
+  cd "${SOURCE_DIR}" || exit
+  TARGET_DIR="$DIR/../$1"
+  log "--> Target: ${TARGET_DIR}"
+  mkdir -p "${TARGET_DIR}"
+  cp -r "./" "${TARGET_DIR}"
+  log "-> $1 synced."
+}

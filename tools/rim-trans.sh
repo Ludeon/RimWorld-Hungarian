@@ -126,6 +126,11 @@ while [[ $# -gt 0 ]]; do
     shift
     ;;
 
+  --sync)
+    sync_with_game
+    shift
+    ;;
+
   *)
     echo "${1} is not a valid option, try running: ${0} --help"
     ;;

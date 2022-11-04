@@ -38,5 +38,7 @@ OPTIONS:
 
     --remove-all-language-dir           Remove all language directories
 
+    --sync                              Syncing the working instance with the game files (after cleanup tool)
+
 EOF
 }
