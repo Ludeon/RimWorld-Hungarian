@@ -36,12 +36,18 @@ Ez közvetlenül frissíti a játék nyelvi xml fájljait a telepített játék 
 ./rim-trans.sh -t
 ```
 
-Ez elkészíti a tar állományokat a munkapéldányodból és telepíti azt a játék alá, mintha a Ludaontól érkezett volna a hivatalos módon. Ezzel a kiadásra szánt verzió működését tesztelheted.
+Ez elkészíti a tar állományokat a munkapéldányodból és telepíti azt a játék alá, mintha a Ludeontól érkezett volna a hivatalos módon. Ezzel a kiadásra szánt verzió működését tesztelheted.
 
 ```bash
 ./rim-trans.sh -h
 ```
 Ez meg a súgó az egyéb kapcsolókhoz.
+
+```bash
+./rim-trans.sh --sync
+```
+
+Ezzel a kapcsolóval a fordítási tisztázás után tudod visszamásolni a munkapéldányodba a megváltozott fájlokat.
 
 
 
