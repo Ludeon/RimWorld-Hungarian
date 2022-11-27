@@ -3,7 +3,7 @@
 
   <!-- Mechanitors -->
   <!-- EN: Any mechanitor -->
-  <AnyMechanitor>TODO</AnyMechanitor>
+  <AnyMechanitor>Bármelyik robotmester</AnyMechanitor>
   <!-- EN: Summoning the {LEADERKIND_label} threat will summon the following hostile mechanoids:\n\n{PAWNS}\n\nThe mechanoids will arrive in the next few hours or days. Are you ready to fight? -->
   <BossgroupWarningDialog>TODO</BossgroupWarningDialog>
   <!-- EN: {PAWN_labelShort} is downed. -->
@@ -229,21 +229,21 @@
   <!-- EN: Work activities -->
   <MechWorkActivities>Munkatípusok</MechWorkActivities>
   <!-- EN: The work activities that can be performed by this mechanoid.\n\nThe following list details which work activities can be done within each work type -->
-  <MechWorkActivitiesExplanation>Azok a munkatevékenységek, amelyeket ez a mechanoid végezhet.\n\nAz alábbi lista részletezi, hogy az egyes munkatípusokon belül mely munkatevékenységek végezhetők</MechWorkActivitiesExplanation>
+  <MechWorkActivitiesExplanation>Azok a munkatevékenységek, amelyeket ez a robot végezhet.\n\nAz alábbi lista részletezi, hogy az egyes munkatípusokon belül mely munkatevékenységek végezhetők</MechWorkActivitiesExplanation>
   <!-- EN: Recharge settings -->
   <MechRechargeSettingsTitle>Újratöltési beállítások</MechRechargeSettingsTitle>
   <!-- EN: Change when mechanoids will start and stop charging.\n\nMechanoids with energy below this range will automatically seek out a recharger. They will stop charging once they reach the top of this range. These settings only apply in work mode. -->
-  <MechRechargeSettingsExplanation>Módosíthatod, hogy a mechanoidok mikor induljanak el és mikor fejezzék be a töltést.\n\nAz ezen tartomány alatti energiájú mechanoidok automatikusan töltőt keresnek. Leállítják a töltést, ha elérik a tartomány tetejét. Ezek a beállítások csak munkamódban érvényesek.</MechRechargeSettingsExplanation>
+  <MechRechargeSettingsExplanation>Módosíthatod, hogy a robotok mikor kezdjék el és mikor fejezzék be a töltést.\n\nAz ezen tartomány alatti energiájú mechanoidok automatikusan töltőt keresnek. Leállítják a töltést, ha elérik a tartomány tetejét. Ezek a beállítások csak munkamódban érvényesek.</MechRechargeSettingsExplanation>
   <!-- EN: Work skill -->
   <MechWorkSkill>Munkakészség</MechWorkSkill>
   <!-- EN: The skill level that this mechanoid acts with. -->
-  <MechWorkSkillDesc>Az a képzettségi szint, amellyel ez a mechanoid működik.</MechWorkSkillDesc>
+  <MechWorkSkillDesc>Az a képzettségi szint, amellyel ez a robot működik.</MechWorkSkillDesc>
   <!-- EN: Any mech -->
   <AnyMech>Bármilyen mech</AnyMech>
   <!-- EN: Your caravan contains a mechanoid but not their overseer. You will have limited control over the mechanoid when you reach your destination. -->
-  <CaravanLacksMechMechanitorWarning>A karavánod tartalmaz egy mechanoidot, ami nélkülözi a felügyelőjét. Korlátozott irányításod lesz a mechanoid felett, amikor a karaván eléri a célt.</CaravanLacksMechMechanitorWarning>
+  <CaravanLacksMechMechanitorWarning>A karavánod tartalmaz egy robotot, ami nélkülözi a felügyelőjét. Korlátozott irányításod lesz a robot felett, amikor a karaván eléri a célt.</CaravanLacksMechMechanitorWarning>
   <!-- EN: Mechanoids -->
-  <MechsSection>Mechanoidok</MechsSection>
+  <MechsSection>Robotok</MechsSection>
 
   <!-- Pawn naming -->
   <!-- EN: Rename mech -->

@@ -1,17 +1,20 @@
-[memeConcept]
+Jegyzet a fogalmakhoz, egységesítés szükséges.
 
-{IDEO}
+HA VAN JOBB ÖTLETED, JELEZD!
 
-?
 glitterworld - szupervilág
+urbworld - urbánus világ?
 
-smokeleaf - füstlevél, esetleg dohánylevél
-
+smokeleaf - füstlevél, esetleg dohánylevél, marihuána?
 certainty - bizonyosság, hitbéli meggyőződés?
 
-
-spikecore - tüskemagos?
+spikecore - trófea?, skalp?, tüskemagos?
 
 biosculpter pod
 biosculpter - fiatalító gép? testátalakító gép
-urbworld - urbánus világ?
+
+mechanitor - robotmester (gépész?, technikus?, szerelő?)
+mechanoid - robot
+mechlink - gépkapcsolat, robot link, kapcsolódás egy robothoz
+
+sanguophage - vérivó

@@ -395,11 +395,11 @@
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <MessageDefendersAttacking>{1} tagja: {0} megtámadja ezt: {2}.</MessageDefendersAttacking>
   <!-- EN: Mechanoids have been assembled and will defend their cluster. -->
-  <MessageMechanoidsAssembled>A mechanoidok elkészültek és támadnak</MessageMechanoidsAssembled>
+  <MessageMechanoidsAssembled>A robotok elkészültek és támadnak</MessageMechanoidsAssembled>
   <!-- EN: Remaining mechanoids to assemble -->
   <MessageMechanoidsLeftToAssemble>TODO</MessageMechanoidsLeftToAssemble>
   <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
-  <MessageMechanoidsReinforcementsDrop>Egy mechanoid adóvevő erősítést hívott, szállítókapszulában érkeznek a közelbe.</MessageMechanoidsReinforcementsDrop>
+  <MessageMechanoidsReinforcementsDrop>Egy robot erősítést hívott, szállítókapszulában érkeznek a közelbe.</MessageMechanoidsReinforcementsDrop>
 
   <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->
   <MessageSelfTendUnsatisfied>Az önellátáshoz {1_labelShort} be kell legyen osztva orvosnak.</MessageSelfTendUnsatisfied>
@@ -429,7 +429,7 @@
   <!-- EN: {0} have woken up. -->
   <MessageSleepingPawnsWokenUp>{0} felébredt.</MessageSleepingPawnsWokenUp>
   <!-- EN: Mech cluster buildings have been defeated. -->
-  <MessageMechClusterDefeated>Mechanoid csoport épületei elpusztítva.</MessageMechClusterDefeated>
+  <MessageMechClusterDefeated>Robot klaszter épületei elpusztítva.</MessageMechClusterDefeated>
 
   <!-- EN: Item produced: {0}. -->
   <MessageCompSpawnerSpawnedItem>Elkészült tárgy: {0}.</MessageCompSpawnerSpawnedItem>
