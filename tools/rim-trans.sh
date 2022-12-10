@@ -4,6 +4,7 @@ INSTALLED_GAME_ROOT_PATH="${INSTALLED_GAME_ROOT_PATH:-("/c/Program Files (x86)/S
 TARGET_LANGUAGE="${TARGET_LANGUAGE:-"Hungarian (Magyar)"}"
 
 DIR="${BASH_SOURCE%/*}"
+PROJECT_DIR=$(dirname $(pwd))
 #echo ${DIR}
 if [[ ! -d "$DIR" ]]; then DIR="$PWD"; fi
 # override environment variables
@@ -27,6 +28,7 @@ while [[ $# -gt 0 ]]; do
     echo "Language: ${TARGET_LANGUAGE}"
     echo "------------------------------"
     echo "Path:"
+    echo "- Project Root: ${PROJECT_DIR}"
     echo "- Installed Game Root: ${INSTALLED_GAME_ROOT_PATH}"
     echo "- Core: ${CORE_PATH}"
     echo "- Royalty: ${DLC_ROYALTY_PATH}"

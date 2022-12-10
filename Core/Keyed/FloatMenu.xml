@@ -171,7 +171,7 @@
   <!-- EN: max level -->
   <InstallImplantAlreadyMaxLevel>max szint</InstallImplantAlreadyMaxLevel>
   <!-- EN: requires min level {0} -->
-  <InstallImplantMinLevel>min {0} szint szükséges</InstallImplantMinLevel><!-- text_todo -->
+  <InstallImplantMinLevel>min {0} szint szükséges</InstallImplantMinLevel>
   <!-- EN: psychically deaf -->
   <InstallImplantPsychicallyDeaf>TODO</InstallImplantPsychicallyDeaf>
   <!-- EN: Upgrade {0} to level {1} -->
@@ -375,7 +375,7 @@
   <!-- EN: not injured -->
   <NotInjured>Nem sérült</NotInjured>
   <!-- EN: no doctor -->
-  <NoDoctor>TODO</NoDoctor><!-- text_todo -->
+  <NoDoctor>TODO</NoDoctor>
   <!-- EN: occupied by {0} -->
   <SomeoneElseSleeping>{0} alszik itt</SomeoneElseSleeping>
   
@@ -557,5 +557,9 @@
   <CannotRomance>TODO</CannotRomance>
   <!-- EN: Romance {0} -->
   <CanRomance>TODO</CanRomance>
+
+  <!-- Feeding -->
+  <!-- EN: disliked food -->
+  <WarningFoodDisliked>TODO</WarningFoodDisliked>
 
 </LanguageData>
