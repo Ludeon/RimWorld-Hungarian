@@ -79,7 +79,7 @@
   <!-- EN: Not enough archite capsules. -->
   <NotEnoughArchites>TODO</NotEnoughArchites>
   <!-- EN: Xenogenes are genes derived from an implanted xenogerm. If the xenogerm is removed or replaced, the xenogenes go with it. Since xenogenes are not part of the organism's own germline DNA, they are not passed to children. -->
-  <XenogenesDesc>TODO</XenogenesDesc>
+  <XenogenesDesc>A xenogének beültetett xenocsírából származó gének. Ha a xenogéneket eltávolítják vagy kicserélik, a xenogének vele együtt mennek. Mivel a xenogének nem részei a szervezet saját csíravonal DNS-ének, nem adják át a gyermekeknek.</XenogenesDesc>
   <!-- EN: Germline genes are naturally-inherited genes which are in every cell in an organism's body and don't require any external support. They are passed from parent to child. -->
   <EndogenesDesc>TODO</EndogenesDesc>
   <!-- EN: Member xenotypes -->
@@ -115,29 +115,29 @@
 
   <!-- View genes -->
   <!-- EN: Inspect genes -->
-  <InspectGenes>TODO</InspectGenes>
+  <InspectGenes>Gének vizsgálata</InspectGenes>
   <!-- EN: Inspect baby genes -->
-  <InspectBabyGenes>TODO</InspectBabyGenes>
+  <InspectBabyGenes>Baba génjeinek vizsgálata</InspectBabyGenes>
   <!-- EN: no xenogerm implanted -->
-  <NoXenogermImplanted>TODO</NoXenogermImplanted>
+  <NoXenogermImplanted>nincs beültetett xenocsíra</NoXenogermImplanted>
   <!-- EN: germline genes -->
-  <Endogenes>TODO</Endogenes>
+  <Endogenes>csíravonal gének</Endogenes>
   <!-- EN: xenogenes -->
-  <Xenogenes>TODO</Xenogenes>
+  <Xenogenes>xenogének</Xenogenes>
   <!-- EN: overridden -->
-  <Overridden>TODO</Overridden>
+  <Overridden>felülírva</Overridden>
   <!-- EN: Overridden by gene -->
-  <OverriddenByGene>TODO</OverriddenByGene>
+  <OverriddenByGene>Gén felülírja</OverriddenByGene>
   <!-- EN: Overridden by identical gene -->
-  <OverriddenByIdenticalGene>TODO</OverriddenByIdenticalGene>
+  <OverriddenByIdenticalGene>Azonos gén felülírta</OverriddenByIdenticalGene>
   <!-- EN: More information is available on this xenotype's information screen. -->
-  <MoreInfoInInfoScreen>TODO</MoreInfoInInfoScreen>
+  <MoreInfoInInfoScreen>További információ a xenotípus információs képernyőjén érhető el.</MoreInfoInInfoScreen>
   <!-- EN: Takes effect after age -->
-  <TakesEffectAfterAge>TODO</TakesEffectAfterAge>
+  <TakesEffectAfterAge>Életkor után fejti ki hatását</TakesEffectAfterAge>
 
   <!-- Xenotype editor -->
   <!-- EN: Xenotype editor -->
-  <XenotypeEditor>TODO</XenotypeEditor>
+  <XenotypeEditor>Xenotípus szerkesztő</XenotypeEditor>
   <!-- EN: Any (non-archite) -->
   <AnyNonArchite>TODO</AnyNonArchite>
   <!-- EN: Selected genes -->

@@ -2,37 +2,37 @@
 <LanguageData>
   
   <!-- EN: archite capsule -->
-  <ArchiteCapsule.label>TODO</ArchiteCapsule.label>
+  <ArchiteCapsule.label>archita kapszula</ArchiteCapsule.label>
   <!-- EN: A small capsule containing archites - microscopic machines produced by a superintelligent archotech. These devices are capable of physical and psychic feats which seem impossible to human scientists. As with all archotechnology, no human can create one. We can only try to scavenge the ones that archotechs create for their own unfathomable reasons.\n\nThis capsule is useless by itself, but it can be spent at a gene assembler to create a new archite-powered xenogerm. This requires researching archogenetics and a genepack that contains an archite gene. Archite genepacks can be obtained from traders. -->
-  <ArchiteCapsule.description>TODO</ArchiteCapsule.description>
+  <ArchiteCapsule.description>Ez a kis kapszula architákat - egy szuperintelligens archotech által gyártott mikroszkopikus gépeket - tartalmaz. Ezek az eszközök képesek olyan fizikai és pszichikai bravúrokra, amelyek az emberi tudósok számára lehetetlennek tűnnek. Mint minden archotechnológiát, az ember képtelen ilyet létrehozni. Csak megpróbálhatjuk kifürkészni azokat, amelyeket az architechek kifürkészhetetlen céljukból hoztak létre.\n\nEz a kapszula önmagában haszontalan, de egy génösszeszerelőnél felhasználható egy új, architektúrával hajtott xenocsíra létrehozására. Ehhez az archogenetika kutatására és egy architgént tartalmazó géncsomagra van szükség. Az archita géncsomagokat kereskedőktől lehet beszerezni.</ArchiteCapsule.description>
   
   <!-- EN: genepack -->
-  <Genepack.label>TODO</Genepack.label>
+  <Genepack.label>géncsomag</Genepack.label>
   <!-- EN: A small capsule containing a package of genetic information. To use a genepack, it must be placed in a gene bank near a gene assembler and combined into an implantable xenogerm.\n\nIf not kept in a powered gene bank, this genepack will slowly deteriorate. -->
-  <Genepack.description>TODO</Genepack.description>
+  <Genepack.description>Egy kis kapszula, amely genetikai információkat tartalmaz. A géncsomag használatához el kell helyezni egy génbankba egy génösszeszerelő közelében és beültethető xenocsírává kell kombinálni.\n\nHa nem egy működő génbankban tartják, ez a géncsomag lassan megromlik.</Genepack.description>
   
   <!-- EN: embryo -->
-  <HumanEmbryo.label>TODO</HumanEmbryo.label>
+  <HumanEmbryo.label>embrió</HumanEmbryo.label>
   <!-- EN: A human embryo which can be implanted in a mother to create a pregnancy. -->
-  <HumanEmbryo.description>TODO</HumanEmbryo.description>
+  <HumanEmbryo.description>Emberi embrió, amelyet be lehet ültetni egy anyába, hogy terhességet hozzon létre.</HumanEmbryo.description>
   
   <!-- EN: ovum -->
-  <HumanOvum.label>TODO</HumanOvum.label>
+  <HumanOvum.label>petesejt</HumanOvum.label>
   <!-- EN: An extracted, unfertilized human ovum cell stored in a protective capsule. Once fertilized by a male, it becomes an embryo which can then be implanted into a human mother or growth vat. -->
-  <HumanOvum.description>TODO</HumanOvum.description>
+  <HumanOvum.description>Kivont, megtermékenyítetlen emberi petesejt védőkapszulában tárolva. Miután egy hím megtermékenyítette, embrióvá válik, amelyet azután emberi anyába vagy növekedési kádba lehet beültetni.</HumanOvum.description>
   
   <!-- EN: mechanoid transponder -->
-  <MechanoidTransponder.label>TODO</MechanoidTransponder.label>
+  <MechanoidTransponder.label>robot transzponder</MechanoidTransponder.label>
   <!-- EN: A transponder micro-organ that connects a mechanitor to a mechanoid, even over a great distance. Mechanitors are capable of controlling many mechanoids using a mix of psychic and electromagnetic signals.\n\nDecrypting the transponder will allow you to pinpoint the location of the last mechanitor who controlled the mechanoid. -->
-  <MechanoidTransponder.description>TODO</MechanoidTransponder.description>
+  <MechanoidTransponder.description>Transponder mikroszerv, amely összeköti a robotmestert a robottal, akár nagy távolságból is. A robotmesterek sok robotot képesek vezérelni pszichikai és elektromágneses jelek keverékével.\n\nA transzponder visszafejtése lehetővé teszi, hogy pontosan meghatározza a robotot irányító utolsó robotmester helyét.</MechanoidTransponder.description>
   <!-- EN: Decrypt transponder -->
-  <MechanoidTransponder.comps.CompUseableDatacore.useLabel>TODO</MechanoidTransponder.comps.CompUseableDatacore.useLabel>
+  <MechanoidTransponder.comps.CompUseableDatacore.useLabel>Transzponder visszafejtése</MechanoidTransponder.comps.CompUseableDatacore.useLabel>
   <!-- EN: Can be decrypted at a research bench.\nSelect a colonist and right-click this to decrypt it. -->
-  <MechanoidTransponder.comps.CompInspectString.inspectString>TODO</MechanoidTransponder.comps.CompInspectString.inspectString>
+  <MechanoidTransponder.comps.CompInspectString.inspectString>Laborasztalon visszafejthető.\nVálassz ki egy telepest, és kattints rá jobb gombbal a visszafejtéshez.</MechanoidTransponder.comps.CompInspectString.inspectString>
   
   <!-- EN: xenogerm -->
-  <Xenogerm.label>TODO</Xenogerm.label>
+  <Xenogerm.label>xenocsíra</Xenogerm.label>
   <!-- EN: A self-contained biological organ containing one or more implantable xenogenes.\n\nOnce implanted inside a host's body, the xenogerm modifies the host's genes, gene expression, and phenotypic development using viruses, hormones, bio-synthesized drugs, and possibly mechanites. Depending on the xenogerm, the host will develop any of a wide variety of exotic traits and abilities, transforming them into a different human xenotype.\n\nXenogerm implantation is a traumatic process. Once implanted with a xenogerm, a person will be bedridden for days as the transformation sets in.\n\nDuring storage and transport, xenogerms are kept safe in sealed containers. -->
-  <Xenogerm.description>TODO</Xenogerm.description>
+  <Xenogerm.description>Önálló biológiai szerv, amely egy vagy több beültethető xenogént tartalmaz.\n\nA gazdaszervezet testébe beültetett xenocsíra vírusok, hormonok, bioszintetizált gyógyszerek és esetleg mechanitok segítségével módosítja a gazdaszervezet génjeit, génexpresszióját és fenotípusos fejlődését. A xenocsírától függően a gazdaszervezet számos egzotikus tulajdonság és képesség bármelyikét kifejleszti, és ezeket egy másik emberi xenotípussá alakítja át.\n\nA xenocsíra beültetés traumatikus folyamat. A xenocsíra beültetése után egy személy napokig ágyhoz kötődik, amikor az átalakulás beáll.\n\nA tárolás és szállítás során a xenocsírákat lezárt tartályokban tartják biztonságosan.</Xenogerm.description>
   
 </LanguageData>

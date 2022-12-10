@@ -352,7 +352,7 @@
   <!-- EN: Create a new implantable xenogerm using data from genepacks in your gene library. -->
   <RecombineDesc>TODO</RecombineDesc>
   <!-- EN: Genes -->
-  <ContainedGenesDesc>TODO</ContainedGenesDesc>
+  <ContainedGenesDesc>Gének</ContainedGenesDesc>
   <!-- EN: Order implantation -->
   <ImplantXenogerm>TODO</ImplantXenogerm>
   <!-- EN: Implant this into a person to partially override their genetic code.\n\nThis is a surgical operation, so it requires a doctor, medical bed and {MEDICINEAMOUNT} medicine. -->
@@ -360,7 +360,7 @@
   <!-- EN: Implanting a xenogerm will put {PAWN_nameDef} in a coma as the xenogerm integrates itself. On average, this lasts for {COMADURATION}. The length of the coma is dependent on the doctor's medical skill and the quality of your medical facilities. -->
   <ImplantXenogermWarningDesc>TODO</ImplantXenogermWarningDesc>
   <!-- EN: Additionally, implanting a xenogerm will overwrite existing xenogenes. {PAWN_nameDef}'s current xenotype is '{XENOTYPE}'. {PAWN_pronoun} has the following xenogenes:\n{XENOGENES} -->
-  <ImplantXenogermWarningOverwriteXenogenes>TODO</ImplantXenogermWarningOverwriteXenogenes>
+  <ImplantXenogermWarningOverwriteXenogenes>Ezenkívül a xenocsíra beültetése felülírja a meglévő xenogéneket. {PAWN_nameDef} jelenlegi xenotípusa: '{XENOTYPE}'. Ő a következő xenogénekkel rendelkezik:\n{XENOGENES}</ImplantXenogermWarningOverwriteXenogenes>
   <!-- EN: After implantation, {PAWN_nameDef} will have a metabolism value of {MET} and a food consumption multiplier of {CONSUMPTION}. -->
   <ImplantXenogermWarningNewMetabolism>TODO</ImplantXenogermWarningNewMetabolism>
   <!-- EN: Would you like to continue? -->
@@ -370,13 +370,13 @@
   <!-- EN: Cancel implanting this xenogerm into {PAWN_nameDef}. -->
   <CancelImplantingDesc>TODO</CancelImplantingDesc>
   <!-- EN: Xenotype -->
-  <Xenotype>TODO</Xenotype>
+  <Xenotype>Xenotípus</Xenotype>
   <!-- EN: unique -->
-  <Unique>TODO</Unique>
+  <Unique>egyedi</Unique>
   <!-- EN: A unique human variant with a set of xenogenes that do not fall into any known xenotype. -->
-  <UniqueXenotypeDesc>TODO</UniqueXenotypeDesc>
+  <UniqueXenotypeDesc>Egyedülálló emberi variáns olyan xenogénkészlettel, amely nem tartozik egyetlen ismert xenotípusba sem.</UniqueXenotypeDesc>
   <!-- EN: Factor for genetic metabolism -->
-  <FactorForMetabolism>TODO</FactorForMetabolism>
+  <FactorForMetabolism>A genetikai anyagcsere tényezője</FactorForMetabolism>
   <!-- EN: Progress -->
   <Progress>TODO</Progress>
   <!-- EN: In sunlight -->
@@ -769,8 +769,8 @@
 
   <!-- Thoughtdef fallbacks -->
   <!-- EN: my child is happy -->
-  <MyChildIsHappy>TODO</MyChildIsHappy>
+  <MyChildIsHappy>boldog a gyerekem</MyChildIsHappy>
   <!-- EN: my child is sad -->
-  <MyChildIsSad>TODO</MyChildIsSad> 
+  <MyChildIsSad>szomorú a gyerekem</MyChildIsSad> 
 
 </LanguageData>
