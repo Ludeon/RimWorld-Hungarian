@@ -100,7 +100,7 @@ function sync() {
   SOURCE_DIR="$2/Languages/${TARGET_LANGUAGE}"
   log "--> Source: ${SOURCE_DIR}"
   cd "${SOURCE_DIR}" || exit
-  TARGET_DIR="$DIR/../$1"
+  TARGET_DIR="${PROJECT_DIR}/$1"
   log "--> Target: ${TARGET_DIR}"
   mkdir -p "${TARGET_DIR}"
   cp -r "./" "${TARGET_DIR}"
