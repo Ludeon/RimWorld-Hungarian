@@ -408,17 +408,17 @@
   <!-- EN: Inserted {0} -->
   <InsertedThing>TODO</InsertedThing>
   <!-- EN: Assembly paused -->
-  <AssemblyPaused>TODO</AssemblyPaused>
+  <AssemblyPaused>Az összeállítás szünetel</AssemblyPaused>
   <!-- EN: Required gene bank unpowered -->
-  <GenebankUnpowered>TODO</GenebankUnpowered>
+  <GenebankUnpowered>Szükséges génbank áram nélkül</GenebankUnpowered>
   <!-- EN: deathless -->
-  <Deathless>TODO</Deathless>
+  <Deathless>halhatatlan</Deathless>
   <!-- EN: {PAWN_nameDef} needs to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, {PAWN_pronoun} will suffer from {0} deficiency. After {COMADURATION}, {PAWN_pronoun} will fall into a coma. After {DEATHDURATION}, {PAWN_pronoun} will die. -->
-  <GeneDefChemicalNeedDurationDesc>TODO</GeneDefChemicalNeedDurationDesc>
+  <GeneDefChemicalNeedDurationDesc>{PAWN_nameDef} túlélése a {0} rendszeres fogyasztásától függ. Hiányában {DEFICIENCYDURATION} után {0} függésben fog szenvedni. {COMADURATION} után kómába esik. {DEATHDURATION} után meghal.</GeneDefChemicalNeedDurationDesc>
   <!-- EN: {CHEMICAL_label} dependency -->
-  <ChemicalDependency>TODO</ChemicalDependency>
+  <ChemicalDependency>{CHEMICAL_label} függőség</ChemicalDependency>
   <!-- EN: Xenogerm -->
-  <Xenogerm>TODO</Xenogerm>
+  <Xenogerm>Xenocsíra</Xenogerm>
   <!-- EN: {PAWN_nameDef} will continue deathresting so long as {PAWN_pronoun} has lethal injuries. -->
   <PawnWillKeepDeathrestingLethalInjuries>TODO</PawnWillKeepDeathrestingLethalInjuries>
   <!-- EN: {PAWN_nameDef} will remain in a regeneration coma so long as {PAWN_pronoun} has lethal injuries. -->
@@ -430,9 +430,9 @@
   <!-- EN: deathrest -->
   <Deathrest>TODO</Deathrest>
   <!-- EN: Buildings -->
-  <Buildings>TODO</Buildings>
+  <Buildings>Épületek</Buildings>
   <!-- EN: capacity -->
-  <Capacity>TODO</Capacity>
+  <Capacity>kapacitás</Capacity>
   <!-- EN: Non-{GENE} romance chance -->
   <MissingGeneRomanceChance>TODO</MissingGeneRomanceChance>
   <!-- EN: Not in gene bank -->
