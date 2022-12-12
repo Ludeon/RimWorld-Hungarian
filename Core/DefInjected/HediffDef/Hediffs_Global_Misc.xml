@@ -15,7 +15,7 @@
   <!-- EN: blood loss -->
   <BloodLoss.label>vérveszteség</BloodLoss.label>
   <!-- EN: A reduction in the normal blood volume. Minor blood loss has relatively mild effects, but when blood loss becomes severe, oxygen transport becomes badly impaired and the victim loses the ability to move. Extreme blood loss leads to death.\n\nBlood loss naturally recovers over time as the body slowly regenerates its blood supply. -->
-  <BloodLoss.description>A normál vérmennyiség csökkenése. A kisebb vérvesztésnek viszonylag enyhe hatása van, de amikor a veszteség súlyossá válik, az oxigén szállítás lelassul, és az áldozat mozgásképtelenné válik. A szélsőséges vérveszteség halálhoz vezet.\n\nA vérveszteség idővel magától elmúlik, mivel a test lassan újratermeli a vért.\n</BloodLoss.description>
+  <BloodLoss.description>A normál vérmennyiség csökkenése. A kisebb vérvesztésnek viszonylag enyhe hatása van, de amikor a veszteség súlyossá válik, az oxigén szállítás lelassul, és az áldozat mozgásképtelenné válik. A szélsőséges vérveszteség halálhoz vezet.\n\nA vérveszteség idővel magától elmúlik, mivel a test lassan újratermeli a vért.</BloodLoss.description>
   <!-- EN: minor -->
   <BloodLoss.stages.minor-0.label>csekély</BloodLoss.stages.minor-0.label>
   <!-- EN: minor -->
@@ -73,7 +73,7 @@
   <!-- EN: food poisoning -->
   <FoodPoisoning.label>ételmérgezés</FoodPoisoning.label>
   <!-- EN: Gastrointestinal illness caused by consuming decayed or unclean food. It can be caused by eating rotten food, by incompetent cooks accidentally poisoning meals, or by eating from unsafe wild sources. The patient will vomit and feel sick for some time. -->
-  <FoodPoisoning.description>Emésztőrendszeri betegség, amelyet romlott vagy mosatlan ételek fogyasztása okoz. Ennek oka lehet rothadt étel, az inkompetens szakácsok, akik véletlenül mérgezik az ételeket, vagy a nem biztonságos vadon élő forrásokból történő étkezés. Az alany hány és egy ideig rosszul érzi magát.\n</FoodPoisoning.description>
+  <FoodPoisoning.description>Emésztőrendszeri betegség, amelyet romlott vagy mosatlan ételek fogyasztása okoz. Ennek oka lehet rothadt étel, az inkompetens szakácsok, akik véletlenül mérgezik az ételeket, vagy a nem biztonságos vadon élő forrásokból történő étkezés. Az alany hány és egy ideig rosszul érzi magát.</FoodPoisoning.description>
   <!-- EN: recovering -->
   <FoodPoisoning.stages.recovering.label>gyógyuló</FoodPoisoning.stages.recovering.label>
   <!-- EN: major -->
@@ -84,7 +84,7 @@
   <!-- EN: heart attack -->
   <HeartAttack.label>szívroham</HeartAttack.label>
   <!-- EN: A disruption in the heart's normal beating rhythm. Heart attacks can be debilitatingly painful. They can worsen and lead to death, or recover. -->
-  <HeartAttack.description>A szívverés normális ütemének zavara. A szívroham tünetei legyengítően fájdalmasak lehetnek. Súlyosbodhatnak, ami halálhoz vezethet, de fel is lehet épülni belőle.\n</HeartAttack.description>
+  <HeartAttack.description>A szívverés normális ütemének zavara. A szívroham tünetei legyengítően fájdalmasak lehetnek. Súlyosbodhatnak, ami halálhoz vezethet, de fel is lehet épülni belőle.</HeartAttack.description>
   <!-- EN: a heart attack -->
   <HeartAttack.labelNoun>szívroham</HeartAttack.labelNoun>
   <!-- EN: painful -->
@@ -97,7 +97,7 @@
   <!-- EN: pregnant -->
   <Pregnant.label>terhesség</Pregnant.label>
   <!-- EN: This creature is gestating offspring. It will give birth if the pregnancy comes to term. If starved or injured, there may be a miscarriage. -->
-  <Pregnant.description>Ez a lény utódokat hord ki. A terhesség végén megszüli majd őket. Éhezés vagy sérülés esetén elvetélhet.\n</Pregnant.description>
+  <Pregnant.description>Ez a lény utódokat hord ki. A terhesség végén megszüli majd őket. Éhezés vagy sérülés esetén elvetélhet.</Pregnant.description>
   <!-- EN: {0} is pregnant! -->
   <Pregnant.comps.HediffComp_MessageAfterTicks.message>{0} terhes!</Pregnant.comps.HediffComp_MessageAfterTicks.message>
   <!-- EN: pregnancy -->
@@ -130,19 +130,19 @@
   <!-- EN: psychic shock -->
   <PsychicShock.label>pszichotikus sokk</PsychicShock.label>
   <!-- EN: A state of psychic chaos in the brain and mind. Caused by psychic attacks or critical level of neural heat, this effect is debilitating until it wears off. -->
-  <PsychicShock.description>Az agy és az elme pszichotikus káosz állapota. Pszichotikus támadások vagy a pszichotikus entrópia kritikus szintje okozza. Ez a hatás folyamatosan gyengül, majd végül megszűnik.\n</PsychicShock.description>
+  <PsychicShock.description>Az agy és az elme pszichotikus káosz állapota. Pszichotikus támadások vagy a pszichotikus entrópia kritikus szintje okozza. Ez a hatás folyamatosan gyengül, majd végül megszűnik.</PsychicShock.description>
   <!-- EN: a psychic shock -->
   <PsychicShock.labelNoun>pszichotikus sokk</PsychicShock.labelNoun>
   
   <!-- EN: resurrection sickness -->
   <ResurrectionSickness.label>élesztés sokk</ResurrectionSickness.label>
   <!-- EN: After-effects of resurrection. Artificially-restarted body processes take time to rebalance themselves. -->
-  <ResurrectionSickness.description>A élesztés utóhatásai nanit befecskendezésnél. A mesterségesen elindított életfolyamatok egyensúlyba kerülése időt vesz igénybe.\n</ResurrectionSickness.description>
+  <ResurrectionSickness.description>A élesztés utóhatásai nanit befecskendezésnél. A mesterségesen elindított életfolyamatok egyensúlyba kerülése időt vesz igénybe.</ResurrectionSickness.description>
   
   <!-- EN: toxic buildup -->
   <ToxicBuildup.label>mérgezés</ToxicBuildup.label>
   <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nIf a creature dies with toxic buildup, there's a chance that they cannot be eaten. The higher the toxic buildup, the higher the chance. -->
-  <ToxicBuildup.description>Méreg a véráramban. Ez származhat különféle forrásokból, ideértve a környezeti toxinokat, mérgező harapásokat vagy mérgezett fegyvereket.\n\nMagas dózis halálos lehet és alacsony dózis esetén is rákot okozhat.\n\nA mérgezés miatt elhalt állatok nem fogyaszthatók.\n</ToxicBuildup.description>
+  <ToxicBuildup.description>Méreg a véráramban. Ez származhat különféle forrásokból, ideértve a környezeti toxinokat, mérgező harapásokat vagy mérgezett fegyvereket.\n\nMagas dózis halálos lehet és alacsony dózis esetén is rákot okozhat.\n\nA mérgezés miatt elhalt állatok nem fogyaszthatók.</ToxicBuildup.description>
   <!-- EN: initial -->
   <ToxicBuildup.stages.initial-0.label>első rejtett eset</ToxicBuildup.stages.initial-0.label>
   <!-- EN: initial -->
