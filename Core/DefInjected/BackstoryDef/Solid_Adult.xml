@@ -79,7 +79,7 @@
   <Archaeologist85.titleShort>Felfedező</Archaeologist85.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a cybernetic researcher. Studying a transcended world, [PAWN_pronoun] became too involved with [PAWN_possessive] subjects. Over time, the archotech recruited [PAWN_objective] into its service, and used [PAWN_objective] as a spy.\n\nWhen [PAWN_pronoun] later rebelled against [PAWN_possessive] inhuman master, it sent mechanoids across space to hunt [PAWN_objective] down. -->
-  <ArchotechSpy75.baseDesc>[PAWN_nameDef] kibernetikát kutatott. Egy túlfejlett világ tanulmányozása közben túlságosan érintett lett a kísérletben. Egy idő múlva az archotech gépek központi vezérlője betoborozta saját szolgálatába, és kémként használta.\n\nAmikor később fellázadt nememberi mestere ellen, az mechanoidokat küldött rá az űrbe, hogy levadásszák.</ArchotechSpy75.baseDesc>
+  <ArchotechSpy75.baseDesc>[PAWN_nameDef] kibernetikát kutatott. Egy túlfejlett világ tanulmányozása közben túlságosan érintett lett a kísérletben. Egy idő múlva az archotech gépek központi vezérlője betoborozta saját szolgálatába, és kémként használta.\n\nAmikor később fellázadt nem-emberi mestere ellen, az robotokat küldött rá az űrbe, hogy levadásszák.</ArchotechSpy75.baseDesc>
   <!-- EN: archotech spy -->
   <ArchotechSpy75.title>Archotech kém</ArchotechSpy75.title>
   <!-- EN: AI spy -->
@@ -114,7 +114,7 @@
   <Aromatherapist80.titleShort>Gyógyász</Aromatherapist80.titleShort>
   
   <!-- EN: [PAWN_nameDef] became depressed and lost interest in life. [PAWN_pronoun] travelled from planet to planet, searching for psychic artifacts amid mechanoid ruins in the hope that they would cure the pain in [PAWN_possessive] soul.\n\nA steady trigger finger and careful planning kept [PAWN_nameDef] alive. -->
-  <ArtifactHunter48.baseDesc>[PAWN_nameDef] depressziós volt, semmi sem érdekelte az életben. Bolygóról bolygóra utazott, és mechanoidok roncsai között keresett lelkiállapotot befolyásoló ereklyéket. Abban reménykedett, hogy ezek meggyógyítják elgyötört lelkét.\n\nCsak biztos kezének és elővigyázatosságának köszönhette életét.</ArtifactHunter48.baseDesc>
+  <ArtifactHunter48.baseDesc>[PAWN_nameDef] depressziós volt, semmi sem érdekelte az életben. Bolygóról bolygóra utazott és robotok roncsai között keresett lelkiállapotot befolyásoló ereklyéket. Abban reménykedett, hogy ezek meggyógyítják elgyötört lelkét.\n\nCsak biztos kezének és elővigyázatosságának köszönhette életét.</ArtifactHunter48.baseDesc>
   <!-- EN: artifact hunter -->
   <ArtifactHunter48.title>Ereklye vadász</ArtifactHunter48.title>
   <!-- EN: artifacter -->
@@ -163,7 +163,7 @@
   <BanishedSoldier85.titleShort>Száműzött</BanishedSoldier85.titleShort>
   
   <!-- EN: [PAWN_nameDef] had received firearms training, but [PAWN_possessive] work was focused on technical adaptation and manipulation of combat mechanoids on the battlefield.\n\n[PAWN_pronoun] developed PTSD after narrowly escaping a primitive firebomb attack in a wheat field. The army medically discharged [PAWN_objective] from service. -->
-  <BattlefieldTech52.baseDesc>[PAWN_nameDef] lőfegyver kiképzést kapott, de munkája elsősorban harci mechanoidok technikai alkalmazása és irányítása volt a csatamezőn.\n\nPoszttraumás stressz szindróma alakult ki nála, miután kis híján belehalt egy egyszerű bombatámadásba egy búzamezőn. A hadsereg egészségügyi okokból leszerelte.</BattlefieldTech52.baseDesc>
+  <BattlefieldTech52.baseDesc>[PAWN_nameDef] lőfegyver kiképzést kapott, de munkája elsősorban harci robotok technikai alkalmazása és irányítása volt a csatamezőn.\n\nPoszttraumás stressz szindróma alakult ki nála, miután kis híján belehalt egy egyszerű bombatámadásba egy búzamezőn. A hadsereg egészségügyi okokból leszerelte.</BattlefieldTech52.baseDesc>
   <!-- EN: battlefield tech -->
   <BattlefieldTech52.title>Harci technikus</BattlefieldTech52.title>
   <!-- EN: technician -->
@@ -387,7 +387,7 @@
   <CombatMedic82.titleShort>Felcser</CombatMedic82.titleShort>
   
   <!-- EN: As a military medtech, [PAWN_nameDef]'s job was to fix and build anything [PAWN_pronoun] could get [PAWN_possessive] hands on, from living people to machines and mechs.\n\nSent into dangerous areas, [PAWN_pronoun] never had a problem saving soldiers' lives and building the technology and machines needed to win. -->
-  <CombatMedtech59.baseDesc>Felcsertechnikusként [PAWN_nameDef] munkája az volt, hogy gyógyítson vagy javítson meg mindent, ami a keze ügyébe esett, az élő emberektől a gépekig és mechanoidokig.\n\nMég a veszélyes terepen sem okozott neki gondot a katonák mentése és a győzelemhez szükséges gépek és technológiák megépítése.</CombatMedtech59.baseDesc>
+  <CombatMedtech59.baseDesc>Felcsertechnikusként [PAWN_nameDef] munkája az volt, hogy gyógyítson vagy javítson meg mindent, ami a keze ügyébe esett, az élő emberektől a gépekig és robotokig.\n\nMég a veszélyes terepen sem okozott neki gondot a katonák mentése és a győzelemhez szükséges gépek és technológiák megépítése.</CombatMedtech59.baseDesc>
   <!-- EN: combat medtech -->
   <CombatMedtech59.title>Felcsertechnikus</CombatMedtech59.title>
   <!-- EN: medic -->
@@ -1003,7 +1003,7 @@
   <MechanicsEngineer64.titleShort>Mérnök</MechanicsEngineer64.titleShort>
   
   <!-- EN: [PAWN_nameDef] fought against swarms of rogue mechanoids since [PAWN_pronoun] was old enough to enlist. [PAWN_pronoun] has bled on half a dozen worlds and has lost more than [PAWN_pronoun] cares to recall. These experiences left [PAWN_objective] hardened, both mentally and physically. -->
-  <MechWarVeteran77.baseDesc>[PAWN_nameDef] gaz mechanoidok tömkelege ellen harcolt, mióta elég öreg lett a besorozáshoz. Már egy fél tucat világon ontotta vérét, és többet vesztett, mint amire emlékezni tudott. Ezek a tapasztalatok megkeményítették mind mentálisan, mind fizikálisan.</MechWarVeteran77.baseDesc>
+  <MechWarVeteran77.baseDesc>[PAWN_nameDef] gaz robotok tömkelege ellen harcolt, miután elég idős lett a sorozáshoz. Már vagy fél tucat világon ontotta vérét, és többet vesztett, mint amire emlékezni tudott. Ezek a tapasztalatok megkeményítették mind mentálisan, mind fizikálisan.</MechWarVeteran77.baseDesc>
   <!-- EN: mech war veteran -->
   <MechWarVeteran77.title>Mech háborús veterán</MechWarVeteran77.title>
   <!-- EN: veteran -->
@@ -1108,7 +1108,7 @@
   <MidworldSailor91.titleShort>Kadét</MidworldSailor91.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as an engineer for a colonial military. [PAWN_pronoun] got to play with weapons, murder-drones, and other 'fun' stuff.\n\n[PAWN_pronoun] specialized in repairing and modifying mechanoids' tools. Sometimes [PAWN_pronoun] tested them [PAWN_objective]self. -->
-  <MilitaryEngineer45.baseDesc>[PAWN_nameDef] mérnökként dolgozott egy gyarmati hadseregnek. Eljátszadozhatott fegyverekkel, gyilkos drónokkal és egyéb "mókás" cuccokkal.\n\nMechanoid szerszámok javítására és fejlesztésére szakosodott. Néha saját magán tesztelte őket.</MilitaryEngineer45.baseDesc>
+  <MilitaryEngineer45.baseDesc>[PAWN_nameDef] mérnökként dolgozott egy gyarmati hadseregnek. Eljátszadozhatott fegyverekkel, gyilkos drónokkal és egyéb "mókás" cuccokkal.\n\nRobotokkal kapcsolatos szerszámok javítására és fejlesztésére szakosodott. Néha saját magán tesztelte őket.</MilitaryEngineer45.baseDesc>
   <!-- EN: military engineer -->
   <MilitaryEngineer45.title>Katonai mérnök</MilitaryEngineer45.title>
   <!-- EN: engineer -->
@@ -1577,7 +1577,7 @@
   <SoftwareDeveloper84.titleShort>Fejlesztő</SoftwareDeveloper84.titleShort>
   
   <!-- EN: [PAWN_nameDef] lived in a remote colony. When mechanoid centipedes attacked [PAWN_possessive] home and killed [PAWN_possessive] people, [PAWN_pronoun] was the last survivor. -->
-  <SoleSurvivor85.baseDesc>[PAWN_nameDef] egy elszigetelt kolóniában élt. Amikor százlábú mechanoidok támadtak otthonára, minden embert megöltek. Ő maradt az utolsó túlélő.</SoleSurvivor85.baseDesc>
+  <SoleSurvivor85.baseDesc>[PAWN_nameDef] egy elszigetelt kolóniában élt. Amikor százlábú robotok támadtak otthonára, minden embert megöltek. Ő maradt az utolsó túlélő.</SoleSurvivor85.baseDesc>
   <!-- EN: sole survivor -->
   <SoleSurvivor85.title>Magányos túlélő</SoleSurvivor85.title>
   <!-- EN: survivor -->

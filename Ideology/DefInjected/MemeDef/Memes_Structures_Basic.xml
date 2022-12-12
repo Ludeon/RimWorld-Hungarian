@@ -61,25 +61,39 @@
     <li>memeMoralist->rector</li>
     <li>memeMoralist->abbot</li>
   -->
-  <Structure_Archist.generalRules.rulesStrings>TODO</Structure_Archist.generalRules.rulesStrings>
+  <Structure_Archist.generalRules.rulesStrings>
+    <li>memeAdjective->archikus</li>
+    <li>memeAdjective->archotechnikai</li>
+    <li>memeAdjective->archonikus</li>
+    <li>memeHyphenPrefix->archo</li>
+    <li>memeHyphenPrefix->fő</li>
+    <li>memeLeaderNoun->archista</li>
+    <li>memeLeaderNoun->archetechnikus</li>
+    <li>memeLeaderAdjective->archic</li>
+    <li>memeLeaderAdjective->exokróm</li>
+    <li>memeMoralist->lelkész</li>
+    <li>memeMoralist->pap</li>
+    <li>memeMoralist->rektor</li>
+    <li>memeMoralist->apát</li>
+  </Structure_Archist.generalRules.rulesStrings>
   <!-- EN: archotechnic -->
-  <Structure_Archist.symbolPacks.0.adjective>TODO</Structure_Archist.symbolPacks.0.adjective>
+  <Structure_Archist.symbolPacks.0.adjective>archotechnikai</Structure_Archist.symbolPacks.0.adjective>
   <!-- EN: Archotechnics -->
-  <Structure_Archist.symbolPacks.0.ideoName>TODO</Structure_Archist.symbolPacks.0.ideoName>
+  <Structure_Archist.symbolPacks.0.ideoName>Archotechnika</Structure_Archist.symbolPacks.0.ideoName>
   <!-- EN: archotechnist -->
-  <Structure_Archist.symbolPacks.0.member>TODO</Structure_Archist.symbolPacks.0.member>
+  <Structure_Archist.symbolPacks.0.member>archetechnikus</Structure_Archist.symbolPacks.0.member>
   <!-- EN: archotechnology -->
-  <Structure_Archist.symbolPacks.0.theme>TODO</Structure_Archist.symbolPacks.0.theme>
+  <Structure_Archist.symbolPacks.0.theme>archotechnológia</Structure_Archist.symbolPacks.0.theme>
   <!-- EN: archist -->
-  <Structure_Archist.symbolPacks.1.adjective>TODO</Structure_Archist.symbolPacks.1.adjective>
+  <Structure_Archist.symbolPacks.1.adjective>archista</Structure_Archist.symbolPacks.1.adjective>
   <!-- EN: Archism -->
-  <Structure_Archist.symbolPacks.1.ideoName>TODO</Structure_Archist.symbolPacks.1.ideoName>
+  <Structure_Archist.symbolPacks.1.ideoName>Archizmus</Structure_Archist.symbolPacks.1.ideoName>
   <!-- EN: archist -->
-  <Structure_Archist.symbolPacks.1.member>TODO</Structure_Archist.symbolPacks.1.member>
+  <Structure_Archist.symbolPacks.1.member>archista</Structure_Archist.symbolPacks.1.member>
   <!-- EN: archism -->
-  <Structure_Archist.symbolPacks.1.theme>TODO</Structure_Archist.symbolPacks.1.theme>
+  <Structure_Archist.symbolPacks.1.theme>archizmus</Structure_Archist.symbolPacks.1.theme>
   <!-- EN: shrine -->
-  <Structure_Archist.worshipRoomLabel>TODO</Structure_Archist.worshipRoomLabel>
+  <Structure_Archist.worshipRoomLabel>szentély</Structure_Archist.worshipRoomLabel>
   
   <!-- EN: ideological -->
   <Structure_Ideological.label>ideológiai</Structure_Ideological.label>

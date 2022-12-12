@@ -50,7 +50,7 @@
   <!-- EN: A mechanitor can only oversee a mech if there is enough bandwidth to do so. Each mech consumes a different amount of bandwidth.\n\nGain more bandwidth by constructing band nodes and tuning the mechanitor to them, or by equipping special mechanitor apparel. -->
   <BandwidthGizmoTip>TODO</BandwidthGizmoTip>
   <!-- EN: Control group -->
-  <ControlGroup>TODO</ControlGroup>
+  <ControlGroup>Vezérlő csoport</ControlGroup>
   <!-- EN: Current mode -->
   <CurrentMechWorkMode>TODO</CurrentMechWorkMode>
   <!-- EN: Assigned mechs -->
@@ -352,7 +352,7 @@
   <!-- EN: Create a new implantable xenogerm using data from genepacks in your gene library. -->
   <RecombineDesc>TODO</RecombineDesc>
   <!-- EN: Genes -->
-  <ContainedGenesDesc>TODO</ContainedGenesDesc>
+  <ContainedGenesDesc>Gének</ContainedGenesDesc>
   <!-- EN: Order implantation -->
   <ImplantXenogerm>TODO</ImplantXenogerm>
   <!-- EN: Implant this into a person to partially override their genetic code.\n\nThis is a surgical operation, so it requires a doctor, medical bed and {MEDICINEAMOUNT} medicine. -->
@@ -360,7 +360,7 @@
   <!-- EN: Implanting a xenogerm will put {PAWN_nameDef} in a coma as the xenogerm integrates itself. On average, this lasts for {COMADURATION}. The length of the coma is dependent on the doctor's medical skill and the quality of your medical facilities. -->
   <ImplantXenogermWarningDesc>TODO</ImplantXenogermWarningDesc>
   <!-- EN: Additionally, implanting a xenogerm will overwrite existing xenogenes. {PAWN_nameDef}'s current xenotype is '{XENOTYPE}'. {PAWN_pronoun} has the following xenogenes:\n{XENOGENES} -->
-  <ImplantXenogermWarningOverwriteXenogenes>TODO</ImplantXenogermWarningOverwriteXenogenes>
+  <ImplantXenogermWarningOverwriteXenogenes>Ezenkívül a xenocsíra beültetése felülírja a meglévő xenogéneket. {PAWN_nameDef} jelenlegi xenotípusa: '{XENOTYPE}'. Ő a következő xenogénekkel rendelkezik:\n{XENOGENES}</ImplantXenogermWarningOverwriteXenogenes>
   <!-- EN: After implantation, {PAWN_nameDef} will have a metabolism value of {MET} and a food consumption multiplier of {CONSUMPTION}. -->
   <ImplantXenogermWarningNewMetabolism>TODO</ImplantXenogermWarningNewMetabolism>
   <!-- EN: Would you like to continue? -->
@@ -370,13 +370,13 @@
   <!-- EN: Cancel implanting this xenogerm into {PAWN_nameDef}. -->
   <CancelImplantingDesc>TODO</CancelImplantingDesc>
   <!-- EN: Xenotype -->
-  <Xenotype>TODO</Xenotype>
+  <Xenotype>Xenotípus</Xenotype>
   <!-- EN: unique -->
-  <Unique>TODO</Unique>
+  <Unique>egyedi</Unique>
   <!-- EN: A unique human variant with a set of xenogenes that do not fall into any known xenotype. -->
-  <UniqueXenotypeDesc>TODO</UniqueXenotypeDesc>
+  <UniqueXenotypeDesc>Egyedülálló emberi variáns olyan xenogénkészlettel, amely nem tartozik egyetlen ismert xenotípusba sem.</UniqueXenotypeDesc>
   <!-- EN: Factor for genetic metabolism -->
-  <FactorForMetabolism>TODO</FactorForMetabolism>
+  <FactorForMetabolism>A genetikai anyagcsere tényezője</FactorForMetabolism>
   <!-- EN: Progress -->
   <Progress>TODO</Progress>
   <!-- EN: In sunlight -->
@@ -408,17 +408,17 @@
   <!-- EN: Inserted {0} -->
   <InsertedThing>TODO</InsertedThing>
   <!-- EN: Assembly paused -->
-  <AssemblyPaused>TODO</AssemblyPaused>
+  <AssemblyPaused>Az összeállítás szünetel</AssemblyPaused>
   <!-- EN: Required gene bank unpowered -->
-  <GenebankUnpowered>TODO</GenebankUnpowered>
+  <GenebankUnpowered>Szükséges génbank áram nélkül</GenebankUnpowered>
   <!-- EN: deathless -->
-  <Deathless>TODO</Deathless>
+  <Deathless>halhatatlan</Deathless>
   <!-- EN: {PAWN_nameDef} needs to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, {PAWN_pronoun} will suffer from {0} deficiency. After {COMADURATION}, {PAWN_pronoun} will fall into a coma. After {DEATHDURATION}, {PAWN_pronoun} will die. -->
-  <GeneDefChemicalNeedDurationDesc>TODO</GeneDefChemicalNeedDurationDesc>
+  <GeneDefChemicalNeedDurationDesc>{PAWN_nameDef} túlélése a {0} rendszeres fogyasztásától függ. Hiányában {DEFICIENCYDURATION} után {0} függésben fog szenvedni. {COMADURATION} után kómába esik. {DEATHDURATION} után meghal.</GeneDefChemicalNeedDurationDesc>
   <!-- EN: {CHEMICAL_label} dependency -->
-  <ChemicalDependency>TODO</ChemicalDependency>
+  <ChemicalDependency>{CHEMICAL_label} függőség</ChemicalDependency>
   <!-- EN: Xenogerm -->
-  <Xenogerm>TODO</Xenogerm>
+  <Xenogerm>Xenocsíra</Xenogerm>
   <!-- EN: {PAWN_nameDef} will continue deathresting so long as {PAWN_pronoun} has lethal injuries. -->
   <PawnWillKeepDeathrestingLethalInjuries>TODO</PawnWillKeepDeathrestingLethalInjuries>
   <!-- EN: {PAWN_nameDef} will remain in a regeneration coma so long as {PAWN_pronoun} has lethal injuries. -->
@@ -430,9 +430,9 @@
   <!-- EN: deathrest -->
   <Deathrest>TODO</Deathrest>
   <!-- EN: Buildings -->
-  <Buildings>TODO</Buildings>
+  <Buildings>Épületek</Buildings>
   <!-- EN: capacity -->
-  <Capacity>TODO</Capacity>
+  <Capacity>kapacitás</Capacity>
   <!-- EN: Non-{GENE} romance chance -->
   <MissingGeneRomanceChance>TODO</MissingGeneRomanceChance>
   <!-- EN: Not in gene bank -->
@@ -458,11 +458,11 @@
   <!-- EN: Poisoned {0} -->
   <PoisonedTerrain>TODO</PoisonedTerrain>
   <!-- EN: Assign to control group {0} -->
-  <AssignMechToControlGroup>TODO</AssignMechToControlGroup>
+  <AssignMechToControlGroup>Hozzárendelés vezérlőcsoporthoz: {0}</AssignMechToControlGroup>
   <!-- EN: Fall per day -->
   <CurrentMechEnergyFallPerDay>TODO</CurrentMechEnergyFallPerDay>
   <!-- EN: Cannot assign to control group {0} -->
-  <CannotAssignMechToControlGroup>TODO</CannotAssignMechToControlGroup>
+  <CannotAssignMechToControlGroup>Nem lehet hozzárendelni a vezérlőcsoporthoz: {0}</CannotAssignMechToControlGroup>
   <!-- EN: Already assigned -->
   <AssignMechAlreadyAssigned>TODO</AssignMechAlreadyAssigned>
 
@@ -486,7 +486,7 @@
   <!-- EN: Gestated {0} -->
   <GestatedMech>TODO</GestatedMech>
   <!-- EN: Requires {PAWN_nameDef} to complete -->
-  <GestatedMechRequiresMechanitor>TODO</GestatedMechRequiresMechanitor>
+  <GestatedMechRequiresMechanitor>A befejezéshez {PAWN_nameDef} szükséges</GestatedMechRequiresMechanitor>
   <!-- EN: Gestation complete -->
   <GestationComplete>TODO</GestationComplete>
   <!-- EN: Resurrecting {0} -->
@@ -519,7 +519,7 @@
   <!-- EN: available in {0}. -->
   <BossgroupAvailableIn>TODO</BossgroupAvailableIn>
   <!-- EN: requires mechanitor -->
-  <RequiresMechanitor>TODO</RequiresMechanitor>
+  <RequiresMechanitor>robotmestert igényel</RequiresMechanitor>
 
   <!-- Abilities -->
   <!-- EN: {0_labelShort} is not hemogenic. -->
@@ -668,7 +668,7 @@
   <!-- EN: Extreme -->
   <TilePollutionExtreme>TODO</TilePollutionExtreme>
   <!-- EN: Pollution -->
-  <TilePollution>TODO</TilePollution>
+  <TilePollution>Szennyezés</TilePollution>
   <!-- EN: Nearby pollution -->
   <TilePollutionNearby>TODO</TilePollutionNearby>
   <!-- EN: The sum of pollution levels of all tiles within a {0} tile radius. As the distance from this tile increases, the pollution contribution decreases:\n\n{1}\n\nThe higher the nearby pollution the greater the chance of acidic smog occurring. -->
@@ -680,7 +680,7 @@
   <!-- EN: tiles away -->
   <NearbyPollutionTilesAway>TODO</NearbyPollutionTilesAway>
   <!-- EN: pollution -->
-  <PollutionLower>TODO</PollutionLower>
+  <PollutionLower>Szennyezés</PollutionLower>
   <!-- EN: Cannot absorb pollution: Buildings too close -->
   <CannotAbsorbPollution>TODO</CannotAbsorbPollution>
   <!-- EN: Can absorb pollution from nearby terrain -->
@@ -769,8 +769,8 @@
 
   <!-- Thoughtdef fallbacks -->
   <!-- EN: my child is happy -->
-  <MyChildIsHappy>TODO</MyChildIsHappy>
+  <MyChildIsHappy>boldog a gyerekem</MyChildIsHappy>
   <!-- EN: my child is sad -->
-  <MyChildIsSad>TODO</MyChildIsSad> 
+  <MyChildIsSad>szomorú a gyerekem</MyChildIsSad> 
 
 </LanguageData>

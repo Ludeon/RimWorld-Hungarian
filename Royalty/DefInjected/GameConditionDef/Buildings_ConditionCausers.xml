@@ -52,14 +52,14 @@
   <ToxicSpewer.letterText>TODO</ToxicSpewer.letterText>
   
   <!-- EN: forced weather -->
-  <WeatherController.label>TODO</WeatherController.label>
+  <WeatherController.label>erőltetett időjárás</WeatherController.label>
   <!-- EN: A nearby weather controller is forcing the weather into this configuration. -->
-  <WeatherController.description>TODO</WeatherController.description>
+  <WeatherController.description>Egy közeli időjárás-szabályozó erre a konfigurációra kényszeríti az időjárást.</WeatherController.description>
   <!-- EN: a weather-control system will force the weather around [map_definite] to be [forcedWeather_indefinite] for [gameConditionDuration_duration] -->
-  <WeatherController.descriptionFuture>TODO</WeatherController.descriptionFuture>
+  <WeatherController.descriptionFuture>egy időjárás-szabályozó rendszer a [map_definite] körüli időjárást [forcedWeather_indefinite] állapotra kényszeríti [gameConditionDuration_duration] időtartamra</WeatherController.descriptionFuture>
   <!-- EN: The weather controller is no longer changing the weather. -->
-  <WeatherController.endMessage>TODO</WeatherController.endMessage>
+  <WeatherController.endMessage>Az időjárás-szabályozó már nem változtatja az időjárást.</WeatherController.endMessage>
   <!-- EN: A weather controller machine has begun affecting the weather. -->
-  <WeatherController.letterText>TODO</WeatherController.letterText>
+  <WeatherController.letterText>Egy időjárás-szabályozó gép elkezdte befolyásolni az időjárást.</WeatherController.letterText>
   
 </LanguageData>

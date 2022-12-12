@@ -36,10 +36,10 @@
   <AptitudeTerrible.description>TODO</AptitudeTerrible.description>
   
   <!-- EN: {0} dependency -->
-  <ChemicalDependency.label>TODO</ChemicalDependency.label>
+  <ChemicalDependency.label>{0} függőség</ChemicalDependency.label>
   <!-- EN: Carriers of this gene need to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, carriers will suffer from {0} deficiency. After {COMADURATION}, they will fall into a coma. After {DEATHDURATION}, they will die. -->
-  <ChemicalDependency.description>TODO</ChemicalDependency.description>
+  <ChemicalDependency.description>Ezen gén hordozóinak a túlélése a {0} rendszeres fogyasztásától függ. Hiányában {DEFICIENCYDURATION} után {0} függésben fognak szenvedni. {COMADURATION} után kómába esnek. {DEATHDURATION} után meghalnak.</ChemicalDependency.description>
   <!-- EN: {0}-dependent -->
-  <ChemicalDependency.labelShortAdj>TODO</ChemicalDependency.labelShortAdj>
+  <ChemicalDependency.labelShortAdj>{0}-függő</ChemicalDependency.labelShortAdj>
   
 </LanguageData>

@@ -17,8 +17,8 @@
       <li>root(priority=1,sitePart==BanditCamp)->van ott egy bandita tábor, [enemiesCount] ellenséggel</li>
       <li>root(priority=1,sitePart==Manhunters,count==1)->egy emberevő [kindLabel] jár arra</li>
       <li>root(priority=1,sitePart==Manhunters,count>1)->[count] emberevő [kindLabel] jár arra</li>
-      <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->egy mechanoid alszik a környéken</li>
-      <li>root(priority=1,sitePart==SleepingMechanoids,count>1)->[count] mechanoid alszik a környéken</li>
+      <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->egy robot alszik a környéken</li>
+      <li>root(priority=1,sitePart==SleepingMechanoids,count>1)->[count] robot alszik a környéken</li>
       <li>root(priority=1,sitePart==Turrets)->[threatsInfo] védi a területet</li>
       <li>root(priority=1,sitePart==AmbushEdge)->ellenséges erők várnak rá, hogy rajtaüthessenek a közelben járókra</li>
       <li>root(priority=1,sitePart==AmbushHidden)->ellenséges erők várnak rá, hogy rajtaüthessenek a közelben járókra</li>

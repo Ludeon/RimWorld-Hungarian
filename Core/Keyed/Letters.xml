@@ -55,7 +55,7 @@
   <!-- EN: A new area has been revealed. -->
   <AreaRevealed>Egy új terület lett felfedezve.</AreaRevealed>
   <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
-  <AreaRevealedWithMechanoids>Új terület lett felfedezve. Ősi, ellenséges mechanoidok találhatók itt.</AreaRevealedWithMechanoids>
+  <AreaRevealedWithMechanoids>Új terület lett felfedezve. Ősi, ellenséges robotok találhatók itt.</AreaRevealedWithMechanoids>
 
   <!-- EN: A roof has collapsed because it was too far from any support. -->
   <RoofCollapsed>Egy tető beomlott, mert túl messze volt minden támasztéktól.</RoofCollapsed>
@@ -536,9 +536,9 @@
   
   <!-- Mech cluster -->
   <!-- EN: Mechanoids arrived -->
-  <LetterLabelMechClusterArrived>Mechanoidok érkeztek</LetterLabelMechClusterArrived>
+  <LetterLabelMechClusterArrived>Robotok érkeztek</LetterLabelMechClusterArrived>
   <!-- EN: Mechanoids have arrived. -->
-  <LetterMechClusterArrived>Mechanoidok érkeztek.</LetterMechClusterArrived>
+  <LetterMechClusterArrived>Robotok érkeztek.</LetterMechClusterArrived>
 
   <!-- EN: Caravan detected -->
   <LetterLabelSiteCountdownStarted>Karaván bemérve</LetterLabelSiteCountdownStarted>
@@ -564,6 +564,6 @@
   <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
   <LetterJoinOfferText>TODO</LetterJoinOfferText>
   <!-- EN: Accept -->
-  <LetterJoinOfferAccept>TODO</LetterJoinOfferAccept>
+  <LetterJoinOfferAccept>Elfogadás</LetterJoinOfferAccept>
 
 </LanguageData>
