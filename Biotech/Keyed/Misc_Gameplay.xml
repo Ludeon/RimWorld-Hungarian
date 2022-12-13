@@ -38,85 +38,85 @@
 
   <!-- Mechanitor -->
   <!-- EN: Overseer -->
-  <Overseer>TODO</Overseer>
+  <Overseer>Felügyelő</Overseer>
   <!-- EN: None (not under control) -->
-  <OverseerNone>TODO</OverseerNone>
+  <OverseerNone>Nincs (nincs ellenőrzés alatt)</OverseerNone>
   <!-- EN: May go feral at any moment -->
-  <MayGoFeral>TODO</MayGoFeral>
+  <MayGoFeral>Bármelyik pillanatban elvadulhat</MayGoFeral>
   <!-- EN: Bandwidth -->
-  <Bandwidth>TODO</Bandwidth>
+  <Bandwidth>Sávszélesség</Bandwidth>
   <!-- EN: bandwidth -->
-  <BandwidthLower>TODO</BandwidthLower>
+  <BandwidthLower>sávszélesség</BandwidthLower>
   <!-- EN: A mechanitor can only oversee a mech if there is enough bandwidth to do so. Each mech consumes a different amount of bandwidth.\n\nGain more bandwidth by constructing band nodes and tuning the mechanitor to them, or by equipping special mechanitor apparel. -->
-  <BandwidthGizmoTip>TODO</BandwidthGizmoTip>
+  <BandwidthGizmoTip>A robotmester csak akkor tudja felügyelni az adott robotot, ha elegendő sávszélesség van hozzá. Mindegyik típus más-más sávszélességet fogyaszt.\n\nNyerj nagyobb sávszélességet sávcsomópontok létrehozásával és a robotmester ráhangolásával vagy speciális ruházat felszerelésével.</BandwidthGizmoTip>
   <!-- EN: Control group -->
   <ControlGroup>Vezérlő csoport</ControlGroup>
   <!-- EN: Current mode -->
-  <CurrentMechWorkMode>TODO</CurrentMechWorkMode>
+  <CurrentMechWorkMode>Aktuális mód</CurrentMechWorkMode>
   <!-- EN: Assigned mechs -->
-  <AssignedMechs>TODO</AssignedMechs>
+  <AssignedMechs>Hozzárendelt robotok</AssignedMechs>
   <!-- EN: Tuned to -->
-  <BandNodeTunedTo>TODO</BandNodeTunedTo>
+  <BandNodeTunedTo>Hangolva</BandNodeTunedTo>
   <!-- EN: Tune to -->
-  <BandNodeTuneTo>TODO</BandNodeTuneTo>
+  <BandNodeTuneTo>Hangol</BandNodeTuneTo>
   <!-- EN: Tuning to -->
-  <BandNodeTuningTo>TODO</BandNodeTuningTo>
+  <BandNodeTuningTo>Hangolás</BandNodeTuningTo>
   <!-- EN: Retune -->
-  <BandNodeRetuneTo>TODO</BandNodeRetuneTo>
+  <BandNodeRetuneTo>Újrahangolás</BandNodeRetuneTo>
   <!-- EN: Tune this band node to a mechanitor. Tuning will take {0} to complete. -->
-  <BandNodeTuningDesc>TODO</BandNodeTuningDesc>
+  <BandNodeTuningDesc>Áthangolja ezt a sávcsomópontot egy robotmesterre. A hangolás {0} időt vesz igénybe.</BandNodeTuningDesc>
   <!-- EN: Retune this band node to another mechanitor. Retuning will take {0} to complete. -->
-  <BandNodeRetuningDesc>TODO</BandNodeRetuningDesc>
+  <BandNodeRetuningDesc>Áthangolja ezt a sávcsomópontot egy másik robotmesterre. Az áthangolás {0} időt vesz igénybe.</BandNodeRetuningDesc>
   <!-- EN: Removing {0} will change {1_labelShort}'s bandwidth from {2} to {3}. This will mean the following mechs will no longer be under control -->
   <DropThingBandwidthApparel>TODO</DropThingBandwidthApparel>
   <!-- EN: no mechs -->
-  <NoMechs>TODO</NoMechs>
+  <NoMechs>nincs robot</NoMechs>
   <!-- EN: Group -->
-  <Group>TODO</Group>
+  <Group>Csoport</Group>
   <!-- EN: Groups -->
-  <Groups>TODO</Groups>
+  <Groups>Csoportok</Groups>
   <!-- EN: Loading mech gestation resources -->
-  <LoadingMechGestator>TODO</LoadingMechGestator>
+  <LoadingMechGestator>Robot gesztációs erőforrások betöltése</LoadingMechGestator>
   <!-- EN: Initiating mech gestation cycle -->
-  <InitMechGestationCycle>TODO</InitMechGestationCycle>
+  <InitMechGestationCycle>Robot gesztációs ciklus elindítása</InitMechGestationCycle>
   <!-- EN: Initiating mech birth -->
-  <InitMechBirth>TODO</InitMechBirth>
+  <InitMechBirth>Robot születés elindítása</InitMechBirth>
   <!-- EN: Mech energy -->
-  <MechEnergy>TODO</MechEnergy>
+  <MechEnergy>Robot energia</MechEnergy>
   <!-- EN: Energy -->
-  <Energy>TODO</Energy>
+  <Energy>Energia</Energy>
   <!-- EN: energy -->
-  <EnergyLower>TODO</EnergyLower>
+  <EnergyLower>energia</EnergyLower>
   <!-- EN: Bandwidth usage -->
-  <BandwidthUsage>TODO</BandwidthUsage>
+  <BandwidthUsage>Sávszélesség-használat</BandwidthUsage>
   <!-- EN: Mech gestation bandwidth -->
-  <MechGestationBandwidthUsed>TODO</MechGestationBandwidthUsed>
+  <MechGestationBandwidthUsed>Robot gesztációs sávszélesség</MechGestationBandwidthUsed>
   <!-- EN: Cannot summon {0} threat -->
-  <CannotSummon>TODO</CannotSummon>
+  <CannotSummon>Nem hívható meg {0} fenyegetés</CannotSummon>
   <!-- EN: {0} threat ready to summon -->
-  <ReadyToSummonThreat>TODO</ReadyToSummonThreat>
+  <ReadyToSummonThreat>{0} fenyegetés készen áll a megidézésre</ReadyToSummonThreat>
   <!-- EN: Summon {0} threat -->
-  <Summon>TODO</Summon>
+  <Summon>Idézz meg {0} fenyegetést</Summon>
   <!-- EN: No reachable {0} -->
-  <NoReachableBossgroupCaller>TODO</NoReachableBossgroupCaller>
+  <NoReachableBossgroupCaller>Nem elérhető {0}</NoReachableBossgroupCaller>
   <!-- EN: No reservable {0} -->
-  <NoReservableBossgroupCaller>TODO</NoReservableBossgroupCaller>
+  <NoReservableBossgroupCaller>Nincs foglalható {0}</NoReservableBossgroupCaller>
   <!-- EN: No powered {0} -->
-  <NoPoweredBossgroupCaller>TODO</NoPoweredBossgroupCaller>
+  <NoPoweredBossgroupCaller>Nincs áramellátás {0}</NoPoweredBossgroupCaller>
   <!-- EN: already used -->
-  <AlreadyUsed>TODO</AlreadyUsed>
+  <AlreadyUsed>már használt</AlreadyUsed>
   <!-- EN: Gestating -->
-  <Gestating>TODO</Gestating>
+  <Gestating>Terhesség</Gestating>
   <!-- EN: Escorting {TARGET_labelShort}. -->
-  <Escorting>TODO</Escorting>
+  <Escorting>{TARGET_labelShort} kísérete.</Escorting>
   <!-- EN: Worker -->
-  <Worker>TODO</Worker>
+  <Worker>Munkás</Worker>
   <!-- EN: Waiting for -->
-  <WaitingFor>TODO</WaitingFor>
+  <WaitingFor>Várok</WaitingFor>
   <!-- EN: Uncontrolled -->
-  <Uncontrolled>TODO</Uncontrolled>
+  <Uncontrolled>Irányíthatatlan</Uncontrolled>
   <!-- EN: incoming {0} -->
-  <BossgroupIncoming>TODO</BossgroupIncoming>
+  <BossgroupIncoming>érkező {0}</BossgroupIncoming>
 
   <!-- Sanguophage -->
   <!-- EN: hemogen -->

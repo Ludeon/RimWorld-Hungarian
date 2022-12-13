@@ -136,7 +136,7 @@
   <!-- EN: Load anyway -->
   <LoadAnyway>Mindenképp betölt</LoadAnyway>
   <!-- EN: Load mod list from save -->
-  <ChangeLoadedMods>Modlista betöltése mentett állásból</ChangeLoadedMods>
+  <ChangeLoadedMods>Modlista betöltése mentésből</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>Némely mod nem elérhető, újra kell telepíteni őket</MissingMods>
   <!-- EN: Official content -->
@@ -214,7 +214,7 @@
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>Modok nem egyeznek</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do. -->
-  <ModsMismatchWarningText>Ezt a fájlt különböző aktív modkészlettel mentették el a jelenlegitől. Attól függően, hogy ezek a modok mit csinálnak, ez problémát okozhat.\n\nA fájlt ezekkel mentették el (ebben a sorrendben):\n\n{0}\n\nEzek aktívak most (ebben a sorrendben):\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>Ezt a fájlt a jelenleg futó módoktól eltérő aktív modkészlettel mentettük. Ez problémákat okozhat, vagy nem, attól függően, hogy pontosan mit csinálnak ezek a modok.</ModsMismatchWarningText>
   <!-- EN: No mods have been added or removed, but the order of your mod list has changed. -->
   <ModsMismatchOrderChanged>Nem adtál hozzá vagy távolítottál el modokat, de a modlista sorrendje megváltozott.</ModsMismatchOrderChanged>
   <!-- EN: Are you sure you want to load the mod list from this save file? -->
