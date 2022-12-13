@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Auto-repair -->
-  <CommandAutoRepair>TODO</CommandAutoRepair>
+  <CommandAutoRepair>Autojavítás</CommandAutoRepair>
   <!-- EN: If active, a mechanitor will automatically repair this mechanoid. Repairing a mechanoid drains its energy. -->
-  <CommandAutoRepairDesc>TODO</CommandAutoRepairDesc>
+  <CommandAutoRepairDesc>Ha aktív, a robotmester automatikusan megjavítja ezt a robotot. A robot javítása leszívja az energiáját.</CommandAutoRepairDesc>
 
   <!-- EN: {0_labelShort} is deathresting. -->
   <CommandDisabledDeathresting>TODO</CommandDisabledDeathresting>
@@ -14,36 +14,36 @@
   <CommandCancelGrowthDesc>TODO</CommandCancelGrowthDesc>
 
   <!-- EN: Select overseer -->
-  <CommandSelectOverseer>TODO</CommandSelectOverseer>
+  <CommandSelectOverseer>Felügyelő választása</CommandSelectOverseer>
   <!-- EN: Select the mechanitor who is the overseer of this mech. -->
-  <CommandSelectOverseerDesc>TODO</CommandSelectOverseerDesc>
+  <CommandSelectOverseerDesc>Válaszd ki a robotmestert, aki ennek a gépnek a felügyelője.</CommandSelectOverseerDesc>
   <!-- EN: No overseer. -->
-  <CommandSelectOverseerDisabledDesc>TODO</CommandSelectOverseerDisabledDesc>
+  <CommandSelectOverseerDisabledDesc>Nincs felügyelő</CommandSelectOverseerDisabledDesc>
 
   <!-- EN: Cancel extraction -->
-  <CommandCancelExtraction>TODO</CommandCancelExtraction>
+  <CommandCancelExtraction>A kivonás megszakítása</CommandCancelExtraction>
   <!-- EN: Cancel the extraction process. The contained person will be ejected. -->
-  <CommandCancelExtractionDesc>TODO</CommandCancelExtractionDesc>
+  <CommandCancelExtractionDesc>Törölje az kivonási folyamatot. A bezárt személy kilökődik.</CommandCancelExtractionDesc>
 
   <!-- EN: Summon mech threat... -->
-  <CommandCallBossgroup>TODO</CommandCallBossgroup>
+  <CommandCallBossgroup>Robot fenyegetés idézése...</CommandCallBossgroup>
   <!-- EN: Summon an enemy leader mechanoid along with escorts.\n\nIf you defeat the leader mechanoid, it will drop a special chip which you can use to advance your own mechanoid technology.\n\nThere are three leader mechanoid types, each summoned a different way, each dropping a different type of chip. -->
-  <CommandCallBossgroupDesc>TODO</CommandCallBossgroupDesc>
+  <CommandCallBossgroupDesc>Idézz meg egy ellenséges vezérrobotot a kísérőkkel együtt.\n\nLegyőzése esetén kinyerhető egy speciális chipet, amellyel továbbfejlesztheted saját robottechnológiádat.\n\nHárom vezérrobot típus létezik, mindegyik más módon idézhető meg és más típusú chipet dob le.</CommandCallBossgroupDesc>
 
   <!-- EN: Toggle auto load {0} -->
-  <CommandAutoLoad>TODO</CommandAutoLoad>
+  <CommandAutoLoad>Automatikus betöltés váltása {0}</CommandAutoLoad>
   <!-- EN: If active, colonists will automatically load this with {0}. -->
-  <CommandAutoLoadDesc>TODO</CommandAutoLoadDesc>
+  <CommandAutoLoadDesc>Ha aktív, a telepesek automatikusan betöltik ezt a következővel: {0}.</CommandAutoLoadDesc>
 
   <!-- EN: Eject contents -->
-  <CommandEjectContents>TODO</CommandEjectContents>
+  <CommandEjectContents>Tartalmak kiadása</CommandEjectContents>
   <!-- EN: Eject all contained {0} onto the ground. -->
-  <CommandEjectContentsDesc>TODO</CommandEjectContentsDesc>
+  <CommandEjectContentsDesc>Távolítsa el az összes tartalmazott {0} elemet a földre.</CommandEjectContentsDesc>
 
   <!-- EN: Select all mechs -->
   <CommandSelectAllMechs>Minden robot kiválasztása</CommandSelectAllMechs>
   <!-- EN: Select all mechanoids controlled by this mechanitor. -->
-  <CommandSelectAllMechsDesc>Válassza ki az összes mechanoidot, amelyet ez a robotmester vezérel.</CommandSelectAllMechsDesc>
+  <CommandSelectAllMechsDesc>Kiválasztja az összes robotot, amelyet ez a robotmester vezérel.</CommandSelectAllMechsDesc>
 
   <!-- EN: Turret enabled -->
   <CommandToggleTurret>TODO</CommandToggleTurret>
@@ -51,9 +51,9 @@
   <CommandToggleTurretDesc>TODO</CommandToggleTurretDesc>
 
   <!-- EN: Cancel scan -->
-  <CommandCancelSubcoreScan>TODO</CommandCancelSubcoreScan>
+  <CommandCancelSubcoreScan>Szkennelés megszakítása</CommandCancelSubcoreScan>
   <!-- EN: Cancel the scan process. The contained person will be ejected. -->
-  <CommandCancelSubcoreScanDesc>TODO</CommandCancelSubcoreScanDesc>
+  <CommandCancelSubcoreScanDesc>Szakítsa meg a szkennelési folyamatot. A bezárt személy kilökődik.</CommandCancelSubcoreScanDesc>
 
   <!-- EN: Force xenogerm implantation -->
   <ForceXenogermImplantation>Kényszerített xenocsíra beültetés</ForceXenogermImplantation>

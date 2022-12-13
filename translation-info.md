@@ -11,6 +11,8 @@ spikecore - trófea?, skalp?, tüskemagos?
 biosculpter pod
 biosculpter - fiatalító gép? testátalakító gép
 
+growth vat - növekedési kád, növesztő kád
+
 mechanitor - robotmester (gépész?, technikus?, gépfelügyelő?)
 mechanoid - robot
 mechlink - gépkapcsolat, robot link, kapcsolódás egy robothoz implantátummal

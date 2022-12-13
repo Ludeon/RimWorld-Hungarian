@@ -582,16 +582,16 @@
 
   <!-- Dissolution -->
   <!-- EN: indoors -->
-  <DissolutionRateIndoors>TODO</DissolutionRateIndoors>
+  <DissolutionRateIndoors>fedett</DissolutionRateIndoors>
   <!-- EN: raining -->
-  <DissolutionRain>TODO</DissolutionRain>
+  <DissolutionRain>kioldó(?) eső</DissolutionRain>
   <!-- EN: One wastepack dissolves every {0} -->
-  <DissolvesEvery>TODO</DissolvesEvery>
+  <DissolvesEvery>Egy hulladékcsomag elszivárog minden {0}</DissolvesEvery>
   <!-- EN: Frozen (won't dissolve). -->
-  <DissolutionFrozen>TODO</DissolutionFrozen>
+  <DissolutionFrozen>Fagyasztott (nem szivárog).</DissolutionFrozen>
 
   <!-- EN: {0} cells / day -->
-  <CellsPerDay>TODO</CellsPerDay>
+  <CellsPerDay>{0} cella / nap</CellsPerDay>
 
   <!-- EN: {0} cannot wear clothing for {1} -->
   <WrongDevelopmentalStageForClothing>TODO</WrongDevelopmentalStageForClothing> 

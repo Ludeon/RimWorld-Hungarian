@@ -4,37 +4,37 @@
   <!-- EN: Not a mechanitor -->
   <NotAMechanitor>Nem robotmester</NotAMechanitor>
   <!-- EN: Not enough bandwidth -->
-  <NotEnoughBandwidth>TODO</NotEnoughBandwidth>
+  <NotEnoughBandwidth>Nincs elég sávszélesség</NotEnoughBandwidth>
   <!-- EN: Take control of {0} -->
-  <ControlMech>TODO</ControlMech>
+  <ControlMech>Vegye át az irányítást {0} felett</ControlMech>
   <!-- EN: Cannot control {0} -->
-  <CannotControlMech>TODO</CannotControlMech>
+  <CannotControlMech>{0} nem vezérelhető</CannotControlMech>
   <!-- EN: Already controlled by {0} -->
-  <CannotControlMechAlreadyControlled>TODO</CannotControlMechAlreadyControlled>
+  <CannotControlMechAlreadyControlled>{0} már felügyeli</CannotControlMechAlreadyControlled>
   <!-- EN: Not enough bandwidth -->
-  <CannotControlMechNotEnoughBandwidth>TODO</CannotControlMechNotEnoughBandwidth>
+  <CannotControlMechNotEnoughBandwidth>Nincs elég sávszélesség</CannotControlMechNotEnoughBandwidth>
   <!-- EN: Never controllable -->
-  <CannotControlMechNeverControllable>TODO</CannotControlMechNeverControllable>
+  <CannotControlMechNeverControllable>Soha nem irányítható</CannotControlMechNeverControllable>
   <!-- EN: Cannot disconnect from {0} -->
-  <CannotDisconnectMech>TODO</CannotDisconnectMech>
+  <CannotDisconnectMech>Nem lehet lecsatlakozni a következőről: {0}</CannotDisconnectMech>
   <!-- EN: Disconnect from {0} -->
-  <DisconnectMech>TODO</DisconnectMech>
+  <DisconnectMech>Lecsatlakozás erről: {0}</DisconnectMech>
   <!-- EN: Permanently disassemble {0} -->
-  <DisassembleMech>TODO</DisassembleMech>
+  <DisassembleMech>Végleges szétszerelés: {0}</DisassembleMech>
   <!-- EN: Cannot permanently disassemble {0} -->
-  <CannotDisassembleMech>TODO</CannotDisassembleMech>
+  <CannotDisassembleMech>Nem lehet véglegesen szétszerelni a következőt: {0}</CannotDisassembleMech>
   <!-- EN: Must be overseer -->
-  <MustBeOverseer>TODO</MustBeOverseer>
+  <MustBeOverseer>Felügyelőnek kell lennie</MustBeOverseer>
   <!-- EN: Extract -->
-  <Extract>TODO</Extract>
+  <Extract>Kivon</Extract>
   <!-- EN: Out of command range -->
-  <OutOfCommandRange>TODO</OutOfCommandRange>
+  <OutOfCommandRange>Parancstartományon kívül</OutOfCommandRange>
   <!-- EN: Cannot go here -->
-  <CannotGoOutOfRange>TODO</CannotGoOutOfRange>
+  <CannotGoOutOfRange>Ide nem lehet menni</CannotGoOutOfRange>
   <!-- EN: Must be emptied -->
-  <WasteContainerFull>TODO</WasteContainerFull>
+  <WasteContainerFull>Ki kell üríteni</WasteContainerFull>
   <!-- EN: Cannot repair mech {0} -->
-  <CannotRepairMech>TODO</CannotRepairMech>
+  <CannotRepairMech>{0} nem javítható</CannotRepairMech>
 
   <!-- EN: Extract xenogerm from {PAWN_nameDef} -->
   <ExtractXenogermFrom>TODO</ExtractXenogermFrom>
