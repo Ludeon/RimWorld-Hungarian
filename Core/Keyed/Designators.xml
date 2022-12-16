@@ -22,9 +22,9 @@
   <DesignatorUninstallDesc>Eltávolítás után a tárgy mozgatható, eladható, máshol felállítható.</DesignatorUninstallDesc>
 
   <!-- EN: Extract tree -->
-  <DesignatorExtractTree>TODO</DesignatorExtractTree>
+  <DesignatorExtractTree>Fa kiásása</DesignatorExtractTree>
   <!-- EN: Extract this tree while keeping it alive so it can be replanted somewhere else. -->
-  <DesignatorExtractTreeDesc>TODO</DesignatorExtractTreeDesc>
+  <DesignatorExtractTreeDesc>Megjelöli az adott fát kiásásra, hogy máshová újra lehessen ültetni. Eközben a fa nem sérül.</DesignatorExtractTreeDesc>
 
   <!-- EN: Harvest -->
   <DesignatorHarvest>Betakarít</DesignatorHarvest>
@@ -122,7 +122,7 @@
   <!-- EN: Manage areas... -->
   <ManageAreas>Körzetek kezelése...</ManageAreas>
   <!-- EN: Manage auto-slaughter... -->
-  <ManageAutoSlaughter>TODO</ManageAutoSlaughter>
+  <ManageAutoSlaughter>Automatikus levágás kezelése...</ManageAutoSlaughter>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>Jelölj ki egy körzetet egy bizonyos növény termesztésére.</DesignatorGrowingZoneDesc>
@@ -184,48 +184,48 @@
   <DesignatorReleaseAnimalToWildDesc>Egy állat visszaengedése a vadonba.</DesignatorReleaseAnimalToWildDesc>
 
   <!-- EN: Study -->
-  <DesignatorStudy>TODO</DesignatorStudy>
+  <DesignatorStudy>Tanulmányozás</DesignatorStudy>
   <!-- EN: Study this object to learn more about it. -->
-  <DesignatorStudyDesc>TODO</DesignatorStudyDesc>
+  <DesignatorStudyDesc>Tanulmányozza ezt az objektumot, hogy többet megtudjon róla.</DesignatorStudyDesc>
 
   <!-- EN: Paint building... -->
-  <DesignatorPaintBuilding>TODO</DesignatorPaintBuilding>
+  <DesignatorPaintBuilding>Épület festése...</DesignatorPaintBuilding>
   <!-- EN: Designate walls and buildings to be painted using dye from tinctoria plants, which you can grow. Only certain buildings can be painted. -->
-  <DesignatorPaintBuildingDesc>TODO</DesignatorPaintBuildingDesc>
+  <DesignatorPaintBuildingDesc>Jelöld ki a festendő falakat és épületeket tinctoria növényekből származó festékkel, amelyeket te is termeszthetsz. Csak bizonyos épületek festhetők.</DesignatorPaintBuildingDesc>
   <!-- EN: Paint floor... -->
-  <DesignatorPaintFloor>TODO</DesignatorPaintFloor>
+  <DesignatorPaintFloor>Padló festése...</DesignatorPaintFloor>
   <!-- EN: Designate floors to be painted using dye from tinctoria plants, which you can grow. Only certain floors can be painted. -->
-  <DesignatorPaintFloorDesc>TODO</DesignatorPaintFloorDesc>
+  <DesignatorPaintFloorDesc>Jelöld ki a festendő padlókat tinctoria növényekből származó festékkel, amelyeket te is termeszthetsz. Csak bizonyos padlók festhetők.</DesignatorPaintFloorDesc>
 
   <!-- EN: Remove paint -->
-  <DesignatorRemovePaint>TODO</DesignatorRemovePaint>
+  <DesignatorRemovePaint>Festék eltávolítása</DesignatorRemovePaint>
   <!-- EN: Remove paint from walls, buildings, and floors. -->
-  <DesignatorRemovePaintDesc>TODO</DesignatorRemovePaintDesc>
+  <DesignatorRemovePaintDesc>Festék eltávolítása a falakról, épületekről és padlókról.</DesignatorRemovePaintDesc>
   <!-- EN: Remove floor paint -->
-  <DesignatorRemoveFloorPaint>TODO</DesignatorRemoveFloorPaint> 
+  <DesignatorRemoveFloorPaint>Festék eltávolítása padlóról</DesignatorRemoveFloorPaint> 
   <!-- EN: Remove paint from floors. -->
-  <DesignatorRemoveFloorPaintDesc>TODO</DesignatorRemoveFloorPaintDesc> 
+  <DesignatorRemoveFloorPaintDesc>Festék eltávolítása padlókról.</DesignatorRemoveFloorPaintDesc> 
   <!-- EN: Paint -->
-  <Paint>TODO</Paint>
+  <Paint>Festék</Paint>
   <!-- EN: Color -->
-  <Color>TODO</Color>
+  <Color>Szín</Color>
 
   <!-- EN: Color picker -->
-  <DesignatorEyedropper>TODO</DesignatorEyedropper>
+  <DesignatorEyedropper>Színválasztó</DesignatorEyedropper>
   <!-- EN: Grab existing color -->
-  <GrabExistingColor>TODO</GrabExistingColor>
+  <GrabExistingColor>Meglévő szín választása</GrabExistingColor>
   <!-- EN: Grab a color from an existing building. -->
-  <DesignatorEyeDropperDesc_Paint>TODO</DesignatorEyeDropperDesc_Paint>
+  <DesignatorEyeDropperDesc_Paint>Szín választása meglévő épületről.</DesignatorEyeDropperDesc_Paint>
   <!-- EN: Grab a color from an existing carpet. -->
-  <DesignatorEyeDropperDesc_Carpet>TODO</DesignatorEyeDropperDesc_Carpet>
+  <DesignatorEyeDropperDesc_Carpet>Szín választása meglévő szőnyegről</DesignatorEyeDropperDesc_Carpet>
   <!-- EN: Select a painted building. -->
-  <SelectAPaintedBuilding>TODO</SelectAPaintedBuilding>
+  <SelectAPaintedBuilding>Válassz ki egy festett épületet.</SelectAPaintedBuilding>
   <!-- EN: Select colored carpet. -->
-  <SelectColoredFloor>TODO</SelectColoredFloor>
+  <SelectColoredFloor>Válassz színezett szőnyeget.</SelectColoredFloor>
   <!-- EN: Grab -->
-  <Grab>TODO</Grab>
+  <Grab>Kiválaszt</Grab>
   <!-- EN: Grabbed color -->
-  <GrabbedColor>TODO</GrabbedColor>
+  <GrabbedColor>Kiválasztott szín</GrabbedColor>
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
@@ -271,15 +271,15 @@
   <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
   <InteractionSpotOverlaps>A munkaterület átfedi egy másik eszközét: {1_labelShort}.</InteractionSpotOverlaps>
   <!-- EN: Cannot place monument over: {0}. -->
-  <CannotPlaceMonumentOver>TODO</CannotPlaceMonumentOver>
+  <CannotPlaceMonumentOver>Az emlékmű nem helyezhető el a következő fölé: {0}.</CannotPlaceMonumentOver>
   <!-- EN: Cannot build on: {0}. -->
-  <CannotPlaceMonumentOnTerrain>TODO</CannotPlaceMonumentOnTerrain>
+  <CannotPlaceMonumentOnTerrain>Nem építhető erre: {0}.</CannotPlaceMonumentOnTerrain>
   <!-- EN: Cannot place monument over: {0}. -->
-  <MonumentOverlapsBuilding>TODO</MonumentOverlapsBuilding>
+  <MonumentOverlapsBuilding>Az emlékmű nem helyezhető el a következő fölé: {0}.</MonumentOverlapsBuilding>
   <!-- EN: Monument cannot be placed adjacent to: {0}. -->
   <MonumentAdjacentToBuilding>Emléktábla nem lehet közvetlen szomszédja más épületnek.</MonumentAdjacentToBuilding>
   <!-- EN: Cannot be planted here -->
-  <CannotBePlantedHere>TODO</CannotBePlantedHere>
+  <CannotBePlantedHere>Ide nem ültethető</CannotBePlantedHere>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
