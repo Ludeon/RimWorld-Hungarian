@@ -49,13 +49,13 @@
   <Deathless.symbolPack.wholeNameSymbols.0.symbol>TODO</Deathless.symbolPack.wholeNameSymbols.0.symbol>
   
   <!-- EN: deathrest -->
-  <Deathrest.label>TODO</Deathrest.label>
+  <Deathrest.label>mélyalvás</Deathrest.label>
   <!-- EN: Carriers of this gene must periodically regenerate themselves in a special coma called deathrest. Deathrest takes days, but can confer substantial bonuses. Deathrest can be accelerated and its effects enhanced by the use of a variety of special buildings and technologies.\n\nThose who put off deathresting will suffer from deathrest exhaustion. -->
-  <Deathrest.description>TODO</Deathrest.description>
+  <Deathrest.description>E gén hordozóinak időnként regenerálódniuk kell egy speciális kómában, amelyet mélyalvásnak neveznek. A mélyalvás napokig tart, de jelentős előnyökkel járhat. A mélyalvás felgyorsítható és hatásai fokozhatók különféle speciális épületek és technológiák használatával.\n\nAzok, akik halogatják a mélyalvást, halálos kimerültségben szenvednek.</Deathrest.description>
   <!-- EN: death -->
-  <Deathrest.symbolPack.prefixSymbols.0.symbol>TODO</Deathrest.symbolPack.prefixSymbols.0.symbol>
+  <Deathrest.symbolPack.prefixSymbols.0.symbol>halál</Deathrest.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: dead -->
-  <Deathrest.symbolPack.prefixSymbols.1.symbol>TODO</Deathrest.symbolPack.prefixSymbols.1.symbol>
+  <Deathrest.symbolPack.prefixSymbols.1.symbol>halott</Deathrest.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: still -->
   <Deathrest.symbolPack.prefixSymbols.2.symbol>TODO</Deathrest.symbolPack.prefixSymbols.2.symbol>
   <!-- EN: rester -->
@@ -89,41 +89,41 @@
   <FireWeakness.symbolPack.prefixSymbols.2.symbol>TODO</FireWeakness.symbolPack.prefixSymbols.2.symbol>
   
   <!-- EN: hemogen drain -->
-  <HemogenDrain.label>TODO</HemogenDrain.label>
+  <HemogenDrain.label>hemogén drén</HemogenDrain.label>
   <!-- EN: Carriers lose an additional 8 hemogen per day from biological entropy. -->
-  <HemogenDrain.description>TODO</HemogenDrain.description>
+  <HemogenDrain.description>A hordozók további 8 hemogént veszítenek naponta a biológiai entrópiából.</HemogenDrain.description>
   <!-- EN: draining -->
   <HemogenDrain.labelShortAdj>TODO</HemogenDrain.labelShortAdj>
   <!-- EN: hemogen -->
-  <HemogenDrain.resourceLabel>TODO</HemogenDrain.resourceLabel>
+  <HemogenDrain.resourceLabel>hemogén</HemogenDrain.resourceLabel>
   
   <!-- EN: hemogenic -->
-  <Hemogenic.label>TODO</Hemogenic.label>
+  <Hemogenic.label>hemogén</Hemogenic.label>
   <!-- EN: Carriers of this gene have a reserve of biological strength powered by a resource called hemogen. The resource can be gained and spent in various ways, all of which are unlocked by other genes.\n\nCarriers lose 2 hemogen per day from biological entropy. -->
-  <Hemogenic.description>TODO</Hemogenic.description>
+  <Hemogenic.description>Ennek a génnek a hordozói rendelkeznek biológiai erőtartalékkal, amelyet a hemogén nevű erőforrás táplál. Az erőforrást különféle módokon lehet megszerezni és elkölteni, amelyek mindegyikét más gének oldják fel.\n\nA hordozók napi 2 hemogént veszítenek a biológiai entrópiából.</Hemogenic.description>
   <!-- EN: Gives hemogen supply. -->
-  <Hemogenic.customEffectDescriptions.0>TODO</Hemogenic.customEffectDescriptions.0>
+  <Hemogenic.customEffectDescriptions.0>Hemogénellátást biztosít.</Hemogenic.customEffectDescriptions.0>
   <!-- EN: A reserve of biological strength which can be gained and spent in a variety of ways.\n\nHemogen can be increased by bloodfeeding from a human or consuming hemogen packs. You can obtain hemogen packs using the 'extract hemogen pack' medical operation on a non-hemogenic human.\n\nIf hemogen reaches zero, {PAWN_nameDef} will become very unhappy. -->
-  <Hemogenic.resourceDescription>TODO</Hemogenic.resourceDescription>
+  <Hemogenic.resourceDescription>Biológiai erőtartalék, amelyet sokféleképpen lehet megszerezni és elkölteni.\n\nA hemogén növelhető vérszívással vagy hemogéncsomagok fogyasztásával. Hemogéncsomagokat kaphat a 'hemogéncsomag kivonása' orvosi művelettel egy nem hemogén emberen.\n\nHa a hemogén eléri a nullát, {PAWN_nameDef} nagyon boldogtalan lesz.</Hemogenic.resourceDescription>
   <!-- EN: hemogen -->
-  <Hemogenic.resourceLabel>TODO</Hemogenic.resourceLabel>
+  <Hemogenic.resourceLabel>hemogén</Hemogenic.resourceLabel>
   <!-- EN: hemo -->
-  <Hemogenic.symbolPack.prefixSymbols.0.symbol>TODO</Hemogenic.symbolPack.prefixSymbols.0.symbol>
+  <Hemogenic.symbolPack.prefixSymbols.0.symbol>hemo</Hemogenic.symbolPack.prefixSymbols.0.symbol>
   
   <!-- EN: perfect immunity -->
-  <PerfectImmunity.label>TODO</PerfectImmunity.label>
+  <PerfectImmunity.label>tökéletes immunitás</PerfectImmunity.label>
   <!-- EN: Carriers of this gene have archite-enhanced immune systems which intelligently destroy invaders. They are totally immune to most normal illnesses. -->
-  <PerfectImmunity.description>TODO</PerfectImmunity.description>
+  <PerfectImmunity.description>Ennek a génnek a hordozói erősen megerősített immunrendszerrel rendelkeznek, amely intelligens módon pusztítja el a betolakodókat. Teljesen immunisak a legtöbb normál betegséggel szemben.</PerfectImmunity.description>
   <!-- EN: perfect-immune -->
-  <PerfectImmunity.labelShortAdj>TODO</PerfectImmunity.labelShortAdj>
+  <PerfectImmunity.labelShortAdj>szuperimmúnis</PerfectImmunity.labelShortAdj>
   
   <!-- EN: scarless -->
-  <TotalHealing.label>TODO</TotalHealing.label>
+  <TotalHealing.label>hegtelen</TotalHealing.label>
   <!-- EN: Carriers of this gene have a special type of regenerator cell which can heal old wounds and chronic illnesses like bad back. -->
-  <TotalHealing.description>TODO</TotalHealing.description>
+  <TotalHealing.description>Ennek a génnek a hordozói egy speciális regeneráló sejttel rendelkeznek, amelyek képesek begyógyítani a régi sebeket és krónikus betegségeket, például a hátfájást.</TotalHealing.description>
   <!-- EN: Every (*DateTime)15-30 days(/DateTime), one old wound or chronic illness is healed. -->
-  <TotalHealing.customEffectDescriptions.0>TODO</TotalHealing.customEffectDescriptions.0>
+  <TotalHealing.customEffectDescriptions.0>Minden (*DateTime)15-30 days(/DateTime) meggyógyul egy régi seb vagy krónikus betegség.</TotalHealing.customEffectDescriptions.0>
   <!-- EN: scarless -->
-  <TotalHealing.labelShortAdj>TODO</TotalHealing.labelShortAdj>
+  <TotalHealing.labelShortAdj>hegtelen</TotalHealing.labelShortAdj>
   
 </LanguageData>

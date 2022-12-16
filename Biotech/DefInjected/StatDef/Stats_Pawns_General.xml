@@ -24,9 +24,9 @@
   <EMPResistance.description>TODO</EMPResistance.description>
   
   <!-- EN: fertility -->
-  <Fertility.label>TODO</Fertility.label>
+  <Fertility.label>termékenység</Fertility.label>
   <!-- EN: Fertility affects the chance of a pregnancy occurring. Pregnancy chance is dependent on the fertility of both partners. This also affects the chance of successfully implanting an embryo in a surrogate. -->
-  <Fertility.description>TODO</Fertility.description>
+  <Fertility.description>A termékenység befolyásolja a terhesség esélyét. A terhesség esélye mindkét partner termékenységétől függ. Ez befolyásolja az embrió sikeres beültetésének esélyét is egy pótanyába.</Fertility.description>
   
   <!-- EN: growth vat occupant speed -->
   <GrowthVatOccupantSpeed.label>TODO</GrowthVatOccupantSpeed.label>
@@ -94,9 +94,9 @@
   <RawNutritionFactor.description>TODO</RawNutritionFactor.description>
   
   <!-- EN: sleep fall rate -->
-  <RestFallRateFactor.label>TODO</RestFallRateFactor.label>
+  <RestFallRateFactor.label>alvásigény csökkenésének rátája</RestFallRateFactor.label>
   <!-- EN: A multiplier on the speed that a person's sleep need falls. -->
-  <RestFallRateFactor.description>TODO</RestFallRateFactor.description>
+  <RestFallRateFactor.description>Egy személy alvási sebességének szorzója.</RestFallRateFactor.description>
   
   <!-- EN: subcore encoding speed -->
   <SubcoreEncodingSpeed.label>TODO</SubcoreEncodingSpeed.label>

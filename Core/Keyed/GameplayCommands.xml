@@ -147,7 +147,7 @@
   <CommandAllowCutDesc>TODO</CommandAllowCutDesc>
   
   <!-- EN: Select {0_label} -->
-  <CommandSelectStoredThing>TODO</CommandSelectStoredThing>
+  <CommandSelectStoredThing>{0_label} kiválasztása</CommandSelectStoredThing>
   <!-- EN: Select the item stored in here. -->
   <CommandSelectStoredThingDesc>TODO</CommandSelectStoredThingDesc>
 
@@ -565,29 +565,29 @@
   <!-- EN: Drop the person being carried. -->
   <CommandDropPawnDesc>TODO</CommandDropPawnDesc>
   <!-- EN: Select {0_nameDef} -->
-  <CommandSelectCarriedPawn>TODO</CommandSelectCarriedPawn>
+  <CommandSelectCarriedPawn>{0_nameDef} kiválasztása</CommandSelectCarriedPawn>
   <!-- EN: Select the creature being carried. -->
-  <CommandSelectCarriedPawnDesc>TODO</CommandSelectCarriedPawnDesc>
+  <CommandSelectCarriedPawnDesc>A hordozó lény kiválasztása.</CommandSelectCarriedPawnDesc>
   <!-- EN: Select {0_label} -->
-  <CommandSelectCarriedThing>TODO</CommandSelectCarriedThing>
+  <CommandSelectCarriedThing>{0_label} kiválasztása</CommandSelectCarriedThing>
   <!-- EN: Select the carried item. -->
-  <CommandSelectCarriedThingDesc>TODO</CommandSelectCarriedThingDesc>
+  <CommandSelectCarriedThingDesc>A hordozott tárgy kiválasztása.</CommandSelectCarriedThingDesc>
   <!-- EN: Select {0_label} -->
-  <CommandSelectContainerThing>TODO</CommandSelectContainerThing>
+  <CommandSelectContainerThing>{0_label} kiválasztása</CommandSelectContainerThing>
   <!-- EN: Select the containing item. -->
   <CommandSelectContainerThingDesc>TODO</CommandSelectContainerThingDesc>
   <!-- EN: Select {0_nameDef} -->
-  <CommandSelectCarryingPawn>TODO</CommandSelectCarryingPawn>
+  <CommandSelectCarryingPawn>{0_nameDef} kiválasztása</CommandSelectCarryingPawn>
   <!-- EN: Select the carrying creature. -->
   <CommandSelectCarryingPawnDesc>TODO</CommandSelectCarryingPawnDesc>
   <!-- EN: Select {0_nameDef} -->
-  <CommandSelectContainedPawn>TODO</CommandSelectContainedPawn>
+  <CommandSelectContainedPawn>{0_nameDef} kiválasztása</CommandSelectContainedPawn>
   <!-- EN: Select the contained creature. -->
   <CommandSelectContainedPawnDesc>TODO</CommandSelectContainedPawnDesc>
   <!-- EN: Select {0_label} -->
-  <CommandSelectContainedThing>TODO</CommandSelectContainedThing>
+  <CommandSelectContainedThing>{0_label} kiválasztása</CommandSelectContainedThing>
   <!-- EN: Select the contained item. -->
-  <CommandSelectContainedThingDesc>TODO</CommandSelectContainedThingDesc>
+  <CommandSelectContainedThingDesc>A tartalmazott elem kiválasztása.</CommandSelectContainedThingDesc>
 
   <!-- Take a drug -->
   <!-- EN: Take drug... -->

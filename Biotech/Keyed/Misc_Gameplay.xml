@@ -120,13 +120,13 @@
 
   <!-- Sanguophage -->
   <!-- EN: hemogen -->
-  <Hemogen>TODO</Hemogen>
+  <Hemogen>hemogén</Hemogen>
   <!-- EN: Hemogen is a biological energy source derived from compounds in human blood. Baseliner humans produce it endogenously and consume it over time in their own internal balance. Some human xenotypes use it as a kind of fuel for specific abilities, while others must consume it to survive at all. -->
-  <HemogenDesc>TODO</HemogenDesc>
+  <HemogenDesc>A hemogén egy biológiai energiaforrás, amely az emberi vérben lévő vegyületekből származik. Az alaphelyzetben lévő emberek endogén módon termelik, és idővel saját belső egyensúlyukban fogyasztják el. Egyes emberi xenotípusok egyfajta tüzelőanyagként használják bizonyos képességeikhez, míg másoknak el kell fogyasztaniuk, hogy egyáltalán életben maradjanak.</HemogenDesc>
   <!-- EN: deathrest capacity -->
-  <DeathrestCapacity>TODO</DeathrestCapacity>
+  <DeathrestCapacity>mélyalvó kapacitás</DeathrestCapacity>
   <!-- EN: This determines how many deathrest buildings a person can connect to while deathresting. Each deathrest building confers a specific benefit, so it's better to be able to connect to more of them.\n\nDeathrest capacity can be increased using deathrest capacity serums. These serums can be purchased from traders. -->
-  <DeathrestCapacityDesc>TODO</DeathrestCapacityDesc>
+  <DeathrestCapacityDesc>Ez határozza meg, hogy egy személy hány mélyalvó épülethez csatlakozhat pihenése közben. Minden mélyalvást elősegítő épület bizonyos előnyökkel jár, ezért jobb, ha többhöz kapcsolódhatunk.\n\nA mélyalvást okozó szérumok használatával növelhető a mélyalvási kapacitás. Ezeket a szérumokat a kereskedőktől lehet megvásárolni.</DeathrestCapacityDesc>
   <!-- EN: {PAWN_nameDef} is connected to {CURRENT} / {MAX} (max) deathrest buildings. -->
   <PawnIsConnectedToBuildings>TODO</PawnIsConnectedToBuildings>
   <!-- EN: wake now -->
@@ -186,7 +186,7 @@
   <!-- EN: Bound to -->
   <BoundTo>TODO</BoundTo>
   <!-- EN: Will bind permanently on first use. -->
-  <WillBindOnFirstUse>TODO</WillBindOnFirstUse>
+  <WillBindOnFirstUse>Első használatkor végleges összekötés keletkezik.</WillBindOnFirstUse>
   <!-- EN: Time active this deathrest -->
   <TimeActiveThisDeathrest>TODO</TimeActiveThisDeathrest>
   <!-- EN: Minimum is {0} to apply -->
@@ -424,11 +424,11 @@
   <!-- EN: {PAWN_nameDef} will remain in a regeneration coma so long as {PAWN_pronoun} has lethal injuries. -->
   <PawnWillKeepRegeneratingLethalInjuries>TODO</PawnWillKeepRegeneratingLethalInjuries>
   <!-- EN: Deathrest stopped -->
-  <DeathrestPaused>TODO</DeathrestPaused>
+  <DeathrestPaused>A mélyalvás leállt</DeathrestPaused>
   <!-- EN: Lethal injuries -->
-  <LethalInjuries>TODO</LethalInjuries>
+  <LethalInjuries>Halálos sérülések</LethalInjuries>
   <!-- EN: deathrest -->
-  <Deathrest>TODO</Deathrest>
+  <Deathrest>mélyalvás</Deathrest>
   <!-- EN: Buildings -->
   <Buildings>Épületek</Buildings>
   <!-- EN: capacity -->
@@ -531,7 +531,7 @@
   <!-- EN: need a {0}. -->
   <AbilityStartRitualNoMembersOfIdeo>TODO</AbilityStartRitualNoMembersOfIdeo>
   <!-- EN: Hemogen cost -->
-  <AbilityHemogenCost>TODO</AbilityHemogenCost>
+  <AbilityHemogenCost>Hemogén költség</AbilityHemogenCost>
   <!-- EN: Base hemogen gain -->
   <AbilityHemogenGain>TODO</AbilityHemogenGain>
   <!-- EN: Smokepop charged -->
@@ -623,23 +623,23 @@
 
   <!-- Age -->
   <!-- EN: adult -->
-  <Adult>TODO</Adult>
+  <Adult>felnőtt</Adult>
   <!-- EN: adults -->
-  <Adults>TODO</Adults>
+  <Adults>felnőttek</Adults>
   <!-- EN: child -->
-  <Child>TODO</Child>
+  <Child>gyerek</Child>
   <!-- EN: children -->
-  <Children>TODO</Children>
+  <Children>gyerekek</Children>
   <!-- EN: baby -->
-  <Baby>TODO</Baby>
+  <Baby>baba</Baby>
   <!-- EN: babies -->
-  <Babies>TODO</Babies>
+  <Babies>babák</Babies>
   <!-- EN: person -->
-  <Person>TODO</Person>
+  <Person>személy</Person>
   <!-- EN: feral child -->
-  <FeralChild>TODO</FeralChild>
+  <FeralChild>vad gyermek</FeralChild>
   <!-- EN: Wearable by -->
-  <WearableBy>TODO</WearableBy>
+  <WearableBy>Viselhető</WearableBy>
 
   <!-- EN: Xenogerm implantation -->
   <Reward_ReimplantXenogerm_Label>TODO</Reward_ReimplantXenogerm_Label>

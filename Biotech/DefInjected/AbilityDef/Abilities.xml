@@ -14,14 +14,14 @@
   <AnimalWarcall.verbProperties.label>TODO</AnimalWarcall.verbProperties.label>
   
   <!-- EN: bloodfeed -->
-  <Bloodfeed.label>TODO</Bloodfeed.label>
+  <Bloodfeed.label>vérszívás</Bloodfeed.label>
   <!-- EN: Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target's body size. -->
-  <Bloodfeed.description>TODO</Bloodfeed.description>
+  <Bloodfeed.description>Harapd meg a célpontot, és vond ki a hemogént közvetlenül a vérükből. A célpont vért veszít, és elborzad az interakciótól, de egyébként sértetlen lesz. Egy gyorsan ható koaguláns lezárja a sebet, hogy megakadályozza a vérzést.\n\nCsak nem hemogén embereket célozhatsz meg. A kinyert hemogén mennyiségét a célpont testmérete befolyásolja.</Bloodfeed.description>
   
   <!-- EN: coagulate -->
-  <Coagulate.label>TODO</Coagulate.label>
+  <Coagulate.label>véralvasztás</Coagulate.label>
   <!-- EN: Use special glands in the wrists to quickly tend someone's wounds. -->
-  <Coagulate.description>TODO</Coagulate.description>
+  <Coagulate.description>Speciális mirigyeket használ a csuklójában, hogy gyorsan kezelje valaki sebeit.</Coagulate.description>
   
   <!-- EN: fire burst -->
   <FireBurst.label>TODO</FireBurst.label>
@@ -44,18 +44,18 @@
   <FoamSpray.description>TODO</FoamSpray.description>
   
   <!-- EN: longjump -->
-  <Longjump.label>TODO</Longjump.label>
+  <Longjump.label>szuperugrás</Longjump.label>
   <!-- EN: Jump to a distant location using super-strong hemogen-powered legs. -->
-  <Longjump.description>TODO</Longjump.description>
+  <Longjump.description>Egy távoli helyre ugrik a szupererős hemogén-alapú lábakkal.</Longjump.description>
   <!-- EN: jump -->
-  <Longjump.verbProperties.label>TODO</Longjump.verbProperties.label>
+  <Longjump.verbProperties.label>ugrás</Longjump.verbProperties.label>
   
   <!-- EN: mech longjump -->
-  <LongjumpMech.label>TODO</LongjumpMech.label>
+  <LongjumpMech.label>robot távugrás</LongjumpMech.label>
   <!-- EN: Jump to a distant location using special ultrafast mechanoid muscles. -->
-  <LongjumpMech.description>TODO</LongjumpMech.description>
+  <LongjumpMech.description>Egy távoli helyre ugrik speciális ultragyors mechanoid izmokkal.</LongjumpMech.description>
   <!-- EN: jump -->
-  <LongjumpMech.verbProperties.label>TODO</LongjumpMech.verbProperties.label>
+  <LongjumpMech.verbProperties.label>ugrás</LongjumpMech.verbProperties.label>
   
   <!-- EN: jump launcher -->
   <LongjumpMechLauncher.label>TODO</LongjumpMechLauncher.label>
@@ -65,24 +65,24 @@
   <LongjumpMechLauncher.verbProperties.label>TODO</LongjumpMechLauncher.verbProperties.label>
   
   <!-- EN: piercing spine -->
-  <PiercingSpine.label>TODO</PiercingSpine.label>
+  <PiercingSpine.label>gerinc fúrás(?)</PiercingSpine.label>
   <!-- EN: Use a hemogenic chemical reaction to launch a bony spine at the target. The spine exits through the skin from an opening between the collarbones. Given the method of launch, it is surprisingly easy to aim. -->
-  <PiercingSpine.description>TODO</PiercingSpine.description>
+  <PiercingSpine.description>Hemogén kémiai reakciót használ, hogy egy gerinccsontot indítson a célpontra. A gerinccsont a bőrön keresztül a kulcscsontok közötti nyíláson keresztül lép ki. Az indítás módját tekintve meglepően könnyű célozni.</PiercingSpine.description>
   
   <!-- EN: implant genes -->
-  <ReimplantXenogerm.label>TODO</ReimplantXenogerm.label>
+  <ReimplantXenogerm.label>gén beültetés</ReimplantXenogerm.label>
   <!-- EN: Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process.\n\nWhen implanted, a xenogerm will overwrite the target's xenogenes. Germline genes will be unaffected. -->
   <ReimplantXenogerm.description>Egy speciális injektor szerv segítségével ültesd be ennek a személynek a xenogénjeit egy hajlandó alanyba. Ha ennek a személynek a génjei jelenleg újranövekednek, akkor beültetik a xenocsíráját és közben meghalnak.\n\nA beültetéskor egy xenocsíra felülírja a célpont xenogénjeit. A csíravonal génjei nem változnak.</ReimplantXenogerm.description>
   
   <!-- EN: resurrect -->
-  <Resurrect.label>TODO</Resurrect.label>
+  <Resurrect.label>feltámasztás</Resurrect.label>
   <!-- EN: Use archites in the bloodstream to infuse a corpse's body with new life, repairing degenerated cell structures and kickstarting vital functions. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability seems to exhaust the archites somehow, so it can only be used very rarely. -->
-  <Resurrect.description>TODO</Resurrect.description>
+  <Resurrect.description>A véráramban lévő architákat használva, új életet lehel egy holttest testébe, helyreállítja a degenerált sejtstruktúrákat és beindítja a létfontosságú funkciókat. Minél idősebb és rosszabb állapotban van a holttest, annál valószínűbb, hogy emlékezetkieséssel vagy rossz egészségi állapottal térnek vissza. Úgy tűnik, hogy ez a képesség valahogy kimeríti az architákat, ezért csak nagyon ritkán lehet használni.</Resurrect.description>
   
   <!-- EN: resurrect mech -->
-  <ResurrectionMech.label>TODO</ResurrectionMech.label>
+  <ResurrectionMech.label>Robot felélesztése</ResurrectionMech.label>
   <!-- EN: Resurrect a recently-killed mechanoid by externally supercharging its self-repair processes. The mechanoid will come back with some but not all of its wounds healed. -->
-  <ResurrectionMech.description>TODO</ResurrectionMech.description>
+  <ResurrectionMech.description>Feléleszt egy nemrégiben elpusztult robotot az önjavító folyamatok külső feltöltésével. A robot visszajön de nem lesz minden sérülése megjavítva.</ResurrectionMech.description>
   
   <!-- EN: mech smokepop -->
   <SmokepopMech.label>TODO</SmokepopMech.label>
