@@ -130,37 +130,37 @@
   <!-- EN: {PAWN_nameDef} is connected to {CURRENT} / {MAX} (max) deathrest buildings. -->
   <PawnIsConnectedToBuildings>TODO</PawnIsConnectedToBuildings>
   <!-- EN: wake now -->
-  <Wake>TODO</Wake>
+  <Wake>ébresztés most</Wake>
   <!-- EN: Wake up from deathrest.\n\n{PAWN_nameDef} has been in deathrest for {DURATION}. -->
-  <WakeDesc>TODO</WakeDesc>
+  <WakeDesc>Ébredés a mélyalvásból.\n\n{PAWN_nameDef} {DURATION} ideje mélyalvásban van.</WakeDesc>
   <!-- EN: {PAWN_nameDef} needs to deathrest for at least {TOTAL}. Waking {PAWN_objective} early will make {PAWN_objective} ill, and {PAWN_pronoun} will not benefit from any deathrest buildings. -->
-  <WakeExtraDesc_Exhaustion>TODO</WakeExtraDesc_Exhaustion>
+  <WakeExtraDesc_Exhaustion>{PAWN_nameDef} telepesnek legalább {TOTAL} ideig mélyalvásban kell lennie. Korai felébresztése megbetegíti őt, és nem részesül semmilyen előnyben a mélyalvást biztosító épületekből.</WakeExtraDesc_Exhaustion>
   <!-- EN: {PAWN_nameDef} can now wake safely. -->
-  <WakeExtraDesc_Safe>TODO</WakeExtraDesc_Safe>
+  <WakeExtraDesc_Safe>{PAWN_nameDef} mostantól biztonságosan felébredhet.</WakeExtraDesc_Safe>
   <!-- EN: Cannot wake. Need at least {0} hemogen. -->
-  <CannotWakeNotEnoughHemogen>TODO</CannotWakeNotEnoughHemogen>
+  <CannotWakeNotEnoughHemogen>Nem lehet felébredni. Legalább {0} hemogén szükséges.</CannotWakeNotEnoughHemogen>
   <!-- EN: Auto-wake -->
-  <AutoWake>TODO</AutoWake>
+  <AutoWake>Automatikus ébresztés</AutoWake>
   <!-- EN: When on, {PAWN_nameDef} will automatically wake once {PAWN_possessive} deathrest is complete.\n\nWhile off, {PAWN_pronoun} will continue deathresting until you wake {PAWN_objective} manually. -->
-  <AutoWakeDesc>TODO</AutoWakeDesc>
+  <AutoWakeDesc>Ha be van kapcsolva, {PAWN_nameDef} automatikusan felébred, amint a mélyalvása befejeződött.\n\nHa ki van kapcsolva, {PAWN_pronoun} továbbra is mélyalvásban marad, amíg manuálisan fel nem ébreszted őt.</AutoWakeDesc>
   <!-- EN: {PAWN_nameDef} is deathresting. -->
-  <IsDeathresting>TODO</IsDeathresting>
+  <IsDeathresting>{PAWN_nameDef} mélyalvást végez.</IsDeathresting>
   <!-- EN: Cannot deathrest -->
-  <CannotDeathrest>TODO</CannotDeathrest>
+  <CannotDeathrest>Nem lehet mélyalvásba menni</CannotDeathrest>
   <!-- EN: Start deathrest -->
-  <StartDeathrest>TODO</StartDeathrest>
+  <StartDeathrest>Mélyalvás indítása</StartDeathrest>
   <!-- EN: Safely completing deathrest takes {MINDURATION}, but {PAWN_nameDef} has only been deathresting for {CURDURATION}.\n\nWaking {PAWN_nameDef} now would interrupt {PAWN_possessive} deathrest, throwing {PAWN_possessive} metabolism out of balance and making {PAWN_objective} sick for days to come.\n\nAre you sure you wish to wake {PAWN_objective}? -->
-  <ConfirmExitDeathrestUnderMinDays>TODO</ConfirmExitDeathrestUnderMinDays>
+  <ConfirmExitDeathrestUnderMinDays>A mélyalvás biztonságos befejezése {MINDURATION} időt vesz igénybe, de {PAWN_nameDef} csak {CURDURATION} ideje pihen.\n\n{PAWN_nameDef} azonnali felébresztése megszakítaná a mélyalvását, kibillentve az anyagcserét az egyensúlyból, és megbetegítve őt a következő napokra.\n\nBiztosan fel akarod ébreszteni őt?</ConfirmExitDeathrestUnderMinDays>
   <!-- EN: deathresting -->
-  <Deathresting>TODO</Deathresting>
+  <Deathresting>mélyalvás</Deathresting>
   <!-- EN: complete -->
   <Complete>TODO</Complete>
   <!-- EN: can wake safely now. -->
-  <CanWakeSafely>TODO</CanWakeSafely>
+  <CanWakeSafely>most már nyugodtan felébredhet.</CanWakeSafely>
   <!-- EN: Disabled by gene -->
   <DisabledByGene>TODO</DisabledByGene>
   <!-- EN: {PAWN_nameDef} is in critical condition. -->
-  <WakeDisabledCriticalCondition>TODO</WakeDisabledCriticalCondition>
+  <WakeDisabledCriticalCondition>{PAWN_nameDef} kritikus állapotban van.</WakeDisabledCriticalCondition>
   <!-- EN: Drain rate -->
   <DrainRate>TODO</DrainRate>
   <!-- EN: Regeneration rate -->

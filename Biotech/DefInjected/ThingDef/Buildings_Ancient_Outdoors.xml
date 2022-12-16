@@ -17,18 +17,18 @@
   <AncientExostriderLeg.description>TODO</AncientExostriderLeg.description>
   
   <!-- EN: ancient exostrider midsection -->
-  <AncientExostriderRemains.label>TODO</AncientExostriderRemains.label>
+  <AncientExostriderRemains.label>ősi lépegető középső rész</AncientExostriderRemains.label>
   <!-- EN: The remains of a massive, ancient exostrider war mechanoid. Long ago, some high-energy weapon shattered the body and fused the parts into an almost-solid mass.\n\nIn its guts, it looks like there is a still-functional transponder. If you could extract the transponder, you could decrypt it to gather valuable information.\n\nThe mech's incendiary weapon cells are intact but unstable, and will likely detonate after you do some damage. -->
-  <AncientExostriderRemains.description>TODO</AncientExostriderRemains.description>
+  <AncientExostriderRemains.description>Egy hatalmas, ősi lépegető harci robot maradványai. Réges-régen egy nagy energiájú fegyver szétzúzta a testet, és az alkatrészeket szinte szilárd tömeggé olvasztotta össze.\n\nA zsigereiben úgy tűnik, mintha egy még működőképes transzponder lenne. Ha ki tudná bontani a transzpondert, dekódolhatná, hogy értékes információkat gyűjtsön.\n\nA mech gyújtófegyver cellái épek, de instabilok, és valószínűleg felrobbannak, miután némi kárt okoz.</AncientExostriderRemains.description>
   <!-- EN: Ancient mech -->
-  <AncientExostriderRemains.comps.CompProximityLetter.letterLabel>TODO</AncientExostriderRemains.comps.CompProximityLetter.letterLabel>
+  <AncientExostriderRemains.comps.CompProximityLetter.letterLabel>Ősi robot</AncientExostriderRemains.comps.CompProximityLetter.letterLabel>
   <!-- EN: Passing near the remains of an ancient exostrider mechanoid, {PAWN_nameDef} noticed an (*Reward)intact transponder(/Reward) inside.\n\nIf you could get the transponder, you could read valuable information from it. The massive mech is smashed and fused into a solid piece. You must destroy it to retrieve the transponder.\n\nBe careful - the incendiary weapon cells look (*Threat)unstable(/Threat) and will likely detonate after you do some damage. -->
-  <AncientExostriderRemains.comps.CompProximityLetter.letterText>TODO</AncientExostriderRemains.comps.CompProximityLetter.letterText>
+  <AncientExostriderRemains.comps.CompProximityLetter.letterText>Egy ősi lépegető robot maradványai mellett elhaladva {PAWN_nameDef} egy (*Reward)sértetlen transzpondert(/Reward) vett észre benne.\n\nHa megszerezné a transzpondert, értékes információkat olvashatna ki belőle. A masszív robot összetört és szilárd darabká olvadt össze. A transzponder visszaszerzéséhez meg kell semmisítened.\n\nLégy óvatos - a gyújtófegyver-cellák (*Threat)instabilnak(/Threat) tűnnek és valószínűleg felrobbannak, miután némi kárt okozol.</AncientExostriderRemains.comps.CompProximityLetter.letterText>
   <!-- EN: Available: {LEAVINGS1_label} -->
-  <AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>TODO</AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>
+  <AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>Elérhető: {LEAVINGS1_label}</AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>
   <!-- EN: A {LEAVINGS1_label} has been left behind after an explosion. It can be decrypted at a research bench.\n\nSelect a colonist and right-click it to decrypt it. -->
-  <AncientExostriderRemains.comps.CompLeavingsLetter.letterText>TODO</AncientExostriderRemains.comps.CompLeavingsLetter.letterText>
+  <AncientExostriderRemains.comps.CompLeavingsLetter.letterText>A robbanás után egy {LEAVINGS1_label} maradt hátra. Egy kutatópadon visszafejthető.\n\nVálassz ki egy telepest, és kattints rá jobb gombbal a visszafejtéséhez.</AncientExostriderRemains.comps.CompLeavingsLetter.letterText>
   <!-- EN: Contains an ancient mechanoid transponder. -->
-  <AncientExostriderRemains.comps.CompInspectString.inspectString>TODO</AncientExostriderRemains.comps.CompInspectString.inspectString>
+  <AncientExostriderRemains.comps.CompInspectString.inspectString>Egy ősi robot transzpondert tartalmaz.</AncientExostriderRemains.comps.CompInspectString.inspectString>
   
 </LanguageData>

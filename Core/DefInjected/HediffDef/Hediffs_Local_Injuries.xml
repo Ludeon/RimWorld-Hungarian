@@ -6,15 +6,15 @@
   <!-- EN: A bite wound. -->
   <Bite.description>TODO</Bite.description>
   <!-- EN: bite scar -->
-  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>harapási heg</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Bitten off -->
-  <Bite.injuryProps.destroyedLabel>TODO</Bite.injuryProps.destroyedLabel>
+  <Bite.injuryProps.destroyedLabel>Leharapott</Bite.injuryProps.destroyedLabel>
   <!-- EN: Bitten out -->
-  <Bite.injuryProps.destroyedOutLabel>TODO</Bite.injuryProps.destroyedOutLabel>
+  <Bite.injuryProps.destroyedOutLabel>Kiharapva</Bite.injuryProps.destroyedOutLabel>
   <!-- EN: a bite wound -->
-  <Bite.labelNoun>TODO</Bite.labelNoun>
+  <Bite.labelNoun>harapott seb</Bite.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Bite.labelNounPretty>TODO</Bite.labelNounPretty>
+  <Bite.labelNounPretty>{1} {0}</Bite.labelNounPretty>
   
   <!-- EN: bruise -->
   <Bruise.label>zúzódás</Bruise.label>
@@ -28,7 +28,7 @@
   <!-- EN: burn -->
   <Burn.label>égés</Burn.label>
   <!-- EN: A burn. -->
-  <Burn.description>TODO</Burn.description>
+  <Burn.description>Égés.</Burn.description>
   <!-- EN: burn scar -->
   <Burn.comps.HediffComp_GetsPermanent.permanentLabel>égésheg</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off -->
