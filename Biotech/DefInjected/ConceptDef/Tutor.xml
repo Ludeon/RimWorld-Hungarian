@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: babies -->
-  <Babies.label>TODO</Babies.label>
+  <Babies.label>babák</Babies.label>
   <!-- EN: Babies can't walk and must be taken care of. In the work tab, assign someone to childcare.\n\nYou can use the baby's 'feeding' tab to assign specific people to feed the baby. Alternatively, colonists assigned to childcare will feed babies food they can eat, such as baby food, milk, and insect jelly. You can produce baby food at a stove or campfire.\n\nBabies can sleep in beds or cribs. A high quality crib will make a baby happy. You can also place multiple cribs in a bedroom without turning it into a barracks.\n\nBabies become children at age 3. By default, babies age 4x faster than adults. You can adjust this in storyteller challenge settings. -->
-  <Babies.helpText>TODO</Babies.helpText>
+  <Babies.helpText>A babák nem tudnak járni és gondoskodni kell róluk. A Beosztás lapon rendelj hozzá valakit a Dada/Gyermekfelügyelet-hez.\n\nA baba 'etetés' lapján konkrét személyeket rendelhetsz hozzá a baba etetéséhez. Alternatív megoldásként a gyermekgondozásra kijelölt telepesek táplálékkal etetik a csecsemőket, amelyeket megehetnek, például bébiételt, tejet és rovarzselét. Bébiételt tűzhelyen vagy tábortűzön is készíthetsz.\n\nA babák ágyban vagy kiságyban alhatnak. A jó minőségű kiságy boldoggá teszi a babát. Több kiságyat is elhelyezhetsz egy hálószobában anélkül, hogy laktanyává alakítanád azt.\n\nA babák 3 éves korukban válnak gyermekké. Alapértelmezés szerint a babák négyszer gyorsabban öregszenek, mint a felnőttek. Ezt a mesemondói kihívás beállításaiban módosíthatod.</Babies.helpText>
   
   <!-- EN: children -->
-  <Children.label>TODO</Children.label>
+  <Children.label>gyermekek</Children.label>
   <!-- EN: As they get older, children gain traits and passions, and become able to do more work types.\n\nChildren have a learning need which can be fulfilled several ways. You can see the learning activities that a child desires on their Needs tab. Children will only do learning activities when their schedule is set to Recreation or Anything. A satisfied learning need helps a child gain growth tiers faster, resulting in more passions and choices during growth moments.\n\nChildren can only wear special child-sized apparel.\n\nChildren become adults at age 13. By default, children age 4x faster than adults. You can adjust this in storyteller challenge settings. -->
-  <Children.helpText>TODO</Children.helpText>
+  <Children.helpText>Ahogy idősödnek, a gyerekek sajátosságokat és szenvedélyeket szereznek, és egyre több munkatípust tudnak végezni.\n\nA gyerekeknek van tanulási szükségletük, amelyet többféleképpen lehet kielégíteni. A Szükség lapon megtekintheted azokat a tanulási tevékenységeket, amelyekre a gyermek vágyik. A gyerekek csak akkor végeznek tanulási tevékenységet, ha az ütemtervük Szabadidő vagy Bármi beállításra van állítva. A kielégített tanulási igény elősegíti, hogy a gyermek gyorsabban elérje a növekedési szinteket, ami több szenvedélyt és választási lehetőséget eredményez a növekedés pillanataiban.\n\nA gyerekek csak speciális, gyerekméretű ruházatot viselhetnek.\n\nA gyermekek 13 éves korukban válnak felnőtté. Alapértelmezés szerint a gyerekek öregszenek. Ez 4x gyorsabb, mint a felnőtteknél. Ezt a mesemondói kihívás beállításaiban módosíthatod.</Children.helpText>
   
   <!-- EN: Deathrest -->
-  <Deathrest.label>TODO</Deathrest.label>
+  <Deathrest.label>Mélyalvás</Deathrest.label>
   <!-- EN: Colonists with the deathrest gene must periodically regenerate themselves in a special coma called deathrest. This takes several days.\n\nSpecial machines placed near the casket can give bonuses to the deathrester. A person can only connect to a limited number of machines - this number is shown by their deathrest capacity.\n\nYou can increase deathrest capacity by injecting deathrest capacity serums. These can be purchased from traders. -->
-  <Deathrest.helpText>TODO</Deathrest.helpText>
+  <Deathrest.helpText>A mélyalvás génnel rendelkező telepeseknek időnként regenerálódniuk kell egy speciális kómában, amelyet mélyalvásnak neveznek. Ez több napot vesz igénybe.\n\nA koporsó közelében elhelyezett speciális gépek bónuszokat adhatnak a mélyalvónak. Egy személy csak korlátozott számú géphez tud csatlakozni – ezt a számot a mélyalvó-kapacitásuk mutatja.\n\nNövelheted ezt a mélyalvást okozó szérumok befecskendezésével. Ezeket a kereskedőktől lehet megvásárolni.</Deathrest.helpText>
   
   <!-- EN: Genes and xenotypes -->
   <GenesAndXenotypes.label>Gének és xenotípusok</GenesAndXenotypes.label>
@@ -27,9 +27,9 @@
   <Mechanitors.helpText>A robotmesterek csatoló implantátumot használnak a robotok vezérlésére.\n\nA robotok vezérlőcsoportokhoz vannak rendelve. Megváltoztathatod a vezérlőcsoport viselkedési módját a robot vagy a robotmester kiválasztásával, majd a vezérlőcsoport viselkedési mód ikonjára kattintva. Felszerelések és implantátumok növelhetik a vezérlőcsoportok számát.\n\nA robotmesterek csak bizonyos számú robot vezérléséhez rendelkeznek elegendő sávszélességgel. A speciális robotmester felszerelések és épületek tovább növelhetik a teljes sávszélességét.\n\nA ROBOTOK lap áttekintést nyújt a kolóniád robotjairól. Itt robotokat sorozhatsz be, módosíthatod a vezérlőcsoportjukat, beállíthatod a megengedett területeket és még sok mást.\n\nA robotmesterek erős ellenséges szuperrobotokat is segítségük hívhatnak. Ezek a szuperrobotok egyedi chipeket dobnak le, amelyek felhasználhatók a robottechnológia fejlesztésére és speciális egységek építésére.</Mechanitors.helpText>
   
   <!-- EN: Mechs in caravans -->
-  <MechsInCaravans.label>TODO</MechsInCaravans.label>
+  <MechsInCaravans.label>Robotok karavánokban</MechsInCaravans.label>
   <!-- EN: While caravanning, mechanoids enter a semi-dormant long-travel state to preserve power. This allows them to travel long distances without losing energy. After arriving at their destination, mechanoids will automatically return to their previous work mode. -->
-  <MechsInCaravans.helpText>TODO</MechsInCaravans.helpText>
+  <MechsInCaravans.helpText>Karavánozás közben a robotok félig alvó, hosszú utazási állapotba kerülnek, hogy megőrizzék erejüket. Ez lehetővé teszi számukra, hogy nagy távolságokat tegyenek meg energiaveszteség nélkül. Miután megérkeztek a rendeltetési helyükre, a robotok automatikusan visszatérnek korábbi munkamódjukba.</MechsInCaravans.helpText>
   
   <!-- EN: polluted terrain -->
   <PollutedTerrain.label>szennyezett terep</PollutedTerrain.label>

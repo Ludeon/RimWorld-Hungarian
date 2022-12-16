@@ -1,4 +1,4 @@
-Jegyzet a fogalmakhoz, egységesítés szükséges.
+## Jegyzet a fogalmakhoz, egységesítés szükséges.
 
 HA VAN JOBB ÖTLETED, JELEZD! => rimworld@malvern.hu
 
@@ -13,31 +13,54 @@ biosculpter - fiatalító gép? testátalakító gép
 
 growth vat - növekedési kád, növesztő kád
 
+gunlink - fegyverlencse?, célzóberendezés?
+
+### MECHS
+
 mechanitor - robotmester (gépész?, technikus?, gépfelügyelő?)
+
 mechanoid - robot
+
 mechlink - gépkapcsolat, robot link, kapcsolódás egy robothoz implantátummal
-deathrest - alvás, vámpír módra "pihenés"?
+
+
+deathrest - mélyalvás, tetszhalál?, "halálos nyugalom"?, vámpír módra "pihenés"?
+
 
 ARCHOTECH
 archite - archita (apró gépek idegen techológiából)
 
-XENOTYPES
+### XENOTYPES - xenotípusok
+
 baseliner - alapvonal?, közönséges emberek, módosítás nélkül
+
 dirtmole - vakondemberek
+
 genie - dzsinn?, törékeny, de hideg és számító mérnökök
+
 highmate - ágyas, megtervezett élettársak
+
 impid - impida
+
 pigskin - disznóbőr?, disznóember
+
 waster - guberáló, turkász, pazarló?, szennyezett területen élő túlélőművészek
+
 yttakin - yttakin (szőrös, hidegtűrő népek)
+
 neanderthal - neandervölgyi
+
 sanguophage - vérivó, szanguofág?
 
 
 psycasters - pszí használó, pszichaszter?
 
-DROGOK
+### DROGOK
+
 smokeleaf - marihuána, füstlevél?, esetleg dohánylevél
+
 yayo - kokain
+
 flake - crack
+
 go-juice - gojuice?

@@ -7,7 +7,7 @@ Official Hungarian translation of RimWorld. // A Rimworld hivatalos magyar ford√
 ## Translators:
 - pluhi
 - mosszo
-- gorrt (Malvern)
+- Malvern (gorrt)
 - Kanco09
 
 Some text used from the old partial translation created by:

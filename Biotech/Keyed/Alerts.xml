@@ -2,13 +2,13 @@
 <LanguageData>
 
   <!-- EN: Uncontrolled mechs -->
-  <AlertMechLacksOverseer>TODO</AlertMechLacksOverseer>
+  <AlertMechLacksOverseer>Irányítatlan robotok</AlertMechLacksOverseer>
   <!-- EN: One or more of your mechanoids is not controlled. Connect your mechanoids to a mechanitor with sufficient bandwidth to control them.\n\nIf left uncontrolled for more than a day, a mechanoid could go feral. When this happens they will join {0} and become hostile to you. If one mechanoid goes feral, it will bring other nearby mechanoids with it.\n\nFeral mechanoids cannot be resurrected at a gestator when killed. -->
-  <AlertMechLacksOverseerDesc>TODO</AlertMechLacksOverseerDesc>
+  <AlertMechLacksOverseerDesc>Egy vagy több robot nincs vezérelve. Csatlakoztasd a robotokat egy megfelelő sávszélességű robotmesterhez a vezérlésükhöz.\n\nHa több mint egy napig nem irányítják, egy robot elvadulhat. Amikor ez megtörténik, csatlakoznak a(z) {0} frakcióhoz(?), és ellenségesek lesznek veled szemben. Ha az egyik robot elvadul, magával hoz más közeli robotokat is.\n\nAz elvadult mechanoidokat nem lehet feltámasztani egy gesztátornál, amikor megölték őket.</AlertMechLacksOverseerDesc>
   <!-- EN: The following mechanoids are uncontrolled -->
-  <AlertMechLacksOverseerUncontrolled>TODO</AlertMechLacksOverseerUncontrolled>
+  <AlertMechLacksOverseerUncontrolled>A következő mechanoidok nem irányítottak</AlertMechLacksOverseerUncontrolled>
   <!-- EN: The following mechanoids are uncontrolled and could go feral at any moment -->
-  <AlertMechLacksOverseerMayGoFeral>TODO</AlertMechLacksOverseerMayGoFeral>
+  <AlertMechLacksOverseerMayGoFeral>A következő robotok nem irányíthatók, és bármelyik pillanatban elvadulhatnak</AlertMechLacksOverseerMayGoFeral>
 
   <!-- EN: {0} is low on resources -->
   <AlertWarqueenHasLowResources>TODO</AlertWarqueenHasLowResources>
@@ -28,61 +28,61 @@
   <AlertLowHemogenDesc>TODO</AlertLowHemogenDesc>
 
   <!-- EN: Recharger full -->
-  <AlertRechargerFull>TODO</AlertRechargerFull>
+  <AlertRechargerFull>Töltő tele</AlertRechargerFull>
   <!-- EN: Some mech recharger(s) are storing their maximum number of toxic wastepacks. Mechs can't use these chargers until the toxic wastepacks are hauled away.\n\nSelect a colonist and right-click a recharger to unload it. -->
-  <AlertRechargerFullDesc>TODO</AlertRechargerFullDesc>
+  <AlertRechargerFullDesc>Egyes robot töltő(k) a maximális számú mérgező hulladékcsomagot tárolják. A robotok nem használhatják ezeket a töltőket, amíg el nem szállítod a mérgező hulladékcsomagokat.\n\nVálassz ki egy telepest, és kattints a jobb gombbal egy töltőre a kipucolásukhoz.</AlertRechargerFullDesc>
 
   <!-- EN: Need mech rechargers -->
-  <AlertNeedMechChargers>TODO</AlertNeedMechChargers>
+  <AlertNeedMechChargers>Robot-töltő kellene</AlertNeedMechChargers>
   <!-- EN: You don't have rechargers for all your mechanoids. If a mech runs out of energy, it will fall into a dormant self-charging state and will recharge very slowly.\n\nBuild more of the following chargers:\n\n{0}\n\nNote: Only light mechanoids can use regular mech rechargers. Medium or heavier mechanoids require large mech rechargers. -->
-  <AlertNeedMechChargersDesc>TODO</AlertNeedMechChargersDesc>
+  <AlertNeedMechChargersDesc>Nincs töltő minden robothoz. Ha egy robot kifogy az energiából, alvó öntöltő állapotba kerül, és csak nagyon lassan töltődik.\n\nKészíts többet a következő töltők közül:\n\n{0}\n\nMegjegyzés: Csak a könnyű robotok képesek használni a normál töltőt. A közepes vagy nehezebb robotok nagyméretű töltőkészülékeket igényelnek.</AlertNeedMechChargersDesc>
   <!-- EN: Research basic mechtech or higher to build rechargers. -->
-  <AlertNeedMechChargerBasicMechtech>TODO</AlertNeedMechChargerBasicMechtech>
+  <AlertNeedMechChargerBasicMechtech>Kutasd ki az alap robottechnológiát vagy magasabb szintű technológiát a robot töltők készítéséhez.</AlertNeedMechChargerBasicMechtech>
 
   <!-- EN: Reimplantation available -->
-  <AlertReimplantationAvailable>TODO</AlertReimplantationAvailable>
+  <AlertReimplantationAvailable>Beültetés elérhető</AlertReimplantationAvailable>
   <!-- EN: {0_nameDef} is waiting to reimplant {0_possessive} xenogerm into one of your colonists. -->
-  <AlertReimplantationAvailableDesc>TODO</AlertReimplantationAvailableDesc>
+  <AlertReimplantationAvailableDesc>{0_nameDef} arra vár, hogy újra beültesse a xenocsíráját az egyik telepesedbe.</AlertReimplantationAvailableDesc>
 
   <!-- EN: Low baby food -->
-  <AlertLowBabyFood>TODO</AlertLowBabyFood>
+  <AlertLowBabyFood>Kevés bébiétel</AlertLowBabyFood>
   <!-- EN: You are dangerously low on baby food.\n\n    Babies needing food: {0}\n    Days worth of baby food in storage: {1}\n\nBuy, find or make some baby-edible food. This includes {2}. -->
-  <AlertLowBabyFoodDesc>TODO</AlertLowBabyFoodDesc>
+  <AlertLowBabyFoodDesc>Veszélyesen kevés a bébiétel.\n\n Ételre szoruló csecsemők: {0}\n Bébiétel ennyi napra elegendő a raktárban: {1}\n\nVásárolj, keress vagy készíts bébiételeket. Ez magában foglalja a következőket: {2}.</AlertLowBabyFoodDesc>
   <!-- EN: No baby feeders -->
-  <AlertNoBabyFeeder>TODO</AlertNoBabyFeeder>
+  <AlertNoBabyFeeder>Nincsenek babaetetők</AlertNoBabyFeeder>
   <!-- EN: No {FACTION_pawnsPlural} are assigned to feed these babies, or they're all downed.\n\nAssign one of your {FACTION_pawnsPlural} to childcare or assign a lactating {FACTION_pawnSingular} to feed these babies with Urgent priority in the babies' feeding tab, and ensure at least one of them is not downed. -->
   <AlertNoBabyFeederDesc>TODO</AlertNoBabyFeederDesc>
 
   <!-- EN: No baby food in caravan -->
-  <AlertNoBabyFoodCaravan>TODO</AlertNoBabyFoodCaravan>
+  <AlertNoBabyFoodCaravan>Nincs bébiétel a karavánon</AlertNoBabyFoodCaravan>
   <!-- EN: Babies on this caravan have no baby food and no lactating {FACTION_pawnsPlural} are set to feed them. -->
-  <AlertNoBabyFoodCaravanDesc>TODO</AlertNoBabyFoodCaravanDesc>
+  <AlertNoBabyFoodCaravanDesc>Ebben a karavánban a babák nem kapnak bébiételt, és nincs beállítva a szoptató {FACTION_pawnsPlural}, hogy etesse őket.</AlertNoBabyFoodCaravanDesc>
 
   <!-- EN: Toxic buildup -->
-  <AlertToxicBuildup>TODO</AlertToxicBuildup>
+  <AlertToxicBuildup>Méreg felhalmozódás</AlertToxicBuildup>
   <!-- EN: These colonists have serious toxic buildup:\n\n{0}\n\nMove them away from toxic sources.\n\nToxic buildup can be caused by many things including toxic fallout, tox gas, and polluted terrain. -->
-  <AlertToxicBuildupDesc>TODO</AlertToxicBuildupDesc>
+  <AlertToxicBuildupDesc>Ezek a telepesek súlyos mérgezést kaptak:\n\n{0}\n\nVidd távol őket a mérgező forrásoktól!\n\nA mérgezés felhalmozódását számos dolog okozhatja, beleértve a mérgező csapadékot, a mérgező gázokat és a szennyezett területeket.</AlertToxicBuildupDesc>
 
   <!-- EN: Need baby cribs -->
-  <AlertNeedBabyCribs>TODO</AlertNeedBabyCribs>
+  <AlertNeedBabyCribs>Kiságyak kellenek</AlertNeedBabyCribs>
   <!-- EN: You have more babies than cribs.\n\nMake more cribs or, if you have no resources to spare, place some baby sleeping spots for free. -->
-  <AlertNeedBabyCribsDesc>TODO</AlertNeedBabyCribsDesc>
+  <AlertNeedBabyCribsDesc>Több babád van, mint kiságyad.\n\nKészíts több kiságyat, vagy ha nincs tartalék erőforrásod, helyezz el néhány babahálóhelyet ingyen.</AlertNeedBabyCribsDesc>
   <!-- EN: Need slave cribs -->
-  <AlertNeedSlaveCribs>TODO</AlertNeedSlaveCribs>
+  <AlertNeedSlaveCribs>Rabszolga kiságyak kellenek</AlertNeedSlaveCribs>
   <!-- EN: You have more slave babies than you have cribs marked for slave use.\n\nEither make more cribs or change a colonist crib to a slave crib.\n\nIf you have no resources, baby sleeping spots are free and can be placed instantly. -->
-  <AlertNeedSlaveCribsDesc>TODO</AlertNeedSlaveCribsDesc>
+  <AlertNeedSlaveCribsDesc>Több rabszolga babád van, mint ahány kiságy van rabszolga-használatra megjelölve.\n\nVagy készíts több kiságyat, vagy cseréld le a telepes kiságyat rabszolgaágyra.\n\nHa nincs erőforrásod, a babahálóhelyek ingyenesek, és azonnal elhelyezhetők.</AlertNeedSlaveCribsDesc>
 
   <!-- EN: Polluted terrain -->
-  <AlertPollutedTerrain>TODO</AlertPollutedTerrain>
+  <AlertPollutedTerrain>Szennyezett terep</AlertPollutedTerrain>
   <!-- EN: A person or animal is suffering toxic buildup and is on polluted terrain. Any time someone is on polluted terrain, their toxic buildup will increase over time until they die.\n\nThese people or animals are affected:\n\n{0}\n\nKeep people off polluted terrain, or find a way to protect them from its effects. Certain apparel, implants and gene modifications can protect from toxic buildup. Polluted terrain cannot be covered using a floor, but it can be cleaned by hand and other methods. -->
-  <AlertPollutedTerrainDesc>TODO</AlertPollutedTerrainDesc>
+  <AlertPollutedTerrainDesc>Egy személy vagy állat mérgezés felhalmozódástól szenved és szennyezett terepen tartózkodik. Bármikor, amikor valaki szennyezett terepen tartózkodik, a mérgezőanyag-felhalmozódása idővel növekedni fog, amíg meg nem hal.\n\nEzek az emberek vagy állatok érintettek:\n\n{0}\n\nTartsd távol az embereket a szennyezett tereptől, vagy találj módot arra, hogy megóvd őket annak hatásaitól. Bizonyos ruházati cikkek, implantátumok és génmódosítások megvédhetnek a mérgező anyagok felhalmozódásától. A szennyezett terepet padlóval nem lehet lefedni, de kézzel és más módszerekkel tisztítható.</AlertPollutedTerrainDesc>
 
   <!-- EN: Mechanoid missing part -->
-  <AlertMechMissingBodyPart>TODO</AlertMechMissingBodyPart>
+  <AlertMechMissingBodyPart>Robot hiányzó alkatrész</AlertMechMissingBodyPart>
   <!-- EN: Mechanoids missing parts -->
-  <AlertMechsMissingBodyPart>TODO</AlertMechsMissingBodyPart>
+  <AlertMechsMissingBodyPart>Robot hiányzó alkatrészek</AlertMechsMissingBodyPart>
   <!-- EN: One or more of your mechanoids are missing a body part. A mechanitor can repair lost parts.\n\nThe mechanoids with lost body parts are -->
-  <AlertMechMissingBodyPartDesc>TODO</AlertMechMissingBodyPartDesc>
+  <AlertMechMissingBodyPartDesc>Egy vagy több robotból hiányzik egy testrész. Egy robotmester meg tudja javítani az elveszett alkatrészeket.\n\nA hiányzó testrészekkel rendelkező robotok ezek</AlertMechMissingBodyPartDesc>
 
   <!-- EN: Mechanoid repair needed -->
   <AlertMechNeedsRepair>Robot javítása szükséges</AlertMechNeedsRepair>
@@ -92,28 +92,28 @@
   <AlertMechNeedsRepairDesc>Rendelj robotmestert a javításukra, vagy válaszd ki a robotot és kapcsold be az automatikus javítást. A robotok javítása energiát igényel. Ha egy robot energiája olyan alacsony, hogy nem tud mozogni, valakinek el kell vinnie egy töltőhöz.</AlertMechNeedsRepairDesc>
   
   <!-- EN: {0} stopped -->
-  <AlertToxifierGeneratorStopped>TODO</AlertToxifierGeneratorStopped>
+  <AlertToxifierGeneratorStopped>{0} leállt</AlertToxifierGeneratorStopped>
   <!-- EN: Your {0} is not producing power because it has no nearby fertile terrain to convert.\n\nClean polluted terrain with pollution pumps, or by assigning a pollution removal area. -->
-  <AlertToxifierGeneratorStoppedDesc>TODO</AlertToxifierGeneratorStoppedDesc>
+  <AlertToxifierGeneratorStoppedDesc>A(z) {0} nem termel áramot, mert nincs közeli termékeny terepe, amelyet átalakítani lehetne.\n\nTisztítsd meg a szennyezett terepet erre alkalmas szivattyúkkal vagy szennyezés-mentesítési terület kijelölésével.</AlertToxifierGeneratorStoppedDesc>
 
   <!-- EN: Psychic bond distance -->
-  <AlertPsychicBondedPawnsSeparated>TODO</AlertPsychicBondedPawnsSeparated>
+  <AlertPsychicBondedPawnsSeparated>Pszichés kötelék távolság</AlertPsychicBondedPawnsSeparated>
   <!-- EN: Some colonists with psychic bonds have been separated and are feeling negative effects from the distance. To avoid this, people with a psychic bond must be in the same world tile, caravan, or vehicle. Additionally, they must not be in cryptosleep or similar suspended animation.\n\nThe following people are affected -->
-  <AlertPsychicBondedPawnsSeparatedDesc>TODO</AlertPsychicBondedPawnsSeparatedDesc>
+  <AlertPsychicBondedPawnsSeparatedDesc>Néhány pszichés kötelékekkel rendelkező telepest elválasztottak, és távolság miatt negatív hatásokat éreznek. Ennek elkerülése érdekében a pszichés kötelékekkel rendelkező embereknek ugyanazon a világ mezőn, karavánban vagy járműben kell lenniük. Ezenkívül nem lehetnek kriptoalvásban vagy hasonló felfüggesztett animációban.\n\nA következő személyeket érinti</AlertPsychicBondedPawnsSeparatedDesc>
 
   <!-- EN: Gene bank needs power -->
-  <AlertGenebankUnpowered>TODO</AlertGenebankUnpowered>
+  <AlertGenebankUnpowered>A génbanknak áramra van szüksége</AlertGenebankUnpowered>
   <!-- EN: A gene bank is unpowered, so the genepacks inside it are slowly deteriorating. Restore power to the gene bank to prevent the genepacks from deteriorating.\n\nOnce the gene bank is powered, it will slowly reverse the deterioration of the genepacks inside it. -->
-  <AlertGenebankUnpoweredDesc>TODO</AlertGenebankUnpoweredDesc>
+  <AlertGenebankUnpoweredDesc>Egy génbank áramtalan, így a benne lévő géncsomagok lassan romlanak. Állítsd vissza a génbank áramellátását, hogy megakadályozd a géncsomagok romlását.\n\nMiután a génbank áram alá kerül, lassan visszafordítja a benne lévő géncsomagok romlását.</AlertGenebankUnpoweredDesc>
 
   <!-- EN: {0} incoming -->
-  <AlertBossgroupIncoming>TODO</AlertBossgroupIncoming>
+  <AlertBossgroupIncoming>{0} érkezik</AlertBossgroupIncoming>
   <!-- EN: Signaled by your mechanitor, a hostile {0} is approaching with its combat escort. Be prepared, this won't be an easy fight. The hostile mechanoids will arrive in a few hours or days. -->
-  <AlertBossgroupIncomingDesc>TODO</AlertBossgroupIncomingDesc>
+  <AlertBossgroupIncomingDesc>A robotmestered jelzésére egy ellenséges {0} közeledik a harci kísérettel. Készülj fel, ez nem lesz könnyű küzdelem. Az ellenséges robotok néhány órán vagy napon belül megérkeznek.</AlertBossgroupIncomingDesc>
 
   <!-- EN: Deathrest complete -->
-  <AlertDeathrestComplete>TODO</AlertDeathrestComplete><!-- text_todo -->
+  <AlertDeathrestComplete>Mélyalvás befejezve</AlertDeathrestComplete>
   <!-- EN: The following people have completed their deathrest and can wake up safely -->
-  <AlertDeathrestCompleteDesc>TODO</AlertDeathrestCompleteDesc><!-- text_todo -->
+  <AlertDeathrestCompleteDesc>A következő személyek befejezték mélyalvás pihenőjüket és biztonságosan felébredhetnek</AlertDeathrestCompleteDesc>
 
 </LanguageData>

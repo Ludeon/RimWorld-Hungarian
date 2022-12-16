@@ -364,15 +364,15 @@
   
   <!-- Beggars -->
   <!-- EN: Give {0} to {1_nameDef} -->
-  <GiveItemsTo>TODO</GiveItemsTo>
+  <GiveItemsTo>{0} megadása {1_nameDef} számára</GiveItemsTo>
   <!-- EN: Cannot give {0} to {1_nameDef} -->
-  <CannotGiveItemsTo>TODO</CannotGiveItemsTo>
+  <CannotGiveItemsTo>Nem adható {0} a következőnek: {1_nameDef}</CannotGiveItemsTo>
   <!-- EN: No item found -->
-  <NoItemFound>TODO</NoItemFound>
+  <NoItemFound>Nem található a tárgy</NoItemFound>
 
   <!-- Outfits -->
   <!-- EN: Slave -->
-  <OutfitSlave>TODO</OutfitSlave>
+  <OutfitSlave>Rabszolga</OutfitSlave>
 
   <!-- Hacking -->
   <!-- EN: Hack progress -->
