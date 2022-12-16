@@ -19,11 +19,11 @@
   -->
   <NamerFestivalGlobal.rulePack.rulesStrings>
     <li>festivalName(p=10)->[memeAdjective] [festival]</li>
-    <li>[chosenTheme] festivalName->[festival]</li>
+    <li>festivalName->[chosenTheme] [festival]</li>
     <li>festivalName->[chosenAdjective] [festival]</li>
-    <li>[keyDeity] festivalName->[festival_genitive]</li>
-    <li>[memeConcept] festivalName->[festival_genitive]</li>
-    <li>[chosenIdeoName] festivalName->[festival_genitive]</li>
+    <li>festivalName->[keyDeity] [festival_genitive]</li>
+    <li>festivalName->[memeConcept] [festival_genitive]</li>
+    <li>festivalName->[chosenIdeoName] [festival_genitive]</li>
     <li>festival->fesztivál</li>
     <li>festival->ünnep</li>
     <li>festival->buli</li>
