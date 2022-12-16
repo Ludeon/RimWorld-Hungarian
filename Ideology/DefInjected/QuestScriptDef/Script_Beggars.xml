@@ -49,7 +49,37 @@
     <li>moveOnInfo(beggarCount==1)->[beggars0_nameDef] will move on after [visitDurationTicks_duration]</li>
     <li>moveOnInfo(beggarCount>=2)->The [groupLabelPlural] will move on after [visitDurationTicks_duration]</li>
   -->
-  <Beggars.questDescriptionRules.rulesStrings>TODO</Beggars.questDescriptionRules.rulesStrings>
+  <Beggars.questDescriptionRules.rulesStrings>
+    <li>questDescription->[approachInfo]. [requestInfo]. [claimInfo].\n\n[interactionInfo].\n\n[moveOnInfo].\n\n[consequences]</li>
+    <li>approachInfo(beggarCount==1)->Egy szegény utazó közeledik segítségért, aki [beggars0_nameDef] névre hallgat</li>
+    <li>approachInfo(beggarCount>=2)->Szegény utazók egy csoportja közeledik segítségért</li>
+    <li>approachInfo(beggarCount>=2,childCount==1,priority=1)->Szegény utazók egy csoportja - közöttük egy gyermekkel - közeledik segítségért</li>
+    <li>approachInfo(beggarCount>=2,childCount>=2,allChildren==false,priority=1)->Szegény utazók egy csoportja közeledik segítségért, soraik között több gyermekkel</li>
+    <li>requestInfo(beggarCount==1)->[beggars0_nameDef] könyörög [beggingForInfo] készletért</li>
+    <li>requestInfo(beggarCount>=2)->Az utazók [beggingForInfo] készletért könyörögnek</li>
+    <li>beggingForInfo->x[requestedThingCount] [requestedThing_label]</li>
+    <li>claimInfo(beggarCount==1,requestedThingDefName==Silver)->[beggars0_nameDef] azt akarja, hogy az ezüsttel kifizethesse az adósságát egy rá vadászó kalózbanda számára</li>
+    <li>claimInfo(beggarCount==1,requestedThingDefName==Silver,childCount==1,priority=1)->[beggars0_nameDef] azt akarja, hogy az ezüst segítsen megváltani idősebb nővérének szabadságát, akit kalózok rabszolgává tettek</li>
+    <li>claimInfo(beggarCount==1,requestedThingDefName==MedicineHerbal)->[beggars0_nameDef] azért akarja a gyógyszert, hogy segíthessen egy közelben megsérült utazón</li>
+    <li>claimInfo(beggarCount==1,requestedThingDefName==MedicineHerbal,childCount==1,priority=1)->[beggars0_nameDef] azért szeretné a gyógyszert, hogy segítsen a kis testvérének, aki megsérült a közelben</li>
+    <li>claimInfo(beggarCount==1,requestedThingDefName==MedicineIndustrial)->[beggars0_nameDef] azt akarja, hogy a gyógyszer megmentse a házi kedvencét, aki megsérült az úton</li>
+    <li>claimInfo(beggarCount==1,requestedThingDefName==Penoxycyline)->[beggars0_nameDef] azért akarja a [requestedThing_label] adagot, hogy beolthassa beteg barátját a halálos betegségek ellen</li>
+    <li>claimInfo(beggarCount==1,requestedThingDefName==Beer)->[beggars0_nameDef] azt akarja, hogy elfojtsa bánatát, miután elveszítette útitársát egy szörnyű balesetben</li>
+    <li>claimInfo(beggarCount==1,requestedThingDefName==Beer,childCount==1,priority=1)->[beggars0_nameDef] azt szeretné, ha a [requestedThing_label] segítene enyhíteni egy fájdalmasan beteg nagybácsi szenvedését</li>
+    <li>claimInfo(beggarCount>=2,requestedThingDefName==Silver)->Azért akarják az ezüstöt, hogy visszavásárolhassák egy barátjukat, akit nemrégiben elraboltak</li>
+    <li>claimInfo(beggarCount>=2,requestedThingDefName==MedicineHerbal)->Szükségük van a gyógyszerre, hogy életmentő műtétet végezzenek egy útitárson, akit robotok támadtak meg</li>
+    <li>claimInfo(beggarCount>=2,requestedThingDefName==MedicineHerbal,allChildren==true,priority=1)->Szükségük van a gyógyszerre, hogy kitaláljanak egy gyógymódot egy erős lázzal ágyhoz kötött barátjuk számára</li>
+    <li>claimInfo(beggarCount>=2,requestedThingDefName==MedicineIndustrial)->Szükségük van a gyógyszerre, hogy segítsenek barátaikon egy közeli településen, ahol fosztogatók pusztítottak</li>
+    <li>claimInfo(beggarCount>=2,requestedThingDefName==Penoxycyline)->Azt akarják, hogy a [requestedThing_label] segítsen abban, hogy biztonságosan utazhassanak, miközben új otthont keresnek</li>
+    <li>claimInfo(beggarCount>=2,requestedThingDefName==Beer)->Azt akarják, hogy a [requestedThing_label] segítsen nekik elfojtani bánatuk, miután elvesztették otthonukat egy szörnyű támadásban</li>
+    <li>claimInfo(beggarCount>=2,requestedThingDefName==Beer,allChildren==true,priority=1)->Azt remélik, hogy a [requestedThing_label] segítségével kiszabadíthatják barátjukat a rabszolgatartóktól azáltal, hogy leitatják az őröket, mielőtt kitörést rendeznének</li>
+    <li>interactionInfo(beggarCount==1)->A rászorulónak adhatsz a készletedből, ha kiválasztod egy telepesed és jobb gombbal [beggars0_nameDef] utazóra kattintasz</li>
+    <li>interactionInfo(beggarCount>=2)->A rászorulóknak adhatsz a készletedből, ha kiválasztod egy telepesed és jobb gombbal [beggars0_nameDef] utazóra kattintasz</li>
+    <li>moveOnInfo(beggarCount==1)->[beggars0_nameDef] távozni fog [visitDurationTicks_duration] után</li>
+    <li>moveOnInfo(beggarCount>=2)->Az utazók távozni fognak [visitDurationTicks_duration] után</li>
+    <li>consequences(beggarCount==1)->Ez a szerencsétlen nem tagja egyetlen frakciónak sem. Ha akarod, diplomáciai következmények nélkül dönthetsz úgy, hogy megölöd, letartóztatod, eladod őt vagy felhasználod a szerveit.</li>
+    <li>consequences(beggarCount>=2)->Ezek a szerencsétlenek nem tagjai egyetlen frakciónak sem. Ha akarod, diplomáciai következmények nélkül dönthetsz úgy, hogy megölöd, letartóztatod, eladod őket vagy felhasználod a szerveiket.</li>
+  </Beggars.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(beggarCount==1)->[beggarSingle] [seekingSingle] [alms]</li>
     <li>questName(beggarCount==1,childCount==1,priority=1)->young [beggarSingle] [seekingSingle] [alms]</li>
@@ -77,6 +107,28 @@
     <li>alms->charity</li>
     <li>alms->resources</li>
   -->
-  <Beggars.questNameRules.rulesStrings>TODO</Beggars.questNameRules.rulesStrings>
+  <Beggars.questNameRules.rulesStrings>
+    <li>questName(beggarCount==1)->[egySzemely] [valamitKer]</li>
+    <li>questName(beggarCount>=2)->[tobbSzemely] [valamitKernek]</li>
+    <li>questName(beggarCount==1,childCount==1,priority=1)->[fiatal] [egySzemely] [valamitKer]</li>
+    <li>questName(beggarCount>=2,allChildren==true,priority=1)->[fiatal] [tobbSzemely] [valamitKernek]</li>
+    <li>fiatal->fiatal</li>
+    <li>fiatal->ifjú</li>
+    <li>fiatal->gyermek</li>
+    <li>egySzemely->koldus</li>
+    <li>egySzemely->csavargó</li>
+    <li>egySzemely->utazó</li>
+    <li>tobbSzemely->koldusok</li>
+    <li>tobbSzemely->csavargók</li>
+    <li>tobbSzemely->utazók</li>
+    <li>valamitKer->jótékonyságot kíván</li>
+    <li>valamitKer->alamizsnát remél</li>
+    <li>valamitKer->segélyt kér</li>
+    <li>valamitKer->ellátmányt szeretne</li>
+    <li>valamitKernek->jótékonyságot kívánnak</li>
+    <li>valamitKernek->alamizsnát remélnek</li>
+    <li>valamitKernek->segélyt kérnek</li>
+    <li>valamitKernek->ellátmányt szeretnének</li>
+  </Beggars.questNameRules.rulesStrings>
   
 </LanguageData>
