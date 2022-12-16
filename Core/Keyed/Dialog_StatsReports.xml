@@ -39,11 +39,11 @@
   <!-- EN: Post-process curve -->
   <StatsReport_PostProcessed>Utófeldolgozás</StatsReport_PostProcessed>
   <!-- EN: The chances to hit at increasing distances are -->
-  <StatsReport_ShootingExampleDistances>TODO</StatsReport_ShootingExampleDistances>
+  <StatsReport_ShootingExampleDistances>Az esélye, hogy egyre nagyobb távolságra találjanak el</StatsReport_ShootingExampleDistances>
   <!-- EN: Final value -->
   <StatsReport_FinalValue>Végeredmény</StatsReport_FinalValue>
   <!-- EN: Multiplier for {0} -->
-  <StatsReport_MultiplierFor>TODO</StatsReport_MultiplierFor>
+  <StatsReport_MultiplierFor>{0} szorzója</StatsReport_MultiplierFor>
   <!-- EN: Materials and labor -->
   <StatsReport_MarketValueFromStuffsAndWork>A piaci alapár az alapanyag és a szükséges munka függvénye.</StatsReport_MarketValueFromStuffsAndWork>
   <!-- EN: Quality multiplier -->
@@ -75,7 +75,7 @@
   <!-- EN: Multiplier for body size {0} -->
   <StatsReport_BodySize>{0} testméret szorzó</StatsReport_BodySize>
   <!-- EN: Damaged -->
-  <StatsReport_HasHediffExplanation>TODO</StatsReport_HasHediffExplanation>
+  <StatsReport_HasHediffExplanation>Sérült</StatsReport_HasHediffExplanation>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
   <StatsReport_MeleeDPSExplanation>DPS = Közelharci sebzés * Közelharci találati esély / Felkészülés mp-ben</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
@@ -87,7 +87,7 @@
   <!-- EN: {0} s -->
   <StatsReport_CooldownFormat>{0} mp</StatsReport_CooldownFormat>
   <!-- EN: Blocked by fences -->
-  <StatsReport_BlockedByFences>TODO</StatsReport_BlockedByFences>
+  <StatsReport_BlockedByFences>Kerítésekkel elzárva</StatsReport_BlockedByFences>
   <!-- EN: Roam interval -->
   <StatsReport_RoamInterval>TODO</StatsReport_RoamInterval>
   <!-- EN: Caravan rideable age -->
@@ -121,7 +121,7 @@
   <!-- EN: work to uninstall -->
   <StatsReport_WorkToUninstall>lebontás munkaigénye</StatsReport_WorkToUninstall>
   <!-- EN: Fence -->
-  <StatsReport_Fence>TODO</StatsReport_Fence>
+  <StatsReport_Fence>Kerítés</StatsReport_Fence>
   <!-- EN: Multiplier for growth {0} -->
   <StatsReport_PlantGrowth>Fejlődés szorzója {0}</StatsReport_PlantGrowth>
   <!-- EN: scaled because wild -->
@@ -345,37 +345,37 @@
   <!-- EN: The overall efficiency of this body part. -->
   <Stat_Thing_BodyPartEfficiency_Desc>A testrész általános hatékonysága.</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Install sites -->
-  <Stat_Thing_InstallSites>TODO</Stat_Thing_InstallSites>
+  <Stat_Thing_InstallSites>Beültetés helye</Stat_Thing_InstallSites>
   <!-- EN: Areas on the body where this can be installed. -->
-  <Stat_Thing_InstallSites_Desc>TODO</Stat_Thing_InstallSites_Desc>
+  <Stat_Thing_InstallSites_Desc>A test azon részei, ahová ezt be lehet ültetni.</Stat_Thing_InstallSites_Desc>
   <!-- EN: Replaces parts -->
-  <Stat_Thing_ReplacesParts>TODO</Stat_Thing_ReplacesParts>
+  <Stat_Thing_ReplacesParts>Helyettesített testrészek</Stat_Thing_ReplacesParts>
   <!-- EN: Body parts which are replaced by this when installed. -->
-  <Stat_Thing_ReplacesParts_Desc>TODO</Stat_Thing_ReplacesParts_Desc>
+  <Stat_Thing_ReplacesParts_Desc>Testrészek, amelyeket beszereléskor ez helyettesít.</Stat_Thing_ReplacesParts_Desc>
   <!-- EN: Biocoding -->
-  <Stat_Thing_Biocoded_Name>TODO</Stat_Thing_Biocoded_Name>
+  <Stat_Thing_Biocoded_Name>Biokódolás</Stat_Thing_Biocoded_Name>
   <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
-  <Stat_Thing_Biocoded_Desc>TODO</Stat_Thing_Biocoded_Desc>
+  <Stat_Thing_Biocoded_Desc>Ez az tárgy úgy van kódolva, hogy csak egy adott személy bio-aláírását fogadja el.</Stat_Thing_Biocoded_Desc>
   <!-- EN: Required apparel -->
-  <Stat_Pawn_RequiredApparel_Name>TODO</Stat_Pawn_RequiredApparel_Name>
+  <Stat_Pawn_RequiredApparel_Name>Kötelező ruházat</Stat_Pawn_RequiredApparel_Name>
   <!-- EN: Growth rate -->
-  <Stat_Thing_Plant_GrowthRate>TODO</Stat_Thing_Plant_GrowthRate>
+  <Stat_Thing_Plant_GrowthRate>Növekedési ütem</Stat_Thing_Plant_GrowthRate>
   <!-- EN: The rate at which a plant is growing.\n\nGrowth rate is affected by things like soil fertility, temperature, light, and environmental conditions. -->
-  <Stat_Thing_Plant_GrowthRate_Desc>TODO</Stat_Thing_Plant_GrowthRate_Desc>
+  <Stat_Thing_Plant_GrowthRate_Desc>A növény növekedési üteme.\n\n A növekedési sebességet olyan dolgok befolyásolják, mint a talaj termékenysége, a hőmérséklet, a fény és a környezeti feltételek.</Stat_Thing_Plant_GrowthRate_Desc>
   <!-- EN: Age -->
-  <Stat_Thing_Plant_Age>TODO</Stat_Thing_Plant_Age>
+  <Stat_Thing_Plant_Age>Kor</Stat_Thing_Plant_Age>
   <!-- EN: How long this has been alive. -->
-  <Stat_Thing_Plant_AgeDesc>TODO</Stat_Thing_Plant_AgeDesc>
+  <Stat_Thing_Plant_AgeDesc>Mióta él ez.</Stat_Thing_Plant_AgeDesc>
   <!-- EN: Lifespan -->
-  <Stat_Thing_Plant_Lifespan>TODO</Stat_Thing_Plant_Lifespan>
+  <Stat_Thing_Plant_Lifespan>Élettartam</Stat_Thing_Plant_Lifespan>
   <!-- EN: Paintable -->
-  <Stat_Building_Paintable>TODO</Stat_Building_Paintable>
+  <Stat_Building_Paintable>Festhető</Stat_Building_Paintable>
   <!-- EN: Whether this can be painted using dye. -->
-  <Stat_Building_PaintableDesc>TODO</Stat_Building_PaintableDesc>
+  <Stat_Building_PaintableDesc>Festhető-e festékkel.</Stat_Building_PaintableDesc>
   <!-- EN: Paint color -->
-  <Stat_Building_PaintColor>TODO</Stat_Building_PaintColor>
+  <Stat_Building_PaintColor>Festék színe</Stat_Building_PaintColor>
   <!-- EN: The color this building was painted. -->
-  <Stat_Building_PaintColorDesc>TODO</Stat_Building_PaintColorDesc>
+  <Stat_Building_PaintColorDesc>A szín, amelyre az épületet festették.</Stat_Building_PaintColorDesc>
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
@@ -416,106 +416,106 @@
   <Stat_Thing_Drug_AddictionCost_Desc>TODO</Stat_Thing_Drug_AddictionCost_Desc>
 
   <!-- EN: Style -->
-  <Stat_Thing_StyleLabel>TODO</Stat_Thing_StyleLabel>
+  <Stat_Thing_StyleLabel>Stílus</Stat_Thing_StyleLabel>
   <!-- EN: An object's style determines its appearance. This has no gameplay effect. Styles often form the differing methods of construction used by people of different beliefs and cultures. -->
-  <Stat_Thing_StyleDesc>TODO</Stat_Thing_StyleDesc>
+  <Stat_Thing_StyleDesc>Egy objektum stílusa határozza meg a megjelenését. Ennek nincs játékmeneti hatása. A stílusok gyakran alkotják a különböző hitű és kultúrájú emberek eltérő építési módszereit.</Stat_Thing_StyleDesc>
 
   <!-- EN: Gestation time -->
-  <Stat_Animal_GestationTime>TODO</Stat_Animal_GestationTime>
+  <Stat_Animal_GestationTime>Terhesség ideje</Stat_Animal_GestationTime>
   <!-- EN: The time this species takes to gestate its offspring or eggs. -->
-  <Stat_Animal_GestationTimeDesc>TODO</Stat_Animal_GestationTimeDesc>
+  <Stat_Animal_GestationTimeDesc>Az az idő, amelyre ennek a fajnak szüksége van utódainak kihordásához vagy tojásainak kikeléséhez.</Stat_Animal_GestationTimeDesc>
   <!-- EN: Litter size -->
-  <Stat_Animal_LitterSize>TODO</Stat_Animal_LitterSize>
+  <Stat_Animal_LitterSize>Alom mérete</Stat_Animal_LitterSize>
   <!-- EN: The number of offspring this creature creates per litter. If this is a range, any specific litter will have a random number of offspring in this range. -->
-  <Stat_Animal_LitterSizeDesc>TODO</Stat_Animal_LitterSizeDesc>
+  <Stat_Animal_LitterSizeDesc>Az almonkénti egyedek száma. Ha ez egy tartomány, akkor bármely alomnak véletlenszerű számú utóda lesz ebben a tartományban.</Stat_Animal_LitterSizeDesc>
   <!-- EN: Adult meat amount -->
-  <Stat_Animal_AdultMeatAmount>TODO</Stat_Animal_AdultMeatAmount>
+  <Stat_Animal_AdultMeatAmount>Felnőtt hús mennyisége</Stat_Animal_AdultMeatAmount>
   <!-- EN: The base amount of meat yielded by butchering an adult member of this species. The actual yield is affected by other factors such as damage to the body and butcher skill. -->
-  <Stat_Animal_AdultMeatAmountDesc>TODO</Stat_Animal_AdultMeatAmountDesc>
+  <Stat_Animal_AdultMeatAmountDesc>E faj egy felnőtt tagjának levágásából származó hús alapmennyisége. A tényleges hozamot egyéb tényezők is befolyásolják, mint például a test károsodása és a hentes készség.</Stat_Animal_AdultMeatAmountDesc>
   <!-- EN: Growth time -->
-  <Stat_Animal_GrowthTime>TODO</Stat_Animal_GrowthTime>
+  <Stat_Animal_GrowthTime>Növekedési idő</Stat_Animal_GrowthTime>
   <!-- EN: How long it normally takes for this creature to reach adulthood. This time will be longer if the creature starves. -->
-  <Stat_Animal_GrowthTimeDesc>TODO</Stat_Animal_GrowthTimeDesc>
+  <Stat_Animal_GrowthTimeDesc>Normális esetben mennyi időbe telik, amíg ez a lény eléri a felnőttkort. Ez az idő hosszabb lesz, ha a lény éhezik.</Stat_Animal_GrowthTimeDesc>
   <!-- EN: Meat per day during growth -->
-  <Stat_Animal_MeatPerDayDuringGrowth>TODO</Stat_Animal_MeatPerDayDuringGrowth>
+  <Stat_Animal_MeatPerDayDuringGrowth>Napi húsnövekedés</Stat_Animal_MeatPerDayDuringGrowth>
   <!-- EN: This creature gains this amount of meat for each day it grows, up until it reaches adulthood.\n\nThis value is calculated from the meat amount and growth time. -->
-  <Stat_Animal_MeatPerDayDuringGrowthDesc>TODO</Stat_Animal_MeatPerDayDuringGrowthDesc>
+  <Stat_Animal_MeatPerDayDuringGrowthDesc>Ez a lény minden növekedési napon ennyi húst nyer, egészen felnőttkoráig.\n\nEzt az értéket a hús mennyiségéből és a növekedési időből számítjuk ki.</Stat_Animal_MeatPerDayDuringGrowthDesc>
   <!-- EN: Grass to maintain -->
-  <Stat_Animal_GrassToMaintain>TODO</Stat_Animal_GrassToMaintain>
+  <Stat_Animal_GrassToMaintain>Fű szükséglet</Stat_Animal_GrassToMaintain>
   <!-- EN: The typical number of grass plants that this creature needs in order to fulfill its dietary needs. This is based on normal grass at typical growth rates and ignores winter. -->
-  <Stat_Animal_GrassToMaintainDesc>TODO</Stat_Animal_GrassToMaintainDesc>
+  <Stat_Animal_GrassToMaintainDesc>A fűfélék tipikus száma, amelyre ennek a lénynek szüksége van étkezési szükségleteinek kielégítéséhez. Ez normál növekedési ütemű normál füvön alapul, és figyelmen kívül hagyja a telet.</Stat_Animal_GrassToMaintainDesc>
   <!-- EN: Egg type -->
-  <Stat_Animal_EggType>TODO</Stat_Animal_EggType>
+  <Stat_Animal_EggType>Tojás típus</Stat_Animal_EggType>
   <!-- EN: The type of egg this creature lays. -->
-  <Stat_Animal_EggTypeDesc>TODO</Stat_Animal_EggTypeDesc>
+  <Stat_Animal_EggTypeDesc>Milyen típusú tojást rak ez a lény.</Stat_Animal_EggTypeDesc>
   <!-- EN: Eggs per year -->
-  <Stat_Animal_EggsPerYear>TODO</Stat_Animal_EggsPerYear>
+  <Stat_Animal_EggsPerYear>Tojás évente</Stat_Animal_EggsPerYear>
   <!-- EN: The number of eggs this creature will lay per year. Some creatures need to be fertilized to lay eggs. Egg laying will be slower if the creature starves. -->
-  <Stat_Animal_EggsPerYearDesc>TODO</Stat_Animal_EggsPerYearDesc>
+  <Stat_Animal_EggsPerYearDesc>A tojások száma évente. Egyes lényeket meg kell termékenyíteni a tojásrakáshoz. A tojásrakás lassabb lesz, ha a lény éhezik.</Stat_Animal_EggsPerYearDesc>
   <!-- EN: Egg nutrition -->
-  <Stat_Animal_EggNutrition>TODO</Stat_Animal_EggNutrition>
+  <Stat_Animal_EggNutrition>Tojás tápértéke</Stat_Animal_EggNutrition>
   <!-- EN: The amount of nutrition in a single egg laid by this creature. -->
-  <Stat_Animal_EggNutritionDesc>TODO</Stat_Animal_EggNutritionDesc>
+  <Stat_Animal_EggNutritionDesc>A táplálék mennyisége egyetlen tojásban, amelyet ez a lény rakott le.</Stat_Animal_EggNutritionDesc>
   <!-- EN: Egg nutrition per year -->
   <Stat_Animal_EggNutritionYearly>TODO</Stat_Animal_EggNutritionYearly>
   <!-- EN: The amount of yearly nutrition generated by eggs laid by this creature each year.\n\nThis value is calculated from eggs per year and egg nutrition. -->
-  <Stat_Animal_EggNutritionYearlyDesc>TODO</Stat_Animal_EggNutritionYearlyDesc>
+  <Stat_Animal_EggNutritionYearlyDesc>A lény által évente lerakott tojások által termelt éves tápérték mennyisége.\n\nEz az érték az évi tojásmennyiségből és a tojás tápértékéből van kiszámítva.</Stat_Animal_EggNutritionYearlyDesc>
   <!-- EN: Egg market value -->
-  <Stat_Animal_EggMarketValue>TODO</Stat_Animal_EggMarketValue>
+  <Stat_Animal_EggMarketValue>A tojás piaci értéke</Stat_Animal_EggMarketValue>
   <!-- EN: The market value of a single laid egg. -->
-  <Stat_Animal_EggMarketValueDesc>TODO</Stat_Animal_EggMarketValueDesc>
+  <Stat_Animal_EggMarketValueDesc>Egyetlen tojás piaci értéke.</Stat_Animal_EggMarketValueDesc>
   <!-- EN: Egg value per year -->
-  <Stat_Animal_EggMarketValueYearly>TODO</Stat_Animal_EggMarketValueYearly>
+  <Stat_Animal_EggMarketValueYearly>Tojás értéke évente</Stat_Animal_EggMarketValueYearly>
   <!-- EN: The total value of eggs normally laid over the course of a year.\n\nThis is calculated from eggs per year and egg market value. -->
-  <Stat_Animal_EggMarketValueYearlyDesc>TODO</Stat_Animal_EggMarketValueYearlyDesc>
+  <Stat_Animal_EggMarketValueYearlyDesc>Az egy év során általában lerakott tojások összértéke.\n\nEzt az évi tojásmennyiségből és a tojás piaci értékéből számítjuk ki.</Stat_Animal_EggMarketValueYearlyDesc>
   <!-- EN: Milk type -->
-  <Stat_Animal_MilkType>TODO</Stat_Animal_MilkType>
+  <Stat_Animal_MilkType>A tej típusa</Stat_Animal_MilkType>
   <!-- EN: The type of milk this creature produces. -->
-  <Stat_Animal_MilkTypeDesc>TODO</Stat_Animal_MilkTypeDesc>
+  <Stat_Animal_MilkTypeDesc>Milyen típusú tejet termel ez a lény.</Stat_Animal_MilkTypeDesc>
   <!-- EN: Milk amount -->
-  <Stat_Animal_MilkAmount>TODO</Stat_Animal_MilkAmount>
+  <Stat_Animal_MilkAmount>Tej mennyisége</Stat_Animal_MilkAmount>
   <!-- EN: The amount of milk this creature produces each time it is milked. -->
-  <Stat_Animal_MilkAmountDesc>TODO</Stat_Animal_MilkAmountDesc>
+  <Stat_Animal_MilkAmountDesc>Az a tejmennyiség, amelyet ez a lény minden fejéskor termel.</Stat_Animal_MilkAmountDesc>
   <!-- EN: Milking interval -->
-  <Stat_Animal_MilkGrowthTime>TODO</Stat_Animal_MilkGrowthTime>
+  <Stat_Animal_MilkGrowthTime>Fejési intervallum</Stat_Animal_MilkGrowthTime>
   <!-- EN: The amount of time this creature needs between milkings. -->
-  <Stat_Animal_MilkGrowthTimeDesc>TODO</Stat_Animal_MilkGrowthTimeDesc>
+  <Stat_Animal_MilkGrowthTimeDesc>Ennyi időre van szükség a lény egyes fejései között.</Stat_Animal_MilkGrowthTimeDesc>
   <!-- EN: Milk per year -->
-  <Stat_Animal_MilkPerYear>TODO</Stat_Animal_MilkPerYear>
+  <Stat_Animal_MilkPerYear>Tej évente</Stat_Animal_MilkPerYear>
   <!-- EN: The amount of milk produced by this animal over the course of a year.\n\nThis is calculated from milk amount and milking interval. -->
-  <Stat_Animal_MilkPerYearDesc>TODO</Stat_Animal_MilkPerYearDesc>
+  <Stat_Animal_MilkPerYearDesc>Az állat által egy év során termelt tej mennyisége.\n\nEzt a tejmennyiségből és a fejési időközből számítjuk ki.</Stat_Animal_MilkPerYearDesc>
   <!-- EN: Milk market value -->
-  <Stat_Animal_MilkValue>TODO</Stat_Animal_MilkValue>
+  <Stat_Animal_MilkValue>A tej piaci értéke</Stat_Animal_MilkValue>
   <!-- EN: The value of one unit of this creature's milk. -->
-  <Stat_Animal_MilkValueDesc>TODO</Stat_Animal_MilkValueDesc>
+  <Stat_Animal_MilkValueDesc>A lény tejének egy egységnyi értéke.</Stat_Animal_MilkValueDesc>
   <!-- EN: Milk value per year -->
-  <Stat_Animal_MilkValuePerYear>TODO</Stat_Animal_MilkValuePerYear>
+  <Stat_Animal_MilkValuePerYear>Tejérték évente</Stat_Animal_MilkValuePerYear>
   <!-- EN: The market value of one year's worth of milk from this creature, assuming it never goes hungry and is milked instantly at the end of each milk interval.\n\nThis is calculated from milk per year and milk market value. -->
-  <Stat_Animal_MilkValuePerYearDesc>TODO</Stat_Animal_MilkValuePerYearDesc>
+  <Stat_Animal_MilkValuePerYearDesc>Az ettől a lénytől származó egy évnyi tej piaci értéke, feltételezve, hogy soha nem éhezik, és minden fejési időszak végén azonnal megfejik.\n\nEzt az évi tejmennyiségből és a tej piaci értékéből számítjuk ki.</Stat_Animal_MilkValuePerYearDesc>
   <!-- EN: Wool type -->
-  <Stat_Animal_WoolType>TODO</Stat_Animal_WoolType>
+  <Stat_Animal_WoolType>Gyapjú típus</Stat_Animal_WoolType>
   <!-- EN: The type of wool produced by this creature. -->
-  <Stat_Animal_WoolTypeDesc>TODO</Stat_Animal_WoolTypeDesc>
+  <Stat_Animal_WoolTypeDesc>A lény által termelt gyapjú típusa.</Stat_Animal_WoolTypeDesc>
   <!-- EN: Wool amount -->
-  <Stat_Animal_WoolAmount>TODO</Stat_Animal_WoolAmount>
+  <Stat_Animal_WoolAmount>Gyapjú mennyiség</Stat_Animal_WoolAmount>
   <!-- EN: The amount of wool yielded by this creature each time it is shorn. -->
-  <Stat_Animal_WoolAmountDesc>TODO</Stat_Animal_WoolAmountDesc>
+  <Stat_Animal_WoolAmountDesc>A gyapjú mennyisége, amelyet ez a lény ad le minden alkalommal, amikor nyírják.</Stat_Animal_WoolAmountDesc>
   <!-- EN: Wool shearing interval -->
-  <Stat_Animal_WoolGrowthTime>TODO</Stat_Animal_WoolGrowthTime>
+  <Stat_Animal_WoolGrowthTime>Gyapjúnyírási intervallum</Stat_Animal_WoolGrowthTime>
   <!-- EN: The time after shearing before this creature can be shorn again. -->
-  <Stat_Animal_WoolGrowthTimeDesc>TODO</Stat_Animal_WoolGrowthTimeDesc>
+  <Stat_Animal_WoolGrowthTimeDesc>Az az idő, ami után a lény újra nyírhatóvá válik.</Stat_Animal_WoolGrowthTimeDesc>
   <!-- EN: Wool amount per year -->
-  <Stat_Animal_WoolPerYear>TODO</Stat_Animal_WoolPerYear>
+  <Stat_Animal_WoolPerYear>Gyapjú mennyisége évente</Stat_Animal_WoolPerYear>
   <!-- EN: The amount of wool produced by this creature per year.\n\nThis is calculated from wool amount and wool shearing interval. -->
-  <Stat_Animal_WoolPerYearDesc>TODO</Stat_Animal_WoolPerYearDesc>
+  <Stat_Animal_WoolPerYearDesc>A lény által évente termelt gyapjú mennyisége.\n\nEzt a gyapjúmennyiségből és a gyapjúnyírási intervallumból számítjuk ki.</Stat_Animal_WoolPerYearDesc>
   <!-- EN: Wool market value -->
-  <Stat_Animal_WoolValue>TODO</Stat_Animal_WoolValue>
+  <Stat_Animal_WoolValue>Gyapjú piaci értéke</Stat_Animal_WoolValue>
   <!-- EN: The market value of one unit of this creature's wool. -->
-  <Stat_Animal_WoolValueDesc>TODO</Stat_Animal_WoolValueDesc>
+  <Stat_Animal_WoolValueDesc>A lény egy egységnyi gyapjújának piaci értéke.</Stat_Animal_WoolValueDesc>
   <!-- EN: Wool value per year -->
-  <Stat_Animal_WoolValuePerYear>TODO</Stat_Animal_WoolValuePerYear>
+  <Stat_Animal_WoolValuePerYear>Gyapjú értéke évente</Stat_Animal_WoolValuePerYear>
   <!-- EN: The market value of one year's worth of wool from this creature.\n\nThis is calculated from wool amount per year and wool market value. -->
-  <Stat_Animal_WoolValuePerYearDesc>TODO</Stat_Animal_WoolValuePerYearDesc>
+  <Stat_Animal_WoolValuePerYearDesc>A lény egy évnyi gyapjújának piaci értéke.\n\nEz az éves gyapjúmennyiségből és a gyapjú piaci értékéből kerül kiszámításra.</Stat_Animal_WoolValuePerYearDesc>
 
   <!-- EN: How much of the total possible study you have performed on this object. -->
   <Stat_Studiable_Desc>Az összes lehetséges tanulmányból mennyit végzett ezen az objektumon.</Stat_Studiable_Desc>

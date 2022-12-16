@@ -256,61 +256,61 @@
 
   <!-- Genes -->
   <!-- EN: genes -->
-  <Genes>TODO</Genes>
+  <Genes>gének</Genes>
   <!-- EN: The genes associated with this xenotype. -->
-  <GenesDesc>TODO</GenesDesc>
+  <GenesDesc>Az ehhez a xenotípushoz kapcsolódó gének.</GenesDesc>
   <!-- EN: suppressed -->
-  <Suppressed>TODO</Suppressed>
+  <Suppressed>elnyomott</Suppressed>
   <!-- EN: active -->
-  <Active>TODO</Active>
+  <Active>aktív</Active>
   <!-- EN: This trait has been suppressed by a conflicting forced genetic trait or gene. It will not be active until all conflicts are removed -->
-  <SuppressedDesc>TODO</SuppressedDesc>
+  <SuppressedDesc>Ezt a tulajdonságot egy ellentmondó kényszerű genetikai tulajdonság vagy gén elnyomta. Nem lesz aktív, amíg az összes ütközést el nem távolítják</SuppressedDesc>
   <!-- EN: trait -->
-  <Trait>TODO</Trait>
+  <Trait>tulajdonság</Trait>
   <!-- EN: gene -->
-  <Gene>TODO</Gene>
+  <Gene>gén</Gene>
   <!-- EN: Added by gene -->
-  <AddedByGene>TODO</AddedByGene>
+  <AddedByGene>Gén által hozzáadva</AddedByGene>
   <!-- EN: Eject all -->
-  <EjectAll>TODO</EjectAll>
+  <EjectAll>Dobd ki az összeset</EjectAll>
   <!-- EN: Drop all contained genepacks onto the ground. -->
-  <EjectAllDesc>TODO</EjectAllDesc>
+  <EjectAllDesc>Dobd le az összes géncsomagot a földre.</EjectAllDesc>
   <!-- EN: Genepacks stored -->
-  <GenepacksStored>TODO</GenepacksStored>
+  <GenepacksStored>Géncsomagok tárolva</GenepacksStored>
   <!-- EN: Auto-load -->
-  <GenepackAutoLoad>TODO</GenepackAutoLoad>
+  <GenepackAutoLoad>Automatikus betöltés</GenepackAutoLoad>
   <!-- EN: If active, haulers will automatically store this genepack in a gene bank. -->
-  <GenepackAutoLoadDesc>TODO</GenepackAutoLoadDesc>
+  <GenepackAutoLoadDesc>Ha aktív, a fuvarozók automatikusan tárolják ezt a géncsomagot egy génbankban.</GenepackAutoLoadDesc>
   <!-- EN: Forced traits -->
-  <ForcedTraits>TODO</ForcedTraits>
+  <ForcedTraits>Erőltetett tulajdonságok</ForcedTraits>
   <!-- EN: Suppressed traits -->
-  <SuppressedTraits>TODO</SuppressedTraits>
+  <SuppressedTraits>Elfojtott tulajdonságok</SuppressedTraits>
   <!-- EN: These traits will be added. All conflicting traits will become suppressed. -->
-  <ForcedTraitsDesc>TODO</ForcedTraitsDesc>
+  <ForcedTraitsDesc>Ezek a tulajdonságok hozzáadódnak. Minden ütköző tulajdonság elnyomódik.</ForcedTraitsDesc>
   <!-- EN: Complexity -->
-  <Complexity>TODO</Complexity>
+  <Complexity>Bonyolultság</Complexity>
   <!-- EN: How much complexity this adds to the process of gene assembly. -->
-  <ComplexityDesc>TODO</ComplexityDesc>
+  <ComplexityDesc>Mennyire teszi bonyolulttá a génösszeállítás folyamatát.</ComplexityDesc>
   <!-- EN: Maximum complexity can be increased by building gene processors near the gene assembler. -->
-  <MaxComplexityDesc>TODO</MaxComplexityDesc>
+  <MaxComplexityDesc>A maximális komplexitás növelhető, ha génfeldolgozókat építünk a génösszeszerelő közelében.</MaxComplexityDesc>
   <!-- EN: Total complexity -->
-  <ComplexityTotal>TODO</ComplexityTotal>
+  <ComplexityTotal>Teljes bonyolultság</ComplexityTotal>
   <!-- EN: The total complexity of all the genes in use. -->
-  <ComplexityTotalDesc>TODO</ComplexityTotalDesc>
+  <ComplexityTotalDesc>Az összes használt gén teljes bonyolultsága.</ComplexityTotalDesc>
   <!-- EN: Metabolic efficiency -->
-  <Metabolism>TODO</Metabolism>
+  <Metabolism>Anyagcsere hatékonysága</Metabolism>
   <!-- EN: The total metabolic efficiency of these genes when assembled. High efficiency means a person needs less food; low efficiency means they must eat more. -->
-  <MetabolismDesc>TODO</MetabolismDesc>
+  <MetabolismDesc>E gének teljes metabolikus hatékonysága összeszerelve. A nagy hatékonyság azt jelenti, hogy egy személynek kevesebb ételre van szüksége; Az alacsony hatékonyság azt jelenti, hogy többet kell ennie.</MetabolismDesc>
   <!-- EN: Metabolic efficiency -->
-  <MetabolismTotal>TODO</MetabolismTotal>
+  <MetabolismTotal>Anyagcsere hatékonyság (teljes)</MetabolismTotal>
   <!-- EN: The total metabolic efficiency of all genes in the genome. High efficiency means a person needs less food; low efficiency means they must eat more. -->
-  <MetabolismTotalDesc>TODO</MetabolismTotalDesc>
+  <MetabolismTotalDesc>A genom összes génjének teljes metabolikus hatékonysága. A nagy hatékonyság azt jelenti, hogy egy személynek kevesebb ételre van szüksége; Az alacsony hatékonyság azt jelenti, hogy többet kell ennie.</MetabolismTotalDesc>
   <!-- EN: Number of genes -->
-  <NumberOfGenes>TODO</NumberOfGenes>
+  <NumberOfGenes>A gének száma</NumberOfGenes>
   <!-- EN: Gene price factors -->
-  <GenePriceFactors>TODO</GenePriceFactors>
+  <GenePriceFactors>Gén árának tényezői</GenePriceFactors>
   <!-- EN: any -->
-  <AnyLower>TODO</AnyLower>
+  <AnyLower>bármi</AnyLower>
   <!-- EN: Archite total -->
   <ArchitesTotal>TODO</ArchitesTotal>
   <!-- EN: Archite capsules -->
@@ -348,7 +348,7 @@
   <!-- EN: Remove this genepack from the loading list. -->
   <RemoveFromLoadingListDesc>TODO</RemoveFromLoadingListDesc> 
   <!-- EN: Recombine -->
-  <Recombine>TODO</Recombine>
+  <Recombine>Rekombinálni</Recombine>
   <!-- EN: Create a new implantable xenogerm using data from genepacks in your gene library. -->
   <RecombineDesc>TODO</RecombineDesc>
   <!-- EN: Genes -->
