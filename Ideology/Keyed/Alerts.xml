@@ -124,10 +124,10 @@
   <AlertCasketOpeningDesc>TODO</AlertCasketOpeningDesc>
 
   <!-- EN: Slave rebellion likely -->
-  <AlertSlaveRebellionLikely>TODO</AlertSlaveRebellionLikely>
+  <AlertSlaveRebellionLikely>Valószínű rabszolgalázadás</AlertSlaveRebellionLikely>
   <!-- EN: There are {REBELLIOUSCOUNT} slaves that are likely to initiate a rebellion. -->
-  <AlertSlaveRebellionLikelyRebelliousCount>TODO</AlertSlaveRebellionLikelyRebelliousCount>
+  <AlertSlaveRebellionLikelyRebelliousCount>{REBELLIOUSCOUNT} rabszolga valószínűleg lázadást kezdeményez.</AlertSlaveRebellionLikelyRebelliousCount>
   <!-- EN: A slave rebellion is expected to happen roughly once every {COMBINEDTIME}. Note that each slave's rebellion chance is independent, so if any one of them rebels they can take others with them.\n\n{REBEL_labelShort} is the most rebellious slave and is expected to initiate a rebellion roughly once every {INDIVIDUALTIME}. The following factors are affecting how often they will rebel: -->
-  <AlertSlaveRebellionLikelyMostRebellious>TODO</AlertSlaveRebellionLikelyMostRebellious>
+  <AlertSlaveRebellionLikelyMostRebellious>A rabszolgalázadás várhatóan nagyjából minden {COMBINEDTIME} alkalommal fog megtörténni. Vedd figyelembe, hogy minden rabszolga lázadási esélye független, így ha bármelyikük fellázad, magával vihet másokat is.\n\n{REBEL_labelShort} a leglázadóbb rabszolga, és várhatóan minden {INDIVIDUALTIME} alkalommal lázadást kezdeményez. A következő tényezők befolyásolják, hogy milyen gyakran lázadnak fel:</AlertSlaveRebellionLikelyMostRebellious>
   
 </LanguageData>

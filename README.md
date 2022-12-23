@@ -37,7 +37,7 @@ Ennek feltétele, hogy a tömörített magyar nyelvi fájlok ne legyenek a ját�
 Az alábbi elkészíti a tar állományokat a munkapéldányodból és telepíti azt a játék alá, 
 mintha a Ludeontól érkezett volna a hivatalos módon. 
 Ezzel a kiadásra szánt verzió működését tesztelheted.
-(a kicsomagot könyvtárakat törli a játék alól)
+(a kicsomagolt könyvtárakat törli a játék alól)
 
 ```bash
 ./rim-trans.sh -t
