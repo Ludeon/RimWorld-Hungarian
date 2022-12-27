@@ -11,6 +11,8 @@ spikecore - trófea?, skalp?, tüskemagos?
 biosculpter pod
 biosculpter - fiatalító gép? testátalakító gép
 
+cryptosleep - hibernáló kapszula
+
 growth vat - növekedési kád, növesztő kád
 
 gunlink - fegyverlencse?, célzóberendezés?
@@ -23,11 +25,13 @@ mechanoid - robot
 
 mechlink - gépkapcsolat, robot link, kapcsolódás egy robothoz implantátummal
 
+### Sanguophage
 
 deathrest - mélyalvás, tetszhalál?, "halálos nyugalom"?, vámpír módra "pihenés"?
 
 
-ARCHOTECH
+### ARCHOTECH
+
 archite - archita (apró gépek idegen techológiából)
 
 ### XENOTYPES - xenotípusok
@@ -52,6 +56,10 @@ neanderthal - neandervölgyi
 
 sanguophage - vérivó, szanguofág?
 
+
+### PSY
+
+psylink - pszi képesség (pszichikai, mágikus képesség)
 
 psycasters - pszí használó, pszichaszter?
 
