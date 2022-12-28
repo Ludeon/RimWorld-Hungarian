@@ -6,7 +6,7 @@ glitterworld - szupervilág
 urbworld - urbánus világ?
 
 certainty - bizonyosság, hitbéli meggyőződés?
-spikecore - trófea?, skalp?, tüskemagos?
+spikecore - tüskemagos, trófea?, skalp?
 
 biosculpter pod
 biosculpter - fiatalító gép? testátalakító gép
@@ -71,4 +71,4 @@ yayo - kokain
 
 flake - crack
 
-go-juice - gojuice?
+go-juice - go-juice? (katonai harci drog)

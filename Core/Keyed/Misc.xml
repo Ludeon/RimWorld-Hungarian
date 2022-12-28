@@ -43,7 +43,7 @@
   <!-- EN: Gender -->
   <Gender>Nem</Gender>
   <!-- EN: Sex -->
-  <Sex>TODO</Sex>
+  <Sex>Nem</Sex>
   <!-- EN: min -->
   <min>min</min>
   <!-- EN: max -->
@@ -139,9 +139,9 @@
   <SmoothStoneTerrainDesc>Lesimított {0} felület.</SmoothStoneTerrainDesc>
 
   <!-- EN:  (blueprint) -->
-  <BlueprintLabelExtra>(tervrajz)</BlueprintLabelExtra>
+  <BlueprintLabelExtra> (tervrajz)</BlueprintLabelExtra>
   <!-- EN:  (building) -->
-  <FrameLabelExtra>(állvány)</FrameLabelExtra>
+  <FrameLabelExtra> (állvány)</FrameLabelExtra>
 
   <!-- EN: Unaffiliated -->
   <FactionUnaffiliated>Nincs kapcsolatban</FactionUnaffiliated>
@@ -163,10 +163,10 @@
   <CouplesRoom>{2} tulajdonosai: {PAWN1_labelShort} és {PAWN2_labelShort}</CouplesRoom>
   
   <!-- EN: Important for this type of room. -->
-  <StatRelatesToCurrentRoom>TODO</StatRelatesToCurrentRoom>
+  <StatRelatesToCurrentRoom>Fontos az ilyen típusú szobákban.</StatRelatesToCurrentRoom>
   
   <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
-  <DeepResourceRemaining>TODO</DeepResourceRemaining>
+  <DeepResourceRemaining>{COUNT} {RESOURCE_label} a föld alatt.</DeepResourceRemaining>
   
   <!-- EN: (various) -->
   <VariousLabel>(többféle)</VariousLabel>
@@ -190,7 +190,7 @@
 
   <!-- Apparel Looks -->
   <!-- EN: variant of -->
-  <VariantOf>TODO</VariantOf>
+  <VariantOf>változata</VariantOf>
   
   <!-- Familial relationships -->
   <!-- EN: born to {0} -->

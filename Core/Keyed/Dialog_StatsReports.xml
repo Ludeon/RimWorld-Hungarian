@@ -89,7 +89,7 @@
   <!-- EN: Blocked by fences -->
   <StatsReport_BlockedByFences>Kerítésekkel elzárva</StatsReport_BlockedByFences>
   <!-- EN: Roam interval -->
-  <StatsReport_RoamInterval>TODO</StatsReport_RoamInterval>
+  <StatsReport_RoamInterval>Elkóbórlási időköz</StatsReport_RoamInterval>
   <!-- EN: Caravan rideable age -->
   <StatsReport_CaravanRideableAge>TODO</StatsReport_CaravanRideableAge>
   <!-- EN: Life expectancy -->
@@ -197,9 +197,9 @@
   <!-- EN: The attributes of this plant. -->
   <Stat_Thing_Plant_Attributes_Desc>Eme növény tulajdonságai.</Stat_Thing_Plant_Attributes_Desc>
   <!-- EN: Clothing (for nudity) -->
-  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>TODO</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>Ruházat (meztelenséghez)</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
   <!-- EN: Whether nudists will consider this item to be a piece of clothing. If not, nudists will never be bothered by wearing this. -->
-  <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>TODO</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>A nudisták ruhadarabnak fogják-e tekinteni ezt az elemet. Ha nem, akkor a nudistákat soha nem fogja zavarni az ilyen viselet.</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
   <Stat_Thing_Apparel_Covers_Desc>Milyen testrészeket fed.\n\nA páncélzat nem védi azokat a testrészeket, amiket nem fed.</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
@@ -379,41 +379,41 @@
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
-  <Stat_Thing_Drug_Chemical_Desc>TODO</Stat_Thing_Drug_Chemical_Desc>
+  <Stat_Thing_Drug_Chemical_Desc>Az aktív vegyi anyag ebben.\n\nBizonyos esetekben ugyanaz a vegyi anyag több különböző gyógyszerben is megtalálható. Ezek a különböző gyógyszerek ugyanazt a függőséget különböző módon elégítik ki.</Stat_Thing_Drug_Chemical_Desc>
   <!-- EN: The category this drug belongs to. -->
-  <Stat_Thing_Drug_Category_Desc>TODO</Stat_Thing_Drug_Category_Desc>
+  <Stat_Thing_Drug_Category_Desc>A gyógyszer ebbe a kategóriába tartozik.</Stat_Thing_Drug_Category_Desc>
   <!-- EN: The intensity of high gained per dose of this drug. -->
-  <Stat_Thing_Drug_HighGainPerDose_Desc>TODO</Stat_Thing_Drug_HighGainPerDose_Desc>
+  <Stat_Thing_Drug_HighGainPerDose_Desc>A drogból nyert hatás intenzitása adagonként.</Stat_Thing_Drug_HighGainPerDose_Desc>
   <!-- EN: How much this drug's high will decay each day. -->
-  <Stat_Thing_Drug_HighFallPerDay_Desc>TODO</Stat_Thing_Drug_HighFallPerDay_Desc>
+  <Stat_Thing_Drug_HighFallPerDay_Desc>Mennyire csökken a drog hatása minden nap.</Stat_Thing_Drug_HighFallPerDay_Desc>
   <!-- EN: How long this drug's high will last per dose.\n\nThis is calculated from the high gained per dose and the high fall rate. -->
-  <Stat_Thing_Drug_HighDurationPerDose_Desc>TODO</Stat_Thing_Drug_HighDurationPerDose_Desc>
+  <Stat_Thing_Drug_HighDurationPerDose_Desc>Mennyi ideig tart ennek a gyógyszernek a hatása adagonként.\n\nEzt az adagonkénti hatás-nyereségből és annak esési arányából számítjuk ki.</Stat_Thing_Drug_HighDurationPerDose_Desc>
   <!-- EN: How much a user's tolerance to the chemical will increase for each dose of this drug.\n\nThis can be different for different forms of the same chemical. -->
-  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>TODO</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
+  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>Mennyivel nő a felhasználó vegyszerrel szembeni toleranciája ennek a gyógyszernek minden egyes adagja esetén.\n\nEz ugyanazon hatóanyag különböző formáinál eltérő lehet.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
   <!-- EN: How much a user's tolerance to the chemical will fall per day. -->
-  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>TODO</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
+  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>Mennyivel csökken a felhasználó toleranciája a hatóanyaggal szemben naponta.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
   <!-- EN: The minimum tolerance required to become newly addicted to this drug.\n\nIf a user is below this tolerance level, they can't become newly addicted from taking a dose. -->
-  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>TODO</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
+  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>A minimális tolerancia, amely ahhoz szükséges, hogy újonnan függővé váljon ennek a kábítószernek.\n\nHa a droghasználó e toleranciaszint alatt van, nem válhat újonnan függővé egy adag bevételétől.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
   <!-- EN: An adult will only become addicted if they take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay. Some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one.\n\nNote that the safe dose interval depends on a person's body size. -->
-  <Stat_Thing_Drug_SafeDoseInterval_Desc>TODO</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>Egy felnőtt csak akkor válik függővé, ha ennél gyakrabban szedi a kábítószert.\n\nEzt a drog a függővel szembeni minimális toleranciájából, az adagonkénti tolerancianövekedésből és a tolerancia csökkenésének mértékéből számítjuk ki. Egyes drogoknak nincs biztonságos intervallumuk. Az ilyen szerek bármilyen adagtól függenek, még az első adagtól is.\n\nMegjegyzendő, hogy a biztonságos adagolási intervallum az ember testméretétől függ.</Stat_Thing_Drug_SafeDoseInterval_Desc>
   <!-- EN: The chance of a random overdose when taking this drug. Random overdoses can happen on any dose, whether it's a new user's first try or an experienced addict's hundredth hit. -->
-  <Stat_Thing_Drug_RandomODChance_Desc>TODO</Stat_Thing_Drug_RandomODChance_Desc>
+  <Stat_Thing_Drug_RandomODChance_Desc>Véletlenszerű túladagolás esélye a gyógyszer szedése során. Véletlenszerű túladagolás bármely adagnál előfordulhat, legyen szó egy új felhasználó első próbálkozásáról vagy egy tapasztalt függő századik találatáról.</Stat_Thing_Drug_RandomODChance_Desc>
   <!-- EN: The chance of addiction per dose of this drug.\n\nIf the drug has a minimum tolerance to addict, the tolerance must be above that level for this to apply. If there is no minimum tolerance, any dose can cause an addiction. -->
-  <Stat_Thing_Drug_Addictiveness_Desc>A drog addiktív hatása.</Stat_Thing_Drug_Addictiveness_Desc>
+  <Stat_Thing_Drug_Addictiveness_Desc>A kábítószer adagonkénti függőség kialakulásának esélye.\n\nHa a kábítószer minimális toleranciával rendelkezik a függővel szemben, akkor a tolerancia e szint felett kell, hogy legyen, hogy ez érvényes legyen. Ha nincs minimális tolerancia, bármelyik adag függőséget okozhat.</Stat_Thing_Drug_Addictiveness_Desc>
   <!-- EN: New addictions caused by this drug begin at this severity level.\n\nTaking more of the drug will increase addiction severity, while time will reduce it. -->
-  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>TODO</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
+  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>A kábítószer által okozott új függőségek ezen a súlyossági szinten kezdődnek.\n\nTöbb gyógyszert szedése  növeli a függőség súlyosságát, míg az idő csökkenti azt.</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
   <!-- EN: How long it takes to recover from an initial addiction to this drug.\n\nThis is be calculated from the new addiction severity divided by the rate of addiction recovery. An addiction which has been fed will take longer. -->
-  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>TODO</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
+  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>Mennyi ideig tart a gyógyszertől való kezdeti függőségből való felépülés.\n\nEzt az új függőség súlyosságának és a függőség felépülési arányának hányadosa alapján számítjuk ki. A táplált függőség tovább tart.</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
   <!-- EN: How much severity is added to an existing addiction for each dose of this drug.\n\nAddiction severity cannot go above 100%. -->
-  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>TODO</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
+  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>Mennyivel súlyosbítja a meglévő függőség mértékét ennek a gyógyszernek minden egyes adagja esetén.\n\nA függőség súlyossága nem haladhatja meg a 100%-ot.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
   <!-- EN: How often an addict needs to take a dose of this drug to feed the addiction and prevent withdrawal.\n\nThis is calculated from the addiction need fall rate and the need fill per dose. -->
-  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>TODO</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>Milyen gyakran kell egy függőnek bevennie egy adagot ebből a kábítószerből, hogy táplálja a függőséget és megelőzze az elvonást.\n\nEzt a függőség csökkenési arányából és az adagonkénti kitöltési szükségletből számítjuk ki.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
   <!-- EN: How much each dose of this drug fills an addict's need for the chemical. -->
-  <Stat_Thing_Drug_AddictionNeedOffset_Desc>TODO</Stat_Thing_Drug_AddictionNeedOffset_Desc>
+  <Stat_Thing_Drug_AddictionNeedOffset_Desc>Mennyivel elégíti ki a kábítószer minden egyes adagja a függőnek a hatóanyag iránti szükségletét.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
   <!-- EN: How quickly an addict's need for the chemical will fall. -->
-  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>TODO</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
+  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>Milyen gyorsan csökken a függőnek a hatóanyag iránti igénye.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
   <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
-  <Stat_Thing_Drug_AddictionCost_Desc>TODO</Stat_Thing_Drug_AddictionCost_Desc>
+  <Stat_Thing_Drug_AddictionCost_Desc>Azon kábítószerek piaci értéke, amelyeket naponta el kell fogyasztani a kábítószer-függőség fenntartásához anélkül, hogy elvonásba kerülne.\n\nEzt az értéket a függő dózisonkénti hatóanyag szükségletéből, a szükséglet csökkenésének mértékéből és a gyógyszer piaci értékéből számítjuk ki.\n\nNe feledd, hogy más módon is beszerezheted ugyanazt a hatóanyagot különböző költségek mellett.</Stat_Thing_Drug_AddictionCost_Desc>
 
   <!-- EN: Style -->
   <Stat_Thing_StyleLabel>Stílus</Stat_Thing_StyleLabel>
@@ -457,7 +457,7 @@
   <!-- EN: The amount of nutrition in a single egg laid by this creature. -->
   <Stat_Animal_EggNutritionDesc>A táplálék mennyisége egyetlen tojásban, amelyet ez a lény rakott le.</Stat_Animal_EggNutritionDesc>
   <!-- EN: Egg nutrition per year -->
-  <Stat_Animal_EggNutritionYearly>TODO</Stat_Animal_EggNutritionYearly>
+  <Stat_Animal_EggNutritionYearly>Tojás tápértéke évente</Stat_Animal_EggNutritionYearly>
   <!-- EN: The amount of yearly nutrition generated by eggs laid by this creature each year.\n\nThis value is calculated from eggs per year and egg nutrition. -->
   <Stat_Animal_EggNutritionYearlyDesc>A lény által évente lerakott tojások által termelt éves tápérték mennyisége.\n\nEz az érték az évi tojásmennyiségből és a tojás tápértékéből van kiszámítva.</Stat_Animal_EggNutritionYearlyDesc>
   <!-- EN: Egg market value -->

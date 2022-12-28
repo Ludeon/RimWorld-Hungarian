@@ -445,7 +445,7 @@
   <!-- EN: Covers -->
   <Covers>Befedi</Covers>
   <!-- EN: Created at -->
-  <CreatedAt>??? - Készült</CreatedAt>
+  <CreatedAt>Készítve ezzel</CreatedAt>
   <!-- EN: Layer -->
   <Layer>Réteg</Layer>
   <!-- EN: Cover effectiveness -->
@@ -471,47 +471,47 @@
   <!-- EN: Misc -->
   <MiscRecordsCategory>Egyéb</MiscRecordsCategory>
   <!-- EN: Chemical -->
-  <Chemical>TODO</Chemical>
+  <Chemical>Hatóanyag</Chemical>
   <!-- EN: High gain per dose -->
-  <HighGain>TODO</HighGain>
+  <HighGain>Hatás adagonként</HighGain>
   <!-- EN: High fall rate -->
-  <HighFallRate>TODO</HighFallRate>
+  <HighFallRate>Hatás csökkenési mértéke</HighFallRate>
   <!-- EN: High duration per dose -->
-  <HighDuration>TODO</HighDuration>
+  <HighDuration>Hatás időtartama adagonként</HighDuration>
   <!-- EN: Tolerance gain per dose -->
-  <ToleranceGain>TODO</ToleranceGain>
+  <ToleranceGain>Tolerancia növekedése adagonként</ToleranceGain>
   <!-- EN: Tolerance fall rate -->
-  <ToleranceFallRate>TODO</ToleranceFallRate>
+  <ToleranceFallRate>Tolerancia esési aránya</ToleranceFallRate>
   <!-- EN: New addiction min tolerance -->
-  <MinimumToleranceForAddiction>TODO</MinimumToleranceForAddiction>
+  <MinimumToleranceForAddiction>Új függőség minimum tolerancia</MinimumToleranceForAddiction>
   <!-- EN: Safe dose interval for adults -->
-  <SafeDoseInterval>TODO</SafeDoseInterval>
+  <SafeDoseInterval>Biztonságos adagolási intervallum felnőttek számára</SafeDoseInterval>
   <!-- EN: age {0}-{1} -->
   <AgeXToY>életkor: {0}-{1}</AgeXToY>
   <!-- EN: age {0}+ -->
   <AgePlus>életkor: {0}+</AgePlus>
   <!-- EN: New addiction chance -->
-  <Addictiveness>Addiktívság</Addictiveness>
+  <Addictiveness>Új függőség esélye</Addictiveness>
   <!-- EN: Addiction initial severity -->
-  <AddictionSeverityInitial>TODO</AddictionSeverityInitial>
+  <AddictionSeverityInitial>A függőség kezdeti súlyossága</AddictionSeverityInitial>
   <!-- EN: Addiction severity per dose -->
-  <AddictionSeverityPerDose>TODO</AddictionSeverityPerDose>
+  <AddictionSeverityPerDose>A függőség súlyossága adagonként</AddictionSeverityPerDose>
   <!-- EN: Addiction need fill per dose -->
-  <AddictionNeedOffset>TODO</AddictionNeedOffset>
+  <AddictionNeedOffset>A függőséget adagonként tölteni kell</AddictionNeedOffset>
   <!-- EN: Addiction need fall rate -->
-  <AddictionNeedFallRate>TODO</AddictionNeedFallRate>
+  <AddictionNeedFallRate>A függőség csökkenési aránya</AddictionNeedFallRate>
   <!-- EN: Addiction need dose interval -->
-  <AddictionNeedDoseInterval>TODO</AddictionNeedDoseInterval>
+  <AddictionNeedDoseInterval>Függőség szükséges dózis intervalluma</AddictionNeedDoseInterval>
   <!-- EN: Addiction recovery time -->
-  <AddictionRecoveryTime>TODO</AddictionRecoveryTime>
+  <AddictionRecoveryTime>Felépülési idő a függőségből</AddictionRecoveryTime>
   <!-- EN: Addiction cost -->
-  <AddictionCost>TODO</AddictionCost>
+  <AddictionCost>Függőség költsége</AddictionCost>
   <!-- EN: Random overdose chance -->
-  <RandomODChance>TODO</RandomODChance>
+  <RandomODChance>Véletlenszerű túladagolás esélye</RandomODChance>
   <!-- EN: Always safe -->
-  <AlwaysSafe>TODO</AlwaysSafe>
+  <AlwaysSafe>Mindig biztonságos</AlwaysSafe>
   <!-- EN: Never safe -->
-  <NeverSafe>TODO</NeverSafe>
+  <NeverSafe>Sosem biztonságos</NeverSafe>
   <!-- EN: {0} / day -->
   <PerDay>{0} / nap</PerDay>
   <!-- EN: {0} / hour -->
@@ -1259,7 +1259,7 @@
   <RoomRequirementNoAltars>TODO</RoomRequirementNoAltars>
 
   <!-- EN: Lifestage max food factor -->
-  <LifeStageMaxFood>TODO</LifeStageMaxFood>
+  <LifeStageMaxFood>Életszakasz max táplálékfaktor</LifeStageMaxFood>
 
   <!-- EN: Expand all -->
   <ExpandAllCategories>Összes kibontása</ExpandAllCategories>
@@ -1270,7 +1270,7 @@
   <TooltipDyeExplanation>A festék tinctoriából termeszthető, vagy kereskedőktől vásárolható.</TooltipDyeExplanation>
 
   <!-- EN: Zoom range {0} -->
-  <ZoomRange>TODO</ZoomRange>
+  <ZoomRange>Nagyítási tartomány: {0}</ZoomRange>
 
   <!-- Color picker -->
   <!-- EN: color temperature -->

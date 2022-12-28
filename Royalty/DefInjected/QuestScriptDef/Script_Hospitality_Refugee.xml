@@ -93,7 +93,7 @@
     <li>mutinyLetterText->[lodgersSingularOrPluralDef] [whoAskedToStay] [areIs] turning against you!\n\nIt seems [lodgersPronoun] had this treachery planned all along.</li>
     <li>areIs(lodgerCount==1)->is</li>
     <li>areIs(lodgerCount>=2)->are</li>
-    <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] leaving</li>
+    <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] távozóban</li>
     <li>lodgersLeavingLetterText->{FACTION_leaderNameDef} köszöni, hogy engedélyezted számára, hogy [map_definite] helyen maradjon [questDurationTicks_duration] időtartamon keresztül. Ő most továbbáll az embereivel.\n\n{FACTION_leaderNameDef} nem felejti el, amit tettél érte.</li>
   </Hospitality_Refugee.questContentRules.rulesStrings>
   <!-- EN:
