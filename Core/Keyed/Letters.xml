@@ -136,7 +136,7 @@
   <!-- EN: {1} died: {0} -->
   <LetterLeadersDeathLabel>{1} halál: {0}</LetterLeadersDeathLabel>
   <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
-  <LetterLeadersDeath>{1} frakciónál meghalt {3}: {OLDLEADER_nameFull}\n\nAz új {3}: {NEWLEADER_nameFull}.</LetterLeadersDeath>
+  <LetterLeadersDeath>{OLDLEADER_nameFull}, {1}, {0} frakciónál meghalt.</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
   <LetterLeaderChangedLabel>Új {1}: {0}</LetterLeaderChangedLabel>
