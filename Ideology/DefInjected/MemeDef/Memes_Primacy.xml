@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: human primacy -->
-  <HumanPrimacy.label>emberi fensőbbség</HumanPrimacy.label>
+  <HumanPrimacy.label>emberi elsőbbség</HumanPrimacy.label>
   <!-- EN: Humans are the moral center of the universe. -->
   <HumanPrimacy.description>Az ember a világegyetem erkölcsi központja.</HumanPrimacy.description>
   <!-- EN:
@@ -37,23 +37,35 @@
     <li>memeLeaderNoun->person</li>
     <li>memeLeaderNoun->sapient</li>
   -->
-  <HumanPrimacy.generalRules.rulesStrings>TODO</HumanPrimacy.generalRules.rulesStrings>
+  <HumanPrimacy.generalRules.rulesStrings>
+    <li>memeAdjective->emberi</li>
+    <li>memeAdjective->halandó</li>
+    <li>memeAdjective->hominida</li>
+    <li>memeHyphenPrefix->antró</li>
+    <li>memeConcept->emberiség</li>
+    <li>memeConcept->emberiesség</li>
+    <li>memeLeaderNoun->ember</li>
+    <li>memeLeaderNoun->hominida</li>
+    <li>memeLeaderNoun->halandó</li>
+    <li>memeLeaderNoun->személy</li>
+    <li>memeLeaderNoun->bölcs</li>
+  </HumanPrimacy.generalRules.rulesStrings>
   <!-- EN: humanitist -->
-  <HumanPrimacy.symbolPacks.0.adjective>TODO</HumanPrimacy.symbolPacks.0.adjective>
+  <HumanPrimacy.symbolPacks.0.adjective>humanista</HumanPrimacy.symbolPacks.0.adjective>
   <!-- EN: Humanitism -->
-  <HumanPrimacy.symbolPacks.0.ideoName>TODO</HumanPrimacy.symbolPacks.0.ideoName>
+  <HumanPrimacy.symbolPacks.0.ideoName>Humanitizmus</HumanPrimacy.symbolPacks.0.ideoName>
   <!-- EN: humanitor -->
-  <HumanPrimacy.symbolPacks.0.member>TODO</HumanPrimacy.symbolPacks.0.member>
+  <HumanPrimacy.symbolPacks.0.member>humanitárius</HumanPrimacy.symbolPacks.0.member>
   <!-- EN: humanity -->
-  <HumanPrimacy.symbolPacks.0.theme>TODO</HumanPrimacy.symbolPacks.0.theme>
+  <HumanPrimacy.symbolPacks.0.theme>emberiség</HumanPrimacy.symbolPacks.0.theme>
   <!-- EN: pro-man -->
-  <HumanPrimacy.symbolPacks.1.adjective>TODO</HumanPrimacy.symbolPacks.1.adjective>
+  <HumanPrimacy.symbolPacks.1.adjective>emberpárti</HumanPrimacy.symbolPacks.1.adjective>
   <!-- EN: Mankindism -->
-  <HumanPrimacy.symbolPacks.1.ideoName>TODO</HumanPrimacy.symbolPacks.1.ideoName>
+  <HumanPrimacy.symbolPacks.1.ideoName>Emberiség</HumanPrimacy.symbolPacks.1.ideoName>
   <!-- EN: mankindist -->
-  <HumanPrimacy.symbolPacks.1.member>TODO</HumanPrimacy.symbolPacks.1.member>
+  <HumanPrimacy.symbolPacks.1.member>humanista</HumanPrimacy.symbolPacks.1.member>
   <!-- EN: mankind -->
-  <HumanPrimacy.symbolPacks.1.theme>TODO</HumanPrimacy.symbolPacks.1.theme>
+  <HumanPrimacy.symbolPacks.1.theme>emberiség</HumanPrimacy.symbolPacks.1.theme>
   
   <!-- EN: nature primacy -->
   <NaturePrimacy.label>természet elsőbbsége</NaturePrimacy.label>
@@ -86,38 +98,46 @@
     <li>memeCreed->meadow</li>
     <li>memeConcept->nature</li>
   -->
-  <NaturePrimacy.generalRules.rulesStrings>TODO</NaturePrimacy.generalRules.rulesStrings>
+  <NaturePrimacy.generalRules.rulesStrings>
+    <li>memeAdjective->természetes</li>
+    <li>memeAdjective->vad</li>
+    <li>memeAdjective->szerves</li>
+    <li>memeCreed->odú</li>
+    <li>memeCreed->kert</li>
+    <li>memeCreed->rét</li>
+    <li>memeConcept->természet</li>
+  </NaturePrimacy.generalRules.rulesStrings>
   <!-- EN: naturist -->
-  <NaturePrimacy.symbolPacks.0.adjective>TODO</NaturePrimacy.symbolPacks.0.adjective>
+  <NaturePrimacy.symbolPacks.0.adjective>naturista</NaturePrimacy.symbolPacks.0.adjective>
   <!-- EN: Naturism -->
-  <NaturePrimacy.symbolPacks.0.ideoName>TODO</NaturePrimacy.symbolPacks.0.ideoName>
+  <NaturePrimacy.symbolPacks.0.ideoName>Naturizmus</NaturePrimacy.symbolPacks.0.ideoName>
   <!-- EN: naturist -->
-  <NaturePrimacy.symbolPacks.0.member>TODO</NaturePrimacy.symbolPacks.0.member>
+  <NaturePrimacy.symbolPacks.0.member>naturista</NaturePrimacy.symbolPacks.0.member>
   <!-- EN: nature -->
-  <NaturePrimacy.symbolPacks.0.theme>TODO</NaturePrimacy.symbolPacks.0.theme>
+  <NaturePrimacy.symbolPacks.0.theme>természet</NaturePrimacy.symbolPacks.0.theme>
   <!-- EN: earthist -->
-  <NaturePrimacy.symbolPacks.1.adjective>TODO</NaturePrimacy.symbolPacks.1.adjective>
+  <NaturePrimacy.symbolPacks.1.adjective>természetvédő</NaturePrimacy.symbolPacks.1.adjective>
   <!-- EN: Earthism -->
-  <NaturePrimacy.symbolPacks.1.ideoName>TODO</NaturePrimacy.symbolPacks.1.ideoName>
+  <NaturePrimacy.symbolPacks.1.ideoName>Természetvédelem</NaturePrimacy.symbolPacks.1.ideoName>
   <!-- EN: earthist -->
-  <NaturePrimacy.symbolPacks.1.member>TODO</NaturePrimacy.symbolPacks.1.member>
+  <NaturePrimacy.symbolPacks.1.member>természetvédő</NaturePrimacy.symbolPacks.1.member>
   <!-- EN: earth -->
-  <NaturePrimacy.symbolPacks.1.theme>TODO</NaturePrimacy.symbolPacks.1.theme>
+  <NaturePrimacy.symbolPacks.1.theme>föld</NaturePrimacy.symbolPacks.1.theme>
   <!-- EN: soilist -->
-  <NaturePrimacy.symbolPacks.2.adjective>TODO</NaturePrimacy.symbolPacks.2.adjective>
+  <NaturePrimacy.symbolPacks.2.adjective>földvédő</NaturePrimacy.symbolPacks.2.adjective>
   <!-- EN: Soilism -->
-  <NaturePrimacy.symbolPacks.2.ideoName>TODO</NaturePrimacy.symbolPacks.2.ideoName>
+  <NaturePrimacy.symbolPacks.2.ideoName>Földvédelem</NaturePrimacy.symbolPacks.2.ideoName>
   <!-- EN: soilist -->
-  <NaturePrimacy.symbolPacks.2.member>TODO</NaturePrimacy.symbolPacks.2.member>
+  <NaturePrimacy.symbolPacks.2.member>földvédő</NaturePrimacy.symbolPacks.2.member>
   <!-- EN: soil -->
-  <NaturePrimacy.symbolPacks.2.theme>TODO</NaturePrimacy.symbolPacks.2.theme>
+  <NaturePrimacy.symbolPacks.2.theme>termőföld</NaturePrimacy.symbolPacks.2.theme>
   <!-- EN: lifeist -->
-  <NaturePrimacy.symbolPacks.3.adjective>TODO</NaturePrimacy.symbolPacks.3.adjective>
+  <NaturePrimacy.symbolPacks.3.adjective>életvédő</NaturePrimacy.symbolPacks.3.adjective>
   <!-- EN: Lifism -->
-  <NaturePrimacy.symbolPacks.3.ideoName>TODO</NaturePrimacy.symbolPacks.3.ideoName>
+  <NaturePrimacy.symbolPacks.3.ideoName>Életvédelem</NaturePrimacy.symbolPacks.3.ideoName>
   <!-- EN: lifeist -->
-  <NaturePrimacy.symbolPacks.3.member>TODO</NaturePrimacy.symbolPacks.3.member>
+  <NaturePrimacy.symbolPacks.3.member>életvédő</NaturePrimacy.symbolPacks.3.member>
   <!-- EN: life -->
-  <NaturePrimacy.symbolPacks.3.theme>TODO</NaturePrimacy.symbolPacks.3.theme>
+  <NaturePrimacy.symbolPacks.3.theme>élet</NaturePrimacy.symbolPacks.3.theme>
   
 </LanguageData>
