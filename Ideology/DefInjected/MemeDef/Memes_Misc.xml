@@ -110,7 +110,24 @@
     <li>memeMoralist->gouger</li>
     <li>memeMoralist->blindfolder</li>
   -->
-  <Blindsight.generalRules.rulesStrings>TODO</Blindsight.generalRules.rulesStrings>
+  <Blindsight.generalRules.rulesStrings>
+    <li>memeAdjective->vak</li>
+    <li>memeAdjective->világtalan</li>
+    <li>memeAdjective->látnok</li>
+    <li>memeAdjective->távolba látó</li>
+    <li>memeCreed->nézet</li>
+    <li>memeCreed->kultusz</li>
+    <li>memeHyphenPrefix->vak</li>
+    <li>memeConcept->vakság</li>
+    <li>memeConcept->vízió</li>
+    <li>memeConcept->látás</li>
+    <li>memeConcept->észlelés</li>
+    <li>memeLeaderNoun->látnok</li>
+    <li>memeLeaderAdjective->vak</li>
+    <li>memeMoralist->jós</li>
+    <li>memeMoralist->megvakíttatott</li>
+    <li>memeMoralist->szemtelen</li>
+  </Blindsight.generalRules.rulesStrings>
   
   <!-- EN: cannibal -->
   <Cannibal.label>kannibál</Cannibal.label>
@@ -703,7 +720,7 @@
   <Rancher.symbolPacks.2.theme>TODO</Rancher.symbolPacks.2.theme>
   
   <!-- EN: transhumanist -->
-  <Transhumanist.label>transzhumanista</Transhumanist.label>
+  <Transhumanist.label>transzhumán</Transhumanist.label>
   <!-- EN: Human progress means merging with technology. -->
   <Transhumanist.description>Az emberi haladás a technológiával való egyesülést jelenti.</Transhumanist.description>
   <!-- EN:
@@ -850,7 +867,28 @@
     <li>memeLeaderAdjective->canopy</li>
     <li>memeMoralist->treespeaker</li>
   -->
-  <TreeConnection.generalRules.rulesStrings>TODO</TreeConnection.generalRules.rulesStrings>
+  <TreeConnection.generalRules.rulesStrings>
+    <li>memeCreed->gyökér</li>
+    <li>memeCreed->levél</li>
+    <li>memeCreed->tőke</li>
+    <li>memeCreed->tisztás</li>
+    <li>memeCreed->erdő</li>
+    <li>memeConcept->fák</li>
+    <li>memeConcept->erdők</li>
+    <li>memeAdjective->erős</li>
+    <li>memeAdjective->kérges</li>
+    <li>memeHyphenPrefix->fa</li>
+    <li>memeHyphenPrefix->lugas</li>
+    <li>memeHyphenPrefix->gally</li>
+    <li>memeLeaderNoun->fagondozó</li>
+    <li>memeLeaderNoun->fatörzsőr</li>
+    <li>memeLeaderNoun->arborista</li>
+    <li>memeLeaderNoun->új-druida</li>
+    <li>memeLeaderAdjective->zöld</li>
+    <li>memeLeaderAdjective->gyökér</li>
+    <li>memeLeaderAdjective->lombkoronás</li>
+    <li>memeMoralist->fákkal beszélő</li>
+  </TreeConnection.generalRules.rulesStrings>
   
   <!-- EN: tunneler -->
   <Tunneler.label>alagútjáró</Tunneler.label>
@@ -901,6 +939,27 @@
     <li>memeMoralist->thoughtdigger</li>
     <li>memeMoralist->mindminer</li>
   -->
-  <Tunneler.generalRules.rulesStrings>TODO</Tunneler.generalRules.rulesStrings>
+  <Tunneler.generalRules.rulesStrings>
+    <li>memeCreed->barlang</li>
+    <li>memeCreed->bunker</li>
+    <li>memeCreed->akna</li>
+    <li>memeAdjective->mély</li>
+    <li>memeHyphenPrefix->kő</li>
+    <li>memeHyphenPrefix->barlangi</li>
+    <li>memeHyphenPrefix->mély</li>
+    <li>memeHyphenPrefix->al</li>
+    <li>memeHyphenPrefix->alatt</li>
+    <li>memeConcept->föld</li>
+    <li>memeConcept->kő</li>
+    <li>memeConcept->mélység</li>
+    <li>memeConcept->temetés</li>
+    <li>memeLeaderNoun->ásómester</li>
+    <li>memeLeaderNoun->mélyhangzatú</li>
+    <li>memeLeaderNoun->akna</li>
+    <li>memeLeaderAdjective->mély</li>
+    <li>memeMoralist->igazságkutató</li>
+    <li>memeMoralist->gondolatásó</li>
+    <li>memeMoralist->elmebányász</li>
+  </Tunneler.generalRules.rulesStrings>
   
 </LanguageData>
