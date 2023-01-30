@@ -131,6 +131,10 @@
   <BreastfeedFailReason_NoMomsAssignedToBaby>TODO</BreastfeedFailReason_NoMomsAssignedToBaby>
   <!-- EN: {MOM_labelShort} is not assigned to childcare -->
   <BreastfeedFailReason_MomNotAssignedToChildcare>TODO</BreastfeedFailReason_MomNotAssignedToChildcare>
+  <!-- EN: {MOM_labelShort} is inside a container -->
+  <BreastfeedFailReason_MomInsideContainer>{MOM_labelShort} egy tárolóban található</BreastfeedFailReason_MomInsideContainer>
+  <!-- EN: {MOM_labelShort} is being carried -->
+  <BreastfeedFailReason_MomBeingCarried>{MOM_labelShort} szállítás alatt áll</BreastfeedFailReason_MomBeingCarried>
 
   <!-- EN: Order implantation into {PAWN_nameDef} -->
   <OrderImplantationIntoPawn>TODO</OrderImplantationIntoPawn>
@@ -159,5 +163,8 @@
 
   <!-- EN: Resulting metabolism would be too low -->
   <ResultingMetTooLow>TODO</ResultingMetTooLow>
+
+  <!-- EN: attempted romance too recently -->
+  <RomanceOnCooldown>nem túl rég próbálkozott romantikával</RomanceOnCooldown>
 
 </LanguageData>

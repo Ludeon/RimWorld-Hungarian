@@ -102,28 +102,6 @@
   <!-- EN: {FACTION_name} has detected {PAWN_labelShort}'s illegal use of: {CULPRIT} (detection chance {CHANCE}).\n\nAccording to the laws of {FACTION_name}, only those who hold the title of {TITLE} are allowed to use {CULPRIT}.\n\nAs a penalty, your faction relations have fallen by {GOODWILL}. -->
   <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name} frakció észlelte, hogy {PAWN_labelShort} illegálisan használja a következőt: {CULPRIT} (észlelési esély: {CHANCE}).\n\nA {FACTION_name} törvényei értelmében csak a(z) {TITLE} címmel rendelkezők jogosultak használni {CULPRIT} előjogokat.\n\nBüntetésként a frakciókapcsolataid {GOODWILL} mértékben csökkentek.</LetterLawViolationDetectedForbiddenThingUse>
 
-  <!-- Throne Speech -->
-  <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
-  <LetterFinishedSpeech>{ORGANIZER_labelShort} befejezte a beszédét.</LetterFinishedSpeech>
-  <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
-  <LetterTerribleSpeech>Valóban szörnyű volt – tübbször megakadt, tele volt kínos viccekkel és lehangoló történetekkel.</LetterTerribleSpeech>
-  <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
-  <LetterUninspiringSpeech>Nem volt inspiráló – monoton volt és hiányzott belőle a szenvedély.</LetterUninspiringSpeech>
-  <!-- EN: It was encouraging and well-delivered. -->
-  <LetterEncouragingSpeech>Bátorító volt és jól sikerült.</LetterEncouragingSpeech>
-  <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
-  <LetterInspirationalSpeech>Feltűnően inspiráló volt, tele volt intenzitással és érdemi célokkal.</LetterInspirationalSpeech>
-  <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
-  <LetterSpeechInspiredListeners>A következő embereket különösen meghatotta a beszéd, és most ihletet kaptak:</LetterSpeechInspiredListeners>
-  <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
-  <LetterSpeechInspiration>{SPEAKER_nameIndef} figyelemre méltó beszédének köszönhetően {PAWN_nameIndef} ihletet kapott!</LetterSpeechInspiration>
-  <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
-  <LetterSpeechInterrupted>Mivel a beszédet {0} állapotánál szakították meg, ezért nem volt olyan hatékony.</LetterSpeechInterrupted>
-  <!-- EN: {0}'s speech was cancelled before reaching 50% completion. It had no effect. -->
-  <LetterSpeechCancelled>{0} beszéde megszakadt, mielőtt elérte volna az 50%-os állapotát. Nem volt hatása.</LetterSpeechCancelled>
-  <!-- EN: Speech cancelled -->
-  <LetterLabelSpeechCancelled>Beszéd megszakítva</LetterLabelSpeechCancelled>
-
   <!-- Wild decree mental break -->
   <!-- EN: Wild decree -->
   <WildDecree>Vad rendelet</WildDecree>

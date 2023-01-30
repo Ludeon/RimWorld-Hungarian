@@ -127,6 +127,11 @@
   <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
   <PsychicSensitivity.description>Pszichotikus jelenségek befolyása erre a személyre.</PsychicSensitivity.description>
   
+  <!-- EN: sleep fall rate -->
+  <RestFallRateFactor.label>alvásigény csökkenésének rátája</RestFallRateFactor.label>
+  <!-- EN: A multiplier on the speed that a person's sleep need falls. -->
+  <RestFallRateFactor.description>Egy személy alvási sebességének szorzója.</RestFallRateFactor.description>
+  
   <!-- EN: rest rate multiplier -->
   <RestRateMultiplier.label>pihenés szorzó</RestRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
