@@ -40,39 +40,54 @@
     <li>memeMoralist->apologizer</li>
     <li>memeMoralist->atoner</li>
   -->
-  <Guilty.generalRules.rulesStrings>TODO</Guilty.generalRules.rulesStrings>
+  <Guilty.generalRules.rulesStrings>
+    <li>memeAdjective->gyenge</li>
+    <li>memeAdjective->méltatlan</li>
+    <li>memeAdjective->szégyenletes</li>
+    <li>memeAdjective->aljas</li>
+    <li>memeAdjective->bűnbánó</li>
+    <li>memeHyphenPrefix->al</li>
+    <li>memeConcept->bűn</li>
+    <li>memeConcept->megbánás</li>
+    <li>memeConcept->vezeklés</li>
+    <li>memeConcept->szégyen</li>
+    <li>memeLeaderNoun->bűnbánó</li>
+    <li>memeLeaderNoun->bűnös</li>
+    <li>memeMoralist->bocsánatkérő</li>
+    <li>memeMoralist->engesztelő</li>
+  </Guilty.generalRules.rulesStrings>
   <!-- EN: guiltist -->
-  <Guilty.symbolPacks.0.adjective>TODO</Guilty.symbolPacks.0.adjective>
+  <Guilty.symbolPacks.0.adjective>bűntudatos</Guilty.symbolPacks.0.adjective>
   <!-- EN: Guiltism -->
-  <Guilty.symbolPacks.0.ideoName>TODO</Guilty.symbolPacks.0.ideoName>
+  <Guilty.symbolPacks.0.ideoName>bűntudat</Guilty.symbolPacks.0.ideoName>
   <!-- EN: guilty One -->
-  <Guilty.symbolPacks.0.member>TODO</Guilty.symbolPacks.0.member>
+  <Guilty.symbolPacks.0.member>bűnös Egy</Guilty.symbolPacks.0.member>
   <!-- EN: guilt -->
-  <Guilty.symbolPacks.0.theme>TODO</Guilty.symbolPacks.0.theme>
+  <Guilty.symbolPacks.0.theme>bűn</Guilty.symbolPacks.0.theme>
   <!-- EN: sinist -->
-  <Guilty.symbolPacks.1.adjective>TODO</Guilty.symbolPacks.1.adjective>
+  <Guilty.symbolPacks.1.adjective>bűnös</Guilty.symbolPacks.1.adjective>
   <!-- EN: Sinism -->
-  <Guilty.symbolPacks.1.ideoName>TODO</Guilty.symbolPacks.1.ideoName>
+  <Guilty.symbolPacks.1.ideoName>Bűn</Guilty.symbolPacks.1.ideoName>
   <!-- EN: sinner -->
-  <Guilty.symbolPacks.1.member>TODO</Guilty.symbolPacks.1.member>
+  <Guilty.symbolPacks.1.member>bűnös</Guilty.symbolPacks.1.member>
   <!-- EN: sin -->
-  <Guilty.symbolPacks.1.theme>TODO</Guilty.symbolPacks.1.theme>
+  <Guilty.symbolPacks.1.theme>bűn</Guilty.symbolPacks.1.theme>
   <!-- EN: shamist -->
-  <Guilty.symbolPacks.2.adjective>TODO</Guilty.symbolPacks.2.adjective>
+  <Guilty.symbolPacks.2.adjective>gyalázatos</Guilty.symbolPacks.2.adjective>
   <!-- EN: Shamism -->
-  <Guilty.symbolPacks.2.ideoName>TODO</Guilty.symbolPacks.2.ideoName>
+  <Guilty.symbolPacks.2.ideoName>Szégyen</Guilty.symbolPacks.2.ideoName>
   <!-- EN: ashamer -->
-  <Guilty.symbolPacks.2.member>TODO</Guilty.symbolPacks.2.member>
+  <Guilty.symbolPacks.2.member>megszégyenült</Guilty.symbolPacks.2.member>
   <!-- EN: shame -->
-  <Guilty.symbolPacks.2.theme>TODO</Guilty.symbolPacks.2.theme>
+  <Guilty.symbolPacks.2.theme>szégyen</Guilty.symbolPacks.2.theme>
   <!-- EN: atonist -->
-  <Guilty.symbolPacks.3.adjective>TODO</Guilty.symbolPacks.3.adjective>
+  <Guilty.symbolPacks.3.adjective>vezeklő</Guilty.symbolPacks.3.adjective>
   <!-- EN: Atonism -->
-  <Guilty.symbolPacks.3.ideoName>TODO</Guilty.symbolPacks.3.ideoName>
+  <Guilty.symbolPacks.3.ideoName>Vezeklés</Guilty.symbolPacks.3.ideoName>
   <!-- EN: atoner -->
-  <Guilty.symbolPacks.3.member>TODO</Guilty.symbolPacks.3.member>
+  <Guilty.symbolPacks.3.member>vezeklő</Guilty.symbolPacks.3.member>
   <!-- EN: atonement -->
-  <Guilty.symbolPacks.3.theme>TODO</Guilty.symbolPacks.3.theme>
+  <Guilty.symbolPacks.3.theme>vezeklés</Guilty.symbolPacks.3.theme>
   
   <!-- EN: loyalist -->
   <Loyalist.label>lojalista</Loyalist.label>
@@ -107,7 +122,14 @@
     <li>memeConcept->promises</li>
     <li>memeMoralist->loyalizer</li>
   -->
-  <Loyalist.generalRules.rulesStrings>TODO</Loyalist.generalRules.rulesStrings>
+  <Loyalist.generalRules.rulesStrings>
+    <li>memeAdjective->lojális</li>
+    <li>memeAdjective->hazafias</li>
+    <li>memeAdjective->kötelességtudó</li>
+    <li>memeConcept->család</li>
+    <li>memeConcept->ígéret</li>
+    <li>memeMoralist->lojalizáló</li>
+  </Loyalist.generalRules.rulesStrings>
   <!-- EN: loyal -->
   <Loyalist.symbolPacks.0.adjective>hűséges</Loyalist.symbolPacks.0.adjective>
   <!-- EN: Loyaltism -->
@@ -119,17 +141,17 @@
   <!-- EN: fealtist -->
   <Loyalist.symbolPacks.1.adjective>fealtista</Loyalist.symbolPacks.1.adjective>
   <!-- EN: Fealtism -->
-  <Loyalist.symbolPacks.1.ideoName>Fealtizmus</Loyalist.symbolPacks.1.ideoName>
+  <Loyalist.symbolPacks.1.ideoName>Hűségesség</Loyalist.symbolPacks.1.ideoName>
   <!-- EN: fealtor -->
-  <Loyalist.symbolPacks.1.member>TODO</Loyalist.symbolPacks.1.member>
+  <Loyalist.symbolPacks.1.member>hűséges</Loyalist.symbolPacks.1.member>
   <!-- EN: fealty -->
-  <Loyalist.symbolPacks.1.theme>TODO</Loyalist.symbolPacks.1.theme>
+  <Loyalist.symbolPacks.1.theme>hűséges</Loyalist.symbolPacks.1.theme>
   <!-- EN: fidelist -->
-  <Loyalist.symbolPacks.2.adjective>TODO</Loyalist.symbolPacks.2.adjective>
+  <Loyalist.symbolPacks.2.adjective>hűbéres</Loyalist.symbolPacks.2.adjective>
   <!-- EN: Fidelism -->
-  <Loyalist.symbolPacks.2.ideoName>TODO</Loyalist.symbolPacks.2.ideoName>
+  <Loyalist.symbolPacks.2.ideoName>Hűbéresség</Loyalist.symbolPacks.2.ideoName>
   <!-- EN: fidelor -->
-  <Loyalist.symbolPacks.2.member>TODO</Loyalist.symbolPacks.2.member>
+  <Loyalist.symbolPacks.2.member>hűbéres</Loyalist.symbolPacks.2.member>
   <!-- EN: fidelity -->
   <Loyalist.symbolPacks.2.theme>hűség</Loyalist.symbolPacks.2.theme>
   

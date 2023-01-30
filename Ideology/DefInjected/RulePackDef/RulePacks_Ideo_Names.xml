@@ -59,10 +59,10 @@
   <NamerIdeoGlobal.rulePack.rulesStrings>
     <li>r_ideoName->[keyDeity]izmus</li>
     <li>r_ideoName->[hyphenPrefix]-[keyDeity]izmus</li>
-    <li>r_ideoName->[keyDeity] [creed]-ja</li>
-    <li>r_ideoAdjective->[keyDeity]ic</li>
+    <li>r_ideoName->[keyDeity] [creedPossession]</li>
+    <li>r_ideoAdjective->[keyDeity]-hitű</li>
     <li>r_memberName->[keyDeity]ista</li>
-    <li>r_memberName->[keyDeity]-hitű</li>
+    <li>r_memberName->[keyDeity]-követő</li>
     <li>r_ideoName(p=6)->[packIdeoName]</li>
     <li>r_ideoName(p=2,forcePrefix==False)->[hyphenPrefix]-[packIdeoName]</li>
     <li>r_ideoName(p=2,forcePrefix==False)->[hyphenPrefix]-[packIdeoNameStructure]</li>
@@ -79,6 +79,11 @@
     <li>genericCreed->doktrína</li>
     <li>genericCreed->út</li>
     <li>genericCreed->ösvény</li>
+    <li>creedPossession->[genericCreedPossession]</li>
+    <li>genericCreedPossession->hitvallása</li>
+    <li>genericCreedPossession->doktrinája</li>
+    <li>genericCreedPossession->útja</li>
+    <li>genericCreedPossession->ösvénye</li>
     <li>hyphenPrefix->[globalHyphenPrefix]</li>
     <li>hyphenPrefix->[memeHyphenPrefix]</li>
     <li>globalHyphenPrefix(p=4)->neo</li>

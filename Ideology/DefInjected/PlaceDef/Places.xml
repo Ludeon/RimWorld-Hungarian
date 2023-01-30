@@ -406,7 +406,26 @@
     <li>place_foeLeader->prison warden</li>
     <li>place_foeSoldiers->corrupt guards</li>
   -->
-  <Yttak.placeRules.rulesStrings>TODO</Yttak.placeRules.rulesStrings>
+  <Yttak.placeRules.rulesStrings>
+    <li>place_name->Yttak</li>
+    <li>place_adjective->yttaki</li>
+    <li>place_summary->jéghold börtön</li>
+    <li>place_community->étkező</li>
+    <li>place_community->őr laktanya</li>
+    <li>place_community->fogvatartási központ</li>
+    <li>place_powerCenter->felügyelő irodakomplexumába</li>
+    <li>place_job->őrizetes</li>
+    <li>place_job->őr</li>
+    <li>place_job->szökevény</li>
+    <li>place_job->karbantartó munkás</li>
+    <li>place_job->szállító sofőr</li>
+    <li>place_personalWeapon->shiv</li>
+    <li>place_personalWeapon->SMG</li>
+    <li>place_massWeapon->egy rögtönzött vegyi bomba</li>
+    <li>place_massWeapon->egy orbitális lézercsapás</li>
+    <li>place_foeLeader->börtönőr</li>
+    <li>place_foeSoldiers->korrupt őrök</li>
+  </Yttak.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Zoutera</li>
@@ -430,6 +449,27 @@
     <li>megaFauna->blue mammoths</li>
     <li>megaFauna->novoraptors</li>
   -->
-  <Zoutera.placeRules.rulesStrings>TODO</Zoutera.placeRules.rulesStrings>
+  <Zoutera.placeRules.rulesStrings>
+    <li>place_name->Zoutera</li>
+    <li>place_adjective->Zoutin</li>
+    <li>place_summary->füves dinó-világ</li>
+    <li>place_community->kereskedési előőrs</li>
+    <li>place_community->sátorfalu</li>
+    <li>place_community->mammut temetkezési hely</li>
+    <li>place_powerCenter->dombtetőn lévő erőd</li>
+    <li>place_job->dinó-lovas</li>
+    <li>place_job->muffalo-pásztor</li>
+    <li>place_job->vadász</li>
+    <li>place_job->keménybőr-készítő</li>
+    <li>place_personalWeapon->bambusz bot</li>
+    <li>place_personalWeapon->vadászbomba nyilak</li>
+    <li>place_massWeapon->egy megbélyegzett [megaFauna] csorda</li>
+    <li>place_massWeapon->műtrágya bomba</li>
+    <li>place_foeLeader->agyar-király</li>
+    <li>place_foeSoldiers->agyar-harcosok</li>
+    <li>megaFauna->ankyloszaurusz</li>
+    <li>megaFauna->kék mammut</li>
+    <li>megaFauna->novoraptor</li>
+  </Zoutera.placeRules.rulesStrings>
   
 </LanguageData>

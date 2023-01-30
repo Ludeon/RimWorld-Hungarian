@@ -28,7 +28,29 @@
     <li>bloodDrinkingAnimal->lamprey</li>
     <li>bloodDrinkingAnimal->blood cobra</li>
   -->
-  <Bloodfeeding.descriptionMaker.rules.rulesStrings>TODO</Bloodfeeding.descriptionMaker.rules.rulesStrings>
+  <Bloodfeeding.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Bloodfeeding)        ->[deity0_name] megitta a csillagok vérét, vörösről fehérre változtatva őket.</li>
+    <li>episode(uses=1,tag=meme_Bloodfeeding)  ->A [deity0_type] [deity0_name] az éhség ajándékát adta kiválasztott követőinek, hogy megismerhessék az igazi erőt.</li>
+    <li>intro(tag=meme_Bloodfeeding)           ->A [place_summary] [place_name] oldalon volt egy [deity0_name] nevű ember. A bűnök büntetéseként [deity0_possessive deity0_possessive] apa megbüntette [deity0_name] azáltal, hogy [deity0_possessive] lelket összeolvasztotta a [bloodDrinkingAnimal] lelkével.</li>
+    <li>intro(tag=meme_Bloodfeeding)           ->A [place_summary] [place_name], a [ritualName] alatt [deity0_name] lejött az [altarRoomLabel]-be, és egy óriás [bloodDrinkingAnimal] alakját öltötte magára. [deity0_name] megitta a [deity0_possessive] [memberNamePlural] vérét.</li>
+    <li>conflict(tag=meme_Bloodfeeding)        ->Egy [foeLeader] kijelentette, hogy mindazok, akik vért ittak, utálatosak voltak, és [foeSoldiers]-t küldtek a [memberNamePlural] üldözésére.</li>
+    <li>founderJoin(tag=meme_Bloodfeeding)     ->Egy [founderName] nevű [place_job] megtámadta az egyik [foeLeader] [foeSoldiers]. [founderName] megölte őt egy [place_personalWeapon] segítségével, és vérét itta, megszerezve [deity0_name] erejét.</li>
+    <li>victory(tag=meme_Bloodfeeding)         ->[founderName] a [memberNamePlural] egy csoportját vezette a [place_powerCenter] -ba, és megitta a [foeLeader] vérét és elégette a húsát. [deity0_name] a [founderName]-t az új [foeLeader] rangra emelte, mert [founderName] bizonyította erejét.</li>
+    <li>setup(tag=meme_Bloodfeeding)           ->[founderName] egy hiperintelligens archotech irányítását kereste. De az archotech hatalma túl nagy volt és ő átalakult helyette.</li>
+    <li>story(uses=1,tag=meme_Bloodfeeding)    ->[founderName] az éhség ajándékát adta a követőinek, hogy megerősödhessenek.</li>
+    <li>lessonIntro(tag=meme_Bloodfeeding)     ->Amikor először ittam vért, világossá vált. Láttam, hogy</li>
+    <li>lesson(tag=meme_Bloodfeeding)          ->csak kétféle ember létezik - a gyenge és az erős</li>
+    <li>lessonReinforcement(tag=meme_Bloodfeeding) ->Vért inni annyi, mint erősnek lenni és ezt világosan tudni.</li>
+    <li>archistBasis(tag=meme_Bloodfeeding)    ->Az archotech isten-gépek megajándékozták az embert az Éhséggel, hogy az ember jobban megismerje őket.</li>
+    <li>archistFact(tag=meme_Bloodfeeding)     ->Ahogy az archotech tudata tágul, más gépek esszenciájának ivásával kell növelnie szubsztrátumát.</li>
+    <li>archistProphecy(tag=meme_Bloodfeeding) ->[inTheEnd], az ember közelebb kerül az archotechekhez azáltal, hogy iszik a vérből, és ismeri az igazi erőt.</li>
+    <li>animistBasis(tag=meme_Bloodfeeding)    ->A [bloodDrinkingAnimal] ismeri a vérivásból származó erőt. Nincs nagyobb erő annál, mint ami az emberi vérből származik.</li>
+    <li>animistFact(tag=meme_Bloodfeeding)     ->Az ember erejét úgy tudjuk uralni, ha elfogyasztjuk a vérét.</li>
+    <li>bloodDrinkingAnimal->vérszívó denevér</li>
+    <li>bloodDrinkingAnimal->pióca</li>
+    <li>bloodDrinkingAnimal->ingola</li>
+    <li>bloodDrinkingAnimal->vér kobra</li>
+  </Bloodfeeding.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->blood</li>
     <li>memeAdjective->blood hungry</li>
@@ -45,6 +67,21 @@
     <li>memeMoralist->sanguinist</li>
     <li>memeMoralist->sanguinarian</li>
   -->
-  <Bloodfeeding.generalRules.rulesStrings>TODO</Bloodfeeding.generalRules.rulesStrings>
+  <Bloodfeeding.generalRules.rulesStrings>
+    <li>memeAdjective->vér</li>
+    <li>memeAdjective->vérre éhes</li>
+    <li>memeCreed->kripta</li>
+    <li>memeCreed->barlang</li>
+    <li>memeCreed->boszorkánykör</li>
+    <li>memeHyphenPrefix->hemo</li>
+    <li>memeConcept->vér</li>
+    <li>memeConcept->éhség</li>
+    <li>memeLeaderNoun->öreg</li>
+    <li>memeLeaderNoun->mester</li>
+    <li>memeLeaderNoun->vérivó</li>
+    <li>memeMoralist->udvarmester</li>
+    <li>memeMoralist->vérszónok</li>
+    <li>memeMoralist->vérimádó</li>
+  </Bloodfeeding.generalRules.rulesStrings>
   
 </LanguageData>
