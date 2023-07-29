@@ -23,9 +23,9 @@
   <AlertLowDeathrestDesc>TODO</AlertLowDeathrestDesc>
 
   <!-- EN: Low hemogen -->
-  <AlertLowHemogen>TODO</AlertLowHemogen>
+  <AlertLowHemogen>Kevés hemogén</AlertLowHemogen>
   <!-- EN: A colonist has low hemogen. At zero hemogen, they will develop a painful hemogen craving.\n\nFeed them hemogen packs to prevent this. You can obtain hemogen packs using the 'extract hemogen pack' medical operation on a non-hemogenic human.\n\nThe following colonists have low hemogen -->
-  <AlertLowHemogenDesc>TODO</AlertLowHemogenDesc>
+  <AlertLowHemogenDesc>A telepesnek kevés hemogénje van. A hemogén kifogyása esetén fájdalmas hemogén utáni sóvárgás alakul ki bennük.\n\nEtesd meg őket hemogéncsomagokkal, hogy ezt megakadályozd. A hemogén csomagokat az "hemogéncsomag kinyerése" orvosi műtéttel lehet beszerezni egy nem hemogén emberen.\n\nA következő telepesek alacsony hemogénnel rendelkeznek</AlertLowHemogenDesc>
 
   <!-- EN: Recharger full -->
   <AlertRechargerFull>Töltő tele</AlertRechargerFull>
@@ -53,9 +53,9 @@
   <!-- EN: No {FACTION_pawnsPlural} are assigned to feed these babies, or they're all downed.\n\nAssign one of your {FACTION_pawnsPlural} to childcare or assign a lactating {FACTION_pawnSingular} to feed these babies with Urgent priority in the babies' feeding tab, and ensure at least one of them is not downed. -->
   <AlertNoBabyFeederDesc>TODO</AlertNoBabyFeederDesc>
   <!-- EN: Abandoned baby -->
-  <AlertAbandonedBaby>TODO</AlertAbandonedBaby> <!-- text_todo -->
+  <AlertAbandonedBaby>Elhagyott gyermek</AlertAbandonedBaby>
   <!-- EN: There are abandoned babies nearby with no closeby caregivers.  If you don’t adopt the babies, it’s likely they'll starve to death.\n\nTo adopt a baby, select it and then select "{0}". -->
-  <AlertAbandonedBabyDesc>TODO</AlertAbandonedBabyDesc> <!-- text_todo -->
+  <AlertAbandonedBabyDesc>A közelben elhagyott gyermekek vannak, közeli gondozók nélkül. Ha nem fogadod örökbe őket, valószínűleg éhen fognak halni.\n\nÖrökbefogadásához válaszd ki, majd válaszd a "{0}" lehetőséget.</AlertAbandonedBabyDesc>
 
   <!-- EN: No baby food in caravan -->
   <AlertNoBabyFoodCaravan>Nincs bébiétel a karavánon</AlertNoBabyFoodCaravan>

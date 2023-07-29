@@ -104,7 +104,8 @@
   <!-- EN: Gives hemogen supply. -->
   <Hemogenic.customEffectDescriptions.0>Hemogénellátást biztosít.</Hemogenic.customEffectDescriptions.0>
   <!-- EN: A reserve of biological strength which can be gained and spent in a variety of ways.\n\nHemogen can be increased by bloodfeeding from a human or consuming hemogen packs. You can obtain hemogen packs using the 'extract hemogen pack' medical operation on a non-hemogenic human.\n\nIf hemogen reaches zero, {PAWN_nameDef} will become very unhappy. -->
-  <Hemogenic.resourceDescription>Biológiai erőtartalék, amelyet sokféleképpen lehet megszerezni és elkölteni.\n\nA hemogén növelhető vérszívással vagy hemogéncsomagok fogyasztásával. Hemogéncsomagokat kaphat a 'hemogéncsomag kivonása' orvosi művelettel egy nem hemogén emberen.\n\nHa a hemogén eléri a nullát, {PAWN_nameDef} nagyon boldogtalan lesz.</Hemogenic.resourceDescription>
+  <Hemogenic.resourceDescription>Biológiai erőtartalék, amelyet sokféleképpen lehet megszerezni és elkölteni.\n\nA hemogén növelhető vérszívással vagy hemogéncsomagok fogyasztásával. Hemogéncsomagokat szerezhetsz a 'hemogéncsomag kinyerése' orvosi művelettel egy nem hemogén emberen.\n\nHa a hemogén szintje eléri a nullát, {PAWN_nameDef} nagyon boldogtalan lesz
+    .</Hemogenic.resourceDescription>
   <!-- EN: hemogen -->
   <Hemogenic.resourceLabel>hemogén</Hemogenic.resourceLabel>
   <!-- EN: hemo -->

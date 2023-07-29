@@ -16,8 +16,8 @@ Some text used from the old partial translation created by:
 - Moredoor
 - Laoka25
 
-Verzió: 1.4.3622 (64bit) 
-Kiadva: 2023-01-27
+Verzió: 1.4.3704 (64bit) 
+Kiadva: 2023-04-19
 
 ## Tools
 A tools mappában találsz egy scriptet, amit pl. Git Bash segítségével futtathatsz. 

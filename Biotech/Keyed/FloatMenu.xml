@@ -43,21 +43,21 @@
   <!-- EN: {PAWN_nameDef} has no genes -->
   <PawnHasNoGenes>TODO</PawnHasNoGenes>
   <!-- EN: {PAWN_nameDef} has no extractable genes. -->
-  <PawnHasNoNonArchiteGenes>TODO</PawnHasNoNonArchiteGenes>
+  <PawnHasNoNonArchiteGenes>{PAWN_nameDef} nem rendelkezik kivonható génekkel.</PawnHasNoNonArchiteGenes>
   <!-- EN: In xenogermination coma -->
   <InXenogerminationComa>TODO</InXenogerminationComa>
   <!-- EN: Occupied -->
-  <Occupied>TODO</Occupied>
+  <Occupied>Foglalt</Occupied>
   <!-- EN: {PAWN_nameDef} was ejected from a growth vat -->
-  <OccupantEjectedFromGrowthVat>TODO</OccupantEjectedFromGrowthVat>
+  <OccupantEjectedFromGrowthVat>{PAWN_nameDef} ki lett dobva egy növekedési tartályból</OccupantEjectedFromGrowthVat>
   <!-- EN: {PAWN_nameDef} must be younger than {AGEYEARS} years old. -->
-  <TooOld>TODO</TooOld>
+  <TooOld>{PAWN_nameDef} öreg, {AGEYEARS} évesnél fiatalabbnak kell lennie.</TooOld>
   <!-- EN: {PAWN_nameDef} is too old. -->
-  <PawnIsTooOld>TODO</PawnIsTooOld>
+  <PawnIsTooOld>{PAWN_nameDef} túl öreg.</PawnIsTooOld>
   <!-- EN: {PAWN_nameDef} is suffering from biostarvation. -->
-  <PawnBiostarving>TODO</PawnBiostarving>
+  <PawnBiostarving>{PAWN_nameDef} biológiai éhezésben szenved.</PawnBiostarving>
   <!-- EN: No available people -->
-  <NoViablePawns>TODO</NoViablePawns>
+  <NoViablePawns>Nincsenek elérhető személyek</NoViablePawns>
   <!-- EN: No extractable people -->
   <NoExtractablePawns>TODO</NoExtractablePawns>
   <!-- EN: No implantable people -->
@@ -85,9 +85,9 @@
   <!-- EN: Scanner not initiated -->
   <SubcoreScannerNotInit>TODO</SubcoreScannerNotInit>
   <!-- EN: Waiting for ingredients -->
-  <SubcoreScannerRequiresIngredients>TODO</SubcoreScannerRequiresIngredients>
+  <SubcoreScannerRequiresIngredients>Várakozás az összetevőkre</SubcoreScannerRequiresIngredients>
   <!-- EN: Occupied -->
-  <SubcoreScannerOccupied>TODO</SubcoreScannerOccupied>
+  <SubcoreScannerOccupied>Foglalt</SubcoreScannerOccupied>
   <!-- EN: Enter {0} -->
   <EnterSubcoreScanner>TODO</EnterSubcoreScanner>
 
@@ -132,9 +132,9 @@
   <!-- EN: {MOM_labelShort} is not assigned to childcare -->
   <BreastfeedFailReason_MomNotAssignedToChildcare>TODO</BreastfeedFailReason_MomNotAssignedToChildcare>
   <!-- EN: {MOM_labelShort} is inside a container -->
-  <BreastfeedFailReason_MomInsideContainer>{MOM_labelShort} egy tárolóban található</BreastfeedFailReason_MomInsideContainer> <!-- text_todo -->
+  <BreastfeedFailReason_MomInsideContainer>{MOM_labelShort} egy tárolóban található</BreastfeedFailReason_MomInsideContainer>
   <!-- EN: {MOM_labelShort} is being carried -->
-  <BreastfeedFailReason_MomBeingCarried>{MOM_labelShort} szállítás alatt áll</BreastfeedFailReason_MomBeingCarried> <!-- text_todo -->
+  <BreastfeedFailReason_MomBeingCarried>{MOM_labelShort} szállítás alatt áll</BreastfeedFailReason_MomBeingCarried>
 
   <!-- EN: Order implantation into {PAWN_nameDef} -->
   <OrderImplantationIntoPawn>TODO</OrderImplantationIntoPawn>
@@ -165,6 +165,6 @@
   <ResultingMetTooLow>TODO</ResultingMetTooLow>
 
   <!-- EN: attempted romance too recently -->
-  <RomanceOnCooldown>nem túl rég próbálkozott romantikával</RomanceOnCooldown><!-- text_todo -->
+  <RomanceOnCooldown>nem túl rég próbálkozott romantikával</RomanceOnCooldown>
 
 </LanguageData>
