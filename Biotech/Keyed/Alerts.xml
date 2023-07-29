@@ -52,6 +52,10 @@
   <AlertNoBabyFeeder>Nincsenek babaetetők</AlertNoBabyFeeder>
   <!-- EN: No {FACTION_pawnsPlural} are assigned to feed these babies, or they're all downed.\n\nAssign one of your {FACTION_pawnsPlural} to childcare or assign a lactating {FACTION_pawnSingular} to feed these babies with Urgent priority in the babies' feeding tab, and ensure at least one of them is not downed. -->
   <AlertNoBabyFeederDesc>TODO</AlertNoBabyFeederDesc>
+  <!-- EN: Abandoned baby -->
+  <AlertAbandonedBaby>TODO</AlertAbandonedBaby> <!-- text_todo -->
+  <!-- EN: There are abandoned babies nearby with no closeby caregivers.  If you don’t adopt the babies, it’s likely they'll starve to death.\n\nTo adopt a baby, select it and then select "{0}". -->
+  <AlertAbandonedBabyDesc>TODO</AlertAbandonedBabyDesc> <!-- text_todo -->
 
   <!-- EN: No baby food in caravan -->
   <AlertNoBabyFoodCaravan>Nincs bébiétel a karavánon</AlertNoBabyFoodCaravan>
@@ -112,8 +116,8 @@
   <AlertBossgroupIncomingDesc>A robotmestered jelzésére egy ellenséges {0} közeledik a harci kísérettel. Készülj fel, ez nem lesz könnyű küzdelem. Az ellenséges robotok néhány órán vagy napon belül megérkeznek.</AlertBossgroupIncomingDesc>
 
   <!-- EN: Deathrest complete -->
-  <AlertDeathrestComplete>Mélyalvás befejezve</AlertDeathrestComplete>
+  <AlertDeathrestComplete>Mélyalvás befejezve</AlertDeathrestComplete><!-- text_todo -->
   <!-- EN: The following people have completed their deathrest and can wake up safely -->
-  <AlertDeathrestCompleteDesc>A következő személyek befejezték mélyalvás pihenőjüket és biztonságosan felébredhetnek</AlertDeathrestCompleteDesc>
+  <AlertDeathrestCompleteDesc>A következő személyek befejezték mélyalvás pihenőjüket és biztonságosan felébredhetnek</AlertDeathrestCompleteDesc><!-- text_todo -->
 
 </LanguageData>

@@ -540,7 +540,7 @@
   <NuzzleIntervalExplanation>Átlagosan milyen gyakorisággal dörgölőzik az állat a gyarmatosokhoz.\n\nA dörgölőzés sok állatfajnál megfigyelhető viselkedés, mely a barátság kimutatását szolgálja. A legtöbb ember cukinak találja ezt és egy ideig jobb hangulatuk lesz tőle.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>Megtorlás esély</HarmedRevengeChance>
-  <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that so slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
+  <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
   <HarmedRevengeChanceExplanation>Annak esélye, hogy az alany megtorolja az őt ért támadást.\n\nPuska lőtávra értendő. Az esély növekszik, ha a támadó közelebb van. Közelharcban az esély háromszoros.\n\nMinden sebződésnél bejöhet, ezért a lassú, nagyot ütő fegyverek kisebb valószínűséggel váltják ki.\n\nA megtorlás esélyének minimalizálásához használj lassú, nagy hatótávú fegyvereket.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>Megtorlás szelídítésnél</TameFailedRevengeChance>
