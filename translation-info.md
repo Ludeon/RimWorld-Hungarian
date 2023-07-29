@@ -60,7 +60,7 @@ sanguophage - vérivó, szanguofág?
 ### PSY
 
 psylink - pszi képesség (pszichikai, mágikus képesség)
-
+psyfocus - pszi fókusz, pszi pont? 
 psycasters - pszí használó, pszichaszter?
 
 ### DROGOK
