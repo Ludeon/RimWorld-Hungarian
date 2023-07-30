@@ -116,93 +116,116 @@
     <li>memeMoralist->rector</li>
     <li>memeMoralist->abbot</li>
   -->
-  <Structure_OriginChristian.generalRules.rulesStrings>TODO</Structure_OriginChristian.generalRules.rulesStrings>
+  <Structure_OriginChristian.generalRules.rulesStrings>
+    <li>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</li>
+    <li>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</li>
+    <li>r_ideoName(p=99)->[packAdjective] [packIdeoName]</li>
+    <li>r_ideoName(p=99)->[packIdeoName]</li>
+    <li>memeLeaderNoun->püspök</li>
+    <li>memeLeaderNoun->bíboros</li>
+    <li>memeLeaderNoun->pápa</li>
+    <li>memeLeaderNoun->főpap</li>
+    <li>memeLeaderNoun->legátus</li>
+    <li>memeLeaderNoun->nuncius</li>
+    <li>memeLeaderNoun->divus</li>
+    <li>memeLeaderNoun->prédikátor</li>
+    <li>memeLeaderAdjective->szent</li>
+    <li>memeLeaderAdjective->isteni</li>
+    <li>memeLeaderAdjective->Christ's</li>
+    <li>memeLeaderAdjective->God's</li>
+    <li>memeMoralist->pap</li>
+    <li>memeMoralist->lelkész</li>
+    <li>memeMoralist->atya</li>
+    <li>memeMoralist->prédikátor</li>
+    <li>memeMoralist->rektor</li>
+    <li>memeMoralist->apát</li>
+  </Structure_OriginChristian.generalRules.rulesStrings>
   <!-- EN: Christian -->
-  <Structure_OriginChristian.symbolPacks.0.adjective>TODO</Structure_OriginChristian.symbolPacks.0.adjective>
+  <Structure_OriginChristian.symbolPacks.0.adjective>Keresztény</Structure_OriginChristian.symbolPacks.0.adjective>
   <!-- EN: Christianity -->
-  <Structure_OriginChristian.symbolPacks.0.ideoName>TODO</Structure_OriginChristian.symbolPacks.0.ideoName>
+  <Structure_OriginChristian.symbolPacks.0.ideoName>Kereszténység</Structure_OriginChristian.symbolPacks.0.ideoName>
   <!-- EN: Christian -->
-  <Structure_OriginChristian.symbolPacks.0.member>TODO</Structure_OriginChristian.symbolPacks.0.member>
+  <Structure_OriginChristian.symbolPacks.0.member>Keresztény</Structure_OriginChristian.symbolPacks.0.member>
   <!-- EN: Catholic -->
-  <Structure_OriginChristian.symbolPacks.1.adjective>TODO</Structure_OriginChristian.symbolPacks.1.adjective>
+  <Structure_OriginChristian.symbolPacks.1.adjective>Katolikus</Structure_OriginChristian.symbolPacks.1.adjective>
   <!-- EN: Catholicism -->
-  <Structure_OriginChristian.symbolPacks.1.ideoName>TODO</Structure_OriginChristian.symbolPacks.1.ideoName>
+  <Structure_OriginChristian.symbolPacks.1.ideoName>Katolicizmus</Structure_OriginChristian.symbolPacks.1.ideoName>
   <!-- EN: Catholic -->
-  <Structure_OriginChristian.symbolPacks.1.member>TODO</Structure_OriginChristian.symbolPacks.1.member>
+  <Structure_OriginChristian.symbolPacks.1.member>Katolikus</Structure_OriginChristian.symbolPacks.1.member>
   <!-- EN: Protestant -->
-  <Structure_OriginChristian.symbolPacks.2.adjective>TODO</Structure_OriginChristian.symbolPacks.2.adjective>
+  <Structure_OriginChristian.symbolPacks.2.adjective>Protestáns</Structure_OriginChristian.symbolPacks.2.adjective>
   <!-- EN: Protestantism -->
-  <Structure_OriginChristian.symbolPacks.2.ideoName>TODO</Structure_OriginChristian.symbolPacks.2.ideoName>
+  <Structure_OriginChristian.symbolPacks.2.ideoName>Protestantizmus</Structure_OriginChristian.symbolPacks.2.ideoName>
   <!-- EN: Protestant -->
-  <Structure_OriginChristian.symbolPacks.2.member>TODO</Structure_OriginChristian.symbolPacks.2.member>
+  <Structure_OriginChristian.symbolPacks.2.member>Protestáns</Structure_OriginChristian.symbolPacks.2.member>
   <!-- EN: Orthodox -->
-  <Structure_OriginChristian.symbolPacks.3.adjective>TODO</Structure_OriginChristian.symbolPacks.3.adjective>
+  <Structure_OriginChristian.symbolPacks.3.adjective>Ortodox</Structure_OriginChristian.symbolPacks.3.adjective>
   <!-- EN: Orthodoxy -->
-  <Structure_OriginChristian.symbolPacks.3.ideoName>TODO</Structure_OriginChristian.symbolPacks.3.ideoName>
+  <Structure_OriginChristian.symbolPacks.3.ideoName>Ortodoxia</Structure_OriginChristian.symbolPacks.3.ideoName>
   <!-- EN: Orthodoxist -->
-  <Structure_OriginChristian.symbolPacks.3.member>TODO</Structure_OriginChristian.symbolPacks.3.member>
+  <Structure_OriginChristian.symbolPacks.3.member>Ortodox</Structure_OriginChristian.symbolPacks.3.member>
   <!-- EN: Nestorian -->
-  <Structure_OriginChristian.symbolPacks.4.adjective>TODO</Structure_OriginChristian.symbolPacks.4.adjective>
+  <Structure_OriginChristian.symbolPacks.4.adjective>Nesztoriánus</Structure_OriginChristian.symbolPacks.4.adjective>
   <!-- EN: Nestorianism -->
-  <Structure_OriginChristian.symbolPacks.4.ideoName>TODO</Structure_OriginChristian.symbolPacks.4.ideoName>
+  <Structure_OriginChristian.symbolPacks.4.ideoName>Nesztoriánizmus</Structure_OriginChristian.symbolPacks.4.ideoName>
   <!-- EN: Nestorian -->
-  <Structure_OriginChristian.symbolPacks.4.member>TODO</Structure_OriginChristian.symbolPacks.4.member>
+  <Structure_OriginChristian.symbolPacks.4.member>Nesztoriánus</Structure_OriginChristian.symbolPacks.4.member>
   <!-- EN: Anglican -->
-  <Structure_OriginChristian.symbolPacks.5.adjective>TODO</Structure_OriginChristian.symbolPacks.5.adjective>
+  <Structure_OriginChristian.symbolPacks.5.adjective>Anglikán</Structure_OriginChristian.symbolPacks.5.adjective>
   <!-- EN: Anglicanism -->
-  <Structure_OriginChristian.symbolPacks.5.ideoName>TODO</Structure_OriginChristian.symbolPacks.5.ideoName>
+  <Structure_OriginChristian.symbolPacks.5.ideoName>Anglikanizmus</Structure_OriginChristian.symbolPacks.5.ideoName>
   <!-- EN: Anglican -->
-  <Structure_OriginChristian.symbolPacks.5.member>TODO</Structure_OriginChristian.symbolPacks.5.member>
+  <Structure_OriginChristian.symbolPacks.5.member>Anglikán</Structure_OriginChristian.symbolPacks.5.member>
   <!-- EN: Baptist -->
-  <Structure_OriginChristian.symbolPacks.6.adjective>TODO</Structure_OriginChristian.symbolPacks.6.adjective>
+  <Structure_OriginChristian.symbolPacks.6.adjective>Baptista</Structure_OriginChristian.symbolPacks.6.adjective>
   <!-- EN: Baptism -->
-  <Structure_OriginChristian.symbolPacks.6.ideoName>TODO</Structure_OriginChristian.symbolPacks.6.ideoName>
+  <Structure_OriginChristian.symbolPacks.6.ideoName>Baptista</Structure_OriginChristian.symbolPacks.6.ideoName>
   <!-- EN: Baptist -->
-  <Structure_OriginChristian.symbolPacks.6.member>TODO</Structure_OriginChristian.symbolPacks.6.member>
+  <Structure_OriginChristian.symbolPacks.6.member>Baptista</Structure_OriginChristian.symbolPacks.6.member>
   <!-- EN: Anabaptist -->
-  <Structure_OriginChristian.symbolPacks.7.adjective>TODO</Structure_OriginChristian.symbolPacks.7.adjective>
+  <Structure_OriginChristian.symbolPacks.7.adjective>Anabaptista</Structure_OriginChristian.symbolPacks.7.adjective>
   <!-- EN: Anabaptism -->
-  <Structure_OriginChristian.symbolPacks.7.ideoName>TODO</Structure_OriginChristian.symbolPacks.7.ideoName>
+  <Structure_OriginChristian.symbolPacks.7.ideoName>Anabaptizmus</Structure_OriginChristian.symbolPacks.7.ideoName>
   <!-- EN: Anabaptist -->
-  <Structure_OriginChristian.symbolPacks.7.member>TODO</Structure_OriginChristian.symbolPacks.7.member>
+  <Structure_OriginChristian.symbolPacks.7.member>Anabaptista</Structure_OriginChristian.symbolPacks.7.member>
   <!-- EN: Calvinist -->
-  <Structure_OriginChristian.symbolPacks.8.adjective>TODO</Structure_OriginChristian.symbolPacks.8.adjective>
+  <Structure_OriginChristian.symbolPacks.8.adjective>Református</Structure_OriginChristian.symbolPacks.8.adjective>
   <!-- EN: Calvinism -->
-  <Structure_OriginChristian.symbolPacks.8.ideoName>TODO</Structure_OriginChristian.symbolPacks.8.ideoName>
+  <Structure_OriginChristian.symbolPacks.8.ideoName>Kálvinizmus</Structure_OriginChristian.symbolPacks.8.ideoName>
   <!-- EN: Calvinist -->
-  <Structure_OriginChristian.symbolPacks.8.member>TODO</Structure_OriginChristian.symbolPacks.8.member>
+  <Structure_OriginChristian.symbolPacks.8.member>Református</Structure_OriginChristian.symbolPacks.8.member>
   <!-- EN: Lutheran -->
-  <Structure_OriginChristian.symbolPacks.9.adjective>TODO</Structure_OriginChristian.symbolPacks.9.adjective>
+  <Structure_OriginChristian.symbolPacks.9.adjective>Evangélikus</Structure_OriginChristian.symbolPacks.9.adjective>
   <!-- EN: Lutheranism -->
-  <Structure_OriginChristian.symbolPacks.9.ideoName>TODO</Structure_OriginChristian.symbolPacks.9.ideoName>
+  <Structure_OriginChristian.symbolPacks.9.ideoName>Evangélizmus</Structure_OriginChristian.symbolPacks.9.ideoName>
   <!-- EN: Lutheran -->
-  <Structure_OriginChristian.symbolPacks.9.member>TODO</Structure_OriginChristian.symbolPacks.9.member>
+  <Structure_OriginChristian.symbolPacks.9.member>Evangélikus</Structure_OriginChristian.symbolPacks.9.member>
   <!-- EN: Adventist -->
-  <Structure_OriginChristian.symbolPacks.10.adjective>TODO</Structure_OriginChristian.symbolPacks.10.adjective>
+  <Structure_OriginChristian.symbolPacks.10.adjective>Adventista</Structure_OriginChristian.symbolPacks.10.adjective>
   <!-- EN: Adventism -->
-  <Structure_OriginChristian.symbolPacks.10.ideoName>TODO</Structure_OriginChristian.symbolPacks.10.ideoName>
+  <Structure_OriginChristian.symbolPacks.10.ideoName>Adventizmus</Structure_OriginChristian.symbolPacks.10.ideoName>
   <!-- EN: Adventist -->
-  <Structure_OriginChristian.symbolPacks.10.member>TODO</Structure_OriginChristian.symbolPacks.10.member>
+  <Structure_OriginChristian.symbolPacks.10.member>Adventista</Structure_OriginChristian.symbolPacks.10.member>
   <!-- EN: Methodist -->
-  <Structure_OriginChristian.symbolPacks.11.adjective>TODO</Structure_OriginChristian.symbolPacks.11.adjective>
+  <Structure_OriginChristian.symbolPacks.11.adjective>Metodista</Structure_OriginChristian.symbolPacks.11.adjective>
   <!-- EN: Methodism -->
-  <Structure_OriginChristian.symbolPacks.11.ideoName>TODO</Structure_OriginChristian.symbolPacks.11.ideoName>
+  <Structure_OriginChristian.symbolPacks.11.ideoName>Metodizmus</Structure_OriginChristian.symbolPacks.11.ideoName>
   <!-- EN: Methodist -->
-  <Structure_OriginChristian.symbolPacks.11.member>TODO</Structure_OriginChristian.symbolPacks.11.member>
+  <Structure_OriginChristian.symbolPacks.11.member>Metodista</Structure_OriginChristian.symbolPacks.11.member>
   <!-- EN: Mormon -->
-  <Structure_OriginChristian.symbolPacks.12.adjective>TODO</Structure_OriginChristian.symbolPacks.12.adjective>
+  <Structure_OriginChristian.symbolPacks.12.adjective>Mormon</Structure_OriginChristian.symbolPacks.12.adjective>
   <!-- EN: Mormonism -->
-  <Structure_OriginChristian.symbolPacks.12.ideoName>TODO</Structure_OriginChristian.symbolPacks.12.ideoName>
+  <Structure_OriginChristian.symbolPacks.12.ideoName>Mormonizmus</Structure_OriginChristian.symbolPacks.12.ideoName>
   <!-- EN: Mormon -->
-  <Structure_OriginChristian.symbolPacks.12.member>TODO</Structure_OriginChristian.symbolPacks.12.member>
+  <Structure_OriginChristian.symbolPacks.12.member>Mormon</Structure_OriginChristian.symbolPacks.12.member>
   <!-- EN: Theonomic -->
-  <Structure_OriginChristian.symbolPacks.13.adjective>TODO</Structure_OriginChristian.symbolPacks.13.adjective>
+  <Structure_OriginChristian.symbolPacks.13.adjective>Teonómiai</Structure_OriginChristian.symbolPacks.13.adjective>
   <!-- EN: Theonomy -->
-  <Structure_OriginChristian.symbolPacks.13.ideoName>TODO</Structure_OriginChristian.symbolPacks.13.ideoName>
+  <Structure_OriginChristian.symbolPacks.13.ideoName>Teonómia</Structure_OriginChristian.symbolPacks.13.ideoName>
   <!-- EN: Theonomist -->
-  <Structure_OriginChristian.symbolPacks.13.member>TODO</Structure_OriginChristian.symbolPacks.13.member>
+  <Structure_OriginChristian.symbolPacks.13.member>Teonómus</Structure_OriginChristian.symbolPacks.13.member>
   <!-- EN: church -->
-  <Structure_OriginChristian.worshipRoomLabel>TODO</Structure_OriginChristian.worshipRoomLabel>
+  <Structure_OriginChristian.worshipRoomLabel>templom</Structure_OriginChristian.worshipRoomLabel>
   
   <!-- EN: Hindu origin -->
   <Structure_OriginHindu.label>Hindu eredet</Structure_OriginHindu.label>

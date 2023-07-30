@@ -25,17 +25,29 @@
     <li>ofThing->the Spirit</li>
   -->
   <NamerFactionEmpire.rulePack.rulesStrings>
-    <li>r_name->A Kivonult [empire]</li>
-    <li>r_name->A Menekült [empire]</li>
-    <li>r_name->A Széttört [empire]</li>
-    <li>r_name->Az Összetört [empire]</li>
-    <li>r_name->A Bukott [empire]</li>
-    <li>r_name(p=4)->A [Color] [empire]</li>
-    <li>empire(p=4)->Birodalom</li>
+    <li>r_name(p=3)->[ofThing] [empirePossession]</li>
+    <li>r_name(p=2)->[Color] [empire]</li>
+    <li>r_name->Kivonult [empire]</li>
+    <li>r_name->Menekült [empire]</li>
+    <li>r_name->Széttört [empire]</li>
+    <li>r_name->Összetört [empire]</li>
+    <li>r_name->Bukott [empire]</li>
+    <li>empire(p=3)->Birodalom</li>
     <li>empire->Nemzet</li>
     <li>empire->Hatalom</li>
     <li>empire->Uralom</li>
-    <li>empire->Szuverenitás</li>
+    <li>empire(p=0.5)->Szuverenitás</li>
+    <li>ofThing(p=4)->[WordImperial]</li>
+    <li>ofThing->a Nap</li>
+    <li>ofThing->a Hold</li>
+    <li>ofThing->a Szellem</li>
+    <li>ofThing->az Univerzum</li>
+    <li>ofThing->Isten</li>
+    <li>ofThing->Tökéletesség</li>
+    <li>ofThing->Örökkévalóság</li>
+    <li>empirePossession(p=3)->Birodalma</li>
+    <li>empirePossession->Nemzete</li>
+    <li>empirePossession->Uralma</li>
   </NamerFactionEmpire.rulePack.rulesStrings>
   
   <!-- EN:
@@ -43,14 +55,22 @@
     <li>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</li>
     <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
   -->
-  <NamerPersonSophian.rulePack.rulesStrings>TODO</NamerPersonSophian.rulePack.rulesStrings>
+  <NamerPersonSophian.rulePack.rulesStrings>
+    <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>
+    <li>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
+  </NamerPersonSophian.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
     <li>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</li>
     <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
   -->
-  <NamerPersonSophianFemale.rulePack.rulesStrings>TODO</NamerPersonSophianFemale.rulePack.rulesStrings>
+  <NamerPersonSophianFemale.rulePack.rulesStrings>
+    <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
+    <li>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
+  </NamerPersonSophianFemale.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[townname_wordgen]</li>
@@ -78,6 +98,31 @@
     <li>townend->am</li>
     <li>townend->aeum</li>
   -->
-  <NamerSettlementEmpire.rulePack.rulesStrings>TODO</NamerSettlementEmpire.rulePack.rulesStrings>
+  <NamerSettlementEmpire.rulePack.rulesStrings>
+    <li>r_name->[townname_wordgen]</li>
+    <li>r_name->[townname_fixed]</li>
+    <li>townname_wordgen->[WordImperial]</li>
+    <li>townname_wordgen->[WordImperial][townend]</li>
+    <li>townend(p=3)->ium</li>
+    <li>townend(p=3)->ior</li>
+    <li>townend(p=3)->polis</li>
+    <li>townend->nor</li>
+    <li>townend->lan</li>
+    <li>townend->lax</li>
+    <li>townend->lix</li>
+    <li>townend->lin</li>
+    <li>townend->lian</li>
+    <li>townend->phrum</li>
+    <li>townend->phor</li>
+    <li>townend->teor</li>
+    <li>townend->ople</li>
+    <li>townend->opium</li>
+    <li>townend->or</li>
+    <li>townend->aetor</li>
+    <li>townend->aeum</li>
+    <li>townend->aetium</li>
+    <li>townend->am</li>
+    <li>townend->aeum</li>
+  </NamerSettlementEmpire.rulePack.rulesStrings>
   
 </LanguageData>

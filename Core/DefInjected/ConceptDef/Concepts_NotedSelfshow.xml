@@ -24,14 +24,14 @@
   <!-- EN: Camera dolly -->
   <CameraDolly.label>Kamera mozgatás</CameraDolly.label>
   <!-- EN: Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys. -->
-  <CameraDolly.helpText>Mozgasd a kamerát a középső egér gomb lenyomása közben az egér csúsztatásával, vagy a WASD billentyűkkel.</CameraDolly.helpText>
+  <CameraDolly.helpText>Mozgasd a kamerát a középső egér gomb lenyomása közben az egér csúsztatásával, vagy a {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} billentyűkkel.</CameraDolly.helpText>
   <!-- EN: Move the camera by using the D-pad. -->
   <CameraDolly.helpTextController>Mozgassa a kamerát a D-pad segítségével.</CameraDolly.helpTextController>
   
   <!-- EN: Camera zoom -->
-  <CameraZoom.label>Zoom</CameraZoom.label>
+  <CameraZoom.label>Kamera nagyítás</CameraZoom.label>
   <!-- EN: Zoom in and out with the MOUSEWHEEL or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys. -->
-  <CameraZoom.helpText>Közelíteni és távolítani egér görgővel tudsz, vagy a T és G billentyűkkel.</CameraZoom.helpText>
+  <CameraZoom.helpText>Közelíteni és távolítani egér görgővel tudsz, vagy a {Key:MapZoom_In} és {Key:MapZoom_Out} billentyűkkel.</CameraZoom.helpText>
   <!-- EN: Zoom in and out with {Key:MapZoom_In} and {Key:MapZoom_Out}. -->
   <CameraZoom.helpTextController>Nagyítás és kicsinyítés a {Key:MapZoom_In} és {Key:MapZoom_Out} segítségével.</CameraZoom.helpTextController>
   

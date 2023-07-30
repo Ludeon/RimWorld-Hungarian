@@ -43,9 +43,9 @@
   <RefugeePodCrash_NonHostile>Figyelem: {PAWN_nameDef} {PAWN_factionName} frakció tagja. Az elfogása fel fogja bosszantani őket, de a megmentése és ellátása javítja a frakciók viszonyát.</RefugeePodCrash_NonHostile>
 
   <!-- EN: Wanderer joins: {PAWN_nameDef} -->
-  <LetterLabelWandererJoins>TODO</LetterLabelWandererJoins>
+  <LetterLabelWandererJoins>Vándor csatlakozik: {PAWN_nameDef}</LetterLabelWandererJoins>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and wants to join the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily, claiming to have nowhere else to go. You can choose to turn {PAWN_objective} down and send {PAWN_objective} away. However, your colonists will be disturbed at sending someone away in need. -->
-  <LetterWandererJoins>TODO</LetterWandererJoins>
+  <LetterWandererJoins>Egy {PAWN_nameDef} nevű {PAWN_title} érkezett és csatlakozni akar a kolóniához.\n\nHajlandó együttműködni, de nem távozik önként, azt állítva, hogy nincs hova mennie. Dönthetsz úgy, hogy figyelmen kívül hagyod és elküldheted őt. A telepeseket azonban zavarni fogja, ha valakit elküldenek a szükségben.</LetterWandererJoins>
 
   <!-- EN: Cargo pods -->
   <LetterLabelCargoPodCrash>Szállítmány</LetterLabelCargoPodCrash>
