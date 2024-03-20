@@ -17,6 +17,8 @@ growth vat - növekedési kád, növesztő kád
 
 gunlink - fegyverlencse?, célzóberendezés?
 
+social fight - verekedés (hitvita?)
+
 ### MECHS
 
 mechanitor - robotmester (gépész?, technikus?, gépfelügyelő?)
@@ -72,3 +74,4 @@ yayo - kokain
 flake - crack
 
 go-juice - go-juice? (katonai harci drog)
+

@@ -2,28 +2,28 @@
 <LanguageData>
 
   <!-- EN: Relevant genes -->
-  <StatsReport_Genes>TODO</StatsReport_Genes>
+  <StatsReport_Genes>Releváns gének</StatsReport_Genes>
   <!-- EN: in sunlight -->
-  <StatsReport_InSunlight>TODO</StatsReport_InSunlight>
+  <StatsReport_InSunlight>napfényben</StatsReport_InSunlight>
   <!-- EN: clothed -->
-  <StatsReport_Clothed>TODO</StatsReport_Clothed>
+  <StatsReport_Clothed>felöltözve</StatsReport_Clothed>
   <!-- EN: unclothed -->
-  <StatsReport_Unclothed>TODO</StatsReport_Unclothed>
+  <StatsReport_Unclothed>ruha nélkül</StatsReport_Unclothed>
 
   <!-- EN: Age rate multiplier -->
-  <StatsReport_AgeRateMultiplier>TODO</StatsReport_AgeRateMultiplier><!-- text_todo -->
+  <StatsReport_AgeRateMultiplier>Öregedés szorzó</StatsReport_AgeRateMultiplier>
   <!-- EN: A multiplier on how quickly this person ages biologically based on their current age. -->
-  <StatsReport_AgeRateMultiplier_Desc>TODO</StatsReport_AgeRateMultiplier_Desc><!-- text_todo -->
+  <StatsReport_AgeRateMultiplier_Desc>Egy szorzó arra vonatkozóan, hogy ez a személy milyen gyorsan öregszik biológiailag a jelenlegi életkora alapján.</StatsReport_AgeRateMultiplier_Desc>
 
   <!-- EN: Required weight class -->
-  <StatsReport_RechargerWeightClass>TODO</StatsReport_RechargerWeightClass>
+  <StatsReport_RechargerWeightClass>Szükséges súlycsoport</StatsReport_RechargerWeightClass>
   <!-- EN: The weight class of mechanoid which can use this recharger. The following mechanoids are compatible -->
-  <StatsReport_RechargerWeightClass_Desc>TODO</StatsReport_RechargerWeightClass_Desc>
+  <StatsReport_RechargerWeightClass_Desc>A robot súlycsoportja, amely még képes használni ezt a töltőt. A következő robotok kompatibilisek</StatsReport_RechargerWeightClass_Desc>
 
   <!-- EN: Recharger needed -->
-  <StatsReport_RechargerNeeded>TODO</StatsReport_RechargerNeeded>
+  <StatsReport_RechargerNeeded>Szükséges töltő</StatsReport_RechargerNeeded>
   <!-- EN: The type of recharger that this mechanoid can use to recover energy. This is based on the mechanoid's weight class. -->
-  <StatsReport_RechargerNeeded_Desc>TODO</StatsReport_RechargerNeeded_Desc>
+  <StatsReport_RechargerNeeded_Desc>A töltő típusa, amelyet ez a robot energia visszanyerésére használhat. Ez a robot súlycsoportján alapul.</StatsReport_RechargerNeeded_Desc>
 
   <!-- EN: Deathrest effectiveness -->
   <StatsReport_DeathrestEffectiveness>Mélyalvás hatékonyság</StatsReport_DeathrestEffectiveness>
@@ -36,30 +36,30 @@
   <StatsReport_DeathrestConnectionLimit_Desc>Ezek közül az épületek közül hány kapcsolódhat egy mélyalvóhoz pihenés közben. Ezt a számot a személy mélyalvó-kapacitási képessége is korlátozza.</StatsReport_DeathrestConnectionLimit_Desc>
 
   <!-- EN: Growth tier -->
-  <StatsReport_GrowthTier>TODO</StatsReport_GrowthTier>
+  <StatsReport_GrowthTier>Növekedési szint</StatsReport_GrowthTier>
   <!-- EN: Children progress through growth tiers over time. The higher the learning need, the faster the progress. When a growth moment comes (at age 7, 10, and 13), the child's growth tier determines how many trait and passion options you can choose from. Growth tier resets after each growth moment. -->
-  <StatsReport_GrowthTierDesc>TODO</StatsReport_GrowthTierDesc>
+  <StatsReport_GrowthTierDesc>A gyerekek az idő múlásával növekedési szinteken esnek át. Minél nagyobb a tanulási igény, annál gyorsabb a haladás. Amikor eljön a szintlépés pillanata (7, 10 és 13 évesen), a gyermek növekedési szintje határozza meg, hogy hány tulajdonság és szenvedély közül választhat. A növekedési szint minden szintlépés után visszaáll.</StatsReport_GrowthTierDesc>
 
   <!-- EN: Life stage -->
-  <StatsReport_DevelopmentStage>TODO</StatsReport_DevelopmentStage>
+  <StatsReport_DevelopmentStage>Életszakasz</StatsReport_DevelopmentStage>
   <!-- EN: A baby. Babies cannot move on their own. Their life revolves around the simple needs of food, sleep, and play. When they giggle, nearby adults' moods are lifted, and when they cry, nearby adults are annoyed.\n\nAt age 3, human babies become children. -->
-  <StatsReport_DevelopmentStageDesc_Baby>TODO</StatsReport_DevelopmentStageDesc_Baby>
+  <StatsReport_DevelopmentStageDesc_Baby>Baba. A babák nem tudnak önállóan mozogni. Életük az étkezés, az alvás és a játék egyszerű szükségletei körül forog. Amikor gügyögnek, a közeli felnőttek hangulata megemelkedik, ha sírnak, a közeli felnőttek bosszankodnak.\n\n3 évesen az emberi csecsemőkből gyerekek lesznek.</StatsReport_DevelopmentStageDesc_Baby>
   <!-- EN: A child. In general, children are slower and less skilled than adults. However, children have a natural optimism. When their mood is high, this optimism can raise the mood of adult colonists.\n\nChildren can do various types of work, depending on their age -->
-  <StatsReport_DevelopmentStageDesc_ChildPart1>TODO</StatsReport_DevelopmentStageDesc_ChildPart1>
+  <StatsReport_DevelopmentStageDesc_ChildPart1>Gyermek. Általában a gyerekek lassabbak és kevésbé képzettek, mint a felnőttek. A gyerekeknek azonban természetes optimizmusuk van. Ha jó a hangulatuk, ez az optimizmus feldobhatja a felnőtt gyarmatosítók hangulatát.\n\nA gyerekek életkoruktól függően különféle típusú munkákat végezhetnek</StatsReport_DevelopmentStageDesc_ChildPart1>
   <!-- EN: As a child ages, they will gain additional passions and traits.\n\nChildren have various child-specific learning needs and require special child-sized apparel.\n\nAt age 13, human children become adults. -->
-  <StatsReport_DevelopmentStageDesc_ChildPart2>TODO</StatsReport_DevelopmentStageDesc_ChildPart2>
+  <StatsReport_DevelopmentStageDesc_ChildPart2>A gyermekek életkoruk előrehaladtával további szenvedélyekre és vonásokra tehetnek szert.\n\nA gyerekeknek különféle gyermekspecifikus tanulási igényeik vannak, és speciális, gyermekméretű ruházatot igényelnek.\n\n13 éves korukban az embergyerekek felnőttekké válnak.</StatsReport_DevelopmentStageDesc_ChildPart2>
   <!-- EN: An adult. Human adults fully mature at the age of 18. -->
-  <StatsReport_DevelopmentStageDesc_Adult>TODO</StatsReport_DevelopmentStageDesc_Adult>
+  <StatsReport_DevelopmentStageDesc_Adult>Felnőtt. Az emberi felnőttek 18 éves korukra érnek be teljesen.</StatsReport_DevelopmentStageDesc_Adult>
 
   <!-- EN: Multiplier for pollution -->
-  <StatsReport_Pollution>TODO</StatsReport_Pollution>
+  <StatsReport_Pollution>Szennyezés szorzója</StatsReport_Pollution>
 
   <!-- EN: Age factor -->
-  <StatsReport_FertilityAgeFactor>TODO</StatsReport_FertilityAgeFactor>
+  <StatsReport_FertilityAgeFactor>Életkori tényező</StatsReport_FertilityAgeFactor>
   <!-- EN: Has {0_label} gene -->
-  <StatsReport_HasGene>TODO</StatsReport_HasGene>
+  <StatsReport_HasGene>{0_label} génnel rendelkezik</StatsReport_HasGene>
   <!-- EN: A person of the {0} xenotype.\n\nAbout {0}s: -->
-  <StatsReport_NonBaselinerDescription>TODO</StatsReport_NonBaselinerDescription>
+  <StatsReport_NonBaselinerDescription>{0} xenotípusba tartozó személy.\n\nA(z) {0}-ról:</StatsReport_NonBaselinerDescription>
   
   <!-- EN: Lifestage -->
   <Stat_Thing_Apparel_ValidLifestage>Életszakasz</Stat_Thing_Apparel_ValidLifestage>
@@ -67,56 +67,56 @@
   <Stat_Thing_Apparel_ValidLifestage_Desc>Egyes ruházati cikkek megkövetelik, hogy viselője egy adott korosztályba tartozzék.</Stat_Thing_Apparel_ValidLifestage_Desc>
 
   <!-- EN: Connected {0} -->
-  <StatsReport_Connected>TODO</StatsReport_Connected>
+  <StatsReport_Connected>Csatlakoztatva: {0}</StatsReport_Connected>
 
   <!-- EN: Effects -->
-  <Effects>TODO</Effects>
+  <Effects>Hatások</Effects>
   <!-- EN: A multiplier on chance of having a romantic relationship with someone who does not have this gene. -->
-  <StatsReport_MissingGeneRomanceChance>TODO</StatsReport_MissingGeneRomanceChance>
+  <StatsReport_MissingGeneRomanceChance>A romantikus kapcsolat esélyének szorzója olyan valakivel, aki nem rendelkezik ezzel a génnel.</StatsReport_MissingGeneRomanceChance>
   <!-- EN: Immune to -->
-  <ImmuneTo>TODO</ImmuneTo>
+  <ImmuneTo>Immunis a</ImmuneTo>
   <!-- EN: Social fight chance factor -->
-  <SocialFightChanceFactor>TODO</SocialFightChanceFactor>
+  <SocialFightChanceFactor>Verekedés esélye</SocialFightChanceFactor>
   <!-- EN: Chance mental break is violent -->
-  <AggroMentalBreakSelectionChanceFactor>TODO</AggroMentalBreakSelectionChanceFactor>
+  <AggroMentalBreakSelectionChanceFactor>Esély erőszakos lelki törésre</AggroMentalBreakSelectionChanceFactor>
   <!-- EN: Prison break interval factor -->
-  <PrisonBreakIntervalFactor>TODO</PrisonBreakIntervalFactor>
+  <PrisonBreakIntervalFactor>Szökési kísérlet időtényezője(?)</PrisonBreakIntervalFactor>
   <!-- EN: Will never prison break. -->
-  <WillNeverPrisonBreak>TODO</WillNeverPrisonBreak>
+  <WillNeverPrisonBreak>Sosem lesz szökési kísérlet.</WillNeverPrisonBreak>
   <!-- EN: Mental breaks are always violent. -->
-  <AlwaysAggroMentalBreak>TODO</AlwaysAggroMentalBreak>
+  <AlwaysAggroMentalBreak>A lelki törések mindig erőszakosak.</AlwaysAggroMentalBreak>
   <!-- EN: Mental breaks are never violent. -->
-  <NeverAggroMentalBreak>TODO</NeverAggroMentalBreak>
+  <NeverAggroMentalBreak>A lelki törések sosem erőszakosak.</NeverAggroMentalBreak>
   <!-- EN: {0_label} addiction chance factor -->
-  <AddictionChanceFactor>TODO</AddictionChanceFactor>
+  <AddictionChanceFactor>{0_label} függőségi esélye</AddictionChanceFactor>
   <!-- EN: {0_label} overdose chance factor -->
-  <OverdoseChanceFactor>TODO</OverdoseChanceFactor><!-- text_todo -->
+  <OverdoseChanceFactor>{0_label} túladagolási esélye</OverdoseChanceFactor>
   <!-- EN: {0_label} tolerance buildup factor -->
-  <ToleranceBuildupFactor>TODO</ToleranceBuildupFactor><!-- text_todo -->
+  <ToleranceBuildupFactor>{0_label} tűrésnövelő tényezője</ToleranceBuildupFactor>
   <!-- EN: Immune to {0_label} addiction. -->
-  <AddictionImmune>TODO</AddictionImmune>
+  <AddictionImmune>Immúnis {0_label} függőségre.</AddictionImmune>
   <!-- EN: Immune to food poisoning. -->
-  <FoodPoisoningImmune>TODO</FoodPoisoningImmune>
+  <FoodPoisoningImmune>Immúnis az ételmérgezésre.</FoodPoisoningImmune>
   <!-- EN: Will never do social fights. -->
-  <WillNeverSocialFight>TODO</WillNeverSocialFight>
+  <WillNeverSocialFight>Soha nem fog verekedni.</WillNeverSocialFight>
   <!-- EN: Aging factors -->
-  <AgeFactors>TODO</AgeFactors>
+  <AgeFactors>Öregedési tényezők</AgeFactors>
   <!-- EN: Work speed is unaffected by darkness. -->
-  <UnaffectedByDarkness>TODO</UnaffectedByDarkness>
+  <UnaffectedByDarkness>A munka sebességét a sötétség nem befolyásolja.</UnaffectedByDarkness>
   <!-- EN: Adds one level of passion in {0_label}. -->
-  <PassionModAdd>TODO</PassionModAdd>
+  <PassionModAdd>Egy szinttel növeli az alábbi szenvedélyt: {0_label}.</PassionModAdd>
   <!-- EN: Removes all passion in {0_label}. -->
-  <PassionModDrop>TODO</PassionModDrop>
+  <PassionModDrop>Eltávolítja az összes szenvedélyt: {0_label}.</PassionModDrop>
   <!-- EN: Causes need -->
-  <CausesNeed>TODO</CausesNeed>
+  <CausesNeed>Szükségletet okoz</CausesNeed>
   <!-- EN: Gives ability -->
-  <GivesAbility>TODO</GivesAbility>
+  <GivesAbility>Képességet ad</GivesAbility>
   <!-- EN: Gives abilities -->
-  <GivesAbilities>TODO</GivesAbilities>
+  <GivesAbilities>Képességeket ad</GivesAbilities>
   <!-- EN: {RESOURCE}: {OFFSET} per day. -->
-  <ResourceLossPerDay>TODO</ResourceLossPerDay>
+  <ResourceLossPerDay>{RESOURCE}: {OFFSET} naponta.</ResourceLossPerDay>
   <!-- EN: Removes -->
-  <Removes>TODO</Removes>
+  <Removes>Eltávolít</Removes>
   <!-- EN: Disables need -->
   <DisablesNeed>TODO</DisablesNeed>
   <!-- EN: Disables needs -->
@@ -124,20 +124,20 @@
   <!-- EN: Baby -->
   <DevelopmentStage_Baby>Baba</DevelopmentStage_Baby>
   <!-- EN: Child -->
-  <DevelopmentStage_Child>Gyerek</DevelopmentStage_Child>
+  <DevelopmentStage_Child>Gyermek</DevelopmentStage_Child>
   <!-- EN: Adult -->
   <DevelopmentStage_Adult>Felnőtt</DevelopmentStage_Adult>
 
   <!-- EN: Growth vat speed -->
-  <StatsReport_GrowthVatSpeedFactor>TODO</StatsReport_GrowthVatSpeedFactor>
+  <StatsReport_GrowthVatSpeedFactor>Növekedési kád sebessége</StatsReport_GrowthVatSpeedFactor>
 
   <!-- EN: Carriers cannot build a tolerance to {0_label}. -->
-  <GeneToleranceBuildupImmune>TODO</GeneToleranceBuildupImmune><!-- text_todo -->
+  <GeneToleranceBuildupImmune>Hordozóik nem építhetnek toleranciát {0_label} ellen.</GeneToleranceBuildupImmune>
   <!-- EN: Carriers build a tolerance to {0_label} {1} as quickly. -->
-  <GeneToleranceBuildupFactor>TODO</GeneToleranceBuildupFactor><!-- text_todo -->
+  <GeneToleranceBuildupFactor>Hordozóik gyorsabban ({1}) alakítanak ki toleranciát {0_label} ellen.</GeneToleranceBuildupFactor>
   <!-- EN: Carriers cannot overdose on {0_label}. -->
-  <GeneOverdoseImmune>TODO</GeneOverdoseImmune><!-- text_todo -->
+  <GeneOverdoseImmune>Hordozóik nem adagolhatják túl a szert: {0_label}.</GeneOverdoseImmune>
   <!-- EN: Carriers are {1} as likely to overdose on {0_label}. -->
-  <GeneOverdoseFactor>TODO</GeneOverdoseFactor><!-- text_todo -->
+  <GeneOverdoseFactor>Hordozóik nagyobb eséllyel ({1}) adagolhatják túl ezt: {0_label}.</GeneOverdoseFactor>
 
 </LanguageData>
