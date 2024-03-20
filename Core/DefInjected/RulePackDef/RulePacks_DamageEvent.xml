@@ -20,7 +20,7 @@
     <li>destroyed_present->breaking</li>
   -->
   <DamageEvent_Ceiling.rulePack.rulesStrings>
-    <li>damageSource->[collapsed] a [roof]</li>
+    <li>damage_source->[collapsed] a [roof]</li>
     <li>roof->tető</li>
     <li>roof->tetőzet</li>
     <li>roof->plafon</li>
@@ -54,7 +54,7 @@
     <li>destroyed_present->cremating</li>
   -->
   <DamageEvent_Fire.rulePack.rulesStrings>
-    <li>damageSource->megégett [fire]</li>
+    <li>damage_source->megégett [fire]</li>
     <li>fire(p=3)->egy tűzben</li>
     <li>fire(p=3)->egy tűzben</li>
     <li>fire(p=3)->a tűzben</li>
@@ -75,10 +75,10 @@
     <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef].</li>
   -->
   <DamageEvent_Include.rulePack.rulesStrings>
-    <li>r_logentry->[RECIPIENT_nameDef] [damageSource], [destroyed_present] ez(eke)t: [destroyed_targets].</li>
-    <li>r_logentry->[RECIPIENT_nameDef] [damageSource], [destroyed_present] ez(eke)t: [destroyed_targets] és [damaged_present] ez(eke)t: [damaged_targets].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_nameDef] [damageSource], [damaged_present] ez(eke)t: [damaged_targets].</li>
-    <li>r_logentry(p=0.1)->[RECIPIENT_nameDef] [damageSource].</li>
+    <li>r_logentry->[RECIPIENT_nameDef] [damage_source], [destroyed_present] ez(eke)t: [destroyed_targets].</li>
+    <li>r_logentry->[RECIPIENT_nameDef] [damage_source], [destroyed_present] ez(eke)t: [destroyed_targets] és [damaged_present] ez(eke)t: [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_nameDef] [damage_source], [damaged_present] ez(eke)t: [damaged_targets].</li>
+    <li>r_logentry(p=0.1)->[RECIPIENT_nameDef] [damage_source].</li>
   </DamageEvent_Include.rulePack.rulesStrings>
   
   <!-- EN:
@@ -97,9 +97,9 @@
     <li>light(p=0.2)->incandescence</li>
   -->
   <DamageEvent_PowerBeam.rulePack.rulesStrings>
-    <li>damageSource->felett megnyílt az [sky]</li>
-    <li>damageSource->testét egy elképesztő [power]sugár [damaged_past]</li>
-    <li>damageSource->testét egy [light]oszlop [damaged_past]</li>
+    <li>damage_source->felett megnyílt az [sky]</li>
+    <li>damage_source->testét egy elképesztő [power]sugár [damaged_past]</li>
+    <li>damage_source->testét egy [light]oszlop [damaged_past]</li>
     <li>sky->égbolt</li>
     <li>sky->ég</li>
     <li>power->fény</li>
@@ -123,7 +123,7 @@
     <li>enveloped->surrounded</li>
   -->
   <DamageEvent_Tornado.rulePack.rulesStrings>
-    <li>damageSource->testét [enveloped] egy [spiraling] tornádó</li>
+    <li>damage_source->testét [enveloped] egy [spiraling] tornádó</li>
     <li>destroyed_present(p=3)->széttépi</li>
     <li>spiraling->pörgő</li>
     <li>spiraling->kavargó</li>
