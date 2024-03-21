@@ -79,7 +79,7 @@
   <DesignatorUnforbidDesc>Tárgyak tiltásának feloldása. A gyarmatosok nem fognak olyan dolgokhoz nyúlni amik "Tiltott"-ak.</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
-  <DesignatorAreaHomeExpand>Lakókörzet kiterjesztése</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpand>Lakókörzet bővítése</DesignatorAreaHomeExpand>
   <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
   <DesignatorAreaHomeExpandDesc>Gyarmatosok csak ezen belül végeznek javításokat, takarítást, illetve tűzoltást.</DesignatorAreaHomeExpandDesc>
   <!-- EN: Clear home area -->
@@ -88,12 +88,12 @@
   <DesignatorAreaHomeClearDesc>Gyarmatosok itt többé nem végeznek javításokat, takarítást, illetve tűzoltást.</DesignatorAreaHomeClearDesc>
 
   <!-- EN: Build roof area -->
-  <DesignatorAreaBuildRoofExpand>Fedett körzet kiterjesztése</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpand>Fedett körzet bővítése</DesignatorAreaBuildRoofExpand>
   <!-- EN: Colonists will build roofs in this area. -->
   <DesignatorAreaBuildRoofExpandDesc>A gyarmatosok csak a kijelölt körzeten belül építenek tetőt.</DesignatorAreaBuildRoofExpandDesc>
 
   <!-- EN: Remove roof area -->
-  <DesignatorAreaNoRoofExpand>Fedetlen körzet kiterjesztése</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpand>Fedetlen körzet bővítése</DesignatorAreaNoRoofExpand>
   <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
   <DesignatorAreaNoRoofExpandDesc>A gyarmatosok eltávolítják a körzeten belüli tetőket (kivéve barlang).</DesignatorAreaNoRoofExpandDesc>
 
@@ -103,7 +103,7 @@
   <DesignatorAreaIgnoreRoofExpandDesc>A gyarmatosok itt nem fognak foglalkozni a fedéssel.</DesignatorAreaIgnoreRoofExpandDesc>
 
   <!-- EN: Snow removal area -->
-  <DesignatorAreaSnowClearExpand>Hómentes körzet kiterjesztése</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpand>Hómentes körzet bővítése</DesignatorAreaSnowClearExpand>
   <!-- EN: Create an area which colonists will try to keep clear of snow. -->
   <DesignatorAreaSnowClearExpandDesc>\nA körzeten belül a gyarmatosok ellapátolják a havat.</DesignatorAreaSnowClearExpandDesc>
   <!-- EN: Clear snow removal area -->
@@ -112,7 +112,7 @@
   <DesignatorAreaSnowClearClearDesc>\nA körzeten belül a gyarmatosok többé nem lapátolják el a havat.</DesignatorAreaSnowClearClearDesc>
 
   <!-- EN: Expand allowed area -->
-  <DesignatorExpandAreaAllowed>Megengedett körzet kiterjesztése</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowed>Megengedett körzet bővítése</DesignatorExpandAreaAllowed>
   <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
   <DesignatorExpandAreaAllowedDesc>\nEzeket a körzeteket hozzárendelheted a gyarmatosokhoz. Nem fognak munkát végezni vagy szükségleteket kielégíteni ezen a körzeten kívül.</DesignatorExpandAreaAllowedDesc>
   <!-- EN: Clear allowed area -->
@@ -141,7 +141,7 @@
   <DesignatorZoneDeleteDesc>Raktár-, illetve farmterület törlése.</DesignatorZoneDeleteDesc>
 
   <!-- EN: Expand zone -->
-  <DesignatorZoneExpand>Körzet kiterjesztése</DesignatorZoneExpand>
+  <DesignatorZoneExpand>Körzet bővítése</DesignatorZoneExpand>
   
   <!-- EN: Claim -->
   <DesignatorClaim>Foglal</DesignatorClaim>
