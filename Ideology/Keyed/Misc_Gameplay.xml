@@ -478,7 +478,7 @@
   <!-- EN: Hours per day to maintain -->
   <PruningHoursToMaintain>TODO</PruningHoursToMaintain>
   <!-- EN: Desired -->
-  <DesiredConnectionStrength>TODO</DesiredConnectionStrength>
+  <DesiredConnectionStrength>Kívánatos</DesiredConnectionStrength>
   <!-- EN: {CONNECTEDPAWN_nameDef} will prune {TREE_definite} often enough to keep connection strength above this level.\n\nHigher connection strength allows supporting more dryads, but also falls faster and thus takes more frequent pruning to maintain.\n\nYou can click on the bar to adjust the desired target connection strength.\n\nConnection strength fall per day: {FALL}\n\nConnection strength is affected by nearby buildings. -->
   <DesiredConnectionStrengthDesc>TODO</DesiredConnectionStrengthDesc>
   <!-- EN: Waiting for {CONNECTEDPAWN_nameDef} to change dryad caste. -->
@@ -565,9 +565,9 @@
   <Reward_ArchonexusMapPartLabel>TODO</Reward_ArchonexusMapPartLabel>
 
   <!-- EN: relics -->
-  <RelicsLower>TODO</RelicsLower>
+  <RelicsLower>ereklyék</RelicsLower>
   <!-- EN: relic -->
-  <RelicLower>TODO</RelicLower>
+  <RelicLower>ereklye</RelicLower>
 
   <!-- EN: Linked to -->
   <LinkedTo>TODO</LinkedTo>
