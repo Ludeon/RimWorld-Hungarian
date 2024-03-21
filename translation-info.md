@@ -13,7 +13,7 @@ biosculpter - fiatalító gép? testátalakító gép
 
 cryptosleep - hibernáló kapszula
 
-growth vat - növekedési kád, növesztő kád
+growth vat - növesztő tartály, növekedési kád
 
 gunlink - fegyverlencse?, célzóberendezés?
 

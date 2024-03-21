@@ -548,13 +548,13 @@
 
   <!-- Growth vat -->
   <!-- EN: Biostarvation -->
-  <Biostarvation>TODO</Biostarvation>
+  <Biostarvation>Bio-éhezés</Biostarvation>
   <!-- EN: One or more growth vats are experiencing biostarvation from lack of nutrition or power.\n\nIf biostarvation reaches 100%, the contained people will die. -->
-  <BiostarvationExplanation>TODO</BiostarvationExplanation>
+  <BiostarvationExplanation>Egy vagy több növesztő tartályban a tápanyag vagy az energia hiánya miatt éheznek.\n\nHa a bio-éhezés eléri a 100%-ot, a benne lévő emberek meghalnak.</BiostarvationExplanation>
   <!-- EN: Insert a person into the growth vat. They will age 20 times as fast as normal. -->
-  <InsertPersonGrowthVatDesc>TODO</InsertPersonGrowthVatDesc>
+  <InsertPersonGrowthVatDesc>Helyezz be egy személyt a növesztő tartályba. 20-szor olyan gyorsan öregszik, mint általában.</InsertPersonGrowthVatDesc>
   <!-- EN: Implant an embryo into the growth vat. After gestating for {0} a fully formed baby will be produced by the vat, hopefully in good health. -->
-  <InsertEmbryoGrowthVatDesc>TODO</InsertEmbryoGrowthVatDesc>
+  <InsertEmbryoGrowthVatDesc>Ültess be egy embriót a növesztő tartályba. {0} idő után egy teljesen kifejlett csecsemő születik a tartályban, remélhetőleg jó egészségben.</InsertEmbryoGrowthVatDesc>
   <!-- EN: Insert embryo -->
   <ImplantEmbryo>TODO</ImplantEmbryo>
   <!-- EN: Cannot insert embryo -->
@@ -572,7 +572,7 @@
   <!-- EN: Person selected -->
   <PersonSelected>TODO</PersonSelected>
   <!-- EN: No non-biostarving people of acceptable age. To enter the growth vat, the person must be below {0} years old and not currently biostarving. -->
-  <NoPawnsCanEnterGrowthVat>TODO</NoPawnsCanEnterGrowthVat>
+  <NoPawnsCanEnterGrowthVat>Nincsenek elfogadható korú, nem bio-éhező emberek. A növesztő tartályba való belépéshez a személynek {0} évesnél fiatalabbnak kell lennie és nem bio-éhezhet.</NoPawnsCanEnterGrowthVat>
   <!-- EN: Aging speed -->
   <AgingSpeed>TODO</AgingSpeed>
 
@@ -708,7 +708,7 @@
   <!-- EN: Cannot fertilize -->
   <FertilizeCannotFloatOption>TODO</FertilizeCannotFloatOption>
   <!-- EN: Choose a man to fertilize this ovum to create an embryo. The embryo can then be implanted in a mother to start a pregnancy, or in a growth vat. The biological parents of the resulting child will be the woman who provided the ovum and man who fertilized it. -->
-  <FertilizeGizmoDescription>TODO</FertilizeGizmoDescription>
+  <FertilizeGizmoDescription>Válassz egy férfit, aki megtermékenyíti ezt a petesejtet, hogy embriót hozzon létre. Az embriót ezután be lehet ültetni egy anyába a terhesség megkezdéséhez, vagy egy növesztő tartályba. A létrejövő gyermek biológiai szülei a petesejtet biztosító nő és a férfi, aki megtermékenyítette.</FertilizeGizmoDescription>
   <!-- EN: Cancel fertilization by {0} -->
   <FertilizeCancel>TODO</FertilizeCancel>
   <!-- EN: sterile -->
@@ -729,28 +729,28 @@
   <!-- EN: Implant this embryo in a surrogate mother to begin a pregnancy. -->
   <ImplantDescription>TODO</ImplantDescription>
   <!-- EN: Insert in growth vat -->
-  <InsertGrowthVatLabel>TODO</InsertGrowthVatLabel>
+  <InsertGrowthVatLabel>Helyezd be a növesztő tartályba</InsertGrowthVatLabel>
 
   <!-- EN: Cannot implant -->
   <ImplantCannotFloatOption>TODO</ImplantCannotFloatOption>
   <!-- EN: No woman can be a surrogate mother. -->
   <ImplantDisabledNoWomen>TODO</ImplantDisabledNoWomen>
   <!-- EN: No available growth vats. -->
-  <ImplantDisabledNoVats>TODO</ImplantDisabledNoVats>
+  <ImplantDisabledNoVats>Nincsenek elérhető növesztő tartályok.</ImplantDisabledNoVats>
   <!-- EN: Implant {0} -->
   <ImplantSurgeryLabel>TODO</ImplantSurgeryLabel>
   <!-- EN: The implantation success chance for the {0} in {1} is {2}.\n\nThe implantation success chance is dependent on the fertility of the surrogate mother. It will be lower if the mother is too old or too young. -->
   <ImplantSurgeryConfirm>TODO</ImplantSurgeryConfirm>
   <!-- EN: Ejecting the {0} from the growth vat right now will destroy it before a baby is formed.\n\nWould you like to continue? -->
-  <ImplantEmbryoCancelVat>TODO</ImplantEmbryoCancelVat>
+  <ImplantEmbryoCancelVat>Ha most kiveszed {0}-t a növesztő tartályból, az megsemmisül, mielőtt baba születhetne.\n\nSzeretnéd folytatni?</ImplantEmbryoCancelVat>
   <!-- EN: Implanting the {0} in {1} was unsuccessful. -->
   <ImplantFailedMessage>TODO</ImplantFailedMessage>
   <!-- EN: Cancel embryo insertion -->
   <ImplantEmbryoCancel>TODO</ImplantEmbryoCancel>
   <!-- EN: The {0} was ejected from a growth vat and destroyed. -->
-  <EmbryoEjectedFromGrowthVat>TODO</EmbryoEjectedFromGrowthVat>
+  <EmbryoEjectedFromGrowthVat>{0} kilökődött egy növesztő tartályból és megsemmisült.</EmbryoEjectedFromGrowthVat>
   <!-- EN: The {0} was destroyed in a growth vat due to biostarvation. -->
-  <EmbryoEjectedFromGrowthVatBiostarvation>TODO</EmbryoEjectedFromGrowthVatBiostarvation>
+  <EmbryoEjectedFromGrowthVatBiostarvation>{0} biológiai éhezés következtében megsemmisült egy növesztő tartályban.</EmbryoEjectedFromGrowthVatBiostarvation>
 
   <!-- EN: {0} has successfully become pregnant from embryo implantation! -->
   <IvfPregnancyLetterText>TODO</IvfPregnancyLetterText>
