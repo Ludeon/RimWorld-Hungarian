@@ -2,120 +2,120 @@
 <LanguageData>
   
   <!-- EN: infant illness -->
-  <InfantIllness.label>TODO</InfantIllness.label>
+  <InfantIllness.label>csecsemő betegség</InfantIllness.label>
   <!-- EN: Effects of various birth complications. If the baby can survive for 10 days, they will be strong enough to recover on their own.\n\nThe illness will wax and wane in strength over time, requiring different levels of tending and medicine to recover. -->
-  <InfantIllness.description>TODO</InfantIllness.description>
+  <InfantIllness.description>Különféle szülési komplikációk hatásai. Ha a baba 10 napig képes túlélni, elég erős lesz ahhoz, hogy magától felépüljön.\n\nA betegség idővel gyengül és gyengül, és különböző szintű ellátást és gyógyszert igényel a felépüléshez.</InfantIllness.description>
   <!-- EN: {PAWN_labelShort}'s infant illness went from {1} to {2}. -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>{PAWN_labelShort} csecsemőbetegsége {1}-ről {2}-re változott.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>
   <!-- EN: that are life threatening without exceptional medical care and glitterworld medicine. -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>amelyek rendkívüli orvosi ellátás és fejlett gyógyászat nélkül életveszélyesek.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>
   <!-- EN: grave -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>komoly</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>
   <!-- EN: that are life threatening without good medical care and standard medicine. -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>amelyek életveszélyesek jó orvosi ellátás és szokásos gyógyszeres kezelés nélkül.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>
   <!-- EN: bad -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>rossz</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>
   <!-- EN: that can be life threatening without basic medicine and tending. -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>ami alapvető gyógyszerek és gondozás nélkül életveszélyes lehet.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>
   <!-- EN: common -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>szokásos</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>
   <!-- EN: which make the baby slightly ill but, at this rate, they will recover on their own. -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>amelyek kissé megbetegítik a babát, de ilyen ütemben magától meggyógyulnak.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>
   <!-- EN: mild -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>TODO</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>enyhe</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>
   <!-- EN: Effects of various birth complications -->
-  <InfantIllness.descriptionShort>TODO</InfantIllness.descriptionShort>
+  <InfantIllness.descriptionShort>Különféle születési szövődmények hatásai</InfantIllness.descriptionShort>
   <!-- EN: minor -->
-  <InfantIllness.stages.minor.label>TODO</InfantIllness.stages.minor.label>
+  <InfantIllness.stages.minor.label>jelentéktelen</InfantIllness.stages.minor.label>
   <!-- EN: major -->
-  <InfantIllness.stages.major.label>TODO</InfantIllness.stages.major.label>
+  <InfantIllness.stages.major.label>jelentős</InfantIllness.stages.major.label>
   <!-- EN: extreme -->
-  <InfantIllness.stages.extreme-0.label>TODO</InfantIllness.stages.extreme-0.label>
+  <InfantIllness.stages.extreme-0.label>extrém</InfantIllness.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <InfantIllness.stages.extreme-1.label>TODO</InfantIllness.stages.extreme-1.label>
+  <InfantIllness.stages.extreme-1.label>szélsőséges</InfantIllness.stages.extreme-1.label>
   
   <!-- EN: lactating -->
-  <Lactating.label>TODO</Lactating.label>
+  <Lactating.label>szoptatás</Lactating.label>
   <!-- EN: The condition of being able to breastfeed a baby. The breasts are actively producing and storing milk. The lactating state begins when a mother gives birth, and continues indefinitely as long as she breastfeeds a baby at least once every 10 days.\n\nPeople who are lactating will have a harder time becoming pregnant. -->
-  <Lactating.description>TODO</Lactating.description>
+  <Lactating.description>A baba szoptatásának feltétele. A mellek aktívan termelnek és tárolnak tejet. A szoptatási állapot akkor kezdődik, amikor az anya megszül, és korlátlan ideig tart, amíg 10 naponta legalább egyszer szoptatja a babát.\n\nA szoptatók nehezebben esnek teherbe.</Lactating.description>
   <!-- EN: {0} is no longer lactating due to not breastfeeding for 10 days. -->
-  <Lactating.comps.HediffComp_MessageOnRemoval.message>TODO</Lactating.comps.HediffComp_MessageOnRemoval.message>
+  <Lactating.comps.HediffComp_MessageOnRemoval.message>{0} már nem szoptat, mert 10 napig nem szoptatott.</Lactating.comps.HediffComp_MessageOnRemoval.message>
   <!-- EN: milk fullness {CHARGEFACTOR_percentage} -->
-  <Lactating.comps.HediffComp_Lactating.labelInBrackets>TODO</Lactating.comps.HediffComp_Lactating.labelInBrackets>
+  <Lactating.comps.HediffComp_Lactating.labelInBrackets>tejjel teltség {CHARGEFACTOR_percentage}</Lactating.comps.HediffComp_Lactating.labelInBrackets>
   <!-- EN: {0} is no longer lactating due to malnutrition. -->
-  <Lactating.comps.HediffComp_RemoveIfOtherHediff.message>TODO</Lactating.comps.HediffComp_RemoveIfOtherHediff.message>
+  <Lactating.comps.HediffComp_RemoveIfOtherHediff.message>{0} már nem szoptat az alultápláltság miatt.</Lactating.comps.HediffComp_RemoveIfOtherHediff.message>
   
   <!-- EN: morning sickness -->
-  <MorningSickness.label>TODO</MorningSickness.label>
+  <MorningSickness.label>reggeli rosszullét</MorningSickness.label>
   <!-- EN: This is a common side effect of pregnancy, and despite the name isn't limited to mornings. While this is ongoing, the person suffers from nausea, dizziness, and fuzzy thinking. -->
-  <MorningSickness.description>TODO</MorningSickness.description>
+  <MorningSickness.description>Ez a terhesség gyakori mellékhatása, és annak ellenére, hogy a név nem korlátozódik a reggelekre. Amíg ez folyamatban van, a személy hányingertől, szédüléstől és homályos gondolkodástól szenved.</MorningSickness.description>
   
   <!-- EN: ovum extracted -->
-  <OvumExtracted.label>TODO</OvumExtracted.label>
+  <OvumExtracted.label>petesejt kivonva</OvumExtracted.label>
   <!-- EN: This woman recently underwent an ovum extraction procedure. No more ova can be extracted until some time has passed. -->
-  <OvumExtracted.description>TODO</OvumExtracted.description>
+  <OvumExtracted.description>Ezen a nőn nemrégiben petesejt-kivonási eljárást végeztek. Nem lehet több petesejtet kinyerni, amíg el nem telik egy kis idő.</OvumExtracted.description>
   
   <!-- EN: pollution stimulus -->
-  <PollutionStimulus.label>TODO</PollutionStimulus.label>
+  <PollutionStimulus.label>környezetszennyezési inger</PollutionStimulus.label>
   <!-- EN: This creature has been energized by exposure to pollution.\n\nThe pollution-stimulus response was originally engineered to help giant insects in their role as anti-mechanoid bioweapons. However, the gene has since been used to help people function in polluted areas as well. -->
-  <PollutionStimulus.description>TODO</PollutionStimulus.description>
+  <PollutionStimulus.description>Ezt a lényt a szennyezésnek való kitettség stimulálta.\n\nA szennyezés-ingerre adott választ eredetileg úgy tervezték, hogy segítse az óriási rovarokat antimechanoid biofegyverként. A gént azonban azóta is használják az emberek működésének elősegítésére a szennyezett területeken is.</PollutionStimulus.description>
   <!-- EN: This creature has been energized by exposure to pollution. -->
-  <PollutionStimulus.descriptionShort>TODO</PollutionStimulus.descriptionShort>
+  <PollutionStimulus.descriptionShort>Ezt a lényt a szennyezésnek való kitettség stimulálta.</PollutionStimulus.descriptionShort>
   <!-- EN: minor -->
-  <PollutionStimulus.stages.minor.label>TODO</PollutionStimulus.stages.minor.label>
+  <PollutionStimulus.stages.minor.label>enyhe</PollutionStimulus.stages.minor.label>
   <!-- EN: moderate -->
-  <PollutionStimulus.stages.moderate.label>TODO</PollutionStimulus.stages.moderate.label>
+  <PollutionStimulus.stages.moderate.label>közepes</PollutionStimulus.stages.moderate.label>
   <!-- EN: maximum -->
-  <PollutionStimulus.stages.maximum.label>TODO</PollutionStimulus.stages.maximum.label>
+  <PollutionStimulus.stages.maximum.label>maximum</PollutionStimulus.stages.maximum.label>
   
   <!-- EN: postpartum exhaustion -->
-  <PostpartumExhaustion.label>TODO</PostpartumExhaustion.label>
+  <PostpartumExhaustion.label>szülés utáni kimerültség</PostpartumExhaustion.label>
   <!-- EN: General after-effects of giving birth. This mother needs some time to physically recover. -->
-  <PostpartumExhaustion.description>TODO</PostpartumExhaustion.description>
+  <PostpartumExhaustion.description>A szülés általános utóhatásai. Ennek az anyának szüksége van egy kis időre, hogy fizikailag felépüljön.</PostpartumExhaustion.description>
   
   <!-- EN: labor (dilation) -->
-  <PregnancyLabor.label>TODO</PregnancyLabor.label>
+  <PregnancyLabor.label>vajúdás (tágulás)</PregnancyLabor.label>
   <!-- EN: The condition of being about to give birth. Labor moves through multiple stages with different levels of pain and contractions. Each labor is different, and pain can rise and fall unpredictably over time. Labor ends when the baby is born. -->
-  <PregnancyLabor.description>TODO</PregnancyLabor.description>
+  <PregnancyLabor.description>Szülés előtt álló állapot. A vajúdás több szakaszon megy keresztül, különböző szintű fájdalommal és összehúzódásokkal. Minden vajúdás más és más, és a fájdalom idővel kiszámíthatatlanul emelkedhet és csökkenhet. A szülés akkor ér véget, amikor a baba megszületik.</PregnancyLabor.description>
   <!-- EN: {PAWN_labelShort}'s labor went from {1} to {2}. -->
-  <PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>TODO</PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>
+  <PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>{PAWN_labelShort} vajúdása {1}-ről {2}-re változott.</PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>
   <!-- EN: mild -->
-  <PregnancyLabor.stages.mild.label>TODO</PregnancyLabor.stages.mild.label>
+  <PregnancyLabor.stages.mild.label>enyhe</PregnancyLabor.stages.mild.label>
   <!-- EN: intense -->
-  <PregnancyLabor.stages.intense.label>TODO</PregnancyLabor.stages.intense.label>
+  <PregnancyLabor.stages.intense.label>erős</PregnancyLabor.stages.intense.label>
   <!-- EN: debilitating -->
-  <PregnancyLabor.stages.debilitating.label>TODO</PregnancyLabor.stages.debilitating.label>
+  <PregnancyLabor.stages.debilitating.label>legyengítő</PregnancyLabor.stages.debilitating.label>
   
   <!-- EN: labor (pushing) -->
-  <PregnancyLaborPushing.label>TODO</PregnancyLaborPushing.label>
+  <PregnancyLaborPushing.label>vajúdás (nyomás)</PregnancyLaborPushing.label>
   <!-- EN: The baby is descending the birth canal and the mother has a strong urge to push. The birth is imminent. -->
-  <PregnancyLaborPushing.description>TODO</PregnancyLaborPushing.description>
+  <PregnancyLaborPushing.description>A baba lefelé halad a szülőcsatornán és az anyának erős késztetése van a nyomásra. A szülés küszöbön áll.</PregnancyLaborPushing.description>
   
   <!-- EN: pregnancy mood -->
-  <PregnancyMood.label>TODO</PregnancyMood.label>
+  <PregnancyMood.label>terhességi hangulat</PregnancyMood.label>
   <!-- EN: This common side effect of pregnancy represents a rising and falling mood caused by unbalanced hormones. -->
-  <PregnancyMood.description>TODO</PregnancyMood.description>
+  <PregnancyMood.description>A terhesség ezen gyakori mellékhatása a hormonok kiegyensúlyozatlansága által okozott emelkedő és csökkenő hangulat.</PregnancyMood.description>
   
   <!-- EN: pregnant -->
   <PregnantHuman.label>terhes</PregnantHuman.label>
   <!-- EN: A baby growing inside a woman, preparing to be born. In humans, pregnancy lasts for 18 days and is divided into 3 trimesters. As the pregnancy grows it will reduce the mother's mobility. For some mothers, pregnancy may induce nausea or mood swings that can be hard to deal with. -->
-  <PregnantHuman.description>TODO</PregnantHuman.description>
+  <PregnantHuman.description>Egy nőben születésre készülődő baba növekszik. Emberben a terhesség 18 napig tart és 3 trimeszterre oszlik. A terhesség növekedésével az anya mozgékonysága csökken. Egyes anyáknál a terhesség hányingert vagy hangulati ingadozásokat okozhat, amelyeket nehéz kezelni.</PregnantHuman.description>
   <!-- EN: {0_labelShort} pregnant -->
   <PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>{0_labelShort} terhes</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>
   <!-- EN: {0_labelShort} is pregnant! -->
   <PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>{0_labelShort} terhes!</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>
   <!-- EN: pregnancy -->
-  <PregnantHuman.labelNoun>TODO</PregnantHuman.labelNoun>
+  <PregnantHuman.labelNoun>terhesség</PregnantHuman.labelNoun>
   <!-- EN: first trimester -->
-  <PregnantHuman.stages.first_trimester.label>TODO</PregnantHuman.stages.first_trimester.label>
+  <PregnantHuman.stages.first_trimester.label>első trimeszter</PregnantHuman.stages.first_trimester.label>
   <!-- EN: second trimester -->
-  <PregnantHuman.stages.second_trimester.label>TODO</PregnantHuman.stages.second_trimester.label>
+  <PregnantHuman.stages.second_trimester.label>második trimeszter</PregnantHuman.stages.second_trimester.label>
   <!-- EN: third trimester -->
-  <PregnantHuman.stages.third_trimester.label>TODO</PregnantHuman.stages.third_trimester.label>
+  <PregnantHuman.stages.third_trimester.label>harmadik trimeszter</PregnantHuman.stages.third_trimester.label>
   
   <!-- EN: stillborn -->
-  <Stillborn.label>TODO</Stillborn.label>
+  <Stillborn.label>halva született</Stillborn.label>
   <!-- EN: This baby died due to non-specific complications during pregnancy. -->
-  <Stillborn.description>TODO</Stillborn.description>
+  <Stillborn.description>Ez a baba a terhesség alatti nem specifikus szövődmények miatt halt meg.</Stillborn.description>
   
 </LanguageData>

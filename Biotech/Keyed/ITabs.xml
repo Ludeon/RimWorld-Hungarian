@@ -5,40 +5,40 @@
   <RecipeRequiresMechanitor>Ehhez a {0} recepthez robotmester munkája szükséges. Egyik telepesed sem robotmester, így senki sem tudja ezt megtenni.</RecipeRequiresMechanitor>
 
   <!-- EN: genepacks -->
-  <GenepackPlural>TODO</GenepackPlural>
+  <GenepackPlural>Géncsomagok</GenepackPlural>
   <!-- EN: Traits develop later during childhood -->
-  <TraitsDevelopLaterBaby>TODO</TraitsDevelopLaterBaby>
+  <TraitsDevelopLaterBaby>A tulajdonságok később, gyermekkorban alakulnak ki</TraitsDevelopLaterBaby>
   <!-- EN: Skills develop later during childhood -->
-  <SkillsDevelopLaterBaby>TODO</SkillsDevelopLaterBaby>
+  <SkillsDevelopLaterBaby>A készségek később, gyermekkorban fejlődnek</SkillsDevelopLaterBaby>
   <!-- EN: Genes -->
-  <TabGenes>TODO</TabGenes>
+  <TabGenes>Gének</TabGenes>
 
   <!-- EN: View genes -->
-  <ViewGenes>TODO</ViewGenes>
+  <ViewGenes>Gének megtekintése</ViewGenes>
   <!-- EN: Click to view {PAWN_nameDef}'s genes. -->
-  <ViewGenesDesc>TODO</ViewGenesDesc>
+  <ViewGenesDesc>Kattints ide {PAWN_nameDef} génjeinek megtekintéséhez.</ViewGenesDesc>
 
   <!-- Feeding tab (human babies) -->
   <!-- EN: Feeding -->
-  <TabFeeding>TODO</TabFeeding>
+  <TabFeeding>Táplálás</TabFeeding>
   <!-- EN: Auto feed settings -->
-  <AutofeedSectionHeader>TODO</AutofeedSectionHeader>
+  <AutofeedSectionHeader>Automatikus táplálási beállítások</AutofeedSectionHeader>
   <!-- EN: never -->
-  <AutofeedModeNever>TODO</AutofeedModeNever>
+  <AutofeedModeNever>soha</AutofeedModeNever>
   <!-- EN: childcare -->
-  <AutofeedModeChildcare>TODO</AutofeedModeChildcare>
+  <AutofeedModeChildcare>dada</AutofeedModeChildcare>
   <!-- EN: urgent -->
-  <AutofeedModeUrgent>TODO</AutofeedModeUrgent>
+  <AutofeedModeUrgent>sürgős</AutofeedModeUrgent>
   <!-- EN: Nobody can feed this baby. -->
-  <AutofeedNone>TODO</AutofeedNone>
+  <AutofeedNone>Senki sem tudja táplálni ezt a babát.</AutofeedNone>
   <!-- EN: {FEEDER_nameDef} will not automatically feed {BABY_nameDef}. -->
-  <AutofeedModeTooltipNever>TODO</AutofeedModeTooltipNever>
+  <AutofeedModeTooltipNever>{FEEDER_nameDef} nem eteti automatikusan {BABY_nameDef} babát.</AutofeedModeTooltipNever>
   <!-- EN: {FEEDER_nameDef} will feed {BABY_nameDef} as childcare work. -->
-  <AutofeedModeTooltipChildcare>TODO</AutofeedModeTooltipChildcare>
+  <AutofeedModeTooltipChildcare>{FEEDER_nameDef} {BABY_nameDef} dadája lesz.</AutofeedModeTooltipChildcare>
   <!-- EN: {FEEDER_nameDef} will feed {BABY_nameDef} day or night, even if {FEEDER_nameDef} is not assigned to childcare or is incapable of childcare. -->
-  <AutofeedModeTooltipUrgent>TODO</AutofeedModeTooltipUrgent>
+  <AutofeedModeTooltipUrgent>{FEEDER_nameDef} éjjel-nappal táplálja {BABY_nameDef} babát még akkor is, ha {FEEDER_nameDef} nincs gyermekfelügyeletre kijelölve vagy nem képes gyermekgondozásra.</AutofeedModeTooltipUrgent>
   <!-- EN: Consumable foods -->
-  <BabyFoodConsumables>TODO</BabyFoodConsumables>
+  <BabyFoodConsumables>Fogyasztható élelmiszerek</BabyFoodConsumables>
 
   <!-- Social tab (human babies) -->
   <!-- EN: ideoligion exposure -->
@@ -60,7 +60,7 @@
 
   <!-- Social tab (romance) -->
   <!-- EN: Romance -->
-  <TryRomanceButtonLabel>TODO</TryRomanceButtonLabel>
+  <TryRomanceButtonLabel>Románc</TryRomanceButtonLabel>
   <!-- EN: Nobody for {0_labelShort} to romance. -->
   <TryRomanceNoOptsMessage>TODO</TryRomanceNoOptsMessage>
   <!-- EN: unreachable -->

@@ -184,75 +184,75 @@
 
   <!-- Deathrest buildings -->
   <!-- EN: Bound to -->
-  <BoundTo>TODO</BoundTo>
+  <BoundTo>Hozzákötve</BoundTo>
   <!-- EN: Will bind permanently on first use. -->
   <WillBindOnFirstUse>Első használatkor végleges összekötés keletkezik.</WillBindOnFirstUse>
   <!-- EN: Time active this deathrest -->
-  <TimeActiveThisDeathrest>TODO</TimeActiveThisDeathrest>
+  <TimeActiveThisDeathrest>Aktív idő ebben a mélyalvásban</TimeActiveThisDeathrest>
   <!-- EN: Minimum is {0} to apply -->
-  <MinimumNeededToApply>TODO</MinimumNeededToApply>
+  <MinimumNeededToApply>Minimum {0} az alkalmazáshoz</MinimumNeededToApply>
   <!-- EN: Cannot deathrest -->
-  <CannotAssignBedCannotDeathrest>TODO</CannotAssignBedCannotDeathrest>
+  <CannotAssignBedCannotDeathrest>Mélyalvás nem lehetséges</CannotAssignBedCannotDeathrest>
   <!-- EN: Already bound to {0_nameDef} -->
-  <CannotAssignAlreadyBound>TODO</CannotAssignAlreadyBound>
+  <CannotAssignAlreadyBound>Már hozzá van kötve a következőhöz: {0_nameDef}</CannotAssignAlreadyBound>
   <!-- EN: Cannot bind to more {BUILDING_labelPlural} -->
-  <CannotAssignBedCannotBindToMoreBuildings>TODO</CannotAssignBedCannotBindToMoreBuildings>
+  <CannotAssignBedCannotBindToMoreBuildings>Nem köthető több {BUILDING_labelPlural} elemhez</CannotAssignBedCannotBindToMoreBuildings>
 
   <!-- Aptitudes -->
   <!-- EN: aptitude -->
-  <Aptitude>TODO</Aptitude>
+  <Aptitude>rátermettség</Aptitude>
   <!-- EN: aptitudes -->
-  <Aptitudes>TODO</Aptitudes>
+  <Aptitudes>rátermettség</Aptitudes>
   <!-- EN: aptitudes -->
-  <AptitudePlural>TODO</AptitudePlural>
+  <AptitudePlural>rátermettségek</AptitudePlural>
   <!-- EN: Aptitude makes an individual perform at a higher or lower level than their learned skill.\n\nFor example, an aptitude of +1 for a skill means that a person with level 5 in that skill will perform as though they were at level 6.\n\nThe total value cannot exceed level 20 or fall below level 1. -->
-  <AptitudesDesc>TODO</AptitudesDesc>
+  <AptitudesDesc>A rátermettség arra készteti az egyént, hogy magasabb vagy alacsonyabb szinten teljesítsen, mint a tanult készsége.\n\nPéldául, ha egy adott képességre +1-es rátermettség, az azt jelenti, hogy az adott képesség 5. szintjével rendelkező személy úgy teljesít, mintha a 6. szinten lenne. \n\nA teljes érték nem haladhatja meg a 20. szintet és nem eshet az 1. szint alá.</AptitudesDesc>
   <!-- EN: total -->
-  <Total>TODO</Total>
+  <Total>teljes</Total>
   
   <!-- Human pregnancy -->
   <!-- EN: Father -->
-  <FatherTip>TODO</FatherTip>
+  <FatherTip>Apa</FatherTip>
   <!-- EN: Genetic mother -->
-  <MotherTip>TODO</MotherTip>
+  <MotherTip>Genetikai anya</MotherTip>
   <!-- EN: an unoccupied bed -->
-  <RitualTargetChildBirth>TODO</RitualTargetChildBirth>
+  <RitualTargetChildBirth>egy üres ágy</RitualTargetChildBirth>
   <!-- EN: No appropriate bed for giving birth. -->
-  <NoAppropriateBedChildBirth>TODO</NoAppropriateBedChildBirth>
+  <NoAppropriateBedChildBirth>Nincs megfelelő ágy a szüléshez.</NoAppropriateBedChildBirth>
   <!-- EN: No doctor around. -->
-  <NoDoctorChildBirth>TODO</NoDoctorChildBirth>
+  <NoDoctorChildBirth>Nincs orvos a közelben.</NoDoctorChildBirth>
   <!-- EN: Can't use this bed. -->
-  <CantUseThisBed>TODO</CantUseThisBed>
+  <CantUseThisBed>Ezt az ágyat nem lehet használni.</CantUseThisBed>
   <!-- EN: Not in labor. -->
-  <NotInLabor>TODO</NotInLabor>
+  <NotInLabor>Nem vajúdik.</NotInLabor>
   <!-- EN: labor -->
-  <Labor>TODO</Labor>
+  <Labor>vajúdás</Labor>
   <!-- EN: dilation -->
-  <LaborDilation>TODO</LaborDilation>
+  <LaborDilation>tágulás</LaborDilation>
   <!-- EN: normal -->
-  <PregnancyApproach_Normal>TODO</PregnancyApproach_Normal>
+  <PregnancyApproach_Normal>normál</PregnancyApproach_Normal>
   <!-- EN: avoid pregnancy -->
-  <PregnancyApproach_AvoidPregnancy>TODO</PregnancyApproach_AvoidPregnancy>
+  <PregnancyApproach_AvoidPregnancy>elkerülni a terhességet</PregnancyApproach_AvoidPregnancy>
   <!-- EN: try for baby -->
-  <PregnancyApproach_TryForBaby>TODO</PregnancyApproach_TryForBaby>
+  <PregnancyApproach_TryForBaby>megpróbálkozni a teherbe eséssel</PregnancyApproach_TryForBaby>
   <!-- EN: pregnancy chance -->
-  <PregnancyChance>TODO</PregnancyChance>
+  <PregnancyChance>terhesség esélye</PregnancyChance>
   <!-- EN: Pregnancy approach -->
-  <PregnancyApproach>TODO</PregnancyApproach>
+  <PregnancyApproach>Terhességi megközelítés</PregnancyApproach>
   <!-- EN: Click to change pregnancy approach. -->
-  <ClickToChangePregnancyApproach>TODO</ClickToChangePregnancyApproach>
+  <ClickToChangePregnancyApproach>Kattintson a terhességi megközelítés megváltoztatásához.</ClickToChangePregnancyApproach>
   <!-- EN: Pregnancy is not possible -->
-  <PregnancyNotPossible>TODO</PregnancyNotPossible>
+  <PregnancyNotPossible>Terhesség nem lehetséges</PregnancyNotPossible>
   <!-- EN: The chance of a healthy birth at this quality level was {0_percentage}. -->
-  <BirthRitualHealthyBabyChance>TODO</BirthRitualHealthyBabyChance>
+  <BirthRitualHealthyBabyChance>Az egészséges születés esélye ezen a minőségi szinten {0_percentage} volt.</BirthRitualHealthyBabyChance>
   <!-- EN: Giving birth. -->
-  <GivingBirth>TODO</GivingBirth>
+  <GivingBirth>Szülni.</GivingBirth>
 
   <!-- Shield comp -->
   <!-- EN: Shield energy -->
-  <ShieldEnergy>TODO</ShieldEnergy>
+  <ShieldEnergy>Pajzs energia</ShieldEnergy>
   <!-- EN: Time to recovery -->
-  <ShieldTimeToRecovery>TODO</ShieldTimeToRecovery>
+  <ShieldTimeToRecovery>Feltöltődési idő</ShieldTimeToRecovery>
 
   <!-- Genes -->
   <!-- EN: genes -->
@@ -312,17 +312,17 @@
   <!-- EN: any -->
   <AnyLower>bármi</AnyLower>
   <!-- EN: Archite total -->
-  <ArchitesTotal>TODO</ArchitesTotal>
+  <ArchitesTotal>Archita összesen</ArchitesTotal>
   <!-- EN: Archite capsules -->
-  <ArchitesRequired>TODO</ArchitesRequired>
+  <ArchitesRequired>Archita kapszulák</ArchitesRequired>
   <!-- EN: Archites are archotech mechanites - microscopic devices which can operate directly on cells and molecules, created by superintelligent archotechs. They are capable of unexplainable feats, and some genes only function when supported by the otherworldly machinery of the archotechs. Humans cannot create archites - only find them when an archotech happens to produce some for its own unknowable reason. -->
-  <ArchitesRequiredDesc>TODO</ArchitesRequiredDesc>
+  <ArchitesRequiredDesc>Az architák archotech gépek - mikroszkopikus eszközök, amelyek közvetlenül a sejteken és molekulákon működnek, szuperintelligens archotechek alkották meg. Megmagyarázhatatlan bravúrokra képesek, és egyes gének csak akkor működnek, ha az archetechek túlvilági gépezete támogatja őket. Az emberek nem tudnak architákat létrehozni – csak akkor találhatják meg ezeket, ha egy architech saját, ismeretlen okból készít valamit.</ArchitesRequiredDesc>
   <!-- EN: Cancel xenogerm -->
   <CancelXenogerm>TODO</CancelXenogerm>
   <!-- EN: Stop all work on the current xenogerm. -->
   <CancelXenogermDesc>TODO</CancelXenogermDesc>
   <!-- EN: Allow all genepacks -->
-  <AllowAllGenepacks>TODO</AllowAllGenepacks> 
+  <AllowAllGenepacks>Engedélyezze az összes géncsomagot</AllowAllGenepacks> 
   <!-- EN: Whether or not colonists are allowed to automatically store any genepack into this container. Turn this off if you want to specify which specific genepacks should be stored here. -->
   <AllowAllGenepacksDesc>TODO</AllowAllGenepacksDesc> 
   <!-- EN: The genepacks currently inside this container. -->

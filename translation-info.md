@@ -34,7 +34,7 @@ deathrest - mélyalvás, tetszhalál?, "halálos nyugalom"?, vámpír módra "pi
 
 ### ARCHOTECH
 
-archite - archita (apró gépek idegen techológiából)
+archite - archita (apró gépek idegen techológiából, nanotechnológia)
 
 ### XENOTYPES - xenotípusok
 
