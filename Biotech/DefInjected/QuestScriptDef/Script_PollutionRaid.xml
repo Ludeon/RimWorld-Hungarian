@@ -5,14 +5,21 @@
     <li>retaliationLetterLabel->pollution retaliation</li>
     <li>retaliationLetterText->A group of [enemyFaction_pawnsPlural] from [enemyFaction_name] have arrived nearby.\n\nThey are attacking to retaliate against you for dumping toxic waste outside your own colony, which they believe has harmed their faction.</li>
   -->
-  <PollutionRaid.questContentRules.rulesStrings>TODO</PollutionRaid.questContentRules.rulesStrings>
+  <PollutionRaid.questContentRules.rulesStrings>
+    <li>retaliationLetterLabel->környezetszennyezés megtorlása</li>
+    <li>retaliationLetterText->A közelbe érkezett [enemyFaction_name] frakció egy csoportja ([enemyFaction_pawnsPlural]).\n\nMegtorlásul támadnak, amiért mérgező hulladékot dobtál ki saját kolóniádon kívül, ami szerintük ártott a frakciójuknak.</li>
+  </PollutionRaid.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->pollutionraid</li>
   -->
-  <PollutionRaid.questDescriptionRules.rulesStrings>TODO</PollutionRaid.questDescriptionRules.rulesStrings>
+  <PollutionRaid.questDescriptionRules.rulesStrings>
+    <li>questDescription->pollutionraid</li>
+  </PollutionRaid.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questDescription->pollutionraid</li>
   -->
-  <PollutionRaid.questNameRules.rulesStrings>TODO</PollutionRaid.questNameRules.rulesStrings>
+  <PollutionRaid.questNameRules.rulesStrings>
+    <li>questDescription->pollutionraid</li>
+  </PollutionRaid.questNameRules.rulesStrings>
   
 </LanguageData>

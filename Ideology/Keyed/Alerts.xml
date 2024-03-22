@@ -2,72 +2,72 @@
 <LanguageData>
 
   <!-- EN: Need slave beds -->
-  <NeedSlaveBeds>TODO</NeedSlaveBeds>
+  <NeedSlaveBeds>Rabszolga ágyak kellenek</NeedSlaveBeds>
   <!-- EN: You have more slaves than you have slave beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a colonist or prisoner bed to a slave bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedSlaveBedsDesc>TODO</NeedSlaveBedsDesc>
+  <NeedSlaveBedsDesc>Több rabszolgád van, mint rabszolgaágyad. Valakinek így hiányzik az fekhelye.\n\nVagy készíts több ágyat, vagy cseréld le a telepes- vagy rabágyat rabszolga ágyra.\n\nHa nincs most erőforrásod rá, a fekhelyek ingyenesek és azonnal elhelyezhetők.</NeedSlaveBedsDesc>
 
   <!-- EN: Slave unsuppressed -->
-  <SlavesUnsuppressedLabel>TODO</SlavesUnsuppressedLabel>
+  <SlavesUnsuppressedLabel>Rabszolga nincs elnyomva</SlavesUnsuppressedLabel>
   <!-- EN: {0_nameDef}'s suppression level is dangerously low. There is a good chance {0_pronoun} will rebel.\n\nMake sure there is a colonist assigned to warden work. Wardens will suppress slaves periodically to stop them from rebelling. -->
-  <SlavesUnsuppressedDesc>TODO</SlavesUnsuppressedDesc>
+  <SlavesUnsuppressedDesc>{0_nameDef} elnyomási szintje veszélyesen alacsony. Jó esély van arra, hogy fellázadjon.\n\nGyőződj meg arról, hogy van egy telepes, aki felügyeli a munkát. A felügyelők időnként elnyomják a rabszolgákat, hogy megakadályozzák a lázadásukat.</SlavesUnsuppressedDesc>
   <!-- EN: Slave unattended -->
-  <SlaveUnattendedLabel>TODO</SlaveUnattendedLabel>
+  <SlaveUnattendedLabel>Rabszolga felügyelet nélkül</SlaveUnattendedLabel>
   <!-- EN: Slaves unattended -->
-  <SlaveUnattendedMultipleLabel>TODO</SlaveUnattendedMultipleLabel>
+  <SlaveUnattendedMultipleLabel>Rabszolgák felügyelet nélkül</SlaveUnattendedMultipleLabel>
   <!-- EN: Some slaves are alone on a map with no able-bodied colonists around.\n\nSlaves left unattended like this are very likely to rebel within days or hours. -->
-  <SlavesUnattendedDesc>TODO</SlavesUnattendedDesc>
+  <SlavesUnattendedDesc>Egyes rabszolgák egyedül vannak a térképen, ép telepesek nélkül.\n\nAz ilyen felügyelet nélkül hagyott rabszolgák nagy valószínűséggel napokon vagy órákon belül fellázadnak.</SlavesUnattendedDesc>
 
   <!-- EN: {0} opportunity -->
-  <RitualOpportunity>TODO</RitualOpportunity>
+  <RitualOpportunity>{0} lehetőség</RitualOpportunity>
   <!-- EN: {0} opportunity for {1} -->
-  <RitualOpportunityFor>TODO</RitualOpportunityFor>
+  <RitualOpportunityFor>{0} lehetőség {1} számára</RitualOpportunityFor>
   <!-- EN: Expires in {0}, on {1}. -->
-  <RitualExpiresIn>TODO</RitualExpiresIn>
+  <RitualExpiresIn>Lejár: {0} múlva, ekkor: {1}.</RitualExpiresIn>
   <!-- EN: To begin the ritual, select a {FOCUS} and click the 'Begin {RITUAL_label}' command. -->
-  <RitualSingleTargetDesc>TODO</RitualSingleTargetDesc>
+  <RitualSingleTargetDesc>A rituálé megkezdéséhez válassz egy {FOCUS} pontot és kattints a '{RITUAL_label} megkezdése' parancsra.</RitualSingleTargetDesc>
   <!-- EN: To begin the ritual, select one of the following and click the 'Begin {RITUAL_label}' command -->
-  <RitualMultiTargetDesc>TODO</RitualMultiTargetDesc>
+  <RitualMultiTargetDesc>A rituálé megkezdéséhez válassz egyet az alábbiak közül és kattints a '{RITUAL_label} megkezdése' parancsra</RitualMultiTargetDesc>
   <!-- EN: To begin the ritual, select a focus object and click the 'Begin {RITUAL_label}' command. The following are valid focus objects:\n{1} -->
-  <RitualTargetsExplanation>TODO</RitualTargetsExplanation>
+  <RitualTargetsExplanation>A rituálé megkezdéséhez válassz ki egy fókuszobjektumot és kattints a '{RITUAL_label} megkezdése' parancsra. A következők érvényes fókuszobjektumok:\n{1}</RitualTargetsExplanation>
   <!-- EN: Click to jump to targets -->
-  <RitualJumpToTargets>TODO</RitualJumpToTargets>
+  <RitualJumpToTargets>Kattints a célpontokhoz való ugráshoz</RitualJumpToTargets>
   <!-- EN: In order to perform {0} you need to fill these roles -->
-  <RitualUnfilledRoles>TODO</RitualUnfilledRoles>
+  <RitualUnfilledRoles>{0} teljesítéséhez ezeket a szerepköröket kell betöltenie</RitualUnfilledRoles>
 
   <!-- EN: {0} desired -->
-  <IdeoBuildingMissing>TODO</IdeoBuildingMissing>
+  <IdeoBuildingMissing>{0} hiányzik</IdeoBuildingMissing>
   <!-- EN: {IDEO_name} requires that you have a {0} in your colony as long as {2} or higher.\n\n{0} is a variant of {BASEBUILDING_label}.{BUILDINGINFO}\n\nThis requirement is only active if {IDEO_name} is your faction's primary ideoligion, or there are {MINBELIEVERS} believers in your faction.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3} -->
-  <IdeoBuildingMissingDesc>TODO</IdeoBuildingMissingDesc>
+  <IdeoBuildingMissingDesc>{IDEO_name} ideológiája megköveteli, hogy legyen egy {0} a kolóniáján legalább {2}.\n\nA {0} a {BASEBUILDING_label} változata.{BUILDINGINFO}\n\nEz a követelmény csak akkor aktív, ha {IDEO_name} a frakciód elsődleges hitvallása, vagy {MINBELIEVERS} hívő van a frakciódban.{4}\n\nHa a követelmény nem teljesül, ezek a hívők boldogtalanok lesznek:\n{3}</IdeoBuildingMissingDesc>
   <!-- EN:  You can find it by opening the '{TABNAME}' tab of the architect menu. -->
-  <IdeoBuildingArchitectTabDesc>TODO</IdeoBuildingArchitectTabDesc>
+  <IdeoBuildingArchitectTabDesc>Megtalálhatod az Építés menü '{TABNAME}' lapjának megnyitásával.</IdeoBuildingArchitectTabDesc>
   <!-- EN:  It can be created at:\n{0}. -->
-  <IdeoBuildingCanBeCraftedAt>TODO</IdeoBuildingCanBeCraftedAt>
+  <IdeoBuildingCanBeCraftedAt>Létrehozható itt:\n{0}.</IdeoBuildingCanBeCraftedAt>
   <!-- EN: In order to dignify {0}, these room requirements must be met -->
-  <IdeoBuildingRoomRequirementsDesc>TODO</IdeoBuildingRoomRequirementsDesc>
+  <IdeoBuildingRoomRequirementsDesc>{0} méltóságához meg kell felelnie ezeknek a szobakövetelményeknek</IdeoBuildingRoomRequirementsDesc>
   <!-- EN: expectations are -->
-  <IdeoBuildingExpectations>TODO</IdeoBuildingExpectations>
+  <IdeoBuildingExpectations>az elvárások ezek</IdeoBuildingExpectations>
 
   <!-- EN: {0} disrespected -->
-  <IdeoBuildingDisrespected>TODO</IdeoBuildingDisrespected>
+  <IdeoBuildingDisrespected>{0} nincs tisztelve</IdeoBuildingDisrespected>
   <!-- EN: {0} requires that {1} be in a dignified room. These room requirements must be met:\n{2}\n\nIf the {1}'s room requirements are not met, these believers will become unhappy:\n{3} -->
-  <IdeoBuildingDisrespectedDesc>TODO</IdeoBuildingDisrespectedDesc>
+  <IdeoBuildingDisrespectedDesc>{0} ideológiája megköveteli, hogy {1} méltó szobában legyen. A következő szobakövetelményeknek kell teljesülniük:\n{2}\n\nHa {1} szobakövetelményei nem teljesülnek, ezek a hívők boldogtalanok lesznek:\n{3}</IdeoBuildingDisrespectedDesc>
   
   <!-- EN: Raids arriving in {0} -->
-  <QuestPartRaidsDelay>TODO</QuestPartRaidsDelay>
+  <QuestPartRaidsDelay>Rajtaütés érkezik {0} múlva</QuestPartRaidsDelay>
   <!-- EN: Raids will start arriving in {0}.\n\nThe raiders will target the spacedrone and attempt to destroy it. Protect the spacedrone so your colonists can hack its computer and retrieve the data. -->
-  <QuestPartRaidsDelayDesc>TODO</QuestPartRaidsDelayDesc>
+  <QuestPartRaidsDelayDesc>Rajtaütés érkezik {0} múlva.\n\nA támadók megcélozzák az űrdront, és megpróbálják elpusztítani azt. Védd meg az űrdront, hogy a gyarmatosítóid feltörhessék a számítógépét és lekérhessék az adatokat.</QuestPartRaidsDelayDesc>
 
   <!-- EN: {0} role unfilled -->
-  <IdeoRoleEmpty>TODO</IdeoRoleEmpty>
+  <IdeoRoleEmpty>{0} szerepkör betöltetlen</IdeoRoleEmpty>
   <!-- EN: {0} roles unfilled -->
-  <IdeoRolesEmpty>TODO</IdeoRolesEmpty>
+  <IdeoRolesEmpty>{0} szerepkörök betöltetlenek</IdeoRolesEmpty>
   <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab. You can also select a ritual spot or an altar and click 'Begin role change'. \n\nIf these roles remain empty, the following people will be unhappy -->
-  <IdeoRolesEmptyDesc>TODO</IdeoRolesEmptyDesc>
+  <IdeoRolesEmptyDesc>Ezek a szerepkörök nincsenek betöltve:\n{0}\n\nValakihez szerepkört rendelhetsz a 'Szociális' lapján. Kiválaszthatsz egy rituális helyet vagy oltárt is és kattinthatsz a 'Szerepváltás megkezdése' gombra. \n\nHa ezek a szerepkörök üresek maradnak, a következő emberek boldogtalanok lesznek</IdeoRolesEmptyDesc>
 
   <!-- EN: Security threats activated in {0} -->
-  <AncientAltarThreatsWaking>TODO</AncientAltarThreatsWaking>
+  <AncientAltarThreatsWaking>Biztonsági fenyegetések aktiválva itt: {0}</AncientAltarThreatsWaking>
   <!-- EN: Security threats will activate in {0}. They will attack any who may threaten the relic. -->
-  <AncientAltarThreatsWakingDesc>TODO</AncientAltarThreatsWakingDesc>
+  <AncientAltarThreatsWakingDesc>A biztonsági fenyegetések ekkor aktiválódnak: {0}. Megtámadnak mindenkit, aki fenyegetheti az ereklyét.</AncientAltarThreatsWakingDesc>
 
   <!-- EN: Ritual opportunity soon -->
   <AlertRitualComing>Hamarosan rituális lehetőség</AlertRitualComing>
@@ -85,43 +85,43 @@
   <!-- EN: {PAWN} joined {FACTION} recently, and wants to begin age reversal treatments in {DURATION}. -->
   <AlertAgeReversalDemandDesc_Recruit>{PAWN} nemrég csatlakozott a(z) {FACTION} csoporthoz és el akarja kezdeni az életkor csökkentő kezeléseket {DURATION} múlva.</AlertAgeReversalDemandDesc_Recruit>
   <!-- EN: {PAWN} wants their next treatment in {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Next>TODO</AlertAgeReversalDemandDesc_Next>
+  <AlertAgeReversalDemandDesc_Next>{PAWN} a következő kezelést {DURATION} múlva szeretné.</AlertAgeReversalDemandDesc_Next>
   <!-- EN: {PAWN} wants their first treatment in {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Initial>TODO</AlertAgeReversalDemandDesc_Initial>
+  <AlertAgeReversalDemandDesc_Initial>{PAWN} az első kezelést {DURATION} múlva szeretné.</AlertAgeReversalDemandDesc_Initial>
   <!-- EN: {PAWN}'s treatment is overdue by {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Overdue>TODO</AlertAgeReversalDemandDesc_Overdue>
+  <AlertAgeReversalDemandDesc_Overdue>{PAWN} kezelésének határideje {DURATION}.</AlertAgeReversalDemandDesc_Overdue>
 
   <!-- EN: {PAWN_nameDef}'s belief in {IDEO_name} prevents {PAWN_objective} from eating the meat of {ANIMALS}. -->
-  <AlertRoyalTitleNoVeneratedAnimalMeat>TODO</AlertRoyalTitleNoVeneratedAnimalMeat>
+  <AlertRoyalTitleNoVeneratedAnimalMeat>{PAWN_nameDef} {IDEO_name} ideológiája megakadályozza, hogy {PAWN_objective} {ÁLLATOK} húsát megegye.</AlertRoyalTitleNoVeneratedAnimalMeat>
 
   <!-- EN: Dryad caste not set -->
-  <AlertGauranlenTreeWithoutDryadTypeLabel>TODO</AlertGauranlenTreeWithoutDryadTypeLabel>
+  <AlertGauranlenTreeWithoutDryadTypeLabel>Dryad kaszt nincs beállítva</AlertGauranlenTreeWithoutDryadTypeLabel>
   <!-- EN: One or more Gauranlen trees do not have their dryad caste set.\n\nSelect the tree and click the '{0}' button to set produced dryad caste. -->
-  <AlertGauranlenTreeWithoutDryadTypeDesc>TODO</AlertGauranlenTreeWithoutDryadTypeDesc>
+  <AlertGauranlenTreeWithoutDryadTypeDesc>Egy vagy több Gauranlen fának nincs beállítva a driád kasztja.\n\nVálaszd ki a fát, és kattints a '{0}' gombra az előállított driád kaszt beállításához.</AlertGauranlenTreeWithoutDryadTypeDesc>
   <!-- EN: Connector not assigned to plant cutting -->
-  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>TODO</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
+  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>A csatlakozó nincs növényvágáshoz hozzárendelve</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
   <!-- EN: You have Gauranlen trees which are set to be pruned, but their connectors are not assigned to plant cutting.\n\nYou should assign plant cutting work to the following people -->
-  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>TODO</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
+  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>Vannak Gauranlen fái, amelyek metszésre vannak beállítva, de a csatlakozóik nincsenek hozzárendelve növényvágáshoz.\n\nA következő személyekhez rendelje hozzá a növényvágási munkákat</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
 
   <!-- EN: Fuel node explodes in {0} -->
-  <AlertFuelNodeIgniting>TODO</AlertFuelNodeIgniting>
+  <AlertFuelNodeIgniting>Üzemanyag csomópont {0} múlva felrobban</AlertFuelNodeIgniting>
   <!-- EN: A fuel node has ignited! It will melt down and explode very soon.\n\nGet away and be ready to fight or escape the fires. -->
-  <AlertFuelNodeIgnitingDesc>TODO</AlertFuelNodeIgnitingDesc>
+  <AlertFuelNodeIgnitingDesc>Egy üzemanyag-csomópont kigyulladt! Nagyon hamar megolvad és felrobban.\n\nMenj el és készülj fel a harcra vagy a tüzek elől való menekülésre.</AlertFuelNodeIgnitingDesc>
 
   <!-- EN: Insects arriving in {0} -->
-  <AlertInfestationArriving>TODO</AlertInfestationArriving>
+  <AlertInfestationArriving>Rovarok érkeznek {0} múlva</AlertInfestationArriving>
   <!-- EN: Giant insects have sensed your activity and are burrowing up from underground to attack. Infestations are about to begin. -->
-  <AlertInfestationArrivingDesc>TODO</AlertInfestationArrivingDesc>
+  <AlertInfestationArrivingDesc>Óriás rovarok érzékelték tevékenységedet, és a föld alól kiásva magukat fognak támadni. A rovarinvázió hamarosan elkezdődik.</AlertInfestationArrivingDesc>
 
   <!-- EN: {0_pawnsPlural} waking in {1} -->
-  <AlertHostilesWakingUp>TODO</AlertHostilesWakingUp>
+  <AlertHostilesWakingUp>{0_pawnsPlural} felébred {1} múlva</AlertHostilesWakingUp>
   <!-- EN: One or more {0_pawnsPlural} are waking up.\n\nThey will attack if they find you. -->
-  <AlertHostilesWakingUpDesc>TODO</AlertHostilesWakingUpDesc>
+  <AlertHostilesWakingUpDesc>Egy vagy több {0_pawnsPlural} felébred.\n\nTámadni fognak, ha megtalálnak.</AlertHostilesWakingUpDesc>
 
   <!-- EN: Cryptosleep caskets opening in {0} -->
-  <AlertCasketOpening>TODO</AlertCasketOpening>
+  <AlertCasketOpening>Hibernáló kapszula {0} múlva kinyílik</AlertCasketOpening>
   <!-- EN: Cryptosleep caskets containing unknown threats are opening soon. -->
-  <AlertCasketOpeningDesc>TODO</AlertCasketOpeningDesc>
+  <AlertCasketOpeningDesc>Hamarosan megnyílnak az ismeretlen fenyegetéseket tartalmazó hibernáló kapszulák.</AlertCasketOpeningDesc>
 
   <!-- EN: Slave rebellion likely -->
   <AlertSlaveRebellionLikely>Valószínű rabszolgalázadás</AlertSlaveRebellionLikely>
