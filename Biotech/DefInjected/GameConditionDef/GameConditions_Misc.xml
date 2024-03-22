@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: acidic smog -->
-  <NoxiousHaze.label>TODO</NoxiousHaze.label>
+  <NoxiousHaze.label>savas szmog</NoxiousHaze.label>
   <!-- EN: Acidic smog is caused by pollution in nearby world tiles. It slows plant growth, deteriorates exposed items, and reduces mood.\n\nThe current world tile has a nearby pollution score of {NEARBYPOLLUTION}, calculated by adding up pollution of nearby world tiles. This means that, on average, acidic smog will occur every {MTB} days. -->
-  <NoxiousHaze.description>TODO</NoxiousHaze.description>
+  <NoxiousHaze.description>A savas szmogot a közeli világmezők szennyezése okozza. Lassítja a növények növekedését, rontja a kültéri tárgyakat és csökkenti a hangulatot.\n\nAz aktuális világmező közeli szennyezési pontszáma {NEARBYPOLLUTION}, amelyet a közeli világmezők szennyezettségének összeadásával számítunk ki. Ez azt jelenti, hogy átlagosan {MTB} naponként fordul elő savas szmog.</NoxiousHaze.description>
   <!-- EN: The acidic smog is lifting. -->
-  <NoxiousHaze.endMessage>TODO</NoxiousHaze.endMessage>
+  <NoxiousHaze.endMessage>A savas szmog növekszik.</NoxiousHaze.endMessage>
   <!-- EN: Acidic smog has begun due to pollution in this region of the world. -->
-  <NoxiousHaze.startMessage>TODO</NoxiousHaze.startMessage>
+  <NoxiousHaze.startMessage>A világ ezen régiójában a szennyezés miatt savas szmog kezdődött.</NoxiousHaze.startMessage>
   
 </LanguageData>
