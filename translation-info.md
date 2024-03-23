@@ -27,6 +27,10 @@ mechanoid - robot
 
 mechlink - gépkapcsolat, robot link, kapcsolódás egy robothoz implantátummal
 
+bulb turret - lövegtorony?
+
+tunneler - alagútjáró
+
 ### Sanguophage
 
 deathrest - mélyalvás, tetszhalál?, "halálos nyugalom"?, vámpír módra "pihenés"?
