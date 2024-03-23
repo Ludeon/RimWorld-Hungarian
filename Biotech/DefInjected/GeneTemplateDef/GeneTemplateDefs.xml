@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: {0} impervious -->
-  <AddictionImmune.label>TODO</AddictionImmune.label>
+  <AddictionImmune.label>{0} immúnis</AddictionImmune.label>
   <!-- EN: Carriers of this gene never get addicted to {0}. -->
-  <AddictionImmune.description>TODO</AddictionImmune.description>
+  <AddictionImmune.description>Ennek a génnek a hordozói soha nem válnak függővé {0}-tól.</AddictionImmune.description>
   <!-- EN: {0}-impervious -->
-  <AddictionImmune.labelShortAdj>TODO</AddictionImmune.labelShortAdj>
+  <AddictionImmune.labelShortAdj>{0}-immúnis</AddictionImmune.labelShortAdj>
   
   <!-- EN: {0} resistant -->
-  <AddictionResistant.label>TODO</AddictionResistant.label>
+  <AddictionResistant.label>{0} ellenálló</AddictionResistant.label>
   <!-- EN: Carriers are only half as likely to become addicted to {0}. -->
-  <AddictionResistant.description>TODO</AddictionResistant.description>
+  <AddictionResistant.description>A hordozói csak feleakkora valószínűséggel válnak {0} rabjává.</AddictionResistant.description>
   <!-- EN: {0}-resistant -->
-  <AddictionResistant.labelShortAdj>TODO</AddictionResistant.labelShortAdj>
+  <AddictionResistant.labelShortAdj>{0}-ellenálló</AddictionResistant.labelShortAdj>
   
   <!-- EN: poor {0} -->
-  <AptitudePoor.label>TODO</AptitudePoor.label>
+  <AptitudePoor.label>gyenge {0}</AptitudePoor.label>
   <!-- EN: The carrier's aptitude in {0} is reduced by 4. Aptitude acts like an offset on skill level. -->
-  <AptitudePoor.description>TODO</AptitudePoor.description>
+  <AptitudePoor.description>A hordozó rátermettsége {0} képességben 4-gyel csökken. A rátermettség a képzettségi szint eltolásaként hat.</AptitudePoor.description>
   
   <!-- EN: great {0} -->
-  <AptitudeRemarkable.label>TODO</AptitudeRemarkable.label>
+  <AptitudeRemarkable.label>nagyszerű {0}</AptitudeRemarkable.label>
   <!-- EN: The carrier's aptitude in {0} is increased by 8. Aptitude acts like an offset on skill level. Additionally, one level of passion is added to {0}. -->
-  <AptitudeRemarkable.description>TODO</AptitudeRemarkable.description>
+  <AptitudeRemarkable.description>A hordozó rátermettsége {0} képességben 8-cal nő. A rátermettség a képzettségi szint eltolásaként hat. Ezenkívül egy szenvedélyszint is hozzáadódik {0} szakértelemhez.</AptitudeRemarkable.description>
   
   <!-- EN: strong {0} -->
-  <AptitudeStrong.label>TODO</AptitudeStrong.label>
+  <AptitudeStrong.label>erős {0}</AptitudeStrong.label>
   <!-- EN: The carrier's aptitude in {0} is increased by 4. Aptitude acts like an offset on skill level. -->
-  <AptitudeStrong.description>TODO</AptitudeStrong.description>
+  <AptitudeStrong.description>A hordozó rátermettsége {0} képességben 4-gyel nő. A rátermettség a képzettségi szint eltolásaként hat.</AptitudeStrong.description>
   
   <!-- EN: awful {0} -->
-  <AptitudeTerrible.label>TODO</AptitudeTerrible.label>
+  <AptitudeTerrible.label>szörnyű {0}</AptitudeTerrible.label>
   <!-- EN: The carrier's aptitude in {0} is reduced by 8. Aptitude acts like an offset on skill level. Additionally, all passion is removed from {0}. -->
-  <AptitudeTerrible.description>TODO</AptitudeTerrible.description>
+  <AptitudeTerrible.description>A hordozó rátermettsége {0} képességben 8-cal csökken. A rátermettség a képzettségi szint eltolásaként hat. Ezenkívül {0} szakértelmen minden szenvedélye megszűnt.</AptitudeTerrible.description>
   
   <!-- EN: {0} dependency -->
   <ChemicalDependency.label>{0} függőség</ChemicalDependency.label>
