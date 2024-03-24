@@ -29,7 +29,11 @@ mechlink - gépkapcsolat, robot link, kapcsolódás egy robothoz implantátummal
 
 bulb turret - lövegtorony?
 
+agrihand - agrobot (mint agrár robot :)
+
 tunneler - alagútjáró
+
+
 
 ### Sanguophage
 
