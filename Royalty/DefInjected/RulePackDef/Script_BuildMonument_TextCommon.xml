@@ -27,7 +27,33 @@
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->You have failed the quest '[resolvedQuestName]'.</li>
     <li>failLetterEndingCommon->You have failed the quest '[resolvedQuestName]'.\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</li>
   -->
-  <QuestConstructionDescriptionCommon.rulePack.rulesStrings>TODO</QuestConstructionDescriptionCommon.rulePack.rulesStrings>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Titokzatos üzenet érkezett. Úgy tűnik, hogy egy mesterséges intelligencia továbbította, amely nem hajlandó megnevezni magát. Az üzenet azt kéri, hogy építs egy nagyon sajátos emlékművet.\n\n[commonEnding]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameFull] ([asker_faction_leaderTitle]), [asker_faction_name] frakciójából azt kéri, építs műemléket [buildReason].\n\n[commonEnding]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameFull] ([asker_royalTitleInCurrentFaction]), [asker_faction_name] frakciójából azt kéri, építs emlékművet [buildReason].\n\n[commonEnding]</li>
+    <li>asker2(askerIsNull==true)->az archotech</li>
+    <li>asker2(asker_factionLeader==True)->[asker_nameDef]</li>
+    <li>asker2(asker_royalInCurrentFaction==True)->a(z) [asker_royalTitleInCurrentFaction]</li>
+    <li>buildReason->megemlékezni [PersonFamily] rokonának [PersonalCharacteristic] tulajdonságáról</li>
+    <li>buildReason->a saját [PersonalCharacteristic] tulajdonságának emlékéről</li>
+    <li>buildReason->riválisának [PersonalCharacterist] sértegetésének céljából</li>
+    <li>buildReason->hogy csökkentsd az emberek ellenérzéseit a(z) [ConceptAngsty] témájával kapcsolatban</li>
+    <li>buildReason->annak kifejezésére, hogy milyen [AdjectiveBadass] is ő</li>
+    <li>buildReason->megemlékezni azon [asker_faction_pawnsPlural] hősiességéről, akik elestek a csatában</li>
+    <li>buildReason->[PersonFamily] rokonának tiszteletére</li>
+    <li>buildReason->a [PersonJob] hivatás tiszteletére</li>
+    <li>buildReason->, hogy az a [gloryPoss] emlékét terjessze szerte a világban</li>
+    <li>gloryPoss->dicsőségének</li>
+    <li>gloryPoss->harcias becsületének</li>
+    <li>gloryPoss->győzelmének</li>
+    <li>gloryPoss->trónusának</li>
+    <li>gloryPoss->nagy hajójának</li>
+    <li>gloryPoss->gazdagságának</li>
+    <li>gloryPoss->nagyszerűségének</li>
+    <li>gloryPoss->családjának</li>
+    <li>failLetterEndingCommon(askerIsNull==true,priority=1)->Sikertelen volt a küldetés: '[resolvedQuestName]'.</li>
+    <li>failLetterEndingCommon->Elbuktad a '[resolvedQuestName]' küldetést.\n\n[asker_faction_name] frakcióval való kapcsolatod [goodwillPenalty] ponttal csökkent.</li>
+  </QuestConstructionDescriptionCommon.rulePack.rulesStrings>
   
   <!-- EN:
     <li>questName->[constAdj] [construction]</li>
@@ -58,6 +84,36 @@
     <li>construction->blueprint</li>
     <li>construction->assembly</li>
   -->
-  <QuestConstructionNameCommon.rulePack.rulesStrings>TODO</QuestConstructionNameCommon.rulePack.rulesStrings>
+  <QuestConstructionNameCommon.rulePack.rulesStrings>
+    <li>questName->[constAdj] [construction]</li>
+    <li>questName->Egy [constAdj] [construction]</li>
+    <li>constAdj(p=10)->[AdjectiveLarge]</li>
+    <li>constAdj->szörnyű</li>
+    <li>constAdj->nagyszerű</li>
+    <li>constAdj->nagy</li>
+    <li>constAdj->veszélyes</li>
+    <li>constAdj->monumentális</li>
+    <li>constAdj->extravagáns</li>
+    <li>constAdj->rosszemlékű</li>
+    <li>constAdj->rosszhírű</li>
+    <li>constAdj->rémítő</li>
+    <li>constAdj->rémisztő</li>
+    <li>constAdj->félelmetes</li>
+    <li>constAdj->látványos</li>
+    <li>constAdj->fantasztikus</li>
+    <li>constAdj->prófétikus</li>
+    <li>constAdj->szívszaggató</li>
+    <li>constAdj->csillogó</li>
+    <li>constAdj->fénylő</li>
+    <li>constAdj->csodálatos</li>
+    <li>construction(p=3)->építkezés</li>
+    <li>construction(p=2)->épület</li>
+    <li>construction(p=2)->műemlék</li>
+    <li>construction(p=2)->emlékmű</li>
+    <li>construction->struktúra</li>
+    <li>construction->tervrajz</li>
+    <li>construction->építés</li>
+    <li>construction->építmény</li>
+  </QuestConstructionNameCommon.rulePack.rulesStrings>
   
 </LanguageData>

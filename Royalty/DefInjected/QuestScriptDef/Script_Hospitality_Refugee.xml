@@ -154,15 +154,15 @@
     <li>lodgersPossessive(lodgerCount>=2)->their</li>
     <li>lodgersSingularOrPluralDef(lodgerCount==1)->[asker_nameDef]</li>
     <li>lodgersSingularOrPluralDef(lodgerCount>=2)->a(z) [lodgersLabelPlural]</li>
-    <li>questDescription(lodgerCount==1)->[approachInfo] [claimInfo] [asker_nameDef] engedélyt kér, hogy [map_definite] helyen maradhasson [questDurationTicks_duration] időtartamra, hogy pihenhessen és összeszedhesse magát.\n\nCserébe [offer], hogy ezalatt az idő alatt ingyen dolgozik és harcol.\n\n[joinInfo] A későbbiekben megjutalmazhat a segítségért - de nem lehet tudni valódi szándékait.\n\n[travelerInfo] nem tagja egyetlen frakciónak sem. Ha akarod megölheted, letartóztathatod, eladhatod vagy feldolgozhatod őt diplomáciai következmények nélkül.</li>
-    <li>questDescription(lodgerCount>=2)->[approachInfo] [claimInfo] [asker_nameDef] engedélyt kér, hogy [map_definite] helyen maradhasson [questDurationTicks_duration] időtartamra, hogy pihenhessenek és összeszedhessék magukat.\n\nCserébe [offer], hogy ezalatt az idő alatt ingyen dolgoznak és harcolnak.\n\n[joinInfo] A későbbiekben megjutalmazhatnak a segítségért - de nem lehet tudni valódi szándékaikat.\n\n[travelerInfo] nem tagjai egyetlen frakciónak sem. Ha akarod megölheted, letartóztathatod, eladhatod vagy feldolgozhatod őket diplomáciai következmények nélkül.</li>
+    <li>questDescription(lodgerCount==1)->[approachInfo] [claimInfo] [asker_nameDef] engedélyt kér, hogy [map_definite] helyen maradhasson [questDurationTicks_duration]ra, hogy pihenhessen és összeszedhesse magát.\n\nCserébe [offer], hogy ezalatt az idő alatt ingyen dolgozik és harcol.\n\n[joinInfo] A későbbiekben megjutalmazhat a segítségért - de nem lehet tudni valódi szándékait.\n\n[travelerInfo] nem tagja egyetlen frakciónak sem. Ha akarod megölheted, letartóztathatod, eladhatod vagy feldolgozhatod őt diplomáciai következmények nélkül.</li>
+    <li>questDescription(lodgerCount>=2)->[approachInfo] [claimInfo] [asker_nameDef] engedélyt kér, hogy [map_definite] helyen maradhasson [questDurationTicks_duration]ra, hogy pihenhessenek és összeszedhessék magukat.\n\nCserébe [offer], hogy ezalatt az idő alatt ingyen dolgoznak és harcolnak.\n\n[joinInfo] A későbbiekben megjutalmazhatnak a segítségért - de nem lehet tudni valódi szándékaikat.\n\n[travelerInfo] nem tagjai egyetlen frakciónak sem. Ha akarod megölheted, letartóztathatod, eladhatod vagy feldolgozhatod őket diplomáciai következmények nélkül.</li>
     <li>approachInfo(lodgerCount==1)->Egy kétségbeesett [asker_nameDef] nevű [faction_pawnSingular] közeledik.</li>
     <li>approachInfo(lodgerCount==2)->[asker_nameDef] és egy másik [faction_pawnSingular] közeledik.</li>
     <li>approachInfo(lodgerCount==2,childCount==1,priority=1)->[asker_nameDef] közeledik egy gyerekkel a nyomában.</li>
-    <li>approachInfo(lodgerCount>=3)->[lodgerCount] kétségbeesett [faction_pawnsPlural] közeledik. A vezetőjük neve: [asker_nameDef].</li>
-    <li>approachInfo(lodgerCount>=3,childCount==1,priority=1)->[lodgerCount] desperate [faction_pawnsPlural] including a child are approaching. Their leader is called [asker_nameDef].</li>
-    <li>approachInfo(lodgerCount>=3,childCount>=2,priority=1)->[lodgerCount] desperate [faction_pawnsPlural] including some children are approaching. Their leader is called [asker_nameDef].</li>
-    <li>approachInfo(lodgerCount>=3,allButOneChildren==true,priority=2)->A group of [lodgerCount] desperate [faction_pawnsPlural] are approaching consisting of [asker_nameDef] and [lodgersCountMinusOne] children [asker_pronoun] has taken under [asker_possessive] wing.</li>
+    <li>approachInfo(lodgerCount>=3)->[lodgerCount] kétségbeesett [faction_pawnSingular] közeledik. A vezetőjük neve: [asker_nameDef].</li>
+    <li>approachInfo(lodgerCount>=3,childCount==1,priority=1)->[lodgerCount] kétségbeesett [faction_pawnSingular] közeledik, köztük van egy gyermek is. Vezetőjük [asker_nameDef] néven mutatkozik be.</li>
+    <li>approachInfo(lodgerCount>=3,childCount>=2,priority=1)->[lodgerCount] kétségbeesett [faction_pawnSingular] közeledik, beleértve néhány gyermeket is. Vezetőjük [asker_nameDef] néven mutatkozik be.</li>
+    <li>approachInfo(lodgerCount>=3,allButOneChildren==true,priority=2)->[lodgerCount] tagból álló [faction_pawnsPlural] kétségbeesett csoportja közeledik, amely [asker_nameDef] vezetőből és szárnyai alatt [lodgersCountMinusOne] gyerekekből áll.</li>
     <li>claimInfo(lodgerCount==1)->[asker_nameDef] azt állítja, hogy egy közelmúltbeli támadás során elvesztette az otthonát.</li>
     <li>claimInfo(lodgerCount==1)->[asker_nameDef] azt állítja, hogy egyedül és barátok nélkül ébredt fel a hibernáló alvásból.</li>
     <li>claimInfo(lodgerCount==1)->[asker_nameDef] azt állítja, hogy a bosszúálló volt szeretője üldözte el az otthonából.</li>
@@ -170,9 +170,9 @@
     <li>claimInfo(lodgerCount>=2)->Azt állítják, hogy egy közelmúltbeli támadásban veszítették el otthonukat.</li>
     <li>claimInfo(lodgerCount>=2)->Azt állítják, hogy megúszták a szervkivételt.</li>
     <li>claimInfo(lodgerCount>=2)->Azt mondják, egy rabszolgakaravánból szöktek meg.</li>
-    <li>claimInfo(lodgerCount>=2)->Azt mondják, hogy a növényvész éheztette ki őket falujukból.</li>
+    <li>claimInfo(lodgerCount>=2)->Azt mondják, hogy a növényvész éheztette ki őket a falujukban.</li>
     <li>claimInfo(lodgerCount>=2)->Azt mondják, hatalmas villámvihar égette le az otthonukat.</li>
-    <li>claimInfo(lodgerCount>=2)->Azt mondják, a karavánjukat megtámadták és mindent elvesztettek.</li>
+    <li>claimInfo(lodgerCount>=2)->Azt mondják, a karavánjukat megtámadták és mindenüket elvesztették.</li>
     <li>claimInfo(lodgerCount>=2)->Azt mondják, erkölcsi nézeteltérések miatt száműzték őket városukból.</li>
     <li>joinInfo(lodgerCount==1)->Ha boldoggá teszed őt, felajánlhatja, hogy csatlakozik hozzád.</li>
     <li>joinInfo(lodgerCount>=2)->Ha boldoggá teszed őket, néhányuk felajánlhatja, hogy csatlakozik hozzád.</li>
@@ -212,24 +212,28 @@
     <li>lodgerPlural->vagabonds</li>
   -->
   <Hospitality_Refugee.questNameRules.rulesStrings>
-    <li>questName(lodgerCount==1)->[asker_nameDef] the [lodgerAdj]</li>
-    <li>questName(lodgerCount==1)->[athe] [lodgerAdj] [lodgerSingle]</li>
+    <li>questName(lodgerCount==1)->[asker_nameDef], a [lodgerAdj]</li>
+    <li>questName(lodgerCount==1)->[asker_nameDef], az [lodgerAdjVowel]</li>
+    <li>questName(lodgerCount==1)->egy [lodgerAdj] [lodgerSingle]</li>
+    <li>questName(lodgerCount==1)->a [lodgerAdj] [lodgerSingle]</li>
+    <li>questName(lodgerCount==1)->a [lodgerAdjVowel] [lodgerSingle]</li>
+    <li>questName(lodgerCount==1)->az [lodgerAdjVowel] [lodgerSingle]</li>
     <li>questName(p=2,lodgerCount>=2)->[lodgerAdj] [lodgerPlural]</li>
-    <li>questName(lodgerCount>=2)->[asker_nameDef]'s [lodgerAdj] [lodgerPlural]</li>
-    <li>questName(lodgerCount>=2)->[asker_nameDef]'s [lodgerPlural]</li>
-    <li>athe->egy</li>
-    <li>athe->a</li>
+    <li>questName(p=2,lodgerCount>=2)->[lodgerAdjVowel] [lodgerPlural]</li>
+    <li>questName(lodgerCount>=3)->[asker_nameDef] és [lodgerAdj] [lodgerPoss]</li>
+    <li>questName(lodgerCount>=3)->[asker_nameDef] és [lodgerAdjVowel] [lodgerPoss]</li>
+    <li>questName(lodgerCount>=3)->[asker_nameDef] és [lodgerPoss]</li>
     <li>lodgerAdj->fáradt</li>
-    <li>lodgerAdj->elveszett</li>
     <li>lodgerAdj->nyomorgó</li>
     <li>lodgerAdj->szegény</li>
     <li>lodgerAdj->kétségbeesett</li>
     <li>lodgerAdj->szomorú</li>
     <li>lodgerAdj->poros</li>
     <li>lodgerAdj->reménytelen</li>
-    <li>lodgerAdj->ismeretlen</li>
     <li>lodgerAdj->kétségbeesett</li>
-    <li>lodgerAdj->elhagyott</li>
+    <li>lodgerAdjVowel->elveszett</li>
+    <li>lodgerAdjVowel->ismeretlen</li>
+    <li>lodgerAdjVowel->elhagyott</li>
     <li>lodgerSingle->utazó</li>
     <li>lodgerSingle->menekült</li>
     <li>lodgerSingle->sodródó</li>
@@ -242,6 +246,9 @@
     <li>lodgerPlural->túlélők</li>
     <li>lodgerPlural->nomádok</li>
     <li>lodgerPlural->csavargók</li>
+    <li>lodgerPoss->csavargói</li>
+    <li>lodgerPoss->társai</li>
+    <li>lodgerPoss->utazótársai</li>
   </Hospitality_Refugee.questNameRules.rulesStrings>
   
   <!-- EN:
