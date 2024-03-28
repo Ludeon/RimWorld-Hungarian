@@ -93,13 +93,13 @@
   <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>az állattal nemrég foglalkoztak</AnimalInteractedTooRecently>
   <!-- EN: interacted with too recently -->
-  <PrisonerInteractedTooRecently>TODO</PrisonerInteractedTooRecently>
+  <PrisonerInteractedTooRecently>nemrégiben kommunikált</PrisonerInteractedTooRecently>
   <!-- EN: no usable food -->
   <NoUsableFood>nincs felhasználható étel</NoUsableFood>
   <!-- EN: no food -->
   <NoFood>nincs étel</NoFood>
   <!-- EN: no food matching restrictions -->
-  <NoFoodMatchingRestrictions>TODO</NoFoodMatchingRestrictions>
+  <NoFoodMatchingRestrictions>nincsenek étel-elfogadási korlátozások</NoFoodMatchingRestrictions>
   <!-- EN: No {0_label} -->
   <NoIngredient>Nincs {0_label}</NoIngredient>
   <!-- EN: below requirements of {0} -->
@@ -167,13 +167,13 @@
   <!-- EN: already installed -->
   <InstallImplantAlreadyInstalled>már be van ültetve</InstallImplantAlreadyInstalled>
   <!-- EN: requires an existing {0} -->
-  <InstallImplantHediffRequired>TODO</InstallImplantHediffRequired>
+  <InstallImplantHediffRequired>meglévő {0} szükséges</InstallImplantHediffRequired>
   <!-- EN: max level -->
   <InstallImplantAlreadyMaxLevel>max szint</InstallImplantAlreadyMaxLevel>
   <!-- EN: requires min level {0} -->
   <InstallImplantMinLevel>min {0} szint szükséges</InstallImplantMinLevel>
   <!-- EN: psychically deaf -->
-  <InstallImplantPsychicallyDeaf>TODO</InstallImplantPsychicallyDeaf>
+  <InstallImplantPsychicallyDeaf>pszichésen süket</InstallImplantPsychicallyDeaf>
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>{0} feljavítása erre: {1}</UpgradeImplant>
   <!-- EN: violation of faction ally -->
@@ -181,9 +181,9 @@
   <!-- EN: being carried by {0_labelShort} -->
   <BeingCarriedBy>{0_labelShort} szállítja</BeingCarriedBy>
   <!-- EN: full -->
-  <ContainerFull>TODO</ContainerFull>
+  <ContainerFull>tele</ContainerFull>
   <!-- EN: already assigned -->
-  <AlreadyAssigned>TODO</AlreadyAssigned>
+  <AlreadyAssigned>már hozzárendelve</AlreadyAssigned>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>Elfogyaszt: {1_labelShort}</ConsumeThing>
@@ -207,14 +207,14 @@
   <!-- EN: Cannot capture -->
   <CannotCapture>Nem tudja elfogni</CannotCapture>
   <!-- EN: unwaveringly loyal -->
-  <Unrecruitable>TODO</Unrecruitable>
+  <Unrecruitable>rendíthetetlenül hűséges</Unrecruitable>
 
   <!-- EN: Rescue {1_label} -->
   <Rescue>Mentsd meg őt: {1_label}</Rescue>
   <!-- EN: Put {1_label} somewhere safe -->
-  <PutSomewhereSafe>TODO</PutSomewhereSafe>
+  <PutSomewhereSafe>{1_label} címkét biztonságos helyre viszi</PutSomewhereSafe>
   <!-- EN: Taking {0_labelShort} to bed. -->
-  <TakingToBed>TODO</TakingToBed>
+  <TakingToBed>{0_labelShort} lefetetése.</TakingToBed>
   <!-- EN: Cannot rescue -->
   <CannotRescue>Nem tudja megmenteni</CannotRescue>
 
@@ -256,7 +256,7 @@
   <!-- EN: incapable of {0} -->
   <IncapableOfCapacity>alkalmatlan erre: {0}</IncapableOfCapacity>
   <!-- EN: Must have {0_label} -->
-  <MustHaveHediff>TODO</MustHaveHediff>
+  <MustHaveHediff>{0_label} kell</MustHaveHediff>
 
   <!-- EN: min skill -->
   <MinSkill>min. készség</MinSkill>
@@ -282,20 +282,20 @@
   <CannotWearBecauseOfMissingBodyParts>hiányzó testrész</CannotWearBecauseOfMissingBodyParts>
   
   <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
-  <Reload>TODO</Reload>
+  <Reload>{GEAR_labelShort} újratöltése {AMMO_label} lövedékkel</Reload>
   <!-- EN: Full -->
-  <ReloadFull>TODO</ReloadFull>
+  <ReloadFull>Tele</ReloadFull>
   <!-- EN: Too few -->
-  <ReloadNotEnough>TODO</ReloadNotEnough>
+  <ReloadNotEnough>Túl kevés</ReloadNotEnough>
   <!-- EN: Cannot carry enough {AMMO_label} to reload 1 charge. -->
-  <ReloadCannotCarryEnough>TODO</ReloadCannotCarryEnough>
+  <ReloadCannotCarryEnough>Nem tud elegendő {AMMO_label} lövedéket vinni egy töltéshez.</ReloadCannotCarryEnough>
   
   <!-- EN: Cannot pick up {1_labelShort} -->
   <CannotPickUp>Nem lehet felvenni ezt: {1_label}</CannotPickUp>
   <!-- EN: Cannot pick up {1_label} (all) -->
   <CannotPickUpAll>Nem lehet felvenni az összest: {1_label}</CannotPickUpAll>
   <!-- EN: Pick up {1_labelShort} x1 -->
-  <PickUpOne>TODO</PickUpOne>
+  <PickUpOne>Felvenni: {1_labelShort} x1</PickUpOne>
   <!-- EN: Pick up {1_label} (all) -->
   <PickUpAll>Felvenni az összest: {1_label}</PickUpAll>
   <!-- EN: Pick up {1_labelShort}... -->
@@ -360,9 +360,9 @@
   <WouldReplaceLockedApparel>zárolt ruházatot cserélne le</WouldReplaceLockedApparel>
 
   <!-- EN: Cannot place {0_label} in {1_label} -->
-  <CannotPlaceIn>TODO</CannotPlaceIn>
+  <CannotPlaceIn>{0_label} nem helyezhető el ebben: {1_label}</CannotPlaceIn>
   <!-- EN: Place {0_label} in {1_label} -->
-  <PlaceIn>TODO</PlaceIn>
+  <PlaceIn>{0_label} elhelyezése ebben: {1_label}</PlaceIn>
 
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>Önmegsemmisítés itt</SelfDestructHere>
@@ -375,7 +375,7 @@
   <!-- EN: not injured -->
   <NotInjured>Nem sérült</NotInjured>
   <!-- EN: no doctor -->
-  <NoDoctor>TODO</NoDoctor>
+  <NoDoctor>nincs orvos</NoDoctor>
   <!-- EN: medical bed not for slaves -->
   <NotForSlaves>orvosi ágy nem rabszolgáknak</NotForSlaves>
   <!-- EN: occupied by {0} -->
@@ -471,7 +471,7 @@
   <!-- EN: Drop in center -->
   <DropInCenter>Középen eldobni</DropInCenter>
   <!-- EN: Attack {0} -->
-  <AttackShuttle>TODO</AttackShuttle>
+  <AttackShuttle>Megtámadni ezt: {0}</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
   <AttackAndDropAtEdge>Megtámadni ezt: {0}, landolás szélen</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
@@ -522,7 +522,7 @@
   <ApplyTechprint>hozzáad: {0}</ApplyTechprint>
 
   <!-- EN: Too dangerous -->
-  <EnterCooldownBlocksEntering>TODO</EnterCooldownBlocksEntering>
+  <EnterCooldownBlocksEntering>Túl veszélyes</EnterCooldownBlocksEntering>
 
   <!-- CommsConsole -->
   <!-- EN: Nobody to call -->
@@ -535,7 +535,7 @@
   <!-- EN: power -->
   <Power>energia(?)</Power>
   <!-- EN: already invoked -->
-  <AlreadyInvoked>TODO</AlreadyInvoked>
+  <AlreadyInvoked>már meghívva</AlreadyInvoked>
 
   <!-- EN: Tend {0} -->
   <Tend>{0} ellátása</Tend>
@@ -552,13 +552,13 @@
   <CannotRepair>Nem javítható: {0}</CannotRepair>
 
   <!-- EN: Cannot enter -->
-  <CannotEnter>TODO</CannotEnter>
+  <CannotEnter>Nem lehet belépni</CannotEnter>
 
   <!-- Romance partner -->
   <!-- EN: Cannot romance {0} -->
-  <CannotRomance>TODO</CannotRomance>
+  <CannotRomance>Nem lehet flörtölni vele: {0}</CannotRomance>
   <!-- EN: Romance {0} -->
-  <CanRomance>TODO</CanRomance>
+  <CanRomance>Flörtölni vele: {0}</CanRomance>
 
   <!-- Feeding -->
   <!-- EN: disliked food -->

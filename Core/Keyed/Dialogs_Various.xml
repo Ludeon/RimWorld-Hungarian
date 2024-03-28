@@ -373,9 +373,9 @@
   <!-- EN: Charging -->
   <ChargingTime>Töltés</ChargingTime>
   <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
-  <ChargingNext>TODO</ChargingNext>
+  <ChargingNext>Következő feltöltés ({1} esetén): {0}\nTöltési ciklus: {2}</ChargingNext>
   <!-- EN: Shut down -->
-  <ShutDown>TODO</ShutDown>
+  <ShutDown>Leállitás</ShutDown>
   <!-- EN: Fire rate -->
   <BurstShotFireRate>Tűzgyorsaság</BurstShotFireRate>
   <!-- EN: Range -->
@@ -619,7 +619,7 @@
   <!-- EN: Accept -->
   <AcceptButton>Elfogadás</AcceptButton>
   <!-- EN: Load selected -->
-  <LoadSelected>TODO</LoadSelected>
+  <LoadSelected>Kiválasztott feltöltése(?)</LoadSelected>
   <!-- EN: Reset -->
   <ResetButton>Visszaállítás</ResetButton>
   <!-- EN: Cancel -->
@@ -667,15 +667,15 @@
   <!-- EN: Trading with faction base bonus -->
   <TradeWithFactionBaseBonus>Saját frakció bónusz</TradeWithFactionBaseBonus>
   <!-- EN: Joins as slave -->
-  <JoinsAsSlave>TODO</JoinsAsSlave>
+  <JoinsAsSlave>Rabszolgaként csatlakozik</JoinsAsSlave>
   <!-- EN: Joins as colonist -->
-  <JoinsAsColonist>TODO</JoinsAsColonist>
+  <JoinsAsColonist>Telepesként csatlakozik</JoinsAsColonist>
   <!-- EN: If purchased, this person will join your colony as a slave. -->
-  <JoinsAsSlaveDesc>TODO</JoinsAsSlaveDesc> <!--  -->
+  <JoinsAsSlaveDesc>Ha megvásárolod, ez a személy rabszolgaként csatlakozik a kolóniádhoz.</JoinsAsSlaveDesc> <!--  -->
   <!-- EN: If purchased, this person will join your colony as a colonist. -->
-  <JoinsAsColonistDesc>TODO</JoinsAsColonistDesc>
+  <JoinsAsColonistDesc>Ha megvásárolod, ez a személy telepesként csatlakozik a kolóniádhoz.</JoinsAsColonistDesc>
   <!-- EN: Trading drugs bonus -->
-  <TradingDrugsBonus>TODO</TradingDrugsBonus>
+  <TradingDrugsBonus>Kereskedelmi drog bónusz</TradingDrugsBonus>
   <!-- EN: minimum -->
   <minimum>minimum</minimum>
   <!-- EN: Final price -->
@@ -685,7 +685,7 @@
   <!-- EN: Return to trade mode. -->
   <TradeModeTip>Vissza a kereskedéshez.</TradeModeTip>
   <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
-  <TradeCaravanRequestDeniedDueTitle>TODO</TradeCaravanRequestDeniedDueTitle>
+  <TradeCaravanRequestDeniedDueTitle>{FACTION_name} nem hajlandó karavánt küldeni, mert {NEGOTIATOR_nameDef} nem rendelkezik a szükséges {TITLE} címmel.</TradeCaravanRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
@@ -721,7 +721,7 @@
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
   <CaravanCouldNotFindReachableExitSpot>Figyelem: némelyik gyarmatos nem éri el a ({0}) kilépési pontot.</CaravanCouldNotFindReachableExitSpot>
   <!-- EN: {1_labelShort} is unable to reach the packing spot or the exit location when led by any of the assigned colonists. -->
-  <CaravanRoamerCannotReachSpots>TODO</CaravanRoamerCannotReachSpots>
+  <CaravanRoamerCannotReachSpots>{1_labelShort} nem tudja elérni a rakodási helyet vagy a kilépési pontot, ha valamelyik hozzárendelt telepes vezeti.</CaravanRoamerCannotReachSpots>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
   <CaravanItemIsUnreachableSingle>{0} nem elérhető egyik hozzárendelt gyarmatos számára sem.</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
@@ -745,7 +745,7 @@
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
   <DaysWorthOfFoodWarningDialog>A karavánod már csak {0} napi élelemmel rendelkezik, hamarosan éhezni kezd.\n\nBiztosan létre akarod hozni?</DaysWorthOfFoodWarningDialog>
   <!-- EN: Some peoples' diets don't allow most of the food in your caravan. If they're forced to eat it due to hunger, they will become unhappy. -->
-  <DaysWorthOfFoodDietWarningDialog>TODO</DaysWorthOfFoodDietWarningDialog>
+  <DaysWorthOfFoodDietWarningDialog>Egyes emberek étrendje nem engedélyezi a legtöbb ételt a karavánban. Ha az éhség miatt kénytelenek megenni, boldogtalanok lesznek.</DaysWorthOfFoodDietWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
   <DaysWorthOfFoodWarningDialog_NoFood>A karavánod kifogyott az élelemből, hamarosan éhezni kezd.\n\nBiztosan létre akarod hozni?</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
@@ -777,9 +777,9 @@
   <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition. -->
   <NutritionEatenPerDayTip>Naponta elfogyasztott tápérték. Tájékoztatásul: az egyszerű ételeknek {0} tápértéke van.</NutritionEatenPerDayTip>
   <!-- EN: Can eat -->
-  <CanEat>TODO</CanEat>
+  <CanEat>Eheti ezeket</CanEat>
   <!-- EN: Legend -->
-  <Legend>TODO</Legend>
+  <Legend>Jelmagyarázat</Legend>
   <!-- EN: Mass carried -->
   <MassCarriedSimple>Cipelt tömeg</MassCarriedSimple>
   <!-- EN: Mass capacity -->
@@ -807,7 +807,7 @@
   <!-- EN: Choose route -->
   <ChooseRouteButton>Útvonal kiválasztása</ChooseRouteButton>
   <!-- EN: Change route -->
-  <ChangeRouteButton>TODO</ChangeRouteButton>
+  <ChangeRouteButton>Útvonal módosítása</ChangeRouteButton>
   <!-- EN: Abandon -->
   <AbandonButton>Elhagy</AbandonButton>
   <!-- EN: Movement speed -->
@@ -815,9 +815,9 @@
   <!-- EN: tiles/day -->
   <TilesPerDay>szektor/nap</TilesPerDay>
   <!-- EN: None - too heavy -->
-  <TilesPerDayImmobile>TODO</TilesPerDayImmobile>
+  <TilesPerDayImmobile>Semmi – túl nehéz</TilesPerDayImmobile>
   <!-- EN: None -->
-  <TilesPerDayImmobileShort>TODO</TilesPerDayImmobileShort>
+  <TilesPerDayImmobileShort>Semmi</TilesPerDayImmobileShort>
   <!-- EN: Movement speed depends on carried mass, ridden animals, and terrain movement difficulty. -->
   <CaravanMovementSpeedTip>A karaván sebessége függ az emberek és állatok átlagos mozgási sebességétől, a rakomány tömegétől és a tereptől is.</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
@@ -843,7 +843,7 @@
   <!-- EN: Total body size -->
   <TotalBodySize>Összes testméret</TotalBodySize>
   <!-- EN: Automatically select travel supplies -->
-  <AutomaticallySelectTravelSupplies>TODO</AutomaticallySelectTravelSupplies>
+  <AutomaticallySelectTravelSupplies>Az utazási kellékek automatikus kiválasztása</AutomaticallySelectTravelSupplies>
   <!-- EN: This animal is sick. It is suffering from the following illnesses -->
   <CaravanAnimalSick>Ez az állat beteg. A következő betegségekben szenved</CaravanAnimalSick>
 
@@ -883,7 +883,7 @@
   <!-- EN: There is no path between the shuttle and {0}x {1}. -->
   <TransporterSingleItemIsUnreachableMulti>Nincs összekötő útvonal az űrsikló és {0}x {1} között.</TransporterSingleItemIsUnreachableMulti>
   <!-- EN: Only {0} colonists maximum allowed. -->
-  <TransporterSingleTooManyColonists>TODO</TransporterSingleTooManyColonists>
+  <TransporterSingleTooManyColonists>Legfeljebb {0} telepes megengedett.</TransporterSingleTooManyColonists>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -1097,9 +1097,9 @@
   <!-- EN: Target is out of range. -->
   <AbilityOutOfRange>A cél hatókörön kívül van.</AbilityOutOfRange>
   <!-- EN: Can't reach the target. -->
-  <AbilityCannotReachTarget>TODO</AbilityCannotReachTarget>
+  <AbilityCannotReachTarget>Nem lehet elérni a célt.</AbilityCannotReachTarget>
   <!-- EN: Not enough free space. -->
-  <AbilityNotEnoughFreeSpace>TODO</AbilityNotEnoughFreeSpace>
+  <AbilityNotEnoughFreeSpace>Nincs elég szabad hely.</AbilityNotEnoughFreeSpace>
   <!-- EN: Must target an empty area. -->
   <AbilityOccupiedCells>Üres terültet kell megcéloznia.</AbilityOccupiedCells>
   <!-- EN: Must target a walkable area. -->
@@ -1115,53 +1115,53 @@
   <!-- EN: {0_labelShort} has scaria, which can only be treated medically. -->
   <AbilityCantApplyToScaria>{0_labelShort} scaria-ban szenved, amely csak orvosilag kezelhető.</AbilityCantApplyToScaria>
   <!-- EN: {0} doesn't work on the '{1}' mental state. -->
-  <AbilityDoesntWorkOnMentalState>TODO</AbilityDoesntWorkOnMentalState>
+  <AbilityDoesntWorkOnMentalState>{0} nem működik a(z) "{1}" mentális állapotban.</AbilityDoesntWorkOnMentalState>
   <!-- EN: {0_labelShort} has zero resistance. -->
-  <AbilityCantApplyNoResistance>TODO</AbilityCantApplyNoResistance>
+  <AbilityCantApplyNoResistance>{0_labelShort} ellenállása nulla.</AbilityCantApplyNoResistance>
   <!-- EN: {0_labelShort} is downed. -->
-  <AbilityCantApplyDowned>TODO</AbilityCantApplyDowned>
+  <AbilityCantApplyDowned>{0_labelShort} mozgásképtelen.</AbilityCantApplyDowned>
   <!-- EN: Cannot use: {0} is asexual. -->
-  <AbilityCantApplyOnAsexual>TODO</AbilityCantApplyOnAsexual>
+  <AbilityCantApplyOnAsexual>Nem használható: {0} aszexuális.</AbilityCantApplyOnAsexual>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
-  <AbilityCantApplyWrongAttractionGender>TODO</AbilityCantApplyWrongAttractionGender>
+  <AbilityCantApplyWrongAttractionGender>{1_labelShort} nem a megfelelő nem {0_labelShort} számára.</AbilityCantApplyWrongAttractionGender>
   <!-- EN: {0_labelShort} is too young. -->
-  <AbilityCantApplyTooYoung>TODO</AbilityCantApplyTooYoung>
+  <AbilityCantApplyTooYoung>{0_labelShort} túl fiatal.</AbilityCantApplyTooYoung>
   <!-- EN: Cannot target a baby. -->
-  <AbilityCantApplyOnBaby>TODO</AbilityCantApplyOnBaby>
+  <AbilityCantApplyOnBaby>Nem célozhat meg babát.</AbilityCantApplyOnBaby>
   <!-- EN: Psyfocus cost per mental break intensity -->
   <PsyfocusCostPerMentalBreakIntensity>Pszichofókusz költség idegösszeomlás intenzitásonként(?)</PsyfocusCostPerMentalBreakIntensity>
   <!-- EN: {0_labelShort} is already inspired. -->
-  <AbilityAlreadyInspired>TODO</AbilityAlreadyInspired>
+  <AbilityAlreadyInspired>{0_labelShort} már ihletett.</AbilityAlreadyInspired>
   <!-- EN: {0_labelShort} can't get an inspiration right now. -->
-  <AbilityCantGetInspiredNow>TODO</AbilityCantGetInspiredNow>
+  <AbilityCantGetInspiredNow>{0_labelShort} jelenleg nem tud ihletet meríteni.</AbilityCantGetInspiredNow>
   <!-- EN: {0_labelShort} must be of a different ideoligion than {1_labelShort}. -->
-  <AbilityMustBeNotSameIdeo>TODO</AbilityMustBeNotSameIdeo>
+  <AbilityMustBeNotSameIdeo>{0_labelShort} elemnek más ideológiájúnak kell lennie, mint a(z) {1_labelShort} elemnek.</AbilityMustBeNotSameIdeo>
   <!-- EN: {0_labelShort} must be of same ideoligion as {1_labelShort}. -->
-  <AbilityMustBeSameIdeo>TODO</AbilityMustBeSameIdeo>
+  <AbilityMustBeSameIdeo>{0_labelShort} elemnek azonos ideológiájúnak kell lennie, mint a(z) {1_labelShort} elemnek.</AbilityMustBeSameIdeo>
   <!-- EN: {0_labelShort} must be sick or injured. -->
-  <AbilityMustBeSickOrInjured>TODO</AbilityMustBeSickOrInjured>
+  <AbilityMustBeSickOrInjured>{0_labelShort} betegnek vagy sérültnek kell lennie.</AbilityMustBeSickOrInjured>
   <!-- EN: {0} can only counsel {1}s. -->
-  <AbilityMustBeSameIdeoCounsel>TODO</AbilityMustBeSameIdeoCounsel>
+  <AbilityMustBeSameIdeoCounsel>{0} csak {1} személynek tud tanácsot adni.</AbilityMustBeSameIdeoCounsel>
   <!-- EN: {0_labelShort} is already considered guilty. -->
-  <AbilityMustBeNotGuilty>TODO</AbilityMustBeNotGuilty>
+  <AbilityMustBeNotGuilty>{0_labelShort} már bűnösnek minősül.</AbilityMustBeNotGuilty>
   <!-- EN: Must target a human. -->
-  <AbilityMustBeHuman>TODO</AbilityMustBeHuman>
+  <AbilityMustBeHuman>Embert kell megcéloznia.</AbilityMustBeHuman>
   <!-- EN: Must target a non-wild human. -->
-  <AbilityMustBeHumanNonWild>TODO</AbilityMustBeHumanNonWild>
+  <AbilityMustBeHumanNonWild>Nem vad embert kell megcéloznia.</AbilityMustBeHumanNonWild>
   <!-- EN: Must target an animal. -->
-  <AbilityMustBeAnimal>TODO</AbilityMustBeAnimal>
+  <AbilityMustBeAnimal>Állatot kell céloznia.</AbilityMustBeAnimal>
   <!-- EN: {0_labelShort} is unconscious. -->
-  <AbilityCantApplyUnconscious>TODO</AbilityCantApplyUnconscious>
+  <AbilityCantApplyUnconscious>{0_labelShort} eszméletlen.</AbilityCantApplyUnconscious>
   <!-- EN: {0_labelShort} is asleep. -->
-  <AbilityCantApplyAsleep>TODO</AbilityCantApplyAsleep>
+  <AbilityCantApplyAsleep>{0_labelShort} alszik.</AbilityCantApplyAsleep>
   <!-- EN: This tile is impassable. -->
-  <AbilityWorldTileImpassable>TODO</AbilityWorldTileImpassable>
+  <AbilityWorldTileImpassable>Ez a mező járhatatlan.</AbilityWorldTileImpassable>
   <!-- EN: Skip to random ally -->
-  <AbilitySkipToRandomAlly>TODO</AbilitySkipToRandomAlly>
+  <AbilitySkipToRandomAlly>Ugrás véletlenszerű szövetségesre</AbilitySkipToRandomAlly>
   <!-- EN: Skip to join caravan -->
-  <AbilitySkipToJoinCaravan>TODO</AbilitySkipToJoinCaravan>
+  <AbilitySkipToJoinCaravan>Ugrás a karavánhoz való csatlakozáshoz</AbilitySkipToJoinCaravan>
   <!-- EN: Need ally at target for navigation -->
-  <AbilityNeedAllyToSkip>TODO</AbilityNeedAllyToSkip>
+  <AbilityNeedAllyToSkip>Szövetségesre van szükséged a célponthoz navigáláshoz</AbilityNeedAllyToSkip>
   <!-- EN: No chunks to skip. -->
   <AbilityNoChunkToSkip>TODO</AbilityNoChunkToSkip>
   <!-- EN: Induce psychic love in -->
@@ -1169,94 +1169,94 @@
   <!-- EN: Psychic love for -->
   <PsychicLoveFor>TODO</PsychicLoveFor>
   <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
-  <FarskipConfirmTeleportingLodger>TODO</FarskipConfirmTeleportingLodger>
+  <FarskipConfirmTeleportingLodger>Ha átugrasz {PAWN_labelShort} telepessel egy másik térképhez vagy karavánhoz, a kapcsolódó küldetés meghiúsul és ő azonnal távozik.\n\nValóban elugrasz {PAWN_labelShort} telepessel?</FarskipConfirmTeleportingLodger>
   
   <!-- EN: minor -->
-  <MentalBreakIntensityMinor>TODO</MentalBreakIntensityMinor>
+  <MentalBreakIntensityMinor>enyhe</MentalBreakIntensityMinor>
   <!-- EN: major -->
-  <MentalBreakIntensityMajor>TODO</MentalBreakIntensityMajor>
+  <MentalBreakIntensityMajor>jelentős</MentalBreakIntensityMajor>
   <!-- EN: extreme -->
-  <MentalBreakIntensityExtreme>TODO</MentalBreakIntensityExtreme>
+  <MentalBreakIntensityExtreme>szélsőséges</MentalBreakIntensityExtreme>
 
   <!-- Auto slaughter -->
   <!-- EN: Animal -->
-  <AutoSlaugtherHeaderColLabel>TODO</AutoSlaugtherHeaderColLabel>
+  <AutoSlaugtherHeaderColLabel>Állat</AutoSlaugtherHeaderColLabel>
   <!-- EN: Current -->
-  <AutoSlaugtherHeaderColCurrent>TODO</AutoSlaugtherHeaderColCurrent>
+  <AutoSlaugtherHeaderColCurrent>Jelenlegi</AutoSlaugtherHeaderColCurrent>
   <!-- EN: Max -->
-  <AutoSlaugtherHeaderColMax>TODO</AutoSlaugtherHeaderColMax>
+  <AutoSlaugtherHeaderColMax>Max</AutoSlaugtherHeaderColMax>
   <!-- EN: Total -->
-  <AutoSlaugtherHeaderColTotal>TODO</AutoSlaugtherHeaderColTotal>
+  <AutoSlaugtherHeaderColTotal>Összes</AutoSlaugtherHeaderColTotal>
   <!-- EN: Other -->
-  <AutoSlaugtherHeaderColOther>TODO</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
+  <AutoSlaugtherHeaderColOther>Egyéb</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
   <!-- EN: Colonists first slaughter non-pregnant animals in order from oldest to youngest, then pregnant animals from most recent to least recent pregnancy. -->
-  <AutoSlaugtherTip>TODO</AutoSlaugtherTip>
+  <AutoSlaugtherTip>A telepesek először a nem vemhes állatokat vágják le a legidősebbtől a legfiatalabbig, majd a vemhes állatokat a legfrissebb vemhességtől a legrégebbiig.</AutoSlaugtherTip>
   <!-- EN: Male adult -->
-  <AnimalMaleAdult>TODO</AnimalMaleAdult>
+  <AnimalMaleAdult>Felnőtt férfi</AnimalMaleAdult>
   <!-- EN: Male young -->
-  <AnimalMaleYoung>TODO</AnimalMaleYoung>
+  <AnimalMaleYoung>Fiatal férfi</AnimalMaleYoung>
   <!-- EN: Female adult -->
-  <AnimalFemaleAdult>TODO</AnimalFemaleAdult>
+  <AnimalFemaleAdult>Felnőtt nő</AnimalFemaleAdult>
   <!-- EN: Female young -->
-  <AnimalFemaleYoung>TODO</AnimalFemaleYoung>
+  <AnimalFemaleYoung>Fiatal nő</AnimalFemaleYoung>
   <!-- EN: Pregnant -->
-  <AnimalPregnant>TODO</AnimalPregnant>
+  <AnimalPregnant>Terhes</AnimalPregnant>
   <!-- EN: Bonded -->
-  <AnimalBonded>TODO</AnimalBonded>
+  <AnimalBonded>Kötődő</AnimalBonded>
   <!-- EN: Slaughter -->
-  <AllowSlaughter>TODO</AllowSlaughter>
+  <AllowSlaughter>Levágás</AllowSlaughter>
 
   <!-- EN: The animal to be automatically slaughtered. -->
-  <AutoSlaugtherHeaderTooltipLabel>TODO</AutoSlaugtherHeaderTooltipLabel>
+  <AutoSlaugtherHeaderTooltipLabel>Az állatot automatikusan le kell vágni.</AutoSlaugtherHeaderTooltipLabel>
   <!-- EN: The current number of animals in the colony, both male and female. -->
-  <AutoSlaugtherHeaderTooltipCurrentTotal>TODO</AutoSlaugtherHeaderTooltipCurrentTotal>
+  <AutoSlaugtherHeaderTooltipCurrentTotal>A kolóniában lévő állatok jelenlegi száma, mind a hím, mind a nőstény.</AutoSlaugtherHeaderTooltipCurrentTotal>
   <!-- EN: The maximum number of animals in the colony, both male and female.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxTotal>TODO</AutoSlaugtherHeaderTooltipMaxTotal>
+  <AutoSlaugtherHeaderTooltipMaxTotal>Az állatok maximális száma a kolóniában, mind a hímek, mind a nőstények.\n\nA gondozók automatikusan levágják az összes ezen felüli állatot.</AutoSlaugtherHeaderTooltipMaxTotal>
   <!-- EN: The current number of males of breeding age in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentMales>TODO</AutoSlaugtherHeaderTooltipCurrentMales>
+  <AutoSlaugtherHeaderTooltipCurrentMales>A tenyészkorú hímek jelenlegi száma a telepen.</AutoSlaugtherHeaderTooltipCurrentMales>
   <!-- EN: The current number of baby and juvenile males in the colony. -->
-  <AutoSlaughterHeaderTooltipCurrentMalesYoung>TODO</AutoSlaughterHeaderTooltipCurrentMalesYoung>
+  <AutoSlaughterHeaderTooltipCurrentMalesYoung>A telepen élő csecsemő és fiatal hímek jelenlegi száma.</AutoSlaughterHeaderTooltipCurrentMalesYoung>
   <!-- EN: The maximum number of males of breeding age in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxMales>TODO</AutoSlaugtherHeaderTooltipMaxMales>
+  <AutoSlaugtherHeaderTooltipMaxMales>A tenyészkorú hímek maximális száma a telepen.\n\nA gondozók automatikusan levágják az esetleges extrákat.</AutoSlaugtherHeaderTooltipMaxMales>
   <!-- EN: The maximum number of baby and juvenile males in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaughterHeaderTooltipMaxMalesYoung>TODO</AutoSlaughterHeaderTooltipMaxMalesYoung>
+  <AutoSlaughterHeaderTooltipMaxMalesYoung>A telepen a csecsemő és fiatal hímek maximális száma.\n\nA gondozók automatikusan lemészárolják az összes ezen felüli állatot.</AutoSlaughterHeaderTooltipMaxMalesYoung>
   <!-- EN: The current number of females of breeding age in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentFemales>TODO</AutoSlaugtherHeaderTooltipCurrentFemales>
+  <AutoSlaugtherHeaderTooltipCurrentFemales>A tenyészkorú nőstények jelenlegi száma a telepen.</AutoSlaugtherHeaderTooltipCurrentFemales>
   <!-- EN: The current number of baby and juvenile females in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>TODO</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
+  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>A telepen élő csecsemő és fiatal nőstények jelenlegi száma.</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
   <!-- EN: The maximum number of females in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxFemales>TODO</AutoSlaugtherHeaderTooltipMaxFemales>
+  <AutoSlaugtherHeaderTooltipMaxFemales>A nőstények maximális száma a kolóniában.\n\nA gondozók automatikusan lemészárolják az összes ezen felüli állatot.</AutoSlaugtherHeaderTooltipMaxFemales>
   <!-- EN: The maximum number of baby and juvenile females in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaughterHeaderTooltipMaxFemalesYoung>TODO</AutoSlaughterHeaderTooltipMaxFemalesYoung>
+  <AutoSlaughterHeaderTooltipMaxFemalesYoung>A telepen a csecsemő és fiatal nőstények maximális száma.\n\nA gondozók automatikusan lemészárolják az összes ezen felüli állatot.</AutoSlaughterHeaderTooltipMaxFemalesYoung>
   <!-- EN: The current number of pregnant animals in the colony. -->
-  <AutoSlaughterHeaderTooltipCurrentPregnant>TODO</AutoSlaughterHeaderTooltipCurrentPregnant>
+  <AutoSlaughterHeaderTooltipCurrentPregnant>A telepen lévő vemhes állatok jelenlegi száma.</AutoSlaughterHeaderTooltipCurrentPregnant>
   <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
-  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>TODO</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Engedélyezi a vemhes állatok levágását az azonos fajhoz tartozó más nőstényekkel együtt.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
   <!-- EN: The current number of bonded animals in the colony. -->
-  <AutoSlaughterHeaderTooltipCurrentBonded>TODO</AutoSlaughterHeaderTooltipCurrentBonded>
+  <AutoSlaughterHeaderTooltipCurrentBonded>A telepen lévő kötődő állatok jelenlegi száma.</AutoSlaughterHeaderTooltipCurrentBonded>
   <!-- EN: Allow bonded animals to be slaughtered. -->
-  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>TODO</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>Engedélyezi a kötődő állatok levágását.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
 
   <!-- EN: Click to set an animal count limit. -->
-  <AutoSlaughterTooltipSetLimit>TODO</AutoSlaughterTooltipSetLimit>
+  <AutoSlaughterTooltipSetLimit>Kattints az állatok számának korlátozásához.</AutoSlaughterTooltipSetLimit>
 
   <!-- Room requirements -->
   <!-- EN: no beds allowed -->
-  <RoomRequirementNoBeds>TODO</RoomRequirementNoBeds>
+  <RoomRequirementNoBeds>ágy nem megengedett</RoomRequirementNoBeds>
   <!-- EN: room area: {0} tiles -->
-  <RoomRequirementArea>TODO</RoomRequirementArea>
+  <RoomRequirementArea>szoba területe: {0} mező</RoomRequirementArea>
   <!-- EN: room impressiveness -->
   <RoomRequirementImpressiveness>szoba lenyűgözősége</RoomRequirementImpressiveness>
   <!-- EN: all floored -->
-  <RoomRequirementAllFloored>TODO</RoomRequirementAllFloored>
+  <RoomRequirementAllFloored>mind padlózott</RoomRequirementAllFloored>
   <!-- EN: all braziers must be lit -->
-  <RoomRequirementAllBraziersMustBeLit>TODO</RoomRequirementAllBraziersMustBeLit>
+  <RoomRequirementAllBraziersMustBeLit>minden tűztálnak világítania kell</RoomRequirementAllBraziersMustBeLit>
   <!-- EN: all fine floored -->
-  <RoomRequirementAllFineFloored>TODO</RoomRequirementAllFineFloored>
+  <RoomRequirementAllFineFloored>mind díszesen padlózva</RoomRequirementAllFineFloored>
   <!-- EN: no work facilities allowed -->
-  <RoomRequirementNoProductionFacilities>TODO</RoomRequirementNoProductionFacilities>
+  <RoomRequirementNoProductionFacilities>munkalehetőség nem megengedett</RoomRequirementNoProductionFacilities>
   <!-- EN: no altars allowed -->
-  <RoomRequirementNoAltars>TODO</RoomRequirementNoAltars>
+  <RoomRequirementNoAltars>oltárok nem megengedettek</RoomRequirementNoAltars>
 
   <!-- EN: Lifestage max food factor -->
   <LifeStageMaxFood>Életszakasz max táplálékfaktor</LifeStageMaxFood>
@@ -1274,52 +1274,52 @@
 
   <!-- Color picker -->
   <!-- EN: color temperature -->
-  <ColorTemperature>TODO</ColorTemperature>
+  <ColorTemperature>színhőmérséklet</ColorTemperature>
   <!-- EN: choose a color -->
-  <ChooseAColor>TODO</ChooseAColor>
+  <ChooseAColor>válassz egy színt</ChooseAColor>
   <!-- EN: red -->
-  <Red>TODO</Red>
+  <Red>vörös</Red>
   <!-- EN: green -->
-  <Green>TODO</Green>
+  <Green>zöld</Green>
   <!-- EN: blue -->
-  <Blue>TODO</Blue>
+  <Blue>kék</Blue>
   <!-- EN: hue -->
-  <Hue>TODO</Hue>
+  <Hue>színárnyalat</Hue>
   <!-- EN: sat -->
-  <Saturation>TODO</Saturation>
+  <Saturation>szaturáció</Saturation>
   <!-- EN: value -->
-  <ColorValue>TODO</ColorValue>
+  <ColorValue>érték</ColorValue>
   <!-- EN: darklight -->
-  <Darklight>TODO</Darklight>
+  <Darklight>sötét fény</Darklight>
   <!-- EN: not darklight -->
-  <NotDarklight>TODO</NotDarklight>
+  <NotDarklight>nem sötét fény</NotDarklight>
   <!-- EN: current color -->
-  <CurrentColor>TODO</CurrentColor>
+  <CurrentColor>aktuális szín</CurrentColor>
   <!-- EN: old color -->
-  <OldColor>TODO</OldColor>
+  <OldColor>régi szín</OldColor>
   <!-- EN: Copy color -->
-  <CommandCopyColorLabel>TODO</CommandCopyColorLabel>
+  <CommandCopyColorLabel>Szín másolása</CommandCopyColorLabel>
   <!-- EN: Copy the current color to the clipboard. -->
-  <CommandCopyColorDesc>TODO</CommandCopyColorDesc>
+  <CommandCopyColorDesc>Az aktuális színt a vágólapra máolja.</CommandCopyColorDesc>
   <!-- EN: Paste color -->
-  <CommandPasteColorLabel>TODO</CommandPasteColorLabel>
+  <CommandPasteColorLabel>Szín beillesztése</CommandPasteColorLabel>
   <!-- EN: Overwrite the color with the color in the clipboard. -->
-  <CommandPasteColorDesc>TODO</CommandPasteColorDesc>
+  <CommandPasteColorDesc>Szín felülírása a vágólapon lévő színnel.</CommandPasteColorDesc>
   <!-- EN: The clipboard does not contain a valid color. -->
-  <ClipboardInvalidColor>TODO</ClipboardInvalidColor>
+  <ClipboardInvalidColor>A vágólap nem tartalmaz érvényes színt.</ClipboardInvalidColor>
   <!-- EN: Color copied to clipboard. -->
-  <ColorCopiedSuccessfully>TODO</ColorCopiedSuccessfully>
+  <ColorCopiedSuccessfully>A szín a vágólapra másolva.</ColorCopiedSuccessfully>
   <!-- EN: Updated color from the clipboard. -->
-  <ColorPastedSuccessfully>TODO</ColorPastedSuccessfully>
+  <ColorPastedSuccessfully>Szín frissítve a vágólapról.</ColorPastedSuccessfully>
   <!-- EN: Change to normal light -->
-  <ToggleDarklightOff>TODO</ToggleDarklightOff>
+  <ToggleDarklightOff>Válts normál fényre</ToggleDarklightOff>
   <!-- EN: Change the light color to its normal color. -->
-  <ToggleDarklightOffDesc>TODO</ToggleDarklightOffDesc>
+  <ToggleDarklightOffDesc>Változtasd meg a fény színét a normál színre.</ToggleDarklightOffDesc>
   <!-- EN: Change to darklight -->
-  <ToggleDarklightOn>TODO</ToggleDarklightOn>
+  <ToggleDarklightOn>Válts sötét fényre</ToggleDarklightOn>
   <!-- EN: Change the light color to darklight. -->
-  <ToggleDarklightOnDesc>TODO</ToggleDarklightOnDesc>
+  <ToggleDarklightOnDesc>Változtasd meg a fény színét sötét fényre.</ToggleDarklightOnDesc>
   <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
-  <ColorTemperatureTooltip>TODO</ColorTemperatureTooltip>
+  <ColorTemperatureTooltip>Válassz egy színt a színhőmérséklet beállításával. Megjegyzés: Ez csak a vizuális színt érinti, a hőkibocsátást nem.</ColorTemperatureTooltip>
 
 </LanguageData>

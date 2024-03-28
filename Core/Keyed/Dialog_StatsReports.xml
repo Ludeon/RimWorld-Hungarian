@@ -49,19 +49,19 @@
   <!-- EN: Quality multiplier -->
   <StatsReport_QualityMultiplier>Minőségi szorzó</StatsReport_QualityMultiplier>
   <!-- EN: Quality offset -->
-  <StatsReport_QualityOffset>TODO</StatsReport_QualityOffset>
+  <StatsReport_QualityOffset>Minőségi módosító</StatsReport_QualityOffset>
   <!-- EN: Max gain -->
   <StatsReport_MaxGain>Max. hozam</StatsReport_MaxGain>
   <!-- EN: Multiplier for age {0} -->
   <StatsReport_AgeMultiplier>Kor ({0}) szorzó</StatsReport_AgeMultiplier>
   <!-- EN: Offset for age {0} -->
-  <StatsReport_AgeOffset>TODO</StatsReport_AgeOffset>
+  <StatsReport_AgeOffset>Kormódosító ({0})</StatsReport_AgeOffset>
   <!-- EN: Multiplier for health {0} -->
   <StatsReport_HealthMultiplier>{0} állapot szorzó</StatsReport_HealthMultiplier>
   <!-- EN: Cost to reload ({COUNT} {AMMO_label}) -->
-  <StatsReport_ReloadMarketValue>TODO</StatsReport_ReloadMarketValue>
+  <StatsReport_ReloadMarketValue>Újratöltés költsége ({COUNT} {AMMO_label})</StatsReport_ReloadMarketValue>
   <!-- EN: Multiplier for remaining {CHARGENOUN_plural} ({0}) -->
-  <StatsReport_ReloadRemainingChargesMultipler>TODO</StatsReport_ReloadRemainingChargesMultipler>
+  <StatsReport_ReloadRemainingChargesMultipler>A fennmaradó {CHARGENOUN_plural} szorzója ({0})</StatsReport_ReloadRemainingChargesMultipler>
   <!-- EN: Multiplier for mood {0} -->
   <StatsReport_MoodMultiplier>{0} hangulat szorzó</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
@@ -91,7 +91,7 @@
   <!-- EN: Roam interval -->
   <StatsReport_RoamInterval>Elkóbórlási időköz</StatsReport_RoamInterval>
   <!-- EN: Caravan rideable age -->
-  <StatsReport_CaravanRideableAge>TODO</StatsReport_CaravanRideableAge>
+  <StatsReport_CaravanRideableAge>Karavános életkor</StatsReport_CaravanRideableAge>
   <!-- EN: Life expectancy -->
   <StatsReport_LifeExpectancy>Várható életkor</StatsReport_LifeExpectancy>
   <!-- EN: Multiplier for missing body parts -->
@@ -137,39 +137,39 @@
   <!-- EN: Ideoligion -->
   <StatsReport_Ideoligion>Ideológia</StatsReport_Ideoligion>
   <!-- EN: Multiplier for malnutrition {0} -->
-  <StatsReport_Malnutrition>TODO</StatsReport_Malnutrition>
+  <StatsReport_Malnutrition>Alultápláltság szorzója: {0}</StatsReport_Malnutrition>
 
   <!-- EN: Possible offsets -->
-  <StatReport_PossibleOffsets>TODO</StatReport_PossibleOffsets>
+  <StatReport_PossibleOffsets>Lehetséges módosítók</StatReport_PossibleOffsets>
   <!-- EN: Room impressiveness -->
   <StatsReport_RoomImpressiveness>Szoba lenyűgözősége</StatsReport_RoomImpressiveness>
   <!-- EN: Lit -->
-  <StatsReport_Lit>TODO</StatsReport_Lit>
+  <StatsReport_Lit>Megvilágított</StatsReport_Lit>
   <!-- EN: Contains {0} -->
-  <StatsReport_GraveFull>TODO</StatsReport_GraveFull>
+  <StatsReport_GraveFull>Tartalmaz: {0}</StatsReport_GraveFull>
   <!-- EN: Contains a human corpse -->
-  <StatsReport_GraveFullAbstract>TODO</StatsReport_GraveFullAbstract>
+  <StatsReport_GraveFullAbstract>Emberi holttestet tartalmaz</StatsReport_GraveFullAbstract>
   <!-- EN: Meditator is related to the corpse inside -->
-  <StatsReport_GraveCorpseRelatedAbstract>TODO</StatsReport_GraveCorpseRelatedAbstract>
+  <StatsReport_GraveCorpseRelatedAbstract>A meditátor a benne lévő holttesthez kapcsolódik</StatsReport_GraveCorpseRelatedAbstract>
   <!-- EN: From quality -->
-  <StatsReport_FromQuality>TODO</StatsReport_FromQuality>
+  <StatsReport_FromQuality>A minőségből</StatsReport_FromQuality>
   <!-- EN: Nearby artificial structures -->
-  <StatsReport_NearbyArtificialStructures>TODO</StatsReport_NearbyArtificialStructures>
+  <StatsReport_NearbyArtificialStructures>Mesterséges építmények a közelben</StatsReport_NearbyArtificialStructures>
   <!-- EN: Satisfies user's title requirements -->
-  <StatsReport_SatisfiesTitle>TODO</StatsReport_SatisfiesTitle>
+  <StatsReport_SatisfiesTitle>Megfelel a felhasználó cím követelményeinek</StatsReport_SatisfiesTitle>
 
   <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
-  <Stat_RecreationType_Desc>TODO</Stat_RecreationType_Desc>
+  <Stat_RecreationType_Desc>A különböző rekreációs források különböző rekreációs típusokat elégítenek ki. A telepesek megunják ugyanazt a rekreációs típust ismételten csinálni, ezért fontos, hogy változatos rekreációs forrásokat biztosítsanak különböző rekreációs típusokkal.</Stat_RecreationType_Desc>
   <!-- EN: All recreation types -->
-  <Stat_JoyKind_AllTypes>TODO</Stat_JoyKind_AllTypes>
+  <Stat_JoyKind_AllTypes>Minden rekreációs típus</Stat_JoyKind_AllTypes>
   <!-- EN: Mined item -->
   <Stat_MineableThing_Name>Bányászott tárgy</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->
   <Stat_MineableThing_Desc>Ez a tárgy lesz a bányászat eredménye.</Stat_MineableThing_Desc>
   <!-- EN: Mining yield -->
-  <Stat_MiningYield_Name>TODO</Stat_MiningYield_Name>
+  <Stat_MiningYield_Name>Bányászati hozam</Stat_MiningYield_Name>
   <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->
-  <Stat_MiningYield_Desc>TODO</Stat_MiningYield_Desc>
+  <Stat_MiningYield_Desc>A bányászat során keletkező cikkek maximális mennyisége. A tényleges hozamot a bányász bányásztudása határozza meg.</Stat_MiningYield_Desc>
   <!-- EN: Source species -->
   <Stat_SourceSpecies_Name>Forrás faj</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
@@ -187,7 +187,7 @@
   <!-- EN: The amount of work it takes to uninstall this. -->
   <Stat_Thing_WorkToUninstall_Desc>Ennyi munka ezt lebontani.</Stat_Thing_WorkToUninstall_Desc>
   <!-- EN: Whether this building is a type of fence. Fences block these animals -->
-  <Stat_Thing_Fence_Desc>TODO</Stat_Thing_Fence_Desc>
+  <Stat_Thing_Fence_Desc>Jelzi, hogy ez az építmény kerítéstípus-e. A kerítések elzárják ezeket az állatokat</Stat_Thing_Fence_Desc>
   <!-- EN: Which facilities can be used to produce this. -->
   <Stat_Thing_CreatedAt_Desc>Ezek a berendezések képesek ezt legyártani.</Stat_Thing_CreatedAt_Desc>
   <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
@@ -315,21 +315,21 @@
   <!-- EN: This can only be placed on terrain of these types. -->
   <Stat_Thing_TerrainRequirement_Desc>Ezt csak az ilyen típusú talajokon lehet elhelyezni.</Stat_Thing_TerrainRequirement_Desc>
   <!-- EN: Considered -->
-  <Stat_Thing_Terrain_Fine_Name>TODO</Stat_Thing_Terrain_Fine_Name>
+  <Stat_Thing_Terrain_Fine_Name>Megfelelőség(?)</Stat_Thing_Terrain_Fine_Name>
   <!-- EN: Fine -->
-  <Stat_Thing_Terrain_Fine_Value>TODO</Stat_Thing_Terrain_Fine_Value>
+  <Stat_Thing_Terrain_Fine_Value>Jó</Stat_Thing_Terrain_Fine_Value>
   <!-- EN: This floor is considered fine and suitable for royalty. -->
-  <Stat_Thing_Terrain_Fine_Desc>TODO</Stat_Thing_Terrain_Fine_Desc>
+  <Stat_Thing_Terrain_Fine_Desc>Ez a padló jónak tekinthető és alkalmas a királyi személyek számára.</Stat_Thing_Terrain_Fine_Desc>
   <!-- EN: The amount of power this building will draw from the power grid. -->
   <Stat_Thing_PowerConsumption_Desc>Az épület energiafogyasztása.</Stat_Thing_PowerConsumption_Desc>
   <!-- EN: {CHARGENOUN_plural} remaining -->
-  <Stat_Thing_ReloadChargesRemaining_Name>TODO</Stat_Thing_ReloadChargesRemaining_Name>
+  <Stat_Thing_ReloadChargesRemaining_Name>{CHARGENOUN_plural} maradt</Stat_Thing_ReloadChargesRemaining_Name>
   <!-- EN: The number of {CHARGENOUN_plural} remaining on this object. If these run out, the special ability can no longer be used. -->
-  <Stat_Thing_ReloadChargesRemaining_Desc>TODO</Stat_Thing_ReloadChargesRemaining_Desc>
+  <Stat_Thing_ReloadChargesRemaining_Desc>Az objektumból fennmaradó {CHARGENOUN_plural} száma. Ha ezek elfogynak, a speciális képesség már nem használható.</Stat_Thing_ReloadChargesRemaining_Desc>
   <!-- EN: {CHARGENOUN_plural} -->
-  <Stat_Thing_ReloadMaxCharges_Name>TODO</Stat_Thing_ReloadMaxCharges_Name>
+  <Stat_Thing_ReloadMaxCharges_Name>{CHARGENOUN_plural}</Stat_Thing_ReloadMaxCharges_Name>
   <!-- EN: The maximum number of {CHARGENOUN_plural} this object has. -->
-  <Stat_Thing_ReloadMaxCharges_Desc>TODO</Stat_Thing_ReloadMaxCharges_Desc>
+  <Stat_Thing_ReloadMaxCharges_Desc>Az objektumhoz tartozó {CHARGENOUN_plural} maximális száma.</Stat_Thing_ReloadMaxCharges_Desc>
   <!-- EN: {CHARGENOUN} reload cost -->
   <Stat_Thing_ReloadRefill_Name>{CHARGENOUN} újratöltési költség</Stat_Thing_ReloadRefill_Name>
   <!-- EN: The amount of items required to fully reload this object.\n\nThis object can be reloaded before it is empty, but the cost is the same as if it was empty. -->
@@ -339,9 +339,9 @@
   <!-- EN: The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once. -->
   <Stat_Thing_ReloadPerCharge_Desc>Egy {CHARGENOUN} újratöltéséhez szükséges elemek mennyisége. Egyszerre több {CHARGENOUN} is újratölthető.</Stat_Thing_ReloadPerCharge_Desc>
   <!-- EN: Vanish on exhaust -->
-  <Stat_Thing_ReloadDestroyOnEmpty_Name>TODO</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>Eltűnik kifogyásnál</Stat_Thing_ReloadDestroyOnEmpty_Name>
   <!-- EN: This item will vanish when its last {CHARGENOUN} is used. -->
-  <Stat_Thing_ReloadDestroyOnEmpty_Desc>TODO</Stat_Thing_ReloadDestroyOnEmpty_Desc>
+  <Stat_Thing_ReloadDestroyOnEmpty_Desc>Ez az elem eltűnik, amikor az utolsó {CHARGENOUN} felhasználásra kerül.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
   <!-- EN: The overall efficiency of this body part. -->
   <Stat_Thing_BodyPartEfficiency_Desc>A testrész általános hatékonysága.</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Install sites -->
