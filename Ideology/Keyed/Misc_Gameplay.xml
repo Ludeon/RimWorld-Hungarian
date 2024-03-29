@@ -160,59 +160,59 @@
   <UnableToLoadIdeoPreceptNotAllowed>A {PRECEPT} előírás nem engedélyezett nem játékos frakciók számára</UnableToLoadIdeoPreceptNotAllowed>
 
   <!-- EN: Grave containing {PAWN_labelShort}'s corpse -->
-  <RitualTargetGraveInfo>TODO</RitualTargetGraveInfo>
+  <RitualTargetGraveInfo>Sír, amely {PAWN_labelShort} holttestét tartalmazza</RitualTargetGraveInfo>
   <!-- EN: Empty grave to mourn {PAWN_labelShort}'s passing -->
-  <RitualTargetEmptyGraveInfo>TODO</RitualTargetEmptyGraveInfo>
+  <RitualTargetEmptyGraveInfo>Üres sír {PAWN_labelShort} elhunytának gyászolására</RitualTargetEmptyGraveInfo>
   <!-- EN: Grave containing {IDEO_memberNameIndef}'s corpse -->
-  <RitualTargetGraveInfoAbstract>TODO</RitualTargetGraveInfoAbstract>
+  <RitualTargetGraveInfoAbstract>Sír, amely {IDEO_memberNameIndef} holttestét tartalmazza</RitualTargetGraveInfoAbstract>
   <!-- EN: Grave containing a corpse -->
-  <RitualTargetGraveInfoAbstractNoIdeo>TODO</RitualTargetGraveInfoAbstractNoIdeo>
+  <RitualTargetGraveInfoAbstractNoIdeo>Holttestet tartalmazó sír</RitualTargetGraveInfoAbstractNoIdeo>
   <!-- EN: Empty grave to mourn {IDEO_memberNameIndef}'s passing -->
-  <RitualTargetEmptyGraveInfoAbstract>TODO</RitualTargetEmptyGraveInfoAbstract>
+  <RitualTargetEmptyGraveInfoAbstract>Üres sír {IDEO_memberNameIndef} elhunytának gyászolására</RitualTargetEmptyGraveInfoAbstract>
   <!-- EN: {PAWN_labelShort}'s body must be buried first -->
-  <RitualTargetGraveInfoMustBeBuried>TODO</RitualTargetGraveInfoMustBeBuried>
+  <RitualTargetGraveInfoMustBeBuried>{PAWN_labelShort} testét először el kell temetni</RitualTargetGraveInfoMustBeBuried>
   <!-- EN: Any gathering spot, like a table -->
-  <RitualTargetGatherSpotInfo>TODO</RitualTargetGatherSpotInfo>
+  <RitualTargetGatherSpotInfo>Bármilyen gyülekezőhely, például egy asztal</RitualTargetGatherSpotInfo>
   <!-- EN: Altar or any ritual spot. -->
-  <RitualTargetGatherAltarOrRitualSpotInfo>TODO</RitualTargetGatherAltarOrRitualSpotInfo>
+  <RitualTargetGatherAltarOrRitualSpotInfo>Oltár vagy bármilyen rituális hely.</RitualTargetGatherAltarOrRitualSpotInfo>
   <!-- EN: Altar, ideogram or any ritual spot. -->
-  <RitualTargetGatherAltarIdeogramOrRitualSpotInfo>TODO</RitualTargetGatherAltarIdeogramOrRitualSpotInfo>
+  <RitualTargetGatherAltarIdeogramOrRitualSpotInfo>Oltár, jelkép vagy bármilyen rituális hely.</RitualTargetGatherAltarIdeogramOrRitualSpotInfo>
   <!-- EN: Lightball is not powered. -->
-  <RitualTargetLightBallIsNotPowered>TODO</RitualTargetLightBallIsNotPowered>
+  <RitualTargetLightBallIsNotPowered>A fénygömb nem működik.</RitualTargetLightBallIsNotPowered>
   <!-- EN: No powered speakers. -->
-  <RitualTargetNoPoweredSpeakers>TODO</RitualTargetNoPoweredSpeakers>
+  <RitualTargetNoPoweredSpeakers>Nincsenek működő hangszórók.</RitualTargetNoPoweredSpeakers>
   <!-- EN: Campfire is not fueled. -->
-  <RitualTargetCampfireNoFuel>TODO</RitualTargetCampfireNoFuel>
+  <RitualTargetCampfireNoFuel>A tábortűz nem ég.</RitualTargetCampfireNoFuel>
   <!-- EN: Campfire must be unroofed. -->
   <RitualTargetCampfireMustBeUnroofed>A tábortüzet le kell bontani.</RitualTargetCampfireMustBeUnroofed>
   <!-- EN: No nearby drum. -->
-  <RitualTargetNoDrum>TODO</RitualTargetNoDrum>
+  <RitualTargetNoDrum>Nincs közeli dob.</RitualTargetNoDrum>
   <!-- EN: Need at least {0} unroofed cells nearby. -->
-  <RitualTargetNeedUnroofedCells>TODO</RitualTargetNeedUnroofedCells>
+  <RitualTargetNeedUnroofedCells>Legalább {0} tető nélküli cella szükséges a közelben.</RitualTargetNeedUnroofedCells>
   <!-- EN: a lit campfire -->
-  <RitualTargetCampfirePartyInfo>TODO</RitualTargetCampfirePartyInfo>
+  <RitualTargetCampfirePartyInfo>meggyújtott tábortűz</RitualTargetCampfirePartyInfo>
   <!-- EN: an unconnected Gauranlen tree -->
-  <RitualTargetUnconnectedGaruanlenTreeInfo>TODO</RitualTargetUnconnectedGaruanlenTreeInfo>
+  <RitualTargetUnconnectedGaruanlenTreeInfo>egy kapcsolódás nélküli Gauranlen fa</RitualTargetUnconnectedGaruanlenTreeInfo>
   <!-- EN: Already connected to {PAWN_nameDef} -->
-  <RitualTargetConnectedGauranlenTree>TODO</RitualTargetConnectedGauranlenTree>
+  <RitualTargetConnectedGauranlenTree>Már csatlakozott a következőhöz: {PAWN_nameDef}</RitualTargetConnectedGauranlenTree>
   <!-- EN: {TREE_definite} has had its connection torn recently. It can connect again in {1}. -->
-  <RitualTargetConnectionTornGauranlenTree>TODO</RitualTargetConnectionTornGauranlenTree>
+  <RitualTargetConnectionTornGauranlenTree>{TREE_definite} kapcsolata nemrég megszakadt. Újra csatlakozhat {1} múlva.</RitualTargetConnectionTornGauranlenTree>
   <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
-  <RitualTargeWoodInfo>TODO</RitualTargeWoodInfo>
+  <RitualTargeWoodInfo>Minden résztvevőnek {0} fára van szüksége (összesen {2}). Csak {1} fa van.</RitualTargeWoodInfo>
   <!-- EN: {0} must be able to reach ritual target. -->
-  <RitualTargetUnreachable>TODO</RitualTargetUnreachable>
+  <RitualTargetUnreachable>{0} el kell érnie a rituális célt.</RitualTargetUnreachable>
   <!-- EN: Accuse -->
   <Accuse>Vád</Accuse>
   <!-- EN: {PAWN_labelShort} does not believe in ideoligious scarification and will not like being scarified. -->
-  <RitualScarificationWarnNonScarificationIdeo>TODO</RitualScarificationWarnNonScarificationIdeo>
+  <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort} nem hisz az ideológikus köpölyözésben, és nem fogja szeretni, ha megvágják.</RitualScarificationWarnNonScarificationIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being scarified. -->
-  <RitualScarificationWarnWimp>TODO</RitualScarificationWarnWimp>
+  <RitualScarificationWarnWimp>{PAWN_labelShort} nyavalyás, és nem szereti, ha megvágják.</RitualScarificationWarnWimp>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being blinded. -->
-  <RitualBlindingWarnWimp>TODO</RitualBlindingWarnWimp>
+  <RitualBlindingWarnWimp>{PAWN_labelShort} bunkó, és nem szereti, ha megvakítják.</RitualBlindingWarnWimp>
   <!-- EN: Scarification is expected for {IDEOMEMBERPLURAL} as long as there are fewer than {0} scarified {IDEOMEMBERPLURAL}. -->
-  <RitualScarificationTriggerExtraDesc>TODO</RitualScarificationTriggerExtraDesc>
+  <RitualScarificationTriggerExtraDesc>{IDEOMEMBERPLURAL} megvakítása várható mindaddig, amíg {0}-nál kevesebb a köpölyözött {IDEOMEMBERPLURAL}.</RitualScarificationTriggerExtraDesc>
   <!-- EN: Blinding is expected for each current and joining {IDEOMEMBER} colonist. -->
-  <RitualBlindingTriggerExtraDesc>TODO</RitualBlindingTriggerExtraDesc>
+  <RitualBlindingTriggerExtraDesc>Vakítás várható minden jelenlegi és csatlakozott {IDEOMEMBER} telepes esetében.</RitualBlindingTriggerExtraDesc>
   
   <!-- EN: Everyone participating in the ritual gained a one-day work focus buff ({PERCENTAGE} global work speed)! -->
   <RitualOutcomeExtraDesc_DancePartyWorkFocus>TODO</RitualOutcomeExtraDesc_DancePartyWorkFocus>
@@ -243,7 +243,7 @@
   <!-- EN: Requires any of memes -->
   <RitualAttachedRewardRequiredMemeAny>TODO</RitualAttachedRewardRequiredMemeAny>
   <!-- EN: Requires {0} faction -->
-  <RitualAttachedRewardRequiredFaction>TODO</RitualAttachedRewardRequiredFaction>
+  <RitualAttachedRewardRequiredFaction>{0} frakció szükséges</RitualAttachedRewardRequiredFaction>
   <!-- EN: positive -->
   <RitualAttachedOutcomes_Positive>pozitív</RitualAttachedOutcomes_Positive>
   <!-- EN: negative -->
@@ -270,25 +270,25 @@
   <RitualAttachedOutcomeCantApply_NotAvailableRightNow>TODO</RitualAttachedOutcomeCantApply_NotAvailableRightNow>
   
   <!-- EN: This building is a variation of -->
-  <IdeoBuildingVariationOf>TODO</IdeoBuildingVariationOf>
+  <IdeoBuildingVariationOf>Ez az épület egy változata</IdeoBuildingVariationOf>
   <!-- EN: Minimum expectations -->
-  <IdeoBuildingMinimumExpectations>TODO</IdeoBuildingMinimumExpectations>
+  <IdeoBuildingMinimumExpectations>Minimális elvárások</IdeoBuildingMinimumExpectations>
   <!-- EN: optional -->
-  <Optional>TODO</Optional>
+  <Optional>választható</Optional>
   <!-- EN: expectations -->
-  <Expectations>TODO</Expectations>
+  <Expectations>elvárások</Expectations>
   <!-- EN: Repeating a ritual within {0} days reduces its quality. {1} days have passed since the last ritual, so the current quality reduction is {2}. This penalty will fall to zero {3} days from now. -->
-  <RitualRepeatPenaltyTip>TODO</RitualRepeatPenaltyTip>
+  <RitualRepeatPenaltyTip>Egy szertartás {0} napon belüli megismétlése rontja annak minőségét. {1} nap telt el az utolsó szertartás óta, így a jelenlegi minőségcsökkenés {2}. Ez a büntetés nullára csökken {3} nap múlva.</RitualRepeatPenaltyTip>
   <!-- EN: For best quality, start the {0} at {1}. -->
-  <RitualOutcomeCompTip_RitualTargetDefsPart1>TODO</RitualOutcomeCompTip_RitualTargetDefsPart1>
+  <RitualOutcomeCompTip_RitualTargetDefsPart1>A legjobb minőség érdekében {0} indítása ekkor optimális: {1}.</RitualOutcomeCompTip_RitualTargetDefsPart1>
   <!-- EN: Currently, the {0} is being started at {1_labelShortIndef}. -->
-  <RitualOutcomeCompTip_RitualTargetDefsPart2>TODO</RitualOutcomeCompTip_RitualTargetDefsPart2>
+  <RitualOutcomeCompTip_RitualTargetDefsPart2>{0} jelenleg a következőnél indul: {1_labelShortIndef}.</RitualOutcomeCompTip_RitualTargetDefsPart2>
   <!-- EN: Development points -->
-  <RitualDevelopmentPoints>TODO</RitualDevelopmentPoints>
+  <RitualDevelopmentPoints>Fejlesztési pontok</RitualDevelopmentPoints>
   <!-- EN: Completing this ritual gives {0}-{1} development points depending on quality. -->
-  <RitualDevelopmentPointsTip>TODO</RitualDevelopmentPointsTip>
+  <RitualDevelopmentPointsTip>A szertartás elvégzése a minőségtől függően {0}-{1} fejlesztési pontot ad.</RitualDevelopmentPointsTip>
   <!-- EN: {0} needs to be powered. -->
-  <RitualOutcomeBlockedNoPower>TODO</RitualOutcomeBlockedNoPower>
+  <RitualOutcomeBlockedNoPower>{0} eszközt áram alá kell helyezni.</RitualOutcomeBlockedNoPower>
 
   <!-- EN: For slave use -->
   <ForSlaveUse>Rabszolga használatra</ForSlaveUse>
@@ -306,50 +306,50 @@
 
   <!-- TextMotes -->
   <!-- EN: Slave suppression: {0} -->
-  <TextMote_SuppressionIncreased>TODO</TextMote_SuppressionIncreased>
+  <TextMote_SuppressionIncreased>Rabszolga elnyomás: {0}</TextMote_SuppressionIncreased>
 
   <!-- Role requirements -->
   <!-- EN: Requirements -->
-  <RoleRequirementsLabel>TODO</RoleRequirementsLabel>
+  <RoleRequirementsLabel>Követelmények</RoleRequirementsLabel>
   <!-- EN: Passive effects -->
-  <RoleEffectsLabel>TODO</RoleEffectsLabel>
+  <RoleEffectsLabel>Passzív hatások</RoleEffectsLabel>
   <!-- EN: Must be {0} -->
-  <RoleRequirementLabelSameIdeo>TODO</RoleRequirementLabelSameIdeo>
+  <RoleRequirementLabelSameIdeo>{0} kell legyen</RoleRequirementLabelSameIdeo>
   <!-- EN: Must be {0} -->
-  <RoleRequirementLabelSupremeGender>TODO</RoleRequirementLabelSupremeGender>
+  <RoleRequirementLabelSupremeGender>{0} kell legyen</RoleRequirementLabelSupremeGender>
   <!-- EN: Cannot be child -->
-  <RoleRequirementCannotBe>TODO</RoleRequirementCannotBe>
+  <RoleRequirementCannotBe>Nem lehet gyerek</RoleRequirementCannotBe>
 
   <!-- EN: Abilities -->
-  <RoleGrantedAbilitiesLabel>TODO</RoleGrantedAbilitiesLabel>
+  <RoleGrantedAbilitiesLabel>Képességek</RoleGrantedAbilitiesLabel>
   <!-- EN: Required apparel -->
-  <RoleRequiredApparelLabel>TODO</RoleRequiredApparelLabel>
+  <RoleRequiredApparelLabel>Kötelező ruházat</RoleRequiredApparelLabel>
   <!-- EN: Has role in rituals -->
-  <RoleRitualsLabel>TODO</RoleRitualsLabel>
+  <RoleRitualsLabel>Szerepe van a rituálékban</RoleRitualsLabel>
   <!-- EN: This role becomes active when your faction has {1} {0}. It becomes inactive when your faction has only {3} {2}. -->
-  <RoleBelieverCountDesc>TODO</RoleBelieverCountDesc>
+  <RoleBelieverCountDesc>Ez a szerepkör akkor válik aktívvá, ha a frakciónak van {1} {0}. Inaktívvá akkor válik, ha a frakciónak csak {3} {2} van.</RoleBelieverCountDesc>
   <!-- EN: Raised by {0} levels. -->
-  <RoleExpectationOffset>TODO</RoleExpectationOffset>
+  <RoleExpectationOffset>{0} szinttel emelve.</RoleExpectationOffset>
   <!-- EN: The {0} has higher expectations. -->
-  <RoleRaisedExpectation>TODO</RoleRaisedExpectation>
+  <RoleRaisedExpectation>{0} magasabb elvárásokat támaszt.</RoleRaisedExpectation>
   <!-- EN: The {0} will have higher expectations in {1}. -->
-  <RoleRaisedExpectationGracePeriod>TODO</RoleRaisedExpectationGracePeriod>
+  <RoleRaisedExpectationGracePeriod>{0} magasabb elvárásokat támaszt ebben: {1}.</RoleRaisedExpectationGracePeriod>
   <!-- EN: Led by {0} -->
-  <IdeoLeaderDifferentIdeoThoughtLabel>TODO</IdeoLeaderDifferentIdeoThoughtLabel>
+  <IdeoLeaderDifferentIdeoThoughtLabel>{0} vezetésével</IdeoLeaderDifferentIdeoThoughtLabel>
   <!-- EN: {PAWN_nameDef} will not do {1} work. -->
-  <AbilityDisabled_IncapableOfWorkTag>TODO</AbilityDisabled_IncapableOfWorkTag>
+  <AbilityDisabled_IncapableOfWorkTag>{PAWN_nameDef} nem fog {1} munkát végezni.</AbilityDisabled_IncapableOfWorkTag>
   <!-- EN: No reachable altar or ritual spot. -->
-  <AbilityDisabledNoAltarOrRitualsSpot>TODO</AbilityDisabledNoAltarOrRitualsSpot>
+  <AbilityDisabledNoAltarOrRitualsSpot>Nincs elérhető oltár vagy rituális hely.</AbilityDisabledNoAltarOrRitualsSpot>
   <!-- EN: No reachable altar, ideogram or ritual spot. -->
-  <AbilityDisabledNoAltarIdeogramOrRitualsSpot>TODO</AbilityDisabledNoAltarIdeogramOrRitualsSpot>
+  <AbilityDisabledNoAltarIdeogramOrRitualsSpot>Nincs elérhető oltár, jelkép vagy rituális hely.</AbilityDisabledNoAltarIdeogramOrRitualsSpot>
   <!-- EN: No reachable ritual spot. -->
-  <AbilityDisabledNoRitualSpot>TODO</AbilityDisabledNoRitualSpot>
+  <AbilityDisabledNoRitualSpot>Nincs elérhető rituális hely.</AbilityDisabledNoRitualSpot>
 
   <!-- EN: Will\n{0} to {1} -->
   <TextMote_WillReduced>TODO</TextMote_WillReduced>
 
   <!-- EN: Accepting this join offer is an act of charity. If you refuse, the following people will be unhappy due to their pro-charity beliefs:\n{0}\n\nAre you sure you want to reject this join offer? -->
-  <ConfirmationCharityJoiner>TODO</ConfirmationCharityJoiner>
+  <ConfirmationCharityJoiner>A csatlakozási ajánlat elfogadása jótékonysági cselekedet. Ha visszautasítod, a következő emberek boldogtalanok lesznek jótékonysági meggyőződésük miatt:\n{0}\n\nBiztosan elutasítod ezt a csatlakozási ajánlatot?</ConfirmationCharityJoiner>
 
   <!-- EN: Believers in {0} ({1}) -->
   <BelieversIn>{0} hívei ({1})</BelieversIn>
@@ -396,7 +396,7 @@
 
   <!-- Slave interaction -->
   <!-- EN: The slave will leave the map on foot and return to their home faction, {0}. -->
-  <EmancipateNonCololonistWithFactionTooltip>TODO</EmancipateNonCololonistWithFactionTooltip>
+  <EmancipateNonCololonistWithFactionTooltip>A rabszolga gyalog elhagyja a térképet, és visszatér otthoni frakciójába, {0}.</EmancipateNonCololonistWithFactionTooltip>
   <!-- EN: The slave will leave on foot and exit the map. -->
   <EmancipateNonCololonistWithoutFactionTooltip>TODO</EmancipateNonCololonistWithoutFactionTooltip>
   <!-- EN: The slave will return to being a colonist. -->

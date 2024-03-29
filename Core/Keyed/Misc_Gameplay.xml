@@ -1672,7 +1672,7 @@
   <!-- EN: {0} quality depends on -->
   <RitualOutcomeQualityAbstract>{0} minősége függ</RitualOutcomeQualityAbstract>
   <!-- EN: {0} total quality was {1}, determined by these factors -->
-  <RitualOutcomeQualitySpecific>TODO</RitualOutcomeQualitySpecific>
+  <RitualOutcomeQualitySpecific>{0} teljes minősége {1} volt, ezek a tényezők határozták meg</RitualOutcomeQualitySpecific>
   <!-- EN: Outcome chances at {0} quality -->
   <RitualOutcomeChances>Eredményesélyek {0} minőségnél</RitualOutcomeChances>
   <!-- EN: Performed recently -->
@@ -1701,7 +1701,7 @@
   <!-- EN: Begin {0} for {1} -->
   <BeginRitualFor>TODO</BeginRitualFor>
   <!-- EN: {0} (out of {1}) -->
-  <QualityOutOf>TODO</QualityOutOf>
+  <QualityOutOf>{0} (max. {1})</QualityOutOf>
   <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
   <DateRitualNoObligation>{0} egy dátumhoz kötött szertartás. El tudod indítani {1} nap múlva, ekkor: {2}.</DateRitualNoObligation>
 
@@ -1739,7 +1739,7 @@
   <!-- EN: {0} used -->
   <Used>TODO</Used>
   <!-- EN: {0} starting quality -->
-  <StartingRitualQuality>TODO</StartingRitualQuality>
+  <StartingRitualQuality>{0} Kezdeti minőség</StartingRitualQuality>
 
   <!-- EN: up to {0} quality -->
   <OutcomeBonusDesc_Quality>legfeljebb {0} minőségben</OutcomeBonusDesc_Quality>

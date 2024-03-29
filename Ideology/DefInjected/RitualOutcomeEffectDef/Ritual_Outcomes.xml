@@ -463,19 +463,19 @@
   <GladiatorDuel.outcomeChances.3.description>TODO</GladiatorDuel.outcomeChances.3.description>
   
   <!-- EN: A new role will be assigned to a colonist. -->
-  <RoleChange.description>TODO</RoleChange.description>
+  <RoleChange.description>Új szerepkört kap egy telepes.</RoleChange.description>
   <!-- EN: required spectator count -->
-  <RoleChange.comps.0.label>TODO</RoleChange.comps.0.label>
+  <RoleChange.comps.0.label>szükséges nézőszám</RoleChange.comps.0.label>
   <!-- EN: The required number of spectators must attend for the role change to apply. -->
-  <RoleChange.extraPredictedOutcomeDescriptions.0>TODO</RoleChange.extraPredictedOutcomeDescriptions.0>
+  <RoleChange.extraPredictedOutcomeDescriptions.0>A szerepváltás érvényesítéséhez a szükséges számú nézőnek kell megjelennie.</RoleChange.extraPredictedOutcomeDescriptions.0>
   <!-- EN: Failed -->
-  <RoleChange.outcomeChances.0.label>TODO</RoleChange.outcomeChances.0.label>
+  <RoleChange.outcomeChances.0.label>Nem sikerült</RoleChange.outcomeChances.0.label>
   <!-- EN: The role change was not attended by enough {IDEO_memberNamePlural}. -->
-  <RoleChange.outcomeChances.0.description>TODO</RoleChange.outcomeChances.0.description>
+  <RoleChange.outcomeChances.0.description>A szerepváltoztatásban nem vett részt elég {IDEO_memberNamePlural}.</RoleChange.outcomeChances.0.description>
   <!-- EN: Successful -->
-  <RoleChange.outcomeChances.1.label>TODO</RoleChange.outcomeChances.1.label>
+  <RoleChange.outcomeChances.1.label>Sikeres</RoleChange.outcomeChances.1.label>
   <!-- EN: The role change ritual was completed. -->
-  <RoleChange.outcomeChances.1.description>TODO</RoleChange.outcomeChances.1.description>
+  <RoleChange.outcomeChances.1.description>A szerepváltás rituáléja befejeződött.</RoleChange.outcomeChances.1.description>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
   <Sacrifice.description>A szertartás minőségétől függően a résztvevők {MINMOOD} és {MAXMOOD} közötti hangulatban lesznek {MOODDAYS} napig.</Sacrifice.description>
@@ -556,7 +556,7 @@
   <!-- EN: convicted -->
   <Trial.outcomeChances.1.label>elítélve</Trial.outcomeChances.1.label>
   <!-- EN: The prosecution convinced everyone of {PAWN_labelShort}'s guilt. {PAWN_labelShort} was convicted and can now be punished. You may execute or banish {PAWN_objective} and nobody will mind. -->
-  <Trial.outcomeChances.1.description>Az ügyész mindenkit meggyőzött {PAWN_labelShort} bűnösségéről. {PAWN_labelShort} vádlottat elítélték, és most megbüntethető. Végrehajthatod vagy száműzheted őt, és senki sem bánja.</Trial.outcomeChances.1.description>
+  <Trial.outcomeChances.1.description>Az büntető eljárás mindenkit meggyőzött {PAWN_labelShort} bűnösségéről. {PAWN_labelShort} vádlottat elítélték, és most megbüntethető. Végrehajthatod vagy száműzheted őt, és senki sem bánja.</Trial.outcomeChances.1.description>
   
   <!-- EN: The trial quality determines the chance that the defendant will be convicted. -->
   <TrialMentalState.description>TODO</TrialMentalState.description>

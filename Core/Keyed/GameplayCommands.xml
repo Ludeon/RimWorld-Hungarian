@@ -593,28 +593,28 @@
 
   <!-- Take a drug -->
   <!-- EN: Take drug... -->
-  <TakeDrug>TODO</TakeDrug>
+  <TakeDrug>Drog választása...</TakeDrug>
   <!-- EN: Choose a drug from inventory to ingest immediately. -->
-  <TakeDrugDesc>TODO</TakeDrugDesc>
+  <TakeDrugDesc>Válassz ki egy gyógyszert a készletből, hogy azonnal bevedd.</TakeDrugDesc>
 
   <!-- Build X -->
   <!-- EN: Build {0} -->
-  <BuildThing>TODO</BuildThing>
+  <BuildThing>{0} építése</BuildThing>
 
   <!-- Rituals -->
   <!-- EN: Leave {RITUAL_label} -->
-  <CommandLeaveRitual>TODO</CommandLeaveRitual>
+  <CommandLeaveRitual>{RITUAL_label} elhagyása</CommandLeaveRitual>
   <!-- EN: Stop participating in the {RITUAL_labelDef}. The ritual will continue as long as it has at least one participant. -->
-  <CommandLeaveRitualDesc>TODO</CommandLeaveRitualDesc>
+  <CommandLeaveRitualDesc>{RITUAL_labelDef} szertartásban való részvétel befejezése. A rituálé mindaddig folytatódik, amíg legalább egy résztvevője van.</CommandLeaveRitualDesc>
   <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
-  <CommandLeaveLastParticipant>TODO</CommandLeaveLastParticipant>
+  <CommandLeaveLastParticipant>Ő a(z) {RITUAL_labelDef} szertartás utolsó résztvevője.</CommandLeaveLastParticipant>
 
   <!-- EN: Cancel {RITUAL_label} -->
-  <CommandCancelRitual>TODO</CommandCancelRitual>
+  <CommandCancelRitual>{RITUAL_label} megszakítása</CommandCancelRitual>
   <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
-  <CommandCancelRitualDesc>TODO</CommandCancelRitualDesc>
+  <CommandCancelRitualDesc>{RITUAL_labelDef} azonnali befejezése. A rituális kötelezettség megmarad. Később újraindíthatod a szertartást.</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
-  <CommandCancelRitualConfirm>TODO</CommandCancelRitualConfirm>
+  <CommandCancelRitualConfirm>Biztosan befejezed a következőt: {RITUAL_labelDef}?</CommandCancelRitualConfirm>
 
   <!-- Storage linking -->
   <!-- EN: Link settings -->

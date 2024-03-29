@@ -3,41 +3,41 @@
 
   <!-- Royal Titles -->
   <!-- EN: The amount of {FACTION_royalFavorLabel} that your negotiator will personally receive as a result of this deal. -->
-  <RoyalFavorDescription>TODO</RoyalFavorDescription>
+  <RoyalFavorDescription>Az a {FACTION_royalFavorLabel} mennyiség, amelyet a tárgyalód személyesen kap meg az üzlet eredményeként.</RoyalFavorDescription>
   <!-- EN: Required apparel -->
-  <RoyalTitleTooltipRequiredApparel>TODO</RoyalTitleTooltipRequiredApparel>
+  <RoyalTitleTooltipRequiredApparel>Kötelező ruházat</RoyalTitleTooltipRequiredApparel>
   <!-- EN: Minimum apparel quality -->
-  <RoyalTitleTooltipRequiredApparelQuality>TODO</RoyalTitleTooltipRequiredApparelQuality>
+  <RoyalTitleTooltipRequiredApparelQuality>Minimális ruházati minőség</RoyalTitleTooltipRequiredApparelQuality>
   <!-- EN: Bedroom requirements -->
-  <RoyalTitleTooltipBedroomRequirements>TODO</RoyalTitleTooltipBedroomRequirements>
+  <RoyalTitleTooltipBedroomRequirements>Hálószoba követelményei</RoyalTitleTooltipBedroomRequirements>
   <!-- EN: Throneroom requirements -->
-  <RoyalTitleTooltipThroneroomRequirements>TODO</RoyalTitleTooltipThroneroomRequirements>
+  <RoyalTitleTooltipThroneroomRequirements>Trónterem követelményei</RoyalTitleTooltipThroneroomRequirements>
   <!-- EN: Title privileges -->
-  <RoyalTitleTooltipPermits>TODO</RoyalTitleTooltipPermits>
+  <RoyalTitleTooltipPermits>Cím kiváltságai</RoyalTitleTooltipPermits>
   <!-- EN: Holders of this title must be covered in some combination of -->
-  <RoyalTitleRequiredApparelStatDescription>TODO</RoyalTitleRequiredApparelStatDescription>
+  <RoyalTitleRequiredApparelStatDescription>Ennek a címnek a birtokosait valamilyen kombinációban le kell fedni</RoyalTitleRequiredApparelStatDescription>
   <!-- EN: Any prestige armor -->
-  <ApparelRequirementAnyPrestigeArmor>TODO</ApparelRequirementAnyPrestigeArmor>
+  <ApparelRequirementAnyPrestigeArmor>Bármilyen presztízs páncél</ApparelRequirementAnyPrestigeArmor>
   <!-- EN: Any psycaster apparel -->
-  <ApparelRequirementAnyPsycasterApparel>TODO</ApparelRequirementAnyPsycasterApparel>
+  <ApparelRequirementAnyPsycasterApparel>Bármilyen psycaster ruházat</ApparelRequirementAnyPsycasterApparel>
   <!-- EN: or any psycaster or prestige apparel -->
-  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>TODO</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>vagy bármilyen psycaster vagy presztízsruházat</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
   <!-- EN: Disallowed work types -->
-  <DisabledWorkTypes>TODO</DisabledWorkTypes>
+  <DisabledWorkTypes>Tiltott munkatípusok</DisabledWorkTypes>
   <!-- EN: Allowed foods -->
-  <RoyalTitleRequiredMeals>TODO</RoyalTitleRequiredMeals>
+  <RoyalTitleRequiredMeals>Engedélyezett élelmiszerek</RoyalTitleRequiredMeals>
   <!-- EN: A holder of this title will only eat these foods, unless they are starving or on a caravan. -->
-  <RoyalTitleRequiredMealsDesc>TODO</RoyalTitleRequiredMealsDesc>
+  <RoyalTitleRequiredMealsDesc>A cím birtokosa csak ezeket az ételeket eszi, kivéve, ha éhezik vagy karavánnal utazik.</RoyalTitleRequiredMealsDesc>
   <!-- EN: Choose who should participate in bestowing ceremony. -->
   <ChooseParticipantsBestow>Válaszd ki, hogy ki vegyen részt a kinevezési ünnepségen.</ChooseParticipantsBestow>
 
   <!-- Royal implants -->
   <!-- EN: According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use a {IMPLANT}.\n\n{VIOLATIONTRIGGER}, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences. -->
-  <RoyalImplantIllegalUseWarning>TODO</RoyalImplantIllegalUseWarning>
+  <RoyalImplantIllegalUseWarning>{FACTION_name} törvényei értelmében {IMPLANT} legális használatához rendelkezned kell egy {TITLE} címmel.\n\n{VIOLATIONTRIGGER}, van esély arra, hogy {FACTION_name} frakció észleli a pszichikai aláírásod. Ez diplomáciai következményekhez vezet.</RoyalImplantIllegalUseWarning>
   <!-- EN: Install this implant anyway? -->
-  <RoyalImplantInstallConfirmation>TODO</RoyalImplantInstallConfirmation>
+  <RoyalImplantInstallConfirmation>Mégis telepíted ezt az implantátumot?</RoyalImplantInstallConfirmation>
   <!-- EN: Upgrade this implant anyway? -->
-  <RoyalImplantUpgradeConfirmation>TODO</RoyalImplantUpgradeConfirmation>
+  <RoyalImplantUpgradeConfirmation>Mégis frissíted ezt az implantátumot?</RoyalImplantUpgradeConfirmation>
 
   <!-- Royal weapons -->
   <!-- EN: Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
