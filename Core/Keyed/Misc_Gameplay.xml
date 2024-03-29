@@ -1605,24 +1605,24 @@
   
   <!-- Healing -->
   <!-- EN: {0_nameDef}'s {1} was cured. -->
-  <HealingCureHediff>TODO</HealingCureHediff>
+  <HealingCureHediff>{0_nameDef} {1} betegsége meggyógyult.</HealingCureHediff>
   <!-- EN: {0_nameDef}'s {1} was restored. -->
-  <HealingRestoreBodyPart>TODO</HealingRestoreBodyPart>
+  <HealingRestoreBodyPart>{0_nameDef} {1} testrésze visszaállítva.</HealingRestoreBodyPart>
 
   <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
-  <WarningBuildingCausesHostility>TODO</WarningBuildingCausesHostility>
+  <WarningBuildingCausesHostility>Vigyázat: Egy épület idehelyezése feldühíti a következő frakciót: {FACTION_name}!</WarningBuildingCausesHostility>
 
   <!-- EN: Choose landing site -->
-  <ChooseLandingSite>TODO</ChooseLandingSite>
+  <ChooseLandingSite>Válaszd ki a leszállási helyet</ChooseLandingSite>
   
   <!-- Rituals -->
   <!-- EN: ritual -->
   <Ritual>szertartás</Ritual>
 
   <!-- EN: Takes place at -->
-  <RitualTakesPlaceAt>TODO</RitualTakesPlaceAt>
+  <RitualTakesPlaceAt>Helyszín</RitualTakesPlaceAt>
   <!-- EN: Any {0} -->
-  <RitualTargetThingDefsInfo>TODO</RitualTargetThingDefsInfo>
+  <RitualTargetThingDefsInfo>Bármely {0}</RitualTargetThingDefsInfo>
   <!-- EN: Attending {0} -->
   <LordReportAttending>TODO</LordReportAttending>
   <!-- EN: {0} has been canceled. -->
@@ -1654,7 +1654,7 @@
   <!-- EN: Not participating -->
   <NotParticipating>Nem vesz részt</NotParticipating>
   <!-- EN: Drag and drop or left/right click to move people. -->
-  <DragPawnsToRolesInfo>Húzással vagy bal/jobb kattintással mozgathatod az embereket.</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfo>Húzással vagy bal/jobb katt az embereken.</DragPawnsToRolesInfo>
   <!-- EN: Drag and drop or click to move people. -->
   <DragPawnsToRolesInfoController>Húzással vagy kattintással mozgathatod az embereket.</DragPawnsToRolesInfoController>
   <!-- EN: A slave. The human property of others. -->
@@ -1710,11 +1710,11 @@
   <!-- EN: Ritual seat of {IDEOS} -->
   <RitualSeatOf>{IDEOS} szertartási helye</RitualSeatOf>
   <!-- EN: Expected quality -->
-  <ExpectedRitualQuality>TODO</ExpectedRitualQuality>
+  <ExpectedRitualQuality>Elvárt minőség</ExpectedRitualQuality>
   <!-- EN: Starting quality -->
   <StartingQuality>Kezdeti minőség</StartingQuality>
   <!-- EN: Expected duration -->
-  <ExpectedRitualDuration>TODO</ExpectedRitualDuration>
+  <ExpectedRitualDuration>Várható időtartam</ExpectedRitualDuration>
   
   <!-- EN: {PAWN_labelShort}'s {1} -->
   <RitualPredictedOutcomeDescPawnStat>TODO</RitualPredictedOutcomeDescPawnStat>

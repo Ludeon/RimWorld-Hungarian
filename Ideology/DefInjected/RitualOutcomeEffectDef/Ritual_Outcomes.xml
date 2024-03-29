@@ -538,32 +538,32 @@
   <ScarificationCeremony.outcomeChances.3.description>TODO</ScarificationCeremony.outcomeChances.3.description>
   
   <!-- EN: The trial quality determines the chance that the defendant will be convicted. -->
-  <Trial.description>TODO</Trial.description>
+  <Trial.description>A tárgyalás minősége határozza meg annak esélyét, hogy a vádlottat elítélik.</Trial.description>
   <!-- EN: participant count -->
   <Trial.comps.0.label>résztvevők száma</Trial.comps.0.label>
   <!-- EN: {PAWN_labelShort}'s negotiation ability -->
-  <Trial.comps.1.label>TODO</Trial.comps.1.label>
+  <Trial.comps.1.label>{PAWN_labelShort} tárgyalási képessége</Trial.comps.1.label>
   <!-- EN: Leader's negotiation ability -->
-  <Trial.comps.1.labelAbstract>TODO</Trial.comps.1.labelAbstract>
+  <Trial.comps.1.labelAbstract>A vezető tárgyalóképessége</Trial.comps.1.labelAbstract>
   <!-- EN: {PAWN_labelShort}'s negotiation ability -->
-  <Trial.comps.2.label>TODO</Trial.comps.2.label>
+  <Trial.comps.2.label>{PAWN_labelShort} tárgyalási képessége</Trial.comps.2.label>
   <!-- EN: Defendant's negotiation ability -->
-  <Trial.comps.2.labelAbstract>TODO</Trial.comps.2.labelAbstract>
+  <Trial.comps.2.labelAbstract>A vádlott tárgyalóképessége</Trial.comps.2.labelAbstract>
   <!-- EN: exonerated -->
-  <Trial.outcomeChances.0.label>TODO</Trial.outcomeChances.0.label>
+  <Trial.outcomeChances.0.label>felmentés</Trial.outcomeChances.0.label>
   <!-- EN: The prosecutor {PROSECUTOR_labelShort}'s arguments failed to convince anyone. {PAWN_labelShort} was exonerated. -->
-  <Trial.outcomeChances.0.description>TODO</Trial.outcomeChances.0.description>
+  <Trial.outcomeChances.0.description>{PROSECUTOR_labelShort} ügyész érvei senkit sem tudtak meggyőzni. {PAWN_labelShort} felmentést kapott.</Trial.outcomeChances.0.description>
   <!-- EN: convicted -->
-  <Trial.outcomeChances.1.label>TODO</Trial.outcomeChances.1.label>
+  <Trial.outcomeChances.1.label>elítélve</Trial.outcomeChances.1.label>
   <!-- EN: The prosecution convinced everyone of {PAWN_labelShort}'s guilt. {PAWN_labelShort} was convicted and can now be punished. You may execute or banish {PAWN_objective} and nobody will mind. -->
-  <Trial.outcomeChances.1.description>TODO</Trial.outcomeChances.1.description>
+  <Trial.outcomeChances.1.description>Az ügyész mindenkit meggyőzött {PAWN_labelShort} bűnösségéről. {PAWN_labelShort} vádlottat elítélték, és most megbüntethető. Végrehajthatod vagy száműzheted őt, és senki sem bánja.</Trial.outcomeChances.1.description>
   
   <!-- EN: The trial quality determines the chance that the defendant will be convicted. -->
   <TrialMentalState.description>TODO</TrialMentalState.description>
   <!-- EN: participant count -->
   <TrialMentalState.comps.0.label>résztvevők száma</TrialMentalState.comps.0.label>
   <!-- EN: {PAWN_labelShort}'s negotiation ability -->
-  <TrialMentalState.comps.1.label>TODO</TrialMentalState.comps.1.label>
+  <TrialMentalState.comps.1.label>{PAWN_labelShort} tárgyalási képessége</TrialMentalState.comps.1.label>
   <!-- EN: Leader's negotiation ability -->
   <TrialMentalState.comps.1.labelAbstract>TODO</TrialMentalState.comps.1.labelAbstract>
   <!-- EN: exonerated -->

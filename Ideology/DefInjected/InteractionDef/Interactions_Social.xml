@@ -48,27 +48,46 @@
     <li>problems->[RECIPIENT_possessive] painful feelings</li>
     <li>problems->recent difficulties</li>
   -->
-  <Counsel_Success.logRulesInitiator.rulesStrings>TODO</Counsel_Success.logRulesInitiator.rulesStrings>
+  <Counsel_Success.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] tanácsot adott [RECIPIENT_nameDef] telepesnek [problems] kapcsolatban.</li>
+    <li>r_logentry->[INITIATOR_nameDef] segített [RECIPIENT_nameDef] telepesnek átgondolni [problemsObj].</li>
+    <li>r_logentry->[INITIATOR_nameDef] tanácsot adott [RECIPIENT_nameDef] telepesnek a negativitás leküzdésére.</li>
+    <li>problems->a problémáival</li>
+    <li>problems->az aggodalmaival</li>
+    <li>problems->a fájdalmas érzéseivel</li>
+    <li>problems->a közelmúlt nehézségeivel</li>
+    <li>problemsObj->a problémáit</li>
+    <li>problemsObj->az aggodalmait</li>
+    <li>problemsObj->a fájdalmas érzéseit</li>
+    <li>problemsObj->a közelmúlt nehézségeit</li>
+  </Counsel_Success.logRulesInitiator.rulesStrings>
   
   <!-- EN: preached health -->
-  <PreachHealth.label>TODO</PreachHealth.label>
+  <PreachHealth.label>egészséget hirdet</PreachHealth.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] strengthened [RECIPIENT_nameDef]'s health by preaching about [preaching_topic].</li>
     <li>preaching_topic->reasons to live</li>
     <li>preaching_topic->higher ideoligious goals</li>
     <li>preaching_topic->[RECIPIENT_possessive] purpose of existence</li>
   -->
-  <PreachHealth.logRulesInitiator.rulesStrings>TODO</PreachHealth.logRulesInitiator.rulesStrings>
+  <PreachHealth.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] megerősítette [RECIPIENT_nameDef] egészségét azzal, hogy [preaching_topic] prédikált.</li>
+    <li>preaching_topic->az élet értelméről</li>
+    <li>preaching_topic->magasabb ideológiai célokról</li>
+    <li>preaching_topic->a létezés céljáról</li>
+  </PreachHealth.logRulesInitiator.rulesStrings>
   
   <!-- EN: reassurance -->
-  <Reassure.label>TODO</Reassure.label>
+  <Reassure.label>megnyugtatás</Reassure.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] reinforced [RECIPIENT_nameDef]'s beliefs.</li>
   -->
-  <Reassure.logRulesInitiator.rulesStrings>TODO</Reassure.logRulesInitiator.rulesStrings>
+  <Reassure.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] megerősítette [RECIPIENT_nameDef] hitét.</li>
+  </Reassure.logRulesInitiator.rulesStrings>
   
   <!-- EN: accuse -->
-  <Trial_Accuse.label>TODO</Trial_Accuse.label>
+  <Trial_Accuse.label>vád</Trial_Accuse.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] presented some evidence.</li>
     <li>r_logentry->[INITIATOR_nameDef] appealed to the emotions of the spectators.</li>
@@ -87,10 +106,27 @@
     <li>wrongdoing->hateful thinking</li>
     <li>wrongdoing->disloyalty</li>
   -->
-  <Trial_Accuse.logRulesInitiator.rulesStrings>TODO</Trial_Accuse.logRulesInitiator.rulesStrings>
+  <Trial_Accuse.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] bemutatott néhány bizonyítékot.</li>
+    <li>r_logentry->[INITIATOR_nameDef] a nézők érzelmeire apellált.</li>
+    <li>r_logentry->[INITIATOR_nameDef] megvádolta [RECIPIENT_nameDef] telepest, hogy [wrongdoing].</li>
+    <li>wrongdoing->szabotálja a kolóniát</li>
+    <li>wrongdoing->lusta</li>
+    <li>wrongdoing->túl sokat eszik</li>
+    <li>wrongdoing->lopást követett el</li>
+    <li>wrongdoing->szörnyű ember</li>
+    <li>wrongdoing->tiszteletlen a szent eszmékkel</li>
+    <li>wrongdoing->nem tiszteli a jelképeket</li>
+    <li>wrongdoing->eretnekséget követett el</li>
+    <li>wrongdoing->gyilkos</li>
+    <li>wrongdoing->istenkáromlást követett el</li>
+    <li>wrongdoing->hitszegést követett el</li>
+    <li>wrongdoing->gyűlölködő gondolkodással bír</li>
+    <li>wrongdoing->hűtlen</li>
+  </Trial_Accuse.logRulesInitiator.rulesStrings>
   
   <!-- EN: defend -->
-  <Trial_Defend.label>TODO</Trial_Defend.label>
+  <Trial_Defend.label>védelem</Trial_Defend.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] deflected the accusation.</li>
     <li>r_logentry->[INITIATOR_nameDef] presented another interpretation.</li>
@@ -100,13 +136,23 @@
     <li>r_logentry->[INITIATOR_nameDef] dismissed the allegations.</li>
     <li>r_logentry->[INITIATOR_nameDef] called the trial a sham.</li>
   -->
-  <Trial_Defend.logRulesInitiator.rulesStrings>TODO</Trial_Defend.logRulesInitiator.rulesStrings>
+  <Trial_Defend.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] elhárította a vádat.</li>
+    <li>r_logentry->[INITIATOR_nameDef] egy másik értelmezést mutatott be.</li>
+    <li>r_logentry->[INITIATOR_nameDef] az esküdtszékhez fordult.</li>
+    <li>r_logentry->[INITIATOR_nameDef] kegyelmet kért.</li>
+    <li>r_logentry->[INITIATOR_nameDef] leállította az eljárást.</li>
+    <li>r_logentry->[INITIATOR_nameDef] elutasította a vádakat.</li>
+    <li>r_logentry->[INITIATOR_nameDef] színleltnek nevezte a tárgyalást.</li>
+  </Trial_Defend.logRulesInitiator.rulesStrings>
   
   <!-- EN: work drive -->
-  <WorkDrive.label>TODO</WorkDrive.label>
+  <WorkDrive.label>ösztönzés</WorkDrive.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] called upon [RECIPIENT_nameDef] to work extra hard for the good of the colony.</li>
   -->
-  <WorkDrive.logRulesInitiator.rulesStrings>TODO</WorkDrive.logRulesInitiator.rulesStrings>
+  <WorkDrive.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] felszólította [RECIPIENT_nameDef] telepest, hogy dolgozzon extra keményen a kolónia érdekében.</li>
+  </WorkDrive.logRulesInitiator.rulesStrings>
   
 </LanguageData>

@@ -4,21 +4,21 @@
   <!-- EN: linker -->
   <AnimaTreeLinking.roles.0.label>TODO</AnimaTreeLinking.roles.0.label>
   <!-- EN: Only adults can link with an anima tree. -->
-  <AnimaTreeLinking.roles.0.customChildDisallowMessage>TODO</AnimaTreeLinking.roles.0.customChildDisallowMessage>
+  <AnimaTreeLinking.roles.0.customChildDisallowMessage>Csak felnőttek kapcsolódhatnak animafához.</AnimaTreeLinking.roles.0.customChildDisallowMessage>
   <!-- EN: Need a colonist with the natural meditation focus type who is below maximum psylink level and not psychically deaf. -->
-  <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>TODO</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
+  <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>Szükséged van egy természetes meditációs fókuszú telepesre, aki a maximális psylink szint alatt van és pszichésen nem süket.</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
   <!-- EN: Must have natural focus type. -->
-  <AnimaTreeLinking.spectatorFilter.description>TODO</AnimaTreeLinking.spectatorFilter.description>
+  <AnimaTreeLinking.spectatorFilter.description>Természetes fókusztípussal kell rendelkeznie.</AnimaTreeLinking.spectatorFilter.description>
   <!-- EN: participate -->
-  <AnimaTreeLinking.spectatorGerund>résztvevő</AnimaTreeLinking.spectatorGerund>
+  <AnimaTreeLinking.spectatorGerund>részt vesz</AnimaTreeLinking.spectatorGerund>
   <!-- EN: Participants -->
   <AnimaTreeLinking.spectatorsLabel>Résztvevők</AnimaTreeLinking.spectatorsLabel>
   
   <!-- EN: {ORGANIZER_labelShort} is giving a speech from the throne.\n\nIf all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
-  <ThroneSpeech.letterText>TODO</ThroneSpeech.letterText>
+  <ThroneSpeech.letterText>{ORGANIZER_labelShort} beszédet mond a trónról.\n\nHa minden jól megy, a hallgatók ihletet kapnak és tiszteletet nyernek {ORGANIZER_labelShort} iránt. Ha rosszul megy, a beszéd társadalmi károkat okoz. Az eredmény {ORGANIZER_labelShort} szociális képességeitől függ.</ThroneSpeech.letterText>
   <!-- EN: Speech from the throne -->
-  <ThroneSpeech.letterTitle>TODO</ThroneSpeech.letterTitle>
+  <ThroneSpeech.letterTitle>Beszéd a trónról</ThroneSpeech.letterTitle>
   <!-- EN: organizer -->
-  <ThroneSpeech.roles.0.label>TODO</ThroneSpeech.roles.0.label>
+  <ThroneSpeech.roles.0.label>szervező</ThroneSpeech.roles.0.label>
   
 </LanguageData>

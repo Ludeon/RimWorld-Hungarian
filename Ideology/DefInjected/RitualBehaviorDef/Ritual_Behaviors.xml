@@ -2,110 +2,110 @@
 <LanguageData>
   
   <!-- EN: target -->
-  <BlindingCeremony.roles.0.label>TODO</BlindingCeremony.roles.0.label>
+  <BlindingCeremony.roles.0.label>célszemély</BlindingCeremony.roles.0.label>
   <!-- EN: the person to blind -->
-  <BlindingCeremony.roles.0.missingDesc>TODO</BlindingCeremony.roles.0.missingDesc>
+  <BlindingCeremony.roles.0.missingDesc>a vakításra kijelölt személy</BlindingCeremony.roles.0.missingDesc>
   <!-- EN: cutter -->
-  <BlindingCeremony.roles.1.label>TODO</BlindingCeremony.roles.1.label>
+  <BlindingCeremony.roles.1.label>vakító</BlindingCeremony.roles.1.label>
   <!-- EN: the person who performs the blinding -->
-  <BlindingCeremony.roles.1.missingDesc>TODO</BlindingCeremony.roles.1.missingDesc>
+  <BlindingCeremony.roles.1.missingDesc>a vakítást végző személy</BlindingCeremony.roles.1.missingDesc>
   <!-- EN: Target is not reachable. -->
-  <BlindingCeremony.stages.0.failTriggers.0.desc>TODO</BlindingCeremony.stages.0.failTriggers.0.desc>
+  <BlindingCeremony.stages.0.failTriggers.0.desc>A célpont nem érhető el.</BlindingCeremony.stages.0.failTriggers.0.desc>
   <!-- EN: escort asleep -->
-  <BlindingCeremony.stages.0.failTriggers.1.desc>TODO</BlindingCeremony.stages.0.failTriggers.1.desc>
+  <BlindingCeremony.stages.0.failTriggers.1.desc>aludni kísér</BlindingCeremony.stages.0.failTriggers.1.desc>
   
   <!-- EN: participate -->
-  <BurnCircle.spectatorGerund>résztvevő</BurnCircle.spectatorGerund>
+  <BurnCircle.spectatorGerund>részt vesz</BurnCircle.spectatorGerund>
   <!-- EN: Participants -->
   <BurnCircle.spectatorsLabel>Résztvevők</BurnCircle.spectatorsLabel>
   
   <!-- EN: participate -->
-  <CelebrationPartyDanceDrum.spectatorGerund>TODO</CelebrationPartyDanceDrum.spectatorGerund>
+  <CelebrationPartyDanceDrum.spectatorGerund>részt vesz</CelebrationPartyDanceDrum.spectatorGerund>
   <!-- EN: Participants -->
   <CelebrationPartyDanceDrum.spectatorsLabel>Résztvevők</CelebrationPartyDanceDrum.spectatorsLabel>
   <!-- EN: Campfire is missing. -->
-  <CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>TODO</CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>A tábortűz hiányzik.</CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>
   <!-- EN: Campfire is not lit. -->
-  <CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>TODO</CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>Tábortűz nincs meggyújtva.</CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>
   <!-- EN: No drums. -->
-  <CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>TODO</CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>Nincs dob.</CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>
   
   <!-- EN: participate -->
-  <CelebrationSkyLanterns.spectatorGerund>résztvevő</CelebrationSkyLanterns.spectatorGerund>
+  <CelebrationSkyLanterns.spectatorGerund>részt vesz</CelebrationSkyLanterns.spectatorGerund>
   <!-- EN: Participants -->
   <CelebrationSkyLanterns.spectatorsLabel>Résztvevők</CelebrationSkyLanterns.spectatorsLabel>
   
   <!-- EN: participate -->
-  <CelebrationTree.spectatorGerund>résztvevő</CelebrationTree.spectatorGerund>
+  <CelebrationTree.spectatorGerund>részt vesz</CelebrationTree.spectatorGerund>
   <!-- EN: Participants -->
   <CelebrationTree.spectatorsLabel>Résztvevők</CelebrationTree.spectatorsLabel>
   
   <!-- EN: speaker -->
-  <Conversion.roles.0.label>TODO</Conversion.roles.0.label>
+  <Conversion.roles.0.label>szónok</Conversion.roles.0.label>
   <!-- EN: convertee -->
-  <Conversion.roles.1.label>TODO</Conversion.roles.1.label>
+  <Conversion.roles.1.label>megtérített</Conversion.roles.1.label>
   <!-- EN: Prisoner is not reachable. -->
-  <Conversion.stages.0.failTriggers.0.desc>TODO</Conversion.stages.0.failTriggers.0.desc>
+  <Conversion.stages.0.failTriggers.0.desc>A fogoly nem elérhető.</Conversion.stages.0.failTriggers.0.desc>
   <!-- EN: escort asleep -->
-  <Conversion.stages.0.failTriggers.1.desc>TODO</Conversion.stages.0.failTriggers.1.desc>
+  <Conversion.stages.0.failTriggers.1.desc>aludni kísér</Conversion.stages.0.failTriggers.1.desc>
   
   <!-- EN: participate -->
-  <DancePartyTech.spectatorGerund>résztvevő</DancePartyTech.spectatorGerund>
+  <DancePartyTech.spectatorGerund>részt vesz</DancePartyTech.spectatorGerund>
   <!-- EN: Participants -->
   <DancePartyTech.spectatorsLabel>Résztvevők</DancePartyTech.spectatorsLabel>
   <!-- EN: Lightball is missing. -->
-  <DancePartyTech.stages.0.failTriggers.0.desc>TODO</DancePartyTech.stages.0.failTriggers.0.desc>
+  <DancePartyTech.stages.0.failTriggers.0.desc>Fénygömb hiányzik.</DancePartyTech.stages.0.failTriggers.0.desc>
   <!-- EN: Lightball is not powered. -->
-  <DancePartyTech.stages.0.failTriggers.1.desc>TODO</DancePartyTech.stages.0.failTriggers.1.desc>
+  <DancePartyTech.stages.0.failTriggers.1.desc>A fénygömb nem működik.</DancePartyTech.stages.0.failTriggers.1.desc>
   <!-- EN: No powered loudspeakers. -->
-  <DancePartyTech.stages.0.failTriggers.2.desc>TODO</DancePartyTech.stages.0.failTriggers.2.desc>
+  <DancePartyTech.stages.0.failTriggers.2.desc>Nincs működő hangszóró.</DancePartyTech.stages.0.failTriggers.2.desc>
   
   <!-- EN: speaker -->
-  <DateRitual.roles.0.label>TODO</DateRitual.roles.0.label>
+  <DateRitual.roles.0.label>szónok</DateRitual.roles.0.label>
   <!-- EN: participate -->
-  <DateRitual.spectatorGerund>résztvevő</DateRitual.spectatorGerund>
+  <DateRitual.spectatorGerund>részt vesz</DateRitual.spectatorGerund>
   <!-- EN: Participants -->
   <DateRitual.spectatorsLabel>Résztvevők</DateRitual.spectatorsLabel>
   <!-- EN: {0}: The speech is over, and the party is beginning. -->
-  <DateRitual.stages.0.postAction.text>TODO</DateRitual.stages.0.postAction.text>
+  <DateRitual.stages.0.postAction.text>{0}: A beszédnek vége és kezdődik a buli.</DateRitual.stages.0.postAction.text>
   
   <!-- EN: executioner -->
-  <Execution.roles.0.label>TODO</Execution.roles.0.label>
+  <Execution.roles.0.label>hóhér</Execution.roles.0.label>
   <!-- EN: an executioner -->
-  <Execution.roles.0.missingDesc>TODO</Execution.roles.0.missingDesc>
+  <Execution.roles.0.missingDesc>egy hóhér</Execution.roles.0.missingDesc>
   <!-- EN: prisoner -->
   <Execution.roles.1.label>fogoly</Execution.roles.1.label>
   <!-- EN: a prisoner -->
-  <Execution.roles.1.missingDesc>TODO</Execution.roles.1.missingDesc>
+  <Execution.roles.1.missingDesc>egy fogoly</Execution.roles.1.missingDesc>
   <!-- EN: Spectators must be willing to watch the execution. -->
-  <Execution.spectatorFilter.description>TODO</Execution.spectatorFilter.description>
+  <Execution.spectatorFilter.description>A nézőknek hajlandónak kell lenniük megnézni a kivégzést.</Execution.spectatorFilter.description>
   <!-- EN: Prisoner is not reachable. -->
-  <Execution.stages.0.failTriggers.0.desc>TODO</Execution.stages.0.failTriggers.0.desc>
+  <Execution.stages.0.failTriggers.0.desc>A fogoly nem elérhető.</Execution.stages.0.failTriggers.0.desc>
   <!-- EN: escort asleep -->
-  <Execution.stages.0.failTriggers.1.desc>TODO</Execution.stages.0.failTriggers.1.desc>
+  <Execution.stages.0.failTriggers.1.desc>aludni kísér</Execution.stages.0.failTriggers.1.desc>
   
   <!-- EN: participate -->
-  <FeastCannibal.spectatorGerund>résztvevő</FeastCannibal.spectatorGerund>
+  <FeastCannibal.spectatorGerund>részt vesz</FeastCannibal.spectatorGerund>
   <!-- EN: Participants -->
   <FeastCannibal.spectatorsLabel>Résztvevők</FeastCannibal.spectatorsLabel>
   
   <!-- EN: speaker -->
-  <Funeral.roles.0.label>TODO</Funeral.roles.0.label>
+  <Funeral.roles.0.label>szónok</Funeral.roles.0.label>
   
   <!-- EN: speaker -->
-  <GladiatorDuel.roles.0.label>TODO</GladiatorDuel.roles.0.label>
+  <GladiatorDuel.roles.0.label>szónok</GladiatorDuel.roles.0.label>
   <!-- EN: duelist -->
-  <GladiatorDuel.roles.1.label>TODO</GladiatorDuel.roles.1.label>
+  <GladiatorDuel.roles.1.label>párbajozó</GladiatorDuel.roles.1.label>
   <!-- EN: duelists -->
-  <GladiatorDuel.roles.1.categoryLabel>TODO</GladiatorDuel.roles.1.categoryLabel>
+  <GladiatorDuel.roles.1.categoryLabel>párbajozók</GladiatorDuel.roles.1.categoryLabel>
   <!-- EN: prisoners / slaves (duelists) -->
-  <GladiatorDuel.roles.1.missingDesc>TODO</GladiatorDuel.roles.1.missingDesc>
+  <GladiatorDuel.roles.1.missingDesc>foglyok / rabszolgák (párbajozók)</GladiatorDuel.roles.1.missingDesc>
   <!-- EN: duelist -->
-  <GladiatorDuel.roles.2.label>TODO</GladiatorDuel.roles.2.label>
+  <GladiatorDuel.roles.2.label>párbajozó</GladiatorDuel.roles.2.label>
   <!-- EN: duelists -->
-  <GladiatorDuel.roles.2.categoryLabel>TODO</GladiatorDuel.roles.2.categoryLabel>
+  <GladiatorDuel.roles.2.categoryLabel>párbajozók</GladiatorDuel.roles.2.categoryLabel>
   <!-- EN: prisoners / slaves (duelists) -->
-  <GladiatorDuel.roles.2.missingDesc>TODO</GladiatorDuel.roles.2.missingDesc>
+  <GladiatorDuel.roles.2.missingDesc>foglyok / rabszolgák (párbajozók)</GladiatorDuel.roles.2.missingDesc>
   <!-- EN: duelist escort -->
   <GladiatorDuel.roles.3.label>TODO</GladiatorDuel.roles.3.label>
   <!-- EN: duelist escorts -->
@@ -119,106 +119,106 @@
   <!-- EN: non-downed colonists capable of hauling -->
   <GladiatorDuel.roles.4.missingDesc>TODO</GladiatorDuel.roles.4.missingDesc>
   <!-- EN: participate -->
-  <GladiatorDuel.spectatorGerund>TODO</GladiatorDuel.spectatorGerund>
+  <GladiatorDuel.spectatorGerund>részt vesz</GladiatorDuel.spectatorGerund>
   <!-- EN: Spectators -->
-  <GladiatorDuel.spectatorsLabel>TODO</GladiatorDuel.spectatorsLabel>
+  <GladiatorDuel.spectatorsLabel>Nézők</GladiatorDuel.spectatorsLabel>
   <!-- EN: Duelist is not reachable. -->
-  <GladiatorDuel.stages.2.failTriggers.0.desc>TODO</GladiatorDuel.stages.2.failTriggers.0.desc>
+  <GladiatorDuel.stages.2.failTriggers.0.desc>A párbajozó nem elérhető.</GladiatorDuel.stages.2.failTriggers.0.desc>
   <!-- EN: escort asleep -->
-  <GladiatorDuel.stages.2.failTriggers.1.desc>TODO</GladiatorDuel.stages.2.failTriggers.1.desc>
+  <GladiatorDuel.stages.2.failTriggers.1.desc>aludni kísér</GladiatorDuel.stages.2.failTriggers.1.desc>
   <!-- EN: escort asleep -->
-  <GladiatorDuel.stages.2.failTriggers.2.desc>TODO</GladiatorDuel.stages.2.failTriggers.2.desc>
+  <GladiatorDuel.stages.2.failTriggers.2.desc>aludni kísér</GladiatorDuel.stages.2.failTriggers.2.desc>
   
   <!-- EN: {SPEAKER_labelShort} is giving a {RITUAL_labelIndef}.\n      \nIf all goes well, listeners will feel inspired, and gain respect for {SPEAKER_labelShort}. If it goes poorly, the speech will do social damage. Positive effects are reduced for non-{IDEOMEMBERS}. -->
-  <LeaderSpeech.letterText>TODO</LeaderSpeech.letterText>
+  <LeaderSpeech.letterText>{SPEAKER_labelShort} {RITUAL_labelIndef}-ot ad.\n\nHa minden jól megy, a hallgatók ihletet kapnak és tiszteletet nyernek {SPEAKER_labelShort} iránt. Ha rosszul megy, a beszéd társadalmi károkat okoz. A pozitív hatások csökkennek a nem {IDEOMEMBERS} esetében.</LeaderSpeech.letterText>
   <!-- EN: {RITUAL_labelCap} -->
-  <LeaderSpeech.letterTitle>TODO</LeaderSpeech.letterTitle>
+  <LeaderSpeech.letterTitle>{RITUAL_labelCap}</LeaderSpeech.letterTitle>
   <!-- EN: speaker -->
-  <LeaderSpeech.roles.0.label>TODO</LeaderSpeech.roles.0.label>
+  <LeaderSpeech.roles.0.label>szónok</LeaderSpeech.roles.0.label>
   
   <!-- EN: role changer -->
-  <RoleChange.roles.0.label>TODO</RoleChange.roles.0.label>
+  <RoleChange.roles.0.label>szerepváltó</RoleChange.roles.0.label>
   <!-- EN: a role changer -->
-  <RoleChange.roles.0.missingDesc>TODO</RoleChange.roles.0.missingDesc>
+  <RoleChange.roles.0.missingDesc>egy szerepváltó</RoleChange.roles.0.missingDesc>
   <!-- EN: spectate -->
-  <RoleChange.spectatorGerund>TODO</RoleChange.spectatorGerund>
+  <RoleChange.spectatorGerund>néz</RoleChange.spectatorGerund>
   <!-- EN: Spectators -->
-  <RoleChange.spectatorsLabel>TODO</RoleChange.spectatorsLabel>
+  <RoleChange.spectatorsLabel>Nézők</RoleChange.spectatorsLabel>
   
   <!-- EN: cutter -->
-  <SacrificeAnimal.roles.0.label>TODO</SacrificeAnimal.roles.0.label>
+  <SacrificeAnimal.roles.0.label>áldozó</SacrificeAnimal.roles.0.label>
   <!-- EN: sacrifice -->
-  <SacrificeAnimal.roles.1.label>TODO</SacrificeAnimal.roles.1.label>
+  <SacrificeAnimal.roles.1.label>áldozat</SacrificeAnimal.roles.1.label>
   <!-- EN: an animal with body size of at least 0.8 -->
-  <SacrificeAnimal.roles.1.missingDesc>TODO</SacrificeAnimal.roles.1.missingDesc>
+  <SacrificeAnimal.roles.1.missingDesc>legalább 0.8 testméretű állat</SacrificeAnimal.roles.1.missingDesc>
   <!-- EN: participate -->
-  <SacrificeAnimal.spectatorGerund>résztvevők</SacrificeAnimal.spectatorGerund>
+  <SacrificeAnimal.spectatorGerund>részt vesz</SacrificeAnimal.spectatorGerund>
   <!-- EN: Participants -->
   <SacrificeAnimal.spectatorsLabel>Résztvevők</SacrificeAnimal.spectatorsLabel>
   <!-- EN: Animal is not reachable. -->
-  <SacrificeAnimal.stages.0.failTriggers.0.desc>TODO</SacrificeAnimal.stages.0.failTriggers.0.desc>
+  <SacrificeAnimal.stages.0.failTriggers.0.desc>Az állat nem elérhető.</SacrificeAnimal.stages.0.failTriggers.0.desc>
   <!-- EN: escort asleep -->
-  <SacrificeAnimal.stages.0.failTriggers.1.desc>TODO</SacrificeAnimal.stages.0.failTriggers.1.desc>
+  <SacrificeAnimal.stages.0.failTriggers.1.desc>aludni kísér</SacrificeAnimal.stages.0.failTriggers.1.desc>
   
   <!-- EN: cutter -->
-  <SacrificePrisoner.roles.0.label>TODO</SacrificePrisoner.roles.0.label>
+  <SacrificePrisoner.roles.0.label>hóhér</SacrificePrisoner.roles.0.label>
   <!-- EN: sacrifice -->
-  <SacrificePrisoner.roles.1.label>TODO</SacrificePrisoner.roles.1.label>
+  <SacrificePrisoner.roles.1.label>áldozat</SacrificePrisoner.roles.1.label>
   <!-- EN: a prisoner -->
-  <SacrificePrisoner.roles.1.missingDesc>TODO</SacrificePrisoner.roles.1.missingDesc>
+  <SacrificePrisoner.roles.1.missingDesc>egy fogoly</SacrificePrisoner.roles.1.missingDesc>
   <!-- EN: participate -->
-  <SacrificePrisoner.spectatorGerund>TODO</SacrificePrisoner.spectatorGerund>
+  <SacrificePrisoner.spectatorGerund>részt vesz</SacrificePrisoner.spectatorGerund>
   <!-- EN: Participants -->
   <SacrificePrisoner.spectatorsLabel>Résztvevők</SacrificePrisoner.spectatorsLabel>
   <!-- EN: Prisoner is not reachable. -->
-  <SacrificePrisoner.stages.0.failTriggers.0.desc>TODO</SacrificePrisoner.stages.0.failTriggers.0.desc>
+  <SacrificePrisoner.stages.0.failTriggers.0.desc>A fogoly nem elérhető.</SacrificePrisoner.stages.0.failTriggers.0.desc>
   <!-- EN: escort asleep -->
-  <SacrificePrisoner.stages.0.failTriggers.1.desc>TODO</SacrificePrisoner.stages.0.failTriggers.1.desc>
+  <SacrificePrisoner.stages.0.failTriggers.1.desc>aludni kísér</SacrificePrisoner.stages.0.failTriggers.1.desc>
   
   <!-- EN: target -->
-  <ScarificationCeremony.roles.0.label>TODO</ScarificationCeremony.roles.0.label>
+  <ScarificationCeremony.roles.0.label>célszemély</ScarificationCeremony.roles.0.label>
   <!-- EN: the person to scarify -->
-  <ScarificationCeremony.roles.0.missingDesc>TODO</ScarificationCeremony.roles.0.missingDesc>
+  <ScarificationCeremony.roles.0.missingDesc>az a személy, akit meg kell vagdalni</ScarificationCeremony.roles.0.missingDesc>
   <!-- EN: cutter -->
-  <ScarificationCeremony.roles.1.label>TODO</ScarificationCeremony.roles.1.label>
+  <ScarificationCeremony.roles.1.label>szertartásmester</ScarificationCeremony.roles.1.label>
   <!-- EN: the person who performs the scarification -->
-  <ScarificationCeremony.roles.1.missingDesc>TODO</ScarificationCeremony.roles.1.missingDesc>
+  <ScarificationCeremony.roles.1.missingDesc>az a személy, aki a köpölyözést végzi</ScarificationCeremony.roles.1.missingDesc>
   <!-- EN: Target is not reachable. -->
-  <ScarificationCeremony.stages.0.failTriggers.0.desc>TODO</ScarificationCeremony.stages.0.failTriggers.0.desc>
+  <ScarificationCeremony.stages.0.failTriggers.0.desc>A célpont nem érhető el.</ScarificationCeremony.stages.0.failTriggers.0.desc>
   <!-- EN: escort asleep -->
-  <ScarificationCeremony.stages.0.failTriggers.1.desc>TODO</ScarificationCeremony.stages.0.failTriggers.1.desc>
+  <ScarificationCeremony.stages.0.failTriggers.1.desc>aludni kísér</ScarificationCeremony.stages.0.failTriggers.1.desc>
   
   <!-- EN: participate -->
-  <SmokeCircle.spectatorGerund>résztvevők</SmokeCircle.spectatorGerund>
+  <SmokeCircle.spectatorGerund>részt vesz</SmokeCircle.spectatorGerund>
   <!-- EN: Participants -->
   <SmokeCircle.spectatorsLabel>Résztvevők</SmokeCircle.spectatorsLabel>
   
   <!-- EN: connector -->
-  <TreeConnection.roles.0.label>TODO</TreeConnection.roles.0.label>
+  <TreeConnection.roles.0.label>kapcsolódó</TreeConnection.roles.0.label>
   <!-- EN: Only adults can connect to the Gauranlen tree. -->
-  <TreeConnection.roles.0.customChildDisallowMessage>TODO</TreeConnection.roles.0.customChildDisallowMessage>
+  <TreeConnection.roles.0.customChildDisallowMessage>Csak a felnőttek csatlakozhatnak a Gauranlen fához.</TreeConnection.roles.0.customChildDisallowMessage>
   <!-- EN: spectate -->
-  <TreeConnection.spectatorGerund>TODO</TreeConnection.spectatorGerund>
+  <TreeConnection.spectatorGerund>néz</TreeConnection.spectatorGerund>
   <!-- EN: Spectators -->
-  <TreeConnection.spectatorsLabel>TODO</TreeConnection.spectatorsLabel>
+  <TreeConnection.spectatorsLabel>Nézők</TreeConnection.spectatorsLabel>
   
   <!-- EN: judge -->
-  <Trial.roles.0.label>TODO</Trial.roles.0.label>
+  <Trial.roles.0.label>bíró</Trial.roles.0.label>
   <!-- EN: convict -->
-  <Trial.roles.1.label>TODO</Trial.roles.1.label>
+  <Trial.roles.1.label>vádlott</Trial.roles.1.label>
   
   <!-- EN: judge -->
-  <TrialMentalState.roles.0.label>TODO</TrialMentalState.roles.0.label>
+  <TrialMentalState.roles.0.label>bíró</TrialMentalState.roles.0.label>
   <!-- EN: convict -->
-  <TrialMentalState.roles.1.label>TODO</TrialMentalState.roles.1.label>
+  <TrialMentalState.roles.1.label>vádlott</TrialMentalState.roles.1.label>
   
   <!-- EN: judge -->
-  <TrialPrisoner.roles.0.label>TODO</TrialPrisoner.roles.0.label>
+  <TrialPrisoner.roles.0.label>bíró</TrialPrisoner.roles.0.label>
   <!-- EN: convict -->
-  <TrialPrisoner.roles.1.label>TODO</TrialPrisoner.roles.1.label>
+  <TrialPrisoner.roles.1.label>vádlott</TrialPrisoner.roles.1.label>
   <!-- EN: Convicted prisoner is not reachable. -->
-  <TrialPrisoner.stages.0.failTriggers.0.desc>TODO</TrialPrisoner.stages.0.failTriggers.0.desc>
+  <TrialPrisoner.stages.0.failTriggers.0.desc>Az vádlott fogoly nem elérhető.</TrialPrisoner.stages.0.failTriggers.0.desc>
   <!-- EN: escort asleep -->
-  <TrialPrisoner.stages.0.failTriggers.1.desc>TODO</TrialPrisoner.stages.0.failTriggers.1.desc>
+  <TrialPrisoner.stages.0.failTriggers.1.desc>aludni kísér</TrialPrisoner.stages.0.failTriggers.1.desc>
   
 </LanguageData>
