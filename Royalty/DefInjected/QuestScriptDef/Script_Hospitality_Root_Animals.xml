@@ -5,7 +5,10 @@
     <li>lodgersLabel->[lodgersPawnKind_label]</li>
     <li>lodgersLabelPlural->[lodgersPawnKind_labelPlural]</li>
   -->
-  <Hospitality_Animals.questDescriptionAndNameRules.rulesStrings>TODO</Hospitality_Animals.questDescriptionAndNameRules.rulesStrings>
+  <Hospitality_Animals.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->[lodgersPawnKind_label]</li>
+    <li>lodgersLabelPlural->[lodgersPawnKind_labelPlural]</li>
+  </Hospitality_Animals.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>threatsInfoMechClustersSingleAnimal->For unknown reasons, the [lodgersLabel] has been targeted by an orbiting mechanoid swarm.</li>
     <li>threatsInfoMechClustersMultiAnimal->For unknown reasons, the [lodgersLabelPlural] have been targeted by an orbiting mechanoid swarm.</li>
@@ -48,7 +51,48 @@
     <li>threatsInfo6(generateThreats==false)-></li>
     <li>letterSubject(priority=1)->{SUBJECT_definite} the [lodgersLabel]</li>
   -->
-  <Hospitality_Animals.questDescriptionRules.rulesStrings>TODO</Hospitality_Animals.questDescriptionRules.rulesStrings>
+  <Hospitality_Animals.questDescriptionRules.rulesStrings>
+    <li>threatsInfoMechClustersSingleAnimal->Ismeretlen okokból [lodgersLabel] egy egyedét keringő robotraj vette célba.</li>
+    <li>threatsInfoMechClustersMultiAnimal->Ismeretlen okokból [lodgersLabelPlural] egy csoportját egy keringő robotraj vette célba.</li>
+    <li>threatsInfoMechRaidsSingleAnimal->Ismeretlen okokból [lodgersLabel] egy egyedét robotkaptár célba vette.</li>
+    <li>threatsInfoMechRaidsMultiAnimal->Ismeretlen okokból [lodgersLabelPlural] egy csoportja egy robotkaptár célpontja lett.</li>
+    <li>questDescription(askerIsNull==true,lodgersCount==1)->Egy állatmentő szervezet azt akarja, hogy gondoskodj egy [lodgers0_nameDef] nevű [lodgersLabel] egyedről a [map_definite] helyen [shuttleDelayTicks_duration]ig. [healthInfo][threatsInfo1][commonDescEnding]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nAz állatmentő aktivisták elloptak egy [lodgers0_nameDef] névre hallgató állatot [enemyFaction_name] frakció feláldozási ceremóniájáról. Most az [enemyFaction_pawnsPlural] jönnek bosszút állni. Ha [lodgers0_nameDef] befogadása mellett döntesz, [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==false)-></li>
+    <li>questDescription(askerIsNull==true,lodgersCount>=2)->Egy állatmentő szervezet azt szeretné, ha gondoskodnál [lodgersCount] [lodgersLabel] egyedről a [map_definite] helyen [shuttleDelayTicks_duration]ig. [healthInfo][threatsInfo2][commonDescEnding]</li>
+    <li>victim->gyermek</li>
+    <li>victim->nő</li>
+    <li>victim->férfi</li>
+    <li>victim->[PersonJob]</li>
+    <li>victim(generateThreats==true,threatType==Raids)->az [enemyFaction_name] [enemyFaction_leaderTitle] barátja</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nSajnos ezek a [lodgersLabelPlural] a közelmúltban érintettek voltak egy [victim] halálában. Most [enemyFaction_pawnsPlural] az [enemyFaction_name] frakcióból vadászik rájuk rituális bosszúból. Ha befogadod a [lodgersLabelPlural] egyedeit, [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsMultiAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==false)-></li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount==1,priority=1)->[asker_nameFull] ([asker_faction_leaderTitle]), [asker_faction_name] frakciójából biztonságos települést keres [lodgersLabel] kedvencének, [lodgers0_nameDef] számára, [shuttleDelayTicks_duration] időtartamra. [healthInfo][threatsInfo3][commonDescEnding]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[enemyFaction_pawnsPlural] [enemyFaction_name] frakcióból megpróbálják majd megölni szegény kis [lodgers0_nameDef] kedvencet, hogy rátaláljanak [asker_nameDef] megbízódra. Ha [lodgers0_nameDef] befogadása mellett döntesz, [enemyGroupsParagraph]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo3(generateThreats==false)-></li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount>=2,priority=1)->[asker_nameFull] ([asker_faction_leaderTitle]), [asker_faction_name] frakciótól kéréssel fordul hozzád. Azt akarja, hogy gondoskodj [lodgersCount] [lodgersLabel] egyedről a [map_definite] helyen [shuttleDelayTicks_duration]ig. [healthInfo][threatsInfo4][commonDescEnding]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nA rád bízott [lodgersLabelPlural] szükségesek ahhoz, hogy [asker_nameDef] teljesítsen egy fontos kereskedelmi ígéretet. A kialakult konfliktus okán [enemyFaction_name] frakció [enemyFaction_pawnsPlural] csapatát küldi utánuk. Ha elfogadod a feladatot, [enemyGroupsParagraph]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsMultiAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo4(generateThreats==false)-></li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount==1,priority=1)->[asker_nameFull] ([asker_royalTitleInCurrentFaction]), [asker_faction_name] frakciótól egy kéréssel fordul hozzád. Azt akarja, hogy gondoskodj a kedvenc háziállatáról, egy [lodgersLabel] egyedről, aki [lodgers0_nameDef] névre hallgat, a [map_definite] helyen kell vigyázni rá [shuttleDelayTicks_duration]ig. [healthInfo][threatsInfo5][commonDescEnding]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgers0_nameDef] egy ajándék, amelyet [asker_nameDef] gyermekének ígértek egy házassági szertartásra. A házasság megakadályozása érdekében [enemyFaction_name] frakció [enemyFaction_pawnsPlural] csapatát küldi utána. Ha [lodgers0_nameDef] védelme mellett döntesz, [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==false)-></li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount>=2,priority=1)->[asker_nameFull] ([asker_royalTitleInCurrentFaction]), [asker_faction_name] frakciótól arra kér, hogy gondoskodj [lodgersCount] [lodgersLabel] egyedről [map_definite] helyen [shuttleDelayTicks_duration]ig. A [lodgersLabelPlural] [asker_nameDef] kedvenc háziállatai, és ő azt akarja, hogy lássanak világot az udvartartásán kívül is. [healthInfo] [threatsInfo6] [commonDescEnding]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nSajnos [enemyFaction_name] frakció [lodgersLabelPlural] egyedeire vadászik éppen, hogy megpróbálja megbántani [asker_nameDef] személyét. Ha elfogadod az állatok védelmét, [enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsMultiAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==false)-></li>
+    <li>letterSubject(priority=1)->{SUBJECT_definite} a(z) [lodgersLabel]</li>
+  </Hospitality_Animals.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(lodgersCount==1)->the [animalAdj] [lodgersLabel]</li>
     <li>questName(lodgersCount==1)->a [animalAdj] [lodgersLabel]</li>
@@ -71,6 +115,31 @@
     <li>animalAdj(generateThreats==true)->hunted</li>
     <li>animalAdj(generateThreats==true)->frightened</li>
   -->
-  <Hospitality_Animals.questNameRules.rulesStrings>TODO</Hospitality_Animals.questNameRules.rulesStrings>
+  <Hospitality_Animals.questNameRules.rulesStrings>
+    <li>questName(lodgersCount==1)->a [animalAdj] [lodgersLabel]</li>
+    <li>questName(lodgersCount==1)->az [animalAdjVowel] [lodgersLabel]</li>
+    <li>questName(lodgersCount==1)->egy [animalAdj] [lodgersLabel]</li>
+    <li>questName(lodgersCount==1)->egy [animalAdjVowel] [lodgersLabel]</li>
+    <li>questName(lodgersCount==1)->[animalAdj] [lodgersLabel]</li>
+    <li>questName(lodgersCount==1)->[animalAdjVowel] [lodgersLabel]</li>
+    <li>questName(lodgersCount==1)->[lodgersLabel]-felügyelés</li>
+    <li>questName(lodgersCount==1)->[lodgers0_nameDef] őrzése</li>
+    <li>questName(lodgersCount==1)->szegény kicsi [lodgers0_nameDef]</li>
+    <li>questName(lodgersCount>=2)->a [animalAdj] [lodgersLabelPlural]</li>
+    <li>questName(lodgersCount>=2)->az [animalAdjVowel] [lodgersLabelPlural]</li>
+    <li>questName(lodgersCount>=2)->[animalAdj] [lodgersLabelPlural]</li>
+    <li>questName(lodgersCount>=2)->[animalAdjVowel] [lodgersLabelPlural]</li>
+    <li>questName(lodgersCount>=2)->[lodgersLabel] felügyelése</li>
+    <li>questName(lodgersCount==2)->[lodgersLabelPlural] őrzése</li>
+    <li>animalAdjVowel->imádni való</li>
+    <li>animalAdjVowel->őzikeszemű</li>
+    <li>animalAdj->hű</li>
+    <li>animalAdj->szerető</li>
+    <li>animalAdj->szelíd</li>
+    <li>animalAdj->kedves</li>
+    <li>animalAdj->büszke</li>
+    <li>animalAdj(generateThreats==true)->vadászott</li>
+    <li>animalAdj(generateThreats==true)->rémült</li>
+  </Hospitality_Animals.questNameRules.rulesStrings>
   
 </LanguageData>

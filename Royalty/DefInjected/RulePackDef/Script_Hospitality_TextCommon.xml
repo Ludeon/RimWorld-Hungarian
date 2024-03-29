@@ -52,6 +52,65 @@
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</li>
     <li>failLetterEndingCommon->[failLetterEndingQuest]\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</li>
   -->
-  <QuestHospitalityCommon.rulePack.rulesStrings>TODO</QuestHospitalityCommon.rulePack.rulesStrings>
+  <QuestHospitalityCommon.rulePack.rulesStrings>
+    <li>allLodgerInfo->[healthInfo][minMoodInfo][workInfo][includesChildren]</li>
+    <li>lodgersLabelSingOrPlural(lodgersCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersLabelSingOrPlural(lodgersCount>=2)->[lodgersLabelPlural]</li>
+    <li>lodgersLabelSingOrPluralDef(lodgersCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersLabelSingOrPluralDef(lodgersCount>=2)->the [lodgersLabelPlural]</li>
+    <li>includesChildren(priority=-999)-></li>
+    <li>includesChildren(childCount==1)->\n\nA [lodgersLabelSingOrPluralDef] egyike gyermek.</li>
+    <li>includesChildren(childCount>=2)->\n\nA [lodgersLabelSingOrPluralDef] egy része gyermek.</li>
+    <li>healthInfo-></li>
+    <li>healthInfo(lodgersHaveBloodRotAndParalysis==true,priority=1)->\n\n[paralyzedInfo]\n\n[bloodRotInfo]</li>
+    <li>healthInfo(lodgersAreParalyzed==true,priority=1)->\n\n[paralyzedInfo]</li>
+    <li>healthInfo(lodgersHaveBloodRot==true,priority=1)->\n\n[bloodRotInfo]</li>
+    <li>paralyzedInfo(lodgersCount==1)->[lodgers0_nameDef] bénulásos abáziában szenved, ezért ágyban kell tartani.</li>
+    <li>paralyzedInfo(lodgersCount>=2)->[lodgers0_nameDef] bénulásos abáziában szenvednek, ezért ágyban kell tartani őket.</li>
+    <li>bloodRotInfo(lodgersCount==1)->[lodgers0_nameDef] vérrothadásban szenved, és napi kezelést igényel. A betegség minőségi ellátással és gyógyszerekkel lassítható, de általában nem gyógyítható azonnal. Ha a betegség súlyossá válik, [lodgers0_nameDef] meghal, ezért gondoskodj a szükséges egészségügyi felszerelésekről.</li>
+    <li>bloodRotInfo(lodgersCount>=2)->[lodgersLabelPlural] vérrothadásban szenvednek, és napi kezelést igényelnek. A betegség minőségi ellátással és gyógyszerekkel lassítható, de általában nem gyógyítható azonnal. Ha a betegség súlyossá válik, [lodgersLabelPlural] meghalnak, ezért gondoskodj a szükséges egészségügyi felszerelésekről.</li>
+    <li>minMoodInfo-></li>
+    <li>minMoodInfo(lodgersCountWithMoodThreshold>0,lodgersCount==1,priority=1)->\n\n[lodgers0_nameDef] hangulatát [lodgersMoodThreshold_percent] felett kell tartanod.</li>
+    <li>minMoodInfo(lodgersCountWithMoodThreshold>0,lodgersCount>=2,priority=1)->\n\n[lodgersLabelPlural] hangulatát [lodgersMoodThreshold_percent] felett kell tartanod.</li>
+    <li>workInfo-></li>
+    <li>workInfo(lodgersWillNotWork==true,lodgersCount==1,priority=1)->\n\n[lodgers0_nameDef] nem fog munkát végezni.</li>
+    <li>workInfo(lodgersWillNotWork==true,lodgersCount>=2,priority=1)->\n\n[lodgersLabelPlural] nem fognak munkát végezni.</li>
+    <li>commonDescEnding->[helpersParagraph]</li>
+    <li>enemyGroupsParagraph->[threatDescriptionParagraph]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize==1)->there will be (*Threat)a raid(/Threat) of roughly this size:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize>1)->there will be (*Threat)a raid(/Threat) of strength [threatSize]x and roughly this size:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize==1)->there will be (*Threat)[threatCount] raids(/Threat) of roughly this size:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize>1)->there will be (*Threat)[threatCount] raids(/Threat) of strength [threatSize]x and roughly this size:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)->(*Threat)a mech cluster(/Threat) will deploy nearby.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->(*Threat)two mech clusters(/Threat) will deploy nearby.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize>1)->(*Threat)a mech cluster(/Threat) of [threatSize]x size will deploy nearby.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize>1)->(*Threat)two mech clusters(/Threat) of [threatSize]x size will deploy nearby.</li>
+    <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef] nemrég [mechViolation], és egy orbitális pályán keringő robotraj vette célba.</li>
+    <li>threatsInfoMechClustersMultiPrisoners->A foglyok nemrégiben [mechViolationPlural], és egy orbitális pályán keringő robotraj vette célba őket.</li>
+    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef] nemrég [mechViolation], és egy robotkaptár célpontja lett.</li>
+    <li>threatsInfoMechRaidsMultiHuman->Ők nemrég [mechViolationPlural], és egy robotkaptár célpontjává váltak.</li>
+    <li>mechViolation->valahogy feldühített egy mesterséges intelligenciát</li>
+    <li>mechViolation->megsértett egy ősi szuperszámítógép-terminált</li>
+    <li>mechViolation->meggyilkolt egy embergyereket, akit egy architech kedvelt</li>
+    <li>mechViolation->megpróbált feltörni egy robot vezérlő csomópontot</li>
+    <li>mechViolation->megpróbált lopni egy ősi tárolóhelyről</li>
+    <li>mechViolationPlural->valahogy feldühítettek egy mesterséges intelligenciát</li>
+    <li>mechViolationPlural->megsértettek egy ősi szuperszámítógép-terminált</li>
+    <li>mechViolationPlural->meggyilkoltak egy embergyereket, akit egy architech kedvelt</li>
+    <li>mechViolationPlural->megpróbáltak feltörni egy robot vezérlő csomópontot</li>
+    <li>mechViolationPlural->megpróbáltak lopni egy ősi tárolóhelyről</li>
+    <li>letterSubject->{SUBJECT_definite}</li>
+    <li>lodgersHasHave(lodgersCount==1)->has</li>
+    <li>lodgersHasHave(lodgersCount>=2)->have</li>
+    <li>lodgersObjective(lodgersCount==1)->[lodgers0_objective]</li>
+    <li>lodgersObjective(lodgersCount>=2)->them</li>
+    <li>areIs(lodgersCount==1)->is</li>
+    <li>areIs(lodgersCount>=2)->are</li>
+    <li>remainingWillNowLeave(lodgersCount==1)-></li>
+    <li>remainingWillNowLeave(lodgersCount>=2)->A megmaradt [lodgersLabelPlural] most távoznak.</li>
+    <li>failLetterEndingQuest->Sikertelen volt a '[resolvedQuestName]' küldetés.</li>
+    <li>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</li>
+    <li>failLetterEndingCommon->[failLetterEndingQuest]\n\n[asker_faction_name] frakcióval való kapcsolatod [goodwillPenalty] ponttal csökkent.</li>
+  </QuestHospitalityCommon.rulePack.rulesStrings>
   
 </LanguageData>
