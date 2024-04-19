@@ -31,7 +31,7 @@
   <!-- EN: Screen-edge mouse scroll -->
   <EdgeScreenScroll>Görgetés egérrel a széleken</EdgeScreenScroll>
   <!-- EN: Zoom to mouse -->
-  <ZoomToMouse>TODO</ZoomToMouse>
+  <ZoomToMouse>Nagyítás az egérrel</ZoomToMouse>
   <!-- EN: Pause on load -->
   <PauseOnLoad>Betöltés után leáll</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
@@ -65,13 +65,13 @@
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Modkonfig autoreset összeomlásnál</ResetModsConfigOnCrash>
   <!-- EN: Quick start has no cryptosleep sickness -->
-  <DisableQuickStartCryptoSickness>TODO</DisableQuickStartCryptoSickness>
+  <DisableQuickStartCryptoSickness>Gyorsindítással nincs hib. betegség</DisableQuickStartCryptoSickness>
   <!-- EN: Start game with dev palette on -->
-  <StartDevPaletteOn>TODO</StartDevPaletteOn>
+  <StartDevPaletteOn>Játékindítás fejlesztői palettával</StartDevPaletteOn>
   <!-- EN: Open log on warnings -->
-  <OpenLogOnWarnings>TODO</OpenLogOnWarnings>
+  <OpenLogOnWarnings>Napló megnyitás figyelmeztetéseknél</OpenLogOnWarnings>
   <!-- EN: Close log by pressing cancel -->
-  <CloseLogWindowOnEscape>TODO</CloseLogWindowOnEscape>
+  <CloseLogWindowOnEscape>Napló bezárás a Mégsem-mel</CloseLogWindowOnEscape>
   <!-- EN: Verbose logging -->
   <LogVerbose>Bővebb naplózás</LogVerbose>
   <!-- EN: Save data folder -->
@@ -107,13 +107,13 @@
   <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>Valós idő mutatása</ShowRealtimeClock>
   <!-- EN: Use 12 hour clock -->
-  <TwelveHourClockMode>TODO</TwelveHourClockMode>
+  <TwelveHourClockMode>12 órás óra használata</TwelveHourClockMode>
   <!-- EN: Disable tiny font -->
   <DisableTinyText>Apró betűtípus letiltása</DisableTinyText>
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>Kolóniák maximális száma: {0}</MaxNumberOfPlayerSettlements>
   <!-- EN: Autosaves count: {0} -->
-  <AutosavesCount>TODO</AutosavesCount>
+  <AutosavesCount>Automatikus mentések száma: {0}</AutosavesCount>
   <!-- EN: Map mouse drag sensitivity -->
   <MapDragSensitivity>Térkép egér húzási érzékenysége</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
