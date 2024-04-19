@@ -14,6 +14,7 @@ CORE_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Core
 DLC_ROYALTY_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Royalty
 DLC_IDEOLOGY_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Ideology
 DLC_BIOTECH_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Biotech
+DLC_ANOMALY_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Anomaly
 DLC_TEST_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Test
 
 # include common parts
@@ -34,6 +35,7 @@ while [[ $# -gt 0 ]]; do
     echo "- Royalty: ${DLC_ROYALTY_PATH}"
     echo "- Ideology: ${DLC_IDEOLOGY_PATH}"
     echo "- Biotech: ${DLC_BIOTECH_PATH}"
+    echo "- Anomaly: ${DLC_ANOMALY_PATH}"
     shift
     ;;
 
@@ -75,6 +77,13 @@ while [[ $# -gt 0 ]]; do
     log "Tar Biotech"
     tar_module "Ideology" "${DLC_BIOTECH_PATH}"
     clean_language_dir "Ideology" "${DLC_BIOTECH_PATH}"
+    shift
+    ;;
+
+  --tar-anomaly)
+    log "Tar Anomaly"
+    tar_module "Anomaly" "${DLC_ANOMALY_PATH}"
+    clean_language_dir "Anomaly" "${DLC_ANOMALY_PATH}"
     shift
     ;;
 
@@ -120,6 +129,14 @@ while [[ $# -gt 0 ]]; do
     clean_language_dir "Biotech" "${DLC_BIOTECH_PATH}"
     update "Biotech" "${DLC_BIOTECH_PATH}"
     remove_tar_file "Biotech" "${DLC_BIOTECH_PATH}"
+    shift
+    ;;
+
+  --update-anomaly)
+    log "Updating Anomaly"
+    clean_language_dir "Anomaly" "${DLC_ANOMALY_PATH}"
+    update "Anomaly" "${DLC_ANOMALY_PATH}"
+    remove_tar_file "Anomaly" "${DLC_ANOMALY_PATH}"
     shift
     ;;
 

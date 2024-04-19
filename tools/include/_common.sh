@@ -25,6 +25,7 @@ function remove_all_language_dir() {
   clean_language_dir "Royalty" "${DLC_ROYALTY_PATH}"
   clean_language_dir "Ideology" "${DLC_IDEOLOGY_PATH}"
   clean_language_dir "Biotech" "${DLC_BIOTECH_PATH}"
+  clean_language_dir "Anomaly" "${DLC_ANOMALY_PATH}"
 }
 
 function remove_tar_file() {
@@ -44,6 +45,7 @@ function remove_all_tar() {
   remove_tar_file "Royalty" "${DLC_ROYALTY_PATH}"
   remove_tar_file "Ideology" "${DLC_IDEOLOGY_PATH}"
   remove_tar_file "Biotech" "${DLC_BIOTECH_PATH}"
+  remove_tar_file "Anomaly" "${DLC_ANOMALY_PATH}"
 }
 
 function update() {
@@ -64,6 +66,7 @@ function update_all() {
   update "Royalty" "${DLC_ROYALTY_PATH}"
   update "Ideology" "${DLC_IDEOLOGY_PATH}"
   update "Biotech" "${DLC_BIOTECH_PATH}"
+  update "Anomaly" "${DLC_ANOMALY_PATH}"
 }
 
 function tar_module() {
@@ -85,6 +88,7 @@ function tar_all() {
     tar_module "Royalty" "${DLC_ROYALTY_PATH}"
     tar_module "Ideology" "${DLC_IDEOLOGY_PATH}"
     tar_module "Biotech" "${DLC_BIOTECH_PATH}"
+    tar_module "Anomaly" "${DLC_ANOMALY_PATH}"
 }
 
 function sync_with_game() {
@@ -93,6 +97,7 @@ function sync_with_game() {
   sync "Royalty" "${DLC_ROYALTY_PATH}"
   sync "Ideology" "${DLC_IDEOLOGY_PATH}"
   sync "Biotech" "${DLC_BIOTECH_PATH}"
+  sync "Anomaly" "${DLC_ANOMALY_PATH}"
 }
 
 function sync() {
