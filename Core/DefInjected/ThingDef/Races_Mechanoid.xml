@@ -28,8 +28,12 @@
   <Mech_Lancer.description>Ember méretű harci robot, óriási optikai érzékelőkkel a távolsági célzáshoz. Messzire hatékony, de közelharcban gyenge. A robotháborúk veteránjai tudják, hogy a legjobb taktika ellenük a rohamozás.</Mech_Lancer.description>
   <!-- EN: left fist -->
   <Mech_Lancer.tools.left_fist.label>bal ököl</Mech_Lancer.tools.left_fist.label>
+  <!-- EN: fist -->
+  <Mech_Lancer.tools.left_fist.labelNoLocation>TODO</Mech_Lancer.tools.left_fist.labelNoLocation>
   <!-- EN: right fist -->
   <Mech_Lancer.tools.right_fist.label>jobb ököl</Mech_Lancer.tools.right_fist.label>
+  <!-- EN: fist -->
+  <Mech_Lancer.tools.right_fist.labelNoLocation>TODO</Mech_Lancer.tools.right_fist.labelNoLocation>
   <!-- EN: head -->
   <Mech_Lancer.tools.head.label>fej</Mech_Lancer.tools.head.label>
   
@@ -39,8 +43,12 @@
   <Mech_Pikeman.description>Egy nehéz, lábakon járó harci robot, nagy hatótávú fegyverekre specializálva. Bár távolra hatékony, közelharcban igen gyenge. A robotháborúk veteránjai tudják, ha egy nehézlándzás van a közelben a legbiztonságosabb közvetlen mellette tartózkodni.</Mech_Pikeman.description>
   <!-- EN: front left leg -->
   <Mech_Pikeman.tools.front_left_leg.label>mellső bal láb</Mech_Pikeman.tools.front_left_leg.label>
+  <!-- EN: leg -->
+  <Mech_Pikeman.tools.front_left_leg.labelNoLocation>TODO</Mech_Pikeman.tools.front_left_leg.labelNoLocation>
   <!-- EN: front right leg -->
   <Mech_Pikeman.tools.front_right_leg.label>mellső jobb láb</Mech_Pikeman.tools.front_right_leg.label>
+  <!-- EN: leg -->
+  <Mech_Pikeman.tools.front_right_leg.labelNoLocation>TODO</Mech_Pikeman.tools.front_right_leg.labelNoLocation>
   <!-- EN: head -->
   <Mech_Pikeman.tools.head.label>fej</Mech_Pikeman.tools.head.label>
   
@@ -50,8 +58,12 @@
   <Mech_Scyther.description>Gyors, pörgős, emberméretű harci robot, amelyek gyors megközelítésre és közelharcra specializálódtak. Testüket hegyek és pengék borítják, de többnyire a két karjukat használják áldozataik levágására vagy élve kibelezésére.</Mech_Scyther.description>
   <!-- EN: left blade -->
   <Mech_Scyther.tools.left_blade.label>bal penge</Mech_Scyther.tools.left_blade.label>
+  <!-- EN: blade -->
+  <Mech_Scyther.tools.left_blade.labelNoLocation>TODO</Mech_Scyther.tools.left_blade.labelNoLocation>
   <!-- EN: right blade -->
   <Mech_Scyther.tools.right_blade.label>jobb penge</Mech_Scyther.tools.right_blade.label>
+  <!-- EN: blade -->
+  <Mech_Scyther.tools.right_blade.labelNoLocation>TODO</Mech_Scyther.tools.right_blade.labelNoLocation>
   <!-- EN: head -->
   <Mech_Scyther.tools.head.label>fej</Mech_Scyther.tools.head.label>
   

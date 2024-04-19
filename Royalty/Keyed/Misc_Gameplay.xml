@@ -24,7 +24,7 @@
   <PsycastNeurotrainerDescription>TODO</PsycastNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} power. -->
   <AbilityNeurotrainerUsed>TODO</AbilityNeurotrainerUsed>
-  <!-- EN: Requires psylink -->
+  <!-- EN: requires psylink -->
   <PsycastNeurotrainerNoPsylink>TODO</PsycastNeurotrainerNoPsylink>
   <!-- EN: {USER_labelShort} already knows {1}. -->
   <PsycastNeurotrainerAbilityAlreadyLearned>TODO</PsycastNeurotrainerAbilityAlreadyLearned>
@@ -162,6 +162,8 @@
   <AnimaLinkingExplanationBase>TODO</AnimaLinkingExplanationBase>
   <!-- EN: Not all required cargo is loaded yet! -->
   <ShuttleRequiredItemsNotSatisfied>TODO</ShuttleRequiredItemsNotSatisfied>
+  <!-- EN: Cannot load {0_labelShort} -->
+  <CannotLoadIntoShuttle>TODO</CannotLoadIntoShuttle>
 
   <!-- EN: no heat to dump. -->
   <AbilityNoEntropyToDump>TODO</AbilityNoEntropyToDump>

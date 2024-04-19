@@ -55,11 +55,16 @@
   <!-- EN: Insulation - Heat (armor stat) -->
   <Insulation_Heat.labelForFullStatList>TODO</Insulation_Heat.labelForFullStatList>
   
-  <!-- EN: Smokepop pack radius -->
-  <SmokepopBeltRadius.label>Füstálca hatókör</SmokepopBeltRadius.label>
-  <!-- EN: The area obscured when a smokepop pack detonates. -->
-  <SmokepopBeltRadius.description>Mekkora területet fed be a füst, ha az öv bekapcsol.</SmokepopBeltRadius.description>
+  <!-- EN: Effect radius -->
+  <PackRadius.label>TODO</PackRadius.label>
+  <!-- EN: The area affected when this pack detonates. -->
+  <PackRadius.description>TODO</PackRadius.description>
   <!-- EN: {0} c -->
+  <PackRadius.formatString>TODO</PackRadius.formatString>
+  
+  <!-- UNUSED -->
+  <SmokepopBeltRadius.label>Füstálca hatókör</SmokepopBeltRadius.label>
+  <SmokepopBeltRadius.description>Mekkora területet fed be a füst, ha az öv bekapcsol.</SmokepopBeltRadius.description>
   <SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
   
   <!-- EN: Armor - Material effect multiplier -->

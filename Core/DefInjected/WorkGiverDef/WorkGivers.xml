@@ -323,6 +323,13 @@
   <!-- EN: execute -->
   <ExecuteGuiltyColonist.verb>kivégezni</ExecuteGuiltyColonist.verb>
   
+  <!-- EN: extract skull -->
+  <ExtractSkull.label>koponyát kinyer</ExtractSkull.label>
+  <!-- EN: extracting skull of -->
+  <ExtractSkull.gerund>koponya kinyerés</ExtractSkull.gerund>
+  <!-- EN: extract -->
+  <ExtractSkull.verb>kinyer</ExtractSkull.verb>
+  
   <!-- EN: extract trees -->
   <ExtractTree.label>TODO</ExtractTree.label>
   <!-- EN: extracting -->
@@ -413,6 +420,13 @@
   <HaulMerge.gerund>egyesítés</HaulMerge.gerund>
   <!-- EN: merge -->
   <HaulMerge.verb>egyesíteni</HaulMerge.verb>
+  
+  <!-- EN: haul to map -->
+  <HaulToPortal.label>TODO</HaulToPortal.label>
+  <!-- EN: loading -->
+  <HaulToPortal.gerund>TODO</HaulToPortal.gerund>
+  <!-- EN: load -->
+  <HaulToPortal.verb>TODO</HaulToPortal.verb>
   
   <!-- EN: load caravan -->
   <HelpGatheringItemsForCaravan.label>karavánt felpakol</HelpGatheringItemsForCaravan.label>
@@ -610,11 +624,14 @@
   <!-- EN: strip -->
   <Strip.verb>levetkőztetni</Strip.verb>
   
-  <!-- EN: study -->
-  <StudyThing.label>TODO</StudyThing.label>
+  <!-- EN: study archotech structures -->
+  <StudyArchotechStructures.label>TODO</StudyArchotechStructures.label>
   <!-- EN: studying -->
-  <StudyThing.gerund>TODO</StudyThing.gerund>
-  <!-- EN: research -->
+  <StudyArchotechStructures.gerund>TODO</StudyArchotechStructures.gerund>
+  <!-- EN: study -->
+  <StudyArchotechStructures.verb>TODO</StudyArchotechStructures.verb>
+  
+  <!-- UNUSED -->
   <StudyThing.verb>kutatás</StudyThing.verb>
   
   <!-- EN: take beer out of fermenting barrels -->

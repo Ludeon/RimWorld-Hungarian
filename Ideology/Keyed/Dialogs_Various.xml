@@ -88,6 +88,8 @@
   <ChooseRoleHint>Néha jobb, ha megvárod, amíg a kolónia megerősödik, mielőtt kiosztod a szerepeket.</ChooseRoleHint>
   <!-- EN: Unlocked by -->
   <UnlockedByMeme>Feloldva ezzel</UnlockedByMeme>
+  <!-- EN: Origin -->
+  <Origin>TODO</Origin>
   <!-- EN: Unlocked roles -->
   <MemeUnlocksRoles>Elérhető szerepek</MemeUnlocksRoles>
   <!-- EN: Unlocked rituals -->
@@ -113,6 +115,8 @@
   <AbilityIdeoConvertBreakdownRole>TODO</AbilityIdeoConvertBreakdownRole>
   <!-- EN: Trait {TRAIT} -->
   <AbilityIdeoConvertBreakdownTrait>{TRAIT} tulajdonság</AbilityIdeoConvertBreakdownTrait>
+  <!-- EN: Precept {PRECEPT} -->
+  <AbilityIdeoConvertBreakdownPercept>TODO</AbilityIdeoConvertBreakdownPercept>
   <!-- EN: {RELICCOUNT} installed relics on map -->
   <AbilityIdeoConvertBreakdownRelic>{RELICCOUNT} telepített ereklye a térképen</AbilityIdeoConvertBreakdownRelic>
   <!-- EN: {PAWN_labelShort}'s social skill -->
@@ -248,8 +252,10 @@
   <ReLoadShuttle>Úrsikló újratöltése</ReLoadShuttle>
 
   <!-- Medical settings -->
-  <!-- EN: Enslaved colonist -->
-  <MedGroupEnslavedColonist>Rabszolgasorsú telepes</MedGroupEnslavedColonist>
+  <!-- EN: Slaves -->
+  <MedGroupSlaves>TODO</MedGroupSlaves>
+  <!-- EN: Enslaved members of your colony. -->
+  <MedGroupSlavesDesc>TODO</MedGroupSlavesDesc>
 
   <!-- Dryad upgrades -->
   <!-- EN: Choose dryad caste -->

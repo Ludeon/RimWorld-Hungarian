@@ -3,7 +3,7 @@
   
   <!-- EN: bionic arm -->
   <BionicArm.label>bionikus kar</BionicArm.label>
-  <!-- EN: An installed bionic arm. -->
+  <!-- EN: An installed bionic arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
   <BionicArm.description>Egy beépített bionikus kar.</BionicArm.description>
   <!-- EN: fist -->
   <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>ököl</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
@@ -12,56 +12,63 @@
   
   <!-- EN: bionic ear -->
   <BionicEar.label>bionikus fül</BionicEar.label>
-  <!-- EN: An installed bionic ear. -->
+  <!-- EN: An installed bionic ear. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
   <BionicEar.description>Egy beépített bionikus fül.</BionicEar.description>
   <!-- EN: a bionic ear -->
   <BionicEar.labelNoun>bionikus fül</BionicEar.labelNoun>
   
   <!-- EN: bionic eye -->
   <BionicEye.label>bionikus szem</BionicEye.label>
-  <!-- EN: An installed bionic eye. -->
+  <!-- EN: An installed bionic eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
   <BionicEye.description>Egy beépített bionikus szem.</BionicEye.description>
   <!-- EN: a bionic eye -->
   <BionicEye.labelNoun>bionikus szem</BionicEye.labelNoun>
   
   <!-- EN: bionic heart -->
   <BionicHeart.label>bionikus szív</BionicHeart.label>
-  <!-- EN: An installed bionic heart. -->
+  <!-- EN: An installed bionic heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
   <BionicHeart.description>Egy beépített bionikus szív.</BionicHeart.description>
   <!-- EN: a bionic heart -->
   <BionicHeart.labelNoun>bionikus szív</BionicHeart.labelNoun>
   
+  <!-- EN: bionic jaw -->
+  <BionicJaw.label>TODO</BionicJaw.label>
+  <!-- EN: An installed bionic jaw. Made out of biosynthetic bone, with plasteel tooth replacements and a set of micro servomotors for the full range of motion. -->
+  <BionicJaw.description>TODO</BionicJaw.description>
+  <!-- EN: a bionic jaw -->
+  <BionicJaw.labelNoun>TODO</BionicJaw.labelNoun>
+  
   <!-- EN: bionic leg -->
   <BionicLeg.label>bionikus láb</BionicLeg.label>
-  <!-- EN: An installed bionic leg. -->
+  <!-- EN: An installed bionic leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
   <BionicLeg.description>Egy beépített bionikus láb.</BionicLeg.description>
   <!-- EN: a bionic leg -->
   <BionicLeg.labelNoun>bionikus láb</BionicLeg.labelNoun>
   
   <!-- EN: bionic spine -->
   <BionicSpine.label>bionikus gerinc</BionicSpine.label>
-  <!-- EN: An installed bionic spine. -->
+  <!-- EN: An installed bionic spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
   <BionicSpine.description>Egy beépített bionikus gerinc.</BionicSpine.description>
   <!-- EN: a bionic spine -->
   <BionicSpine.labelNoun>bionikus gerinc</BionicSpine.labelNoun>
   
   <!-- EN: bionic stomach -->
   <BionicStomach.label>bionikus gyomor</BionicStomach.label>
-  <!-- EN: An installed bionic stomach. -->
+  <!-- EN: An installed bionic stomach. A person with this has a much lower chance of getting food poisoning, and is immune to some stomach diseases. An integrated lattice-dust healing system automatically repairs any damage to the artificial organ. It is better than a biological stomach in almost every way. -->
   <BionicStomach.description>Egy beépített bionikus gyomor.</BionicStomach.description>
   <!-- EN: a bionic stomach -->
   <BionicStomach.labelNoun>bionikus gyomor</BionicStomach.labelNoun>
   
   <!-- EN: bionic tongue -->
   <BionicTongue.label>bionikus nyelv</BionicTongue.label>
-  <!-- EN: An installed bionic tongue. -->
+  <!-- EN: An installed bionic tongue. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in speaking, eating, and tasting. -->
   <BionicTongue.description>Egy beépített bionikus nyelv.</BionicTongue.description>
   <!-- EN: a bionic tongue -->
   <BionicTongue.labelNoun>egy beépített nyelv</BionicTongue.labelNoun>
   
   <!-- EN: death acidifier -->
   <DeathAcidifier.label>tetem feloldó</DeathAcidifier.label>
-  <!-- EN: An installed death acidifier. -->
+  <!-- EN: An installed death acidifier. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
   <DeathAcidifier.description>Egy beépített tetem feloldó.</DeathAcidifier.description>
   <!-- EN: a death acidifier -->
   <DeathAcidifier.labelNoun>tetem feloldó</DeathAcidifier.labelNoun>

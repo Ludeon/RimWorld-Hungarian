@@ -201,6 +201,10 @@
   <LastName>vezetéknév</LastName>
   <!-- EN: suggested -->
   <Suggested>javasolt</Suggested>
+  
+  <!-- Choose new wanderers -->
+  <!-- EN: Choose new wanderers -->
+  <ChooseNewWanderers>TODO</ChooseNewWanderers>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
@@ -289,7 +293,7 @@
   <CountingProducts>Darabszám</CountingProducts>
   <!-- EN: Infinite -->
   <Infinite>Végtelen</Infinite>
-  <!-- EN: Allowed {0} skill: -->
+  <!-- EN: Allowed {0} skill -->
   <AllowedSkillRange>Megengedett készségszint: {0}</AllowedSkillRange>
   <!-- EN: incompatible -->
   <IncompatibleLower>Nem kompatibilis</IncompatibleLower>
@@ -321,7 +325,7 @@
   <PauseWhenSatisfied>Leáll, ha kész</PauseWhenSatisfied>
   <!-- EN: Unpause at -->
   <UnpauseWhenYouHave>Újrakezd ennyinél</UnpauseWhenYouHave>
-  <!-- EN: Paused -->
+  <!-- EN: paused -->
   <Paused>Szünetel</Paused>
   <!-- EN: Unpause -->
   <Unpause>Folytat</Unpause>
@@ -336,6 +340,12 @@
   <IncludeFromAll>Bárhol</IncludeFromAll>
   <!-- EN: Look in {0} -->
   <IncludeSpecific>Számlálás itt: {0}</IncludeSpecific>
+  <!-- EN: Stockpiles -->
+  <StockpilePlural>TODO</StockpilePlural>
+  <!-- EN: Shelves -->
+  <ShelfPlural>TODO</ShelfPlural>
+  <!-- EN: Groups -->
+  <GroupPlural>TODO</GroupPlural>
   
   <!-- Info card -->
   <!-- EN: Damage -->
@@ -402,7 +412,7 @@
   <MinGrowthTemperature>Min. növekedési hőmérséklet</MinGrowthTemperature>
   <!-- EN: Max growth temperature -->
   <MaxGrowthTemperature>Max. növekedési hőmérséklet</MaxGrowthTemperature>
-  <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
+  <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\n\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
   <GrowingTimeDesc>A növények nem egész nap és csak fényben nőnek. Ez a szám mutatja meg mennyi tenyészidő szükséges a teljes kifejlődésig. Általában ennek kb. kétszerese szükséges, ha az eltelt időt nézzük. Az alacsony hőmérséklet is lassítja a növekedést.</GrowingTimeDesc>
   <!-- EN: days -->
   <Days>nap</Days>
@@ -516,6 +526,8 @@
   <PerDay>{0} / nap</PerDay>
   <!-- EN: {0} / hour -->
   <PerHour>{0} / óra</PerHour>
+  <!-- EN: {0} XP / hour -->
+  <XpPerHour>TODO</XpPerHour>
   <!-- EN: Pack animal -->
   <PackAnimal>Málhás állat</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
@@ -598,6 +610,8 @@
   <MeditationFocusEnabledByAdulthood>felnőttkora van</MeditationFocusEnabledByAdulthood>
   <!-- EN: has trait -->
   <MeditationFocusEnabledByTrait>tulajdonsága van</MeditationFocusEnabledByTrait>
+  <!-- EN: has health condition -->
+  <MeditationFocusEnabledByHediff>TODO</MeditationFocusEnabledByHediff> 
   <!-- EN: does not have trait -->
   <MeditationFocusDisabledByTrait>nincs tulajdonsága</MeditationFocusDisabledByTrait>
   <!-- EN: Enables meditation focus types -->
@@ -698,6 +712,14 @@
   <NextTraderRestock>Következő feltöltés: {0} nap</NextTraderRestock>
   <!-- EN: Creatures -->
   <PawnsTabShort>Lények</PawnsTabShort>
+  
+  <!-- Select caravan settlement -->
+  <!-- EN: Select colony to send caravan -->
+  <SelectCaravanOrigin>TODO</SelectCaravanOrigin> 
+  <!-- EN: Send a caravan from {0}. -->
+  <SelectCaravanDesc>TODO</SelectCaravanDesc> 
+  <!-- EN: Colonists -->
+  <SelectCaravanColonists>TODO</SelectCaravanColonists>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
@@ -894,6 +916,8 @@
   <ResearchFinished>Kutatás befejezve: {0}</ResearchFinished>
   <!-- EN: Research Screen -->
   <ResearchScreen>Kutatási képernyő</ResearchScreen>
+  <!-- EN: By researching {0} you have discovered the {1} research project. -->
+  <ResearchUnknownProjectRevealed>TODO</ResearchUnknownProjectRevealed>
   
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
@@ -909,41 +933,53 @@
   <!-- EN: Do not upload this time, ask me later -->
   <HistoryUploadNoOnce>Most ne töltsd fel, kérdezz rá később</HistoryUploadNoOnce>
   
+  <!-- Policies -->
+  <!-- EN: Available policies -->
+  <AvailablePolicies>TODO</AvailablePolicies>
+  <!-- EN: Unnamed -->
+  <UnnamedPolicy>TODO</UnnamedPolicy>
+  <!-- EN: New... -->
+  <NewPolicy>TODO</NewPolicy>
+  <!-- EN: Invalid policy name -->
+  <InvalidName>TODO</InvalidName>
+  <!-- EN: Delete the selected policy. -->
+  <DeletePolicyTip>TODO</DeletePolicyTip>
+  <!-- EN: Create a duplicate of the selected policy. -->
+  <DuplicatePolicyTip>TODO</DuplicatePolicyTip>
+  <!-- EN: Rename this policy. -->
+  <RenamePolicyTip>TODO</RenamePolicyTip>
+  <!-- EN: Are you sure you want to delete the policy: {0}? -->
+  <DeletePolicyConfirm>TODO</DeletePolicyConfirm>
+  <!-- EN: Delete -->
+  <DeletePolicyConfirmButton>TODO</DeletePolicyConfirmButton>
+  <!-- EN: No policy selected -->
+  <NoPolicySelected>TODO</NoPolicySelected>
+  
   <!-- Outfit management -->
-  <!-- EN: Outfit -->
-  <Outfit>Felszerelés</Outfit>
-  <!-- EN: Select outfit... -->
-  <SelectOutfit>Kiválasztás...</SelectOutfit>
-  <!-- EN: New outfit -->
-  <NewOutfit>Új felszerelés</NewOutfit>
-  <!-- EN: Delete outfit... -->
-  <DeleteOutfit>Felszerelés törlése</DeleteOutfit>
-  <!-- EN: Outfit is in use by {0}. -->
+  <!-- EN: Apparel policies -->
+  <ApparelPolicyTitle>TODO</ApparelPolicyTitle>
+  <!-- EN: Create and manage templates for controlling what apparel items colony members can wear. -->
+  <ApparelPolicyTip>TODO</ApparelPolicyTip>
+  <!-- EN: Apparel policy -->
+  <ApparelPolicy>TODO</ApparelPolicy>
+  <!-- EN: Apparel policy is in use by {0}. -->
   <OutfitInUse>A felszerelést {0} használja</OutfitInUse>
-  <!-- EN: No outfit selected -->
-  <NoOutfitSelected>Nincs felszerelés kiválasztva</NoOutfitSelected>
   
   <!-- Drug policy management -->
+  <!-- EN: Drug policies -->
+  <DrugPolicyTitle>TODO</DrugPolicyTitle>
+  <!-- EN: Create and manage templates for controlling which drugs your colonists are allowed to consume. -->
+  <DrugPolicyTip>TODO</DrugPolicyTip>
   <!-- EN: Drug policy -->
   <DrugPolicy>Drogszabályok</DrugPolicy>
-  <!-- EN: Select policy... -->
-  <SelectDrugPolicy>Kiválasztás...</SelectDrugPolicy>
-  <!-- EN: New policy -->
-  <NewDrugPolicy>Új drogszabály</NewDrugPolicy>
-  <!-- EN: Delete policy... -->
-  <DeleteDrugPolicy>Drogszabály törlése</DeleteDrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
   <DrugPolicyInUse>A szabályt {0} használja.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
   <FoodRestrictionInUse>Étel korlátozás érvényes: {0}.</FoodRestrictionInUse>
-  <!-- EN: No drug policy selected -->
-  <NoDrugPolicySelected>Nincs szabály kiválasztva</NoDrugPolicySelected>
   <!-- EN: Add drug... -->
   <AddDrug>Drog hozzáadása...</AddDrug>
   <!-- EN: Drug -->
   <DrugColumnLabel>Drogok</DrugColumnLabel>
-  <!-- EN: Usage -->
-  <DrugUsageColumnLabel>Mód</DrugUsageColumnLabel>
   <!-- EN: Frequency -->
   <FrequencyColumnLabel>Gyakoriság</FrequencyColumnLabel>
   <!-- EN: Only if mood below -->
@@ -966,8 +1002,6 @@
   <DeleteDrugTooltip>Drog törlése</DeleteDrugTooltip>
   <!-- EN: The name of a drug. -->
   <DrugNameColumnDesc>A drog neve</DrugNameColumnDesc>
-  <!-- EN: How the drug is allowed to be used. -->
-  <DrugUsageColumnDesc>A fogyasztás szabályozása.</DrugUsageColumnDesc>
   <!-- EN: How often the colonists should try to take this drug. -->
   <FrequencyColumnDesc>Milyen gyakran kéne szedje a gyarmatos a drogot.</FrequencyColumnDesc>
   <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
@@ -984,10 +1018,14 @@
   <DrugUsageTipScheduled>Ütemezés szerint\n\nAz előre beállított időpontokban fogyasztható, ha a többi feltétel is ki van elégítve.\n\nA drog használható arra is, hogy feldobja a hangulatot és természetesen függőség kielégítésére is.</DrugUsageTipScheduled>
 
   <!-- Food restriction management -->
-  <!-- EN: Food restriction -->
-  <FoodRestriction>Étel korlátozás</FoodRestriction>
-  <!-- EN: Food -->
-  <FoodRestrictionShort>Étel</FoodRestrictionShort>
+  <!-- EN: Food policies -->
+  <FoodPolicyTitle>TODO</FoodPolicyTitle>
+  <!-- EN: Create and manage templates for controlling what food items colony members can eat. -->
+  <FoodPolicyTip>TODO</FoodPolicyTip>
+  <!-- EN: Food policy -->
+  <FoodPolicy>TODO</FoodPolicy>
+  <!-- EN: Allow food -->
+  <AllowFood>TODO</AllowFood>
   <!-- EN: Lavish -->
   <FoodRestrictionLavish>Lakoma</FoodRestrictionLavish>
   <!-- EN: Fine -->
@@ -1000,33 +1038,77 @@
   <FoodRestrictionRaw>Nyers</FoodRestrictionRaw>
   <!-- EN: Nothing -->
   <FoodRestrictionNothing>Semmi</FoodRestrictionNothing>
-  <!-- EN: Select food restriction -->
-  <SelectFoodRestriction>Kiválasztás...</SelectFoodRestriction>
-  <!-- EN: New food restriction -->
-  <NewFoodRestriction>Új étel korlátozás</NewFoodRestriction>
-  <!-- EN: Delete food restriction -->
-  <DeleteFoodRestriction>Étel korlátozás törlése</DeleteFoodRestriction>
-  <!-- EN: No food restriction selected -->
-  <NoFoodRestrictionSelected>Nincs étel korlátozás</NoFoodRestrictionSelected>
+  
+  <!-- Reading management -->
+  <!-- EN: Reading policies -->
+  <ReadingPolicyTitle>TODO</ReadingPolicyTitle>
+  <!-- EN: Create and manage templates for controlling which books colony members are allowed to read. -->
+  <ReadingPolicyTip>TODO</ReadingPolicyTip>
+  <!-- EN: Reading policy -->
+  <ReadingPolicy>TODO</ReadingPolicy>
+  <!-- EN: Reading policy is in use. -->
+  <ReadingPolicyInUse>TODO</ReadingPolicyInUse>
+
+  <!-- EN: Anything -->
+  <AllReadingPolicy>TODO</AllReadingPolicy>
+  <!-- EN: None -->
+  <NoneReadingPolicy>TODO</NoneReadingPolicy>
+  <!-- EN: Textbooks -->
+  <TextbookPolicy>TODO</TextbookPolicy>
+  <!-- EN: Schematics -->
+  <SchematicPolicy>TODO</SchematicPolicy>
+  <!-- EN: Novels -->
+  <NovelPolicy>TODO</NovelPolicy>
 
   <!-- Medical settings -->
   <!-- EN: Default medicine settings -->
   <DefaultMedicineSettings>Alapértelmezett gyógyszerbeállítások</DefaultMedicineSettings>
+  <!-- EN: These medical settings are assigned to creatures when they first join a given group. You can manually assign a setting to an individual in their health tab.\n\nNote: If the creature joins a new group, they will always take the settings of that group, even if you previously assigned them a setting. -->
+  <DefaultMedicineSettingsDesc>TODO</DefaultMedicineSettingsDesc>
+  
   <!-- EN: Defaults -->
   <MedGroupDefaults>Alapérték</MedGroupDefaults>
-  <!-- EN: Colonist -->
-  <MedGroupColonist>Gyarmatos</MedGroupColonist>
-  <!-- EN: Imprisoned colonist -->
-  <MedGroupImprisonedColonist>Fogoly</MedGroupImprisonedColonist>
-  <!-- EN: Colony animal -->
-  <MedGroupColonyAnimal>Háziállat</MedGroupColonyAnimal>
-  <!-- EN: Neutral animal -->
-  <MedGroupNeutralAnimal>Idegen állat</MedGroupNeutralAnimal>
-  <!-- EN: Neutral faction -->
-  <MedGroupNeutralFaction>Semleges frakció</MedGroupNeutralFaction>
-  <!-- EN: Hostile faction -->
-  <MedGroupHostileFaction>Ellenséges frakció</MedGroupHostileFaction>
   
+  <!-- EN: Colonists -->
+  <MedGroupColonists>TODO</MedGroupColonists>
+  <!-- EN: Free members of your colony -->
+  <MedGroupColonistsDesc>TODO</MedGroupColonistsDesc>
+  
+  <!-- EN: Prisoners -->
+  <MedGroupPrisoners>TODO</MedGroupPrisoners>
+  <!-- EN: Prisoners in your colony, regardless of faction. -->
+  <MedGroupPrisonersDesc>TODO</MedGroupPrisonersDesc>
+
+  <!-- EN: Tamed animals -->
+  <MedGroupTamedAnimals>TODO</MedGroupTamedAnimals>
+  <!-- EN: Animals which have been tamed by your colony. -->
+  <MedGroupTamedAnimalsDesc>TODO</MedGroupTamedAnimalsDesc>
+
+  <!-- EN: Friendly faction members -->
+  <MedGroupFriendlyFaction>TODO</MedGroupFriendlyFaction>
+  <!-- EN: Humans or animals who are part of a faction which is friendly with your faction (goodwill above 75). -->
+  <MedGroupFriendlyFactionDesc>TODO</MedGroupFriendlyFactionDesc>
+  
+  <!-- EN: Neutral faction members -->
+  <MedGroupNeutralFaction>Semleges frakció</MedGroupNeutralFaction>
+  <!-- EN: Humans or animals who are part of a faction which is neutral with your faction (between -75 and 75 goodwill). -->
+  <MedGroupNeutralFactionDesc>TODO</MedGroupNeutralFactionDesc>
+
+  <!-- EN: Hostile faction members -->
+  <MedGroupHostileFaction>Ellenséges frakció</MedGroupHostileFaction>
+  <!-- EN: Humans or animals who are part of a faction which is hostile with your faction (goodwill below -75). -->
+  <MedGroupHostileFactionDesc>TODO</MedGroupHostileFactionDesc>
+
+  <!-- EN: Other humans -->
+  <MedGroupNoFaction>TODO</MedGroupNoFaction>
+  <!-- EN: Humans who are not members of any faction. -->
+  <MedGroupNoFactionDesc>TODO</MedGroupNoFactionDesc>
+  
+  <!-- EN: Wildlife -->
+  <MedGroupWildlife>TODO</MedGroupWildlife>
+  <!-- EN: Animals and other creatures which are not members of any faction. -->
+  <MedGroupWildlifeDesc>TODO</MedGroupWildlifeDesc>
+
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
   <NoGrowerCanPlant>A {0} vetéséhez szükséges "Földművelés" készség szintje: {1}.\n\nEgyik munkaképes emberednek sincs ilyenje, ezért ez a mag nem lesz elvetve.</NoGrowerCanPlant>
@@ -1122,6 +1204,8 @@
   <AbilityCantApplyDowned>{0_labelShort} mozgásképtelen.</AbilityCantApplyDowned>
   <!-- EN: Cannot use: {0} is asexual. -->
   <AbilityCantApplyOnAsexual>Nem használható: {0} aszexuális.</AbilityCantApplyOnAsexual>
+  <!-- EN: {PAWN_labelShort} has no healable injuries. -->
+  <AbilityCannotCastNoHealableInjury>TODO</AbilityCannotCastNoHealableInjury>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
   <AbilityCantApplyWrongAttractionGender>{1_labelShort} nem a megfelelő nem {0_labelShort} számára.</AbilityCantApplyWrongAttractionGender>
   <!-- EN: {0_labelShort} is too young. -->
@@ -1321,5 +1405,19 @@
   <ToggleDarklightOnDesc>Változtasd meg a fény színét sötét fényre.</ToggleDarklightOnDesc>
   <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
   <ColorTemperatureTooltip>Válassz egy színt a színhőmérséklet beállításával. Megjegyzés: Ez csak a vizuális színt érinti, a hőkibocsátást nem.</ColorTemperatureTooltip>
+
+  <!-- EN: {0_labelShort} is psychically deaf. -->
+  <CannotShootPawnIsPsychicallyDeaf>TODO</CannotShootPawnIsPsychicallyDeaf>
+
+  <!-- EN: Search the current map. -->
+  <SearchTheMap>TODO</SearchTheMap>
+  <!-- EN: Search the current map for items, buildings, people, animals, plants, and more. -->
+  <SearchTheMapDesc>TODO</SearchTheMapDesc>
+  <!-- EN: {0} results found -->
+  <MapSearchResults>TODO</MapSearchResults>
+  <!-- EN: 1 result found -->
+  <MapSearchResultSingular>TODO</MapSearchResultSingular>
+  <!-- EN: Searching -->
+  <Searching>TODO</Searching>
 
 </LanguageData>

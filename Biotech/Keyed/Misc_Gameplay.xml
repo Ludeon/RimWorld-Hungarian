@@ -77,6 +77,8 @@
   <Groups>Csoportok</Groups>
   <!-- EN: Loading mech gestation resources -->
   <LoadingMechGestator>Robot gesztációs erőforrások betöltése</LoadingMechGestator>
+  <!-- EN: Time left this cycle -->
+  <GestatingInspect>TODO</GestatingInspect>
   <!-- EN: Initiating mech gestation cycle -->
   <InitMechGestationCycle>Robot gesztációs ciklus elindítása</InitMechGestationCycle>
   <!-- EN: Initiating mech birth -->
@@ -145,7 +147,7 @@
   <AutoWakeDesc>Ha be van kapcsolva, {PAWN_nameDef} automatikusan felébred, amint a mélyalvása befejeződött.\n\nHa ki van kapcsolva, {PAWN_pronoun} továbbra is mélyalvásban marad, amíg manuálisan fel nem ébreszted őt.</AutoWakeDesc>
   <!-- EN: {PAWN_nameDef} is deathresting. -->
   <IsDeathresting>{PAWN_nameDef} mélyalvást végez.</IsDeathresting>
-  <!-- EN: Cannot deathrest -->
+  <!-- EN: cannot deathrest -->
   <CannotDeathrest>Nem lehet mélyalvásba menni</CannotDeathrest>
   <!-- EN: Start deathrest -->
   <StartDeathrest>Mélyalvás indítása</StartDeathrest>
@@ -153,8 +155,6 @@
   <ConfirmExitDeathrestUnderMinDays>A mélyalvás biztonságos befejezése {MINDURATION} időt vesz igénybe, de {PAWN_nameDef} csak {CURDURATION} ideje pihen.\n\n{PAWN_nameDef} azonnali felébresztése megszakítaná a mélyalvását, kibillentve az anyagcserét az egyensúlyból, és megbetegítve őt a következő napokra.\n\nBiztosan fel akarod ébreszteni őt?</ConfirmExitDeathrestUnderMinDays>
   <!-- EN: deathresting -->
   <Deathresting>mélyalvás</Deathresting>
-  <!-- EN: complete -->
-  <Complete>TODO</Complete>
   <!-- EN: can wake safely now. -->
   <CanWakeSafely>most már nyugodtan felébredhet.</CanWakeSafely>
   <!-- EN: Disabled by gene -->
@@ -297,7 +297,7 @@
   <ComplexityTotal>Teljes bonyolultság</ComplexityTotal>
   <!-- EN: The total complexity of all the genes in use. -->
   <ComplexityTotalDesc>Az összes használt gén teljes bonyolultsága.</ComplexityTotalDesc>
-  <!-- EN: Metabolic efficiency -->
+  <!-- EN: metabolic efficiency -->
   <Metabolism>Anyagcsere hatékonysága</Metabolism>
   <!-- EN: The total metabolic efficiency of these genes when assembled. High efficiency means a person needs less food; low efficiency means they must eat more. -->
   <MetabolismDesc>E gének teljes metabolikus hatékonysága összeszerelve. A nagy hatékonyság azt jelenti, hogy egy személynek kevesebb ételre van szüksége; Az alacsony hatékonyság azt jelenti, hogy többet kell ennie.</MetabolismDesc>
@@ -429,8 +429,6 @@
   <LethalInjuries>Halálos sérülések</LethalInjuries>
   <!-- EN: deathrest -->
   <Deathrest>mélyalvás</Deathrest>
-  <!-- EN: Buildings -->
-  <Buildings>Épületek</Buildings>
   <!-- EN: capacity -->
   <Capacity>kapacitás</Capacity>
   <!-- EN: Non-{GENE} romance chance -->
@@ -446,8 +444,6 @@
 
   <!-- EN: Children want to learn from different activities at different times. -->
   <LearningDesireTooltip>TODO</LearningDesireTooltip>
-  <!-- EN: {0_nameDef}'s current learning desire: -->
-  <LearningDesireTooltip_CurrentDesire>TODO</LearningDesireTooltip_CurrentDesire>
   <!-- EN: Development health is the average of a child's learning need since their last birthday.\n\nChildren with higher development health will have more options during growth moments and will gain more passions for skills. -->
   <DevelopmentHealthGizmoTooltip>TODO</DevelopmentHealthGizmoTooltip>
 
@@ -485,6 +481,8 @@
   <GestatingMech>{0} előállítása</GestatingMech>
   <!-- EN: Gestated {0} -->
   <GestatedMech>{0} előállítva</GestatedMech>
+  <!-- EN: Requires {PAWN_nameDef} to continue gestating -->
+  <GestatingMechRequiresMechanitor>TODO</GestatingMechRequiresMechanitor>
   <!-- EN: Requires {PAWN_nameDef} to complete -->
   <GestatedMechRequiresMechanitor>A befejezéshez {PAWN_nameDef} szükséges</GestatedMechRequiresMechanitor>
   <!-- EN: Gestation complete -->

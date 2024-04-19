@@ -10,11 +10,11 @@
   <BreakRiskMajor>Erős összeomlás veszély</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
   <BreakRiskExtreme>Rendkívüli összeomlás veszély</BreakRiskExtreme>
-  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
+  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n{0} -->
   <BreakRiskMinorDesc>A következő gyarmatosok rossz hangulatban vannak és bármikor szenvedhetnek kisebb összeomlást:\n\n{0}</BreakRiskMinorDesc>
-  <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
+  <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n{0} -->
   <BreakRiskMajorDesc>A következő gyarmatosok nagyon rossz hangulatban vannak és bármikor szenvedhetnek összeomlást:\n\n{0}</BreakRiskMajorDesc>
-  <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
+  <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n{0} -->
   <BreakRiskExtremeDesc>A következő gyarmatosok rendkívül rossz hangulatban vannak és könnyen szenvedhetnek komoly - akár erőszakos - idegösszeomlást:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
   <BreakRiskDescEnding>Ellenőrizd, mi bántja őket a "Szükség" fül alatt.\n\nHogy jobban érezzék magukat, főzhetsz nekik finom ételeket, biztosíthatsz nekik több pihenőidőt és szebb szórakoztató eszközöket. Gondoskodj róla, hogy szép környezetben legyenek, legyen mit inniuk és elszívniuk.</BreakRiskDescEnding>
@@ -23,9 +23,9 @@
   <ColonistNeedsRescue>Gyarmatos mentésre vár</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>Gyarmatosok mentésre várnak</ColonistsNeedRescue>
-  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
+  <!-- EN: These colonists are incapacitated on the ground:\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
   <ColonistsNeedRescueDesc>A következő gyarmatosok cselekvőképtelenek:\n\n{0}\nKüldj értük valakit, aki kimenti és betegágyba teszi őket.\n\n(A mentéshez válassz ki egy másik gyarmatost és jobbkatt a sérültön majd "Mentés".)</ColonistsNeedRescueDesc>
-  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
+  <!-- EN: These colonists are incapacitated on the ground:\n{0}\n\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
   <ColonistsNeedRescueDescController>A következő gyarmatosok cselekvőképtelenek:\n\n{0}\nKüldj értük valakit, aki kimenti és betegágyba teszi őket.\n\n(A mentéshez válassz ki egy másik gyarmatost, aztán bal ravasz megnyomása a sérültön majd "Mentés".)</ColonistsNeedRescueDescController>
 
   <!-- EN: Need defenses -->
@@ -35,7 +35,7 @@
 
   <!-- EN: Need doctor -->
   <NeedDoctor>Nincs orvos</NeedDoctor>
-  <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
+  <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n{0}\n\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
   <NeedDoctorDesc>Orvosi ellátásra van szüksége néhány gyarmatosnak, de nincs egészséges embered erre a munkára beosztva.\n\n{0}\nOssz be valakit "Doktor" munkára. Ha nem kezelik őket, a sebesülések talán sosem gyógyulnak be.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
@@ -70,34 +70,34 @@
   <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
   <AlertColonistLeftUnburiedDesc>Egy gyarmatos nincsen eltemetve.\n\nEz negatívan befolyásolhatja a többiek hangulatát.</AlertColonistLeftUnburiedDesc>
 
-  <!-- EN: Hunter lacks ranged weapon -->
+  <!-- EN: Hunter lacks suitable weapon -->
   <HunterLacksWeapon>Fegyvertelen vadász</HunterLacksWeapon>
-  <!-- EN: A colonist is assigned to work as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.\n\nThe following colonists are assigned as hunters and need ranged weapons -->
+  <!-- EN: A colonist is assigned to work as a hunter but does not have a ranged weapon appropriate for hunting.\n\nThey will not hunt until they are carrying an appropriate weapon.\n\nThe following colonists are assigned as hunters and need suitable ranged weapons -->
   <HunterLacksWeaponDesc>Egy gyarmatos vadásznak van beosztva, de nincs fegyvere. Fegyver nélkül nem fog vadászni.\n\nSérülések elkerülése végett javasolt a távolsági fegyverek használata.</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>Rongyos ruházat</AlertTatteredApparel>
-  <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
+  <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n{0}\n\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
   <AlertTatteredApparelDesc>A következő gyarmatos(ok) rongyos ruhákat viselnek, és ettől rossz a kedvük:\n\n{0}\nAdj rá(juk) ruhát, ami nincs ennyire rossz állapotban!\n\nMagad is megvarrhatod őket, vagy megveheted egy kereskedőtől.</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
   <AlertUnhappyNudity>Meztelenség</AlertUnhappyNudity>
-  <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
+  <!-- EN: These colonists are nude and not happy about it:\n{0}\n\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
   <AlertUnhappyNudityDesc>A következő gyarmatosok meztelenek, és emiatt boldogtalanok:\n\n{0}\nÖltöztesd fel őket!\n\nA ruhákat levarrathatod, vagy megvásárolhatod.</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
   <Starvation>Éhínség</Starvation>
-  <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
+  <!-- EN: These colonists are starving:\n{0}\n\nGet them some food. -->
   <StarvationDesc>A következő gyarmatosok éheznek:\n\n{0}\nEtesd meg őket!</StarvationDesc>
 
   <!-- EN: Animal starvation -->
   <StarvationAnimals>Éhező állat</StarvationAnimals>
-  <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
+  <!-- EN: These colony animals are starving:\n{0}\n\nGet them some food. -->
   <StarvationAnimalsDesc>A következő állatok éheznek:\n\n{0}\nEtesd meg őket!</StarvationAnimalsDesc>
 
   <!-- EN: Exhaustion -->
   <Exhaustion>Kimerültség</Exhaustion>
-  <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
+  <!-- EN: These colonists are exhausted and need rest:\n{0}\n\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
   <ExhaustionDesc>A következő gyarmatosok kimerültek és pihenésre van szükségük:\n\n{0}\nHagyd pihenni őket! Szükségük lesz egy ágyra, amit használhatnak és ne legyenek besorozva.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
@@ -125,7 +125,7 @@
 
   <!-- EN: Boredom -->
   <Boredom>Unalom</Boredom>
-  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
+  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n{2} -->
   <BoredomDesc>Ezeknek az embereknek pihenésre van szükségük, vagy hiába vannak pihenésre beosztva, mivel az összes elérhető pihenésformát unják:\n\n{0}\n\nBiztosíts nagyobb változatosságot.\n\nA jelenleg elérhető pihenésformák {PAWN_labelShort} számára:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
@@ -149,34 +149,34 @@
 
   <!-- EN: Need research project -->
   <NeedResearchProject>Nincs kutatásterv</NeedResearchProject>
-  <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
+  <!-- EN: You have the equipment to do research but have not selected a project.\n\n(Click to open the research menu.) -->
   <NeedResearchProjectDesc>Van kutatási felszerelésed, de nincs kutatásterved.\n\nNyisd meg a "Kutatás" menüt és válassz egyet.</NeedResearchProjectDesc>
 
   <!-- EN: {0} colonists idle -->
   <ColonistsIdle>{0} gyarmatos tétlen</ColonistsIdle>
-  <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
+  <!-- EN: These colonists are wandering idly:\n{0}\n\nYou should probably find them something productive to do. -->
   <ColonistsIdleDesc>A következő gyarmatosok tétlenek:\n\n{0}\nKéne találnod nekik valami hasznos munkát.</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
   <CaravanIdle>Tétlen karaván</CaravanIdle>
-  <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
+  <!-- EN: These caravans are waiting for you to set their next destination:\n{0} -->
   <CaravanIdleDesc>A következő karavánok várják, hogy kijelölj nekik egy úticélt:\n\n{0}</CaravanIdleDesc>
 
   <!-- EN: Medical treatment needed -->
   <ColonistNeedsTreatment>Ellátás szükséges</ColonistNeedsTreatment>
-  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
+  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
   <ColonistNeedsTreatmentDesc>Ezeknek az embereknek orvosi kezelésre van szükségük. Ha nem kezelik őket, a sebesülések talán sosem gyógyulnak be.\n\n{0}\nKüldd őket betegágyba!\n\n(Először jelölj ki egy ágyat betegágynak, majd a sérültet kiválasztva jobbkatt az ágyon és páciens hozzárendelése.)</ColonistNeedsTreatmentDesc>
-  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
+  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
   <ColonistNeedsTreatmentDescController>Ezeknek az embereknek orvosi kezelésre van szükségük. Ha nem kezelik őket, a sebesülések talán sosem gyógyulnak be.\n\n{0}\nKüldd őket betegágyba!\n\n(Először jelölj ki egy ágyat betegágynak, majd a sérült kiválasztása után bal oldali ravaszt megnyomva az ágyon hozzárendelheted a pácienst.)</ColonistNeedsTreatmentDescController>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>Kihűlés</AlertHypothermia>
-  <!-- EN: These colonists are suffering from hypothermia:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
+  <!-- EN: These colonists are suffering from hypothermia:\n{0}\n\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
   <AlertHypothermiaDesc>A következő gyarmatosokat fenyegeti kihűlés:\n\n{0}\nBizonyosodj meg róla, hogy a ruházatuk az évszaknak megfelelő és a szobáik fűtöttek.</AlertHypothermiaDesc>
   
   <!-- EN: {0} patients await medical operation -->
   <PatientsAwaitingMedicalOperation>{0} páciens vár orvosi segítségre</PatientsAwaitingMedicalOperation>
-  <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
+  <!-- EN: These patients await medical operation:\n{0}\n\nMake sure you have all necessary medical tools and a free doctor available. -->
   <PatientsAwaitingMedicalOperationDesc>A következő páciensek várnak műtétre:\n\n{0}\nBizonyosodj meg róla, hogy a megfelelő eszközök és orvos rendelkezésre állnak!</PatientsAwaitingMedicalOperationDesc>
 
   <!-- EN: Fire! -->
@@ -186,9 +186,9 @@
 
   <!-- EN: Medical emergency -->
   <PawnsWithLifeThreateningDisease>Súlyos betegség</PawnsWithLifeThreateningDisease>
-  <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
+  <!-- EN: People are at risk of death because of severe illness:\n{0}\n\nMake sure that they get the best medical care possible. -->
   <PawnsWithLifeThreateningDiseaseDesc>A következő emberek vannak a halálukon súlyos betegség miatt:\n\n{0}\nBizonyosodj meg róla, hogy a lehető legjobb ellátást kapják!</PawnsWithLifeThreateningDiseaseDesc>
-  <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
+  <!-- EN: People are at risk for death because of severe illness:\n{0}\n\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
   <PawnsWithLifeThreateningDiseaseAmputationDesc>A következő emberek vannak a halálukon súlyos betegség miatt:\n\n{0}\nHa lehetséges, amputáld vagy cseréld a fertőzött végtagokat, hogy életben tartsd őket.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <!-- EN: Billiards needs space -->
@@ -232,24 +232,24 @@
 
   <!-- EN: Heatstroke -->
   <AlertHeatstroke>Hőguta</AlertHeatstroke>
-  <!-- EN: The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
+  <!-- EN: The following people are suffering from heatstroke:\n{0}\n\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
   <AlertHeatstrokeDesc>A következő személyek hőgutát kaptak:\n\n{0}\nVidd őket hűvösebb helyre. A szobákat lehűtheted passzív vagy elektromos hűtéssel. Mélyen a föld alatt ugyancsak hűvösebb van, ha ajtóval ellátott a helyiség.</AlertHeatstrokeDesc>
 
   <!-- EN: Guest unhappy -->
   <QuestPartMoodBelowThreshold>Boldogtalan vendég</QuestPartMoodBelowThreshold>
-  <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1} -->
+  <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n{1} -->
   <QuestPartMoodBelowThresholdDesc>{0} küldetés követelménye a következő személyek jó hangulata, ám jelenleg rossz kedvük van. Csinálj valamit, hogy jobban érezzék magukat:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
   <QuestPartShuttleLeaveDelay>Űrsikló indulás: {0}</QuestPartShuttleLeaveDelay>
-  <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
+  <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2} -->
   <QuestPartShuttleLeaveDelayDesc>Az űrsikló ennyi idő múlva indul: {1}. {0} küldetés követelménye a következő személyek vagy tárgyak fedélzetre kerülése:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
   <!-- EN: The shuttle will leave in {0}. -->
   <QuestPartShuttleLeaveDelayDescHidden>Az űrsikló ennyi idő múlva indul: {0}.</QuestPartShuttleLeaveDelayDescHidden>
 
   <!-- EN: Shuttle arriving in {0} -->
   <QuestPartShuttleArriveDelay>Űrsikló érkezés ekkor: {0}</QuestPartShuttleArriveDelay>
-  <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
+  <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2} -->
   <QuestPartShuttleArriveDelayDesc>Űrsikló érkezés ekkor: {1}. A küldetésed ({0}) megköveteli, hogy a következő személyeket vagy tárgyakat vidd fel a siklóra, mielőtt az elindulna:\n\n{2}</QuestPartShuttleArriveDelayDesc>
   <!-- EN: A shuttle will arrive in {0}. -->
   <QuestPartShuttleArriveDelayDescHidden>Űrsikló érkezik ekkor: {0}.</QuestPartShuttleArriveDelayDescHidden>
@@ -299,17 +299,17 @@
 
   <!-- EN: Animal wandering away -->
   <AlertAnimalIsRoaming>Elkóborolt állat</AlertAnimalIsRoaming>
-  <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n\n{0} -->
+  <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n{0} -->
   <AlertAnimalIsRoamingDesc>Néhány szelíd állatod elcsatangolt, és elkezdett vándorolni. Ha elérik a térkép szélét, akkor végül elmennek.\n\nHa van zárt állati karámod, az állatgondozók visszahozhatják az állatot. A karámban lévő állatok nem kószálnak.\n\nA következő állatok barangolnak éppen:\n\n{0}</AlertAnimalIsRoamingDesc>
 
   <!-- EN: Hungry pen animals -->
   <AlertPennedAnimalHungry>Éhes állatok a karámban</AlertPennedAnimalHungry>
-  <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n\n{0} -->
+  <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n{0} -->
   <AlertPennedAnimalHungryDesc>Néhány karámban tartott állatod éhes.\n\nVálassz ki egy karámjelölőt, és használd a Táplálék lapot a további részletek megtekintéséhez.\n\nA fűevő állatoknak nagyobb karámra lehet szükségük, hogy elegendő fühöz jussanak. Előfordulhat, hogy más állatokat szénával vagy hasonló táplálékkal kell ellátni a készletből.\n\nA következő karámban tartott állatok éhesek:\n\n{0}</AlertPennedAnimalHungryDesc>
 
   <!-- EN: Hungry hitched animal -->
   <AlertHitchedAnimalHungryNoFood>Éhes kikötött állat</AlertHitchedAnimalHungryNoFood>
-  <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n\n{0} -->
+  <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n{0} -->
   <AlertHitchedAnimalHungryNoFoodDesc>Egyes rakodóhelyhez kikötözött állatok éhesek. Előfordulhat, hogy nincs megfelelő élelem a közelükben.\n\nHozz nekik ennivalót vagy távolítsd el a rögzítési helyet, hogy maguk is találjanak megfelelő élelmet.\n\nA következő kikötött állatok éhesek:\n\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
 
   <!-- EN: Raids arriving in {0} -->
@@ -321,7 +321,7 @@
 
   <!-- EN: Faction will become hostile if you stay -->
   <FactionWillBecomeHostileIfNotLeavingWithin>A frakció ellenséges lesz, ha maradsz</FactionWillBecomeHostileIfNotLeavingWithin>
-  <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n\n{0} -->
+  <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n{0} -->
   <FactionWillBecomeHostileIfNotLeavingWithinDesc>Ezek a frakciók ellenségessé válnak, ha hosszabb ideig maradsz a településükön vagy előőrsükön:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
 
   <!-- EN: {0} trees dying -->

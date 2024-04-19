@@ -22,7 +22,7 @@
   <!-- EN: Not allowed -->
   <NotAllowed>Nem megengedett</NotAllowed>
   
-  <!-- EN: Fire at {1_label} -->
+  <!-- EN: Fire at {1_labelShort} -->
   <FireAt>Tüzelni erre: {1_labelShort} </FireAt>
 
   <!-- EN: out of range -->
@@ -51,9 +51,9 @@
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>{1_labelShort} működtetése</OrderManThing>
   
-  <!-- EN: Melee attack {1_label} -->
+  <!-- EN: Melee attack {1_labelShort} -->
   <MeleeAttack>Támadd közelharcban ezt: {1_label}</MeleeAttack>
-  <!-- EN: Melee attack {1_label} to death -->
+  <!-- EN: Melee attack {1_labelShort} to death -->
   <MeleeAttackToDeath>Támadd közelharcban ezt: {1_label}, míg meg nem hal</MeleeAttackToDeath>
   <!-- EN: no path -->
   <NoPath>nem megközelíthető</NoPath>
@@ -96,7 +96,7 @@
   <PrisonerInteractedTooRecently>nemrégiben kommunikált</PrisonerInteractedTooRecently>
   <!-- EN: no usable food -->
   <NoUsableFood>nincs felhasználható étel</NoUsableFood>
-  <!-- EN: no food -->
+  <!-- EN: not enough food -->
   <NoFood>nincs étel</NoFood>
   <!-- EN: no food matching restrictions -->
   <NoFoodMatchingRestrictions>nincsenek étel-elfogadási korlátozások</NoFoodMatchingRestrictions>
@@ -158,6 +158,8 @@
   <IncapableOfDeconstruction>bontásra képtelen</IncapableOfDeconstruction>
   <!-- EN: incapable of mining -->
   <IncapableOfMining>nem tud bányászni</IncapableOfMining>
+  <!-- EN: tree marked for extraction -->
+  <TreeMarkedForExtraction>TODO</TreeMarkedForExtraction>
   <!-- EN: angers faction -->
   <AngersFaction>Frakciót felbőszít</AngersFaction>
   <!-- EN: no body part -->
@@ -192,38 +194,47 @@
   <CannotGoNoPath>Nem lehet ide eljutni (nem megközelíthető)</CannotGoNoPath>
   <!-- EN: Go here -->
   <GoHere>Menj ide</GoHere>
+
+  <!-- EN: Clean {0} -->
+  <CleanRoom>TODO</CleanRoom>
   
   <!-- EN: Arrest {0} -->
   <Arrest>Tartóztasd le őt: {0}</Arrest>
-  <!-- EN: Try to arrest {1_label} ({2} chance) -->
+  <!-- EN: Try to arrest {1_labelShort} ({2} chance) -->
   <TryToArrest>Próbáld meg letartóztatni őt: {1_label}</TryToArrest>
   <!-- EN: Cannot arrest -->
   <CannotArrest>Nem tudja letartóztatni</CannotArrest>
   <!-- EN: {0} chance of arrest -->
   <ArrestChance>{0} esély a letartóztatásra</ArrestChance>
 
-  <!-- EN: Capture {1_label} -->
+  <!-- EN: Capture {1_labelShort} -->
   <Capture>Fogd el őt: {1_label}</Capture>
+  <!-- EN: capture {0_labelShort} -->
+  <CaptureLower>TODO</CaptureLower>
   <!-- EN: Cannot capture -->
   <CannotCapture>Nem tudja elfogni</CannotCapture>
   <!-- EN: unwaveringly loyal -->
   <Unrecruitable>rendíthetetlenül hűséges</Unrecruitable>
+  <!-- EN: not recruitable -->
+  <UnrecruitableNoFaction>TODO</UnrecruitableNoFaction> 
+  <!-- EN: Transfer {0_label} -->
+  <TransferEntity>TODO</TransferEntity> 
 
-  <!-- EN: Rescue {1_label} -->
+  <!-- EN: Rescue {1_labelShort} -->
   <Rescue>Mentsd meg őt: {1_label}</Rescue>
-  <!-- EN: Put {1_label} somewhere safe -->
+  <!-- EN: Put {1_labelShort} somewhere safe -->
   <PutSomewhereSafe>{1_label} címkét biztonságos helyre viszi</PutSomewhereSafe>
   <!-- EN: Taking {0_labelShort} to bed. -->
   <TakingToBed>{0_labelShort} lefetetése.</TakingToBed>
   <!-- EN: Cannot rescue -->
   <CannotRescue>Nem tudja megmenteni</CannotRescue>
 
-  <!-- EN: Carry {1_label} to cryptosleep casket -->
+  <!-- EN: Carry {1_labelShort} to cryptosleep casket -->
   <CarryToCryptosleepCasket>Vidd el a hibernálóba őt: {1_label}</CarryToCryptosleepCasket>
   <!-- EN: Cannot carry to cryptosleep casket -->
   <CannotCarryToCryptosleepCasket>Nem lehet a hibernálóba vinni</CannotCarryToCryptosleepCasket>
 
-  <!-- EN: Carry {0_label} to shuttle -->
+  <!-- EN: Carry {0_labelShort} to shuttle -->
   <CarryToShuttle>{0_label} cipelése az űrsiklóhoz</CarryToShuttle>
 
   <!-- EN: No available cryptosleep casket. -->
@@ -236,10 +247,16 @@
   <CryptosleepCasketOccupied>Már elfoglalva</CryptosleepCasketOccupied>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>Nincs zárt helyen lévő, rabnak szánt ágy.</NoPrisonerBed>
+  <!-- EN: No prisoner bed available. -->
+  <NoPrisonerBedShort>TODO</NoPrisonerBedShort>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
   <NoNonPrisonerBed>Nincs használható, nem rabnak szánt ágy.</NoNonPrisonerBed>
   <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
   <NoAnimalBed>Nincs elérhető, nem foglalt fekhely.</NoAnimalBed>
+  <!-- EN: No reachable, unforbidden, un-reserved {0} -->
+  <NoItemReservedOrReachable>TODO</NoItemReservedOrReachable>
+  <!-- EN: No unforbidden, un-reserved {0} -->
+  <NoItemReserved>TODO</NoItemReserved>
   <!-- EN: Reserved by someone else. -->
   <Reserved>Másnak van fenntartva.</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
@@ -335,23 +352,25 @@
   <!-- EN: overweight -->
   <OverweightLower>túlsúly</OverweightLower>
 
-  <!-- EN: Cannot carry {1_label} and leave the area -->
+  <!-- EN: Cannot carry {1_labelShort} and leave the area -->
   <CannotCarryToExit>Nem lehet elhagyni a körzetet ezzel: {1_label}</CannotCarryToExit>
-  <!-- EN: Carry {1_label} and leave the area -->
+  <!-- EN: Carry {1_labelShort} and leave the area -->
   <CarryToExit>Elhagyni a körzetet ezzel: {1_label}</CarryToExit>
-  <!-- EN: Capture {1_label} and leave the area -->
+  <!-- EN: Capture {1_labelShort} and leave the area -->
   <CarryToExitAndCapture>{1_label} elfogása és a körzet elhagyása</CarryToExitAndCapture>
   
-  <!-- EN: Strip {1_label} -->
+  <!-- EN: Strip {1_labelShort} -->
   <Strip>Vetkőztesd le őt: {1_label}</Strip>
-  <!-- EN: Cannot strip {1_label} -->
+  <!-- EN: Cannot strip {1_labelShort} -->
   <CannotStrip>Nem tudja levetkőztetni őt: {1_label}</CannotStrip>
-  <!-- EN: Cannot drop {1_label} -->
+  <!-- EN: Cannot drop {1_labelShort} -->
   <CannotDrop>{1_label} nem eldobható</CannotDrop>
-  <!-- EN: Carry {0_label} -->
+  <!-- EN: Carry {0_labelShort} -->
   <Carry>Cipel: {0_label}</Carry>
-  <!-- EN: Cannot carry {0_label} -->
+  <!-- EN: Cannot carry {0_labelShort} -->
   <CannotCarry>Nem szállítható: {0_label}</CannotCarry>
+  <!-- EN: hostile -->
+  <CarriedPawnHostile>TODO</CarriedPawnHostile>
   <!-- EN: temporary faction member -->
   <QuestRelated>ideiglenes frakciótag</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
@@ -367,7 +386,7 @@
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>Önmegsemmisítés itt</SelfDestructHere>
   
-  <!-- EN: Drop {1_label} -->
+  <!-- EN: Drop {1_labelShort} -->
   <Drop>Dobd el ezt: {1_label}</Drop>
 
   <!-- EN: Rest until healed -->
@@ -383,8 +402,12 @@
   
   <!-- EN: Trade with {0} -->
   <TradeWith>Kereskedj vele: {0}</TradeWith>
+  <!-- EN: Dismiss trader -->
+  <DismissTrader>TODO</DismissTrader>
   <!-- EN: Cannot trade -->
   <CannotTrade>Nem lehet kereskedni</CannotTrade>
+  <!-- EN: Trader dismissed -->
+  <TraderDismissed>TODO</TraderDismissed>
 
   <!-- EN: Open {0_label} -->
   <Open>Kinyit: {0_label}</Open>
@@ -409,6 +432,19 @@
   <OfferGifts>Ajándékozás</OfferGifts>
   <!-- EN: Trade with {0} -->
   <TradeWithSettlement>Kereskedés vele: {0}</TradeWithSettlement>
+  
+  <!-- EN: Enter {0} -->
+  <EnterPortal>TODO</EnterPortal>
+  <!-- EN: Entering {0} -->
+  <EnteringPortal>TODO</EnteringPortal>
+  <!-- EN: Enter {0} -->
+  <CommandEnterPortal>TODO</CommandEnterPortal>
+  <!-- EN: Select people and items to enter the {0}. -->
+  <CommandEnterPortalDesc>TODO</CommandEnterPortalDesc>
+  <!-- EN: Cancel entering -->
+  <CommandCancelEnterPortal>TODO</CommandCancelEnterPortal>
+  <!-- EN: Cancel loading people or items into this. -->
+  <CommandCancelEnterPortalDesc>TODO</CommandCancelEnterPortalDesc>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
@@ -553,6 +589,11 @@
 
   <!-- EN: Cannot enter -->
   <CannotEnter>Nem lehet belépni</CannotEnter>
+  
+  <!-- EN: Cannot enter {0} -->
+  <CannotEnterPortal>TODO</CannotEnterPortal>
+  <!-- EN: closed -->
+  <PortalClosed>TODO</PortalClosed>
 
   <!-- Romance partner -->
   <!-- EN: Cannot romance {0} -->
@@ -563,5 +604,26 @@
   <!-- Feeding -->
   <!-- EN: disliked food -->
   <WarningFoodDisliked>nem kedvelt étel</WarningFoodDisliked>
+  <!-- EN: Unsuitable food -->
+  <FoodNotSuitable>TODO</FoodNotSuitable>
 
+  <!-- EN: Unsuitable drug -->
+  <DrugNotSuitable>TODO</DrugNotSuitable>
+  
+  <!-- Books -->
+  <!-- EN: Assign reading... -->
+  <AssignReading>TODO</AssignReading>
+  <!-- EN: Read {0} -->
+  <AssignReadNow>TODO</AssignReadNow>
+  <!-- EN: Cannot read {0} -->
+  <AssignCannotReadNow>TODO</AssignCannotReadNow>
+
+  <!-- EN: Prioritize extinguishing fires -->
+  <ExtinguishFiresNearby>TODO</ExtinguishFiresNearby>
+
+  <!-- Analysis -->
+  <!-- EN: already analyzed -->
+  <AlreadyAnalyzed>TODO</AlreadyAnalyzed>
+  <!-- EN: no reachable, un-reserved research bench available -->
+  <NoResearchBench>TODO</NoResearchBench>
 </LanguageData>

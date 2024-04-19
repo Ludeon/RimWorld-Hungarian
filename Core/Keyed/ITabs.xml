@@ -48,8 +48,14 @@
   <TabFormingCaravan>Karaván</TabFormingCaravan>
   <!-- EN: Contents -->
   <TabTransporterContents>Rakomány</TabTransporterContents>
+  <!-- EN: Travel -->
+  <TabMapPortalContents>TODO</TabMapPortalContents>
   <!-- EN: Contents -->
   <TabCasketContents>Tartalom</TabCasketContents>
+  <!-- EN: Details -->
+  <TabBookContents>TODO</TabBookContents>
+  <!-- EN: Study -->
+  <TabStudyNotesContents>TODO</TabStudyNotesContents>
   <!-- EN: Auto-cut -->
   <TabWindTurbineAutoCut>Kivágás</TabWindTurbineAutoCut>
   
@@ -82,6 +88,8 @@
   <PasteBillTip>Beilleszt</PasteBillTip>
   <!-- EN: can't add more -->
   <PasteBillTip_LimitReached>nem lehet ennél több</PasteBillTip_LimitReached>
+  <!-- EN: Finishes in -->
+  <FinishesIn>TODO</FinishesIn>
 
   <!-- Guest/prisoner tab -->
   <!-- EN: Resistance -->
@@ -104,9 +112,9 @@
   <NotWhileAsleep>Nem alvás közben</NotWhileAsleep>
   <!-- EN: Breaking out now -->
   <CurrentlyPrisonBreaking>Szökés most</CurrentlyPrisonBreaking>
-  <!-- EN: Multiplier for door count -->
+  <!-- EN: Door count -->
   <FactorForDoorCount>Az ajtók számának szorzója</FactorForDoorCount>
-  <!-- EN: Multiplier for movement -->
+  <!-- EN: Movement -->
   <FactorForMovement>Szorzó a mozgáshoz</FactorForMovement>
   <!-- EN: Slave price -->
   <SlavePrice>Rabszolga ár</SlavePrice>
@@ -136,8 +144,8 @@
   <NonRecruitable>TODO</NonRecruitable>
   <!-- EN: This prisoner is so unwaveringly loyal to their home that they refuse to be recruited entirely. -->
   <NonRecruitableTip>TODO</NonRecruitableTip>
-  <!-- EN: Their loyalty extends to their beliefs and they cannot be converted. -->
-  <NonRecruitableTipCannotConvert>TODO</NonRecruitableTipCannotConvert>
+  <!-- EN: What type of medicine can be given to this prisoner. -->
+  <MedicineQualityDescriptionPrisoner>TODO</MedicineQualityDescriptionPrisoner>
 
 
 
@@ -213,13 +221,19 @@
   <PainFactor>Fájdalom</PainFactor>
   <!-- EN: Prevents infection -->
   <PreventsInfection>Fertőzés megelőzése</PreventsInfection>
-  <!-- EN: Self-tend -->
-  <SelfTend>Önellátás</SelfTend>
+  <!-- EN: Allow self-tend -->
+  <AllowSelfTend>TODO</AllowSelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <SelfTendTip>{0}, akiknél az önellátás engedélyezve van, {1} hatékonysággal látják el magukat.</SelfTendTip>
+  <AllowSelfTendTip>TODO</AllowSelfTendTip>
   <!-- EN: death in {0} -->
   <DeathIn>halott {0} múlva</DeathIn>
-  
+  <!-- EN: Allow medicine -->
+  <AllowMedicine>TODO</AllowMedicine>
+  <!-- EN: What type of medicine can be given to this person. -->
+  <MedicineQualityDescription>TODO</MedicineQualityDescription>
+  <!-- EN: What type of food can be given to this person. -->
+  <FoodRestrictionDescription>TODO</FoodRestrictionDescription>
+
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
   <None>Semmi</None>
@@ -268,7 +282,7 @@
   <Lent>Kölcsönadva nekik: {FACTION_name}, visszatér {1} múlva</Lent>
   <!-- EN: Missing -->
   <Missing>Eltűnt</Missing>
-  <!-- EN: Slave -->
+  <!-- EN: slave -->
   <Slave>Rabszolga</Slave>
   <!-- EN: Faction leader -->
   <FactionLeader>Frakcióvezér</FactionLeader>
@@ -422,5 +436,17 @@
 
   <!-- EN: Auto-cut blocking plants -->
   <WindTurbineAutoCut_EnabledCheckbox>Automatikusan vágott növények blokkolják a szélturbinát</WindTurbineAutoCut_EnabledCheckbox>
+  
+  <!-- Study tab  -->
+  <!-- EN: Study progress -->
+  <StudyNotesTab_StudyProgress>TODO</StudyNotesTab_StudyProgress>
+  <!-- EN: Ongoing -->
+  <StudyNotesTab_StudyProgressOngoing>TODO</StudyNotesTab_StudyProgressOngoing>
+  <!-- EN: Completed -->
+  <StudyNotesTab_StudyProgressCompleted>TODO</StudyNotesTab_StudyProgressCompleted>
+  <!-- EN: Toggle study -->
+  <StudyNotesTab_ToggleStudy>TODO</StudyNotesTab_ToggleStudy>
+  <!-- EN: No discoveries yet -->
+  <StudyNotesTab_NoDiscoveries>TODO</StudyNotesTab_NoDiscoveries>
 
 </LanguageData>

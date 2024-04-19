@@ -382,7 +382,7 @@
   <RangeTo>min, max</RangeTo>
   <!-- EN: No letter -->
   <NoDietCategoryLetter>Nincs jelölés</NoDietCategoryLetter>
-  <!-- EN: Expires in -->
+  <!-- EN: expires in -->
   <ExpiresIn>Lejár ekkor</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
   <CaravanLeaderCaravanName>{1_labelShort} karavánja</CaravanLeaderCaravanName>
@@ -416,6 +416,12 @@
   <PreciousLumpLabel>{0} telér</PreciousLumpLabel>
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>Nincs folyamatban lévő kutatás</NoActiveResearchProjectToFinish>
+  <!-- EN: Current project -->
+  <CurrentProject>TODO</CurrentProject>
+  <!-- EN: Research progress -->
+  <ResearchProgress>TODO</ResearchProgress>
+  <!-- EN: already has {0} -->
+  <AlreadyHasHediff>TODO</AlreadyHasHediff>
   <!-- EN: turret -->
   <Turret>ágyú</Turret>
   <!-- EN: turrets -->
@@ -456,8 +462,6 @@
   <GeneratesResourcesEvery>{0} generálása ilyen időközönként: {1}</GeneratesResourcesEvery>
   <!-- EN: Foliage kill radius -->
   <FoliageKillRadius>Növényzet irtási sugár</FoliageKillRadius>
-  <!-- EN: Radius expand rate -->
-  <RadiusExpandRate>Sugárkiterjedés</RadiusExpandRate>
   <!-- EN: View: {0} -->
   <ViewHyperlink>Megnéz: {0}</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
@@ -560,11 +564,49 @@
   <Size>méret</Size>
   <!-- EN: cost -->
   <Cost>költség</Cost>
+  <!-- EN: Stunned by EMP -->
+  <StunnedByEMP>TODO</StunnedByEMP>
   <!-- EN: Title -->
   <BackstoryTitle>TODO</BackstoryTitle>
   <!-- EN: person -->
   <Person>személy</Person>
-
+  <!-- EN: activated. -->
+  <Activated>TODO</Activated> 
+  <!-- EN: Contains -->
+  <Contains>TODO</Contains>
+  <!-- EN: Hostiles -->
+  <Hostiles>TODO</Hostiles>
+  <!-- EN: Investigate -->
+  <Investigate>TODO</Investigate> 
+  <!-- EN: Activate -->
+  <Activate>TODO</Activate> 
+  <!-- EN: Activation -->
+  <Activation>TODO</Activation> 
+  <!-- EN: complete -->
+  <Complete>TODO</Complete>
+  <!-- EN: Must be imprisoned. -->
+  <RequiresImprisonment>TODO</RequiresImprisonment> 
+  <!-- EN: Prioritize hauling contents -->
+  <HaulFromSource>TODO</HaulFromSource>
+  <!-- EN: Use -->
+  <UseGizmo>TODO</UseGizmo>
+  <!-- EN: Order someone to use the {0}. -->
+  <UseGizmoTooltip>TODO</UseGizmoTooltip>
+  <!-- EN: Choose who should use this -->
+  <UseGizmoMouse>TODO</UseGizmoMouse>
+  <!-- EN: Select target -->
+  <TargetGizmoMouse>TODO</TargetGizmoMouse>
+  <!-- EN: Cannot use this -->
+  <CannotUseGizmoMouse>TODO</CannotUseGizmoMouse>
+  <!-- EN: Buildings -->
+  <Buildings>Épületek</Buildings>
+  <!-- EN: not yet discovered -->
+  <NotYetDiscovered>TODO</NotYetDiscovered>
+  <!-- EN: Crawling to safety. -->
+  <ReportStringCrawlingToSafety>TODO</ReportStringCrawlingToSafety>
+  <!-- EN: Crawling to bed. -->
+  <ReportStringCrawlingToBed>TODO</ReportStringCrawlingToBed>
+  
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
   <UserScanAbility>TODO</UserScanAbility>
@@ -582,8 +624,6 @@
   <ContainsWort>Tartalma {0} / {1} söralap.</ContainsWort>
   <!-- EN: Contains {0} / {1} beer. -->
   <ContainsBeer>Tartalma {0} / {1} sör.</ContainsBeer>
-  <!-- EN: Contains -->
-  <Contains>TODO</Contains>
   <!-- EN: Fermented -->
   <Fermented>Erjesztett</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
@@ -650,6 +690,12 @@
   <NewArea>Új körzet</NewArea>
   <!-- EN: Invert -->
   <InvertArea>Invertálás</InvertArea>
+  <!-- EN: Expand -->
+  <ExpandArea>TODO</ExpandArea>
+  <!-- EN: Shrink -->
+  <ShrinkArea>TODO</ShrinkArea>
+  <!-- EN: Maximum {0} areas allowed. -->
+  <MaxAreasReached>TODO</MaxAreasReached>
 
   <!-- Animal pens -->
   <!-- EN: Unenclosed -->
@@ -690,6 +736,9 @@
   <PenExampleAnimals>Példa állatok</PenExampleAnimals>
   <!-- EN: No exterior access - Animals cannot be moved in or out. -->
   <NoExteriorAccess>Nincs külső hozzáférés – az állatokat nem lehet ki- és bevinni.</NoExteriorAccess>
+  
+  <!-- EN: Must be connected to walls on both sides to function. -->
+  <DoorMustBeEnclosedByWalls>TODO</DoorMustBeEnclosedByWalls>
 
   <!-- Cell Inspector -->
   <!-- EN: Beauty -->
@@ -748,6 +797,8 @@
   <IsNotDrafted>{1_labelShort} nincs besorozva.</IsNotDrafted>
   <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
   <ApparelPreventsShooting>TODO</ApparelPreventsShooting>
+  <!-- EN: Cannot use in {0} -->
+  <CannotUseReason_PocketMap>TODO</CannotUseReason_PocketMap>
 
   <!-- Snow -->
   <!-- EN: Snow -->
@@ -784,7 +835,7 @@
   <OrderActivation>Utasít aktiválásra</OrderActivation>
   <!-- EN: Order a colonist to activate {THING_definite}. -->
   <OrderActivationDesc>Gyarmatosító utasítása {THING_definite} aktiválására.</OrderActivationDesc>
-  <!-- EN: Must be activated by a colonist. -->
+  <!-- EN: Send a colonist to activate this. -->
   <MustBeActivatedByColonist>Egy telepesnek kell aktiválnia.</MustBeActivatedByColonist>
   <!-- EN: No nearby fire -->
   <NoNearbyFire>Nincs a közelben tűz</NoNearbyFire>
@@ -842,6 +893,10 @@
   <CarriedBy>{0_labelShort} cipeli.</CarriedBy> 
   <!-- EN: inside {0_labelShort}. -->
   <InContainer>belül: {0_labelShort}.</InContainer> 
+  <!-- EN: downed, cannot crawl. -->
+  <DownedCannotCrawl>TODO</DownedCannotCrawl> 
+  <!-- EN: downed, unconscious. -->
+  <DownedUnconscious>TODO</DownedUnconscious> 
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
@@ -982,7 +1037,7 @@
   <!-- Power readout -->
   <!-- EN: Not connected to power. -->
   <PowerNotConnected>Nincs áramellátása.</PowerNotConnected>
-  <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
+  <!-- EN: Grid excess: {0} W ({1} Wd stored) -->
   <PowerConnectedRateStored>Feles/tárolt: {0} W / {1} Wd</PowerConnectedRateStored>
   <!-- EN: Power needed -->
   <PowerNeeded>Szükséges energia</PowerNeeded>
@@ -1022,12 +1077,12 @@
   <RotStateRotting>Rohadó</RotStateRotting>
   <!-- EN: Dessicated -->
   <RotStateDessicated>Kiszáradt</RotStateDessicated>
-  <!-- EN: Frozen (won't spoil) -->
-  <CurrentlyFrozen>Fagyott (nem romlik)</CurrentlyFrozen>
-  <!-- EN: Refrigerated (spoils in {0}) -->
-  <CurrentlyRefrigerated>Hűtött ({0} múlva megromlik)</CurrentlyRefrigerated>
-  <!-- EN: Not refrigerated (spoils in {0}) -->
-  <NotRefrigerated>Nem hűtött ({0} múlva megromlik)</NotRefrigerated>
+  <!-- EN: Frozen -->
+  <CurrentlyFrozen>Fagyott (nem romlik)</CurrentlyFrozen> 
+  <!-- EN: Refrigerated, spoils in {0} -->
+  <CurrentlyRefrigerated>Hűtött ({0} múlva megromlik)</CurrentlyRefrigerated> 
+  <!-- EN: Unrefrigerated, spoils in {0} -->
+  <NotRefrigerated>Nem hűtött ({0} múlva megromlik)</NotRefrigerated> 
   <!-- EN: over a decade -->
   <OverADecade>több, mint egy évtized</OverADecade>
   <!-- EN: less than a day -->
@@ -1110,12 +1165,22 @@
   <Stockpile>Raktárterület</Stockpile>
   <!-- EN: Dumping stockpile zone -->
   <DumpingStockpile>Szemétdomb</DumpingStockpile>
+  <!-- EN: Corpse stockpile zone -->
+  <CorpseStockpile>TODO</CorpseStockpile>
   <!-- EN: Priority -->
   <Priority>Prioritás</Priority>
   <!-- EN: Clear all -->
   <ClearAll>Semmi</ClearAll>
   <!-- EN: Allow all -->
   <AllowAll>Mind</AllowAll>
+  
+  <!-- Storage Groups -->
+  <!-- EN: Group -->
+  <StorageGroup>TODO</StorageGroup>
+  <!-- EN: Name -->
+  <StorageLabel>TODO</StorageLabel>
+  <!-- EN: Storage group -->
+  <StorageGroupLabel>TODO</StorageGroupLabel>
 
   <!-- ThingFilter -->
   <!-- EN: {0} hit points -->
@@ -1128,6 +1193,14 @@
   <!-- Mouseover indicator -->
   <!-- EN: Undiscovered -->
   <Undiscovered>Felfedezetlen</Undiscovered>
+  
+  <!-- Animal management -->
+  <!-- EN: Are you sure you want to sterilize {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
+  <AnimalSterilizeConfirm>TODO</AnimalSterilizeConfirm>
+  <!-- EN: Are you sure you want to slaughter {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
+  <AnimalSlaughterConfirm>TODO</AnimalSlaughterConfirm>
+  <!-- EN: Are you sure you want to release {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
+  <AnimalReleaseConfirm>TODO</AnimalReleaseConfirm>
 
   <!-- Buttons -->
   <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
@@ -1167,6 +1240,10 @@
   <!-- EN: Toggle heat overlay. This shows the air temperature in each room and outdoors.\n\nColonists will be unhappy if the temperature is too high or too low. Exposure to extreme temperatures can lead to hypothermia, frostbite, heatstroke, burns, and death. -->
   <ShowTemperatureOverlayToggleButton>Hőmérséklet jelző váltása. Ez mutatja a levegő hőmérsékletét minden szobában és a szabadban.\n\nA telepesek boldogtalanok lesznek, ha a hőmérséklet túl magas vagy túl alacsony. A szélsőséges hőmérsékletnek való kitettség hipotermiához, fagyáshoz, hőgutához, égési sérülésekhez és halálhoz vezethet.</ShowTemperatureOverlayToggleButton>
 
+  <!-- Hotkeys -->
+  <!-- EN: Hotkey -->
+  <HotKeyTip>TODO</HotKeyTip>
+  
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
   <FireOn>{1_label} ég</FireOn>
@@ -1202,6 +1279,12 @@
   <MustPlaceUnroofed>Tető alá nem tehető.</MustPlaceUnroofed>
   <!-- EN: Must be placed under thick roof. -->
   <MustPlaceUnderThickRoof>TODO</MustPlaceUnderThickRoof>
+  <!-- EN: Must be placed against a wall. -->
+  <MustPlaceOnWall>TODO</MustPlaceOnWall>
+  <!-- EN: Something is already placed on this wall. -->
+  <SomethingPlacedOnThisWall>TODO</SomethingPlacedOnThisWall>
+  <!-- EN: This building can not support attachments. -->
+  <CannotSupportAttachment>TODO</CannotSupportAttachment>
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>A fejének csatlakoznia kell a hajó gerincéhez.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
@@ -1255,7 +1338,7 @@
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>Komponens nem kész</ShipReportNotReady>
   <!-- EN: No settlement to return to. Form a settlement first. -->
-  <ShipNoSettlementToReturnTo>TODO</ShipNoSettlementToReturnTo>
+  <ShipNoSettlementToReturnTo>TODO</ShipNoSettlementToReturnTo> 
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarning>Charlon Whitestone kész rá, hogy elkezdje a reaktor felélesztését.\n\nCharlon Whitestone figyelmeztet, hogy az indítási folyamat 15 napot vesz igénybe, és a felszabaduló energia messziről érzékelhető lesz. Az ilyen energiakitörés csillagközi utazásra képes eszközt jelent, ami ide fogja vonzani a banditákat és kincsvadászokat. Készülj fel a fogadásukra.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
@@ -1322,6 +1405,8 @@
   <Mood_Happy>boldog</Mood_Happy>
 
   <!-- Game over -->
+  <!-- EN: Game Over -->
+  <GameOver>TODO</GameOver>
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
   <GameOverEveryoneDead>Mindenki halott vagy eltávozott. Ennek a történetnek vége.\n\nTalán valaki más hasznosnak találja majd ezeket a romokat.</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
@@ -1336,10 +1421,20 @@
   <GameOverColonistsLeft>A következő gyarmatosok maradtak hátra:\n\n{0}</GameOverColonistsLeft>
   <!-- EN: In memory of:\n -->
   <GameOverInMemoryOf>A következők emlékére:\n</GameOverInMemoryOf>
-  <!-- EN: Keep playing -->
-  <GameOverKeepPlaying>Játék folytatása</GameOverKeepPlaying>
+  <!-- EN: Keep watching -->
+  <GameOverKeepWatching>TODO</GameOverKeepWatching>
+  <!-- EN: Keep watching for now -->
+  <GameOverKeepWatchingForNow>TODO</GameOverKeepWatchingForNow>
+  <!-- EN: Create new wanderers -->
+  <GameOverCreateNewWanderers>TODO</GameOverCreateNewWanderers>
+  <!-- EN: Create new wanderers (must wait {0}h) -->
+  <GameOverCreateNewWanderersWait>TODO</GameOverCreateNewWanderersWait>
+  <!-- EN: Everyone is dead or gone. Perhaps someone will find a use for the ruins of this place.\n\nChoose new wanderers arrive at your colony and continue the story. -->
+  <GameOverCreateNewWanderersText>TODO</GameOverCreateNewWanderersText>
   <!-- EN: Main menu -->
   <GameOverMainMenu>Főmenü</GameOverMainMenu>
+  <!-- EN: No colony -->
+  <NoColony>TODO</NoColony>
 
   <!-- Generic lifespan -->
   <!-- EN: Expires in: -->
@@ -1352,6 +1447,10 @@
   <FacilityPotentiallyLinkedTo>TODO</FacilityPotentiallyLinkedTo>
   <!-- EN: Not linked to a building -->
   <FacilityNoPotentialLinks>TODO</FacilityNoPotentialLinks>
+  <!-- EN: Max connected per building -->
+  <FacilityMaxSimultaneousConnections>TODO</FacilityMaxSimultaneousConnections>
+  <!-- EN: Front of building is blocked. -->
+  <FacilityFrontBlocked>TODO</FacilityFrontBlocked>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
@@ -1540,6 +1639,10 @@
   <Reward_CampLoot>mindent kifoszthatsz a táborból</Reward_CampLoot>
   <!-- EN: Camp loot -->
   <Reward_CampLoot_Label>Tábori zsákmány</Reward_CampLoot_Label>
+  <!-- EN: It is unclear what will happen if you accept this quest -->
+  <Reward_Unknown>TODO</Reward_Unknown> 
+  <!-- EN: Unknown -->
+  <Reward_Unknown_Label>TODO</Reward_Unknown_Label> 
   <!-- EN: the visitors will work and fight for you -->
   <Reward_VisitorsHelp>a látogatók dolgoznak és harcolnak érted</Reward_VisitorsHelp>
   <!-- EN: Visitors' help -->
@@ -1603,9 +1706,16 @@
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>TODO</CausedByHediff>
   
+  <!-- EN: {DAMAGE_label} weakness -->
+  <DamageFactorWeakness>TODO</DamageFactorWeakness>
+  <!-- EN: {DAMAGE_label} resistance -->
+  <DamageFactorResistance>TODO</DamageFactorResistance>
+  <!-- EN: {DAMAGE_label} damage that this creature receives is multiplied by this amount. -->
+  <DamageFactor>TODO</DamageFactor>
+  
   <!-- Healing -->
-  <!-- EN: {0_nameDef}'s {1} was cured. -->
-  <HealingCureHediff>{0_nameDef} {1} betegsége meggyógyult.</HealingCureHediff>
+  <!-- EN: {0_nameDef}'s {1} was healed. -->
+  <HealingHealHediff>TODO</HealingHealHediff>
   <!-- EN: {0_nameDef}'s {1} was restored. -->
   <HealingRestoreBodyPart>{0_nameDef} {1} testrésze visszaállítva.</HealingRestoreBodyPart>
 
@@ -1614,7 +1724,13 @@
 
   <!-- EN: Choose landing site -->
   <ChooseLandingSite>Válaszd ki a leszállási helyet</ChooseLandingSite>
-  
+
+  <!-- LordJobs -->
+  <!-- EN: Outcome chances at {0} quality -->
+  <LordJobOutcomeChances>TODO</LordJobOutcomeChances>
+  <!-- EN: Expected duration -->
+  <ExpectedLordJobDuration>TODO</ExpectedLordJobDuration>
+
   <!-- Rituals -->
   <!-- EN: ritual -->
   <Ritual>szertartás</Ritual>
@@ -1673,8 +1789,6 @@
   <RitualOutcomeQualityAbstract>{0} minősége függ</RitualOutcomeQualityAbstract>
   <!-- EN: {0} total quality was {1}, determined by these factors -->
   <RitualOutcomeQualitySpecific>{0} teljes minősége {1} volt, ezek a tényezők határozták meg</RitualOutcomeQualitySpecific>
-  <!-- EN: Outcome chances at {0} quality -->
-  <RitualOutcomeChances>Eredményesélyek {0} minőségnél</RitualOutcomeChances>
   <!-- EN: Performed recently -->
   <RitualOutcomePerformedRecently>TODO</RitualOutcomePerformedRecently>
   <!-- EN: {0} expectations -->
@@ -1691,9 +1805,7 @@
   <RitualOutcomeExtraDesc_Mood>TODO</RitualOutcomeExtraDesc_Mood>
   <!-- EN: This ritual has no quality offsets, so the best outcome is always expected -->
   <RitualOutcomeNoQuality>TODO</RitualOutcomeNoQuality>
-  
-  <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
-  <ChooseParticipants>Válaszd ki, hogy ki vegyen részt a {RITUAL_labelDef} szertartásban.</ChooseParticipants>
+
   <!-- EN: Begin -->
   <Begin>Megkezd</Begin>
   <!-- EN: Begin {0} -->
@@ -1710,12 +1822,9 @@
   <!-- EN: Ritual seat of {IDEOS} -->
   <RitualSeatOf>{IDEOS} szertartási helye</RitualSeatOf>
   <!-- EN: Expected quality -->
-  <ExpectedRitualQuality>Elvárt minőség</ExpectedRitualQuality>
+  <ExpectedLordJobQuality>TODO</ExpectedLordJobQuality>
   <!-- EN: Starting quality -->
   <StartingQuality>Kezdeti minőség</StartingQuality>
-  <!-- EN: Expected duration -->
-  <ExpectedRitualDuration>Várható időtartam</ExpectedRitualDuration>
-  
   <!-- EN: {PAWN_labelShort}'s {1} -->
   <RitualPredictedOutcomeDescPawnStat>TODO</RitualPredictedOutcomeDescPawnStat>
   <!-- EN: Room beauty -->
@@ -1730,7 +1839,7 @@
   <RitualOutcomeLovedOnePresentTip>TODO</RitualOutcomeLovedOnePresentTip>
 
   <!-- EN: Any of these -->
-  <RitualOutcomeLabelAnyOfThese>Ezek bármelyike</RitualOutcomeLabelAnyOfThese>
+  <RitualOutcomeLabelAnyOfThese>TODO</RitualOutcomeLabelAnyOfThese>
   <!-- EN: Replaces {PAWN_labelShort} -->
   <RitualRoleReplaces>TODO</RitualRoleReplaces>
 
@@ -1764,16 +1873,22 @@
   <ToxGas>mérgező gáz</ToxGas>
   <!-- EN: rot stink -->
   <RotStink>rothadás bűz</RotStink>
+  <!-- EN: deadlife dust -->
+  <DeadlifeDust>TODO</DeadlifeDust> 
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->
   <AbilityDisabledUndrafted>TODO</AbilityDisabledUndrafted>
   <!-- EN: ability on cooldown. It will be available in {0}. -->
   <AbilityOnCooldown>TODO</AbilityOnCooldown>
+  <!-- EN: ability out of charges. -->
+  <AbilityNoCharges>TODO</AbilityNoCharges>
   <!-- EN: ability already queued. -->
   <AbilityAlreadyQueued>TODO</AbilityAlreadyQueued>
-  <!-- EN: Ability ready: {0} -->
+  <!-- EN: Ability ready for {PAWN_nameDef}: {0} -->
   <AbilityReadyLabel>TODO</AbilityReadyLabel>
+  <!-- EN: Abilities ready for {PAWN_nameDef}: {0} -->
+  <AbilitiesReadyLabel>TODO</AbilitiesReadyLabel>
   <!-- EN: {0_nameDef} is ready to use {1}. -->
   <AbilityReadyText>TODO</AbilityReadyText>
   <!-- EN: {0_labelShort} is participating in {1}. -->
@@ -1781,11 +1896,15 @@
   <!-- EN: Charges -->
   <Charges>TODO</Charges>
 
-  <!-- EN: {0_nameDef} is in an aggressive mental state. -->
+  <!-- EN: {0_nameDef} is in a mental state. -->
   <PawnIsInMentalState>TODO</PawnIsInMentalState>
+  <!-- EN: {0_nameDef} is in an aggressive mental state. -->
+  <PawnIsInAggroMentalState>TODO</PawnIsInAggroMentalState>
 
   <!-- EN: Disabled work -->
   <DisabledWorkLabel>TODO</DisabledWorkLabel>
+  <!-- EN: Disabled needs -->
+  <DisabledNeedsLabel>TODO</DisabledNeedsLabel>
 
   <!-- Glowers -->
   <!-- EN: change color -->
@@ -1820,5 +1939,88 @@
   <AbilitySpeechCooldown>TODO</AbilitySpeechCooldown>
   <!-- EN: Initiated at -->
   <AbilitySpeechTargetsLabel>TODO</AbilitySpeechTargetsLabel>
+  
+  <!-- Books -->
 
+  <!-- EN: Benefits -->
+  <Benefits>TODO</Benefits>
+  <!-- EN: Dangers -->
+  <Dangers>TODO</Dangers>
+  <!-- EN: already unlocked -->
+  <AlreadyUnlocked>TODO</AlreadyUnlocked>
+  <!-- EN: when discovered -->
+  <WhenDiscovered>TODO</WhenDiscovered>
+  
+  <!-- EN: Was driven into a mental break after reading {0}. -->
+  <BookMentalBreakMessage>TODO</BookMentalBreakMessage>
+  <!-- EN: {0} done (complete in {1} hours) -->
+  <BookReadProgress>TODO</BookReadProgress>
+  
+  <!-- EN: learning speed -->
+  <BookLearningModifier>TODO</BookLearningModifier>
+  <!-- EN: Mental break chance -->
+  <BookMentalBreak>TODO</BookMentalBreak>
+  
+  <!-- EN: {BOOK_labelShort} is not readable -->
+  <BookNotReadable>TODO</BookNotReadable>
+  <!-- EN: {PAWN_nameDef} can't read -->
+  <BookCantRead>TODO</BookCantRead>
+  <!-- EN: {PAWN_nameDef} must be a {STAGES} -->
+  <BookCantBeStage>TODO</BookCantBeStage>
+  <!-- EN: {PAWN_nameDef} is blind -->
+  <BookBlind>TODO</BookBlind>
+  
+  <!-- EN: max level {0} -->
+  <BookMaxLevel>TODO</BookMaxLevel>
+  
+  <!-- EN: Reading {0}: {1} done (complete in {2} hours) -->
+  <ReadingReportHeader>TODO</ReadingReportHeader>
+  
+  <!-- EN: Assign reading -->
+  <ReadingDialogTitle>TODO</ReadingDialogTitle>
+  <!-- EN: Assign to {0} -->
+  <ReadingAssignTo>TODO</ReadingAssignTo>
+  <!-- EN: Assign -->
+  <ReadingAssign>TODO</ReadingAssign>
+
+  <!-- EN: The books currently on this bookshelf. -->
+  <ContainedBooksDesc>TODO</ContainedBooksDesc>
+  
+  <!-- EN: Books stored -->
+  <BookshelfStoredInspect>TODO</BookshelfStoredInspect>
+  <!-- EN: Reading bonus in room -->
+  <BookshelfReadingBonusInspect>TODO</BookshelfReadingBonusInspect>
+
+  <!-- EN: Remove this book from the bookshelf. -->
+  <EjectBookTooltip>TODO</EjectBookTooltip>
+  
+  <!-- Pushing -->
+  <!-- EN: Push to... -->
+  <CommandPushTo>TODO</CommandPushTo>
+  <!-- EN: requires {0} -->
+  <RequiredCapacity>TODO</RequiredCapacity>
+  
+  <!-- EN: Unable to enter {0}, destination is blocked -->
+  <UnableToEnterPortal>TODO</UnableToEnterPortal>
+
+  <!-- EN: This category of research has not been discovered. -->
+  <ResearchNotDiscovered>TODO</ResearchNotDiscovered>
+
+  <!-- EN: Emergence -->
+  <Emergence>TODO</Emergence>
+  
+  <!-- EN: remove {0} -->
+  <RemovePart>TODO</RemovePart>
+
+  <!-- EN: {GERUND} {TARGETLABEL} at -->
+  <DoWorkAtThing>TODO</DoWorkAtThing>
+  <!-- EN: can be studied in {0} -->
+  <CanBeStudiedInDuration>TODO</CanBeStudiedInDuration>
+  
+  <!-- EN: About to explode -->
+  <AboutToExplode>TODO</AboutToExplode>
+  
+  <!-- EN: New Anomaly expansion available now! -->
+  <MainScreen_AnomalyAvailableNow>TODO</MainScreen_AnomalyAvailableNow>
+  
 </LanguageData>

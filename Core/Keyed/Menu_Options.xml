@@ -30,6 +30,8 @@
   <!-- Gameplay -->
   <!-- EN: Screen-edge mouse scroll -->
   <EdgeScreenScroll>Görgetés egérrel a széleken</EdgeScreenScroll>
+  <!-- EN: Zoom to mouse -->
+  <ZoomToMouse>TODO</ZoomToMouse>
   <!-- EN: Pause on load -->
   <PauseOnLoad>Betöltés után leáll</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
@@ -62,12 +64,14 @@
   <DevelopmentMode>Fejlesztő mód</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Modkonfig autoreset összeomlásnál</ResetModsConfigOnCrash>
-  <!-- EN: Simulate not owning Royalty -->
-  <SimulateNotOwningRoyalty>Szimulálni, hogy nincs meg a Királyság DLC</SimulateNotOwningRoyalty>
-  <!-- EN: Simulate not owning Ideology -->
-  <SimulateNotOwningIdeology>Szimulálni, hogy nincs meg az Ideológia DLC</SimulateNotOwningIdeology>
-  <!-- EN: Simulate not owning Biotech -->
-  <SimulateNotOwningBiotech>Szimulálni, hogy nincs meg a Biotech DLC</SimulateNotOwningBiotech>
+  <!-- EN: Quick start has no cryptosleep sickness -->
+  <DisableQuickStartCryptoSickness>TODO</DisableQuickStartCryptoSickness>
+  <!-- EN: Start game with dev palette on -->
+  <StartDevPaletteOn>TODO</StartDevPaletteOn>
+  <!-- EN: Open log on warnings -->
+  <OpenLogOnWarnings>TODO</OpenLogOnWarnings>
+  <!-- EN: Close log by pressing cancel -->
+  <CloseLogWindowOnEscape>TODO</CloseLogWindowOnEscape>
   <!-- EN: Verbose logging -->
   <LogVerbose>Bővebb naplózás</LogVerbose>
   <!-- EN: Save data folder -->
@@ -102,10 +106,14 @@
   <TemperatureMode>Hőmérséklet skála</TemperatureMode>
   <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>Valós idő mutatása</ShowRealtimeClock>
+  <!-- EN: Use 12 hour clock -->
+  <TwelveHourClockMode>TODO</TwelveHourClockMode>
   <!-- EN: Disable tiny font -->
   <DisableTinyText>Apró betűtípus letiltása</DisableTinyText>
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>Kolóniák maximális száma: {0}</MaxNumberOfPlayerSettlements>
+  <!-- EN: Autosaves count: {0} -->
+  <AutosavesCount>TODO</AutosavesCount>
   <!-- EN: Map mouse drag sensitivity -->
   <MapDragSensitivity>Térkép egér húzási érzékenysége</MapDragSensitivity>
   <!-- EN: Plant wind sway -->

@@ -11,12 +11,16 @@
   <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
   <Execution.description>Egy felügyelő a foglyot a helyszínen egy csapással kivégzi. Ez befolyásolhatja más foglyok és a telepesek hangulatát.</Execution.description>
   
-  <!-- EN: no interaction -->
+  <!-- EN: maintain only -->
+  <MaintainOnly.label>TODO</MaintainOnly.label>
+  <!-- EN: Just feed the prisoner and provide for their basic needs, without attempting any other interaction. -->
+  <MaintainOnly.description>TODO</MaintainOnly.description>
+  
+  <!-- UNUSED -->
   <NoInteraction.label>semmi</NoInteraction.label>
-  <!-- EN: Wardens will not interact with the prisoner. -->
   <NoInteraction.description>A felügyelők nem lépnek kapcsolatba a fogollyal.</NoInteraction.description>
   
-  <!-- EN: reduce resistance -->
+  <!-- EN: reduce resistance only -->
   <ReduceResistance.label>ellenállás megtörés</ReduceResistance.label>
   <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
   <ReduceResistance.description>Ha a fogoly továbbra is ellenállást tanúsít, a felügyelők beszélnek velük, hogy csökkentsék azt. Toborzási kísérletre nem kerül sor.</ReduceResistance.description>
