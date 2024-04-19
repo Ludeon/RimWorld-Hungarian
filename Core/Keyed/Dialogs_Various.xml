@@ -935,41 +935,41 @@
   
   <!-- Policies -->
   <!-- EN: Available policies -->
-  <AvailablePolicies>TODO</AvailablePolicies>
+  <AvailablePolicies>Rendelkezésre álló szabályzatok</AvailablePolicies>
   <!-- EN: Unnamed -->
-  <UnnamedPolicy>TODO</UnnamedPolicy>
+  <UnnamedPolicy>Névtelen</UnnamedPolicy>
   <!-- EN: New... -->
-  <NewPolicy>TODO</NewPolicy>
+  <NewPolicy>Új...</NewPolicy>
   <!-- EN: Invalid policy name -->
-  <InvalidName>TODO</InvalidName>
+  <InvalidName>Érvénytelen szabályzatnév</InvalidName>
   <!-- EN: Delete the selected policy. -->
-  <DeletePolicyTip>TODO</DeletePolicyTip>
+  <DeletePolicyTip>Kiválasztott szabály törlése.</DeletePolicyTip>
   <!-- EN: Create a duplicate of the selected policy. -->
-  <DuplicatePolicyTip>TODO</DuplicatePolicyTip>
+  <DuplicatePolicyTip>Másolatot a kiválasztott szabályról.</DuplicatePolicyTip>
   <!-- EN: Rename this policy. -->
-  <RenamePolicyTip>TODO</RenamePolicyTip>
+  <RenamePolicyTip>Szabály átnevezése.</RenamePolicyTip>
   <!-- EN: Are you sure you want to delete the policy: {0}? -->
-  <DeletePolicyConfirm>TODO</DeletePolicyConfirm>
+  <DeletePolicyConfirm>Biztosan törlöd a következő szabályt: {0}?</DeletePolicyConfirm>
   <!-- EN: Delete -->
-  <DeletePolicyConfirmButton>TODO</DeletePolicyConfirmButton>
+  <DeletePolicyConfirmButton>Törlés</DeletePolicyConfirmButton>
   <!-- EN: No policy selected -->
-  <NoPolicySelected>TODO</NoPolicySelected>
+  <NoPolicySelected>Nincs kiválasztva szabály</NoPolicySelected>
   
   <!-- Outfit management -->
   <!-- EN: Apparel policies -->
-  <ApparelPolicyTitle>TODO</ApparelPolicyTitle>
+  <ApparelPolicyTitle>Öltözködési szabályok</ApparelPolicyTitle>
   <!-- EN: Create and manage templates for controlling what apparel items colony members can wear. -->
-  <ApparelPolicyTip>TODO</ApparelPolicyTip>
+  <ApparelPolicyTip>Sablonok létrehozása és kezelése annak szabályozására, hogy a kolónia tagjai milyen ruhadarabokat viselhetnek.</ApparelPolicyTip>
   <!-- EN: Apparel policy -->
-  <ApparelPolicy>TODO</ApparelPolicy>
+  <ApparelPolicy>Öltözködési szabály</ApparelPolicy>
   <!-- EN: Apparel policy is in use by {0}. -->
   <OutfitInUse>A felszerelést {0} használja</OutfitInUse>
   
   <!-- Drug policy management -->
   <!-- EN: Drug policies -->
-  <DrugPolicyTitle>TODO</DrugPolicyTitle>
+  <DrugPolicyTitle>Drogszabályok</DrugPolicyTitle>
   <!-- EN: Create and manage templates for controlling which drugs your colonists are allowed to consume. -->
-  <DrugPolicyTip>TODO</DrugPolicyTip>
+  <DrugPolicyTip>Sablonok létrehozása és kezelése annak szabályozására, hogy a gyarmatosítók milyen drogokat fogyaszthatnak.</DrugPolicyTip>
   <!-- EN: Drug policy -->
   <DrugPolicy>Drogszabályok</DrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
@@ -1019,13 +1019,13 @@
 
   <!-- Food restriction management -->
   <!-- EN: Food policies -->
-  <FoodPolicyTitle>TODO</FoodPolicyTitle>
+  <FoodPolicyTitle>Élelmiszerszabályok</FoodPolicyTitle>
   <!-- EN: Create and manage templates for controlling what food items colony members can eat. -->
-  <FoodPolicyTip>TODO</FoodPolicyTip>
+  <FoodPolicyTip>Sablonok létrehozása és kezelése annak szabályozására, hogy a kolónia tagjai milyen élelmiszereket ehetnek.</FoodPolicyTip>
   <!-- EN: Food policy -->
-  <FoodPolicy>TODO</FoodPolicy>
+  <FoodPolicy>Élelmiszerszabály</FoodPolicy>
   <!-- EN: Allow food -->
-  <AllowFood>TODO</AllowFood>
+  <AllowFood>Étel engedélyezése</AllowFood>
   <!-- EN: Lavish -->
   <FoodRestrictionLavish>Lakoma</FoodRestrictionLavish>
   <!-- EN: Fine -->
@@ -1041,24 +1041,24 @@
   
   <!-- Reading management -->
   <!-- EN: Reading policies -->
-  <ReadingPolicyTitle>TODO</ReadingPolicyTitle>
+  <ReadingPolicyTitle>Olvasási szabályok</ReadingPolicyTitle>
   <!-- EN: Create and manage templates for controlling which books colony members are allowed to read. -->
-  <ReadingPolicyTip>TODO</ReadingPolicyTip>
+  <ReadingPolicyTip>Hozz létre és kezelj sablonokat annak szabályozására, hogy a kolónia tagjai mely könyveket olvashatják.</ReadingPolicyTip>
   <!-- EN: Reading policy -->
-  <ReadingPolicy>TODO</ReadingPolicy>
+  <ReadingPolicy>Olvasási szabály</ReadingPolicy>
   <!-- EN: Reading policy is in use. -->
-  <ReadingPolicyInUse>TODO</ReadingPolicyInUse>
+  <ReadingPolicyInUse>Olvasási szabályzat használatban van.</ReadingPolicyInUse>
 
   <!-- EN: Anything -->
-  <AllReadingPolicy>TODO</AllReadingPolicy>
+  <AllReadingPolicy>Bármi</AllReadingPolicy>
   <!-- EN: None -->
-  <NoneReadingPolicy>TODO</NoneReadingPolicy>
+  <NoneReadingPolicy>Semmi</NoneReadingPolicy>
   <!-- EN: Textbooks -->
-  <TextbookPolicy>TODO</TextbookPolicy>
+  <TextbookPolicy>Tankönyvek</TextbookPolicy>
   <!-- EN: Schematics -->
-  <SchematicPolicy>TODO</SchematicPolicy>
+  <SchematicPolicy>Vázlatok</SchematicPolicy>
   <!-- EN: Novels -->
-  <NovelPolicy>TODO</NovelPolicy>
+  <NovelPolicy>Regények</NovelPolicy>
 
   <!-- Medical settings -->
   <!-- EN: Default medicine settings -->
