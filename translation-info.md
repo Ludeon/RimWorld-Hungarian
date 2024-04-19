@@ -3,12 +3,14 @@
 HA VAN JOBB ÖTLETED, JELEZD! => rimworld@malvern.hu
 
 glitterworld - szupervilág
+
 urbworld - urbánus világ?
 
 certainty - bizonyosság, hitbéli meggyőződés?
+
 spikecore - tüskemagos, trófea?, skalp?
 
-biosculpter pod
+biosculpter pod,
 biosculpter - fiatalító gép? testátalakító gép
 
 cryptosleep - hibernáló kapszula
@@ -70,7 +72,9 @@ sanguophage - vérivó, szanguofág?
 ### PSY
 
 psylink - pszi képesség (pszichikai, mágikus képesség)
+
 psyfocus - pszi fókusz, pszi pont? 
+
 psycasters - pszí használó, pszichaszter?
 
 ### DROGOK
@@ -83,3 +87,8 @@ flake - crack
 
 go-juice - go-juice? (katonai harci drog)
 
+### Anomaly
+
+void - semmi, űr, üresség, talán antianyag vagy kozmikus is lehetne, mert erre épülő fegyverek és ruházat is előjön
+
+momma beast - tenyészanya?
