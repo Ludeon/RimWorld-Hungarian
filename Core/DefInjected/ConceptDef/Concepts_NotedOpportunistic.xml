@@ -12,9 +12,9 @@
   <BillsTab.helpText>Ahhoz, hogy embereid dolgozzanak egy asztalnál, válaszd ki az asztalt és nyisd meg a "Rendelés" panelt. Itt beállíthatod, hogy milyen ételt főzzenek, milyen dolgokat gyártsanak, milyen állatokat dolgozzanak fel.</BillsTab.helpText>
   
   <!-- EN: books -->
-  <Books.label>TODO</Books.label>
+  <Books.label>könyvek</Books.label>
   <!-- EN: Colonists read books for recreation, to gain skills, to unlock research, and more. You can see a specific book's effects by selecting it and opening its 'Details' tab.\n\nTo choose what colonists will read, open the ASSIGN tab and configure READING POLICIES.\n\nStore books in bookcases to passively enhance intellectual and reading work done nearby, and increase the beauty of the bookcase. Bookcases passively increase research speed, XP gained from reading, and recreation gained from reading in the same room. -->
-  <Books.helpText>TODO</Books.helpText>
+  <Books.helpText>A telepesek könyveket olvasnak pihenésként, készségek elsajátítására, kutatások felszabadítására stb. Egy adott könyv hatását úgy tekintheted meg, ha kijelölöd és megnyitod a „Részletek” lapot.\n\nA telepesek olvasnivalóinak kiválasztásához nyisd meg az SZABÁLYOK fület, és állítsd be az OLVASÁSI SZABÁLYOKAT.\n\nTárold a könyveket könyvespolcokon, hogy passzívan javítsd az szellemi és olvasási képességet a közelben, és növeld a könyvespolc szépségét. A könyvespolcok passzívan növelik a kutatás sebességét, az olvasásból nyert XP-t és az ugyanabban a szobában való olvasásból származó kikapcsolódást.</Books.helpText>
   
   <!-- EN: Build orbital trade beacon -->
   <BuildOrbitalTradeBeacon.label>Orbitális jeladó</BuildOrbitalTradeBeacon.label>
@@ -51,7 +51,7 @@
   <!-- EN: Drug policies -->
   <DrugPolicies.label>Drogszabályok</DrugPolicies.label>
   <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
-  <DrugPolicies.helpText>Megadhatod, hogy az emberek bizonyos drogokat csak bizonyos időben szedhessenek be.\n\nPéldául szedethetsz velük rendszeresen fertőzés-megelőző gyógyszert, vagy itathatsz velük napi egy sört.\n\nA Beosztások fülön, a Drogszabályok gombbal készíthetsz új szabályt, amit aztán hozzárendelhetsz embereidhez. A gyarmatosok ettől eltérően is szedhetnek drogot, ha megkívánják. Nem feltétlen hallgatnak rád.</DrugPolicies.helpText>
+  <DrugPolicies.helpText>Megadhatod, hogy az emberek bizonyos drogokat csak bizonyos időben szedhessenek be.\n\nPéldául szedethetsz velük rendszeresen fertőzés-megelőző gyógyszert, vagy itathatsz velük napi egy sört.\n\nA SZABÁLYOK fülön, a Drogszabályok gombbal készíthetsz új szabályt, amit aztán hozzárendelhetsz embereidhez. A gyarmatosok ettől eltérően is szedhetnek drogot, ha megkívánják. Nem feltétlen hallgatnak rád.</DrugPolicies.helpText>
   
   <!-- EN: Positioning fighters -->
   <GroupGotoHereDragging.label>Harcosok elhelyezése</GroupGotoHereDragging.label>
