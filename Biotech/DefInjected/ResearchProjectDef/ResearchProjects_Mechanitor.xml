@@ -13,7 +13,14 @@
     <li>subject_story->was mining an ancient exostrider wreck and found a mechlink preserved in the wreckage</li>
     <li>subject_gerund->creating basic mechanoids</li>
   -->
-  <BasicMechtech.generalRules.rulesStrings>TODO</BasicMechtech.generalRules.rulesStrings>
+  <BasicMechtech.generalRules.rulesStrings>
+    <li>subject->robotok</li>
+    <li>subject_story->gyermekkönyvet írt a robotok alapvető típusairól</li>
+    <li>subject_story->prototípus robot csatolót ültettek belé</li>
+    <li>subject_story->önállóan reprodukálta az alapvető biomechanikus technikákat</li>
+    <li>subject_story->egy ősi lépegető felderítése közben egy bionikus implantátumot talált a roncsban</li>
+    <li>subject_gerund->alapvető robotok létrehozása</li>
+  </BasicMechtech.generalRules.rulesStrings>
   
   <!-- EN: high mechtech -->
   <HighMechtech.label>fejlett robottechnológia</HighMechtech.label>
@@ -41,7 +48,14 @@
     <li>subject_story->collated reports of mechanoid attacks, looking for commonalities</li>
     <li>subject_gerund->creating standard mechanoids</li>
   -->
-  <StandardMechtech.generalRules.rulesStrings>TODO</StandardMechtech.generalRules.rulesStrings>
+  <StandardMechtech.generalRules.rulesStrings>
+    <li>subject->robotok</li>
+    <li>subject_story->kétes körülmények között szerzett jelchipet</li>
+    <li>subject_story->ép jelchipet talált egy Ördög roncsban</li>
+    <li>subject_story->túlélt egy robotkaptár támadást</li>
+    <li>subject_story->jelentéseket gyűjtött össze robot támadásokról, közös vonásokat keresve</li>
+    <li>subject_gerund->szabványos robotok létrehozása</li>
+  </StandardMechtech.generalRules.rulesStrings>
   
   <!-- EN: ultra mechtech -->
   <UltraMechtech.label>ultra robottechnológia</UltraMechtech.label>
@@ -55,12 +69,19 @@
     <li>subject_story->found an ascension diary next to an inert archonexus</li>
     <li>subject_gerund->creating ultra-tier mechanoids</li>
   -->
-  <UltraMechtech.generalRules.rulesStrings>TODO</UltraMechtech.generalRules.rulesStrings>
+  <UltraMechtech.generalRules.rulesStrings>
+    <li>subject->ultraszintű robotok</li>
+    <li>subject_story->üzemen kívüli apokritont talált egy holtvilág roncsai között</li>
+    <li>subject_story->egy roboto feltámasztó apokritont figyelt meg biztonságos távolságból</li>
+    <li>subject_story->rácsapott arra a mély pszichés gyűlöletre, amelyet az apokritonok éreznek az emberiség iránt</li>
+    <li>subject_story->felemelkedési naplót talált egy élettelen archonexus mellett</li>
+    <li>subject_gerund->ultraszintű robotok létrehozása</li>
+  </UltraMechtech.generalRules.rulesStrings>
   
   <!-- EN: wastepack atomizer -->
   <WastepackAtomizer.label>hulladékcsomag porlasztó</WastepackAtomizer.label>
   <!-- EN: Build wastepack atomizers which can safely dispose of toxic wastepacks by decomposing them at the molecular level. -->
-  <WastepackAtomizer.description>Építs hulladékcsomag-porlasztókat, amelyek molekuláris szinten lebontva biztonságosan ártalmatlaníthatják a mérgező hulladékcsomagokat.</WastepackAtomizer.description>
+  <WastepackAtomizer.description>Lehetővé teszi hulladékcsomag-porlasztók építését, amelyek molekuláris szinten lebontva biztonságosan ártalmatlaníthatják a mérgező hulladékcsomagokat.</WastepackAtomizer.description>
   <!-- EN:
     <li>subject->toxic waste atomization</li>
     <li>subject_story->studied safe atomic waste disposal</li>
@@ -69,6 +90,13 @@
     <li>subject_story->observed a toxicworld from orbit</li>
     <li>subject_gerund->constructing wastepack atomizers</li>
   -->
-  <WastepackAtomizer.generalRules.rulesStrings>TODO</WastepackAtomizer.generalRules.rulesStrings>
+  <WastepackAtomizer.generalRules.rulesStrings>
+    <li>subject->mérgező hulladék porlasztása</li>
+    <li>subject_story->tanulmányozta az atomhulladék biztonságos elhelyezését</li>
+    <li>subject_story->feláldozható csapatokat toborzott a napelemes hulladék ártalmatlanítására</li>
+    <li>subject_story->az első alapvetésekből kidolgozta az atomi destabilizáció elméletét</li>
+    <li>subject_story->bolygókörüli pályáról mérgező világot figyelt meg</li>
+    <li>subject_gerund->hulladékcsomag porlasztók építése</li>
+  </WastepackAtomizer.generalRules.rulesStrings>
   
 </LanguageData>

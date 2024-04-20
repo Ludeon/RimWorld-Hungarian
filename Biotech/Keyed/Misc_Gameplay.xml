@@ -78,7 +78,7 @@
   <!-- EN: Loading mech gestation resources -->
   <LoadingMechGestator>Robot gesztációs erőforrások betöltése</LoadingMechGestator>
   <!-- EN: Time left this cycle -->
-  <GestatingInspect>TODO</GestatingInspect>
+  <GestatingInspect>Hátralévő idő a ciklusból</GestatingInspect>
   <!-- EN: Initiating mech gestation cycle -->
   <InitMechGestationCycle>Robot gesztációs ciklus elindítása</InitMechGestationCycle>
   <!-- EN: Initiating mech birth -->
@@ -148,7 +148,7 @@
   <!-- EN: {PAWN_nameDef} is deathresting. -->
   <IsDeathresting>{PAWN_nameDef} mélyalvást végez.</IsDeathresting>
   <!-- EN: cannot deathrest -->
-  <CannotDeathrest>Nem lehet mélyalvásba menni</CannotDeathrest>
+  <CannotDeathrest>nem lehet mélyalvásba menni</CannotDeathrest>
   <!-- EN: Start deathrest -->
   <StartDeathrest>Mélyalvás indítása</StartDeathrest>
   <!-- EN: Safely completing deathrest takes {MINDURATION}, but {PAWN_nameDef} has only been deathresting for {CURDURATION}.\n\nWaking {PAWN_nameDef} now would interrupt {PAWN_possessive} deathrest, throwing {PAWN_possessive} metabolism out of balance and making {PAWN_objective} sick for days to come.\n\nAre you sure you wish to wake {PAWN_objective}? -->
@@ -298,7 +298,7 @@
   <!-- EN: The total complexity of all the genes in use. -->
   <ComplexityTotalDesc>Az összes használt gén teljes bonyolultsága.</ComplexityTotalDesc>
   <!-- EN: metabolic efficiency -->
-  <Metabolism>Anyagcsere hatékonysága</Metabolism>
+  <Metabolism>anyagcsere hatékonysága</Metabolism>
   <!-- EN: The total metabolic efficiency of these genes when assembled. High efficiency means a person needs less food; low efficiency means they must eat more. -->
   <MetabolismDesc>E gének teljes metabolikus hatékonysága összeszerelve. A nagy hatékonyság azt jelenti, hogy egy személynek kevesebb ételre van szüksége; Az alacsony hatékonyság azt jelenti, hogy többet kell ennie.</MetabolismDesc>
   <!-- EN: Metabolic efficiency -->
@@ -482,7 +482,7 @@
   <!-- EN: Gestated {0} -->
   <GestatedMech>{0} előállítva</GestatedMech>
   <!-- EN: Requires {PAWN_nameDef} to continue gestating -->
-  <GestatingMechRequiresMechanitor>TODO</GestatingMechRequiresMechanitor>
+  <GestatingMechRequiresMechanitor>Az előállítás folytatásához {PAWN_nameDef} szükséges</GestatingMechRequiresMechanitor>
   <!-- EN: Requires {PAWN_nameDef} to complete -->
   <GestatedMechRequiresMechanitor>A befejezéshez {PAWN_nameDef} szükséges</GestatedMechRequiresMechanitor>
   <!-- EN: Gestation complete -->

@@ -19,9 +19,9 @@
   <!-- EN: Do you really want to permanently disassemble {0}?\n\nPermanently disassembling {0} will recover -->
   <ConfirmDisassemblingMech>Biztosan véglegesen szétszereled a következőt: {0}?\n\n{0} végleges szétszerelése helyreáll(?)</ConfirmDisassemblingMech>
   <!-- EN: A mechanitor must be capable of smithing to create mechanoids.\n\nAre you sure you want to continue? -->
-  <ConfirmInstallMechlink_Smithing>TODO</ConfirmInstallMechlink_Smithing>
+  <ConfirmInstallMechlink_Smithing>Egy robotmesternek képesnek kell lennie a kovácsolásra, hogy robotokat hozzon létre.\n\nBiztosan folytatod?</ConfirmInstallMechlink_Smithing>
   <!-- EN: A mechanitor must be capable of intellectual tasks to unlock mechanitor research.\n\nAre you sure you want to continue? -->
-  <ConfirmInstallMechlink_Intellectual>TODO</ConfirmInstallMechlink_Intellectual>
+  <ConfirmInstallMechlink_Intellectual>Egy robotmesternek képesnek kell lennie intellektuális feladatok elvégzésére, hogy feloldja a robottechnológiai kutatásokat.\n\nBiztosan folytatod?</ConfirmInstallMechlink_Intellectual>
   <!-- EN: insufficient bandwidth -->
   <InsufficientBandwidth>elégtelen sávszélesség</InsufficientBandwidth>
   <!-- EN: The following mechs have been left behind by {PAWN_labelShort}:\n\n{MECHS}\n\nThe mechs will stay here until they are picked up.\n\nWould you like to set their work mode to escort so they follow {PAWN_labelShort} off the map? -->

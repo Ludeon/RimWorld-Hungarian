@@ -30,7 +30,7 @@
   -->
   <Bloodfeeding.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Bloodfeeding)        ->[deity0_name] megitta a csillagok vérét, vörösről fehérre változtatva őket.</li>
-    <li>episode(uses=1,tag=meme_Bloodfeeding)  ->A [deity0_type] [deity0_name] az éhség ajándékát adta kiválasztott követőinek, hogy megismerhessék az igazi erőt.</li>
+    <li>episode(uses=1,tag=meme_Bloodfeeding)  ->A [deity0_type] [deity0_name] a vörös éhség ajándékát adta kiválasztott követőinek, hogy megismerhessék az igazi erőt.</li>
     <li>intro(tag=meme_Bloodfeeding)           ->A [place_summary] [place_name] oldalon volt egy [deity0_name] nevű ember. A bűnök büntetéseként [deity0_possessive deity0_possessive] apa megbüntette [deity0_name] azáltal, hogy [deity0_possessive] lelket összeolvasztotta a [bloodDrinkingAnimal] lelkével.</li>
     <li>intro(tag=meme_Bloodfeeding)           ->A [place_summary] [place_name], a [ritualName] alatt [deity0_name] lejött az [altarRoomLabel]-be, és egy óriás [bloodDrinkingAnimal] alakját öltötte magára. [deity0_name] megitta a [deity0_possessive] [memberNamePlural] vérét.</li>
     <li>conflict(tag=meme_Bloodfeeding)        ->Egy [foeLeader] kijelentette, hogy mindazok, akik vért ittak, utálatosak voltak, és [foeSoldiers]-t küldtek a [memberNamePlural] üldözésére.</li>

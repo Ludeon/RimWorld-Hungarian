@@ -16,11 +16,7 @@
   <!-- EN: A flat stone-like surface for writing on with chalk. Placed near a lesson desk, blackboards increase childrens' learning rate during lessons. Up to three blackboards can be used at a time. -->
   <Blackboard.description>Lapos, kőszerű felület krétával való íráshoz. Az iskolapad közelében elhelyezett táblák növelik a gyerekek tanulási sebességét az órák alatt. Egyszerre legfeljebb három tábla használható.</Blackboard.description>
   <!-- EN: Learning rate -->
-  <Blackboard.comps.CompInspectStringBlackboard.inspectString>TODO</Blackboard.comps.CompInspectStringBlackboard.inspectString>
-  
-  <!-- UNUSED -->
-  <Blackboard.comps.CompStatEntry.reportText>Ha egy iskolapad közelében van, ahol az óra zajlik, ez a tárgy növeli a tanulási sebességet. A hatás akár háromszorosan is halmozódhat.</Blackboard.comps.CompStatEntry.reportText>
-  <Blackboard.comps.CompStatEntry.statLabel>Tanulási sebesség bónusz</Blackboard.comps.CompStatEntry.statLabel>
+  <Blackboard.comps.CompInspectStringBlackboard.inspectString>Tanulási sebesség</Blackboard.comps.CompInspectStringBlackboard.inspectString>
   
   <!-- EN: crib -->
   <Crib.label>bölcső</Crib.label>
