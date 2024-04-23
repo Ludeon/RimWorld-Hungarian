@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: animals learning factor -->
-  <AnimalsLearningFactor.label>TODO</AnimalsLearningFactor.label>
+  <AnimalsLearningFactor.label>állatok tanulási tényezője</AnimalsLearningFactor.label>
   <!-- EN: A multiplier on the learning rate for animals skill. -->
-  <AnimalsLearningFactor.description>TODO</AnimalsLearningFactor.description>
+  <AnimalsLearningFactor.description>Az állatok tanulási képességeinek szorzója.</AnimalsLearningFactor.description>
   
   <!-- EN: bed hunger rate multiplier -->
   <BedHungerRateFactor.label>ágyszükség arány szorzó</BedHungerRateFactor.label>
@@ -30,11 +30,11 @@
   <ComfyTemperatureMin.description>E hőmérséklet alatt a személy rosszul érzi magát. Szignifikánsan e hőmérséklet alatt hipotermia alakul ki, majd fagyás, ami halálhoz vezet.</ComfyTemperatureMin.description>
   
   <!-- EN: crawl speed -->
-  <CrawlSpeed.label>TODO</CrawlSpeed.label>
+  <CrawlSpeed.label>kúszási sebesség</CrawlSpeed.label>
   <!-- EN: Speed of crawling in cells per second. -->
-  <CrawlSpeed.description>TODO</CrawlSpeed.description>
+  <CrawlSpeed.description>Kúszási sebesség cellákban másodpercenként.</CrawlSpeed.description>
   <!-- EN: {0} c/s -->
-  <CrawlSpeed.formatString>TODO</CrawlSpeed.formatString>
+  <CrawlSpeed.formatString>{0} c/mp</CrawlSpeed.formatString>
   
   <!-- EN: eating speed -->
   <EatingSpeed.label>evés sebessége</EatingSpeed.label>
@@ -42,9 +42,9 @@
   <EatingSpeed.description>Milyen gyorsan képes a személy enni.</EatingSpeed.description>
   
   <!-- EN: EMP resistance -->
-  <EMPResistance.label>TODO</EMPResistance.label>
+  <EMPResistance.label>EMP ellenállás</EMPResistance.label>
   <!-- EN: This mechanoid has special shielding and shock-dissipation filaments that reduce the effect of EMP damage by this percentage. This reduces the duration of stuns caused by EMP. -->
-  <EMPResistance.description>TODO</EMPResistance.description>
+  <EMPResistance.description>Ez a robot speciális árnyékoló és ütéscsökkentő szálakkal rendelkezik, amelyek ezzel a százalékkal csökkentik az EMP károsodás hatását. Ez csökkenti az EMP által okozott kábítások időtartamát is.</EMPResistance.description>
   
   <!-- EN: filth rate -->
   <FilthRate.label>szennytermelési mutató</FilthRate.label>
@@ -67,14 +67,14 @@
   <ImmunityGainSpeed.description>Az a sebesség, amivel a személy immunitást ér el bizonyos betegségre. Ha ez túl alacsony az alany belehal a betegségbe mielőtt immunissá válna.</ImmunityGainSpeed.description>
   
   <!-- EN: injury healing factor -->
-  <InjuryHealingFactor.label>TODO</InjuryHealingFactor.label>
+  <InjuryHealingFactor.label>sérülés gyógyulási tényező</InjuryHealingFactor.label>
   <!-- EN: The multiplier applied to a person's injury healing rate. -->
-  <InjuryHealingFactor.description>TODO</InjuryHealingFactor.description>
+  <InjuryHealingFactor.description>A szorzó egy személy sérülés gyógyulási arányára vonatkozik.</InjuryHealingFactor.description>
   
   <!-- EN: recreation fall rate -->
-  <JoyFallRateFactor.label>TODO</JoyFallRateFactor.label>
+  <JoyFallRateFactor.label>kikapcsolódás esési arány</JoyFallRateFactor.label>
   <!-- EN: A multiplier on the speed that a person's recreation need falls. -->
-  <JoyFallRateFactor.description>TODO</JoyFallRateFactor.description>
+  <JoyFallRateFactor.description>Egy személy kikapcsolódási igényeinek sebességére vonatkozó szorzó.</JoyFallRateFactor.description>
   
   <!-- EN: leather amount -->
   <LeatherAmount.label>bőr mennyiség</LeatherAmount.label>
@@ -82,14 +82,14 @@
   <LeatherAmount.description>A bőr mennyisége, ami eme teremtmény lemészárlásával nyerhető.</LeatherAmount.description>
   
   <!-- EN: lifespan factor -->
-  <LifespanFactor.label>TODO</LifespanFactor.label>
+  <LifespanFactor.label>élettartam tényező</LifespanFactor.label>
   <!-- EN: Lifespan factor alters the effective lifespan of a creature by shortening or lengthening the time until they develop age-related diseases. A lifespan factor over 100% delays disease onset and increases overall lifespan, while a lifespan factor under 100% speeds up disease onset and reduces lifespan. -->
-  <LifespanFactor.description>TODO</LifespanFactor.description>
+  <LifespanFactor.description>Az élettartam tényező megváltoztatja a lény tényleges élettartamát azáltal, hogy lerövidíti vagy meghosszabbítja azt az időt, amíg az életkorral összefüggő betegségek kialakulnak. A 100%-nál nagyobb élettartam-tényező késlelteti a betegség kialakulását és növeli az általános élettartamot, míg a 100%-nál kisebb élettartam-tényező felgyorsítja a betegség kialakulását és csökkenti az élettartamot.</LifespanFactor.description>
   
   <!-- EN: max nutrition -->
-  <MaxNutrition.label>TODO</MaxNutrition.label>
+  <MaxNutrition.label>max táplálék</MaxNutrition.label>
   <!-- EN: The amount of nutrition needed to completely fill this creature's stomach. -->
-  <MaxNutrition.description>TODO</MaxNutrition.description>
+  <MaxNutrition.description>A táplálék mennyisége, amely ahhoz szükséges, hogy teljesen kitöltse ennek a lénynek a gyomrát.</MaxNutrition.description>
   
   <!-- EN: meat amount -->
   <MeatAmount.label>hús mennyiség</MeatAmount.label>

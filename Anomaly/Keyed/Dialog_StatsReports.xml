@@ -13,11 +13,11 @@
   <StudyFrequencyDesc>TODO</StudyFrequencyDesc>
   
   <!-- EN: Healing -->
-  <Stat_Hediff_Regeneration_Name>TODO</Stat_Hediff_Regeneration_Name>
+  <Stat_Hediff_Regeneration_Name>Gyógyulás</Stat_Hediff_Regeneration_Name>
   <!-- EN: A flat amount of healing per day. -->
-  <Stat_Hediff_Regeneration_Desc>TODO</Stat_Hediff_Regeneration_Desc>
+  <Stat_Hediff_Regeneration_Desc>Átlagos mennyiségű gyógyulás naponta.</Stat_Hediff_Regeneration_Desc>
   <!-- EN: {0} hp/day -->
-  <Stat_Hediff_Regeneration_Stat>TODO</Stat_Hediff_Regeneration_Stat>
+  <Stat_Hediff_Regeneration_Stat>{0} ép/nap </Stat_Hediff_Regeneration_Stat>
 
   <!-- EN: Average lighting -->
   <Stat_ContainmentStrength_AverageLighting>TODO</Stat_ContainmentStrength_AverageLighting>
@@ -63,15 +63,15 @@
   <!-- EN: Containment offset -->
   <StatsReport_ContainmentStrengthOffset>TODO</StatsReport_ContainmentStrengthOffset>
   <!-- EN: How much this affects the ability of a holding platform to constrain an entity. Entities that are better contained are less likely to escape and provide more knowledge when studied. -->
-  <StatsReport_ContainmentStrengthOffset_Desc>TODO</StatsReport_ContainmentStrengthOffset_Desc>
+  <StatsReport_ContainmentStrengthOffset_Desc>Ez mennyire befolyásolja a holding platform azon képességét, hogy korlátozza az entitást. A jobban elzárt entitások kisebb valószínűséggel szöknek meg, és több tudást adnak a tanulmányozás során.</StatsReport_ContainmentStrengthOffset_Desc>
 
   <!-- EN: Duration -->
-  <StatsReport_SerumDuration>TODO</StatsReport_SerumDuration>
+  <StatsReport_SerumDuration>Hatóidő</StatsReport_SerumDuration>
   <!-- EN: How long the effects of a serum last. -->
-  <StatsReport_SerumDuration_Desc>TODO</StatsReport_SerumDuration_Desc>
+  <StatsReport_SerumDuration_Desc>Mennyi ideig tart a szérum hatása.</StatsReport_SerumDuration_Desc>
   
   <!-- EN: Occupied -->
-  <StatsReport_Occupied>TODO</StatsReport_Occupied>
+  <StatsReport_Occupied>Elfoglalt</StatsReport_Occupied>
   <!-- EN: {2} per nearby {BUILDING_label} ({0} / {1}) -->
   <MeditationFocusPerBuilding>TODO</MeditationFocusPerBuilding>
   <!-- EN: {1} per nearby {BUILDING_label} (up to {0}) -->

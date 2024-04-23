@@ -93,6 +93,8 @@ void - semmi, űr, üresség, talán antianyag vagy kozmikus is lehetne, mert er
 
 momma beast - tenyészanya?
 
+holding platform - rögzítő emelvény, az a hely, ahová a rendellenes teremtményeket le lehet kötözni tanulmányozás céljából 
+
 shambler - csoszogó, szaggató? - élőhalott, zombiszerű humanoid
 
 sightstealer - lélekrabló, lélekrabló - torz, törékeny, karmokkal rendelkező élőhalott lény, amely láthatatlanná teszi magát, míg közel nem ér  

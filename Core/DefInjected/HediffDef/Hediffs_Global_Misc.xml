@@ -79,7 +79,7 @@
   <!-- EN: major -->
   <FoodPoisoning.stages.major.label>súlyos</FoodPoisoning.stages.major.label>
   <!-- EN: initial -->
-  <FoodPoisoning.stages.initial.label>kezdeti</FoodPoisoning.stages.initial.label>
+  <FoodPoisoning.stages.initial.label>kezdődő</FoodPoisoning.stages.initial.label>
   
   <!-- EN: heart attack -->
   <HeartAttack.label>szívroham</HeartAttack.label>
@@ -151,13 +151,13 @@
   <!-- EN: {PAWN_nameDef} is showing early signs of toxic buildup. Keep {PAWN_objective} away from sources of toxins. -->
   <ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} a mérgező anyagok felhalmozódásának korai jeleit mutatja. Tartsd távol őt a méreganyagok forrásaitól.</ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <!-- EN: initial -->
-  <ToxicBuildup.stages.initial-0.label>első rejtett eset</ToxicBuildup.stages.initial-0.label>
+  <ToxicBuildup.stages.initial-0.label>lappangó</ToxicBuildup.stages.initial-0.label>
   <!-- EN: initial -->
-  <ToxicBuildup.stages.initial-1.label>első eset</ToxicBuildup.stages.initial-1.label>
+  <ToxicBuildup.stages.initial-1.label>kezdődő</ToxicBuildup.stages.initial-1.label>
   <!-- EN: minor -->
   <ToxicBuildup.stages.minor.label>enyhe</ToxicBuildup.stages.minor.label>
   <!-- EN: moderate -->
-  <ToxicBuildup.stages.moderate.label>közepes</ToxicBuildup.stages.moderate.label>
+  <ToxicBuildup.stages.moderate.label>mérsékelt</ToxicBuildup.stages.moderate.label>
   <!-- EN: serious -->
   <ToxicBuildup.stages.serious.label>erős</ToxicBuildup.stages.serious.label>
   <!-- EN: extreme -->
