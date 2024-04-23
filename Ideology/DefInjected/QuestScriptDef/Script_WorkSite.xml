@@ -8,7 +8,7 @@
   -->
   <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
     <li>questDescription->You've detected a [siteLabel] nearby controlled by [faction_name].\n\nIf you wish, you can raid the camp to collect loot ([loot]). [raidConsequences]\n\nThe camp will pack up and move on in [timeout_duration].</li>
-    <li>raidConsequences(faction_temporary==false)->Ha így teszel, [faction_name] ellenséges lesz.</li>
+    <li>raidConsequences(faction_temporary==false)->Ha így teszel, [faction_name] ellenséges lesz, ha még nem volt az.</li>
     <li>raidConsequences(faction_temporary==true)->Mivel [faction_name] csak egy kicsi, független csoport, szélesebb diplomáciai következmények nélkül támadhatod meg őket.</li>
   </OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
   <!-- EN:

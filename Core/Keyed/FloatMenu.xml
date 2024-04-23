@@ -52,9 +52,9 @@
   <OrderManThing>{1_labelShort} működtetése</OrderManThing>
   
   <!-- EN: Melee attack {1_labelShort} -->
-  <MeleeAttack>Támadd közelharcban ezt: {1_label}</MeleeAttack>
+  <MeleeAttack>Támadd közelharcban ezt: {1_labelShort}</MeleeAttack>
   <!-- EN: Melee attack {1_labelShort} to death -->
-  <MeleeAttackToDeath>Támadd közelharcban ezt: {1_label}, míg meg nem hal</MeleeAttackToDeath>
+  <MeleeAttackToDeath>Támadd közelharcban ezt: {1_labelShort}, míg meg nem hal</MeleeAttackToDeath>
   <!-- EN: no path -->
   <NoPath>nem megközelíthető</NoPath>
   <!-- EN: burying -->
@@ -97,7 +97,7 @@
   <!-- EN: no usable food -->
   <NoUsableFood>nincs felhasználható étel</NoUsableFood>
   <!-- EN: not enough food -->
-  <NoFood>nincs étel</NoFood>
+  <NoFood>nincs elég étel</NoFood>
   <!-- EN: no food matching restrictions -->
   <NoFoodMatchingRestrictions>nincsenek étel-elfogadási korlátozások</NoFoodMatchingRestrictions>
   <!-- EN: No {0_label} -->
@@ -159,7 +159,7 @@
   <!-- EN: incapable of mining -->
   <IncapableOfMining>nem tud bányászni</IncapableOfMining>
   <!-- EN: tree marked for extraction -->
-  <TreeMarkedForExtraction>TODO</TreeMarkedForExtraction>
+  <TreeMarkedForExtraction>kivágásra jelölt fa</TreeMarkedForExtraction>
   <!-- EN: angers faction -->
   <AngersFaction>Frakciót felbőszít</AngersFaction>
   <!-- EN: no body part -->
@@ -196,41 +196,41 @@
   <GoHere>Menj ide</GoHere>
 
   <!-- EN: Clean {0} -->
-  <CleanRoom>TODO</CleanRoom>
+  <CleanRoom>{0} takarítása</CleanRoom>
   
   <!-- EN: Arrest {0} -->
   <Arrest>Tartóztasd le őt: {0}</Arrest>
   <!-- EN: Try to arrest {1_labelShort} ({2} chance) -->
-  <TryToArrest>Próbáld meg letartóztatni őt: {1_label}</TryToArrest>
+  <TryToArrest>Próbáld meg letartóztatni a őt: {1_labelShort} ({2} esély)</TryToArrest>
   <!-- EN: Cannot arrest -->
   <CannotArrest>Nem tudja letartóztatni</CannotArrest>
   <!-- EN: {0} chance of arrest -->
   <ArrestChance>{0} esély a letartóztatásra</ArrestChance>
 
   <!-- EN: Capture {1_labelShort} -->
-  <Capture>Fogd el őt: {1_label}</Capture>
+  <Capture>Fogd el őt: {1_labelShort}</Capture>
   <!-- EN: capture {0_labelShort} -->
-  <CaptureLower>TODO</CaptureLower>
+  <CaptureLower>{0_labelShort} elfogása</CaptureLower>
   <!-- EN: Cannot capture -->
   <CannotCapture>Nem tudja elfogni</CannotCapture>
   <!-- EN: unwaveringly loyal -->
   <Unrecruitable>rendíthetetlenül hűséges</Unrecruitable>
   <!-- EN: not recruitable -->
-  <UnrecruitableNoFaction>TODO</UnrecruitableNoFaction> 
+  <UnrecruitableNoFaction>nem toborozható</UnrecruitableNoFaction> 
   <!-- EN: Transfer {0_label} -->
   <TransferEntity>TODO</TransferEntity> 
 
   <!-- EN: Rescue {1_labelShort} -->
-  <Rescue>Mentsd meg őt: {1_label}</Rescue>
+  <Rescue>Mentsd meg őt: {1_labelShort}</Rescue>
   <!-- EN: Put {1_labelShort} somewhere safe -->
-  <PutSomewhereSafe>{1_label} címkét biztonságos helyre viszi</PutSomewhereSafe>
+  <PutSomewhereSafe>{1_labelShort} biztonságos helyre vitele</PutSomewhereSafe>
   <!-- EN: Taking {0_labelShort} to bed. -->
   <TakingToBed>{0_labelShort} lefetetése.</TakingToBed>
   <!-- EN: Cannot rescue -->
   <CannotRescue>Nem tudja megmenteni</CannotRescue>
 
   <!-- EN: Carry {1_labelShort} to cryptosleep casket -->
-  <CarryToCryptosleepCasket>Vidd el a hibernálóba őt: {1_label}</CarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>Vidd el a hibernálóba őt: {1_labelShort}</CarryToCryptosleepCasket>
   <!-- EN: Cannot carry to cryptosleep casket -->
   <CannotCarryToCryptosleepCasket>Nem lehet a hibernálóba vinni</CannotCarryToCryptosleepCasket>
 
@@ -248,7 +248,7 @@
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>Nincs zárt helyen lévő, rabnak szánt ágy.</NoPrisonerBed>
   <!-- EN: No prisoner bed available. -->
-  <NoPrisonerBedShort>TODO</NoPrisonerBedShort>
+  <NoPrisonerBedShort>Fogolyágy nem áll rendelkezésre.</NoPrisonerBedShort>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
   <NoNonPrisonerBed>Nincs használható, nem rabnak szánt ágy.</NoNonPrisonerBed>
   <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
@@ -353,24 +353,24 @@
   <OverweightLower>túlsúly</OverweightLower>
 
   <!-- EN: Cannot carry {1_labelShort} and leave the area -->
-  <CannotCarryToExit>Nem lehet elhagyni a körzetet ezzel: {1_label}</CannotCarryToExit>
+  <CannotCarryToExit>Nem lehet elhagyni a körzetet ezzel: {1_labelShort}</CannotCarryToExit>
   <!-- EN: Carry {1_labelShort} and leave the area -->
-  <CarryToExit>Elhagyni a körzetet ezzel: {1_label}</CarryToExit>
+  <CarryToExit>Elhagyni a körzetet ezzel: {1_labelShort}</CarryToExit>
   <!-- EN: Capture {1_labelShort} and leave the area -->
-  <CarryToExitAndCapture>{1_label} elfogása és a körzet elhagyása</CarryToExitAndCapture>
+  <CarryToExitAndCapture>{1_labelShort} elfogása és a körzet elhagyása</CarryToExitAndCapture>
   
   <!-- EN: Strip {1_labelShort} -->
-  <Strip>Vetkőztesd le őt: {1_label}</Strip>
+  <Strip>Vetkőztesd le őt: {1_labelShort}</Strip>
   <!-- EN: Cannot strip {1_labelShort} -->
-  <CannotStrip>Nem tudja levetkőztetni őt: {1_label}</CannotStrip>
+  <CannotStrip>Nem tudja levetkőztetni őt: {1_labelShort}</CannotStrip>
   <!-- EN: Cannot drop {1_labelShort} -->
-  <CannotDrop>{1_label} nem eldobható</CannotDrop>
+  <CannotDrop>{1_labelShort} nem eldobható</CannotDrop>
   <!-- EN: Carry {0_labelShort} -->
-  <Carry>Cipel: {0_label}</Carry>
+  <Carry>Cipel: {0_labelShort}</Carry>
   <!-- EN: Cannot carry {0_labelShort} -->
-  <CannotCarry>Nem szállítható: {0_label}</CannotCarry>
+  <CannotCarry>Nem szállítható: {0_labelShort}</CannotCarry>
   <!-- EN: hostile -->
-  <CarriedPawnHostile>TODO</CarriedPawnHostile>
+  <CarriedPawnHostile>ellenséges</CarriedPawnHostile>
   <!-- EN: temporary faction member -->
   <QuestRelated>ideiglenes frakciótag</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
@@ -387,7 +387,7 @@
   <SelfDestructHere>Önmegsemmisítés itt</SelfDestructHere>
   
   <!-- EN: Drop {1_labelShort} -->
-  <Drop>Dobd el ezt: {1_label}</Drop>
+  <Drop>Dobd el ezt: {1_labelShort}</Drop>
 
   <!-- EN: Rest until healed -->
   <UseMedicalBed>Pihenj teljes felgyógyulásig</UseMedicalBed>
@@ -403,11 +403,11 @@
   <!-- EN: Trade with {0} -->
   <TradeWith>Kereskedj vele: {0}</TradeWith>
   <!-- EN: Dismiss trader -->
-  <DismissTrader>TODO</DismissTrader>
+  <DismissTrader>Kereskedő elbocsátása</DismissTrader>
   <!-- EN: Cannot trade -->
   <CannotTrade>Nem lehet kereskedni</CannotTrade>
   <!-- EN: Trader dismissed -->
-  <TraderDismissed>TODO</TraderDismissed>
+  <TraderDismissed>Kereskedő elbocsájtva</TraderDismissed>
 
   <!-- EN: Open {0_label} -->
   <Open>Kinyit: {0_label}</Open>

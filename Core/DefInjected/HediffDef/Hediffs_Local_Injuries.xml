@@ -8,16 +8,16 @@
   <!-- EN: acid burn scar -->
   <AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>savas égési heg</AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Dissolved off -->
-  <AcidBurn.injuryProps.destroyedLabel>TODO</AcidBurn.injuryProps.destroyedLabel>
+  <AcidBurn.injuryProps.destroyedLabel>Feloldódott</AcidBurn.injuryProps.destroyedLabel>
   <!-- EN: an acid burn -->
   <AcidBurn.labelNoun>savas égés</AcidBurn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <AcidBurn.labelNounPretty>TODO</AcidBurn.labelNounPretty>
+  <AcidBurn.labelNounPretty>{1} {0}</AcidBurn.labelNounPretty>
   
   <!-- EN: bite -->
   <Bite.label>harapás</Bite.label>
   <!-- EN: A bite wound. -->
-  <Bite.description>TODO</Bite.description>
+  <Bite.description>Harapott seb.</Bite.description>
   <!-- EN: bite scar -->
   <Bite.comps.HediffComp_GetsPermanent.permanentLabel>harapási heg</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Bitten off -->
@@ -45,9 +45,9 @@
   <!-- EN: burn scar -->
   <Burn.comps.HediffComp_GetsPermanent.permanentLabel>égésheg</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off -->
-  <Burn.injuryProps.destroyedLabel>elégett</Burn.injuryProps.destroyedLabel>
+  <Burn.injuryProps.destroyedLabel>Elégett</Burn.injuryProps.destroyedLabel>
   <!-- EN: Burned out -->
-  <Burn.injuryProps.destroyedOutLabel>kiégett</Burn.injuryProps.destroyedOutLabel>
+  <Burn.injuryProps.destroyedOutLabel>Kiégett</Burn.injuryProps.destroyedOutLabel>
   <!-- EN: a burn -->
   <Burn.labelNoun>égetés</Burn.labelNoun>
   <!-- EN: {0} in the {1} -->
@@ -97,46 +97,46 @@
   <!-- EN: cut scar -->
   <Cut.comps.HediffComp_GetsPermanent.permanentLabel>vágásheg</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Cut off -->
-  <Cut.injuryProps.destroyedLabel>levágott</Cut.injuryProps.destroyedLabel>
+  <Cut.injuryProps.destroyedLabel>Levágott</Cut.injuryProps.destroyedLabel>
   <!-- EN: Cut out -->
-  <Cut.injuryProps.destroyedOutLabel>kivágott</Cut.injuryProps.destroyedOutLabel>
+  <Cut.injuryProps.destroyedOutLabel>Kivágott</Cut.injuryProps.destroyedOutLabel>
   <!-- EN: a cut -->
   <Cut.labelNoun>vágás</Cut.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Cut.labelNounPretty>{1} {0}</Cut.labelNounPretty>
   
   <!-- EN: decayed organ -->
-  <Decayed.label>TODO</Decayed.label>
+  <Decayed.label>leállt szerv</Decayed.label>
   <!-- EN: This organ has completely decayed. -->
-  <Decayed.description>TODO</Decayed.description>
+  <Decayed.description>Ez a szerv teljesen leállt.</Decayed.description>
   <!-- EN: a decayed organ -->
-  <Decayed.labelNoun>TODO</Decayed.labelNoun>
+  <Decayed.labelNoun>egy elromlott szerv</Decayed.labelNoun>
   <!-- EN: decayed {1} -->
-  <Decayed.labelNounPretty>TODO</Decayed.labelNounPretty>
+  <Decayed.labelNounPretty>leállt {1}</Decayed.labelNounPretty>
   
   <!-- EN: electrical burn -->
-  <ElectricalBurn.label>TODO</ElectricalBurn.label>
+  <ElectricalBurn.label>elektromos égés</ElectricalBurn.label>
   <!-- EN: An electical burn. -->
-  <ElectricalBurn.description>TODO</ElectricalBurn.description>
+  <ElectricalBurn.description>Egy elektromos égés.</ElectricalBurn.description>
   <!-- EN: electrical burn scar -->
-  <ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>TODO</ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>elektromos égési heg</ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off -->
-  <ElectricalBurn.injuryProps.destroyedLabel>TODO</ElectricalBurn.injuryProps.destroyedLabel>
+  <ElectricalBurn.injuryProps.destroyedLabel>Elégett</ElectricalBurn.injuryProps.destroyedLabel>
   <!-- EN: Burned out -->
-  <ElectricalBurn.injuryProps.destroyedOutLabel>TODO</ElectricalBurn.injuryProps.destroyedOutLabel>
+  <ElectricalBurn.injuryProps.destroyedOutLabel>Kiégett</ElectricalBurn.injuryProps.destroyedOutLabel>
   <!-- EN: an electrical burn -->
-  <ElectricalBurn.labelNoun>TODO</ElectricalBurn.labelNoun>
+  <ElectricalBurn.labelNoun>egy elektromos égés</ElectricalBurn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <ElectricalBurn.labelNounPretty>TODO</ElectricalBurn.labelNounPretty>
+  <ElectricalBurn.labelNounPretty>{1} {0}</ElectricalBurn.labelNounPretty>
   
   <!-- EN: cut -->
   <ExecutionCut.label>vágás (kivégzés)</ExecutionCut.label>
   <!-- EN: A cut made during execution. -->
   <ExecutionCut.description>Kivégzés közben ejtett vágás.</ExecutionCut.description>
   <!-- EN: Cut off -->
-  <ExecutionCut.injuryProps.destroyedLabel>TODO</ExecutionCut.injuryProps.destroyedLabel>
+  <ExecutionCut.injuryProps.destroyedLabel>Levágott</ExecutionCut.injuryProps.destroyedLabel>
   <!-- EN: Cut out -->
-  <ExecutionCut.injuryProps.destroyedOutLabel>TODO</ExecutionCut.injuryProps.destroyedOutLabel>
+  <ExecutionCut.injuryProps.destroyedOutLabel>Kivágott</ExecutionCut.injuryProps.destroyedOutLabel>
   <!-- EN: a cut -->
   <ExecutionCut.labelNoun>vágás</ExecutionCut.labelNoun>
   <!-- EN: {0} in the {1} -->
@@ -171,7 +171,7 @@
   <Gunshot.labelNounPretty>{1} {0}</Gunshot.labelNounPretty>
   
   <!-- EN: wound -->
-  <Misc.label>egyéb</Misc.label>
+  <Misc.label>sérülés</Misc.label>
   <!-- EN: Miscellaneous injuries. -->
   <Misc.description>Egyéb sérülések.</Misc.description>
   <!-- EN: scar -->

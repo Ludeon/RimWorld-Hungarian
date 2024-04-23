@@ -383,7 +383,7 @@
   <!-- EN: No letter -->
   <NoDietCategoryLetter>Nincs jelölés</NoDietCategoryLetter>
   <!-- EN: expires in -->
-  <ExpiresIn>Lejár ekkor</ExpiresIn>
+  <ExpiresIn>lejár ekkor</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
   <CaravanLeaderCaravanName>{1_labelShort} karavánja</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
@@ -417,11 +417,11 @@
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>Nincs folyamatban lévő kutatás</NoActiveResearchProjectToFinish>
   <!-- EN: Current project -->
-  <CurrentProject>TODO</CurrentProject>
+  <CurrentProject>Jelenlegi projekt</CurrentProject>
   <!-- EN: Research progress -->
-  <ResearchProgress>TODO</ResearchProgress>
+  <ResearchProgress>Kutatás előrehaladása</ResearchProgress>
   <!-- EN: already has {0} -->
-  <AlreadyHasHediff>TODO</AlreadyHasHediff>
+  <AlreadyHasHediff>már rendelkezik vele: {0}</AlreadyHasHediff>
   <!-- EN: turret -->
   <Turret>ágyú</Turret>
   <!-- EN: turrets -->
@@ -836,7 +836,7 @@
   <!-- EN: Order a colonist to activate {THING_definite}. -->
   <OrderActivationDesc>Gyarmatosító utasítása {THING_definite} aktiválására.</OrderActivationDesc>
   <!-- EN: Send a colonist to activate this. -->
-  <MustBeActivatedByColonist>Egy telepesnek kell aktiválnia.</MustBeActivatedByColonist>
+  <MustBeActivatedByColonist>Küldj egy telepest, hogy aktiválja ezt.</MustBeActivatedByColonist>
   <!-- EN: No nearby fire -->
   <NoNearbyFire>Nincs a közelben tűz</NoNearbyFire>
   <!-- EN: No nearby fire. No fuel was used. -->
@@ -1078,11 +1078,11 @@
   <!-- EN: Dessicated -->
   <RotStateDessicated>Kiszáradt</RotStateDessicated>
   <!-- EN: Frozen -->
-  <CurrentlyFrozen>Fagyott (nem romlik)</CurrentlyFrozen> 
+  <CurrentlyFrozen>Fagyott</CurrentlyFrozen> 
   <!-- EN: Refrigerated, spoils in {0} -->
-  <CurrentlyRefrigerated>Hűtött ({0} múlva megromlik)</CurrentlyRefrigerated> 
+  <CurrentlyRefrigerated>Hűtött, {0} múlva megromlik</CurrentlyRefrigerated> 
   <!-- EN: Unrefrigerated, spoils in {0} -->
-  <NotRefrigerated>Nem hűtött ({0} múlva megromlik)</NotRefrigerated> 
+  <NotRefrigerated>Nem hűtött, {0} múlva megromlik</NotRefrigerated> 
   <!-- EN: over a decade -->
   <OverADecade>több, mint egy évtized</OverADecade>
   <!-- EN: less than a day -->
@@ -1242,7 +1242,7 @@
 
   <!-- Hotkeys -->
   <!-- EN: Hotkey -->
-  <HotKeyTip>TODO</HotKeyTip>
+  <HotKeyTip>Gyorsbillentyű</HotKeyTip>
   
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
@@ -1406,7 +1406,7 @@
 
   <!-- Game over -->
   <!-- EN: Game Over -->
-  <GameOver>TODO</GameOver>
+  <GameOver>Játék vége</GameOver>
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
   <GameOverEveryoneDead>Mindenki halott vagy eltávozott. Ennek a történetnek vége.\n\nTalán valaki más hasznosnak találja majd ezeket a romokat.</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
@@ -1434,7 +1434,7 @@
   <!-- EN: Main menu -->
   <GameOverMainMenu>Főmenü</GameOverMainMenu>
   <!-- EN: No colony -->
-  <NoColony>TODO</NoColony>
+  <NoColony>Nincs kolónia</NoColony>
 
   <!-- Generic lifespan -->
   <!-- EN: Expires in: -->
@@ -1709,13 +1709,13 @@
   <!-- EN: {DAMAGE_label} weakness -->
   <DamageFactorWeakness>TODO</DamageFactorWeakness>
   <!-- EN: {DAMAGE_label} resistance -->
-  <DamageFactorResistance>TODO</DamageFactorResistance>
+  <DamageFactorResistance>{DAMAGE_label} ellenállás</DamageFactorResistance>
   <!-- EN: {DAMAGE_label} damage that this creature receives is multiplied by this amount. -->
-  <DamageFactor>TODO</DamageFactor>
+  <DamageFactor>A lény által okozott {DAMAGE_label} sebzés megszorozva ezzel az összeggel.</DamageFactor>
   
   <!-- Healing -->
   <!-- EN: {0_nameDef}'s {1} was healed. -->
-  <HealingHealHediff>TODO</HealingHealHediff>
+  <HealingHealHediff>{0_nameDef} {1} betegsége meggyógyult.</HealingHealHediff>
   <!-- EN: {0_nameDef}'s {1} was restored. -->
   <HealingRestoreBodyPart>{0_nameDef} {1} testrésze visszaállítva.</HealingRestoreBodyPart>
 
@@ -1822,7 +1822,7 @@
   <!-- EN: Ritual seat of {IDEOS} -->
   <RitualSeatOf>{IDEOS} szertartási helye</RitualSeatOf>
   <!-- EN: Expected quality -->
-  <ExpectedLordJobQuality>TODO</ExpectedLordJobQuality>
+  <ExpectedLordJobQuality>Elvárt minőség</ExpectedLordJobQuality>
   <!-- EN: Starting quality -->
   <StartingQuality>Kezdeti minőség</StartingQuality>
   <!-- EN: {PAWN_labelShort}'s {1} -->
@@ -1839,7 +1839,7 @@
   <RitualOutcomeLovedOnePresentTip>TODO</RitualOutcomeLovedOnePresentTip>
 
   <!-- EN: Any of these -->
-  <RitualOutcomeLabelAnyOfThese>TODO</RitualOutcomeLabelAnyOfThese>
+  <RitualOutcomeLabelAnyOfThese>Ezek bármelyike</RitualOutcomeLabelAnyOfThese>
   <!-- EN: Replaces {PAWN_labelShort} -->
   <RitualRoleReplaces>TODO</RitualRoleReplaces>
 
@@ -1872,7 +1872,7 @@
   <!-- EN: tox gas -->
   <ToxGas>mérgező gáz</ToxGas>
   <!-- EN: rot stink -->
-  <RotStink>rothadás bűz</RotStink>
+  <RotStink>rothadó bűz</RotStink>
   <!-- EN: deadlife dust -->
   <DeadlifeDust>TODO</DeadlifeDust> 
 

@@ -51,13 +51,13 @@
   <Disease_MuscleParasites.letterText>A {1} közül {0} elkapta ezt a betegséget: {2}.\n\nGyőződj meg róla, hogy van egészségügyi ágya és orvosa. Győződj meg róla, hogy megfelelő kezelésben részesül és a lehető legtöbb időt tölti az ágyban.\n\nA következő {1} beteg lett</Disease_MuscleParasites.letterText>
   
   <!-- EN: organ decay -->
-  <Disease_OrganDecay.label>TODO</Disease_OrganDecay.label>
+  <Disease_OrganDecay.label>szervpusztulás</Disease_OrganDecay.label>
   <!-- EN: Without a cure or replacement of some kind, {PAWN_labelShort} will die. -->
-  <Disease_OrganDecay.diseaseLethalLetterText>TODO</Disease_OrganDecay.diseaseLethalLetterText>
+  <Disease_OrganDecay.diseaseLethalLetterText>Valamilyen gyógymód vagy szervcsere nélkül {PAWN_labelShort} meghal.</Disease_OrganDecay.diseaseLethalLetterText>
   <!-- EN: Organ decay: {PAWN_labelShort} -->
-  <Disease_OrganDecay.letterLabel>TODO</Disease_OrganDecay.letterLabel>
+  <Disease_OrganDecay.letterLabel>Szervpusztulás: {PAWN_labelShort}</Disease_OrganDecay.letterLabel>
   <!-- EN: {PAWN_labelShort} has developed a flesh-eating infection known as organ decay in {PAWN_possessive} {2}!\n\nThe affected organ will slowly lose function over the next {3} days, before dying completely.\n\nIf you want {PAWN_labelShort} to stay healthy, install a replacement {2}. This could be a bionic, or a natural organ taken from a donor. -->
-  <Disease_OrganDecay.letterText>TODO</Disease_OrganDecay.letterText>
+  <Disease_OrganDecay.letterText>{PAWN_labelShort} szervezetében egy húsevő fertőzés alakult ki, amelyet {2}-szervpusztulásnak neveznek!\n\nAz érintett szerv lassan elveszíti funkcióját a következő {3} nap során, mielőtt teljesen leállna.\n\nHa szeretnéd {PAWN_labelShort} egészségét megőrizni, telepíts egy {2} csereszervet. Ez lehet bionikus vagy donortól vett természetes szerv is.</Disease_OrganDecay.letterText>
   
   <!-- EN: plague -->
   <Disease_Plague.label>pestis</Disease_Plague.label>

@@ -47,7 +47,7 @@
   <!-- EN: Opinions -->
   <Opinions>Vélemények</Opinions>
   <!-- EN: Mental breaks -->
-  <MentalBreaks>TODO</MentalBreaks>
+  <MentalBreaks>Idegösszeomlások</MentalBreaks>
   <!-- EN: Randomize name -->
   <RandomizeName>Véletlenszerű név</RandomizeName>
   <!-- EN: Randomize precepts -->
@@ -121,9 +121,9 @@
   <!-- EN: Slaves will not do this work -->
   <WorkDisabledSlave>A rabszolgák nem fogják ezt a munkát elvégezni</WorkDisabledSlave>
   <!-- EN: Disabled by health condition -->
-  <WorkDisabledHealth>TODO</WorkDisabledHealth>
+  <WorkDisabledHealth>Egészségi állapota miatt letiltva</WorkDisabledHealth>
   <!-- EN: Disabled by {0} role -->
-  <WorkDisabledRole>Letiltva a(z) {0} szerepkör miatt</WorkDisabledRole>
+  <WorkDisabledRole>{0} szerepkör miatt letiltva</WorkDisabledRole>
   <!-- EN: Affected by traits -->
   <AffectedByTraits>Jellemzők által érintett</AffectedByTraits>
   <!-- EN: This is a charity quest. People with charitable beliefs will be affected by its outcome. -->

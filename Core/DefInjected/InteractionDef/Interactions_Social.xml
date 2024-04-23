@@ -23,14 +23,28 @@
     <li>commentedabout->told a joke about</li>
   -->
   <Chitchat.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] és [RECIPIENT_nameDef] [talkedabout], erről: [TalkTopicLight].</li>
-    <!-- <li>r_logentry->[INITIATOR_nameDef] [talkedabout] erről: [TalkTopicLight], vele: [RECIPIENT_nameDef].</li> -->
-    <li>talkedabout(p=4)->beszélgetett</li>
+    <li>r_logentry->[INITIATOR_nameDef] és [RECIPIENT_nameDef] [subject] témáról [talkedabout].</li>
+    <li>r_logentry->[INITIATOR_nameDef] és [RECIPIENT_nameDef] [subject] témában [talkedsubject].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [subject] témában [commentedabout] [RECIPIENT_nameDef] beszélgetőtársának.</li>
+    <li>subject(INITIATOR_cubeInterest==false)->[TalkTopicLight]</li>
+    <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
+    <li>talkedabout(p=4)->beszélgettek</li>
+    <li>talkedabout->megosztott pár szót</li>
     <li>talkedabout->pár szót váltott</li>
+    <li>talkedabout->beszélt</li>
     <li>talkedabout->csevegett</li>
     <li>talkedabout->dumált</li>
-    <li>talkedabout->beszélt</li>
     <li>talkedabout->viccelődött</li>
+    <li>talkedabout->élcelődött</li>
+    <li>talkedsubject->értekeztek</li>
+    <li>talkedsubject->cseverésztek</li>
+    <li>talkedsubject->viccelődtek</li>
+    <li>talkedsubject->dumálgattak</li>
+    <li>commentedabout->mondott valamit</li>
+    <li>commentedabout->szólt pár szót</li>
+    <li>commentedabout->megjegyzést tett</li>
+    <li>commentedabout->kommentált</li>
+    <li>commentedabout->viccet mesélt</li>
   </Chitchat.logRulesInitiator.rulesStrings>
   
   <!-- EN: deep talk -->
@@ -52,18 +66,21 @@
     <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
   -->
   <DeepTalk.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] és [RECIPIENT_nameDef] [talkedabout], erről: [subject].</li>
-    <!-- <li>r_logentry->[INITIATOR_nameDef] [talkedabout] erről: [subject], vele: [RECIPIENT_nameDef].</li> -->
-    <li>talkedabout->gondolatokat csréltek</li>
-    <li>talkedabout->ötleteltek</li>
-    <li>talkedabout->megosztották nézeteiket</li>
-    <li>talkedabout->megosztották véleményüket</li>
-    <li>talkedabout->tárgyaltak</li>
+    <li>r_logentry->[INITIATOR_nameDef] és [RECIPIENT_nameDef] [subject] témáról [talkedabout].</li>
+    <li>talkedabout->gondolatokat osztottak meg egymással</li>
+    <li>talkedabout->beszélték meg az érveiket</li>
+    <li>talkedabout->eszmét cseréltek</li>
+    <li>talkedabout->megosztották a nézeteiket</li>
+    <li>talkedabout->megosztották a véleményüket</li>
+    <li>talkedabout->közös hiedelmeik alapján beszélgettek</li>
+    <li>talkedabout->beszélgettek</li>
     <li>talkedabout->őszintén beszélgettek</li>
-    <li>talkedabout->csendesen beszélgettek</li>
-    <li>talkedabout->komolyan beszélgettek</li>
-    <li>subject->[TalkTopicHeavy]</li>
-    <li>subject->[TalkTopicLight]</li>
+    <li>talkedabout->komolyan elbeszélgettek</li>
+    <li>talkedabout->szívből jövő beszélgetést folytattak</li>
+    <li>talkedabout->csendesen beszéltek</li>
+    <li>talkedabout->mélyen elbeszélgettek</li>
+    <li>subject(INITIATOR_cubeInterest==false)->[TalkTopicHeavy]</li>
+    <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
   </DeepTalk.logRulesInitiator.rulesStrings>
   
   <!-- EN: insult -->
@@ -96,11 +113,20 @@
     <li>insultcomparison(INITIATOR_cubeInterest==true)->a non-cubic platonic object</li>
   -->
   <Insult.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] őt: [target], téma: [PersonalCharacteristic].</li>
-    <!-- <li>r_logentry->[INITIATOR_nameDef] ehhez hasonlította: [insultcomparison], őt: [target].</li> -->
-    <li>r_logentry->[INITIATOR_nameDef] [insultcomparison] névvel illette őt: [target].</li>
+    <li>r_logentry(p=6)->[INITIATOR_nameDef] [insulted] [target] társát [characteristic] vonatkozásában.</li>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [insulted] [target] társát [characteristic] témakörben.</li>
+    <li>r_logentry(p=4)->[INITIATOR_nameDef] [insulted] [target] [PersonFamily] rokonát [characteristic] vonatkozásában.</li>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [insulted] [target] [PersonFamily] rokonát [characteristic] témakörben.</li>
+    <li>r_logentry(p=1)->[INITIATOR_nameDef] [insulted] [target] [PersonFamily] rokonát [characteristic] jellemzőjében.</li>
+    <li>r_logentry(p=1)->[INITIATOR_nameDef] [insulted] [target] [PersonFamily] rokonát [characteristic] tulajdonságában.</li>
+    <li>r_logentry->[INITIATOR_nameDef] [insultcomparisonEnemy] névvel illette [target] társát.</li>
+    <li>r_logentry->[INITIATOR_nameDef] [insultcomparisonAnimal] állathoz hasonlította [target] társát.</li>
+    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] hamis bálványimádónak nevezte [target] társát.</li>
+    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] arra utalt, hogy [target] társát az aranykocka megőrjítette.</li>
+    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] [insulted] az arany kockát.</li>
+    <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
+    <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
-    <li>target->[RECIPIENT_nameDef] rokona: [PersonFamily]</li>
     <li>insulted(p=3)->megsértette</li>
     <li>insulted->nyíltan megsértette</li>
     <li>insulted->hangosan megsértette</li>
@@ -110,8 +136,8 @@
     <li>insulted->kirívóan megalázta</li>
     <li>insulted->rágalmazta</li>
     <li>insulted->kigúnyolta</li>
-    <li>insultcomparison(p=2)->[Animal]</li>
-    <li>insultcomparison->[Enemy]</li>
+    <li>insultcomparisonAnimal(p=2)->[Animal]</li>
+    <li>insultcomparisonEnemy->[Enemy]</li>
   </Insult.logRulesInitiator.rulesStrings>
   
   <!-- EN: kind words -->
@@ -135,10 +161,12 @@
     <li>complimented->said good things about</li>
   -->
   <KindWords.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] [complimented] őt: [RECIPIENT_nameDef], téma: [PersonalCharacteristic].</li>
+    <!--<li>r_logentry->[INITIATOR_nameDef] [complimented] őt: [RECIPIENT_nameDef], téma: [characteristic].</li>-->
+    <li>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef] [characteristic] tulajdonságát.</li>
+    <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
+    <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
     <li>complimented(p=3)->megdicsérte</li>
     <li>complimented->magasztalta</li>
-    <li>complimented->megdicsérte</li>
     <li>complimented->megtapsolta</li>
     <li>complimented->ünnepelte</li>
     <li>complimented->kedves szavakkal illette</li>
@@ -170,17 +198,28 @@
     <li>madefunof->offered a backhanded compliment about</li>
   -->
   <Slight.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] [madefunof] őt: [target], téma: [PersonalCharacteristic].</li>
+    <!--<li>r_logentry->[INITIATOR_nameDef] [madefunof] őt: [target], téma: [characteristic].</li>-->
+    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [target] [characteristic] tulajdonságát.</li>
+    <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
+    <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <!--<li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>-->
     <li>target->[RECIPIENT_nameDef] rokona: [PersonFamily]</li>
+    <li>madefunof->kinevette</li>
+    <li>madefunof->kiröhögte</li>
     <li>madefunof->kigúnyolta</li>
     <li>madefunof->szégyenbe hozta</li>
     <li>madefunof->megvetette</li>
     <li>madefunof->leégette</li>
     <li>madefunof->rossz hírbe hozta</li>
-    <li>madefunof->kinevette</li>
     <li>madefunof->kiröhögte</li>
     <li>madefunof->megalázta</li>
+<!--    <li>madefunof->tiszteletlenül viselkedik</li>-->
+<!--    <li>madefunof->negatívan beszélt róla</li>-->
+<!--    <li>madefunof->kuncogott rajta</li>-->
+<!--    <li>madefunof->utalt negatív dolgokat</li>-->
+<!--    <li>madefunof->ócsárol</li>-->
+<!--    <li>madefunof->megvető megjegyzést tett arról</li>-->
   </Slight.logRulesInitiator.rulesStrings>
   
 </LanguageData>

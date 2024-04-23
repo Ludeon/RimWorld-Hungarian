@@ -11,15 +11,12 @@
   <!-- EN: A variant of cataphract armor with a shoulder-mounted flamebolt launcher. This armor is slightly less protective than standard cataphract armor against normal damage, but is especially flame-resistant. The flamebolt launcher has very limited ammo and must be reloaded after use.\n\nPhoenixes specialize in clearing out very confined spaces full of enemies, as in underground or shipborne operations. They can absorb hits while moving down a corridor, fill rooms with flame, and emerge from the smoke unscathed. -->
   <Apparel_ArmorCataphractPhoenix.description>A kataphrakt páncél egyik változata, vállra szerelt gyújtóbomba-vetővel. Ez a páncél valamivel kevésbé véd a normál kataphrakt páncélnál a normál sérülésekkel szemben, de különösen tűzálló. A gyújtóbomba-vetőnek nagyon korlátozott lőszere van, és használat után újra kell tölteni.\n\nA főnixek az ellenségekkel teli, nagyon szűk helyek kitisztítására specializálódtak, például a földalatti vagy hajós műveletek során. Elnyelhetik az ütéseket, miközben egy folyosón haladnak, lánggal töltik meg a helyiségeket, és sértetlenül kilépnek a füstből.</Apparel_ArmorCataphractPhoenix.description>
   <!-- EN: incendiary -->
-  <Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.chargeNoun>TODO</Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.chargeNoun>
+  <Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.chargeNoun>gyújtóbomba</Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
   <Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.cooldownGerund>TODO</Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: launch incendiary -->
   <Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>gyújtóbomba kilövése</Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>
-  
-  <!-- UNUSED -->
-  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>gyújtóbomba</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>
-  
+
   <!-- EN: prestige cataphract armor -->
   <Apparel_ArmorCataphractPrestige.label>presztízs kataphrakt páncél</Apparel_ArmorCataphractPrestige.label>
   <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
@@ -51,22 +48,16 @@
   <!-- EN: jump -->
   <Apparel_ArmorLocust.verbs.jump.label>ugrás</Apparel_ArmorLocust.verbs.jump.label>
   
-  <!-- UNUSED -->
-  <Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>ugrás</Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>
-  
   <!-- EN: grenadier armor -->
   <Apparel_ArmorMarineGrenadier.label>gránátos páncél</Apparel_ArmorMarineGrenadier.label>
   <!-- EN: A variant of marine armor with an integrated frag launcher on the shoulder. The armor is slightly less protective than standard marine armor. The launcher can only hold a limited amount of ammo and must be reloaded after use.\n\nGrenadiers usually specialize in breaching buildings or internal ship bulkheads. While not effective at very long range, grenadiers can be surprisingly deadly in confined quarters. -->
   <Apparel_ArmorMarineGrenadier.description>A tengerészgyalogos páncél egyik változata, integrált repeszgránát-vetővel a vállán. A páncél valamivel kevésbé véd, mint a hagyományos tengeri páncél. A gránátvető csak korlátozott mennyiségű lőszert tud tárolni, és használat után újra kell tölteni.\n\nA gránátosok általában az épületek vagy a hajó belső válaszfalainak áttörésére specializálódtak. Bár nem hatékonyak túl nagy hatótávon, a gránátosok meglepően halálosak lehetnek zárt helyen.</Apparel_ArmorMarineGrenadier.description>
   <!-- EN: grenade -->
-  <Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.chargeNoun>TODO</Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.chargeNoun>
+  <Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.chargeNoun>gránát</Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
   <Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.cooldownGerund>TODO</Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: launch frag grenade -->
   <Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>Repeszgránát kilövése</Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>
-  
-  <!-- UNUSED -->
-  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>gránát</Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>
   
   <!-- EN: prestige marine helmet -->
   <Apparel_ArmorMarineHelmetPrestige.label>presztízs tengerészgyalogos sisak</Apparel_ArmorMarineHelmetPrestige.label>

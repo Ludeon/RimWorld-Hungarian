@@ -197,6 +197,7 @@
 
   <!-- EN: No handler capable of taming {ANIMAL_kindBase} (requires level {1} in {2}, best capable handler {HANDLER_labelShort} has {4}). -->
   <MessageNoHandlerSkilledEnough>Senki nem képes megszelídíteni őt: {ANIMAL_kindBase}. (szükséges {2} szint: {1}, legjobb idomárnak ({HANDLER_labelShort}) {4} van).</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>Nincs olyan kezelő, aki képes lenne megszelídíteni a(z) {ANIMAL_kindBase} elemet (szükséges {2} szint: {1}, a legjobb képességű {HANDLER_labelShort} idomárnak {4} van).</MessageNoHandlerSkilledEnough>
   
   <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
   <MessageEatenByPredator>{PREDATOR} megette őt: {EATEN_labelShort}.</MessageEatenByPredator>
@@ -204,7 +205,7 @@
   <MessageAttackedByPredator>{PREDATOR} megtámadta őt: {PREY_labelShort}!</MessageAttackedByPredator>
 
   <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
-  <MessageRoamerLeaving>TODO</MessageRoamerLeaving>
+  <MessageRoamerLeaving>{PAWN_labelShort} kóborolni kezdett! Elhagyja a térképet, hacsak egy állatgondozó vissza nem vezeti egy karámhoz.</MessageRoamerLeaving>
 
   <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>Egy kaptár reprodukálta magát.</MessageHiveReproduced>
@@ -212,7 +213,7 @@
   <!-- EN: The trade caravan from {0} is leaving. -->
   <MessageTraderCaravanLeaving>{0} karavánja elmegy.</MessageTraderCaravanLeaving>
   <!-- EN: The trade caravan from {0} has been dismissed. -->
-  <MessageTraderCaravanDismissed>TODO</MessageTraderCaravanDismissed>
+  <MessageTraderCaravanDismissed>{0} kereskedelmi karavánja el lett utasítva.</MessageTraderCaravanDismissed>
 
   <!-- EN: {1_labelShort} is dead. -->
   <MessageCantSelectDeadPawn>{1_labelShort} meghalt.</MessageCantSelectDeadPawn>

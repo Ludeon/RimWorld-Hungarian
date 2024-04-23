@@ -244,9 +244,9 @@
   
   <!-- Firefoam popper -->
   <!-- EN: Auto rebuild -->
-  <CommandAutoRebuild_Building>TODO</CommandAutoRebuild_Building>
+  <CommandAutoRebuild_Building>Automatikus újraépítés</CommandAutoRebuild_Building>
   <!-- EN: If this is on, {BUILDING_definite} will automatically be replaced after it detonates. -->
-  <CommandAutoRebuild_BuildingDesc>TODO</CommandAutoRebuild_BuildingDesc>
+  <CommandAutoRebuild_BuildingDesc>Ha ez be van kapcsolva, {BUILDING_definite} automatikusan újjá lesz építve, miután megsemmisült.</CommandAutoRebuild_BuildingDesc>
   
   <!-- Animal control -->
   <!-- EN: Animals attack -->
@@ -643,24 +643,24 @@
   <!-- EN: Linked storage settings -->
   <LinkedStorageSettings>TODO</LinkedStorageSettings>
   <!-- EN: 1 building -->
-  <OneBuilding>TODO</OneBuilding>
+  <OneBuilding>1 épület</OneBuilding>
   <!-- EN: {0} buildings -->
-  <NumBuildings>TODO</NumBuildings>
+  <NumBuildings>{0} épület</NumBuildings>
   <!-- EN: Stores -->
-  <StoresThings>TODO</StoresThings>
+  <StoresThings>Raktárak</StoresThings>
   <!-- EN: Select all linked -->
   <SelectAllLinked>Összes kijelölése</SelectAllLinked>
   <!-- EN: Select all storage buildings linked to this. -->
-  <SelectAllLinkedDesc>TODO</SelectAllLinkedDesc>
+  <SelectAllLinkedDesc>Az összes ehhez kapcsolódó raktárépület kiválasztása.</SelectAllLinkedDesc>
 
   <!-- EN: {0_labelShort} is unconscious. -->
-  <CommandDisabledUnconscious>TODO</CommandDisabledUnconscious>
+  <CommandDisabledUnconscious>{0_labelShort} eszméletlen.</CommandDisabledUnconscious>
 
   <!-- Study -->
   <!-- EN: Toggle study -->
-  <CommandToggleStudy>TODO</CommandToggleStudy>
+  <CommandToggleStudy>Tanulás váltása</CommandToggleStudy>
   <!-- EN: Determines whether or not wardens will automatically study this. Forbidden things will never be studied. -->
-  <CommandToggleStudyDesc>TODO</CommandToggleStudyDesc>
+  <CommandToggleStudyDesc>Meghatározza, hogy a felügyelők automatikusan tanulmányozzák-e ezt. A tiltott dolgokat soha nem fogják tanulmányozni.</CommandToggleStudyDesc>
 
   <!-- Limited use count action -->
   <!-- EN: No uses left. -->

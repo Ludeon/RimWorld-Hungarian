@@ -42,7 +42,7 @@
   <!-- EN: Inspired: Inspired recruitment -->
   <Inspired_Recruitment.baseInspectLine>Ihletett: toborzás</Inspired_Recruitment.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance, as long as they are not unwaveringly loyal.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
-  <Inspired_Recruitment.beginLetter>[PAWN_pronoun] sikeresen toborozza a következő foglyot, függetlenül a nehézségtől vagy az ellenállástól.\n\nAz ihlet 8 nap elteltével, vagy a fogoly beszervezésével véget ér.</Inspired_Recruitment.beginLetter>
+  <Inspired_Recruitment.beginLetter>[PAWN_pronoun] sikeresen toborozza a következő foglyot, függetlenül a nehézségtől vagy az ellenállástól, mindaddig, amíg nem rendíthetetlenül hűségesek..\n\nAz ihlet 8 nap elteltével, vagy a fogoly beszervezésével véget ér.</Inspired_Recruitment.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired recruitment). -->
   <Inspired_Recruitment.endMessage>{0} már nem pörög (toborzás).</Inspired_Recruitment.endMessage>
   

@@ -23,7 +23,7 @@
   <!-- EN: extreme -->
   <Animal_Plague.stages.extreme-0.label>súlyos</Animal_Plague.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <Animal_Plague.stages.extreme-1.label>súlyos</Animal_Plague.stages.extreme-1.label>
+  <Animal_Plague.stages.extreme-1.label>életveszélyes</Animal_Plague.stages.extreme-1.label>
   
   <!-- EN: fibrous mechanites -->
   <FibrousMechanites.label>rostnanitok</FibrousMechanites.label>
@@ -51,11 +51,11 @@
   <GutWorms.description>Parazita férgek a bélben. Hányást okoznak. Az áldozat által megevett ételt fogyasztják, ez növeli az éhséget.</GutWorms.description>
   
   <!-- EN: lung rot -->
-  <LungRot.label>TODO</LungRot.label>
+  <LungRot.label>tüdővész</LungRot.label>
   <!-- EN: A bacterial disease that targets an individual's lungs. Minor cases are little more than an irritation, but if left unchecked the bacterial growth results in an increasing amount of fluid buildup in the victim's lungs, eventually resulting in death.\n\nIf treated properly, the body's immune system will eventually clear lung rot. -->
-  <LungRot.description>TODO</LungRot.description>
+  <LungRot.description>Bakteriális betegség, amely az egyén tüdejét támadja meg. A kisebb esetek nem jelentenek többet egy irritációnál, de ha figyelmen kívül hagyják a baktériumok szaporodását, egyre nagyobb mennyiségű folyadék halmozódik fel az áldozat tüdejében, ami végül halálhoz vezet.\n\nMegfelelő kezelés esetén a szervezet immunrendszere végül leküzdi a tüdővészt.</LungRot.description>
   <!-- EN: A painful bacterial disease caused by exposure to rot stink gas. Upon reaching full saturation, it will kill the affected individual. -->
-  <LungRot.descriptionShort>TODO</LungRot.descriptionShort>
+  <LungRot.descriptionShort>Fájdalmas bakteriális betegség, amelyet rothasztó, büdös gáz okoz. A teljes telítettség elérésekor megöli az érintett egyedet.</LungRot.descriptionShort>
   <!-- EN: minor -->
   <LungRot.stages.minor.label>enyhe</LungRot.stages.minor.label>
   <!-- EN: major -->
@@ -64,17 +64,17 @@
   <LungRot.stages.extreme.label>súlyos</LungRot.stages.extreme.label>
   
   <!-- EN: rot stink exposure -->
-  <LungRotExposure.label>TODO</LungRotExposure.label>
+  <LungRotExposure.label>rothadó bűznek kitettség</LungRotExposure.label>
   <!-- EN: Long-term exposure to rot stink gas. Rot stink exposure has no direct health effects. However, serious rot stink exposure has a chance to result in a painful bacterial infection known as lung rot. When not exposed to rot stink gas, rot stink exposure will slowly decrease. -->
-  <LungRotExposure.description>TODO</LungRotExposure.description>
+  <LungRotExposure.description>Hosszú távú kitettség rothadó szagoknak. A gáz bűzének nincs közvetlen egészségügyi hatása. A súlyos rothadó gázoknak való kitettség azonban fájdalmas bakteriális fertőzést okozhat, amelyet tüdővésznek neveznek. Ha az egyed már nincs kitéve rothadó bűznek, a kitettség lassan csökken.</LungRotExposure.description>
   <!-- EN: {PAWN_nameDef} is beginning to suffer from exposure to rot stink gas. Keep {PAWN_objective} away from rotting corpses and other sources of rot stink. -->
-  <LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>TODO</LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} kezd szenvedni a rothadó szagoktól. Tartsd távol őt a rothadó holttestektől és a rothadás egyéb bűzforrásaitól.</LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <!-- EN: minor -->
   <LungRotExposure.stages.minor.label>enyhe</LungRotExposure.stages.minor.label>
   <!-- EN: major -->
   <LungRotExposure.stages.major.label>erős</LungRotExposure.stages.major.label>
   <!-- EN: serious -->
-  <LungRotExposure.stages.serious.label>TODO</LungRotExposure.stages.serious.label>
+  <LungRotExposure.stages.serious.label>súlyos</LungRotExposure.stages.serious.label>
   
   <!-- EN: malaria -->
   <Malaria.label>malária</Malaria.label>

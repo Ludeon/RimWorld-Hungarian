@@ -163,7 +163,7 @@
   <StatsReport_SatisfiesTitle>Megfelel a felhasználó cím követelményeinek</StatsReport_SatisfiesTitle>
 
   <!-- EN: Age -->
-  <Stat_Age_Label>TODO</Stat_Age_Label>
+  <Stat_Age_Label>Kor</Stat_Age_Label>
   <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
   <Stat_RecreationType_Desc>A különböző rekreációs források különböző rekreációs típusokat elégítenek ki. A telepesek megunják ugyanazt a rekreációs típust ismételten csinálni, ezért fontos, hogy változatos rekreációs forrásokat biztosítsanak különböző rekreációs típusokkal.</Stat_RecreationType_Desc>
   <!-- EN: All recreation types -->
@@ -207,9 +207,9 @@
   <!-- EN: Whether nudists will consider this item to be a piece of clothing. If not, nudists will never be bothered by wearing this. -->
   <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>A nudisták ruhadarabnak fogják-e tekinteni ezt az elemet. Ha nem, akkor a nudistákat soha nem fogja zavarni az ilyen viselet.</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
   <!-- EN: Gender -->
-  <Stat_Thing_Apparel_Gender>TODO</Stat_Thing_Apparel_Gender>
+  <Stat_Thing_Apparel_Gender>Nem</Stat_Thing_Apparel_Gender>
   <!-- EN: Certain apparel is generally preferred by one gender. Anyone else may be unhappy wearing it. -->
-  <Stat_Thing_Apparel_Gender_Desc>TODO</Stat_Thing_Apparel_Gender_Desc>
+  <Stat_Thing_Apparel_Gender_Desc>Bizonyos ruházati cikkeket általában az egyik nem preferál. Lehet, hogy bárki más boldogtalan lesz, ha viseli.</Stat_Thing_Apparel_Gender_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
   <Stat_Thing_Apparel_Covers_Desc>Milyen testrészeket fed.\n\nA páncélzat nem védi azokat a testrészeket, amiket nem fed.</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
@@ -243,7 +243,7 @@
   <!-- EN: Whether this creature is blocked by fences and barricades. -->
   <Stat_Race_BlockedByFences_Desc>Hogy ezt a lényt elzárják-e kerítések és barikádok.</Stat_Race_BlockedByFences_Desc>
   <!-- EN: How often a tame animal will attempt to roam away and exit the map.\n\nAnimals will only roam if they have a direct path to the map edge. You can use fences, barricades, walls, and doors to prevent this.\n\nAnimal handlers can rope roaming animals and bring them back to a pen. -->
-  <Stat_Race_RoamInterval_Desc>Milyen gyakran kísérel meg egy szelíd állat elkalandozni és kilépni a térképről.\n\nAz állatok csak akkor barangolnak, ha van közvetlen útjuk a térkép széléhez. Ezt megakadályozhatod kerítésekkel, barikádokkal, falakkal és ajtókkal.\n\nAz állatfelügyelők befoghatják a kóborló állatokat és visszahozhatják őket egy karámba.</Stat_Race_RoamInterval_Desc>
+  <Stat_Race_RoamInterval_Desc>Milyen gyakran kísérel meg egy szelíd állat elkalandozni és kilépni a térképről.\n\nAz állatok csak akkor barangolnak, ha van közvetlen útjuk a térkép széléhez. Ezt megakadályozhatod kerítésekkel, barikádokkal, falakkal és ajtókkal.\n\nAz állatgondozók befoghatják a kóborló állatokat és visszahozhatják őket egy karámba.</Stat_Race_RoamInterval_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
   <Stat_Thing_Ingestible_Joy_Desc>A dolog elfogyasztásának rekreációs értéke. A nagyobb számok jobban kielégítik a pihenési igényt.</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
@@ -305,7 +305,7 @@
   <!-- EN: The offset in efficiency applied to body parts affected by this. -->
   <Stat_Hediff_PartEfficiency_Desc>A hatékonyság változása az érintett testrészeken.</Stat_Hediff_PartEfficiency_Desc>
   <!-- EN: How efficiently this functions compared to a natural body part. -->
-  <Stat_Hediff_PartEfficiencyAbsolute_Desc>TODO</Stat_Hediff_PartEfficiencyAbsolute_Desc>
+  <Stat_Hediff_PartEfficiencyAbsolute_Desc>Milyen hatékonyan működik ez egy természetes testrészhez képest.</Stat_Hediff_PartEfficiencyAbsolute_Desc>
   <!-- EN: The mental abilities this affects. -->
   <Stat_Hediff_Affects_Desc>Azon mentális képességek, amelyeket ez befolyásol.</Stat_Hediff_Affects_Desc>
   <!-- EN: Hunger rate offset -->
@@ -315,9 +315,9 @@
   <!-- EN: An offset on the rate at which the food need depletes. -->
   <Stat_Hediff_HungerRateOffset_Desc>Az éhség elmúlási sebességének változása.</Stat_Hediff_HungerRateOffset_Desc>
   <!-- EN: Sleep fall rate -->
-  <Stat_Hediff_TirednessOffset_Name>Kifáradás változása</Stat_Hediff_TirednessOffset_Name>
+  <Stat_Hediff_TirednessOffset_Name>Alvásigény változása</Stat_Hediff_TirednessOffset_Name>
   <!-- EN: An offset applied to the rate at which the creature's sleep need falls. -->
-  <Stat_Hediff_TirednessOffset_Desc>A lények fáradtságának csökkenése.</Stat_Hediff_TirednessOffset_Desc>
+  <Stat_Hediff_TirednessOffset_Desc>A lény alvásigényének csökkenési ütemére alkalmazott eltolás.</Stat_Hediff_TirednessOffset_Desc>
   <!-- EN: A multiplier applied to the rate at which the creature's sleep need falls. -->
   <Stat_Hediff_TirednessFactor_Desc>A lények fáradtságának csökkenésének szorzója.</Stat_Hediff_TirednessFactor_Desc>
   <!-- EN: Whether or not this will prevent infections. -->
@@ -389,13 +389,13 @@
   <!-- EN: The color this building was painted. -->
   <Stat_Building_PaintColorDesc>A szín, amelyre az épületet festették.</Stat_Building_PaintColorDesc>
   <!-- EN: Resources to make -->
-  <Stat_Building_ResourcesToMake>TODO</Stat_Building_ResourcesToMake>
+  <Stat_Building_ResourcesToMake>Szükséges erőforrások</Stat_Building_ResourcesToMake>
   <!-- EN: The resources required to construct this. -->
-  <Stat_Building_ResourcesToMakeDesc>TODO</Stat_Building_ResourcesToMakeDesc>
+  <Stat_Building_ResourcesToMakeDesc>Az ehhez szükséges erőforrások.</Stat_Building_ResourcesToMakeDesc>
   <!-- EN: The weapon mounted on this creature. -->
-  <Stat_Thing_TurretDesc>TODO</Stat_Thing_TurretDesc>
+  <Stat_Thing_TurretDesc>A fegyver, amit erre a lényre szereltek.</Stat_Thing_TurretDesc>
   <!-- EN: The ingredients needed to make this. -->
-  <Stat_Thing_Ingredients>TODO</Stat_Thing_Ingredients>
+  <Stat_Thing_Ingredients>Az elkészítéshez szükséges összetevők.</Stat_Thing_Ingredients>
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
@@ -548,7 +548,7 @@
   <Stat_Source_ModReport>Ez a tartalom a mod-ból származik</Stat_Source_ModReport>
 
   <!-- EN: Contained book beauty -->
-  <ContainedBookBeauty>TODO</ContainedBookBeauty>
+  <ContainedBookBeauty>Tartalmazott könyvek szépsége</ContainedBookBeauty>
   <!-- EN: {0} hits -->
   <Stat_TrapDamageHitCount>TODO</Stat_TrapDamageHitCount>
 </LanguageData>
