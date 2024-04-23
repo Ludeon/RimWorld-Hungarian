@@ -95,7 +95,7 @@ momma beast - tenyészanya?
 
 shambler - csoszogó, szaggató? - élőhalott, zombiszerű humanoid
 
-sightstealer - elmerabló, látványlopó? - torz, törékeny, karmokkal rendelkező élőhalott lény, amely láthatatlanná teszi magát, míg közel nem ér  
+sightstealer - lélekrabló, lélekrabló - torz, törékeny, karmokkal rendelkező élőhalott lény, amely láthatatlanná teszi magát, míg közel nem ér  
 
 fleshbeast - húsmassza, rákos hússzövetekből összeálló szörnyeteg
 
