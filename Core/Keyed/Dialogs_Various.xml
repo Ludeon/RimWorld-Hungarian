@@ -204,7 +204,7 @@
   
   <!-- Choose new wanderers -->
   <!-- EN: Choose new wanderers -->
-  <ChooseNewWanderers>TODO</ChooseNewWanderers>
+  <ChooseNewWanderers>Válassz új vándorokat</ChooseNewWanderers>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
@@ -341,11 +341,11 @@
   <!-- EN: Look in {0} -->
   <IncludeSpecific>Számlálás itt: {0}</IncludeSpecific>
   <!-- EN: Stockpiles -->
-  <StockpilePlural>TODO</StockpilePlural>
+  <StockpilePlural>Raktárkészletek</StockpilePlural>
   <!-- EN: Shelves -->
-  <ShelfPlural>TODO</ShelfPlural>
+  <ShelfPlural>Polcok</ShelfPlural>
   <!-- EN: Groups -->
-  <GroupPlural>TODO</GroupPlural>
+  <GroupPlural>Csoportok</GroupPlural>
   
   <!-- Info card -->
   <!-- EN: Damage -->
@@ -611,7 +611,7 @@
   <!-- EN: has trait -->
   <MeditationFocusEnabledByTrait>tulajdonsága van</MeditationFocusEnabledByTrait>
   <!-- EN: has health condition -->
-  <MeditationFocusEnabledByHediff>TODO</MeditationFocusEnabledByHediff> 
+  <MeditationFocusEnabledByHediff>egészségi állapota van</MeditationFocusEnabledByHediff> 
   <!-- EN: does not have trait -->
   <MeditationFocusDisabledByTrait>nincs tulajdonsága</MeditationFocusDisabledByTrait>
   <!-- EN: Enables meditation focus types -->
@@ -715,9 +715,9 @@
   
   <!-- Select caravan settlement -->
   <!-- EN: Select colony to send caravan -->
-  <SelectCaravanOrigin>TODO</SelectCaravanOrigin> 
+  <SelectCaravanOrigin>Válassza ki a kolóniát a karaván elküldéséhez</SelectCaravanOrigin> 
   <!-- EN: Send a caravan from {0}. -->
-  <SelectCaravanDesc>TODO</SelectCaravanDesc> 
+  <SelectCaravanDesc>Karaván küldése innen: {0}.</SelectCaravanDesc> 
   <!-- EN: Colonists -->
   <SelectCaravanColonists>Gyarmatosok</SelectCaravanColonists>
   
@@ -917,7 +917,7 @@
   <!-- EN: Research Screen -->
   <ResearchScreen>Kutatási képernyő</ResearchScreen>
   <!-- EN: By researching {0} you have discovered the {1} research project. -->
-  <ResearchUnknownProjectRevealed>TODO</ResearchUnknownProjectRevealed>
+  <ResearchUnknownProjectRevealed>{0} kifejlesztésével felfedezted a következő kutatási projektet: {1}.</ResearchUnknownProjectRevealed>
   
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
@@ -1064,7 +1064,7 @@
   <!-- EN: Default medicine settings -->
   <DefaultMedicineSettings>Alapértelmezett gyógyszerbeállítások</DefaultMedicineSettings>
   <!-- EN: These medical settings are assigned to creatures when they first join a given group. You can manually assign a setting to an individual in their health tab.\n\nNote: If the creature joins a new group, they will always take the settings of that group, even if you previously assigned them a setting. -->
-  <DefaultMedicineSettingsDesc>TODO</DefaultMedicineSettingsDesc>
+  <DefaultMedicineSettingsDesc>Ezeket az gyógyszerbeállításokat rendeljük az élőlényekhez, amikor először csatlakoznak egy adott csoporthoz. Manuálisan is hozzárendelhetsz egy beállítást egy személyhez az egészségi állapot lapján.\n\nMegjegyzés: Ha a lény csatlakozik egy új csoporthoz, mindig átveszi az adott csoport beállításait, még akkor is, ha korábban más beállítást rendeltél hozzá.</DefaultMedicineSettingsDesc>
   
   <!-- EN: Defaults -->
   <MedGroupDefaults>Alapérték</MedGroupDefaults>
@@ -1072,42 +1072,42 @@
   <!-- EN: Colonists -->
   <MedGroupColonists>Gyarmatosok</MedGroupColonists>
   <!-- EN: Free members of your colony -->
-  <MedGroupColonistsDesc>TODO</MedGroupColonistsDesc>
+  <MedGroupColonistsDesc>Kolóniád szabad tagjai</MedGroupColonistsDesc>
   
   <!-- EN: Prisoners -->
-  <MedGroupPrisoners>TODO</MedGroupPrisoners>
+  <MedGroupPrisoners>Foglyok</MedGroupPrisoners>
   <!-- EN: Prisoners in your colony, regardless of faction. -->
-  <MedGroupPrisonersDesc>TODO</MedGroupPrisonersDesc>
+  <MedGroupPrisonersDesc>Foglyok a kolóniáján, frakciótól függetlenül.</MedGroupPrisonersDesc>
 
   <!-- EN: Tamed animals -->
-  <MedGroupTamedAnimals>TODO</MedGroupTamedAnimals>
+  <MedGroupTamedAnimals>Szelidített állatok</MedGroupTamedAnimals>
   <!-- EN: Animals which have been tamed by your colony. -->
-  <MedGroupTamedAnimalsDesc>TODO</MedGroupTamedAnimalsDesc>
+  <MedGroupTamedAnimalsDesc>Állatok, amelyeket a kolóniád megszelídített.</MedGroupTamedAnimalsDesc>
 
   <!-- EN: Friendly faction members -->
-  <MedGroupFriendlyFaction>TODO</MedGroupFriendlyFaction>
+  <MedGroupFriendlyFaction>Barátságos frakciótagok</MedGroupFriendlyFaction>
   <!-- EN: Humans or animals who are part of a faction which is friendly with your faction (goodwill above 75). -->
-  <MedGroupFriendlyFactionDesc>TODO</MedGroupFriendlyFactionDesc>
+  <MedGroupFriendlyFactionDesc>Emberek vagy állatok, akik olyan frakcióhoz tartoznak, amely barátságos a frakcióddal (75 feletti viszony).</MedGroupFriendlyFactionDesc>
   
   <!-- EN: Neutral faction members -->
-  <MedGroupNeutralFaction>Semleges frakció</MedGroupNeutralFaction>
+  <MedGroupNeutralFaction>Semleges frakciótagok</MedGroupNeutralFaction>
   <!-- EN: Humans or animals who are part of a faction which is neutral with your faction (between -75 and 75 goodwill). -->
-  <MedGroupNeutralFactionDesc>TODO</MedGroupNeutralFactionDesc>
+  <MedGroupNeutralFactionDesc>Emberek vagy állatok, akik olyan frakcióhoz tartoznak, amely semleges a frakcióddal (-75 és 75 közötti viszony).</MedGroupNeutralFactionDesc>
 
   <!-- EN: Hostile faction members -->
-  <MedGroupHostileFaction>Ellenséges frakció</MedGroupHostileFaction>
+  <MedGroupHostileFaction>Ellenséges frakciótagok</MedGroupHostileFaction>
   <!-- EN: Humans or animals who are part of a faction which is hostile with your faction (goodwill below -75). -->
-  <MedGroupHostileFactionDesc>TODO</MedGroupHostileFactionDesc>
+  <MedGroupHostileFactionDesc>Emberek vagy állatok, akik olyan frakcióhoz tartoznak, amely ellenséges a frakcióddal (a viszony -75 alatt).</MedGroupHostileFactionDesc>
 
   <!-- EN: Other humans -->
-  <MedGroupNoFaction>TODO</MedGroupNoFaction>
+  <MedGroupNoFaction>Egyéb emberek</MedGroupNoFaction>
   <!-- EN: Humans who are not members of any faction. -->
-  <MedGroupNoFactionDesc>TODO</MedGroupNoFactionDesc>
+  <MedGroupNoFactionDesc>Emberek, akik nem tagjai egyetlen frakciónak sem.</MedGroupNoFactionDesc>
   
   <!-- EN: Wildlife -->
-  <MedGroupWildlife>TODO</MedGroupWildlife>
+  <MedGroupWildlife>Vadvilág</MedGroupWildlife>
   <!-- EN: Animals and other creatures which are not members of any faction. -->
-  <MedGroupWildlifeDesc>TODO</MedGroupWildlifeDesc>
+  <MedGroupWildlifeDesc>Állatok és egyéb lények, amelyek nem tagjai egyetlen frakciónak sem.</MedGroupWildlifeDesc>
 
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
@@ -1205,7 +1205,7 @@
   <!-- EN: Cannot use: {0} is asexual. -->
   <AbilityCantApplyOnAsexual>Nem használható: {0} aszexuális.</AbilityCantApplyOnAsexual>
   <!-- EN: {PAWN_labelShort} has no healable injuries. -->
-  <AbilityCannotCastNoHealableInjury>TODO</AbilityCannotCastNoHealableInjury>
+  <AbilityCannotCastNoHealableInjury>{PAWN_labelShort} nem rendelkezik gyógyítható sérüléssel.</AbilityCannotCastNoHealableInjury>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
   <AbilityCantApplyWrongAttractionGender>{1_labelShort} nem a megfelelő nem {0_labelShort} számára.</AbilityCantApplyWrongAttractionGender>
   <!-- EN: {0_labelShort} is too young. -->
@@ -1407,17 +1407,17 @@
   <ColorTemperatureTooltip>Válassz egy színt a színhőmérséklet beállításával. Megjegyzés: Ez csak a vizuális színt érinti, a hőkibocsátást nem.</ColorTemperatureTooltip>
 
   <!-- EN: {0_labelShort} is psychically deaf. -->
-  <CannotShootPawnIsPsychicallyDeaf>TODO</CannotShootPawnIsPsychicallyDeaf>
+  <CannotShootPawnIsPsychicallyDeaf>{0_labelShort} pszichikailag süket.</CannotShootPawnIsPsychicallyDeaf>
 
   <!-- EN: Search the current map. -->
-  <SearchTheMap>TODO</SearchTheMap>
+  <SearchTheMap>Keresés az aktuális térképen.</SearchTheMap>
   <!-- EN: Search the current map for items, buildings, people, animals, plants, and more. -->
-  <SearchTheMapDesc>TODO</SearchTheMapDesc>
+  <SearchTheMapDesc>Keress az aktuális térképen tárgyak, épületek, emberek, állatok, növények és egyebek után.</SearchTheMapDesc>
   <!-- EN: {0} results found -->
-  <MapSearchResults>TODO</MapSearchResults>
+  <MapSearchResults>{0} találat</MapSearchResults>
   <!-- EN: 1 result found -->
-  <MapSearchResultSingular>TODO</MapSearchResultSingular>
+  <MapSearchResultSingular>1 találat</MapSearchResultSingular>
   <!-- EN: Searching -->
-  <Searching>TODO</Searching>
+  <Searching>Keresés</Searching>
 
 </LanguageData>

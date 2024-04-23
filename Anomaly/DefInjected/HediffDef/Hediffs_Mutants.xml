@@ -9,7 +9,7 @@
   <AwokenCorpse.comps.HediffComp_MessageStageIncreased.message>TODO</AwokenCorpse.comps.HediffComp_MessageStageIncreased.message>
   
   <!-- EN: ghoul -->
-  <Ghoul.label>TODO</Ghoul.label>
+  <Ghoul.label>ghoul</Ghoul.label>
   <!-- EN: This person has been implanted with an archotech shard, twisting them into a jittering murder machine. Its body is an amalgam of flesh and metal, while its mind cycles between half-conscious stupor and murderous intent.\n\nThey cannot work; they only fight. Ghouls must eat raw meat. If they go hungry, they can turn hostile.\n\nMany find ghouls' constant twitching to be disturbing, even when they aren't killing someone. -->
   <Ghoul.description>TODO</Ghoul.description>
   
@@ -45,17 +45,17 @@
   <Rising.description>TODO</Rising.description>
   
   <!-- EN: shambler -->
-  <Shambler.label>TODO</Shambler.label>
+  <Shambler.label>csoszogó</Shambler.label>
   <!-- EN: This dead creature has been re-animated by corrupted archites. Shamblers are slow and mindless, and will attack any living creature relentlessly. After a few days on their feet, shamblers die from metabolic exhaustion. Captured shamblers can't move and thus won't expire. -->
-  <Shambler.description>TODO</Shambler.description>
+  <Shambler.description>Ezt a halott lényt elromlott architák támasztották fel. A csoszogó lassú, agyatlan és minden élőlényt könyörtelenül megtámad. Néhány nap mozgás után a csoszogók belepusztulnak az anyagcsere-kimerültségbe. Az elfogott csoszogó nem tud mozogni, így nem pusztul el.</Shambler.description>
   
   <!-- EN: shambler corpse -->
-  <ShamblerCorpse.label>TODO</ShamblerCorpse.label>
+  <ShamblerCorpse.label>csoszogó tetem</ShamblerCorpse.label>
   <!-- EN: This creature had previously been re-animated by corrupted archites. -->
-  <ShamblerCorpse.description>TODO</ShamblerCorpse.description>
+  <ShamblerCorpse.description>Ezt a lényt korábban elromlott architák újraélesztették.</ShamblerCorpse.description>
   <!-- EN: Shambler wounds -->
-  <ShamblerCorpse.renderNodeProperties.0.debugLabel>TODO</ShamblerCorpse.renderNodeProperties.0.debugLabel>
+  <ShamblerCorpse.renderNodeProperties.0.debugLabel>Csoszogó sebek</ShamblerCorpse.renderNodeProperties.0.debugLabel>
   <!-- EN: Shambler wounds -->
-  <ShamblerCorpse.renderNodeProperties.1.debugLabel>TODO</ShamblerCorpse.renderNodeProperties.1.debugLabel>
+  <ShamblerCorpse.renderNodeProperties.1.debugLabel>Csoszogó sebek</ShamblerCorpse.renderNodeProperties.1.debugLabel>
   
 </LanguageData>

@@ -536,7 +536,7 @@
   </MeteoriteImpact.rulePack.rulesStrings>
   
   <!-- EN: raid -->
-  <Raid.label>TODO</Raid.label>
+  <Raid.label>rajtaütés</Raid.label>
   <!-- EN:
     <li>tale_noun->an raid on [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->an assault on [PAWN_nameDef]'s [Community]</li>
@@ -569,8 +569,8 @@
     <li>defender_circumstance->flexing [PAWN_possessive] muscles</li>
   -->
   <Raid.rulePack.rulesStrings>
-    <li>tale_noun->a [Community] , ahol [PAWN_nameDef] él, rajtaütést szenved</li>
-    <li>tale_noun->a [Community] , ahol [PAWN_nameDef] él, rajtaütést szenved</li>
+    <li>tale_noun->a [Community], ahol [PAWN_nameDef] él, rajtaütést szenved</li>
+    <li>tale_noun->a [Community], ahol [PAWN_nameDef] él, rajtaütést szenved</li>
     <li>image->[Quantity_adjphrase] [Enemy] [circumstance_phrase]</li>
     <li>image->egy egész hadsereg [circumstance_phrase]</li>
     <li>image->mindent elsöprő haderő [circumstance_phrase]</li>
@@ -808,7 +808,7 @@
   </ToxicFallout.rulePack.rulesStrings>
   
   <!-- EN: volcanic winter -->
-  <VolcanicWinter.label>TODO</VolcanicWinter.label>
+  <VolcanicWinter.label>vulkáni tél</VolcanicWinter.label>
   <!-- EN:
     <li>tale_noun->volcanic winter beginning at [PAWN_nameDef]'s [Community]</li>
     <li>image->a dark and cold sky, [circumstance_group]</li>

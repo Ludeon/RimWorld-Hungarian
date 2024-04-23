@@ -92,3 +92,11 @@ go-juice - go-juice? (katonai harci drog)
 void - semmi, űr, üresség, talán antianyag vagy kozmikus is lehetne, mert erre épülő fegyverek és ruházat is előjön
 
 momma beast - tenyészanya?
+
+shambler - csoszogó, szaggató? - élőhalott, zombiszerű humanoid
+
+sightstealer - elmerabló, látványlopó? - torz, törékeny, karmokkal rendelkező élőhalott lény, amely láthatatlanná teszi magát, míg közel nem ér  
+
+fleshbeast - húsmassza, rákos hússzövetekből összeálló szörnyeteg
+
+

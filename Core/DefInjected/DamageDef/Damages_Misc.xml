@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: acid burn -->
-  <AcidBurn.label>TODO</AcidBurn.label>
+  <AcidBurn.label>savas égés</AcidBurn.label>
   <!-- EN: {0} has burned to death. -->
-  <AcidBurn.deathMessage>TODO</AcidBurn.deathMessage>
+  <AcidBurn.deathMessage>{0} savtól halálra égett.</AcidBurn.deathMessage>
   
   <!-- EN: bomb -->
   <Bomb.label>bomba</Bomb.label>
@@ -17,9 +17,9 @@
   <BombSuper.deathMessage>{0} felrobbant.</BombSuper.deathMessage>
   
   <!-- EN: decayed organ -->
-  <Decayed.label>TODO</Decayed.label>
+  <Decayed.label>szervleállás</Decayed.label>
   <!-- EN: {0} died from metabolic disruptions caused by organ decay. -->
-  <Decayed.deathMessage>TODO</Decayed.deathMessage>
+  <Decayed.deathMessage>{0} a szervleállás okozta anyagcsere-zavarok miatt halt meg.</Decayed.deathMessage>
   
   <!-- EN: deterioration -->
   <Deterioration.label>állagromlás</Deterioration.label>
@@ -52,8 +52,8 @@
   <Thump.deathMessage>{0} agyon lett lőve.</Thump.deathMessage>
   
   <!-- EN: vaporize -->
-  <Vaporize.label>TODO</Vaporize.label>
+  <Vaporize.label>párolgás</Vaporize.label>
   <!-- EN: {0} has been vaporized by extreme heat. -->
-  <Vaporize.deathMessage>TODO</Vaporize.deathMessage>
+  <Vaporize.deathMessage>{0} extrém hő hatására elpárolgott.</Vaporize.deathMessage>
   
 </LanguageData>
