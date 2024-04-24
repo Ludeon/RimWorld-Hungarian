@@ -20,7 +20,7 @@
   <LetterText_ShamblerChimeraPlural>TODO</LetterText_ShamblerChimeraPlural>
 
   <!-- EN: Non-humans cannot participate in rituals. -->
-  <MessageRitualCannotBeMutant>TODO</MessageRitualCannotBeMutant>
+  <MessageRitualCannotBeMutant>Nem emberek nem vehetnek részt a rituálékban.</MessageRitualCannotBeMutant>
 
   <!-- Revenant -->
   <!-- EN: Revenant attack -->
@@ -664,33 +664,33 @@
   <MentalBreakReason_CubeSculpting>TODO</MentalBreakReason_CubeSculpting>
   
   <!-- EN: dirt -->
-  <CubeMaterialDirt>TODO</CubeMaterialDirt>
+  <CubeMaterialDirt>föld</CubeMaterialDirt>
   <!-- EN: stone -->
-  <CubeMaterialStone>TODO</CubeMaterialStone>
+  <CubeMaterialStone>kő</CubeMaterialStone>
   <!-- EN: sand -->
-  <CubeMaterialSand>TODO</CubeMaterialSand>
+  <CubeMaterialSand>homok</CubeMaterialSand>
   <!-- EN: scrap -->
-  <CubeMaterialScrap>TODO</CubeMaterialScrap>
+  <CubeMaterialScrap>hulladék</CubeMaterialScrap>
   
   <!-- EN: building a sculpture. -->
-  <ReportBuildingCubeEnroute>TODO</ReportBuildingCubeEnroute>
+  <ReportBuildingCubeEnroute>szobrot építeni.</ReportBuildingCubeEnroute>
   
   <!-- Slaughter ability -->
   <!-- EN: Cannot slaughter: {PAWN_labelShort} does not have flesh. -->
-  <MessageSlaughterNoFlesh>TODO</MessageSlaughterNoFlesh>
+  <MessageSlaughterNoFlesh>Nem vágható: {PAWN_labelShort} nem rendelkezik hússal.</MessageSlaughterNoFlesh>
   <!-- EN: Cannot slaughter: {PAWN_labelShort} is too large. -->
-  <MessageSlaughterTooBig>TODO</MessageSlaughterTooBig>
+  <MessageSlaughterTooBig>Nem lehet levágni: {PAWN_labelShort} túl nagy.</MessageSlaughterTooBig>
   
   <!-- Labyrinth -->
   <!-- EN: Entering the labyrinth -->
-  <GeneratingLabyrinth>TODO</GeneratingLabyrinth>
+  <GeneratingLabyrinth>Belépés a labirintusba</GeneratingLabyrinth>
   <!-- EN: {PAWN_nameDef} has vanished. -->
-  <MessagePawnVanished>TODO</MessagePawnVanished>
+  <MessagePawnVanished>{PAWN_nameDef} eltűnt.</MessagePawnVanished>
   <!-- EN: {PAWN_nameDef} has reappeared. -->
-  <MessagePawnReappeared>TODO</MessagePawnReappeared>
+  <MessagePawnReappeared>{PAWN_nameDef} újra megjelent.</MessagePawnReappeared>
   
   <!-- EN: Exit direction -->
-  <FloorEtchingsInspectorExit>TODO</FloorEtchingsInspectorExit>
+  <FloorEtchingsInspectorExit>Kilépési irány</FloorEtchingsInspectorExit>
   
   <!-- EN: Warped obelisk -->
   <LetterLabelObeliskDiscovered>TODO</LetterLabelObeliskDiscovered>
@@ -719,27 +719,27 @@
 
   <!-- Void monolith -->
   <!-- EN: No available pawns. -->
-  <MonolithActivateDisabledPawns>TODO</MonolithActivateDisabledPawns>
+  <MonolithActivateDisabledPawns>Nincsenek elérhető embered.</MonolithActivateDisabledPawns>
   <!-- EN: The monolith's dark metallic surface is warm to the touch, and {PAWN_nameDef} thinks {PAWN_pronoun} can hear a faint hum emanating from inside. The lines on its dusty surface seem to squirm in unsettling patterns.\n\n{PAWN_nameDef} focuses on the shapes, trying to uncover their meaning.\n\nThe hum strengthens. The shapes begin to flow in {PAWN_nameDef}'s vision, but the surface isn't changing. Power begins to uncoil in the empty space all around. A black shape is forming in {PAWN_possessive} mind.\n\nThe Anomaly is stirring... -->
-  <VoidMonolithInvestigatedText>TODO</VoidMonolithInvestigatedText>
+  <VoidMonolithInvestigatedText>A monolit sötét fémfelülete meleg tapintású, és {PAWN_nameDef} úgy gondolja, hogy valamiféle halk zümmögést vél hallani belülről. A poros felületén látható vonalak nyugtalanító mintázatokban mocorognak.\n\n{PAWN_nameDef} az alakzatokra összpontosít, és megpróbálja feltárni a jelentésüket.\n\nA zúgás egyre erősödik. Az alakzatok elkezdenek áramlani {PAWN_nameDef} kezdődő látomásában, de a felület nem változik. Az energia tekeregni kezd körös-körül az üres térben. Fekete alak formálódik az elméjében.\n\nAz Anomália felkavaró...</VoidMonolithInvestigatedText>
   <!-- EN: Keep focusing on the Anomaly -->
-  <VoidMonolithInvestigate>TODO</VoidMonolithInvestigate>
+  <VoidMonolithInvestigate>Továbbra is az Anomáliára összpontosítson</VoidMonolithInvestigate>
   <!-- EN: Walk away -->
-  <VoidMonolithWalkAway>TODO</VoidMonolithWalkAway>
+  <VoidMonolithWalkAway>Elsétál</VoidMonolithWalkAway>
   <!-- EN: View quest -->
-  <VoidMonolithViewQuest>TODO</VoidMonolithViewQuest>
+  <VoidMonolithViewQuest>Küldetés megtekintése</VoidMonolithViewQuest>
   <!-- EN: View Anomaly research -->
-  <VoidMonolithViewResearch>TODO</VoidMonolithViewResearch>
+  <VoidMonolithViewResearch>Tekintsd meg az anomáliakutatást</VoidMonolithViewResearch>
   <!-- EN: Current monolith level -->
-  <CurrentMonolithLevel>TODO</CurrentMonolithLevel>
+  <CurrentMonolithLevel>Jelenlegi monolit szint</CurrentMonolithLevel>
   <!-- EN: Investigate to learn more. -->
-  <VoidMonolithUndiscovered>TODO</VoidMonolithUndiscovered>
+  <VoidMonolithUndiscovered>Vizsgálódj, ha többet szeretnél megtudni.</VoidMonolithUndiscovered>
   <!-- EN: In order to advance the monolith to the next step, you need to discover {0} {1} tier entities. -->
   <VoidMonolithRequiredEntityCategory>TODO</VoidMonolithRequiredEntityCategory>
   <!-- EN: Discovered: {0} -->
-  <DiscoveredCount>TODO</DiscoveredCount>
+  <DiscoveredCount>Felfedezés: {0}</DiscoveredCount>
   <!-- EN: Required entities discovered. -->
-  <VoidMonolithAllEntitiesDiscovered>TODO</VoidMonolithAllEntitiesDiscovered>
+  <VoidMonolithAllEntitiesDiscovered>A szükséges entitások felfedezve.</VoidMonolithAllEntitiesDiscovered>
   <!-- EN: Required to increase level -->
   <VoidMonolithRequiresDiscovery>TODO</VoidMonolithRequiresDiscovery>
   <!-- EN: Undiscovered entities -->
@@ -770,17 +770,17 @@
   <CantActivateMonolith>TODO</CantActivateMonolith>
 
   <!-- EN: Monolith twisting -->
-  <MonolithTwistingAlert>TODO</MonolithTwistingAlert>
+  <MonolithTwistingAlert>Monolit átalakulás</MonolithTwistingAlert>
   <!-- EN: Your presence has caused the monolith to twist and morph. Soon the process will be complete. Be prepared for whatever comes next. -->
-  <MonolithTwistingExplanation>TODO</MonolithTwistingExplanation>
+  <MonolithTwistingExplanation>A jelenléted hatására a monolit elfordult és átalakult. Hamarosan a folyamat befejeződik. Készülj fel arra, ami ezután következik.</MonolithTwistingExplanation>
   <!-- EN: Fallen monolith -->
-  <MonolithAutoActivatingLabel>TODO</MonolithAutoActivatingLabel>
+  <MonolithAutoActivatingLabel>Ledőlt monolit</MonolithAutoActivatingLabel>
   <!-- EN: A wave of dread passes over your colonists. The fallen monolith has begun to stir. Slowly, it begins to twist and rearrange itself, morphing into something new.\n\nWithin a matter of days, the process will be complete. Be prepared for whatever comes next. -->
-  <MonolithAutoActivatingText>TODO</MonolithAutoActivatingText>
+  <MonolithAutoActivatingText>A rettegés hulláma járja át a telepeseid. A ledőlt monolit mocorogni kezdett. Lassan elkezdett csavarodni és átrendeződni, hogy valami új formálódjon belőle.\n\nNéhány napon belül a folyamat befejeződik. Készülj fel arra, ami ezután következik.</MonolithAutoActivatingText>
   <!-- EN: Void monolith -->
-  <MonolithAutoActivatedLabel>TODO</MonolithAutoActivatedLabel>
+  <MonolithAutoActivatedLabel>Üresség monolit</MonolithAutoActivatedLabel>
   <!-- EN: The monolith’s transformation is almost complete... -->
-  <MonolithAutoActivatedText>TODO</MonolithAutoActivatedText>
+  <MonolithAutoActivatedText>A monolit átalakulása már majdnem kész...</MonolithAutoActivatedText>
 
   <!-- EN: Gray pall -->
   <LetterLabelGrayPallDescending>TODO</LetterLabelGrayPallDescending>

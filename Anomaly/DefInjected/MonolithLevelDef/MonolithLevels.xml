@@ -31,24 +31,24 @@
   <!-- EN: Can be investigated now. -->
   <Inactive.monolithCanBeActivatedText>TODO</Inactive.monolithCanBeActivatedText>
   <!-- EN: fallen monolith -->
-  <Inactive.monolithLabel>TODO</Inactive.monolithLabel>
+  <Inactive.monolithLabel>ledőlt monolit</Inactive.monolithLabel>
   <!-- EN: {PAWN_nameDef} has been sent to investigate the monolith. -->
-  <Inactive.pawnSentToActivateMessage>TODO</Inactive.pawnSentToActivateMessage>
+  <Inactive.pawnSentToActivateMessage>{PAWN_nameDef} elküldve a monolit megvizsgálására.</Inactive.pawnSentToActivateMessage>
   
   <!-- EN: Attuning the monolith -->
   <Stirring.activatableLetterLabel>TODO</Stirring.activatableLetterLabel>
   <!-- EN: You now have sufficient knowledge of void-related phenomena to attune the void monolith and further open its psychic conduit.\n\nThis will draw the attention of more dangerous anomalous entities. -->
   <Stirring.activatableLetterText>TODO</Stirring.activatableLetterText>
   <!-- EN: As the monolith twisted and changed, {PAWN_nameDef} was overcome with a horrifying vision. In an instant, {PAWN_pronoun} understood.\n\nThe monolith is a doorway, just barely cracked open now. Something dark beyond imagination stirs on the other side, seeping into our reality.\n\nTerrified but excited, {PAWN_nameDef} is convinced {PAWN_pronoun} can learn more if given the time to study the monolith.\n\n - Building category unlocked: Anomaly\n - Research tab unlocked: Anomaly\n - Entity codex unlocked\n - You can now study the monolith and other entities to gain Anomaly research.\n\n(*Gray)Note: You can adjust the percentage of major threats that will be Anomaly-related at any point in the storyteller settings.(/Gray) -->
-  <Stirring.activatedLetterText>TODO</Stirring.activatedLetterText>
+  <Stirring.activatedLetterText>Ahogy a monolit megcsavarodott és megváltozott, {PAWN_nameDef} szörnyű látomásba került. Egy pillanat alatt megértette.\n\nA monolit egy ajtónyílás, amely most alig nyílt ki. Valami képzeletet felülmúló sötét dolog kavarog a túloldalon, átszivárogva a mi valóságunkba.\n\nRettegve, de izgatottan {PAWN_nameDef} meg van győződve arról, hogy többet is tanulhatna, ha lenne ideje a monolit tanulmányozására.\n\n - Épületkategória feloldva: Anomália\n - Kutatási lap feloldva: Anomália\n - Entitáskódex feloldva\n - Mostantól tanulmányozhatod a monolitot és más entitásokat, hogy elmélyedj az Anomáliakutatásban.\n\n(*Gray)Megjegyzés: Beállíthatod az Anomáliához kapcsolódó főbb fenyegetések százalékos arányát a mesemondói egyedi beállításoknál bármikor.(/Gray)</Stirring.activatedLetterText>
   <!-- EN: attune {0} -->
   <Stirring.activateFloatMenuText>TODO</Stirring.activateFloatMenuText>
   <!-- EN: Send a colonist to attune the monolith.\n\nThis will attract new and more dangerous entities. -->
-  <Stirring.activateGizmoDescription>TODO</Stirring.activateGizmoDescription>
+  <Stirring.activateGizmoDescription>Küldj egy telepest, hogy hangolja át a monolitot.\n\nEz új és veszélyesebb entitásokat vonz.</Stirring.activateGizmoDescription>
   <!-- EN: attune -->
   <Stirring.activateGizmoText>TODO</Stirring.activateGizmoText>
   <!-- EN: Send a colonist to attune the monolith. -->
-  <Stirring.activateQuestText>TODO</Stirring.activateQuestText>
+  <Stirring.activateQuestText>Küldj egy telepest, hogy hangolja át a monolitot.</Stirring.activateQuestText>
   <!-- EN: You've activated the monolith. It is a conduit for psychic energy, just barely cracked open now. A mind of incomprehensible horror stirs on the other side, and is now touching our world.\n\nThe monolith seems to be partly active, and there seems to be no way to shut it down. To learn more you must activate it further, which will require some special research. -->
   <Stirring.extraQuestDescription>TODO</Stirring.extraQuestDescription>
   <!-- EN: Level 1: Intermittent psychic humming -->
