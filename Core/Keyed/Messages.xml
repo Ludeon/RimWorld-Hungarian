@@ -14,7 +14,7 @@
   <MessageRaidersStealing>{1} tagjai ({0}) úgy döntöttek, hogy ellopják, amit tudnak és távoznak</MessageRaidersStealing>
 
   <!-- EN: The mechanoids sense no more targets and are moving on. -->
-  <MechanoidsMovingOn>TODO</MechanoidsMovingOn>
+  <MechanoidsMovingOn>A robotok nem érzékelnek több célpontot és továbbhaladnak.</MechanoidsMovingOn>
 
   <!-- EN: {0} from {1} have arrived and are attacking! More are on the way and will arrive in {2}. -->
   <MessageCaravanDetectedRaidArrived>{0} innen: {1} megérkezett és támad! Több támadás is készül és {2} múlva érkezik.</MessageCaravanDetectedRaidArrived>
@@ -38,7 +38,7 @@
   <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
   <MessageVisitorsDangerousTemperature>{1} tagjai ({0}) elhagyják a helyet a veszélyes hőmérséklet miatt.</MessageVisitorsDangerousTemperature>
   <!-- EN: {0} from {1} are leaving the map because of dangerous weather. -->
-  <MessageVisitorsAnomalousWeather>TODO</MessageVisitorsAnomalousWeather>
+  <MessageVisitorsAnomalousWeather>{1} tagjai ({0}) elhagyják a helyet a veszélyes időjárás miatt.</MessageVisitorsAnomalousWeather>
 
   <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
   <MessageWornApparelDeterioratedAway>{1} által hordott {0} semmivé foszlott.</MessageWornApparelDeterioratedAway>
@@ -121,19 +121,19 @@
   <!-- EN: Must designate abandoned claimable structures or items. -->
   <MessageMustDesignateClaimable>Elhagyott mesterséges képződményt kell kijelölni.</MessageMustDesignateClaimable>
   <!-- EN: Must designate paintable buildings not already painted {0_label}. -->
-  <MessageMustDesignatePaintableBuildings>TODO</MessageMustDesignatePaintableBuildings>
+  <MessageMustDesignatePaintableBuildings>Meg kell jelölni a még le nem festett festhető épületeket {0_label}.</MessageMustDesignatePaintableBuildings>
   <!-- EN: Must designate paintable floors which are not already painted {0_label}. -->
-  <MessageMustDesignatePaintableFloors>TODO</MessageMustDesignatePaintableFloors>
+  <MessageMustDesignatePaintableFloors>Olyan festhető padlókat kell kijelölni, amelyek még nincsenek festve {0_label}.</MessageMustDesignatePaintableFloors>
   <!-- EN: Must designate painted buildings or floors. -->
-  <MessageMustDesignatePainted>TODO</MessageMustDesignatePainted>
+  <MessageMustDesignatePainted>Festett épületeket vagy padlókat kell kijelölni.</MessageMustDesignatePainted>
   <!-- EN: You must defeat a mech cluster before you can deconstruct it. -->
   <MessageMustDesignateDeconstructibleMechCluster>Le kell győznöd egy mech klasztert, mielőtt szétbontanád.</MessageMustDesignateDeconstructibleMechCluster>
   <!-- EN: Must designate rough stone surfaces. -->
   <MessageMustDesignateSmoothableSurface>Göröngyös kőfelületet kell kijelölni.</MessageMustDesignateSmoothableSurface>
   <!-- EN: Must designate rough stone terrain. -->
-  <MessageMustDesignateSmoothableFloor>TODO</MessageMustDesignateSmoothableFloor>
+  <MessageMustDesignateSmoothableFloor>Meg kell jelölni a durva kő terepet.</MessageMustDesignateSmoothableFloor>
   <!-- EN: Must designate rough stone wall. -->
-  <MessageMustDesignateSmoothableWall>TODO</MessageMustDesignateSmoothableWall>
+  <MessageMustDesignateSmoothableWall>Meg kell jelölni a durva kőfalat.</MessageMustDesignateSmoothableWall>
   <!-- EN: Nothing can remove thick roofs. -->
   <MessageNothingCanRemoveThickRoofs>Ilyen vastag tetőt nem lehet elbontani.</MessageNothingCanRemoveThickRoofs>
   <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
@@ -187,7 +187,7 @@
   <MessageGaveBirth>{0} gyereke megszületett.</MessageGaveBirth>
   
   <!-- EN: {PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity. -->
-  <MessagePsylinkNoSensitivity>TODO</MessagePsylinkNoSensitivity>
+  <MessagePsylinkNoSensitivity>{PAWN_labelShort} nem fogja tudni használni a psylinket, míg {PAWN_pronoun} nulla pszichikai érzékenységgel rendelkezik.</MessagePsylinkNoSensitivity>
   <!-- EN: {PAWN_labelShort} has lost a {1} implant level due to {2}. -->
   <MessageLostImplantLevelFromHediff>{PAWN_labelShort} elvesztett {1} implantátum szintet, emiatt: {2}.</MessageLostImplantLevelFromHediff>
   <!-- EN: {PAWN_labelShort} has suffered {1} points of brain damage due to {2}. -->
@@ -358,7 +358,7 @@
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoTransporters>{1} berakodási folyamata leállt, mert legalább egy gyarmatos vagy tárgy elérhetetlenné vált ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
   <!-- EN: Your {1} can't finish entering the {0} because some items or people became unavailable ({2_labelShort}). -->
-  <MessageCantLoadMoreIntoPortal>TODO</MessageCantLoadMoreIntoPortal>
+  <MessageCantLoadMoreIntoPortal>{1} nem tudja befejezni a belépését {0}-ba(?), mert egyes tárgyak vagy személyek elérhetetlenné váltak ({2_labelShort}).</MessageCantLoadMoreIntoPortal>
   
   <!-- EN: Selected destination is invalid. -->
   <MessageTransportPodsDestinationIsInvalid>A kiválasztott cél érvénytelen.</MessageTransportPodsDestinationIsInvalid>
@@ -376,7 +376,7 @@
   <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
   <MessageCantEquipIncapableOfViolence>Nem felvehető: {1_labelShort} nem képes erőszakra.</MessageCantEquipIncapableOfViolence>
   <!-- EN: Cannot equip: {1_labelShort} is incapable of shooting. -->
-  <MessageCantEquipIncapableOfShooting>TODO</MessageCantEquipIncapableOfShooting>
+  <MessageCantEquipIncapableOfShooting>Nem felvehető: {1_labelShort} nem képes lőni.</MessageCantEquipIncapableOfShooting>
   <!-- EN: Cannot equip: Incapable. -->
   <MessageCantEquipIncapableOfManipulation>Nem felvehető: nem lehetséges.</MessageCantEquipIncapableOfManipulation>
   <!-- EN: Cannot wear: {1_labelShort} is missing required body parts. -->
@@ -389,7 +389,7 @@
   <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
   <MessageSlaughteringBondedAnimal>Kötődésük miatt {DESIGNATED_labelShort} levágása boldogtalanná teszi őt: {BONDED_labelShort}.</MessageSlaughteringBondedAnimal>
   <!-- EN: Because they are bonded, releasing {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
-  <MessageReleaseBondedAnimal>TODO</MessageReleaseBondedAnimal>
+  <MessageReleaseBondedAnimal>Kötődésük miatt {DESIGNATED_labelShort} elengedése boldogtalanná teszi őt: {BONDED_labelShort}.</MessageReleaseBondedAnimal>
   
   <!-- EN: {0} has run out of food. -->
   <MessageCaravanRanOutOfFood>{0} kifogyott az ételből ({PAWN_label}).</MessageCaravanRanOutOfFood>
@@ -410,7 +410,7 @@
   <!-- EN: Mechanoids have been assembled and will defend their cluster. -->
   <MessageMechanoidsAssembled>A robotok elkészültek és támadnak</MessageMechanoidsAssembled>
   <!-- EN: Remaining mechanoids to assemble -->
-  <MessageMechanoidsLeftToAssemble>TODO</MessageMechanoidsLeftToAssemble>
+  <MessageMechanoidsLeftToAssemble>Fennmaradó robotok összeszerelése</MessageMechanoidsLeftToAssemble>
   <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
   <MessageMechanoidsReinforcementsDrop>Egy robot erősítést hívott, szállítókapszulában érkeznek a közelbe.</MessageMechanoidsReinforcementsDrop>
 
@@ -432,9 +432,9 @@
   <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Egyik felügyelőd sem képes erőszakra. A kivégzés nem lesz végrehajtva.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
   
   <!-- EN: Area is now safe. You can reform the caravan on the world map. -->
-  <MessageCanReformCaravanNowNoMoreEnemies>TODO</MessageCanReformCaravanNowNoMoreEnemies>
+  <MessageCanReformCaravanNowNoMoreEnemies>A terület most már biztonságos. Újraalakíthatod a karavánt a világtérképen.</MessageCanReformCaravanNowNoMoreEnemies>
   <!-- EN: Area is now safe, but some unexplored rooms remain. You can explore further or reform the caravan on the world map. -->
-  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>TODO</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
+  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>A terület most biztonságos, de néhány felderítetlen szoba megmaradt. Folytathatod a felfedezést, vagy újraalakíthatod a karavánt a világtérképen.</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
 
   <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
   <MessageCantBanishDownedPawn>{1_labelShort} nem száműzhető, mivel nem képes járni.</MessageCantBanishDownedPawn>
@@ -505,7 +505,7 @@
   <!-- EN: harvested {0} -->
   <GoodwillChangedReason_RemovedBodyPart>begyűjtötte ezt: {0}</GoodwillChangedReason_RemovedBodyPart>
   <!-- EN: removed {0} -->
-  <GoodwillChangedReason_RemovedImplant>TODO</GoodwillChangedReason_RemovedImplant>
+  <GoodwillChangedReason_RemovedImplant>eltávolítva: {0}</GoodwillChangedReason_RemovedImplant>
   <!-- EN: downgraded {0} -->
   <GoodwillChangedReason_DowngradedImplant>visszafejlődött: {0}</GoodwillChangedReason_DowngradedImplant>
   <!-- EN: needlessly installed {0} -->
@@ -517,7 +517,7 @@
   <!-- EN: {1_labelShort} died -->
   <GoodwillChangedReason_PawnDied>{1_labelShort} meghalt</GoodwillChangedReason_PawnDied>
   <!-- EN: {0_labelShort} stripped -->
-  <GoodwillChangedReason_PawnStripped>TODO</GoodwillChangedReason_PawnStripped>
+  <GoodwillChangedReason_PawnStripped>{0_labelShort} levetkőztetve</GoodwillChangedReason_PawnStripped>
   <!-- EN: traded -->
   <GoodwillChangedReason_Traded>kereskedett</GoodwillChangedReason_Traded>
   <!-- EN: attacked a caravan -->
@@ -539,21 +539,21 @@
   <!-- EN: euthanized {PAWN_labelShort} -->
   <GoodwillChangedReason_EuthanizedPawn>eutanázia: {PAWN_labelShort}</GoodwillChangedReason_EuthanizedPawn>
   <!-- EN: requested military aid -->
-  <GoodwillChangedReason_RequestedMilitaryAid>TODO</GoodwillChangedReason_RequestedMilitaryAid>
+  <GoodwillChangedReason_RequestedMilitaryAid>kért katonai segítség</GoodwillChangedReason_RequestedMilitaryAid>
   <!-- EN: requested trader caravan -->
-  <GoodwillChangedReason_RequestedTrader>TODO</GoodwillChangedReason_RequestedTrader>
+  <GoodwillChangedReason_RequestedTrader>kért kereskedő karaván</GoodwillChangedReason_RequestedTrader>
   <!-- EN: caused neuroquake echo -->
-  <GoodwillChangedReason_CausedNeuroquakeEcho>TODO</GoodwillChangedReason_CausedNeuroquakeEcho>
+  <GoodwillChangedReason_CausedNeuroquakeEcho>idegrengés okozása miatt</GoodwillChangedReason_CausedNeuroquakeEcho>
   <!-- EN: caused berserk on {PAWN_labelShort} -->
-  <GoodwillChangedReason_CausedBerserk>TODO</GoodwillChangedReason_CausedBerserk>
+  <GoodwillChangedReason_CausedBerserk>{PAWN_labelShort} dühöngővé válása miatt</GoodwillChangedReason_CausedBerserk>
   <!-- EN: attacked {0_name} -->
-  <GoodwillChangeReason_AttackedFaction>TODO</GoodwillChangeReason_AttackedFaction>
+  <GoodwillChangeReason_AttackedFaction>{0_name} megtámadva</GoodwillChangeReason_AttackedFaction>
   <!-- EN: shuttle destroyed -->
-  <GoodwillChangeReason_ShuttleDestroyed>TODO</GoodwillChangeReason_ShuttleDestroyed>
+  <GoodwillChangeReason_ShuttleDestroyed>űrsikló megsemmisült</GoodwillChangeReason_ShuttleDestroyed>
   <!-- EN: civilians lost -->
-  <GoodwillChangeReason_CiviliansLost>TODO</GoodwillChangeReason_CiviliansLost>
+  <GoodwillChangeReason_CiviliansLost>civilek vesztek oda</GoodwillChangeReason_CiviliansLost>
   <!-- EN: commander lost -->
-  <GoodwillChangeReason_CommanderLost>TODO</GoodwillChangeReason_CommanderLost>
+  <GoodwillChangeReason_CommanderLost>odaveszett parancsnok</GoodwillChangeReason_CommanderLost>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
   <MessageGiftGivenButNotAppreciated>{0} elfogadja az ajándékod, de nem értékeli nagyra.</MessageGiftGivenButNotAppreciated>
@@ -577,9 +577,9 @@
   <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
   <MessageBillValidationIncludeZoneDeleted>{1} segítségével végzett "{0}" termékét nem lehet ezen a törölt raktárterületen számlálni: {2}.</MessageBillValidationIncludeZoneDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted building {2}. -->
-  <MessageBillValidationIncludeBuildingDeleted>TODO</MessageBillValidationIncludeBuildingDeleted>
+  <MessageBillValidationIncludeBuildingDeleted>{1} segítségével végzett "{0}" termékét nem lehet megszámolni ebben a törölt épületben: {2}.</MessageBillValidationIncludeBuildingDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted storage group {2}. -->
-  <MessageBillValidationIncludeStorageGroupDeleted>TODO</MessageBillValidationIncludeStorageGroupDeleted>
+  <MessageBillValidationIncludeStorageGroupDeleted>{1} segítségével végzett "{0}" termékét nem lehet megszámolni ebben a törölt tárolócsoportban: {2}.</MessageBillValidationIncludeStorageGroupDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in unavailable stockpile {2}. -->
   <MessageBillValidationIncludeZoneUnavailable>{1} segítségével végzett "{0}" termékét nem lehet ezen a nem elérhető raktárterületen számlálni: {2}.</MessageBillValidationIncludeZoneUnavailable>
   <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
@@ -588,7 +588,7 @@
   <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
   <MessageAnimalReturnedWild>Foglalkozás hiánya miatt {1_labelShort} újra elvadult.</MessageAnimalReturnedWild>
   <!-- EN: {1_labelShort} has been returned to the wild. -->
-  <MessageAnimalReturnedWildReleased>TODO</MessageAnimalReturnedWildReleased>
+  <MessageAnimalReturnedWildReleased>{1_labelShort} visszatért a vadonba.</MessageAnimalReturnedWildReleased>
   <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
   <MessageAnimalLostSkill>Foglalkozás hiánya miatt {ANIMAL_labelShort} elvesztette a következő készséget: {1}</MessageAnimalLostSkill>
 
@@ -628,7 +628,7 @@
   <MessageCapturingWillAngerFaction>Figyelem: {PAWN_nameDef} elfogása fel fogja bőszíteni a frakcióját ({PAWN_factionName})!</MessageCapturingWillAngerFaction>
 
   <!-- EN: Warning: Stripping {PAWN_nameDef} will anger {PAWN_factionName}. -->
-  <MessageStrippingWillAngerFaction>TODO</MessageStrippingWillAngerFaction>
+  <MessageStrippingWillAngerFaction>Figyelem: {PAWN_nameDef} levetkőzése feldühíti {PAWN_factionName} frakciót.</MessageStrippingWillAngerFaction>
 
   <!-- EN: Cannot shoot in melee. -->
   <MessageCantShootInMelee>Közelharcban nem lőhetsz</MessageCantShootInMelee>
@@ -654,7 +654,7 @@
   <NoValidDestinationFound>Nincs érvényes célpont {0} számára.</NoValidDestinationFound>
 
   <!-- EN: An extracted tree just died. -->
-  <MessageMinifiedTreeDied>TODO</MessageMinifiedTreeDied>
+  <MessageMinifiedTreeDied>Egy kiásott fa elpusztult.</MessageMinifiedTreeDied>
   
   <!-- Research -->
   <!-- EN: Warning: Research will not begin until you build a research bench. -->
@@ -670,18 +670,18 @@
   <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef} fogoly</MessagePrisonerCannotEquipWeapon>
 
   <!-- EN: Warning: {0_nameDef}'s beliefs oppose {1} work. {0_pronoun} may become unhappy. -->
-  <MessageIdeoOpposedWorkTypeSelected>TODO</MessageIdeoOpposedWorkTypeSelected>
+  <MessageIdeoOpposedWorkTypeSelected>Figyelmeztetés: {0_nameDef} hite ellenzi ezt a munkát: {1}. Boldogtalanná válhat.</MessageIdeoOpposedWorkTypeSelected>
 
   <!-- EN: {0} is no longer assigned to {1_nameDef}. -->
-  <MessageBedLostAssignment>TODO</MessageBedLostAssignment>
+  <MessageBedLostAssignment>{0} már nincs hozzárendelve: {1_nameDef}.</MessageBedLostAssignment>
   <!-- EN: {0} assigned to {1_nameDef} was destroyed. -->
-  <MessageBedDestroyed>TODO</MessageBedDestroyed>
+  <MessageBedDestroyed>{1_nameDef} taghoz rendelt {0} megsemmisült.</MessageBedDestroyed>
 
   <!-- Lord jobs -->
   <!-- EN: You need {0_indefinite}. -->
-  <MessageLordJobNeedsAtLeastOneRolePawn>TODO</MessageLordJobNeedsAtLeastOneRolePawn>
+  <MessageLordJobNeedsAtLeastOneRolePawn>{0_indefinite} szükséges.</MessageLordJobNeedsAtLeastOneRolePawn>
   <!-- EN: You need at least {1} {0}. -->
-  <MessageLordJobNeedsAtLeastNumRolePawn>TODO</MessageLordJobNeedsAtLeastNumRolePawn>
+  <MessageLordJobNeedsAtLeastNumRolePawn>Legalább {1} {0} szükséges.</MessageLordJobNeedsAtLeastNumRolePawn>
 
   <!-- Rituals -->
   <!-- EN: spectate -->
@@ -691,137 +691,137 @@
   <!-- EN: {0} has begun. -->
   <RitualBegun>{0} elkezdődött.</RitualBegun>
   <!-- EN: The maximum number of {0}s is {1}. -->
-  <MaxPawnsPerRole>TODO</MaxPawnsPerRole>
+  <MaxPawnsPerRole>{0} maximális száma {1}.</MaxPawnsPerRole>
   <!-- EN: Role of {0} is locked. -->
-  <RoleIsLocked>TODO</RoleIsLocked>
+  <RoleIsLocked>{0} szerep zárolva van.</RoleIsLocked>
   <!-- EN: You need at least one participant. -->
-  <MessageRitualNeedsAtLeastOnePerson>TODO</MessageRitualNeedsAtLeastOnePerson>
+  <MessageRitualNeedsAtLeastOnePerson>Legalább egy résztvevőre van szükség.</MessageRitualNeedsAtLeastOnePerson>
   <!-- EN: You need at least one spectator. -->
-  <MessageRitualNeedsAtLeastOneSpectator>TODO</MessageRitualNeedsAtLeastOneSpectator>
+  <MessageRitualNeedsAtLeastOneSpectator>Legalább egy nézőre van szükség.</MessageRitualNeedsAtLeastOneSpectator>
   <!-- EN: {0_labelShort} is downed. -->
   <MessageRitualPawnDowned>{0_labelShort} mozgásképtelen.</MessageRitualPawnDowned>
   <!-- EN: {0_labelShort} is currently escaping. -->
-  <MessageRitualPawnPrisonerNotSecured>TODO</MessageRitualPawnPrisonerNotSecured>
+  <MessageRitualPawnPrisonerNotSecured>{0_labelShort} jelenleg menekül.</MessageRitualPawnPrisonerNotSecured>
   <!-- EN: {0_labelShort} is currently rebelling. -->
-  <MessageRitualPawnSlaveNotSecured>TODO</MessageRitualPawnSlaveNotSecured>
+  <MessageRitualPawnSlaveNotSecured>{0_labelShort} jelenleg lázad.</MessageRitualPawnSlaveNotSecured>
   <!-- EN: {0_labelShort} is being released. -->
-  <MessageRitualPawnReleased>TODO</MessageRitualPawnReleased>
+  <MessageRitualPawnReleased>{0_labelShort} elengedése folyamatban van.</MessageRitualPawnReleased>
   <!-- EN: {0_labelShort} is injured. -->
-  <MessageRitualPawnInjured>TODO</MessageRitualPawnInjured>
+  <MessageRitualPawnInjured>{0_labelShort} megsérült.</MessageRitualPawnInjured>
   <!-- EN: {0_labelShort} must hold one of these roles -->
-  <MessageRitualRoleRequired>TODO</MessageRitualRoleRequired>
+  <MessageRitualRoleRequired>{0_labelShort} szerepköre az alábbiak egyikét kell teljesítse</MessageRitualRoleRequired>
   <!-- EN: {0} must be a prisoner. -->
-  <MessageRitualRoleMustBePrisoner>TODO</MessageRitualRoleMustBePrisoner>
+  <MessageRitualRoleMustBePrisoner>{0} fogoly státusza szükséges.</MessageRitualRoleMustBePrisoner>
   <!-- EN: {0} must be an animal. -->
-  <MessageRitualRoleMustBeAnimal>TODO</MessageRitualRoleMustBeAnimal>
+  <MessageRitualRoleMustBeAnimal>Állatnak kell lennie: {0}</MessageRitualRoleMustBeAnimal>
   <!-- EN: {0} must be a human. -->
-  <MessageRitualRoleMustBeHumanlike>TODO</MessageRitualRoleMustBeHumanlike>
+  <MessageRitualRoleMustBeHumanlike>Embernek kell lennie: {0}</MessageRitualRoleMustBeHumanlike>
   <!-- EN: {0} cannot be a baby. -->
-  <MessageRitualRoleCannotBeABaby>TODO</MessageRitualRoleCannotBeABaby>
+  <MessageRitualRoleCannotBeABaby>{0} nem lehet csecsemő.</MessageRitualRoleCannotBeABaby>
   <!-- EN: No roles available for {0_labelShort}. -->
-  <MessageRitualNoRolesAvailable>TODO</MessageRitualNoRolesAvailable>
+  <MessageRitualNoRolesAvailable>{0_labelShort} számára nincsenek elérhető szerepkörök.</MessageRitualNoRolesAvailable>
   <!-- EN: {0_labelShort} is not a member of any colony ideoligion. -->
-  <MessageRitualNotOfPlayerIdeo>TODO</MessageRitualNotOfPlayerIdeo>
+  <MessageRitualNotOfPlayerIdeo>{0_labelShort} nem tagja egyetlen kolónia ideológiának sem.</MessageRitualNotOfPlayerIdeo>
   <!-- EN: {0} must have eyes -->
-  <MessageRitualRoleMustHaveEyes>TODO</MessageRitualRoleMustHaveEyes>
+  <MessageRitualRoleMustHaveEyes>{0} szemeinek léteznie kell</MessageRitualRoleMustHaveEyes>
   <!-- EN: {0_labelShort} does not require further scarification. -->
-  <MessageRitualRoleMustRequireScarification>TODO</MessageRitualRoleMustRequireScarification>
+  <MessageRitualRoleMustRequireScarification>{0_labelShort} nem igényel további köpölyözést.</MessageRitualRoleMustRequireScarification>
   <!-- EN: {0_labelShort} does not require blinding. -->
-  <MessageRitualRoleMustRequireBlinding>TODO</MessageRitualRoleMustRequireBlinding>
+  <MessageRitualRoleMustRequireBlinding>{0_labelShort} nem igényel vakítást.</MessageRitualRoleMustRequireBlinding>
   <!-- EN: {0} must be a prisoner or slave. -->
-  <MessageRitualRoleMustBePrisonerOrSlave>TODO</MessageRitualRoleMustBePrisonerOrSlave>
+  <MessageRitualRoleMustBePrisonerOrSlave>{0} státuszának fogolynak vagy rabszolgának kell lennie.</MessageRitualRoleMustBePrisonerOrSlave>
   <!-- EN: {0_labelShort} must be capable of fighting. -->
-  <MessageRitualRoleMustBeCapableOfFighting>TODO</MessageRitualRoleMustBeCapableOfFighting>
+  <MessageRitualRoleMustBeCapableOfFighting>{0_labelShort} harckészségének fenn kell állnia.</MessageRitualRoleMustBeCapableOfFighting>
   <!-- EN: this role cannot be played by someone else. -->
-  <MessageRitualRoleCannotReplaceRequiredPawn>TODO</MessageRitualRoleCannotReplaceRequiredPawn>
+  <MessageRitualRoleCannotReplaceRequiredPawn>Ezt a szerepet senki más nem töltheti be.</MessageRitualRoleCannotReplaceRequiredPawn>
   <!-- EN: {0_labelShort} cannot connect to a Gauranlen tree because {0_possessive} connection was recently torn. -->
-  <MessageRitualRolePawnRecentlyTornConnection>TODO</MessageRitualRolePawnRecentlyTornConnection>
+  <MessageRitualRolePawnRecentlyTornConnection>{0_labelShort} nem tud csatlakozni egy Gauranlen-fához, mert a kapcsolata nemrég megszakadt.</MessageRitualRolePawnRecentlyTornConnection>
   <!-- EN: {0_labelShort} has the same ideoligion as the converter. -->
-  <MessageRitualRolePawnHasSameIdeo>TODO</MessageRitualRolePawnHasSameIdeo>
+  <MessageRitualRolePawnHasSameIdeo>{0_labelShort} ugyanazzal az ideológiával rendelkezik, mint a térítő.</MessageRitualRolePawnHasSameIdeo>
   <!-- EN: {0_labelShort} must be capable of wardening. -->
-  <MessageRitualRoleMustBeCapableOfWardening>TODO</MessageRitualRoleMustBeCapableOfWardening>
+  <MessageRitualRoleMustBeCapableOfWardening>{0_labelShort} őrzési képességének fenn kell állnia..</MessageRitualRoleMustBeCapableOfWardening>
   <!-- EN: {0} must be capable of {1}. -->
-  <MessageRitualRoleMustBeCapableOfGeneric>TODO</MessageRitualRoleMustBeCapableOfGeneric>
+  <MessageRitualRoleMustBeCapableOfGeneric>{1} képességgel rendelkeznie kell: {0}.</MessageRitualRoleMustBeCapableOfGeneric>
   <!-- EN: {0} must be capable of violence. -->
-  <MessageRitualRoleMustBeCapableOfViolence>TODO</MessageRitualRoleMustBeCapableOfViolence>
+  <MessageRitualRoleMustBeCapableOfViolence>erőszakra képesnek kell lennie: {0}</MessageRitualRoleMustBeCapableOfViolence>
   <!-- EN: prisoners cannot {0}. -->
-  <MessageRitualRoleMustNotBePrisonerToSpectate>TODO</MessageRitualRoleMustNotBePrisonerToSpectate>
+  <MessageRitualRoleMustNotBePrisonerToSpectate>foglyok nem tudnak {0}</MessageRitualRoleMustNotBePrisonerToSpectate>
   <!-- EN: only {0} can {1}. -->
-  <MessageRitualRoleMustHaveIdeoToSpectate>TODO</MessageRitualRoleMustHaveIdeoToSpectate>
+  <MessageRitualRoleMustHaveIdeoToSpectate>csak {0} tud {1}(?)</MessageRitualRoleMustHaveIdeoToSpectate>
   <!-- EN: only {0} can fill the role of {1}. -->
-  <MessageRitualRoleMustHaveIdeoToDoRole>TODO</MessageRitualRoleMustHaveIdeoToDoRole>
+  <MessageRitualRoleMustHaveIdeoToDoRole>Csak {0} töltheti be {1} szerepét.</MessageRitualRoleMustHaveIdeoToDoRole>
   <!-- EN: must be colonist for the {0} role. -->
-  <MessageRitualRoleMustBeColonist>TODO</MessageRitualRoleMustBeColonist>
+  <MessageRitualRoleMustBeColonist>gyarmatosítónak kell lennie {0} szerep betöltéséhez.</MessageRitualRoleMustBeColonist>
   <!-- EN: must not be a prisoner for the {0} role. -->
-  <MessageRitualRoleMustBeFree>TODO</MessageRitualRoleMustBeFree>
+  <MessageRitualRoleMustBeFree>{0} szerep betöltéséhez nem lehet fogoly.</MessageRitualRoleMustBeFree>
   <!-- EN: {0_labelShort} won't attend due to extreme temperature in the ritual area. -->
-  <MessageRitualWontAttendExtremeTemperature>TODO</MessageRitualWontAttendExtremeTemperature>
+  <MessageRitualWontAttendExtremeTemperature>{0_labelShort} nem vesz részt a rituális terület szélsőséges hőmérséklete miatt.</MessageRitualWontAttendExtremeTemperature>
   <!-- EN: must be colonist and not enslaved for the {0} role. -->
-  <MessageRitualRoleMustBeFreeColonist>TODO</MessageRitualRoleMustBeFreeColonist>
+  <MessageRitualRoleMustBeFreeColonist>{0} szerep betöltéséhez gyarmatosítónak kell lennie, és nem szabad rabszolgának lennie.</MessageRitualRoleMustBeFreeColonist>
   <!-- EN: {0} must have an animal with min body size of {1}. -->
-  <MessageRitualRoleMustHaveLargerBodySize>TODO</MessageRitualRoleMustHaveLargerBodySize>
+  <MessageRitualRoleMustHaveLargerBodySize>{0} állatnak legalább {1} testméretű állatnak kell lennie.</MessageRitualRoleMustHaveLargerBodySize>
   <!-- EN: {0_labelShort} is in a mental state. -->
-  <MessageRitualPawnMentalState>TODO</MessageRitualPawnMentalState>
+  <MessageRitualPawnMentalState>{0_labelShort} mentális állapotban van.</MessageRitualPawnMentalState>
   <!-- EN: {0_labelShort} is already {1}. -->
-  <MessageRitualPawnIsAlreadyBelievingIdeo>TODO</MessageRitualPawnIsAlreadyBelievingIdeo>
+  <MessageRitualPawnIsAlreadyBelievingIdeo>{0_labelShort} már {1}.</MessageRitualPawnIsAlreadyBelievingIdeo>
   <!-- EN: {0_labelShort} cannot take any other role than spectator. -->
-  <MessageRitualCannotAssignAnyRoleFromSpectating>TODO</MessageRitualCannotAssignAnyRoleFromSpectating>
+  <MessageRitualCannotAssignAnyRoleFromSpectating>{0_labelShort} nem tölthet be más szerepet, mint néző.</MessageRitualCannotAssignAnyRoleFromSpectating>
   <!-- EN: {0} cannot be an imprisoned wild man/woman. -->
-  <MessageRitualRoleMustNotBeImprisonedWildMan>TODO</MessageRitualRoleMustNotBeImprisonedWildMan>
+  <MessageRitualRoleMustNotBeImprisonedWildMan>{0} nem lehet bebörtönzött vadember/-asszony.</MessageRitualRoleMustNotBeImprisonedWildMan>
   <!-- EN: {0} must be free. -->
-  <MessageRitualRoleMustNotBeImprisoned>TODO</MessageRitualRoleMustNotBeImprisoned>
+  <MessageRitualRoleMustNotBeImprisoned>Szabadnak kell lennie: {0}.</MessageRitualRoleMustNotBeImprisoned>
   <!-- EN: {0} cannot be a child. -->
-  <MessageRitualRoleCannotBeChild>TODO</MessageRitualRoleCannotBeChild>
+  <MessageRitualRoleCannotBeChild>{0} nem lehet gyermek.</MessageRitualRoleCannotBeChild>
   <!-- EN: {0} cannot be a baby. -->
-  <MessageRitualRoleCannotBeBaby>TODO</MessageRitualRoleCannotBeBaby>
+  <MessageRitualRoleCannotBeBaby>{0} nem lehet csecsemő.</MessageRitualRoleCannotBeBaby>
   <!-- EN: {0} is busy. -->
-  <MessageRitualRoleBusy>TODO</MessageRitualRoleBusy>
+  <MessageRitualRoleBusy>{0} elfoglalt.</MessageRitualRoleBusy>
 
   <!-- EN: You must select a site to continue. -->
-  <MessagePlayerMustSelectTile>TODO</MessagePlayerMustSelectTile>
+  <MessagePlayerMustSelectTile>A folytatáshoz ki kell választani egy helyet.</MessagePlayerMustSelectTile>
 
   <!-- EN: Cannot plant {0_labelShort} -->
-  <CannotPlantThing>TODO</CannotPlantThing>
+  <CannotPlantThing>{0_labelShort} nem ültethető</CannotPlantThing>
   <!-- EN: Need more fertile terrain. -->
-  <MessageWarningNotEnoughFertility>TODO</MessageWarningNotEnoughFertility>
+  <MessageWarningNotEnoughFertility>Több termékeny terepre van szükség.</MessageWarningNotEnoughFertility>
   <!-- EN: blocked by {0_label}. -->
-  <BlockedBy>TODO</BlockedBy>
+  <BlockedBy>{0_label} blokkolta.</BlockedBy>
   <!-- EN: Cannot be planted next to {0_label}. -->
-  <AdjacentSowBlocker>TODO</AdjacentSowBlocker>
+  <AdjacentSowBlocker>Nem ültethető {0_label} mellé.</AdjacentSowBlocker>
   <!-- EN: Too close to {0_label}. -->
-  <TooCloseToOtherPlant>TODO</TooCloseToOtherPlant>
+  <TooCloseToOtherPlant>Túl közel van a következőhöz: {0_label}.</TooCloseToOtherPlant>
   <!-- EN: Too close to {0}'s planting location. -->
-  <TooCloseToOtherSeedPlantCell>TODO</TooCloseToOtherSeedPlantCell>
+  <TooCloseToOtherSeedPlantCell>Túl közel van {0} ültetési helyéhez.</TooCloseToOtherSeedPlantCell>
 
   <!-- EN: Warning: {0} has been marked for cutting. -->
-  <MessageWarningCutImportantPlant>TODO</MessageWarningCutImportantPlant>
+  <MessageWarningCutImportantPlant>Figyelem: {0} vágásra lett megjelölve.</MessageWarningCutImportantPlant>
 
   <!-- EN: {0_labelShort} is incapable of manipulation. -->
-  <MessageIncapableOfManipulation>TODO</MessageIncapableOfManipulation>
+  <MessageIncapableOfManipulation>{0_labelShort} nem képes manipulálni.</MessageIncapableOfManipulation>
 
   <!-- EN: {0_labelShort} activation canceled -->
-  <MessageActivationCanceled>TODO</MessageActivationCanceled>
+  <MessageActivationCanceled>{0_labelShort} aktiválása megszakítva</MessageActivationCanceled>
 
   <!-- EN: Nothing is currently buildable in category -->
-  <NothingAvailableInCategory>TODO</NothingAvailableInCategory>
+  <NothingAvailableInCategory>Jelenleg semmi sem építhető meg ebben a kategóriában</NothingAvailableInCategory>
 
   <!-- EN: Storage settings linked for {0} buildings. -->
   <SettingsLinkedFor>{0} tároló beállítása összekötve.</SettingsLinkedFor>
   <!-- EN: Storage settings linked for 1 building. -->
-  <SettingsLinkedForSingular>TODO</SettingsLinkedForSingular>
+  <SettingsLinkedForSingular>Tárolási beállítások 1 épülethez kapcsolva.</SettingsLinkedForSingular>
   <!-- EN: Storage settings unlinked for {0} buildings. -->
   <SettingsUnlinkedFor>{0} tároló beállítása szétválasztva.</SettingsUnlinkedFor>
   <!-- EN: Storage settings unlinked for 1 building. -->
-  <SettingsUnlinkedForSingular>TODO</SettingsUnlinkedForSingular>
+  <SettingsUnlinkedForSingular>A tárolási beállítások leválasztva 1 épülethez.</SettingsUnlinkedForSingular>
   <!-- EN: Storage settings copied to clipboard. -->
   <StorageSettingsCopiedToClipboard>Tárolási beállítások vágólapra másolva.</StorageSettingsCopiedToClipboard>
   <!-- EN: Storage settings pasted from clipboard. -->
   <StorageSettingsPastedFromClipboard>Tárolási beállítások a vágólapról beillesztve.</StorageSettingsPastedFromClipboard>
   
   <!-- EN: {0_label} requires adjacent walls to function. -->
-  <MessageBuildingRequiresAdjacentWalls>TODO</MessageBuildingRequiresAdjacentWalls>
+  <MessageBuildingRequiresAdjacentWalls>{0_label} működéséhez szomszédos falakra van szükség.</MessageBuildingRequiresAdjacentWalls>
 
   <!-- EN: Cannot skip: Refugee -->
-  <MessageLodgersCantFarskip>TODO</MessageLodgersCantFarskip>
+  <MessageLodgersCantFarskip>Nem hagyható ki: Menekült</MessageLodgersCantFarskip>
 
 </LanguageData>
