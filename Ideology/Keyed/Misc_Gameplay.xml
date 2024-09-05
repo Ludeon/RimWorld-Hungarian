@@ -203,8 +203,14 @@
   <RitualTargetConnectedGauranlenTree>Már csatlakozott a következőhöz: {PAWN_nameDef}</RitualTargetConnectedGauranlenTree>
   <!-- EN: {TREE_definite} has had its connection torn recently. It can connect again in {1}. -->
   <RitualTargetConnectionTornGauranlenTree>{TREE_definite} kapcsolata nemrég megszakadt. Újra csatlakozhat {1} múlva.</RitualTargetConnectionTornGauranlenTree>
-  <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
-  <RitualTargeWoodInfo>Minden résztvevőnek {0} fára van szüksége (összesen {2}). Csak {1} fa van.</RitualTargeWoodInfo>
+  <!-- EN: You need {0} wood for each participant ({1} total). -->
+  <RitualTargetWoodInfo>Minden résztvevőnek {0} fára van szüksége (összesen {1}).</RitualTargetWoodInfo>
+  <!-- EN: A participant cannot reach enough wood. -->
+  <RitualTargetWoodInfoAppend>Egy résztvevő nem tud elegendő fához jutni.</RitualTargetWoodInfoAppend>
+  <!-- EN: {0} participants cannot reach enough wood. -->
+  <RitualTargetWoodInfoAppendMultiple>{0} résztvevő nem tud elegendő fához jutni.</RitualTargetWoodInfoAppendMultiple>
+  <!-- EN: {PAWN_labelShort} cannot reach enough wood. -->
+  <RitualTargetWoodInfoWarning>{PAWN_labelShort} nem tud elegendő fához jutni.</RitualTargetWoodInfoWarning>
   <!-- EN: {0} must be able to reach ritual target. -->
   <RitualTargetUnreachable>{0} el kell érnie a rituális célt.</RitualTargetUnreachable>
   <!-- EN: Accuse -->

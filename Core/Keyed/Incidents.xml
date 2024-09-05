@@ -39,8 +39,8 @@
   <RefugeePodCrash_Factionless>{PAWN_nameDef} nem tagja egyetlen frakciónak sem. Megmentheted és útjára engedheted őt. Vagy el is foghatod, hogy besorozd vagy rabszolgáddá tedd.</RefugeePodCrash_Factionless>
   <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
   <RefugeePodCrash_Hostile>{PAWN_nameDef} egy ellenséges frakció tagja ({PAWN_factionName}). Elfoghatod, hogy besorozd vagy rabszolgáddá tedd.</RefugeePodCrash_Hostile>
-  <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
-  <RefugeePodCrash_NonHostile>Figyelem: {PAWN_nameDef} {PAWN_factionName} frakció tagja. Az elfogása fel fogja bosszantani őket, de a megmentése és ellátása javítja a frakciók viszonyát.</RefugeePodCrash_NonHostile>
+  <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If {PAWN_pronoun} returns home safely, {PAWN_pronoun} will spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef} {PAWN_factionName} frakció tagja. Ha épségben hazatér, az javítani fogja a frakciók viszonyát.\n\nElfoghatod toborzási vagy rabszolgatartási célból is, de ez fel fogja dühíteni a frakcióját.</RefugeePodCrash_NonHostile>
 
   <!-- EN: Wanderer joins: {PAWN_nameDef} -->
   <LetterLabelWandererJoins>Vándor csatlakozik: {PAWN_nameDef}</LetterLabelWandererJoins>
