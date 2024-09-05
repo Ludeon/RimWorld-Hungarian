@@ -43,7 +43,7 @@
   <!-- EN: Neutral -->
   <Neutral>Semleges</Neutral>
   <!-- EN: neutral -->
-  <NeutralLower>TODO</NeutralLower>
+  <NeutralLower>semleges</NeutralLower>
   <!-- EN: Death -->
   <Death>Halál</Death>
 
@@ -546,9 +546,9 @@
   <LetterTextSiteCountdownStarted>A karavánodat észlelték. {0} múlva {1} erősítése megérkezik {2} helyről a területre.\n\nAlakítsd újra a karavánod és lendülj mozgásba {1} elkerülése érdekében. Most már látható az érkezésig visszaszámláló időzítő.</LetterTextSiteCountdownStarted>
 
   <!-- EN: Unwavering prisoner -->
-  <LetterLabelUnrecruitablePawnCaptured>TODO</LetterLabelUnrecruitablePawnCaptured>
+  <LetterLabelUnrecruitablePawnCaptured>Megingathatatlan fogoly</LetterLabelUnrecruitablePawnCaptured>
   <!-- EN: {PAWN_nameDef} is unwaveringly loyal to their home and will refuse to be recruited entirely.\n\nYou can see whether someone is unwaveringly loyal by selecting them. -->
-  <LetterTextUnrecruitablePawnCaptured>TODO</LetterTextUnrecruitablePawnCaptured>
+  <LetterTextUnrecruitablePawnCaptured>{PAWN_nameDef} rendíthetetlenül hűséges a frakciójához és teljes mértékben elutasítja a toborzását.\n\nKijelölésekor megnézheted, hogy valaki rendíthetetlenül hűséges-e.</LetterTextUnrecruitablePawnCaptured>
   <!-- EN: enslave {PAWN_objective} -->
   <OptionalEnslaveDesc>TODO</OptionalEnslaveDesc>
 

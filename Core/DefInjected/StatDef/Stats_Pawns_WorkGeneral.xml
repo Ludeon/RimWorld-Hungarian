@@ -34,7 +34,7 @@
   <!-- EN: drug crop harvest yield -->
   <DrugHarvestYield.label>drog termések betakarítási hozama</DrugHarvestYield.label>
   <!-- EN: The yield this person gets when harvesting drug crops.\n\nLow yields give a chance that this person will accidentally waste the harvest. High yields increase the yield from each plant. -->
-  <DrugHarvestYield.description>The yield this person gets when harvesting drug crops.\n\nAz alacsony hozamok esélyt adnak arra, hogy ez a személy véletlenül elrontsa a betakarítást. A magas hozam növeli az egyes növények hozamát.</DrugHarvestYield.description>
+  <DrugHarvestYield.description>Az a hozam, amelyet ez a személy kap a drognövények betakarításakor.\n\nAz alacsony értékek esélyt adnak arra, hogy ez a személy véletlenül elrontsa a betakarítást. A magas érték növeli az egyes növények hozamát.</DrugHarvestYield.description>
   
   <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>javítás sikeresség esély</FixBrokenDownBuildingSuccessChance.label>
@@ -67,9 +67,9 @@
   <PlantWorkSpeed.description>Milyen gyorsan képes a személy vetni, aratni.</PlantWorkSpeed.description>
   
   <!-- EN: reading speed -->
-  <ReadingSpeed.label>TODO</ReadingSpeed.label>
+  <ReadingSpeed.label>olvasási sebesség</ReadingSpeed.label>
   <!-- EN: A multiplier on how fast this person can read. -->
-  <ReadingSpeed.description>TODO</ReadingSpeed.description>
+  <ReadingSpeed.description>Milyen gyorsan tud ez a személy olvasni.</ReadingSpeed.description>
   
   <!-- EN: research speed -->
   <ResearchSpeed.label>kutatás sebesség</ResearchSpeed.label>

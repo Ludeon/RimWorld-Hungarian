@@ -222,17 +222,17 @@
   <!-- EN: Prevents infection -->
   <PreventsInfection>Fertőzés megelőzése</PreventsInfection>
   <!-- EN: Allow self-tend -->
-  <AllowSelfTend>TODO</AllowSelfTend>
+  <AllowSelfTend>Önellátás</AllowSelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <AllowSelfTendTip>TODO</AllowSelfTendTip>
+  <AllowSelfTendTip>Amennyiben az önellátás engedélyezve van, ezek a {0} a normál hatékonyság {1}-val képesek magukat gyógyítani.</AllowSelfTendTip>
   <!-- EN: death in {0} -->
   <DeathIn>halott {0} múlva</DeathIn>
   <!-- EN: Allow medicine -->
-  <AllowMedicine>TODO</AllowMedicine>
+  <AllowMedicine>Gyógymód</AllowMedicine>
   <!-- EN: What type of medicine can be given to this person. -->
-  <MedicineQualityDescription>TODO</MedicineQualityDescription>
+  <MedicineQualityDescription>Milyen típusú gyógyszer adható ennek a személynek.</MedicineQualityDescription>
   <!-- EN: What type of food can be given to this person. -->
-  <FoodRestrictionDescription>TODO</FoodRestrictionDescription>
+  <FoodRestrictionDescription>Milyen típusú ételt lehet adni ennek a személynek.</FoodRestrictionDescription>
 
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
