@@ -54,22 +54,22 @@
   <DesignatorMineDesc>Sziklás területek kijelölése bányászatra.</DesignatorMineDesc>
 
   <!-- EN: Mine vein -->
-  <DesignatorMineVein>TODO</DesignatorMineVein>
+  <DesignatorMineVein>Telér bányászat</DesignatorMineVein>
   <!-- EN: Designate an area of rock to be mined. Colonists will continue to mine until all connected rock of the same type has been mined. -->
-  <DesignatorMineVeinDesc>TODO</DesignatorMineVeinDesc>
+  <DesignatorMineVeinDesc>Kőzetterület kijelölése bányászatra. A telepesek addig folytatják a bányászatot, amíg az összes azonos típusú összekapcsolt kőzetet ki nem bányásszák.</DesignatorMineVeinDesc>
 
   <!-- EN: Smooth surface -->
   <DesignatorSmoothSurface>Elegyenget</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
   <DesignatorSmoothSurfaceDesc>Göröngyös területek kijelölése egyengetésre.</DesignatorSmoothSurfaceDesc>
   <!-- EN: Smooth walls -->
-  <DesignatorSmoothWalls>TODO</DesignatorSmoothWalls>
+  <DesignatorSmoothWalls>Fal simítása</DesignatorSmoothWalls>
   <!-- EN: Designate rough stone walls to be smoothed. -->
-  <DesignatorSmoothWallsDesc>TODO</DesignatorSmoothWallsDesc>
+  <DesignatorSmoothWallsDesc>Durva kőfalak kijelölése simításra.</DesignatorSmoothWallsDesc>
   <!-- EN: Smooth terrain -->
-  <DesignatorSmoothFloors>TODO</DesignatorSmoothFloors>
+  <DesignatorSmoothFloors>Terep simítása</DesignatorSmoothFloors>
   <!-- EN: Designate rough stone terrain to be smoothed. -->
-  <DesignatorSmoothFloorsDesc>TODO</DesignatorSmoothFloorsDesc>
+  <DesignatorSmoothFloorsDesc>Durva sziklás terep elegyengetése</DesignatorSmoothFloorsDesc>
 
   <!-- EN: Plan -->
   <DesignatorPlan>Terv</DesignatorPlan>
@@ -315,8 +315,8 @@
   <AllColonistsWithSkillHaveDisabledConstructingTip>Egy {0} sincs hozzárendelve ehhez: {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
 
   <!-- EN: Extract skull -->
-  <DesignatorExtractSkull>TODO</DesignatorExtractSkull>
+  <DesignatorExtractSkull>Koponya kinyerése</DesignatorExtractSkull>
   <!-- EN: Extract the skull from a corpse. -->
-  <DesignatorExtractSkullDesc>TODO</DesignatorExtractSkullDesc>
+  <DesignatorExtractSkullDesc>A koponya kinyerése egy holttestből.</DesignatorExtractSkullDesc>
 
 </LanguageData>
