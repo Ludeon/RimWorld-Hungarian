@@ -7,7 +7,7 @@
     <li>qualityInfo-></li>
   -->
   <TradeRequest.questDescriptionRules.rulesStrings>
-    <li>questDescription->Egy közeli településnek, [settlement_label], különleges kereskedelmi kérelme van. Vásárolni szeretnének:\n\n [requestedThingCount]x [requestedThing_label] [qualityInfo]([requestedThingMarketValue_money] értékben)\n\nHa üzletet szeretnél kötni, küldj egy karavánt a kért áruval. A becsült utazási idő [estimatedTravelTime_duration].</li>
+    <li>questDescription->Egy közeli település, [settlement_label], különleges kereskedelmi igénnyel bír. Vásárolni szeretnének:\n\n [requestedThingCount]x [requestedThing_label] [qualityInfo]([requestedThingMarketValue_money] értékben)\n\nHa üzletet szeretnél kötni, küldj egy karavánt a kért áruval. A becsült utazási idő [estimatedTravelTime_duration].</li>
     <li>qualityInfo(requestedThingHasQuality==True,priority=1)->normál+ minőségben </li>
     <li>qualityInfo-></li>
   </TradeRequest.questDescriptionRules.rulesStrings>
@@ -33,11 +33,12 @@
     <li>questName->[special] [trade]</li>
     <li>special->Különleges</li>
     <li>special->Egyedi</li>
+    <li>special->Rendhagyó</li>
     <li>special->Nem Hagyományos</li>
-    <li>trade->Kereskedés</li>
-    <li>trade->Csere</li>
-    <li>trade->Üzlet</li>
-    <li>trade->Ajánlat</li>
+    <li>trade->kereskedés</li>
+    <li>trade->csere</li>
+    <li>trade->üzlet</li>
+    <li>trade->ajánlat</li>
   </TradeRequest.questNameRules.rulesStrings>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <TradeRequest.LetterLabelQuestFailed.slateRef>A küldetés sikertelen: [resolvedQuestName]</TradeRequest.LetterLabelQuestFailed.slateRef>
@@ -46,6 +47,6 @@
   <!-- EN: [asker_faction_royalFavorLabel] -->
   <TradeRequest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</TradeRequest.LetterLabelFavorReceiver.slateRef>
   <!-- EN: Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request? -->
-  <TradeRequest.LetterTextFavorReceiver.slateRef>Kinek kell jóváírni az [asker_faction_royalFavorLabel]-t a kereskedelmi kérelem teljesítésében?</TradeRequest.LetterTextFavorReceiver.slateRef>
+  <TradeRequest.LetterTextFavorReceiver.slateRef>Kinek kell jóváírni a díjat ([asker_faction_royalFavorLabel]) a kereskedelmi kérelem teljesítésében?</TradeRequest.LetterTextFavorReceiver.slateRef>
   
 </LanguageData>

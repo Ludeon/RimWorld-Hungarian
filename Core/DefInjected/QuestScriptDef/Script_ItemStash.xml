@@ -6,7 +6,7 @@
     <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a collection of valuable items worth [itemStashContentsValue] not far from us. The collection consists of:\n\n[itemStashContents]\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</li>
   -->
   <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
-    <li>questDescription(askerIsNull==true)->[itemStashContentsValue] értékű értékes tárgyak gyűjteményével kapcsolatos üzeneteket fogtunk, nem messze ettől a helytől: [map_definite]. A gyűjtemény a következőkből áll:\n\n[itemStashContents]\n\nÚgy tűnik, hogy [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(askerIsNull==true)->[itemStashContentsValue] értékű értékes tárgyak gyűjteményével kapcsolatos üzeneteket fogtunk, nem messze [map_definite] helytől. A gyűjtemény a következőkből áll:\n\n[itemStashContents]\n\nÚgy tűnik, hogy [allSitePartsDescriptionsExceptFirst]</li>
     <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle], [asker_faction_name] frakcióból tájékoztatott minket egy [itemStashContentsValue] értékű, tőlünk nem messze lévő értékes tárgyak lelőhelyéről. A gyűjtemény a következőkből áll:\n\n[itemStashContents]\n\n[asker_label] azt mondja, hogy [allSitePartsDescriptionsExceptFirst]</li>
   </OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
   <!-- EN:
