@@ -93,7 +93,9 @@ void - semmi, űr, üresség, talán antianyag vagy kozmikus is lehetne, mert er
 
 momma beast - tenyészanya?
 
-holding platform - rögzítő emelvény, az a hely, ahová a rendellenes teremtményeket le lehet kötözni tanulmányozás céljából 
+holding platform - tartóállvány, fogolyállvány(?), rögzítő emelvény, az a hely, ahová a rendellenes teremtményeket le lehet kötözni tanulmányozás céljából 
+
+bioferrite harvester - bioferrit lefejtő, betakarító
 
 shambler - csoszogó, szaggató? - élőhalott, zombiszerű humanoid
 
@@ -101,4 +103,4 @@ sightstealer - lélekrabló, lélekrabló - torz, törékeny, karmokkal rendelke
 
 fleshbeast - húsmassza, rákos hússzövetekből összeálló szörnyeteg
 
-
+deadlife dust - holtpor

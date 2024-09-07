@@ -8,9 +8,9 @@
   <!-- EN: {0} {1} -->
   <Stat_Knowledge>TODO</Stat_Knowledge>
   <!-- EN: Study interval -->
-  <StudyFrequency>TODO</StudyFrequency>
+  <StudyFrequency>Tanulmányozási időköz</StudyFrequency>
   <!-- EN: The duration between available study periods for this entity. -->
-  <StudyFrequencyDesc>TODO</StudyFrequencyDesc>
+  <StudyFrequencyDesc>Milyen időközönként lehet tanulmányozni az adott entitást.</StudyFrequencyDesc>
   
   <!-- EN: Healing -->
   <Stat_Hediff_Regeneration_Name>Gyógyulás</Stat_Hediff_Regeneration_Name>
@@ -39,13 +39,13 @@
   <Stat_ContainmentStrength_Platform>TODO</Stat_ContainmentStrength_Platform>
 
   <!-- EN: Bioferrite generation -->
-  <StatsReport_BioferriteGeneration>TODO</StatsReport_BioferriteGeneration>
+  <StatsReport_BioferriteGeneration>Bioferrit előállítás</StatsReport_BioferriteGeneration>
   <!-- EN: How much bioferrite this entity generates per day when connected to a bioferrite harvester. -->
-  <StatsReport_BioferriteGeneration_Desc>TODO</StatsReport_BioferriteGeneration_Desc>
+  <StatsReport_BioferriteGeneration_Desc>Mennyi bioferritet termel ez az entitás naponta, amikor egy bioferrit betakarítóhoz csatlakozik.</StatsReport_BioferriteGeneration_Desc>
   <!-- EN: Multiplier for bioferrite density -->
-  <StatsReport_BioferriteDensityMultiplier>TODO</StatsReport_BioferriteDensityMultiplier>
+  <StatsReport_BioferriteDensityMultiplier>A bioferrit sűrűségének szorzója</StatsReport_BioferriteDensityMultiplier>
   <!-- EN: Multiplier for bioferrite extracted recently -->
-  <StatsReport_BioferriteExtractedMultiplier>TODO</StatsReport_BioferriteExtractedMultiplier>
+  <StatsReport_BioferriteExtractedMultiplier>A közelmúltban kivont bioferrit szorzója</StatsReport_BioferriteExtractedMultiplier>
 
   <!-- EN: Offering -->
   <StatsReport_Offering>TODO</StatsReport_Offering>

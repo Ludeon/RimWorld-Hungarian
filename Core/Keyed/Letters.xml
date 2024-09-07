@@ -464,7 +464,7 @@
   <!-- EN: {PAWN_nameDef} joins -->
   <LetterLabelRescueeJoins>{PAWN_nameDef} csatlakozik</LetterLabelRescueeJoins>
   <!-- EN: {PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} has decided that {PAWN_pronoun} would rather stay than leave, and is joining your colony. -->
-  <LetterRescueeJoins>{PAWN_nameDef} hálás érte, hogy megmentetted. Úgy döntött inkább marad, és csatlakozik a kolóniához.</LetterRescueeJoins>
+  <LetterRescueeJoins>{PAWN_nameDef} nagyon hálás érte, hogy megmentetted. Úgy döntött inkább itt marad és csatlakozik a kolóniához.</LetterRescueeJoins>
 
   <!-- Pawns arrive and join -->
   <!-- EN: People join -->
@@ -550,7 +550,7 @@
   <!-- EN: {PAWN_nameDef} is unwaveringly loyal to their home and will refuse to be recruited entirely.\n\nYou can see whether someone is unwaveringly loyal by selecting them. -->
   <LetterTextUnrecruitablePawnCaptured>{PAWN_nameDef} rendíthetetlenül hűséges a frakciójához és teljes mértékben elutasítja a toborzását.\n\nKijelölésekor megnézheted, hogy valaki rendíthetetlenül hűséges-e.</LetterTextUnrecruitablePawnCaptured>
   <!-- EN: enslave {PAWN_objective} -->
-  <OptionalEnslaveDesc>TODO</OptionalEnslaveDesc>
+  <OptionalEnslaveDesc>rabszolgává tenni</OptionalEnslaveDesc>
 
   <!-- Lung rot -->
   <!-- EN: {PAWN} has gotten sick from {1} due to long-term exposure to rot stink gas (which is given off by rotting corpses).\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment. -->

@@ -67,7 +67,7 @@
   <!-- EN: Tend quality -->
   <TendQuality>Ápolás minősége</TendQuality>
   <!-- EN: Total tend quality -->
-  <DisappearsAtTotalTendQuality>TODO</DisappearsAtTotalTendQuality>
+  <DisappearsAtTotalTendQuality>Teljes minőség</DisappearsAtTotalTendQuality>
   <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>nincs {0}</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
@@ -77,9 +77,9 @@
   <!-- EN: Ineffective -->
   <Ineffective>Hatástalan</Ineffective>
   <!-- EN: illegal -->
-  <Illegal>Tiltott</Illegal>
+  <Illegal>tiltott</Illegal>
   <!-- EN: detection chance -->
-  <DetectionChance>TODO</DetectionChance>
+  <DetectionChance>észlelési esély</DetectionChance>
   <!-- EN: Race -->
   <Race>Faj</Race>
   <!-- EN: Description -->
@@ -105,11 +105,11 @@
   <!-- EN: Rename colonist -->
   <RenameColonist>Gyarmatost átnevez</RenameColonist>
   <!-- EN: Renounce title -->
-  <RenounceTitle>TODO</RenounceTitle>
+  <RenounceTitle>Lemondás a címről</RenounceTitle>
   <!-- EN: Execute -->
-  <Execute>TODO</Execute>
+  <Execute>Kivégzés</Execute>
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
-  <ExecuteColonist>TODO</ExecuteColonist>
+  <ExecuteColonist>Bűnös telepes kivégzése\n\nHa ezt bekapcsolod, egy felügyelő folytatja a személy kivégzését.</ExecuteColonist>
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
   <MessageColonistMarkedForExecution>TODO</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
@@ -255,9 +255,9 @@
   <!-- EN: Trading with {0}. -->
   <CaravanTrading>Kereskedik vele: {0}</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>Tetem viselte.</WasWornByCorpse>
+  <WasWornByCorpse>Halott viselte.</WasWornByCorpse>
   <!-- EN: T -->
-  <WornByCorpseChar>T</WornByCorpseChar>
+  <WornByCorpseChar>H</WornByCorpseChar>
   <!-- EN: unroofed -->
   <DeterioratingUnroofed>szabad ég alatt</DeterioratingUnroofed>
   <!-- EN: outdoors -->
@@ -273,9 +273,9 @@
   <!-- EN: Map -->
   <Map>Térkép</Map>
   <!-- EN: {0} until enemies arrive -->
-  <CaravanDetectedRaidCountdown>TODO</CaravanDetectedRaidCountdown>
+  <CaravanDetectedRaidCountdown>{0} az ellenség érkezéséig</CaravanDetectedRaidCountdown>
   <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
-  <CaravanDetectedRaidCountdownTip>TODO</CaravanDetectedRaidCountdownTip>
+  <CaravanDetectedRaidCountdownTip>Az ellenséges erősítések {0} múlva érkeznek erre a területre.</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>Szoba</Room>
   <!-- EN: Beauty here -->
@@ -361,15 +361,15 @@
   <!-- EN: resting -->
   <Carried>cipelt</Carried>
   <!-- EN: Rideable animals / people -->
-  <RideableAnimalsPerPeople>TODO</RideableAnimalsPerPeople>
+  <RideableAnimalsPerPeople>Lovagolható állatok / emberek</RideableAnimalsPerPeople>
   <!-- EN: Multiplier from ridden animals -->
-  <MultiplierFromRiddenAnimals>TODO</MultiplierFromRiddenAnimals>
+  <MultiplierFromRiddenAnimals>Bónusz a lovagolt állatokból</MultiplierFromRiddenAnimals>
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>Teher szorzó: {0}</MultiplierForCarriedMass>
   <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
-  <RideableAnimalTip>TODO</RideableAnimalTip>
+  <RideableAnimalTip>Ez az állat lovagolható. A karaván tagjai a rendelkezésre álló leggyorsabb állatokat fogják használni, javítva a karaván egészének sebességét.</RideableAnimalTip>
   <!-- EN: This caravan can't move because it carries too much. -->
-  <EncumberedCaravanTilesPerDayTip>TODO</EncumberedCaravanTilesPerDayTip>
+  <EncumberedCaravanTilesPerDayTip>Ez a karaván nem tud mozogni, mert túl sokat szállítana.</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
   <FinalCaravanPawnsMovementSpeed>Karaván tagok sebessége</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
@@ -399,9 +399,9 @@
   <!-- EN: {0} trainability -->
   <CreatureTrainability>{0} szelídíthetőség</CreatureTrainability>
   <!-- EN: Follow master while drafted -->
-  <CreatureFollowDrafted>TODO</CreatureFollowDrafted>
+  <CreatureFollowDrafted>Kövesse a mesterét besorozás közben</CreatureFollowDrafted>
   <!-- EN: Follow master while doing field work -->
-  <CreatureFollowFieldwork>TODO</CreatureFollowFieldwork>
+  <CreatureFollowFieldwork>Kövesse a mestert terepmunka közben</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{0} viszony ezzel a frakcióval: {1}</ProximitySingleGoodwillChange>
   <!-- EN: Too dangerous to re-enter for {0}. -->
@@ -437,7 +437,7 @@
   <!-- EN: animals -->
   <AnimalsLower>állatok</AnimalsLower>
   <!-- EN: items -->
-  <ItemsLower>TODO</ItemsLower>
+  <ItemsLower>tárgyak</ItemsLower>
   <!-- EN: {0} x{1} -->
   <FilthLabel>{0} x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
@@ -1874,32 +1874,32 @@
   <!-- EN: rot stink -->
   <RotStink>rothadó bűz</RotStink>
   <!-- EN: deadlife dust -->
-  <DeadlifeDust>TODO</DeadlifeDust> 
+  <DeadlifeDust>holtpor</DeadlifeDust> 
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->
   <AbilityDisabledUndrafted>TODO</AbilityDisabledUndrafted>
   <!-- EN: ability on cooldown. It will be available in {0}. -->
-  <AbilityOnCooldown>TODO</AbilityOnCooldown>
+  <AbilityOnCooldown>képesség töltődik. {0} múlva lesz elérhető.</AbilityOnCooldown>
   <!-- EN: ability out of charges. -->
   <AbilityNoCharges>TODO</AbilityNoCharges>
   <!-- EN: ability already queued. -->
-  <AbilityAlreadyQueued>TODO</AbilityAlreadyQueued>
+  <AbilityAlreadyQueued>képesség már várólistán van.</AbilityAlreadyQueued>
   <!-- EN: Ability ready for {PAWN_nameDef}: {0} -->
   <AbilityReadyLabel>TODO</AbilityReadyLabel>
   <!-- EN: Abilities ready for {PAWN_nameDef}: {0} -->
   <AbilitiesReadyLabel>TODO</AbilitiesReadyLabel>
   <!-- EN: {0_nameDef} is ready to use {1}. -->
-  <AbilityReadyText>TODO</AbilityReadyText>
+  <AbilityReadyText>{0_nameDef} készen áll a {1} használatára.</AbilityReadyText>
   <!-- EN: {0_labelShort} is participating in {1}. -->
-  <AbilityDisabledInRitual>TODO</AbilityDisabledInRitual>
+  <AbilityDisabledInRitual>{0_labelShort} {1} rituálén vesz részt.</AbilityDisabledInRitual>
   <!-- EN: Charges -->
-  <Charges>TODO</Charges>
+  <Charges>Töltetek(?)</Charges>
 
   <!-- EN: {0_nameDef} is in a mental state. -->
   <PawnIsInMentalState>TODO</PawnIsInMentalState>
   <!-- EN: {0_nameDef} is in an aggressive mental state. -->
-  <PawnIsInAggroMentalState>TODO</PawnIsInAggroMentalState>
+  <PawnIsInAggroMentalState>{0_nameDef} agresszív mentális állapotban van.</PawnIsInAggroMentalState>
 
   <!-- EN: Disabled work -->
   <DisabledWorkLabel>TODO</DisabledWorkLabel>
@@ -1962,37 +1962,37 @@
   <BookMentalBreak>Idegösszeomlás esélye</BookMentalBreak>
   
   <!-- EN: {BOOK_labelShort} is not readable -->
-  <BookNotReadable>TODO</BookNotReadable>
+  <BookNotReadable>{BOOK_labelShort} nem olvasható</BookNotReadable>
   <!-- EN: {PAWN_nameDef} can't read -->
-  <BookCantRead>TODO</BookCantRead>
+  <BookCantRead>{PAWN_nameDef} nem tud olvasni</BookCantRead>
   <!-- EN: {PAWN_nameDef} must be a {STAGES} -->
   <BookCantBeStage>TODO</BookCantBeStage>
   <!-- EN: {PAWN_nameDef} is blind -->
-  <BookBlind>TODO</BookBlind>
+  <BookBlind>{PAWN_nameDef} vak</BookBlind>
   
   <!-- EN: max level {0} -->
   <BookMaxLevel>max. {0}. szint</BookMaxLevel>
   
   <!-- EN: Reading {0}: {1} done (complete in {2} hours) -->
-  <ReadingReportHeader>TODO</ReadingReportHeader>
+  <ReadingReportHeader>{0} olvasása: {1} kész (teljesítve {2} óra alatt)</ReadingReportHeader>
   
   <!-- EN: Assign reading -->
-  <ReadingDialogTitle>TODO</ReadingDialogTitle>
+  <ReadingDialogTitle>Olvasás hozzárendelése</ReadingDialogTitle>
   <!-- EN: Assign to {0} -->
-  <ReadingAssignTo>TODO</ReadingAssignTo>
+  <ReadingAssignTo>Hozzárendelés ehhez: {0}</ReadingAssignTo>
   <!-- EN: Assign -->
-  <ReadingAssign>TODO</ReadingAssign>
+  <ReadingAssign>Hozzárendel</ReadingAssign>
 
   <!-- EN: The books currently on this bookshelf. -->
-  <ContainedBooksDesc>TODO</ContainedBooksDesc>
+  <ContainedBooksDesc>A könyvek jelenleg ezen a könyvespolcon vannak.</ContainedBooksDesc>
   
   <!-- EN: Books stored -->
-  <BookshelfStoredInspect>TODO</BookshelfStoredInspect>
+  <BookshelfStoredInspect>Tárolt könyvek</BookshelfStoredInspect>
   <!-- EN: Reading bonus in room -->
-  <BookshelfReadingBonusInspect>TODO</BookshelfReadingBonusInspect>
+  <BookshelfReadingBonusInspect>Olvasási bónusz a szobában</BookshelfReadingBonusInspect>
 
   <!-- EN: Remove this book from the bookshelf. -->
-  <EjectBookTooltip>TODO</EjectBookTooltip>
+  <EjectBookTooltip>Könyv eltávolítása a könyvespolcról.</EjectBookTooltip>
   
   <!-- Pushing -->
   <!-- EN: Push to... -->
@@ -2021,12 +2021,12 @@
   <AboutToExplode>TODO</AboutToExplode>
   
   <!-- EN: New Anomaly expansion available now! -->
-  <MainScreen_AnomalyAvailableNow>TODO</MainScreen_AnomalyAvailableNow>
+  <MainScreen_AnomalyAvailableNow>Új Anomália kiegészítő érhető el most!</MainScreen_AnomalyAvailableNow>
 
   <!-- EN: Disabled by scenario -->
-  <DisabledByScenario>TODO</DisabledByScenario>
+  <DisabledByScenario>Forgatókönyv szerint letiltva</DisabledByScenario>
 
   <!-- EN: blocked by roof -->
-  <BlockedByRoof>TODO</BlockedByRoof>
+  <BlockedByRoof>tető által blokkolva</BlockedByRoof>
   
 </LanguageData>

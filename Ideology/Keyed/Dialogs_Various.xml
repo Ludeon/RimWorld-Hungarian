@@ -110,9 +110,9 @@
   <!-- EN: {PAWN_labelShort}'s conversion power -->
   <AbilityIdeoConvertBreakdownConversionPower>{PAWN_labelShort} térítő ereje</AbilityIdeoConvertBreakdownConversionPower>
   <!-- EN: {PAWN_labelShort}'s certainty loss factor from {IDEO_name} -->
-  <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>TODO</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
+  <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>{PAWN_labelShort} meggyőződésvesztési tényezője {IDEO_name} ideológiától</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
   <!-- EN: {PAWN_labelShort} is {ROLE_labelDef} -->
-  <AbilityIdeoConvertBreakdownRole>TODO</AbilityIdeoConvertBreakdownRole>
+  <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort} tisztsége(?) {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
   <!-- EN: Trait {TRAIT} -->
   <AbilityIdeoConvertBreakdownTrait>{TRAIT} tulajdonság</AbilityIdeoConvertBreakdownTrait>
   <!-- EN: Precept {PRECEPT} -->
@@ -132,29 +132,29 @@
   <AbilityCantApplyAlreadyCounselled>TODO</AbilityCantApplyAlreadyCounselled>
 
   <!-- EN: Reform... -->
-  <ReformIdeo>TODO</ReformIdeo>
+  <ReformIdeo>Reformálás...</ReformIdeo>
   <!-- EN: Reform ideoligion -->
-  <ReformIdeoligion>TODO</ReformIdeoligion>
+  <ReformIdeoligion>Ideológia megreformálása</ReformIdeoligion>
   <!-- EN: Reform your ideoligion by changing its structure, memes or style. -->
-  <ReformIdeoligionDesc>TODO</ReformIdeoligionDesc>
+  <ReformIdeoligionDesc>Reformáld meg az ideológiádat, annak mémjeinek és stílusának megváltoztatásával.</ReformIdeoligionDesc>
   <!-- EN: Change styles -->
-  <ReformIdeoChangeStyles>TODO</ReformIdeoChangeStyles>
+  <ReformIdeoChangeStyles>Stílusok módosítása</ReformIdeoChangeStyles>
   <!-- EN: Add or remove a meme -->
-  <ReformIdeoAddOrRemoveMeme>TODO</ReformIdeoAddOrRemoveMeme>
+  <ReformIdeoAddOrRemoveMeme>Mém hozzáadása vagy eltávolítása</ReformIdeoAddOrRemoveMeme>
   <!-- EN: Add a meme -->
-  <ReformIdeoAddMeme>TODO</ReformIdeoAddMeme>
+  <ReformIdeoAddMeme>Mém hozzáadása</ReformIdeoAddMeme>
   <!-- EN: Choose one -->
-  <ReformIdeoChooseOneChange>TODO</ReformIdeoChooseOneChange>
+  <ReformIdeoChooseOneChange>Válassz egyet</ReformIdeoChooseOneChange>
   <!-- EN: Change structure -->
-  <ReformIdeoChangeStructure>TODO</ReformIdeoChangeStructure>
+  <ReformIdeoChangeStructure>Szerkezet módosítása</ReformIdeoChangeStructure>
   <!-- EN: Change any of the following -->
-  <ReformIdeoChangeAny>TODO</ReformIdeoChangeAny>
+  <ReformIdeoChangeAny>Módosítsd a következők bármelyikét</ReformIdeoChangeAny>
   <!-- EN: The relic {0} will not be venerated by your colonists after reforming this ideoligion. Since the quest '{0}' is searching for this relic, it will be deactivated. -->
-  <ReformIdeoRelicHuntQuestEnd>TODO</ReformIdeoRelicHuntQuestEnd>
+  <ReformIdeoRelicHuntQuestEnd>{0} ereklyét nem fogják tisztelni a gyarmatósitóid, miután megreformáltad az ideológiát. Mivel egy küldetésed ("{0}") ezt az ereklyét keresi, deaktiválódik.</ReformIdeoRelicHuntQuestEnd>
   <!-- EN: The ritual {0} is in progress and will be cancelled. -->
-  <ReformIdeoCancelRituals>TODO</ReformIdeoCancelRituals>
+  <ReformIdeoCancelRituals>{0} szertartás folyamatban van, és törlésre kerül.</ReformIdeoCancelRituals>
   <!-- EN: Do you wish to continue? -->
-  <ReformIdeoContinue>TODO</ReformIdeoContinue>
+  <ReformIdeoContinue>Szeretnéd folytatni?</ReformIdeoContinue>
 
   <!-- Slavery -->
   <!-- EN: Slave -->
@@ -162,24 +162,24 @@
   <!-- EN: Colonist -->
   <CannotAssignBedToColonist>Gyarmatos</CannotAssignBedToColonist>
   <!-- EN: Any slave -->
-  <AnySlave>TODO</AnySlave>
+  <AnySlave>Bármely rabszolga</AnySlave>
   <!-- EN: {0_nameDef} refuses to sell people into slavery according to {0_possessive} beliefs. -->
-  <NegotiatorWillNotTradeSlaves>TODO</NegotiatorWillNotTradeSlaves>
+  <NegotiatorWillNotTradeSlaves>{0_nameDef} nem hajlandó embereket eladni rabszolgának a hite miatt.</NegotiatorWillNotTradeSlaves>
   <!-- EN: The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to {0_possessive} own faction, but isn't willing to sell someone to a different faction. -->
-  <NegotiatorWillNotTradeSlavesTip>TODO</NegotiatorWillNotTradeSlavesTip>
+  <NegotiatorWillNotTradeSlavesTip>A tárgyaló, {0_nameDef}, nem fog embereket rabszolgaságba taszítani {1} hite miatt.\n\nMegjegyzendő, hogy {0_nameDef} hajlandó valakit visszaadni a saját frakciójának, de nem hajlandó eladni valakit egy másik frakciónak.</NegotiatorWillNotTradeSlavesTip>
 
   <!-- EN: Last human meat -->
-  <LastHumanMeat>TODO</LastHumanMeat>
+  <LastHumanMeat>Utolsó emberevés</LastHumanMeat>
   <!-- EN: Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat. -->
-  <LastHumanMeatDesc>TODO</LastHumanMeatDesc>
+  <LastHumanMeatDesc>Mivel {PAWN_nameDef} {IDEO_name} hitű, {PAWN_nameDef} boldogtalan lesz, ha több mint {DURATION} napig nem fogyaszt emberi húst.</LastHumanMeatDesc>
 
   <!-- EN: Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}. -->
-  <ExectueNeutralFactionSlave>TODO</ExectueNeutralFactionSlave>
+  <ExectueNeutralFactionSlave>{PAWN_labelShort} kivégzése negatív hatással lesz {FACTION_name} frakcióval fennálló kapcsolataidra.</ExectueNeutralFactionSlave>
 
   <!-- EN: You must assign at least one non-slave colonist who can walk. -->
-  <CaravanMustHaveAtLeastOneNonSlaveColonist>TODO</CaravanMustHaveAtLeastOneNonSlaveColonist>
+  <CaravanMustHaveAtLeastOneNonSlaveColonist>Legalább egy nem rabszolga telepest kell kijelölni, aki járni tud.</CaravanMustHaveAtLeastOneNonSlaveColonist>
   <!-- EN: You must leave at least non-slave colonist who can walk. -->
-  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>TODO</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
+  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>Legalább egy nem rabszolga telepest kell itthagyni, aki tud járni.</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
 
   <!-- Style -->
   <!-- EN: Style -->

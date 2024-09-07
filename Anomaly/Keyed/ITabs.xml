@@ -3,63 +3,63 @@
 
   <!-- ITab_Entity -->
   <!-- EN: Escape interval -->
-  <HoldingPlatformEscapeMTBDays>TODO</HoldingPlatformEscapeMTBDays>
+  <HoldingPlatformEscapeMTBDays>Szökési időköz</HoldingPlatformEscapeMTBDays>
   <!-- EN: The average time between escapes. This is affected by containment strength, the type of entity, the entity’s movement capability, and the duration of the entity's imprisonment. Some entities are also suppressed by cold. -->
-  <HoldingPlatformEscapeMTBDaysDesc>TODO</HoldingPlatformEscapeMTBDaysDesc>
+  <HoldingPlatformEscapeMTBDaysDesc>A szökési kísérletek közötti átlagos idő. Ezt befolyásolja az elszigetelés erőssége, az entitás típusa, mozgási képessége és fogságának időtartama. Néhány entitást a hideg is elnyom.</HoldingPlatformEscapeMTBDaysDesc>
   <!-- EN: Entity -->
-  <TabEntity>TODO</TabEntity>
+  <TabEntity>Entitás</TabEntity>
   <!-- EN: Study interval -->
-  <StudyInterval>TODO</StudyInterval>
+  <StudyInterval>Tanulmányozási időköz</StudyInterval>
   <!-- EN: How often this entity can be studied. -->
-  <StudyIntervalDesc>TODO</StudyIntervalDesc>
+  <StudyIntervalDesc>Milyen gyakran lehet tanulmányozni ezt az entitást.</StudyIntervalDesc>
   <!-- EN: Maintain only -->
-  <EntityStudyMode_MaintainOnly>TODO</EntityStudyMode_MaintainOnly>
+  <EntityStudyMode_MaintainOnly>Csak fenntartás</EntityStudyMode_MaintainOnly>
   <!-- EN: Wardens will not perform special actions on this entity, but other interactions are still available. -->
-  <EntityStudyMode_MaintainOnlyDesc>TODO</EntityStudyMode_MaintainOnlyDesc>
+  <EntityStudyMode_MaintainOnlyDesc>A felügyelők nem hajtanak végre speciális műveleteket ezen az entitáson, de más interakciók továbbra is elérhetők.</EntityStudyMode_MaintainOnlyDesc>
   <!-- EN: Study -->
-  <EntityStudyMode_Study>TODO</EntityStudyMode_Study>
+  <EntityStudyMode_Study>Tanulmányozás</EntityStudyMode_Study>
   <!-- EN: Researchers will study the entity. -->
-  <EntityStudyMode_StudyDesc>TODO</EntityStudyMode_StudyDesc>
+  <EntityStudyMode_StudyDesc>A kutatók tanulmányozzák az entitást.</EntityStudyMode_StudyDesc>
   <!-- EN: Release -->
-  <EntityStudyMode_Release>TODO</EntityStudyMode_Release>
+  <EntityStudyMode_Release>Elengedés</EntityStudyMode_Release>
   <!-- EN: A warden will release the entity from the holding platform. Entities may be hostile when released. -->
-  <EntityStudyMode_ReleaseDesc>TODO</EntityStudyMode_ReleaseDesc>
+  <EntityStudyMode_ReleaseDesc>A felügyelő kiszabadítja az entitást a tartóállványról. Az entitások ellenségesek lehetnek, amikor szabadon engedik őket.</EntityStudyMode_ReleaseDesc>
   <!-- EN: Execute -->
-  <EntityStudyMode_Execute>TODO</EntityStudyMode_Execute>
+  <EntityStudyMode_Execute>Kivégzés</EntityStudyMode_Execute>
   <!-- EN: A warden will execute the restrained entity. -->
-  <EntityStudyMode_ExecuteDesc>TODO</EntityStudyMode_ExecuteDesc>
+  <EntityStudyMode_ExecuteDesc>Egy felügyelő kivégzi a kikötözött entitást.</EntityStudyMode_ExecuteDesc>
   <!-- EN: Extract bioferrite -->
-  <EntityStudyMode_Extract>TODO</EntityStudyMode_Extract>
+  <EntityStudyMode_Extract>Bioferrit kivonása</EntityStudyMode_Extract>
   <!-- EN: Doctors will extract bioferrite from the captured entity whenever possible. This extraction method is simple, but inefficient. Can’t be done if the entity is attached to a bioferrite harvester. -->
-  <EntityStudyMode_ExtractDesc>TODO</EntityStudyMode_ExtractDesc>
+  <EntityStudyMode_ExtractDesc>Az orvosok, amikor csak lehetséges, kivonják a bioferritet a befogott entitásból. Ez az extrakciós módszer egyszerű, de nem hatékony. Nem végezhető el, ha az entitás bioferrit lefejtőhöz van csatlakoztatva.</EntityStudyMode_ExtractDesc>
   <!-- EN: Requires bioferrite extraction. -->
-  <RequiresBioferriteExtraction>TODO</RequiresBioferriteExtraction>
+  <RequiresBioferriteExtraction>Bioferrit kinyerést igényel.</RequiresBioferriteExtraction>
   <!-- EN: Blocked by bioferrite harvester. -->
-  <BioferriteHarvesterAttached>TODO</BioferriteHarvesterAttached>
+  <BioferriteHarvesterAttached>Bioferrit lefejtő blokkolja.</BioferriteHarvesterAttached>
   <!-- EN: Can't be executed. -->
-  <CantBeExecuted>TODO</CantBeExecuted>
+  <CantBeExecuted>Nem végezhető ki.</CantBeExecuted>
   <!-- EN: Knowledge gain -->
-  <StudyKnowledgeGain>TODO</StudyKnowledgeGain>
+  <StudyKnowledgeGain>Tudásszerzés</StudyKnowledgeGain>
   <!-- EN: Amount of knowledge gained per study interval. Better containment helps the researcher focus on study instead of safety, yielding more knowledge. -->
-  <StudyKnowledgeGainDesc>TODO</StudyKnowledgeGainDesc>
+  <StudyKnowledgeGainDesc>A tanulmányozási időközönként szerzett ismeretek mennyisége. A jobb elszigetelés segít a kutatónak a biztonság helyett a tanulmányozásra összpontosítani, így több tudást eredményez.</StudyKnowledgeGainDesc>
   <!-- EN: What type of medicine can be given to this entity. -->
-  <MedicineQualityDescriptionEntity>TODO</MedicineQualityDescriptionEntity>
+  <MedicineQualityDescriptionEntity>Milyen típusú gyógyszert lehet adni ennek az entitásnak.</MedicineQualityDescriptionEntity>
 
   <!-- EN: Electroharvester -->
-  <FactorForElectroharvester>TODO</FactorForElectroharvester>
+  <FactorForElectroharvester>Elektromos lefejtő</FactorForElectroharvester>
   <!-- EN: Long captivity -->
-  <FactorForDaysInCaptivity>TODO</FactorForDaysInCaptivity>
+  <FactorForDaysInCaptivity>Hosszú fogság</FactorForDaysInCaptivity>
   <!-- EN: Cold containment bonus -->
-  <FactorForColdCaptivity>TODO</FactorForColdCaptivity>
+  <FactorForColdCaptivity>Hideg elszigetelési bónusz</FactorForColdCaptivity>
   <!-- EN: Incapable of escaping -->
-  <IncapableOfEscaping>TODO</IncapableOfEscaping>
+  <IncapableOfEscaping>Képtelen elmenekülni</IncapableOfEscaping>
   <!-- EN: Entity downed -->
-  <EntityDowned>TODO</EntityDowned>
+  <EntityDowned>Entitás kiütve</EntityDowned>
   <!-- EN: Containment strength -->
-  <FactorContainmentStrength>TODO</FactorContainmentStrength>
+  <FactorContainmentStrength>Elszigetelési erő</FactorContainmentStrength>
   <!-- EN: Electroharvester -->
-  <FactorElectroharvester>TODO</FactorElectroharvester>
+  <FactorElectroharvester>Elektromos lefejtő</FactorElectroharvester>
   <!-- EN: Activity -->
-  <FactorActivity>TODO</FactorActivity>
+  <FactorActivity>Tevékenység</FactorActivity>
 
 </LanguageData>
