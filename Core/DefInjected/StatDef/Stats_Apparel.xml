@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: Armor - Blunt -->
-  <ArmorRating_Blunt.label>védelem - zúzás</ArmorRating_Blunt.label>
+  <ArmorRating_Blunt.label>védelem - tompa</ArmorRating_Blunt.label>
   <!-- EN: The protection given against blunt damage like fists, club impacts and rock falls.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
-  <ArmorRating_Blunt.description>Védelem zúzó sebzés ellen, mint pl. bunkósbot, kőomlás, robbanások.</ArmorRating_Blunt.description>
+  <ArmorRating_Blunt.description>A tompa sebzések, például ököl-, buzogánycsapások és sziklaomlások elleni védelem.\n\nSebzés esetén először ezt a páncélzati besorolást csökkenti a támadás páncélátütési értéke.\n\nA fennmaradó páncélzati besorolás ezután összehasonlításra kerül egy 0 és 100 közötti véletlen számmal.\n\n - Ha a véletlen szám a páncél értékének fele alatt van,  a sebzés ártalmatlanul elnyelődik.\n - Ha a véletlen szám meghaladja a páncél besorolásának felét, de nem magasabb, mint a páncél besorolása, a sebzés a felére csökken, és tompára változik.\n - Ha a véletlen szám nagyobb, mint a páncél besorolása, a páncélnak nincs hatása.\n\nPéldául 90%-os páncélzati besorolás esetén egy 10%-os páncélátütéssel járó támadással szemben,  40% esély van arra, hogy ártalmatlanul elhárítsuk a támadást, és 40% esély van a sebzés enyhítésére.\n\nMinden páncélréteget külön-külön, kívülről befelé számítunk.</ArmorRating_Blunt.description>
   <!-- EN: Armor - Blunt (armor stat) -->
-  <ArmorRating_Blunt.labelForFullStatList>TODO</ArmorRating_Blunt.labelForFullStatList>
+  <ArmorRating_Blunt.labelForFullStatList>Páncél - tompa (páncél stat)</ArmorRating_Blunt.labelForFullStatList>
   
   <!-- EN: Armor - Heat -->
   <ArmorRating_Heat.label>védelem - hő</ArmorRating_Heat.label>
   <!-- EN: The protection given against temperature-related damage like burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
-  <ArmorRating_Heat.description>Védelem nagy hő ellen, pl. tűz.</ArmorRating_Heat.description>
+  <ArmorRating_Heat.description>A hőmérséklettel kapcsolatos károsodások, például égési sérülések elleni védelem.\n\nSebzés esetén először ezt a páncélzati besorolást csökkenti a támadás páncélátütési értéke.\n\nA fennmaradó páncélzati besorolás ezután összehasonlításra kerül egy 0 és 100 közötti véletlen számmal.\n\n - Ha a véletlen szám a páncél értékének fele alatt van,  a sebzés ártalmatlanul elnyelődik.\n - Ha a véletlen szám meghaladja a páncél besorolásának felét, de nem magasabb, mint a páncél besorolása, a sebzés a felére csökken, és tompára változik.\n - Ha a véletlen szám nagyobb, mint a páncél besorolása, a páncélnak nincs hatása.\n\nPéldául 90%-os páncélzati besorolás esetén egy 10%-os páncélátütéssel járó támadással szemben,  40% esély van arra, hogy ártalmatlanul elhárítsuk a támadást, és 40% esély van a sebzés enyhítésére.\n\nMinden páncélréteget külön-külön, kívülről befelé számítunk.</ArmorRating_Heat.description>
   <!-- EN: Armor - Heat (armor stat) -->
-  <ArmorRating_Heat.labelForFullStatList>TODO</ArmorRating_Heat.labelForFullStatList>
+  <ArmorRating_Heat.labelForFullStatList>Páncél - hő (páncél stat)</ArmorRating_Heat.labelForFullStatList>
   
   <!-- EN: Armor - Sharp -->
-  <ArmorRating_Sharp.label>védelem - vágás</ArmorRating_Sharp.label>
+  <ArmorRating_Sharp.label>védelem - éles</ArmorRating_Sharp.label>
   <!-- EN: The protection given against sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
-  <ArmorRating_Sharp.description>Védelem szúró, vágó sebzés ellen, mint pl. golyó, kés és állat harapás.</ArmorRating_Sharp.description>
+  <ArmorRating_Sharp.description>Védelmet nyújt az éles, hegyes sérülések, például golyók, késszúrások, robbanások és állati harapások ellen.\n\nSebzés esetén először ezt a páncélzati besorolást csökkenti a támadás páncélátütési értéke.\n\nA fennmaradó páncélzati besorolás ezután összehasonlításra kerül egy 0 és 100 közötti véletlen számmal.\n\n - Ha a véletlen szám a páncél értékének fele alatt van,  a sebzés ártalmatlanul elnyelődik.\n - Ha a véletlen szám meghaladja a páncél besorolásának felét, de nem magasabb, mint a páncél besorolása, a sebzés a felére csökken, és tompára változik.\n - Ha a véletlen szám nagyobb, mint a páncél besorolása, a páncélnak nincs hatása.\n\nPéldául 90%-os páncélzati besorolás esetén egy 10%-os páncélátütéssel járó támadással szemben,  40% esély van arra, hogy ártalmatlanul elhárítsuk a támadást, és 40% esély van a sebzés enyhítésére.\n\nMinden páncélréteget külön-külön, kívülről befelé számítunk.</ArmorRating_Sharp.description>
   <!-- EN: Armor - Sharp (armor stat) -->
-  <ArmorRating_Sharp.labelForFullStatList>TODO</ArmorRating_Sharp.labelForFullStatList>
+  <ArmorRating_Sharp.labelForFullStatList>páncél - éles (páncél stat)</ArmorRating_Sharp.labelForFullStatList>
   
   <!-- EN: Shield max energy -->
-  <EnergyShieldEnergyMax.label>max. pajzs</EnergyShieldEnergyMax.label>
+  <EnergyShieldEnergyMax.label>Pajzs maximális energiája</EnergyShieldEnergyMax.label>
   <!-- EN: The maximum energy a shield can have at one time.\n\nMore energy absorbs more damage. -->
   <EnergyShieldEnergyMax.description>Az a maximális energia, amellyel egy pajzs egyszerre rendelkezhet.\n\Több energia több sebzést nyel el.</EnergyShieldEnergyMax.description>
   
@@ -44,31 +44,31 @@
   <!-- EN: Insulation - Cold -->
   <Insulation_Cold.label>szigetelés - hideg</Insulation_Cold.label>
   <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature.\n\nGreater values allow surviving in colder temperatures. -->
-  <Insulation_Cold.description>Mennyivel tolja ki viselője hőmérsékleti komfortzónáját negatív irányban.</Insulation_Cold.description>
+  <Insulation_Cold.description>Mennyivel javítja ez a ruházat viselőjének minimális kényelmes hőmérsékletét.\n\nA nagyobb értékek lehetővé teszik a hidegebb hőmérsékleten való túlélést.</Insulation_Cold.description>
   <!-- EN: Insulation - Cold (armor stat) -->
-  <Insulation_Cold.labelForFullStatList>TODO</Insulation_Cold.labelForFullStatList>
+  <Insulation_Cold.labelForFullStatList>Szigetelés - hideg (páncél stat)</Insulation_Cold.labelForFullStatList>
   
   <!-- EN: Insulation - Heat -->
-  <Insulation_Heat.label>szigetelés - meleg</Insulation_Heat.label>
+  <Insulation_Heat.label>szigetelés - hő</Insulation_Heat.label>
   <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature.\n\nGreater values allow surviving in warmer temperatures. -->
-  <Insulation_Heat.description>Mennyivel tolja ki viselője hőmérsékleti komfortzónáját pozitív irányban.</Insulation_Heat.description>
+  <Insulation_Heat.description>Mennyivel javítja ez a ruházat viselőjének maximális kényelmes hőmérsékletét.\n\nA nagyobb értékek lehetővé teszik a melegebb hőmérsékleten való túlélést.</Insulation_Heat.description>
   <!-- EN: Insulation - Heat (armor stat) -->
-  <Insulation_Heat.labelForFullStatList>TODO</Insulation_Heat.labelForFullStatList>
+  <Insulation_Heat.labelForFullStatList>Szigetelés - hő (páncél stat)</Insulation_Heat.labelForFullStatList>
   
   <!-- EN: Effect radius -->
-  <PackRadius.label>TODO</PackRadius.label>
+  <PackRadius.label>Hatósugár</PackRadius.label>
   <!-- EN: The area affected when this pack detonates. -->
-  <PackRadius.description>TODO</PackRadius.description>
+  <PackRadius.description>A csomag felrobbanásakor érintett terület.</PackRadius.description>
   <!-- EN: {0} c -->
-  <PackRadius.formatString>TODO</PackRadius.formatString>
+  <PackRadius.formatString>{0} c</PackRadius.formatString>
   
   <!-- EN: Armor - Material effect multiplier -->
-  <StuffEffectMultiplierArmor.label>Védelem - Anyagtulajdonság szorzó</StuffEffectMultiplierArmor.label>
+  <StuffEffectMultiplierArmor.label>Védelem - anyagtulajdonság szorzó</StuffEffectMultiplierArmor.label>
   
   <!-- EN: Insulation - Cold - Material effect multiplier -->
-  <StuffEffectMultiplierInsulation_Cold.label>Szigetelés - Hideg - Anyagtulajdonság szorzó</StuffEffectMultiplierInsulation_Cold.label>
+  <StuffEffectMultiplierInsulation_Cold.label>Szigetelés - hideg - anyagtulajdonság szorzó</StuffEffectMultiplierInsulation_Cold.label>
   
   <!-- EN: Insulation - Heat - Material effect multiplier -->
-  <StuffEffectMultiplierInsulation_Heat.label>Szigetelés - Hő - Anyagtulajdonság szorzó</StuffEffectMultiplierInsulation_Heat.label>
+  <StuffEffectMultiplierInsulation_Heat.label>Szigetelés - hő - anyagtulajdonság szorzó</StuffEffectMultiplierInsulation_Heat.label>
   
 </LanguageData>
