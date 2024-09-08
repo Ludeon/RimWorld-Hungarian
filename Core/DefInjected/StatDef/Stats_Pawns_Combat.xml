@@ -59,22 +59,22 @@
   <RangedCooldownFactor.description>TODO</RangedCooldownFactor.description>
   
   <!-- EN: accuracy factor (long) -->
-  <ShootingAccuracyFactor_Long.label>pontossági tényező (nagytáv)</ShootingAccuracyFactor_Long.label>
+  <ShootingAccuracyFactor_Long.label>pontossági tényező (nagy távolságra)</ShootingAccuracyFactor_Long.label>
   <!-- EN: A multiplier on accuracy at a distance of 40 cells or more. -->
   <ShootingAccuracyFactor_Long.description>A pontosság szorzója 40 cella vagy annál nagyobb távolságban.</ShootingAccuracyFactor_Long.description>
   
   <!-- EN: accuracy factor (medium) -->
-  <ShootingAccuracyFactor_Medium.label>pontossági tényező (középtáv)</ShootingAccuracyFactor_Medium.label>
+  <ShootingAccuracyFactor_Medium.label>pontossági tényező (középtávra)</ShootingAccuracyFactor_Medium.label>
   <!-- EN: A multiplier on accuracy at a distance of 25 cells. -->
   <ShootingAccuracyFactor_Medium.description>A pontosság szorzója 25 cella távolságban.</ShootingAccuracyFactor_Medium.description>
   
   <!-- EN: accuracy factor (short) -->
-  <ShootingAccuracyFactor_Short.label>pontossági tényező (rövidtáv)</ShootingAccuracyFactor_Short.label>
+  <ShootingAccuracyFactor_Short.label>pontossági tényező (rövidtávra)</ShootingAccuracyFactor_Short.label>
   <!-- EN: A multiplier on accuracy at a distance of 12 cells. -->
   <ShootingAccuracyFactor_Short.description>A pontosság szorzója 12 cella távolságban.</ShootingAccuracyFactor_Short.description>
   
   <!-- EN: accuracy factor (close) -->
-  <ShootingAccuracyFactor_Touch.label>pontossági tényező (közeli)</ShootingAccuracyFactor_Touch.label>
+  <ShootingAccuracyFactor_Touch.label>pontossági tényező (közelre)</ShootingAccuracyFactor_Touch.label>
   <!-- EN: A multiplier on accuracy at a distance of 3 cells or less. -->
   <ShootingAccuracyFactor_Touch.description>A pontosság szorzója 3 cella vagy annál kisebb távolságban.</ShootingAccuracyFactor_Touch.description>
   
