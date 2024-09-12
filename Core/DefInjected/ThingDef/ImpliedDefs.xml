@@ -356,7 +356,7 @@
   <Blueprint_Turret_MiniTurret.label>robotágyú (tervrajz)</Blueprint_Turret_MiniTurret.label>
   
   <!-- EN: tarack (robbanó) (tervrajz) -->
-  <Blueprint_Turret_Mortar.label>tarack (tervrajz)</Blueprint_Turret_Mortar.label>
+  <Blueprint_Turret_Mortar.label>aknavető (tervrajz)</Blueprint_Turret_Mortar.label>
   
   <!-- EN: ventilátor (tervrajz) -->
   <Blueprint_Vent.label>ventilátor (tervrajz)</Blueprint_Vent.label>
@@ -1218,9 +1218,9 @@
   <Frame_Turret_MiniTurret.description>Robotágyú, ami automatikusan tüzel közeli célpontokra. Ha tönkremegy, felrobban. Mesterséges intelligenciája nem túl okos és nem lehet közvetlenül irányítani, ezért a baráti tűz esélye nagy.</Frame_Turret_MiniTurret.description>
   
   <!-- EN: tarack (robbanó) (állvány) -->
-  <Frame_Turret_Mortar.label>tarack (építmény)</Frame_Turret_Mortar.label>
+  <Frame_Turret_Mortar.label>aknavető (építmény)</Frame_Turret_Mortar.label>
   <!-- EN: Tarack, mely robbanó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban. -->
-  <Frame_Turret_Mortar.description>Tarack, mely robbanó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Frame_Turret_Mortar.description>
+  <Frame_Turret_Mortar.description>Aknavető, mely robbanó töltet lő. Csak ember által irányítva működik. Ha tönkremegy, felrobban.</Frame_Turret_Mortar.description>
   
   <!-- EN: ventilátor (állvány) -->
   <Frame_Vent.label>ventilátor (építmény)</Frame_Vent.label>

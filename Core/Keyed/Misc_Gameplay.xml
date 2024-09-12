@@ -427,9 +427,9 @@
   <!-- EN: turrets -->
   <Turrets>ágyúk</Turrets>
   <!-- EN: mortar -->
-  <Mortar>tarack</Mortar>
+  <Mortar>aknavető</Mortar>
   <!-- EN: mortars -->
-  <Mortars>tarackok</Mortars>
+  <Mortars>aknavetők</Mortars>
   <!-- EN: enemy -->
   <Enemy>ellenség</Enemy>
   <!-- EN: location -->
@@ -441,7 +441,7 @@
   <!-- EN: {0} x{1} -->
   <FilthLabel>{0} x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
-  <FilthLabelWithSource>{0}db {1} x{2}</FilthLabelWithSource>
+  <FilthLabelWithSource>{0}: {1} x{2}</FilthLabelWithSource>
   <!-- EN: Required -->
   <Required>Szükséges</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
@@ -1874,7 +1874,7 @@
   <!-- EN: rot stink -->
   <RotStink>rothadó bűz</RotStink>
   <!-- EN: deadlife dust -->
-  <DeadlifeDust>holtpor</DeadlifeDust> 
+  <DeadlifeDust>élőholt por</DeadlifeDust> 
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->

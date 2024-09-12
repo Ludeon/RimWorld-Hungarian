@@ -103,4 +103,4 @@ sightstealer - lélekrabló, lélekrabló - torz, törékeny, karmokkal rendelke
 
 fleshbeast - húsmassza, rákos hússzövetekből összeálló szörnyeteg
 
-deadlife dust - holtpor
+deadlife dust - élőholt por, holtpor (a halottakat átváltoztatja shambler-ré (csoszogó))
