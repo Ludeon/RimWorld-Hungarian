@@ -44,7 +44,7 @@
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{1_labelShort} magatehetetlen.</IsIncapped>
   <!-- EN: {0_labelShort} is participating in {1}. -->
-  <ParticipatingInRitual>TODO</ParticipatingInRitual>
+  <ParticipatingInRitual>{0_labelShort} {1} szertartáson vesz részt.</ParticipatingInRitual>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>Tüzelés engedély</CommandFireAtWillLabel>
@@ -101,7 +101,7 @@
   <!-- EN: Are you sure you want to do this? -->
   <AreYouSure>Biztos vagy benne?</AreYouSure>
   <!-- EN: Changing bed use affects the whole room (since prisoners, slaves and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <ChangingOwnerTypeBedWarning>TODO</ChangingOwnerTypeBedWarning>
+  <ChangingOwnerTypeBedWarning>Az ágyhasználat megváltoztatása az egész szobát érinti (mivel a foglyok, rabszolgák és telepesek nem alhatnak ugyanabban a szobában).\n\nEzek az emberek elveszítik az ágyuk tulajdonjogát:</ChangingOwnerTypeBedWarning>
 
 
   <!-- EN: Detonate -->
@@ -137,14 +137,14 @@
   <CommandAllowSowDesc>Kikapcsolt állapotban a gyarmatosok nem vetnek többé ide. Betakarítani fognak.</CommandAllowSowDesc>
 
   <!-- EN: Allow cutting -->
-  <CommandAllowCut>TODO</CommandAllowCut>
+  <CommandAllowCut>Kivágás engedélyezése</CommandAllowCut>
   <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest plants matching the growing zone plant type. -->
-  <CommandAllowCutDesc>TODO</CommandAllowCutDesc>
+  <CommandAllowCutDesc>Letiltás esetén a telepesek soha nem vágják le a növényeket ebben a zónában. Továbbra is új növényeket vetnek a már üres helyekre, és betakarítják a termesztési zóna növénytípusának megfelelő növényeket.</CommandAllowCutDesc>
   
   <!-- EN: Select {0_label} -->
   <CommandSelectStoredThing>{0_label} kiválasztása</CommandSelectStoredThing>
   <!-- EN: Select the item stored in here. -->
-  <CommandSelectStoredThingDesc>TODO</CommandSelectStoredThingDesc>
+  <CommandSelectStoredThingDesc>Az itt tárolt elem kiválasztása.</CommandSelectStoredThingDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
@@ -276,11 +276,11 @@
   
   <!-- reload -->
   <!-- EN: No {CHARGENOUN_plural} left. -->
-  <CommandReload_NoCharges>TODO</CommandReload_NoCharges>
+  <CommandReload_NoCharges>Nem maradt {CHARGENOUN_plural}.</CommandReload_NoCharges>
   <!-- EN: {COOLDOWNGERUND} for {TIME}. -->
-  <CommandReload_Cooldown>TODO</CommandReload_Cooldown>
+  <CommandReload_Cooldown>{COOLDOWNGERUND}, {TIME}.</CommandReload_Cooldown>
   <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
-  <CommandReload_NoAmmo>TODO</CommandReload_NoAmmo>
+  <CommandReload_NoAmmo>Újra kell tölteni {COUNT} {AMMO_label} munícióval.</CommandReload_NoAmmo>
   
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
@@ -294,7 +294,7 @@
   <!-- EN: Tuned to -->
   <CommandSelectMineralToScanFor>Hangolás:</CommandSelectMineralToScanFor>
   <!-- EN: Select the mineral type to scan for. -->
-  <CommandSelectMineralToScanForDesc>TODO</CommandSelectMineralToScanForDesc>
+  <CommandSelectMineralToScanForDesc>Kijelöli a keresendő ásványi anyag típusát.</CommandSelectMineralToScanForDesc>
 
   <!-- Build copy -->
   <!-- EN: Build copy -->
@@ -308,7 +308,7 @@
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
   <CommandFormCaravanDesc>Gyarmatosok egy csoportjának kialakítása, más körzetekbe való utazáshoz. Összegyűjtik a kellő ellátmányt és állatokat, elhagyják a körzetet és további utasításra várnak.</CommandFormCaravanDesc>
   <!-- EN: This spot will be used as a meeting point for the caravan. All goods and animals will be brought here before leaving. -->
-  <CommandFormCaravanDescAtSpot>TODO</CommandFormCaravanDescAtSpot>
+  <CommandFormCaravanDescAtSpot>Ezt a helyet a karaván találkozási pontjaként fogják használni. Indulás előtt minden árut és állatot idehoznak.</CommandFormCaravanDescAtSpot>
   
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
@@ -342,7 +342,7 @@
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
   <CommandMergeCaravansFailCaravansNotSelected>A kiválasztott karavánok egyesítése. Közel kell lenniük egymáshoz.</CommandMergeCaravansFailCaravansNotSelected>
   <!-- EN: Join -->
-  <CommandJoinCaravan>TODO</CommandJoinCaravan>
+  <CommandJoinCaravan>Csatlakozás</CommandJoinCaravan>
   
   <!-- Settle -->
   <!-- EN: Settle -->
@@ -542,9 +542,9 @@
   
   <!-- Dismiss shuttle -->
   <!-- EN: Dismiss -->
-  <CommandShuttleDismiss>TODO</CommandShuttleDismiss>
+  <CommandShuttleDismiss>Elküldés</CommandShuttleDismiss>
   <!-- EN: Unload all contents and send the shuttle away. -->
-  <CommandShuttleDismissDesc>TODO</CommandShuttleDismissDesc>
+  <CommandShuttleDismissDesc>A teljes rakomány kipakolása, és az űrsikló elküldése.</CommandShuttleDismissDesc>
 
   <!-- Place blueprints -->
   <!-- EN: Place blueprints -->
@@ -552,9 +552,9 @@
   <!-- EN: Place all required blueprints where possible. -->
   <CommandPlaceBlueprintsDesc>Minden szükséges tervrajz lerakása, ha lehetséges.</CommandPlaceBlueprintsDesc>
   <!-- EN: Place {0} blueprints -->
-  <CommandPlaceBlueprintsSpecific>TODO</CommandPlaceBlueprintsSpecific>
+  <CommandPlaceBlueprintsSpecific>{0} tervrajz elhelyezése</CommandPlaceBlueprintsSpecific>
   <!-- EN: Place all {0} blueprints where possible. -->
-  <CommandPlaceBlueprintsSpecificDesc>TODO</CommandPlaceBlueprintsSpecificDesc>
+  <CommandPlaceBlueprintsSpecificDesc>Az összes ({0}) tervrajz elhelyezése, ahol lehetséges.</CommandPlaceBlueprintsSpecificDesc>
 
   <!-- Cancel monument marker -->
   <!-- EN: Cancel -->
@@ -574,9 +574,9 @@
 
   <!-- Carry -->
   <!-- EN: Drop {0_nameDef} -->
-  <CommandDropPawn>TODO</CommandDropPawn>
+  <CommandDropPawn>{0_nameDef} ledobása</CommandDropPawn>
   <!-- EN: Drop the person being carried. -->
-  <CommandDropPawnDesc>TODO</CommandDropPawnDesc>
+  <CommandDropPawnDesc>A szállított személy ledobása.</CommandDropPawnDesc>
   <!-- EN: Select {0_nameDef} -->
   <CommandSelectCarriedPawn>{0_nameDef} kiválasztása</CommandSelectCarriedPawn>
   <!-- EN: Select the creature being carried. -->
@@ -588,15 +588,15 @@
   <!-- EN: Select {0_label} -->
   <CommandSelectContainerThing>{0_label} kiválasztása</CommandSelectContainerThing>
   <!-- EN: Select the containing item. -->
-  <CommandSelectContainerThingDesc>TODO</CommandSelectContainerThingDesc>
+  <CommandSelectContainerThingDesc>A tartalmazó elem kiválasztása.</CommandSelectContainerThingDesc>
   <!-- EN: Select {0_nameDef} -->
   <CommandSelectCarryingPawn>{0_nameDef} kiválasztása</CommandSelectCarryingPawn>
   <!-- EN: Select the carrying creature. -->
-  <CommandSelectCarryingPawnDesc>TODO</CommandSelectCarryingPawnDesc>
+  <CommandSelectCarryingPawnDesc>A hordozó lény kiválasztása.</CommandSelectCarryingPawnDesc>
   <!-- EN: Select {0_nameDef} -->
   <CommandSelectContainedPawn>{0_nameDef} kiválasztása</CommandSelectContainedPawn>
   <!-- EN: Select the contained creature. -->
-  <CommandSelectContainedPawnDesc>TODO</CommandSelectContainedPawnDesc>
+  <CommandSelectContainedPawnDesc>A benne lévő lény kiválasztása.</CommandSelectContainedPawnDesc>
   <!-- EN: Select {0_label} -->
   <CommandSelectContainedThing>{0_label} kiválasztása</CommandSelectContainedThing>
   <!-- EN: Select the contained item. -->
@@ -641,7 +641,7 @@
   <!-- EN: Unlink this from other buildings' storage settings so its settings can be set independently. -->
   <UnlinkStorageSettingsDesc>Leválasztja ezt más tárolók tárolási beállításairól, hogy a beállítások egymástól függetlenül legyenek megadhatók.</UnlinkStorageSettingsDesc>
   <!-- EN: Linked storage settings -->
-  <LinkedStorageSettings>TODO</LinkedStorageSettings>
+  <LinkedStorageSettings>Kapcsolódó tárolási beállítások</LinkedStorageSettings>
   <!-- EN: 1 building -->
   <OneBuilding>1 épület</OneBuilding>
   <!-- EN: {0} buildings -->
@@ -664,6 +664,6 @@
 
   <!-- Limited use count action -->
   <!-- EN: No uses left. -->
-  <CommandNoUsesLeft>TODO</CommandNoUsesLeft>
+  <CommandNoUsesLeft>Nem maradt több használati lehetőség.</CommandNoUsesLeft>
   
 </LanguageData>
