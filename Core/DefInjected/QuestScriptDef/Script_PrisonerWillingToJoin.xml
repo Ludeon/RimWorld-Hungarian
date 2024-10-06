@@ -8,7 +8,14 @@
     <li>underArmedGuard(allowViolentQuests==true,priority=1)-> under armed guard</li>
     <li>underArmedGuard-></li>
   -->
-  <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>TODO</OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+  <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+    <li>questDescription->Egy [siteFaction_name] frakció által bebörtönzött fogolynak sikerült ellopnia egy rádiót és felhívnia téged!\n\n[prisoner_nameDef] elmondja, hogy egy táborban tartják fogva, [map_definite] közelében[underArmedGuard]. Mentsd meg őt és csatlakozni fog a kolóniádhoz. Röviden megtudod róla, hogy [prisoner_age] éves és egy [prisoner_title]. Azt még fontosnak tartja megjegyezni, hogy [allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo]\n\nHa elszalasztod ezt a lehetőséget, előfordulhat, hogy soha többé nem fogsz [prisoner_nameDef] sorsáról hallani.</li>
+    <li>formerColonistInfo(priority=1)->\n\n[prisoner_formerlyColonistInfo]</li>
+    <li>formerColonistInfo-></li>
+    <li>underArmedGuard(allowViolentQuests==true,priority=1)->, fegyveres őrizetben</li>
+    <li>underArmedGuard(allowViolentQuests==false,priority=1)->, de őrizetlenül</li>
+    <li>underArmedGuard-></li>
+  </OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[prisoner_nameDef]'s Salvation</li>
     <li>questName->[prisoner_nameDef]'s Rescue</li>
@@ -17,6 +24,13 @@
     <li>questName->Saving [prisoner_nameDef]</li>
     <li>questName->Breaking [prisoner_nameDef] Out</li>
   -->
-  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>TODO</OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+    <li>questName(p=2)->[prisoner_nameDef] kiszabadítása</li>
+    <li>questName(p=1.5)->[prisoner_nameDef] megmentése</li>
+    <li>questName(p=1)->[prisoner_nameDef] kimentése</li>
+    <li>questName(p=1)->[prisoner_nameDef] mentőakciója</li>
+    <li>questName(p=0.8)->[prisoner_nameDef] kitörése</li>
+    <li>questName(p=0.6)->[prisoner_nameDef] szabadulása</li>
+  </OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
   
 </LanguageData>
