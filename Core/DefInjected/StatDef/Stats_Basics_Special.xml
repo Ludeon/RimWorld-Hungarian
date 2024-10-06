@@ -11,7 +11,7 @@
   <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value.\n\nSome materials, like stone, are slow to build from, while others, like wood, are fast. -->
   <ConstructionSpeedFactor.description>Befolyásolja az ebből készült építmények elkészülésének sebességét. Némely anyag, pl. kő, csak lassú építést tesz lehetővé. Fával sokkal gyorsabban lehet haladni.</ConstructionSpeedFactor.description>
   <!-- EN: construction speed (material factor) -->
-  <ConstructionSpeedFactor.labelForFullStatList>TODO</ConstructionSpeedFactor.labelForFullStatList>
+  <ConstructionSpeedFactor.labelForFullStatList>építési sebesség (anyagtényező)</ConstructionSpeedFactor.labelForFullStatList>
   
   <!-- EN: filth multiplier -->
   <FilthMultiplier.label>szennyeződés szorzó</FilthMultiplier.label>
@@ -38,21 +38,21 @@
   <MeditationFocusStrength.formatStringUnfinalized>{0} / nap</MeditationFocusStrength.formatStringUnfinalized>
   
   <!-- EN: neural heat limit offset -->
-  <PsychicEntropyMaxOffset.label>TODO</PsychicEntropyMaxOffset.label>
+  <PsychicEntropyMaxOffset.label>idegi hőkorlát eltolás</PsychicEntropyMaxOffset.label>
   <!-- EN: An offset applied to the user's neural heat limit. -->
-  <PsychicEntropyMaxOffset.description>TODO</PsychicEntropyMaxOffset.description>
+  <PsychicEntropyMaxOffset.description>A felhasználó idegi hőkorlátjára alkalmazott eltolás.</PsychicEntropyMaxOffset.description>
   
   <!-- EN: neural heat recovery rate offset -->
-  <PsychicEntropyRecoveryRateOffset.label>TODO</PsychicEntropyRecoveryRateOffset.label>
+  <PsychicEntropyRecoveryRateOffset.label>idegi hővisszanyerési sebesség eltolása</PsychicEntropyRecoveryRateOffset.label>
   <!-- EN: An offset applied to the user's neural heat recovery rate. -->
-  <PsychicEntropyRecoveryRateOffset.description>TODO</PsychicEntropyRecoveryRateOffset.description>
+  <PsychicEntropyRecoveryRateOffset.description>A felhasználó idegi hővisszanyerési sebességére alkalmazott eltolás.</PsychicEntropyRecoveryRateOffset.description>
   <!-- EN: {0}/s -->
   <PsychicEntropyRecoveryRateOffset.formatString>{0}/mp</PsychicEntropyRecoveryRateOffset.formatString>
   
   <!-- EN: psychic sensitivity factor -->
-  <PsychicSensitivityFactor.label>TODO</PsychicSensitivityFactor.label>
+  <PsychicSensitivityFactor.label>pszichés érzékenységi faktor</PsychicSensitivityFactor.label>
   <!-- EN: A factor applied to the user's psychic sensitivity. -->
-  <PsychicSensitivityFactor.description>TODO</PsychicSensitivityFactor.description>
+  <PsychicSensitivityFactor.description>A felhasználó pszichés érzékenységére alkalmazott tényező.</PsychicSensitivityFactor.description>
   
   <!-- EN: psychic sensitivity offset -->
   <PsychicSensitivityOffset.label>pszichés érzékenység eltolás</PsychicSensitivityOffset.label>

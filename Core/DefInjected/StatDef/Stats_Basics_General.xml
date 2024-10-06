@@ -7,19 +7,19 @@
   <Beauty.description>Mennyire élvezetes a tárgy körül lenni és ránézni.</Beauty.description>
   
   <!-- EN: outdoor beauty -->
-  <BeautyOutdoors.label>TODO</BeautyOutdoors.label>
+  <BeautyOutdoors.label>kültéri szépség</BeautyOutdoors.label>
   <!-- EN: How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty. -->
-  <BeautyOutdoors.description>TODO</BeautyOutdoors.description>
+  <BeautyOutdoors.description>Milyen élvezetes nézni valamit a szabadban!\n\nA gyönyörű tárgyak kielégítik az emberek szépség iránti igényét.</BeautyOutdoors.description>
   
   <!-- EN: cleanliness -->
   <Cleanliness.label>tisztaság</Cleanliness.label>
   <!-- EN: How much an object contributes to an area's cleanliness score. -->
-  <Cleanliness.description>Mennyire tiszta a tárgy.</Cleanliness.description>
+  <Cleanliness.description>Mennyivel járul hozzá egy tárgy a terület tisztasági pontszámához.</Cleanliness.description>
   
   <!-- EN: comfort -->
   <Comfort.label>kényelem</Comfort.label>
   <!-- EN: How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort. -->
-  <Comfort.description>Mennyire kényelmes ráülni vagy feküdni rajta.</Comfort.description>
+  <Comfort.description>Milyen kényelmes egy tárgyon ülni vagy feküdni.\és\nA kényelmes tárgyak használata kielégíti a karakter kényelmi szükségletét.</Comfort.description>
   
   <!-- EN: deterioration rate -->
   <DeteriorationRate.label>állagromlás</DeteriorationRate.label>
@@ -38,7 +38,7 @@
   <!-- EN: The chance this food will cause food poisoning. -->
   <FoodPoisonChanceFixedHuman.description>Ilyen eséllyel okoz ez az étel mérgezést.</FoodPoisonChanceFixedHuman.description>
   <!-- EN: food poison chance (food stat) -->
-  <FoodPoisonChanceFixedHuman.labelForFullStatList>TODO</FoodPoisonChanceFixedHuman.labelForFullStatList>
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>ételmérgezés esélye (élelmiszer stat)</FoodPoisonChanceFixedHuman.labelForFullStatList>
   
   <!-- EN: market value -->
   <MarketValue.label>érték</MarketValue.label>
@@ -66,9 +66,9 @@
   <Nutrition.description>Mennyire tápláló ez az étel.</Nutrition.description>
   
   <!-- EN: honor value -->
-  <RoyalFavorValue.label>TODO</RoyalFavorValue.label>
+  <RoyalFavorValue.label>kitüntetés</RoyalFavorValue.label>
   <!-- EN: The amount of honor your trader will earn for giving this to a tribute collector. -->
-  <RoyalFavorValue.description>TODO</RoyalFavorValue.description>
+  <RoyalFavorValue.description>A kitüntetés mértéke, amelyet a kereskedő akkor kap meg, amikor átadja ezt egy adószedőnek.</RoyalFavorValue.description>
   
   <!-- EN: sell price multiplier -->
   <SellPriceFactor.label>eladási szorzó</SellPriceFactor.label>
