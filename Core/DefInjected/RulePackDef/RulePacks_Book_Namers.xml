@@ -469,6 +469,156 @@
     <li>randTheme->self-improvement</li>
     <li>randTheme->understanding</li>
   -->
-  <Namer_TextBook.rulePack.rulesStrings>TODO</Namer_TextBook.rulePack.rulesStrings>
+  <Namer_TextBook.rulePack.rulesStrings>
+    <li>title->[titleBasic]</li>
+    <li>title(p=2)->[titleAuthored]</li>
+    <li>title(p=2)->[titleAuthoredNoSubject]</li>
+    <li>title(length_subject_primary[less_than]20,p=4)->[titleAuthoredOneSubject]</li>
+    <li>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleBasicTwoSubjects]</li>
+    <li>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleAuthoredTwoSubjects]</li>
+    <li>titleBasic(p=6)->[randAdjective] [subject_primary]</li>
+    <li>titleBasic(p=6)->[randNoun] és [subject_primary]</li>
+    <li>titleBasic->[subject_primary] tanulságai</li>
+    <li>titleBasic->Gondolkodás a(z) [subject_primary] alapjairól</li>
+    <li>titleBasic->[subject_primary] útmutató</li>
+    <li>titleBasic->Bevezetés a(z) [subject_primary] témájába</li>
+    <li>titleBasic->[subject_primary] alapozó</li>
+    <li>titleBasic->[subject_primary] alapjai</li>
+    <li>titleBasic->[subject_primary] mesterfok</li>
+    <li>titleBasic->[subject_primary] alapok</li>
+    <li>titleBasic->[subject_primary] kalauz</li>
+    <li>titleBasic->[subject_primary] kulcsfogalmai</li>
+    <li>titleBasic->[subject_primary] művészete</li>
+    <li>titleBasic->Mesterkurzus: [subject_primary]</li>
+    <li>titleBasic->[subject_primary] megfejtése</li>
+    <li>titleBasic->[subject_primary] fejlett technikái</li>
+    <li>titleBasic->[subject_primary] feloldása</li>
+    <li>titleBasic->[subject_primary] gyakorlati útmutatója</li>
+    <li>titleBasic->[subject_primary] felfedezése</li>
+    <li>titleBasic->Profi tippek: [subject_primary]</li>
+    <li>titleBasic->[subject_primary] megértése</li>
+    <li>titleBasic->[subject_primary] utazások</li>
+    <li>titleBasic->[subject_primary] útja</li>
+    <li>titleBasic->Betekintés a(z) [subject_primary] alapjaiba</li>
+    <li>titleBasic->[subject_primary] kibontása</li>
+    <li>titleBasic->[subject_primary] titkai</li>
+    <li>titleBasic->[subject_primary] elsajátítása</li>
+    <li>titleBasic->[subject_primary] mélyreható tanulmányozása</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] tanulmányai</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] [randAdjective] tanulmányai</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] naplója</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] krónikái</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] emlékiratai</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] naplója</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] merengései</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] kalandjai</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] reflexiói</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] felfedezései</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] szabadalma</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] bizonyságtételei</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] odüsszeiája</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] utazása</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] élete</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] története</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] öröksége</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] kalandjai</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] naplói</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] vándorlásai</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] töprengései</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] bizonyságtételei</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] krónikái</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] emlékiratai</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] a(z) [subject_primary] témáról</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] útmutatója a(z) [subject_primary] témában</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] [subject_primary] bevezetése</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] [subject_primary] felfedezése</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] [subject_primary] meglátásai</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] [subject_primary] útmutatója</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] [subject_primary] perspektívái</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] [subject_primary] kézikönyve</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] elemzése [subject_primary] témában</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] megközelítése [subject_primary] témakörben</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] felfedezései [subject_primary] területén</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] töprengései [subject_primary] témában</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] [subject_primary] tanulmánya</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] vizsgálata [subject_primary] vonatkozásában</li>
+    <li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] kutatása [subject_primary] témakörben</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] [subjectsTuple] kapcsolatáról</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] [subjectsTuple] útmutatója</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] bevezetése a(z) [subjectsTuple]</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] felfedezi [subjectsTuple] világát</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] meglátásai [subjectsTuple] tárgyában</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] kézikönyve [subjectsTuple] témáról</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] [subjectsTuple] nézőpontjai</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] [subjectsTuple] kézikönyve</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] [subjectsTuple] elemzése</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] megközelítése a(z) [subjectsTuple] témához</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] [subjectsTuple] felfedezései</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] [subjectsTuple] elmélkedései</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] [subjectsTuple] tanulmánya</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] [subjectsTuple] vizsgálata</li>
+    <li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] [subjectsTuple] kutatása</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->Bevezető a(z) [subjectsTuple] témakörbe</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] legjava</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] kombinálása</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] leckéi</li>
+    <li>titleBasicTwoSubjects->Gondolkodás a(z) [subjectsTuple] témában</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] útmutató</li>
+    <li>titleBasicTwoSubjects->Bevezetés a(z) [subjectsTuple] témakörébe</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] alapozó</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] esszenciája</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] mesterfoka</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] alapjai</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] kalauz</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] kulcsfogalmai</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] művészete</li>
+    <li>titleBasicTwoSubjects->Mesterkurzus: [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] értelmezése</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] haladó technikái</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] feloldása</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] gyakorlati útmutatója</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] felfedezése</li>
+    <li>titleBasicTwoSubjects->Profi tippek: [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] megértése</li>
+    <li>titleBasicTwoSubjects->Utazás a(z) [subjectsTuple] keresztül</li>
+    <li>titleBasicTwoSubjects->A(z) [subjectsTuple] útja</li>
+    <li>titleBasicTwoSubjects->Betekintés a(z) [subjectsTuple]</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] feltárása</li>
+    <li>titleBasicTwoSubjects->A(z) [subjectsTuple] titkai</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] elsajátítása</li>
+    <li>titleBasicTwoSubjects->[subjectsTuple] mélyreható tanulmányozása</li>
+    <li>subjectsTuple(has_subject_secondary==true,p=6)->[subject_primary] és [subject_secondary]</li>
+    <li>subjectsTuple->[subject_secondary], [subject_primary] és [randTheme]</li>
+    <li>subjectsTuple->[subject_primary] és [randTheme]</li>
+    <li>randNoun->Halál</li>
+    <li>randNoun->Élet</li>
+    <li>randNoun->Szeretet</li>
+    <li>randNoun->Növekedés</li>
+    <li>randNoun->Bátorság</li>
+    <li>randNoun->Bölcsesség</li>
+    <li>randNoun->Egészség</li>
+    <li>randNoun->Bummalopok</li>
+    <li>randNoun->Kalózok</li>
+    <li>randAdjective->alapvető</li>
+    <li>randAdjective->hatékony</li>
+    <li>randAdjective->gondolkodó</li>
+    <li>randAdjective->látványos</li>
+    <li>randAdjective->hanyag</li>
+    <li>randAdjective->hanyag</li>
+    <li>randAdjective->rossz</li>
+    <li>randAdjective->jó</li>
+    <li>randAdjective->szupervilági</li>
+    <li>randAdjective->vidéki</li>
+    <li>randAdjective->középkori</li>
+    <li>randAdjective->ihletett</li>
+    <li>randAdjective->jó hatású</li>
+    <li>randAdjective->gyalázatos</li>
+    <li>randAdjective->kaotikus</li>
+    <li>randAdjective->mulatságos</li>
+    <li>randTheme->ismeret</li>
+    <li>randTheme->önfejlesztés</li>
+    <li>randTheme->megértés</li>
+  </Namer_TextBook.rulePack.rulesStrings>
   
 </LanguageData>

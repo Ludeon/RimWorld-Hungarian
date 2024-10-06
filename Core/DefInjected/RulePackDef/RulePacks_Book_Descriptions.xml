@@ -1202,6 +1202,380 @@
     <li>warworld->Cimbria XII</li>
     <li>warworld->Barkitos</li>
   -->
-  <Description_SkillBook.rulePack.rulesStrings>TODO</Description_SkillBook.rulePack.rulesStrings>
+  <Description_SkillBook.rulePack.rulesStrings>
+    <li>subject->[subject_primary]</li>
+    <li>desc->[discussion].\n\n[anecdote]. [production].\n\n[quality_statement].</li>
+    <li>discussion->Ezen [textbook] [useful_information] nyújt betekintést [subject] témakörben[detail]</li>
+    <li>discussion->Ezen [textbook] megalapozza a szerző tekintélyét [subject] tematikában[detail]</li>
+    <li>discussion->Azok, akik [subject] [understanding_synonym] tárgykörben szeretnének elmélyedni, ezen [notable_adjective] [textbook] elolvasása javasolt[detail]</li>
+    <li>discussion->Egy szabványosított [textbook] [subject] témakörben[detail]</li>
+    <li>discussion->A szerző által jegyzett [textbook] korai kiadása [subject] tárgyában[detail]</li>
+    <li>detail->. A [precis_synonym] a téma képzettebb aspektusaira összpontosít</li>
+    <li>detail->. Az [precis_synonym_vowel] a téma mélyebb összefüggéseire koncentrál</li>
+    <li>detail->. Ez a tömör [precis_synonym] egy jóval összetettebb téma esszenciája</li>
+    <li>detail->. Ez a rövid [precis_synonym_vowel] egy jóval összetettebb téma veleje</li>
+    <li>detail->. A [precis_synonym] azt jelzi, hogy amikor [ANYPAWN_label] ezt megírta, az volt az élvonal az adott területen</li>
+    <li>detail->. Az [precis_synonym_vowel] azt mutatja, hogy amikor [ANYPAWN_label] megírta, ez volt a terület élvonala</li>
+    <li>detail->. [on_note_location] található idézet így szól: 'A szóban forgó [subject] téma igaz [students] nem hagyhatják figyelmen kívül [ANYPAWN_label] könyvét'</li>
+    <li>students->tanulói</li>
+    <li>students->kedvelői</li>
+    <li>students->rajongói</li>
+    <li>students->szakemberei</li>
+    <li>detail->. Lépésről lépésre végigvezet a témán</li>
+    <li>detail(quality[less_than]4)->. Annak ellenére, hogy a szerző átrohan a témán</li>
+    <li>detail(quality[greater_than]3)->. Ez a téma átfogó tárgyalása</li>
+    <li>detail->. A szerző a [precis_synonym] szövegében azt állítja, hogy a könyvnek léteznek hamis példányai is, de ez nem az</li>
+    <li>detail->. A szerző az [precis_synonym_vowel] szövegében azt állítja, hogy a munkájának léteznek hamis példányai is, de ez nem az</li>
+    <li>detail(quality[less_than]4)->. Bár talán hiba volt az a kísérlet, hogy gondolatait egy elképzelt párbeszéden keresztül közölje</li>
+    <li>detail->. A szerző retorikája a [precis_synonym] szövegében nem vonja el a figyelmet az alapfogalmakról</li>
+    <li>detail->. A szerző retorikája az [precis_synonym_vowel] tartalmi részében nem vonja el a figyelmet az alapokról</li>
+    <li>production->A [precis_synonym] azt mondja, hogy kézzel nyomtatták [worldname] világán</li>
+    <li>production->Az [precis_synonym_vowel] azt mondja, hogy kézzel nyomtatták [worldname] világán</li>
+    <li>production->A [precis_synonym] szerint, [worldname] Egyetem szakértői kiemelt szöveggé nyilvánították</li>
+    <li>production->Az [precis_synonym_vowel] szerint, [worldname] Egyetem tudósai kiemelt szöveggé nyilvánították</li>
+    <li>production->A [precis_synonym] azt mondja, hogy bár ezek a jegyzetek [ANYPAWN_label] személyes használatára készültek, széles körben megosztották őket</li>
+    <li>production->Az [precis_synonym_vowel] jelzi, hogy bár ezek a jegyzetek [ANYPAWN_label] személyes használatára készültek, széles körben megosztották őket</li>
+    <li>production->Ezen [textbook] hasznos részei az életrajzi részletek között vannak elrejtve</li>
+    <li>production->Egy kézzel írt [note] [on_note_location] azt mondja, hogy a nyomda, ami [worldname] névre hallgatott, bezárt a Zavargások után, így ezek a későbbi kiadások ritkák</li>
+    <li>production->Egy írott [note] azt mondja, hogy ezen [textbook] legtöbb példánya elveszett egy bizonyos [worldname] Incidens során</li>
+    <li>production->A [precis_synonym] világossá teszi, hogy az archotech információterjesztési technikákat ismerő olvasók hajlamosak elkerülni ezen [textbook]-sorozatot - de azt nem írja, hogy miért</li>
+    <li>production->Az [precis_synonym_vowel] világossá teszi, hogy az archotech információterjesztési technikákat ismerő olvasók hajlamosak elkerülni ezen [textbook] sorozatot - de azt nem közli, hogy miért</li>
+    <li>production->[note_location] alapján világossá válik, hogy [worldname] prozelitái egy vagyont költöttek e könyv példányainak nyomtatására, majd széles körű elterjesztésére</li>
+    <li>production->[note_location] elmagyarázza, hogy ennek a könyvnek a korai példányait [ANYPAWN_label] saját maga írta</li>
+    <li>production->[worldname] hercegnője támogatta ezen [textbook] megjelenését, azzal a feltétellel, hogy szabadon hozzáférhető legyen</li>
+    <li>production->Egy feljegyzés szerint [coreworld] könyvkereskedőinek előfizetése hozta létre ezen [textbook] első kiadását</li>
+    <li>production->A könyv hátulján a kiadó egy nagyobb sorozatot hirdet, amely a peremen való túléléshez szükséges összes témával foglalkozik</li>
+    <li>production->A kiadók talán alaposabban is végezhették volna szerkesztői feladataikat, tekintettel a hanyag nyelvtanra</li>
+    <li>quality_statement->[exterior_quality] [page_quality]</li>
+    <li>anecdote->Tekintettel [ANYPAWN_nameFull] születési éve és e könyv megjelenésének dátuma közötti nagy különbségre, nem valószínű, hogy a szerző megérte volna ennek megjelenését</li>
+    <li>anecdote->[on_note_location] valaki beillesztett egy magasztaló kritikát a könyvről</li>
+    <li>anecdote->A [precis_synonym] azt jelzi, hogy ez a könyv áthaladt egy bizonyos [urbworld] világ nyilvános könyvtári rendszerén</li>
+    <li>anecdote->A [note_location] szerint [ANYPAWN_nameFull] arról volt ismert, hogy számos tantárgy mestere volt</li>
+    <li>anecdote->A [note_location] szerint [worldname] népe még mindig [ANYPAWN_nameFull] hagyatékáról beszél, és [subject] témakör iránti szeretetére emlékezik</li>
+    <li>anecdote->A [note_location] szerint egy furcsa összefonódási baleset röviddel a megjelenés után megölte a szerzőt, aki [ANYPAWN_nameFull] néven publikált</li>
+    <li>anecdote->A [precis_synonym] szerint [ANYPAWN_nameFull] napjait [coreworld] világ akadimiáján való tanítással töltötte. Ez a könyv az ő előadásaiból származik</li>
+    <li>anecdote->A [precis_synonym] szerint [ANYPAWN_nameFull] ismerete [subject] témakörben annyira híres volt, hogy az emberek megállították őt az utcán, hogy kikérdezzék róla</li>
+    <li>anecdote->A [note_location] szerint [ANYPAWN_nameFull] elszegényedett, és nagyon kevésért eladta ennek a sorozatnak a jogait</li>
+    <li>anecdote->A [note_location] szerint [ANYPAWN_nameFull] születésétől fogva vak volt, így soha nem látta a könyvét</li>
+    <li>anecdote->A [note_location] szerint [ANYPAWN_nameFull] első tankönyvvázlata hírhedten ötven oldalnyi kitérőt tartalmazott, amit a második kiadásra már kivágtak</li>
+    <li>anecdote->A [note_location] szerint [ANYPAWN_nameFull] megítélése olyan szörnyű volt, hogy álnéven adta ki ezt a könyvet</li>
+    <li>anecdote->A [note_location] szerint gyermekként [ANYPAWN_nameFull] annyira haszontalan volt, hogy a szülei kétségbeestek. Ez a tankönyv igazolja a készségét</li>
+    <li>anecdote->A [precis_synonym] szerint [ANYPAWN_nameFull] negyedik házassága alatt fogant meg egy [subject] tankönyv. (Ez vezetett a negyedik válásához)</li>
+    <li>textbook(p=6)->könyv</li>
+    <li>textbook->alapozó</li>
+    <li>textbook->útmutató</li>
+    <li>textbook->munkafüzet</li>
+    <li>textbook->segédkönyv</li>
+    <li>textbook->kompendium</li>
+    <li>textbook->kalauz</li>
+    <li>textbook->kiadvány</li>
+    <li>textbook->tananyag</li>
+    <li>textbook->referencia könyv</li>
+    <li>textbook->tankönyv</li>
+    <li>textbook->enciklopédia</li>
+    <li>textbook->kézikönyv</li>
+    <li>textbook->kereskedelmi könyv</li>
+    <li>textbook->mű</li>
+    <li>precis_synonym->rövid kivonat</li>
+    <li>precis_synonym->címoldal</li>
+    <li>precis_synonym->vázlat</li>
+    <li>precis_synonym->kivonat</li>
+    <li>precis_synonym_vowel->összefoglaló</li>
+    <li>precis_synonym_vowel->áttekintés</li>
+    <li>on_note_location->az előlapon</li>
+    <li>on_note_location->a hátlapon</li>
+    <li>on_note_location->az első fedélen</li>
+    <li>on_note_location->a hátsó fedélen</li>
+    <li>on_note_location->az első oldalon</li>
+    <li>on_note_location->az utolsó oldalon</li>
+    <li>on_note_location->a margókon</li>
+    <li>on_note_location->a címlapon</li>
+    <li>on_note_location->a lábjegyzetben</li>
+    <li>on_note_location->a végjegyzetben</li>
+    <li>on_note_location->a szerző életrajzában</li>
+    <li>on_note_location->a szállítási címkén</li>
+    <li>note_location->előlap</li>
+    <li>note_location->hátlap</li>
+    <li>note_location->első fedél</li>
+    <li>note_location->hátsó fedél</li>
+    <li>note_location->első oldal</li>
+    <li>note_location->utolsó oldal</li>
+    <li>note_location->margók</li>
+    <li>note_location->címlap</li>
+    <li>note_location->lábjegyzet</li>
+    <li>note_location->végjegyzet</li>
+    <li>note_location->szerző életrajza</li>
+    <li>note_location->szállítási címke</li>
+    <li>note->jegyzet</li>
+    <li>note->függelék</li>
+    <li>note->utóirat</li>
+    <li>note->utószó</li>
+    <li>note->melléklet</li>
+    <li>note->epilógus</li>
+    <li>note->lábjegyzet</li>
+    <li>note->végjegyzet</li>
+    <li>useful_information->hasznos apróságokkal</li>
+    <li>useful_information->hasznos információk összegyűjtésével</li>
+    <li>useful_information->érdekes tények segítségével</li>
+    <li>useful_information->érdekes részletekkel</li>
+    <li>useful_information->gyakorlati ismeretekkel operálva</li>
+    <li>useful_information->hasznos tippek felsorolásával</li>
+    <li>useful_information->informatív részletességgel</li>
+    <li>understanding_synonym->ismerete</li>
+    <li>understanding_synonym->önfejlesztés</li>
+    <li>understanding_synonym->megértése</li>
+    <li>understanding_synonym->ösztöndíj</li>
+    <li>understanding_synonym->tudás</li>
+    <li>understanding_synonym->szakértelem</li>
+    <li>understanding_synonym->filozófia</li>
+    <li>understanding_synonym->az etika</li>
+    <li>notable_adjective->híres</li>
+    <li>notable_adjective->zavaros</li>
+    <li>notable_adjective->ikonikus</li>
+    <li>notable_adjective->klasszikus</li>
+    <li>notable_adjective->hétköznapi</li>
+    <li>notable_adjective->ismert</li>
+    <li>notable_adjective->időtlen</li>
+    <li>notable_adjective->elfogult</li>
+    <li>notable_adjective->harmonikus</li>
+    <li>notable_adjective->elegáns</li>
+    <li>notable_adjective->egyszerű</li>
+    <li>notable_adjective->praktikus</li>
+    <li>notable_adjective->urbánus világi</li>
+    <li>notable_adjective->szupervilági</li>
+    <li>notable_adjective->kezdetleges</li>
+    <li>notable_adjective->dekoratív</li>
+    <li>exterior_quality(quality[greater_than]4)->Ennek a könyvnek a külseje finoman kötött és</li>
+    <li>exterior_quality(quality[greater_than]4)->A nyomdász művészetének remekműve, ez a könyv ragyog és</li>
+    <li>exterior_quality(quality[greater_than]4)->exterior_quality(quality[greater_than]4)->Bőr borítása még durva,</li>
+    <li>exterior_quality(quality[greater_than]4)->Bár a borító nagyon egyszerű,</li>
+    <li>exterior_quality(quality[less_than]5,quality[greater_than]1)->Ez a tankönyv látott jobb napokat,</li>
+    <li>exterior_quality(quality[less_than]5,quality[greater_than]1)->Annak ellenére, hogy használt tankönyv,</li>
+    <li>exterior_quality(quality[less_than]5,quality[greater_than]1)->Ennek a könyvnek sok tulajdonosa volt,</li>
+    <li>exterior_quality(quality[less_than]2)->A könyv eleje vonzónak tűnik, de</li>
+    <li>exterior_quality(quality[less_than]2)->Valaki letépte a könyv első harmadát és</li>
+    <li>exterior_quality(quality[less_than]2)->A fedelet erős illatú folyadékban áztatták és</li>
+    <li>exterior_quality(quality[less_than]2)->Első látásra semmi baj nincs a könyvvel, de</li>
+    <li>page_quality->az oldalak [page_condition]</li>
+    <li>page_condition(quality[greater_than]4)->[page_excellent]</li>
+    <li>page_condition(quality[less_than]5,quality[greater_than]1)->[page_decent]</li>
+    <li>page_condition(quality[less_than]2)->[page_awful]</li>
+    <li>page_excellent->csodálatos állapotban vannak, mintha soha nem érintették volna meg</li>
+    <li>page_excellent->kiváló állapotban vannak</li>
+    <li>page_excellent->érintetlenek</li>
+    <li>page_excellent->világosak és tiszták</li>
+    <li>page_excellent->egyedülállóan jól megőrzöttek</li>
+    <li>page_decent->tisztességes állapotban maradtak</li>
+    <li>page_decent->gyűrött állapotban vannak de olvashatók</li>
+    <li>page_decent->tökéletesen olvashatók</li>
+    <li>page_decent->megfelelőek, de kissé gyűröttek</li>
+    <li>page_awful->úgy tűnik, hogy szakadozó pergamenre van írva</li>
+    <li>page_awful->súlyosan megsérültek</li>
+    <li>page_awful->sötét anyaggal vannak átitatva</li>
+    <li>page_awful->közel olvashatatlanok</li>
+    <li>page_awful->olvashatatlan kézírással vannak tele jegyzetelve</li>
+    <li>worldname->[glitterworld]</li>
+    <li>worldname->[urbworld]</li>
+    <li>worldname->[deadworld]</li>
+    <li>worldname->[shellworld]</li>
+    <li>worldname->[ruinworld]</li>
+    <li>worldname->[medievalworld]</li>
+    <li>worldname->[steamworld]</li>
+    <li>worldname->[midworld]</li>
+    <li>worldname->[rimworld]</li>
+    <li>worldname->[coreworld]</li>
+    <li>worldname->[toxicworld]</li>
+    <li>worldname->[glassworld]</li>
+    <li>worldname->[transcendentworld]</li>
+    <li>worldname->[indworld]</li>
+    <li>worldname->[prisonworld]</li>
+    <li>worldname->[feudalworld]</li>
+    <li>worldname->[trashworld]</li>
+    <li>worldname->[iceworld]</li>
+    <li>worldname->[dinoworld]</li>
+    <li>worldname->[warworld]</li>
+    <li>worldname->[oceanicworld]</li>
+    <li>worldname->[mineworld]</li>
+    <li>worldname->[animalworld]</li>
+    <li>worldname->[asteroid]</li>
+    <li>worldname->[animalworld]</li>
+    <li>feralworld->[animalworld]</li>
+    <li>milworld->[warworld]</li>
+    <li>animalworld->Sorne</li>
+    <li>animalworld->Rhydell</li>
+    <li>animalworld->Zoutera</li>
+    <li>animalworld->Thylacine</li>
+    <li>animalworld->Jiai</li>
+    <li>animalworld->Steller's World</li>
+    <li>animalworld->Aukton</li>
+    <li>asteroid->Iwamura</li>
+    <li>asteroid->Atura</li>
+    <li>asteroid->Widdershins</li>
+    <li>asteroid->Ranomi</li>
+    <li>asteroid->Aesh 265</li>
+    <li>asteroid->Taxlos</li>
+    <li>asteroid->Aryn Sigma</li>
+    <li>coreworld->Novaroma</li>
+    <li>coreworld->Lutuni</li>
+    <li>coreworld->Zeglar</li>
+    <li>coreworld->Novaroma</li>
+    <li>coreworld->Cormora Prime</li>
+    <li>coreworld->Glossolia</li>
+    <li>coreworld->Barbaros</li>
+    <li>deadworld->Callos IX</li>
+    <li>deadworld->Haspia</li>
+    <li>deadworld->Gost IV</li>
+    <li>deadworld->Berimund</li>
+    <li>deadworld->Ardar</li>
+    <li>deadworld->Kremhild</li>
+    <li>deadworld->Melisandz</li>
+    <li>deathworld->Creticon</li>
+    <li>deathworld->Zartza</li>
+    <li>deathworld->Rayth</li>
+    <li>deathworld->Spectra</li>
+    <li>deathworld->JNovahex</li>
+    <li>deathworld->Carthago</li>
+    <li>deathworld->Grimcore</li>
+    <li>dinoworld->Oubanyen</li>
+    <li>dinoworld->Zoutera</li>
+    <li>dinoworld->Einio</li>
+    <li>dinoworld->Baryonyx</li>
+    <li>dinoworld->N'cilo</li>
+    <li>dinoworld->Venator</li>
+    <li>dinoworld->Brach</li>
+    <li>feudalworld->Aracena VI</li>
+    <li>feudalworld->Nuchadus</li>
+    <li>feudalworld->Filson</li>
+    <li>feudalworld->Fieth</li>
+    <li>feudalworld->Bloch Regis</li>
+    <li>feudalworld->Carlosphere</li>
+    <li>feudalworld->Magna Dijou</li>
+    <li>glassworld->Ceti V</li>
+    <li>glassworld->Thebes XIV</li>
+    <li>glassworld->Naga</li>
+    <li>glassworld->Merv</li>
+    <li>glassworld->Perse</li>
+    <li>glassworld->Shechem</li>
+    <li>glassworld->Yelhazor</li>
+    <li>glitterworld->Kalthas IV</li>
+    <li>glitterworld->Amen-Ti</li>
+    <li>glitterworld->Sophiamunda </li>
+    <li>glitterworld->Rogia</li>
+    <li>glitterworld->Utmaior</li>
+    <li>glitterworld->Caspian</li>
+    <li>glitterworld->Kenerella</li>
+    <li>iceworld->Yttak</li>
+    <li>iceworld->Dedchenko</li>
+    <li>iceworld->Baltoro</li>
+    <li>iceworld->Furtwale</li>
+    <li>iceworld->Jaqua</li>
+    <li>iceworld->Christensen</li>
+    <li>iceworld->Barnes</li>
+    <li>indworld->Irithir</li>
+    <li>indworld->New China</li>
+    <li>indworld->Hudders</li>
+    <li>indworld->Iver</li>
+    <li>indworld->Achesta</li>
+    <li>indworld->Oods</li>
+    <li>indworld->Iladelf</li>
+    <li>medievalworld->Chelis</li>
+    <li>medievalworld->Vinna</li>
+    <li>medievalworld->Cassone</li>
+    <li>medievalworld->Jork</li>
+    <li>medievalworld->Cochmar</li>
+    <li>medievalworld->Alin</li>
+    <li>medievalworld->Dubrognago</li>
+    <li>midworld->Khalderia</li>
+    <li>midworld->Elsin</li>
+    <li>midworld->Haihan</li>
+    <li>midworld->Seolure</li>
+    <li>midworld->Panga</li>
+    <li>midworld->New London CXI </li>
+    <li>midworld->San Delenda</li>
+    <li>mineworld->Xanides</li>
+    <li>mineworld->Bingham</li>
+    <li>mineworld->Saarhi</li>
+    <li>mineworld->Grasbeg</li>
+    <li>mineworld->Chuqui</li>
+    <li>mineworld->Olimpia</li>
+    <li>mineworld->Orme</li>
+    <li>oceanicworld->Wavia</li>
+    <li>oceanicworld->Wadka</li>
+    <li>oceanicworld->Gichen</li>
+    <li>oceanicworld->Port Yam</li>
+    <li>oceanicworld->Baia</li>
+    <li>oceanicworld->Thonis</li>
+    <li>oceanicworld->Moaui</li>
+    <li>prisonworld->Yttak</li>
+    <li>prisonworld->Aldgate</li>
+    <li>prisonworld->Borren</li>
+    <li>prisonworld->Hoalo</li>
+    <li>prisonworld->Casmina</li>
+    <li>prisonworld->Port Basil</li>
+    <li>prisonworld->Chateau D'Ouen</li>
+    <li>rimworld->Filson</li>
+    <li>rimworld->La Grand</li>
+    <li>rimworld->Dalles</li>
+    <li>rimworld->Twig Falls</li>
+    <li>rimworld->Old Boise</li>
+    <li>rimworld->Devil's Gate</li>
+    <li>rimworld->Laramiere</li>
+    <li>ruinworld->Earth</li>
+    <li>ruinworld->Ilwaba</li>
+    <li>ruinworld->Xennoa</li>
+    <li>ruinworld->Pichu</li>
+    <li>ruinworld->Perdida</li>
+    <li>ruinworld->Hisarlik</li>
+    <li>ruinworld->Helike</li>
+    <li>shellworld->Boccocarro</li>
+    <li>shellworld->Destria</li>
+    <li>shellworld->Trophic</li>
+    <li>shellworld->Matrio</li>
+    <li>shellworld->Samen</li>
+    <li>shellworld->Xinthia</li>
+    <li>shellworld->Ferbine</li>
+    <li>steamworld->Corliss</li>
+    <li>steamworld->Borassic</li>
+    <li>steamworld->Savery II</li>
+    <li>steamworld->Heron</li>
+    <li>steamworld->Malmesburi</li>
+    <li>steamworld->Architonnerre</li>
+    <li>steamworld->Escapement</li>
+    <li>toxicworld->Scylla</li>
+    <li>toxicworld->Mauro</li>
+    <li>toxicworld->Cerospor</li>
+    <li>toxicworld->Oxy VI</li>
+    <li>toxicworld->Sangwine</li>
+    <li>toxicworld->Soleno</li>
+    <li>toxicworld->Imbatus</li>
+    <li>transcendentworld->Xaroh</li>
+    <li>transcendentworld->Immanence VI</li>
+    <li>transcendentworld->Qabba</li>
+    <li>transcendentworld->Einsof</li>
+    <li>transcendentworld->Mitvo</li>
+    <li>transcendentworld->Samydi</li>
+    <li>transcendentworld->Samsarr</li>
+    <li>trashworld->Bagua 5</li>
+    <li>trashworld->Puobell</li>
+    <li>trashworld->Deni IX</li>
+    <li>trashworld->Garbsh</li>
+    <li>trashworld->Tra'age</li>
+    <li>trashworld->Reepsyk</li>
+    <li>trashworld->Mystras</li>
+    <li>urbworld->Euterpe</li>
+    <li>urbworld->Avenna</li>
+    <li>urbworld->Essalon</li>
+    <li>urbworld->Enike</li>
+    <li>urbworld->Adocia</li>
+    <li>urbworld->N'toch</li>
+    <li>urbworld->Barca</li>
+    <li>warworld->Kemia</li>
+    <li>warworld->Vanu</li>
+    <li>warworld->Samnium</li>
+    <li>warworld->Kyrus</li>
+    <li>warworld->Punica</li>
+    <li>warworld->Cimbria XII</li>
+    <li>warworld->Barkitos</li>
+  </Description_SkillBook.rulePack.rulesStrings>
   
 </LanguageData>

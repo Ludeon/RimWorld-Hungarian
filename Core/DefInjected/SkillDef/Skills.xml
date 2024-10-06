@@ -19,9 +19,25 @@
     <li>subject->wildlife</li>
     <li>subject->poultry</li>
   -->
-  <Animals.generalRules.rulesStrings>TODO</Animals.generalRules.rulesStrings>
+  <Animals.generalRules.rulesStrings>
+    <li>subject->gondozás</li>
+    <li>subject->terelés</li>
+    <li>subject->szelidítés</li>
+    <li>subject->állatállomány</li>
+    <li>subject->lábasjószág</li>
+    <li>subject->tenyésztés</li>
+    <li>subject->állattan</li>
+    <li>subject->állattenyésztés</li>
+    <li>subject->pásztorkodás</li>
+    <li>subject->domesztikáció</li>
+    <li>subject->háziasítás</li>
+    <li>subject->állatvilág</li>
+    <li>subject->vadvilág</li>
+    <li>subject->baromfi</li>
+    <li>subject->szárnyasok</li>
+  </Animals.generalRules.rulesStrings>
   <!-- EN: animals -->
-  <Animals.skillLabel>Gondozás</Animals.skillLabel>
+  <Animals.skillLabel>gondozás</Animals.skillLabel>
   
   <!-- EN: artistic -->
   <Artistic.label>Művészet</Artistic.label>
@@ -40,7 +56,19 @@
     <li>subject->impressionism</li>
     <li>subject->artistry</li>
   -->
-  <Artistic.generalRules.rulesStrings>TODO</Artistic.generalRules.rulesStrings>
+  <Artistic.generalRules.rulesStrings>
+    <li>subject->művészet</li>
+    <li>subject->fazekasság</li>
+    <li>subject->szobrászat</li>
+    <li>subject->festészet</li>
+    <li>subject->kreativitás</li>
+    <li>subject->kifejezés</li>
+    <li>subject->esztétika</li>
+    <li>subject->tervezés</li>
+    <li>subject->szobor</li>
+    <li>subject->impresszionizmus</li>
+    <li>subject->művésziesség</li>
+  </Artistic.generalRules.rulesStrings>
   <!-- EN: artistic -->
   <Artistic.skillLabel>Művészet</Artistic.skillLabel>
   
@@ -60,7 +88,18 @@
     <li>subject->carpentry</li>
     <li>subject->infrastructure</li>
   -->
-  <Construction.generalRules.rulesStrings>TODO</Construction.generalRules.rulesStrings>
+  <Construction.generalRules.rulesStrings>
+    <li>subject->szerkesztés</li>
+    <li>subject->építés</li>
+    <li>subject->építészet</li>
+    <li>subject->gépészet</li>
+    <li>subject->tervezés</li>
+    <li>subject->helyreállítás</li>
+    <li>subject->szerkezetek</li>
+    <li>subject->alapozás</li>
+    <li>subject->ácsmesterség</li>
+    <li>subject->infrastruktúra</li>
+  </Construction.generalRules.rulesStrings>
   <!-- EN: construction -->
   <Construction.skillLabel>Építés</Construction.skillLabel>
   
@@ -83,7 +122,22 @@
     <li>subject->sauces</li>
     <li>subject->meals</li>
   -->
-  <Cooking.generalRules.rulesStrings>TODO</Cooking.generalRules.rulesStrings>
+  <Cooking.generalRules.rulesStrings>
+    <li>subject->főzés</li>
+    <li>subject->élelmiszer</li>
+    <li>subject->sütés</li>
+    <li>subject->konyha</li>
+    <li>subject->receptek</li>
+    <li>subject->gasztronómia</li>
+    <li>subject->szakácsművészet</li>
+    <li>subject->ízek</li>
+    <li>subject->hozzávalók</li>
+    <li>subject->fűszerek</li>
+    <li>subject->táplálék</li>
+    <li>subject->íz</li>
+    <li>subject->szószok</li>
+    <li>subject->étkezések</li>
+  </Cooking.generalRules.rulesStrings>
   <!-- EN: cooking -->
   <Cooking.skillLabel>Főzés</Cooking.skillLabel>
   
@@ -102,7 +156,18 @@
     <li>subject->machining</li>
     <li>subject->artisanry</li>
   -->
-  <Crafting.generalRules.rulesStrings>TODO</Crafting.generalRules.rulesStrings>
+  <Crafting.generalRules.rulesStrings>
+    <li>subject->kézművesség</li>
+    <li>subject->összeszerelés</li>
+    <li>subject->gyártás</li>
+    <li>subject->szerszámkészítés</li>
+    <li>subject->készítés</li>
+    <li>subject->termelés</li>
+    <li>subject->szaktudás</li>
+    <li>subject->kivitelezés</li>
+    <li>subject->megmunkálás</li>
+    <li>subject->mesterember</li>
+  </Crafting.generalRules.rulesStrings>
   <!-- EN: crafting -->
   <Crafting.skillLabel>Kézművesség</Crafting.skillLabel>
   
@@ -135,7 +200,30 @@
     <li>subject->research methods</li>
     <li>subject->intellectual inquiry</li>
   -->
-  <Intellectual.generalRules.rulesStrings>TODO</Intellectual.generalRules.rulesStrings>
+  <Intellectual.generalRules.rulesStrings>
+    <li>subject->fizika</li>
+    <li>subject->kémia</li>
+    <li>subject->orbitális dinamika</li>
+    <li>subject->matematika</li>
+    <li>subject->biológia</li>
+    <li>subject->tudomány</li>
+    <li>subject->kutatás</li>
+    <li>subject->innováció</li>
+    <li>subject->felfedezés</li>
+    <li>subject->elemzés</li>
+    <li>subject->analízis</li>
+    <li>subject->kísérletezés</li>
+    <li>subject->tudás</li>
+    <li>subject->megismerés</li>
+    <li>subject->adatelemzés</li>
+    <li>subject->tudományos vizsgálat</li>
+    <li>subject->intellektuális növekedés</li>
+    <li>subject->tudományos elfoglaltságok</li>
+    <li>subject->mennyiségi elemzés</li>
+    <li>subject->kísérlet tervezése</li>
+    <li>subject->kutatási módszerek</li>
+    <li>subject->intellektuális vizsgálat</li>
+  </Intellectual.generalRules.rulesStrings>
   <!-- EN: intellectual -->
   <Intellectual.skillLabel>Szellemi munka</Intellectual.skillLabel>
   
@@ -167,7 +255,29 @@
     <li>subject->virology</li>
     <li>subject->health sciences</li>
   -->
-  <Medicine.generalRules.rulesStrings>TODO</Medicine.generalRules.rulesStrings>
+  <Medicine.generalRules.rulesStrings>
+    <li>subject->orvostudomány</li>
+    <li>subject->sebészet</li>
+    <li>subject->baktériumok</li>
+    <li>subject->bőr javítás</li>
+    <li>subject->egészségügyi ellátás</li>
+    <li>subject->gyógyszer</li>
+    <li>subject->fiziológia</li>
+    <li>subject->gyógyszertan</li>
+    <li>subject->kezelés</li>
+    <li>subject->diagnózis</li>
+    <li>subject->anatómia</li>
+    <li>subject->mikróba</li>
+    <li>subject->patológia</li>
+    <li>subject->betegségkezelés</li>
+    <li>subject->betegellátás</li>
+    <li>subject->sürgősségi orvoslás</li>
+    <li>subject->gondozás</li>
+    <li>subject->orvosi kutatás</li>
+    <li>subject->közegészségügy</li>
+    <li>subject->virológia</li>
+    <li>subject->egészségtudományok</li>
+  </Medicine.generalRules.rulesStrings>
   <!-- EN: medical -->
   <Medicine.skillLabel>Gyógyítás</Medicine.skillLabel>
   
@@ -188,7 +298,19 @@
     <li>subject->knighthood</li>
     <li>subject->dueling</li>
   -->
-  <Melee.generalRules.rulesStrings>TODO</Melee.generalRules.rulesStrings>
+  <Melee.generalRules.rulesStrings>
+    <li>subject->csata</li>
+    <li>subject->közelharc</li>
+    <li>subject->harc</li>
+    <li>subject->harcművészet</li>
+    <li>subject->kardforgatás</li>
+    <li>subject->fegyverzet</li>
+    <li>subject->verekedés</li>
+    <li>subject->ökölvívás</li>
+    <li>subject->vívás</li>
+    <li>subject->lovagrend</li>
+    <li>subject->párbaj</li>
+  </Melee.generalRules.rulesStrings>
   <!-- EN: melee -->
   <Melee.skillLabel>Közelharc</Melee.skillLabel>
   
@@ -211,7 +333,21 @@
     <li>subject->geology</li>
     <li>subject->earthmoving</li>
   -->
-  <Mining.generalRules.rulesStrings>TODO</Mining.generalRules.rulesStrings>
+  <Mining.generalRules.rulesStrings>
+    <li>subject->bányászat</li>
+    <li>subject->ásás</li>
+    <li>subject->kőfejtés</li>
+    <li>subject->szalag-bányászat</li>
+    <li>subject->ásatás</li>
+    <li>subject->kutatás</li>
+    <li>subject->érc</li>
+    <li>subject->alagútépítés</li>
+    <li>subject->fúrás</li>
+    <li>subject->ásványok</li>
+    <li>subject->drágakőtan</li>
+    <li>subject->geológia</li>
+    <li>subject->földmunka</li>
+  </Mining.generalRules.rulesStrings>
   <!-- EN: mining -->
   <Mining.skillLabel>Bányászat</Mining.skillLabel>
   
@@ -238,7 +374,25 @@
     <li>subject->food production</li>
     <li>subject->crop science</li>
   -->
-  <Plants.generalRules.rulesStrings>TODO</Plants.generalRules.rulesStrings>
+  <Plants.generalRules.rulesStrings>
+    <li>subject->növények</li>
+    <li>subject->gyógynövények</li>
+    <li>subject->zöldségek</li>
+    <li>subject->növényvilág</li>
+    <li>subject->művelés</li>
+    <li>subject->kertészet</li>
+    <li>subject->mezőgazdaság</li>
+    <li>subject->kertészkedés</li>
+    <li>subject->gazdálkodás</li>
+    <li>subject->betakarítás</li>
+    <li>subject->permakultúra</li>
+    <li>subject->botanika</li>
+    <li>subject->növénytermesztés</li>
+    <li>subject->talajgazdagítás</li>
+    <li>subject->biogazdálkodás</li>
+    <li>subject->élelmiszer-termelés</li>
+    <li>subject->növénytermesztési tudomány</li>
+  </Plants.generalRules.rulesStrings>
   <!-- EN: plants -->
   <Plants.skillLabel>Földművelés</Plants.skillLabel>
   
@@ -266,7 +420,26 @@
     <li>subject->gun handling</li>
     <li>subject->distance shooting</li>
   -->
-  <Shooting.generalRules.rulesStrings>TODO</Shooting.generalRules.rulesStrings>
+  <Shooting.generalRules.rulesStrings>
+    <li>subject->pisztolyok</li>
+    <li>subject->fegyverek</li>
+    <li>subject->célzás</li>
+    <li>subject->lövészet</li>
+    <li>subject->pisztolyharc</li>
+    <li>subject->lövészet</li>
+    <li>subject->lőfegyverek</li>
+    <li>subject->orvlövészet</li>
+    <li>subject->ballisztika</li>
+    <li>subject->nagy hatótávolságű hadviselés</li>
+    <li>subject->precíziós lövés</li>
+    <li>subject->puskamesterség</li>
+    <li>subject->céllövészet</li>
+    <li>subject->éleslövészet</li>
+    <li>subject->távolsági taktika</li>
+    <li>subject->lövészeti technika</li>
+    <li>subject->fegyverkezelés</li>
+    <li>subject->távolsági harc</li>
+  </Shooting.generalRules.rulesStrings>
   <!-- EN: shooting -->
   <Shooting.skillLabel>Lövészet</Shooting.skillLabel>
   
@@ -293,7 +466,25 @@
     <li>subject->emotional intelligence</li>
     <li>subject->communication skills</li>
   -->
-  <Social.generalRules.rulesStrings>TODO</Social.generalRules.rulesStrings>
+  <Social.generalRules.rulesStrings>
+    <li>subject->kommunikáció</li>
+    <li>subject->hálózatépítés</li>
+    <li>subject->konfliktusmegoldás</li>
+    <li>subject->együttműködés</li>
+    <li>subject->vezetői képesség</li>
+    <li>subject->empátia</li>
+    <li>subject->tárgyalás</li>
+    <li>subject->kereskedelem</li>
+    <li>subject->hallgatás</li>
+    <li>subject->diplomácia</li>
+    <li>subject->csapatmunka</li>
+    <li>subject->etikett</li>
+    <li>subject->karizma</li>
+    <li>subject->szociális intelligencia</li>
+    <li>subject->magabiztosság</li>
+    <li>subject->érzelmi intelligencia</li>
+    <li>subject->kommunikációs készségek</li>
+  </Social.generalRules.rulesStrings>
   <!-- EN: social -->
   <Social.skillLabel>Szociális</Social.skillLabel>
   
