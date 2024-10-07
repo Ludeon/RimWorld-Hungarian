@@ -239,7 +239,55 @@
     <li>skillAdv(initiator_flesh==Mechanoid)->robotically</li>
     <li>skillAdv(initiator_flesh==Mechanoid)->directly</li>
   -->
-  <Combat_SkillIncludes.rulePack.rulesStrings>TODO</Combat_SkillIncludes.rulePack.rulesStrings>
+  <Combat_SkillIncludes.rulePack.rulesStrings>
+    <li>skillDescMelee->[wielding] [INITIATOR_possessive] [WEAPON_label] [skillAdv]</li>
+    <li>skillDescMelee->[using] [implement] [skillAdv]</li>
+    <li>wielding(p=4)->wielding</li>
+    <li>wielding(p=3)->using</li>
+    <li>wielding(p=2)->handling</li>
+    <li>wielding->brandishing</li>
+    <li>wielding->manipulating</li>
+    <li>using(p=4)->using</li>
+    <li>using->driving</li>
+    <li>using->thrusting</li>
+    <li>using->utilizing</li>
+    <li>using->moving</li>
+    <li>skillAdv(INITIATOR_skill<=3)->inkompetensen</li>
+    <li>skillAdv(INITIATOR_skill<=3)->alkalmatlanul</li>
+    <li>skillAdv(INITIATOR_skill<=3)->vadul</li>
+    <li>skillAdv(INITIATOR_skill<=3)->véletlenszerűen</li>
+    <li>skillAdv(INITIATOR_skill<=3)->kirívóan</li>
+    <li>skillAdv(INITIATOR_skill<=4)->félszegen</li>
+    <li>skillAdv(INITIATOR_skill<=4)->ügyetlenül</li>
+    <li>skillAdv(INITIATOR_skill<=5)->félelemmel</li>
+    <li>skillAdv(INITIATOR_skill<=5)->bizonytalanul</li>
+    <li>skillAdv(INITIATOR_skill<=5)->ostobán</li>
+    <li>skillAdv(INITIATOR_skill<=6)->tétován</li>
+    <li>skillAdv(INITIATOR_skill<=6)->kelletlenül</li>
+    <li>skillAdv(INITIATOR_skill<=6)->lassan</li>
+    <li>skillAdv(INITIATOR_skill<=6)->próbaképpen</li>
+    <li>skillAdv(INITIATOR_skill<=6)->szakszerűtlenül</li>
+    <li>skillAdv(INITIATOR_skill<=6)->amatőr módon</li>
+    <li>skillAdv(INITIATOR_skill<=6)->félénken</li>
+    <li>skillAdv(INITIATOR_skill<=8)->lelkesen</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill<=10)->szakszerűen</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill<=10)->kompetensen</li>
+    <li>skillAdv(INITIATOR_skill>=8)->professzionálisan</li>
+    <li>skillAdv(INITIATOR_skill>=8)->ügyesen</li>
+    <li>skillAdv(INITIATOR_skill>=8)->találóan</li>
+    <li>skillAdv(INITIATOR_skill>=8)->okosan</li>
+    <li>skillAdv(INITIATOR_skill>=8)->ügyesen</li>
+    <li>skillAdv(INITIATOR_skill>=10)->hozzáértően</li>
+    <li>skillAdv(INITIATOR_skill>=10)->dörzsölten</li>
+    <li>skillAdv(INITIATOR_skill>=12)->szakszerűen</li>
+    <li>skillAdv(INITIATOR_skill>=12)->pontosan</li>
+    <li>skillAdv(INITIATOR_skill>=14)->mesterien</li>
+    <li>skillAdv(INITIATOR_skill>=16)->művészien</li>
+    <li>skillAdv(INITIATOR_skill>=16)->elegánsan</li>
+    <li>skillAdv(initiator_flesh==Mechanoid)->gépiesen</li>
+    <li>skillAdv(initiator_flesh==Mechanoid)->robotikusan</li>
+    <li>skillAdv(initiator_flesh==Mechanoid)->közvetlenül</li>
+  </Combat_SkillIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</li>
