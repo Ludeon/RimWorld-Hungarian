@@ -6,7 +6,7 @@
   <!-- EN: A single-use pack that launches a capsule which explodes into deadlife dust. The dust animates human and animal corpses as shamblers that will only attack your enemies.\n\nDeadlife dust is composed of microscopic machine-like archites which hang in the air. Where they touch a corpse, they induce a chaotic and violent resurrection. -->
   <Apparel_DeadlifePack.description>TODO</Apparel_DeadlifePack.description>
   <!-- EN: charge -->
-  <Apparel_DeadlifePack.comps.CompApparelVerbOwner_Charged.chargeNoun>TODO</Apparel_DeadlifePack.comps.CompApparelVerbOwner_Charged.chargeNoun>
+  <Apparel_DeadlifePack.comps.CompApparelVerbOwner_Charged.chargeNoun>töltet</Apparel_DeadlifePack.comps.CompApparelVerbOwner_Charged.chargeNoun>
   <!-- EN: deploy deadlife dust -->
   <Apparel_DeadlifePack.verbs.deploy_deadlife_dust.label>TODO</Apparel_DeadlifePack.verbs.deploy_deadlife_dust.label>
   
@@ -17,7 +17,7 @@
   <!-- EN: flare -->
   <Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>TODO</Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_DisruptorFlarePack.comps.CompApparelReloadable.cooldownGerund>TODO</Apparel_DisruptorFlarePack.comps.CompApparelReloadable.cooldownGerund>
+  <Apparel_DisruptorFlarePack.comps.CompApparelReloadable.cooldownGerund>töltődik</Apparel_DisruptorFlarePack.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: deploy flare -->
   <Apparel_DisruptorFlarePack.verbs.deploy_flare.label>TODO</Apparel_DisruptorFlarePack.verbs.deploy_flare.label>
   
@@ -26,7 +26,7 @@
   <!-- EN: A wearable pack that allows the user to deploy a battery-powered turret. The pack contains a propulsion device, letting the user launch the turret a short distance. These turrets are effective for flanking and distracting enemies. However, the turret's limited AI can't be directly controlled, so it can cause friendly fire incidents. The turret battery lasts for several hours. -->
   <Apparel_PackTurret.description>Egy hordható csomag, amely lehetővé teszi a felhasználó számára, hogy akkumulátoros lövegtornyot telepítsen. A csomag tartalmaz egy kis hajtóművet is, amely lehetővé teszi, hogy kisebb távolságra is elindíthassák a tornyot. Ezek a tornyok hatékonyan támadják oldalba az ellenséget, illetve vonják el a figyelmét. A torony korlátozott mesterséges intelligenciája azonban nem irányítható közvetlenül, így baráti tüzet okozhat. A torony akkumulátora több órán át bírja.</Apparel_PackTurret.description>
   <!-- EN: charge -->
-  <Apparel_PackTurret.comps.CompApparelVerbOwner_Charged.chargeNoun>TODO</Apparel_PackTurret.comps.CompApparelVerbOwner_Charged.chargeNoun>
+  <Apparel_PackTurret.comps.CompApparelVerbOwner_Charged.chargeNoun>töltet</Apparel_PackTurret.comps.CompApparelVerbOwner_Charged.chargeNoun>
   <!-- EN: deploy turret -->
   <Apparel_PackTurret.verbs.deploy_turret.label>TODO</Apparel_PackTurret.verbs.deploy_turret.label>
   

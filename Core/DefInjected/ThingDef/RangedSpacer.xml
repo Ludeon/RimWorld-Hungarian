@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: charge lance shot -->
-  <Bullet_ChargeLance.label>energialándzsa lőszer</Bullet_ChargeLance.label>
+  <Bullet_ChargeLance.label>energialándzsa lövedék</Bullet_ChargeLance.label>
   
   <!-- EN: charge shot -->
-  <Bullet_ChargeRifle.label>energiafegyver lőszer</Bullet_ChargeRifle.label>
+  <Bullet_ChargeRifle.label>energiafegyver lövedék</Bullet_ChargeRifle.label>
   
   <!-- EN: charge lance -->
   <Gun_ChargeLance.label>energialándzsa</Gun_ChargeLance.label>
   <!-- EN: A pulse-charged rail-assisted lance weapon. It fires a single shot at high velocity, charging it with unstable energy as it leaves the acceleration rail. -->
-  <Gun_ChargeLance.description>Energialövedéket használó lándzsa, mely feltöltődött lövedéket lő ki nagy sebességgel.</Gun_ChargeLance.description>
+  <Gun_ChargeLance.description>Impulzustöltésű, sínes rásegítésű lándzsa. Egyetlen lövést ad le nagy sebességgel, amit a fegyver instabil energiával tölti fel, miután az elhagyta a gyorsítósínt.</Gun_ChargeLance.description>
   <!-- EN: barrel -->
   <Gun_ChargeLance.tools.barrel.label>cső</Gun_ChargeLance.tools.barrel.label>
   <!-- EN: charge lance -->
@@ -19,7 +19,7 @@
   <!-- EN: charge rifle -->
   <Gun_ChargeRifle.label>energiafegyver</Gun_ChargeRifle.label>
   <!-- EN: A charged-shot assault rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
-  <Gun_ChargeRifle.description>Feltöltődött energialövedéket kilövő fegyver.</Gun_ChargeRifle.description>
+  <Gun_ChargeRifle.description>Töltött lövedékű géppuska. Az impulzustöltéses technológia minden egyes lövést instabil energiával tölt fel, amint elhagyja a csövet. A becsapódáskor felszabaduló energia nagymértékben növeli az okozott sebzést.</Gun_ChargeRifle.description>
   <!-- EN: stock -->
   <Gun_ChargeRifle.tools.stock.label>tus</Gun_ChargeRifle.tools.stock.label>
   <!-- EN: barrel -->
