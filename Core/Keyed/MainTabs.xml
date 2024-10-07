@@ -319,7 +319,7 @@
   <!-- EN: a colonist with the title of {0} -->
   <QuestNoColonistWithTitle>egy gyarmatos akinek a rangja: {0}.</QuestNoColonistWithTitle>
   <!-- EN: {PAWN_definite} to be in your home colony -->
-  <QuestPawnNotOnColonyMap>TODO</QuestPawnNotOnColonyMap>
+  <QuestPawnNotOnColonyMap>{PAWN_definite} gyarmatosnak az otthoni kolóniádban kell lennie</QuestPawnNotOnColonyMap>
   <!-- EN: the map clear of enemies of the bestower's faction -->
   <QuestRequiresNoDangerOnMap>A térkép mentes az adományozó frakciójának ellenségeitől</QuestRequiresNoDangerOnMap>
   <!-- EN: to finish the ongoing bestowing ceremony quest -->
@@ -361,7 +361,7 @@
 
   <!-- Health tab -->
   <!-- EN: Creates need -->
-  <CreatesNeed>TODO</CreatesNeed>
+  <CreatesNeed>Szükséglet</CreatesNeed>
   <!-- EN: Change defaults... -->
   <ChangeDefaults>Alapértelmezett módosítása...</ChangeDefaults>
 
