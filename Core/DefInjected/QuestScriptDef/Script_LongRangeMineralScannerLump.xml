@@ -4,7 +4,9 @@
   <!-- EN:
     <li>questDescription->Using your long-range mineral scanner, [worker_definite] has found a lump of [targetMineable_label] nearby.\n\nUnfortunately, it won't last - others will mine it first in [timeoutTicks_duration] if we don't.[lumpThreatDescription]</li>
   -->
-  <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>TODO</LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+  <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+    <li>questDescription->A nagy hatótávolságú ásvány-letapogatóval [worker_definite] talált egy [targetMineable_label]-lelőhelyet a közelben.\n\nSajnos ez nem tart sokáig - [timeoutTicks_duration] után más fogja kibányászni, ha mi nem. [lumpThreatDescription]</li>
+  </LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[lump] of [targetMineableThing_label]</li>
     <li>questName->[targetMineableThing_label] [lump]</li>
@@ -26,10 +28,37 @@
     <li>discovered->found</li>
     <li>discovered->scanned</li>
   -->
-  <LongRangeMineralScannerLump.questNameRules.rulesStrings>TODO</LongRangeMineralScannerLump.questNameRules.rulesStrings>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings>
+    <li>questName->[targetMineableThing_label] [lump_separately]</li>
+    <li>questName->[adj] [targetMineableThing_label]</li>
+    <li>questName->[adj] [targetMineableThing_label][lump]</li>
+    <li>questName->A különös [targetMineableThing_label][lump]</li>
+    <li>questName->[adj] [targetMineableThing_label] észlelve</li>
+    <li>questName->[targetMineableThing_label] [discovered]</li>
+    <li>lump_separately->érchalom</li>
+    <li>lump_separately->bányászati lelőhely</li>
+    <li>lump->darab</li>
+    <li>lump->rög</li>
+    <li>lump->halom</li>
+    <li>lump->telér</li>
+    <li>lump->lelőhely</li>
+    <li>lump->lelet</li>
+    <li>lump->tömb</li>
+    <li>adj->távoli</li>
+    <li>adj->messzi</li>
+    <li>adj->feltáratlan</li>
+    <li>adj->ismeretlen</li>
+    <li>adj->elérhető</li>
+    <li>adj->letapogatott</li>
+    <li>discovered->felfedezése</li>
+    <li>discovered->észlelve</li>
+    <li>discovered->letapogatóval észlelve</li>
+  </LongRangeMineralScannerLump.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>A küldetés lejárt: [resolvedQuestName]</LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>
   <!-- EN: Others have mined the lump of [targetMineable_label]. The quest [resolvedQuestName] has expired. -->
-  <LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>TODO</LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
+  <LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
+    Mások már kibányászták a szóban forgó [targetMineable_label]lelőhelyet. '[resolvedQuestName]' küldetés lejárt.
+  </LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
   
 </LanguageData>
