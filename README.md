@@ -16,8 +16,8 @@ Some text used from the old partial translation created by:
 - Moredoor
 - Laoka25
 
-Verzió: 1.5.4104 (64bit) 
-Kiadva: 2024-05-23
+Verzió: 1.5.4243 (64bit) 
+Kiadva: 2024-10-09
 
 ## Tools
 A tools mappában találsz egy scriptet, amit pl. Git Bash segítségével futtathatsz. 
@@ -41,6 +41,14 @@ Ezzel a kiadásra szánt verzió működését tesztelheted.
 
 ```bash
 ./rim-trans.sh -t
+```
+
+Az alábbi kapcsolóval a fordítási tisztázásra készülhetsz fel. 
+Törli az eddigi nyelvi könyvtárakat, majd a frissen kapott tar fájlokat kicsomagolja a helyükre.
+Ez után futtathatod a "Fordítási fájlok tisztázása" funkciót, ami elvégzi a módosításokat a nyelvi fájlokon. 
+
+```bash
+./rim-trans.sh -e
 ```
 
 Az alábbi kapcsolóval a fordítási tisztázás után tudod visszamásolni a munkapéldányodba a megváltozott fájlokat.
