@@ -41,11 +41,6 @@
   <!-- EN: A multiplier on eating speed. -->
   <EatingSpeed.description>Milyen gyorsan képes a személy enni.</EatingSpeed.description>
   
-  <!-- EN: EMP resistance -->
-  <EMPResistance.label>EMP ellenállás</EMPResistance.label>
-  <!-- EN: This mechanoid has special shielding and shock-dissipation filaments that reduce the effect of EMP damage by this percentage. This reduces the duration of stuns caused by EMP. -->
-  <EMPResistance.description>Ez a robot speciális árnyékoló és ütéscsökkentő szálakkal rendelkezik, amelyek ezzel a százalékkal csökkentik az EMP károsodás hatását. Ez csökkenti az EMP által okozott kábítások időtartamát is.</EMPResistance.description>
-  
   <!-- EN: filth rate -->
   <FilthRate.label>szennytermelési mutató</FilthRate.label>
   <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
@@ -96,15 +91,6 @@
   <!-- EN: The amount of meat yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
   <MeatAmount.description>A hús mennyisége, ami eme teremtmény lemészárlásával nyerhető.</MeatAmount.description>
   
-  <!-- EN: meditation psyfocus gain -->
-  <MeditationFocusGain.label>pszi fókusz növekedés</MeditationFocusGain.label>
-  <!-- EN: The amount of psyfocus a person gains per day of meditation, ignoring bonuses from focus objects. -->
-  <MeditationFocusGain.description>A pszi fókusz mennyisége, amelyet egy személy egy nap meditáció során nyer, figyelmen kívül hagyva a fókusztárgyak bónuszait.</MeditationFocusGain.description>
-  <!-- EN: {0} / day -->
-  <MeditationFocusGain.formatString>{0} / nap</MeditationFocusGain.formatString>
-  <!-- EN: {0} / day -->
-  <MeditationFocusGain.formatStringUnfinalized>{0} / nap</MeditationFocusGain.formatStringUnfinalized>
-  
   <!-- EN: mental break threshold -->
   <MentalBreakThreshold.label>idegösszeomlás küszöb</MentalBreakThreshold.label>
   <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are. -->
@@ -127,18 +113,6 @@
   <!-- EN: The pain level at which this creature is downed from pain. -->
   <PainShockThreshold.description>Az az érték, aminél az alany földre kerül a fájdalomtól.</PainShockThreshold.description>
   
-  <!-- EN: neural heat limit -->
-  <PsychicEntropyMax.label>idegi hőkorlát</PsychicEntropyMax.label>
-  <!-- EN: The maximum amount of neural heat individual can tolerate safely. -->
-  <PsychicEntropyMax.description>A maximális mennyiségű idegi hő, amit az egyén még biztonságosan elvisel.</PsychicEntropyMax.description>
-  
-  <!-- EN: neural heat recovery rate -->
-  <PsychicEntropyRecoveryRate.label>idegi hővisszanyerési sebesség</PsychicEntropyRecoveryRate.label>
-  <!-- EN: The rate at which this person reduces neural heat. -->
-  <PsychicEntropyRecoveryRate.description>Az a sebesség, amellyel ez a személy csökkenti az idegi hőt.</PsychicEntropyRecoveryRate.description>
-  <!-- EN: {0}/s -->
-  <PsychicEntropyRecoveryRate.formatString>{0}/mp</PsychicEntropyRecoveryRate.formatString>
-  
   <!-- EN: psychic sensitivity -->
   <PsychicSensitivity.label>pszichotikus érzékenység</PsychicSensitivity.label>
   <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
@@ -156,8 +130,8 @@
   
   <!-- EN: toxic environment resistance -->
   <ToxicEnvironmentResistance.label>környezeti méregellenállás</ToxicEnvironmentResistance.label>
-  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against tox gas, rot stink, toxic fallout, and polluted terrain, but not against direct attacks with venom or injected poison. When this value is higher, exposure to pollution produces proportionally less toxic buildup in the body. -->
-  <ToxicEnvironmentResistance.description>Mennyire ellenálló ez a lény a környezeti mérgek hatásával szemben. Ez véd a mérgező gázoktól, a rothasztó bűztől, a mérgező csapadéktól és a szennyezett tereptől, de nem a méreggel vagy befecskendezett méreggel való közvetlen támadásoktól. Ha ez az érték magasabb, a szennyezés arányosan kevesebb mérgező felhalmozódást okoz a szervezetben.</ToxicEnvironmentResistance.description>
+  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against toxic fallout and rot stink exposure, but not against direct attacks with venom or injected poison. -->
+  <ToxicEnvironmentResistance.description>Mennyire ellenálló ez a lény a környezeti mérgek hatásával szemben. Ez véd a mérgező csapadéktól és a rothasztó bűznek való kitettsétől, de nem véd a méreggel vagy befecskendezett méreggel való közvetlen támadások ellen.</ToxicEnvironmentResistance.description>
   
   <!-- EN: toxic resistance -->
   <ToxicResistance.label>méregellenállás</ToxicResistance.label>
