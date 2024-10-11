@@ -11,10 +11,10 @@
   <AnimalInsanityMultiple>Valamiféle pszichotikus hullám söpört végig a tájon. A gyarmatosok jól vannak, de...\n\nÚgy tűnik sok {0} megőrült a környéken.</AnimalInsanityMultiple>
 
   <!-- EN: Blight: {PLANTDEF_labelPlural} -->
-  <LetterLabelCropBlight>Penész</LetterLabelCropBlight>
+  <LetterLabelCropBlight>Penész: {PLANTDEF_labelPlural}</LetterLabelCropBlight>
   <!-- EN: Blight has been discovered on the {PLANTDEF_labelPlural}!
 \nYou should cut or burn the affected plants before the blight spreads. -->
-  <LetterCropBlight>Az egyik gyarmatos penészedő növényeket talált. Ki kellene vágni vagy elégetni őket, mielőtt a fertőzés tovább terjed!</LetterCropBlight>
+  <LetterCropBlight>Az egyik gyarmatos penészedő {PLANTDEF_labelPlural} növényeket talált.\nKi kellene vágni vagy elégetni őket, mielőtt a fertőzés tovább terjedne!</LetterCropBlight>
 
   <!-- EN: Miracle -->
   <LetterLabelMiracleHeal>Csoda</LetterLabelMiracleHeal>
@@ -66,7 +66,7 @@
   <ShortCircuitWasHuge>Ez aztán a robbanás. Hűha!</ShortCircuitWasHuge>
 
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
-  <TraderArrival>Kereskedőhajó halad el a közelben.\n\n{0} néven ismertek. Besorolásuk: {1}.</TraderArrival>
+  <TraderArrival>Kereskedőhajó halad el a közelben.\n\n{0} néven ismertek. Besorolásuk: {1}.\n\n{2}</TraderArrival>
   <!-- EN: They're affiliated with {FACTION_name}. -->
   <TraderArrivalFromFaction>Kapcsolatban vannak ezzel a frakcióval: {FACTION_name}.</TraderArrivalFromFaction>
   <!-- EN: They are not affiliated with any faction. -->
@@ -84,7 +84,7 @@
   <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
   <SingleVisitorArrivesTraderInfo>\n\nÚgy tűnik van pár eladó cucca.</SingleVisitorArrivesTraderInfo>
   <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
-  <SingleVisitorArrivesLeaderInfo>\n\nŐ a frakciója vezetője.</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\n{PAWN_pronoun} a frakciója vezetője.</SingleVisitorArrivesLeaderInfo>
   <!-- EN: Visitors -->
   <LetterLabelGroupVisitorsArrive>Látogatók</LetterLabelGroupVisitorsArrive>
   <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
@@ -103,7 +103,7 @@
   
   <!-- Crashed ship part-->
   <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
-  <MessageAnimalInsanityPulse>Egy ősi építmény pszichotikus hullámot bocsátott ki magából, amitől a közelben lévő állatok megvadultak.</MessageAnimalInsanityPulse>
+  <MessageAnimalInsanityPulse>Egy {SOURCE_label} pszichotikus hullámot bocsátott ki magából, amitől a közelben lévő állatok megvadultak.</MessageAnimalInsanityPulse>
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
   <LetterShipPartDroveColonistInsane>A lezuhant hajó egy darabja koncentrált pszichotikus hullámot bocsátott ki, ettől {0} megőrült.</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->
@@ -117,7 +117,7 @@
   <!-- EN: Drone intensifies -->
   <LetterLabelPsychicDroneLevelIncreased>Hullámok erősödnek</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>A lezuhant hajó darabja erősebb hullámokat kezdett kibocsájtani. Minden ember zavartabb, ijedtebb, paranoidabb lett.</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>A lezuhant hajó darabja erősebb hullámokat kezdett kibocsájtani. A környéken minden emberszerű {0} zavartabbnak, rémültebbnek és paranoiásabbnak érzi magát.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->

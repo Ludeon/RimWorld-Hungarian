@@ -21,7 +21,7 @@
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
   <LetterRelationsChange_Hostile>Teljesen megszakadt a kapcsolat a következővel: {0}. Mostantól ellenségesek veled.</LetterRelationsChange_Hostile>  
   <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
-  <LetterRelationsChange_HostileGoodwillDescription>Időnként meg fogják támadni a településeidet és karavánjaidat,valamint nem hajlandók kereskedni veled többé. Ha szeretnél javítani a kapcsolaton, megajándékozhatod őket karavánok vagy szállítókapszulák segítségével.\n\nA változás oka, hogy a viszony ({1}) {2} alá esett. Hogy újra semlegessé váljon, a viszonynak el kell érnie a következő szintet: {3}.</LetterRelationsChange_HostileGoodwillDescription>  
+  <LetterRelationsChange_HostileGoodwillDescription>Rendszeres támadásokat hajtanak végre a kolónián és a karavánokon, valamint nem hajlandók kereskedni veled többé. Ha szeretnél javítani a kapcsolaton, megajándékozhatod őket karavánok vagy szállítókapszulák segítségével.\n\nEz azért történt, mert a viszony ({0}) {1} alá esett. A semleges kapcsolatok helyreállítása érdekében a viszonynak újra el kell érnie a következő szintet: {2}.</LetterRelationsChange_HostileGoodwillDescription>  
 
   <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
   <LetterRelationsChange_NeutralFromHostile>A viszony {0} és közted megenyhült. Semlegesként kezelnek és nem támadnak meg többé.</LetterRelationsChange_NeutralFromHostile>
@@ -141,7 +141,7 @@
   <!-- EN: New {1}: {0} -->
   <LetterLeaderChangedLabel>Új {1}: {0}</LetterLeaderChangedLabel>
   <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
-  <LetterLeaderChanged>{OLDLEADER_nameFull} már nem {3} ennek:{1}.\n\nAz új {3}:{NEWLEADER_nameFull}.</LetterLeaderChanged>
+  <LetterLeaderChanged>{OLDLEADER_nameFull} már nem viseli {0} '{1}' vezetői címét a továbbiakban.</LetterLeaderChanged>
 
   <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
   <LetterNewLeader>{NEWLEADER_nameFull} az új {0}.</LetterNewLeader>
@@ -348,7 +348,7 @@
 
   <!-- Run wild mental break -->
   <!-- EN: {0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back. -->
-  <LetterRunWildMentalBreak>{0} úgy döntött elhagy téged és az állatokkal él tovább.</LetterRunWildMentalBreak>
+  <LetterRunWildMentalBreak>{0} úgy érzi, elege van a civilizációból.\n\nRájött, hogy a vadállatok mindig szabadok. Ezért úgy döntött, hogy elhagyja a frakciódat és az állatokkal él.\n\nMegpróbálhatod megszelídíteni vagy letartóztatni őt, hogy visszaszerezd.</LetterRunWildMentalBreak>
 
   <!-- Catatonic mental break -->
   <!-- EN: {0} has suffered a total mental breakdown and entered a catatonic state. {PAWN_pronoun} will recover in several days. -->

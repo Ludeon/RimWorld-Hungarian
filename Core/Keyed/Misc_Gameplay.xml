@@ -73,7 +73,7 @@
   <!-- EN: Immunity -->
   <Immunity>Immunitás</Immunity>
   <!-- EN: {0} days to recover -->
-  <DaysToRecover>Gyógyulási idő</DaysToRecover>
+  <DaysToRecover>{0} nap gyógyulási idő</DaysToRecover>
   <!-- EN: Ineffective -->
   <Ineffective>Hatástalan</Ineffective>
   <!-- EN: illegal -->
@@ -477,7 +477,7 @@
   <!-- EN: Spawning in {0} -->
   <SpawningNextPawnIn>Ennyi idő múlva jelenik meg: {0}</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1}. -->
-  <MechAssemblyCompleteIn>{0} összeszerelés ennyi idő múlva kész: {0}</MechAssemblyCompleteIn>
+  <MechAssemblyCompleteIn>{0} összeszerelés ennyi idő múlva kész: {1}</MechAssemblyCompleteIn>
   <!-- EN: Will assemble -->
   <MechAssemblyNextType>TODO</MechAssemblyNextType>
   <!-- EN: produced -->
@@ -1610,7 +1610,7 @@
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
   <PawnTooltipPsychicEntropyDesc>Az idegi hő növekszik a pszichés erő használata után. A normál határ túllépése napokig tartó pszichés összeomlást okozhat.\n\nAz idegi hő idővel természetesen eloszlik. Ezt a folyamatot felgyorsíthatja eltex ruházat viselése vagy fájdalom.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
-  <PawnTooltipPsychicEntropyPainFocus>A fizikai fájdalom segít fókuszálni és kizárni a zavaró gondolatokat. Mellékhatása, hogy a pszichotikus entrópia gyorsabban csökken.</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyPainFocus>Fájdalom fokozása\n\nA fájdalom fókuszálja az elmét és felgyorsítja az idegi hőelvezetést.\n\nFájdalomszint: {0}\nBónusz a hővisszanyeréshez: {1}</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
   <PawnTooltipPsychicEntropyLimit>Pszichotikus entrópia limiter bekapcsolása.\n\nA limit fölött súlyos egészségi kockázatok lépnek fel, mint pl. hosszútávú összeomlás vagy akár jelentős agykárosodás. Minél nagyobb a limit túllépés, annál súlyosabbak a tünetek.</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
@@ -1672,7 +1672,7 @@
   
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
-  <BondedWith>Kötödik hozzá: {PAWN_labelShort}</BondedWith>
+  <BondedWith>Kötödik hozzá: {0}</BondedWith>
   <!-- EN: Not yet bonded -->
   <NotBonded>Még nem kötödik</NotBonded>
   <!-- EN: bonded to someone else -->
@@ -1686,7 +1686,7 @@
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
-  <Biocoded>biokódolt</Biocoded>
+  <Biocoded>biokódolt {0}</Biocoded>
   <!-- EN: Biocoding: {0} -->
   <CodedFor>Biokódolja hozzá: {0}</CodedFor>
   <!-- EN: biocoded -->

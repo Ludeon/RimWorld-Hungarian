@@ -260,7 +260,7 @@
   <DisallowedBuildingInsideMonumentDesc>Az egyik emlékműved nem megengedett épületet tartalmaz. Ennyi idő múlva lerombolttá lesz nyilvánítva: {0}.</DisallowedBuildingInsideMonumentDesc>
 
   <!-- EN: Countdown activator {0} -->
-  <ActivatorCountdown>Aktivátor visszaszámol</ActivatorCountdown>
+  <ActivatorCountdown>Aktivátor visszaszámol: {0}</ActivatorCountdown>
   <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
   <ActivatorCountdownDesc>Egy aktivátor ketyeg, nemsokára felébreszti a közeli robotokat.</ActivatorCountdownDesc>
   <!-- EN: {0} countdown activators -->
@@ -315,7 +315,7 @@
   <!-- EN: Raids arriving in {0} -->
   <AlertTimedRaidsArrivingIn>Fosztogatók érkeznek ekkor: {0}</AlertTimedRaidsArrivingIn>
   <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
-  <AlertTimedRaidsArrivingInDesc>A következő helyek felkeltették az ellenség figyelmét és hamarosan megérkeznek.</AlertTimedRaidsArrivingInDesc>
+  <AlertTimedRaidsArrivingInDesc>A következő helyek felkeltették az ellenség figyelmét és hamarosan megérkeznek.\n\n{0}</AlertTimedRaidsArrivingInDesc>
   <!-- EN: Arriving at {0} in {1} -->
   <AlertTimedRaidsArrivingAt>Érkezés ide: {0} ekkor: {1}</AlertTimedRaidsArrivingAt>
 
