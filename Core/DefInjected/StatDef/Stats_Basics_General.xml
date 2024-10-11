@@ -23,8 +23,8 @@
   
   <!-- EN: deterioration rate -->
   <DeteriorationRate.label>állagromlás</DeteriorationRate.label>
-  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, pollution or being left in shallow water. -->
-  <DeteriorationRate.description>Az a sebesség, amellyel ez az elem a szabadban hagyva romlik, napi átlagos találati pontokban.\n\nA romlás mértékét olyan tényezők is befolyásolják, mint az időjárás, a tetők, a mérgező csapadék, a szennyezés vagy a sekély vízben való tartózkodás.</DeteriorationRate.description>
+  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
+  <DeteriorationRate.description>Az a sebesség, amellyel ez az elem a szabadban hagyva romlik, napi átlagos találati pontokban.\n\nA romlás mértékét olyan tényezők is befolyásolják, mint az időjárás, a tetők, a mérgező csapadék vagy a sekély vízben való tartózkodás.</DeteriorationRate.description>
   <!-- EN: {0} / day -->
   <DeteriorationRate.formatString>{0} / nap</DeteriorationRate.formatString>
   

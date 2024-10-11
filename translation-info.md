@@ -79,6 +79,8 @@ psycasters - pszí használó, pszichaszter?
 
 ### DROGOK
 
+wake-up - amfetamin
+
 smokeleaf - marihuána, füstlevél?, esetleg dohánylevél
 
 yayo - kokain
