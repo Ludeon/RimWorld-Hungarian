@@ -10,7 +10,15 @@
     <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)-> [playerFaction_leaderTitle] [playerFaction_leader_nameFull] will get a bonus to the chance of a successful outcome.</li>
     <li>leaderPawnInfo-></li>
   -->
-  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>TODO</OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+    <li>questDescription->[faction_leader_nameFull] ([faction_leaderTitle]), [faction_name] frakció vezetője üzenetet küldött nekünk. Tárgyalni akar velünk egy közeli helyen.\n\nNagyszerű lehetőség ez arra, hogy javítsuk a kapcsolatot a frakciójukkal és ajándékokat kapjunk, de vigyázz - egy rossz tárgyaló több kárt okozhat, mint hasznot, és akár fel is dühítheti őket. [extraLeaderPart][favorRewardDetails]</li>
+    <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\nA sikeres béketárgyalások egy kis személyes [faction_royalFavorLabel] pontot jelenthet a tárgyalónak [faction_name] frakciónál.</li>
+    <li>favorRewardDetails-></li>
+    <li>extraLeaderPart-></li>
+    <li>leaderRoleEffect->Más frakciók jobban fognak tisztelni, ha személyesen vezetődet küldöd a tárgyalások lebonyolítására</li>
+    <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)-> [playerFaction_leader_nameFull] ([playerFaction_leaderTitle]) bónuszt kap a sikeres kimenetel esélyéhez.</li>
+    <li>leaderPawnInfo-></li>
+  </OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[faction_leader_nameDef]'s [peaceTalks]</li>
     <li>questName->[peaceTalks] with [faction_leader_nameDef]</li>
@@ -20,10 +28,24 @@
     <li>peaceTalks->Diplomacy</li>
     <li>peaceTalks->Meeting</li>
   -->
-  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings>TODO</OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+    <li>questName->[peaceTalks]</li>
+    <li>questName->A [peaceTalks]</li>
+    <li>questName->[faction_leader_nameDef] [peaceTalksPoss]</li>
+    <li>questName->[peaceTalks] [faction_leader_nameDef] frakcióvezetővel</li>
+    <li>questName->[faction_name] [peaceTalks]</li>
+    <li>peaceTalks->béketárgyalások</li>
+    <li>peaceTalks->tárgyalások</li>
+    <li>peaceTalks->diplomácia</li>
+    <li>peaceTalks->találkozó</li>
+    <li>peaceTalksPoss->béketárgyalásai</li>
+    <li>peaceTalksPoss->diplomáciai találkozója</li>
+    <li>peaceTalksPoss->találkozója</li>
+    <li>peaceTalksPoss->tárgyalási ajánlata</li>
+  </OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>A küldetés lejárt: [resolvedQuestName]</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
   <!-- EN: The offer of peace talks with [faction_name] has expired. You have failed the quest [resolvedQuestName]. -->
-  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>[faction_name] frakcióval folytatott béketárgyalásokra vonatkozó ajánlat lejárt. Sikertelen '[resolvedQuestName]' küldetés.</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

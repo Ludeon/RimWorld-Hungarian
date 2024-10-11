@@ -392,7 +392,7 @@
   <MessageReleaseBondedAnimal>Kötődésük miatt {DESIGNATED_labelShort} elengedése boldogtalanná teszi őt: {BONDED_labelShort}.</MessageReleaseBondedAnimal>
   
   <!-- EN: {0} has run out of food. -->
-  <MessageCaravanRanOutOfFood>{0} kifogyott az ételből ({PAWN_label}).</MessageCaravanRanOutOfFood>
+  <MessageCaravanRanOutOfFood>{0} kifogyott az ételből.</MessageCaravanRanOutOfFood>
   <!-- EN: {PAWN_definite}'s corpse has been picked up by the caravan. It is heavy and may immobilize the caravan, but can be left behind in the caravan items tab. -->
   <MessageCaravanDeathCorpseAddedToInventory>{PAWN_definite} tetemét felvette a karaván. Nehéz, emiatt hátráltathatja a karavánt. A tárgyak fülön lehet hátrahagyni.</MessageCaravanDeathCorpseAddedToInventory>
 
