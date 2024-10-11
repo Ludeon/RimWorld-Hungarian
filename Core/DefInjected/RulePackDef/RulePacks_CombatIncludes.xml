@@ -270,8 +270,8 @@
     <li>skillAdv(INITIATOR_skill&lt;=6)->amatőr módon</li>
     <li>skillAdv(INITIATOR_skill&lt;=6)->félénken</li>
     <li>skillAdv(INITIATOR_skill&lt;=8)->lelkesen</li>
-    <li>skillAdv(INITIATOR_skill&lt;=6,INITIATOR_skill&lt;=10)->szakszerűen</li>
-    <li>skillAdv(INITIATOR_skill&lt;=6,INITIATOR_skill&lt;=10)->kompetensen</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->szakszerűen</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->kompetensen</li>
     <li>skillAdv(INITIATOR_skill>=8)->professzionálisan</li>
     <li>skillAdv(INITIATOR_skill>=8)->ügyesen</li>
     <li>skillAdv(INITIATOR_skill>=8)->találóan</li>
