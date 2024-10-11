@@ -218,7 +218,7 @@
   <!-- EN: not recruitable -->
   <UnrecruitableNoFaction>nem toborozható</UnrecruitableNoFaction> 
   <!-- EN: Transfer {0_label} -->
-  <TransferEntity>TODO</TransferEntity> 
+  <TransferEntity>{0_label} átszállítása</TransferEntity> 
 
   <!-- EN: Rescue {1_labelShort} -->
   <Rescue>Mentsd meg őt: {1_labelShort}</Rescue>
@@ -254,9 +254,9 @@
   <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
   <NoAnimalBed>Nincs elérhető, nem foglalt fekhely.</NoAnimalBed>
   <!-- EN: No reachable, unforbidden, un-reserved {0} -->
-  <NoItemReservedOrReachable>TODO</NoItemReservedOrReachable>
+  <NoItemReservedOrReachable>Nincs elérhető, tiltatlan, nem fenntartott {0}</NoItemReservedOrReachable>
   <!-- EN: No unforbidden, un-reserved {0} -->
-  <NoItemReserved>TODO</NoItemReserved>
+  <NoItemReserved>Nincs tiltott, nem fenntartott {0}</NoItemReserved>
   <!-- EN: Reserved by someone else. -->
   <Reserved>Másnak van fenntartva.</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
@@ -434,17 +434,17 @@
   <TradeWithSettlement>Kereskedés vele: {0}</TradeWithSettlement>
   
   <!-- EN: Enter {0} -->
-  <EnterPortal>TODO</EnterPortal>
+  <EnterPortal>Belép ide: {0}</EnterPortal>
   <!-- EN: Entering {0} -->
-  <EnteringPortal>TODO</EnteringPortal>
+  <EnteringPortal>Belépés ide: {0}</EnteringPortal>
   <!-- EN: Enter {0} -->
-  <CommandEnterPortal>TODO</CommandEnterPortal>
+  <CommandEnterPortal>Belép ide: {0}</CommandEnterPortal>
   <!-- EN: Select people and items to enter the {0}. -->
-  <CommandEnterPortalDesc>TODO</CommandEnterPortalDesc>
+  <CommandEnterPortalDesc>Válaszd ki a személyeket és a tárgyakat {0} portálba való belépéshez.</CommandEnterPortalDesc>
   <!-- EN: Cancel entering -->
-  <CommandCancelEnterPortal>TODO</CommandCancelEnterPortal>
+  <CommandCancelEnterPortal>Belépés megszakítása</CommandCancelEnterPortal>
   <!-- EN: Cancel loading people or items into this. -->
-  <CommandCancelEnterPortalDesc>TODO</CommandCancelEnterPortalDesc>
+  <CommandCancelEnterPortalDesc>Megszakítja az emberek vagy tárgyak berakodását.</CommandCancelEnterPortalDesc>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
@@ -591,9 +591,9 @@
   <CannotEnter>Nem lehet belépni</CannotEnter>
   
   <!-- EN: Cannot enter {0} -->
-  <CannotEnterPortal>TODO</CannotEnterPortal>
+  <CannotEnterPortal>Nem lehet ide belépni: {0}</CannotEnterPortal>
   <!-- EN: closed -->
-  <PortalClosed>TODO</PortalClosed>
+  <PortalClosed>zárva</PortalClosed>
 
   <!-- Romance partner -->
   <!-- EN: Cannot romance {0} -->
@@ -605,25 +605,25 @@
   <!-- EN: disliked food -->
   <WarningFoodDisliked>nem kedvelt étel</WarningFoodDisliked>
   <!-- EN: Unsuitable food -->
-  <FoodNotSuitable>TODO</FoodNotSuitable>
+  <FoodNotSuitable>Nem megfelelő étel</FoodNotSuitable>
 
   <!-- EN: Unsuitable drug -->
-  <DrugNotSuitable>TODO</DrugNotSuitable>
+  <DrugNotSuitable>Nem megfelelő gyógyszer</DrugNotSuitable>
   
   <!-- Books -->
   <!-- EN: Assign reading... -->
-  <AssignReading>TODO</AssignReading>
+  <AssignReading>Olvasás hozzárendelése...</AssignReading>
   <!-- EN: Read {0} -->
-  <AssignReadNow>TODO</AssignReadNow>
+  <AssignReadNow>{O} elolvasása</AssignReadNow>
   <!-- EN: Cannot read {0} -->
-  <AssignCannotReadNow>TODO</AssignCannotReadNow>
+  <AssignCannotReadNow>Nem olvasható el: {0}</AssignCannotReadNow>
 
   <!-- EN: Prioritize extinguishing fires -->
-  <ExtinguishFiresNearby>TODO</ExtinguishFiresNearby>
+  <ExtinguishFiresNearby>Részesítse előnyben a tüzek oltását</ExtinguishFiresNearby>
 
   <!-- Analysis -->
   <!-- EN: already analyzed -->
-  <AlreadyAnalyzed>TODO</AlreadyAnalyzed>
+  <AlreadyAnalyzed>már elemezve</AlreadyAnalyzed>
   <!-- EN: no reachable, un-reserved research bench available -->
-  <NoResearchBench>TODO</NoResearchBench>
+  <NoResearchBench>Nem áll rendelkezésre elérhető, nem fenntartott laborasztal</NoResearchBench>
 </LanguageData>
