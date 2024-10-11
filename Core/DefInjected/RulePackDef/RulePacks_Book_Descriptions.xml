@@ -1222,7 +1222,7 @@
     <li>students->rajongói</li>
     <li>students->szakemberei</li>
     <li>detail->. Lépésről lépésre végigvezet a témán</li>
-    <li>detail(quality[less_than]4)->. Annak ellenére, hogy a szerző átrohan a témán</li>
+    <li>detail(quality[less_than]4)->. Annak ellenére, hogy a szerző csak átrohan a témán</li>
     <li>detail(quality[greater_than]3)->. Ez a téma átfogó tárgyalása</li>
     <li>detail->. A szerző a [precis_synonym] szövegében azt állítja, hogy a könyvnek léteznek hamis példányai is, de ez nem az</li>
     <li>detail->. A szerző az [precis_synonym_vowel] szövegében azt állítja, hogy a munkájának léteznek hamis példányai is, de ez nem az</li>
@@ -1373,7 +1373,7 @@
     <li>page_awful->súlyosan megsérültek</li>
     <li>page_awful->sötét anyaggal vannak átitatva</li>
     <li>page_awful->közel olvashatatlanok</li>
-    <li>page_awful->olvashatatlan kézírással vannak tele jegyzetelve</li>
+    <li>page_awful->olvashatatlan kézírással vannak telejegyzetelve</li>
     <li>worldname->[glitterworld]</li>
     <li>worldname->[urbworld]</li>
     <li>worldname->[deadworld]</li>

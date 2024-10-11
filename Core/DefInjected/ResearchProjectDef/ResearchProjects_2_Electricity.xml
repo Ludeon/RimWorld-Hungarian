@@ -12,7 +12,13 @@
     <li>subject_story->learned all about air conditioning and freezers, then returned home</li>
     <li>subject_gerund->building air conditioning units</li>
   -->
-  <AirConditioning.generalRules.rulesStrings>TODO</AirConditioning.generalRules.rulesStrings>
+  <AirConditioning.generalRules.rulesStrings>
+    <li>subject->légkondicionálás</li>
+    <li>subject_story->meglátogatta a bolygó legforróbb városát</li>
+    <li>subject_story->dolgozott az Jégsapkákban, egy csillagközi raktárban, amelyet az abszolút nulla közelében tartottak</li>
+    <li>subject_story->mindent megtanult a légkondicionálásról és a fagyasztókról, majd hazatért</li>
+    <li>subject_gerund->légkondicionáló egységeket épített</li>
+  </AirConditioning.generalRules.rulesStrings>
   
   <!-- EN: autodoor -->
   <Autodoors.label>automata ajtó</Autodoors.label>
@@ -26,7 +32,14 @@
     <li>subject_story->worked very hard to ensure the doors made a satisfying 'hiss' when they opened or closed</li>
     <li>subject_gerund->constructing autodoors</li>
   -->
-  <Autodoors.generalRules.rulesStrings>TODO</Autodoors.generalRules.rulesStrings>
+  <Autodoors.generalRules.rulesStrings>
+    <li>subject->önműködő ajtók</li>
+    <li>subject->automata ajtók</li>
+    <li>subject_story->egy robotikai biztonsági cég vette fel, megnyitva az ajtót az automatizálási tesztelő karrierje előtt</li>
+    <li>subject_story->prototípust készített az automata ajtók egyedi modelljeiről</li>
+    <li>subject_story->nagyon keményen dolgozott annak biztosítása érdekében, hogy az ajtók kielégítő "sziszegést" kapjanak, amikor kinyílnak vagy becsukódnak</li>
+    <li>subject_gerund->önműködő ajtók építése</li>
+  </Autodoors.generalRules.rulesStrings>
   
   <!-- EN: battery -->
   <Batteries.label>akkumulátor</Batteries.label>
@@ -39,7 +52,13 @@
     <li>subject_story->worked in the scrapworlds, repairing machines and batteries</li>
     <li>subject_gerund->building batteries</li>
   -->
-  <Batteries.generalRules.rulesStrings>TODO</Batteries.generalRules.rulesStrings>
+  <Batteries.generalRules.rulesStrings>
+    <li>subject->akkumulátorok</li>
+    <li>subject_story->felfedezte, hogy egy savas tó egy halálvilág ólompartján természetes akkumulátorként működik</li>
+    <li>subject_story->felelős volt az életfenntartásért, ha a kolónián áramszünet adódott</li>
+    <li>subject_story->dolgozott egy hulladékvilágban, gépeket és akkumulátorokat javított</li>
+    <li>subject_gerund->akkumulátorok készítése</li>
+  </Batteries.generalRules.rulesStrings>
   
   <!-- EN: biofuel refining -->
   <BiofuelRefining.label>kémiai üzemanyag</BiofuelRefining.label>
@@ -52,7 +71,13 @@
     <li>subject_story->started a distillery to make moonshine but, realizing it was undrinkable, sold it as chemfuel instead</li>
     <li>subject_gerund->refining biofuel</li>
   -->
-  <BiofuelRefining.generalRules.rulesStrings>TODO</BiofuelRefining.generalRules.rulesStrings>
+  <BiofuelRefining.generalRules.rulesStrings>
+    <li>subject->kémiai üzemanyag</li>
+    <li>subject_story->csapdába esett, amikor egy generációs űrhajó energia nélkül maradt. Felhasználta finomítási ismereteit az emberi maradványok bioüzemanyaggá alakítására és a motorok újraindítására</li>
+    <li>subject_story->automatizált biofinomítókat használt a hosszú terraformálási folyamat megkezdéséhez egy jégvilágon</li>
+    <li>subject_story->szeszfőzdét alapított holdfény előállítására, de felismerve, hogy ihatatlan, inkább kémiai üzemanyagként értékesítette</li>
+    <li>subject_gerund->kémiai üzemanyagok finomítása</li>
+  </BiofuelRefining.generalRules.rulesStrings>
   
   <!-- EN: blowback operation -->
   <BlowbackOperation.label>egyszerű öntöltő</BlowbackOperation.label>
@@ -66,7 +91,14 @@
     <li>subject_story->crafted blowback-operated guns for near-sighted conscripts</li>
     <li>subject_gerund->crafting blowback firearms</li>
   -->
-  <BlowbackOperation.generalRules.rulesStrings>TODO</BlowbackOperation.generalRules.rulesStrings>
+  <BlowbackOperation.generalRules.rulesStrings>
+    <li>subject->pisztolyok</li>
+    <li>subject->öntöltő fegyverek</li>
+    <li>subject_story->géppisztolyokat használt a bolygót elárasztó árokharcokban</li>
+    <li>subject_story->alacsony teljesítményű automata pisztolyokat adott el a bűnüldöző szerveknek az orbitális területeken</li>
+    <li>subject_story->öntöltő fegyverek készített rövidlátó sorkatonák számára</li>
+    <li>subject_gerund->öntöltő fegyverek készítése</li>
+  </BlowbackOperation.generalRules.rulesStrings>
   
   <!-- EN: advanced lights -->
   <ColoredLights.label>fejlett lámpák</ColoredLights.label>
@@ -79,7 +111,13 @@
     <li>subject_story->moved into running concerts for interstellar troubadours, specializing in controlling the ship's massive lighting rigs</li>
     <li>subject_gerund->building advanced lights</li>
   -->
-  <ColoredLights.generalRules.rulesStrings>TODO</ColoredLights.generalRules.rulesStrings>
+  <ColoredLights.generalRules.rulesStrings>
+    <li>subject->fejlett lámpák</li>
+    <li>subject_story->reflektorokat telepített egy börtönvilág számos biztonsági kerületében</li>
+    <li>subject_story->gondoskodott arról, hogy a bolygó sötét oldala jól megvilágított legyen</li>
+    <li>subject_story->csillagközi trubadúrok koncertjeivel foglalkozott, és a hajó hatalmas világítótornyainak irányítására specializálódott</li>
+    <li>subject_gerund->fejlett világítás építése</li>
+  </ColoredLights.generalRules.rulesStrings>
   
   <!-- EN: electricity -->
   <Electricity.label>elektromosság</Electricity.label>
@@ -96,7 +134,13 @@
     <li>subject_story->was executed on a feudal world for the blasphemy of creating light</li>
     <li>subject_gerund->harnessing electricity</li>
   -->
-  <Electricity.generalRules.rulesStrings>TODO</Electricity.generalRules.rulesStrings>
+  <Electricity.generalRules.rulesStrings>
+    <li>subject->elektromosság</li>
+    <li>subject_story->villámcsapás érte és elhatározta, hogy hasznosítani fogja</li>
+    <li>subject_story->létrehozta az első generátort és villanykörtét egy középkori világban</li>
+    <li>subject_story->egy feudális világban végezték ki a fényteremtés istenkáromlásáért</li>
+    <li>subject_gerund->villamos energia hasznosítása</li>
+  </Electricity.generalRules.rulesStrings>
   
   <!-- EN: firefoam -->
   <Firefoam.label>oltóhab</Firefoam.label>
@@ -111,7 +155,15 @@
     <li>subject_gerund->constructing firefoam poppers</li>
     <li>subject_gerund->suppressing fires with poppers</li>
   -->
-  <Firefoam.generalRules.rulesStrings>TODO</Firefoam.generalRules.rulesStrings>
+  <Firefoam.generalRules.rulesStrings>
+    <li>subject->oltóhab készülékek</li>
+    <li>subject->tűzvédelmi eszközök</li>
+    <li>subject_story->a tűzbiztonságot az egész lakossággal megismertető ügynökség élén állt</li>
+    <li>subject_story->tűzoltó lett</li>
+    <li>subject_story->az oltóberendezések mentették meg, amikor egy olajtűz elszabadult</li>
+    <li>subject_gerund->habbal oltók gyártása</li>
+    <li>subject_gerund->tüzek elfojtása oltóberendezésekkel</li>
+  </Firefoam.generalRules.rulesStrings>
   
   <!-- EN: flak armor -->
   <FlakArmor.label>repesz elleni védelem</FlakArmor.label>
@@ -124,7 +176,13 @@
     <li>subject_story->survived a rifle bullet thanks to the metal plate sewn into the breast pocket</li>
     <li>subject_gerund->crafting flak armor</li>
   -->
-  <FlakArmor.generalRules.rulesStrings>TODO</FlakArmor.generalRules.rulesStrings>
+  <FlakArmor.generalRules.rulesStrings>
+    <li>subject->repesz elleni páncél</li>
+    <li>subject_story->páncélzattal látta el a városokat irányító milíciákat</li>
+    <li>subject_story->megtanult fémlemezeket varrni a ruházatba, hogy megvédje rokonait a kóbor bandáktól</li>
+    <li>subject_story->túlélt egy mellkasába csapódó puskalövedéket a mellzsebébe varrt fémlemeznek köszönhetően</li>
+    <li>subject_gerund->repeszpáncél készítése</li>
+  </FlakArmor.generalRules.rulesStrings>
   
   <!-- EN: foam turret -->
   <FoamTurret.label>oltóhab torony</FoamTurret.label>
@@ -139,7 +197,15 @@
     <li>subject_gerund->constructing fire suppression turrets</li>
     <li>subject_gerund->suppressing fires with turrets</li>
   -->
-  <FoamTurret.generalRules.rulesStrings>TODO</FoamTurret.generalRules.rulesStrings>
+  <FoamTurret.generalRules.rulesStrings>
+    <li>subject->foam turrets</li>
+    <li>subject->fire suppression turrets</li>
+    <li>subject_story->újratervezte a lövegtornyokat, hogy tüzeket oltsanak, ne pedig okozzanak</li>
+    <li>subject_story->hőérzékelőket és habkidobókat épített be egy szabványos lövegtorony házába</li>
+    <li>subject_story->dicséretben részesült, miután olcsó habbal oltó tornyokat telepített a közterületekre, és sok életet megmentettek vele</li>
+    <li>subject_gerund->tűzoltó tornyok építése</li>
+    <li>subject_gerund->tüzek elfojtása oltó-tornyokkal</li>
+  </FoamTurret.generalRules.rulesStrings>
   
   <!-- EN: gas operation -->
   <GasOperation.label>gáz működtetésű öntöltő</GasOperation.label>
@@ -153,7 +219,14 @@
     <li>subject_story->designed new types of high-power gun, still known today</li>
     <li>subject_gerund->crafting heavy firearms</li>
   -->
-  <GasOperation.generalRules.rulesStrings>TODO</GasOperation.generalRules.rulesStrings>
+  <GasOperation.generalRules.rulesStrings>
+    <li>subject->nehézfegyverzet</li>
+    <li>subject->nagy teljesítményű lőfegyverek</li>
+    <li>subject_story->könnyű géppuskákkal szerelte fel egy uralkodó gárdájának különleges osztagait</li>
+    <li>subject_story->több planetáris hadsereget látott el nehéz lőfegyverekkel</li>
+    <li>subject_story->új típusú, ma is ismert, nagy teljesítményű fegyvereket tervezett</li>
+    <li>subject_gerund->nehéz lőfegyverek készítése</li>
+  </GasOperation.generalRules.rulesStrings>
   
   <!-- EN: geothermal power -->
   <GeothermalPower.label>geotermikus energia</GeothermalPower.label>
@@ -167,7 +240,14 @@
     <li>subject_gerund->tapping geothermal energy</li>
     <li>subject_gerund->building geothermal power plants</li>
   -->
-  <GeothermalPower.generalRules.rulesStrings>TODO</GeothermalPower.generalRules.rulesStrings>
+  <GeothermalPower.generalRules.rulesStrings>
+    <li>subject->geotermikus energia</li>
+    <li>subject_story->gőzenergiát tanulmányozott és geotermikus erőműveket létesített az egész régióban</li>
+    <li>subject_story->egy szunnyadó vulkán erejét használta fel a helyi hálózat táplálására</li>
+    <li>subject_story->vitatkozott a helyi lakossággal, akik meg akarták őrizni a festői gejzíreket, nem pedig energiatermelésre használni</li>
+    <li>subject_gerund->geotermikus energia hasznosítása</li>
+    <li>subject_gerund->geotermikus erőművek építése</li>
+  </GeothermalPower.generalRules.rulesStrings>
   
   <!-- EN: gunsmithing -->
   <Gunsmithing.label>fegyverkovácsolás</Gunsmithing.label>
@@ -181,10 +261,17 @@
     <li>subject_gerund->gunsmithing</li>
     <li>subject_gerund->crafting firearms</li>
   -->
-  <Gunsmithing.generalRules.rulesStrings>TODO</Gunsmithing.generalRules.rulesStrings>
+  <Gunsmithing.generalRules.rulesStrings>
+    <li>subject->egyszerű lőfegyverek</li>
+    <li>subject_story->épített egy egyedülálló 12 lövéses revolvert, és lövöldözésről lövöldözésre mindig győzött</li>
+    <li>subject_story->egyszerű fegyverkovácsolásra specializálódott, vadászpuskákat és puskákat biztosított a vadászok számára</li>
+    <li>subject_story->fegyverkovácsként kezdett dolgozni, és hírnevet szerzett az egész szektorban</li>
+    <li>subject_gerund->fegyverkovácsolás</li>
+    <li>subject_gerund->lőfegyverek készítése</li>
+  </Gunsmithing.generalRules.rulesStrings>
   
   <!-- EN: gun turrets -->
-  <GunTurrets.label>robotágyú</GunTurrets.label>
+  <GunTurrets.label>robotágyúk</GunTurrets.label>
   <!-- EN: Produce simple automated gun turrets. -->
   <GunTurrets.description>Lehetővé teszi automata robotágyú gyártását.</GunTurrets.description>
   <!-- EN:
@@ -194,7 +281,13 @@
     <li>subject_story->disabled the enemy's turrets remotely, before leading the charge</li>
     <li>subject_gerund->constructing automated gun turrets</li>
   -->
-  <GunTurrets.generalRules.rulesStrings>TODO</GunTurrets.generalRules.rulesStrings>
+  <GunTurrets.generalRules.rulesStrings>
+    <li>subject->robotágyúk</li>
+    <li>subject_story->MI-rutinokon dolgozott, hogy a lövegtornyok képesek legyenek felismerni barátot és ellenséget</li>
+    <li>subject_story->moduláris lövegtorony vázat tervezett, amely bármilyen fegyvertípus felvételére alkalmas</li>
+    <li>subject_story->távolról letiltotta az ellenség tornyait a roham vezetése előtt</li>
+    <li>subject_gerund->automatizált lövegtornyok építése</li>
+  </GunTurrets.generalRules.rulesStrings>
   
   <!-- EN: hydroponics -->
   <Hydroponics.label>hidroponikus növénytermesztés</Hydroponics.label>
@@ -208,7 +301,14 @@
     <li>subject_gerund->building hydroponics</li>
     <li>subject_gerund->growing plants indoors</li>
   -->
-  <Hydroponics.generalRules.rulesStrings>TODO</Hydroponics.generalRules.rulesStrings>
+  <Hydroponics.generalRules.rulesStrings>
+    <li>subject->hidroponika</li>
+    <li>subject_story->csatlakozott egy generációs hajó legénységéhez, mint növénytermesztési specialistájuk</li>
+    <li>subject_story->hidroponikus létesítményt hozott létre az éhezők táplálására</li>
+    <li>subject_story->körbeutazott, mesterséges növénytermesztést tanítva az új telepeseknek</li>
+    <li>subject_gerund->hidroponika építése</li>
+    <li>subject_gerund->beltéri növények termesztése</li>
+  </Hydroponics.generalRules.rulesStrings>
   
   <!-- EN: IEDs -->
   <IEDs.label>rögtönzött robbanószer</IEDs.label>
@@ -221,7 +321,13 @@
     <li>subject_story->advocated for the rights of small settlements, where unexploded munitions were a constant peril</li>
     <li>subject_gerund->crafting improvised explosive traps</li>
   -->
-  <IEDs.generalRules.rulesStrings>TODO</IEDs.generalRules.rulesStrings>
+  <IEDs.generalRules.rulesStrings>
+    <li>subject->rögtönzött robbanócsapdák</li>
+    <li>subject_story->hatástalanította a háború megmaradt lövedékeit, és aknákként az új frontvonalra küldte őket</li>
+    <li>subject_story->aknatűz alá került, és csak úgy élte túl, hogy csapdákat készített az ellenség fel nem robbant lövedékeiből</li>
+    <li>subject_story->kiállt a kistelepülések jogaiért, ahol a fel nem robbant lőszerek állandó veszélyt jelentettek</li>
+    <li>subject_gerund->rögtönzött robbanócsapdák kidolgozása</li>
+  </IEDs.generalRules.rulesStrings>
   
   <!-- EN: machining -->
   <Machining.label>gépészet</Machining.label>
@@ -235,7 +341,14 @@
     <li>subject_gerund->building machining equipment</li>
     <li>subject_gerund->machining</li>
   -->
-  <Machining.generalRules.rulesStrings>TODO</Machining.generalRules.rulesStrings>
+  <Machining.generalRules.rulesStrings>
+    <li>subject->gépészet</li>
+    <li>subject_story->összegyűjtötte a működésképtelen robotok maradványait, és feldarabolta őket nyersanyagokért</li>
+    <li>subject_story->csendben felépítette saját készítésű fegyverek arzenálját egy külvárosi ház pincéjében</li>
+    <li>subject_story->megmunkálóasztalokat épített sok fegyverkovácsnak, annak ellenére, hogy pacifista</li>
+    <li>subject_gerund->gépészeti berendezések készítése</li>
+    <li>subject_gerund->gépészet</li>
+  </Machining.generalRules.rulesStrings>
   
   <!-- EN: mortars -->
   <Mortars.label>aknavetők</Mortars.label>
@@ -250,7 +363,15 @@
     <li>subject_gerund->crafting mortars</li>
     <li>subject_gerund->constructing simple artillery</li>
   -->
-  <Mortars.generalRules.rulesStrings>TODO</Mortars.generalRules.rulesStrings>
+  <Mortars.generalRules.rulesStrings>
+    <li>subject->tüzérség</li>
+    <li>subject->aknavetők</li>
+    <li>subject_story->Kulcsszerepet játszott az Üvegház ostromában, amely megdöntötte a városi tanácsot</li>
+    <li>subject_story->összecsukható, könnyű aknavető csövet fejlesztett ki a helyi rendőrség számára</li>
+    <li>subject_story->a sok elhagyatott épületet távolról, robbanólövedékekkel bontotta le</li>
+    <li>subject_gerund->aknavetők készítése</li>
+    <li>subject_gerund->egyszerű tüzérség építése</li>
+  </Mortars.generalRules.rulesStrings>
   
   <!-- EN: nutrient paste -->
   <NutrientPaste.label>tápanyagpép</NutrientPaste.label>
@@ -263,7 +384,13 @@
     <li>subject_story->advocated for the recycling of all organic matter into nutrient paste, even corpses</li>
     <li>subject_gerund->building nutrient paste dispensers</li>
   -->
-  <NutrientPaste.generalRules.rulesStrings>TODO</NutrientPaste.generalRules.rulesStrings>
+  <NutrientPaste.generalRules.rulesStrings>
+    <li>subject->tápanyagpép</li>
+    <li>subject_story->gyári kantinban dolgozott, és tápanyagpépet dolgozott ki, hogy elkerülje a munkát</li>
+    <li>subject_story->elvesztette az ízlelését egy betegség miatt, ezért kitalált egy olcsó, ízetlen tápanyagot tartalmazó pasztát.</li>
+    <li>subject_story->szorgalmazta az összes szerves anyag újrahasznosítását tápanyagpéppé, még a holttesteket is</li>
+    <li>subject_gerund->tápanyagpép adagolók építése</li>
+  </NutrientPaste.generalRules.rulesStrings>
   
   <!-- EN: packaged survival meal -->
   <PackagedSurvivalMeal.label>túlélőcsomag</PackagedSurvivalMeal.label>
@@ -277,7 +404,14 @@
     <li>subject_story->discovered survival meals in the mountains that were hundreds of years old</li>
     <li>subject_gerund->preparing survival meals</li>
   -->
-  <PackagedSurvivalMeal.generalRules.rulesStrings>TODO</PackagedSurvivalMeal.generalRules.rulesStrings>
+  <PackagedSurvivalMeal.generalRules.rulesStrings>
+    <li>subject->túlélőcsomagok</li>
+    <li>subject->nem romlandó élelmiszer</li>
+    <li>subject_story->tudta, hogy amikor bekövetkezik a katasztrófa, elegendő csomagolt étel áll rendelkezésre ahhoz, hogy túlélje, amíg a mentők megérkeznek</li>
+    <li>subject_story->szociális konyhát létesített, amely az összes kimenő hajónak adományozott túléléshez szükséges ételt</li>
+    <li>subject_story->többszáz éves túlélő csomagot fedezett fel a hegyekben</li>
+    <li>subject_gerund->túlélő ételek elkészítése</li>
+  </PackagedSurvivalMeal.generalRules.rulesStrings>
   
   <!-- EN: prosthetics -->
   <Prosthetics.label>művégtagok</Prosthetics.label>
@@ -290,7 +424,14 @@
     <li>subject_story->began crafting bespoke fake limbs for the many war veterans in the area</li>
     <li>subject_gerund->crafting prosthetics</li>
   -->
-  <Prosthetics.generalRules.rulesStrings>TODO</Prosthetics.generalRules.rulesStrings>
+  <Prosthetics.generalRules.rulesStrings>
+    <li>subject->protézis</li>
+    <li>subject->művégtag</li>
+    <li>subject_story->egy végtagját protézissel helyettesítette, hogy megmutassa, milyen egyszerű</li>
+    <li>subject_story->protézis klinikát nyitott</li>
+    <li>subject_story->testre szabott művégtagokat kezdett készíteni a környék számos háborús veteránja számára</li>
+    <li>subject_gerund->művégtagok készítése</li>
+  </Prosthetics.generalRules.rulesStrings>
   
   <!-- EN: smokepop packs -->
   <SmokepopBelt.label>füstálca öv</SmokepopBelt.label>
@@ -304,7 +445,15 @@
     <li>subject_gerund->building smokepop packs</li>
     <li>subject_gerund->deploying smokescreens</li>
   -->
-  <SmokepopBelt.generalRules.rulesStrings>TODO</SmokepopBelt.generalRules.rulesStrings>
+  <SmokepopBelt.generalRules.rulesStrings>
+    <li>subject->füstfüggöny</li>
+    <li>subject->füstálca</li>
+    <li>subject_story->zenekarok fuvarozójaként dolgozott, speciális effektusokhoz füstfüggönyöket használt</li>
+    <li>subject_story->védelmi füstperemet hozott létre a helyi városok körül, hogy távol tartsa a vadon élő állatokat.</li>
+    <li>subject_story->füstálca övet használtak új tűzoltók kiképzésére, tényleges tűzveszély nélkül</li>
+    <li>subject_gerund->füstálca övek készítése</li>
+    <li>subject_gerund->füstálcák kihelyezése</li>
+  </SmokepopBelt.generalRules.rulesStrings>
   
   <!-- EN: solar panel -->
   <SolarPanels.label>napelem</SolarPanels.label>
@@ -318,7 +467,14 @@
     <li>subject_story->left on a sundiver to see a fly-by of a star's photosphere</li>
     <li>subject_gerund->building solar panels</li>
   -->
-  <SolarPanels.generalRules.rulesStrings>TODO</SolarPanels.generalRules.rulesStrings>
+  <SolarPanels.generalRules.rulesStrings>
+    <li>subject->napelemek</li>
+    <li>subject->napenergia</li>
+    <li>subject_story->több spektrumú napelemfarmot hozott létre</li>
+    <li>subject_story->tanulmányozta a begyűjtött napenergia százalékos arányának maximalizálási módjait</li>
+    <li>subject_story->egy Napmerülőn maradt, hogy lássa egy csillag fotoszférájának elrepülését</li>
+    <li>subject_gerund->napelemek építése</li>
+  </SolarPanels.generalRules.rulesStrings>
   
   <!-- EN: sterile materials -->
   <SterileMaterials.label>steril anyagok</SterileMaterials.label>
@@ -332,7 +488,14 @@
     <li>subject_gerund->sterilizing surfaces</li>
     <li>subject_gerund->constructing sterilized surfaces</li>
   -->
-  <SterileMaterials.generalRules.rulesStrings>TODO</SterileMaterials.generalRules.rulesStrings>
+  <SterileMaterials.generalRules.rulesStrings>
+    <li>subject->steril felületek</li>
+    <li>subject_story->sok halálesetet megelőzött azáltal, hogy ragaszkodott az összes berendezés hatékony, következetes sterilizálásához</li>
+    <li>subject_story->beindított egy tésztakonyhát, amely a rendszerben egyedülálló módon ételmérgezéstől mentes volt</li>
+    <li>subject_story->dekoratív csempegyárat alapított, mellékágazattal az orvosi berendezésekhez és steril csempéhez</li>
+    <li>subject_gerund->felületek fertőtlenítése</li>
+    <li>subject_gerund->sterilizált felületek készítése</li>
+  </SterileMaterials.generalRules.rulesStrings>
   
   <!-- EN: tube television -->
   <TubeTelevision.label>képcsöves tévé</TubeTelevision.label>
@@ -345,7 +508,13 @@
     <li>subject_story->ensured that everyone knew the dangers of cathode ray tubes</li>
     <li>subject_gerund->producing tube televisions</li>
   -->
-  <TubeTelevision.generalRules.rulesStrings>TODO</TubeTelevision.generalRules.rulesStrings>
+  <TubeTelevision.generalRules.rulesStrings>
+    <li>subject->képcsöves tévék</li>
+    <li>subject_story->olyan faux-retro televíziót tervezett, amely képes felvenni a csillagközi jeleket</li>
+    <li>subject_story->áttért a műsorszórásra és csak az archaikus csöves televíziókhoz készített műsorokat</li>
+    <li>subject_story->biztosította, hogy mindenki ismerje a katódsugárcsövek veszélyeit</li>
+    <li>subject_gerund->képcsöves televíziók gyártása</li>
+  </TubeTelevision.generalRules.rulesStrings>
   
   <!-- EN: watermill generator -->
   <WatermillGenerator.label>vízkerék generátor</WatermillGenerator.label>
@@ -358,6 +527,12 @@
     <li>subject_story->beached a paddle steamer on a ruinworld's shores and converted it into a watermill</li>
     <li>subject_gerund->watermill generators</li>
   -->
-  <WatermillGenerator.generalRules.rulesStrings>TODO</WatermillGenerator.generalRules.rulesStrings>
+  <WatermillGenerator.generalRules.rulesStrings>
+    <li>subject->vízkerék generátorok</li>
+    <li>subject_story->figyelte, ahogy az ágak és levelek lefelé sodródnak a folyón, és elképzelte az ott rejlő erőt</li>
+    <li>subject_story->kábeleket csatlakoztatott egy ősi malomhoz egy feudális világon</li>
+    <li>subject_story->partra vontatott egy lapátkerekes gőzhajót egy romvilág partjainál, és vízimalommá alakította</li>
+    <li>subject_gerund->vízkerék generátorok</li>
+  </WatermillGenerator.generalRules.rulesStrings>
   
 </LanguageData>
