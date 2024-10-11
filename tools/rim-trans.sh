@@ -4,7 +4,7 @@ INSTALLED_GAME_ROOT_PATH="${INSTALLED_GAME_ROOT_PATH:-("/c/Program Files (x86)/S
 TARGET_LANGUAGE="${TARGET_LANGUAGE:-"Hungarian (Magyar)"}"
 
 DIR="${BASH_SOURCE%/*}"
-PROJECT_DIR=$(dirname $(pwd))
+PROJECT_DIR=$(dirname "$(pwd)")
 #echo ${DIR}
 if [[ ! -d "$DIR" ]]; then DIR="$PWD"; fi
 # override environment variables
@@ -15,7 +15,7 @@ DLC_ROYALTY_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Royalty
 DLC_IDEOLOGY_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Ideology
 DLC_BIOTECH_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Biotech
 DLC_ANOMALY_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Anomaly
-DLC_TEST_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Test
+#DLC_TEST_PATH=${INSTALLED_GAME_ROOT_PATH}/Data/Test
 
 # include common parts
 source ./include/_common.sh
@@ -147,6 +147,48 @@ while [[ $# -gt 0 ]]; do
 
   --sync)
     sync_with_game
+    shift
+    ;;
+
+  -e | --extract-all)
+    tar_all
+    extract_all
+    shift
+    ;;
+
+  --extract-core)
+    log "Extract Core"
+    clean_language_dir "Core" "${CORE_PATH}"
+    extract_module "Core" "${CORE_PATH}"
+    shift
+    ;;
+
+
+  --extract-royalty)
+    log "Extract Royalty"
+    clean_language_dir "Royalty" "${DLC_ROYALTY_PATH}"
+    extract_module "Royalty" "${DLC_ROYALTY_PATH}"
+    shift
+    ;;
+
+  --extract-ideology)
+    log "Extract Ideology"
+    clean_language_dir "Ideology" "${DLC_IDEOLOGY_PATH}"
+    extract_module "Ideology" "${DLC_IDEOLOGY_PATH}"
+    shift
+    ;;
+
+  --extract-biotech)
+    log "Extract Biotech"
+    clean_language_dir "Ideology" "${DLC_BIOTECH_PATH}"
+    extract_module "Ideology" "${DLC_BIOTECH_PATH}"
+    shift
+    ;;
+
+  --extract-anomaly)
+    log "Extract Anomaly"
+    clean_language_dir "Anomaly" "${DLC_ANOMALY_PATH}"
+    extract_module "Anomaly" "${DLC_ANOMALY_PATH}"
     shift
     ;;
 

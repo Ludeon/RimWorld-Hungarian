@@ -30,6 +30,13 @@ OPTIONS:
 
     --remove-all-tar                    Remove all related compressed language files (*.tar)
 
+    -e|--extract-all                    Extract all language files from tar files
+
+    --extract-core                      Extract Core files from tar
+    --extract-royalty                   Extract Royalty files from tar
+    --extract-ideology                  Extract Ideology files from tar
+    --extract-biotech                   Extract Biotech files from tar
+    --extract-anomaly                   Extract Anomaly files from tar
 
     -u|--update-all                     Update All
 

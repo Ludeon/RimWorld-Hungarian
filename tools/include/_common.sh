@@ -71,7 +71,7 @@ function update_all() {
 
 function tar_module() {
     log "-> Tar $1 language module..."
-    SOURCE_DIR="$DIR/../Core"
+    SOURCE_DIR="$DIR/../$1"
     log "--> Source: ${SOURCE_DIR}"
     cd "${SOURCE_DIR}" || exit
     TAR_FILE="./${TARGET_LANGUAGE}.tar"
@@ -110,4 +110,25 @@ function sync() {
   mkdir -p "${TARGET_DIR}"
   cp -r "./" "${TARGET_DIR}"
   log "-> $1 synced."
+}
+
+function extract_module() {
+    log "-> Extract $1 language module..."
+    TAR_FILE="$2/Languages/${TARGET_LANGUAGE}.tar"
+    log "--> TAR_FILE: ${TAR_FILE}"
+    TARGET_DIR="$2/Languages/${TARGET_LANGUAGE}"
+    log "--> Target: ${TARGET_DIR}"
+    mkdir -p "${TARGET_DIR}"
+#    cd "${TARGET_DIR}" || exit
+    tar --owner=0 --group=0 --no-same-permissions -xf "${TAR_FILE}" -C "${TARGET_DIR}"
+    remove_tar_file "Core" "${2}"
+}
+
+function extract_all() {
+    log "Extract language files..."
+    extract_module "Core" "${CORE_PATH}"
+    extract_module "Royalty" "${DLC_ROYALTY_PATH}"
+    extract_module "Ideology" "${DLC_IDEOLOGY_PATH}"
+    extract_module "Biotech" "${DLC_BIOTECH_PATH}"
+    extract_module "Anomaly" "${DLC_ANOMALY_PATH}"
 }
